@@ -63,6 +63,12 @@ FinAITrainingData/
         ├── Structured Products/
         └── Crypto Digital Assets/
 ```
+### Project Setup & Data
+The source code is tracked in this repository, but the raw data is stored externally due to size constraints.
+
+1. Clone this repository.
+2. Download the raw materials from [this link](https://drive.google.com/drive/folders/1h8UWGut_EyAJ93dnVQQGSiyUiQPo5Usa?usp=drive_link).
+3. Place the files inside a folder named `/raw_data/` inside the Data Collection and Training Material Generation folder.
 
 ### Which tree to use
 
