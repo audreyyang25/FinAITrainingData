@@ -317,8 +317,4 @@ Phases **1–11** built the raw PDF corpus. **Phase 10** also generated syntheti
 
 ## Known caveats
 
-1. **Deduplicate before training:** ~90 overlapping items between `March_6_AI_Training.json` and `hypotheticals_phase10_498.json`.
-2. **Compliant/non-compliant skew:** Export JSON is ~76 compliant / 843 non-compliant where explicitly labeled; P13–P16 and borderline items omit the boolean. See **§ AI Suitability stats** above and training README §4 for the full-project picture.
-3. **Benchmarks ≠ training:** Keep `benchmarks/` separate from fine-tuning data.
-4. **DOL currency:** 2024 Retirement Security Rule materials in folder 06 are **vacated** as of Mar 2026 — treat as historical. See corpus coverage audit.
-5. **Scripts not in repo:** Scraper and generator scripts (`phase10_hypotheticals_opus.py`, `phase12_opus.py`, etc.) live on the original author's machine; this repo holds outputs and logs only.
+(to be updated imminently!)
