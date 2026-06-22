@@ -1,0 +1,25 @@
+ID: 221
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor P, at a regional broker-dealer, recommended a non-traded REIT (Cole Office & Industrial REIT IV) to 15 retail clients with ages 58–68, total account sizes $280,000–$520,000 (average $380,000), and self-described 'moderate income focus' objectives. The non-traded REIT had: 7% upfront sales load, 1.9% annual ER, estimated 2–3 year illiquidity period, and projected 6–7% annual yield. Advisor P provided a 2-page suitability memo per client stating: "Non-traded REIT appropriate for income-focused investors with 10+ year horizon and illiquidity tolerance." However, the advisor: (1) did not document how each client's specific liquidity needs were assessed; (2) did not compare yields to traded REITs (VNQ at 0.12% ER, ~3.5% yield) or preferred stock funds (PFF at 0.45% ER, ~5.8% yield); (3) did not address the lack of secondary market liquidity or penalty redemption fees (typically 5–7% in first 3 years); (4) did not document whether clients required income within 5 years or had emergency reserves. Advisor P earned 6% compensation on the non-traded REIT vs. 0.4% on alternative income-focused ETFs.
+
+QUESTION
+--------
+Did Advisor P comply with Reg BI's care obligation in recommending the non-traded REIT to this cohort?
+
+ANSWER
+------
+No. Advisor P violated the care obligation on multiple grounds: (1) Reasonable Basis: no documented analysis of product-specific illiquidity terms, penalty redemption structures, or cost comparison to liquid alternatives; (2) Suitability: boilerplate language fails to address individualized liquidity needs for clients aged 58–68 who may need income within 5–7 years; (3) Disclosure: the 5.6% compensation spread (6% vs. 0.4%) was likely undisclosed or downplayed. This pattern mirrors SEC enforcement in non-traded REIT cases (e.g., SEC v. KBS Strategic Opportunity REIT, 2017). Recommending illiquid products requires heightened documentation of suitability and alternatives, especially to near-retirees. The boilerplate memo is insufficient; Reg BI requires individualized, fact-intensive analysis.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)–(iii); SEC Non-Traded REIT Guidance, Exam Priorities 2019–2023
+
+KEY FACTOR
+----------
+Lack of individualized liquidity analysis and comparative cost/yield documentation for illiquid products recommended to near-retirees violates reasonable basis and suitability.

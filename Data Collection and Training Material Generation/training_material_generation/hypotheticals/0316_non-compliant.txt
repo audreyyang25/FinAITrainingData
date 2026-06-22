@@ -1,0 +1,25 @@
+ID: 316
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Cornerstone Advisors, Inc., a firm registered as both BD and IA, managed a $850,000 discretionary advisory account for Margaret Chen, age 58, with an annual advisory fee of 1.25%. The account was invested in a diversified mutual fund portfolio (fees: 0.40% average ER) with no transaction-based compensation. In Q3 2023, the firm's compliance director noticed declining profitability and instructed advisors to migrate suitable advisory clients into commission-based brokerage accounts. Margaret's account was transferred without explicit written consent, with the advisor noting in internal emails: 'Move her to brokerage—higher margin for us.' The new brokerage account carried per-transaction commissions of $45 per trade and a 0.50% annual custodial fee. The firm sent a brief email stating 'Your account has been moved to our brokerage platform for better execution,' but did not provide updated Form CRS, revised ADV disclosures, or a clear explanation of the change in fiduciary status.
+
+QUESTION
+--------
+Did Cornerstone Advisors comply with Regulation Best Interest and Form CRS requirements when transferring Margaret Chen's account from advisory to brokerage capacity?
+
+ANSWER
+------
+No. The firm violated multiple standards. First, it lacked documented client consent to the account-type change; transferring a discretionary client without explicit authorization breaches fiduciary duty under the Investment Adviser Act §206(1) and (2). Second, the firm failed to deliver updated Form CRS (SEC Rule 17j-1) that clearly distinguished the brokerage capacity (salesperson status) and associated conflicts of interest. Third, the internal evidence shows revenue-maximization motive rather than client benefit, suggesting breach of the Reg BI duty of care (17 CFR §240.15l-1(a)(2)(i)) to understand the client's situation and the reasonableness of the recommendation. The email transfer without formal disclosure of capacity change violates the Reg BI and Form CRS requirement to act in the customer's best interest and clearly disclose material conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Form CRS Rule, 17 CFR §275.204-1; Investment Adviser Act §206(1) and (2) fiduciary duty
+
+KEY FACTOR
+----------
+Undisclosed capacity shift from fiduciary adviser (advisory) to salesperson (brokerage) with internal profit motive, coupled with failure to deliver Form CRS or updated disclosures.

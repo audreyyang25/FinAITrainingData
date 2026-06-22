@@ -1,0 +1,282 @@
+[12:21:18] 
+============================================================
+[12:21:18] 
+============================================================
+[12:21:18] Hypothetical Generator — 2026-02-27 12:21
+[12:21:18] Hypothetical Generator — 2026-02-27 12:21
+[12:21:18] Target: 200 hypotheticals
+[12:21:18] Target: 200 hypotheticals
+[12:21:18] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.json
+[12:21:18] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.json
+[12:21:18] ============================================================
+
+[12:21:18] ============================================================
+
+[12:21:18] Loaded 0 existing hypotheticals
+[12:21:18] Loaded 0 existing hypotheticals
+[12:21:18] 
+  Topic: reg_bi_care — generating 20 hypotheticals (have 0/20)
+[12:21:18] 
+  Topic: reg_bi_care — generating 20 hypotheticals (have 0/20)
+[12:21:18]     Batch: 10 items starting at ID 1...
+[12:21:18]     Batch: 10 items starting at ID 1...
+[12:21:53]     ✓ Got 6 items. Total: 6/200
+[12:21:53]     ✓ Got 6 items. Total: 6/200
+[12:21:54]     Batch: 10 items starting at ID 7...
+[12:21:54]     Batch: 10 items starting at ID 7...
+[12:22:29]     ✓ Got 6 items. Total: 12/200
+[12:22:29]     ✓ Got 6 items. Total: 12/200
+[12:22:30]     Batch: 8 items starting at ID 13...
+[12:22:30]     Batch: 8 items starting at ID 13...
+[12:23:08]     ✓ Got 6 items. Total: 18/200
+[12:23:08]     ✓ Got 6 items. Total: 18/200
+[12:23:09]     Batch: 2 items starting at ID 19...
+[12:23:09]     Batch: 2 items starting at ID 19...
+[12:23:22]     ✓ Got 2 items. Total: 20/200
+[12:23:22]     ✓ Got 2 items. Total: 20/200
+[12:23:23] 
+  Topic: reg_bi_conflict — generating 15 hypotheticals (have 0/15)
+[12:23:23] 
+  Topic: reg_bi_conflict — generating 15 hypotheticals (have 0/15)
+[12:23:23]     Batch: 10 items starting at ID 21...
+[12:23:23]     Batch: 10 items starting at ID 21...
+[12:24:01]     ✓ Got 6 items. Total: 26/200
+[12:24:01]     ✓ Got 6 items. Total: 26/200
+[12:24:02]     Batch: 9 items starting at ID 27...
+[12:24:02]     Batch: 9 items starting at ID 27...
+[12:24:37]     ✓ Got 7 items. Total: 33/200
+[12:24:37]     ✓ Got 7 items. Total: 33/200
+[12:24:38]     Batch: 2 items starting at ID 34...
+[12:24:38]     Batch: 2 items starting at ID 34...
+[12:24:57]     ✓ Got 2 items. Total: 35/200
+[12:24:57]     ✓ Got 2 items. Total: 35/200
+[12:24:58] 
+  Topic: reg_bi_disclosure — generating 10 hypotheticals (have 0/10)
+[12:24:58] 
+  Topic: reg_bi_disclosure — generating 10 hypotheticals (have 0/10)
+[12:24:58]     Batch: 10 items starting at ID 36...
+[12:24:58]     Batch: 10 items starting at ID 36...
+[12:25:34]     ✓ Got 7 items. Total: 42/200
+[12:25:34]     ✓ Got 7 items. Total: 42/200
+[12:25:35]     Batch: 3 items starting at ID 43...
+[12:25:35]     Batch: 3 items starting at ID 43...
+[12:25:55]     ✓ Got 3 items. Total: 45/200
+[12:25:55]     ✓ Got 3 items. Total: 45/200
+[12:25:56] 
+  Topic: ia_fiduciary_duty — generating 25 hypotheticals (have 0/25)
+[12:25:56] 
+  Topic: ia_fiduciary_duty — generating 25 hypotheticals (have 0/25)
+[12:25:56]     Batch: 10 items starting at ID 46...
+[12:25:56]     Batch: 10 items starting at ID 46...
+[12:26:34]     ✓ Got 6 items. Total: 51/200
+[12:26:34]     ✓ Got 6 items. Total: 51/200
+[12:26:35]     Batch: 10 items starting at ID 52...
+[12:26:35]     Batch: 10 items starting at ID 52...
+[12:27:12]     ✓ Got 6 items. Total: 57/200
+[12:27:12]     ✓ Got 6 items. Total: 57/200
+[12:27:13]     Batch: 10 items starting at ID 58...
+[12:27:13]     Batch: 10 items starting at ID 58...
+[12:27:52]     ✓ Got 7 items. Total: 64/200
+[12:27:52]     ✓ Got 7 items. Total: 64/200
+[12:27:53]     Batch: 6 items starting at ID 65...
+[12:27:53]     Batch: 6 items starting at ID 65...
+[12:28:27]     ✓ Got 6 items. Total: 70/200
+[12:28:27]     ✓ Got 6 items. Total: 70/200
+[12:28:28] 
+  Topic: ia_duty_of_care — generating 15 hypotheticals (have 0/15)
+[12:28:28] 
+  Topic: ia_duty_of_care — generating 15 hypotheticals (have 0/15)
+[12:28:28]     Batch: 10 items starting at ID 71...
+[12:28:28]     Batch: 10 items starting at ID 71...
+[12:29:03]     ✓ Got 7 items. Total: 77/200
+[12:29:03]     ✓ Got 7 items. Total: 77/200
+[12:29:04]     Batch: 8 items starting at ID 78...
+[12:29:04]     Batch: 8 items starting at ID 78...
+[12:29:41]     ✓ Got 7 items. Total: 84/200
+[12:29:41]     ✓ Got 7 items. Total: 84/200
+[12:29:42]     Batch: 1 items starting at ID 85...
+[12:29:42]     Batch: 1 items starting at ID 85...
+[12:29:49]     ✓ Got 1 items. Total: 85/200
+[12:29:49]     ✓ Got 1 items. Total: 85/200
+[12:29:50] 
+  Topic: finra_suitability — generating 25 hypotheticals (have 0/25)
+[12:29:50] 
+  Topic: finra_suitability — generating 25 hypotheticals (have 0/25)
+[12:29:50]     Batch: 10 items starting at ID 86...
+[12:29:50]     Batch: 10 items starting at ID 86...
+[12:30:24]     ✓ Got 7 items. Total: 92/200
+[12:30:24]     ✓ Got 7 items. Total: 92/200
+[12:30:25]     Batch: 10 items starting at ID 93...
+[12:30:25]     Batch: 10 items starting at ID 93...
+[12:31:01]     ✓ Got 6 items. Total: 98/200
+[12:31:01]     ✓ Got 6 items. Total: 98/200
+[12:31:03]     Batch: 10 items starting at ID 99...
+[12:31:03]     Batch: 10 items starting at ID 99...
+[12:31:40]     ✓ Got 7 items. Total: 105/200
+[12:31:40]     ✓ Got 7 items. Total: 105/200
+[12:31:41]     Batch: 5 items starting at ID 106...
+[12:31:41]     Batch: 5 items starting at ID 106...
+[12:32:14]     ✓ Got 5 items. Total: 110/200
+[12:32:14]     ✓ Got 5 items. Total: 110/200
+[12:32:15] 
+  Topic: variable_annuity — generating 20 hypotheticals (have 0/20)
+[12:32:15] 
+  Topic: variable_annuity — generating 20 hypotheticals (have 0/20)
+[12:32:15]     Batch: 10 items starting at ID 111...
+[12:32:15]     Batch: 10 items starting at ID 111...
+[12:32:54]     ✓ Got 5 items. Total: 115/200
+[12:32:54]     ✓ Got 5 items. Total: 115/200
+[12:32:55]     Batch: 10 items starting at ID 116...
+[12:32:55]     Batch: 10 items starting at ID 116...
+[12:33:30]     ✓ Got 6 items. Total: 121/200
+[12:33:30]     ✓ Got 6 items. Total: 121/200
+[12:33:31]     Batch: 9 items starting at ID 122...
+[12:33:31]     Batch: 9 items starting at ID 122...
+[12:34:08]     ✓ Got 4 items. Total: 125/200
+[12:34:08]     ✓ Got 4 items. Total: 125/200
+[12:34:09]     Batch: 5 items starting at ID 126...
+[12:34:09]     Batch: 5 items starting at ID 126...
+[12:34:49]     ✓ Got 4 items. Total: 129/200
+[12:34:49]     ✓ Got 4 items. Total: 129/200
+[12:34:50]     Batch: 1 items starting at ID 130...
+[12:34:50]     Batch: 1 items starting at ID 130...
+[12:34:59]     ✓ Got 1 items. Total: 130/200
+[12:34:59]     ✓ Got 1 items. Total: 130/200
+[12:35:01] 
+  Topic: dol_erisa — generating 15 hypotheticals (have 0/15)
+[12:35:01] 
+  Topic: dol_erisa — generating 15 hypotheticals (have 0/15)
+[12:35:01]     Batch: 10 items starting at ID 131...
+[12:35:01]     Batch: 10 items starting at ID 131...
+[12:35:35]     ✓ Got 5 items. Total: 135/200
+[12:35:35]     ✓ Got 5 items. Total: 135/200
+[12:35:36]     Batch: 10 items starting at ID 136...
+[12:35:36]     Batch: 10 items starting at ID 136...
+[12:36:12]     ✓ Got 5 items. Total: 140/200
+[12:36:12]     ✓ Got 5 items. Total: 140/200
+[12:36:13]     Batch: 5 items starting at ID 141...
+[12:36:13]     Batch: 5 items starting at ID 141...
+[12:36:50]     ✓ Got 4 items. Total: 144/200
+[12:36:50]     ✓ Got 4 items. Total: 144/200
+[12:36:51]     Batch: 1 items starting at ID 145...
+[12:36:51]     Batch: 1 items starting at ID 145...
+[12:36:59]     ✓ Got 1 items. Total: 145/200
+[12:36:59]     ✓ Got 1 items. Total: 145/200
+[12:37:00] 
+  Topic: churning_excessive — generating 15 hypotheticals (have 0/15)
+[12:37:00] 
+  Topic: churning_excessive — generating 15 hypotheticals (have 0/15)
+[12:37:00]     Batch: 10 items starting at ID 146...
+[12:37:00]     Batch: 10 items starting at ID 146...
+[12:37:38]     ✓ Got 5 items. Total: 150/200
+[12:37:38]     ✓ Got 5 items. Total: 150/200
+[12:37:39]     Batch: 10 items starting at ID 151...
+[12:37:39]     Batch: 10 items starting at ID 151...
+[12:38:19]     ✓ Got 6 items. Total: 156/200
+[12:38:19]     ✓ Got 6 items. Total: 156/200
+[12:38:20]     Batch: 4 items starting at ID 157...
+[12:38:20]     Batch: 4 items starting at ID 157...
+[12:38:47]     ✓ Got 4 items. Total: 160/200
+[12:38:47]     ✓ Got 4 items. Total: 160/200
+[12:38:48] 
+  Topic: undisclosed_conflict — generating 15 hypotheticals (have 0/15)
+[12:38:48] 
+  Topic: undisclosed_conflict — generating 15 hypotheticals (have 0/15)
+[12:38:48]     Batch: 10 items starting at ID 161...
+[12:38:48]     Batch: 10 items starting at ID 161...
+[12:39:28]     ✓ Got 5 items. Total: 165/200
+[12:39:28]     ✓ Got 5 items. Total: 165/200
+[12:39:29]     Batch: 10 items starting at ID 166...
+[12:39:29]     Batch: 10 items starting at ID 166...
+[12:40:08]     ✓ Got 6 items. Total: 171/200
+[12:40:08]     ✓ Got 6 items. Total: 171/200
+[12:40:09]     Batch: 4 items starting at ID 172...
+[12:40:09]     Batch: 4 items starting at ID 172...
+[12:40:34]     ✓ Got 4 items. Total: 175/200
+[12:40:34]     ✓ Got 4 items. Total: 175/200
+[12:40:35] 
+  Topic: concentration — generating 10 hypotheticals (have 0/10)
+[12:40:35] 
+  Topic: concentration — generating 10 hypotheticals (have 0/10)
+[12:40:35]     Batch: 10 items starting at ID 176...
+[12:40:35]     Batch: 10 items starting at ID 176...
+[12:41:12]     ✓ Got 7 items. Total: 182/200
+[12:41:12]     ✓ Got 7 items. Total: 182/200
+[12:41:13]     Batch: 3 items starting at ID 183...
+[12:41:13]     Batch: 3 items starting at ID 183...
+[12:41:34]     ✓ Got 3 items. Total: 185/200
+[12:41:34]     ✓ Got 3 items. Total: 185/200
+[12:41:35] 
+  Topic: senior_investor — generating 5 hypotheticals (have 0/5)
+[12:41:35] 
+  Topic: senior_investor — generating 5 hypotheticals (have 0/5)
+[12:41:35]     Batch: 5 items starting at ID 186...
+[12:41:35]     Batch: 5 items starting at ID 186...
+[12:42:08]     ✓ Got 5 items. Total: 190/200
+[12:42:08]     ✓ Got 5 items. Total: 190/200
+[12:42:09] 
+  Topic: options_complex — generating 5 hypotheticals (have 0/5)
+[12:42:09] 
+  Topic: options_complex — generating 5 hypotheticals (have 0/5)
+[12:42:09]     Batch: 5 items starting at ID 191...
+[12:42:09]     Batch: 5 items starting at ID 191...
+[12:42:42]     ✓ Got 5 items. Total: 195/200
+[12:42:42]     ✓ Got 5 items. Total: 195/200
+[12:42:43] 
+  Topic: compliant_edge — generating 10 hypotheticals (have 0/10)
+[12:42:43] 
+  Topic: compliant_edge — generating 10 hypotheticals (have 0/10)
+[12:42:43]     Batch: 10 items starting at ID 196...
+[12:42:43]     Batch: 10 items starting at ID 196...
+[12:43:20]     ✓ Got 6 items. Total: 201/200
+[12:43:20]     ✓ Got 6 items. Total: 201/200
+[12:43:21]     Batch: 4 items starting at ID 202...
+[12:43:21]     Batch: 4 items starting at ID 202...
+[12:43:49]     ✓ Got 4 items. Total: 205/200
+[12:43:49]     ✓ Got 4 items. Total: 205/200
+[12:43:51] 
+============================================================
+[12:43:51] 
+============================================================
+[12:43:51] COMPLETE: 205 hypotheticals generated
+[12:43:51] COMPLETE: 205 hypotheticals generated
+[12:43:51] JSON: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.json
+[12:43:51] JSON: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.json
+[12:43:51] Text: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.txt
+[12:43:51] Text: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.txt
+[12:43:51] ============================================================
+[12:43:51] ============================================================
+[12:43:51] 
+Compliant: 88 | Non-compliant: 117
+[12:43:51] 
+Compliant: 88 | Non-compliant: 117
+[12:43:51] By topic:
+[12:43:51] By topic:
+[12:43:51]   churning_excessive: 15
+[12:43:51]   churning_excessive: 15
+[12:43:51]   compliant_edge: 10
+[12:43:51]   compliant_edge: 10
+[12:43:51]   concentration: 10
+[12:43:51]   concentration: 10
+[12:43:51]   dol_erisa: 15
+[12:43:51]   dol_erisa: 15
+[12:43:51]   finra_suitability: 25
+[12:43:51]   finra_suitability: 25
+[12:43:51]   ia_duty_of_care: 15
+[12:43:51]   ia_duty_of_care: 15
+[12:43:51]   ia_fiduciary_duty: 25
+[12:43:51]   ia_fiduciary_duty: 25
+[12:43:51]   options_complex: 5
+[12:43:51]   options_complex: 5
+[12:43:51]   reg_bi_care: 20
+[12:43:51]   reg_bi_care: 20
+[12:43:51]   reg_bi_conflict: 15
+[12:43:51]   reg_bi_conflict: 15
+[12:43:51]   reg_bi_disclosure: 10
+[12:43:51]   reg_bi_disclosure: 10
+[12:43:51]   senior_investor: 5
+[12:43:51]   senior_investor: 5
+[12:43:51]   undisclosed_conflict: 15
+[12:43:51]   undisclosed_conflict: 15
+[12:43:51]   variable_annuity: 20
+[12:43:51]   variable_annuity: 20

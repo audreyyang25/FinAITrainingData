@@ -1,0 +1,25 @@
+ID: 320
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Financial Solutions (BD and IA) managed a $3.2 million portfolio for James and Patricia O'Brien, both age 55, structured as a $2.5 million discretionary advisory account (fee: 0.75% annually) and a $700,000 'tactical trading' brokerage account (commissions: $50 per trade, average 4 trades/month). In 2023, Apex introduced a new product: a '3/3 Blend' account—clients could elect to have 60% in fee-based advisory and 40% in commission-based brokerage within a single custodial account, with a hybrid statement. Apex's Form CRS stated: 'You can mix advisory and brokerage services in a single account for blended cost efficiency.' No separate disclosure explained that (a) the brokerage portion was not subject to fiduciary duty, (b) transaction-based compensation creates incentive to trade, or (c) the 'blended' statement obscured per-trade costs. When the O'Briens converted to the 3/3 Blend, Apex's advisors increased trading in the brokerage portion to 12 trades/month (vs. 4 previously), generating $3,600 in annual commissions. The advisors documented the increased trading as 'tactical positioning aligned with market conditions,' but comparative analysis showed no material change in market volatility or client risk tolerance. Form CRS was not updated upon the account-structure change.
+
+QUESTION
+--------
+Did Apex Financial Solutions comply with Regulation Best Interest, Form CRS, and fiduciary duty standards by offering the 3/3 Blend account and increasing trading activity without updated disclosures?
+
+ANSWER
+------
+No. Apex violated the regulatory framework on multiple grounds. First, Form CRS language ('blended cost efficiency') obscures the material distinction between fiduciary advisory (60%) and non-fiduciary brokerage (40%), violating the Form CRS requirement (17 CFR §275.204-1) to clearly distinguish services and associated conflicts. Second, Apex failed to re-deliver Form CRS upon the account-structure change, which materially altered the capacity and compensation mix. Third, the 200% increase in brokerage trading (4 to 12 trades/month) without documented change in market conditions or client objectives suggests a Reg BI care obligation failure (17 CFR §240.15l-1(a)(2)(i))—the recommendation lacked reasonable basis and appeared driven by commission opportunity, not client benefit. Fourth, by commingling advisory and brokerage in a single statement, Apex obscured per-trade costs, impairing the O'Briens' ability to monitor commissions. The Reg BI preamble warns against structures that use complexity to mask conflicts; the 3/3 Blend account exemplifies this risk. Similar patterns appeared in FINRA enforcement actions against dual registrants employing 'account layering' to reduce transparency.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Form CRS Rule, 17 CFR §275.204-1; SEC Regulation BI Preamble, 88 FR 20728 (dual registrant transparency guidance); Investment Adviser Act §206(2) duty of care
+
+KEY FACTOR
+----------
+Blended account structure with generic Form CRS obscured fiduciary vs. non-fiduciary capacity distinction; material increase in trading without documented justification suggests commission-driven recommendation in violation of Reg BI care obligation.

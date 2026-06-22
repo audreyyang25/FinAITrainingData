@@ -1,0 +1,25 @@
+ID: 380
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Michelle, age 48, holds 5,000 shares of employer stock in her 401(k) with a cost basis of $120,000 and current fair market value of $680,000. She is two years from vesting in an additional $240,000 restricted stock bonus. Michelle's 401(k) plan permits in-service distributions of employer stock. Registered adviser Tom recommends rolling the entire 401(k) balance (including the $680,000 employer stock) to a traditional IRA and purchasing a diversified portfolio of mutual funds. Tom documents that the rollover "consolidates assets and improves diversification." Tom does not mention net unrealized appreciation (NUA) tax treatment or analyze whether Michelle should execute a direct distribution of the employer stock to a taxable account (which would allow her to pay ordinary income tax on $120,000 but capital gains tax on $560,000 of appreciation, saving approximately $85,000 in taxes versus rolling the employer stock into an IRA where all distributions are taxed as ordinary income). Michelle is in the 35% federal tax bracket.
+
+QUESTION
+--------
+Did Tom comply with PTE 2020-02 best interest analysis when recommending a rollover that eliminated a valuable NUA tax strategy?
+
+ANSWER
+------
+No. Tom's rollover recommendation violated PTE 2020-02(b)(1) best interest standard by failing to analyze and document a material alternative—direct distribution of employer stock to exploit NUA tax treatment. The decisive facts are: (1) NUA tax planning creates approximately $85,000 in identified tax savings for Michelle by segregating employer stock; (2) Tom documented no analysis of NUA availability or why NUA planning was inferior to rollover; (3) direct stock distribution with NUA tax treatment is a recognized alternative for terminating employees eligible under IRC §401(k)(2)(B)(i); (4) Tom's recommendation to roll employer stock into an IRA eliminates this option permanently, since IRA rollovers forgo NUA treatment. Under Five-Part Test Part 4 (policies and procedures), Tom's firm must have procedures identifying NUA situations and analyzing whether direct distribution alternatives serve the client's best interest. Tom's generic "consolidation and diversification" rationale does not overcome the failure to address quantified tax optimization available through NUA planning. This violates ERISA §408(b)(14) fiduciary duty to analyze all material alternatives.
+
+APPLICABLE STANDARD
+-------------------
+DOL PTE 2020-02 Best Interest Standard; Five-Part Test (Parts 1, 4, 5); ERISA §408(b)(14); IRC §402(e) (NUA treatment)
+
+KEY FACTOR
+----------
+Recommended rollover without analyzing NUA tax strategy available through direct distribution, which would have saved client $85,000 in taxes by segregating employer stock from IRA rollover, violating best interest and documentation requirements.

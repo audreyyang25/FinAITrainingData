@@ -1,0 +1,25 @@
+ID: 475
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Adviser Elena, based in New York, recommended a variable annuity exchange to client Margaret (age 64) with a $520,000 deferred variable annuity purchased in 2016 (current value $487,000, no surrender charge remaining). Elena recommended exchanging the annuity for a newer VA product with an enhanced death benefit rider (cost: 0.85% annually vs. the old product's 0.62%), citing the client's advanced age and desire for legacy planning. Elena earned a 3.2% commission on the exchange ($15,584). The new annuity carried a 10-year surrender period (5% declining charge). Elena never documented a suitability analysis under FINRA 2330 comparing features of the two products or analyzing whether the enhanced death benefit was suitable for Margaret's stated goal. Additionally, Elena did not comply with NY Reg 187 (the state's annuity suitability rule), which requires a documented analysis of whether an exchange is "suitable" and imposes a presumption that an exchange is unsuitable for clients age 65+ unless the adviser documents "clear and convincing" evidence that the exchange benefits the customer. Elena did not obtain written acknowledgment from Margaret of the surrender period or the commission structure. Margaret's profile: retired, $1.2M liquid net worth, moderate risk tolerance, no stated legacy planning need until Elena mentioned it in the recommendation.
+
+QUESTION
+--------
+Did Elena violate both FINRA Rule 2330 (VA exchange suitability) and NY Reg 187 (state annuity suitability presumption against exchanges for age 65+)?
+
+ANSWER
+------
+Yes, Elena violated both standards. FINRA 2330(a) requires advisers to have a "reasonable basis" for recommending a VA exchange and to determine suitability for the specific customer. Elena's failure to document a comparative analysis of the two VA products and the suitability of the enhanced death benefit (vs. Margaret's stated needs) violates 2330's reasonable-basis prong. NY Reg 187.1 imposes a statutory presumption that an exchange is unsuitable for customers age 65+, which can only be rebutted by "clear and convincing evidence" that the exchange is in the customer's best interest. Elena provided no such evidence. The 10-year surrender period, higher annual cost (0.85% vs. 0.62%), and Elena's 3.2% commission create a strong appearance of unsuitability; the enhanced death benefit was unsolicited by the client and appears to be a product feature marketed to generate higher commissions. NY Reg 187 also requires written acknowledgment of material terms (surrender period, commission). Elena's failure to obtain this acknowledgment is an independent violation. The FINRA and NY violations compound: FINRA 2330 requires reasonable basis + suitability; NY 187 adds a statutory presumption. Elena could not satisfy either standard without documented analysis rebutting the presumption.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (VA Exchange Suitability); NY Reg 187.1 (Annuity Suitability Presumption for Age 65+)
+
+KEY FACTOR
+----------
+Lack of documented suitability analysis, failure to rebut NY's age-based presumption against exchanges, and undisclosed high commission create dual violation of FINRA and state standards.

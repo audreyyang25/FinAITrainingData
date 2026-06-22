@@ -1,0 +1,27 @@
+ID: 496
+Source Folder: 01_SEC_Guidance_NoAction_Interpretive
+Topic: interpretive_edge_cases
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Capital Advisers LLC serves as investment adviser to both Apex BDC, Inc., a publicly traded business development company, and Apex Private Partners LP, a private fund organized as a limited partnership. Apex Capital controls Apex BDC and is the general partner of Apex Private Partners LP. One of the limited partners of Apex Private Partners LP, Redwood Holdings, owns 6% of Apex BDC's outstanding voting securities, making Redwood a second-tier affiliate of the BDC. Apex BDC co-invests $12 million alongside Redwood in a mezzanine debt deal for a mid-market manufacturing company without obtaining approval from a required majority of the BDC's independent directors. Apex Capital's general counsel classifies Redwood as a 'remote affiliate' based solely on its status as a limited partner of the Private Fund, without analyzing whether Redwood's 6% voting stake in the BDC independently makes it a 'close affiliate.'
+
+QUESTION
+--------
+Did Apex BDC comply with the Investment Company Act of 1940's affiliate transaction restrictions when co-investing with Redwood without the required board approval analysis?
+
+ANSWER
+------
+No, this conduct is a violation of the affiliate transaction restrictions under the Investment Company Act of 1940.
+
+Under IM Guidance Update 2014-12, a second-tier affiliate of a BDC may be classified as a 'close affiliate' or a 'remote affiliate' depending on various factors—the classification is not automatically determined by limited partner status alone. Redwood's 6% voting stake in Apex BDC must be independently analyzed, as it could make Redwood a close affiliate whose co-investment transactions with the BDC are prohibited under Section 57(a)(1). Failing to conduct the multi-factor analysis prescribed by the guidance and proceeding without any board approval constitutes a violation of the 1940 Act's affiliate transaction protections.
+
+APPLICABLE STANDARD
+-------------------
+Investment Company Act of 1940 §§ 57(a), 57(f); IM Guidance Update No. 2014-12 (BDC Transactions with Certain Second-Tier Affiliates)
+
+KEY FACTOR
+----------
+The adviser failed to conduct the required multi-factor analysis to determine whether the second-tier affiliate was a 'close affiliate' whose transactions with the BDC are prohibited, rather than a 'remote affiliate' whose transactions merely require board approval.

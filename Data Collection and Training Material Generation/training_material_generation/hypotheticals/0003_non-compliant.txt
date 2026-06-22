@@ -1,0 +1,27 @@
+ID: 3
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 72-year-old widow with $500,000 in liquid assets and a stated goal of 'preservation of capital with minimal income need' meets with a broker-dealer advisor. The advisor recommends allocating $300,000 to a structured note tied to the S&P 500 with a 6-year maturity, 85% principal protection, embedded options generating a 2% advisor fee, and substantial early withdrawal penalties. The advisor discusses the client's conservative profile but asserts the structure is 'more efficient than bonds given current rates.' The advisor obtains signed suitability documentation but does not discuss the availability of investment-grade bond funds, Treasury ladders, or floating-rate notes.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+No, this violates the Reg BI care obligation.
+
+Although the advisor obtained written documentation and discussed the client's conservative profile, the recommendation fails the Reg BI care test because: (1) the structured note introduces unnecessary complexity, illiquidity risk, and opacity relative to simpler, more transparent alternatives (bond funds, Treasuries) that meet the client's stated goal of capital preservation; (2) the 2% embedded fee is material and not justified by corresponding added benefit for a capital-preservation objective; (3) the 6-year maturity and early withdrawal penalties materially conflict with the client's need for capital preservation and potential liquidity for a 72-year-old; (4) the advisor failed to consider materially lower-cost alternatives (bond funds charging 0.20–0.50% annually) or direct Treasury investments with zero credit risk; and (5) the 85% principal protection still exposes the client to 15% downside in equities, contrary to the stated conservative objective. Reg BI requires consideration of 'costs' and 'available alternatives'—the advisor did neither for this widow's profile.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i); Reg BI care obligation—broker-dealer must act in customer's best interest considering costs, risks, rewards, and alternatives, with heightened scrutiny for complex products recommended to unsophisticated investors.
+
+KEY FACTOR
+----------
+Recommending a complex, illiquid, opaque product with material costs and equity risk to a 72-year-old with explicit capital-preservation objective, without considering simpler, lower-cost, more transparent alternatives.

@@ -1,0 +1,25 @@
+ID: 280
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Sagebrush Capital, a $620M SEC-registered adviser, adopted a written trade allocation policy in January 2022 that stated: 'All block trades shall be allocated pro-rata by client account AUM within 60 minutes of execution.' The policy was disclosed to all clients. From January to August 2023, Sagebrush executed 47 block trades totaling $156M. Internal audit sampling of 12 trades (August 2023) revealed a pattern: in 8 of 12 trades where post-execution price movement exceeded +2% within 24 hours, the majority of appreciated positions (>60%) were allocated to accounts managed by Sagebrush's co-founder's family members (aggregate AUM $18M, representing 2.9% of firm AUM but receiving 7.2% of appreciated-trade shares). In 4 trades where price movement was negative, allocations followed the pro-rata-by-AUM methodology. The CCO found no written exception procedures or override documentation. Sagebrush's annual compliance review did not test allocation methodology for bias. Senior management stated the pattern was 'coincidence.' Adviser fees were AUM-based (0.75%), but the co-founder also held 40% equity in the adviser entity.
+
+QUESTION
+--------
+Does Sagebrush's allocation pattern, despite a written policy, constitute breach of the fiduciary duty of loyalty and violation of Rule 17j-1?
+
+ANSWER
+------
+Yes. The fiduciary duty of loyalty requires not only a written allocation policy but also consistent application and honest execution. The decisive facts: (1) although a policy exists, the actual allocation pattern systematically deviates from it in measurable, non-random ways—appreciated trades disproportionately allocated to co-founder-family accounts despite those accounts representing <3% of AUM; (2) the deviation occurs only when outcomes are favorable and known (price movements >+2%), suggesting post-hoc manipulation despite the 60-minute nominal timeline; (3) no written exception procedures exist to justify the deviation; (4) the adviser's compensation structure (equity ownership + AUM fees) created financial incentive for the co-founder to allocate winners to family accounts; (5) lack of compliance testing allowed the pattern to persist undetected. SEC enforcement (similar to In re Millennium Partners, L.P., 2016, and FINRA AWC pattern E11-2458) holds that de facto departure from allocation policy, even when a policy is written, constitutes breach. The test is not just 'policy exists' but 'policy is followed.' Rule 17j-1(a)(2) requires 'actual adherence'; a written policy applied selectively is not compliance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(2) (fiduciary duty of loyalty—duty to act free from conflicts of interest); Rule 17j-1(a)(2) (adviser shall adopt and adhere to written procedures designed to prevent conflicts of interest); SEC Compliance Examination Priorities (2023) — allocation bias testing
+
+KEY FACTOR
+----------
+Systematic, measured deviation from written allocation policy in directions that favor adviser-related accounts during positive outcomes constitutes de facto breach, regardless of policy's existence.

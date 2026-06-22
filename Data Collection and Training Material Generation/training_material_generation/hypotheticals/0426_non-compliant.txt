@@ -1,0 +1,25 @@
+ID: 426
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Wealth adviser Caroline Gould recommended to her client, retired physician Dr. Michael Okoye, age 68, a 'crypto staking service' operated by a third-party fintech firm, Nexus DeFi. The service promised 8.5% annual yield on Bitcoin and Ethereum deposits in exchange for 'locking' assets for 6-month periods. Dr. Okoye, with $850,000 in investable assets and conservative-to-moderate risk tolerance seeking yield, committed $120,000 (14% of portfolio) to three separate 6-month staking contracts. Gould disclosed the 8.5% yield and 6-month lockup, but did NOT disclose: (1) Nexus DeFi's unregistered status (no SEC 'custodian' or 'operator' license); (2) smart-contract risks and potential total loss if the Nexus platform experienced a rug pull or technical exploit (as occurred in 2023 with Celsius Network and BlockFi); (3) that Dr. Okoye's funds were commingled in Nexus's operational wallet, not segregated; (4) absence of insurance if Nexus became insolvent. Within 4 months, Nexus DeFi filed for bankruptcy and Dr. Okoye lost $120,000.
+
+QUESTION
+--------
+Did Adviser Gould comply with Reg BI disclosure and care obligations regarding the staking service recommendation?
+
+ANSWER
+------
+No. Reg BI's care obligation (17 CFR §240.15l-1(a)(2)(ii)(A)) requires analysis of risks, benefits, and costs. Gould disclosed yield and lockup but omitted material risks: Nexus's unregistered custodial status, smart-contract exploit vulnerability, commingling of funds, and absence of bankruptcy protection. These are material gaps; the SEC's April 2023 guidance on digital asset custody (IA Release No. 6518) explicitly warns advisers that unregistered staking platforms carry heightened risk of total loss. Reg BI's disclosure obligation (§240.15l-1(b)(3)) requires all material facts; concealing Nexus's uninsured, unregistered status while recommending 14% of a 68-year-old's portfolio to an unproven DeFi platform violates both standards. The post-facto bankruptcy vindicates the risk. FINRA's 2021 and 2022 digital asset guidance emphasizes that staking recommendations require explicit disclosure of platform solvency and segregation. Gould's documentation contains no risk analysis; the Celsius/BlockFi precedent should have triggered heightened scrutiny.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(ii)(A); Reg BI Disclosure Obligation, 17 CFR §240.15l-1(b)(3)
+
+KEY FACTOR
+----------
+Recommending unregistered, uninsured staking platform without disclosing custodial risks, commingling, unregulated status, and smart-contract exploit vulnerability violates Reg BI care and disclosure standards.

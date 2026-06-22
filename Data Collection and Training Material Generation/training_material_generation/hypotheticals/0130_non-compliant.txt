@@ -1,0 +1,27 @@
+ID: 130
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA-registered broker-dealer recommended a 58-year-old client with $250,000 in a taxable brokerage account transfer the entire balance into a MetLife L-share variable annuity (7-year surrender period, 1.15% annual mortality & expense charge, plus 0.65% investment management fees, total 1.80% annual fees). The client has moderate risk tolerance, stable $95,000 annual income, and no stated need for guaranteed income or long-term care rider protection. The broker documented suitability only by noting 'suitable for long-term growth' without discussing the surrender charge restrictions, tax inefficiency of annuitizing taxable gains, or comparison to low-cost index funds (0.08% fees available). No discussion of breakpoints or the 5-year holding period before the client turns 63 (triggering potential 10% early withdrawal penalty if withdrawn before 59½).
+
+QUESTION
+--------
+Does this variable annuity recommendation satisfy FINRA Rule 2330 suitability obligations and Reg BI best interest duty?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330 and Reg BI standard of conduct.
+
+Under FINRA Rule 2330(d), a recommendation of a variable annuity must have a reasonable basis to believe the customer would benefit from the features, terms, and costs relative to alternatives, considering the customer's age, financial situation, investment objectives, and prior investing experience. Here, the recommendation fails this standard because: (1) the 1.80% annual fee is materially higher than a diversified, low-cost mutual fund portfolio (0.08%-0.40%) available without surrender restrictions or early withdrawal penalties, presenting a clear cost disadvantage for a 58-year-old with no stated need for annuity features; (2) there is no documented discussion of whether the 7-year surrender charge aligns with the client's actual liquidity needs or time horizon; (3) the tax inefficiency of moving taxable gains into an annuity wrapper (subject to ordinary income tax on gains at withdrawal rather than capital gains treatment) was not addressed. Under Reg BI, the recommendation must be made in the client's best interest; here, the excessive fees coupled with surrender restrictions and lack of documented analysis of cost-benefit creates a conflict of interest (higher compensation to broker) that was not mitigated by transparent disclosure and reasonable alternative consideration. SEC and FINRA enforcement (see FINRA AWC with Edward Jones, 2017; Merrill Lynch variable annuity case) consistently find such recommendations unsuitable when the annuity's costs exceed alternatives and the customer's needs do not justify the annuity-specific features.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (variable annuity suitability requirements); Reg BI Rule 15l-1(a) (recommendation in client's best interest); SEC Release No. 34-86031 (Reg BI adopting release, emphasis on cost analysis and conflicts of interest)
+
+KEY FACTOR
+----------
+The 1.80% total annual fee for a variable annuity with a 7-year surrender charge was never compared to a low-cost mutual fund alternative (0.08%-0.40% fees) without surrender restrictions, and no documented suitability analysis explained why the annuity's higher cost and illiquidity benefit this 58-year-old client with moderate risk tolerance and no stated need for guaranteed income or guaranteed long-term care protection.

@@ -1,0 +1,27 @@
+ID: 98
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker recommends a concentrated position of 15,000 shares of a technology company stock (current value $450,000, representing 90% of client's $500,000 investable assets) to a 45-year-old executive officer at that same technology company. The executive receives an annual salary of $200,000, annual bonus of $100,000, and stock option grants. The client states that he 'understands the company well, has high conviction in its long-term prospects,' and explicitly requests concentration as a wealth-building strategy. The broker documents the client's income stability, professional expertise in the sector, and written acknowledgment of concentration risk. The recommendation includes a diversification plan contingent upon the client's vesting schedule.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Suitability Rule 2111's customer-specific prong, despite apparent concentration risk?
+
+ANSWER
+------
+Yes, this recommendation satisfies FINRA Suitability Rule 2111.
+
+Although the position is concentrated, Rule 2111(a)(2) requires suitability to be assessed relative to the customer's specific financial profile, investment objectives, and risk tolerance—not in a vacuum. Here, several factors support suitability: (1) The client has direct professional expertise and insider knowledge of the company's operations, competitive position, and prospects—not merely retail speculation. (2) The client has substantial diversified income ($300,000 annually in salary + bonus) independent of the stock position, mitigating total portfolio risk. (3) The client has explicitly requested and consented to concentration as a deliberate wealth-building strategy; Rule 2111(a)(2) permits recommendations aligned with customer objectives if reasonable. (4) The broker has documented the client's understanding of concentration risk and income stability, creating an evidentiary record of customer-specific analysis. (5) The broker has included a diversification plan tied to vesting, showing ongoing suitability management. While concentration is ordinarily concerning, FINRA and SEC enforcement recognize that highly knowledgeable clients with stable non-investment income and explicit concentration preference may suitability hold concentrated positions. The broker's documentation and risk acknowledgment support compliance.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(2) (customer-specific suitability), considering client's unique circumstances, expertise, and explicit direction; SEC guidance on concentrated positions (In re Merrill Lynch, SEC Admin. Proc., 2015)
+
+KEY FACTOR
+----------
+Client's professional expertise, stable diversified income ($300K/year salary + bonus), explicit concentration preference, and broker's documented risk acknowledgment + diversification plan overcome the apparent concentration concern.

@@ -1,0 +1,27 @@
+ID: 162
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered investment adviser manages $2.3 million in discretionary assets for a 62-year-old client (conservative-to-moderate risk profile). The adviser receives an annual management fee of 0.85% AUM. The adviser's Form ADV Part 2A and Part 2B explicitly disclose that the firm has a revenue-sharing arrangement with Vanguard whereby the adviser receives $0.02 per share traded in Vanguard funds, contingent on reaching $50 million in Vanguard fund assets under management. The adviser documents in the client's IPS that the client's portfolio allocation (60% stocks / 40% bonds) is best achieved through a mix of Vanguard and iShares ETFs selected on performance, expense ratio, and tax-efficiency. For this client, Vanguard funds comprise 35% of the equity sleeve; iShares comprise 40%; other low-cost providers comprise 25%. The adviser reviews fund selection quarterly and has documented instances where Vanguard recommendations were rejected in favor of competing funds with superior after-tax returns.
+
+QUESTION
+--------
+Does this arrangement satisfy Reg BI's conflict-of-interest obligations and the IA fiduciary duty?
+
+ANSWER
+------
+Yes, this arrangement is compliant with both Reg BI and IA fiduciary obligations.
+
+The adviser fully discloses the revenue-sharing conflict in Form ADV and client-facing documents before establishing the relationship. The conflict is quantified ($0.02/share, $50M threshold). Most critically, the adviser's actual fund selection demonstrates that the conflict is not driving recommendations: only 35% of equities in a client where Vanguard could dominate (no mandate) shows the adviser is balancing the conflict against client returns. The documented record of rejecting Vanguard funds in favor of superior alternatives proves the adviser is not favoring the conflicted party. Under SEC guidance (IA Letter 2008), such revenue-sharing arrangements are permissible if disclosed and if the adviser's conduct demonstrates the conflict is managed, not hidden. The adviser's quarterly review and diversified fund selection (three providers) are hallmarks of good-faith mitigation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Section 15l-1(b)(2)(i)-(ii) (conflict disclosure + mitigation); Investment Adviser Act Section 206 (fiduciary duty requires disclosure + good-faith compliance); SEC IA Guidance (IA Letter, 2008) on soft dollars and revenue sharing.
+
+KEY FACTOR
+----------
+Full written disclosure of the revenue-sharing arrangement combined with documented evidence that fund selection is driven by performance/tax-efficiency, not by the conflict, demonstrates proper mitigation under fiduciary duty.

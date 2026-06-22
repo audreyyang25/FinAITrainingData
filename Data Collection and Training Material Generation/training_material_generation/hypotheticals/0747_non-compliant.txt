@@ -1,0 +1,27 @@
+ID: 747
+Source Folder: 13_FINRA_Rulebook
+Topic: suitability_rule
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Brian Kowalski, a registered representative, recommends that his client David Park, a 34-year-old software engineer earning $145,000 annually with $60,000 in savings and moderate risk tolerance, adopt an investment strategy of concentrating 85% of his investable assets in a single leveraged energy sector ETF. Brian documents David's investment profile via a FINRA Rule 2090 new account form noting moderate risk tolerance, a 10-year time horizon, and a growth objective. Brian's rationale, recorded in a brief email, states only that 'energy is poised for a major rally.' The firm's compliance system flags the concentration but Brian's supervisor overrides the alert, noting that the client signed a general risk disclosure form.
+
+QUESTION
+--------
+Does the recommendation to concentrate 85% of the client's investable assets in a single leveraged sector ETF satisfy the reasonable-basis and customer-specific suitability obligations under FINRA Rule 2111?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 2111(a) at both the reasonable-basis and customer-specific suitability levels.
+
+FINRA Rule 2111 requires that a recommended investment strategy have a reasonable basis for suitability in general (reasonable-basis suitability) and be suitable for the particular customer given their investment profile (customer-specific suitability). A leveraged sector ETF carries amplified volatility and is generally designed for short-term trading, which conflicts with a 10-year time horizon and moderate risk tolerance. Concentrating 85% of assets in a single sector product fails customer-specific suitability given the documented moderate risk profile. The supervisor's reliance on a general risk disclosure form to override a compliance flag does not cure the underlying suitability deficiency, as a signed disclosure does not substitute for a substantive suitability determination.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) – Suitability (Reasonable-Basis and Customer-Specific Obligations)
+
+KEY FACTOR
+----------
+The extreme concentration in a leveraged sector ETF was fundamentally inconsistent with the client's documented moderate risk tolerance and long-term time horizon, and a signed risk disclosure cannot substitute for a genuine suitability analysis.

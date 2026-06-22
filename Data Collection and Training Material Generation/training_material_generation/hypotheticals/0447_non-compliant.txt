@@ -1,0 +1,25 @@
+ID: 447
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+James, age 80, has moderate cognitive decline (diagnosed mild cognitive impairment, MCI) but retains legal decision-making capacity. His neurologist notes fluctuating memory on his chart, with good days and bad days. Advisor Torres has managed James's $1.1M portfolio for 8 years. Torres notices James is increasingly confused during meetings: he forgets recent transactions, repeats questions, and seems unaware of market conditions he previously monitored closely. Instead of adapting to protect James, Torres recommends moving 40% of the portfolio ($440,000) into a "structured note" (a Barclays 5-year market-linked note with embedded leverage, complex payoff formula, and liquidity restricted to secondary market). Torres documents James's reason as "seeking higher returns" based on a 10-minute conversation. No neuropsychological evaluation is obtained. Torres does not contact James's daughter (who is power of attorney and visits weekly) to discuss the suitability given James's cognitive status. The structured note is purchased, and James cannot remember why he owns it; his daughter discovers it only when reviewing statements 3 months later.
+
+QUESTION
+--------
+Did Advisor Torres comply with Reg BI and common-law fiduciary duty in recommending a complex illiquid structured note to a client with documented cognitive impairment?
+
+ANSWER
+------
+No. Torres violated both Reg BI and fiduciary duty on multiple fronts: (1) Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)) requires the adviser to understand the client's financial situation, investment objectives, and needs before recommending a product. Torres knew or should have known (from observing repeated confusion, short-term memory loss) that James's cognitive capacity was compromised, yet failed to adapt the standard investigation process. Courts have held that cognitive impairment is material to suitability analysis. (2) The structured note's complexity (leverage, embedded derivatives, secondary-market liquidity) is wholly unsuitable for a client with cognitive impairment who cannot remember why he owns it. A reasonable adviser would instead recommend transparent, easily understood instruments aligned with age and capacity. (3) Torres failed to consult the documented POA holder (James's daughter, the weekly visitor), a best practice flagged in SEC Senior Investor Report and FINRA guidance. Had Torres contacted her, the recommendation would likely have been vetted and possibly rejected. (4) Under common-law fiduciary duty, Torres owed James a heightened duty of care once cognitive decline became apparent—Torres's failure to pause and reassess represents a material breach. The structured note purchase mirrors FINRA enforcement patterns: 2019–2021 cases consistently penalize sales of illiquid derivatives to cognitively declining seniors absent special justification.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Common-law Fiduciary Duty (heightened duty of care for cognitively impaired clients); SEC 2018 Senior Investor Report
+
+KEY FACTOR
+----------
+Recommendation of complex, illiquid structured note to client with documented mild cognitive impairment without neuropsychological evaluation, without consulting POA holder, without adaptation of suitability analysis to account for known memory loss.

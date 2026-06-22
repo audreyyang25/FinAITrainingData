@@ -1,0 +1,25 @@
+ID: 374
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Michael, age 48, has $580,000 in a large-cap-heavy 401(k) at Fidelity (60% individual stocks, 40% Fidelity Index 500 Fund ER 0.03%). Michael has substantial unrealized appreciation (NUA) in employer stock (cost basis $120,000, current value $240,000). Advisor Lauren recommends rolling over the entire $580,000 to an IRA, planning to sell all appreciated stock within the IRA, then diversify. Lauren documents in her file: 'Rollover will allow consolidation and diversification. Client expressed desire to reduce company stock concentration.' Lauren does not mention NUA tax treatment. She does not calculate that taking the Net Unrealized Appreciation Distribution (NQDC distribution) would allow Michael to pay long-term capital gains tax only on $120,000 of appreciation ($120,000 × 15% = $18,000 tax), whereas rolling over and selling in the IRA converts the $120,000 gain to ordinary income tax on future IRA distributions (potentially 24% marginal = $28,800 tax on same $120,000). The fee impact favors rollover: Lauren charges 0.65% on the IRA ($3,770/year) vs. the plan's 0.38% ($2,204/year).
+
+QUESTION
+--------
+Did Lauren comply with PTE 2020-02 by recommending the rollover without analyzing the NUA tax consequence?
+
+ANSWER
+------
+No. PTE 2020-02 §I(a)(1) requires advisers to document analysis of 'all relevant facts and circumstances.' The NUA situation is a material fact—tax treatment fundamentally affects the decision's economic benefit. Lauren's failure to discuss or document NUA analysis violates the standard. The decisive facts: (1) Michael has $120,000 NUA eligible for favorable NQDC treatment; (2) rolling over loses the long-term capital gains advantage, creating $10,800 additional tax liability on the same economic transaction; (3) this tax cost substantially outweighs Lauren's documented benefit (diversification, which could occur via plan reallocation); (4) Lauren's fee increase (0.27% = ~$156/year on $580k) further suggests the rollover serves her interest. While diversification is legitimate, Lauren's analysis is incomplete because she omitted a material tax consequence that strongly disfavors the rollover for Michael's specific situation. Courts and DOL enforcement view NUA omissions as serious analytical failures under PTE 2020-02.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 §I(a)(1) (documented analysis of relevant facts); IRC §402(e)(4)(J) (NUA tax treatment)
+
+KEY FACTOR
+----------
+Failure to document analysis of $120,000 NUA tax consequence—rolling over costs Michael ~$10,800 extra tax vs. NQDC distribution; material omission of relevant fact.

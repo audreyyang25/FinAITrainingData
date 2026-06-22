@@ -1,0 +1,25 @@
+ID: 230
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Hybrid fintech advisor platform combines algorithmic portfolio construction with optional human advisor consultations ($3,000 annual fee). Platform recommends 3x leveraged inverse Nasdaq ETF (QID) within a diversified portfolio to 34-year-old client: $156,000 total portfolio (age-appropriate 90% stocks/10% bonds target), $18,000 annual savings rate, stable tech-sector employment, moderate stated risk tolerance. The $12,000 QID position (7.7% of portfolio) is algorithmically determined to 'hedge sector concentration' (client has $31,000 in tech stocks via employer 401(k) not reflected in the platform's account). Platform's robo-advisor sends generic disclosures about inverse ETF daily rebalancing decay and short-term trading costs (−1.2% monthly drag if held >30 days), but does not flag that: (1) client's holding pattern (buy-and-hold, monthly contributions) conflicts with inverse ETF daily reset mechanics; (2) algorithmic recommendation lacks human review of hidden leverage risk; (3) no human advisor consultation occurred before recommendation. Advisor receives $4,200 AUM fee annually on the account; platform takes $1,800 in technology fees.
+
+QUESTION
+--------
+Did the robo-advisor + hybrid platform comply with Reg BI's care obligation by recommending a leveraged inverse ETF without human review, given client age, profile, and apparent misalignment with holding behavior?
+
+ANSWER
+------
+No. Reg BI's care obligation requires reasonable inquiry into client characteristics and a reasonable basis for the recommendation—obligations that do not disappear in algorithmic recommendation contexts. Here, multiple violations appear: (1) The recommendation conflicts with documented client behavior (monthly contributions, buy-and-hold approach) and the inverse ETF's optimal use case (short-term tactical hedging), creating a mismatch between product mechanics and suitability; (2) The algorithm failed to integrate material information (employer tech holdings) that should have reduced hedge ratio; (3) Generic disclosures about decay do not constitute reasonable inquiry into whether the client understood that 7.7% leverage was appropriate for a 34-year-old with moderate risk tolerance and a $18K annual savings rate; (4) The absence of human advisor review before recommendation—despite the platform's hybrid model offering that service—suggests inadequate due diligence. The SEC's 2023 examination priorities flagged robo-advisor suitability failures. Adequate Reg BI compliance here would require: algorithmic review flagging the tech concentration mismatch, human advisor consultation, documented suitability analysis, and explicit confirmation that client understood leverage mechanics.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation – Reasonable Inquiry into Client Circumstances & Reasonable Basis, 17 CFR §240.15l-1(a)(2)(i)(A)–(B), including algorithmic suitability per SEC IA-5653 Marketing Rule and Exam Priorities
+
+KEY FACTOR
+----------
+Algorithmic recommendation of leveraged inverse product without integration of material portfolio facts or human review creates mismatch between product mechanics and client's documented buy-and-hold behavior, violating reasonable-basis requirement.

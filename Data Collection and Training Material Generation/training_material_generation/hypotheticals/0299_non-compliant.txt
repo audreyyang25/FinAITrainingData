@@ -1,0 +1,25 @@
+ID: 299
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An adviser manages $450M in discretionary accounts, calculated as AUM at 0.40% annually. The adviser's internal billing system inflates account values by 3–5% due to a programming error: it includes accrued dividends and interest twice, and counts pending deposits as settled assets for 5 days after initiation. Over 18 months, the error resulted in overcharges totaling $187,000 across 220 client accounts. The average overcharge per account was $850. Clients were not notified of the error. When discovered during an internal audit, the adviser calculated a refund but did not process it for 90 days, during which time it earned an additional $12,000 in interest on the unrefunded amounts. Form ADV Part 2A disclosed the AUM calculation methodology but did not mention the risk of billing system errors or the firm's error-correction procedures.
+
+QUESTION
+--------
+Does this billing error and delayed refund violate the Investment Adviser Act fiduciary duty and Rule 206(4)-8 custody rule?
+
+ANSWER
+------
+Yes, on multiple grounds. First, the systematic overcharge violates the fiduciary duty of loyalty under Section 206(1) (adviser must act in client best interest) and Rule 206(4)-8 custody requirements (adviser must maintain accurate books and records). The 3–5% inflated valuations caused material economic harm ($850–$2,500 per account). Second, failure to notify clients of the error within a reasonable time after discovery violates the duty to disclose material adverse information affecting the client. Third, holding the refund for 90 days after identifying the error constitutes unjust enrichment and breaches loyalty. The adviser's internal interest ($12,000) compounds the breach. Fourth, Form ADV Part 2A did not disclose the specific fee calculation process or error-correction procedures, violating Item 5 disclosure obligations. This pattern mirrors SEC enforcement against advisers with inadequate billing controls (e.g., similar to SEC v. Citco Bank actions on valuations).
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Sections 206(1) and 206(4)-8, Form ADV Part 2A Item 5, SEC guidance on books and records (IA-1092)
+
+KEY FACTOR
+----------
+Systematic billing errors inflating AUM and delayed refund of overcharges constitute breach of loyalty and fiduciary duty, compounded by failure to disclose error-correction procedures.

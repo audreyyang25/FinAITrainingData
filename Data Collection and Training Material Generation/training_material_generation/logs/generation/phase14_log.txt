@@ -1,0 +1,157 @@
+[23:16:43] ==================================================
+[23:16:43] phase14_conversations.py — claude-opus-4-6
+[23:16:43] Target: 50 conversations
+[23:16:43] ==================================================
+[23:16:43]   [01/50] conv_001 [short] proprietary_fund_push
+[23:17:18]          ✓ 8 turns | issues=True | severity=high
+[23:17:18]   [02/50] conv_002 [short] form_crs_delivery
+[23:17:47]          ✓ 8 turns | issues=True | severity=high
+[23:17:47]   [03/50] conv_003 [short] penny_stock_cold_call
+[23:18:26]          ✓ 9 turns | issues=True | severity=high
+[23:18:26]   [04/50] conv_004 [short] crypto_recommendation_no_suitability
+[23:19:02]          ✓ 8 turns | issues=True | severity=high
+[23:19:02]   [05/50] conv_005 [short] fee_only_adviser_clean
+[23:19:32]          ✓ 8 turns | issues=False | severity=none
+[23:19:32]   [06/50] conv_006 [short] unsuitable_margin_retiree
+[23:20:12]          ✓ 8 turns | issues=True | severity=high
+[23:20:12]   [07/50] conv_007 [short] elder_gifting_red_flag
+[23:20:45]          ✓ 8 turns | issues=True | severity=high
+[23:20:45]   [08/50] conv_008 [short] best_execution_routing
+[23:21:22]          ✓ 8 turns | issues=True | severity=high
+[23:21:22]   [09/50] conv_009 [short] compliant_rollover_analysis
+[23:21:56]          ✓ 9 turns | issues=False | severity=none
+[23:21:56]   [10/50] conv_010 [short] concentration_dismissal
+[23:22:27]          ✓ 8 turns | issues=True | severity=high
+[23:22:27]   [11/50] conv_011 [short] switching_annuities_1035
+[23:23:03]          ✓ 8 turns | issues=True | severity=high
+[23:23:03]   [12/50] conv_012 [short] discretionary_trade_no_authority
+[23:23:37]          ✓ 8 turns | issues=True | severity=high
+[23:23:37]   [13/50] conv_013 [short] risk_tolerance_mismatch_acknowledged
+[23:24:13]          ✓ 8 turns | issues=True | severity=high
+[23:24:13]   [14/50] conv_014 [short] churning_flag
+[23:24:41]          ✓ 8 turns | issues=True | severity=high
+[23:24:41]   [15/50] conv_015 [short] senior_annuity_surrender_period
+[23:25:16]          ✓ 8 turns | issues=True | severity=high
+[23:25:16]   [16/50] conv_016 [medium] variable_annuity_inside_ira
+[23:26:14]          ✓ 19 turns | issues=True | severity=high
+[23:26:14]   [17/50] conv_017 [medium] wrap_fee_program_suitability
+[23:27:08]          ✓ 18 turns | issues=True | severity=high
+[23:27:08]   [18/50] conv_018 [medium] complex_structured_product
+[23:28:01]          ✓ 23 turns | issues=True | severity=high
+[23:28:01]   [19/50] conv_019 [medium] erisa_plan_fiduciary_rollover
+[23:29:04]          ✓ 20 turns | issues=False | severity=none
+[23:29:04]   [20/50] conv_020 [medium] unsuitable_leveraged_etf
+[23:30:02]          ✓ 18 turns | issues=True | severity=high
+[23:30:02]   [21/50] conv_021 [medium] state_fiduciary_ny_reg187
+[23:30:58]          ✓ 20 turns | issues=True | severity=high
+[23:30:58]   [22/50] conv_022 [medium] robo_adviser_hybrid_conflict
+[23:32:02]          ✓ 19 turns | issues=True | severity=high
+[23:32:02]   [23/50] conv_023 [medium] undisclosed_soft_dollars
+[23:32:56]          ✓ 18 turns | issues=True | severity=high
+[23:32:56]   [24/50] conv_024 [medium] compliant_esg_disclosure
+[23:33:43]          ✓ 20 turns | issues=False | severity=none
+[23:33:43]   [25/50] conv_025 [medium] mutual_fund_share_class_selection
+[23:34:37]          ✓ 19 turns | issues=True | severity=high
+[23:34:37]   [26/50] conv_026 [medium] discretionary_manager_style_drift
+[23:35:30]          ✓ 19 turns | issues=True | severity=high
+[23:35:30]   [27/50] conv_027 [medium] finra_arbitration_discovery_dispute
+[23:36:27]          ✓ 20 turns | issues=True | severity=high
+[23:36:27]   [28/50] conv_028 [medium] dual_registrant_capacity_confusion
+[23:37:19]          ✓ 18 turns | issues=True | severity=high
+[23:37:19]   [29/50] conv_029 [medium] promising_returns_guarantee
+[23:38:09]          ✓ 18 turns | issues=True | severity=high
+[23:38:09]   [30/50] conv_030 [medium] compliant_bond_ladder_retiree
+[23:39:11]          ✓ 21 turns | issues=False | severity=none
+[23:39:11]   [31/50] conv_031 [long] churning_discovery_confrontation
+[23:40:34]          ✓ 34 turns | issues=True | severity=high
+[23:40:34]   [32/50] conv_032 [long] elderly_unsuitable_annuity_sale
+[23:42:03]   ERROR: Unterminated string starting at: line 66 column 23 (char 16516)
+[23:42:03]          ✗ failed, skipping
+[23:42:03]   [32/50] conv_033 [long] reg_bi_rollover_full_analysis
+[23:44:24] ==================================================
+[23:44:24] phase14_conversations.py — claude-opus-4-6
+[23:44:24] Target: 50 conversations from 23 folders
+[23:44:24] ==================================================
+[23:44:24] Have 0 results, need 50 more across 23 folders
+[23:44:24] [01_SEC_Guidance_NoAction_Interpreti] need 2 (have 0, target 2)
+[23:45:00]   [ 1/50] 01_SEC_Guidance_NoAction_Int | guidance2_2024-Industry-Snapshot.pd | short | 8t | issues=True sev=medium
+[23:45:45]   [ 2/50] 01_SEC_Guidance_NoAction_Int | IA_5955_ProposedPrivateFundAdvisers | medium | 18t | issues=True sev=high
+[23:45:45] [02_SEC_Enforcement_Actions] need 2 (have 0, target 2)
+[23:47:01]   [ 3/50] 02_SEC_Enforcement_Actions | ia-5375.pdf | long | 36t | issues=True sev=high
+[23:47:33]   [ 4/50] 02_SEC_Enforcement_Actions | IA_6927_2025.pdf | short | 8t | issues=True sev=high
+[23:47:33] [03_FINRA_AWC] need 2 (have 0, target 2)
+[23:48:21]   [ 5/50] 03_FINRA_AWC | awc_202001_2021069229101_20Gilbert_ | medium | 18t | issues=True sev=high
+[23:49:38]   [ 6/50] 03_FINRA_AWC | 2018057331002_20Cetera_20Advisors_2 | long | 40t | issues=True sev=high
+[23:49:38] [04_RegBI_Compliance_Guidance] need 2 (have 0, target 2)
+[23:50:28]   [ 7/50] 04_RegBI_Compliance_Guidance | finra_regbi_2017052494701_20LPL_20F | medium | 18t | issues=True sev=high
+[23:51:06]   [ 8/50] 04_RegBI_Compliance_Guidance | finra_regbi_2023077080601_20ACP_20S | short | 8t | issues=True sev=high
+[23:51:06] [05_SEC_Exam_Findings] need 2 (have 0, target 2)
+[23:52:25]   [ 9/50] 05_SEC_Exam_Findings | EXAMS_brave_20230605-recommendation | long | 42t | issues=True sev=high
+[23:53:18]   [10/50] 05_SEC_Exam_Findings | gap5_2026-exam-priorities.pdf | medium | 20t | issues=True sev=high
+[23:53:18] [06_DOL_Fiduciary] need 2 (have 0, target 2)
+[23:53:52]   [11/50] 06_DOL_Fiduciary | 6_D_erisa-fidelity-bonding-requirem | short | 8t | issues=True sev=high
+[23:55:17]   [12/50] 06_DOL_Fiduciary | 6_D_00022.pdf | long | 40t | issues=True sev=medium
+[23:55:17] [07_Practitioner_Commentary] need 2 (have 0, target 2)
+[23:56:11]   [13/50] 07_Practitioner_Commentary | memo_willkie_NAIC_Report_2019_Sprin | medium | 22t | issues=True sev=medium
+[23:56:46]   [14/50] 07_Practitioner_Commentary | 7_P_SIFMA-AMG-Regulation-Best-Inter | short | 8t | issues=True sev=medium
+[23:56:46] [08_State_Fiduciary_Rules] need 2 (have 0, target 2)
+[23:58:06]   [15/50] 08_State_Fiduciary_Rules | state8_model-rule-investment-advise | long | 46t | issues=True sev=medium
+[23:59:00]   [16/50] 08_State_Fiduciary_Rules | state8_ea20201029_principal_life_co | medium | 18t | issues=True sev=high
+[23:59:00] [09_Law_Firm_Memos] need 2 (have 0, target 2)
+[23:59:39]   [17/50] 09_Law_Firm_Memos | Investment-Management-Guidebook-ext | short | 8t | issues=True sev=high
+[00:01:06]   ERROR: Unterminated string starting at: line 61 column 29 (char 16936)
+[00:01:06]   [skip] 9_L_HFLR_Happily_20Ever_20After-_20_20Investment_20Fund
+[00:02:37]   ERROR: Unterminated string starting at: line 57 column 7 (char 19052)
+[00:02:37]   [skip] 9_L_secadoptsinvestmentadvisermarketingrule.pdf
+[00:03:59]   ERROR: Expecting ',' delimiter: line 62 column 169 (char 17234)
+[00:03:59]   [skip] 9_L_QPAM-An-Important-Tool-for-ERISA-Fiduciaries.pdf
+[00:05:16]   [18/50] 09_Law_Firm_Memos | 2025-Retirement-Plan-Limits-Announc | long | 41t | issues=False sev=none
+[00:05:16] [10_Academic_Articles] need 2 (have 0, target 2)
+[00:06:11]   [19/50] 10_Academic_Articles | model-law-275.pdf | medium | 20t | issues=True sev=high
+[00:07:35]   [20/50] 10_Academic_Articles | acad10_s70420-216512.pdf | long | 42t | issues=True sev=low
+[00:07:35] [11_Case_Law] need 2 (have 0, target 2)
+[00:08:10]   [21/50] 11_Case_Law | cl_2023_delch_smash_franchise_partn | short | 8t | issues=True sev=high
+[00:09:02]   [22/50] 11_Case_Law | cl_2024_dcd_securities_and_exchange | medium | 18t | issues=True sev=high
+[00:09:02] [12_FINRA_Arbitration_Awards] need 2 (have 0, target 2)
+[00:10:18]   [23/50] 12_FINRA_Arbitration_Awards | 20-01786.pdf | long | 36t | issues=True sev=high
+[00:10:51]   [24/50] 12_FINRA_Arbitration_Awards | 18-00661.pdf | short | 8t | issues=True sev=medium
+[00:10:51] [13_FINRA_Rulebook] need 2 (have 0, target 2)
+[00:11:42]   [25/50] 13_FINRA_Rulebook | p037421.pdf | medium | 18t | issues=True sev=high
+[00:12:21]   [26/50] 13_FINRA_Rulebook | reg-bi-checklist.pdf | short | 8t | issues=True sev=high
+[00:12:21] [14_NASAA_State_Enforcement] need 2 (have 0, target 2)
+[00:13:06]   [27/50] 14_NASAA_State_Enforcement | IA-Model-Rule-Recordkeeping.pdf | medium | 18t | issues=True sev=high
+[00:14:33]   [28/50] 14_NASAA_State_Enforcement | 20-chapter-16-pdf.pdf | long | 38t | issues=True sev=medium
+[00:14:33] [15_FINRA_Regulatory_Notices] need 2 (have 0, target 2)
+[00:15:05]   [29/50] 15_FINRA_Regulatory_Notices | Regulatory-Notice-16-35.pdf | short | 8t | issues=True sev=high
+[00:16:02]   [30/50] 15_FINRA_Regulatory_Notices | 19-17_Moss-Gilmore_comment.pdf | medium | 18t | issues=True sev=high
+[00:16:02] [16_Congressional_Materials] need 2 (have 0, target 2)
+[00:17:30]   [31/50] 16_Congressional_Materials | crpt-113hrpt228-pt1.pdf | long | 40t | issues=True sev=high
+[00:18:21]   [32/50] 16_Congressional_Materials | 01388.pdf | medium | 20t | issues=True sev=high
+[00:18:21] [17_SEC_Staff_Bulletins] need 3 (have 0, target 3)
+[00:18:56]   [33/50] 17_SEC_Staff_Bulletins | sec_issues_important_guidance_on_th | short | 10t | issues=False sev=none
+[00:20:16]   [34/50] 17_SEC_Staff_Bulletins | ey-tl10949-201us-03-10-2025.pdf | long | 40t | issues=True sev=medium
+[00:21:07]   [35/50] 17_SEC_Staff_Bulletins | ey-sec21721-231us-11-30-2023-v2.pdf | medium | 18t | issues=True sev=high
+[00:21:07] [18_OCC_Bank_Trust_Guidance] need 2 (have 0, target 2)
+[00:21:41]   [36/50] 18_OCC_Bank_Trust_Guidance | bulletin-1994-13a.pdf | short | 8t | issues=True sev=high
+[00:23:06]   [37/50] 18_OCC_Bank_Trust_Guidance | pub-ch-conflicts-of-interest.pdf | long | 36t | issues=True sev=high
+[00:23:06] [19_CFTC_Guidance] need 3 (have 0, target 3)
+[00:23:58]   [38/50] 19_CFTC_Guidance | cta-disclosure-documents.pdf | medium | 20t | issues=True sev=high
+[00:24:35]   [39/50] 19_CFTC_Guidance | soundpractices.pdf | short | 8t | issues=True sev=high
+[00:25:55]   [40/50] 19_CFTC_Guidance | regulatory-requirements-guide.pdf | long | 42t | issues=True sev=high
+[00:25:55] [20_SEC_ALJ_OALJ_Decisions] need 2 (have 0, target 2)
+[00:26:42]   [41/50] 20_SEC_ALJ_OALJ_Decisions | s71222-20146736-312040.pdf | medium | 20t | issues=True sev=medium
+[00:27:19]   [42/50] 20_SEC_ALJ_OALJ_Decisions | id1414.pdf | short | 8t | issues=True sev=high
+[00:27:19] [21_FINRA_OHO_Decisions] need 3 (have 0, target 3)
+[00:28:26]   [43/50] 21_FINRA_OHO_Decisions | OHO_Order_24-08_Sullivan_2020066257 | long | 35t | issues=True sev=high
+[00:29:16]   [44/50] 21_FINRA_OHO_Decisions | p125348.pdf | medium | 18t | issues=True sev=high
+[00:30:27]   [45/50] 21_FINRA_OHO_Decisions | p007201.pdf | long | 34t | issues=True sev=high
+[00:30:27] [22_PIABA_Materials] need 2 (have 0, target 2)
+[00:31:09]   [46/50] 22_PIABA_Materials | Exhibit-B.pdf | short | 8t | issues=True sev=high
+[00:32:04]   [47/50] 22_PIABA_Materials | 031020_regbiamicusbrief.pdf | medium | 20t | issues=True sev=medium
+[00:32:04] [23_International_Comparative] need 3 (have 0, target 3)
+[00:33:28]   [48/50] 23_International_Comparative | csa_20121025_33-403_fiduciary-duty. | long | 36t | issues=True sev=high
+[00:34:06]   [49/50] 23_International_Comparative | 6.pdf | short | 8t | issues=True sev=high
+[00:34:58]   [50/50] 23_International_Comparative | 0220_new_fin_advice_regime_nz.pdf | medium | 20t | issues=True sev=high
+[00:34:58] DONE. 50 conversations.
+[00:34:58] JSON → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_7_AI_Training_Materials_Conversations.json
+[00:34:58] TXT  → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_7_AI_Training_Materials_Conversations.txt

@@ -1,0 +1,25 @@
+ID: 309
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+AdviseCorp LLC, a registered investment adviser with $840 million AUM, charges clients a tiered AUM fee: 1.25% on the first $500,000, 0.95% on assets $500K–$2M, and 0.65% on assets above $2M. In February 2024, AdviseCorp's billing system experienced a data error that caused it to calculate Q1 fees using December 2023 account values (average $2.3 billion client total) rather than Q1 average values (actual $2.1 billion). This resulted in $1.84 million in overcharges across 47 clients. The adviser discovered the error in its June 2024 reconciliation but did not disclose the billing error to clients or offer refunds for 5 months. When discovered by the SEC in a routine examination, AdviseCorp's CCO stated the error was 'immaterial' because it affected only 0.22% of quarterly revenue. The adviser eventually refunded $1.76 million plus 8% simple interest but claimed it had no duty to proactively disclose the error since it was corrected.
+
+QUESTION
+--------
+Did AdviseCorp comply with its fiduciary duty of care and disclosure obligations under the Investment Adviser Act when it failed to promptly disclose and remedy the billing system error?
+
+ANSWER
+------
+No. Under the Investment Adviser Act §206(2) and SEC Rule 206(4)-7, advisers must maintain accurate fee calculation procedures and promptly disclose billing errors. AdviseCorp's 5-month delay in notifying clients violated the duty of care prong requiring reasonable supervision and the fiduciary duty to act in clients' best interests. The $1.84 million overcharge, while small as a percentage of revenue, is material from a client perspective—individual overcharges ranged $18,000–$67,000. SEC precedent (e.g., Investment Adviser Disciplinary Orders) treats billing errors as Core Fiduciary Breaches requiring immediate disclosure, regardless of materiality to the adviser. Delayed refunds without interest or explanation also breach the duty of loyalty. The 'materiality' defense fails because advisers cannot assess their own interest in withholding disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2), 17 CFR §275.206(4)-7, Fiduciary Duty of Care and Loyalty
+
+KEY FACTOR
+----------
+Failure to promptly disclose and remedy a billing system error affecting $1.84 million in client fees constitutes a breach of the fiduciary duty of care, regardless of immateriality to adviser revenue.

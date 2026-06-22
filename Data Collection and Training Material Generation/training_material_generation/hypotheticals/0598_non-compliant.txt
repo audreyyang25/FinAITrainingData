@@ -1,0 +1,27 @@
+ID: 598
+Source Folder: 06_DOL_Fiduciary
+Topic: erisa_plan_fiduciary
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greenfield Manufacturing sponsors an ERISA-governed 401(k) plan with $18 million in assets covering 230 participants. The plan's named fiduciary committee, composed of three company executives, conducts its annual investment review. The committee retains Sterling Advisors as the plan's 3(21) investment adviser. Sterling recommends replacing the plan's existing S&P 500 index fund (5 bps expense ratio) with the Sterling Concentrated Growth Fund, a proprietary actively managed fund with a 95 bps expense ratio and a three-year track record that has underperformed the S&P 500 by 200 basis points annually. The committee minutes reflect a 15-minute discussion in which the committee members note that 'Sterling has always done a good job for us' and approve the change unanimously without requesting any comparative performance data, peer group analysis, or independent evaluation. No committee member inquires about the conflict inherent in Sterling recommending its own proprietary fund. The plan's IPS requires that fund changes be supported by quantitative analysis benchmarked against category peers.
+
+QUESTION
+--------
+Did the Greenfield Manufacturing plan fiduciary committee satisfy its duties under ERISA §404(a)(1) when approving the replacement of the index fund with Sterling's proprietary fund?
+
+ANSWER
+------
+No, this conduct violates ERISA §404(a)(1)'s prudent expert standard and the duty of loyalty.
+
+ERISA §404(a)(1)(B) requires plan fiduciaries to act with the care, skill, prudence, and diligence of a prudent expert, which includes conducting a thorough, documented evaluation process when making investment changes. The committee's 15-minute discussion without requesting comparative performance data, peer analysis, or an independent assessment of Sterling's proprietary fund falls far short of this standard, particularly given their own IPS requires quantitative benchmarked analysis. Additionally, ERISA §404(a)(1)(A) requires fiduciaries to act solely in the interest of plan participants; the committee's failure to even acknowledge or evaluate the inherent conflict of interest in Sterling recommending its own higher-cost, underperforming proprietary fund represents a breach of the duty of loyalty. The approval of a fund with 19x higher expenses and consistent underperformance without any documented diligence process would likely not survive scrutiny under the procedural prudence analysis courts apply in ERISA cases.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A) – Duty of Loyalty; ERISA §404(a)(1)(B) – Prudent Expert Rule; IRC §4975 Prohibited Transaction Rules
+
+KEY FACTOR
+----------
+The fiduciary committee approved a conflicted, higher-cost proprietary fund replacement without conducting the quantitative analysis required by their own IPS or addressing the adviser's obvious conflict of interest.

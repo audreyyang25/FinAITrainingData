@@ -1,0 +1,25 @@
+ID: 297
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An adviser manages three clients in the same strategy: Client A ($5M, pension plan), Client B ($2M, individual accredited investor), and Client C ($1.2M, individual non-accredited investor). For Client A only, the adviser executes a side letter reducing the base AUM fee from 1.0% to 0.5% and waiving performance fees entirely, citing the large account size. Client B and C pay 1.0% AUM + 15% performance fee. The side letter is not disclosed to Clients B or C, and Form ADV Part 2A discloses only the standard 1.0% + 15% structure. No written disclosure amendment is provided when the side letter is executed.
+
+QUESTION
+--------
+Does the undisclosed side letter violate the fiduciary duty and fee disclosure requirements under the Investment Adviser Act?
+
+ANSWER
+------
+Yes, on two grounds. First, the side letter creates materially different fee structures that trigger the duty of fair dealing and implicit Regulation S-K fiduciary duty to disclose conflicts of interest affecting other clients. Under SEC guidance (Investment Adviser Act Section 206(2) and Form ADV instructions), when fee waivers or favorable terms are granted to some clients but not similarly situated clients, this must be disclosed to all affected clients or justified by legitimate business reasons (e.g., different advisory complexity). Here, the justification (account size) applies equally to Client B ($2M). Second, Form ADV Part 2A must be updated within 90 days of any material change in fee terms; failure to amend and provide updated disclosure violates Item 5 and Item 6 requirements. This pattern mirrors SEC enforcement against advisers granting undisclosed breakpoints.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(2), Form ADV Part 2A Items 5 and 6, SEC IA Guidance (Marketing Rule adopts similar conflict principles)
+
+KEY FACTOR
+----------
+Side letter granting favorable fees to one similarly-situated client while concealing the arrangement from other clients violates fair dealing and material disclosure obligations.

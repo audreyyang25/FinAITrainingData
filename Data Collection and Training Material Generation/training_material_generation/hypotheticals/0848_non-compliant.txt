@@ -1,0 +1,27 @@
+ID: 848
+Source Folder: 17_SEC_Staff_Bulletins
+Topic: care_obligation_detail
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Tyler Branson, age 34, is a software engineer earning $115,000 annually with a moderate risk tolerance, a 30-year investment horizon, and no prior experience with leveraged products. In March 2022, his registered representative at Apex Securities Corp recommends he invest $45,000—representing approximately 60% of his liquid net worth—into a 3x leveraged ETF tracking the S&P 500, specifically the ProShares UltraPro S&P 500 (UPRO). The rep's primary basis for the recommendation documented in the Best Interest Analysis Form is that Tyler 'expressed bullish sentiment on U.S. equities' during a phone call and that the product 'offers amplified upside.' The rep does not document any analysis of the daily reset compounding risk, volatility decay, or the concentration this position would create in Tyler's portfolio, nor does he consider lower-cost broad market index funds that would serve the same stated investment objective.
+
+QUESTION
+--------
+Does the registered representative's recommendation of the 3x leveraged ETF satisfy the Care Obligation under Reg BI?
+
+ANSWER
+------
+No, this conduct is a violation of Reg BI's Care Obligation requiring a reasonable basis for recommendations based on the retail customer's specific investment profile.
+
+The Care Obligation under Reg BI requires a representative to have a reasonable basis to believe a recommendation is in the best interest of the particular retail customer based on their investment profile, including financial situation, risk tolerance, and investment objectives. The 2022 SEC Staff Bulletin emphasizes that representatives must understand the risks of complex products and assess whether those risks are consistent with the customer's profile before recommending them. A 3x leveraged ETF's daily reset compounding and volatility decay make it unsuitable as a long-term investment for a moderate risk-tolerance investor, and concentrating 60% of liquid net worth in a single leveraged instrument compounds the failure. The documented rationale—bullish sentiment and amplified upside—reflects no consideration of downside risk, product complexity, or the availability of less costly and less risky alternatives to achieve the same objective.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(ii) – Reg BI Care Obligation; SEC Staff Bulletin on Care Obligation (2022)
+
+KEY FACTOR
+----------
+The representative failed to conduct or document a reasonable basis analysis addressing the complex risks of a leveraged ETF relative to the client's moderate risk tolerance and long investment horizon, as required by the Care Obligation.

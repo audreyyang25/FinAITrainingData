@@ -1,0 +1,678 @@
+[09:08:24] ============================================================
+[09:08:24] ============================================================
+[09:08:24] phase16_adversarial.py — claude-opus-4-6
+[09:08:24] phase16_adversarial.py — claude-opus-4-6
+[09:08:24] Target: 200 adversarial hypotheticals
+[09:08:24] Target: 200 adversarial hypotheticals
+[09:08:24] Goal: Questions that stump GPT-4 / frontier LLMs
+[09:08:24] Goal: Questions that stump GPT-4 / frontier LLMs
+[09:08:24] ============================================================
+[09:08:24] ============================================================
+[09:08:24] Have 0 results, need 200 more across 23 folders
+[09:08:24] Have 0 results, need 200 more across 23 folders
+[09:08:24] [01_SEC_Guidance_NoAction_Interpreti] need 9 more (have 0, target 9)
+[09:08:24] [01_SEC_Guidance_NoAction_Interpreti] need 9 more (have 0, target 9)
+[09:09:05]   [  1/200] 01_SEC_Guidance_NoAction_Int | counterintuitive_outcome | guidance2_2024-Industry-Snapshot.pd (✓)
+[09:09:05]   [  1/200] 01_SEC_Guidance_NoAction_Int | counterintuitive_outcome | guidance2_2024-Industry-Snapshot.pd (✓)
+[09:09:48]   [  2/200] 01_SEC_Guidance_NoAction_Int | rule_conflict | guidance2_34-98977.pdf (✓)
+[09:09:48]   [  2/200] 01_SEC_Guidance_NoAction_Int | rule_conflict | guidance2_34-98977.pdf (✓)
+[09:10:28]   [  3/200] 01_SEC_Guidance_NoAction_Int | precise_threshold | im_guidance_2017_01_investment_advi (✓)
+[09:10:28]   [  3/200] 01_SEC_Guidance_NoAction_Int | precise_threshold | im_guidance_2017_01_investment_advi (✓)
+[09:11:07]   [  4/200] 01_SEC_Guidance_NoAction_Int | case_specific_holding | guidance2_NSCP_25-04_20_to_20publis (✓)
+[09:11:07]   [  4/200] 01_SEC_Guidance_NoAction_Int | case_specific_holding | guidance2_NSCP_25-04_20_to_20publis (✓)
+[09:11:47]   [  5/200] 01_SEC_Guidance_NoAction_Int | temporal_trap | noaction_exams-reg-bi-alert-13023.p (✓)
+[09:11:47]   [  5/200] 01_SEC_Guidance_NoAction_Int | temporal_trap | noaction_exams-reg-bi-alert-13023.p (✓)
+[09:12:31]   [  6/200] 01_SEC_Guidance_NoAction_Int | novel_unsettled | brave_guidance_im-guidance-2013-09. (✓)
+[09:12:31]   [  6/200] 01_SEC_Guidance_NoAction_Int | novel_unsettled | brave_guidance_im-guidance-2013-09. (✓)
+[09:13:09]   [  7/200] 01_SEC_Guidance_NoAction_Int | multi_party_liability | im-guidance-2014-06.pdf (✓)
+[09:13:09]   [  7/200] 01_SEC_Guidance_NoAction_Int | multi_party_liability | im-guidance-2014-06.pdf (✓)
+[09:13:45]   [  8/200] 01_SEC_Guidance_NoAction_Int | procedural_technical | noaction_formcrs.pdf (✓)
+[09:13:45]   [  8/200] 01_SEC_Guidance_NoAction_Int | procedural_technical | noaction_formcrs.pdf (✓)
+[09:14:27]   [  9/200] 01_SEC_Guidance_NoAction_Int | counterintuitive_outcome | guidance2_Regulatory-Notice-16-37.p (✓)
+[09:14:27]   [  9/200] 01_SEC_Guidance_NoAction_Int | counterintuitive_outcome | guidance2_Regulatory-Notice-16-37.p (✓)
+[09:14:27] [02_SEC_Enforcement_Actions] need 9 more (have 0, target 9)
+[09:14:27] [02_SEC_Enforcement_Actions] need 9 more (have 0, target 9)
+[09:15:08]   [ 10/200] 02_SEC_Enforcement_Actions | rule_conflict | ia-5050.pdf (✓)
+[09:15:08]   [ 10/200] 02_SEC_Enforcement_Actions | rule_conflict | ia-5050.pdf (✓)
+[09:15:40]   [ 11/200] 02_SEC_Enforcement_Actions | precise_threshold | ia-5174.pdf (✓)
+[09:15:40]   [ 11/200] 02_SEC_Enforcement_Actions | precise_threshold | ia-5174.pdf (✓)
+[09:16:14]   [ 12/200] 02_SEC_Enforcement_Actions | case_specific_holding | ia-4830.pdf (✓)
+[09:16:14]   [ 12/200] 02_SEC_Enforcement_Actions | case_specific_holding | ia-4830.pdf (✓)
+[09:16:58]   [ 13/200] 02_SEC_Enforcement_Actions | temporal_trap | ia-5407.pdf (✓)
+[09:16:58]   [ 13/200] 02_SEC_Enforcement_Actions | temporal_trap | ia-5407.pdf (✓)
+[09:17:41]   [ 14/200] 02_SEC_Enforcement_Actions | novel_unsettled | ia-6443.pdf (✓)
+[09:17:41]   [ 14/200] 02_SEC_Enforcement_Actions | novel_unsettled | ia-6443.pdf (✓)
+[09:18:28]   [ 15/200] 02_SEC_Enforcement_Actions | multi_party_liability | ia-5732.pdf (✓)
+[09:18:28]   [ 15/200] 02_SEC_Enforcement_Actions | multi_party_liability | ia-5732.pdf (✓)
+[09:19:05]   [ 16/200] 02_SEC_Enforcement_Actions | procedural_technical | IA_6861_2025.pdf (✓)
+[09:19:05]   [ 16/200] 02_SEC_Enforcement_Actions | procedural_technical | IA_6861_2025.pdf (✓)
+[09:19:49]   [ 17/200] 02_SEC_Enforcement_Actions | counterintuitive_outcome | ia-5970.pdf (✓)
+[09:19:49]   [ 17/200] 02_SEC_Enforcement_Actions | counterintuitive_outcome | ia-5970.pdf (✓)
+[09:20:33]   [ 18/200] 02_SEC_Enforcement_Actions | rule_conflict | 34-100691.pdf (✓)
+[09:20:33]   [ 18/200] 02_SEC_Enforcement_Actions | rule_conflict | 34-100691.pdf (✓)
+[09:20:33] [03_FINRA_AWC] need 9 more (have 0, target 9)
+[09:20:33] [03_FINRA_AWC] need 9 more (have 0, target 9)
+[09:21:04]   [ 19/200] 03_FINRA_AWC | precise_threshold | 2024081936601_20Derrick_20Hostert_2 (✓)
+[09:21:04]   [ 19/200] 03_FINRA_AWC | precise_threshold | 2024081936601_20Derrick_20Hostert_2 (✓)
+[09:21:36]   [ 20/200] 03_FINRA_AWC | case_specific_holding | awc_2022076459303_20Monmouth_20Capi (✓)
+[09:21:36]   [ 20/200] 03_FINRA_AWC | case_specific_holding | awc_2022076459303_20Monmouth_20Capi (✓)
+[09:22:21]   [ 21/200] 03_FINRA_AWC | temporal_trap | p014997.pdf (✓)
+[09:22:21]   [ 21/200] 03_FINRA_AWC | temporal_trap | p014997.pdf (✓)
+[09:23:03]   [ 22/200] 03_FINRA_AWC | novel_unsettled | 2020066757804_20Brian_20J._20Pavelk (✓)
+[09:23:03]   [ 22/200] 03_FINRA_AWC | novel_unsettled | 2020066757804_20Brian_20J._20Pavelk (✓)
+[09:23:46]   [ 23/200] 03_FINRA_AWC | multi_party_liability | 2025086695201_20George_20Ndifor_20J (✓)
+[09:23:46]   [ 23/200] 03_FINRA_AWC | multi_party_liability | 2025086695201_20George_20Ndifor_20J (✓)
+[09:39:58]   [skip] 2023078794801_20Donald_20Franklin_20Spivey_20CRD_208473
+[09:39:58]   [skip] 2023078794801_20Donald_20Franklin_20Spivey_20CRD_208473
+[09:40:05] ============================================================
+[09:40:05] ============================================================
+[09:40:05] phase16_adversarial.py — claude-opus-4-6
+[09:40:05] phase16_adversarial.py — claude-opus-4-6
+[09:40:05] Target: 200 adversarial hypotheticals
+[09:40:05] Target: 200 adversarial hypotheticals
+[09:40:05] Goal: Questions that stump GPT-4 / frontier LLMs
+[09:40:05] Goal: Questions that stump GPT-4 / frontier LLMs
+[09:40:05] ============================================================
+[09:40:05] ============================================================
+[09:40:05] Loaded 23 existing results
+[09:40:05] Loaded 23 existing results
+[09:40:05] Have 23 results, need 177 more across 23 folders
+[09:40:05] Have 23 results, need 177 more across 23 folders
+[09:40:05] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 8, skipping
+[09:40:05] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 8, skipping
+[09:40:05] [02_SEC_Enforcement_Actions] have 9 / 8, skipping
+[09:40:05] [02_SEC_Enforcement_Actions] have 9 / 8, skipping
+[09:40:05] [03_FINRA_AWC] need 3 more (have 5, target 8)
+[09:40:05] [03_FINRA_AWC] need 3 more (have 5, target 8)
+[09:40:41]   [ 24/200] 03_FINRA_AWC | procedural_technical | 2022075778501_20CIBC_20World_20Mark (✓)
+[09:40:41]   [ 24/200] 03_FINRA_AWC | procedural_technical | 2022075778501_20CIBC_20World_20Mark (✓)
+[09:57:19]   [skip] gap3_disciplinary-actions-june-2025.pdf
+[09:57:19]   [skip] gap3_disciplinary-actions-june-2025.pdf
+[09:57:52]   [ 25/200] 03_FINRA_AWC | counterintuitive_outcome | 2024082783901_20Hugo_20Hernandez_20 (✓)
+[09:57:52]   [ 25/200] 03_FINRA_AWC | counterintuitive_outcome | 2024082783901_20Hugo_20Hernandez_20 (✓)
+[09:58:35]   [ 26/200] 03_FINRA_AWC | rule_conflict | October_2018_Disciplinary_Actions.p (✓)
+[09:58:35]   [ 26/200] 03_FINRA_AWC | rule_conflict | October_2018_Disciplinary_Actions.p (✓)
+[09:58:35] [04_RegBI_Compliance_Guidance] need 9 more (have 0, target 9)
+[09:58:35] [04_RegBI_Compliance_Guidance] need 9 more (have 0, target 9)
+[09:59:09]   [ 27/200] 04_RegBI_Compliance_Guidance | precise_threshold | finra_regbi_2021070498104_20Linda_2 (✓)
+[09:59:09]   [ 27/200] 04_RegBI_Compliance_Guidance | precise_threshold | finra_regbi_2021070498104_20Linda_2 (✓)
+[09:59:49]   [ 28/200] 04_RegBI_Compliance_Guidance | case_specific_holding | gap4_what-to-expect-from-sec-enforc (✓)
+[09:59:49]   [ 28/200] 04_RegBI_Compliance_Guidance | case_specific_holding | gap4_what-to-expect-from-sec-enforc (✓)
+[10:00:30]   [ 29/200] 04_RegBI_Compliance_Guidance | temporal_trap | finra_regbi_34-103675.pdf (✓)
+[10:00:30]   [ 29/200] 04_RegBI_Compliance_Guidance | temporal_trap | finra_regbi_34-103675.pdf (✓)
+[10:01:23]   [ 30/200] 04_RegBI_Compliance_Guidance | novel_unsettled | finra_regbi_2024081675801_20Mark_20 (✓)
+[10:01:23]   [ 30/200] 04_RegBI_Compliance_Guidance | novel_unsettled | finra_regbi_2024081675801_20Mark_20 (✓)
+[10:02:13]   [skip] finra_regbi_2021069218305_20Spartan_20Capital_20Securit
+[10:02:13]   [skip] finra_regbi_2021069218305_20Spartan_20Capital_20Securit
+[10:03:04]   [ 31/200] 04_RegBI_Compliance_Guidance | multi_party_liability | finra_regbi_2021072167901_20Stewart (✓)
+[10:03:04]   [ 31/200] 04_RegBI_Compliance_Guidance | multi_party_liability | finra_regbi_2021072167901_20Stewart (✓)
+[10:03:46]   [ 32/200] 04_RegBI_Compliance_Guidance | procedural_technical | finra_regbi_34-98478.pdf (✓)
+[10:03:46]   [ 32/200] 04_RegBI_Compliance_Guidance | procedural_technical | finra_regbi_34-98478.pdf (✓)
+[10:04:24]   [ 33/200] 04_RegBI_Compliance_Guidance | counterintuitive_outcome | finra_regbi_2022073342401_20AAG_20C (✓)
+[10:04:24]   [ 33/200] 04_RegBI_Compliance_Guidance | counterintuitive_outcome | finra_regbi_2022073342401_20AAG_20C (✓)
+[10:05:08]   [ 34/200] 04_RegBI_Compliance_Guidance | rule_conflict | finra_regbi_2021072107601_20Aaron_2 (✓)
+[10:05:08]   [ 34/200] 04_RegBI_Compliance_Guidance | rule_conflict | finra_regbi_2021072107601_20Aaron_2 (✓)
+[10:05:44]   [ 35/200] 04_RegBI_Compliance_Guidance | precise_threshold | finra_regbi_2024080209001_20General (✓)
+[10:05:44]   [ 35/200] 04_RegBI_Compliance_Guidance | precise_threshold | finra_regbi_2024080209001_20General (✓)
+[10:05:44] [05_SEC_Exam_Findings] need 9 more (have 0, target 9)
+[10:05:44] [05_SEC_Exam_Findings] need 9 more (have 0, target 9)
+[10:06:17]   [ 36/200] 05_SEC_Exam_Findings | case_specific_holding | exam_brave_OCIE_20Risk_20Alert_20-_ (✓)
+[10:06:17]   [ 36/200] 05_SEC_Exam_Findings | case_specific_holding | exam_brave_OCIE_20Risk_20Alert_20-_ (✓)
+[10:06:58]   [ 37/200] 05_SEC_Exam_Findings | temporal_trap | exams-reg-bi-alert-13023.pdf (✓)
+[10:06:58]   [ 37/200] 05_SEC_Exam_Findings | temporal_trap | exams-reg-bi-alert-13023.pdf (✓)
+[10:07:50]   [ 38/200] 05_SEC_Exam_Findings | novel_unsettled | EXAMS_brave_fixed-income-principal- (✓)
+[10:07:50]   [ 38/200] 05_SEC_Exam_Findings | novel_unsettled | EXAMS_brave_fixed-income-principal- (✓)
+[10:08:43]   [ 39/200] 05_SEC_Exam_Findings | multi_party_liability | EXAMS_Priorities_2023.pdf (✓)
+[10:08:43]   [ 39/200] 05_SEC_Exam_Findings | multi_party_liability | EXAMS_Priorities_2023.pdf (✓)
+[10:09:14]   [ 40/200] 05_SEC_Exam_Findings | procedural_technical | gap5_OCIE_20Risk_20Alert_20-_20Cash (✓)
+[10:09:14]   [ 40/200] 05_SEC_Exam_Findings | procedural_technical | gap5_OCIE_20Risk_20Alert_20-_20Cash (✓)
+[10:09:58]   [ 41/200] 05_SEC_Exam_Findings | counterintuitive_outcome | gap5_2022-exam-priorities.pdf (✓)
+[10:09:58]   [ 41/200] 05_SEC_Exam_Findings | counterintuitive_outcome | gap5_2022-exam-priorities.pdf (✓)
+[10:10:11] ============================================================
+[10:10:11] ============================================================
+[10:10:11] phase16_adversarial.py — claude-opus-4-6
+[10:10:11] phase16_adversarial.py — claude-opus-4-6
+[10:10:11] Target: 200 adversarial hypotheticals
+[10:10:11] Target: 200 adversarial hypotheticals
+[10:10:11] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:10:11] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:10:11] ============================================================
+[10:10:11] ============================================================
+[10:10:11] Loaded 41 existing results
+[10:10:11] Loaded 41 existing results
+[10:10:11] Have 41 results, need 159 more across 23 folders
+[10:10:11] Have 41 results, need 159 more across 23 folders
+[10:10:11] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 7, skipping
+[10:10:11] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 7, skipping
+[10:10:11] [02_SEC_Enforcement_Actions] have 9 / 7, skipping
+[10:10:11] [02_SEC_Enforcement_Actions] have 9 / 7, skipping
+[10:10:11] [03_FINRA_AWC] have 8 / 8, skipping
+[10:10:11] [03_FINRA_AWC] have 8 / 8, skipping
+[10:10:11] [04_RegBI_Compliance_Guidance] have 9 / 8, skipping
+[10:10:11] [04_RegBI_Compliance_Guidance] have 9 / 8, skipping
+[10:10:11] [05_SEC_Exam_Findings] need 2 more (have 6, target 8)
+[10:10:11] [05_SEC_Exam_Findings] need 2 more (have 6, target 8)
+[10:10:46] Runner: starting phase16_adversarial.py
+[10:10:46] ============================================================
+[10:10:46] ============================================================
+[10:10:46] phase16_adversarial.py — claude-opus-4-6
+[10:10:46] phase16_adversarial.py — claude-opus-4-6
+[10:10:46] Target: 200 adversarial hypotheticals
+[10:10:46] Target: 200 adversarial hypotheticals
+[10:10:46] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:10:46] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:10:46] ============================================================
+[10:10:46] ============================================================
+[10:10:46] Loaded 41 existing results
+[10:10:46] Loaded 41 existing results
+[10:10:46] Have 41 results, need 159 more across 23 folders
+[10:10:46] Have 41 results, need 159 more across 23 folders
+[10:10:46] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 7, skipping
+[10:10:46] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 7, skipping
+[10:10:46] [02_SEC_Enforcement_Actions] have 9 / 7, skipping
+[10:10:46] [02_SEC_Enforcement_Actions] have 9 / 7, skipping
+[10:10:46] [03_FINRA_AWC] have 8 / 8, skipping
+[10:10:46] [03_FINRA_AWC] have 8 / 8, skipping
+[10:10:46] [04_RegBI_Compliance_Guidance] have 9 / 8, skipping
+[10:10:46] [04_RegBI_Compliance_Guidance] have 9 / 8, skipping
+[10:10:46] [05_SEC_Exam_Findings] need 2 more (have 6, target 8)
+[10:10:46] [05_SEC_Exam_Findings] need 2 more (have 6, target 8)
+[10:11:29]   [ 42/200] 05_SEC_Exam_Findings | rule_conflict | gap5_2023-exam-priorities.pdf (✓)
+[10:11:29]   [ 42/200] 05_SEC_Exam_Findings | rule_conflict | gap5_2023-exam-priorities.pdf (✓)
+[10:12:03]   [ 43/200] 05_SEC_Exam_Findings | precise_threshold | gap5_national-examination-program-p (✓)
+[10:12:03]   [ 43/200] 05_SEC_Exam_Findings | precise_threshold | gap5_national-examination-program-p (✓)
+[10:12:03] [06_DOL_Fiduciary] need 9 more (have 0, target 9)
+[10:12:03] [06_DOL_Fiduciary] need 9 more (have 0, target 9)
+[10:12:46]   [ 44/200] 06_DOL_Fiduciary | case_specific_holding | DOL_FAB_2018_01.pdf (✓)
+[10:12:46]   [ 44/200] 06_DOL_Fiduciary | case_specific_holding | DOL_FAB_2018_01.pdf (✓)
+[10:13:29]   [ 45/200] 06_DOL_Fiduciary | temporal_trap | dol_final_2006-01.pdf (✓)
+[10:13:29]   [ 45/200] 06_DOL_Fiduciary | temporal_trap | dol_final_2006-01.pdf (✓)
+[10:14:16]   [ 46/200] 06_DOL_Fiduciary | novel_unsettled | 6_D_00019.pdf (✓)
+[10:14:16]   [ 46/200] 06_DOL_Fiduciary | novel_unsettled | 6_D_00019.pdf (✓)
+[10:15:01]   [ 47/200] 06_DOL_Fiduciary | multi_party_liability | gap6_00346.pdf (✓)
+[10:15:01]   [ 47/200] 06_DOL_Fiduciary | multi_party_liability | gap6_00346.pdf (✓)
+[10:15:39]   [ 48/200] 06_DOL_Fiduciary | procedural_technical | 6_D_00526.pdf (✓)
+[10:15:39]   [ 48/200] 06_DOL_Fiduciary | procedural_technical | 6_D_00526.pdf (✓)
+[10:16:13]   [ 49/200] 06_DOL_Fiduciary | counterintuitive_outcome | dol_brave_2021-03.pdf (✓)
+[10:16:13]   [ 49/200] 06_DOL_Fiduciary | counterintuitive_outcome | dol_brave_2021-03.pdf (✓)
+[10:16:49]   [ 50/200] 06_DOL_Fiduciary | rule_conflict | 6_D_2025-02.pdf (✓)
+[10:16:49]   [ 50/200] 06_DOL_Fiduciary | rule_conflict | 6_D_2025-02.pdf (✓)
+[10:17:18]   [ 51/200] 06_DOL_Fiduciary | precise_threshold | 6_D_2025-02-appendix-1.pdf (✓)
+[10:17:18]   [ 51/200] 06_DOL_Fiduciary | precise_threshold | 6_D_2025-02-appendix-1.pdf (✓)
+[10:17:52]   [ 52/200] 06_DOL_Fiduciary | case_specific_holding | dol_brave_00206.pdf (✓)
+[10:17:52]   [ 52/200] 06_DOL_Fiduciary | case_specific_holding | dol_brave_00206.pdf (✓)
+[10:17:52] [07_Practitioner_Commentary] need 9 more (have 0, target 9)
+[10:17:52] [07_Practitioner_Commentary] need 9 more (have 0, target 9)
+[10:18:44]   [ 53/200] 07_Practitioner_Commentary | temporal_trap | 7_P_per29-03.pdf (✓)
+[10:18:44]   [ 53/200] 07_Practitioner_Commentary | temporal_trap | 7_P_per29-03.pdf (✓)
+[10:19:32]   [ 54/200] 07_Practitioner_Commentary | novel_unsettled | 7_P_SIFMA-AMG-Regulation-Best-Inter (✓)
+[10:19:32]   [ 54/200] 07_Practitioner_Commentary | novel_unsettled | 7_P_SIFMA-AMG-Regulation-Best-Inter (✓)
+[10:20:20]   [ 55/200] 07_Practitioner_Commentary | multi_party_liability | memo_willkie_private_equity_allocat (✓)
+[10:20:20]   [ 55/200] 07_Practitioner_Commentary | multi_party_liability | memo_willkie_private_equity_allocat (✓)
+[10:21:04]   [ 56/200] 07_Practitioner_Commentary | procedural_technical | memo_2019_RBI_Reg_BI_Obligations.pd (✓)
+[10:21:04]   [ 56/200] 07_Practitioner_Commentary | procedural_technical | memo_2019_RBI_Reg_BI_Obligations.pd (✓)
+[10:21:39]   [ 57/200] 07_Practitioner_Commentary | counterintuitive_outcome | memo_ia-5248.pdf (✓)
+[10:21:39]   [ 57/200] 07_Practitioner_Commentary | counterintuitive_outcome | memo_ia-5248.pdf (✓)
+[10:22:20]   [ 58/200] 07_Practitioner_Commentary | rule_conflict | memo_willkie_sec-division-of-examin (✓)
+[10:22:20]   [ 58/200] 07_Practitioner_Commentary | rule_conflict | memo_willkie_sec-division-of-examin (✓)
+[10:22:56]   [ 59/200] 07_Practitioner_Commentary | precise_threshold | memo_Reg_BI_-_6_Must-Haves_for_Comp (✓)
+[10:22:56]   [ 59/200] 07_Practitioner_Commentary | precise_threshold | memo_Reg_BI_-_6_Must-Haves_for_Comp (✓)
+[10:23:28]   [ 60/200] 07_Practitioner_Commentary | case_specific_holding | memo_w25861.pdf (✓)
+[10:23:28]   [ 60/200] 07_Practitioner_Commentary | case_specific_holding | memo_w25861.pdf (✓)
+[10:24:10]   [ 61/200] 07_Practitioner_Commentary | temporal_trap | 7_P_rflr-v9-n2-1-pdf.pdf (✓)
+[10:24:10]   [ 61/200] 07_Practitioner_Commentary | temporal_trap | 7_P_rflr-v9-n2-1-pdf.pdf (✓)
+[10:24:10] [08_State_Fiduciary_Rules] need 9 more (have 0, target 9)
+[10:24:10] [08_State_Fiduciary_Rules] need 9 more (have 0, target 9)
+[10:24:51]   [ 62/200] 08_State_Fiduciary_Rules | novel_unsettled | state8_CFA-Conflict-of-Interest-Fra (✓)
+[10:24:51]   [ 62/200] 08_State_Fiduciary_Rules | novel_unsettled | state8_CFA-Conflict-of-Interest-Fra (✓)
+[10:25:35]   [ 63/200] 08_State_Fiduciary_Rules | multi_party_liability | state8_NevadaLawyer_March2017_Famil (✓)
+[10:25:35]   [ 63/200] 08_State_Fiduciary_Rules | multi_party_liability | state8_NevadaLawyer_March2017_Famil (✓)
+[10:26:14]   [ 64/200] 08_State_Fiduciary_Rules | procedural_technical | state8_model-laws-state-page-275.pd (✓)
+[10:26:14]   [ 64/200] 08_State_Fiduciary_Rules | procedural_technical | state8_model-laws-state-page-275.pd (✓)
+[10:26:53]   [ 65/200] 08_State_Fiduciary_Rules | counterintuitive_outcome | state8_trustco_nv.pdf (✓)
+[10:26:53]   [ 65/200] 08_State_Fiduciary_Rules | counterintuitive_outcome | state8_trustco_nv.pdf (✓)
+[10:27:40]   [ 66/200] 08_State_Fiduciary_Rules | rule_conflict | state8_model-law-275.pdf (✓)
+[10:27:40]   [ 66/200] 08_State_Fiduciary_Rules | rule_conflict | state8_model-law-275.pdf (✓)
+[10:28:14]   [ 67/200] 08_State_Fiduciary_Rules | precise_threshold | state8_Notice_20of_20Intent_20to_20 (✓)
+[10:28:14]   [ 67/200] 08_State_Fiduciary_Rules | precise_threshold | state8_Notice_20of_20Intent_20to_20 (✓)
+[10:28:48]   [ 68/200] 08_State_Fiduciary_Rules | case_specific_holding | state8_annrpt_ins_2010.pdf (✓)
+[10:28:48]   [ 68/200] 08_State_Fiduciary_Rules | case_specific_holding | state8_annrpt_ins_2010.pdf (✓)
+[10:29:26]   [ 69/200] 08_State_Fiduciary_Rules | temporal_trap | state8_ea20210226_nyliac.pdf (✓)
+[10:29:26]   [ 69/200] 08_State_Fiduciary_Rules | temporal_trap | state8_ea20210226_nyliac.pdf (✓)
+[10:30:10]   [ 70/200] 08_State_Fiduciary_Rules | novel_unsettled | state8_2024-IAA-CC-Outline-Ethics-f (✓)
+[10:30:10]   [ 70/200] 08_State_Fiduciary_Rules | novel_unsettled | state8_2024-IAA-CC-Outline-Ethics-f (✓)
+[10:30:10] [09_Law_Firm_Memos] need 9 more (have 0, target 9)
+[10:30:10] [09_Law_Firm_Memos] need 9 more (have 0, target 9)
+[10:31:00]   [ 71/200] 09_Law_Firm_Memos | multi_party_liability | 1882_ERISA_Risks_Role_of_Fiduciary_ (✓)
+[10:31:00]   [ 71/200] 09_Law_Firm_Memos | multi_party_liability | 1882_ERISA_Risks_Role_of_Fiduciary_ (✓)
+[10:31:38]   [ 72/200] 09_Law_Firm_Memos | procedural_technical | lawmemo_the-role-of-investment-advi (✓)
+[10:31:38]   [ 72/200] 09_Law_Firm_Memos | procedural_technical | lawmemo_the-role-of-investment-advi (✓)
+[10:32:22]   [ 73/200] 09_Law_Firm_Memos | counterintuitive_outcome | 9_L_1882_ERISA_Risks_Role_of_Fiduci (✓)
+[10:32:22]   [ 73/200] 09_Law_Firm_Memos | counterintuitive_outcome | 9_L_1882_ERISA_Risks_Role_of_Fiduci (✓)
+[10:33:05]   [ 74/200] 09_Law_Firm_Memos | rule_conflict | the-year-in-erisa-litigation-2024-t (✓)
+[10:33:05]   [ 74/200] 09_Law_Firm_Memos | rule_conflict | the-year-in-erisa-litigation-2024-t (✓)
+[10:33:44]   [ 75/200] 09_Law_Firm_Memos | precise_threshold | TAXES-The-Tax-Magazing-Mandatory-Au (✓)
+[10:33:44]   [ 75/200] 09_Law_Firm_Memos | precise_threshold | TAXES-The-Tax-Magazing-Mandatory-Au (✓)
+[10:34:18]   [ 76/200] 09_Law_Firm_Memos | case_specific_holding | 9_L_IRS-Version-of-Missing-Particip (✓)
+[10:34:18]   [ 76/200] 09_Law_Firm_Memos | case_specific_holding | 9_L_IRS-Version-of-Missing-Particip (✓)
+[10:35:04]   [ 77/200] 09_Law_Firm_Memos | temporal_trap | lawmemo_overview-of-reg-bi.pdf (✓)
+[10:35:04]   [ 77/200] 09_Law_Firm_Memos | temporal_trap | lawmemo_overview-of-reg-bi.pdf (✓)
+[10:35:54]   [ 78/200] 09_Law_Firm_Memos | novel_unsettled | lawmemo_mliap-wrap-fee-program-broc (✓)
+[10:35:54]   [ 78/200] 09_Law_Firm_Memos | novel_unsettled | lawmemo_mliap-wrap-fee-program-broc (✓)
+[10:36:45]   [ 79/200] 09_Law_Firm_Memos | multi_party_liability | 9_L_01-25-Reminder-Certain-US-Repor (✓)
+[10:36:45]   [ 79/200] 09_Law_Firm_Memos | multi_party_liability | 9_L_01-25-Reminder-Certain-US-Repor (✓)
+[10:36:45] [10_Academic_Articles] need 9 more (have 0, target 9)
+[10:36:45] [10_Academic_Articles] need 9 more (have 0, target 9)
+[10:37:24]   [ 80/200] 10_Academic_Articles | procedural_technical | Mullainathan_20Noeth_20Schoar_20NBE (✓)
+[10:37:24]   [ 80/200] 10_Academic_Articles | procedural_technical | Mullainathan_20Noeth_20Schoar_20NBE (✓)
+[10:38:02]   [ 81/200] 10_Academic_Articles | counterintuitive_outcome | handbook_advisors_2019.pdf (✓)
+[10:38:02]   [ 81/200] 10_Academic_Articles | counterintuitive_outcome | handbook_advisors_2019.pdf (✓)
+[10:38:47]   [ 82/200] 10_Academic_Articles | rule_conflict | cfs-685-w.pdf (✓)
+[10:38:47]   [ 82/200] 10_Academic_Articles | rule_conflict | cfs-685-w.pdf (✓)
+[10:39:19]   [ 83/200] 10_Academic_Articles | precise_threshold | sr406.pdf (✓)
+[10:39:19]   [ 83/200] 10_Academic_Articles | precise_threshold | sr406.pdf (✓)
+[10:39:59]   [ 84/200] 10_Academic_Articles | case_specific_holding | academic_2019_RBI_Reg_BI_Obligation (✓)
+[10:39:59]   [ 84/200] 10_Academic_Articles | case_specific_holding | academic_2019_RBI_Reg_BI_Obligation (✓)
+[10:40:57] Runner: starting phase16_adversarial.py
+[10:40:57] ============================================================
+[10:40:57] ============================================================
+[10:40:57] phase16_adversarial.py — claude-opus-4-6
+[10:40:57] phase16_adversarial.py — claude-opus-4-6
+[10:40:57] Target: 200 adversarial hypotheticals
+[10:40:57] Target: 200 adversarial hypotheticals
+[10:40:57] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:40:57] Goal: Questions that stump GPT-4 / frontier LLMs
+[10:40:57] ============================================================
+[10:40:57] ============================================================
+[10:40:57] Loaded 84 existing results
+[10:40:57] Loaded 84 existing results
+[10:40:57] Have 84 results, need 116 more across 23 folders
+[10:40:57] Have 84 results, need 116 more across 23 folders
+[10:40:57] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 5, skipping
+[10:40:57] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 5, skipping
+[10:40:57] [02_SEC_Enforcement_Actions] have 9 / 5, skipping
+[10:40:57] [02_SEC_Enforcement_Actions] have 9 / 5, skipping
+[10:40:57] [03_FINRA_AWC] have 8 / 6, skipping
+[10:40:57] [03_FINRA_AWC] have 8 / 6, skipping
+[10:40:57] [04_RegBI_Compliance_Guidance] have 9 / 6, skipping
+[10:40:57] [04_RegBI_Compliance_Guidance] have 9 / 6, skipping
+[10:40:57] [05_SEC_Exam_Findings] have 8 / 6, skipping
+[10:40:57] [05_SEC_Exam_Findings] have 8 / 6, skipping
+[10:40:57] [06_DOL_Fiduciary] have 9 / 6, skipping
+[10:40:57] [06_DOL_Fiduciary] have 9 / 6, skipping
+[10:40:57] [07_Practitioner_Commentary] have 9 / 7, skipping
+[10:40:57] [07_Practitioner_Commentary] have 9 / 7, skipping
+[10:40:57] [08_State_Fiduciary_Rules] have 9 / 7, skipping
+[10:40:57] [08_State_Fiduciary_Rules] have 9 / 7, skipping
+[10:40:57] [09_Law_Firm_Memos] have 9 / 8, skipping
+[10:40:57] [09_Law_Firm_Memos] have 9 / 8, skipping
+[10:40:57] [10_Academic_Articles] need 3 more (have 5, target 8)
+[10:40:57] [10_Academic_Articles] need 3 more (have 5, target 8)
+[10:41:35]   [ 85/200] 10_Academic_Articles | temporal_trap | 34-73639.pdf (✓)
+[10:41:35]   [ 85/200] 10_Academic_Articles | temporal_trap | 34-73639.pdf (✓)
+[10:42:25]   [ 86/200] 10_Academic_Articles | novel_unsettled | academic_Regulation-Best-Interest-R (✓)
+[10:42:25]   [ 86/200] 10_Academic_Articles | novel_unsettled | academic_Regulation-Best-Interest-R (✓)
+[10:43:16]   [ 87/200] 10_Academic_Articles | multi_party_liability | kreugersautnertangzhongfinalfeb_0.p (✓)
+[10:43:16]   [ 87/200] 10_Academic_Articles | multi_party_liability | kreugersautnertangzhongfinalfeb_0.p (✓)
+[10:43:16] [11_Case_Law] need 9 more (have 0, target 9)
+[10:43:16] [11_Case_Law] need 9 more (have 0, target 9)
+[10:43:55]   [ 88/200] 11_Case_Law | procedural_technical | cl_2015_ca5_state_of_texas_v._usa.p (✓)
+[10:43:55]   [ 88/200] 11_Case_Law | procedural_technical | cl_2015_ca5_state_of_texas_v._usa.p (✓)
+[10:44:27]   [ 89/200] 11_Case_Law | counterintuitive_outcome | cl_2019_calctapp_j.b.b._investment_ (✓)
+[10:44:27]   [ 89/200] 11_Case_Law | counterintuitive_outcome | cl_2019_calctapp_j.b.b._investment_ (✓)
+[10:45:11]   [ 90/200] 11_Case_Law | rule_conflict | gap11_OCIE_20Risk_20Alert_20-_20Sup (✓)
+[10:45:11]   [ 90/200] 11_Case_Law | rule_conflict | gap11_OCIE_20Risk_20Alert_20-_20Sup (✓)
+[10:45:51]   [ 91/200] 11_Case_Law | precise_threshold | cl_2026_ca11_u.s._securities_and_ex (✓)
+[10:45:51]   [ 91/200] 11_Case_Law | precise_threshold | cl_2026_ca11_u.s._securities_and_ex (✓)
+[10:46:30]   [ 92/200] 11_Case_Law | case_specific_holding | cl_2024_ca9_renaldo_white_v._symetr (✓)
+[10:46:30]   [ 92/200] 11_Case_Law | case_specific_holding | cl_2024_ca9_renaldo_white_v._symetr (✓)
+[10:47:06]   [ 93/200] 11_Case_Law | temporal_trap | cl_2018_illappct_vt_investment_corp (✓)
+[10:47:06]   [ 93/200] 11_Case_Law | temporal_trap | cl_2018_illappct_vt_investment_corp (✓)
+[10:47:52]   [ 94/200] 11_Case_Law | novel_unsettled | cl_2021_ca2_in_re_tribune_co._fraud (✓)
+[10:47:52]   [ 94/200] 11_Case_Law | novel_unsettled | cl_2021_ca2_in_re_tribune_co._fraud (✓)
+[10:48:43]   [ 95/200] 11_Case_Law | multi_party_liability | cl_2023_ca2_ark._tchr._ret._sys._v. (✓)
+[10:48:43]   [ 95/200] 11_Case_Law | multi_party_liability | cl_2023_ca2_ark._tchr._ret._sys._v. (✓)
+[10:49:21]   [ 96/200] 11_Case_Law | procedural_technical | cl_2018_cadc_phh_corporation_v._cfp (✓)
+[10:49:21]   [ 96/200] 11_Case_Law | procedural_technical | cl_2018_cadc_phh_corporation_v._cfp (✓)
+[10:49:21] [12_FINRA_Arbitration_Awards] need 9 more (have 0, target 9)
+[10:49:21] [12_FINRA_Arbitration_Awards] need 9 more (have 0, target 9)
+[10:49:57]   [ 97/200] 12_FINRA_Arbitration_Awards | counterintuitive_outcome | 22-01621.pdf (✓)
+[10:49:57]   [ 97/200] 12_FINRA_Arbitration_Awards | counterintuitive_outcome | 22-01621.pdf (✓)
+[10:50:34]   [ 98/200] 12_FINRA_Arbitration_Awards | rule_conflict | 20-02361.pdf (✓)
+[10:50:34]   [ 98/200] 12_FINRA_Arbitration_Awards | rule_conflict | 20-02361.pdf (✓)
+[10:51:08]   [ 99/200] 12_FINRA_Arbitration_Awards | precise_threshold | 24-01711.pdf (✓)
+[10:51:08]   [ 99/200] 12_FINRA_Arbitration_Awards | precise_threshold | 24-01711.pdf (✓)
+[10:51:36]   [100/200] 12_FINRA_Arbitration_Awards | case_specific_holding | 23-01186.pdf (✓)
+[10:51:36]   [100/200] 12_FINRA_Arbitration_Awards | case_specific_holding | 23-01186.pdf (✓)
+[10:52:15]   [101/200] 12_FINRA_Arbitration_Awards | temporal_trap | 17-00146.pdf (✓)
+[10:52:15]   [101/200] 12_FINRA_Arbitration_Awards | temporal_trap | 17-00146.pdf (✓)
+[10:52:56]   [102/200] 12_FINRA_Arbitration_Awards | novel_unsettled | 23-02926.pdf (✓)
+[10:52:56]   [102/200] 12_FINRA_Arbitration_Awards | novel_unsettled | 23-02926.pdf (✓)
+[10:53:35]   [103/200] 12_FINRA_Arbitration_Awards | multi_party_liability | 22-00456.pdf (✓)
+[10:53:35]   [103/200] 12_FINRA_Arbitration_Awards | multi_party_liability | 22-00456.pdf (✓)
+[10:54:12]   [104/200] 12_FINRA_Arbitration_Awards | procedural_technical | 16-02890.pdf (✓)
+[10:54:12]   [104/200] 12_FINRA_Arbitration_Awards | procedural_technical | 16-02890.pdf (✓)
+[10:54:53]   [105/200] 12_FINRA_Arbitration_Awards | counterintuitive_outcome | 20-00626.pdf (✓)
+[10:54:53]   [105/200] 12_FINRA_Arbitration_Awards | counterintuitive_outcome | 20-00626.pdf (✓)
+[10:54:53] [13_FINRA_Rulebook] need 9 more (have 0, target 9)
+[10:54:53] [13_FINRA_Rulebook] need 9 more (have 0, target 9)
+[10:55:35]   [106/200] 13_FINRA_Rulebook | rule_conflict | p006378_0.pdf (✓)
+[10:55:35]   [106/200] 13_FINRA_Rulebook | rule_conflict | p006378_0.pdf (✓)
+[10:56:12]   [107/200] 13_FINRA_Rulebook | precise_threshold | p122778.pdf (✓)
+[10:56:12]   [107/200] 13_FINRA_Rulebook | precise_threshold | p122778.pdf (✓)
+[10:56:45]   [108/200] 13_FINRA_Rulebook | case_specific_holding | 2021-06125.pdf (✓)
+[10:56:45]   [108/200] 13_FINRA_Rulebook | case_specific_holding | 2021-06125.pdf (✓)
+[10:57:26]   [109/200] 13_FINRA_Rulebook | temporal_trap | p121835.pdf (✓)
+[10:57:26]   [109/200] 13_FINRA_Rulebook | temporal_trap | p121835.pdf (✓)
+[10:58:08]   [110/200] 13_FINRA_Rulebook | novel_unsettled | Regulatory-Notice-20-18.pdf (✓)
+[10:58:08]   [110/200] 13_FINRA_Rulebook | novel_unsettled | Regulatory-Notice-20-18.pdf (✓)
+[10:58:59]   [111/200] 13_FINRA_Rulebook | multi_party_liability | p123701.pdf (✓)
+[10:58:59]   [111/200] 13_FINRA_Rulebook | multi_party_liability | p123701.pdf (✓)
+[10:59:33]   [112/200] 13_FINRA_Rulebook | procedural_technical | Regulatory-Notice-24-02-Attachment- (✓)
+[10:59:33]   [112/200] 13_FINRA_Rulebook | procedural_technical | Regulatory-Notice-24-02-Attachment- (✓)
+[11:00:07]   [113/200] 13_FINRA_Rulebook | counterintuitive_outcome | p125237.pdf (✓)
+[11:00:07]   [113/200] 13_FINRA_Rulebook | counterintuitive_outcome | p125237.pdf (✓)
+[11:00:49]   [114/200] 13_FINRA_Rulebook | rule_conflict | reg-bi-checklist.pdf (✓)
+[11:00:49]   [114/200] 13_FINRA_Rulebook | rule_conflict | reg-bi-checklist.pdf (✓)
+[11:00:49] [14_NASAA_State_Enforcement] need 9 more (have 0, target 9)
+[11:00:49] [14_NASAA_State_Enforcement] need 9 more (have 0, target 9)
+[11:01:22]   [115/200] 14_NASAA_State_Enforcement | precise_threshold | IC_24_CAF_01.pdf (✓)
+[11:01:22]   [115/200] 14_NASAA_State_Enforcement | precise_threshold | IC_24_CAF_01.pdf (✓)
+[11:02:03]   [116/200] 14_NASAA_State_Enforcement | case_specific_holding | 20190617-sec-final-rules-and-guidan (✓)
+[11:02:03]   [116/200] 14_NASAA_State_Enforcement | case_specific_holding | 20190617-sec-final-rules-and-guidan (✓)
+[11:02:47]   [117/200] 14_NASAA_State_Enforcement | temporal_trap | consent-order-No-E20230041.pdf (✓)
+[11:02:47]   [117/200] 14_NASAA_State_Enforcement | temporal_trap | consent-order-No-E20230041.pdf (✓)
+[11:03:28]   [118/200] 14_NASAA_State_Enforcement | novel_unsettled | Securities-CFTC-FSAP-Self-Assessmen (✓)
+[11:03:28]   [118/200] 14_NASAA_State_Enforcement | novel_unsettled | Securities-CFTC-FSAP-Self-Assessmen (✓)
+[11:04:12]   [119/200] 14_NASAA_State_Enforcement | multi_party_liability | Request-for-Public-Comment-on-Amend (✓)
+[11:04:12]   [119/200] 14_NASAA_State_Enforcement | multi_party_liability | Request-for-Public-Comment-on-Amend (✓)
+[11:04:44]   [120/200] 14_NASAA_State_Enforcement | procedural_technical | ioscopd154.pdf (✓)
+[11:04:44]   [120/200] 14_NASAA_State_Enforcement | procedural_technical | ioscopd154.pdf (✓)
+[11:05:27]   [121/200] 14_NASAA_State_Enforcement | counterintuitive_outcome | IA-Section-2024-Report_Final.pdf (✓)
+[11:05:27]   [121/200] 14_NASAA_State_Enforcement | counterintuitive_outcome | IA-Section-2024-Report_Final.pdf (✓)
+[11:06:06]   [122/200] 14_NASAA_State_Enforcement | rule_conflict | 2002-Act-Rule-502b-Prohibited-Condu (✓)
+[11:06:06]   [122/200] 14_NASAA_State_Enforcement | rule_conflict | 2002-Act-Rule-502b-Prohibited-Condu (✓)
+[11:06:43]   [123/200] 14_NASAA_State_Enforcement | precise_threshold | Admin.-Action-Kuber-Capital-Managem (✓)
+[11:06:43]   [123/200] 14_NASAA_State_Enforcement | precise_threshold | Admin.-Action-Kuber-Capital-Managem (✓)
+[11:06:43] [15_FINRA_Regulatory_Notices] need 9 more (have 0, target 9)
+[11:06:43] [15_FINRA_Regulatory_Notices] need 9 more (have 0, target 9)
+[11:07:24]   [124/200] 15_FINRA_Regulatory_Notices | case_specific_holding | Senior_Investor_Protection_Resource (✓)
+[11:07:24]   [124/200] 15_FINRA_Regulatory_Notices | case_specific_holding | Senior_Investor_Protection_Resource (✓)
+[11:08:02]   [125/200] 15_FINRA_Regulatory_Notices | temporal_trap | Regulatory-Notice.15-11.pdf (✓)
+[11:08:02]   [125/200] 15_FINRA_Regulatory_Notices | temporal_trap | Regulatory-Notice.15-11.pdf (✓)
+[11:08:44]   [126/200] 15_FINRA_Regulatory_Notices | novel_unsettled | Christine_20Drisco_New_20Harbor_20F (✓)
+[11:08:44]   [126/200] 15_FINRA_Regulatory_Notices | novel_unsettled | Christine_20Drisco_New_20Harbor_20F (✓)
+[11:09:30]   [127/200] 15_FINRA_Regulatory_Notices | multi_party_liability | 19-12_Gregory-Simcik_comment.pdf (✓)
+[11:09:30]   [127/200] 15_FINRA_Regulatory_Notices | multi_party_liability | 19-12_Gregory-Simcik_comment.pdf (✓)
+[11:10:05]   [128/200] 15_FINRA_Regulatory_Notices | procedural_technical | 17-38_cornell_comment.pdf (✓)
+[11:10:05]   [128/200] 15_FINRA_Regulatory_Notices | procedural_technical | 17-38_cornell_comment.pdf (✓)
+[11:10:37]   [129/200] 15_FINRA_Regulatory_Notices | counterintuitive_outcome | attachment-b-notice-110923.pdf (✓)
+[11:10:37]   [129/200] 15_FINRA_Regulatory_Notices | counterintuitive_outcome | attachment-b-notice-110923.pdf (✓)
+[11:11:01] Runner: starting phase16_adversarial.py
+[11:11:01] ============================================================
+[11:11:01] ============================================================
+[11:11:01] phase16_adversarial.py — claude-opus-4-6
+[11:11:01] phase16_adversarial.py — claude-opus-4-6
+[11:11:01] Target: 200 adversarial hypotheticals
+[11:11:01] Target: 200 adversarial hypotheticals
+[11:11:01] Goal: Questions that stump GPT-4 / frontier LLMs
+[11:11:01] Goal: Questions that stump GPT-4 / frontier LLMs
+[11:11:01] ============================================================
+[11:11:01] ============================================================
+[11:11:01] Loaded 129 existing results
+[11:11:01] Loaded 129 existing results
+[11:11:01] Have 129 results, need 71 more across 23 folders
+[11:11:01] Have 129 results, need 71 more across 23 folders
+[11:11:01] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 3, skipping
+[11:11:01] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 3, skipping
+[11:11:01] [02_SEC_Enforcement_Actions] have 9 / 3, skipping
+[11:11:01] [02_SEC_Enforcement_Actions] have 9 / 3, skipping
+[11:11:01] [03_FINRA_AWC] have 8 / 3, skipping
+[11:11:01] [03_FINRA_AWC] have 8 / 3, skipping
+[11:11:01] [04_RegBI_Compliance_Guidance] have 9 / 4, skipping
+[11:11:01] [04_RegBI_Compliance_Guidance] have 9 / 4, skipping
+[11:11:01] [05_SEC_Exam_Findings] have 8 / 4, skipping
+[11:11:01] [05_SEC_Exam_Findings] have 8 / 4, skipping
+[11:11:01] [06_DOL_Fiduciary] have 9 / 4, skipping
+[11:11:01] [06_DOL_Fiduciary] have 9 / 4, skipping
+[11:11:01] [07_Practitioner_Commentary] have 9 / 4, skipping
+[11:11:01] [07_Practitioner_Commentary] have 9 / 4, skipping
+[11:11:01] [08_State_Fiduciary_Rules] have 9 / 4, skipping
+[11:11:01] [08_State_Fiduciary_Rules] have 9 / 4, skipping
+[11:11:01] [09_Law_Firm_Memos] have 9 / 5, skipping
+[11:11:01] [09_Law_Firm_Memos] have 9 / 5, skipping
+[11:11:01] [10_Academic_Articles] have 8 / 5, skipping
+[11:11:01] [10_Academic_Articles] have 8 / 5, skipping
+[11:11:01] [11_Case_Law] have 9 / 5, skipping
+[11:11:01] [11_Case_Law] have 9 / 5, skipping
+[11:11:01] [12_FINRA_Arbitration_Awards] have 9 / 6, skipping
+[11:11:01] [12_FINRA_Arbitration_Awards] have 9 / 6, skipping
+[11:11:01] [13_FINRA_Rulebook] have 9 / 6, skipping
+[11:11:01] [13_FINRA_Rulebook] have 9 / 6, skipping
+[11:11:01] [14_NASAA_State_Enforcement] have 9 / 7, skipping
+[11:11:01] [14_NASAA_State_Enforcement] have 9 / 7, skipping
+[11:11:01] [15_FINRA_Regulatory_Notices] need 2 more (have 6, target 8)
+[11:11:01] [15_FINRA_Regulatory_Notices] need 2 more (have 6, target 8)
+[11:11:43]   [130/200] 15_FINRA_Regulatory_Notices | rule_conflict | Notice_Regulatory_15-09.pdf (✓)
+[11:11:43]   [130/200] 15_FINRA_Regulatory_Notices | rule_conflict | Notice_Regulatory_15-09.pdf (✓)
+[11:12:12]   [131/200] 15_FINRA_Regulatory_Notices | precise_threshold | 18-22_Sonn-Law_Comment.pdf (✓)
+[11:12:12]   [131/200] 15_FINRA_Regulatory_Notices | precise_threshold | 18-22_Sonn-Law_Comment.pdf (✓)
+[11:12:12] [16_Congressional_Materials] need 9 more (have 0, target 9)
+[11:12:12] [16_Congressional_Materials] need 9 more (have 0, target 9)
+[11:12:53]   [132/200] 16_Congressional_Materials | case_specific_holding | dilorenzo.pdf (✓)
+[11:12:53]   [132/200] 16_Congressional_Materials | case_specific_holding | dilorenzo.pdf (✓)
+[11:13:31]   [133/200] 16_Congressional_Materials | temporal_trap | HHRG-119-BA00-Wstate-SchragerA-2026 (✓)
+[11:13:31]   [133/200] 16_Congressional_Materials | temporal_trap | HHRG-119-BA00-Wstate-SchragerA-2026 (✓)
+[11:14:20]   [134/200] 16_Congressional_Materials | novel_unsettled | 20061023_RL33703_c93f4e46c967474582 (✓)
+[11:14:20]   [134/200] 16_Congressional_Materials | novel_unsettled | 20061023_RL33703_c93f4e46c967474582 (✓)
+[11:15:04]   [135/200] 16_Congressional_Materials | multi_party_liability | CHRG-114shrg22378.pdf (✓)
+[11:15:04]   [135/200] 16_Congressional_Materials | multi_party_liability | CHRG-114shrg22378.pdf (✓)
+[11:15:40]   [136/200] 16_Congressional_Materials | procedural_technical | NASAA-Fiduciary-Duty-Letter-final-0 (✓)
+[11:15:40]   [136/200] 16_Congressional_Materials | procedural_technical | NASAA-Fiduciary-Duty-Letter-final-0 (✓)
+[11:16:19]   [137/200] 16_Congressional_Materials | counterintuitive_outcome | meeting-your-fiduciary-responsibili (✓)
+[11:16:19]   [137/200] 16_Congressional_Materials | counterintuitive_outcome | meeting-your-fiduciary-responsibili (✓)
+[11:17:11]   [138/200] 16_Congressional_Materials | rule_conflict | chrg-116hhrg36560.pdf (✓)
+[11:17:11]   [138/200] 16_Congressional_Materials | rule_conflict | chrg-116hhrg36560.pdf (✓)
+[11:17:47]   [139/200] 16_Congressional_Materials | precise_threshold | CHRG-116hhrg35694.pdf (✓)
+[11:17:47]   [139/200] 16_Congressional_Materials | precise_threshold | CHRG-116hhrg35694.pdf (✓)
+[11:18:18]   [140/200] 16_Congressional_Materials | case_specific_holding | hhrg-118-ba00-20240924-sd003.pdf (✓)
+[11:18:18]   [140/200] 16_Congressional_Materials | case_specific_holding | hhrg-118-ba00-20240924-sd003.pdf (✓)
+[11:18:18] [17_SEC_Staff_Bulletins] need 9 more (have 0, target 9)
+[11:18:18] [17_SEC_Staff_Bulletins] need 9 more (have 0, target 9)
+[11:19:00]   [141/200] 17_SEC_Staff_Bulletins | temporal_trap | sec_issues_important_guidance_on_th (✓)
+[11:19:00]   [141/200] 17_SEC_Staff_Bulletins | temporal_trap | sec_issues_important_guidance_on_th (✓)
+[11:19:43]   [142/200] 17_SEC_Staff_Bulletins | novel_unsettled | Firms-Need-to-Improve-Compliance-wi (✓)
+[11:19:43]   [142/200] 17_SEC_Staff_Bulletins | novel_unsettled | Firms-Need-to-Improve-Compliance-wi (✓)
+[11:20:27]   [143/200] 17_SEC_Staff_Bulletins | multi_party_liability | CFP-Board-Code-and-Standards-and-Re (✓)
+[11:20:27]   [143/200] 17_SEC_Staff_Bulletins | multi_party_liability | CFP-Board-Code-and-Standards-and-Re (✓)
+[11:21:00]   [skip] Aug2020NewRegBIFAQs.pdf
+[11:21:00]   [skip] Aug2020NewRegBIFAQs.pdf
+[11:21:37]   [144/200] 17_SEC_Staff_Bulletins | procedural_technical | SOC-Overview-of-Reg-BI-Staff-Bullet (✓)
+[11:21:37]   [144/200] 17_SEC_Staff_Bulletins | procedural_technical | SOC-Overview-of-Reg-BI-Staff-Bullet (✓)
+[11:22:17]   [145/200] 17_SEC_Staff_Bulletins | counterintuitive_outcome | 22.08.02-Staff-Bulletin-on-Conflict (✓)
+[11:22:17]   [145/200] 17_SEC_Staff_Bulletins | counterintuitive_outcome | 22.08.02-Staff-Bulletin-on-Conflict (✓)
+[11:22:53]   [146/200] 17_SEC_Staff_Bulletins | rule_conflict | ey-sec21721-231us-11-30-2023-v2.pdf (✓)
+[11:22:53]   [146/200] 17_SEC_Staff_Bulletins | rule_conflict | ey-sec21721-231us-11-30-2023-v2.pdf (✓)
+[11:23:24]   [147/200] 17_SEC_Staff_Bulletins | precise_threshold | us-sec-division-investment-manageme (✓)
+[11:23:24]   [147/200] 17_SEC_Staff_Bulletins | precise_threshold | us-sec-division-investment-manageme (✓)
+[11:24:02]   [148/200] 17_SEC_Staff_Bulletins | case_specific_holding | Investment-Adviser-Duty-of-Care-SEC (✓)
+[11:24:02]   [148/200] 17_SEC_Staff_Bulletins | case_specific_holding | Investment-Adviser-Duty-of-Care-SEC (✓)
+[11:24:41]   [149/200] 17_SEC_Staff_Bulletins | temporal_trap | Reg_20BI_20FAQs.pdf (✓)
+[11:24:41]   [149/200] 17_SEC_Staff_Bulletins | temporal_trap | Reg_20BI_20FAQs.pdf (✓)
+[11:24:41] [18_OCC_Bank_Trust_Guidance] need 8 more (have 0, target 8)
+[11:24:41] [18_OCC_Bank_Trust_Guidance] need 8 more (have 0, target 8)
+[11:25:27]   [150/200] 18_OCC_Bank_Trust_Guidance | novel_unsettled | pub-ch-retail-nondeposit.pdf (✓)
+[11:25:27]   [150/200] 18_OCC_Bank_Trust_Guidance | novel_unsettled | pub-ch-retail-nondeposit.pdf (✓)
+[11:26:17]   [151/200] 18_OCC_Bank_Trust_Guidance | multi_party_liability | pub-ch-collective-investment-previo (✓)
+[11:26:17]   [151/200] 18_OCC_Bank_Trust_Guidance | multi_party_liability | pub-ch-collective-investment-previo (✓)
+[11:26:53]   [152/200] 18_OCC_Bank_Trust_Guidance | procedural_technical | int1170.pdf (✓)
+[11:26:53]   [152/200] 18_OCC_Bank_Trust_Guidance | procedural_technical | int1170.pdf (✓)
+[11:27:32]   [153/200] 18_OCC_Bank_Trust_Guidance | counterintuitive_outcome | ots-trust-handbook-880.pdf (✓)
+[11:27:32]   [153/200] 18_OCC_Bank_Trust_Guidance | counterintuitive_outcome | ots-trust-handbook-880.pdf (✓)
+[11:28:14]   [154/200] 18_OCC_Bank_Trust_Guidance | rule_conflict | ots-trust-handbook-800.pdf (✓)
+[11:28:14]   [154/200] 18_OCC_Bank_Trust_Guidance | rule_conflict | ots-trust-handbook-800.pdf (✓)
+[11:28:50]   [155/200] 18_OCC_Bank_Trust_Guidance | precise_threshold | int1179.pdf (✓)
+[11:28:50]   [155/200] 18_OCC_Bank_Trust_Guidance | precise_threshold | int1179.pdf (✓)
+[11:29:26]   [156/200] 18_OCC_Bank_Trust_Guidance | case_specific_holding | ots-trust-handbook-110.pdf (✓)
+[11:29:26]   [156/200] 18_OCC_Bank_Trust_Guidance | case_specific_holding | ots-trust-handbook-110.pdf (✓)
+[11:30:06]   [157/200] 18_OCC_Bank_Trust_Guidance | temporal_trap | fs_whitepaper_occupdatedguidanceret (✓)
+[11:30:06]   [157/200] 18_OCC_Bank_Trust_Guidance | temporal_trap | fs_whitepaper_occupdatedguidanceret (✓)
+[11:30:06] [19_CFTC_Guidance] need 9 more (have 0, target 9)
+[11:30:06] [19_CFTC_Guidance] need 9 more (have 0, target 9)
+[11:30:53]   [158/200] 19_CFTC_Guidance | novel_unsettled | us_commodity_exchange_act_related_r (✓)
+[11:30:53]   [158/200] 19_CFTC_Guidance | novel_unsettled | us_commodity_exchange_act_related_r (✓)
+[11:31:32]   [159/200] 19_CFTC_Guidance | multi_party_liability | FIA_Uniform_Futures_and_Options_on_ (✓)
+[11:31:32]   [159/200] 19_CFTC_Guidance | multi_party_liability | FIA_Uniform_Futures_and_Options_on_ (✓)
+[11:32:09]   [160/200] 19_CFTC_Guidance | procedural_technical | cta-disclosure-documents.pdf (✓)
+[11:32:09]   [160/200] 19_CFTC_Guidance | procedural_technical | cta-disclosure-documents.pdf (✓)
+[11:32:50]   [161/200] 19_CFTC_Guidance | counterintuitive_outcome | il0512obrien.pdf (✓)
+[11:32:50]   [161/200] 19_CFTC_Guidance | counterintuitive_outcome | il0512obrien.pdf (✓)
+[11:33:35]   [162/200] 19_CFTC_Guidance | rule_conflict | rules11202533001.pdf (✓)
+[11:33:35]   [162/200] 19_CFTC_Guidance | rule_conflict | rules11202533001.pdf (✓)
+[11:34:10]   [163/200] 19_CFTC_Guidance | precise_threshold | IOSCOPD698.pdf (✓)
+[11:34:10]   [163/200] 19_CFTC_Guidance | precise_threshold | IOSCOPD698.pdf (✓)
+[11:34:44]   [164/200] 19_CFTC_Guidance | case_specific_holding | six-factsheet-mifid2-investor-prote (✓)
+[11:34:44]   [164/200] 19_CFTC_Guidance | case_specific_holding | six-factsheet-mifid2-investor-prote (✓)
+[11:35:22]   [165/200] 19_CFTC_Guidance | temporal_trap | iar_factsheet.pdf (✓)
+[11:35:22]   [165/200] 19_CFTC_Guidance | temporal_trap | iar_factsheet.pdf (✓)
+[11:36:08]   [166/200] 19_CFTC_Guidance | novel_unsettled | 2024-11798a.pdf (✓)
+[11:36:08]   [166/200] 19_CFTC_Guidance | novel_unsettled | 2024-11798a.pdf (✓)
+[11:36:08] [20_SEC_ALJ_OALJ_Decisions] need 8 more (have 0, target 8)
+[11:36:08] [20_SEC_ALJ_OALJ_Decisions] need 8 more (have 0, target 8)
+[11:36:57]   [167/200] 20_SEC_ALJ_OALJ_Decisions | multi_party_liability | sec-guide-to-variable-annuities.pdf (✓)
+[11:36:57]   [167/200] 20_SEC_ALJ_OALJ_Decisions | multi_party_liability | sec-guide-to-variable-annuities.pdf (✓)
+[11:37:34]   [168/200] 20_SEC_ALJ_OALJ_Decisions | procedural_technical | sec-publishes-final-interpretation- (✓)
+[11:37:34]   [168/200] 20_SEC_ALJ_OALJ_Decisions | procedural_technical | sec-publishes-final-interpretation- (✓)
+[11:38:10]   [169/200] 20_SEC_ALJ_OALJ_Decisions | counterintuitive_outcome | s71222-20146736-312040.pdf (✓)
+[11:38:10]   [169/200] 20_SEC_ALJ_OALJ_Decisions | counterintuitive_outcome | s71222-20146736-312040.pdf (✓)
+[11:38:54]   [170/200] 20_SEC_ALJ_OALJ_Decisions | rule_conflict | id1250ce.pdf (✓)
+[11:38:54]   [170/200] 20_SEC_ALJ_OALJ_Decisions | rule_conflict | id1250ce.pdf (✓)
+[11:39:31]   [171/200] 20_SEC_ALJ_OALJ_Decisions | precise_threshold | ia-4889.pdf (✓)
+[11:39:31]   [171/200] 20_SEC_ALJ_OALJ_Decisions | precise_threshold | ia-4889.pdf (✓)
+[11:40:09]   [172/200] 20_SEC_ALJ_OALJ_Decisions | case_specific_holding | id1414.pdf (✓)
+[11:40:09]   [172/200] 20_SEC_ALJ_OALJ_Decisions | case_specific_holding | id1414.pdf (✓)
+[11:40:54]   [173/200] 20_SEC_ALJ_OALJ_Decisions | temporal_trap | 23-60471CV0.pdf (✓)
+[11:40:54]   [173/200] 20_SEC_ALJ_OALJ_Decisions | temporal_trap | 23-60471CV0.pdf (✓)
+[11:41:06] Runner: starting phase16_adversarial.py
+[11:41:06] ============================================================
+[11:41:06] ============================================================
+[11:41:06] phase16_adversarial.py — claude-opus-4-6
+[11:41:06] phase16_adversarial.py — claude-opus-4-6
+[11:41:06] Target: 200 adversarial hypotheticals
+[11:41:06] Target: 200 adversarial hypotheticals
+[11:41:06] Goal: Questions that stump GPT-4 / frontier LLMs
+[11:41:06] Goal: Questions that stump GPT-4 / frontier LLMs
+[11:41:06] ============================================================
+[11:41:06] ============================================================
+[11:41:06] Loaded 173 existing results
+[11:41:06] Loaded 173 existing results
+[11:41:06] Have 173 results, need 27 more across 23 folders
+[11:41:06] Have 173 results, need 27 more across 23 folders
+[11:41:06] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 1, skipping
+[11:41:06] [01_SEC_Guidance_NoAction_Interpreti] have 9 / 1, skipping
+[11:41:06] [02_SEC_Enforcement_Actions] have 9 / 1, skipping
+[11:41:06] [02_SEC_Enforcement_Actions] have 9 / 1, skipping
+[11:41:06] [03_FINRA_AWC] have 8 / 1, skipping
+[11:41:06] [03_FINRA_AWC] have 8 / 1, skipping
+[11:41:06] [04_RegBI_Compliance_Guidance] have 9 / 1, skipping
+[11:41:06] [04_RegBI_Compliance_Guidance] have 9 / 1, skipping
+[11:41:06] [05_SEC_Exam_Findings] have 8 / 1, skipping
+[11:41:06] [05_SEC_Exam_Findings] have 8 / 1, skipping
+[11:41:06] [06_DOL_Fiduciary] have 9 / 2, skipping
+[11:41:06] [06_DOL_Fiduciary] have 9 / 2, skipping
+[11:41:06] [07_Practitioner_Commentary] have 9 / 2, skipping
+[11:41:06] [07_Practitioner_Commentary] have 9 / 2, skipping
+[11:41:06] [08_State_Fiduciary_Rules] have 9 / 2, skipping
+[11:41:06] [08_State_Fiduciary_Rules] have 9 / 2, skipping
+[11:41:06] [09_Law_Firm_Memos] have 9 / 2, skipping
+[11:41:06] [09_Law_Firm_Memos] have 9 / 2, skipping
+[11:41:06] [10_Academic_Articles] have 8 / 2, skipping
+[11:41:06] [10_Academic_Articles] have 8 / 2, skipping
+[11:41:06] [11_Case_Law] have 9 / 2, skipping
+[11:41:06] [11_Case_Law] have 9 / 2, skipping
+[11:41:06] [12_FINRA_Arbitration_Awards] have 9 / 2, skipping
+[11:41:06] [12_FINRA_Arbitration_Awards] have 9 / 2, skipping
+[11:41:06] [13_FINRA_Rulebook] have 9 / 2, skipping
+[11:41:06] [13_FINRA_Rulebook] have 9 / 2, skipping
+[11:41:06] [14_NASAA_State_Enforcement] have 9 / 3, skipping
+[11:41:06] [14_NASAA_State_Enforcement] have 9 / 3, skipping
+[11:41:06] [15_FINRA_Regulatory_Notices] have 8 / 3, skipping
+[11:41:06] [15_FINRA_Regulatory_Notices] have 8 / 3, skipping
+[11:41:06] [16_Congressional_Materials] have 9 / 3, skipping
+[11:41:06] [16_Congressional_Materials] have 9 / 3, skipping
+[11:41:06] [17_SEC_Staff_Bulletins] have 9 / 4, skipping
+[11:41:06] [17_SEC_Staff_Bulletins] have 9 / 4, skipping
+[11:41:06] [18_OCC_Bank_Trust_Guidance] have 8 / 4, skipping
+[11:41:06] [18_OCC_Bank_Trust_Guidance] have 8 / 4, skipping
+[11:41:06] [19_CFTC_Guidance] have 9 / 5, skipping
+[11:41:06] [19_CFTC_Guidance] have 9 / 5, skipping
+[11:41:06] [20_SEC_ALJ_OALJ_Decisions] have 7 / 7, skipping
+[11:41:06] [20_SEC_ALJ_OALJ_Decisions] have 7 / 7, skipping
+[11:41:06] [21_FINRA_OHO_Decisions] need 9 more (have 0, target 9)
+[11:41:06] [21_FINRA_OHO_Decisions] need 9 more (have 0, target 9)
+[11:41:49]   [174/200] 21_FINRA_OHO_Decisions | novel_unsettled | OHO_Order-17-04_2015044921601.pdf (✓)
+[11:41:49]   [174/200] 21_FINRA_OHO_Decisions | novel_unsettled | OHO_Order-17-04_2015044921601.pdf (✓)
+[11:42:27]   [175/200] 21_FINRA_OHO_Decisions | multi_party_liability | September_2018_Disciplinary_Actions (✓)
+[11:42:27]   [175/200] 21_FINRA_OHO_Decisions | multi_party_liability | September_2018_Disciplinary_Actions (✓)
+[11:43:05]   [176/200] 21_FINRA_OHO_Decisions | procedural_technical | DKP_Margin_Credit_20160901.pdf (✓)
+[11:43:05]   [176/200] 21_FINRA_OHO_Decisions | procedural_technical | DKP_Margin_Credit_20160901.pdf (✓)
+[11:43:39]   [177/200] 21_FINRA_OHO_Decisions | counterintuitive_outcome | p122626_0.pdf (✓)
+[11:43:39]   [177/200] 21_FINRA_OHO_Decisions | counterintuitive_outcome | p122626_0.pdf (✓)
+[11:44:16]   [178/200] 21_FINRA_OHO_Decisions | rule_conflict | OHO_Order_24-06_Kim_2019064508802.p (✓)
+[11:44:16]   [178/200] 21_FINRA_OHO_Decisions | rule_conflict | OHO_Order_24-06_Kim_2019064508802.p (✓)
+[11:44:45]   [179/200] 21_FINRA_OHO_Decisions | precise_threshold | Disciplinary_Actions_April_2023.pdf (✓)
+[11:44:45]   [179/200] 21_FINRA_OHO_Decisions | precise_threshold | Disciplinary_Actions_April_2023.pdf (✓)
+[11:45:20]   [180/200] 21_FINRA_OHO_Decisions | case_specific_holding | OHO_NYPPEX_Appealed_2019064813801.p (✓)
+[11:45:20]   [180/200] 21_FINRA_OHO_Decisions | case_specific_holding | OHO_NYPPEX_Appealed_2019064813801.p (✓)
+[11:45:56]   [181/200] 21_FINRA_OHO_Decisions | temporal_trap | oho_order_23-12_2017055886402_canto (✓)
+[11:45:56]   [181/200] 21_FINRA_OHO_Decisions | temporal_trap | oho_order_23-12_2017055886402_canto (✓)
+[11:46:36]   [182/200] 21_FINRA_OHO_Decisions | novel_unsettled | oho_order_23-14_2019061942901_colet (✓)
+[11:46:36]   [182/200] 21_FINRA_OHO_Decisions | novel_unsettled | oho_order_23-14_2019061942901_colet (✓)
+[11:46:36] [22_PIABA_Materials] need 9 more (have 0, target 9)
+[11:46:36] [22_PIABA_Materials] need 9 more (have 0, target 9)
+[11:47:20]   [183/200] 22_PIABA_Materials | multi_party_liability | 20-02_PIABA_Comment.pdf (✓)
+[11:47:20]   [183/200] 22_PIABA_Materials | multi_party_liability | 20-02_PIABA_Comment.pdf (✓)
+[11:47:57]   [184/200] 22_PIABA_Materials | procedural_technical | 19-17_PIABA_comment.pdf (✓)
+[11:47:57]   [184/200] 22_PIABA_Materials | procedural_technical | 19-17_PIABA_comment.pdf (✓)
+[11:48:32]   [185/200] 22_PIABA_Materials | counterintuitive_outcome | 136_isds-costs-damages-duration_jun (✓)
+[11:48:32]   [185/200] 22_PIABA_Materials | counterintuitive_outcome | 136_isds-costs-damages-duration_jun (✓)
+[11:49:15]   [186/200] 22_PIABA_Materials | rule_conflict | 22020525_BCA_Report_2022_FINAL.pdf (✓)
+[11:49:15]   [186/200] 22_PIABA_Materials | rule_conflict | 22020525_BCA_Report_2022_FINAL.pdf (✓)
+[11:49:51]   [187/200] 22_PIABA_Materials | precise_threshold | PIABA-Comment-HFSC-33125.pdf (✓)
+[11:49:51]   [187/200] 22_PIABA_Materials | precise_threshold | PIABA-Comment-HFSC-33125.pdf (✓)
+[11:50:30]   [188/200] 22_PIABA_Materials | case_specific_holding | JFE_Honigsberg-and-Jacob-2021.pdf (✓)
+[11:50:30]   [188/200] 22_PIABA_Materials | case_specific_holding | JFE_Honigsberg-and-Jacob-2021.pdf (✓)
+[11:51:05]   [189/200] 22_PIABA_Materials | temporal_trap | p220090.pdf (✓)
+[11:51:05]   [189/200] 22_PIABA_Materials | temporal_trap | p220090.pdf (✓)
+[11:51:48]   [190/200] 22_PIABA_Materials | novel_unsettled | HHRG-118-ED02-TTF-PeifferJ-20240215 (✓)
+[11:51:48]   [190/200] 22_PIABA_Materials | novel_unsettled | HHRG-118-ED02-TTF-PeifferJ-20240215 (✓)
+[11:52:39]   [191/200] 22_PIABA_Materials | multi_party_liability | 2019.07.22-The-Guide-to-Challenging (✓)
+[11:52:39]   [191/200] 22_PIABA_Materials | multi_party_liability | 2019.07.22-The-Guide-to-Challenging (✓)
+[11:52:39] [23_International_Comparative] need 9 more (have 0, target 9)
+[11:52:39] [23_International_Comparative] need 9 more (have 0, target 9)
+[11:53:18]   [192/200] 23_International_Comparative | procedural_technical | ps22-9.pdf (✓)
+[11:53:18]   [192/200] 23_International_Comparative | procedural_technical | ps22-9.pdf (✓)
+[11:53:54]   [193/200] 23_International_Comparative | counterintuitive_outcome | financial-adviser-exam-exam-prepara (✓)
+[11:53:54]   [193/200] 23_International_Comparative | counterintuitive_outcome | financial-adviser-exam-exam-prepara (✓)
+[11:54:36]   [194/200] 23_International_Comparative | rule_conflict | cp22-20.pdf (✓)
+[11:54:36]   [194/200] 23_International_Comparative | rule_conflict | cp22-20.pdf (✓)
+[11:55:08]   [195/200] 23_International_Comparative | precise_threshold | 0220_new_fin_advice_regime_nz.pdf (✓)
+[11:55:08]   [195/200] 23_International_Comparative | precise_threshold | 0220_new_fin_advice_regime_nz.pdf (✓)
+[11:55:42]   [196/200] 23_International_Comparative | case_specific_holding | esma35-43-869-_fr_on_guidelines_on_ (✓)
+[11:55:42]   [196/200] 23_International_Comparative | case_specific_holding | esma35-43-869-_fr_on_guidelines_on_ (✓)
+[11:56:20]   [197/200] 23_International_Comparative | temporal_trap | portfolio-strategy-letter-for-finan (✓)
+[11:56:20]   [197/200] 23_International_Comparative | temporal_trap | portfolio-strategy-letter-for-finan (✓)
+[11:57:02]   [198/200] 23_International_Comparative | novel_unsettled | IOSCOPD798.pdf (✓)
+[11:57:02]   [198/200] 23_International_Comparative | novel_unsettled | IOSCOPD798.pdf (✓)
+[11:57:49]   [199/200] 23_International_Comparative | multi_party_liability | Issue-44-1-13-He-Liu.pdf (✓)
+[11:57:49]   [199/200] 23_International_Comparative | multi_party_liability | Issue-44-1-13-He-Liu.pdf (✓)
+[11:58:30]   [200/200] 23_International_Comparative | procedural_technical | esma35-43-3172_final_report_on_mifi (✓)
+[11:58:30]   [200/200] 23_International_Comparative | procedural_technical | esma35-43-3172_final_report_on_mifi (✓)
+[11:58:30] DONE. 200 adversarial hypotheticals.
+[11:58:30] DONE. 200 adversarial hypotheticals.
+[11:58:30] JSON → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_14_Adversarial.json
+[11:58:30] JSON → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_14_Adversarial.json
+[11:58:30] TXT  → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_14_Adversarial.txt
+[11:58:30] TXT  → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_14_Adversarial.txt
+[11:58:30] Runner: exited (code 0), count=200
+[11:58:30] Runner: TARGET REACHED (200/200). Done.

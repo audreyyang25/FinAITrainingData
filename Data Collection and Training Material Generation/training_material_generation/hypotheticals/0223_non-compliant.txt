@@ -1,0 +1,25 @@
+ID: 223
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Chen at a wirehouse recommended a $250,000 investment in Vanguard Target Retirement 2045 Fund (ER 0.08%) within a 58-year-old client's brokerage account, but specifically placed it in the Advisor Shares class (annual fee 0.35% + ER 0.08% = 0.43%) rather than the lower-cost Investor Shares class (annual ER 0.08%). The client's account would generate $1,075 in annual advisory fees at the Advisor Shares level vs. $20 annual fees in Investor Shares. Chen documented that she selected Advisor Shares due to the firm's "platform access benefits" and "integrated reporting tools," though the client never indicated a preference for those features and could have obtained identical functionality through Investor Shares at the same custodian. The client was a small-business owner with moderate sophistication, $800,000 in investable assets, and a 25-year time horizon to retirement.
+
+QUESTION
+--------
+Did Advisor Chen comply with the Reg BI Care Obligation (duty to recommend products in the client's best interest after reasonable diligence) by selecting the higher-cost share class?
+
+ANSWER
+------
+No. Under Reg BI's Care Obligation (17 CFR §240.15l-1(a)(2)(i)(A)), advisors must have a reasonable basis for recommending a product and must consider the client's needs and circumstances, including costs. Chen's $1,055 annual cost differential ($1,075 vs. $20) is material and unjustified by the documented rationale. The "platform benefits" and "reporting tools" do not meaningfully differ between share classes and do not offset the cost burden. This violates the Reg BI cost analysis prong. The recommendation prioritizes the firm's revenue ($1,055/year) over the client's economic interest—a hallmark of Reg BI violations. Documentation of a reason does not cure the failure to identify and recommend the genuinely cheaper alternative.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)(A); SEC Marketing Rule IA-5653 cost disclosure standards
+
+KEY FACTOR
+----------
+Material cost differential ($1,055 annually) between share classes with functionally identical features violates duty to recommend products in client's best interest.

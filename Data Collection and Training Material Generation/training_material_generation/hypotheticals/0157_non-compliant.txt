@@ -1,0 +1,27 @@
+ID: 157
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retired client with a $450,000 portfolio invested in blue-chip dividend stocks transfers to a broker-dealer where a new advisor recommends shifting to actively managed mutual funds with 1.2% expense ratios. Over 18 months, the advisor executes 47 trades (average holding period 11.6 days), generating $8,400 in commissions. The client's stated investment objective is 'capital preservation and modest income.' No material change in client circumstances or market conditions justified the trading frequency.
+
+QUESTION
+--------
+Does this trading activity violate FINRA's suitability and excessive trading obligations?
+
+ANSWER
+------
+No, this violates FINRA Rule 2111(a) and Rule 2010 (prohibition on conduct inconsistent with just and equitable principles of trade).
+
+The advisor's trading pattern—47 trades in 18 months on a retiree seeking capital preservation—produces a turnover ratio of approximately 2.5x (annualized), far exceeding industry norms for conservative portfolios (typically 0.5–1.0x). The 11.6-day average holding period is inconsistent with long-term income-focused investing and suggests in-and-out trading motivated by commission generation rather than portfolio management. The $8,400 in commissions (1.87% of AUM annually) combined with the recommendation to shift from low-cost individual stocks to 1.2% mutual fund fees indicates a revenue motive. No documented suitability analysis addresses why frequent trading serves the retiree's stated 'capital preservation' objective. This pattern matches FINRA disciplinary cases establishing that high turnover ratios + commission-bias + portfolio mismatch = churning under Rule 2111(a) and Rule 2010.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (suitability); FINRA Rule 2010; FINRA guidance on excessive trading/churning (turnover ratio and in-and-out trading analysis); SEC v. Tambone, 550 F.3d 106 (1st Cir. 2008) (churning defined as excessive trading by advisor with de facto control motivated by commissions).
+
+KEY FACTOR
+----------
+The turnover ratio of 2.5x annually combined with an 11.6-day average holding period on a capital-preservation portfolio, coupled with $8,400 in commissions and absence of documented suitability rationale, establishes excessive trading inconsistent with the client's profile.

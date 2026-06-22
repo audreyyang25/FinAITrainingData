@@ -1,0 +1,27 @@
+ID: 26
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer owns an affiliated registered investment company that manages a family of index funds with expense ratios 20-30 basis points lower than comparable third-party index funds. The broker-dealer's compliance policy requires advisors to recommend the lowest-cost fund that meets the client's investment objective. A 50-year-old client with $500,000 in assets and a goal of "diversified, low-cost index-based investing" is recommended the firm's proprietary index fund suite: $200,000 in the firm's proprietary total stock market index fund (0.08%), $150,000 in the firm's proprietary international developed index fund (0.12%), and $150,000 in the firm's proprietary bond index fund (0.06%). A competing suite of index funds from Vanguard has expense ratios of 0.04%, 0.11%, and 0.05% respectively. The firm receives no 12b-1 fees on either set of funds but does generate asset custody/clearing revenue from managing the client's account ($500 AUM threshold). The advisor's documentation states only "client risk profile and diversification needs addressed; lowest-cost fund family selected per compliance policy." No disclosure is made regarding the firm's ownership of the fund company or any resulting conflicts.
+
+QUESTION
+--------
+Does this recommendation comply with Reg BI?
+
+ANSWER
+------
+No, this violates Reg BI's conflict disclosure requirement despite the cost advantage.
+
+The firm failed to disclose a material conflict: its ownership of the affiliated fund company. While the proprietary funds have lower expense ratios (0.08%, 0.12%, 0.06%) than Vanguard (0.04%, 0.11%, 0.05%), the differences are modest and Vanguard's total stock market fund is actually lower cost. More importantly, Reg BI does not permit firms to rely on the superiority of their own products to avoid disclosing that they own them. The SEC has made clear that conflicts arising from corporate ownership structures require explicit disclosure regardless of alignment with customer interests. The internal compliance policy mandating selection of the "lowest-cost fund" cannot substitute for conflict disclosure to the customer. The file documentation is silent on the ownership conflict and instead references only compliance policy compliance. While the recommendation may ultimately serve the customer's interest (the funds are competitive on cost), the failure to disclose that the firm owns the fund company violates Reg BI § 15l-1(b)(2)(i). This parallels SEC enforcement against firms that failed to disclose proprietary product ownership even when those products were cost-competitive.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2)(i) — Reg BI requires disclosure of material conflicts of interest. Ownership of a fund company is a per se material conflict requiring disclosure, regardless of whether the owned funds are lower cost than alternatives.
+
+KEY FACTOR
+----------
+Complete failure to disclose the firm's ownership of the affiliated fund company to the customer, despite that ownership being a per se material conflict under Reg BI regardless of product quality.

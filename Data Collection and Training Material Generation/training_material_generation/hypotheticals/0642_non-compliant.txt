@@ -1,0 +1,27 @@
+ID: 642
+Source Folder: 08_State_Fiduciary_Rules
+Topic: state_fiduciary_bd
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+James Alford, an investment adviser representative registered in a state that has adopted the NASAA Model Rule 102(a)(4)-1, manages discretionary accounts for several clients. He places a block trade of 10,000 shares of a micro-cap biotech stock across six client accounts and his own personal account simultaneously. Alford allocates 4,000 shares to his personal account at the opening execution price of $3.12, then allocates the remaining 6,000 shares across the six client accounts at the subsequent fill prices averaging $3.28. Alford does not maintain a written allocation policy and does not disclose the personal trading to clients.
+
+QUESTION
+--------
+Does the adviser representative's block trade allocation and personal trading conduct comply with the NASAA Model Rule on unethical business practices?
+
+ANSWER
+------
+No, this conduct violates NASAA Model Rule 102(a)(4)-1 regarding unethical business practices of investment advisers.
+
+The NASAA Model Rule establishes that investment advisers and their representatives are fiduciaries with a duty to act primarily for the benefit of their clients. Recommending or executing transactions that benefit the adviser at the expense of clients—including front-running or favorable self-allocation of block trades—constitutes an unethical business practice. Alford's preferential allocation of shares at a lower price to his own account, combined with the absence of a written allocation policy and failure to disclose the conflict, breaches both his duty of loyalty and duty of care under the model rule.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(a)(4)-1 – Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers
+
+KEY FACTOR
+----------
+The adviser allocated more favorable block trade execution prices to his personal account ahead of client accounts, violating his fiduciary duty to act primarily for the benefit of clients under NASAA Model Rule 102(a)(4)-1.

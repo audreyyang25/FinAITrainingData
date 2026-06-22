@@ -1,0 +1,25 @@
+ID: 392
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Pension plan consultant Beta was engaged by a 401(k) plan sponsor (180 employees, $32M AUM) to develop a comprehensive investment policy statement (IPS) and recommend a target-date fund lineup. Beta charged $22,000 for the IPS project (time and materials, no contingency fees). Beta conducted a three-year analysis comparing 18 target-date fund families (Vanguard, Fidelity, Schwab, T. Rowe Price, etc.) against the plan's demographics (median age 42, 87% salary deferrers). Beta documented: asset allocation ranges, glide paths, expense ratios (0.12%–0.38%), fund performance vs. Morningstar peers, and risk metrics. Beta recommended Vanguard Target Retirement Fund (median ER 0.12%) based on lowest-cost alignment with plan demographics. Beta disclosed in writing that it received no revenue sharing, had no affiliate relationships with fund families, and charged only the fixed consulting fee. The plan sponsor adopted the IPS and selected the Vanguard lineup. Beta's engagement letter explicitly disclaimed Section 3(38) fiduciary status for ongoing discretionary management but confirmed 3(21) status during the planning phase.
+
+QUESTION
+--------
+Did Beta comply with DOL fiduciary requirements under ERISA §404(a) during the IPS development and fund selection process?
+
+ANSWER
+------
+Yes. Beta satisfied the duty of prudence (§404(a)(1)(B)) by: (1) conducting documented analysis of multiple comparable funds; (2) using quantitative metrics (ER, performance, glide paths) aligned to plan demographics; (3) recommending the lowest-cost option with appropriate risk profile; and (4) documenting the analysis in writing. Beta satisfied the duty of loyalty (§404(a)(1)(A)) by: (1) disclosing the absence of revenue sharing and affiliate conflicts; (2) charging a transparent flat fee unrelated to fund selection; and (3) disclaiming 3(38) discretionary status to avoid ongoing fiduciary liability outside the planning scope. The engagement letter's clear scope limitation is compliant with DOL guidance (FAB 2015-02, 2021-01) distinguishing transactional fiduciary acts from ongoing discretionary management. This follows the DOL's endorsed approach for plan consultants.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A)–(B) (duty of loyalty and prudence); ERISA §3(21) vs. §3(38) (transactional vs. discretionary fiduciary distinction); DOL FAB 2015-02.
+
+KEY FACTOR
+----------
+Documented prudent expert analysis of comparable funds, transparent fee structure with no revenue sharing, and clear fiduciary status limitation in writing.

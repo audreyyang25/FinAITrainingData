@@ -1,0 +1,25 @@
+ID: 476
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered representative Marcus, dual-registered as broker-dealer (BD) representative and investment adviser, recommended that his client Sarah, age 58 with $420,000 in a self-directed brokerage account, exchange her existing portfolio of low-cost ETFs (0.08% ER) for a series of actively managed mutual funds (1.2% ER) and two variable annuities with 2.4% annual mortality & expense (M&E) charges. Over 18 months, he executed 14 transactions generating $8,900 in commissions to the BD. Marcus recommended three separate exchanges within annuities (0.5% surrender charge each). Marcus disclosed the variable annuity fees on the contract but never disclosed to Sarah that he was earning 6.5% front-end commission on the annuity sales as a registered representative, nor did he document his fiduciary analysis under Reg BI showing why the more expensive products aligned with her "moderate" risk tolerance and stated goal of "steady income in 10 years." Form CRS was never delivered.
+
+QUESTION
+--------
+Did Marcus comply with Reg BI's care obligation (17 CFR §240.15l-1(a)(2)(i)), FINRA Rule 2111 suitability, and FINRA Rule 2330 (variable annuity) requirements?
+
+ANSWER
+------
+No. Marcus violated multiple standards. Under Reg BI, the care obligation requires advisers to consider the client's profile and recommend products in the client's best interest, not the adviser's financial interest; Marcus's undisclosed 6.5% commission creates a clear conflict and his lack of documented analysis showing the 1.2% and 2.4% products were better than 0.08% ETFs suggests failure to satisfy the care obligation. FINRA Rule 2111 suitability applies to his broker-dealer recommendations; the frequency of exchanges (3 annuity exchanges in 18 months) with surrender charges suggests churning—trading for commission, not client benefit. FINRA Rule 2330 requires specific suitability documentation for variable annuities; Marcus lacks documented analysis. Failure to deliver Form CRS violates Reg BI §240.15l-1(b)(1).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)); FINRA Rule 2111 Suitability; FINRA Rule 2330 Variable Annuity Recommendations; Form CRS Delivery (Reg BI §240.15l-1(b)(1))
+
+KEY FACTOR
+----------
+Undisclosed commission conflict, frequent unnecessary annuity exchanges, lack of documented fiduciary analysis, and missing Form CRS collectively evidence churning and failure to prioritize client interest over adviser compensation.

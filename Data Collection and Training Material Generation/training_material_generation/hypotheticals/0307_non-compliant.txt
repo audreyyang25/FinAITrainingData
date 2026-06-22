@@ -1,0 +1,25 @@
+ID: 307
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Beacon Asset Management, a registered adviser with $312 million AUM, uses a third-party custodian (Fidelity) to value client accounts. Due to a system integration error between Beacon's fee billing software and Fidelity's custodial data feed, the adviser's quarterly AUM fee calculation included stale asset values uploaded 45 days prior to billing. In Q3 2024, the market declined 6%, but Beacon's billing system used pre-decline values, inflating the reported AUM by approximately $18.7 million (5.8% overstatement). This resulted in ~$52,000 in excess fees charged to 67 retail clients. One client, Robert D., age 71, with an actual September 30 balance of $875,000, was billed as if his account had $928,500 (the June 30 stale value). Beacon discovered the error in Q4 and issued credits, but the credits were processed without written explanation to clients. Beacon's compliance officer stated that the error was 'immaterial' because it affected less than 0.02% of AUM firm-wide, and 'clients benefited from the delay because they avoided fees during market drops in prior quarters.'
+
+QUESTION
+--------
+Did Beacon Asset Management violate the Advisers Act in charging fees based on inflated asset values?
+
+ANSWER
+------
+Yes. Section 206 of the Advisers Act prohibits engaging in transactions, conduct, or practices that are deceptive or fraudulent. Charging fees on inflated AUM—even due to operational error—constitutes a breach of the adviser's fiduciary duty unless the adviser can demonstrate (1) prompt discovery, (2) reasonable controls, and (3) full restitution with notice. While Beacon did issue credits, the lack of written explanation to clients and the justification that 'fees were avoided in prior quarters' (which fails to address the current overcharge) suggests inadequate remediation. The 'immaterial' argument fails: the $52,000 overcharge to 67 clients is material to those individuals, and the firm's error was preventable through proper data reconciliation controls. Best practices require written notice detailing the error, the amount, and the credit. Beacon's handling violates §206 and Form ADV Part 2A Item 5 duty to accurately disclose fees.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2); Form ADV Part 2A Item 5; SEC Exam Priorities on Fee Accuracy
+
+KEY FACTOR
+----------
+Adviser billed clients on inflated AUM due to system error and failed to provide written notice of the overcharge and correction.

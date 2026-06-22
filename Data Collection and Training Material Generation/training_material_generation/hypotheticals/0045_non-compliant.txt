@@ -1,0 +1,27 @@
+ID: 45
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer advisor manages $500,000 of a 62-year-old client's retirement account (IRA) on a discretionary basis. The advisor charges 0.75% annual asset-based fee (disclosed in the Form CRS). The advisor also places the client in a 'wrap account' platform that bundles investment management with trading and custody; the platform charges an additional 0.40% annual platform fee. The client's Form CRS states: 'We charge 0.75% annually for investment management and may charge additional fees for platform services.' The advisor does not separately disclose the specific 0.40% platform fee amount or that the total all-in fee (1.15%) significantly exceeds the 0.75% advisory fee, nor does the advisor disclose that the wrap platform generates a conflict of interest because the advisor earns compensation from the platform provider if assets remain in the wrap account rather than moving to lower-cost alternatives (e.g., separately managed account with 0.60% all-in fee). No written analysis is documented explaining why the wrap account structure is in the client's best interest despite the additional fee.
+
+QUESTION
+--------
+Does the advisor's disclosure satisfy Regulation Best Interest's requirements for fee transparency and conflict-of-interest mitigation?
+
+ANSWER
+------
+No, this violates Regulation Best Interest's disclosure and conflict-of-interest mitigation obligations.
+
+The advisor's disclosure is materially deficient in three ways. First, the Form CRS uses vague language ('may charge additional fees') rather than disclosing the specific 0.40% platform fee as a separate line item, violating Rule 15l-1(e)(1)(i)'s requirement for clear dollar amounts. Second, by not disclosing the all-in cost of 1.15%, the advisor obscures the total economic burden, especially material for a 62-year-old nearing retirement who should understand total fee drag. Third, the advisor failed to disclose or document the conflict arising from wrap-platform compensation, and provided no written analysis of why the higher-cost wrap account (1.15% all-in) outweighs a lower-cost separately managed account (0.60% all-in). The absence of documented analysis violates Rule 15l-1(a)(2)(ii)(C)'s requirement to justify a recommendation that benefits the firm economically. This pattern mirrors FINRA enforcement actions against advisors using wrap accounts without transparent all-in fee disclosure (cf. FINRA AWC cases involving bundled-fee arrangements with undisclosed platform charges).
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(e)(1)(i) requires clear, comprehensible disclosure of 'the dollar amount of fees charged' and 'a description of what services are provided for the fee.' SEC Rule 15l-1(a)(2)(ii)(C) requires written documentation explaining why a recommended arrangement addresses a conflict of interest and is in the client's best interest.
+
+KEY FACTOR
+----------
+Vague disclosure of bundled fees combined with undisclosed wrap-platform conflict of interest and no documented analysis justifying the higher all-in fee, violating Rule 15l-1(e)(1)(i) and Rule 15l-1(a)(2)(ii)(C).

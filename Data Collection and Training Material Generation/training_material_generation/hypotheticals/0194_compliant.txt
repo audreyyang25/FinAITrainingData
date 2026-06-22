@@ -1,0 +1,27 @@
+ID: 194
+Source Folder: unknown
+Topic: options_complex
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 38-year-old client, an accountant with basic financial knowledge (no derivatives background), holds $420,000 in diversified mutual funds and requests advice on reducing portfolio volatility. Her advisor recommends a modest protective put strategy: buy 2 put option contracts (20 deltas, 2 months to expiration) on her largest holding, a $90,000 S&P 500 index fund position, to protect against a >10% decline. The put premium is $650. The advisor provides a written suitability memo documenting: (i) the client's stated objective (downside protection); (ii) her moderate risk tolerance and stated concern about recent market volatility; (iii) the specific mechanics of a put option (right to sell at strike price); (iv) the cost ($650) as 0.15% of the protected position; (v) the client's adequate financial resources to pay the premium; and (vi) the client's expressed understanding and consent. The client signs the memo.
+
+QUESTION
+--------
+Does this protective put recommendation satisfy FINRA Rule 2360 options suitability standards?
+
+ANSWER
+------
+Yes, this recommendation is compliant with FINRA Rule 2360 and the options suitability standard.
+
+This protective put strategy satisfies FINRA Rule 2360(b)(14) because: (1) the strategy is relatively simple and educational—a client with accounting background and basic financial knowledge can understand put mechanics after explanation; (2) the firm documented the customer's investment objective (downside protection), risk tolerance, and suitability factors in writing; (3) the cost ($650, 0.15% of protected position) is proportionate and the client has clear financial capacity to pay; (4) the strategy is explicitly designed to reduce volatility for a moderate-risk client, aligning her stated concerns with an appropriate hedging tool; (5) the firm obtained documented consent; and (6) protective puts are widely recognized as a legitimate, low-to-moderate complexity derivatives strategy. Unlike naked short calls or spreads, protective puts have defined, limited downside risk and serve a genuine protective objective. The written suitability memo demonstrates reasonable care.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2360(b)(14) (options account approval); FINRA Rule 2111 (suitability); FINRA Regulatory Notice 17-13 (leveraged and inverse ETFs guidance)
+
+KEY FACTOR
+----------
+The protective put is a low-to-moderate complexity strategy with defined risk, the client's objective (downside protection) justifies the product, the cost is modest, and the firm documented suitability and obtained informed consent in writing.

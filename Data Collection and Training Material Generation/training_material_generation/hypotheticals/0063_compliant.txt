@@ -1,0 +1,27 @@
+ID: 63
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+An RIA manages a $45M discretionary account for a corporate pension plan. The RIA's engagement letter specifies that the adviser will use its proprietary research model to select individual stocks, and that the model may hold concentrated positions in securities where research indicates high conviction. Over two years, the RIA develops a 22% position in a large-cap software company. The RIA maintains contemporaneous documentation of the research thesis, performance tracking, and quarterly reviews confirming the position remains aligned with the pension plan's long-term growth objective and risk tolerance (moderate-to-aggressive, 15-year horizon). The RIA discloses to the plan's board that it uses a concentrated model and explains the software company thesis in quarterly meetings. The RIA does not trade ahead of client orders or execute transactions at different prices for similarly situated accounts.
+
+QUESTION
+--------
+Does this concentrated position arrangement satisfy the RIA's fiduciary duty?
+
+ANSWER
+------
+Yes, this is compliant.
+
+The RIA's conduct satisfies the fiduciary duty of loyalty and care through several factors: (1) the concentrated investment strategy is disclosed upfront in the engagement letter and explicitly permitted for the client; (2) the RIA maintains detailed, contemporaneous documentation of the investment thesis and rationale for the position; (3) the 22% position is reviewed regularly against the client's documented risk tolerance and time horizon, which support growth investing; (4) the RIA does not self-deal or apply different execution standards across clients; and (5) the RIA provides transparent quarterly reporting to the plan fiduciary. SEC guidance permits concentrated positions when they are consistent with the client's stated objectives and risk tolerance, disclosed, and regularly reassessed. The RIA's documentary support for the thesis demonstrates the duty of care.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206; SEC Rule 206(4)-1 (fiduciary duty); SEC guidance on concentrated positions (permitted if disclosed, documented, and suitable for client risk profile)
+
+KEY FACTOR
+----------
+Upfront disclosure of concentrated strategy in engagement letter, ongoing documentation of investment thesis, and quarterly client communication confirming alignment with client's risk profile and time horizon.

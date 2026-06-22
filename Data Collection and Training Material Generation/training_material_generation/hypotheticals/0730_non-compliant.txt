@@ -1,0 +1,27 @@
+ID: 730
+Source Folder: 12_FINRA_Arbitration_Awards
+Topic: arbitration_liability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Wells Fargo Clearing Services, LLC financial advisor Eric Koter managed the $1.4 million joint brokerage account of retired couple Gerald and Patricia Simmons, ages 71 and 68. Without obtaining prior written authorization for discretionary trading, Koter executed 214 trades over a 22-month period, generating $127,000 in commissions and an annualized turnover rate of 8.2. The account's stated investment objective was 'capital preservation and income,' and the couple's annual income need was $48,000. The Simmons were unaware of the volume of trading until they received a 1099 showing $127,000 in transaction costs. They filed a FINRA arbitration claim against Wells Fargo alleging unauthorized trading, churning, and excessive commissions, seeking $175,000 in compensatory damages. Wells Fargo argued that the clients had access to monthly statements showing each transaction and never objected during the 22-month period.
+
+QUESTION
+--------
+Does the pattern of 214 trades generating an 8.2 annualized turnover rate and $127,000 in commissions in a capital preservation account constitute churning and unauthorized trading?
+
+ANSWER
+------
+No, this conduct is not compliant. The advisor engaged in churning in violation of FINRA Rule 2111 (quantitative suitability) and unauthorized discretionary trading in violation of FINRA Rule 3260.
+
+An annualized turnover rate of 8.2 far exceeds the threshold of 6.0 that FINRA and courts have consistently held to be presumptive evidence of churning, particularly in a capital preservation account. Under FINRA Rule 3260, a broker may not exercise discretionary authority without prior written authorization from the customer and acceptance of the account as discretionary by the firm. The execution of 214 trades without written discretionary authority constitutes unauthorized trading regardless of whether the client received statements. As reflected in cases involving Wells Fargo Clearing Services in FINRA proceedings, the availability of account statements does not constitute informed consent to excessive trading or relieve the firm of supervisory liability.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (Quantitative Suitability); FINRA Rule 3260 (Discretionary Accounts); SEC Rule 15l-1(a)(2)(i) (Reg BI Care Obligation)
+
+KEY FACTOR
+----------
+An annualized turnover rate of 8.2 in a capital preservation account with no written discretionary authorization constitutes presumptive churning and unauthorized trading.

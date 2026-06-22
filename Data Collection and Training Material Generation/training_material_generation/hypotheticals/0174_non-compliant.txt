@@ -1,0 +1,27 @@
+ID: 174
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A financial advisor at a broker-dealer manages a $1.8M IRA for a 55-year-old client. The advisor receives mutual fund referral fees from three fund families (American Funds, Vanguard, and Fidelity) totaling approximately $4,200 annually when clients purchase their products. The advisor recommends a $900K allocation to American Funds Growth Fund (0.72% expense ratio), which generates the highest referral fee ($3,100 annually) compared to the other two fund families. The advisor's Form CRS, account disclosures, and advisory agreement contain no mention of these referral fee arrangements.
+
+QUESTION
+--------
+Does this conduct satisfy the RIA's fiduciary duty of disclosure and Reg BI's Conflict Obligation?
+
+ANSWER
+------
+No, this violates both the RIA's fiduciary duty of disclosure and Reg BI's Conflict Obligation.
+
+The advisor's undisclosed referral fee arrangement creates multiple violations. First, under Investment Adviser Act § 206(2), material conflicts must be disclosed 'in writing' — referral fees that vary by fund family are material because they create an incentive to recommend American Funds over equally suitable alternatives. Second, because this is an IRA account, the DOL ERISA prohibited transaction rule § 406(b) applies: the undisclosed referral fees constitute compensation relating to the advice that must be disclosed to the client. Third, FINRA Rule 5310(b) explicitly requires disclosure of referral fee arrangements. The fact that the American Funds recommendation may be suitable does not cure the failure to disclose that the advisor receives higher compensation for recommending it. The $3,100 annual differential creates a financial incentive that a reasonable investor would consider material.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206(2) (fiduciary advisers must disclose conflicts of interest 'in writing'); SEC Reg BI § 211(a) (broker-dealers must disclose material conflicts); DOL ERISA § 406(b) (prohibited transaction if fiduciary receives undisclosed compensation related to ERISA account); FINRA Rule 5310(b) (referral fee disclosure requirement).
+
+KEY FACTOR
+----------
+Undisclosed referral fees that vary by fund family constitute material conflicts of interest requiring written disclosure under Investment Adviser Act § 206(2) and DOL ERISA § 406(b).

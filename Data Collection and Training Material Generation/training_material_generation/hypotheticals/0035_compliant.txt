@@ -1,0 +1,27 @@
+ID: 35
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer subsidiary of a large insurance company offers its own proprietary variable annuity (SecureLife VА, 1.15% expense ratio including 0.40% mortality and expense risk charge) alongside no-load index-based funds managed by unaffiliated third parties (0.15% expense ratio). A 62-year-old client with $800,000 in liquid assets, moderate risk tolerance, and a stated goal of guaranteed lifetime income approaches an advisor. The broker-dealer has implemented a firm-wide policy requiring: (1) written disclosure of all revenue sources, including M&E fees and 6% sales load on the annuity, quantified in dollar terms for the specific investment size; (2) documented comparative analysis of the proprietary annuity against at least two unaffiliated alternatives with similar features; (3) supervisory pre-clearance of any proprietary product recommendation above $500,000; and (4) compensation parity—the advisor earns an identical 1.5% commission whether the client chooses the proprietary annuity or any qualified competitor product. The advisor recommends the SecureLife VA after providing a detailed written analysis showing the proprietary product's surrender period (7 years, 7% penalty) and demonstrating that an unaffiliated competitor's annuity with a 5-year surrender period and 0.95% total cost provides functionally superior liquidity. The advisor documents in the client file that the proprietary product was chosen because the client prioritizes guaranteed income and explicitly stated comfort with a 7-year liquidity lockup in exchange for higher insurance company stability ratings. Pre-clearance is obtained; the recommendation is signed and dated by both the advisor and supervisor.
+
+QUESTION
+--------
+Does this recommendation and disclosure satisfy Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+Yes, this recommendation and process satisfy Regulation Best Interest's conflict-of-interest obligations.
+
+The broker-dealer's policies and the advisor's conduct satisfy all three prongs of Reg BI's conflict-of-interest standard. First, under Rule 15l-1(d)(2), disclosure is comprehensive and material: the client receives itemized disclosure of the 1.15% total VA cost (broken into M&E and expense components), the 6% sales load (quantified as $48,000 on $800,000), and the 7-year surrender terms. Second, the firm has implemented procedures to mitigate conflicts: comparative analysis ensures the advisor considers alternatives, supervisory pre-clearance at $500,000+ prevents high-risk recommendations from bias alone, and compensation parity eliminates the advisor's financial incentive to favor proprietary products (a key holding in Reg BI Release, 87081 at 74: 'compensation structures that place [the product] and competitor products on equal footing mitigate conflicts'). Third, the recommendation is documented as genuinely meeting the customer's best interest on the specific facts: the client's stated goal (guaranteed income), risk tolerance (moderate), and explicit preference for longer surrender periods support the proprietary product despite its higher cost. The file documentation shows supervisory review was performed and the advisor explained why the competitor's shorter lockup, while cheaper, did not align with the client's stated objectives.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2) (Reg BI Conflict of Interest Obligation), Rule 15l-1(d)(2) (written disclosure of material facts), Rule 15l-1(a)(1) (act in customer's best interest); SEC Reg BI Release No. 34-87081 (June 19, 2020), at pp. 72-75 (mitigation of conflicts through disclosure, reasonable procedures, and removal of bias).
+
+KEY FACTOR
+----------
+The combination of granular written disclosure of all material revenue sources (quantified in dollars), documented comparative analysis against unaffiliated alternatives, elimination of compensation bias through parity, supervisory pre-clearance, and clear client documentation of best-interest determination satisfies Reg BI's requirement that conflicts be disclosed and mitigated so they do not put firm interests ahead of customer interests.

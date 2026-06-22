@@ -1,0 +1,27 @@
+ID: 14
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 45-year-old customer with $500,000 in a taxable brokerage account, moderate risk tolerance, and a 20-year time horizon meets with a fee-only investment advisor. The advisor recommends a diversified portfolio of 60% low-cost broad-market index ETFs (average expense ratio 0.12%), 30% bond index ETFs (expense ratio 0.08%), and 10% international equity ETFs (expense ratio 0.18%), with a total portfolio expense ratio of 0.13%. The advisor provides written documentation comparing three alternative allocations (including a 100% actively managed mutual fund portfolio with 0.95% average expense ratio, and a robo-advisor alternative with 0.35% fees), explains why the recommended allocation best matches the customer's risk profile and time horizon, and discloses that the advisor receives no additional compensation based on product selection.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+Yes, this recommendation is compliant with the Reg BI care obligation.
+
+The advisor's recommendation demonstrates full compliance with the Reg BI care obligation through four key factors: (1) the recommended products (index ETFs) have costs (0.13% blended) that are materially lower than realistic alternatives (0.95% actively managed funds, 0.35% robo-advisor); (2) the allocation (60/30/10 diversified split) clearly aligns with the customer's moderate risk tolerance and 20-year horizon; (3) the advisor documented comparative analysis of at least two material alternatives, directly satisfying the obligation to consider alternatives; and (4) the advisor disclosed no conflicts of interest (fee-only structure), eliminating compensation incentive to recommend higher-cost products. The written documentation creates a compliance record demonstrating good-faith consideration of costs and alternatives at the time of recommendation.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest, Rule 15l-1(a)(2)(i): broker-dealer or investment adviser must recommend securities in the customer's best interest, considering costs, risks, rewards, and alternative investments.
+
+KEY FACTOR
+----------
+Documented comparative analysis of multiple lower-cost and alternative product options, combined with transparent disclosure of no compensation conflicts, affirmatively demonstrates care in considering costs, risks, and alternatives.

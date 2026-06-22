@@ -1,0 +1,25 @@
+ID: 251
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerCorp, a FINRA-registered broker-dealer, opened a brokerage account for client Maria Rodriguez, age 47, on March 15, 2024. The account application was completed electronically, and the firm transferred $250,000 in securities from her prior custodian into the new account. On April 2, 2024 (18 days later), the firm delivered Form CRS via email without requesting the client's affirmative consent to electronic delivery. The firm's procedures required delivery at or before account opening per SEC guidance. Maria had provided email contact information but never agreed in writing to receive regulatory documents electronically.
+
+QUESTION
+--------
+Did BrokerCorp comply with the Form CRS delivery obligation under Reg BI and SEC guidance (IA-5653)?
+
+ANSWER
+------
+No. Form CRS must be delivered at or before the client relationship commences, not after. SEC guidance (IA-5653, June 2019) clarifies that advisers and broker-dealers must deliver the form 'at the time of relationship' with adequate time for the client to review before account opening. Late delivery (18 days after account opening) violates the timing requirement. Additionally, electronic delivery requires the client's prior affirmative consent (SEC Form CRS Instructions, Question 3). Email contact information alone does not satisfy this standard. The firm faces potential SEC enforcement for failure to timely deliver and improper delivery method.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI, 17 CFR §240.15l-1(c)(1)(ii) (Form CRS delivery requirement at or before relationship commences); SEC Form CRS Instructions (electronic delivery consent requirement)
+
+KEY FACTOR
+----------
+Late delivery (18 days post-opening) plus absence of prior written consent to electronic delivery violates both timing and method requirements.

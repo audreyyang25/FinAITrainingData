@@ -1,0 +1,25 @@
+ID: 406
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A Nevada-based financial planner advises a 55-year-old Las Vegas client with $320,000 in savings and explicit stated need: 'preserve capital, no withdrawals before age 70.' The planner recommends a $200,000 investment in a non-registered, private real estate development fund (PREDF) offered by the planner's brother, who is a fund sponsor. The PREDF has a 10-year lock-up period, 2.5% annual management fee, and target IRR of 8%, but carries material illiquidity risk. The client's stated objective (no withdrawals before 70, 15-year horizon) aligns with the lock-up period. However, under Nevada's fiduciary duty rule (NRS 645A.040, effective 2017), the planner fails to: (1) disclose the family relationship with the fund sponsor; (2) document that the PREDF is suitable given the 2.5% fee vs. diversified alternatives (index funds at 0.05%); and (3) provide explicit written disclosure of the conflict of interest and obtain affirmative informed consent to the conflict. The planner's file shows no evidence of alternative analysis or conflict acknowledgment.
+
+QUESTION
+--------
+Does the Nevada financial planner comply with Nevada's fiduciary duty rule in recommending the private real estate fund to this client?
+
+ANSWER
+------
+No. Under Nevada's fiduciary duty rule (NRS 645A.040, effective 2017), a financial planner owes a fiduciary duty of loyalty and care, which requires affirmative disclosure of material conflicts of interest and prior informed written consent to the conflict. Here, the planner failed to disclose the family relationship with the fund sponsor—a material conflict creating incentive to favor a fund in which the planner's brother has financial interest. Nevada law requires written disclosure and affirmative client consent to proceed despite the conflict. Additionally, while the 15-year lock-up may align with the client's no-withdrawal goal, the planner failed to document analysis of why a 2.5% fee PREDF serves best interest better than diversified index funds (0.05% fee) or other alternatives. The undisclosed conflict and absence of comparative analysis violates NRS 645A.040's loyalty duty.
+
+APPLICABLE STANDARD
+-------------------
+Nevada Fiduciary Duty Rule (NRS 645A.040) — financial planner fiduciary duty to disclose conflicts and obtain informed consent
+
+KEY FACTOR
+----------
+Failing to disclose family relationship with fund sponsor and obtain written conflict consent violates Nevada NRS 645A.040 fiduciary duty of loyalty.

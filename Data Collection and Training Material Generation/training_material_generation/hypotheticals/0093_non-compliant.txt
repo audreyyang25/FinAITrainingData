@@ -1,0 +1,27 @@
+ID: 93
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker recommends a high-turnover strategy of weekly options trades to a 72-year-old retired client with $250,000 in liquid savings, a fixed income of $3,500/month, and stated risk tolerance of 'very conservative.' The client has no prior options experience. Anticipated annual turnover is 120+ trades per year generating $8,000 in commissions.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Suitability Rule 2111's customer-specific prong and quantitative suitability requirement?
+
+ANSWER
+------
+No, this violates FINRA Suitability Rule 2111 on multiple grounds.
+
+The recommendation fails on three levels. First, the broker lacks reasonable basis to recommend high-frequency options trading to an inexperienced client (Rule 2111(a)(1) requires broker possess 'reasonable basis' belief that recommendation is suitable). Second, Rule 2111(a)(2) requires the recommendation be suitable to this specific customer's financial situation, investment objectives, and risk tolerance—a 72-year-old conservative retiree dependent on fixed income has no legitimate need for options speculation and cannot absorb the concentration risk. Third, the anticipated 120 annual trades on a $250,000 account (48% annualized turnover) generates excessive commissions ($8,000) relative to account size and income, constituting churning under quantitative suitability standards articulated in SEC/FINRA enforcement (FINRA Sanction ID 2016-48826). The high commission-to-assets ratio is a hallmark red flag.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(1) (reasonable basis suitability); Rule 2111(a)(2) (customer-specific suitability); quantitative suitability (churning test under Rule 2111 and In re Shearson Lehman Brothers, 2006-00563)
+
+KEY FACTOR
+----------
+Age + risk profile + experience level + turnover rate (120 trades/year = 48% annualized turnover) + commission drag ($8,000 on $250K) creates clear quantitative and qualitative suitability failure.

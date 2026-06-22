@@ -1,0 +1,27 @@
+ID: 91
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA broker manages a discretionary account for a 35-year-old software engineer with $600,000, aggressive risk tolerance, 30-year time horizon, and high income ($200,000+). The broker executes 145 trades over 24 months (representing 24% annualized turnover), frequently switching between similar large-cap growth ETFs and index funds, generating $18,000 in commissions. The client's account returned 9.2% annualized, slightly below the S&P 500's 10.1% return for the period. The broker documents the customer's profile and aggressive tolerance but provides no written analysis of the trading frequency or rationale for frequent position switches between similar products.
+
+QUESTION
+--------
+Does this trading activity satisfy FINRA Rule 2111 quantitative suitability?
+
+ANSWER
+------
+No, this violates FINRA Rule 2111 quantitative suitability standards.
+
+Although the customer has an aggressive profile and long time horizon that theoretically could support higher turnover, the broker fails the quantitative suitability prong of Rule 2111(c). The 24% annualized turnover rate is excessive for an account holding broad-based large-cap growth ETFs and index funds—products designed for buy-and-hold strategies. The broker's execution of 145 trades to frequently switch between similar products (large-cap growth ETFs and S&P 500 index funds) shows no coherent trading strategy aligned to the customer's objectives; instead, it generates commissions and underperforms the benchmark by 90 basis points, suggesting the trading does not benefit the customer. The lack of documented rationale for the trading frequency indicates the broker cannot justify the trading as suitable. This pattern mirrors FINRA enforcement against excessive churning in growth accounts, even for aggressive customers, when the trading does not serve the customer's objectives and generates trading costs exceeding the client's benefit.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(c): broker must have reasonable basis to believe the frequency of trading in a customer's account is suitable given the customer's investment profile and objectives.
+
+KEY FACTOR
+----------
+24% annualized turnover with frequent switches between similar index products generates excess costs and underperformance without documented suitability rationale.

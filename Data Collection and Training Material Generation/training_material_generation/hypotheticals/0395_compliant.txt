@@ -1,0 +1,25 @@
+ID: 395
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Consultant Epsilon was hired by a 403(b) plan sponsor (university with $340M endowment, 2,800 faculty/staff participants) to design an investment menu including target-date funds and provide annual IPS review. Epsilon charged $35,000 annually for consulting. Epsilon conducted a detailed competitive analysis of 22 target-date fund families, documenting: glide paths, historical volatility, downside capture ratios, expense ratios (0.09%–0.55%), fund-level performance attribution, and actuarial alignment to participant ages. The plan's median age was 45. Epsilon recommended T. Rowe Price Retirement Funds (median ER 0.24%) over lower-cost Vanguard (0.12%) based on a quantified analysis: T. Rowe Price's glide path was 2% more conservative at age 50–55 (better aligning to plan demographics with high faculty turnover), and its downside capture during 2008 (68%) outperformed Vanguard (72%) by 4 percentage points, resulting in net superior risk-adjusted returns of 23 basis points annually over 15 years. Epsilon documented this analysis in a 40-page report with peer-reviewed performance data. Epsilon disclosed in writing that it received no revenue sharing from T. Rowe Price or any fund family, charged only the flat consulting fee, and had no affiliate relationships. The IPS included explicit performance monitoring criteria and rebalancing guidelines. Epsilon's engagement letter stated it would serve as a §3(21) transactional fiduciary only (not §3(38) discretionary manager).
+
+QUESTION
+--------
+Did Epsilon comply with ERISA §404(a) fiduciary duty when recommending the T. Rowe Price lineup despite recommending a higher-cost option than available alternatives?
+
+ANSWER
+------
+Yes. Epsilon satisfied the duty of prudence (§404(a)(1)(B)) despite higher costs because: (1) documented quantitative analysis showed superior risk-adjusted returns (23 bps annually) from better glide-path alignment to plan demographics; (2) the 15-year analysis demonstrates that the 12 bps cost differential was offset by the 23 bps outperformance; (3) the analysis was contemporaneously documented with peer-reviewed data; and (4) the recommendation was supported by an explicit hypothesis tested with historical data. Higher cost alone does not violate prudence if justified by superior risk management. Epsilon satisfied the duty of loyalty (§404(a)(1)(A)) by: (1) disclosing the absence of revenue sharing and affiliate conflicts in writing; (2) charging a transparent flat fee unrelated to fund selection; (3) documenting the comparative analysis in detail; and (4) limiting fiduciary status to §3(21) transactional scope. The IPS's inclusion of explicit performance monitoring criteria and rebalancing guidelines demonstrates ongoing prudence. This approach aligns with DOL guidance (FAB 2015-02) and the Restatement (Second) of Trusts approach to 'prudent expert' analysis allowing higher-cost alternatives if justified by risk-adjusted returns.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A)–(B) (duty of loyalty and prudence); ERISA §3(21) (transactional fiduciary); DOL FAB 2015-02 (prudent expert standard for target-date funds).
+
+KEY FACTOR
+----------
+Higher-cost recommendation justified by documented quantitative analysis of superior risk-adjusted returns aligned to plan demographics; transparent fee and no revenue-sharing conflicts.

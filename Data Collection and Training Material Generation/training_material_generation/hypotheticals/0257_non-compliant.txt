@@ -1,0 +1,25 @@
+ID: 257
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerCo, a FINRA-registered broker-dealer, opened a new brokerage account for Maria Chen, age 54, with an initial deposit of $125,000 on March 15, 2024. The firm's standard practice was to mail Form CRS to clients within 5 business days of account opening. Maria received Form CRS by mail on March 22, 2024 (7 calendar days after opening). The firm did not provide Form CRS to Maria prior to or at the time of account opening. Maria placed her first equity trade on March 18, 2024, purchasing 500 shares of XYZ Corp for $62,500. The firm's written procedures stated Form CRS delivery was required 'at account opening' but the firm interpreted this to mean within one week.
+
+QUESTION
+--------
+Did BrokerCo comply with Reg BI Form CRS delivery requirements by providing Form CRS within 5 business days of account opening?
+
+ANSWER
+------
+No. Reg BI § 240.15l-1(g)(2) and SEC Form CRS Instructions (Item 1) require delivery of Form CRS 'at or before' account opening, not after. The SEC staff's Regulatory Notice 19-25 (June 28, 2019) clarified that 'at account opening' means prior to or simultaneous with the opening of the account. Delivery 7 calendar days after opening—and after Maria executed her first trade—violates the literal timing requirement. The firm's internal interpretation does not override the regulatory requirement.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR § 240.15l-1(g)(2) and SEC Form CRS Instructions
+
+KEY FACTOR
+----------
+Form CRS must be delivered prior to or at account opening, not within a grace period after opening.

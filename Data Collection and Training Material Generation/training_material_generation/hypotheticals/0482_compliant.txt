@@ -1,0 +1,25 @@
+ID: 482
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Registered Investment Adviser David Katz advises Robert Chen, age 64, with $2.2 million in investable assets, including $850,000 in a self-directed IRA and $1.35 million in taxable accounts. Robert's stated risk tolerance is 'growth-oriented' and his stated income need is '$80,000/year.' Katz identifies an opportunity to allocate $400,000 to a hedge fund (net fee 1.5% AUM + 15% performance fee) managed by Katz's former law partner (undisclosed related party). Before making the recommendation, Katz: (1) provides a detailed written conflict-of-interest disclosure explaining the related-party relationship, the fee structure, and the rationale (diversification benefit, correlation data showing 0.12 correlation with existing portfolio); (2) obtains Robert's informed, written consent to the conflict and the hedge fund investment; (3) documents in the advisory agreement that the hedge fund fee (1.5% + 15% performance) is reasonable given its strategy and comparable alternatives; (4) conducts specific analysis showing that the $400,000 allocation represents 18% of Robert's portfolio (within prudent concentration limits); (5) confirms the hedge fund is NOT available as a brokerage product at Katz's custodian, so there is no DOL ERISA issue for the IRA portion (Katz confirms with counsel that the hedge fund arrangement complies with PTE 2020-02); (6) sends quarterly performance reports and rebalancing recommendations. Robert invests in the hedge fund and nets 8.5% annual returns over 2 years.
+
+QUESTION
+--------
+Did Katz comply with IA fiduciary duty (loyalty + care), Reg BI conflict-of-interest disclosure, and DOL ERISA fiduciary rules for the IRA portion?
+
+ANSWER
+------
+Yes. Katz navigated multiple overlapping standards correctly: (1) IA fiduciary duty: Katz disclosed the related-party conflict, obtained informed written consent, and documented a reasonable basis for the recommendation (correlation analysis, fee benchmarking). This satisfies the duty of loyalty (mitigated conflict) and duty of care (documented analysis supporting diversification rationale). (2) Reg BI: The written conflict disclosure and Robert's documented understanding constitute best-interest compliance; the hedge fund allocation, though concentrated, was supported by economic analysis and Robert's stated growth objective. (3) DOL ERISA (IRA portion): Katz confirmed the arrangement complies with PTE 2020-02 by ensuring the hedge fund is proprietary (not a brokerage alternative) and that Katz did not restrict Robert's ability to seek competing advice. The quarterly reporting demonstrates ongoing care. No prohibited transaction occurred because the hedge fund was not available to Robert outside Katz's recommendation, satisfying the 'best available terms' prong of the exemption.
+
+APPLICABLE STANDARD
+-------------------
+IA Act §206 (fiduciary duty); Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)); DOL ERISA §404(a) & PTE 2020-02 (conflicted fiduciary exemption)
+
+KEY FACTOR
+----------
+Adviser disclosed related-party conflict in writing, obtained informed consent, documented economic rationale, and confirmed ERISA compliance—mitigating all three standards simultaneously.

@@ -1,0 +1,27 @@
+ID: 702
+Source Folder: 09_Law_Firm_Memos
+Topic: compliance_advisory
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greenfield Capital Advisors, an SEC-registered investment adviser with $850 million in AUM, has 14 supervised persons including 8 portfolio managers and 6 research analysts. In 2023, the firm updated its compliance manual to include general references to 'acting with integrity' and 'putting clients first,' but never adopted a formal, written code of ethics as a standalone document. The firm's CCO verbally instructed advisory personnel to avoid front-running client trades, but no written policies addressed personal securities trading, reporting of personal holdings, or pre-clearance of transactions. During a routine SEC examination, it was discovered that two portfolio managers had been actively trading the same small-cap equities in their personal accounts that they were simultaneously recommending to clients in the firm's wrap fee program, similar in structure to the Merrill Lynch Investment Advisory Program. Neither portfolio manager had ever reported personal securities transactions or initial/annual holdings to the firm.
+
+QUESTION
+--------
+Did Greenfield Capital Advisors comply with SEC requirements by relying on verbal instructions and general compliance manual language in lieu of a formal written code of ethics with personal trading provisions?
+
+ANSWER
+------
+No, this conduct violates SEC Rule 204A-1 under the Investment Advisers Act of 1940, which requires all SEC-registered investment advisers to adopt and enforce a written code of ethics.
+
+Rule 204A-1, adopted by the SEC on July 2, 2004, requires all SEC-registered investment advisers to establish, maintain, and enforce a written code of ethics that, at a minimum, includes standards of business conduct expected of supervised persons reflecting the adviser's fiduciary duties. The rule further requires that advisory personnel report personal securities holdings and transactions to enable detection of conflicts of interest such as front-running. Greenfield's reliance on verbal guidance and generic compliance manual language fails to satisfy these minimum requirements, and the absence of any personal trading reporting or pre-clearance procedures is a direct violation of the rule's personal trading provisions.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 204A-1 under the Investment Advisers Act of 1940 – Investment Adviser Code of Ethics; SEC Rule 204-2 – Recordkeeping Rule
+
+KEY FACTOR
+----------
+The firm failed to adopt and enforce a formal written code of ethics with required personal securities transaction reporting provisions as mandated by Rule 204A-1, allowing undisclosed conflicted personal trading by supervised persons.

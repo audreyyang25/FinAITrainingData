@@ -1,0 +1,25 @@
+ID: 232
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Wealth Management Partners (WMP), a registered broker-dealer, maintains an affiliated asset management subsidiary, WMP Advisors LLC, which manages 15 model portfolios. WMP's compensation structure pays advisors a commission of 60 bps when they use WMP Advisors models versus 15 bps when recommending unaffiliated third-party models (e.g., Dimensional Fund Advisors, Vanguard Personal Advisor Services). In January 2023, WMP implemented a conflict mitigation framework: (1) it documented in writing all material conflicts and published them in the Conflict of Interest Policy provided to all clients at account opening; (2) it created an 'alternatives committee' that quarterly evaluates whether unaffiliated managers' performance and costs justify recommending them; (3) it capped the difference in advisor compensation between affiliated and unaffiliated recommendations at 20 bps (reducing from 45 bps differential); (4) for clients with $250K–$1M in assets, advisors are required to offer at least one unaffiliated alternative before recommending WMP Advisors; (5) WMP's CCO audits recommendations monthly via sampling and has issued three findings of non-compliance (all remedied). A 58-year-old client with $620,000 in assets and balanced risk tolerance was recommended a WMP Advisors balanced model (0.45% advisory fee) after the advisor presented comparisons to DFA core strategy (0.48% advisory fee) and Vanguard PA (0.30% advisory fee plus platform fees). The advisor documented the comparison and selected WMP Advisors based on 'lower advisory fee relative to DFA and comparable service quality to Vanguard.'
+
+QUESTION
+--------
+Did WMP comply with Reg BI's conflict of interest obligation despite the 60 bps commission differential and affiliation with the recommended manager?
+
+ANSWER
+------
+Yes. WMP satisfied all three prongs of the conflict obligation. (1) Identification: the firm explicitly documented the affiliation and compensation differential in its written Conflict of Interest Policy. (2) Disclosure: the client received the policy at account opening and the advisor provided a cost comparison showing WMP Advisors, DFA, and Vanguard options. (3) Mitigation: the firm reduced the compensation differential from 45 bps to 20 bps, implemented an alternatives review committee, required competitive presentation for this client's asset range, and maintains active CCO monitoring. The documented comparison and selection rationale based on fee competitiveness (0.45% vs. 0.30–0.48% advisory fees) demonstrates that the conflict did not distort the recommendation. This approach aligns with SEC guidance (IA-5653 and Reg BI preamble) that robust mitigation frameworks, transparency, and monitored controls satisfy the obligation even when residual compensation differentials remain.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Regulation Best Interest Adopting Release, 84 FR 33318 (conflict mitigation examples)
+
+KEY FACTOR
+----------
+Comprehensive identification, written disclosure, material mitigation (differential cap + alternatives review + comparative analysis + CCO monitoring), and documented selection rationale together satisfy the conflict obligation despite affiliated product recommendation.

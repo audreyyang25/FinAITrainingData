@@ -1,0 +1,27 @@
+ID: 806
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greatland Corporation established a 401(k) profit-sharing plan for its 2,200 employees with approximately $340 million in assets. The plan's Investment Committee, chaired by the company's CFO, selected Greatland Securities, Inc.—a wholly-owned broker-dealer subsidiary—as the exclusive provider of investment management services for all plan assets. The subsidiary charged a 0.85% annual asset-based fee for managing proprietary mutual funds within the plan, while comparable index funds from third-party providers were available at 0.04%–0.12%. The Investment Committee conducted no independent evaluation of alternative providers and did not document any analysis of whether the subsidiary's fees were reasonable relative to market alternatives. Over a seven-year period, the plan paid approximately $18.2 million in excess fees to the affiliated subsidiary.
+
+QUESTION
+--------
+Did the plan's Investment Committee violate ERISA's prohibited transaction rules and fiduciary duties by directing all plan assets to a corporate affiliate without conducting an independent fee analysis?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes self-dealing in violation of ERISA § 406(b) and a breach of the duty of prudence under ERISA § 404(a)(1)(B).
+
+Under ERISA § 406(b)(1), a fiduciary may not deal with plan assets in his own interest or for his own account. In Acosta v. City National Corp., the Ninth Circuit affirmed liability where a corporate fiduciary channeled plan assets to an affiliated entity without an adequate independent process. Here, the Investment Committee directed $340 million exclusively to a corporate subsidiary charging fees far exceeding market rates, without any documented analysis of alternatives—mirroring the self-dealing found impermissible in City National. The duty of prudence further required a thorough, independent investigation of available options, which was entirely absent.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 406(b)(1) – Prohibition on Self-Dealing; ERISA § 404(a)(1)(B) – Duty of Prudence; see Acosta v. City National Corp., No. 17-55421 (9th Cir. 2019)
+
+KEY FACTOR
+----------
+The Investment Committee's failure to conduct any independent evaluation of fees or alternative providers before routing all plan assets to a corporate affiliate constitutes prohibited self-dealing under ERISA § 406(b) and a breach of the duty of prudence.

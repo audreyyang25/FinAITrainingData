@@ -1,0 +1,27 @@
+ID: 675
+Source Folder: 09_Law_Firm_Memos
+Topic: legal_risk_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Clearwater Investment Management, an SEC-registered investment adviser, manages discretionary accounts for retail clients and uses a model portfolio approach. The firm's investment committee selects a proprietary income-focused mutual fund (Clearwater Strategic Income Fund, expense ratio 1.45%) as a core holding across all moderate-income client models. A substantially similar third-party fund from Vanguard (expense ratio 0.18%) with comparable performance and risk metrics is available on the firm's platform. The adviser's ADV Part 2A discloses that it 'may use proprietary products' but does not specifically disclose the conflict of interest arising from the revenue the adviser earns from the proprietary fund's management fee, nor does it address how the conflict is mitigated. No client-specific analysis is documented comparing the proprietary fund to available alternatives.
+
+QUESTION
+--------
+Did the investment adviser breach its fiduciary duty of care and duty of loyalty under the Advisers Act by placing clients in the proprietary fund without adequate conflict disclosure or alternatives analysis?
+
+ANSWER
+------
+No, this conduct is a violation of the investment adviser's fiduciary duty of care and duty of loyalty under Section 206 of the Investment Advisers Act.
+
+The SEC's 2019 Fiduciary Interpretation clarified that the duty of care requires an adviser to provide advice in the best interest of the client, which includes an obligation to evaluate and consider the cost of the investment as a factor. The duty of loyalty requires full and fair disclosure of all material conflicts of interest and an obligation not to subordinate client interests to the adviser's own. A generic disclosure that the firm 'may use proprietary products' is insufficient to meet the full and fair disclosure standard when the adviser earns additional revenue from the proprietary fund. The absence of any documented analysis comparing the proprietary fund to the substantially similar, lower-cost alternative further evidences a breach of the duty of care.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Section 206(1) and (2); SEC Fiduciary Interpretation (2019) – Duty of Care and Duty of Loyalty
+
+KEY FACTOR
+----------
+The adviser failed to provide full and fair disclosure of the specific revenue conflict from the proprietary fund and did not document any analysis showing the higher-cost proprietary fund was in clients' best interest relative to substantially similar lower-cost alternatives.

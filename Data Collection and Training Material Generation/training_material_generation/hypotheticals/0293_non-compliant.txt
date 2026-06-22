@@ -1,0 +1,25 @@
+ID: 293
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Clearwater Capital Advisers, a $487M AUM registered investment adviser in Boston, routes 100% of its equity and fixed-income trades ($14.2M monthly volume) through its affiliated broker-dealer, Clearwater Securities LLC, without exception for 36 consecutive months. Clearwater Securities captures approximately $31,500/month in execution spreads on these orders. The adviser's Chief Compliance Officer conducts no systematic comparison of Clearwater Securities' execution quality versus competitors (e.g., Interactive Brokers, Liquidnet). A compliance review in month 37 reveals that Clearwater Securities' average effective spreads on S&P 500 buy orders are 4.8 basis points, versus 3.1 bps for Interactive Brokers on comparable orders. No disclosure was made to clients that all routing decisions favored the affiliate. The adviser's Investment Policy Statement states 'best execution shall be achieved,' but contains no methodology, benchmarks, or periodic review schedule.
+
+QUESTION
+--------
+Did Clearwater Capital Advisers comply with its fiduciary best execution duty under Investment Adviser Act Section 206(3) and SEC guidance?
+
+ANSWER
+------
+No. Section 206(3) requires an adviser to ensure best execution reasonably available under the circumstances. The SEC's Execution Quality Guidance (2010) and subsequent IM updates establish that systematic, periodic review of execution quality against alternatives is mandatory—not optional. Clearwater's exclusive routing to its affiliate for 36 months with zero documented performance comparison violates this standard. The 170 basis point spread disadvantage (4.8 vs. 3.1 bps) is material and undisclosed. Absence of a methodology, benchmarks, or comparative review demonstrates breach of the care obligation. This pattern mirrors FINRA/SEC enforcement in cases where advisers preferred affiliates without documented justification (e.g., similar to SEC settlements in 2019-2021). The IPS language alone ('best execution shall be achieved') does not satisfy the duty without supporting documented process.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC Execution Quality Guidance (2010); SEC IM Division guidance on best execution obligations for advisers
+
+KEY FACTOR
+----------
+Exclusive affiliate routing for 36 months with zero documented execution quality review or comparative analysis against competitors violates the fiduciary duty to ensure best execution.

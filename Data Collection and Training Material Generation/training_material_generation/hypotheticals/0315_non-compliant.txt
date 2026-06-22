@@ -1,0 +1,25 @@
+ID: 315
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Titan Asset Management, a BD/IA dual registrant managing $4.2B in AUM, implemented a 'platform efficiency' policy in Q2 2023. The policy stated: 'For advisory accounts under $500K with turnover below 0.5x annually, migrate to self-directed brokerage platform to reduce compliance overhead.' Over 18 months, Titan identified 234 accounts meeting these criteria (average $320K, mostly passive index-fund investors) and automatically transferred them to brokerage status without individual client meetings. The firm sent a mass email stating: 'Your account is being moved to our brokerage platform, where you maintain the same portfolio and investment strategy. No action needed.' The email included a generic Form CRS, but did not highlight that Titan would now earn per-trade commissions (avg. $8–15 per transaction) instead of AUM fees. For most clients, the brokerage platform charged $49 annual account-maintenance fees plus transaction fees; for buy-and-hold investors, total costs equaled ~0.25% annualized (vs. advisory fees of 0.75% previously). While the brokerage model was cheaper in aggregate, Titan's internal analysis showed that the platform's commission structure incentivized client trading at the margin, and Titan recognized that some clients might be nudged to trade more frequently. One client, 71-year-old Robert M. (account size $380K), was not contacted individually; he discovered the transfer when he logged into his account 6 weeks after the email. Robert's portfolio remained unchanged (85% index funds), but he now paid transaction fees he didn't understand.
+
+QUESTION
+--------
+Did Titan Asset Management comply with Reg BI and Form CRS requirements by automatically migrating 234 low-AUM advisory accounts to commission-based brokerage via mass email, without individual client consent or explanation of the capacity change?
+
+ANSWER
+------
+No. Titan violated multiple standards despite the lower aggregate cost. First, the firm unilaterally transferred clients to a new service model (brokerage) without documented individual consent, violating Reg BI §240.15l-1(a)(2)(i)'s requirement to act in each client's best interest and obtain informed consent to material changes. An unilateral mass transfer treats the accounts as if the clients had no choice, contradicting fiduciary principles. Second, Form CRS delivery via mass email without individual confirmation does not satisfy 17 CFR §275.204-1(a)'s requirement that Form CRS be delivered to each client 'before or at account opening.' A service-model change is functionally a new account opening; Titan should have required affirmative acknowledgment from each client, not a passive 6-week notice. Third, the email did not clearly explain the capacity change (brokerage vs. advisory), the shift from AUM fees to transaction commissions, or material conflicts (commission incentives to trade). For Robert M. specifically, at age 71 with a passive strategy, brokerage status is ill-suited; the compliance obligation requires individualized fit assessment, not one-size-fits-all policy. Fourth, Titan's internal recognition that the platform's commission structure creates incentives to trade contradicts the claim that no action is needed; the firm knew of latent conflicts but did not disclose them. This resembles SEC enforcement patterns for undisclosed service-model changes.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Best Interest and Fiduciary Duty, 17 CFR §240.15l-1(a)(2)(i); Form CRS Delivery, 17 CFR §275.204-1(a); Reg BI Capacity Disclosure, 17 CFR §240.15l-1(a)(1)(i)(B); Investment Adviser Act §206(1)–(2) (fiduciary duty of loyalty and care); SEC IA Release No. 2876 (dual registrant guidance)
+
+KEY FACTOR
+----------
+Dual registrant automatically migrated 234 advisory clients to brokerage via mass email without individual informed consent, adequate Form CRS explanation, or individualized suitability assessment.

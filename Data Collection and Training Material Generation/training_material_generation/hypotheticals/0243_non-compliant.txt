@@ -1,0 +1,25 @@
+ID: 243
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Morgan Stanley broker recommends 65-year-old client, $950K portfolio, a $400K allocation to Morgan Stanley Equity Opportunity Fund (proprietary mutual fund, 1.25% ER, $12M assets under management, 142% annual turnover). Client's risk tolerance is conservative. Competitor: Vanguard Index 500 (0.04% ER, $400B AUM, 5% turnover). Turnover-driven trading costs in MSEOF reduce net returns by ~0.55% annually versus the Vanguard index fund. Morgan Stanley advisors receive a 0.40% bonus above base compensation for sales of proprietary funds; non-proprietary fund sales earn no bonus. Written disclosure states: 'We earn higher compensation for proprietary products,' but advisor provided no analysis of why MSEOF's 1.25% + estimated 0.55% trading cost impact (1.80% total annual friction) was suitable for a conservative 65-year-old with near-term liquidity needs.
+
+QUESTION
+--------
+Does Morgan Stanley's recommendation of proprietary MSEOF with disclosed compensation incentive and high turnover comply with Reg BI's Conflict of Interest Obligation?
+
+ANSWER
+------
+No. Reg BI §240.15l-1(a)(2)(ii) requires identification, disclosure, AND mitigation of conflicts. Disclosing the higher compensation for proprietary products alone does not satisfy the mitigation prong. Morgan Stanley's 0.40% bonus for proprietary sales created a material financial incentive. The absence of documented analysis comparing MSEOF's 1.80% total friction cost (1.25% ER + 0.55% turnover impact) to 0.04% for Vanguard Index—and failure to explain why the 176 bps annual drag was suitable for a conservative, near-60-retirement client—indicates the conflict materially influenced the recommendation. The firm failed to document that it managed (not merely disclosed) this conflict. This pattern mirrors FINRA enforcement actions against proprietary product bias without documented mitigation analysis.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); disclosure + mitigation standard
+
+KEY FACTOR
+----------
+Disclosure of compensation incentive without documented analysis of why higher-cost proprietary product was appropriate for conservative client's profile fails mitigation requirement.

@@ -1,0 +1,25 @@
+ID: 216
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An advisor at a regional broker-dealer recommends a 401(k)-to-IRA rollover ($285,000 from a client's employer plan) into a self-directed IRA at the firm. The client is a 51-year-old with moderate investment knowledge and stated goal of 'growth with some income.' The employer plan offers a low-cost index-based core portfolio (0.08% ER, no advisory fees), stable value fund (3.5% guaranteed return), and a target-date 2045 fund (0.15% ER). The advisor's rollover recommendation memo states: 'IRA offers greater investment choice and lower fees.' However, the analysis fails to quantify: (1) loss of employer plan's stable value guarantee; (2) loss of potential employer match eligibility after rollover; (3) advisor's typical $185 annual account management fee for the rolled IRA (vs. no fee in 401(k)); (4) specific investment alternatives the client actually intends to use in the IRA. The memo acknowledges the client 'is not sophisticated with complex investments.' The client rolls over $285,000 and places it in four individual stock positions and two leveraged ETFs selected by the advisor.
+
+QUESTION
+--------
+Did the advisor comply with Reg BI's care obligation when recommending the 401(k) rollover without analyzing the cost and complexity trade-offs?
+
+ANSWER
+------
+Non-compliant. Reg BI's care obligation requires advisors to understand the client and the product/service, and form a reasonable basis specific to the client's situation. The advisor's recommendation to roll over $285,000 fails on multiple fronts: (1) no quantified analysis of the loss of stable value (3.5% guaranteed return) or employer match eligibility—material financial impacts; (2) the rollover introduces $185 annual advisory fees vs. the 401(k)'s zero-fee baseline, not offset by documented superior returns; (3) the advisor failed to acknowledge that the subsequent recommendation of leveraged ETFs to a 'not sophisticated' investor contradicts Reg BI's suitability analysis (complexity misalignment); (4) the 'greater choice' rationale is generic and not tied to the client's stated goal of 'growth with some income'—index funds in the 401(k) would have achieved that at lower cost. This resembles DOL and SEC enforcement patterns on rollover recommendations where advisors tout choice and low fees while obscuring conflicting compensation and introducing complexity unsuitable for the client's profile.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Conflict-of-Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); DOL PTE 2020-02 compliance standards for IRA rollover advice
+
+KEY FACTOR
+----------
+Advisor failed to quantify material costs of rollover (loss of stable value guarantee, employer match, new advisory fees) and subsequent leveraged ETF recommendations contradicted the client's stated sophistication level.

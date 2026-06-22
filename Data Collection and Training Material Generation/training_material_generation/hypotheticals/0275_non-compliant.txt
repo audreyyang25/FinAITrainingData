@@ -1,0 +1,25 @@
+ID: 275
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Catalyst Advisors, a $650M AUM RIA, adopted a written Allocation Policy in June 2022 stating: 'All block trades of equities shall be allocated within 30 seconds of execution confirmation using the FIFO (first-in-first-out) methodology based on portfolio entry sequence in the order ticket.' On November 8, 2023, the trader received a block of 4,000 shares of HighValue Inc. at $87/share. The order ticket listed five portfolios in this sequence: Portfolio A ($50M, listed first), Portfolio B ($45M, listed second), Portfolio C ($40M, listed third), Catalyst's proprietary account ($8M, listed fourth), and Portfolio D ($35M, listed fifth). FIFO methodology would allocate shares sequentially: A gets 1,000, B gets 1,000, C gets 1,000, proprietary gets 1,000, D gets 0. However, the portfolio manager, who earned a 0.25% annual bonus tied to proprietary account performance, reallocated shares to: A gets 600, B gets 600, C gets 600, proprietary gets 1,600, and D gets 600. The reallocation occurred 45 minutes after execution, after the manager checked HighValue's trading momentum (up 2.3% intra-day). All clients were notified of their allocations 5 business days later via email.
+
+QUESTION
+--------
+Does the delay in confirming allocations combined with the deviation from the FIFO policy constitute a cherry-picking violation, even if a policy exists and clients were eventually notified?
+
+ANSWER
+------
+Yes. This violates Section 206(1) and Rule 17j-1(b)(1). The policy explicitly required allocation within 30 seconds using FIFO. The manager waited 45 minutes—long enough to assess intra-day performance—and then deviated from FIFO to overallocate to the proprietary account (which the manager personally benefited from). The five-day delay in client notification compounds the violation; prompt disclosure is part of the 'consistently applied' standard. The manager's financial incentive tied to proprietary returns creates an additional conflict that was not mitigated. The SEC and FINRA treat delay-in-confirmation cherry-picking (waiting to see performance, then allocating) as equivalent to fraud under Section 206(2), even when an allocation policy nominally exists. The deviation from a specific, time-bound policy (30 seconds, FIFO) is particularly egregious. This mirrors patterns in SEC v. Katz and similar enforcement cases.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) & (2) (duty of loyalty, fraudulent conduct); SEC Rule 17j-1(b)(1) (consistent, timely application of written policy)
+
+KEY FACTOR
+----------
+Waiting 45 minutes post-execution (past the 30-second policy deadline) to assess price movement, then deviating from FIFO to favor proprietary account, constitutes intentional cherry-picking despite the existence of a written policy.

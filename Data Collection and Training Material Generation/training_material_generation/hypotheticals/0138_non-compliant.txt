@@ -1,0 +1,27 @@
+ID: 138
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 48-year-old participant has $320,000 in a 401(k) plan offering a stable value fund yielding 3.5% with 0% fees. A broker-dealer representative recommends rolling the funds into an IRA invested in the firm's proprietary bond fund yielding 4.2% with a 0.75% annual fee. The representative verbally tells the client that the 'higher yield' makes the rollover worthwhile but provides no written comparison of costs, does not calculate the net benefit after fees, and does not disclose that the firm earns 0.75% annually on all rolled-over assets. No BIC agreement is signed.
+
+QUESTION
+--------
+Does this rollover recommendation satisfy DOL ERISA fiduciary duty and PTE 2020-02?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and PTE 2020-02 requirements.
+
+This recommendation fails on multiple grounds. First, the adviser provided no written best-interest analysis or cost-benefit determination; PTE 2020-02 explicitly requires documentation. Second, the adviser did not disclose the material conflict: the firm will receive $2,400+ annually from this rollover (0.75% × $320,000). Third, comparing gross yield (4.2% vs. 3.5%) without accounting for the 0.75% annual fee is misleading—the net yield would be 3.45%, below the current 3.5% stable value return, making the recommendation imprudent. Finally, no written BIC was executed. The failure to document the analysis and disclose the conflict directly violates PTE 2020-02's prerequisites, and the representative did not satisfy the 'solely in the interest of' standard under ERISA §404(a)(1)(B).
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA §404(a)(1)(A)–(B) (fiduciary duty of care and loyalty); PTE 2020-02 (requirement for written best-interest determination, conflict-of-interest disclosure, and BIC); 29 CFR §2550.408g-2 (written acknowledgment of fiduciary status required)
+
+KEY FACTOR
+----------
+Adviser failed to provide written best-interest determination, failed to disclose the material conflict of interest (0.75% annual fee), failed to execute a BIC, and the recommendation is actually detrimental to the client on a net basis (3.45% net vs. 3.5% current return).

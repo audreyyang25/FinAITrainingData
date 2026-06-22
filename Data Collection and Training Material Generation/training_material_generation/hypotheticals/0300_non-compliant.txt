@@ -1,0 +1,25 @@
+ID: 300
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An adviser manages a $2.8M discretionary account for a 68-year-old retired client. The account holds 15% cash ($420,000) and 85% equities/bonds ($2.38M). The adviser's standard AUM fee of 0.85% is charged on the entire $2.8M balance, including the cash, which earns 0.05% annually. Form ADV Part 2A Item 5 states the fee applies to 'all assets under management,' but does not specify whether cash is included or whether a separate fee applies to non-yielding cash. When the client requested a detailed fee breakdown, the adviser verbally stated that cash is part of the standard fee. No written acknowledgment was obtained that the client understands the fee applies equally to non-yielding cash. The client paid approximately $2,380 in annual fees on the cash holding alone.
+
+QUESTION
+--------
+Does charging the full AUM fee on cash holdings without explicit written disclosure violate the Investment Adviser Act?
+
+ANSWER
+------
+Yes. While Rule 205-3 does not explicitly prohibit charging AUM fees on cash, the Investment Adviser Act Section 206(2) requires full disclosure of material facts affecting the advisory relationship, and Form ADV Part 2A Item 5 must clearly describe the fee methodology. Charging 0.85% on $420,000 in non-yielding cash ($2,380/year) is materially disadvantageous compared to the underlying economic benefit (client receives 0.05% on cash while paying 0.85% in advisory fees, a net cost of $2,324/year). SEC guidance (Regulation S-K Item 502) and case law require explicit written disclosure when fees are charged on asset classes with minimal return. Verbal disclosure is insufficient; written acknowledgment is required for non-standard arrangements. The Form ADV language 'all assets under management' is ambiguous and does not satisfy the clarity standard. Without written clarification and client acknowledgment, the fee arrangement violates the duty of fair dealing and disclosure obligations.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(2), Form ADV Part 2A Item 5, SEC Regulation S-K Item 502 (plain English requirement)
+
+KEY FACTOR
+----------
+Charging full AUM fee on non-yielding cash without explicit written disclosure and acknowledgment violates fair dealing and material disclosure obligations.

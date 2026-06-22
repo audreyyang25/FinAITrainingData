@@ -1,0 +1,27 @@
+ID: 121
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 55-year-old high-income professional ($350,000 annual salary) with $800,000 in non-qualified investments seeks tax-efficient income and estate planning. The broker recommends a variable annuity with income riders, 6-year surrender charge, 1.3% M&E, 0.65% subaccounts (~1.95% total cost). The client's primary objective is minimizing unrealized capital gains (current gains: ~$280,000) and deferring taxes on $120,000 in annual dividend and interest income. The broker documents a detailed tax-efficiency analysis showing the variable annuity's tax deferral will save approximately $18,000-22,000 annually (compared to taxable alternatives) over a 5-year holding period. The client explicitly waives liquidity and accepts the surrender charge.
+
+QUESTION
+--------
+Does this variable annuity recommendation for a tax-motivated, high-income investor satisfy Reg BI and FINRA Rule 2330?
+
+ANSWER
+------
+Yes, this recommendation is compliant.
+
+This recommendation satisfies both Rule 2330 and Reg BI because: (1) the client is a high-income earner in a high tax bracket (32-35% marginal federal plus state), making tax deferral economically material; (2) the advisor quantified the tax benefit ($18,000-22,000 annually), demonstrating the 1.95% annual cost is offset by tax savings in the client's specific situation; (3) the client's non-qualified account context maximizes the value of tax deferral (unlike an IRA); (4) the client explicitly waived liquidity concerns and accepted the 6-year surrender charge, reducing suitability risk; (5) the 5-year holding period is compatible with the surrender charge schedule; and (6) the advisor's documentation includes the tax analysis and client acknowledgment of trade-offs. SEC and FINRA guidance recognize that variable annuities are suitable for high-income, taxable-account investors where the tax deferral value materially exceeds the cost burden (SEC IA Release No. 2356; FINRA RN 13-47). The advisor's detailed tax analysis distinguishes this from a generic 'suitability' checkbox.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(a)(1) (reasonable basis suitability) and Reg BI § 240.15l-1(d)(1) (care obligation includes analyzing client tax situation and demonstrating annuity benefits outweigh costs).
+
+KEY FACTOR
+----------
+Quantified tax benefit ($18,000-22,000 annually) materially exceeds the 1.95% annual cost in the client's high-bracket, non-qualified account context; explicit client acknowledgment of trade-offs supports compliance.

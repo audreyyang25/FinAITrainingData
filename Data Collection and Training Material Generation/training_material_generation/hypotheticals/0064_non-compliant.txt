@@ -1,0 +1,27 @@
+ID: 64
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA with $310M AUM manages accounts for 220 clients. The RIA begins offering proprietary mutual funds managed by an affiliate (same parent company). The RIA recommends the proprietary funds to 87% of its clients (191 clients, $187M in assets). The engagement letters for new clients mention 'affiliated products' in passing but do not disclose that the affiliate earns revenue, the rate of that revenue, or that the RIA receives compensation based on assets invested in the affiliate funds. The RIA's compliance officer flags the lack of specific dollar disclosure in the ADV, but the Chief Investment Officer overrules the concern, stating 'affiliate arrangements are standard in the industry.' The proprietary funds' expense ratios are 0.12% higher than comparable unaffiliated index funds with similar strategies.
+
+QUESTION
+--------
+Does this proprietary fund arrangement satisfy the RIA's fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty and disclosure obligations.
+
+The RIA has failed to satisfy the duty of loyalty in multiple respects. First, the engagement letters and ADV do not provide specific, material disclosure of the affiliate compensation arrangement—merely mentioning 'affiliated products' is insufficient; clients must know the adviser benefits financially and the magnitude of that benefit. Second, the 0.12% higher expense ratios indicate the proprietary funds are not cost-competitive with alternatives, yet 87% of clients hold them, suggesting the recommendation is driven by adviser profit motive rather than client benefit. Third, the RIA ignored its compliance officer's valid concern about insufficient disclosure, suggesting institutional indifference to the conflict. SEC guidance and enforcement cases (e.g., SEC actions against advisers for insufficient affiliate disclosure) make clear that generic acknowledgment of 'affiliated products' does not constitute adequate disclosure. The adviser must disclose specific compensation arrangements and document that recommended products are competitive or otherwise in the client's best interest.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206(2) (duty of loyalty); Rule 206(4)-1 (disclosure of conflicts); Form ADV Part 2A requirements; SEC guidance on proprietary products
+
+KEY FACTOR
+----------
+Insufficient, non-specific disclosure of affiliate compensation combined with pervasive recommendation of proprietary funds that are higher-cost than alternatives, despite 87% placement rate across dissimilar client profiles.

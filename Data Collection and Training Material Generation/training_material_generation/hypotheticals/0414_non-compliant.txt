@@ -1,0 +1,25 @@
+ID: 414
+Source Folder: unknown
+Topic: esg_sustainable_investing
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RIA advisor manages $2,100,000 ERISA retirement plan (401(k)) for small business owner, age 55, who directs: 'Invest 60% stocks, 40% bonds, no specific constraints.' Plan offers 15 investment options, including: (A) Vanguard Total Stock Market ETF (VTI, 0.03%); (B) MSCI ESG USA ETF (SUSA, 0.13%). Both funds charge identical net-of-expense returns in the latest quarter. Under DOL 2022 ESG Guidance (PTE 2020-02, as clarified in 2022), ESG factors are permissible only when they present equal or superior risk-adjusted returns or when client directs ESG integration. Advisor defaults the plan's stock allocation to SUSA without the participant's knowledge or consent, reasoning: 'ESG is the fiduciary future; all sophisticated plans should have ESG exposure.' Advisor does not document any analysis of equal returns, risk-adjusted performance, or the client's ESG preference. Plan filings to DOL do not mention the ESG selection rationale. Six months into the allocation, SUSA underperforms VTI by 1.2% due to energy sector exclusion during an oil-price-recovery period.
+
+QUESTION
+--------
+Did the advisor comply with DOL ERISA fiduciary duty when defaulting ERISA plan assets to an ESG fund without documented equal returns analysis or participant direction?
+
+ANSWER
+------
+No. Under ERISA §406 and DOL guidance (PTE 2020-02, clarified 2022), an ERISA fiduciary must select investments based on risk-adjusted returns or explicit participant direction, not ideological preference. The 'Tiebreaker Rule' in PTE 2020-02 permits ESG consideration only when: (1) returns, risk, and other factors are substantially equivalent AND (2) the fiduciary documents this analysis. Here, the advisor: (1) made no written comparison of risk-adjusted returns between VTI (0.03% ER) and SUSA (0.13% ER); (2) did not obtain the participant's affirmative ESG direction; (3) subsequently underperformed by 1.2%, suggesting no equivalent return analysis was sound. The advisor violated ERISA §404(a)(1)(B) (duty of care) and §406(b) (prohibited transaction risk) by substituting unanalyzed ideological preference for return-focused fiduciary selection. Unlike a personal IRA where client values-preference supports ESG, ERISA fiduciaries are constrained to return-based selection unless documented equivalence is shown. DOL enforcement precedent (similar to 2023 guidance memoranda) would penalize this default-to-ESG behavior.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(B) duty of care; DOL PTE 2020-02 ESG Guidance (Tiebreaker Rule); DOL 2022 ESG Memorandum (no ideological screening without return equivalence)
+
+KEY FACTOR
+----------
+Default to higher-cost ESG fund without documented equal return analysis or participant consent violates ERISA fiduciary duty and PTE 2020-02 tiebreaker requirement.

@@ -1,0 +1,25 @@
+ID: 340
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered Representative Thomas N. (age 55, at Beacon Financial for 12 years) recommended to Client E (age 71, $420,000 portfolio, conservative profile, living on portfolio withdrawals) an investment in Beacon High-Yield Corporate Bond Fund, a proprietary mutual fund managed by Beacon's affiliate, Beacon Capital Management. The fund carries a 5% A-share front-end load, 1.8% annual expense ratio, and has a 12-month turnover ratio of 178% (high trading activity). Thomas earned a $21,000 gross commission on the $420,000 recommendation (5% load). The client's investment policy statement, prepared by a junior advisor 2 years prior, stated: 'Conservative fixed-income allocation; liquidity needs for quarterly withdrawals; bond ladder preferred.' Thomas did not update the IPS, did not discuss the fund's high turnover/expense structure, and did not address why a high-yield bond fund (credit-risk intensive) was suitable for a 71-year-old needing portfolio stability for living expenses. The fund's annual yield was 5.2%, but the prospectus warned of 'significant credit and default risk.' No alternative bond fund recommendations were documented.
+
+QUESTION
+--------
+Did Thomas N.'s recommendation of the high-yield bond fund comply with FINRA Rule 2111 and FINRA Rule 2010?
+
+ANSWER
+------
+No. Thomas violated FINRA Rule 2111 (Suitability) and Rule 2010 (Fair Dealing and conflicts of interest). The recommendation is unsuitable because: (1) a 71-year-old conservative investor requiring portfolio liquidity for living expenses should not hold credit-intensive, high-yield bonds subject to significant default risk—this conflicts with the documented IPS; (2) the 5% front-end load combined with 1.8% annual expense ratio and 178% turnover creates high cost drag inconsistent with a conservative income strategy; (3) the 5.2% yield does not compensate for credit risk in the client's life stage; (4) Thomas failed to document why the high-yield approach is better than a bond ladder or investment-grade bond fund; (5) the affiliate compensation ($21,000) creates a conflict of interest that Thomas did not disclose or mitigate; (6) no contemporaneous suitability analysis exists. FINRA enforcement cases consistently find such recommendations unsuitable when recommending credit-intensive products to retirees requiring stability and income.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (Suitability Obligation), FINRA Rule 2010 (Standards of Commercial Honor and Fair Dealing), FINRA Rule 2070 (Recommendations Regarding Microcap Securities—by analogy, duty to justify risks)
+
+KEY FACTOR
+----------
+Recommending a credit-intensive, high-yield bond fund to a 71-year-old conservative investor requiring portfolio withdrawals for living expenses violates suitability, especially when driven by affiliate compensation without documented cost-benefit rationale.

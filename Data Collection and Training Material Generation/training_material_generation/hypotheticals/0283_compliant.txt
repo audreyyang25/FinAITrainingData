@@ -1,0 +1,25 @@
+ID: 283
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+ProQuality Advisers, a $1.1 billion RIA, implements a documented best execution program: (1) it maintains relationships with three primary brokers (Rapid Exec, Bloomberg Equities, and SmartRoute) and evaluates execution quality quarterly using trade cost analysis (TCA) software comparing: spreads, commissions, price improvement, market impact, and arrival price versus VWAP/TWAP; (2) average execution cost across all three brokers is 4.3 basis points (2022), 4.1 bps (2023), 4.2 bps (2024) and documented as competitive against industry median of 4.4 bps; (3) the firm rotates order flow among the three brokers to encourage competitive execution and avoid concentration; (4) annual review of broker relationships is documented in compliance files, with explicit consideration of conflicts and affiliated relationships; (5) all client disclosures identify the three brokers by name, describe the selection methodology, and disclose that none are affiliated with ProQuality. When ProQuality's founder acquired a 25% minority stake in SmartRoute (a broker), the firm disclosed the conflict to all clients, added SmartRoute to the TCA analysis, and reduced SmartRoute's order allocation to 20% (from 35%) pending independent execution benchmarking.
+
+QUESTION
+--------
+Does ProQuality's best execution program satisfy Section 206(3) requirements?
+
+ANSWER
+------
+Yes. ProQuality demonstrates compliant best execution through: (1) documented systematic review procedures (quarterly TCA analysis using objective metrics); (2) competitive broker relationships with documented execution quality metrics (4.1–4.3 bps vs. 4.4 bps median); (3) order flow rotation to encourage competition and avoid concentration risk; (4) disclosure of broker selection methodology and lack of affiliation (initially); (5) prompt conflict disclosure and mitigation (SmartRoute minority stake disclosed, TCA added, allocation reduced to 20% pending independent benchmarking). The firm's approach reflects the SEC's 2021 IA Best Execution Guidance: documented procedures + periodic review + client disclosure + conflict management. The responsive action upon acquiring SmartRoute interest demonstrates good-faith duty-of-loyalty compliance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC IA Best Execution Guidance (IM Guidance Update 2021-03); Fiduciary duty of care and loyalty
+
+KEY FACTOR
+----------
+Documented quarterly execution quality review, competitive broker relationships, order flow rotation, and proactive disclosure and conflict mitigation satisfy the best execution obligation.

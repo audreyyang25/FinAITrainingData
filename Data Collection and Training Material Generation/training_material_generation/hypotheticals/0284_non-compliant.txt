@@ -1,0 +1,25 @@
+ID: 284
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Capital Group, a $3.8 billion RIA with a proprietary trading desk, executes a principal trading arrangement in illiquid microcap equities. Apex identifies investment opportunities in illiquid securities (average daily volume: 8,000–15,000 shares), and when it determines a position is suitable for client portfolios, Apex's trading desk first purchases the security for Apex's own account at the best available market price (average cost: $18.43/share over 12 months), then sells identical or similar quantities to client accounts at Apex's cost plus 1.5% markup ($18.71/share), representing a $0.28/share profit to Apex. Across 47 client portfolios, this arrangement generated approximately $1.24 million in principal trading profits to Apex over 24 months. Apex's disclosures mention principal trading in boilerplate language ('the firm may trade principal') but do not specify: (1) the 1.5% markup structure; (2) the frequency (2–3 trades per month); (3) that Apex's own account receives priority execution at better prices than clients; (4) client opportunity to decline principal purchases. Apex has not conducted any documented analysis of whether principal purchases are less favorable to clients than alternative execution venues (e.g., dark pools, agency execution from other dealers).
+
+QUESTION
+--------
+Does Apex's principal trading arrangement comply with Section 206(3) best execution and Section 206 duty of loyalty?
+
+ANSWER
+------
+No. Apex violates both Section 206(3) best execution and Section 206(1) duty of loyalty: (1) principal trading creates inherent conflicts—Apex profits directly from client purchases, creating incentive to recommend illiquid securities regardless of suitability; (2) Apex executes its own trades at better prices ($18.43) than clients ($18.71), evidencing deprioritization of client interests; (3) boilerplate disclosure of 'principal trading' does not adequately disclose the 1.5% markup structure, frequency, or execution alternative analysis; (4) absence of documented comparison to alternative execution venues (agency execution, dark pools) fails to demonstrate Apex sought reasonably favorable execution; (5) clients lack meaningful opportunity to decline principal purchases. SEC enforcement (e.g., related to principal trading conflicts) requires specific disclosure of the markup, frequency, and alternatives. The $1.24M profit over 24 months evidences systematic self-dealing absent independent execution quality justification.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(1) (duty of loyalty); Section 206(3) (best execution); SEC IM Guidance on principal transactions and conflicts (IM Guidance Update 2021-03)
+
+KEY FACTOR
+----------
+Principal trading at 1.5% markup without documented comparison to alternative execution venues or client-specific consent violates duty of loyalty and best execution obligations.

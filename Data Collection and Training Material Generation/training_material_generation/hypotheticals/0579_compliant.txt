@@ -1,0 +1,27 @@
+ID: 579
+Source Folder: 05_SEC_Exam_Findings
+Topic: exam_findings
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A state-registered investment adviser with $85 million in AUM undergoes a routine state regulatory examination. The examiner flags that the adviser's Form ADV Part 2A discloses a potential conflict of interest: the adviser's principal also owns a 15% equity stake in a local tax preparation firm, and the adviser occasionally refers clients to this firm for tax services. The adviser's ADV disclosure states: 'Our principal has a financial interest in [Tax Firm LLC], and clients referred to this firm generate indirect economic benefit to our principal. Clients are under no obligation to use this firm and may select any tax professional of their choosing.' The adviser maintains a log showing that of 200 clients, 34 were referred to the tax firm over three years, and in each case the client signed an acknowledgment of the conflict. The tax firm charges market-rate fees, and the adviser receives no direct referral compensation beyond the equity appreciation in the firm.
+
+QUESTION
+--------
+Does the adviser's handling of the conflict of interest related to the affiliated tax firm satisfy fiduciary disclosure and conflict management standards?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The adviser has made full and fair disclosure of the conflict in its Form ADV Part 2A, including the nature of the financial interest and the fact that referrals generate an indirect economic benefit. The firm goes beyond the minimum by obtaining individualized client acknowledgments documenting informed consent. The tax firm charges market-rate fees, eliminating concerns about client harm through inflated pricing, and clients are expressly informed they have no obligation to use the referred firm. This represents an edge case that examiners may flag for review, but the adviser's transparent disclosure, documentation, and absence of coercion satisfy fiduciary standards.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1), 206(2); Form ADV Part 2A Item 10 (Other Financial Industry Activities and Affiliations); SEC Division of Examinations guidance on conflicts of interest disclosure
+
+KEY FACTOR
+----------
+The adviser made specific, prominent disclosure of the conflict in Form ADV, obtained individualized client acknowledgments, ensured market-rate pricing, and imposed no obligation on clients to use the affiliated firm.

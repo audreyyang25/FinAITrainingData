@@ -1,0 +1,25 @@
+ID: 286
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Catalyst Advisers, a $2.1 billion RIA, engages in agency cross transactions: when two clients (Client A seeking to sell 150,000 shares of XYZ Corp at $42/share; Client B seeking to buy 150,000 shares of XYZ at $42.10/share) both request immediate execution, Catalyst's chief investment officer (acting as agent for both clients) negotiates a price of $42.05/share (midpoint with 2.5¢ improvement vs. the spread). Catalyst discloses the transaction in writing pre-trade to both clients, including: (1) Catalyst's dual agency role; (2) the negotiated price ($42.05) versus the stated bid-ask ($42.00–$42.10); (3) each client's executed price and resulting P&L impact; (4) Catalyst's policy that cross transactions generate no additional commission or advisory fee (the transaction is executed at-cost as an agency service); (5) each client's explicit written consent to the cross transaction. Catalyst documents the cross transaction in client files and conducts quarterly review of all cross transactions to assess fairness of prices negotiated. No client has objected to the practice, and Catalyst's disclosures are renewed annually with all client consent forms updated.
+
+QUESTION
+--------
+Do Catalyst's agency cross transactions comply with Section 206(3) best execution and Section 206(1) duty of loyalty?
+
+ANSWER
+------
+Yes. Catalyst's agency cross transactions comply because: (1) full pre-trade disclosure of dual agency role and price terms to both parties (Client A, Client B); (2) negotiated price ($42.05) achieves material improvement for both clients versus market spread ($42.00–$42.10); (3) Catalyst receives no additional compensation for executing the cross (no secret profit); (4) explicit written consent from both clients pre-execution; (5) documented quarterly review of cross fairness; (6) annual renewal of client consent. Agency cross transactions are permissible under Section 206(3) only when: (a) fully disclosed pre-trade, (b) both clients consent explicitly, (c) the adviser acts in good faith, and (d) prices are fair (SEC IM Guidance). Catalyst's process satisfies all prongs. The 2.5¢ improvement ($42.05 vs. market spread midpoint) and documented fairness review demonstrate commitment to execution quality despite the dual agency conflict.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(1) (duty of loyalty); Section 206(3) (best execution); SEC Guidance on Agency Cross Transactions (IM Guidance, Rule 206(3)-2)
+
+KEY FACTOR
+----------
+Pre-trade disclosure, explicit client consent, negotiated price improvement, no hidden adviser compensation, and documented fairness review satisfy agency cross transaction compliance.

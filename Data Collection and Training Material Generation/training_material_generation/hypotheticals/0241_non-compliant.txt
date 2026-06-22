@@ -1,0 +1,25 @@
+ID: 241
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BD Global Advisors operates a broker-dealer that receives 12 basis points annual revenue sharing from Vanguard for directing $450M in client assets into Vanguard mutual funds (versus 8 bps for competitors' comparable funds). The firm's written disclosure states: 'We receive revenue sharing from fund families. This may create a conflict of interest.' Advisors receive identical compensation (no tiers) regardless of which fund family they recommend. The firm conducts no documented analysis comparing expense ratios or performance between Vanguard (avg 0.35% ER) and alternatives (0.42–0.55%). Client: 58-year-old, $1.2M portfolio, medium risk tolerance. Advisor recommended $800K into Vanguard equity funds; competitor equivalents cost 0.18% less annually ($1,440/year savings foregone). No documented basis for why Vanguard was superior, only that it met suitability.
+
+QUESTION
+--------
+Did BD Global Advisors satisfy Reg BI's Conflict of Interest Obligation by disclosing revenue sharing while recommending higher-cost Vanguard funds without documented analysis of alternatives?
+
+ANSWER
+------
+No. Reg BI §240.15l-1(a)(2)(ii) requires advisors to 'identify and disclose' material conflicts, then 'eliminate the conflict of interest or, if the conflict of interest cannot be eliminated, implement policies and procedures reasonably designed to manage the conflict of interest such that communication of the recommendation is not materially influenced by the conflict.' Disclosure alone is insufficient when a material financial incentive exists to favor costlier proprietary products. The revenue-sharing spread (4 bps differential on $450M = ~$1.8M firm revenue) created measurable bias. Absence of documented comparative analysis—particularly on expense ratios—suggests the conflict was not managed; it was merely disclosed. The firm's failure to document why Vanguard's 0.35% ER (vs. cheaper alternatives) was in the client's interest despite the conflict indicates non-compliance. Similar to FINRA enforcement pattern in cases involving undisclosed or unmitigated revenue-sharing conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); identification + disclosure + mitigation requirement
+
+KEY FACTOR
+----------
+Disclosure of revenue sharing without documented mitigation (comparative analysis of alternatives) does not satisfy the affirmative duty to manage material conflicts of interest.

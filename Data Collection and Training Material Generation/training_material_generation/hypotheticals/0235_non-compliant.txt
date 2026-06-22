@@ -1,0 +1,25 @@
+ID: 235
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Global Equity Partners (GEP), a $2.1B AUM RIA, maintains a practice of recommending clients invest in the GEP Strategic Growth Fund (an affiliated proprietary fund managed by GEP Fund Management LLC) as the core equity holding in client portfolios. GEP's advisory agreement discloses the affiliation but states only: 'GEP may recommend affiliated funds. GEP does not charge an additional advisory fee for this service.' The fund's net expense ratio is 0.89%, compared to Vanguard Total Stock Market Index (0.03%) and Dimensional US Core (0.25%). In 2023, GEP's affiliated fund received $340M in new inflows, representing 78% of total client equity allocations recommended that year. An advisor recommended a 52-year-old client with $1.2M in assets and moderate-aggressive risk tolerance allocate $520,000 (43% of portfolio) to the GEP Strategic Growth Fund, justifying it as 'actively managed, tax-efficient, and aligned with firm expertise.' The advisor did not compare the fund's after-tax performance, costs, or alpha generation to index alternatives. GEP's compliance department discovered no annual conflict mitigation audit, no documented review of whether the affiliated fund's performance justified the 64 bps cost premium over Dimensional, and no policy requiring advisors to present alternatives.
+
+QUESTION
+--------
+Did GEP comply with Reg BI's conflict of interest obligation by recommending the affiliated fund without documented performance analysis or alternatives presentation?
+
+ANSWER
+------
+No. GEP violated the conflict obligation. (1) Identification: while the disclosure mentioned affiliation, it failed to identify the specific conflict—that GEP earns revenue through the affiliated fund's assets and thus faces an incentive to overallocate to it. (2) Disclosure: the disclosure that 'no additional advisory fee' is charged obscures rather than clarifies the underlying conflict (the firm's revenue depends on the fund's AUM growth). (3) Mitigation: GEP provided none. The absence of documented performance analysis, systematic alternatives review, or advisory guidance requiring competitive evaluation demonstrates inadequate mitigation. The 78% allocation rate and 64 bps cost premium, unexplained by documented alpha, suggest the recommendation was driven by the affiliation rather than client benefit. SEC and FINRA enforcement patterns show that merely disclosing an affiliation without conducting and documenting a comparative analysis of performance and costs fails the conflict obligation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); Investment Advisers Act §206 duty of loyalty; SEC Exams Priorities (2024) regarding affiliated product bias
+
+KEY FACTOR
+----------
+Unexplained systematic bias toward affiliated fund with high cost premium, absent documented performance justification or alternatives analysis, evidences inadequate identification and mitigation of affiliation conflict.

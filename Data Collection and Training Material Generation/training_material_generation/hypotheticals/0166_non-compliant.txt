@@ -1,0 +1,27 @@
+ID: 166
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered representative at a FINRA member firm recommends a mutual fund (XYZ Growth Fund, 1.2% expense ratio) to a 52-year-old client with $250,000 in investable assets and moderate risk tolerance. The fund company pays the firm a 12 basis point revenue-sharing arrangement (annual trailer fees) that increases when AUM exceeds $50 million in client assets. The rep's compensation is directly tied to this revenue-sharing total. The firm's Form ADV Part 2A discloses only that it receives compensation from fund companies but does not identify XYZ Fund or quantify the 12 basis point arrangement.
+
+QUESTION
+--------
+Does the firm's disclosure satisfy the Reg BI conflict-of-interest obligation and Investment Adviser Act fiduciary duty?
+
+ANSWER
+------
+No, this violates the applicable standard.
+
+The firm's generic disclosure that it 'receives compensation from fund companies' does not satisfy the materiality standard because it fails to identify the specific fund (XYZ), the specific basis-point amount (12 bps), or the revenue-sharing trigger tied to AUM thresholds. A reasonable client cannot assess the conflict without knowing which funds generate higher compensation or how the rep's incentives are skewed. SEC Reg BI guidance (Release No. 34-90717) explicitly states that conflicts tied to specific product recommendations must be disclosed with particularity. The arrangement directly incentivizes recommendation of XYZ Fund over potentially lower-cost alternatives, making it material to suitability. A generic disclosure fails the 'clear, prominent, and understandable' standard.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest (Rule 15l-1(a)(2)(ii)) requires disclosure of 'material conflicts of interest' in a 'clear, prominent, and understandable manner.' Investment Adviser Act Section 206(2) fiduciary duty requires disclosure of all material facts regarding conflicts. FINRA Rule 2111 (suitability) requires disclosure of material compensation arrangements.
+
+KEY FACTOR
+----------
+Failure to identify the specific fund, the specific basis-point amount, and the AUM trigger in the conflict disclosure, rendering the disclosure inadequate under Reg BI and IA fiduciary duty.

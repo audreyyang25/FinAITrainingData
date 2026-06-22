@@ -1,0 +1,25 @@
+ID: 415
+Source Folder: unknown
+Topic: esg_sustainable_investing
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered investment adviser publishes marketing materials claiming its 'Sustainable Growth Portfolio' has '15-year ESG outperformance track record' with '85% lower carbon intensity vs. S&P 500.' Materials show a chart: Sustainable Growth Portfolio returned 9.4% annualized (2008–2023); S&P 500 returned 9.1%. Advisor's website states: 'Our ESG methodology screens for industry-leading sustainability practices, ensuring alignment with global climate goals.' In footnotes, buried: '*2008–2011 included emerging market tech bubble recovery, favoring small-cap growth stocks; portfolio was 100% small-cap ESG stocks in this period. 2012–2023 included 2 years of ESG outperformance, 9 years of underperformance.' The 85% carbon intensity claim is based on a proprietary 2021 calculation; no independent third-party verification. SEC staff examined the adviser under Marketing Rule IA-5653 (effective November 2023). Adviser has no documented process for selecting ESG data sources or verifying vendor carbon metrics. Three clients claim they relied on the 'outperformance' claim and were unaware of the 2012–2023 underperformance phase.
+
+QUESTION
+--------
+Did the adviser violate SEC Marketing Rule IA-5653 (substantiation and misleading claim prohibitions) by making ESG outperformance and carbon intensity claims without adequate substantiation?
+
+ANSWER
+------
+Yes. Under SEC Marketing Rule IA-5653 §206(4)-1(b)(1), advisers must have a reasonable basis in fact to substantiate any claim about performance, risk, or product characteristics. The adviser violated this rule in multiple ways: (1) Performance claim: The 15-year 9.4% vs. 9.1% comparison is materially misleading because the index outperformance derives from a non-representative 2008–2011 period when the portfolio was 100% small-cap ESG (a concentrated bet), not ESG's intrinsic value. The subsequent 9 years (the longer, more recent period) showed underperformance, contradicting the headline claim. (2) Carbon intensity: The 85% claim lacks independent verification and relies on a proprietary 2021 calculation with no documented validation process, failing IA-5653's substantiation requirement. (3) Misleading selective emphasis: The footnote disclaimer does not cure materiality; SEC staff guidance (2023) requires prominent placement of contradictory facts, not buried footnotes. (4) No documented ESG methodology review: The adviser has no audit trail showing how it selected or validated ESG data sources, failing the 'reasonable basis' standard. SEC enforcement actions on ESG marketing (2023–2024) have consistently penalized unsubstantiated outperformance claims and unverified ESG metrics.
+
+APPLICABLE STANDARD
+-------------------
+SEC Marketing Rule IA-5653 §206(4)-1(b)(1) (substantiation); §206(4)-1(a)(1) (prohibition on misleading statements); SEC Division of Investment Management Marketing Rule Frequently Asked Questions (June 2023)
+
+KEY FACTOR
+----------
+ESG outperformance claim based on non-representative cherry-picked period with unverified carbon metric lacks reasonable basis and is materially misleading under IA-5653.

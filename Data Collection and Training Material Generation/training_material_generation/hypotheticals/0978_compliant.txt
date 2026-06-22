@@ -1,0 +1,27 @@
+ID: 978
+Source Folder: 23_International_Comparative
+Topic: iosco_cross_border_suitability_documentation
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A multinational asset management firm operating across the EU, UK, and Asia develops a unified suitability framework for its private wealth division following the IOSCO Suitability Principles 2021. The framework mandates collection of client risk tolerance, investment horizon, liquidity needs, and financial sophistication data through a standardised digital questionnaire administered at onboarding and refreshed annually. Portfolio recommendations are generated through a rules-based engine that maps client profiles to approved product categories, with any override by a human adviser requiring documented justification reviewed by compliance. All suitability assessments and recommendation rationales are archived for a minimum of seven years and accessible for regulatory inspection.
+
+QUESTION
+--------
+Does the firm's unified cross-border suitability framework satisfy the expectations of IOSCO Suitability Principles 2021 for firms providing investment recommendations across multiple jurisdictions?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+IOSCO's 2021 Suitability Principles require firms to collect sufficient client information, maintain documented assessment processes, and ensure recommendations align with established client profiles across all business lines. The firm's standardised data collection, rules-based recommendation engine, mandatory justification for overrides, and seven-year archiving policy collectively address the core IOSCO requirements for process consistency, documentation, and supervisory oversight. The annual profile refresh further ensures ongoing suitability rather than a one-time point-in-time assessment.
+
+APPLICABLE STANDARD
+-------------------
+IOSCO Suitability Principles for Transactions in OTC Derivatives (2021); MiFID II Art. 25; FCA Consumer Duty (PRIN 12)
+
+KEY FACTOR
+----------
+Firm implemented a consistent, documented, and auditable suitability process with adequate oversight controls, satisfying IOSCO Principles 2021 cross-border suitability expectations.

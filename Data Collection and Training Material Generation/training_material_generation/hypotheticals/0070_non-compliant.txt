@@ -1,0 +1,27 @@
+ID: 70
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA with $400M AUM develops a proprietary actively-managed small-cap equity fund (0.85% expense ratio, 1.5M AUM) and recommends it to 45 clients with a combined $180M in assets. The adviser discloses that it manages the fund but states only that the fund 'may outperform comparable indices over time.' Unknown to clients, the fund has underperformed its benchmark (Russell 2000) by 2.8% annualized over the past four years. The adviser also receives an additional 0.40% revenue from the fund's operating expenses paid to the adviser's affiliate. The adviser does not disclose that it has not conducted sufficient back-testing or prospective analysis to justify the fee relative to comparable low-cost index alternatives (0.08% expense ratio).
+
+QUESTION
+--------
+Does the recommendation to invest in the proprietary fund satisfy the Investment Adviser Act fiduciary duty of loyalty and care?
+
+ANSWER
+------
+No, this violates both the fiduciary duty of loyalty and duty of care under the Investment Adviser Act.
+
+The adviser violates the duty of loyalty through multiple coordinated conflicts: (1) undisclosed receipt of 0.40% in additional compensation from fund operating expenses; (2) recommending a fund with four years of underperformance (-2.8% annually vs. benchmark) without disclosing this performance; and (3) steering $180M in client assets (45% of the adviser's AUM) to the proprietary fund where the adviser directly profits. The duty of care is breached because the adviser made no documented analysis comparing the fund's expected performance to low-cost index alternatives (0.08% expense ratio) that would have been superior for clients. SEC guidance makes clear that when an adviser manages a proprietary investment product, the adviser must affirmatively demonstrate that the product's expected return justifies higher fees; generic promotion ('may outperform') without back-testing or analytical support fails this standard. The combination of undisclosed conflicts, underperformance history, and absence of rigorous justification constitutes a knowing breach of both fiduciary duties.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2) (duty of loyalty; prohibition on self-dealing and fraud); SEC Investment Adviser Act Release No. IA-1092 (on adviser duty to recommend lowest-cost alternatives when performance does not justify higher fees); SEC Compliance Release 2000-47 (adviser must disclose conflicts affecting investment recommendations); SEC Rule 206(4)-7 (duty of care requires adviser to exercise reasonable care in making recommendations).
+
+KEY FACTOR
+----------
+Undisclosed conflict of interest (0.40% revenue from fund operating expenses) combined with four years of documented underperformance and failure to analyze whether the high-cost proprietary fund was appropriate compared to low-cost index alternatives that would have been in clients' best interest.

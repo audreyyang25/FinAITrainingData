@@ -1,0 +1,27 @@
+ID: 161
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA-registered broker-dealer advisor recommends a client (age 58, $450,000 in liquid assets, moderate risk tolerance) purchase Class B shares of an in-house mutual fund (XYZ Growth Fund) with a 5% front-end load and 12b-1 fees of 0.75% annually. The advisor receives higher compensation on Class B shares (0.5% commission) than Class A shares (0.25% commission). The advisor's disclosure document makes no mention of the differential commission structure or that Class A shares with lower costs were available.
+
+QUESTION
+--------
+Does this recommendation comply with Reg BI's Conflict of Interest obligation and the IA fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates both Reg BI Section 15l-1(b)(2)(i) and the Investment Adviser Act fiduciary duty of loyalty.
+
+The advisor's receipt of higher compensation for Class B shares versus Class A shares constitutes a material conflict of interest. Reg BI requires the broker-dealer to disclose the conflict in writing and provide general education about share classes. The failure to disclose that Class A shares (with lower ongoing costs) were available, or that the advisor's compensation incentivizes the higher-cost option, is a classic self-dealing violation. Under IA fiduciary duty (Abrahamson v. Kuhn, see SEC guidance), an advisor who knows of a conflict but conceals it breaches the duty of loyalty even if the transaction itself might be suitable. The lack of written disclosure in the Form ADV or account documentation is fatal to compliance.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest Rule 15l-1(b)(2)(i) (conflict-of-interest disclosure obligation); Investment Adviser Act Section 206(2) (fiduciary duty of loyalty — must disclose material conflicts and act in client's best interest)
+
+KEY FACTOR
+----------
+Undisclosed differential compensation structure combined with failure to present lower-cost alternatives (Class A shares) demonstrates hidden self-interest over client benefit.

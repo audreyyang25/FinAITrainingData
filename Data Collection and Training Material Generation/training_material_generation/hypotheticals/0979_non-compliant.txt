@@ -1,0 +1,27 @@
+ID: 979
+Source Folder: 23_International_Comparative
+Topic: mifid_ii_suitability_assessment_omission
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A Frankfurt-based investment firm receives an order from a retail client to purchase a complex structured product linked to emerging market equities. The adviser processes the transaction without collecting any information about the client's investment objectives, financial situation, or risk tolerance. When queried internally, the adviser states the client 'seemed experienced' based on a prior conversation about stocks. No written suitability assessment is documented.
+
+QUESTION
+--------
+Does the adviser's failure to conduct and document a suitability assessment before executing a personal recommendation on a complex product comply with MiFID II requirements?
+
+ANSWER
+------
+No, this conduct is a violation of MiFID II Article 25(2) suitability obligations.
+
+MiFID II Article 25(2) requires investment firms to obtain necessary information regarding a client's knowledge, experience, financial situation, and investment objectives before providing a personal recommendation. Subjective impressions do not substitute for documented, structured suitability assessments, and the obligation applies regardless of perceived client sophistication at the retail classification level.
+
+APPLICABLE STANDARD
+-------------------
+MiFID II Art. 25(2); ESMA Guidelines on Suitability (ESMA35-43-1163)
+
+KEY FACTOR
+----------
+Complete absence of documented suitability assessment prior to recommendation of a complex product to a retail client.

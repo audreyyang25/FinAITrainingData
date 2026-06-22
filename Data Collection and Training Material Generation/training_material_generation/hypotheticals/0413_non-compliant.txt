@@ -1,0 +1,25 @@
+ID: 413
+Source Folder: unknown
+Topic: esg_sustainable_investing
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor with 48-year-old client, $450,000 in brokerage account. Client has no stated ESG preference. Advisor recommends switching from Vanguard Total Stock Market ETF (VTI, 0.03% ER, no commission) to Parnassus Core Equity Fund (PRBLX, 0.69% ER, 5% front-end load generating $22,500 commission to advisor). Stated reason: 'ESG funds are the future and will outperform.' Advisor provides marketing brochure showing Parnassus' 10-year returns (12.2%) vs. VTI (11.8%), claiming 'ESG sustainability leadership.' Advisor does not disclose: (1) the 5% load; (2) that VTI outperformed PRBLX by 0.4% after the 0.66% fee drag, implying load-free performance was worse; (3) the advisor's $22,500 commission (52% of first-year fees); (4) that performance comparison excluded VTI's superior tax efficiency (estimated 0.3–0.5% advantage in taxable account); (5) no analysis of whether the 10-year comparison period was cherry-picked to favor PRBLX (which underperformed 2015–2019). Client is not a tax-loss harvesting candidate and did not initiate the switch.
+
+QUESTION
+--------
+Did the advisor comply with Reg BI, FINRA Suitability Rule 2111, and avoid violations under the IA Act when recommending PRBLX with significant undisclosed conflicts and misleading performance claims?
+
+ANSWER
+------
+No. Multiple violations occurred: (1) Under Reg BI 17 CFR §240.15l-1(a)(2)(ii) (conflict-of-interest obligation), the $22,500 commission was not disclosed, and the recommendation favored the product generating the highest compensation—a red flag for breach of the care obligation. (2) FINRA Rule 2111 requires 'reasonable basis'—the performance claim omitted the load and tax efficiency, distorting the comparison. The cherry-picked 10-year window (excluding 2015–2019 underperformance) is a basis defect. (3) IA Act §206(2) (prohibition on undisclosed conflicts) was violated by failing to disclose the 52% compensation ratio. (4) SEC Marketing Rule IA-5653 requires ESG claims be substantiated; claiming 'ESG will outperform' without caveating cycle-specific outperformance and tax drag is misleading. (5) The load ($22,500) combined with 0.66% annual drag creates 1.75% first-year cost vs. 0.03% VTI—an unjustifiable burden for an unsolicited ESG switch by a non-ESG-preferencing client.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict Obligation, 17 CFR §240.15l-1(a)(2)(ii); FINRA Rule 2111 (reasonable basis); IA Act §206(2) (undisclosed conflicts); SEC Marketing Rule IA-5653 (substantiation of ESG outperformance claims)
+
+KEY FACTOR
+----------
+Undisclosed $22,500 commission from load, omitted tax-efficiency advantage of VTI, and unsubstantiated ESG outperformance claim for client with no ESG preference constitutes conflict-driven recommendation in breach of Reg BI.

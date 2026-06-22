@@ -1,0 +1,25 @@
+ID: 428
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer Nexus Capital's trading desk receives a tip from a crypto fund manager client about an upcoming token launch ('TokenX') with purported 'revolutionary DeFi protocol.' The BD's senior trader, without any formal suitability analysis, recommends TokenX to 47 retail clients via email blast: 'Emerging opportunity with 500% potential.' Nexus collects no information on client investment objectives, risk tolerance, or prior crypto experience. The recommendation does not disclose: (1) TokenX is unregistered; (2) the token has zero trading history; (3) the founding team is pseudonymous; (4) the protocol is unaudited; (5) Nexus receives a 15% kickback from TokenX's treasury if referrals exceed 100 clients; (6) the SEC has issued warnings about similar unregistered tokens. By month 2, TokenX price crashes 95%; 12 clients lose $480,000 combined.
+
+QUESTION
+--------
+Did Nexus Capital and its trader comply with Reg BI, FINRA Rule 2111, and applicable anti-fraud standards?
+
+ANSWER
+------
+No, on multiple grounds. (1) Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)): No understanding of client profiles was documented; recommendation was generic mass marketing, not individualized advice. (2) FINRA Rule 2111 Suitability: No reasonable basis for suitability; the trader collected zero suitability information. (3) Reg BI Conflicts Disclosure (17 CFR §240.15l-1(a)(2)(ii)): The 15% kickback was not disclosed, creating an undisclosed conflict of interest. (4) Anti-Fraud (SEC Rule 10b-5, FINRA Rule 4512): The email blast omits material facts (unregistered status, team anonymity, lack of audit, known regulatory warnings), making the recommendation misleading. The pattern mirrors SEC enforcement against crypto promoters for recommending unregistered tokens without suitability analysis or conflict disclosure. This is a 'hard' case because the fraudulent component elevates liability beyond mere unsuitability.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation & Conflicts Disclosure, 17 CFR §240.15l-1(a)(2); FINRA Suitability Rule 2111; SEC Rule 10b-5
+
+KEY FACTOR
+----------
+Mass-market recommendation of unregistered, high-risk token to 47 retail clients without suitability analysis, conflict disclosure, or material risk disclosures; undisclosed 15% kickback.

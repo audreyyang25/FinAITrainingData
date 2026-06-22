@@ -1,0 +1,27 @@
+ID: 867
+Source Folder: 18_OCC_Bank_Trust_Guidance
+Topic: bank_fiduciary
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Continental Commerce National Bank has established a national fiduciary program pursuant to which it markets trust services in states where it has no branch presence, consistent with OCC Interpretive Letter #995 (July 2004). In Ohio, a state where the bank has only a trust representative office, the bank accepts appointment as sole corporate trustee of a $7.3 million revocable living trust for Howard and Beatrice Yamamoto, ages 71 and 68. The trust situs is designated as Delaware under the governing document. A year after the Yamamotos' deaths, the bank—now administering the trust as an irrevocable family trust—begins directing all discretionary brokerage transactions exclusively to its broker-dealer affiliate, Premier Continental Securities, which charges commissions averaging 1.2% per trade, compared to a 0.08% cost available from independent custodians. The bank's trust committee approved this practice in a one-page resolution stating only that affiliate brokerage is 'permissible under applicable law,' without analyzing whether the arrangement produces best execution or serves trust beneficiary interests. Beneficiaries receive annual account statements but no disclosure of the affiliated brokerage arrangement or its comparative cost.
+
+QUESTION
+--------
+Does the bank's exclusive direction of trust brokerage to its affiliated broker-dealer, authorized solely by a conclusory board resolution without best-execution analysis or beneficiary disclosure, satisfy OCC fiduciary conflict-of-interest standards?
+
+ANSWER
+------
+No, this conduct is an undisclosed affiliated-party conflict of interest failing the OCC's authorization and best-execution requirements for dealings with affiliated service providers.
+
+The OCC Conflicts of Interest handbook explicitly addresses the allocation of brokerage services to affiliates, requiring not merely board authorization but a substantive documented determination that the affiliated arrangement provides services on terms at least as favorable as those available from unaffiliated providers—i.e., a best-execution analysis. A conclusory one-page resolution stating that affiliate brokerage is 'permissible' fails to satisfy this qualitative standard. Furthermore, the failure to disclose the affiliated brokerage relationship and its material cost differential to trust beneficiaries independently violates the fiduciary duty of loyalty, as beneficiaries receiving annual statements had no basis to evaluate whether the trustee was acting in their interests. The 15-fold cost differential (1.2% vs. 0.08%) makes the absence of best-execution analysis particularly egregious.
+
+APPLICABLE STANDARD
+-------------------
+OCC Comptroller's Handbook – Conflicts of Interest (AM-CI), Section: Dealings With Affiliated Service Providers and Allocation of Brokerage Services to Affiliates; 12 CFR 9.12; OCC Interpretive Letter #995 (July 2004)
+
+KEY FACTOR
+----------
+The bank's exclusive use of affiliated brokerage without a documented best-execution analysis demonstrating comparable or superior terms, and without beneficiary disclosure of the conflict and its material cost impact, violates OCC affiliated-service-provider conflict standards.

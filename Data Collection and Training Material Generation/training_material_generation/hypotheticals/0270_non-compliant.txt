@@ -1,0 +1,25 @@
+ID: 270
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Ridge Capital Management (RIA, $1.8B AUM) executed an IPO allocation process for a client company's highly anticipated tech offering (Velocity Systems, pricing at $45/share, expected 50%+ first-day pop). Ridge was allocated 180,000 shares ($8.1M) across its advisory clients. The allocated-order list (created real-time post-allocation decision) shows: Ridge's proprietary account (separately managed by the firm's founders) received 15,000 shares; the CIO's personal trust account received 8,000 shares; three 'strategic' institutional clients received 95,000 shares; remaining 62,000 shares distributed to other 87 client accounts. By 11 AM on day 1, stock traded to $67.50. Ridge's proprietary account realized $337.5K gain; CIO's trust realized $180K gain. Founding partners had previously disclosed they manage personal accounts but no written policy specified IPO allocation methodology or pre-commitment to client distribution percentages.
+
+QUESTION
+--------
+Did Ridge Capital's IPO allocation process comply with Investment Advisers Act Section 206 and Rule 17j-1 regarding fair allocation of limited securities?
+
+ANSWER
+------
+No. Ridge violated both Section 206(1) (duty of care—allocating the most desirable security disproportionately to adviser-controlled accounts) and Section 206(2) (self-dealing without client disclosure and informed consent). Key violations: (1) proprietary account (15,000 shares, 8.3% of total) received allocation far exceeding proportionate client representation; (2) CIO's personal trust similarly favored despite no client justification; (3) no written pre-IPO allocation policy disclosed to clients; (4) allocation occurred post-pricing/post-allocation-decision, enabling adviser to measure demand before deciding distribution; (5) 'strategic client' preference unexplained and appears performance-based. SEC enforcement precedent (e.g., Oppenheimer AWC 2021, Guggenheim 2018) treats adviser-favorable IPO allocation as presumptive breach when no pre-existing objective policy exists. The remedy requires disgorgement of adviser gains plus interest.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) and 206(2); SEC Rule 17j-1 (pre-allocation written policies required); SEC IPO allocation enforcement guidance
+
+KEY FACTOR
+----------
+Disproportionate IPO allocation to adviser accounts without pre-existing written policy or client consent constitutes self-dealing per se.

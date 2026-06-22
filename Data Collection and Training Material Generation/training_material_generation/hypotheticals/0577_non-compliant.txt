@@ -1,0 +1,27 @@
+ID: 577
+Source Folder: 05_SEC_Exam_Findings
+Topic: wrap_fee_programs
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An SEC-registered investment adviser sponsors a wrap fee program charging clients 1.50% annually on assets under management, which bundles advisory services, trade execution, and custody. During an SEC examination covering a 30-month period, examiners found that 87 client accounts classified as 'buy-and-hold' accounts had fewer than three trades per year, meaning these clients were paying the bundled wrap fee primarily for advisory services they could have received on a standalone basis for 0.75% plus minimal per-trade commissions. The adviser's wrap fee program brochure (Form ADV Part 2A, Appendix 1) stated that 'accounts with low trading activity may pay more under the wrap fee program than they would under a traditional fee arrangement,' but the firm had no process for periodically reviewing whether the wrap program remained suitable for individual clients. Several affected clients were retirees over age 70 with conservative fixed-income portfolios.
+
+QUESTION
+--------
+Did the adviser satisfy its fiduciary obligations and SEC examination standards regarding the ongoing suitability of client accounts in the wrap fee program?
+
+ANSWER
+------
+No, this conduct is a breach of the adviser's fiduciary duty for failing to conduct ongoing suitability reviews of wrap fee accounts and for maintaining senior investors in a cost-inefficient program structure.
+
+SEC examination priorities have consistently flagged wrap fee programs as an area of concern, particularly where advisers fail to periodically assess whether the wrap structure remains in the client's best interest given actual trading activity. While the brochure disclosure about potential cost disadvantages is a necessary element, disclosure alone does not satisfy the fiduciary duty; the adviser must also take affirmative steps to evaluate ongoing suitability. The involvement of senior investors with conservative, low-turnover portfolios heightens the concern, as the SEC has specifically identified senior investor protection as an exam priority area where firms must ensure recommendations remain appropriate over time.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1), 206(2); SEC OCIE Risk Alert on Wrap Fee Programs; SEC Division of Examinations FY 2025-2026 Exam Priorities (Wrap Fee Programs and Senior Investors)
+
+KEY FACTOR
+----------
+The adviser had no periodic review process to assess whether low-trading buy-and-hold accounts—particularly those of senior investors—were cost-effectively served by the wrap fee program versus a traditional advisory arrangement.

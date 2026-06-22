@@ -1,0 +1,25 @@
+ID: 352
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+In January 2023, Advisor Chen at Bellweather Securities recommended that client Martinez, age 58, switch from a Vanguard A-share equity fund (expense ratio 0.18%, held 8 months with $1,200 unrealized gain) to a Fidelity A-share equity fund (expense ratio 0.22%, same asset class, similar holdings). The first A-share purchase incurred a 5.5% front-end load ($55,000 on $1M account); the switch triggered a second 5.5% load ($55,000). The Fidelity fund had outperformed Vanguard by 0.08% annually over 3 years. Chen did not document any recommendation rationale, breakpoint analysis, or cost-benefit analysis in the file. Client paid $110,000 in combined loads over 14 months. Martinez had no change in financial condition or stated investment objective.
+
+QUESTION
+--------
+Did Advisor Chen comply with FINRA Rule 2111 (Suitability) and Rule 3110 (Supervision) in recommending the fund switch?
+
+ANSWER
+------
+No. Although the Fidelity fund itself may be suitable, the pattern of unnecessary A-share-to-A-share switching for commissions violates FINRA Rule 2111's suitability obligation and FINRA Rule 2010 (Standards of Commercial Honor). The Vanguard holding period of 8 months demonstrates no legitimate business reason for switching; a 3-year performance advantage of 0.08% does not overcome $110,000 in avoidable loads. Absent documented analysis showing long-term benefit to the client (e.g., breakpoint analysis showing A-shares cheaper than B-shares over a 10+ year horizon), this pattern reflects sales practice abuse similar to FINRA enforcement cases involving excessive fund switching (churning equivalent under 2111). Rule 3110 requires supervisors to establish and implement written procedures reasonably designed to detect such activity; failure to flag the load recurrence is a supervision failure.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability Obligation) and FINRA Rule 2010 (Standards of Commercial Honor); FINRA Rule 3110(b) (Supervisory Procedures)
+
+KEY FACTOR
+----------
+Repeated A-share loads on functionally identical funds without documented analysis of cost-benefit or client benefit demonstrates commission-driven switching inconsistent with suitability and fair dealing.

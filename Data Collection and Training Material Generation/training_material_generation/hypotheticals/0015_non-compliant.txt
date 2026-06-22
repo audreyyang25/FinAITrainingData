@@ -1,0 +1,27 @@
+ID: 15
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old customer with $800,000 in retirement assets (IRA rollover from former employer 401(k)) and aggressive risk tolerance meets with a broker-dealer advisor. The advisor recommends a portfolio of 8 individual stocks (technology and biotech sector), each representing 10-12% of the portfolio, with no bonds or diversifying assets. The advisor justifies this as matching the customer's stated risk tolerance and aggressive growth objective. The customer has no experience with individual stock picking and has previously invested in diversified mutual funds. The advisor does not discuss the concentration risk, the unsuitability of individual stocks for someone without requisite knowledge, the availability of aggressive growth equity funds or sector-focused ETFs as alternatives, or document any assessment of the customer's investment experience or knowledge of individual stocks.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation considering the customer's experience level and the concentration risk?
+
+ANSWER
+------
+No, this violates the Reg BI care obligation.
+
+Although the advisor correctly identified the customer's aggressive risk tolerance, the recommendation fails the care obligation on multiple dimensions. First, the advisor recommended highly concentrated individual stock holdings (8 stocks, each 10-12% of portfolio) without documented analysis of whether this concentration risk is appropriate given that the customer's prior investment history shows reliance on diversified funds, indicating limited individual stock experience. Second, the advisor did not document assessment of the customer's knowledge of individual stocks, their volatility, or company-specific risks—a material gap given Reg BI's requirement to consider the customer's experience. Third, the advisor failed to analyze or discuss lower-concentration alternatives (aggressive equity funds with 80+ holdings, technology or biotech ETFs, or individual stocks combined with diversifying holdings) that would deliver sector exposure without the single-security concentration risk. The recommendation prioritizes a product approach that matches only one dimension of the customer's profile (risk tolerance) while ignoring experience and failing to consider alternatives that achieve the same objective with lower concentration risk.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest, Rule 15l-1(a)(2)(i), and FINRA Rule 2111 Suitability Rule (which Reg BI does not replace but informs): recommendation must be suitable in light of customer's financial situation, investment experience, and investment objectives; must consider whether the customer has the knowledge and experience to evaluate the risks of a recommended security.
+
+KEY FACTOR
+----------
+No documented assessment of customer's individual stock investment experience combined with failure to analyze lower-concentration alternatives (diversified aggressive funds, ETFs) that would deliver equivalent aggressive growth with appropriate diversification for the customer's actual knowledge level.

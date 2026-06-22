@@ -1,0 +1,27 @@
+ID: 163
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer adviser recommends that a 45-year-old client (net worth $1.2 million, IRA rollover of $380,000 from a former employer plan, moderate growth objective) roll over the IRA into a variable annuity (VA) issued by the broker-dealer's affiliate, Lincoln Life & Annuity Co. The VA has a 7% surrender charge in year 1, declining 1% annually, and an M&E charge of 1.15% annually. The adviser's firm receives a 5% commission on the VA sale ($19,000 to the broker-dealer; $12,000 flows to the individual adviser). The client's Form ADV is silent on the affiliate relationship and the commission structure. The adviser documents no analysis comparing the VA to rolling the funds into a low-cost IRA with index funds (which would generate no commission).
+
+QUESTION
+--------
+Does this recommendation comply with fiduciary duty and Reg BI's conflict-of-interest obligation?
+
+ANSWER
+------
+No, this violates both the DOL ERISA fiduciary duty (for retirement account advice) and Reg BI's conflict-of-interest disclosure obligation.
+
+This scenario triggers heightened scrutiny under both DOL ERISA rules (because it involves a retirement account rollover) and SEC Reg BI. The adviser's undisclosed conflict—receiving a 5% commission ($19,000 to the firm, $12,000 to the individual) from recommending an affiliate's VA—is material and must be disclosed in writing before the recommendation. Reg BI 15l-1(b)(2)(i) requires disclosure of the specific compensation (dollar amount or percentage) and the conflict it creates. The DOL's ERISA standard is even stricter: the adviser must document that the recommendation is in the client's best interest on the basis of fees, risks, and alternatives. No such analysis exists here—rolling into low-cost IRA index funds is the obvious alternative, generating no commission. The VA's 7% surrender charge and 1.15% M&E are significant costs; a rollover to a traditional IRA would have neither. The failure to disclose the affiliate relationship and commission, combined with the absence of comparative analysis, is a classic conflict-of-interest violation.
+
+APPLICABLE STANDARD
+-------------------
+DOL Prohibited Transaction Exemption (PTE) 84-24 (ERISA fiduciary standard for investment advice); Reg BI 15l-1(b)(2)(i)-(ii) (conflict disclosure for brokers); Investment Adviser Act Section 206 (IA fiduciary duty).
+
+KEY FACTOR
+----------
+Failure to disclose the 5% commission (and affiliate relationship) combined with the absence of documented comparison to no-commission alternatives (IRA index fund rollover) demonstrates undisclosed self-dealing in a retirement account context.

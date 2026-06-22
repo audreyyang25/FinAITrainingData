@@ -1,0 +1,27 @@
+ID: 51
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+An RIA with $1.8B AUM uses an affiliated broker-dealer for execution of securities transactions on behalf of clients. The RIA discloses this arrangement in writing (Form ADV Part 2A, Item 12) and explains that clients may request execution through alternative broker-dealers at no additional cost. The RIA's execution quality analysis (conducted quarterly) demonstrates that the affiliated broker-dealer provides execution prices within the top quartile for equity orders and is among the lowest-cost providers for fixed income. For a 48-year-old client with $3M in assets, the RIA recommends a diversified allocation of 60% equities (U.S., developed international, emerging markets) and 40% fixed income, executed through the affiliated broker-dealer. The RIA's advisory fee is 0.55% AUM, and the affiliated broker-dealer earns standard commissions and bid-ask spreads. The client is informed of the affiliate relationship, shown the execution quality analysis, and provided the option to use an alternative broker. The client chooses to remain with the affiliated broker-dealer.
+
+QUESTION
+--------
+Does this arrangement satisfy the fiduciary duty of loyalty despite using an affiliated execution entity?
+
+ANSWER
+------
+Yes, this is compliant with the fiduciary duty of loyalty.
+
+The RIA complies with the duty of loyalty by: (1) affirmatively disclosing the affiliate relationship in writing on Form ADV before the client engages the RIA; (2) demonstrating through execution quality analysis that the affiliated broker-dealer provides competitive pricing (top quartile execution), eliminating any inference that the client is subsidizing the RIA's affiliate; (3) explicitly offering clients the option to use alternative brokers without penalty; and (4) obtaining the client's informed consent to use the affiliated broker. Under Capital Gains, conflicts are not prohibited—they must be disclosed and the client must have the ability to make a knowing, voluntary choice. The SEC's position (Reg BI Adopting Release, 84 FR 33318) and affiliated transaction guidance recognize that advisers may use affiliated execution entities if the arrangement is transparent and execution quality is competitive. The RIA's quarterly execution quality analysis provides objective evidence that the arrangement does not disadvantage the client. The client's affirmative choice to use the affiliated broker after receiving this information constitutes informed consent, fully satisfying the duty of loyalty.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206; SEC v. Capital Gains Research Bureau (requiring disclosure, not prohibition, of conflicts); 17 CFR 206(4)-7 (Reg BI execution best practices); SEC Staff Guidance on Affiliated Transaction Disclosures (2018)
+
+KEY FACTOR
+----------
+Proactive written disclosure of affiliate relationship, documented execution quality analysis showing competitive pricing, and client's explicit opt-out right and informed consent.

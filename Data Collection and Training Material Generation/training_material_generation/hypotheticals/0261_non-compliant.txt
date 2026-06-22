@@ -1,0 +1,25 @@
+ID: 261
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+MobileAdvisers Inc., a SEC-registered robo-adviser with $125 million AUM, implemented a digital account opening workflow in January 2024. The process required clients to check a box stating 'I agree to receive Form CRS and other disclosures via email and my online dashboard' before account funding. The checkbox was bundled with 14 other acknowledgments in a 12-point font on a single webpage. Clients did not receive Form CRS in paper form or via a separate email unless they explicitly requested it. In April 2024, during an SEC examination, the firm could not demonstrate that clients had separately consented to electronic delivery of Form CRS as distinct from other disclosures. A sample of 47 new client files showed no evidence of affirmative consent to electronic delivery recorded in account records. MobileAdvisers' head counsel argued that the checkbox consent satisfied Regulation S-T and FINRA Rule 4512 requirements.
+
+QUESTION
+--------
+Did MobileAdvisers comply with electronic delivery requirements for Form CRS?
+
+ANSWER
+------
+No. While electronic delivery is permitted under Regulation S-T (17 CFR § 232.101), Reg BI Form CRS Instructions and SEC IA Marketing Rule IA-5653 require affirmative, informed consent to electronic delivery that is separate and conspicuous. Bundling Form CRS consent with 13 other acknowledgments in small font does not satisfy the 'affirmative consent' standard because clients cannot independently assess consent to Form CRS delivery specifically. SEC staff guidance (IA Exam Priorities 2023–2024) has flagged inadequate consent for electronic delivery as a deficiency. The firm must maintain clear evidence that each client affirmatively consented to electronic Form CRS delivery distinct from other disclosures. Commingling consent violates the transparency and specificity requirements.
+
+APPLICABLE STANDARD
+-------------------
+Regulation S-T electronic delivery; Form CRS Instructions; SEC IA Marketing Rule IA-5653 (clarity requirement)
+
+KEY FACTOR
+----------
+Affirmative consent to electronic Form CRS delivery must be separate, conspicuous, and documented in account records; bundled consent is insufficient.

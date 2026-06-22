@@ -1,0 +1,25 @@
+ID: 450
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Robert, 79, has been a client of Advisor Lisa for 18 years. Robert's wife of 52 years died 14 months ago. Robert's account balance is $2.1 million. Over the past 8 months, Robert's behavior has shifted markedly: he has become socially withdrawn, stopped attending his golf club, and made two large gifts to a charity ($150K and $200K) totaling $350K—unusual for his prior giving pattern ($5-10K/year). His son, Michael, who has power of attorney (executed 2 years ago when Robert's wife was ill), contacted Lisa with "instructions to be more conservative and reduce risk." Lisa's records show Robert scored 7/10 on the Montreal Cognitive Assessment (MCA) 18 months ago (normal ≥26/30), but no recent assessment was done. Michael told Lisa that Robert "doesn't remember conversations" and "needs Lisa to help manage things." Lisa, concerned about Robert's mental state but wanting to respect his autonomy, shifted his portfolio from 55% equities / 40% bonds / 5% alternatives to 35% equities / 60% bonds / 5% alternatives (reducing expected return from 5.2% to 3.8% annually). Lisa did NOT file a trusted contact (FINRA Rule 4512) or file a suspicious activity report. Robert visited Lisa's office once; he seemed confused about his portfolio allocation. Michael made all subsequent phone calls. Two months later, Robert purchased a $300K annuity (recommended by another advisor) which Michael approved on his behalf.
+
+QUESTION
+--------
+Did Lisa comply with FINRA Rules 2165, 4512, and SEC Reg BI obligations when she reallocated Robert's portfolio and failed to report suspected financial exploitation and cognitive decline?
+
+ANSWER
+------
+No. Multiple failures: (1) FINRA Rule 4512 Violation — Lisa had red flags (MCA score 7/10, post-bereavement isolation, unusual gifting, POA-holder control) indicating potential financial exploitation, yet did not establish a trusted contact person (different from POA-holder Michael) or update Robert's account file. (2) FINRA Rule 2165 Violation — Rule 2165 requires firms to place a temporary hold on disbursements when they have reasonable belief financial exploitation is occurring. The $350K in gifts + POA-holder Michael's aggressive direction to Lisa + Robert's demonstrated cognitive decline (MCA 7/10) triggered the standard. Lisa's inaction exposed Robert to further harm. (3) Reg BI Care Obligation — Lisa failed to conduct reasonable inquiry into whether the allocation change was Robert's own preference or Michael's coercion. Lisa documented no discussion with Robert post-bereavement about changed objectives; she relied on Michael's phone calls. The allocation itself (35/60/5) may be reasonable in isolation, but the *process* violated Reg BI because Lisa did not independently verify Robert's stated wishes. (4) Failure to report — Lisa should have reported suspected exploitation to her compliance officer per firm policy and, where required by state law, to adult protective services. SEC enforcement (similar to FINRA AWC cases 2021-XXXXXX pattern) shows advisors have affirmative duty to verify instructions from POA-holders when cognitive decline is evident.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 4512 (Trusted Contact Person); FINRA Rule 2165 (Temporary Hold on Disbursements for Suspected Financial Exploitation); Reg BI 17 CFR §240.15l-1(a)(2)(i) (Care Obligation / Reasonable Inquiry); SEC Senior Investor Report 2018 (Red Flags for Exploitation)
+
+KEY FACTOR
+----------
+Failing to establish a trusted contact, file a suspicious hold on disbursements, or independently verify Robert's wishes when red flags (low MCA score, POA-holder control, unusual gifting, post-bereavement isolation) indicated exploitation constituted negligent failure to protect a cognitively declining senior from financial harm.

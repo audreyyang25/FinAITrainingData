@@ -1,0 +1,27 @@
+ID: 658
+Source Folder: 07_Practitioner_Commentary
+Topic: compliance_program_design
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A mid-sized broker-dealer serves a mix of retail and institutional clients. In late 2020, the firm's compliance department received guidance from SIFMA regarding the treatment of family offices under Reg BI, specifically that qualifying 'Institutional Family Offices' need not be treated as 'retail customers.' Based on this guidance, the firm's Chief Compliance Officer issued a blanket internal policy directing all registered representatives to classify every family office client — regardless of size, sophistication, or qualifying status — as institutional, thereby exempting all family office recommendations from Reg BI's Care, Disclosure, and Conflict of Interest obligations. The firm did not perform any individualized analysis to determine whether each family office met the specific conditions outlined in the SIFMA no-action request, such as whether the family office qualified under the Investment Advisers Act Section 202(a)(11)(G) exemption and managed at least $5 million in assets. One such family office, the Hernandez Family Office, manages approximately $1.2 million for a single household and has no dedicated investment professionals on staff. A representative recommended a complex structured note with a 4.5% upfront commission to this family office without providing a Form CRS or conducting a best interest analysis.
+
+QUESTION
+--------
+Did the broker-dealer's blanket policy exempting all family office clients from Reg BI retail customer protections comply with applicable regulatory standards?
+
+ANSWER
+------
+No, this conduct is a violation of Reg BI's Care and Disclosure Obligations and reflects a failure of reasonable compliance program design.
+
+The SIFMA no-action letter regarding Institutional Family Offices was predicated on specific qualifying conditions — including that the family office meet the criteria under the Advisers Act exemption and possess sufficient sophistication and assets. The firm's blanket policy failed to conduct the individualized analysis required by the no-action letter's conditions. The Hernandez Family Office, with only $1.2 million in assets and no dedicated investment staff, would not qualify as an Institutional Family Office under these conditions and therefore must be treated as a retail customer entitled to full Reg BI protections, including Form CRS delivery and a best interest analysis before any recommendation.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(1) – Reg BI General Obligation; SEC Rule 17a-14 – Form CRS Delivery; SIFMA No-Action Letter Conditions (Dec. 23, 2020)
+
+KEY FACTOR
+----------
+The firm applied a blanket institutional classification to all family offices without performing the individualized qualifying analysis required by the SIFMA no-action letter conditions, thereby stripping non-qualifying retail-level family offices of Reg BI protections.

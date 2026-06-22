@@ -1,0 +1,27 @@
+ID: 753
+Source Folder: 13_FINRA_Rulebook
+Topic: supervision_rule
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greenfield Securities, a FINRA member firm with 12 branch offices, designates all deferred variable annuity principal reviews under Rule 2330 to a single home-office supervisor, Patricia Langford. Patricia is responsible for reviewing an average of 210 variable annuity transactions per month across all branches. Due to the volume, Patricia implements a system where she reviews only transactions exceeding $50,000 in premium, automatically approving all transactions below that threshold via a batch electronic sign-off without examining the underlying suitability documentation. In a six-month period, 47 sub-$50,000 variable annuity exchanges involving clients over age 70 are batch-approved, including several that involved new surrender periods of 6-8 years. The firm's written supervisory procedures do not authorize threshold-based batch approvals for variable annuity transactions and instead require individualized principal review of each transaction.
+
+QUESTION
+--------
+Does Greenfield Securities' supervisory system for deferred variable annuity transactions comply with FINRA Rules 2330(c) and 3110?
+
+ANSWER
+------
+No, this conduct violates both FINRA Rule 2330(c) and FINRA Rule 3110.
+
+FINRA Rule 2330(c) requires that a registered principal review and approve each recommended deferred variable annuity purchase or exchange before it is processed, considering factors such as the customer's age, liquidity needs, and whether the customer would benefit from the exchange. Batch auto-approval without individualized review renders this requirement meaningless and is a per se violation. FINRA Rule 3110 requires member firms to establish, maintain, and enforce written supervisory procedures reasonably designed to achieve compliance with applicable rules. Greenfield's actual practice of threshold-based batch approvals directly contradicts its own written procedures requiring individualized review, demonstrating both a failure to follow and a failure to enforce its WSPs. The fact that 47 exchanges involving elderly clients were approved without any substantive review amplifies the supervisory failure.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(c) (principal review and approval of deferred variable annuity transactions) and FINRA Rule 3110 (Supervision)
+
+KEY FACTOR
+----------
+The firm's batch auto-approval of variable annuity transactions below a dollar threshold eliminated the individualized principal review mandated by Rule 2330(c) and directly contradicted the firm's own written supervisory procedures under Rule 3110.

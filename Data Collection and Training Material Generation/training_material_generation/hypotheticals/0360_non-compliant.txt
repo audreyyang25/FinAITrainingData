@@ -1,0 +1,25 @@
+ID: 360
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Crescendo Partners, a 85-person FINRA member firm, maintained comprehensive WSPs addressing suitability review, trade pre-approval, and complaint escalation. However, a 2023 FINRA examination revealed significant implementation failures. Between January and August 2023, 34 customer suitability complaints were filed in the firm's complaint tracking system. The WSPs required Compliance Officer James T. to issue a preliminary suitability assessment within 8 business days for each complaint. James T.'s documented files showed that he issued preliminary assessments for only 18 of 34 complaints (53%), and in 12 of those 18, he issued assessments 22–47 days after receipt (well beyond the 8-day requirement). For the 16 unaddressed complaints, files contained only routine acknowledgment emails with no assessment, investigation, or escalation to the firm's Principal. Three complaints involved customers alleging margin calls on conservative accounts totaling $186,000 in equity losses; these remained unreviewed for 6+ months. When FINRA inquired, James T. stated he was 'too busy' and had no backup; the Principal, Linda M., stated she was 'unaware' of the backlog and conducted no periodic reviews of complaint handling.
+
+QUESTION
+--------
+Did Crescendo Partners comply with FINRA Rule 3110(c) regarding the implementation and supervision of its written supervisory procedures?
+
+ANSWER
+------
+No. FINRA Rule 3110(c) requires that WSPs be implemented and that the supervisory system reasonably be expected to achieve compliance with applicable rules. Having written procedures is necessary but insufficient; the firm must actually implement them. Here, Crescendo's WSPs required preliminary assessments within 8 business days, but James T. met the deadline in only 18 of 34 cases (53%) and exceeded it by 22–47 days in 12 cases. The 16 unaddressed complaints represent complete non-implementation. Principal Linda M.'s lack of oversight of the complaint process itself constitutes a supervisory failure under Rule 3110(a)(1). FINRA enforcement (analogous to FINRA AWC 2020-051) consistently holds firms accountable for procedural non-implementation, even when written procedures exist. The pattern of complaints involving margin calls and equity losses suggests the firm's complaint-handling failure allowed potential misconduct to continue unremedied.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(c) — Implementation of Supervisory Procedures; FINRA Rule 3110(a)(1) — Principal Responsibility
+
+KEY FACTOR
+----------
+Written procedures existed but were not implemented; 53% non-compliance rate with assessment deadlines and Principal conducted no oversight of complaint handling.

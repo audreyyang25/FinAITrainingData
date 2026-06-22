@@ -1,0 +1,25 @@
+ID: 440
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Margaret, age 79, has cognitive decline diagnosed in 2022 (early-stage Alzheimer's). Her son Robert holds a durable power of attorney (POA) executed in 2018 when Margaret was fully competent. Margaret's account is at Broker-Dealer X; current portfolio: $680,000 (stocks 70%, bonds 30%, modest volatility). Margaret's care requires $6,000/month in-home assistance. Robert calls Advisor Davis in January 2024 and directs her to move $400,000 into a 'conservative safe' investment—a 15-year illiquid private credit fund (8% annual fee, 5-year lock-up, minimum position $300,000, credit risk rating: B-/BB-). Davis performs minimal suitability analysis, documenting: 'POA holder Robert authorized. Conservative allocation appropriate given age.' Margaret attends one account review call (appearing confused); she does not object. Robert withdraws $15,000/month from remaining liquid account to fund Margaret's care. After 8 months, the credit fund drops 12% in value. Margaret's care coordinator contacts Davis expressing concern that illiquid fund prevents adequate liquidity for Margaret's medical expenses.
+
+QUESTION
+--------
+Did Advisor Davis violate fiduciary duties and FINRA Rule 4512 (trusted contact) and Rule 2165 (financial exploitation hold) protocols in processing Robert's direction?
+
+ANSWER
+------
+Yes, multiple violations. (1) FINRA Rule 4512 requires the firm to establish and maintain a trusted contact person for each senior customer (age 65+). There is no documented evidence Davis or the firm designated or contacted a trusted contact—a critical safeguard when POA decisions are suspect. (2) FINRA Rule 2165 requires a temporary hold on account activity if the firm has a reasonable basis to believe a senior is being exploited. Here: Robert is directing concentration into an illiquid, high-fee investment that strips Margaret's liquidity while she requires $6,000/month for essential care—a potential exploitation pattern. (3) The recommendation itself violates Reg BI Care Obligation: illiquid 15-year B-/BB- credit fund is unsuitable for 79-year-old with monthly care obligations and cognitive decline, regardless of POA status. (4) POA does not override the advisor's duty to the client—Margaret remains the beneficial owner. SEC Senior Investor Report (2018) and FINRA 4512/2165 guidance emphasize that POA direction requires heightened scrutiny when it disadvantages the senior's liquidity or safety. Davis's minimal analysis and failure to implement Rule 4512 protections constitute negligence and potential facilitation of exploitation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 4512 (Trusted Contact); FINRA Rule 2165 (Temporary Hold on Disbursements); Reg BI Loyalty Duty, 17 CFR §240.15l-1(a)(1); SEC Senior Investor Report 2018, pp. 18–22
+
+KEY FACTOR
+----------
+Advisor failed to designate trusted contact and failed to place hold despite reasonable basis to believe senior was being financially exploited through illiquid concentration recommended by POA holder.

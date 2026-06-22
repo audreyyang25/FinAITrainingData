@@ -1,0 +1,25 @@
+ID: 348
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered representative at SecureWealth Advisors recommended a $120,000 investment in a B-share mutual fund (Oppenheimer & Co. Small Cap Value, 4.00% contingent deferred sales charge—CDSC—declining 1% per year) to client J.L., age 58, with $950,000 liquid net worth and a stated 12-year investment horizon. The B-share had an expense ratio of 0.82% annually and a 12b-1 fee of 0.50%. An equivalent A-share class of the same fund charged a 5.75% front-end load and an expense ratio of 0.58% with no 12b-1 fee. Over a 12-year hold period, the B-share total cost was $99,360 (cumulative expense and implicit cost), while the A-share total cost was $65,820 (load plus expense). The representative documented in the file: 'Client prefers to avoid upfront load.' No breakpoint analysis or written comparison was provided. The firm's supervisor, upon random file review one year later, did not escalate the recommendation.
+
+QUESTION
+--------
+Did the representative violate FINRA Rule 2111 (Suitability) or Rule 2330 (Variable Contracts) requirements regarding B-share vs. A-share selection, and did the firm fail its supervisory duty under Rule 3110?
+
+ANSWER
+------
+Non-compliant. Although client J.L. stated a preference to avoid upfront loads, FINRA enforcement treats B-share recommendations to clients with adequate holding periods and means as a suitability violation when the A-share class is demonstrably cheaper over the holding period. FINRA Rule 2111(a)(2) requires the recommendation be suitable based on the client's financial situation, investment experience, and objectives. Rule 2330 (governing VAs and similar products) and parallel case law (FINRA AWC 2019-074, similar pattern) establish that recommending a higher-total-cost product violates suitability absent a compelling reason (e.g., true disability preventing capital deployment). J.L.'s 12-year horizon and $950,000 net worth made the A-share cheaper. The firm's failure to conduct or document a cost analysis and the supervisor's non-investigation violated Rule 3110(b) (supervisory procedures).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(2) (Suitability — qualitative); FINRA Rule 2330(d) (Variable Contracts); FINRA Rule 3110(b) (Supervision — procedures)
+
+KEY FACTOR
+----------
+B-share recommendation cost $33,540 more than A-share over 12-year holding period without documented cost-benefit analysis or compelling reason, violating Rule 2111 and firm supervisory duty under Rule 3110(b).

@@ -1,0 +1,25 @@
+ID: 478
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Registered investment adviser David, also registered as a broker-dealer representative, meets with his client James, age 62, with $850,000 in a traditional IRA. James's employer is closing and offering a lump-sum distribution of $420,000 in a qualified plan. David's firm receives $12,000 annually from variable annuity manufacturer VanCorp for referral fees (disclosed in ADV Part 2A). David proposes rolling the $420,000 lump-sum into James's IRA and then recommending a $300,000 allocation to a VanCorp annuity with 2.1% M&E charges and 6% front-end surrender charge (waived if held 10 years; James is 62). David's written recommendation includes: (1) detailed analysis of James's 20-year time horizon, moderate risk tolerance, and need for guaranteed income starting at age 72; (2) comparison showing annuity allocation (45%) leaves 55% in diversified ETFs (0.12% ER) and bond funds (0.35% ER); (3) disclosure that VanCorp manufacturer pays David's firm $12,000 annually, but this payment does not offset the adviser's recommended $2,100 annual annuity fee; (4) delivery of Form CRS and updated ADV Part 2A highlighting the referral conflict; (5) written acknowledgment that James reviewed the recommendation and understood the surrender charge timing. David did not dual-recommend as broker-dealer rep; all advice came under his adviser fiduciary capacity.
+
+QUESTION
+--------
+Did David comply with the DOL ERISA fiduciary standard for the rollover recommendation (PTE 2020-02), Reg BI, and IA Act §206?
+
+ANSWER
+------
+Yes. David satisfied all three standards. Under DOL PTE 2020-02, an adviser acting as ERISA fiduciary for rollover advice must provide a written recommendation, disclose all material conflicts, document that the recommendation is in the participant's interest, and avoid prohibited transactions. David did all: he documented James's profile and time horizon (20 years supports annuity), disclosed VanCorp's referral fee, showed the fee does not offset the annuity cost (justifying the recommendation), and obtained written acknowledgment. Under Reg BI, David provided a care obligation analysis (comparing annuity to alternatives), disclosed the surrender charge timeline (critical for James's 10-year hold), and documented client consent. Under IA Act §206, David disclosed all conflicts (referral fee, annuity M&E) and demonstrated loyalty by recommending a 55% ETF/bond allocation alongside the annuity—not a 100% annuity sale. The 2.1% M&E charge for a 62-year-old seeking guaranteed income starting at 72 is defensible given the income certainty feature.
+
+APPLICABLE STANDARD
+-------------------
+DOL PTE 2020-02 (ERISA Fiduciary Rollover Advice); Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)); Investment Adviser Act §206(1) and §206(2)
+
+KEY FACTOR
+----------
+Detailed written analysis of client profile, comprehensive conflict disclosure, proof that referral fee does not reduce annuity cost, diversified allocation, and documented consent across all three regulatory frameworks.

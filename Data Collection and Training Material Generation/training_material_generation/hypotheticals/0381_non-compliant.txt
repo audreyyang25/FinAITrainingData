@@ -1,0 +1,25 @@
+ID: 381
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Sandra, age 58, has a 401(k) with $847,000 balance at her employer, earning 6.2% annually in low-cost index funds (expense ratios 0.08–0.15%). She terminates employment. Her financial adviser, Leo, recommends rolling over the entire balance to a self-directed IRA managed under Leo's advisory agreement at 1.15% annual AUM fee. Leo's documented analysis states: 'Client requested consolidation of accounts.' However, Leo's own internal records show he actively discouraged Sandra from leaving assets in the plan, citing 'limited investment options,' when the plan actually offered 27 funds including target-date funds with sub-0.10% expense ratios. Leo did not calculate the fee impact or compare the 1.15% fee to the plan's net costs.
+
+QUESTION
+--------
+Did Leo's rollover recommendation to Sandra comply with PTE 2020-02 and DOL ERISA fiduciary duty?
+
+ANSWER
+------
+No. PTE 2020-02 requires advisers recommending rollovers to: (1) provide best-interest analysis; (2) document the analysis; (3) charge reasonable compensation; and (4) not mislead. Leo failed prongs (1), (2), and (4). His assertion that the plan had 'limited options' was false—27 funds were available. He did not document a fee comparison (0.08–0.15% in plan vs. 1.15% IRA fee), and the 1.00% difference would cost Sandra approximately $8,470 annually, negating the consolidation benefit. The recommendation appears motivated primarily by generating AUM fees rather than Sandra's best interest. This pattern mirrors DOL enforcement of rollovers driven by adviser compensation.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 Five-Part Test; DOL ERISA §408(b)(14); Best-Interest Standard
+
+KEY FACTOR
+----------
+Undocumented fee comparison and misrepresentation of plan options to justify rollover solely to increase adviser compensation.

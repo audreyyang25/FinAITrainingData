@@ -1,0 +1,25 @@
+ID: 209
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Robo-advisor platform (hybrid model: algorithm + human oversight) recommended a 65-year-old client with $280,000, age 60 retirement in 18 months, and stated goal of "stable income in retirement," a 70/30 equity/fixed-income portfolio. The algorithm automatically assigned this allocation based solely on age and risk tolerance questionnaire (marked "moderate"). No human advisor reviewed the imminent retirement date against the equity allocation. The algorithm's recommendation memo stated only: "Allocation appropriate to risk profile." The platform disclosed a 0.35% advisory fee but did not document why a more conservative glide path (reducing equity exposure over the 18-month pre-retirement window) was not recommended.
+
+QUESTION
+--------
+Did the robo-advisor platform comply with Reg BI's care obligation in recommending the 70/30 allocation without human review of the retirement timeline?
+
+ANSWER
+------
+No. Reg BI requires advisors to "obtain and analyze" customer information and "make" a recommendation that serves the customer's best interest (§240.15l-1(a)(2)(i)). The algorithm-only process without human override for a client 18 months from retirement violated the care obligation because: (1) the system failed to obtain material information (imminent retirement date) and apply it; (2) no documented analysis of the equity/fixed-income mismatch against the stated income goal and short time horizon; (3) "moderate" risk tolerance does not override an 18-month retirement date in a best-interest analysis. Reg BI does not exempt robo-advisors from the care obligation; human review or algorithmic specificity (age-based glide path) was required here.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)) — Obtain and Analyze Customer Information
+
+KEY FACTOR
+----------
+Failure to obtain or apply imminent retirement date in allocation decision violates care obligation, even with algorithmic model.

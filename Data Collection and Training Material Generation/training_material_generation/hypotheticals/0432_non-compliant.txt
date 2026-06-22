@@ -1,0 +1,25 @@
+ID: 432
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+AdvisorBot LLC operates a hybrid robo-human advisory service. The algorithm generates initial asset allocation recommendations based on a client's age, risk tolerance questionnaire, and stated income. For Marcus Thompson, age 52, with $480,000 in investable assets and a moderate risk profile, the algorithm recommended a 60/40 stocks/bonds allocation using low-cost index funds (total ER 0.12%). However, the assigned human adviser, Jennifer Wu, overrode the algorithm without client knowledge and instead recommended a 75/25 stocks/bonds allocation with concentrated positions in 12 individual large-cap stocks she personally favored, charging a 1.2% advisory fee plus embedded 0.5% trading commissions. Marcus was not informed of the override or the rationale. The algorithm logs show the override was made 6 minutes after the initial recommendation was generated, with no documented basis.
+
+QUESTION
+--------
+In this hybrid robo-human model, who bears fiduciary liability for the override recommendation, and did the adviser comply with Reg BI's Care Obligation?
+
+ANSWER
+------
+Jennifer Wu and AdvisorBot LLC bear joint fiduciary liability. Under Reg BI 17 CFR §240.15l-1(a)(2)(i), the Care Obligation requires advisers to conduct a reasonable investigation into the client's circumstances and consider available investments. By overriding the algorithm without documented analysis or client disclosure, Wu failed the care prong. The override—shifting 15 percentage points toward equities for a 52-year-old nearing retirement, without analyzing his income stability or time horizon—lacks reasonable basis. SEC IM Guidance 2017-02 clarifies that human overrides of algorithm recommendations must be justified and documented; unexplained overrides suggest bias or negligence. The firm failed to establish adequate supervisory controls over human-adviser overrides of robo recommendations.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); SEC IM Guidance 2017-02; IA Act §206(2) Duty of Care
+
+KEY FACTOR
+----------
+Undocumented human override of robo recommendation without client consent or stated rationale violates the Care Obligation and requires supervisory documentation.

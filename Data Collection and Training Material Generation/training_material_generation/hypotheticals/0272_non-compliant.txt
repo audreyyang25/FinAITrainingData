@@ -1,0 +1,25 @@
+ID: 272
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered investment adviser Sterling Capital Management executed a block purchase of 5,000 shares of Acme Corp at $48/share on March 15, 2023 for a $240,000 position. The firm allocated the shares as follows: 2,500 shares to its own proprietary trading account (cost basis $48), 1,200 shares to client Portfolio A (cost basis $48), and 1,300 shares to client Portfolio B (cost basis $49.50). By end of day, Acme rose to $51. The adviser's account realized an $15,000 gain; Portfolio A's allocation cost the client an effective price of $51.20 per share. The firm had no written allocation policy, and the allocation decision was made informally by the portfolio manager. The adviser had never disclosed this practice to any client.
+
+QUESTION
+--------
+Did Sterling Capital comply with Investment Advisers Act Section 206(2) and SEC Rule 17j-1(a) regarding fair allocation and disclosure of cross-trades and principal transactions?
+
+ANSWER
+------
+No. Sterling Capital violated Section 206(2) and Rule 17j-1(a). The block trade executed at a single price ($48) should have been allocated consistently across all accounts pro rata or via a pre-established, written policy. Instead, the adviser allocated the lowest-cost shares to its own account and filled client accounts at worse effective prices. Rule 17j-1(a) requires advisers engaged in principal transactions or cross-trades to have a written policy and disclose it to clients before any such transaction. The absence of any written policy, combined with self-preferential allocation post-execution without client consent, is a classic cherry-picking violation. The fact that the allocation was informal and not disclosed compounds the breach.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(2) (prohibits fraudulent, deceptive conduct); SEC Rule 17j-1(a) (written policy for principal/cross-transactions); Investment Advisers Act Section 206(1) (fiduciary duty of loyalty)
+
+KEY FACTOR
+----------
+No written allocation policy and post-hoc favoring of adviser's own account with best-execution shares violates Section 206 and Rule 17j-1.

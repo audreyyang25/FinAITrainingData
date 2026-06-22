@@ -1,0 +1,25 @@
+ID: 398
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A New Jersey–registered independent broker-dealer (NJ fiduciary rule applies) advises a 58-year-old Newark client with $650,000 in assets and moderate risk tolerance. The adviser recommends a portfolio of three actively managed mutual funds: Fund A (1.45% expense ratio, 85% turnover, specializing in small-cap growth), Fund B (1.28% ER, 120% turnover, sector-rotation strategy), and Fund C (1.65% ER, 95% turnover, emerging markets). Portfolio blended cost: 1.46% annually. The adviser is compensated on a per-transaction commission basis (average $185 per fund trade, 4 trades per year per client). Over 5 years, the client experiences 18.2% annualized turnover in the portfolio driven by the adviser's rebalancing strategy, which generates $4,620 in annual commissions. The adviser does not disclose the commission structure or conduct a written comparison against lower-cost index alternatives. A follow-up analysis shows the actively managed funds underperformed their benchmark by 2.1% annually (net of fees) over the same period.
+
+QUESTION
+--------
+Does the adviser's active-management recommendation and compensation structure comply with New Jersey's fiduciary rule for broker-dealers?
+
+ANSWER
+------
+No. New Jersey's fiduciary rule (substantially identical to Massachusetts rule) requires broker-dealers to act in the customer's best interest, placing client interest above commission incentives. Here, the adviser fails on multiple grounds: (1) High-cost actively managed funds (1.46% blended) were not compared to lower-cost index alternatives; (2) 18.2% annual portfolio turnover, driven by adviser-initiated rebalancing, generates excess trading costs and demonstrates self-interested churning behavior; (3) Commission-based compensation ($4,620 annually) creates direct financial incentive to trade actively, misaligned with client's moderate risk profile and retirement timeline; (4) No written disclosure of the commission-turnover relationship; (5) Underperformance of 2.1% annually (net of fees) against benchmarks demonstrates the strategy did not serve the client's best interest. This pattern mirrors FINRA enforcement for conflicts-driven active trading (AWC 2018-092, churning charge structure). NJ fiduciary duty requires disclosure and a demonstrable best-interest rationale.
+
+APPLICABLE STANDARD
+-------------------
+New Jersey Fiduciary Rule (2020s) — Broker-dealer fiduciary duty; NASAA Model Rule adoption principles; 17 CFR § 240.15l-1(a)(2)(i) — Care Obligation (federal baseline)
+
+KEY FACTOR
+----------
+Commission-driven active-management recommendation with high turnover, lack of lower-cost alternative comparison, and documented underperformance violates NJ fiduciary duty to place client interest ahead of compensation.

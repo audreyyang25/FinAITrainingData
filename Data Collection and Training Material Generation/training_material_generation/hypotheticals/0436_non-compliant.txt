@@ -1,0 +1,25 @@
+ID: 436
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RoboWealth Inc., a registered investment adviser, deployed an algorithm managing $340 million across 12,000 retail accounts. The algorithm was programmed to allocate 60% stocks / 40% bonds based solely on client age, with no other variables. A 58-year-old client with $185,000 in the account stated in the onboarding questionnaire: 'I will need $80,000 in 18 months for a home down payment.' The algorithm placed the entire $80,000 allocation into a mid-cap growth ETF (3-year annualized volatility 18.2%, expense ratio 0.89%). No human adviser reviewed the allocation. Nine months later, a market correction reduced that portion to $71,400. The client sued. RoboWealth's risk disclosure stated: 'Algorithm may not account for all client circumstances; review your allocation quarterly.' The adviser charged a 0.65% AUM fee with no conflict-of-interest disclosure regarding the ETF selection.
+
+QUESTION
+--------
+Did RoboWealth's robo-adviser algorithm comply with Reg BI's care obligation and SEC IM Guidance 2017-02 when it failed to account for the client's stated near-term liquidity need?
+
+ANSWER
+------
+No. Under Reg BI Section 240.15l-1(a)(2)(i), the adviser must have a reasonable basis to believe the recommendation is in the client's best interest after considering the client's investment profile, including financial situation and investment objectives. SEC IM Guidance 2017-02 explicitly requires robo-advisers to implement compliance procedures ensuring the algorithm accounts for material client information, including time horizons and liquidity constraints. RoboWealth's algorithm ignored the stated 18-month liquidity need—a core element of the client's profile—and placed volatile assets into that bucket. The generic quarterly review disclosure is insufficient to satisfy the care obligation; it shifts monitoring burden to the client. The material gap between algorithm design and actual client circumstances constitutes a breach of the duty of care.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); SEC IM Guidance 2017-02 (Robo-Adviser Compliance Procedures)
+
+KEY FACTOR
+----------
+Algorithm failed to integrate material client-provided information (near-term liquidity need) into allocation logic, violating the adviser's duty to have reasonable basis for suitability of recommendation.

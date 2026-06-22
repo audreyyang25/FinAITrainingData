@@ -1,0 +1,27 @@
+ID: 184
+Source Folder: unknown
+Topic: concentration
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+An RIA (registered investment adviser under the Investment Adviser Act of 1940) recommends that a 72-year-old client with $2.2 million in investable assets, high risk tolerance from prior business ownership, and a 15+ year investment horizon allocate $440,000 (20%) to a concentrated position in a highly liquid, large-cap dividend stock (Microsoft) that represents 8% of the S&P 500. The RIA documents that the client (a retired business owner) has substantial concentrated wealth history, explicitly requested 'conviction positions in quality blue-chips,' and can absorb volatility. The allocation is consistent with the client's risk profile and includes diversification across 12 other holdings. A written IPS specifies the concentration limit.
+
+QUESTION
+--------
+Does this 20% concentrated position in Microsoft comply with the Investment Adviser Act fiduciary duty (duty of loyalty and care)?
+
+ANSWER
+------
+Yes, this recommendation is compliant.
+
+The RIA's recommendation satisfies the fiduciary duty of loyalty because: (1) the advisor has documented the client's explicit request for conviction positions in quality dividend stocks; (2) the 20% position is within reasonable bounds for a high-net-worth client with high risk tolerance and a 15+ year horizon; (3) the underlying security (Microsoft) is highly liquid (traded in massive volume), mitigating liquidity risk; (4) the position represents only 8% of the broader S&P 500 (not an outlier concentration); and (5) the portfolio as a whole is diversified across 12 other holdings. The written IPS documents the concentration limit and the advisor's deliberate process. The duty of care is satisfied by the advisor's investigation into the client's investment experience (prior business ownership), risk tolerance, and time horizon. This differs materially from ID 183 because here: the client explicitly requested concentration, the advisor documented suitability analysis, the security is highly liquid, and the overall portfolio is diversified. This pattern aligns with compliant concentrated-position cases where the RIA documents client preference and objective suitability.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act of 1940, Section 206 (fiduciary duty); SEC Investment Adviser Rule 206(4)-7 (compliance rule); and Restatement (Third) of Agency § 8.01 (fiduciary duty of care). Fiduciaries must act in the client's best interest, avoiding self-dealing, and must conduct adequate investigation and maintain reasonable competence (duty of care).
+
+KEY FACTOR
+----------
+Client's explicit request for 'conviction positions,' documented high risk tolerance from business ownership, 15+ year horizon, high liquidity of Microsoft, and overall portfolio diversification justify the 20% concentrated position without violating fiduciary duty.

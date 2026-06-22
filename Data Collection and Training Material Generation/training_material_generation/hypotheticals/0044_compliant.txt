@@ -1,0 +1,27 @@
+ID: 44
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer recommends a $150,000 allocation in a proprietary mutual fund (0.87% expense ratio, 2% upfront sales load) to a 55-year-old client with $800,000 in total assets, balanced risk tolerance, and a 10-year investment horizon. The advisor's Form CRS clearly discloses that the broker earns a 2% upfront commission on this fund and that the fund charges an 0.87% annual expense ratio. The advisor also discloses that the firm has a material conflict of interest because the proprietary fund generates higher compensation to the firm than comparable third-party alternatives (which carry 0.65% expense ratios and no upfront load). The advisor documents in the file that the proprietary fund's slightly higher fees are justified by superior historical performance (top quartile over 5 years) and that lower-cost alternatives do not offer equivalent downside protection during market downturns.
+
+QUESTION
+--------
+Does the advisor's disclosure and recommendation satisfy Regulation Best Interest's requirements despite the conflict of interest?
+
+ANSWER
+------
+Yes, this recommendation satisfies Regulation Best Interest's disclosure and conflict-of-interest mitigation standards.
+
+The advisor disclosed both the quantitative fees (2% upfront, 0.87% annual) and the qualitative conflict (proprietary fund generates higher compensation). The advisor also disclosed alternative products and their fee structure (0.65% expense ratio with no upfront load), making the conflict transparent and allowing the client to understand the trade-off. Critically, the advisor documented a reasonable basis for why the proprietary fund was suitable despite the higher cost: superior performance in the client's time horizon and downside protection, which are relevant factors for a 55-year-old with balanced risk tolerance. This satisfies Rule 15l-1(a)(2)(ii)(C)'s requirement to document the rationale for recommending a higher-cost proprietary product. The disclosure is not undermined by the conflict because the client received full visibility into the conflict and the economic rationale for accepting it.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(e)(1)(i) requires disclosure of all material facts about fees and conflicts. SEC Rule 15l-1(a)(2)(i) requires the broker to establish and maintain written policies to address conflicts of interest, and Rule 15l-1(a)(2)(ii)(C) requires the broker to document why the recommended product is in the client's best interest despite the conflict.
+
+KEY FACTOR
+----------
+Transparent, specific disclosure of both fees and the material conflict of interest, combined with documented, performance-based justification for the higher-cost recommendation, demonstrates that the broker mitigated the conflict in accordance with Rule 15l-1(a)(2).

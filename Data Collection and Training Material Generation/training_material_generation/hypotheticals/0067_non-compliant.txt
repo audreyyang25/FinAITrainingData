@@ -1,0 +1,27 @@
+ID: 67
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA manages accounts for two clients, both age 45 with similar risk profiles and $3M in assets. Client A holds a position in a thinly-traded technology stock that has appreciated significantly. Client B is a new client seeking technology sector exposure. The adviser 'cherry-picks' a block of the appreciated tech stock from Client A's account and sells it to Client B at fair market value (no profit to the adviser), believing Client B will benefit from sector exposure. The adviser does not obtain prior written consent from Client A and does not document any business purpose for this trade other than 'portfolio allocation.'
+
+QUESTION
+--------
+Does this cross-trade satisfy the Investment Adviser Act fiduciary duty of loyalty and care?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty and care under the Investment Adviser Act.
+
+Although the adviser did not profit from the cross-trade itself, this conduct violates the fiduciary duty because it prioritizes portfolio management convenience and potentially favors Client B's sector-exposure objective over Client A's right to participate in the appreciation and decision-making regarding a concentrated position. Under SEC Rule 206(4)-2, principal transactions (including cross-trades between client accounts) require specific written consent before the transaction and periodic written disclosure. The lack of prior written consent from Client A is a per se violation. Additionally, the duty of care requires the adviser to document a reasonable business purpose for moving concentrated, appreciated securities between accounts; generic 'portfolio allocation' reasoning fails to demonstrate that Client A's interests were prioritized. Client A may have had tax planning or diversification reasons requiring consideration before moving the appreciated position.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2) (fiduciary duty not to engage in fraudulent, deceptive conduct); SEC Rule 206(4)-2 (prohibition on principal transactions without specific written consent); SEC v. Steadman, 5 F.3d 1511 (9th Cir. 1993) (adviser must prioritize client interests); FINRA Rule 5310 (fairness of prices); SEC Compliance Release 2000-102 (cross-trading guidance requiring disclosure and written consent).
+
+KEY FACTOR
+----------
+Lack of prior written consent from Client A for the cross-trade and failure to document that the transaction was in Client A's best interest, not merely the adviser's operational convenience.

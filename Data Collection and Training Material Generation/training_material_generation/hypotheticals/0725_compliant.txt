@@ -1,0 +1,27 @@
+ID: 725
+Source Folder: 11_Case_Law
+Topic: ia_case_law
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Ridgeline Wealth Management, a fee-only registered investment adviser, manages approximately $380 million in client assets. During its annual ADV update, the firm discloses in Item 11 that its Chief Investment Officer, Sarah Paulson, serves on the board of directors of a publicly traded technology company, Nextera Solutions Inc. (NXTR), and receives $45,000 annually in board compensation plus restricted stock units. The firm's compliance manual prohibits purchasing NXTR shares in any client account and requires Paulson to recuse herself from any investment committee discussion involving NXTR or its direct competitors. Additionally, Ridgeline delivers a separate written conflict disclosure to every client at account opening and annually thereafter, specifically identifying Paulson's board role and the firm's resulting trading restriction. A prospective client reviews the disclosures and proceeds to open an account with full knowledge of the arrangement.
+
+QUESTION
+--------
+Does the investment adviser's CIO serving on a public company board create an impermissible conflict of interest under the Investment Advisers Act?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The Investment Advisers Act does not categorically prohibit conflicts of interest; rather, it requires full and fair disclosure so that clients can provide informed consent. In Robare Group v. SEC, the D.C. Circuit emphasized the importance of the specificity and prominence of conflict disclosures, finding that vague or buried disclosures are insufficient. Here, Ridgeline goes beyond minimum requirements by identifying the specific conflict in its Form ADV, delivering a standalone written disclosure, implementing a firm-wide trading restriction on the conflicted security, and requiring the CIO's recusal from related investment decisions. This combination of specific disclosure, informed client consent, and prophylactic compliance measures satisfies the fiduciary duty of loyalty.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1), 206(2), and 204-3 (Form ADV delivery); SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963); Robare Group v. SEC, 922 F.3d 468 (D.C. Cir. 2019)
+
+KEY FACTOR
+----------
+Specific, prominent disclosure of a named conflict combined with prophylactic trading restrictions and client consent transforms a potential conflict into a permissible, well-managed arrangement under the Advisers Act.

@@ -1,0 +1,27 @@
+ID: 120
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker recommends a variable annuity to a 35-year-old client with $95,000 in a traditional IRA and a 30-year time horizon until retirement. The annuity carries a 7% surrender charge, 1.2% M&E fee, 0.80% subaccounts (~2% total annual cost), and no guaranteed income riders. The client is growth-oriented and has stable employment income. The broker documents the client's age and time horizon but fails to compare the variable annuity's costs to a low-cost S&P 500 index fund (0.03% expense ratio) or target-date fund (0.10% expense ratio) offering similar growth exposure. The broker's compensation is $3,500 (4.2% of the $95,000 investment).
+
+QUESTION
+--------
+Does this variable annuity recommendation for a young, IRA-based, growth-focused investor comply with Reg BI and FINRA Rule 2330?
+
+ANSWER
+------
+No, this violates Regulation Best Interest and FINRA Rule 2330.
+
+The recommendation fails Reg BI's care obligation because the advisor did not compare the variable annuity's 2% annual cost structure to materially superior alternatives (index funds at 0.03%-0.10%). For a 35-year-old with a 30-year IRA-based horizon, tax deferral within an IRA is redundant (IRAs already provide tax-deferral), making the annuity's high cost unjustifiable. A $95,000 investment in a 0.10% target-date fund versus a 2% variable annuity results in a ~$57,000 wealth differential over 30 years (assuming 7% annual growth), representing a material failure to serve the customer's best interest. Additionally, the 4.2% upfront broker commission creates a significant undisclosed conflict of interest inconsistent with Reg BI's mitigation standard. This mirrors SEC enforcement against variable annuity sales to young IRA account-holders (e.g., SEC v. MetLife Insurance & Annuity Associates, 2015, finding annuity sales to IRA accounts lacked reasonable basis for suitability).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI § 240.15l-1(d) (care obligation to understand risks and benefits relative to alternatives) and § 240.15l-1(e)(1) (conflict of interest mitigation — advisor must disclose material conflicts and demonstrate recommendation is not solely driven by compensation).
+
+KEY FACTOR
+----------
+IRA accounts already provide tax deferral, rendering a 2% annual variable annuity cost economically indefensible compared to 0.03%-0.10% alternatives; high broker compensation creates undisclosed conflict.

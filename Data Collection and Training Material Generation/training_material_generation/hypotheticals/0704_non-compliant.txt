@@ -1,0 +1,27 @@
+ID: 704
+Source Folder: 10_Academic_Articles
+Topic: reg_bi_effectiveness
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Marcus Devlin, a registered representative with a FINRA member firm, accumulated three customer complaints and one regulatory action over a five-year period involving unsuitable variable annuity sales to elderly clients totaling $1.2 million in losses. Following a Form U5 filing disclosing these events, Devlin's broker-dealer terminated him. Rather than seeking employment with another FINRA-registered firm—where his CRD record would be visible to prospective employers and clients—Devlin obtained a state insurance license and began operating as an independent insurance agent selling equity-indexed annuities with 12-year surrender periods and 8% first-year commissions. He targeted the same demographic of retirees aged 68-82 with moderate fixed-income portfolios of $200,000-$500,000, recommending they liquidate existing bond holdings and CDs to purchase these products. Devlin did not disclose his prior misconduct history to any of his new insurance clients, and the state insurance regulator did not require him to do so.
+
+QUESTION
+--------
+Does Devlin's migration from the federal broker-dealer regime to state insurance regulation to continue selling functionally similar financial products to vulnerable retirees, while evading the disclosure and supervisory requirements that would apply under federal securities law, constitute a regulatory arbitrage pattern that violates investor protection principles under Reg BI and the securities laws?
+
+ANSWER
+------
+No, this conduct is a regulatory arbitrage violation that circumvents Reg BI's Care and Disclosure Obligations and undermines the investor protection framework of the federal securities laws.
+
+As documented in Honigsberg, Hu & Jackson (2022), advisors with serious misconduct records disproportionately exit the federal regulatory regime and continue advising investors under state insurance licenses, exploiting the 'light touch' of state insurance oversight. Devlin's conduct exemplifies this pattern: his CRD misconduct history—three complaints and a regulatory action—would trigger enhanced supervision or bar him from employment at a compliant broker-dealer under Reg BI's Compliance Obligation, yet he continues selling economically equivalent products (equity-indexed annuities versus variable annuities) to the same vulnerable client demographic. The 12-year surrender periods and high first-year commissions on products sold to clients aged 68-82 would independently fail Reg BI's Care Obligation requirement to consider reasonably available alternatives and act without placing the advisor's interest ahead of the client's. The failure to disclose his misconduct history violates the spirit of Reg BI's Disclosure Obligation, even though technically he has moved outside its jurisdictional reach.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i)–(ii) – Reg BI Care and Disclosure Obligations; Exchange Act Section 15(b)(6) – statutory disqualification provisions; Honigsberg et al., 74 Stan. L. Rev. 737 (2022) documenting regulatory arbitrage by advisors with misconduct histories
+
+KEY FACTOR
+----------
+An advisor with a documented history of serious investor harm exploited the gap between federal securities regulation and state insurance oversight to continue selling high-commission, long-surrender-period products to the same vulnerable demographic, precisely the regulatory arbitrage pattern identified in academic research as causing persistent investor harm.

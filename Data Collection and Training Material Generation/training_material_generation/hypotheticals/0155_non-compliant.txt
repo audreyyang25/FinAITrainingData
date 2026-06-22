@@ -1,0 +1,27 @@
+ID: 155
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A fee-only RIA manages a $2.1M account for a 58-year-old executive client with stated long-term growth objective, 25+ year horizon, and low liquidity needs. The RIA charges 0.85% AUM fee ($17,850 annually). Despite this, the RIA recommends and executes: 34 individual stock trades annually (in-and-out holding periods averaging 4-6 weeks), 12 mutual fund switches (many into higher-fee institutional shares), and 8 option spread trades. Annual turnover ratio: 2.8x. The RIA does not charge commissions on trades (included in AUM). The RIA has documented that the strategy is 'tactical value investing with options overlay,' but the client states he never authorized such an active strategy and believed his portfolio would be 'passively rebalanced.' The RIA's Form ADV lists the strategy as 'long-term buy-and-hold core portfolio with tactical overlays,' but the actual trading frequency contradicts this description.
+
+QUESTION
+--------
+Does this conduct violate the fiduciary duty of care and the disclosure/antifraud requirements of Advisers Act § 206?
+
+ANSWER
+------
+Yes, this violates fiduciary duties and material disclosure obligations.
+
+Although the RIA does not charge per-transaction commissions, the 2.8x turnover ratio is inconsistent with the advertised 'long-term buy-and-hold' strategy disclosed in Form ADV. This creates a material misrepresentation: the client was induced to hire the RIA based on passive rebalancing expectations but received active tactical trading. The RIA's undisclosed or inadequately disclosed active-trading cost (embedded in AUM but realized through 34 annual individual stock trades and 12 mutual fund switches) constitutes a breach of the duty of loyalty because the RIA benefits from higher AUM-fee churn without transparent acknowledgment. The 4-6 week holding periods on individual stocks and the options overlay were not authorized by the client, who explicitly stated non-authorization. The Form ADV description ('long-term buy-and-hold') contradicts the actual practice, violating Rule 206(4)-1. This pattern matches SEC enforcement actions against fee-only RIAs (e.g., SEC v. various RIA firms settling on grounds of undisclosed active management and strategy misalignment).
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206(1) and (2) (fiduciary duty and prohibition on fraudulent conduct); SEC Rule 206(4)-1 (Form ADV disclosure requirements — strategy must be accurately described); SEC Rule 206(4)-8 (compliance rule requiring written policies to prevent excessive trading); Common law breach of fiduciary duty (failure to disclose material conflict between stated and actual strategy).
+
+KEY FACTOR
+----------
+Material discrepancy between advertised passive 'buy-and-hold' strategy (Form ADV) and actual 2.8x turnover active trading; client non-authorization of active strategy; conflict between AUM fee structure and extensive individual stock trading frequency.

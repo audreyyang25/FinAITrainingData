@@ -1,0 +1,25 @@
+ID: 394
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+401(k) plan sponsor (420 employees, $58M AUM) contracted with Delta Plan Services to provide plan administration, investment consulting, and compliance services. Delta's fee structure included: (1) $18,000 annual administration fee; (2) 12 basis points 'investment consulting' fee on AUM ($69,600 annually); (3) revenue sharing from three mutual funds on the plan's investment menu: Fidelity Growth Fund (8 bps), Vanguard International (6 bps), and PIMCO Bond Fund (11 bps). Delta received ~$17,200 in annual revenue sharing from these three funds. Delta's investment policy statement explicitly authorized a 'broad range' of equity and fixed-income funds but contained no specific fee or revenue-sharing caps. The plan sponsor had no written understanding that Delta earned revenue sharing and believed Delta's income came solely from the two stated fees. Over three years, Delta recommended no fund changes or additions, despite the plan's investment menu growing obsolete (plan remained in 2010-era target-date funds with expired glide paths). The plan sponsor discovered the revenue-sharing arrangement during an audit and discovered that Delta earned 15% of its profit margin from revenue sharing.
+
+QUESTION
+--------
+Did Delta's revenue-sharing arrangement comply with ERISA §404(a) fiduciary requirements, and does it qualify for the QPAM exemption under 29 CFR §2550.408b-2?
+
+ANSWER
+------
+No. The arrangement violates §404(a) and does not qualify for the QPAM exemption. Duty of Loyalty violation (§404(a)(1)(A)): Delta failed to disclose the revenue-sharing stream ($17,200 annually) to the plan sponsor in writing, creating undisclosed conflicts of interest that incentivize Delta to retain the three revenue-sharing funds rather than recommend changes based on prudence. The 15% profit margin from revenue sharing is material and must be disclosed. QPAM exemption failure (29 CFR §2550.408b-2): A QPAM exemption requires: (1) written notice to the plan fiduciary disclosing all compensation from the plan and parties-in-interest (including revenue sharing); (2) acknowledgment that the arrangement is reasonable; (3) annual certification. Delta provided none of these. The lack of written disclosure is fatal to exemption relief. The IPS's 'broad range' language does not authorize non-disclosure of conflicts. Similar to DOL enforcement pattern (TIAA-CREF 2018, Voya 2020) where hidden revenue sharing triggered §404(a) violations.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A) (duty of loyalty); ERISA §406(a) (prohibited transaction); 29 CFR §2550.408b-2 (QPAM exemption requirements); DOL FAB 2015-02.
+
+KEY FACTOR
+----------
+Material revenue-sharing conflict ($17,200 annually, 15% of profit margin) undisclosed to plan sponsor in writing; QPAM exemption prerequisites not satisfied.

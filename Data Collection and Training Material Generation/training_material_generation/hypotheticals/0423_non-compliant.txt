@@ -1,0 +1,25 @@
+ID: 423
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Investment adviser firm Beacon Capital Management, registered with the SEC, operates a Bitcoin trading desk. Senior adviser James Whitmore owns 2.5 Bitcoin (valued at ~$112,500 at April 2024 prices) held in a personal account. From April to September 2024, Whitmore recommended Bitcoin to 18 clients, resulting in $620,000 in aggregate client Bitcoin purchases. Beacon Capital's Form ADV Part 1 Section 2(a) disclosure states 'advisers may recommend securities in which they have a personal interest,' but provides no specific itemization of holdings or conflicts. Whitmore never disclosed his personal Bitcoin holdings to any client he recommended Bitcoin to; no conflict of interest waiver was obtained; no disclosure appeared in client agreements or Form ADV Part 2B.
+
+QUESTION
+--------
+Did Beacon Capital and Whitmore comply with Investment Adviser Act Section 206 duty of loyalty and Form ADV disclosure requirements regarding the undisclosed personal Bitcoin holdings?
+
+ANSWER
+------
+No. Under Investment Adviser Act Section 206(2), 15 U.S.C. §80a-206(2), an adviser commits fraud by concealing material facts about personal interest conflicts. Owning 2.5 Bitcoin while recommending Bitcoin to 18 clients creates an incentive to inflate demand, potentially benefiting Whitmore's holdings via price appreciation—a material conflict. SEC Rule 206(4)-7 requires advisers to disclose all material conflicts in Form ADV Part 2A and obtain client consent. Whitmore's failure to disclose to individual clients violates both duty of loyalty and Rule 206(4)-7. A generic boilerplate disclosure in Part 1 is insufficient without specific itemization of holdings and client-level consent. The SEC's April 2023 Marketing Rule guidance (IA Release No. 6518) emphasizes that crypto holdings present acute conflicts requiring express client acknowledgment, particularly given Bitcoin's price volatility and concentrated positions.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(2), 15 U.S.C. §80a-206(2); SEC Rule 206(4)-7, 17 CFR §275.206(4)-7
+
+KEY FACTOR
+----------
+Undisclosed personal Bitcoin holdings while recommending Bitcoin to clients constitutes material conflict concealment in violation of duty of loyalty and Form ADV disclosure requirements.

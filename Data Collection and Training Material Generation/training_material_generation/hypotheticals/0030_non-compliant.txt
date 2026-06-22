@@ -1,0 +1,27 @@
+ID: 30
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer pays its advisors a 40% payout for recommending proprietary mutual funds but only a 25% payout for non-proprietary funds. An advisor recommends the firm's proprietary bond fund (0.60% ER) to a 72-year-old retiree with $350,000 in assets, conservative income objectives, and no documented need for active bond management. No disclosure of the differential payout structure is provided to the customer. Comparable low-cost bond ETFs (0.10% ER) and institutional bond funds (0.15% ER) are not mentioned.
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+The firm violated Reg BI in two ways: (1) complete non-disclosure of the differential payout structure (40% vs. 25%), which is a material conflict creating direct incentive to recommend proprietary products; and (2) failure to mitigate by recommending a proprietary product at 0.60% ER to a conservative retiree without comparing it to much lower-cost alternatives (0.10-0.15% ER) that would better serve the client's income objectives. The 45-basis-point cost differential is material to a retiree on fixed income; SEC guidance requires disclosure of compensation structures that incentivize product recommendations. The lack of documented rationale for active bond management (client profile suggests passive income strategy is appropriate) combined with non-disclosure of the advisor's financial incentive creates a serious breach. FINRA enforcement patterns (AWC settlements) consistently penalize undisclosed differential compensation affecting product recommendations.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) — broker must disclose material conflicts and mitigate those creating incentives contrary to customer's best interest; differential compensation structures are material conflicts requiring disclosure and mitigation.
+
+KEY FACTOR
+----------
+Undisclosed differential advisor compensation (40% vs. 25%) recommending higher-cost proprietary product without mitigation or comparative analysis for conservative income client.

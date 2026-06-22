@@ -1,0 +1,25 @@
+ID: 404
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A multi-state investment adviser registered in New York, Massachusetts, New Jersey, and Nevada manages a $1.2M portfolio for a 58-year-old client domiciled in New Jersey with moderate risk tolerance and $45,000 annual income. When recommending a fixed-indexed annuity (FIA) with 4% surrender charge, a 7% commission, and 3.5% annual management fee, the adviser applies the highest applicable standard across all four states: (1) NY Reg 187 best interest standard, (2) Massachusetts fiduciary duty of loyalty and care, (3) NJ fiduciary rule (modeled on NASAA), and (4) Nevada financial planner fiduciary duty (NRS 645A.040). The adviser: (a) documents suitability under all four standards; (b) discloses the 7% commission, 3.5% fee, and 4% surrender charge; (c) analyzes alternatives (municipal bond ladder earning 3.8%, bond ETFs at 0.10% expense ratio); (d) concludes the FIA is unsuitable given the client's liquidity needs over 10-year horizon; and (e) recommends the municipal bond ladder instead, despite earning significantly higher revenue from the FIA (7% commission + 3.5% fee vs. 0.50% annual AUM fee from ladder strategy).
+
+QUESTION
+--------
+Does the adviser comply with state fiduciary rules by applying the highest standard across all four states and recommending the lower-revenue municipal bond ladder?
+
+ANSWER
+------
+Yes. When advice is provided across multiple states with differing fiduciary standards, the adviser must apply the highest applicable standard to all clients in those states. Here, the adviser correctly identified Massachusetts' fiduciary duty (requiring avoidance of conflicts and pursuit of client benefit) as the highest standard and applied it uniformly. By recommending the municipal bond ladder despite 7% lower personal revenue, the adviser evidences adherence to fiduciary duty of loyalty under MA law and equivalent obligations in NY (Reg 187), NJ (NASAA-modeled), and Nevada (NRS 645A.040). The documented analysis of alternatives and disclosure of conflicts, coupled with selection of the lower-revenue product, satisfies all four state standards.
+
+APPLICABLE STANDARD
+-------------------
+NY Regulation 187, Massachusetts Fiduciary Rule, NJ Fiduciary Rule, Nevada NRS 645A.040 — convergence on fiduciary duty of loyalty and care
+
+KEY FACTOR
+----------
+Applying the highest applicable state standard (Massachusetts fiduciary duty) uniformly across all client states and recommending lower-revenue product demonstrates compliance with multi-state fiduciary obligations.

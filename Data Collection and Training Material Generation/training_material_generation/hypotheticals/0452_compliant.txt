@@ -1,0 +1,25 @@
+ID: 452
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Broker recommended Class B mutual fund shares (5.5% contingent deferred sales charge) to 72-year-old client with $180,000 to invest for 4-year time horizon. Broker documented that: (1) client explicitly stated no intention to sell or transfer before 4 years; (2) Class A shares would charge 5% front-end load ($9,000 upfront) + 0.45% annual 12b-1 fee; (3) Class B shares charge zero upfront but 1.1% annual 12b-1 and 5% CDSC declining by 1% annually; (4) breakeven point was 6.2 years; (5) at 4-year holding period, Class B total cost was 7.2%, Class A was 9.8%. Written suitability memo filed; client signed acknowledgment of CDSC risk.
+
+QUESTION
+--------
+Was the broker's Class B recommendation compliant with FINRA Suitability Rule 2111 despite front-loaded 12b-1 and CDSC?
+
+ANSWER
+------
+Yes. FINRA Rule 2111 requires suitability; it does not prohibit higher-cost share classes if they are suitable given holding period and client profile. Broker documented: (1) four-year time horizon matching breakeven analysis; (2) quantitative comparison showing Class B lower total cost; (3) client's explicit statement of hold period. This mirrors FINRA guidance (Regulatory Notice 18-10) permitting higher-fee share classes when documented analysis and client profile support them. Cost alone is not disqualifying; demonstrable advantage over alternatives is decisive.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability); Cost Comparison Analysis
+
+KEY FACTOR
+----------
+Documented breakeven analysis showing Class B lower total cost at client's stated 4-year holding period satisfies suitability despite higher ongoing fees.

@@ -1,0 +1,1051 @@
+[12:31:40] ============================================================
+[12:31:40] phase_fill_up.py — claude-opus-4-5
+[12:31:40] Started: 2026-03-21 12:31:40
+[12:31:40] ============================================================
+[12:31:40] 
+============================================================
+[12:31:40] Phase 12: 153 existing → target 499 (need 346 more)
+[12:31:40] ============================================================
+[12:31:40] Phase 12: processing up to 1384 PDFs to generate 346 items
+[12:32:05]   [Phase 12] 154/499 | 12_FINRA_Arbitration_Awards | 24-02169.pdf
+[12:32:09]   [Phase 12] 155/499 | 15_FINRA_Regulatory_Notices | 18-16_NASAA_Comment.pdf
+[12:32:10]   [Phase 12] 156/499 | 09_Law_Firm_Memos | Investment-Management-Guidebook-ext
+[12:32:16]   [Phase 12] 157/499 | 05_SEC_Exam_Findings | gap5_2026-exam-priorities.pdf
+[12:32:32]   [Phase 12] 158/499 | 12_FINRA_Arbitration_Awards | Regulatory-Notice-16-36.pdf
+[12:32:38]   [Phase 12] 159/499 | 12_FINRA_Arbitration_Awards | 23-02816.pdf
+[12:32:39]   [Phase 12] 160/499 | 15_FINRA_Regulatory_Notices | Cboe_27s_20Response_20to_20FINRA_27
+[12:32:43]   [Phase 12] 161/499 | 12_FINRA_Arbitration_Awards | 17-01671.pdf
+[12:33:02]   [Phase 12] 162/499 | 08_State_Fiduciary_Rules | state8_2021-12-27-NASAA-Comment-Let
+[12:33:06]   [Phase 12] 163/499 | 03_FINRA_AWC | 2021069344801_20NewEdge_20Securitie
+[12:33:08]   [Phase 12] 164/499 | 11_Case_Law | cl_2015_ca2_in_re_kingate_managemen
+[12:33:11]   [Phase 12] 165/499 | 10_Academic_Articles | 58-1_Park.pdf
+[12:33:32]   [Phase 12] 166/499 | 03_FINRA_AWC | Barclays-Capital-AWC-100522.pdf
+[12:33:36]   [Phase 12] 167/499 | 12_FINRA_Arbitration_Awards | 20-00776.pdf
+[12:33:37]   [Phase 12] 168/499 | 12_FINRA_Arbitration_Awards | 18-02246.pdf
+[12:33:39]   [Phase 12] 169/499 | 12_FINRA_Arbitration_Awards | 19-01596.pdf
+[12:34:02]   [Phase 12] 170/499 | 12_FINRA_Arbitration_Awards | 17-00001.pdf
+[12:34:03]   [Phase 12] 171/499 | 12_FINRA_Arbitration_Awards | 24-00281.pdf
+[12:34:05]   [Phase 12] 172/499 | 12_FINRA_Arbitration_Awards | 21-01241.pdf
+[12:34:08]   [Phase 12] 173/499 | 02_SEC_Enforcement_Actions | enf2015_s70819-6193322-192491.pdf
+[12:34:30]   [Phase 12] 174/499 | 12_FINRA_Arbitration_Awards | 22-02756.pdf
+[12:34:30]   [Phase 12] 175/499 | 12_FINRA_Arbitration_Awards | 24-02472.pdf
+[12:34:33]   [Phase 12] 176/499 | 12_FINRA_Arbitration_Awards | 18-01716.pdf
+[12:34:36]   [Phase 12] 177/499 | 12_FINRA_Arbitration_Awards | 17-02036.pdf
+[12:34:59]   [Phase 12] 178/499 | 12_FINRA_Arbitration_Awards | 24-02546.pdf
+[12:34:59]   [Phase 12] 179/499 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-16-16.pdf
+[12:35:00]   [Phase 12] 180/499 | 21_FINRA_OHO_Decisions | oho-order-21-02-2018058588501.pdf
+[12:35:03]   [Phase 12] 181/499 | 23_International_Comparative | 0220_new_fin_advice_regime_nz.pdf
+[12:35:24]   [Phase 12] 182/499 | 12_FINRA_Arbitration_Awards | Attachment-B_Regulatory-Notice-18-2
+[12:35:25]   [Phase 12] 183/499 | 02_SEC_Enforcement_Actions | ia-5970.pdf
+[12:35:28]   [Phase 12] 184/499 | 15_FINRA_Regulatory_Notices | Phil_20Bak_4.7.2022_Finra_20Comment
+[12:35:33]   [Phase 12] 185/499 | 01_SEC_Guidance_NoAction_Int | interp_ia-6383.pdf
+[12:35:54]   [Phase 12] 186/499 | 07_Practitioner_Commentary | memo_willkie_sec_issues_important_g
+[12:35:55]   [Phase 12] 187/499 | 12_FINRA_Arbitration_Awards | 18-01976.pdf
+[12:35:57]   [Phase 12] 188/499 | 11_Case_Law | cl_2022_ca2_exxon_mobil_v._healey.p
+[12:35:58]   [Phase 12] 189/499 | 09_Law_Firm_Memos | MiFID_20II_20-_20Investment_20advic
+[12:36:20]   [Phase 12] 190/499 | 03_FINRA_AWC | 2023078776201_20Paul_20R._20Meyer_2
+[12:36:21]   [Phase 12] 191/499 | 22_PIABA_Materials | CLE-Confirming-and-Vacating-Arbitra
+[12:36:26]   [Phase 12] 192/499 | 02_SEC_Enforcement_Actions | ia-4283.pdf
+[12:36:27]   [Phase 12] 193/499 | 15_FINRA_Regulatory_Notices | 20-02-cornell-law-school-comment.pd
+[12:36:42]   [Phase 12] 194/499 | 11_Case_Law | gap11_laby.pdf
+[12:36:47]   [Phase 12] 195/499 | 12_FINRA_Arbitration_Awards | 16-00265.pdf
+[12:36:53]   [Phase 12] 196/499 | 03_FINRA_AWC | 2025084767303_20Jessica_20Quiroz_20
+[12:36:55]   [Phase 12] 197/499 | 09_Law_Firm_Memos | gap9_Artificial-Intelligence-Legal-
+[12:37:08]   [Phase 12] 198/499 | 11_Case_Law | cl_2023_ca9_julie_su_v._brian_bower
+[12:37:14]   [Phase 12] 199/499 | 11_Case_Law | cl_2021_delch_john_joseph_smith_iv_
+[12:37:20]   [Phase 12] 200/499 | 16_Congressional_Materials | IF12594.1.pdf
+[12:37:20]   [Phase 12] 201/499 | 12_FINRA_Arbitration_Awards | 19-03346.pdf
+[12:37:34]   [Phase 12] 202/499 | 21_FINRA_OHO_Decisions | OHO_Sanders_2009016159111_050415.pd
+[12:37:41]   [Phase 12] 203/499 | 12_FINRA_Arbitration_Awards | 21-00536.pdf
+[12:37:45]   [Phase 12] 204/499 | 23_International_Comparative | esma35-43-3172_final_report_on_mifi
+[12:37:46]   [Phase 12] 205/499 | 12_FINRA_Arbitration_Awards | 17-02256.pdf
+[12:38:00]   [Phase 12] 206/499 | 23_International_Comparative | Schedule_2ii-_Investment_Dealer_and
+[12:38:07]   [Phase 12] 207/499 | 12_FINRA_Arbitration_Awards | 21-02881.pdf
+[12:38:11]   [Phase 12] 208/499 | 12_FINRA_Arbitration_Awards | 21-01341.pdf
+[12:38:11]   [Phase 12] 209/499 | 03_FINRA_AWC | awc_brave_2018_july_2018_Disciplina
+[12:38:27]   [Phase 12] 210/499 | 16_Congressional_Materials | chrg-116hhrg36560.pdf
+[12:38:32]   [Phase 12] 211/499 | 12_FINRA_Arbitration_Awards | 16-00136.pdf
+[12:38:37]   [Phase 12] 212/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2021069357901_20Highlan
+[12:38:43]   [Phase 12] 213/499 | 13_FINRA_Rulebook | p602364.pdf
+[12:38:52]   [Phase 12] 214/499 | 12_FINRA_Arbitration_Awards | 24-02235.pdf
+[12:38:59]   [Phase 12] 215/499 | 03_FINRA_AWC | 2023080592501_20Sotirios_20Pappas_2
+[12:39:03]   [Phase 12] 216/499 | 03_FINRA_AWC | 2023077951801_20Ramin_20Abrams_20CR
+[12:39:10]   [Phase 12] 217/499 | 12_FINRA_Arbitration_Awards | 22-01816.pdf
+[12:39:21]   [Phase 12] 218/499 | 03_FINRA_AWC | awc_brave_Disciplinary_Actions_July
+[12:39:25]   [Phase 12] 219/499 | 16_Congressional_Materials | 20061023_RL33703_c93f4e46c967474582
+[12:39:32]   [Phase 12] 220/499 | 16_Congressional_Materials | HHRG-119-BA00-Wstate-SchragerA-2026
+[12:39:37]   [Phase 12] 221/499 | 12_FINRA_Arbitration_Awards | 23-00324.pdf
+[12:39:46]   [Phase 12] 222/499 | 12_FINRA_Arbitration_Awards | 4210-interp-change-guide-2024.pdf
+[12:39:57]   [Phase 12] 223/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2020065599101_20SW_20Fi
+[12:40:01]   [Phase 12] 224/499 | 12_FINRA_Arbitration_Awards | 21-00121.pdf
+[12:40:07]   [Phase 12] 225/499 | 12_FINRA_Arbitration_Awards | 23-02781.pdf
+[12:40:10]   [Phase 12] 226/499 | 12_FINRA_Arbitration_Awards | 25-00042.pdf
+[12:40:21]   [Phase 12] 227/499 | 10_Academic_Articles | academic_ia-4889.pdf
+[12:40:34]   [Phase 12] 228/499 | 12_FINRA_Arbitration_Awards | 19-02391.pdf
+[12:40:35]   [Phase 12] 229/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2018056490335_20Spartan
+[12:40:38]   [Phase 12] 230/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2022076459303_20Monmout
+[12:40:47]   [Phase 12] 231/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2023080627902_20Richard
+[12:40:58]   [Phase 12] 232/499 | 12_FINRA_Arbitration_Awards | 20-02861.pdf
+[12:41:01]   [Phase 12] 233/499 | 12_FINRA_Arbitration_Awards | 24-01631.pdf
+[12:41:06]   [Phase 12] 234/499 | 12_FINRA_Arbitration_Awards | 2019_SIP_Diminished_Capacity.pdf
+[12:41:14]   [Phase 12] 235/499 | 12_FINRA_Arbitration_Awards | 20-01431.pdf
+[12:41:27]   [Phase 12] 236/499 | 06_DOL_Fiduciary | gap6_Fact-Sheet-The-2024-Rule-was-D
+[12:41:29]   [Phase 12] 237/499 | 12_FINRA_Arbitration_Awards | 22-00721.pdf
+[12:41:32]   [Phase 12] 238/499 | 12_FINRA_Arbitration_Awards | 19-00446.pdf
+[12:41:46]   [Phase 12] 239/499 | 03_FINRA_AWC | 2022073836301_20Benjamin_20F._20Edw
+[12:41:54]   [Phase 12] 240/499 | 07_Practitioner_Commentary | memo_formcrs.pdf
+[12:41:56]   [Phase 12] 241/499 | 12_FINRA_Arbitration_Awards | 24-01616.pdf
+[12:41:59]   [Phase 12] 242/499 | 08_State_Fiduciary_Rules | state8_model-rule-investment-advise
+[12:42:18]   [Phase 12] 243/499 | 16_Congressional_Materials | sec-adopts-best-interest-standard-f
+[12:42:20]   [Phase 12] 244/499 | 03_FINRA_AWC | 2020068547301_20Cantor_20Fitzgerald
+[12:42:24]   [Phase 12] 245/499 | 12_FINRA_Arbitration_Awards | 17-00051.pdf
+[12:42:26]   [Phase 12] 246/499 | 12_FINRA_Arbitration_Awards | 20-02931.pdf
+[12:42:44]   [Phase 12] 247/499 | 12_FINRA_Arbitration_Awards | 21-00461.pdf
+[12:42:45]   [Phase 12] 248/499 | 23_International_Comparative | 220726-MiFiD-II-Lux-EN.pdf
+[12:42:51]   [Phase 12] 249/499 | 03_FINRA_AWC | EQUI-VEST_Series_100_200.pdf
+[12:42:51]   [Phase 12] 250/499 | 12_FINRA_Arbitration_Awards | 16-00082.pdf
+[12:43:09]   [Phase 12] 251/499 | 12_FINRA_Arbitration_Awards | 20-03366.pdf
+[12:43:11]   [Phase 12] 252/499 | 12_FINRA_Arbitration_Awards | 20-00721.pdf
+[12:43:16]   [Phase 12] 253/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2018056490319_20Jesse_2
+[12:43:21]   [Phase 12] 254/499 | 23_International_Comparative | Consumer-Duty-What-Do-Boards-Need-t
+[12:43:33]   [Phase 12] 255/499 | 14_NASAA_State_Enforcement | NASAA-Year-in-Review-16-17-FINAL.pd
+[12:43:37]   [Phase 12] 256/499 | 12_FINRA_Arbitration_Awards | 15-00351.pdf
+[12:43:44]   [Phase 12] 257/499 | 09_Law_Firm_Memos | lawmemo_stone_currentsoftdollarissu
+[12:43:46]   [Phase 12] 258/499 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-15-23.pdf
+[12:44:04]   [Phase 12] 259/499 | 12_FINRA_Arbitration_Awards | 17-03371.pdf
+[12:44:06]   [Phase 12] 260/499 | 16_Congressional_Materials | hhrg-118-ba00-20241120-sd002.pdf
+[12:44:11]   [Phase 12] 261/499 | 03_FINRA_AWC | awc_brave_2016_p012377.pdf
+[12:44:15]   [Phase 12] 262/499 | 10_Academic_Articles | McCann_20Qin_20and_20Yan_20on_20Bro
+[12:44:28]   [Phase 12] 263/499 | 12_FINRA_Arbitration_Awards | 24-02321.pdf
+[12:44:34]   [Phase 12] 264/499 | 12_FINRA_Arbitration_Awards | 16-00553.pdf
+[12:44:39]   [Phase 12] 265/499 | 12_FINRA_Arbitration_Awards | 17-00706.pdf
+[12:44:44]   [Phase 12] 266/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2023077084701_20Mariner
+[12:44:55]   [Phase 12] 267/499 | 12_FINRA_Arbitration_Awards | 22-02666.pdf
+[12:45:01]   [Phase 12] 268/499 | 12_FINRA_Arbitration_Awards | 17-03016.pdf
+[12:45:05]   [Phase 12] 269/499 | 12_FINRA_Arbitration_Awards | 23-00796.pdf
+[12:45:09]   [Phase 12] 270/499 | 12_FINRA_Arbitration_Awards | 774484.pdf
+[12:45:24]   [Phase 12] 271/499 | 12_FINRA_Arbitration_Awards | 16-01792.pdf
+[12:45:29]   [Phase 12] 272/499 | 12_FINRA_Arbitration_Awards | SWFinancial-AWC-No-2020065599101.pd
+[12:45:33]   [Phase 12] 273/499 | 02_SEC_Enforcement_Actions | 34-104158.pdf
+[12:45:36]   [Phase 12] 274/499 | 09_Law_Firm_Memos | lawmemo_OnPoint_20-_20SEC_20Propose
+[12:45:49]   [Phase 12] 275/499 | 07_Practitioner_Commentary | memo_dechert_P020231126415026673178
+[12:45:55]   [Phase 12] 276/499 | 10_Academic_Articles | acad10_four-components-of-reg-bi.pd
+[12:46:01]   [Phase 12] 277/499 | 12_FINRA_Arbitration_Awards | 16-03259.pdf
+[12:46:03]   [Phase 12] 278/499 | 11_Case_Law | cl_2021_ca2_donna_browe_v._ctc_corp
+[12:46:14]   [Phase 12] 279/499 | 02_SEC_Enforcement_Actions | ia-5147.pdf
+[12:46:19]   [Phase 12] 280/499 | 12_FINRA_Arbitration_Awards | 19-01491.pdf
+[12:46:26]   [Phase 12] 281/499 | 12_FINRA_Arbitration_Awards | 22-01640.pdf
+[12:46:31]   [Phase 12] 282/499 | 21_FINRA_OHO_Decisions | SD-2418-BNYMSCPershingLLC-01-29-202
+[12:46:42]   [Phase 12] 283/499 | 18_OCC_Bank_Trust_Guidance | int829.pdf
+[12:46:48]   [Phase 12] 284/499 | 12_FINRA_Arbitration_Awards | 23-01082.pdf
+[12:46:54]   [Phase 12] 285/499 | 05_SEC_Exam_Findings | gap5_2024-exam-priorities.pdf
+[12:46:56]   [Phase 12] 286/499 | 12_FINRA_Arbitration_Awards | 20-01846.pdf
+[12:47:12]   [Phase 12] 287/499 | 12_FINRA_Arbitration_Awards | 20-03291.pdf
+[12:47:16]   [Phase 12] 288/499 | 12_FINRA_Arbitration_Awards | 24-01436.pdf
+[12:47:21]   [Phase 12] 289/499 | 03_FINRA_AWC | 2021071094401_Pelletier_4205289_NAC
+[12:47:25]   [Phase 12] 290/499 | 07_Practitioner_Commentary | memo_reg-bi-checklist.pdf
+[12:47:39]   [Phase 12] 291/499 | 14_NASAA_State_Enforcement | index.php.pdf
+[12:47:44]   [Phase 12] 292/499 | 16_Congressional_Materials | HHRG-118-BA10-20240416-SD002.pdf
+[12:47:48]   [Phase 12] 293/499 | 12_FINRA_Arbitration_Awards | 21-00961.pdf
+[12:47:53]   [Phase 12] 294/499 | 03_FINRA_AWC | 2021071732701_20BofA_20Securities_2
+[12:48:02]   [Phase 12] 295/499 | 12_FINRA_Arbitration_Awards | 18-00916.pdf
+[12:48:07]   [Phase 12] 296/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2021071134401_20Jose_20
+[12:48:15]   [Phase 12] 297/499 | 12_FINRA_Arbitration_Awards | 16-03055.pdf
+[12:48:20]   [Phase 12] 298/499 | 12_FINRA_Arbitration_Awards | Regulatory-Notice-21-16.pdf
+[12:48:34]   [Phase 12] 299/499 | 10_Academic_Articles | 490.pdf
+[12:48:36]   [Phase 12] 300/499 | 15_FINRA_Regulatory_Notices | Attachment_A_RegNotice_102224.pdf
+[12:48:41]   [Phase 12] 301/499 | 03_FINRA_AWC | awc_brave_2019063352401_20Smith__20
+[12:48:49]   [Phase 12] 302/499 | 12_FINRA_Arbitration_Awards | 23-00971.pdf
+[12:48:57]   [Phase 12] 303/499 | 02_SEC_Enforcement_Actions | ia-5480.pdf
+[12:49:03]   [Phase 12] 304/499 | 23_International_Comparative | Dear-CEO-Letter-Publication-of-the-
+[12:49:08]   [Phase 12] 305/499 | 12_FINRA_Arbitration_Awards | 16-00171.pdf
+[12:49:14]   [Phase 12] 306/499 | 12_FINRA_Arbitration_Awards | 19-01781.pdf
+[12:49:24]   [Phase 12] 307/499 | 12_FINRA_Arbitration_Awards | 21-02316.pdf
+[12:49:28]   [Phase 12] 308/499 | 05_SEC_Exam_Findings | gap5_risk-alert-newly-registered-ia
+[12:49:34]   [Phase 12] 309/499 | 06_DOL_Fiduciary | dol_final_2013-01.pdf
+[12:49:40]   [Phase 12] 310/499 | 02_SEC_Enforcement_Actions | 34-104426.pdf
+[12:49:51]   [Phase 12] 311/499 | 11_Case_Law | cl_2023_delch_smash_franchise_partn
+[12:49:55]   [Phase 12] 312/499 | 08_State_Fiduciary_Rules | state8_Notice_20of_20Intent_20to_20
+[12:49:58]   [Phase 12] 313/499 | 11_Case_Law | cl_2022_ca9_lenai_mull_v._motion_pi
+[12:50:03]   [Phase 12] 314/499 | 02_SEC_Enforcement_Actions | ia-5477.pdf
+[12:50:18]   [Phase 12] 315/499 | 18_OCC_Bank_Trust_Guidance | int995.pdf
+[12:50:23]   [Phase 12] 316/499 | 12_FINRA_Arbitration_Awards | 24-02476.pdf
+[12:50:24]   [Phase 12] 317/499 | 03_FINRA_AWC | 2020065145802_20Oakwood_20Capital_2
+[12:50:30]   [Phase 12] 318/499 | 03_FINRA_AWC | awc_brave_2022_Disciplinary_Actions
+[12:50:44]   [Phase 12] 319/499 | 12_FINRA_Arbitration_Awards | 18-03036.pdf
+[12:50:48]   [Phase 12] 320/499 | 12_FINRA_Arbitration_Awards | 20-03241.pdf
+[12:50:49]   [Phase 12] 321/499 | 12_FINRA_Arbitration_Awards | 20-02721.pdf
+[12:50:58]   [Phase 12] 322/499 | 12_FINRA_Arbitration_Awards | 23-01951.pdf
+[12:51:10]   [Phase 12] 323/499 | 10_Academic_Articles | WhiteHouse_CEA_ConflictsInterest_20
+[12:51:12]   [Phase 12] 324/499 | 15_FINRA_Regulatory_Notices | 20-05_Fidelity_comment.pdf
+[12:51:17]   [Phase 12] 325/499 | 23_International_Comparative | Meeting-your-obligations-under-the-
+[12:51:26]   [Phase 12] 326/499 | 12_FINRA_Arbitration_Awards | 21-00186.pdf
+[12:51:38]   [Phase 12] 327/499 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-22-01.pdf
+[12:51:39]   [Phase 12] 328/499 | 17_SEC_Staff_Bulletins | 2019_RBI_Reg_BI_Obligations.pdf
+[12:51:43]   [Phase 12] 329/499 | 12_FINRA_Arbitration_Awards | 17-00676.pdf
+[12:51:53]   [Phase 12] 330/499 | 06_DOL_Fiduciary | 6_D_2025-01.pdf
+[12:52:06]   [Phase 12] 331/499 | 12_FINRA_Arbitration_Awards | 24-01761.pdf
+[12:52:06]   [Phase 12] 332/499 | 10_Academic_Articles | naic-comparison-guide.pdf
+[12:52:10]   [Phase 12] 333/499 | 12_FINRA_Arbitration_Awards | 22-00136.pdf
+[12:52:19]   [Phase 12] 334/499 | 12_FINRA_Arbitration_Awards | 23-01606.pdf
+[12:52:31]   [Phase 12] 335/499 | 12_FINRA_Arbitration_Awards | 21-00641.pdf
+[12:52:31]   [Phase 12] 336/499 | 12_FINRA_Arbitration_Awards | 18-01186.pdf
+[12:52:39]   [Phase 12] 337/499 | 12_FINRA_Arbitration_Awards | 16-01819.pdf
+[12:52:49]   [Phase 12] 338/499 | 01_SEC_Guidance_NoAction_Int | guidance2_formadv-part3.pdf
+[12:53:00]   [Phase 12] 339/499 | 09_Law_Firm_Memos | TAXES-The-Tax-Magazing-Mandatory-Au
+[12:53:03]   [Phase 12] 340/499 | 12_FINRA_Arbitration_Awards | 16-00751.pdf
+[12:53:04]   [Phase 12] 341/499 | 10_Academic_Articles | w16312.pdf
+[12:53:18]   [Phase 12] 342/499 | 12_FINRA_Arbitration_Awards | 21-02176.pdf
+[12:53:26]   [Phase 12] 343/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2023079054101_20Brenton
+[12:53:30]   [Phase 12] 344/499 | 07_Practitioner_Commentary | memo_crs_106720.pdf
+[12:53:31]   [Phase 12] 345/499 | 03_FINRA_AWC | awc_brave_September_2018_Disciplina
+[12:53:46]   [Phase 12] 346/499 | 12_FINRA_Arbitration_Awards | 21-01911.pdf
+[12:53:51]   [Phase 12] 347/499 | 12_FINRA_Arbitration_Awards | 23-00656.pdf
+[12:53:58]   [Phase 12] 348/499 | 07_Practitioner_Commentary | memo_2019_RBI_Reg_BI_Obligations.pd
+[12:54:00]   [Phase 12] 349/499 | 12_FINRA_Arbitration_Awards | 18-00066.pdf
+[12:54:15]   [Phase 12] 350/499 | 18_OCC_Bank_Trust_Guidance | Summary_5Principles.pdf
+[12:54:23]   [Phase 12] 351/499 | 12_FINRA_Arbitration_Awards | 18-01341.pdf
+[12:54:26]   [Phase 12] 352/499 | 12_FINRA_Arbitration_Awards | 19-01956.pdf
+[12:54:26]   [Phase 12] 353/499 | 16_Congressional_Materials | Manisha_20Padi_20Fiduciary_20Duty_2
+[12:54:40]   [Phase 12] 354/499 | 12_FINRA_Arbitration_Awards | 20-00976.pdf
+[12:54:53]   [Phase 12] 355/499 | 09_Law_Firm_Memos | lit-febmar18-feature-blockchain.pdf
+[12:54:54]   [Phase 12] 356/499 | 10_Academic_Articles | academic_CFP-Board-Code-and-Standar
+[12:54:56]   [Phase 12] 357/499 | 03_FINRA_AWC | awc_brave_2017_May_2017_Disiplinary
+[12:55:05]   [Phase 12] 358/499 | 10_Academic_Articles | laby.pdf
+[12:55:22]   [Phase 12] 359/499 | 12_FINRA_Arbitration_Awards | 25-00563.pdf
+[12:55:22]   [Phase 12] 360/499 | 02_SEC_Enforcement_Actions | ia-6455.pdf
+[12:55:23]   [Phase 12] 361/499 | 21_FINRA_OHO_Decisions | OHO_Order_20-15_2019063790901.pdf
+[12:55:28]   [Phase 12] 362/499 | 12_FINRA_Arbitration_Awards | 18-02556.pdf
+[12:55:47]   [Phase 12] 363/499 | 12_FINRA_Arbitration_Awards | 20-00081.pdf
+[12:55:48]   [Phase 12] 364/499 | 14_NASAA_State_Enforcement | NASAA-Urges-Congress-to-Protect-Inv
+[12:55:48]   [Phase 12] 365/499 | 12_FINRA_Arbitration_Awards | 20-01701.pdf
+[12:55:54]   [Phase 12] 366/499 | 12_FINRA_Arbitration_Awards | 25-00578.pdf
+[12:56:12]   [Phase 12] 367/499 | 16_Congressional_Materials | HHRG-118-BA16-Wstate-KothariS-20231
+[12:56:14]   [Phase 12] 368/499 | 12_FINRA_Arbitration_Awards | 18-02141.pdf
+[12:56:14]   [Phase 12] 369/499 | 12_FINRA_Arbitration_Awards | 25-00537.pdf
+[12:56:22]   [Phase 12] 370/499 | 12_FINRA_Arbitration_Awards | 25-00666.pdf
+[12:56:39]   [Phase 12] 371/499 | 03_FINRA_AWC | legal-update--finra-releases-notice
+[12:56:41]   [Phase 12] 372/499 | 12_FINRA_Arbitration_Awards | 19-03321.pdf
+[12:56:41]   [Phase 12] 373/499 | 03_FINRA_AWC | awc_brave_2024_Disciplinary_Actions
+[12:56:49]   [Phase 12] 374/499 | 12_FINRA_Arbitration_Awards | 21-02941.pdf
+[12:57:05]   [Phase 12] 375/499 | 15_FINRA_Regulatory_Notices | FIA_20Principal_20Traders_20Group_2
+[12:57:05]   [Phase 12] 376/499 | 12_FINRA_Arbitration_Awards | 23-01706.pdf
+[12:57:06]   [Phase 12] 377/499 | 12_FINRA_Arbitration_Awards | 25-00979.pdf
+[12:57:17]   [Phase 12] 378/499 | 12_FINRA_Arbitration_Awards | 2020065435403_20Fortune_20Financial
+[12:57:29]   [Phase 12] 379/499 | 12_FINRA_Arbitration_Awards | 25-01674.pdf
+[12:57:30]   [Phase 12] 380/499 | 14_NASAA_State_Enforcement | Admin-Action-OPTIMIZO-INVESTMENT-ST
+[12:57:36]   [Phase 12] 381/499 | 12_FINRA_Arbitration_Awards | 20-02616.pdf
+[12:57:44]   [Phase 12] 382/499 | 01_SEC_Guidance_NoAction_Int | guidance2_34-83063-appendix-b.pdf
+[12:57:53]   [Phase 12] 383/499 | 12_FINRA_Arbitration_Awards | 22-00541.pdf
+[12:57:54]   [Phase 12] 384/499 | 02_SEC_Enforcement_Actions | ia-6137.pdf
+[12:58:02]   [Phase 12] 385/499 | 07_Practitioner_Commentary | 7_P_bro_understanding_mfs_p.pdf
+[12:58:08]   [Phase 12] 386/499 | 07_Practitioner_Commentary | memo_manual.pdf
+[12:58:18]   [Phase 12] 387/499 | 12_FINRA_Arbitration_Awards | 17-01676.pdf
+[12:58:20]   [Phase 12] 388/499 | 12_FINRA_Arbitration_Awards | 19-00691.pdf
+[12:58:28]   [Phase 12] 389/499 | 12_FINRA_Arbitration_Awards | 24-02411.pdf
+[12:58:35]   [Phase 12] 390/499 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-17-34.pdf
+[12:58:43]   [Phase 12] 391/499 | 12_FINRA_Arbitration_Awards | 23-03001.pdf
+[12:58:46]   [Phase 12] 392/499 | 12_FINRA_Arbitration_Awards | 22-00281.pdf
+[12:58:53]   [Phase 12] 393/499 | 02_SEC_Enforcement_Actions | ia-5855.pdf
+[12:59:01]   [Phase 12] 394/499 | 12_FINRA_Arbitration_Awards | 16-00796.pdf
+[12:59:11]   [Phase 12] 395/499 | 12_FINRA_Arbitration_Awards | 18-03406.pdf
+[12:59:12]   [Phase 12] 396/499 | 12_FINRA_Arbitration_Awards | 20-02776.pdf
+[12:59:20]   [Phase 12] 397/499 | 12_FINRA_Arbitration_Awards | 17-01081.pdf
+[12:59:27]   [Phase 12] 398/499 | 12_FINRA_Arbitration_Awards | 23-01361.pdf
+[12:59:35]   [Phase 12] 399/499 | 21_FINRA_OHO_Decisions | 25-13-2022073425001-Lukezic-2025072
+[12:59:37]   [Phase 12] 400/499 | 07_Practitioner_Commentary | memo_fmi_adv.pdf
+[12:59:48]   [Phase 12] 401/499 | 09_Law_Firm_Memos | lawmemo_sec-adopts-best-interest-st
+[12:59:54]   [Phase 12] 402/499 | 12_FINRA_Arbitration_Awards | 25-01637.pdf
+[13:00:02]   [Phase 12] 403/499 | 01_SEC_Guidance_NoAction_Int | brave_guidance_im-guidance-2016-06.
+[13:00:03]   [Phase 12] 404/499 | 21_FINRA_OHO_Decisions | OHO_Singh_2019064313901_072221.pdf
+[13:00:15]   [Phase 12] 405/499 | 12_FINRA_Arbitration_Awards | 18-02661.pdf
+[13:00:21]   [Phase 12] 406/499 | 14_NASAA_State_Enforcement | NASAA-IAR-CE-Model-Rule.pdf
+[13:00:29]   [Phase 12] 407/499 | 12_FINRA_Arbitration_Awards | Disciplinary_Actions_July_2019_0.pd
+[13:00:30]   [Phase 12] 408/499 | 16_Congressional_Materials | HHRG-119-BA00-Wstate-KupiecP-202507
+[13:00:39]   [Phase 12] 409/499 | 11_Case_Law | cl_2019_cadc_the_robare_group_ltd._
+[13:00:49]   [Phase 12] 410/499 | 12_FINRA_Arbitration_Awards | 25-01878.pdf
+[13:00:56]   [Phase 12] 411/499 | 15_FINRA_Regulatory_Notices | 18-22_Kohn_comment.pdf
+[13:00:59]   [Phase 12] 412/499 | 23_International_Comparative | fg15-01.pdf
+[13:01:02]   [Phase 12] 413/499 | 09_Law_Firm_Memos | lawmemo_49CInvestment_20Adviser_20R
+[13:01:22]   [Phase 12] 414/499 | 12_FINRA_Arbitration_Awards | 11_Nov_Disciplinary_Actions.pdf
+[13:01:22]   [Phase 12] 415/499 | 03_FINRA_AWC | 2024083981002_20Christopher_20A._20
+[13:01:23]   [Phase 12] 416/499 | 22_PIABA_Materials | HHRG-118-ED02-TTF-PeifferJ-20240215
+[13:01:28]   [Phase 12] 417/499 | 03_FINRA_AWC | 2023077041401_20Interactive_20Broke
+[13:01:48]   [Phase 12] 418/499 | 02_SEC_Enforcement_Actions | ia-6128.pdf
+[13:01:49]   [Phase 12] 419/499 | 13_FINRA_Rulebook | AREF_RuleDefinition.pdf
+[13:01:51]   [Phase 12] 420/499 | 12_FINRA_Arbitration_Awards | 21-02586.pdf
+[13:01:54]   [Phase 12] 421/499 | 12_FINRA_Arbitration_Awards | 23-01476.pdf
+[13:02:14]   [Phase 12] 422/499 | 12_FINRA_Arbitration_Awards | 16-00742.pdf
+[13:02:15]   [Phase 12] 423/499 | 04_RegBI_Compliance_Guidance | finra_regbi_2022073708202_20Steve_2
+[13:02:16]   [Phase 12] 424/499 | 12_FINRA_Arbitration_Awards | 25-00480.pdf
+[13:02:18]   [Phase 12] 425/499 | 11_Case_Law | cl_2023_ca3_marlow_henry_v._wilming
+[13:02:42]   [Phase 12] 426/499 | 12_FINRA_Arbitration_Awards | 21-01621.pdf
+[13:02:43]   [Phase 12] 427/499 | 12_FINRA_Arbitration_Awards | 16-02896.pdf
+[13:02:43]   [Phase 12] 428/499 | 12_FINRA_Arbitration_Awards | 20-01731.pdf
+[13:02:46]   [Phase 12] 429/499 | 12_FINRA_Arbitration_Awards | 16-00502.pdf
+[13:03:06]   [Phase 12] 430/499 | 03_FINRA_AWC | awc_brave_individual_2243829.pdf
+[13:03:08]   [Phase 12] 431/499 | 12_FINRA_Arbitration_Awards | 24-02536.pdf
+[13:03:10]   [Phase 12] 432/499 | 07_Practitioner_Commentary | gap7_WB4-Regulation-Best-Interest.p
+[13:03:11]   [Phase 12] 433/499 | 14_NASAA_State_Enforcement | Schadle_Final_Web.pdf
+[13:03:29]   [Phase 12] 434/499 | 11_Case_Law | cl_2020_ca2_rubenstein_v._intl_valu
+[13:03:32]   [Phase 12] 435/499 | 12_FINRA_Arbitration_Awards | 18-02236.pdf
+[13:03:37]   [Phase 12] 436/499 | 12_FINRA_Arbitration_Awards | 19-01011.pdf
+[13:03:39]   [Phase 12] 437/499 | 03_FINRA_AWC | 04-nscp-currents-july-2018-reprint-
+[13:03:57]   [Phase 12] 438/499 | 15_FINRA_Regulatory_Notices | 15-20-ARM-comment.pdf
+[13:03:59]   [Phase 12] 439/499 | 10_Academic_Articles | 01KF93PY5SBG900XJFFDM5E9PZ.pdf
+[13:04:03]   [Phase 12] 440/499 | 11_Case_Law | cl_2022_calctapp_manlin_v._milner.p
+[13:04:03]   [Phase 12] 441/499 | 05_SEC_Exam_Findings | gap5_exams-risk-alert-marketing-obs
+[13:04:24]   [Phase 12] 442/499 | 12_FINRA_Arbitration_Awards | 18-00606.pdf
+[13:20:40]   [Phase 12] Error (1/3): 2021069322101_20Vision_20Financial_20Markets_20LLC_20CRD_20142271_20AWC_20lp_20_282025-1763943596344_29.pdf — curl failed: 
+[13:20:40]   [Phase 12] Error (1/3): 21-01946.pdf — curl failed: 
+[13:20:40]   [Phase 12] Error (1/3): sec_publishes_interpretive_guidance.pdf — curl failed: 
+[13:20:40]   [Phase 12] Error (1/3): 23-01411.pdf — curl failed: 
+[13:21:10]   [Phase 12] 443/499 | 03_FINRA_AWC | 2021069322101_20Vision_20Financial_
+[13:21:12]   [Phase 12] 444/499 | 12_FINRA_Arbitration_Awards | 23-01411.pdf
+[13:21:12]   [Phase 12] 445/499 | 12_FINRA_Arbitration_Awards | 21-01946.pdf
+[13:21:12]   [Phase 12] 446/499 | 09_Law_Firm_Memos | sec_publishes_interpretive_guidance
+[13:36:05]   [Phase 12] Error (1/3): 20-02356.pdf — curl failed: 
+[13:36:05]   [Phase 12] Error (1/3): p013347.pdf — curl failed: 
+[13:36:05]   [Phase 12] Error (1/3): memo_Brodsky-ABA-Book-Chapter-re-Investment-Advisers-Clean-Copy-1.pdf — curl failed: 
+[13:36:05]   [Phase 12] Error (1/3): 17-42_Schlein_comment.pdf — curl failed: 
+[13:36:36]   [Phase 12] 447/499 | 12_FINRA_Arbitration_Awards | 20-02356.pdf
+[13:36:36]   [Phase 12] 448/499 | 07_Practitioner_Commentary | memo_Brodsky-ABA-Book-Chapter-re-In
+[13:36:38]   [Phase 12] 449/499 | 21_FINRA_OHO_Decisions | p013347.pdf
+[13:36:42]   [Phase 12] 450/499 | 15_FINRA_Regulatory_Notices | 17-42_Schlein_comment.pdf
+[13:52:46]   [Phase 12] Error (1/3): exam_brave_observations-from-cybersecurity-examinations.pdf — curl failed: 
+[13:52:47]   [Phase 12] Error (1/3): 17-01806.pdf — curl failed: 
+[13:52:47]   [Phase 12] Error (1/3): EXAMS_brave_national-examination-program-priorities-2014.pdf — curl failed: 
+[13:52:47]   [Phase 12] Error (1/3): exam_2025_priorities.pdf — curl failed: 
+[13:53:16]   [Phase 12] 451/499 | 12_FINRA_Arbitration_Awards | 17-01806.pdf
+[13:53:18]   [Phase 12] 452/499 | 05_SEC_Exam_Findings | EXAMS_brave_national-examination-pr
+[13:53:21]   [Phase 12] 453/499 | 05_SEC_Exam_Findings | exam_brave_observations-from-cybers
+[13:53:21]   [Phase 12] 454/499 | 05_SEC_Exam_Findings | exam_2025_priorities.pdf
+[14:09:12]   [Phase 12] Error (1/3): 23-00021.pdf — curl failed: 
+[14:09:12]   [Phase 12] Error (1/3): 34-104851-dist-plan.pdf — curl failed: 
+[14:09:12]   [Phase 12] Error (1/3): ia-6155.pdf — curl failed: 
+[14:09:12]   [Phase 12] Error (1/3): 19-03476.pdf — curl failed: 
+[14:09:42]   [Phase 12] 455/499 | 12_FINRA_Arbitration_Awards | 23-00021.pdf
+[14:09:44]   [Phase 12] 456/499 | 02_SEC_Enforcement_Actions | ia-6155.pdf
+[14:09:45]   [Phase 12] 457/499 | 02_SEC_Enforcement_Actions | 34-104851-dist-plan.pdf
+[14:09:47]   [Phase 12] 458/499 | 12_FINRA_Arbitration_Awards | 19-03476.pdf
+[14:10:10]   [Phase 12] 459/499 | 12_FINRA_Arbitration_Awards | 24-00351.pdf
+[14:10:12]   [Phase 12] 460/499 | 06_DOL_Fiduciary | 6_D_00022.pdf
+[14:26:08]   [Phase 12] Error (1/3): 16-02974.pdf — curl failed: 
+[14:26:08]   [Phase 12] Error (1/3): FS_31_10-07_SEC_Approves_FINRA_Rule_Governing_Sales.pdf — curl failed: 
+[14:26:08]   [Phase 12] Error (1/3): ots-trust-handbook-110.pdf — curl failed: 
+[14:26:08]   [Phase 12] Error (1/3): 17-00791.pdf — curl failed: 
+[14:26:40]   [Phase 12] 461/499 | 12_FINRA_Arbitration_Awards | 16-02974.pdf
+[14:26:42]   [Phase 12] 462/499 | 12_FINRA_Arbitration_Awards | 17-00791.pdf
+[14:26:43]   [Phase 12] 463/499 | 13_FINRA_Rulebook | FS_31_10-07_SEC_Approves_FINRA_Rule
+[14:26:44]   [Phase 12] 464/499 | 18_OCC_Bank_Trust_Guidance | ots-trust-handbook-110.pdf
+[14:33:57]   [Phase 12] Error (1/3): IBArchive-b8e6db60-92f1-46b8-84a1-c910605f8122.pdf — curl failed: 
+[14:33:57]   [Phase 12] Error (1/3): 23-01182.pdf — curl failed: 
+[14:33:57]   [Phase 12] Error (1/3): 19-03441.pdf — curl failed: 
+[14:33:57]   [Phase 12] Error (1/3): FINRA-Duty-to-Disclose-Training-May-2015.pdf — curl failed: 
+[14:34:29]   [Phase 12] 465/499 | 12_FINRA_Arbitration_Awards | 19-03441.pdf
+[14:34:29]   [Phase 12] 466/499 | 23_International_Comparative | IBArchive-b8e6db60-92f1-46b8-84a1-c
+[14:34:29]   [Phase 12] 467/499 | 12_FINRA_Arbitration_Awards | 23-01182.pdf
+[14:34:30]   [Phase 12] 468/499 | 12_FINRA_Arbitration_Awards | FINRA-Duty-to-Disclose-Training-May
+[14:50:08]   [Phase 12] Error (1/3): 21-01181.pdf — curl failed: 
+[14:50:08]   [Phase 12] Error (1/3): 2022-02-01_R47026_88ad999c1ab37516759ace9947ab7fca9e7942f0.pdf — curl failed: 
+[14:50:08]   [Phase 12] Error (1/3): 25-04-2022073425001-Lukezic-20250317.pdf — curl failed: 
+[14:50:09]   [Phase 12] Error (1/3): 17-03201.pdf — curl failed: 
+[14:50:40]   [Phase 12] 469/499 | 12_FINRA_Arbitration_Awards | 17-03201.pdf
+[14:50:41]   [Phase 12] 470/499 | 21_FINRA_OHO_Decisions | 25-04-2022073425001-Lukezic-2025031
+[14:50:41]   [Phase 12] 471/499 | 12_FINRA_Arbitration_Awards | 21-01181.pdf
+[14:50:44]   [Phase 12] 472/499 | 16_Congressional_Materials | 2022-02-01_R47026_88ad999c1ab375167
+[15:06:03]   [Phase 12] Error (1/3): 24-02696.pdf — curl failed: 
+[15:06:03]   [Phase 12] Error (1/3): consumer-duty-portfolio-letter-payments-services-e-money.pdf — curl failed: 
+[15:06:03]   [Phase 12] Error (1/3): 19-36_talssib_Comment.pdf — curl failed: 
+[15:06:03]   [Phase 12] Error (1/3): 22-00781.pdf — curl failed: 
+[15:06:35]   [Phase 12] 473/499 | 23_International_Comparative | consumer-duty-portfolio-letter-paym
+[15:06:36]   [Phase 12] 474/499 | 15_FINRA_Regulatory_Notices | 19-36_talssib_Comment.pdf
+[15:06:37]   [Phase 12] 475/499 | 12_FINRA_Arbitration_Awards | 22-00781.pdf
+[15:06:38]   [Phase 12] 476/499 | 12_FINRA_Arbitration_Awards | 24-02696.pdf
+[15:06:59]   [Phase 12] 477/499 | 12_FINRA_Arbitration_Awards | 22-02051.pdf
+[15:07:01]   [Phase 12] 478/499 | 21_FINRA_OHO_Decisions | OHO_Default_Saljooki_2019063626702_
+[15:07:03]   [Phase 12] 479/499 | 03_FINRA_AWC | 2023080615601_20Evan_20Pfeuffer_20C
+[15:23:15]   [Phase 12] Error (1/3): 17-38_foreside_comment.pdf — curl failed: 
+[15:23:15]   [Phase 12] Error (1/3): IA_6810_2025.pdf — curl failed: 
+[15:23:15]   [Phase 12] Error (1/3): 20-03466.pdf — curl failed: 
+[15:23:15]   [Phase 12] Error (1/3): October_2015_Disciplinary_Actions.pdf — curl failed: 
+[15:23:48]   [Phase 12] 480/499 | 02_SEC_Enforcement_Actions | IA_6810_2025.pdf
+[15:23:48]   [Phase 12] 481/499 | 12_FINRA_Arbitration_Awards | 20-03466.pdf
+[15:23:49]   [Phase 12] 482/499 | 15_FINRA_Regulatory_Notices | 17-38_foreside_comment.pdf
+[15:23:49]   [Phase 12] 483/499 | 03_FINRA_AWC | October_2015_Disciplinary_Actions.p
+[15:34:58]   [Phase 12] Error (1/3): exams-reg-bi-alert-13023.pdf — curl failed: 
+[15:34:58]   [Phase 12] Error (1/3): 18-22_aublaw_Comment.pdf — curl failed: 
+[15:34:58]   [Phase 12] Error (1/3): 20-01481.pdf — curl failed: 
+[15:34:58]   [Phase 12] Error (1/3): 17-00756.pdf — curl failed: 
+[15:35:32]   [Phase 12] 484/499 | 12_FINRA_Arbitration_Awards | 20-01481.pdf
+[15:35:32]   [Phase 12] 485/499 | 05_SEC_Exam_Findings | exams-reg-bi-alert-13023.pdf
+[15:35:33]   [Phase 12] 486/499 | 15_FINRA_Regulatory_Notices | 18-22_aublaw_Comment.pdf
+[15:35:36]   [Phase 12] 487/499 | 12_FINRA_Arbitration_Awards | 17-00756.pdf
+[15:51:00]   [Phase 12] Error (1/3): P280218-1.pdf — curl failed: 
+[15:51:00]   [Phase 12] Error (1/3): 2022073414301_20BofA_20Securities_2C_20Inc._2C_20CRD_20283942_20AWC_20ks_20_282026-1768782001460_29.pdf — curl failed: 
+[15:51:00]   [Phase 12] Error (1/3): 17-02901.pdf — curl failed: 
+[15:51:00]   [Phase 12] Error (1/3): 25-00197.pdf — curl failed: 
+[15:51:31]   [Phase 12] 488/499 | 12_FINRA_Arbitration_Awards | 25-00197.pdf
+[15:51:32]   [Phase 12] 489/499 | 23_International_Comparative | P280218-1.pdf
+[15:51:32]   [Phase 12] 490/499 | 03_FINRA_AWC | 2022073414301_20BofA_20Securities_2
+[15:51:33]   [Phase 12] 491/499 | 12_FINRA_Arbitration_Awards | 17-02901.pdf
+[16:07:19]   [Phase 12] Error (1/3): 15-00401.pdf — curl failed: 
+[16:07:19]   [Phase 12] Error (1/3): 23-00811.pdf — curl failed: 
+[16:07:19]   [Phase 12] Error (1/3): cftc-proposes-amendments-to-rule-47-exemptions-for-commodity-pool-operators-and-commodity-trading-advisors.pdf — curl failed: 
+[16:07:20]   [Phase 12] Error (1/3): 16-01357.pdf — curl failed: 
+[16:07:50]   [Phase 12] 492/499 | 12_FINRA_Arbitration_Awards | 16-01357.pdf
+[16:07:51]   [Phase 12] 493/499 | 12_FINRA_Arbitration_Awards | 23-00811.pdf
+[16:07:52]   [Phase 12] 494/499 | 12_FINRA_Arbitration_Awards | 15-00401.pdf
+[16:07:54]   [Phase 12] 495/499 | 19_CFTC_Guidance | cftc-proposes-amendments-to-rule-47
+[16:08:16]   [Phase 12] 496/499 | 15_FINRA_Regulatory_Notices | 15-19_FSI_comment.pdf
+[16:08:18]   [Phase 12] 497/499 | 12_FINRA_Arbitration_Awards | 16-02158.pdf
+[16:08:18]   [Phase 12] 498/499 | 03_FINRA_AWC | 2024081608301_20Ana_20Maria_20Dimco
+[16:08:19]   [Phase 12] 499/499 | 07_Practitioner_Commentary | memo_eversheds_06-28-23_0910_140470
+[16:23:25]   [Phase 12] Error (1/3): finra_regbi_2020065143601_20The_20GMS_20Group_2C_20LLC_20CRD_208000_20AWC_20lp.pdf — curl failed: 
+[16:23:25]   [Phase 12] Error (1/3): IA_6383_Final_2023.pdf — curl failed: 
+[16:23:25]   [Phase 12] Error (1/3): 19-02626.pdf — curl failed: 
+[16:23:57] Phase 12: DONE. 499/499 items saved.
+[16:23:57] 
+============================================================
+[16:23:57] Phase 13: 52 existing → target 250 (need 198 more)
+[16:23:57] ============================================================
+[16:23:57] Phase 13: processing up to 792 PDFs to generate 198 items
+[16:35:59]   [Phase 13] Error (1/3): ia-5336.pdf — curl failed: 
+[16:35:59]   [Phase 13] Error (1/3): 19-01006.pdf — curl failed: 
+[16:35:59]   [Phase 13] Error (1/3): 18-02976.pdf — curl failed: 
+[16:35:59]   [Phase 13] Error (1/3): 22-02741.pdf — curl failed: 
+[16:36:29]   [Phase 13]  53/250 | 12_FINRA_Arbitration_Awards | 19-01006.pdf
+[16:36:29]   [Phase 13]  54/250 | 12_FINRA_Arbitration_Awards | 22-02741.pdf
+[16:36:30]   [Phase 13]  55/250 | 12_FINRA_Arbitration_Awards | 18-02976.pdf
+[16:36:30]   [Phase 13]  56/250 | 02_SEC_Enforcement_Actions | ia-5336.pdf
+[16:51:54]   [Phase 13] Error (1/3): 22-02296.pdf — curl failed: 
+[16:51:54]   [Phase 13] Error (1/3): HHRG-118-BA16-Wstate-StarkJ-20240507.pdf — curl failed: 
+[16:51:54]   [Phase 13] Error (1/3): 23-01971.pdf — curl failed: 
+[16:51:54]   [Phase 13] Error (1/3): 16-01564.pdf — curl failed: 
+[16:52:24]   [Phase 13]  57/250 | 12_FINRA_Arbitration_Awards | 23-01971.pdf
+[16:52:24]   [Phase 13]  58/250 | 12_FINRA_Arbitration_Awards | 22-02296.pdf
+[16:52:25]   [Phase 13]  59/250 | 16_Congressional_Materials | HHRG-118-BA16-Wstate-StarkJ-2024050
+[16:52:26]   [Phase 13]  60/250 | 12_FINRA_Arbitration_Awards | 16-01564.pdf
+[17:07:46]   [Phase 13] Error (1/3): 18-00616.pdf — curl failed: 
+[17:07:46]   [Phase 13] Error (1/3): finra_regbi_2021071134401_20Jose_20M__20Candelario_20Padilla_20AWC_20lp_20_282023-1681086005178_29.pdf — curl failed: 
+[17:07:46]   [Phase 13] Error (1/3): 2022074525601_20Mundial_20Financial_20Group_2C_20LLC_20CRD_20149531_20AWC_20ks_20_282026-1768782001507_29.pdf — curl failed: 
+[17:07:46]   [Phase 13] Error (1/3): 21-03071.pdf — curl failed: 
+[17:08:15]   [Phase 13]  61/250 | 12_FINRA_Arbitration_Awards | 21-03071.pdf
+[17:08:17]   [Phase 13]  62/250 | 03_FINRA_AWC | 2022074525601_20Mundial_20Financial
+[17:08:17]   [Phase 13]  63/250 | 12_FINRA_Arbitration_Awards | 18-00616.pdf
+[17:08:18]   [Phase 13]  64/250 | 04_RegBI_Compliance_Guidance | finra_regbi_2021071134401_20Jose_20
+[17:08:40]   [Phase 13]  65/250 | 04_RegBI_Compliance_Guidance | finra_regbi_34-100618.pdf
+[17:08:42]   [Phase 13]  66/250 | 12_FINRA_Arbitration_Awards | 24-01761.pdf
+[17:08:43]   [Phase 13]  67/250 | 12_FINRA_Arbitration_Awards | 17-02626.pdf
+[17:08:46]   [Phase 13]  68/250 | 12_FINRA_Arbitration_Awards | 25-00220.pdf
+[17:25:51]   [Phase 13] Error (1/3): data-security-program-whitepaper-final-1.pdf — curl failed: 
+[17:25:51]   [Phase 13] Error (1/3): id-64bpm.pdf — curl failed: 
+[17:25:51]   [Phase 13] Error (1/3): 24-00271.pdf — curl failed: 
+[17:25:51]   [Phase 13] Error (1/3): finra_regbi_comp26161.pdf — curl failed: 
+[17:26:21]   [Phase 13]  69/250 | 12_FINRA_Arbitration_Awards | 24-00271.pdf
+[17:26:21]   [Phase 13]  70/250 | 09_Law_Firm_Memos | data-security-program-whitepaper-fi
+[17:26:24]   [Phase 13]  71/250 | 20_SEC_ALJ_OALJ_Decisions | id-64bpm.pdf
+[17:26:24]   [Phase 13]  72/250 | 04_RegBI_Compliance_Guidance | finra_regbi_comp26161.pdf
+[17:36:59]   [Phase 13] Error (1/3): 17-33_Caruso_comment.pdf — curl failed: 
+[17:36:59]   [Phase 13] Error (1/3): lawmemo_mliap-wrap-fee-program-brochure-adv2a.pdf — curl failed: 
+[17:36:59]   [Phase 13] Error (1/3): 19-01226.pdf — curl failed: 
+[17:36:59]   [Phase 13] Error (1/3): The_SECs_New_Private_Fund_Adviser_Rules_A_Guide_To_Compliance.pdf — curl failed: 
+[17:37:29]   [Phase 13]  73/250 | 09_Law_Firm_Memos | The_SECs_New_Private_Fund_Adviser_R
+[17:37:30]   [Phase 13]  74/250 | 15_FINRA_Regulatory_Notices | 17-33_Caruso_comment.pdf
+[17:37:31]   [Phase 13]  75/250 | 09_Law_Firm_Memos | lawmemo_mliap-wrap-fee-program-broc
+[17:37:32]   [Phase 13]  76/250 | 12_FINRA_Arbitration_Awards | 19-01226.pdf
+[17:53:19]   [Phase 13] Error (1/3): state8_ea20200409_consent_orders_annuities.pdf — curl failed: 
+[17:53:19]   [Phase 13] Error (1/3): ensuring-retirement-savers-have-fiduciary-rule-protections.pdf — curl failed: 
+[17:53:19]   [Phase 13] Error (1/3): 19-00421.pdf — curl failed: 
+[17:53:19]   [Phase 13] Error (1/3): 2024081111301_20Michael_20Cheng_20Ning_20CRD_201229733_20OHO_20Decision_20df_20_282026-1768177201925_29.pdf — curl failed: 
+[17:53:48]   [Phase 13]  77/250 | 12_FINRA_Arbitration_Awards | 19-00421.pdf
+[17:53:50]   [Phase 13]  78/250 | 08_State_Fiduciary_Rules | state8_ea20200409_consent_orders_an
+[17:53:51]   [Phase 13]  79/250 | 10_Academic_Articles | ensuring-retirement-savers-have-fid
+[17:53:53]   [Phase 13]  80/250 | 03_FINRA_AWC | 2024081111301_20Michael_20Cheng_20N
+[18:10:14]   [Phase 13] Error (1/3): awc_brave_September_2018_Disciplinary_Actions.pdf — curl failed: 
+[18:10:14]   [Phase 13] Error (1/3): ia-6407.pdf — curl failed: 
+[18:10:14]   [Phase 13] Error (1/3): OHO-Order-16-08-2014043020901_0_0_0.pdf — curl failed: 
+[18:10:14]   [Phase 13] Error (1/3): 17-03371.pdf — curl failed: 
+[18:10:44]   [Phase 13]  81/250 | 21_FINRA_OHO_Decisions | OHO-Order-16-08-2014043020901_0_0_0
+[18:10:45]   [Phase 13]  82/250 | 12_FINRA_Arbitration_Awards | 17-03371.pdf
+[18:10:45]   [Phase 13]  83/250 | 02_SEC_Enforcement_Actions | ia-6407.pdf
+[18:10:47]   [Phase 13]  84/250 | 03_FINRA_AWC | awc_brave_September_2018_Disciplina
+[18:11:08]   [Phase 13]  85/250 | 11_Case_Law | cl_2014_ca2_city_of_pontiac_v._ubs_
+[18:11:09]   [Phase 13]  86/250 | 12_FINRA_Arbitration_Awards | 24-01887.pdf
+[18:11:11]   [Phase 13]  87/250 | 11_Case_Law | FifthCir_ChamberCommerce_v_DOL_Vaca
+[18:11:12]   [Phase 13]  88/250 | 13_FINRA_Rulebook | Broker-Dealer-Recordkeeping-Require
+[18:27:15]   [Phase 13] Error (1/3): guidance2_cft-written-sifma-digital-assets-12-16-2025.pdf — curl failed: 
+[18:27:15]   [Phase 13] Error (1/3): 21-02101.pdf — curl failed: 
+[18:27:15]   [Phase 13] Error (1/3): 34-104158.pdf — curl failed: 
+[18:27:15]   [Phase 13] Error (1/3): ia-5477.pdf — curl failed: 
+[18:27:43]   [Phase 13]  89/250 | 02_SEC_Enforcement_Actions | 34-104158.pdf
+[18:27:45]   [Phase 13]  90/250 | 01_SEC_Guidance_NoAction_Int | guidance2_cft-written-sifma-digital
+[18:27:46]   [Phase 13]  91/250 | 02_SEC_Enforcement_Actions | ia-5477.pdf
+[18:27:46]   [Phase 13]  92/250 | 12_FINRA_Arbitration_Awards | 21-02101.pdf
+[18:37:59]   [Phase 13] Error (1/3): 20-01171.pdf — curl failed: 
+[18:37:59]   [Phase 13] Error (1/3): ia-4455.pdf — curl failed: 
+[18:37:59]   [Phase 13] Error (1/3): 25-02136.pdf — curl failed: 
+[18:37:59]   [Phase 13] Error (1/3): lawmemo_laby.pdf — curl failed: 
+[18:38:28]   [Phase 13]  93/250 | 12_FINRA_Arbitration_Awards | 25-02136.pdf
+[18:38:30]   [Phase 13]  94/250 | 02_SEC_Enforcement_Actions | ia-4455.pdf
+[18:38:31]   [Phase 13]  95/250 | 12_FINRA_Arbitration_Awards | 20-01171.pdf
+[18:38:31]   [Phase 13]  96/250 | 09_Law_Firm_Memos | lawmemo_laby.pdf
+[18:53:58]   [Phase 13] Error (1/3): 21-02261.pdf — curl failed: 
+[18:53:58]   [Phase 13] Error (1/3): 7_P_rflr-esg-and-responsible-institutional-investing.pdf — curl failed: 
+[18:53:58]   [Phase 13] Error (1/3): 25-00340.pdf — curl failed: 
+[18:53:58]   [Phase 13] Error (1/3): 34-104406.pdf — curl failed: 
+[18:54:28]   [Phase 13]  97/250 | 07_Practitioner_Commentary | 7_P_rflr-esg-and-responsible-instit
+[18:54:29]   [Phase 13]  98/250 | 12_FINRA_Arbitration_Awards | 25-00340.pdf
+[18:54:30]   [Phase 13]  99/250 | 12_FINRA_Arbitration_Awards | 21-02261.pdf
+[18:54:31]   [Phase 13] 100/250 | 02_SEC_Enforcement_Actions | 34-104406.pdf
+[19:10:59]   [Phase 13] Error (1/3): 17-20_NBP-Financial_comment.pdf — curl failed: 
+[19:10:59]   [Phase 13] Error (1/3): 20-00111.pdf — curl failed: 
+[19:10:59]   [Phase 13] Error (1/3): Issue-44-1-13-He-Liu.pdf — curl failed: 
+[19:10:59]   [Phase 13] Error (1/3): 15-00666.pdf — curl failed: 
+[19:11:30]   [Phase 13] 101/250 | 23_International_Comparative | Issue-44-1-13-He-Liu.pdf
+[19:11:32]   [Phase 13] 102/250 | 12_FINRA_Arbitration_Awards | 20-00111.pdf
+[19:11:33]   [Phase 13] 103/250 | 12_FINRA_Arbitration_Awards | 15-00666.pdf
+[19:11:36]   [Phase 13] 104/250 | 15_FINRA_Regulatory_Notices | 17-20_NBP-Financial_comment.pdf
+[19:11:54]   [Phase 13] 105/250 | 12_FINRA_Arbitration_Awards | 19-00056.pdf
+[19:11:56]   [Phase 13] 106/250 | 05_SEC_Exam_Findings | gap5_2026-exam-priorities.pdf
+[19:11:56]   [Phase 13] 107/250 | 15_FINRA_Regulatory_Notices | 15-10_IMS_comment.pdf
+[19:28:07]   [Phase 13] Error (1/3): Disciplinary_Actions_November_2022.pdf — curl failed: 
+[19:28:07]   [Phase 13] Error (1/3): guidance2_2024-annual-regulatory-oversight-report.pdf — curl failed: 
+[19:28:07]   [Phase 13] Error (1/3): gap3_2015_AC_Suitability_What_You_Need_to_Know_2.pdf — curl failed: 
+[19:28:07]   [Phase 13] Error (1/3): 25-00210.pdf — curl failed: 
+[19:28:37]   [Phase 13] 108/250 | 12_FINRA_Arbitration_Awards | 25-00210.pdf
+[19:28:39]   [Phase 13] 109/250 | 01_SEC_Guidance_NoAction_Int | guidance2_2024-annual-regulatory-ov
+[19:28:41]   [Phase 13] 110/250 | 12_FINRA_Arbitration_Awards | Disciplinary_Actions_November_2022.
+[19:28:42]   [Phase 13] 111/250 | 03_FINRA_AWC | gap3_2015_AC_Suitability_What_You_N
+[19:38:59]   [Phase 13] Error (1/3): 20-02386.pdf — curl failed: 
+[19:38:59]   [Phase 13] Error (1/3): 20-01571.pdf — curl failed: 
+[19:38:59]   [Phase 13] Error (1/3): 21-02506.pdf — curl failed: 
+[19:38:59]   [Phase 13] Error (1/3): 19-00101.pdf — curl failed: 
+[19:39:30]   [Phase 13] 112/250 | 12_FINRA_Arbitration_Awards | 19-00101.pdf
+[19:39:31]   [Phase 13] 113/250 | 12_FINRA_Arbitration_Awards | 21-02506.pdf
+[19:39:32]   [Phase 13] 114/250 | 12_FINRA_Arbitration_Awards | 20-02386.pdf
+[19:39:32]   [Phase 13] 115/250 | 12_FINRA_Arbitration_Awards | 20-01571.pdf
+[19:54:53]   [Phase 13] Error (1/3): ia-6020.pdf — curl failed: 
+[19:54:53]   [Phase 13] Error (1/3): 20-03241.pdf — curl failed: 
+[19:54:53]   [Phase 13] Error (1/3): 24-02281.pdf — curl failed: 
+[19:54:53]   [Phase 13] Error (1/3): 22-01426.pdf — curl failed: 
+[19:55:23]   [Phase 13] 116/250 | 12_FINRA_Arbitration_Awards | 20-03241.pdf
+[19:55:24]   [Phase 13] 117/250 | 12_FINRA_Arbitration_Awards | 22-01426.pdf
+[19:55:26]   [Phase 13] 118/250 | 12_FINRA_Arbitration_Awards | 24-02281.pdf
+[19:55:30]   [Phase 13] 119/250 | 02_SEC_Enforcement_Actions | ia-6020.pdf
+[20:11:18]   [Phase 13] Error (1/3): 20-02956.pdf — curl failed: 
+[20:11:18]   [Phase 13] Error (1/3): 25-00822_281_29.pdf — curl failed: 
+[20:11:18]   [Phase 13] Error (1/3): 19-01906.pdf — curl failed: 
+[20:11:18]   [Phase 13] Error (1/3): the-year-in-erisa-litigation-2024-trends-and-what-we-re-watching-in-2025.pdf — curl failed: 
+[20:11:49]   [Phase 13] 120/250 | 12_FINRA_Arbitration_Awards | 20-02956.pdf
+[20:11:50]   [Phase 13] 121/250 | 12_FINRA_Arbitration_Awards | 25-00822_281_29.pdf
+[20:11:50]   [Phase 13] 122/250 | 12_FINRA_Arbitration_Awards | 19-01906.pdf
+[20:11:50]   [Phase 13] 123/250 | 09_Law_Firm_Memos | the-year-in-erisa-litigation-2024-t
+[20:12:14]   [Phase 13] 124/250 | 03_FINRA_AWC | 2020066883201_20XP_20Investments_20
+[20:12:15]   [Phase 13] 125/250 | 12_FINRA_Arbitration_Awards | 23-00186.pdf
+[20:12:16]   [Phase 13] 126/250 | 13_FINRA_Rulebook | Recent-FINRA-Cases-Highlight-Rule-2
+[20:12:19]   [Phase 13] 127/250 | 03_FINRA_AWC | 2022077443302_20Sebastian_20G._20Bo
+[20:29:35]   [Phase 13] Error (1/3): 21-02511.pdf — curl failed: 
+[20:29:35]   [Phase 13] Error (1/3): 24-01616.pdf — curl failed: 
+[20:29:35]   [Phase 13] Error (1/3): 19-03276.pdf — curl failed: 
+[20:29:35]   [Phase 13] Error (1/3): 18-22_Thomson_Comment.pdf — curl failed: 
+[20:30:04]   [Phase 13] 128/250 | 12_FINRA_Arbitration_Awards | 19-03276.pdf
+[20:30:06]   [Phase 13] 129/250 | 12_FINRA_Arbitration_Awards | 21-02511.pdf
+[20:30:09]   [Phase 13] 130/250 | 12_FINRA_Arbitration_Awards | 24-01616.pdf
+[20:30:09]   [Phase 13] 131/250 | 15_FINRA_Regulatory_Notices | 18-22_Thomson_Comment.pdf
+[20:39:59]   [Phase 13] Error (1/3): 15-19_CLMventura_comment.pdf — curl failed: 
+[20:39:59]   [Phase 13] Error (1/3): ia-6443.pdf — curl failed: 
+[20:39:59]   [Phase 13] Error (1/3): 16-02896.pdf — curl failed: 
+[20:39:59]   [Phase 13] Error (1/3): 2024-Industry-Snapshot.pdf — curl failed: 
+[20:40:29]   [Phase 13] 132/250 | 02_SEC_Enforcement_Actions | ia-6443.pdf
+[20:40:32]   [Phase 13] 133/250 | 15_FINRA_Regulatory_Notices | 15-19_CLMventura_comment.pdf
+[20:40:33]   [Phase 13] 134/250 | 12_FINRA_Arbitration_Awards | 2024-Industry-Snapshot.pdf
+[20:40:34]   [Phase 13] 135/250 | 12_FINRA_Arbitration_Awards | 16-02896.pdf
+[20:55:45]   [Phase 13] Error (1/3): 2022-Enforcement-Report-FINAL.pdf — curl failed: 
+[20:55:45]   [Phase 13] Error (1/3): 20-02711.pdf — curl failed: 
+[20:55:45]   [Phase 13] Error (1/3): ADISA_25-06.pdf — curl failed: 
+[20:55:45]   [Phase 13] Error (1/3): 20-02796.pdf — curl failed: 
+[20:56:14]   [Phase 13] 136/250 | 12_FINRA_Arbitration_Awards | 20-02711.pdf
+[20:56:16]   [Phase 13] 137/250 | 15_FINRA_Regulatory_Notices | ADISA_25-06.pdf
+[20:56:16]   [Phase 13] 138/250 | 12_FINRA_Arbitration_Awards | 20-02796.pdf
+[20:56:17]   [Phase 13] 139/250 | 14_NASAA_State_Enforcement | 2022-Enforcement-Report-FINAL.pdf
+[21:11:58]   [Phase 13] Error (1/3): NASAA-Registration-Exemption-for-Investment-Advisers-to-Private-Funds-Model-Rule-Amended-Oct.-8-2013.pdf — curl failed: 
+[21:11:58]   [Phase 13] Error (1/3): awc_disciplinary-actions-february-2025.pdf — curl failed: 
+[21:11:58]   [Phase 13] Error (1/3): Langbein_Questioning_the_Trust.pdf — curl failed: 
+[21:11:58]   [Phase 13] Error (1/3): p121835.pdf — curl failed: 
+[21:12:28]   [Phase 13] 140/250 | 10_Academic_Articles | Langbein_Questioning_the_Trust.pdf
+[21:12:29]   [Phase 13] 141/250 | 14_NASAA_State_Enforcement | NASAA-Registration-Exemption-for-In
+[21:12:30]   [Phase 13] 142/250 | 03_FINRA_AWC | awc_disciplinary-actions-february-2
+[21:12:31]   [Phase 13] 143/250 | 13_FINRA_Rulebook | p121835.pdf
+[21:12:51]   [Phase 13] 144/250 | 12_FINRA_Arbitration_Awards | 25-01227.pdf
+[21:12:53]   [Phase 13] 145/250 | 15_FINRA_Regulatory_Notices | Managed_20Funds_20Association_20_5B
+[21:12:57]   [Phase 13] 146/250 | 12_FINRA_Arbitration_Awards | 21-00461.pdf
+[21:12:58]   [Phase 13] 147/250 | 21_FINRA_OHO_Decisions | finra-disciplinary-proceedings.pdf
+[21:13:16]   [Phase 13] 148/250 | 10_Academic_Articles | effective-disclosures-in-financial-
+[21:13:18]   [Phase 13] 149/250 | 12_FINRA_Arbitration_Awards | 19-01956.pdf
+[21:13:25]   [Phase 13] 150/250 | 09_Law_Firm_Memos | 9_L_Will-ERISAs-Fiduciary-Exemption
+[21:13:25]   [Phase 13] 151/250 | 10_Academic_Articles | acad10_00793.pdf
+[21:13:41]   [Phase 13] 152/250 | 12_FINRA_Arbitration_Awards | 23-01082_282_29.pdf
+[21:13:49]   [Phase 13] 153/250 | 12_FINRA_Arbitration_Awards | 20-02466.pdf
+[21:13:52]   [Phase 13] 154/250 | 03_FINRA_AWC | awc_2015_AC_Suitability_What_You_Ne
+[21:13:52]   [Phase 13] 155/250 | 06_DOL_Fiduciary | 6_D_00019.pdf
+[21:14:08]   [Phase 13] 156/250 | 16_Congressional_Materials | Manisha_20Padi_20Fiduciary_20Duty_2
+[21:14:13]   [Phase 13] 157/250 | 12_FINRA_Arbitration_Awards | 17-01226.pdf
+[21:14:17]   [Phase 13] 158/250 | 09_Law_Firm_Memos | 9_L_01-25-Reminder-Certain-US-Repor
+[21:14:17]   [Phase 13] 159/250 | 15_FINRA_Regulatory_Notices | ABA_20Business_20Law_20Committee_20
+[21:30:17]   [Phase 13] Error (1/3): 22-02941.pdf — curl failed: 
+[21:30:17]   [Phase 13] Error (1/3): 17-00081.pdf — curl failed: 
+[21:30:17]   [Phase 13] Error (1/3): 20-00301.pdf — curl failed: 
+[21:30:18]   [Phase 13] Error (1/3): ESMA35-43-3172_Guidelines_on_certain_aspects_of_the_MiFID_II_suitability_requirements.pdf — curl failed: 
+[21:30:46]   [Phase 13] 160/250 | 12_FINRA_Arbitration_Awards | 17-00081.pdf
+[21:30:49]   [Phase 13] 161/250 | 23_International_Comparative | ESMA35-43-3172_Guidelines_on_certai
+[21:30:50]   [Phase 13] 162/250 | 12_FINRA_Arbitration_Awards | 22-02941.pdf
+[21:30:50]   [Phase 13] 163/250 | 12_FINRA_Arbitration_Awards | 20-00301.pdf
+[21:40:59]   [Phase 13] Error (1/3): 25-00131.pdf — curl failed: 
+[21:40:59]   [Phase 13] Error (1/3): 21-00206.pdf — curl failed: 
+[21:40:59]   [Phase 13] Error (1/3): awc_brave_individual_2243829.pdf — curl failed: 
+[21:40:59]   [Phase 13] Error (1/3): Avenir_Extended_Hearing_Panel_Decision_092016.pdf — curl failed: 
+[21:41:31]   [Phase 13] 164/250 | 03_FINRA_AWC | awc_brave_individual_2243829.pdf
+[21:41:31]   [Phase 13] 165/250 | 12_FINRA_Arbitration_Awards | 21-00206.pdf
+[21:41:32]   [Phase 13] 166/250 | 21_FINRA_OHO_Decisions | Avenir_Extended_Hearing_Panel_Decis
+[21:41:35]   [Phase 13] 167/250 | 12_FINRA_Arbitration_Awards | 25-00131.pdf
+[21:49:05]   [Phase 13] Error (1/3): 2023079140201_20Chuck_20A._20Roberts_20CRD_202064602_20AWC_20lp_20_282025-1755303595510_29.pdf — curl failed: 
+[21:49:05]   [Phase 13] Error (1/3): 23-03031.pdf — curl failed: 
+[21:49:05]   [Phase 13] Error (1/3): 21-00591.pdf — curl failed: 
+[21:49:05]   [Phase 13] Error (1/3): 25-01654.pdf — curl failed: 
+[21:49:37]   [Phase 13] 168/250 | 12_FINRA_Arbitration_Awards | 25-01654.pdf
+[21:49:38]   [Phase 13] 169/250 | 03_FINRA_AWC | 2023079140201_20Chuck_20A._20Robert
+[21:49:38]   [Phase 13] 170/250 | 12_FINRA_Arbitration_Awards | 23-03031.pdf
+[21:49:41]   [Phase 13] 171/250 | 12_FINRA_Arbitration_Awards | 21-00591.pdf
+[22:06:13]   [Phase 13] Error (1/3): 21-01216.pdf — curl failed: 
+[22:06:13]   [Phase 13] Error (1/3): 22-00146.pdf — curl failed: 
+[22:06:13]   [Phase 13] Error (1/3): finra_regbi_2020065125001_20Supreme_20Alliance_20LLC_20CRD_2045348_20AWC_20ks.pdf — curl failed: 
+[22:06:13]   [Phase 13] Error (1/3): 16-03262.pdf — curl failed: 
+[22:06:43]   [Phase 13] 172/250 | 12_FINRA_Arbitration_Awards | 16-03262.pdf
+[22:06:43]   [Phase 13] 173/250 | 12_FINRA_Arbitration_Awards | 21-01216.pdf
+[22:06:45]   [Phase 13] 174/250 | 12_FINRA_Arbitration_Awards | 22-00146.pdf
+[22:06:48]   [Phase 13] 175/250 | 04_RegBI_Compliance_Guidance | finra_regbi_2020065125001_20Supreme
+[22:22:31]   [Phase 13] Error (1/3): 49EInvestment_20Adviser_20Regulation_20Christian_20WendellP3.pdf — curl failed: 
+[22:22:31]   [Phase 13] Error (1/3): 19-00941.pdf — curl failed: 
+[22:22:31]   [Phase 13] Error (1/3): reg_bi_34-86031_final_rule_2019.pdf — curl failed: 
+[22:22:32]   [Phase 13] Error (1/3): gap8_484_NY.pdf — curl failed: 
+[22:23:01]   [Phase 13] 176/250 | 12_FINRA_Arbitration_Awards | 19-00941.pdf
+[22:23:03]   [Phase 13] 177/250 | 09_Law_Firm_Memos | 49EInvestment_20Adviser_20Regulatio
+[22:23:04]   [Phase 13] 178/250 | 08_State_Fiduciary_Rules | gap8_484_NY.pdf
+[22:23:05]   [Phase 13] 179/250 | 01_SEC_Guidance_NoAction_Int | reg_bi_34-86031_final_rule_2019.pdf
+[22:39:32]   [Phase 13] Error (1/3): USCODE-2017-title15-chap2D-subchapII.pdf — curl failed: 
+[22:39:32]   [Phase 13] Error (1/3): case_091311aarpreport.pdf — curl failed: 
+[22:39:32]   [Phase 13] Error (1/3): 21-02686.pdf — curl failed: 
+[22:39:32]   [Phase 13] Error (1/3): 19-02291.pdf — curl failed: 
+[22:40:03]   [Phase 13] 180/250 | 16_Congressional_Materials | USCODE-2017-title15-chap2D-subchapI
+[22:40:03]   [Phase 13] 181/250 | 12_FINRA_Arbitration_Awards | 19-02291.pdf
+[22:40:04]   [Phase 13] 182/250 | 12_FINRA_Arbitration_Awards | 21-02686.pdf
+[22:40:05]   [Phase 13] 183/250 | 11_Case_Law | case_091311aarpreport.pdf
+[22:42:24]   [Phase 13] 184/250 | 23_International_Comparative | IOSCOPD798.pdf
+[22:42:24]   [Phase 13] 185/250 | 12_FINRA_Arbitration_Awards | 23-02226.pdf
+[22:42:27]   [Phase 13] 186/250 | 12_FINRA_Arbitration_Awards | 21-01101.pdf
+[22:42:30]   [Phase 13] 187/250 | 12_FINRA_Arbitration_Awards | 24-01642.pdf
+[22:59:16]   [Phase 13] Error (1/3): rule_filing_4511.pdf — curl failed: 
+[22:59:16]   [Phase 13] Error (1/3): 19-02741.pdf — curl failed: 
+[22:59:16]   [Phase 13] Error (1/3): pub-ch-collective-investment-previous.pdf — curl failed: 
+[22:59:16]   [Phase 13] Error (1/3): fiduciary-duty-recommendation-2013.pdf — curl failed: 
+[22:59:47]   [Phase 13] 188/250 | 13_FINRA_Rulebook | rule_filing_4511.pdf
+[22:59:47]   [Phase 13] 189/250 | 12_FINRA_Arbitration_Awards | 19-02741.pdf
+[22:59:48]   [Phase 13] 190/250 | 10_Academic_Articles | fiduciary-duty-recommendation-2013.
+[22:59:49]   [Phase 13] 191/250 | 18_OCC_Bank_Trust_Guidance | pub-ch-collective-investment-previo
+[23:00:08]   [Phase 13] 192/250 | 12_FINRA_Arbitration_Awards | 24-00971_283_29.pdf
+[23:00:11]   [Phase 13] 193/250 | 10_Academic_Articles | FiduciarySource_Guide.pdf
+[23:00:13]   [Phase 13] 194/250 | 11_Case_Law | cl_2018_ca9_ussec_v._e._andrew_scho
+[23:00:16]   [Phase 13] 195/250 | 12_FINRA_Arbitration_Awards | 20-02311.pdf
+[23:16:20]   [Phase 13] Error (1/3): 24-02046.pdf — curl failed: 
+[23:16:20]   [Phase 13] Error (1/3): OCC2015-12-PersonalFiduciaryActivities.pdf — curl failed: 
+[23:16:20]   [Phase 13] Error (1/3): 20-01556.pdf — curl failed: 
+[23:16:20]   [Phase 13] Error (1/3): 23-01761.pdf — curl failed: 
+[23:16:50]   [Phase 13] 196/250 | 12_FINRA_Arbitration_Awards | 23-01761.pdf
+[23:16:52]   [Phase 13] 197/250 | 12_FINRA_Arbitration_Awards | 20-01556.pdf
+[23:16:52]   [Phase 13] 198/250 | 18_OCC_Bank_Trust_Guidance | OCC2015-12-PersonalFiduciaryActivit
+[23:16:53]   [Phase 13] 199/250 | 12_FINRA_Arbitration_Awards | 24-02046.pdf
+[23:33:14]   [Phase 13] Error (1/3): 25-00464.pdf — curl failed: 
+[23:33:14]   [Phase 13] Error (1/3): 2024081858901_20Intesa_20Sanpaolo_20IMI_20Securities_20Corp._20CRD_2019418_20AWC_20ks_20_282025-1767226800251_29.pdf — curl failed: 
+[23:33:14]   [Phase 13] Error (1/3): cp22-24.pdf — curl failed: 
+[23:33:14]   [Phase 13] Error (1/3): 2022073414301_20BofA_20Securities_2C_20Inc._2C_20CRD_20283942_20AWC_20ks_20_282026-1768782001460_29.pdf — curl failed: 
+[23:33:44]   [Phase 13] 200/250 | 03_FINRA_AWC | 2024081858901_20Intesa_20Sanpaolo_2
+[23:33:45]   [Phase 13] 201/250 | 23_International_Comparative | cp22-24.pdf
+[23:33:46]   [Phase 13] 202/250 | 03_FINRA_AWC | 2022073414301_20BofA_20Securities_2
+[23:33:47]   [Phase 13] 203/250 | 12_FINRA_Arbitration_Awards | 25-00464.pdf
+[23:42:59]   [Phase 13] Error (1/3): 20-01431.pdf — curl failed: 
+[23:42:59]   [Phase 13] Error (1/3): 17-01371.pdf — curl failed: 
+[23:42:59]   [Phase 13] Error (1/3): ia-6146.pdf — curl failed: 
+[23:42:59]   [Phase 13] Error (1/3): 20-05_Fidelity_comment.pdf — curl failed: 
+[23:43:30]   [Phase 13] 204/250 | 12_FINRA_Arbitration_Awards | 17-01371.pdf
+[23:43:30]   [Phase 13] 205/250 | 12_FINRA_Arbitration_Awards | 20-01431.pdf
+[23:43:31]   [Phase 13] 206/250 | 02_SEC_Enforcement_Actions | ia-6146.pdf
+[23:43:32]   [Phase 13] 207/250 | 15_FINRA_Regulatory_Notices | 20-05_Fidelity_comment.pdf
+[23:59:58]   [Phase 13] Error (1/3): memo_k_l_dc_im_2018_session_vi.pdf — curl failed: 
+[23:59:58]   [Phase 13] Error (1/3): 18-13_NASAA_Comment.pdf — curl failed: 
+[23:59:58]   [Phase 13] Error (1/3): ia-4589.pdf — curl failed: 
+[23:59:59]   [Phase 13] Error (1/3): lawmemo_lo_im_070814_session_v.pdf — curl failed: 
+[00:00:30]   [Phase 13] 208/250 | 07_Practitioner_Commentary | memo_k_l_dc_im_2018_session_vi.pdf
+[00:00:32]   [Phase 13] 209/250 | 15_FINRA_Regulatory_Notices | 18-13_NASAA_Comment.pdf
+[00:00:33]   [Phase 13] 210/250 | 09_Law_Firm_Memos | lawmemo_lo_im_070814_session_v.pdf
+[00:00:36]   [Phase 13] 211/250 | 02_SEC_Enforcement_Actions | ia-4589.pdf
+[00:00:57]   [Phase 13] 212/250 | 12_FINRA_Arbitration_Awards | 24-02216.pdf
+[00:00:58]   [Phase 13] 213/250 | 11_Case_Law | cl_2020_ca3_united_states_v._steven
+[00:15:59]   [Phase 13] Error (1/3): 21-00156.pdf — curl failed: 
+[00:15:59]   [Phase 13] Error (1/3): 18-02991.pdf — curl failed: 
+[00:15:59]   [Phase 13] Error (1/3): 6_D_2025-02.pdf — curl failed: 
+[00:15:59]   [Phase 13] Error (1/3): acad10_s70420-216512.pdf — curl failed: 
+[00:16:28]   [Phase 13] 214/250 | 12_FINRA_Arbitration_Awards | 21-00156.pdf
+[00:16:31]   [Phase 13] 215/250 | 12_FINRA_Arbitration_Awards | 18-02991.pdf
+[00:16:31]   [Phase 13] 216/250 | 10_Academic_Articles | acad10_s70420-216512.pdf
+[00:16:32]   [Phase 13] 217/250 | 06_DOL_Fiduciary | 6_D_2025-02.pdf
+[00:33:47]   [Phase 13] Error (1/3): 19-02196.pdf — curl failed: 
+[00:33:47]   [Phase 13] Error (1/3): EA_34-100616_2024.pdf — curl failed: 
+[00:33:47]   [Phase 13] Error (1/3): 24-01711.pdf — curl failed: 
+[00:33:47]   [Phase 13] Error (1/3): case_zaun-final.pdf — curl failed: 
+[00:34:18]   [Phase 13] 218/250 | 12_FINRA_Arbitration_Awards | 19-02196.pdf
+[00:34:18]   [Phase 13] 219/250 | 11_Case_Law | case_zaun-final.pdf
+[00:34:19]   [Phase 13] 220/250 | 02_SEC_Enforcement_Actions | EA_34-100616_2024.pdf
+[00:34:20]   [Phase 13] 221/250 | 12_FINRA_Arbitration_Awards | 24-01711.pdf
+[00:43:59]   [Phase 13] Error (1/3): 21-01466.pdf — curl failed: 
+[00:43:59]   [Phase 13] Error (1/3): c10284.pdf — curl failed: 
+[00:43:59]   [Phase 13] Error (1/3): brave_case_govuscourtscacd975245341.pdf — curl failed: 
+[00:44:00]   [Phase 13] Error (1/3): 25-00791.pdf — curl failed: 
+[00:44:31]   [Phase 13] 222/250 | 12_FINRA_Arbitration_Awards | 21-01466.pdf
+[00:44:32]   [Phase 13] 223/250 | 11_Case_Law | brave_case_govuscourtscacd975245341
+[00:44:32]   [Phase 13] 224/250 | 10_Academic_Articles | c10284.pdf
+[00:44:32]   [Phase 13] 225/250 | 12_FINRA_Arbitration_Awards | 25-00791.pdf
+[01:00:04]   [Phase 13] Error (1/3): ia-6035.pdf — curl failed: 
+[01:00:04]   [Phase 13] Error (1/3): 19-02406.pdf — curl failed: 
+[01:00:04]   [Phase 13] Error (1/3): awc_brave_2022_Disciplinary_Actions_November_2022.pdf — curl failed: 
+[01:00:04]   [Phase 13] Error (1/3): ia-6918.pdf — curl failed: 
+[01:00:34]   [Phase 13] 226/250 | 02_SEC_Enforcement_Actions | ia-6035.pdf
+[01:00:34]   [Phase 13] 227/250 | 02_SEC_Enforcement_Actions | ia-6918.pdf
+[01:00:34]   [Phase 13] 228/250 | 12_FINRA_Arbitration_Awards | 19-02406.pdf
+[01:00:35]   [Phase 13] 229/250 | 03_FINRA_AWC | awc_brave_2022_Disciplinary_Actions
+[01:00:58]   [Phase 13] 230/250 | 09_Law_Firm_Memos | 9_L_SEC-and-DOL-Working-Together-on
+[01:00:58]   [Phase 13] 231/250 | 12_FINRA_Arbitration_Awards | 17-01771.pdf
+[01:00:59]   [Phase 13] 232/250 | 15_FINRA_Regulatory_Notices | 15-22_TDAmeritrade_comment.pdf
+[01:01:01]   [Phase 13] 233/250 | 01_SEC_Guidance_NoAction_Int | IA_6240_ProposedAdvisersAct_2023.pd
+[01:16:18]   [Phase 13] Error (1/3): 6_D_erisa-fidelity-bonding-requirements.pdf — curl failed: 
+[01:16:18]   [Phase 13] Error (1/3): 17-01806.pdf — curl failed: 
+[01:16:18]   [Phase 13] Error (1/3): awc_brave_2017_May_2017_Disiplinary_Actions.pdf — curl failed: 
+[01:16:18]   [Phase 13] Error (1/3): 2019061887701_20James_20Alan_20Schumaker_20CRD_206829407_20AWC_20va_20_282021-1616285994912_29.pdf — curl failed: 
+[01:16:48]   [Phase 13] 234/250 | 06_DOL_Fiduciary | 6_D_erisa-fidelity-bonding-requirem
+[01:16:50]   [Phase 13] 235/250 | 03_FINRA_AWC | awc_brave_2017_May_2017_Disiplinary
+[01:16:51]   [Phase 13] 236/250 | 12_FINRA_Arbitration_Awards | 17-01806.pdf
+[01:16:53]   [Phase 13] 237/250 | 15_FINRA_Regulatory_Notices | 2019061887701_20James_20Alan_20Schu
+[01:34:19]   [Phase 13] Error (1/3): 21-03066.pdf — curl failed: 
+[01:34:19]   [Phase 13] Error (1/3): 24-01874.pdf — curl failed: 
+[01:34:19]   [Phase 13] Error (1/3): 20-00886.pdf — curl failed: 
+[01:34:19]   [Phase 13] Error (1/3): 23-02951.pdf — curl failed: 
+[01:34:50]   [Phase 13] 238/250 | 12_FINRA_Arbitration_Awards | 20-00886.pdf
+[01:34:50]   [Phase 13] 239/250 | 12_FINRA_Arbitration_Awards | 21-03066.pdf
+[01:34:51]   [Phase 13] 240/250 | 12_FINRA_Arbitration_Awards | 24-01874.pdf
+[01:34:51]   [Phase 13] 241/250 | 12_FINRA_Arbitration_Awards | 23-02951.pdf
+[01:44:59]   [Phase 13] Error (1/3): 23-00431.pdf — curl failed: 
+[01:44:59]   [Phase 13] Error (1/3): 22-02421.pdf — curl failed: 
+[01:44:59]   [Phase 13] Error (1/3): 2025-NASAA-Enforcement-Report_FINAL.pdf — curl failed: 
+[01:44:59]   [Phase 13] Error (1/3): 16-01969.pdf — curl failed: 
+[01:45:32]   [Phase 13] 242/250 | 12_FINRA_Arbitration_Awards | 22-02421.pdf
+[01:45:33]   [Phase 13] 243/250 | 14_NASAA_State_Enforcement | 2025-NASAA-Enforcement-Report_FINAL
+[01:45:33]   [Phase 13] 244/250 | 12_FINRA_Arbitration_Awards | 23-00431.pdf
+[01:45:41]   [Phase 13] 245/250 | 12_FINRA_Arbitration_Awards | 16-01969.pdf
+[02:03:14]   [Phase 13] Error (1/3): 2018057277201_20Virtu_20Americas_20LLC_20CRD_20149823_20AWC_20kes_20_282025-1767226800258_29.pdf — curl failed: 
+[02:03:14]   [Phase 13] Error (1/3): 24-00245.pdf — curl failed: 
+[02:03:14]   [Phase 13] Error (1/3): 16-02710.pdf — curl failed: 
+[02:03:14]   [Phase 13] Error (1/3): finra_regbi_2020067795501_20Merrill_20Lynch_2C_20Pierce_2C_20Fenner_20_26_20Smith_20Incorporated_20CRD_207691_20AWC_20gg.pdf — curl failed: 
+[02:03:46]   [Phase 13] 246/250 | 12_FINRA_Arbitration_Awards | 16-02710.pdf
+[02:03:46]   [Phase 13] 247/250 | 04_RegBI_Compliance_Guidance | finra_regbi_2020067795501_20Merrill
+[02:03:47]   [Phase 13] 248/250 | 03_FINRA_AWC | 2018057277201_20Virtu_20Americas_20
+[02:03:47]   [Phase 13] 249/250 | 12_FINRA_Arbitration_Awards | 24-00245.pdf
+[02:04:11]   [Phase 13] 250/250 | 22_PIABA_Materials | 11-2513_Amicus_20Brief_20_PIABA_.pd
+[02:19:32]   [Phase 13] Error (1/3): 16-01519.pdf — curl failed: 
+[02:20:03] Phase 13: DONE. 250/250 items saved.
+[02:20:03] 
+============================================================
+[02:20:03] Phase 14: 14 existing → target 50 (need 36 more)
+[02:20:03] ============================================================
+[02:20:03] Phase 14: processing up to 144 PDFs to generate 36 items
+[02:36:00]   [Phase 14] Error (1/3): Regulatory-Notice-19-08.pdf — curl failed: 
+[02:36:00]   [Phase 14] Error (1/3): 25-00718.pdf — curl failed: 
+[02:36:00]   [Phase 14] Error (1/3): 20-02623.pdf — curl failed: 
+[02:36:00]   [Phase 14] Error (1/3): 16-01516.pdf — curl failed: 
+[02:36:28]   [Phase 14]  15/50 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-19-08.pdf
+[02:36:45]   [Phase 14]  16/50 | 12_FINRA_Arbitration_Awards | 20-02623.pdf
+[02:38:37]   [Phase 14] Error (2/3): 16-01516.pdf — curl failed: 
+[02:38:37]   [Phase 14] Error (2/3): 25-00718.pdf — curl failed: 
+[02:38:58]   [Phase 14] Error (1/3): Securities-newsletter-Dec-2017.pdf — curl failed: 
+[02:39:02]   [Phase 14]  17/50 | 03_FINRA_AWC | 2023079071301_20Independent_20Finan
+[02:39:19]   [Phase 14]  18/50 | 12_FINRA_Arbitration_Awards | 16-01516.pdf
+[02:39:29]   [Phase 14]  19/50 | 12_FINRA_Arbitration_Awards | 25-00718.pdf
+[02:39:34]   [Phase 14]  20/50 | 14_NASAA_State_Enforcement | Securities-newsletter-Dec-2017.pdf
+[02:39:35]   [Phase 14]  21/50 | 10_Academic_Articles | 690616.pdf
+[02:39:52]   [Phase 14]  22/50 | 12_FINRA_Arbitration_Awards | 23-03609.pdf
+[02:39:52]   [Phase 14]  23/50 | 10_Academic_Articles | naic-comparison-guide.pdf
+[02:39:57]   [Phase 14]  24/50 | 11_Case_Law | cl_2023_dcd_freeman_v._herring_netw
+[02:40:13]   [Phase 14]  25/50 | 07_Practitioner_Commentary | memo_willkie_private_equity_allocat
+[02:40:14]   [Phase 14] SKIP (validation): Unterminated string starting at: line 43 column 7 (char 8177)
+[02:40:17]   [Phase 14]  26/50 | 12_FINRA_Arbitration_Awards | 24-01888.pdf
+[02:40:37]   [Phase 14]  27/50 | 03_FINRA_AWC | 2022074096805_20Gustave_20J._20Schm
+[02:40:38]   [Phase 14] SKIP (validation): Unterminated string starting at: line 38 column 5 (char 8463)
+[02:40:49]   [Phase 14]  28/50 | 12_FINRA_Arbitration_Awards | 18-00641.pdf
+[02:40:54]   [Phase 14] SKIP (validation): Unterminated string starting at: line 50 column 7 (char 8473)
+[02:41:00]   [Phase 14]  29/50 | 03_FINRA_AWC | awc_202001_2025085940401_20Ricardo_
+[02:41:09]   [Phase 14]  30/50 | 04_RegBI_Compliance_Guidance | finra_regbi_2021072000902_20Union_2
+[02:41:19]   [Phase 14]  31/50 | 12_FINRA_Arbitration_Awards | 23-02451.pdf
+[02:41:21]   [Phase 14]  32/50 | 12_FINRA_Arbitration_Awards | 16-00781.pdf
+[02:41:32]   [Phase 14]  33/50 | 12_FINRA_Arbitration_Awards | 23-02756.pdf
+[02:41:34]   [Phase 14] SKIP (validation): Unterminated string starting at: line 48 column 23 (char 8272)
+[02:41:39]   [Phase 14]  34/50 | 08_State_Fiduciary_Rules | state_brave_fileServer.pdf
+[02:41:43]   [Phase 14]  35/50 | 03_FINRA_AWC | 2025085776501_20Eduardo_20Leon_20CR
+[02:41:55]   [Phase 14]  36/50 | 12_FINRA_Arbitration_Awards | Sanctions_Guidelines_2020.pdf
+[02:41:57]   [Phase 14]  37/50 | 12_FINRA_Arbitration_Awards | 22-01661.pdf
+[02:42:03]   [Phase 14]  38/50 | 14_NASAA_State_Enforcement | NASAA-Urges-Congress-to-Protect-Inv
+[02:42:05]   [Phase 14]  39/50 | 03_FINRA_AWC | 2022074525601_20Mundial_20Financial
+[02:42:22]   [Phase 14]  40/50 | 12_FINRA_Arbitration_Awards | 23-02521.pdf
+[02:42:25]   [Phase 14]  41/50 | 01_SEC_Guidance_NoAction_Int | im-guidance-2014-08.pdf
+[02:42:40]   [Phase 14]  42/50 | 12_FINRA_Arbitration_Awards | 17-03481.pdf
+[02:42:42]   [Phase 14] SKIP (validation): Unterminated string starting at: line 48 column 23 (char 8162)
+[02:42:48]   [Phase 14]  43/50 | 09_Law_Firm_Memos | 9_L_ERISASocialGoalsESGConsideratio
+[02:42:49]   [Phase 14]  44/50 | 12_FINRA_Arbitration_Awards | 18-01161.pdf
+[02:43:06]   [Phase 14]  45/50 | 02_SEC_Enforcement_Actions | ia-5248.pdf
+[02:43:14]   [Phase 14]  46/50 | 12_FINRA_Arbitration_Awards | 24-02091.pdf
+[02:43:16]   [Phase 14]  47/50 | 11_Case_Law | cl_2021_delch_lone_pine_resources_l
+[02:43:16]   [Phase 14]  48/50 | 03_FINRA_AWC | 2021071543601_20DriveWealth_2C_20LL
+[02:43:27]   [Phase 14]  49/50 | 12_FINRA_Arbitration_Awards | 19-01306.pdf
+[02:43:34]   [Phase 14]  50/50 | 12_FINRA_Arbitration_Awards | 25-00824.pdf
+[02:43:55] Phase 14: DONE. 50/50 items saved.
+[02:43:55] 
+============================================================
+[02:43:55] Phase 15: 13 existing → target 50 (need 37 more)
+[02:43:55] ============================================================
+[02:43:55] Phase 15: processing up to 148 PDFs to generate 37 items
+[02:44:11]   [Phase 15]  14/50 | 21_FINRA_OHO_Decisions | p122626_0.pdf
+[02:44:12]   [Phase 15]  15/50 | 12_FINRA_Arbitration_Awards | 25-00190.pdf
+[02:44:12]   [Phase 15]  16/50 | 06_DOL_Fiduciary | dol_final_2006-01.pdf
+[02:44:13]   [Phase 15]  17/50 | 12_FINRA_Arbitration_Awards | 23-02271.pdf
+[02:44:27]   [Phase 15]  18/50 | 12_FINRA_Arbitration_Awards | 23-01536.pdf
+[02:44:29]   [Phase 15]  19/50 | 12_FINRA_Arbitration_Awards | 24-00601.pdf
+[02:44:30]   [Phase 15]  20/50 | 14_NASAA_State_Enforcement | 2015-Enforcement-Report-on-2014-Dat
+[02:44:32]   [Phase 15]  21/50 | 12_FINRA_Arbitration_Awards | 20-01476.pdf
+[02:44:43]   [Phase 15]  22/50 | 12_FINRA_Arbitration_Awards | 24-00981.pdf
+[02:44:45]   [Phase 15]  23/50 | 12_FINRA_Arbitration_Awards | 23-01206.pdf
+[02:44:48]   [Phase 15]  24/50 | 23_International_Comparative | p2023-358632.pdf
+[02:44:50]   [Phase 15]  25/50 | 12_FINRA_Arbitration_Awards | 22-00526.pdf
+[02:45:01]   [Phase 15]  26/50 | 11_Case_Law | cl_2023_ca4_benjamin_reetz_v._aon_h
+[02:45:02]   [Phase 15]  27/50 | 11_Case_Law | cl_2019_dcd_taylor_v._federal_aviat
+[02:45:05]   [Phase 15]  28/50 | 12_FINRA_Arbitration_Awards | 16-00514.pdf
+[02:45:07]   [Phase 15]  29/50 | 15_FINRA_Regulatory_Notices | PKS_20FINRA_20Letter042025_1.pdf
+[02:45:18]   [Phase 15]  30/50 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-24-14.pdf
+[02:45:20]   [Phase 15]  31/50 | 02_SEC_Enforcement_Actions | ia-6095.pdf
+[02:45:22]   [Phase 15]  32/50 | 01_SEC_Guidance_NoAction_Int | guidance2_s71223-478771-1370434.pdf
+[02:45:23]   [Phase 15]  33/50 | 12_FINRA_Arbitration_Awards | 16-00229.pdf
+[02:45:38]   [Phase 15]  34/50 | 03_FINRA_AWC | 2024082010601_20Navaid_20Financial_
+[02:45:38]   [Phase 15]  35/50 | 12_FINRA_Arbitration_Awards | 19-00901.pdf
+[02:45:39]   [Phase 15]  36/50 | 08_State_Fiduciary_Rules | state8_fiduciary_duties.pdf
+[02:45:41]   [Phase 15]  37/50 | 12_FINRA_Arbitration_Awards | 24-00971_283_29.pdf
+[02:45:55]   [Phase 15]  38/50 | 16_Congressional_Materials | USCODE-2024-title15-chap2D-subchapI
+[02:45:56]   [Phase 15]  39/50 | 06_DOL_Fiduciary | 6_D_00341.pdf
+[02:45:56]   [Phase 15]  40/50 | 12_FINRA_Arbitration_Awards | 16-01549.pdf
+[02:46:01]   [Phase 15]  41/50 | 12_FINRA_Arbitration_Awards | 25-00978.pdf
+[02:46:12]   [Phase 15]  42/50 | 16_Congressional_Materials | CRPT-114hrpt527-pt1.pdf
+[02:46:14]   [Phase 15]  43/50 | 03_FINRA_AWC | 2020068547301_20Cantor_20Fitzgerald
+[02:46:15]   [Phase 15]  44/50 | 07_Practitioner_Commentary | memo_IGGA-ADV2A-2025.pdf
+[02:46:17]   [Phase 15]  45/50 | 09_Law_Firm_Memos | lawmemo_sec_issues_important_guidan
+[02:46:33]   [Phase 15]  46/50 | 10_Academic_Articles | 70173-geneva_5_conflicts_of_interes
+[02:46:34]   [Phase 15]  47/50 | 12_FINRA_Arbitration_Awards | 23-01481.pdf
+[02:46:34]   [Phase 15]  48/50 | 12_FINRA_Arbitration_Awards | 19-01066.pdf
+[02:46:35]   [Phase 15]  49/50 | 02_SEC_Enforcement_Actions | enf2015_277128.pdf
+[02:46:51]   [Phase 15]  50/50 | 12_FINRA_Arbitration_Awards | 23-02196.pdf
+[02:46:54] Phase 15: DONE. 50/50 items saved.
+[02:46:54] 
+============================================================
+[02:46:54] Phase 16: 23 existing → target 200 (need 177 more)
+[02:46:54] ============================================================
+[02:46:54] Phase 16: processing up to 708 PDFs to generate 177 items
+[02:47:24]   [Phase 16]  24/200 | 21_FINRA_OHO_Decisions | Disciplinary_Actions_August_2024.pd
+[02:47:25]   [Phase 16]  25/200 | 15_FINRA_Regulatory_Notices | 15-19_FSI_comment.pdf
+[02:47:25]   [Phase 16]  26/200 | 21_FINRA_OHO_Decisions | OHO-Order-16-08-2014043020901_0_0_0
+[02:47:26]   [Phase 16]  27/200 | 09_Law_Firm_Memos | Sidley-Marketing-PDF-SIFMA-Ask-FINR
+[02:47:53]   [Phase 16]  28/200 | 10_Academic_Articles | BFI_WP_2020128.pdf
+[02:47:54]   [Phase 16]  29/200 | 12_FINRA_Arbitration_Awards | Disciplinary_Actions_August_2020.pd
+[02:47:54]   [Phase 16]  30/200 | 12_FINRA_Arbitration_Awards | 17-03091.pdf
+[02:47:56]   [Phase 16]  31/200 | 12_FINRA_Arbitration_Awards | 25-01128.pdf
+[02:48:20]   [Phase 16]  32/200 | 12_FINRA_Arbitration_Awards | 18-01896.pdf
+[02:48:20]   [Phase 16]  33/200 | 09_Law_Firm_Memos | MiFID_20II_20-_20Investment_20advic
+[02:48:23]   [Phase 16]  34/200 | 05_SEC_Exam_Findings | gap5_adviser-due-diligence-alternat
+[02:48:23]   [Phase 16]  35/200 | 10_Academic_Articles | academic_ribstein.pdf
+[02:48:49]   [Phase 16]  36/200 | 03_FINRA_AWC | awc_crs_7691.pdf
+[02:48:50]   [Phase 16]  37/200 | 12_FINRA_Arbitration_Awards | 23-01956.pdf
+[02:48:51]   [Phase 16]  38/200 | 19_CFTC_Guidance | faq_cpocta.pdf
+[02:48:54]   [Phase 16]  39/200 | 12_FINRA_Arbitration_Awards | 19-01676.pdf
+[02:49:17]   [Phase 16]  40/200 | 12_FINRA_Arbitration_Awards | 18-02321.pdf
+[02:49:18]   [Phase 16]  41/200 | 12_FINRA_Arbitration_Awards | 25-00120.pdf
+[02:49:20]   [Phase 16]  42/200 | 03_FINRA_AWC | Thomas_20J._20Lykos_2C_20Jr._207-18
+[02:49:24]   [Phase 16]  43/200 | 12_FINRA_Arbitration_Awards | 16-02386.pdf
+[02:49:47]   [Phase 16]  44/200 | 09_Law_Firm_Memos | caccese_40372203.pdf
+[02:49:47]   [Phase 16]  45/200 | 12_FINRA_Arbitration_Awards | 20-02716.pdf
+[02:49:50]   [Phase 16]  46/200 | 12_FINRA_Arbitration_Awards | 19-02211.pdf
+[02:49:50]   [Phase 16]  47/200 | 12_FINRA_Arbitration_Awards | 18-03406.pdf
+[02:50:12]   [Phase 16]  48/200 | 12_FINRA_Arbitration_Awards | 22-00426.pdf
+[02:50:17]   [Phase 16]  49/200 | 12_FINRA_Arbitration_Awards | 21-02836.pdf
+[02:50:20]   [Phase 16]  50/200 | 12_FINRA_Arbitration_Awards | 17-01341.pdf
+[02:50:20]   [Phase 16]  51/200 | 12_FINRA_Arbitration_Awards | 22-00081.pdf
+[02:50:41]   [Phase 16]  52/200 | 12_FINRA_Arbitration_Awards | 22-00341.pdf
+[02:50:47]   [Phase 16]  53/200 | 12_FINRA_Arbitration_Awards | 16-01033.pdf
+[02:50:48]   [Phase 16]  54/200 | 02_SEC_Enforcement_Actions | ia-5129.pdf
+[02:50:48]   [Phase 16]  55/200 | 12_FINRA_Arbitration_Awards | 25-01023.pdf
+[02:51:09]   [Phase 16]  56/200 | 12_FINRA_Arbitration_Awards | 22-02351.pdf
+[02:51:12]   [Phase 16]  57/200 | 12_FINRA_Arbitration_Awards | 25-01654.pdf
+[02:51:14]   [Phase 16]  58/200 | 07_Practitioner_Commentary | 7_P_SIFMA-AMG-Regulation-Best-Inter
+[02:51:15]   [Phase 16]  59/200 | 12_FINRA_Arbitration_Awards | 25-00171.pdf
+[02:51:38]   [Phase 16]  60/200 | 12_FINRA_Arbitration_Awards | 20-01396_20_281_29.pdf
+[02:51:41]   [Phase 16]  61/200 | 06_DOL_Fiduciary | dol_final_erisa-fidelity-bonding-re
+[02:51:43]   [Phase 16]  62/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2017056224501_20SpeedTr
+[02:51:44]   [Phase 16]  63/200 | 12_FINRA_Arbitration_Awards | 24-02423.pdf
+[02:52:06]   [Phase 16]  64/200 | 21_FINRA_OHO_Decisions | oho-order-21-08-2019064313901.pdf
+[02:52:09]   [Phase 16]  65/200 | 21_FINRA_OHO_Decisions | July_2016_Disciplinary_Actions.pdf
+[02:52:10]   [Phase 16]  66/200 | 12_FINRA_Arbitration_Awards | 19-01006.pdf
+[02:52:11]   [Phase 16]  67/200 | 14_NASAA_State_Enforcement | model-rule-investment-adviser-recor
+[02:52:35]   [Phase 16]  68/200 | 12_FINRA_Arbitration_Awards | 22-02086.pdf
+[02:52:38]   [Phase 16]  69/200 | 10_Academic_Articles | c10284.pdf
+[02:52:39]   [Phase 16]  70/200 | 03_FINRA_AWC | 2017056726201_20Credit_20Suisse_20S
+[02:52:41]   [Phase 16]  71/200 | 12_FINRA_Arbitration_Awards | Disciplinary_Actions_September_2019
+[02:53:02]   [Phase 16]  72/200 | 12_FINRA_Arbitration_Awards | 18-01031.pdf
+[02:53:06]   [Phase 16]  73/200 | 03_FINRA_AWC | 032317_vaqnas.pdf
+[02:53:07]   [Phase 16]  74/200 | 16_Congressional_Materials | HHRG-119-BA00-Wstate-BaileyN-202512
+[02:53:09]   [Phase 16]  75/200 | 16_Congressional_Materials | PLAW-111publ203.pdf
+[02:53:29]   [Phase 16]  76/200 | 12_FINRA_Arbitration_Awards | 19-00296.pdf
+[02:53:34]   [Phase 16]  77/200 | 03_FINRA_AWC | 2023078547601_20Shaheen_20Ladhani_2
+[02:53:34]   [Phase 16]  78/200 | 01_SEC_Guidance_NoAction_Int | guidance2_s71223-478771-1370434.pdf
+[02:53:38]   [Phase 16]  79/200 | 12_FINRA_Arbitration_Awards | 23-00716.pdf
+[02:53:59]   [Phase 16]  80/200 | 05_SEC_Exam_Findings | OCIE_Priorities_2015.pdf
+[02:54:02]   [Phase 16]  81/200 | 10_Academic_Articles | 55084.pdf
+[02:54:04]   [Phase 16]  82/200 | 03_FINRA_AWC | Disciplinary_Actions_August_2023_re
+[02:54:09]   [Phase 16]  83/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2020065125001_20Supreme
+[02:54:28]   [Phase 16]  84/200 | 13_FINRA_Rulebook | naic--model-regulation-guidance-.pd
+[02:54:29]   [Phase 16]  85/200 | 15_FINRA_Regulatory_Notices | Regulatory-Notice-21-07.pdf
+[02:54:30]   [Phase 16]  86/200 | 02_SEC_Enforcement_Actions | ia-4604.pdf
+[02:54:40]   [Phase 16]  87/200 | 12_FINRA_Arbitration_Awards | 25-00792.pdf
+[02:54:54]   [Phase 16]  88/200 | 11_Case_Law | cl_2020_dcd_united_states_v._harmon
+[02:54:58]   [Phase 16]  89/200 | 12_FINRA_Arbitration_Awards | 25-01939.pdf
+[02:54:59]   [Phase 16]  90/200 | 12_FINRA_Arbitration_Awards | 22-00976.pdf
+[02:55:09]   [Phase 16]  91/200 | 12_FINRA_Arbitration_Awards | 23-01951.pdf
+[02:55:20]   [Phase 16]  92/200 | 03_FINRA_AWC | 2021070230801_20TD_20Ameritrade_20C
+[02:55:26]   [Phase 16]  93/200 | 12_FINRA_Arbitration_Awards | 19-01296.pdf
+[02:55:27]   [Phase 16]  94/200 | 03_FINRA_AWC | 2023078410201_20Wells_20Fargo_20Cle
+[02:55:38]   [Phase 16]  95/200 | 15_FINRA_Regulatory_Notices | GVC_20Capital_20LLC_20_25-06_20Supp
+[02:55:50]   [Phase 16]  96/200 | 12_FINRA_Arbitration_Awards | 23-01176.pdf
+[02:55:52]   [Phase 16]  97/200 | 21_FINRA_OHO_Decisions | OHO_Order_18-05_2014041860801.pdf
+[02:55:55]   [Phase 16]  98/200 | 21_FINRA_OHO_Decisions | OHO_Order_24-17_Lek_2021071137001.p
+[02:56:08]   [Phase 16]  99/200 | 12_FINRA_Arbitration_Awards | 21-00036.pdf
+[02:56:18]   [Phase 16] 100/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2021071134401_20Jose_20
+[02:56:18]   [Phase 16] 101/200 | 21_FINRA_OHO_Decisions | OHO_Order_24-18_Ginn_2021072167901.
+[02:56:25]   [Phase 16] 102/200 | 14_NASAA_State_Enforcement | index.php.pdf
+[02:56:36]   [Phase 16] 103/200 | 03_FINRA_AWC | gap3_nac_2018057235801_Patatian_202
+[02:56:47]   [Phase 16] 104/200 | 12_FINRA_Arbitration_Awards | 25-00492.pdf
+[02:56:50]   [Phase 16] 105/200 | 14_NASAA_State_Enforcement | 2023-Investment-Adviser-Coordinated
+[02:56:52]   [Phase 16] 106/200 | 04_RegBI_Compliance_Guidance | finra_regbi_34-100618.pdf
+[02:57:00]   [Phase 16] 107/200 | 12_FINRA_Arbitration_Awards | 24-02406.pdf
+[02:57:17]   [Phase 16] 108/200 | 12_FINRA_Arbitration_Awards | arbitration-claim-filing-guide.pdf
+[02:57:17]   [Phase 16] 109/200 | 12_FINRA_Arbitration_Awards | 18-01341.pdf
+[02:57:21]   [Phase 16] 110/200 | 12_FINRA_Arbitration_Awards | 2015_AC_Alternative_Investment_and_
+[02:57:28]   [Phase 16] 111/200 | 12_FINRA_Arbitration_Awards | 21-02101.pdf
+[02:57:44]   [Phase 16] 112/200 | 03_FINRA_AWC | awc_12_2024_December_Disciplinary_2
+[02:57:46]   [Phase 16] 113/200 | 10_Academic_Articles | academic_02646.pdf
+[02:57:49]   [Phase 16] 114/200 | 08_State_Fiduciary_Rules | state8_Final_20FAQ_20July_202021.pd
+[02:57:56]   [Phase 16] 115/200 | 10_Academic_Articles | w17929.pdf
+[02:58:11]   [Phase 16] 116/200 | 12_FINRA_Arbitration_Awards | 24-01069.pdf
+[02:58:13]   [Phase 16] 117/200 | 03_FINRA_AWC | legal-update--finra-releases-notice
+[02:58:15]   [Phase 16] 118/200 | 12_FINRA_Arbitration_Awards | 20-01591.pdf
+[02:58:24]   [Phase 16] 119/200 | 12_FINRA_Arbitration_Awards | 25-00504.pdf
+[02:58:37]   [Phase 16] 120/200 | 18_OCC_Bank_Trust_Guidance | joint20.pdf
+[02:58:43]   [Phase 16] 121/200 | 15_FINRA_Regulatory_Notices | Financial_20Profesisonals_20Coaliti
+[02:58:44]   [Phase 16] 122/200 | 09_Law_Firm_Memos | gap9_SEC_20Division_20of_20Examinat
+[02:58:51]   [Phase 16] 123/200 | 12_FINRA_Arbitration_Awards | 23-02971.pdf
+[02:59:05]   [Phase 16] 124/200 | 03_FINRA_AWC | 2025084815601_20Joseph_20E._20O_27S
+[02:59:11]   [Phase 16] 125/200 | 15_FINRA_Regulatory_Notices | Virtu_20Financial_7.31.23_23-10_044
+[02:59:14]   [Phase 16] 126/200 | 12_FINRA_Arbitration_Awards | 23-01343.pdf
+[02:59:17]   [Phase 16] 127/200 | 12_FINRA_Arbitration_Awards | 24-01464.pdf
+[02:59:33]   [Phase 16] 128/200 | 12_FINRA_Arbitration_Awards | 16-02503.pdf
+[02:59:39]   [Phase 16] 129/200 | 12_FINRA_Arbitration_Awards | 23-00457.pdf
+[02:59:43]   [Phase 16] 130/200 | 15_FINRA_Regulatory_Notices | ADISA_25-06.pdf
+[02:59:49]   [Phase 16] 131/200 | 10_Academic_Articles | 240604_What-it-means-to-be-a-retire
+[03:00:01]   [Phase 16] 132/200 | 10_Academic_Articles | academic_50469_prudenceofpassivitya
+[03:00:09]   [Phase 16] 133/200 | 22_PIABA_Materials | CLE-Confirming-and-Vacating-Arbitra
+[03:00:12]   [Phase 16] 134/200 | 07_Practitioner_Commentary | memo_overview-of-form-crs.pdf
+[03:00:16]   [Phase 16] 135/200 | 13_FINRA_Rulebook | Regulatory-Notice-17-18.pdf
+[03:00:30]   [Phase 16] 136/200 | 03_FINRA_AWC | 2022074391001_20NexPoint_20Securiti
+[03:00:37]   [Phase 16] 137/200 | 22_PIABA_Materials | PIABA_8.7.23_23-09_20Final.pdf
+[03:00:39]   [Phase 16] 138/200 | 14_NASAA_State_Enforcement | Stephen-Brey-March-2-2023-SEC-IAC-P
+[03:00:44]   [Phase 16] 139/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2017052494701_20LPL_20F
+[03:01:00]   [Phase 16] 140/200 | 07_Practitioner_Commentary | memo_csa_20121025_33-403_fiduciary-
+[03:01:04]   [Phase 16] 141/200 | 14_NASAA_State_Enforcement | 33-IA-Rules_General_USA2002.pdf
+[03:01:06]   [Phase 16] 142/200 | 12_FINRA_Arbitration_Awards | 23-02246.pdf
+[03:01:15]   [Phase 16] 143/200 | 18_OCC_Bank_Trust_Guidance | nr-ia-2004-93b.pdf
+[03:01:31]   [Phase 16] 144/200 | 03_FINRA_AWC | awc_w27577.pdf
+[03:01:32]   [Phase 16] 145/200 | 04_RegBI_Compliance_Guidance | regbi_brave_Schadle_Final_Web.pdf
+[03:01:35]   [Phase 16] 146/200 | 12_FINRA_Arbitration_Awards | 25-01299.pdf
+[03:01:46]   [Phase 16] 147/200 | 12_FINRA_Arbitration_Awards | w27577.pdf
+[03:01:59]   [Phase 16] 148/200 | 12_FINRA_Arbitration_Awards | 23-03236.pdf
+[03:01:59]   [Phase 16] 149/200 | 03_FINRA_AWC | awc_brave_2020_Disciplinary_Actions
+[03:02:03]   [Phase 16] 150/200 | 12_FINRA_Arbitration_Awards | 24-02398.pdf
+[03:02:15]   [Phase 16] 151/200 | 23_International_Comparative | 0220_new_fin_advice_regime_nz.pdf
+[03:02:26]   [Phase 16] 152/200 | 12_FINRA_Arbitration_Awards | 16-00673.pdf
+[03:02:29]   [Phase 16] 153/200 | 12_FINRA_Arbitration_Awards | 22-00761.pdf
+[03:02:32]   [Phase 16] 154/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2023077077001_20Regulus
+[03:02:43]   [Phase 16] 155/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2021070498105_20Matthew
+[03:02:55]   [Phase 16] 156/200 | 12_FINRA_Arbitration_Awards | 22-01926.pdf
+[03:02:58]   [Phase 16] 157/200 | 10_Academic_Articles | w17078.pdf
+[03:03:00]   [Phase 16] 158/200 | 12_FINRA_Arbitration_Awards | 24-02276.pdf
+[03:03:10]   [Phase 16] 159/200 | 15_FINRA_Regulatory_Notices | Phil_20Bak_4.7.2022_Finra_20Comment
+[03:03:25]   [Phase 16] 160/200 | 23_International_Comparative | portfolio-letter-advisers-intermedi
+[03:03:28]   [Phase 16] 161/200 | 15_FINRA_Regulatory_Notices | 15-37_FSI_comment.pdf
+[03:03:28]   [Phase 16] 162/200 | 12_FINRA_Arbitration_Awards | 23-02623.pdf
+[03:03:40]   [Phase 16] 163/200 | 21_FINRA_OHO_Decisions | OHO_Web_Decision-ProceedingNo.20110
+[03:03:52]   [Phase 16] 164/200 | 12_FINRA_Arbitration_Awards | 24-02188.pdf
+[03:03:55]   [Phase 16] 165/200 | 04_RegBI_Compliance_Guidance | finra_regbi_2022074289902_20Indepen
+[03:03:56]   [Phase 16] 166/200 | 09_Law_Firm_Memos | gap9_lornaschnaseFiduciary-Duty-Pap
+[03:04:09]   [Phase 16] 167/200 | 03_FINRA_AWC | 2023079728601_20Ishamael_20Williams
+[03:04:22]   [Phase 16] 168/200 | 03_FINRA_AWC | awc_individual_2793638.pdf
+[03:04:23]   [Phase 16] 169/200 | 12_FINRA_Arbitration_Awards | 18-02971.pdf
+[03:04:25]   [Phase 16] 170/200 | 12_FINRA_Arbitration_Awards | 21-01511.pdf
+[03:04:39]   [Phase 16] 171/200 | 01_SEC_Guidance_NoAction_Int | im-guidance-2014-11.pdf
+[03:04:49]   [Phase 16] 172/200 | 11_Case_Law | cl_2025_ca3_nra_group_llc_v._nicole
+[03:04:51]   [Phase 16] 173/200 | 02_SEC_Enforcement_Actions | ia-4934.pdf
+[03:04:54]   [Phase 16] 174/200 | 12_FINRA_Arbitration_Awards | 18-01196.pdf
+[03:05:07]   [Phase 16] 175/200 | 12_FINRA_Arbitration_Awards | 22-02906.pdf
+[03:05:12]   [Phase 16] 176/200 | 07_Practitioner_Commentary | 7_P_WA9-Managing-Conflicts-of-Inter
+[03:05:20]   [Phase 16] 177/200 | 15_FINRA_Regulatory_Notices | 18-08_David-Neuman_comment.pdf
+[03:05:23]   [Phase 16] 178/200 | 12_FINRA_Arbitration_Awards | 23-00781.pdf
+[03:05:36]   [Phase 16] 179/200 | 15_FINRA_Regulatory_Notices | 19-06_SIFMA_Comment.pdf
+[03:05:39]   [Phase 16] 180/200 | 03_FINRA_AWC | 2024081782501_20John_20Timothy_20Ri
+[03:05:50]   [Phase 16] 181/200 | 10_Academic_Articles | w16312.pdf
+[03:05:50]   [Phase 16] 182/200 | 03_FINRA_AWC | 2022073334701_20VSI_20Securities_2C
+[03:06:03]   [Phase 16] 183/200 | 12_FINRA_Arbitration_Awards | 20-00701.pdf
+[03:06:04]   [Phase 16] 184/200 | 11_Case_Law | cl_2022_ca2_united_states_v._blaszc
+[03:06:18]   [Phase 16] 185/200 | 12_FINRA_Arbitration_Awards | 23-01481.pdf
+[03:06:19]   [Phase 16] 186/200 | 15_FINRA_Regulatory_Notices | Joyce_20Beatty_20_5BUS_20House_20of
+[03:06:29]   [Phase 16] 187/200 | 02_SEC_Enforcement_Actions | ia-6940.pdf
+[03:06:32]   [Phase 16] 188/200 | 12_FINRA_Arbitration_Awards | 24-00358.pdf
+[03:06:48]   [Phase 16] 189/200 | 15_FINRA_Regulatory_Notices | 15-37-comment-chambers.pdf
+[03:06:50]   [Phase 16] 190/200 | 11_Case_Law | cl_2023_dcd_freeman_v._herring_netw
+[03:06:56]   [Phase 16] 191/200 | 12_FINRA_Arbitration_Awards | 24-00455.pdf
+[03:07:04]   [Phase 16] 192/200 | 02_SEC_Enforcement_Actions | IA_6819_2025.pdf
+[03:07:15]   [Phase 16] 193/200 | 19_CFTC_Guidance | bcs_qa_final.pdf
+[03:07:19]   [Phase 16] 194/200 | 12_FINRA_Arbitration_Awards | 19-03156.pdf
+[03:07:23]   [Phase 16] 195/200 | 12_FINRA_Arbitration_Awards | 21-01501.pdf
+[03:07:37]   [Phase 16] 196/200 | 03_FINRA_AWC | 2020065145802_20Oakwood_20Capital_2
+[03:07:43]   [Phase 16] 197/200 | 12_FINRA_Arbitration_Awards | 24-00061.pdf
+[03:07:49]   [Phase 16] 198/200 | 03_FINRA_AWC | 2020068547301_20Cantor_20Fitzgerald
+[03:07:53]   [Phase 16] 199/200 | 18_OCC_Bank_Trust_Guidance | 85fr77345.pdf
+[03:08:04]   [Phase 16] 200/200 | 01_SEC_Guidance_NoAction_Int | IA_6383_Final_2023.pdf
+[03:08:25] Phase 16: DONE. 200/200 items saved.
+[03:08:25] 
+[03:08:25] ALL PHASES COMPLETE
+[03:08:25]   Phase 12: 499/499
+[03:08:25]   Phase 13: 250/250
+[03:08:25]   Phase 14: 50/50
+[03:08:25]   Phase 15: 50/50
+[03:08:25]   Phase 16: 200/200

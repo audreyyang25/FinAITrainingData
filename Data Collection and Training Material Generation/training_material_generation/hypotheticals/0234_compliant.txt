@@ -1,0 +1,25 @@
+ID: 234
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Premier Investment Advisors (PIA), an RIA with $4.8B AUM, operates a model portfolio program using a mix of affiliated (PIA Asset Management LLC, which manages $1.2B) and unaffiliated sub-advisors. For clients electing the 'Premier Core' model, advisors may allocate 0–100% to PIA Asset Management, and 0–100% to unaffiliated managers (BlackRock, Vanguard, Dimensional). PIA's fee is 0.65% annually regardless of which sub-advisor is used. In 2023, PIA discovered an internal sales contest: advisors using >60% PIA Asset Management allocation in new accounts received priority assignment to high-net-worth clients (potential $150K+ in AUM). PIA immediately: (1) terminated the sales contest; (2) conducted a lookback review of 287 accounts opened in 12 months prior; (3) identified 31 accounts where the allocation to PIA Asset Management exceeded the client's stated risk tolerance by 15+ percentage points; (4) rebalanced those accounts at no cost and credited $47,000 in advisory fees to affected clients; (5) implemented quarterly model allocation audits by independent CCO; (6) updated client disclosures to explicitly state the conflict and the contest termination. A new 45-year-old client with $580,000 and aggressive risk tolerance was placed into a Premier Core model with 55% PIA Asset Management / 45% BlackRock Global Allocation Fund. The allocation was based on a documented risk profile assessment and the advisor conducted no contest-driven allocation bias.
+
+QUESTION
+--------
+Did PIA comply with Reg BI's conflict of interest obligation despite the terminated sales contest and affiliated asset manager allocation?
+
+ANSWER
+------
+Yes. Although the sales contest initially created a material conflict of interest incentivizing higher allocations to the affiliated manager, PIA satisfied the conflict obligation through comprehensive remediation. (1) Identification: the firm discovered and documented the conflict through compliance testing. (2) Disclosure: updated disclosures explicitly identified the prior conflict and contest termination. (3) Mitigation: PIA eliminated the conflict entirely (terminating the contest), remedianed past harm (rebalancing 31 accounts, crediting fees), and implemented prospective controls (quarterly allocation audits by CCO). For the new client, the 55/45 allocation aligned with the risk assessment and was not contest-driven, demonstrating that mitigation succeeded. Under Reg BI and SEC guidance, firms that identify conflicts, transparently disclose remediation, and implement ongoing controls satisfy the obligation even if conflicts previously existed. PIA's proactive identification, good-faith remediation, and enhanced controls exemplify compliant conflict management.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); Investment Advisers Act §206 fiduciary duty of loyalty; SEC Marketing Rule IA-5653 (narrative disclosure of conflicts in substantive form)
+
+KEY FACTOR
+----------
+Proactive identification of affiliate bias conflict, termination of the incentive structure, documented remediation of harm, and enhanced ongoing controls (quarterly audits, updated disclosures) cure and prevent future violation of the conflict obligation.

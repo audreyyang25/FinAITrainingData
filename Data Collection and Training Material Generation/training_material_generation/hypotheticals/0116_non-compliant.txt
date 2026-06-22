@@ -1,0 +1,27 @@
+ID: 116
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 72-year-old retired client with $180,000 in liquid savings and a fixed-income preference meets with a broker. The broker recommends a variable annuity with a 7% surrender charge, 1.5% annual mortality and expense (M&E) fee, and 0.85% subaccount fees, totaling ~3.35% annually. The client needs liquidity for potential medical expenses within 5 years. The broker documents only 'suitable' without discussing surrender charge risk or liquidity needs.
+
+QUESTION
+--------
+Does this variable annuity recommendation satisfy FINRA Rule 2330 suitability obligations?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330 and Reg BI.
+
+Rule 2330 requires advisors to have a reasonable basis for believing the variable annuity is suitable considering the customer's age, liquidity needs, time horizon, and investment objectives. Here, the 72-year-old client expressed a fixed-income preference and has stated medical liquidity needs within 5 years, yet the broker recommended a product with a 7-year surrender charge and 3.35% in layered fees—far exceeding typical low-cost bond funds (0.05%-0.20% expense ratios). The advisor failed to document consideration of these material facts and failed to explain why a variable annuity's complexity and cost structure serves the client's stated needs. This mirrors the FINRA 2018 AWC against LPL Financial (broker recommended variable annuities without adequate suitability analysis of liquidity constraints).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(a) (variable annuity suitability rule) and Reg BI § 240.15l-1(d)(1) (care obligation to understand client liquidity needs and product limitations).
+
+KEY FACTOR
+----------
+Client's explicit near-term liquidity need (5 years for medical expenses) is materially incompatible with a 7-year surrender charge and high fee structure; documentation lacks suitability reasoning.

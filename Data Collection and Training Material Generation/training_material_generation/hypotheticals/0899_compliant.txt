@@ -1,0 +1,27 @@
+ID: 899
+Source Folder: 19_CFTC_Guidance
+Topic: derivatives_suitability
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered CTA manages a futures trading program under CFTC Rule 4.7 for a pool consisting exclusively of QEPs, all of whom have securities and futures portfolios exceeding the current Portfolio Requirement financial thresholds. The program employs a contrarian strategy—entering long positions when contract prices decline and short positions when prices rise—consistent with documented retail futures trading behavioral patterns. A sophisticated institutional QEP participant with $12 million in qualifying assets challenges the suitability of the strategy after sustaining $215,000 in losses across seven trades, arguing the CTA failed to adequately explain downside risk. The CTA produces documentation showing that its pre-investment disclosure package included a detailed description of the contrarian strategy, historical drawdown scenarios, margin requirements, and signed acknowledgment from the participant, and that it filed all required CPO-PQR reports with the CFTC for the relevant reporting periods.
+
+QUESTION
+--------
+Did the CTA satisfy its disclosure and suitability obligations to the QEP institutional participant despite the participant's subsequent trading losses?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+For pools operated exclusively for QEPs under Rule 4.7, CTAs and CPOs benefit from reduced but not eliminated disclosure obligations, and the CTA here exceeded those requirements by providing detailed strategy-specific risk disclosures and obtaining written acknowledgment. CFTC research confirms that contrarian futures strategies—entering long on price declines and short on price increases—represent a recognized and documented trading approach, not an inherently unsuitable one for sophisticated participants. The institutional participant's $12 million QEP-qualifying portfolio, combined with the documented pre-investment disclosure and the CTA's current CPO-PQR reporting, demonstrates that the regulatory framework was followed even though losses materialized. Post-hoc trading losses do not retroactively establish a suitability violation where adequate disclosure and participant sophistication were present at inception.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Regulation 4.7(b) – Reduced Disclosure Requirements for QEP Pools; NFA Compliance Rule 2-30 – Suitability; CFTC Form CPO-PQR Filing Requirements
+
+KEY FACTOR
+----------
+Comprehensive pre-investment disclosure, written participant acknowledgment, and current regulatory reporting satisfy CTA suitability and disclosure obligations for a QEP pool even where the participant subsequently sustains significant trading losses.

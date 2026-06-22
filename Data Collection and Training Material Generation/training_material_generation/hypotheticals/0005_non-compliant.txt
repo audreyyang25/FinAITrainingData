@@ -1,0 +1,27 @@
+ID: 5
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $400,000 in a taxable brokerage account, moderate risk tolerance, and a stated goal of 'long-term growth with quarterly income' meets with a broker-dealer advisor. The advisor recommends a portfolio of 15 individual high-dividend stocks (dividend yield 4–6%), each generating approximately $2,667 in annual income, with significant concentration risk. The advisor notes that the portfolio has 'low correlation' but does not analyze or disclose that 8 of the 15 stocks are in the utilities and REITs sectors, creating significant sector concentration and interest-rate risk. The advisor receives a 0.75% commission on the trade.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+No, this violates the Reg BI care obligation.
+
+The recommendation violates Reg BI because: (1) although the advisor correctly identified the goal of income generation, the recommendation concentrates 53% of the portfolio in two sectors (utilities and REITs), creating material interest-rate and sector concentration risk inappropriate for a moderate-risk investor nearing retirement; (2) the advisor failed to analyze or disclose the sector concentration and corresponding risks, which is a core component of the 'risks' analysis required by Reg BI; (3) lower-risk, diversified alternatives existed—such as dividend-focused ETFs or balanced funds with similar yield profiles (3–4%) but far superior diversification and lower trading costs; (4) the individual stock approach generated unnecessary trading costs (0.75% commission) relative to diversified alternatives with 0.20–0.30% expense ratios; and (5) for a 58-year-old with moderate risk tolerance nearing retirement, concentrated equity risk contradicts the stated risk profile. The advisor failed to consider risks and available alternatives as required by the Reg BI care standard.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i); Reg BI care obligation—broker-dealer must consider 'risks' of the recommended investment and 'alternatives' at the time of recommendation.
+
+KEY FACTOR
+----------
+Material sector concentration (53% in utilities and REITs with interest-rate sensitivity) recommended to a moderate-risk investor without analysis or disclosure of concentration risks, and without considering diversified alternatives.

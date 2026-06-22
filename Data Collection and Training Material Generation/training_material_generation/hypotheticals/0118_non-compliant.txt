@@ -1,0 +1,27 @@
+ID: 118
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker recommends exchanging a client's existing B-share variable annuity (purchased 5 years ago, 6% surrender charge, $280,000 current value) for an L-share variable annuity from a different carrier (0% surrender charge, but 0.75% annual CDSC-equivalent fee for 10 years, 1.4% M&E, 0.70% subaccounts, totaling ~2.85% annually). The original B-share has 1% M&E and 0.55% subaccounts (~1.55% total). The client is a 62-year-old with $500,000 total assets and a 10-year time horizon. The broker documents that the new annuity is 'more liquid' but does not compare the net present value (NPV) of fees over the client's expected holding period.
+
+QUESTION
+--------
+Does this 1035 exchange recommendation comply with FINRA Rule 2330 and Reg BI?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330 and Reg BI.
+
+Although the L-share product offers technical liquidity (0% surrender charge), Rule 2330(b) requires advisors to evaluate whether the exchange is in the customer's best interest, considering total costs. Here, the client's 10-year holding period means the L-share's annual 2.85% fee will cost approximately $119,000 more than the B-share's 1.55% fee over that period (assuming 4% annual growth), even accounting for the avoided 6% surrender charge (~$16,800 at year 5). The advisor's rationale—'more liquid'—ignores the client's stated 10-year horizon, which is incompatible with liquidity-driven advice. The SEC 2016 guidance explicitly warns against suitability gaps in exchange recommendations where increased costs are not justified by demonstrable customer benefits. This mirrors SEC enforcement against variable annuity exchanges lacking cost-benefit analysis (e.g., In re Merrill Lynch, 2015).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b) (exchange suitability requires reasonable basis that exchange is in the customer's best interest) and Reg BI § 240.15l-1(d)(1) (cost and benefit analysis); SEC guidance on 1035 exchanges (IA Release No. 2356, 'Suitability Obligations of Broker-Dealers in Connection with Recommendations of Annuity Products').
+
+KEY FACTOR
+----------
+Advisor failed to perform or document a net present value comparison of total fees across the holding period; 'liquidity' rationale is pretextual given the client's 10-year time horizon and creates economically inferior outcome.

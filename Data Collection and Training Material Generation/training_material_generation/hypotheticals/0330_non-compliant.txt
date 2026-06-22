@@ -1,0 +1,25 @@
+ID: 330
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor manages discretionary account for widow, age 79, with $620,000 liquid net worth, living on Social Security ($2,100/month) plus portfolio withdrawals. Client's written investment policy: "preserve capital, target 4% annual income ($24,800), minimize volatility." Advisor holds discretionary authority per signed agreement. Over 12 months, advisor executed 156 trades (annualized turnover: 7.3×), generating $31,240 in commissions and bid-ask spreads (5.0% of average account balance). Cost-to-equity ratio: 5.0%. Client's actual portfolio return: −1.2% (S&P 500 +12.1%; 3-month Treasury +5.1%). Portfolio income actually generated: $8,200 (far below $24,800 target). Holdings shifted from 70% bonds/25% dividend stocks/5% cash to 15% bonds/55% growth stocks/30% short-term trading positions. Advisor's justification: "I am maximizing total return potential for future growth."
+
+QUESTION
+--------
+Does the 7.3× turnover and trading pattern violate FINRA Rule 2111(b) for this elderly, income-focused discretionary account?
+
+ANSWER
+------
+Yes, clear violation of FINRA Rule 2111(b) quantitative suitability. Multiple decisive factors establish unsuitable churning: (1) annualized turnover of 7.3× exceeds the 6× presumptive threshold, triggering strong churning inference; (2) cost-to-equity ratio of 5.0% combined with −1.2% return results in total economic loss including transaction costs; (3) qualitative drift from documented investment policy (capital preservation, 4% income target, low volatility) to aggressive growth strategy directly contradicts fiduciary discretionary authority; (4) portfolio income generation ($8,200) fell dramatically below stated need ($24,800); (5) shift to 30% short-term trading positions incompatible with stated objective and elderly widow's liquidity needs. The advisor's de facto control (discretionary authority) applied to unsuitable strategy (high-turnover growth trading) for mismatched client profile (79-year-old on fixed income). Cost of trading ($31,240) consumed potential income needed for living expenses. Clear churning pattern.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative analysis; discretionary account control test; qualitative misalignment
+
+KEY FACTOR
+----------
+7.3× turnover combined with 5.0% cost-to-equity, negative returns, and portfolio drift from documented income/preservation policy in discretionary elderly account establishes unsuitable churning.

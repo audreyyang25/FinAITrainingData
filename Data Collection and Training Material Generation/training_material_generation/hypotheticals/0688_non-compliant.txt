@@ -1,0 +1,27 @@
+ID: 688
+Source Folder: 10_Academic_Articles
+Topic: conflicts_research
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David Kowalski, a registered representative, manages accounts for 45 retail clients at a regional broker-dealer. His firm recently entered a revenue-sharing arrangement with Apex Growth Fund Family, under which the firm receives 25 basis points annually on all client assets directed to Apex funds. Kowalski recommends Apex Growth Fund Class A shares (5.75% front-end load, 0.95% expense ratio) to Robert and Lisa Pham, a married couple in their late 50s with a combined $275,000 in taxable brokerage accounts and moderate risk tolerance. A substantially similar Vanguard index fund is available on the firm's platform at no load with a 0.04% expense ratio. The firm's Form CRS mentions that it 'may receive payments from third-party fund families' but does not specify the Apex arrangement. Kowalski's written rationale states only that 'Apex Growth Fund has strong historical performance and active management benefits.'
+
+QUESTION
+--------
+Does the recommendation of the Apex fund satisfy Reg BI's Disclosure and Conflict of Interest Obligations given the revenue-sharing arrangement?
+
+ANSWER
+------
+No, this conduct violates SEC Rule 15l-1(a)(2)(i) – Reg BI Disclosure Obligation and SEC Rule 15l-1(a)(2)(iii) – Reg BI Conflict of Interest Obligation.
+
+Reg BI's Disclosure Obligation requires full and fair disclosure of all material facts relating to conflicts of interest associated with a recommendation. A generic statement that the firm 'may receive payments from third-party fund families' is insufficient to disclose a specific 25 basis point revenue-sharing arrangement that directly incentivizes the recommendation. Furthermore, the Conflict of Interest Obligation requires the firm to establish policies and procedures to identify and at minimum disclose, or eliminate, material conflicts. The massive cost differential (0.95% plus 5.75% load vs. 0.04% no-load) combined with the revenue-sharing arrangement creates a conflict that was neither adequately disclosed nor mitigated. This aligns with academic research on how inadequate disclosure of compensation conflicts fails to protect minority investors, as discussed in the investor protection literature.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) – Reg BI Disclosure Obligation; SEC Rule 15l-1(a)(2)(iii) – Reg BI Conflict of Interest Obligation
+
+KEY FACTOR
+----------
+The firm's generic Form CRS language was insufficient to disclose the specific revenue-sharing arrangement that directly incentivized the fund recommendation over a dramatically cheaper alternative.

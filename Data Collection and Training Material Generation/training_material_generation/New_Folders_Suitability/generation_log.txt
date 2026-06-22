@@ -1,0 +1,1711 @@
+[2026-03-26 02:05:03] ============================================================
+[2026-03-26 02:05:03] new_folders_generator.py starting
+[2026-03-26 02:05:03] Model: claude-opus-4-6
+[2026-03-26 02:05:03] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 02:05:03] 
+==================================================
+[2026-03-26 02:05:03] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 02:05:03]   24_Variable_Annuities P12: resuming from 0/50
+[2026-03-26 02:05:03]     batch ids 10000–10001 (0/50)
+[2026-03-26 02:06:09] ============================================================
+[2026-03-26 02:06:09] new_folders_generator.py starting
+[2026-03-26 02:06:09] Model: claude-opus-4-6
+[2026-03-26 02:06:09] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 02:06:09] 
+==================================================
+[2026-03-26 02:06:09] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 02:06:09]   24_Variable_Annuities P12: resuming from 2/50
+[2026-03-26 02:06:09]     batch ids 10002–10003 (2/50)
+[2026-03-26 02:07:25]     Saved. 24_Variable_Annuities P12: 4/50
+[2026-03-26 02:07:26]     batch ids 10004–10005 (4/50)
+[2026-03-26 02:08:53]     Saved. 24_Variable_Annuities P12: 6/50
+[2026-03-26 02:08:55]     batch ids 10006–10007 (6/50)
+[2026-03-26 02:10:10]     Saved. 24_Variable_Annuities P12: 8/50
+[2026-03-26 02:10:11]     batch ids 10008–10009 (8/50)
+[2026-03-26 02:11:09]     Saved. 24_Variable_Annuities P12: 10/50
+[2026-03-26 02:11:11]     batch ids 10010–10011 (10/50)
+[2026-03-26 03:01:23]   Hard timeout 120s (attempt 1/3), retrying...
+[2026-03-26 05:26:13] ============================================================
+[2026-03-26 05:26:13] new_folders_generator.py starting
+[2026-03-26 05:26:13] Model: claude-opus-4-6
+[2026-03-26 05:26:13] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 05:26:13] 
+==================================================
+[2026-03-26 05:26:13] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 05:26:13]   24_Variable_Annuities P12: resuming from 10/50
+[2026-03-26 05:26:13]     batch ids 10010–10011 (10/50)
+[2026-03-26 05:58:49]   TIMEOUT/empty (attempt 1/3), retrying in 15s...
+[2026-03-26 06:26:51]   TIMEOUT/empty (attempt 2/3), retrying in 15s...
+[2026-03-26 07:00:18]   TIMEOUT/empty (attempt 3/3), retrying in 15s...
+[2026-03-26 07:00:33]     Empty response (1/3), retrying in 10s...
+[2026-03-26 07:00:43]     batch ids 10010–10011 (10/50)
+[2026-03-26 07:53:09] ============================================================
+[2026-03-26 07:53:09] new_folders_generator.py starting
+[2026-03-26 07:53:09] Model: claude-opus-4-6
+[2026-03-26 07:53:09] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 07:53:09] 
+==================================================
+[2026-03-26 07:53:09] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 07:53:09]   24_Variable_Annuities P12: resuming from 10/50
+[2026-03-26 07:53:09]     batch ids 10010–10011 (10/50)
+[2026-03-26 08:09:33]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 08:26:17]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 08:38:10]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 08:38:20]     Empty response (1/3), retrying in 10s...
+[2026-03-26 08:38:30]     batch ids 10010–10011 (10/50)
+[2026-03-26 08:55:24]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 09:11:11]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 09:27:27]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 09:27:38]     Empty response (2/3), retrying in 10s...
+[2026-03-26 09:27:48]     batch ids 10010–10011 (10/50)
+[2026-03-26 09:43:38]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 10:01:02]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 10:02:17] ============================================================
+[2026-03-26 10:02:17] new_folders_generator.py starting
+[2026-03-26 10:02:17] Model: claude-opus-4-6
+[2026-03-26 10:02:17] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 10:02:17] 
+==================================================
+[2026-03-26 10:02:17] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 10:02:17]   24_Variable_Annuities P12: resuming from 10/50
+[2026-03-26 10:02:18]     batch ids 10010–10011 (10/50)
+[2026-03-26 10:02:34]     Saved. 24_Variable_Annuities P12: 12/50
+[2026-03-26 10:02:35]     batch ids 10012–10013 (12/50)
+[2026-03-26 10:03:36]     Saved. 24_Variable_Annuities P12: 12/50
+[2026-03-26 10:03:42]     batch ids 10012–10013 (12/50)
+[2026-03-26 10:04:00]     Saved. 24_Variable_Annuities P12: 14/50
+[2026-03-26 10:04:01]     batch ids 10014–10015 (14/50)
+[2026-03-26 10:12:11]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 10:12:11]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 10:29:51]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 10:29:51]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 10:46:31]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 10:46:31]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 10:46:41]     Empty response (1/3), retrying in 10s...
+[2026-03-26 10:46:41]     Empty response (1/3), retrying in 10s...
+[2026-03-26 10:46:51]     batch ids 10012–10013 (12/50)
+[2026-03-26 10:46:52]     batch ids 10014–10015 (14/50)
+[2026-03-26 10:47:15] ============================================================
+[2026-03-26 10:47:15] new_folders_generator.py starting
+[2026-03-26 10:47:15] Model: claude-opus-4-6
+[2026-03-26 10:47:15] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 10:47:15] 
+==================================================
+[2026-03-26 10:47:15] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 10:47:15]   24_Variable_Annuities P12: resuming from 14/50
+[2026-03-26 10:47:15]     batch ids 10014–10015 (14/50)
+[2026-03-26 11:03:12]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 11:13:12]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 11:29:02]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 11:29:12]     Empty response (1/3), retrying in 10s...
+[2026-03-26 11:29:22]     batch ids 10014–10015 (14/50)
+[2026-03-26 11:45:47]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 12:02:25]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 12:14:11]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 12:14:21]     Empty response (2/3), retrying in 10s...
+[2026-03-26 12:14:31]     batch ids 10014–10015 (14/50)
+[2026-03-26 12:30:08]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 12:47:26]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 13:17:50] ============================================================
+[2026-03-26 13:17:50] new_folders_generator.py starting
+[2026-03-26 13:17:50] Model: claude-opus-4-6
+[2026-03-26 13:17:50] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 13:17:50] 
+==================================================
+[2026-03-26 13:17:50] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 13:17:50]   24_Variable_Annuities P12: resuming from 14/50
+[2026-03-26 13:17:50]     batch ids 10014–10014 (14/50)
+[2026-03-26 13:18:39]     Saved. 24_Variable_Annuities P12: 15/50
+[2026-03-26 13:18:44]     batch ids 10015–10015 (15/50)
+[2026-03-26 13:19:24]     Saved. 24_Variable_Annuities P12: 16/50
+[2026-03-26 13:19:29]     batch ids 10016–10016 (16/50)
+[2026-03-26 13:20:06]     Saved. 24_Variable_Annuities P12: 17/50
+[2026-03-26 13:20:11]     batch ids 10017–10017 (17/50)
+[2026-03-26 13:20:55]     Saved. 24_Variable_Annuities P12: 18/50
+[2026-03-26 13:21:00]     batch ids 10018–10018 (18/50)
+[2026-03-26 13:21:48]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 4512)
+[2026-03-26 13:22:41]   JSON parse error (attempt 2): Unterminated string starting at: line 10 column 15 (char 3486)
+[2026-03-26 13:23:41]   JSON parse error (attempt 3): Unterminated string starting at: line 10 column 15 (char 3943)
+[2026-03-26 13:23:56]     Empty response (1/3), retrying in 10s...
+[2026-03-26 13:24:06]     batch ids 10018–10018 (18/50)
+[2026-03-26 13:24:54]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 3777)
+[2026-03-26 13:25:48]     Saved. 24_Variable_Annuities P12: 19/50
+[2026-03-26 13:25:53]     batch ids 10019–10019 (19/50)
+[2026-03-26 13:26:42]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 3452)
+[2026-03-26 13:27:33]     Saved. 24_Variable_Annuities P12: 20/50
+[2026-03-26 13:27:38]     batch ids 10020–10020 (20/50)
+[2026-03-26 13:28:15]     Saved. 24_Variable_Annuities P12: 21/50
+[2026-03-26 13:28:20]     batch ids 10021–10021 (21/50)
+[2026-03-26 13:28:59]     Saved. 24_Variable_Annuities P12: 22/50
+[2026-03-26 13:29:04]     batch ids 10022–10022 (22/50)
+[2026-03-26 13:45:14]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 14:02:51]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 14:03:50]     Saved. 24_Variable_Annuities P12: 23/50
+[2026-03-26 14:16:14]     batch ids 10023–10023 (23/50)
+[2026-03-26 14:32:15]   curl error rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 14:48:15]   curl error rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 15:04:53]   curl error rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 15:05:03]     Empty response (1/3), retrying in 10s...
+[2026-03-26 15:05:14]     batch ids 10023–10023 (23/50)
+[2026-03-26 16:35:37] ============================================================
+[2026-03-26 16:35:37] new_folders_generator.py starting
+[2026-03-26 16:35:37] Model: claude-opus-4-6
+[2026-03-26 16:35:37] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 16:35:37] 
+==================================================
+[2026-03-26 16:35:37] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 16:35:37]   24_Variable_Annuities P12: resuming from 23/50
+[2026-03-26 16:35:37]     batch ids 10023–10023 (23/50)
+[2026-03-26 16:51:11]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 17:07:39]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 17:08:39]   JSON parse error (attempt 3): Unterminated string starting at: line 10 column 15 (char 3707)
+[2026-03-26 17:25:10]     Empty response (1/3), retrying in 10s...
+[2026-03-26 17:25:21]     batch ids 10023–10023 (23/50)
+[2026-03-26 17:42:31]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 17:59:24]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 18:15:55]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 18:16:05]     Empty response (2/3), retrying in 10s...
+[2026-03-26 18:16:15]     batch ids 10023–10023 (23/50)
+[2026-03-26 18:33:41]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 18:50:19]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 19:06:22]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 19:06:32]     Skipping batch after 3 failures, advancing
+[2026-03-26 19:06:33]     batch ids 10023–10023 (23/50)
+[2026-03-26 19:07:15]     Saved. 24_Variable_Annuities P12: 24/50
+[2026-03-26 19:07:20]     batch ids 10024–10024 (24/50)
+[2026-03-26 19:23:28]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 19:40:40]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 19:58:09]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 19:58:19]     Empty response (1/3), retrying in 10s...
+[2026-03-26 19:58:29]     batch ids 10024–10024 (24/50)
+[2026-03-26 20:08:09]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 20:24:04]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 21:29:28] ============================================================
+[2026-03-26 21:29:28] new_folders_generator.py starting
+[2026-03-26 21:29:28] Model: claude-opus-4-6
+[2026-03-26 21:29:28] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-26 21:29:28] 
+==================================================
+[2026-03-26 21:29:28] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-26 21:29:28]   24_Variable_Annuities P12: resuming from 24/50
+[2026-03-26 21:29:28]     batch ids 10024–10024 (24/50)
+[2026-03-26 21:45:07]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 22:02:11]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 22:03:00]     Saved. 24_Variable_Annuities P12: 25/50
+[2026-03-26 22:03:06]     batch ids 10025–10025 (25/50)
+[2026-03-26 22:09:09]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-26 22:25:06]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-26 22:40:56]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-26 22:41:06]     Empty response (1/3), retrying in 10s...
+[2026-03-26 22:41:17]     batch ids 10025–10025 (25/50)
+[2026-03-26 22:57:00]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 09:54:37] ============================================================
+[2026-03-27 09:54:37] ============================================================
+[2026-03-27 09:54:37] new_folders_generator.py starting
+[2026-03-27 09:54:37] new_folders_generator.py starting
+[2026-03-27 09:54:37] Model: claude-opus-4-6
+[2026-03-27 09:54:37] Model: claude-opus-4-6
+[2026-03-27 09:54:37] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 09:54:37] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 09:54:37] 
+==================================================
+[2026-03-27 09:54:37] 
+==================================================
+[2026-03-27 09:54:37] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 09:54:37] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 09:54:37]   24_Variable_Annuities P12: resuming from 25/50
+[2026-03-27 09:54:37]   24_Variable_Annuities P12: resuming from 25/50
+[2026-03-27 09:54:37]     batch ids 10025–10025 (25/50)
+[2026-03-27 09:54:37]     batch ids 10025–10025 (25/50)
+[2026-03-27 09:55:23]     Saved. 24_Variable_Annuities P12: 26/50
+[2026-03-27 09:55:23]     Saved. 24_Variable_Annuities P12: 26/50
+[2026-03-27 09:55:28]     batch ids 10026–10026 (26/50)
+[2026-03-27 09:55:28]     batch ids 10026–10026 (26/50)
+[2026-03-27 09:56:14]     Saved. 24_Variable_Annuities P12: 27/50
+[2026-03-27 09:56:14]     Saved. 24_Variable_Annuities P12: 27/50
+[2026-03-27 09:56:20]     batch ids 10027–10027 (27/50)
+[2026-03-27 09:56:20]     batch ids 10027–10027 (27/50)
+[2026-03-27 09:57:08]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 4519)
+[2026-03-27 09:57:08]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 4519)
+[2026-03-27 09:58:03]     Saved. 24_Variable_Annuities P12: 28/50
+[2026-03-27 09:58:03]     Saved. 24_Variable_Annuities P12: 28/50
+[2026-03-27 09:58:08]     batch ids 10028–10028 (28/50)
+[2026-03-27 09:58:08]     batch ids 10028–10028 (28/50)
+[2026-03-27 09:58:46]     Saved. 24_Variable_Annuities P12: 29/50
+[2026-03-27 09:58:46]     Saved. 24_Variable_Annuities P12: 29/50
+[2026-03-27 09:58:52]     batch ids 10029–10029 (29/50)
+[2026-03-27 09:58:52]     batch ids 10029–10029 (29/50)
+[2026-03-27 09:59:33]     Saved. 24_Variable_Annuities P12: 30/50
+[2026-03-27 09:59:33]     Saved. 24_Variable_Annuities P12: 30/50
+[2026-03-27 09:59:38]     batch ids 10030–10030 (30/50)
+[2026-03-27 09:59:38]     batch ids 10030–10030 (30/50)
+[2026-03-27 10:00:24]     Saved. 24_Variable_Annuities P12: 31/50
+[2026-03-27 10:00:24]     Saved. 24_Variable_Annuities P12: 31/50
+[2026-03-27 10:00:29]     batch ids 10031–10031 (31/50)
+[2026-03-27 10:00:29]     batch ids 10031–10031 (31/50)
+[2026-03-27 10:01:13]     Saved. 24_Variable_Annuities P12: 32/50
+[2026-03-27 10:01:13]     Saved. 24_Variable_Annuities P12: 32/50
+[2026-03-27 10:01:18]     batch ids 10032–10032 (32/50)
+[2026-03-27 10:01:18]     batch ids 10032–10032 (32/50)
+[2026-03-27 10:02:05]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 4668)
+[2026-03-27 10:02:05]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 4668)
+[2026-03-27 10:03:00]     Saved. 24_Variable_Annuities P12: 33/50
+[2026-03-27 10:03:00]     Saved. 24_Variable_Annuities P12: 33/50
+[2026-03-27 10:03:05]     batch ids 10033–10033 (33/50)
+[2026-03-27 10:03:05]     batch ids 10033–10033 (33/50)
+[2026-03-27 10:03:43]     Saved. 24_Variable_Annuities P12: 34/50
+[2026-03-27 10:03:43]     Saved. 24_Variable_Annuities P12: 34/50
+[2026-03-27 10:03:48]     batch ids 10034–10034 (34/50)
+[2026-03-27 10:03:48]     batch ids 10034–10034 (34/50)
+[2026-03-27 10:04:33]     Saved. 24_Variable_Annuities P12: 35/50
+[2026-03-27 10:04:33]     Saved. 24_Variable_Annuities P12: 35/50
+[2026-03-27 10:04:38]     batch ids 10035–10035 (35/50)
+[2026-03-27 10:04:38]     batch ids 10035–10035 (35/50)
+[2026-03-27 10:05:24]     Saved. 24_Variable_Annuities P12: 36/50
+[2026-03-27 10:05:24]     Saved. 24_Variable_Annuities P12: 36/50
+[2026-03-27 10:05:29]     batch ids 10036–10036 (36/50)
+[2026-03-27 10:05:29]     batch ids 10036–10036 (36/50)
+[2026-03-27 10:21:21]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 10:21:21]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 10:38:29]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 10:38:29]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 10:55:28]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 10:55:28]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 10:55:38]     Empty response (1/3), retrying in 10s...
+[2026-03-27 10:55:38]     Empty response (1/3), retrying in 10s...
+[2026-03-27 10:55:48]     batch ids 10036–10036 (36/50)
+[2026-03-27 10:55:48]     batch ids 10036–10036 (36/50)
+[2026-03-27 11:12:03]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 11:12:03]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 11:12:59]     Saved. 24_Variable_Annuities P12: 37/50
+[2026-03-27 11:12:59]     Saved. 24_Variable_Annuities P12: 37/50
+[2026-03-27 11:13:05]     batch ids 10037–10037 (37/50)
+[2026-03-27 11:13:05]     batch ids 10037–10037 (37/50)
+[2026-03-27 11:28:43]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 11:28:43]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 11:45:36]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 11:45:36]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 12:01:35]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 12:01:35]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 12:01:45]     Empty response (1/3), retrying in 10s...
+[2026-03-27 12:01:45]     Empty response (1/3), retrying in 10s...
+[2026-03-27 12:01:55]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:01:55]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:07:15]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 12:07:15]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 12:08:15]   JSON parse error (attempt 2): Unterminated string starting at: line 10 column 15 (char 3601)
+[2026-03-27 12:08:15]   JSON parse error (attempt 2): Unterminated string starting at: line 10 column 15 (char 3601)
+[2026-03-27 12:08:31] ============================================================
+[2026-03-27 12:08:31] ============================================================
+[2026-03-27 12:08:31] new_folders_generator.py starting
+[2026-03-27 12:08:31] new_folders_generator.py starting
+[2026-03-27 12:08:31] Model: claude-opus-4-6
+[2026-03-27 12:08:31] Model: claude-opus-4-6
+[2026-03-27 12:08:31] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 12:08:31] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 12:08:31] 
+==================================================
+[2026-03-27 12:08:31] 
+==================================================
+[2026-03-27 12:08:31] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 12:08:31] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 12:08:31]   24_Variable_Annuities P12: resuming from 37/50
+[2026-03-27 12:08:31]   24_Variable_Annuities P12: resuming from 37/50
+[2026-03-27 12:08:31]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:08:31]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:09:22]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 3919)
+[2026-03-27 12:09:22]   JSON parse error (attempt 1): Unterminated string starting at: line 10 column 15 (char 3919)
+[2026-03-27 12:10:13]   JSON parse error (attempt 2): Unterminated string starting at: line 10 column 15 (char 4408)
+[2026-03-27 12:10:13]   JSON parse error (attempt 2): Unterminated string starting at: line 10 column 15 (char 4408)
+[2026-03-27 12:11:08]   JSON parse error (attempt 3): Unterminated string starting at: line 10 column 15 (char 3977)
+[2026-03-27 12:11:08]   JSON parse error (attempt 3): Unterminated string starting at: line 10 column 15 (char 3977)
+[2026-03-27 12:11:19] ============================================================
+[2026-03-27 12:11:19] ============================================================
+[2026-03-27 12:11:19] new_folders_generator.py starting
+[2026-03-27 12:11:19] new_folders_generator.py starting
+[2026-03-27 12:11:19] Model: claude-opus-4-6
+[2026-03-27 12:11:19] Model: claude-opus-4-6
+[2026-03-27 12:11:19] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 12:11:19] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 12:11:19] 
+==================================================
+[2026-03-27 12:11:19] 
+==================================================
+[2026-03-27 12:11:19] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 12:11:19] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 12:11:19]   24_Variable_Annuities P12: resuming from 37/50
+[2026-03-27 12:11:19]   24_Variable_Annuities P12: resuming from 37/50
+[2026-03-27 12:11:19]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:11:19]     batch ids 10037–10037 (37/50)
+[2026-03-27 12:12:02]     Saved. 24_Variable_Annuities P12: 38/50
+[2026-03-27 12:12:02]     Saved. 24_Variable_Annuities P12: 38/50
+[2026-03-27 12:12:07]     batch ids 10038–10038 (38/50)
+[2026-03-27 12:12:07]     batch ids 10038–10038 (38/50)
+[2026-03-27 12:12:57]     Saved. 24_Variable_Annuities P12: 39/50
+[2026-03-27 12:12:57]     Saved. 24_Variable_Annuities P12: 39/50
+[2026-03-27 12:13:02]     batch ids 10039–10039 (39/50)
+[2026-03-27 12:13:02]     batch ids 10039–10039 (39/50)
+[2026-03-27 12:13:50]     Saved. 24_Variable_Annuities P12: 40/50
+[2026-03-27 12:13:50]     Saved. 24_Variable_Annuities P12: 40/50
+[2026-03-27 12:13:56]     batch ids 10040–10040 (40/50)
+[2026-03-27 12:13:56]     batch ids 10040–10040 (40/50)
+[2026-03-27 12:14:47]     Saved. 24_Variable_Annuities P12: 41/50
+[2026-03-27 12:14:47]     Saved. 24_Variable_Annuities P12: 41/50
+[2026-03-27 12:14:53]     batch ids 10041–10041 (41/50)
+[2026-03-27 12:14:53]     batch ids 10041–10041 (41/50)
+[2026-03-27 12:15:42]     Saved. 24_Variable_Annuities P12: 42/50
+[2026-03-27 12:15:42]     Saved. 24_Variable_Annuities P12: 42/50
+[2026-03-27 12:15:47]     batch ids 10042–10042 (42/50)
+[2026-03-27 12:15:47]     batch ids 10042–10042 (42/50)
+[2026-03-27 12:16:33]     Saved. 24_Variable_Annuities P12: 43/50
+[2026-03-27 12:16:33]     Saved. 24_Variable_Annuities P12: 43/50
+[2026-03-27 12:16:38]     batch ids 10043–10043 (43/50)
+[2026-03-27 12:16:38]     batch ids 10043–10043 (43/50)
+[2026-03-27 12:17:36]     Saved. 24_Variable_Annuities P12: 44/50
+[2026-03-27 12:17:36]     Saved. 24_Variable_Annuities P12: 44/50
+[2026-03-27 12:17:41]     batch ids 10044–10044 (44/50)
+[2026-03-27 12:17:41]     batch ids 10044–10044 (44/50)
+[2026-03-27 12:33:37]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 12:33:37]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 12:49:21]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 12:49:21]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 13:07:21]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 13:07:21]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 13:07:31]     Empty response (1/3), retrying in 10s...
+[2026-03-27 13:07:31]     Empty response (1/3), retrying in 10s...
+[2026-03-27 13:07:41]     batch ids 10044–10044 (44/50)
+[2026-03-27 13:07:41]     batch ids 10044–10044 (44/50)
+[2026-03-27 13:24:25]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 13:24:25]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 13:25:20]     Saved. 24_Variable_Annuities P12: 45/50
+[2026-03-27 13:25:20]     Saved. 24_Variable_Annuities P12: 45/50
+[2026-03-27 13:25:26]     batch ids 10045–10045 (45/50)
+[2026-03-27 13:25:26]     batch ids 10045–10045 (45/50)
+[2026-03-27 13:26:05]     Saved. 24_Variable_Annuities P12: 46/50
+[2026-03-27 13:26:05]     Saved. 24_Variable_Annuities P12: 46/50
+[2026-03-27 13:26:10]     batch ids 10046–10046 (46/50)
+[2026-03-27 13:26:10]     batch ids 10046–10046 (46/50)
+[2026-03-27 13:27:05]     Saved. 24_Variable_Annuities P12: 47/50
+[2026-03-27 13:27:05]     Saved. 24_Variable_Annuities P12: 47/50
+[2026-03-27 13:27:10]     batch ids 10047–10047 (47/50)
+[2026-03-27 13:27:10]     batch ids 10047–10047 (47/50)
+[2026-03-27 13:28:05]     Saved. 24_Variable_Annuities P12: 48/50
+[2026-03-27 13:28:05]     Saved. 24_Variable_Annuities P12: 48/50
+[2026-03-27 13:28:10]     batch ids 10048–10048 (48/50)
+[2026-03-27 13:28:10]     batch ids 10048–10048 (48/50)
+[2026-03-27 13:28:55]     Saved. 24_Variable_Annuities P12: 49/50
+[2026-03-27 13:28:55]     Saved. 24_Variable_Annuities P12: 49/50
+[2026-03-27 13:29:00]     batch ids 10049–10049 (49/50)
+[2026-03-27 13:29:00]     batch ids 10049–10049 (49/50)
+[2026-03-27 13:29:40]     Saved. 24_Variable_Annuities P12: 50/50
+[2026-03-27 13:29:40]     Saved. 24_Variable_Annuities P12: 50/50
+[2026-03-27 13:29:45]   24_Variable_Annuities P12: COMPLETE (50 items)
+[2026-03-27 13:29:45]   24_Variable_Annuities P12: COMPLETE (50 items)
+[2026-03-27 13:29:45]   24_Variable_Annuities P13: resuming from 0/25
+[2026-03-27 13:29:45]   24_Variable_Annuities P13: resuming from 0/25
+[2026-03-27 13:29:45]     batch ids 20000–20000 (0/25)
+[2026-03-27 13:29:45]     batch ids 20000–20000 (0/25)
+[2026-03-27 13:30:49]     Saved. 24_Variable_Annuities P13: 1/25
+[2026-03-27 13:30:49]     Saved. 24_Variable_Annuities P13: 1/25
+[2026-03-27 13:30:54]     batch ids 20001–20001 (1/25)
+[2026-03-27 13:30:54]     batch ids 20001–20001 (1/25)
+[2026-03-27 13:32:01]     Saved. 24_Variable_Annuities P13: 2/25
+[2026-03-27 13:32:01]     Saved. 24_Variable_Annuities P13: 2/25
+[2026-03-27 13:32:06]     batch ids 20002–20002 (2/25)
+[2026-03-27 13:32:06]     batch ids 20002–20002 (2/25)
+[2026-03-27 13:33:19]     Saved. 24_Variable_Annuities P13: 3/25
+[2026-03-27 13:33:19]     Saved. 24_Variable_Annuities P13: 3/25
+[2026-03-27 13:33:25]     batch ids 20003–20003 (3/25)
+[2026-03-27 13:33:25]     batch ids 20003–20003 (3/25)
+[2026-03-27 13:34:21]     Saved. 24_Variable_Annuities P13: 4/25
+[2026-03-27 13:34:21]     Saved. 24_Variable_Annuities P13: 4/25
+[2026-03-27 13:34:26]     batch ids 20004–20004 (4/25)
+[2026-03-27 13:34:26]     batch ids 20004–20004 (4/25)
+[2026-03-27 13:35:36]     Saved. 24_Variable_Annuities P13: 5/25
+[2026-03-27 13:35:36]     Saved. 24_Variable_Annuities P13: 5/25
+[2026-03-27 13:35:41]     batch ids 20005–20005 (5/25)
+[2026-03-27 13:35:41]     batch ids 20005–20005 (5/25)
+[2026-03-27 13:36:53]     Saved. 24_Variable_Annuities P13: 6/25
+[2026-03-27 13:36:53]     Saved. 24_Variable_Annuities P13: 6/25
+[2026-03-27 13:36:58]     batch ids 20006–20006 (6/25)
+[2026-03-27 13:36:58]     batch ids 20006–20006 (6/25)
+[2026-03-27 13:38:02]     Saved. 24_Variable_Annuities P13: 7/25
+[2026-03-27 13:38:02]     Saved. 24_Variable_Annuities P13: 7/25
+[2026-03-27 13:38:07]     batch ids 20007–20007 (7/25)
+[2026-03-27 13:38:07]     batch ids 20007–20007 (7/25)
+[2026-03-27 13:55:20]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 13:55:20]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 14:11:37]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 14:11:37]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 14:14:44]     Saved. 24_Variable_Annuities P13: 8/25
+[2026-03-27 14:14:44]     Saved. 24_Variable_Annuities P13: 8/25
+[2026-03-27 14:14:49]     batch ids 20008–20008 (8/25)
+[2026-03-27 14:14:49]     batch ids 20008–20008 (8/25)
+[2026-03-27 14:30:25]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 14:30:25]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 14:46:25]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 14:46:25]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 15:03:09]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 15:03:09]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 15:03:19]     Empty response (1/3), retrying in 10s...
+[2026-03-27 15:03:19]     Empty response (1/3), retrying in 10s...
+[2026-03-27 15:03:29]     batch ids 20008–20008 (8/25)
+[2026-03-27 15:03:29]     batch ids 20008–20008 (8/25)
+[2026-03-27 15:15:10]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 15:15:10]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 15:32:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 15:32:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 15:33:40]     Saved. 24_Variable_Annuities P13: 9/25
+[2026-03-27 15:33:40]     Saved. 24_Variable_Annuities P13: 9/25
+[2026-03-27 15:48:51]     batch ids 20009–20009 (9/25)
+[2026-03-27 15:48:51]     batch ids 20009–20009 (9/25)
+[2026-03-27 16:06:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 16:06:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 16:16:10]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 16:16:10]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 16:32:11]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 16:32:11]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 16:32:21]     Empty response (1/3), retrying in 10s...
+[2026-03-27 16:32:21]     Empty response (1/3), retrying in 10s...
+[2026-03-27 16:32:32]     batch ids 20009–20009 (9/25)
+[2026-03-27 16:32:32]     batch ids 20009–20009 (9/25)
+[2026-03-27 16:48:04]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 16:48:04]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 16:48:14]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 16:48:14]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 16:48:45]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 16:48:45]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:05:16]     Empty response (2/3), retrying in 10s...
+[2026-03-27 17:05:16]     Empty response (2/3), retrying in 10s...
+[2026-03-27 17:05:27]     batch ids 20009–20009 (9/25)
+[2026-03-27 17:05:27]     batch ids 20009–20009 (9/25)
+[2026-03-27 17:05:27]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:05:27]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:30:10]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 17:30:10]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 17:30:21]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:30:21]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:30:51]     Skipping batch after 3 failures, advancing
+[2026-03-27 17:30:51]     Skipping batch after 3 failures, advancing
+[2026-03-27 17:30:51]     batch ids 20009–20009 (9/25)
+[2026-03-27 17:30:51]     batch ids 20009–20009 (9/25)
+[2026-03-27 17:30:51]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:30:51]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:47:02]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 17:47:02]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 18:02:56]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 18:02:56]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 18:03:26]     Empty response (1/3), retrying in 10s...
+[2026-03-27 18:03:26]     Empty response (1/3), retrying in 10s...
+[2026-03-27 18:03:36]     batch ids 20009–20009 (9/25)
+[2026-03-27 18:03:36]     batch ids 20009–20009 (9/25)
+[2026-03-27 18:03:36]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 18:03:36]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 18:37:15]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 18:37:15]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 18:54:35]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 18:54:35]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 18:54:45]     Empty response (2/3), retrying in 10s...
+[2026-03-27 18:54:45]     Empty response (2/3), retrying in 10s...
+[2026-03-27 18:54:56]     batch ids 20009–20009 (9/25)
+[2026-03-27 18:54:56]     batch ids 20009–20009 (9/25)
+[2026-03-27 19:10:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 19:10:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 19:28:14]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 19:28:14]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 19:28:25]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 19:28:25]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 19:28:55]     Skipping batch after 3 failures, advancing
+[2026-03-27 19:28:55]     Skipping batch after 3 failures, advancing
+[2026-03-27 19:28:55]     batch ids 20009–20009 (9/25)
+[2026-03-27 19:28:55]     batch ids 20009–20009 (9/25)
+[2026-03-27 19:44:42]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 19:44:42]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 20:02:56]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 20:02:56]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 20:06:02]     Saved. 24_Variable_Annuities P13: 10/25
+[2026-03-27 20:06:02]     Saved. 24_Variable_Annuities P13: 10/25
+[2026-03-27 20:22:48]     batch ids 20010–20010 (10/25)
+[2026-03-27 20:22:48]     batch ids 20010–20010 (10/25)
+[2026-03-27 20:39:48]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 20:39:48]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 20:40:15]   API error: api_error — Internal server error
+[2026-03-27 20:40:15]   API error: api_error — Internal server error
+[2026-03-27 20:55:56]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 20:55:56]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 20:56:06]     Empty response (1/3), retrying in 10s...
+[2026-03-27 20:56:06]     Empty response (1/3), retrying in 10s...
+[2026-03-27 20:56:17]     batch ids 20010–20010 (10/25)
+[2026-03-27 20:56:17]     batch ids 20010–20010 (10/25)
+[2026-03-27 20:56:17]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 20:56:17]   API error: overloaded_error — Overloaded. https://docs.claude.com/en/api/errors
+[2026-03-27 21:13:21]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 21:13:21]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 21:31:12]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 21:31:12]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 21:31:22]     Empty response (2/3), retrying in 10s...
+[2026-03-27 21:31:22]     Empty response (2/3), retrying in 10s...
+[2026-03-27 21:31:32]     batch ids 20010–20010 (10/25)
+[2026-03-27 21:31:32]     batch ids 20010–20010 (10/25)
+[2026-03-27 21:48:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 21:48:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 22:04:08]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 22:04:08]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 22:06:25]     Saved. 24_Variable_Annuities P13: 11/25
+[2026-03-27 22:06:25]     Saved. 24_Variable_Annuities P13: 11/25
+[2026-03-27 22:06:30]     batch ids 20011–20011 (11/25)
+[2026-03-27 22:06:30]     batch ids 20011–20011 (11/25)
+[2026-03-27 22:23:12]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 22:23:12]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 22:39:36]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 22:39:36]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 22:56:58]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 22:56:58]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 22:57:08]     Empty response (1/3), retrying in 10s...
+[2026-03-27 22:57:08]     Empty response (1/3), retrying in 10s...
+[2026-03-27 22:57:18]     batch ids 20011–20011 (11/25)
+[2026-03-27 22:57:18]     batch ids 20011–20011 (11/25)
+[2026-03-27 23:07:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 23:07:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 23:23:19]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 23:23:19]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-27 23:39:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 23:39:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-27 23:40:04]     Empty response (2/3), retrying in 10s...
+[2026-03-27 23:40:04]     Empty response (2/3), retrying in 10s...
+[2026-03-27 23:40:14]     batch ids 20011–20011 (11/25)
+[2026-03-27 23:40:14]     batch ids 20011–20011 (11/25)
+[2026-03-27 23:50:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 23:50:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-27 23:51:27]     Saved. 24_Variable_Annuities P13: 12/25
+[2026-03-27 23:51:27]     Saved. 24_Variable_Annuities P13: 12/25
+[2026-03-27 23:51:32]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:51:32]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:51:41] ============================================================
+[2026-03-27 23:51:41] ============================================================
+[2026-03-27 23:51:41] new_folders_generator.py starting
+[2026-03-27 23:51:41] new_folders_generator.py starting
+[2026-03-27 23:51:41] Model: claude-sonnet-4-6
+[2026-03-27 23:51:41] Model: claude-sonnet-4-6
+[2026-03-27 23:51:41] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 23:51:41] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 23:51:41] 
+==================================================
+[2026-03-27 23:51:41] 
+==================================================
+[2026-03-27 23:51:41] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 23:51:41] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 23:51:41]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-27 23:51:41]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-27 23:51:41]   24_Variable_Annuities P13: resuming from 12/25
+[2026-03-27 23:51:41]   24_Variable_Annuities P13: resuming from 12/25
+[2026-03-27 23:51:41]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:51:41]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:52:14] ============================================================
+[2026-03-27 23:52:14] ============================================================
+[2026-03-27 23:52:14] new_folders_generator.py starting
+[2026-03-27 23:52:14] new_folders_generator.py starting
+[2026-03-27 23:52:14] Model: claude-opus-4-6
+[2026-03-27 23:52:14] Model: claude-opus-4-6
+[2026-03-27 23:52:14] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 23:52:14] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-27 23:52:14] 
+==================================================
+[2026-03-27 23:52:14] 
+==================================================
+[2026-03-27 23:52:14] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 23:52:14] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-27 23:52:14]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-27 23:52:14]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-27 23:52:14]   24_Variable_Annuities P13: resuming from 12/25
+[2026-03-27 23:52:14]   24_Variable_Annuities P13: resuming from 12/25
+[2026-03-27 23:52:15]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:52:15]     batch ids 20012–20012 (12/25)
+[2026-03-27 23:53:16]     Saved. 24_Variable_Annuities P13: 13/25
+[2026-03-27 23:53:16]     Saved. 24_Variable_Annuities P13: 13/25
+[2026-03-27 23:53:21]     batch ids 20013–20013 (13/25)
+[2026-03-27 23:53:21]     batch ids 20013–20013 (13/25)
+[2026-03-27 23:54:33]     Saved. 24_Variable_Annuities P13: 14/25
+[2026-03-27 23:54:33]     Saved. 24_Variable_Annuities P13: 14/25
+[2026-03-27 23:54:38]     batch ids 20014–20014 (14/25)
+[2026-03-27 23:54:38]     batch ids 20014–20014 (14/25)
+[2026-03-27 23:55:52]     Saved. 24_Variable_Annuities P13: 15/25
+[2026-03-27 23:55:52]     Saved. 24_Variable_Annuities P13: 15/25
+[2026-03-27 23:55:57]     batch ids 20015–20015 (15/25)
+[2026-03-27 23:55:57]     batch ids 20015–20015 (15/25)
+[2026-03-27 23:57:02]     Saved. 24_Variable_Annuities P13: 16/25
+[2026-03-27 23:57:02]     Saved. 24_Variable_Annuities P13: 16/25
+[2026-03-27 23:57:07]     batch ids 20016–20016 (16/25)
+[2026-03-27 23:57:07]     batch ids 20016–20016 (16/25)
+[2026-03-27 23:58:19]     Saved. 24_Variable_Annuities P13: 17/25
+[2026-03-27 23:58:19]     Saved. 24_Variable_Annuities P13: 17/25
+[2026-03-27 23:58:24]     batch ids 20017–20017 (17/25)
+[2026-03-27 23:58:24]     batch ids 20017–20017 (17/25)
+[2026-03-27 23:59:30]     Saved. 24_Variable_Annuities P13: 18/25
+[2026-03-27 23:59:30]     Saved. 24_Variable_Annuities P13: 18/25
+[2026-03-27 23:59:35]     batch ids 20018–20018 (18/25)
+[2026-03-27 23:59:35]     batch ids 20018–20018 (18/25)
+[2026-03-28 00:00:50]     Saved. 24_Variable_Annuities P13: 19/25
+[2026-03-28 00:00:50]     Saved. 24_Variable_Annuities P13: 19/25
+[2026-03-28 00:00:55]     batch ids 20019–20019 (19/25)
+[2026-03-28 00:00:55]     batch ids 20019–20019 (19/25)
+[2026-03-28 00:02:02]     Saved. 24_Variable_Annuities P13: 20/25
+[2026-03-28 00:02:02]     Saved. 24_Variable_Annuities P13: 20/25
+[2026-03-28 00:02:07]     batch ids 20020–20020 (20/25)
+[2026-03-28 00:02:07]     batch ids 20020–20020 (20/25)
+[2026-03-28 00:03:14]     Saved. 24_Variable_Annuities P13: 21/25
+[2026-03-28 00:03:14]     Saved. 24_Variable_Annuities P13: 21/25
+[2026-03-28 00:03:19]     batch ids 20021–20021 (21/25)
+[2026-03-28 00:03:19]     batch ids 20021–20021 (21/25)
+[2026-03-28 00:04:16]     Saved. 24_Variable_Annuities P13: 22/25
+[2026-03-28 00:04:16]     Saved. 24_Variable_Annuities P13: 22/25
+[2026-03-28 00:04:21]     batch ids 20022–20022 (22/25)
+[2026-03-28 00:04:21]     batch ids 20022–20022 (22/25)
+[2026-03-28 00:05:28]     Saved. 24_Variable_Annuities P13: 23/25
+[2026-03-28 00:05:28]     Saved. 24_Variable_Annuities P13: 23/25
+[2026-03-28 00:05:33]     batch ids 20023–20023 (23/25)
+[2026-03-28 00:05:33]     batch ids 20023–20023 (23/25)
+[2026-03-28 00:06:43]     Saved. 24_Variable_Annuities P13: 24/25
+[2026-03-28 00:06:43]     Saved. 24_Variable_Annuities P13: 24/25
+[2026-03-28 00:06:49]     batch ids 20024–20024 (24/25)
+[2026-03-28 00:06:49]     batch ids 20024–20024 (24/25)
+[2026-03-28 00:23:29]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 00:23:29]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 00:40:28]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 00:40:28]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 00:45:14]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 00:45:14]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 00:45:24]     Empty response (1/3), retrying in 10s...
+[2026-03-28 00:45:24]     Empty response (1/3), retrying in 10s...
+[2026-03-28 00:45:34]     batch ids 20024–20024 (24/25)
+[2026-03-28 00:45:34]     batch ids 20024–20024 (24/25)
+[2026-03-28 00:46:42]     Saved. 24_Variable_Annuities P13: 25/25
+[2026-03-28 00:46:42]     Saved. 24_Variable_Annuities P13: 25/25
+[2026-03-28 00:46:47]   24_Variable_Annuities P13: COMPLETE (25 items)
+[2026-03-28 00:46:47]   24_Variable_Annuities P13: COMPLETE (25 items)
+[2026-03-28 00:46:47] 
+==================================================
+[2026-03-28 00:46:47] 
+==================================================
+[2026-03-28 00:46:47] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-28 00:46:47] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-28 00:46:47]   25_Leveraged_Inverse_ETFs P12: resuming from 0/30
+[2026-03-28 00:46:47]   25_Leveraged_Inverse_ETFs P12: resuming from 0/30
+[2026-03-28 00:46:47]     batch ids 10500–10500 (0/30)
+[2026-03-28 00:46:47]     batch ids 10500–10500 (0/30)
+[2026-03-28 00:47:28]     Saved. 25_Leveraged_Inverse_ETFs P12: 1/30
+[2026-03-28 00:47:28]     Saved. 25_Leveraged_Inverse_ETFs P12: 1/30
+[2026-03-28 00:47:33]     batch ids 10501–10501 (1/30)
+[2026-03-28 00:47:33]     batch ids 10501–10501 (1/30)
+[2026-03-28 00:48:12]     Saved. 25_Leveraged_Inverse_ETFs P12: 2/30
+[2026-03-28 00:48:12]     Saved. 25_Leveraged_Inverse_ETFs P12: 2/30
+[2026-03-28 00:48:18]     batch ids 10502–10502 (2/30)
+[2026-03-28 00:48:18]     batch ids 10502–10502 (2/30)
+[2026-03-28 00:49:11]     Saved. 25_Leveraged_Inverse_ETFs P12: 3/30
+[2026-03-28 00:49:11]     Saved. 25_Leveraged_Inverse_ETFs P12: 3/30
+[2026-03-28 00:49:17]     batch ids 10503–10503 (3/30)
+[2026-03-28 00:49:17]     batch ids 10503–10503 (3/30)
+[2026-03-28 00:50:05]     Saved. 25_Leveraged_Inverse_ETFs P12: 4/30
+[2026-03-28 00:50:05]     Saved. 25_Leveraged_Inverse_ETFs P12: 4/30
+[2026-03-28 00:50:11]     batch ids 10504–10504 (4/30)
+[2026-03-28 00:50:11]     batch ids 10504–10504 (4/30)
+[2026-03-28 00:50:48]     Saved. 25_Leveraged_Inverse_ETFs P12: 5/30
+[2026-03-28 00:50:48]     Saved. 25_Leveraged_Inverse_ETFs P12: 5/30
+[2026-03-28 00:50:53]     batch ids 10505–10505 (5/30)
+[2026-03-28 00:50:53]     batch ids 10505–10505 (5/30)
+[2026-03-28 00:51:39]     Saved. 25_Leveraged_Inverse_ETFs P12: 6/30
+[2026-03-28 00:51:39]     Saved. 25_Leveraged_Inverse_ETFs P12: 6/30
+[2026-03-28 00:51:44]     batch ids 10506–10506 (6/30)
+[2026-03-28 00:51:44]     batch ids 10506–10506 (6/30)
+[2026-03-28 00:52:30]     Saved. 25_Leveraged_Inverse_ETFs P12: 7/30
+[2026-03-28 00:52:30]     Saved. 25_Leveraged_Inverse_ETFs P12: 7/30
+[2026-03-28 00:52:35]     batch ids 10507–10507 (7/30)
+[2026-03-28 00:52:35]     batch ids 10507–10507 (7/30)
+[2026-03-28 00:53:19]     Saved. 25_Leveraged_Inverse_ETFs P12: 8/30
+[2026-03-28 00:53:19]     Saved. 25_Leveraged_Inverse_ETFs P12: 8/30
+[2026-03-28 00:53:25]     batch ids 10508–10508 (8/30)
+[2026-03-28 00:53:25]     batch ids 10508–10508 (8/30)
+[2026-03-28 00:54:03]     Saved. 25_Leveraged_Inverse_ETFs P12: 9/30
+[2026-03-28 00:54:03]     Saved. 25_Leveraged_Inverse_ETFs P12: 9/30
+[2026-03-28 00:54:08]     batch ids 10509–10509 (9/30)
+[2026-03-28 00:54:08]     batch ids 10509–10509 (9/30)
+[2026-03-28 00:54:47]     Saved. 25_Leveraged_Inverse_ETFs P12: 10/30
+[2026-03-28 00:54:47]     Saved. 25_Leveraged_Inverse_ETFs P12: 10/30
+[2026-03-28 00:54:53]     batch ids 10510–10510 (10/30)
+[2026-03-28 00:54:53]     batch ids 10510–10510 (10/30)
+[2026-03-28 00:55:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 11/30
+[2026-03-28 00:55:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 11/30
+[2026-03-28 00:55:42]     batch ids 10511–10511 (11/30)
+[2026-03-28 00:55:42]     batch ids 10511–10511 (11/30)
+[2026-03-28 01:10:36]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 01:10:36]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 01:11:26]     Saved. 25_Leveraged_Inverse_ETFs P12: 12/30
+[2026-03-28 01:11:26]     Saved. 25_Leveraged_Inverse_ETFs P12: 12/30
+[2026-03-28 01:11:31]     batch ids 10512–10512 (12/30)
+[2026-03-28 01:11:31]     batch ids 10512–10512 (12/30)
+[2026-03-28 01:12:10]     Saved. 25_Leveraged_Inverse_ETFs P12: 13/30
+[2026-03-28 01:12:10]     Saved. 25_Leveraged_Inverse_ETFs P12: 13/30
+[2026-03-28 01:12:16]     batch ids 10513–10513 (13/30)
+[2026-03-28 01:12:16]     batch ids 10513–10513 (13/30)
+[2026-03-28 01:12:56]     Saved. 25_Leveraged_Inverse_ETFs P12: 14/30
+[2026-03-28 01:12:56]     Saved. 25_Leveraged_Inverse_ETFs P12: 14/30
+[2026-03-28 01:13:01]     batch ids 10514–10514 (14/30)
+[2026-03-28 01:13:01]     batch ids 10514–10514 (14/30)
+[2026-03-28 01:13:43]     Saved. 25_Leveraged_Inverse_ETFs P12: 15/30
+[2026-03-28 01:13:43]     Saved. 25_Leveraged_Inverse_ETFs P12: 15/30
+[2026-03-28 01:13:48]     batch ids 10515–10515 (15/30)
+[2026-03-28 01:13:48]     batch ids 10515–10515 (15/30)
+[2026-03-28 01:14:26]     Saved. 25_Leveraged_Inverse_ETFs P12: 16/30
+[2026-03-28 01:14:26]     Saved. 25_Leveraged_Inverse_ETFs P12: 16/30
+[2026-03-28 01:14:31]     batch ids 10516–10516 (16/30)
+[2026-03-28 01:14:31]     batch ids 10516–10516 (16/30)
+[2026-03-28 01:15:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 17/30
+[2026-03-28 01:15:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 17/30
+[2026-03-28 01:15:23]     batch ids 10517–10517 (17/30)
+[2026-03-28 01:15:23]     batch ids 10517–10517 (17/30)
+[2026-03-28 01:16:03]     Saved. 25_Leveraged_Inverse_ETFs P12: 18/30
+[2026-03-28 01:16:03]     Saved. 25_Leveraged_Inverse_ETFs P12: 18/30
+[2026-03-28 01:16:08]     batch ids 10518–10518 (18/30)
+[2026-03-28 01:16:08]     batch ids 10518–10518 (18/30)
+[2026-03-28 01:16:49]     Saved. 25_Leveraged_Inverse_ETFs P12: 19/30
+[2026-03-28 01:16:49]     Saved. 25_Leveraged_Inverse_ETFs P12: 19/30
+[2026-03-28 01:16:54]     batch ids 10519–10519 (19/30)
+[2026-03-28 01:16:54]     batch ids 10519–10519 (19/30)
+[2026-03-28 01:17:35]     Saved. 25_Leveraged_Inverse_ETFs P12: 20/30
+[2026-03-28 01:17:35]     Saved. 25_Leveraged_Inverse_ETFs P12: 20/30
+[2026-03-28 01:17:40]     batch ids 10520–10520 (20/30)
+[2026-03-28 01:17:40]     batch ids 10520–10520 (20/30)
+[2026-03-28 01:18:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 21/30
+[2026-03-28 01:18:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 21/30
+[2026-03-28 01:18:23]     batch ids 10521–10521 (21/30)
+[2026-03-28 01:18:23]     batch ids 10521–10521 (21/30)
+[2026-03-28 01:19:09]     Saved. 25_Leveraged_Inverse_ETFs P12: 22/30
+[2026-03-28 01:19:09]     Saved. 25_Leveraged_Inverse_ETFs P12: 22/30
+[2026-03-28 01:19:14]     batch ids 10522–10522 (22/30)
+[2026-03-28 01:19:14]     batch ids 10522–10522 (22/30)
+[2026-03-28 01:19:55]     Saved. 25_Leveraged_Inverse_ETFs P12: 23/30
+[2026-03-28 01:19:55]     Saved. 25_Leveraged_Inverse_ETFs P12: 23/30
+[2026-03-28 01:20:00]     batch ids 10523–10523 (23/30)
+[2026-03-28 01:20:00]     batch ids 10523–10523 (23/30)
+[2026-03-28 01:20:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 24/30
+[2026-03-28 01:20:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 24/30
+[2026-03-28 01:20:42]     batch ids 10524–10524 (24/30)
+[2026-03-28 01:20:42]     batch ids 10524–10524 (24/30)
+[2026-03-28 01:21:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 25/30
+[2026-03-28 01:21:18]     Saved. 25_Leveraged_Inverse_ETFs P12: 25/30
+[2026-03-28 01:21:24]     batch ids 10525–10525 (25/30)
+[2026-03-28 01:21:24]     batch ids 10525–10525 (25/30)
+[2026-03-28 01:22:12]     Saved. 25_Leveraged_Inverse_ETFs P12: 26/30
+[2026-03-28 01:22:12]     Saved. 25_Leveraged_Inverse_ETFs P12: 26/30
+[2026-03-28 01:22:17]     batch ids 10526–10526 (26/30)
+[2026-03-28 01:22:17]     batch ids 10526–10526 (26/30)
+[2026-03-28 01:22:58]     Saved. 25_Leveraged_Inverse_ETFs P12: 27/30
+[2026-03-28 01:22:58]     Saved. 25_Leveraged_Inverse_ETFs P12: 27/30
+[2026-03-28 01:23:03]     batch ids 10527–10527 (27/30)
+[2026-03-28 01:23:03]     batch ids 10527–10527 (27/30)
+[2026-03-28 01:23:46]     Saved. 25_Leveraged_Inverse_ETFs P12: 28/30
+[2026-03-28 01:23:46]     Saved. 25_Leveraged_Inverse_ETFs P12: 28/30
+[2026-03-28 01:23:51]     batch ids 10528–10528 (28/30)
+[2026-03-28 01:23:51]     batch ids 10528–10528 (28/30)
+[2026-03-28 01:24:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 29/30
+[2026-03-28 01:24:37]     Saved. 25_Leveraged_Inverse_ETFs P12: 29/30
+[2026-03-28 01:24:42]     batch ids 10529–10529 (29/30)
+[2026-03-28 01:24:42]     batch ids 10529–10529 (29/30)
+[2026-03-28 01:25:25]     Saved. 25_Leveraged_Inverse_ETFs P12: 30/30
+[2026-03-28 01:25:25]     Saved. 25_Leveraged_Inverse_ETFs P12: 30/30
+[2026-03-28 01:25:31]   25_Leveraged_Inverse_ETFs P12: COMPLETE (30 items)
+[2026-03-28 01:25:31]   25_Leveraged_Inverse_ETFs P12: COMPLETE (30 items)
+[2026-03-28 01:25:31]   25_Leveraged_Inverse_ETFs P13: resuming from 0/15
+[2026-03-28 01:25:31]   25_Leveraged_Inverse_ETFs P13: resuming from 0/15
+[2026-03-28 01:25:31]     batch ids 20500–20500 (0/15)
+[2026-03-28 01:25:31]     batch ids 20500–20500 (0/15)
+[2026-03-28 01:26:46]     Saved. 25_Leveraged_Inverse_ETFs P13: 1/15
+[2026-03-28 01:26:46]     Saved. 25_Leveraged_Inverse_ETFs P13: 1/15
+[2026-03-28 01:26:52]     batch ids 20501–20501 (1/15)
+[2026-03-28 01:26:52]     batch ids 20501–20501 (1/15)
+[2026-03-28 01:27:59]     Saved. 25_Leveraged_Inverse_ETFs P13: 2/15
+[2026-03-28 01:27:59]     Saved. 25_Leveraged_Inverse_ETFs P13: 2/15
+[2026-03-28 01:28:04]     batch ids 20502–20502 (2/15)
+[2026-03-28 01:28:04]     batch ids 20502–20502 (2/15)
+[2026-03-28 01:29:09]     Saved. 25_Leveraged_Inverse_ETFs P13: 3/15
+[2026-03-28 01:29:09]     Saved. 25_Leveraged_Inverse_ETFs P13: 3/15
+[2026-03-28 01:29:14]     batch ids 20503–20503 (3/15)
+[2026-03-28 01:29:14]     batch ids 20503–20503 (3/15)
+[2026-03-28 01:30:19]     Saved. 25_Leveraged_Inverse_ETFs P13: 4/15
+[2026-03-28 01:30:19]     Saved. 25_Leveraged_Inverse_ETFs P13: 4/15
+[2026-03-28 01:30:24]     batch ids 20504–20504 (4/15)
+[2026-03-28 01:30:24]     batch ids 20504–20504 (4/15)
+[2026-03-28 01:31:30]     Saved. 25_Leveraged_Inverse_ETFs P13: 5/15
+[2026-03-28 01:31:30]     Saved. 25_Leveraged_Inverse_ETFs P13: 5/15
+[2026-03-28 01:31:35]     batch ids 20505–20505 (5/15)
+[2026-03-28 01:31:35]     batch ids 20505–20505 (5/15)
+[2026-03-28 01:32:39]     Saved. 25_Leveraged_Inverse_ETFs P13: 6/15
+[2026-03-28 01:32:39]     Saved. 25_Leveraged_Inverse_ETFs P13: 6/15
+[2026-03-28 01:32:44]     batch ids 20506–20506 (6/15)
+[2026-03-28 01:32:44]     batch ids 20506–20506 (6/15)
+[2026-03-28 01:33:47]     Saved. 25_Leveraged_Inverse_ETFs P13: 7/15
+[2026-03-28 01:33:47]     Saved. 25_Leveraged_Inverse_ETFs P13: 7/15
+[2026-03-28 01:33:52]     batch ids 20507–20507 (7/15)
+[2026-03-28 01:33:52]     batch ids 20507–20507 (7/15)
+[2026-03-28 01:34:47]     Saved. 25_Leveraged_Inverse_ETFs P13: 8/15
+[2026-03-28 01:34:47]     Saved. 25_Leveraged_Inverse_ETFs P13: 8/15
+[2026-03-28 01:34:52]     batch ids 20508–20508 (8/15)
+[2026-03-28 01:34:52]     batch ids 20508–20508 (8/15)
+[2026-03-28 01:35:46]     Saved. 25_Leveraged_Inverse_ETFs P13: 9/15
+[2026-03-28 01:35:46]     Saved. 25_Leveraged_Inverse_ETFs P13: 9/15
+[2026-03-28 01:35:51]     batch ids 20509–20509 (9/15)
+[2026-03-28 01:35:51]     batch ids 20509–20509 (9/15)
+[2026-03-28 01:36:59]     Saved. 25_Leveraged_Inverse_ETFs P13: 10/15
+[2026-03-28 01:36:59]     Saved. 25_Leveraged_Inverse_ETFs P13: 10/15
+[2026-03-28 01:37:05]     batch ids 20510–20510 (10/15)
+[2026-03-28 01:37:05]     batch ids 20510–20510 (10/15)
+[2026-03-28 01:38:06]     Saved. 25_Leveraged_Inverse_ETFs P13: 11/15
+[2026-03-28 01:38:06]     Saved. 25_Leveraged_Inverse_ETFs P13: 11/15
+[2026-03-28 01:38:12]     batch ids 20511–20511 (11/15)
+[2026-03-28 01:38:12]     batch ids 20511–20511 (11/15)
+[2026-03-28 01:39:15]     Saved. 25_Leveraged_Inverse_ETFs P13: 12/15
+[2026-03-28 01:39:15]     Saved. 25_Leveraged_Inverse_ETFs P13: 12/15
+[2026-03-28 01:39:20]     batch ids 20512–20512 (12/15)
+[2026-03-28 01:39:20]     batch ids 20512–20512 (12/15)
+[2026-03-28 01:40:18]     Saved. 25_Leveraged_Inverse_ETFs P13: 13/15
+[2026-03-28 01:40:18]     Saved. 25_Leveraged_Inverse_ETFs P13: 13/15
+[2026-03-28 01:40:24]     batch ids 20513–20513 (13/15)
+[2026-03-28 01:40:24]     batch ids 20513–20513 (13/15)
+[2026-03-28 01:41:18]     Saved. 25_Leveraged_Inverse_ETFs P13: 14/15
+[2026-03-28 01:41:18]     Saved. 25_Leveraged_Inverse_ETFs P13: 14/15
+[2026-03-28 01:41:23]     batch ids 20514–20514 (14/15)
+[2026-03-28 01:41:23]     batch ids 20514–20514 (14/15)
+[2026-03-28 01:42:26]     Saved. 25_Leveraged_Inverse_ETFs P13: 15/15
+[2026-03-28 01:42:26]     Saved. 25_Leveraged_Inverse_ETFs P13: 15/15
+[2026-03-28 01:42:31]   25_Leveraged_Inverse_ETFs P13: COMPLETE (15 items)
+[2026-03-28 01:42:31]   25_Leveraged_Inverse_ETFs P13: COMPLETE (15 items)
+[2026-03-28 01:42:31] 
+==================================================
+[2026-03-28 01:42:31] 
+==================================================
+[2026-03-28 01:42:31] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-28 01:42:31] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-28 01:42:31]   26_Options P12: resuming from 0/30
+[2026-03-28 01:42:31]   26_Options P12: resuming from 0/30
+[2026-03-28 01:42:31]     batch ids 11000–11000 (0/30)
+[2026-03-28 01:42:31]     batch ids 11000–11000 (0/30)
+[2026-03-28 01:43:06]     Saved. 26_Options P12: 1/30
+[2026-03-28 01:43:06]     Saved. 26_Options P12: 1/30
+[2026-03-28 01:43:12]     batch ids 11001–11001 (1/30)
+[2026-03-28 01:43:12]     batch ids 11001–11001 (1/30)
+[2026-03-28 01:43:55]     Saved. 26_Options P12: 2/30
+[2026-03-28 01:43:55]     Saved. 26_Options P12: 2/30
+[2026-03-28 01:44:00]     batch ids 11002–11002 (2/30)
+[2026-03-28 01:44:00]     batch ids 11002–11002 (2/30)
+[2026-03-28 01:44:42]     Saved. 26_Options P12: 3/30
+[2026-03-28 01:44:42]     Saved. 26_Options P12: 3/30
+[2026-03-28 01:44:47]     batch ids 11003–11003 (3/30)
+[2026-03-28 01:44:47]     batch ids 11003–11003 (3/30)
+[2026-03-28 01:45:26]     Saved. 26_Options P12: 4/30
+[2026-03-28 01:45:26]     Saved. 26_Options P12: 4/30
+[2026-03-28 01:45:31]     batch ids 11004–11004 (4/30)
+[2026-03-28 01:45:31]     batch ids 11004–11004 (4/30)
+[2026-03-28 01:46:24]     Saved. 26_Options P12: 5/30
+[2026-03-28 01:46:24]     Saved. 26_Options P12: 5/30
+[2026-03-28 01:46:29]     batch ids 11005–11005 (5/30)
+[2026-03-28 01:46:29]     batch ids 11005–11005 (5/30)
+[2026-03-28 01:47:18]     Saved. 26_Options P12: 6/30
+[2026-03-28 01:47:18]     Saved. 26_Options P12: 6/30
+[2026-03-28 01:47:23]     batch ids 11006–11006 (6/30)
+[2026-03-28 01:47:23]     batch ids 11006–11006 (6/30)
+[2026-03-28 02:03:07]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 02:03:07]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 02:19:46]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 02:19:46]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 02:36:46]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 02:36:46]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 02:36:56]     Empty response (1/3), retrying in 10s...
+[2026-03-28 02:36:56]     Empty response (1/3), retrying in 10s...
+[2026-03-28 02:37:06]     batch ids 11006–11006 (6/30)
+[2026-03-28 02:37:06]     batch ids 11006–11006 (6/30)
+[2026-03-28 02:52:53]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 02:52:53]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 02:53:36]     Saved. 26_Options P12: 7/30
+[2026-03-28 02:53:36]     Saved. 26_Options P12: 7/30
+[2026-03-28 03:09:21]     batch ids 11007–11007 (7/30)
+[2026-03-28 03:09:21]     batch ids 11007–11007 (7/30)
+[2026-03-28 03:09:53]     Saved. 26_Options P12: 8/30
+[2026-03-28 03:09:53]     Saved. 26_Options P12: 8/30
+[2026-03-28 03:09:59]     batch ids 11008–11008 (8/30)
+[2026-03-28 03:09:59]     batch ids 11008–11008 (8/30)
+[2026-03-28 03:25:51]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 03:25:51]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 03:42:57]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 03:42:57]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 03:43:39]     Saved. 26_Options P12: 9/30
+[2026-03-28 03:43:39]     Saved. 26_Options P12: 9/30
+[2026-03-28 03:58:59]     batch ids 11009–11009 (9/30)
+[2026-03-28 03:58:59]     batch ids 11009–11009 (9/30)
+[2026-03-28 03:59:42]     Saved. 26_Options P12: 10/30
+[2026-03-28 03:59:42]     Saved. 26_Options P12: 10/30
+[2026-03-28 04:16:08]     batch ids 11010–11010 (10/30)
+[2026-03-28 04:16:08]     batch ids 11010–11010 (10/30)
+[2026-03-28 04:16:46]     Saved. 26_Options P12: 11/30
+[2026-03-28 04:16:46]     Saved. 26_Options P12: 11/30
+[2026-03-28 04:16:51]     batch ids 11011–11011 (11/30)
+[2026-03-28 04:16:51]     batch ids 11011–11011 (11/30)
+[2026-03-28 04:32:34]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 04:32:34]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 04:40:30]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 04:40:30]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 04:41:15]     Saved. 26_Options P12: 12/30
+[2026-03-28 04:41:15]     Saved. 26_Options P12: 12/30
+[2026-03-28 04:41:20]     batch ids 11012–11012 (12/30)
+[2026-03-28 04:41:20]     batch ids 11012–11012 (12/30)
+[2026-03-28 04:42:04]     Saved. 26_Options P12: 13/30
+[2026-03-28 04:42:04]     Saved. 26_Options P12: 13/30
+[2026-03-28 04:42:09]     batch ids 11013–11013 (13/30)
+[2026-03-28 04:42:09]     batch ids 11013–11013 (13/30)
+[2026-03-28 04:42:48]     Saved. 26_Options P12: 14/30
+[2026-03-28 04:42:48]     Saved. 26_Options P12: 14/30
+[2026-03-28 04:42:53]     batch ids 11014–11014 (14/30)
+[2026-03-28 04:42:53]     batch ids 11014–11014 (14/30)
+[2026-03-28 04:43:30]     Saved. 26_Options P12: 15/30
+[2026-03-28 04:43:30]     Saved. 26_Options P12: 15/30
+[2026-03-28 04:43:36]     batch ids 11015–11015 (15/30)
+[2026-03-28 04:43:36]     batch ids 11015–11015 (15/30)
+[2026-03-28 04:44:08]     Saved. 26_Options P12: 16/30
+[2026-03-28 04:44:08]     Saved. 26_Options P12: 16/30
+[2026-03-28 04:44:13]     batch ids 11016–11016 (16/30)
+[2026-03-28 04:44:13]     batch ids 11016–11016 (16/30)
+[2026-03-28 04:44:54]     Saved. 26_Options P12: 17/30
+[2026-03-28 04:44:54]     Saved. 26_Options P12: 17/30
+[2026-03-28 04:45:00]     batch ids 11017–11017 (17/30)
+[2026-03-28 04:45:00]     batch ids 11017–11017 (17/30)
+[2026-03-28 04:45:44]     Saved. 26_Options P12: 18/30
+[2026-03-28 04:45:44]     Saved. 26_Options P12: 18/30
+[2026-03-28 04:45:49]     batch ids 11018–11018 (18/30)
+[2026-03-28 04:45:49]     batch ids 11018–11018 (18/30)
+[2026-03-28 04:46:25]     Saved. 26_Options P12: 19/30
+[2026-03-28 04:46:25]     Saved. 26_Options P12: 19/30
+[2026-03-28 04:46:30]     batch ids 11019–11019 (19/30)
+[2026-03-28 04:46:30]     batch ids 11019–11019 (19/30)
+[2026-03-28 04:47:03]     Saved. 26_Options P12: 20/30
+[2026-03-28 04:47:03]     Saved. 26_Options P12: 20/30
+[2026-03-28 04:47:08]     batch ids 11020–11020 (20/30)
+[2026-03-28 04:47:08]     batch ids 11020–11020 (20/30)
+[2026-03-28 04:47:49]     Saved. 26_Options P12: 21/30
+[2026-03-28 04:47:49]     Saved. 26_Options P12: 21/30
+[2026-03-28 04:47:54]     batch ids 11021–11021 (21/30)
+[2026-03-28 04:47:54]     batch ids 11021–11021 (21/30)
+[2026-03-28 04:48:34]     Saved. 26_Options P12: 22/30
+[2026-03-28 04:48:34]     Saved. 26_Options P12: 22/30
+[2026-03-28 04:48:39]     batch ids 11022–11022 (22/30)
+[2026-03-28 04:48:39]     batch ids 11022–11022 (22/30)
+[2026-03-28 04:49:13]     Saved. 26_Options P12: 23/30
+[2026-03-28 04:49:13]     Saved. 26_Options P12: 23/30
+[2026-03-28 04:49:18]     batch ids 11023–11023 (23/30)
+[2026-03-28 04:49:18]     batch ids 11023–11023 (23/30)
+[2026-03-28 04:50:03]     Saved. 26_Options P12: 24/30
+[2026-03-28 04:50:03]     Saved. 26_Options P12: 24/30
+[2026-03-28 04:50:08]     batch ids 11024–11024 (24/30)
+[2026-03-28 04:50:08]     batch ids 11024–11024 (24/30)
+[2026-03-28 04:50:39]     Saved. 26_Options P12: 25/30
+[2026-03-28 04:50:39]     Saved. 26_Options P12: 25/30
+[2026-03-28 04:50:44]     batch ids 11025–11025 (25/30)
+[2026-03-28 04:50:44]     batch ids 11025–11025 (25/30)
+[2026-03-28 05:07:46]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 05:07:46]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 05:08:29]     Saved. 26_Options P12: 26/30
+[2026-03-28 05:08:29]     Saved. 26_Options P12: 26/30
+[2026-03-28 05:08:34]     batch ids 11026–11026 (26/30)
+[2026-03-28 05:08:34]     batch ids 11026–11026 (26/30)
+[2026-03-28 05:25:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 05:25:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 05:42:35]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 05:42:35]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 06:00:12]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 06:00:12]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 06:00:22]     Empty response (1/3), retrying in 10s...
+[2026-03-28 06:00:22]     Empty response (1/3), retrying in 10s...
+[2026-03-28 06:00:32]     batch ids 11026–11026 (26/30)
+[2026-03-28 06:00:32]     batch ids 11026–11026 (26/30)
+[2026-03-28 06:17:22]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 06:17:22]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 06:33:43]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 06:33:43]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 06:34:28]     Saved. 26_Options P12: 27/30
+[2026-03-28 06:34:28]     Saved. 26_Options P12: 27/30
+[2026-03-28 06:47:03]     batch ids 11027–11027 (27/30)
+[2026-03-28 06:47:03]     batch ids 11027–11027 (27/30)
+[2026-03-28 06:47:37]     Saved. 26_Options P12: 28/30
+[2026-03-28 06:47:37]     Saved. 26_Options P12: 28/30
+[2026-03-28 06:47:42]     batch ids 11028–11028 (28/30)
+[2026-03-28 06:47:42]     batch ids 11028–11028 (28/30)
+[2026-03-28 07:03:57]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 07:03:57]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 07:04:52]     Saved. 26_Options P12: 29/30
+[2026-03-28 07:04:52]     Saved. 26_Options P12: 29/30
+[2026-03-28 07:04:57]     batch ids 11029–11029 (29/30)
+[2026-03-28 07:04:57]     batch ids 11029–11029 (29/30)
+[2026-03-28 07:07:31]     Saved. 26_Options P12: 30/30
+[2026-03-28 07:07:31]     Saved. 26_Options P12: 30/30
+[2026-03-28 07:07:36]   26_Options P12: COMPLETE (30 items)
+[2026-03-28 07:07:36]   26_Options P12: COMPLETE (30 items)
+[2026-03-28 07:07:36]   26_Options P13: resuming from 0/15
+[2026-03-28 07:07:36]   26_Options P13: resuming from 0/15
+[2026-03-28 07:07:36]     batch ids 21000–21000 (0/15)
+[2026-03-28 07:07:36]     batch ids 21000–21000 (0/15)
+[2026-03-28 07:08:34]     Saved. 26_Options P13: 1/15
+[2026-03-28 07:08:34]     Saved. 26_Options P13: 1/15
+[2026-03-28 07:08:40]     batch ids 21001–21001 (1/15)
+[2026-03-28 07:08:40]     batch ids 21001–21001 (1/15)
+[2026-03-28 07:09:35]     Saved. 26_Options P13: 2/15
+[2026-03-28 07:09:35]     Saved. 26_Options P13: 2/15
+[2026-03-28 07:09:40]     batch ids 21002–21002 (2/15)
+[2026-03-28 07:09:40]     batch ids 21002–21002 (2/15)
+[2026-03-28 07:10:40]     Saved. 26_Options P13: 3/15
+[2026-03-28 07:10:40]     Saved. 26_Options P13: 3/15
+[2026-03-28 07:10:45]     batch ids 21003–21003 (3/15)
+[2026-03-28 07:10:45]     batch ids 21003–21003 (3/15)
+[2026-03-28 07:11:55]     Saved. 26_Options P13: 4/15
+[2026-03-28 07:11:55]     Saved. 26_Options P13: 4/15
+[2026-03-28 07:12:00]     batch ids 21004–21004 (4/15)
+[2026-03-28 07:12:00]     batch ids 21004–21004 (4/15)
+[2026-03-28 07:13:05]     Saved. 26_Options P13: 5/15
+[2026-03-28 07:13:05]     Saved. 26_Options P13: 5/15
+[2026-03-28 07:13:10]     batch ids 21005–21005 (5/15)
+[2026-03-28 07:13:10]     batch ids 21005–21005 (5/15)
+[2026-03-28 07:14:03]     Saved. 26_Options P13: 6/15
+[2026-03-28 07:14:03]     Saved. 26_Options P13: 6/15
+[2026-03-28 07:14:08]     batch ids 21006–21006 (6/15)
+[2026-03-28 07:14:08]     batch ids 21006–21006 (6/15)
+[2026-03-28 07:15:05]     Saved. 26_Options P13: 7/15
+[2026-03-28 07:15:05]     Saved. 26_Options P13: 7/15
+[2026-03-28 07:15:10]     batch ids 21007–21007 (7/15)
+[2026-03-28 07:15:10]     batch ids 21007–21007 (7/15)
+[2026-03-28 07:16:15]     Saved. 26_Options P13: 8/15
+[2026-03-28 07:16:15]     Saved. 26_Options P13: 8/15
+[2026-03-28 07:16:20]     batch ids 21008–21008 (8/15)
+[2026-03-28 07:16:20]     batch ids 21008–21008 (8/15)
+[2026-03-28 07:17:19]     Saved. 26_Options P13: 9/15
+[2026-03-28 07:17:19]     Saved. 26_Options P13: 9/15
+[2026-03-28 07:17:24]     batch ids 21009–21009 (9/15)
+[2026-03-28 07:17:24]     batch ids 21009–21009 (9/15)
+[2026-03-28 07:33:00]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 07:33:00]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 07:49:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 07:49:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 08:05:58]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 08:05:58]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 08:06:08]     Empty response (1/3), retrying in 10s...
+[2026-03-28 08:06:08]     Empty response (1/3), retrying in 10s...
+[2026-03-28 08:06:18]     batch ids 21009–21009 (9/15)
+[2026-03-28 08:06:18]     batch ids 21009–21009 (9/15)
+[2026-03-28 08:22:50]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 08:22:50]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 08:39:33]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 08:39:33]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 08:55:25]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 08:55:25]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 08:55:35]     Empty response (2/3), retrying in 10s...
+[2026-03-28 08:55:35]     Empty response (2/3), retrying in 10s...
+[2026-03-28 08:55:45]     batch ids 21009–21009 (9/15)
+[2026-03-28 08:55:45]     batch ids 21009–21009 (9/15)
+[2026-03-28 09:12:09]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 09:12:09]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 09:13:09]     Saved. 26_Options P13: 10/15
+[2026-03-28 09:13:09]     Saved. 26_Options P13: 10/15
+[2026-03-28 09:29:03]     batch ids 21010–21010 (10/15)
+[2026-03-28 09:29:03]     batch ids 21010–21010 (10/15)
+[2026-03-28 09:45:28]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 09:45:28]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 09:56:13]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 09:56:13]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 09:57:13]     Saved. 26_Options P13: 11/15
+[2026-03-28 09:57:13]     Saved. 26_Options P13: 11/15
+[2026-03-28 09:57:18]     batch ids 21011–21011 (11/15)
+[2026-03-28 09:57:18]     batch ids 21011–21011 (11/15)
+[2026-03-28 09:58:07]     Saved. 26_Options P13: 12/15
+[2026-03-28 09:58:07]     Saved. 26_Options P13: 12/15
+[2026-03-28 09:58:12]     batch ids 21012–21012 (12/15)
+[2026-03-28 09:58:12]     batch ids 21012–21012 (12/15)
+[2026-03-28 09:59:07]     Saved. 26_Options P13: 13/15
+[2026-03-28 09:59:07]     Saved. 26_Options P13: 13/15
+[2026-03-28 09:59:12]     batch ids 21013–21013 (13/15)
+[2026-03-28 09:59:12]     batch ids 21013–21013 (13/15)
+[2026-03-28 10:00:12]     Saved. 26_Options P13: 14/15
+[2026-03-28 10:00:12]     Saved. 26_Options P13: 14/15
+[2026-03-28 10:00:17]     batch ids 21014–21014 (14/15)
+[2026-03-28 10:00:17]     batch ids 21014–21014 (14/15)
+[2026-03-28 10:01:12]     Saved. 26_Options P13: 15/15
+[2026-03-28 10:01:12]     Saved. 26_Options P13: 15/15
+[2026-03-28 10:01:17]   26_Options P13: COMPLETE (15 items)
+[2026-03-28 10:01:17]   26_Options P13: COMPLETE (15 items)
+[2026-03-28 10:01:17] 
+==================================================
+[2026-03-28 10:01:17] 
+==================================================
+[2026-03-28 10:01:17] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-28 10:01:17] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-28 10:01:17]   27_Private_Placements_DPPs P12: resuming from 0/40
+[2026-03-28 10:01:17]   27_Private_Placements_DPPs P12: resuming from 0/40
+[2026-03-28 10:01:17]     batch ids 11500–11500 (0/40)
+[2026-03-28 10:01:17]     batch ids 11500–11500 (0/40)
+[2026-03-28 10:01:54]     Saved. 27_Private_Placements_DPPs P12: 1/40
+[2026-03-28 10:01:54]     Saved. 27_Private_Placements_DPPs P12: 1/40
+[2026-03-28 10:01:59]     batch ids 11501–11501 (1/40)
+[2026-03-28 10:01:59]     batch ids 11501–11501 (1/40)
+[2026-03-28 10:02:46]     Saved. 27_Private_Placements_DPPs P12: 2/40
+[2026-03-28 10:02:46]     Saved. 27_Private_Placements_DPPs P12: 2/40
+[2026-03-28 10:02:51]     batch ids 11502–11502 (2/40)
+[2026-03-28 10:02:51]     batch ids 11502–11502 (2/40)
+[2026-03-28 10:03:46]     Saved. 27_Private_Placements_DPPs P12: 3/40
+[2026-03-28 10:03:46]     Saved. 27_Private_Placements_DPPs P12: 3/40
+[2026-03-28 10:03:52]     batch ids 11503–11503 (3/40)
+[2026-03-28 10:03:52]     batch ids 11503–11503 (3/40)
+[2026-03-28 10:04:31]     Saved. 27_Private_Placements_DPPs P12: 4/40
+[2026-03-28 10:04:31]     Saved. 27_Private_Placements_DPPs P12: 4/40
+[2026-03-28 10:04:36]     batch ids 11504–11504 (4/40)
+[2026-03-28 10:04:36]     batch ids 11504–11504 (4/40)
+[2026-03-28 10:05:24]     Saved. 27_Private_Placements_DPPs P12: 5/40
+[2026-03-28 10:05:24]     Saved. 27_Private_Placements_DPPs P12: 5/40
+[2026-03-28 10:05:29]     batch ids 11505–11505 (5/40)
+[2026-03-28 10:05:29]     batch ids 11505–11505 (5/40)
+[2026-03-28 10:06:18]     Saved. 27_Private_Placements_DPPs P12: 6/40
+[2026-03-28 10:06:18]     Saved. 27_Private_Placements_DPPs P12: 6/40
+[2026-03-28 10:06:23]     batch ids 11506–11506 (6/40)
+[2026-03-28 10:06:23]     batch ids 11506–11506 (6/40)
+[2026-03-28 10:07:01]     Saved. 27_Private_Placements_DPPs P12: 7/40
+[2026-03-28 10:07:01]     Saved. 27_Private_Placements_DPPs P12: 7/40
+[2026-03-28 10:07:06]     batch ids 11507–11507 (7/40)
+[2026-03-28 10:07:06]     batch ids 11507–11507 (7/40)
+[2026-03-28 10:07:47]     Saved. 27_Private_Placements_DPPs P12: 8/40
+[2026-03-28 10:07:47]     Saved. 27_Private_Placements_DPPs P12: 8/40
+[2026-03-28 10:07:53]     batch ids 11508–11508 (8/40)
+[2026-03-28 10:07:53]     batch ids 11508–11508 (8/40)
+[2026-03-28 10:08:29]     Saved. 27_Private_Placements_DPPs P12: 9/40
+[2026-03-28 10:08:29]     Saved. 27_Private_Placements_DPPs P12: 9/40
+[2026-03-28 10:08:34]     batch ids 11509–11509 (9/40)
+[2026-03-28 10:08:34]     batch ids 11509–11509 (9/40)
+[2026-03-28 10:09:16]     Saved. 27_Private_Placements_DPPs P12: 10/40
+[2026-03-28 10:09:16]     Saved. 27_Private_Placements_DPPs P12: 10/40
+[2026-03-28 10:09:21]     batch ids 11510–11510 (10/40)
+[2026-03-28 10:09:21]     batch ids 11510–11510 (10/40)
+[2026-03-28 10:13:16]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 10:13:16]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 10:13:58]     Saved. 27_Private_Placements_DPPs P12: 11/40
+[2026-03-28 10:13:58]     Saved. 27_Private_Placements_DPPs P12: 11/40
+[2026-03-28 10:14:03]     batch ids 11511–11511 (11/40)
+[2026-03-28 10:14:03]     batch ids 11511–11511 (11/40)
+[2026-03-28 10:29:34]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 10:29:34]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 10:47:14]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 10:47:14]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 10:47:59]     Saved. 27_Private_Placements_DPPs P12: 12/40
+[2026-03-28 10:47:59]     Saved. 27_Private_Placements_DPPs P12: 12/40
+[2026-03-28 11:04:38]     batch ids 11512–11512 (12/40)
+[2026-03-28 11:04:38]     batch ids 11512–11512 (12/40)
+[2026-03-28 11:05:19]     Saved. 27_Private_Placements_DPPs P12: 13/40
+[2026-03-28 11:05:19]     Saved. 27_Private_Placements_DPPs P12: 13/40
+[2026-03-28 11:05:24]     batch ids 11513–11513 (13/40)
+[2026-03-28 11:05:24]     batch ids 11513–11513 (13/40)
+[2026-03-28 11:14:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 11:14:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 11:18:31]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 11:18:31]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 11:19:23]     Saved. 27_Private_Placements_DPPs P12: 14/40
+[2026-03-28 11:19:23]     Saved. 27_Private_Placements_DPPs P12: 14/40
+[2026-03-28 11:19:28]     batch ids 11514–11514 (14/40)
+[2026-03-28 11:19:28]     batch ids 11514–11514 (14/40)
+[2026-03-28 11:20:05]     Saved. 27_Private_Placements_DPPs P12: 15/40
+[2026-03-28 11:20:05]     Saved. 27_Private_Placements_DPPs P12: 15/40
+[2026-03-28 11:20:10]     batch ids 11515–11515 (15/40)
+[2026-03-28 11:20:10]     batch ids 11515–11515 (15/40)
+[2026-03-28 11:20:55]     Saved. 27_Private_Placements_DPPs P12: 16/40
+[2026-03-28 11:20:55]     Saved. 27_Private_Placements_DPPs P12: 16/40
+[2026-03-28 11:21:01]     batch ids 11516–11516 (16/40)
+[2026-03-28 11:21:01]     batch ids 11516–11516 (16/40)
+[2026-03-28 11:21:44]     Saved. 27_Private_Placements_DPPs P12: 17/40
+[2026-03-28 11:21:44]     Saved. 27_Private_Placements_DPPs P12: 17/40
+[2026-03-28 11:21:49]     batch ids 11517–11517 (17/40)
+[2026-03-28 11:21:49]     batch ids 11517–11517 (17/40)
+[2026-03-28 11:22:30]     Saved. 27_Private_Placements_DPPs P12: 18/40
+[2026-03-28 11:22:30]     Saved. 27_Private_Placements_DPPs P12: 18/40
+[2026-03-28 11:22:35]     batch ids 11518–11518 (18/40)
+[2026-03-28 11:22:35]     batch ids 11518–11518 (18/40)
+[2026-03-28 11:23:13]     Saved. 27_Private_Placements_DPPs P12: 19/40
+[2026-03-28 11:23:13]     Saved. 27_Private_Placements_DPPs P12: 19/40
+[2026-03-28 11:23:18]     batch ids 11519–11519 (19/40)
+[2026-03-28 11:23:18]     batch ids 11519–11519 (19/40)
+[2026-03-28 11:23:59]     Saved. 27_Private_Placements_DPPs P12: 20/40
+[2026-03-28 11:23:59]     Saved. 27_Private_Placements_DPPs P12: 20/40
+[2026-03-28 11:24:04]     batch ids 11520–11520 (20/40)
+[2026-03-28 11:24:04]     batch ids 11520–11520 (20/40)
+[2026-03-28 11:24:47]     Saved. 27_Private_Placements_DPPs P12: 21/40
+[2026-03-28 11:24:47]     Saved. 27_Private_Placements_DPPs P12: 21/40
+[2026-03-28 11:24:52]     batch ids 11521–11521 (21/40)
+[2026-03-28 11:24:52]     batch ids 11521–11521 (21/40)
+[2026-03-28 11:25:44]     Saved. 27_Private_Placements_DPPs P12: 22/40
+[2026-03-28 11:25:44]     Saved. 27_Private_Placements_DPPs P12: 22/40
+[2026-03-28 11:25:49]     batch ids 11522–11522 (22/40)
+[2026-03-28 11:25:49]     batch ids 11522–11522 (22/40)
+[2026-03-28 11:26:39]     Saved. 27_Private_Placements_DPPs P12: 23/40
+[2026-03-28 11:26:39]     Saved. 27_Private_Placements_DPPs P12: 23/40
+[2026-03-28 11:26:44]     batch ids 11523–11523 (23/40)
+[2026-03-28 11:26:44]     batch ids 11523–11523 (23/40)
+[2026-03-28 11:27:29]     Saved. 27_Private_Placements_DPPs P12: 24/40
+[2026-03-28 11:27:29]     Saved. 27_Private_Placements_DPPs P12: 24/40
+[2026-03-28 11:27:34]     batch ids 11524–11524 (24/40)
+[2026-03-28 11:27:34]     batch ids 11524–11524 (24/40)
+[2026-03-28 11:28:28]     Saved. 27_Private_Placements_DPPs P12: 25/40
+[2026-03-28 11:28:28]     Saved. 27_Private_Placements_DPPs P12: 25/40
+[2026-03-28 11:28:33]     batch ids 11525–11525 (25/40)
+[2026-03-28 11:28:33]     batch ids 11525–11525 (25/40)
+[2026-03-28 11:29:13]     Saved. 27_Private_Placements_DPPs P12: 26/40
+[2026-03-28 11:29:13]     Saved. 27_Private_Placements_DPPs P12: 26/40
+[2026-03-28 11:29:18]     batch ids 11526–11526 (26/40)
+[2026-03-28 11:29:18]     batch ids 11526–11526 (26/40)
+[2026-03-28 11:46:48]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 11:46:48]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 12:02:37]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 12:02:37]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 12:03:32]     Saved. 27_Private_Placements_DPPs P12: 27/40
+[2026-03-28 12:03:32]     Saved. 27_Private_Placements_DPPs P12: 27/40
+[2026-03-28 12:03:38]     batch ids 11527–11527 (27/40)
+[2026-03-28 12:03:38]     batch ids 11527–11527 (27/40)
+[2026-03-28 12:19:42]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 12:19:42]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 12:36:34]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 12:36:34]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 12:53:03]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 12:53:03]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 12:53:13]     Empty response (1/3), retrying in 10s...
+[2026-03-28 12:53:13]     Empty response (1/3), retrying in 10s...
+[2026-03-28 12:53:23]     batch ids 11527–11527 (27/40)
+[2026-03-28 12:53:23]     batch ids 11527–11527 (27/40)
+[2026-03-28 13:10:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 13:10:18]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 13:11:10]     Saved. 27_Private_Placements_DPPs P12: 28/40
+[2026-03-28 13:11:10]     Saved. 27_Private_Placements_DPPs P12: 28/40
+[2026-03-28 13:11:15]     batch ids 11528–11528 (28/40)
+[2026-03-28 13:11:15]     batch ids 11528–11528 (28/40)
+[2026-03-28 13:25:31]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 13:25:31]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 13:26:15]     Saved. 27_Private_Placements_DPPs P12: 29/40
+[2026-03-28 13:26:15]     Saved. 27_Private_Placements_DPPs P12: 29/40
+[2026-03-28 13:26:21]     batch ids 11529–11529 (29/40)
+[2026-03-28 13:26:21]     batch ids 11529–11529 (29/40)
+[2026-03-28 13:27:10]     Saved. 27_Private_Placements_DPPs P12: 30/40
+[2026-03-28 13:27:10]     Saved. 27_Private_Placements_DPPs P12: 30/40
+[2026-03-28 13:27:16]     batch ids 11530–11530 (30/40)
+[2026-03-28 13:27:16]     batch ids 11530–11530 (30/40)
+[2026-03-28 13:27:53]     Saved. 27_Private_Placements_DPPs P12: 31/40
+[2026-03-28 13:27:53]     Saved. 27_Private_Placements_DPPs P12: 31/40
+[2026-03-28 13:27:58]     batch ids 11531–11531 (31/40)
+[2026-03-28 13:27:58]     batch ids 11531–11531 (31/40)
+[2026-03-28 13:28:37]     Saved. 27_Private_Placements_DPPs P12: 32/40
+[2026-03-28 13:28:37]     Saved. 27_Private_Placements_DPPs P12: 32/40
+[2026-03-28 13:28:42]     batch ids 11532–11532 (32/40)
+[2026-03-28 13:28:42]     batch ids 11532–11532 (32/40)
+[2026-03-28 13:29:21]     Saved. 27_Private_Placements_DPPs P12: 33/40
+[2026-03-28 13:29:21]     Saved. 27_Private_Placements_DPPs P12: 33/40
+[2026-03-28 13:29:27]     batch ids 11533–11533 (33/40)
+[2026-03-28 13:29:27]     batch ids 11533–11533 (33/40)
+[2026-03-28 13:30:13]     Saved. 27_Private_Placements_DPPs P12: 34/40
+[2026-03-28 13:30:13]     Saved. 27_Private_Placements_DPPs P12: 34/40
+[2026-03-28 13:30:18]     batch ids 11534–11534 (34/40)
+[2026-03-28 13:30:18]     batch ids 11534–11534 (34/40)
+[2026-03-28 13:30:57]     Saved. 27_Private_Placements_DPPs P12: 35/40
+[2026-03-28 13:30:57]     Saved. 27_Private_Placements_DPPs P12: 35/40
+[2026-03-28 13:31:03]     batch ids 11535–11535 (35/40)
+[2026-03-28 13:31:03]     batch ids 11535–11535 (35/40)
+[2026-03-28 13:31:49]     Saved. 27_Private_Placements_DPPs P12: 36/40
+[2026-03-28 13:31:49]     Saved. 27_Private_Placements_DPPs P12: 36/40
+[2026-03-28 13:31:54]     batch ids 11536–11536 (36/40)
+[2026-03-28 13:31:54]     batch ids 11536–11536 (36/40)
+[2026-03-28 13:32:26]     Saved. 27_Private_Placements_DPPs P12: 37/40
+[2026-03-28 13:32:26]     Saved. 27_Private_Placements_DPPs P12: 37/40
+[2026-03-28 13:32:31]     batch ids 11537–11537 (37/40)
+[2026-03-28 13:32:31]     batch ids 11537–11537 (37/40)
+[2026-03-28 13:48:40]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 13:48:40]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 14:04:58]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 14:04:58]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 14:05:48]     Saved. 27_Private_Placements_DPPs P12: 38/40
+[2026-03-28 14:05:48]     Saved. 27_Private_Placements_DPPs P12: 38/40
+[2026-03-28 14:05:53]     batch ids 11538–11538 (38/40)
+[2026-03-28 14:05:53]     batch ids 11538–11538 (38/40)
+[2026-03-28 14:22:11]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 14:22:11]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 14:26:32]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 14:26:32]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 14:43:36]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 14:43:36]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 14:43:47]     Empty response (1/3), retrying in 10s...
+[2026-03-28 14:43:47]     Empty response (1/3), retrying in 10s...
+[2026-03-28 14:43:57]     batch ids 11538–11538 (38/40)
+[2026-03-28 14:43:57]     batch ids 11538–11538 (38/40)
+[2026-03-28 14:59:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 14:59:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 15:00:20]     Saved. 27_Private_Placements_DPPs P12: 39/40
+[2026-03-28 15:00:20]     Saved. 27_Private_Placements_DPPs P12: 39/40
+[2026-03-28 15:00:26]     batch ids 11539–11539 (39/40)
+[2026-03-28 15:00:26]     batch ids 11539–11539 (39/40)
+[2026-03-28 15:15:58]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 15:15:58]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 15:27:32]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 15:27:32]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 15:45:03]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 15:45:03]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 15:45:13]     Empty response (1/3), retrying in 10s...
+[2026-03-28 15:45:13]     Empty response (1/3), retrying in 10s...
+[2026-03-28 15:45:23]     batch ids 11539–11539 (39/40)
+[2026-03-28 15:45:23]     batch ids 11539–11539 (39/40)
+[2026-03-28 16:02:21]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 16:02:21]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 16:03:07]     Saved. 27_Private_Placements_DPPs P12: 40/40
+[2026-03-28 16:03:07]     Saved. 27_Private_Placements_DPPs P12: 40/40
+[2026-03-28 16:03:12]   27_Private_Placements_DPPs P12: COMPLETE (40 items)
+[2026-03-28 16:03:12]   27_Private_Placements_DPPs P12: COMPLETE (40 items)
+[2026-03-28 16:03:12]   27_Private_Placements_DPPs P13: resuming from 0/20
+[2026-03-28 16:03:12]   27_Private_Placements_DPPs P13: resuming from 0/20
+[2026-03-28 16:03:12]     batch ids 21500–21500 (0/20)
+[2026-03-28 16:03:12]     batch ids 21500–21500 (0/20)
+[2026-03-28 16:18:55]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 16:18:55]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 16:28:31]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 16:28:31]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 16:45:29]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 16:45:29]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 16:45:39]     Empty response (1/3), retrying in 10s...
+[2026-03-28 16:45:39]     Empty response (1/3), retrying in 10s...
+[2026-03-28 16:45:49]     batch ids 21500–21500 (0/20)
+[2026-03-28 16:45:49]     batch ids 21500–21500 (0/20)
+[2026-03-28 17:01:37]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 17:01:37]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 17:19:00]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 17:19:00]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 17:35:28]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 17:35:28]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 17:35:38]     Empty response (2/3), retrying in 10s...
+[2026-03-28 17:35:38]     Empty response (2/3), retrying in 10s...
+[2026-03-28 17:35:49]     batch ids 21500–21500 (0/20)
+[2026-03-28 17:35:49]     batch ids 21500–21500 (0/20)
+[2026-03-28 17:52:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 17:52:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 18:08:52]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 18:08:52]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 18:25:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 18:25:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 18:26:04]     Skipping batch after 3 failures, advancing
+[2026-03-28 18:26:04]     Skipping batch after 3 failures, advancing
+[2026-03-28 18:26:04]     batch ids 21500–21500 (0/20)
+[2026-03-28 18:26:04]     batch ids 21500–21500 (0/20)
+[2026-03-28 18:42:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 18:42:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 18:58:51]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 18:58:51]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 19:15:32]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 19:15:32]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 19:15:42]     Empty response (1/3), retrying in 10s...
+[2026-03-28 19:15:42]     Empty response (1/3), retrying in 10s...
+[2026-03-28 19:15:52]     batch ids 21500–21500 (0/20)
+[2026-03-28 19:15:52]     batch ids 21500–21500 (0/20)
+[2026-03-28 19:33:43]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 19:33:43]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 19:51:25]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 19:51:25]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 20:07:26]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 20:07:26]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 20:07:36]     Empty response (2/3), retrying in 10s...
+[2026-03-28 20:07:36]     Empty response (2/3), retrying in 10s...
+[2026-03-28 20:07:46]     batch ids 21500–21500 (0/20)
+[2026-03-28 20:07:46]     batch ids 21500–21500 (0/20)
+[2026-03-28 20:19:19]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 20:19:19]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 20:35:48]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 20:35:48]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 20:52:50]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 20:52:50]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 20:53:00]     Skipping batch after 3 failures, advancing
+[2026-03-28 20:53:00]     Skipping batch after 3 failures, advancing
+[2026-03-28 20:53:00]     batch ids 21500–21500 (0/20)
+[2026-03-28 20:53:00]     batch ids 21500–21500 (0/20)
+[2026-03-28 21:10:46]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 21:10:46]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 21:28:59]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 21:28:59]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 21:45:49]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 21:45:49]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 21:46:00]     Empty response (1/3), retrying in 10s...
+[2026-03-28 21:46:00]     Empty response (1/3), retrying in 10s...
+[2026-03-28 21:46:10]     batch ids 21500–21500 (0/20)
+[2026-03-28 21:46:10]     batch ids 21500–21500 (0/20)
+[2026-03-28 22:02:31]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 22:02:31]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 22:18:29]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 22:18:29]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 22:20:40]     Saved. 27_Private_Placements_DPPs P13: 1/20
+[2026-03-28 22:20:40]     Saved. 27_Private_Placements_DPPs P13: 1/20
+[2026-03-28 22:20:45]     batch ids 21501–21501 (1/20)
+[2026-03-28 22:20:45]     batch ids 21501–21501 (1/20)
+[2026-03-28 22:36:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 22:36:08]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 22:52:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 22:52:22]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 23:08:46]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 23:08:46]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 23:08:56]     Empty response (1/3), retrying in 10s...
+[2026-03-28 23:08:56]     Empty response (1/3), retrying in 10s...
+[2026-03-28 23:09:07]     batch ids 21501–21501 (1/20)
+[2026-03-28 23:09:07]     batch ids 21501–21501 (1/20)
+[2026-03-28 23:21:19]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 23:21:19]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-28 23:38:45]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 23:38:45]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-28 23:56:06]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 23:56:06]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-28 23:56:16]     Empty response (2/3), retrying in 10s...
+[2026-03-28 23:56:16]     Empty response (2/3), retrying in 10s...
+[2026-03-28 23:56:26]     batch ids 21501–21501 (1/20)
+[2026-03-28 23:56:26]     batch ids 21501–21501 (1/20)
+[2026-03-29 00:13:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 00:13:17]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 00:22:19]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 00:22:19]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 00:40:15]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 00:40:15]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 00:40:26]     Skipping batch after 3 failures, advancing
+[2026-03-29 00:40:26]     Skipping batch after 3 failures, advancing
+[2026-03-29 00:40:26]     batch ids 21501–21501 (1/20)
+[2026-03-29 00:40:26]     batch ids 21501–21501 (1/20)
+[2026-03-29 00:56:50]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 00:56:50]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 01:13:06]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 01:13:06]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 01:23:18]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 01:23:18]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 01:23:29]     Empty response (1/3), retrying in 10s...
+[2026-03-29 01:23:29]     Empty response (1/3), retrying in 10s...
+[2026-03-29 01:23:39]     batch ids 21501–21501 (1/20)
+[2026-03-29 01:23:39]     batch ids 21501–21501 (1/20)
+[2026-03-29 01:30:38]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 01:30:38]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 01:47:24]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 01:47:24]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 02:04:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 02:04:54]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 02:05:04]     Empty response (2/3), retrying in 10s...
+[2026-03-29 02:05:04]     Empty response (2/3), retrying in 10s...
+[2026-03-29 02:05:14]     batch ids 21501–21501 (1/20)
+[2026-03-29 02:05:14]     batch ids 21501–21501 (1/20)
+[2026-03-29 02:21:36]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 02:21:36]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 02:24:32]     Saved. 27_Private_Placements_DPPs P13: 2/20
+[2026-03-29 02:24:32]     Saved. 27_Private_Placements_DPPs P13: 2/20
+[2026-03-29 02:24:38]     batch ids 21502–21502 (2/20)
+[2026-03-29 02:24:38]     batch ids 21502–21502 (2/20)
+[2026-03-29 02:40:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 02:40:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 02:56:40]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 02:56:40]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 03:12:33]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 03:12:33]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 03:12:43]     Empty response (1/3), retrying in 10s...
+[2026-03-29 03:12:43]     Empty response (1/3), retrying in 10s...
+[2026-03-29 03:12:53]     batch ids 21502–21502 (2/20)
+[2026-03-29 03:12:53]     batch ids 21502–21502 (2/20)
+[2026-03-29 03:15:51]     Saved. 27_Private_Placements_DPPs P13: 3/20
+[2026-03-29 03:15:51]     Saved. 27_Private_Placements_DPPs P13: 3/20
+[2026-03-29 03:15:56]     batch ids 21503–21503 (3/20)
+[2026-03-29 03:15:56]     batch ids 21503–21503 (3/20)
+[2026-03-29 03:17:02]     Saved. 27_Private_Placements_DPPs P13: 4/20
+[2026-03-29 03:17:02]     Saved. 27_Private_Placements_DPPs P13: 4/20
+[2026-03-29 09:06:57] ============================================================
+[2026-03-29 09:06:57] new_folders_generator.py starting
+[2026-03-29 09:06:57] Model: claude-opus-4-6
+[2026-03-29 09:06:57] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-29 09:06:57] 
+==================================================
+[2026-03-29 09:06:57] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-29 09:06:57]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-29 09:06:57]   24_Variable_Annuities P13: already 25/25, skipping
+[2026-03-29 09:06:57] 
+==================================================
+[2026-03-29 09:06:57] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-29 09:06:57]   25_Leveraged_Inverse_ETFs P12: already 30/30, skipping
+[2026-03-29 09:06:57]   25_Leveraged_Inverse_ETFs P13: already 15/15, skipping
+[2026-03-29 09:06:57] 
+==================================================
+[2026-03-29 09:06:57] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-29 09:06:57]   26_Options P12: already 30/30, skipping
+[2026-03-29 09:06:57]   26_Options P13: already 15/15, skipping
+[2026-03-29 09:06:57] 
+==================================================
+[2026-03-29 09:06:57] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-29 09:06:57]   27_Private_Placements_DPPs P12: already 40/40, skipping
+[2026-03-29 09:06:57]   27_Private_Placements_DPPs P13: resuming from 18/20
+[2026-03-29 09:06:57]     batch ids 21518–21518 (18/20)
+[2026-03-29 09:08:10]     Saved. 27_Private_Placements_DPPs P13: 19/20
+[2026-03-29 09:08:15]     batch ids 21519–21519 (19/20)
+[2026-03-29 09:09:09]     Saved. 27_Private_Placements_DPPs P13: 20/20
+[2026-03-29 09:09:14]   27_Private_Placements_DPPs P13: COMPLETE (20 items)
+[2026-03-29 09:09:14] 
+==================================================
+[2026-03-29 09:09:14] Folder: 28_Structured_Products | P12 target: 30 | P13 target: 15
+[2026-03-29 09:09:14]   28_Structured_Products P12: resuming from 0/30
+[2026-03-29 09:09:14]     batch ids 12000–12000 (0/30)
+[2026-03-29 09:09:52]     Saved. 28_Structured_Products P12: 1/30
+[2026-03-29 09:09:57]     batch ids 12001–12001 (1/30)
+[2026-03-29 09:10:29]     Saved. 28_Structured_Products P12: 2/30
+[2026-03-29 09:10:34]     batch ids 12002–12002 (2/30)
+[2026-03-29 09:11:14]     Saved. 28_Structured_Products P12: 3/30
+[2026-03-29 09:11:19]     batch ids 12003–12003 (3/30)
+[2026-03-29 09:11:56]     Saved. 28_Structured_Products P12: 4/30
+[2026-03-29 09:12:01]     batch ids 12004–12004 (4/30)
+[2026-03-29 09:12:47]     Saved. 28_Structured_Products P12: 5/30
+[2026-03-29 09:12:52]     batch ids 12005–12005 (5/30)
+[2026-03-29 09:13:30]     Saved. 28_Structured_Products P12: 6/30
+[2026-03-29 09:13:35]     batch ids 12006–12006 (6/30)
+[2026-03-29 09:14:15]     Saved. 28_Structured_Products P12: 7/30
+[2026-03-29 09:14:21]     batch ids 12007–12007 (7/30)
+[2026-03-29 09:14:59]     Saved. 28_Structured_Products P12: 8/30
+[2026-03-29 09:15:04]     batch ids 12008–12008 (8/30)
+[2026-03-29 09:15:46]     Saved. 28_Structured_Products P12: 9/30
+[2026-03-29 09:15:52]     batch ids 12009–12009 (9/30)
+[2026-03-29 09:16:43]     Saved. 28_Structured_Products P12: 10/30
+[2026-03-29 09:16:48]     batch ids 12010–12010 (10/30)
+[2026-03-29 09:17:23]     Saved. 28_Structured_Products P12: 11/30
+[2026-03-29 09:17:28]     batch ids 12011–12011 (11/30)
+[2026-03-29 09:18:08]     Saved. 28_Structured_Products P12: 12/30
+[2026-03-29 09:18:13]     batch ids 12012–12012 (12/30)
+[2026-03-29 09:18:50]     Saved. 28_Structured_Products P12: 13/30
+[2026-03-29 09:18:56]     batch ids 12013–12013 (13/30)
+[2026-03-29 09:19:30]     Saved. 28_Structured_Products P12: 14/30
+[2026-03-29 09:19:35]     batch ids 12014–12014 (14/30)
+[2026-03-29 09:20:11]     Saved. 28_Structured_Products P12: 15/30
+[2026-03-29 09:20:16]     batch ids 12015–12015 (15/30)
+[2026-03-29 09:20:56]     Saved. 28_Structured_Products P12: 16/30
+[2026-03-29 09:21:01]     batch ids 12016–12016 (16/30)
+[2026-03-29 09:21:40]     Saved. 28_Structured_Products P12: 17/30
+[2026-03-29 09:21:46]     batch ids 12017–12017 (17/30)
+[2026-03-29 09:22:18]     Saved. 28_Structured_Products P12: 18/30
+[2026-03-29 09:22:24]     batch ids 12018–12018 (18/30)
+[2026-03-29 09:23:15]     Saved. 28_Structured_Products P12: 19/30
+[2026-03-29 09:23:20]     batch ids 12019–12019 (19/30)
+[2026-03-29 09:24:16]     Saved. 28_Structured_Products P12: 20/30
+[2026-03-29 09:24:21]     batch ids 12020–12020 (20/30)
+[2026-03-29 09:25:09]     Saved. 28_Structured_Products P12: 21/30
+[2026-03-29 09:25:14]     batch ids 12021–12021 (21/30)
+[2026-03-29 09:25:49]     Saved. 28_Structured_Products P12: 22/30
+[2026-03-29 09:25:54]     batch ids 12022–12022 (22/30)
+[2026-03-29 09:26:43]     Saved. 28_Structured_Products P12: 23/30
+[2026-03-29 09:26:48]     batch ids 12023–12023 (23/30)
+[2026-03-29 09:27:30]     Saved. 28_Structured_Products P12: 24/30
+[2026-03-29 09:27:35]     batch ids 12024–12024 (24/30)
+[2026-03-29 09:28:23]     Saved. 28_Structured_Products P12: 25/30
+[2026-03-29 09:28:28]     batch ids 12025–12025 (25/30)
+[2026-03-29 09:29:07]     Saved. 28_Structured_Products P12: 26/30
+[2026-03-29 09:29:13]     batch ids 12026–12026 (26/30)
+[2026-03-29 09:29:59]   JSON parse error (attempt 1): Expecting ',' delimiter: line 8 column 1589 (char 1747)
+[2026-03-29 09:30:53]     Saved. 28_Structured_Products P12: 27/30
+[2026-03-29 09:30:58]     batch ids 12027–12027 (27/30)
+[2026-03-29 09:31:33]     Saved. 28_Structured_Products P12: 28/30
+[2026-03-29 09:31:38]     batch ids 12028–12028 (28/30)
+[2026-03-29 09:32:19]     Saved. 28_Structured_Products P12: 29/30
+[2026-03-29 09:32:24]     batch ids 12029–12029 (29/30)
+[2026-03-29 09:33:02]     Saved. 28_Structured_Products P12: 30/30
+[2026-03-29 09:33:07]   28_Structured_Products P12: COMPLETE (30 items)
+[2026-03-29 09:33:07]   28_Structured_Products P13: resuming from 0/15
+[2026-03-29 09:33:07]     batch ids 22000–22000 (0/15)
+[2026-03-29 09:34:04]     Saved. 28_Structured_Products P13: 1/15
+[2026-03-29 09:34:09]     batch ids 22001–22001 (1/15)
+[2026-03-29 09:35:08]     Saved. 28_Structured_Products P13: 2/15
+[2026-03-29 09:35:13]     batch ids 22002–22002 (2/15)
+[2026-03-29 09:36:06]     Saved. 28_Structured_Products P13: 3/15
+[2026-03-29 09:36:11]     batch ids 22003–22003 (3/15)
+[2026-03-29 09:37:24]     Saved. 28_Structured_Products P13: 4/15
+[2026-03-29 09:37:29]     batch ids 22004–22004 (4/15)
+[2026-03-29 09:38:27]     Saved. 28_Structured_Products P13: 5/15
+[2026-03-29 09:38:33]     batch ids 22005–22005 (5/15)
+[2026-03-29 09:39:26]     Saved. 28_Structured_Products P13: 6/15
+[2026-03-29 09:39:31]     batch ids 22006–22006 (6/15)
+[2026-03-29 09:40:33]     Saved. 28_Structured_Products P13: 7/15
+[2026-03-29 09:40:39]     batch ids 22007–22007 (7/15)
+[2026-03-29 09:41:41]     Saved. 28_Structured_Products P13: 8/15
+[2026-03-29 09:41:46]     batch ids 22008–22008 (8/15)
+[2026-03-29 09:42:41]     Saved. 28_Structured_Products P13: 9/15
+[2026-03-29 09:42:46]     batch ids 22009–22009 (9/15)
+[2026-03-29 09:43:38]     Saved. 28_Structured_Products P13: 10/15
+[2026-03-29 09:43:43]     batch ids 22010–22010 (10/15)
+[2026-03-29 09:44:38]     Saved. 28_Structured_Products P13: 11/15
+[2026-03-29 09:59:58]     batch ids 22011–22011 (11/15)
+[2026-03-29 10:01:06]     Saved. 28_Structured_Products P13: 12/15
+[2026-03-29 10:01:11]     batch ids 22012–22012 (12/15)
+[2026-03-29 10:02:12]     Saved. 28_Structured_Products P13: 13/15
+[2026-03-29 10:02:17]     batch ids 22013–22013 (13/15)
+[2026-03-29 10:19:30]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 10:35:15]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 10:51:39]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 10:51:50]     Empty response (1/3), retrying in 10s...
+[2026-03-29 10:52:00]     batch ids 22013–22013 (13/15)
+[2026-03-29 11:08:12]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 11:25:20]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 11:26:30]     Saved. 28_Structured_Products P13: 14/15
+[2026-03-29 11:26:35]     batch ids 22014–22014 (14/15)
+[2026-03-29 11:43:48]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 12:01:42]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 12:19:00]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 12:19:10]     Empty response (1/3), retrying in 10s...
+[2026-03-29 12:19:20]     batch ids 22014–22014 (14/15)
+[2026-03-29 12:26:49]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 12:42:34]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 12:59:04]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 12:59:15]     Empty response (2/3), retrying in 10s...
+[2026-03-29 12:59:25]     batch ids 22014–22014 (14/15)
+[2026-03-29 13:15:15]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 13:27:49]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 13:29:14]     Saved. 28_Structured_Products P13: 15/15
+[2026-03-29 13:29:19]   28_Structured_Products P13: COMPLETE (15 items)
+[2026-03-29 13:29:19] 
+==================================================
+[2026-03-29 13:29:19] Folder: 29_Crypto_Digital_Assets | P12 target: 50 | P13 target: 25
+[2026-03-29 13:29:19]   29_Crypto_Digital_Assets P12: resuming from 0/50
+[2026-03-29 13:29:19]     batch ids 12500–12500 (0/50)
+[2026-03-29 13:30:01]     Saved. 29_Crypto_Digital_Assets P12: 1/50
+[2026-03-29 13:30:06]     batch ids 12501–12501 (1/50)
+[2026-03-29 13:30:55]     Saved. 29_Crypto_Digital_Assets P12: 2/50
+[2026-03-29 13:31:01]     batch ids 12502–12502 (2/50)
+[2026-03-29 13:31:44]     Saved. 29_Crypto_Digital_Assets P12: 3/50
+[2026-03-29 13:31:49]     batch ids 12503–12503 (3/50)
+[2026-03-29 13:32:32]     Saved. 29_Crypto_Digital_Assets P12: 4/50
+[2026-03-29 13:32:38]     batch ids 12504–12504 (4/50)
+[2026-03-29 13:33:27]     Saved. 29_Crypto_Digital_Assets P12: 5/50
+[2026-03-29 13:33:33]     batch ids 12505–12505 (5/50)
+[2026-03-29 13:34:18]     Saved. 29_Crypto_Digital_Assets P12: 6/50
+[2026-03-29 13:34:23]     batch ids 12506–12506 (6/50)
+[2026-03-29 13:35:08]     Saved. 29_Crypto_Digital_Assets P12: 7/50
+[2026-03-29 13:35:13]     batch ids 12507–12507 (7/50)
+[2026-03-29 13:35:56]     Saved. 29_Crypto_Digital_Assets P12: 8/50
+[2026-03-29 13:36:01]     batch ids 12508–12508 (8/50)
+[2026-03-29 13:36:44]     Saved. 29_Crypto_Digital_Assets P12: 9/50
+[2026-03-29 13:36:49]     batch ids 12509–12509 (9/50)
+[2026-03-29 13:37:27]     Saved. 29_Crypto_Digital_Assets P12: 10/50
+[2026-03-29 13:37:32]     batch ids 12510–12510 (10/50)
+[2026-03-29 13:38:15]     Saved. 29_Crypto_Digital_Assets P12: 11/50
+[2026-03-29 13:38:20]     batch ids 12511–12511 (11/50)
+[2026-03-29 13:39:14]     Saved. 29_Crypto_Digital_Assets P12: 12/50
+[2026-03-29 13:39:20]     batch ids 12512–12512 (12/50)
+[2026-03-29 13:39:55]     Saved. 29_Crypto_Digital_Assets P12: 13/50
+[2026-03-29 13:40:00]     batch ids 12513–12513 (13/50)
+[2026-03-29 13:40:49]     Saved. 29_Crypto_Digital_Assets P12: 14/50
+[2026-03-29 13:40:55]     batch ids 12514–12514 (14/50)
+[2026-03-29 13:41:31]     Saved. 29_Crypto_Digital_Assets P12: 15/50
+[2026-03-29 13:41:37]     batch ids 12515–12515 (15/50)
+[2026-03-29 13:42:20]     Saved. 29_Crypto_Digital_Assets P12: 16/50
+[2026-03-29 13:42:26]     batch ids 12516–12516 (16/50)
+[2026-03-29 13:57:46]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 13:58:33]     Saved. 29_Crypto_Digital_Assets P12: 17/50
+[2026-03-29 13:58:38]     batch ids 12517–12517 (17/50)
+[2026-03-29 14:16:29]   curl killed/failed rc=28 (attempt 1), retrying in 10s...
+[2026-03-29 14:28:49]   curl killed/failed rc=28 (attempt 2), retrying in 10s...
+[2026-03-29 14:44:42]   curl killed/failed rc=28 (attempt 3), retrying in 10s...
+[2026-03-29 14:44:52]     Empty response (1/3), retrying in 10s...
+[2026-03-29 14:45:02]     batch ids 12517–12517 (17/50)
+[2026-03-29 15:03:06]   curl killed/failed rc=28 (attempt 1), retrying in 10s...

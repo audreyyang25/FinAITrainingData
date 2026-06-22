@@ -1,0 +1,27 @@
+ID: 624
+Source Folder: 07_Practitioner_Commentary
+Topic: compliance_program_design
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Atlas Wealth Management, a dual-registered broker-dealer and investment adviser, prepared for its first SEC examination under the 2020 OCIE Examination Priorities by conducting a comprehensive internal review. The firm's CCO, recognizing OCIE's expanded focus areas including fintech, digital assets, and electronic investment advice, audited the firm's robo-advisory platform that managed $85 million across 1,400 retail accounts. The CCO discovered that the algorithm's rebalancing function occasionally recommended short-term municipal bond ETFs to clients in high tax brackets without accounting for state-specific tax implications. Rather than waiting for the exam, the CCO immediately updated the algorithm's parameters, documented the remediation in a compliance memorandum, retrained the three supervisors overseeing the digital platform, delivered updated Form CRS documents reflecting the robo-advisory channel to all affected retail investors, and established quarterly algorithm audits. During the subsequent SEC exam, the firm produced its full remediation file proactively.
+
+QUESTION
+--------
+Did Atlas Wealth Management's proactive identification and remediation of its robo-advisory platform deficiency satisfy its Reg BI Compliance Obligation and supervisory responsibilities?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The 2020 OCIE Examination Priorities specifically highlighted fintech and electronic investment advice as focus areas, and the FINRA Reg BI Checklist requires firms to establish and maintain written policies and procedures reasonably designed to achieve compliance with Reg BI. Atlas demonstrated a well-designed compliance program by proactively identifying a deficiency in its robo-advisory algorithm, promptly remediating the issue, retraining supervisors, delivering updated Form CRS to affected clients, and establishing ongoing monitoring through quarterly audits. This approach reflects industry best practices for the Compliance Obligation's requirement for reasonably designed policies and procedures.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(iv) – Reg BI Compliance Obligation; 2020 OCIE Examination Priorities (Fintech and Electronic Investment Advice); FINRA Reg BI Checklist
+
+KEY FACTOR
+----------
+The firm's proactive self-identification, prompt remediation, supervisor retraining, updated Form CRS delivery, and establishment of ongoing monitoring demonstrated a compliance program reasonably designed to achieve Reg BI compliance.

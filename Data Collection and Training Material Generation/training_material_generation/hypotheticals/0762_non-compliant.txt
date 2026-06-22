@@ -1,0 +1,27 @@
+ID: 762
+Source Folder: 13_FINRA_Rulebook
+Topic: suitability_rule
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David Kowalski, a registered representative, recommends that his client James Ortega, a 34-year-old software engineer earning $125,000 annually with $40,000 in savings and no prior investment experience, allocate 85% of his investable assets into a concentrated position in a single leveraged oil and gas exploration limited partnership. The partnership has a 10-year lock-up period and is classified as a speculative, illiquid investment. James's stated investment objective on his new account form is 'growth,' his risk tolerance is marked as 'moderate,' and his time horizon is '5-7 years.' David's firm gathered this profile information in compliance with FINRA Rule 2090, but David bases his recommendation on his own belief that oil prices will rise significantly. The firm's written supervisory procedures require a branch manager to review alternative investment recommendations, but the branch manager is on vacation and no designated alternate reviews the trade before execution.
+
+QUESTION
+--------
+Does this recommendation satisfy the customer-specific suitability obligation under FINRA Rule 2111(a)?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 2111(a) – Customer-Specific Suitability Obligation.
+
+FINRA Rule 2111(a) requires that a recommended transaction or investment strategy be suitable for the particular customer based on their investment profile, including risk tolerance, time horizon, liquidity needs, and investment experience. An 85% concentration in a speculative, illiquid 10-year lock-up investment for a moderate-risk-tolerance client with no investment experience and a 5-7 year time horizon fails the customer-specific suitability requirement. The recommendation reflects David's market view rather than James's profile. Additionally, the firm violated FINRA Rule 3110(a) by failing to have a designated alternate supervisor review the alternative investment recommendation before execution when the branch manager was unavailable.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) – Suitability (Customer-Specific Obligation); FINRA Rule 3110(a) – Supervision
+
+KEY FACTOR
+----------
+The recommendation to concentrate 85% of a moderate-risk, inexperienced investor's assets in a speculative, illiquid partnership with a lock-up period exceeding the client's stated time horizon fails customer-specific suitability.

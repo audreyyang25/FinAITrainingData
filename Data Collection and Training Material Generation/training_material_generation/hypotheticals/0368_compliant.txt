@@ -1,0 +1,25 @@
+ID: 368
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Jennifer, age 51, employed with $480,000 in 401(k) managed by Vanguard. Plan offers 12 low-cost index funds (average ER 0.04%) and allows loans (interest rate = prime + 1%, currently 8.5%). She is vice president of marketing, relatively financially sophisticated, and controls investment decisions. She approaches her independent RIA for advice on a potential consolidation. The RIA documents a written analysis showing: (1) plan fees charged: $0 advisory, $3,600/year ($480K × 0.0075%) plan administration fee; (2) IRA alternative fees: 0.40% AUM ($1,920/year) plus $100 annual custodial fee; (3) loan access: plan allows loans; IRA does not; (4) distribution flexibility: plan restricted to age 59.5 or separation; IRA allows unrestricted at age 59.5. The RIA recommends keeping assets in plan given superior fees and loan access for her stated situation. RIA does not charge additional fee for the analysis (already compensated via existing 0.25% AUM on separate accounts). Client decides to roll over anyway for consolidation; RIA documents client's decision and re-confirms that plan retention is superior, with client signing acknowledgment.
+
+QUESTION
+--------
+Does the RIA's handling of the rollover analysis comply with PTE 2020-02 and DOL ERISA fiduciary duty?
+
+ANSWER
+------
+Yes, the RIA substantially complies with PTE 2020-02 requirements. The RIA satisfied all five prongs: (1) fiduciary capacity clearly established; (2) best interest standard met through written comparative analysis (plan vs. IRA fees, loan access, distribution rules) showing plan retention is superior given client's circumstances; (3) no misleading representations—analysis is accurate and complete; (4) reasonable compensation—0.25% AUM on existing accounts is reasonable, and no additional fee charged for rollover analysis creates no conflict; (5) documented written policies and procedures reflected in the analysis memo. Although the client ultimately chose rollover, the RIA's obligation was to provide best interest analysis, not to prevent unsuitable decisions by financially sophisticated clients. The RIA's contemporaneous documentation that plan retention is superior, combined with the client's signed acknowledgment overriding that advice, insulates the firm from fiduciary liability. This approach mirrors SEC/DOL safe harbor practices for rejected adviser recommendations.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02(d) Five-Part Test; 29 CFR §2550.408(b)(14)(i)-(v); DOL ERISA §408(b)(14)
+
+KEY FACTOR
+----------
+RIA provided documented best interest analysis showing plan superior, disclosed all material facts, received client's informed override in writing, with no compensation increase from rollover.

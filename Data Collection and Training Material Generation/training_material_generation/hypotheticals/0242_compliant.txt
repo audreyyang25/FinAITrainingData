@@ -1,0 +1,25 @@
+ID: 242
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Merrill Lynch Wealth Management advisor manages $2.8M portfolio for 62-year-old client with moderate risk tolerance. Firm receives 18 bps revenue sharing from BlackRock for assets in iShares ETFs (versus 6 bps from non-affiliated competitors). Advisor recommends $1.6M in iShares Core U.S. Equity ETF (0.04% ER) versus comparable competitor ETFs (0.05–0.08% ER). Advisor documented in writing: (1) Identification of conflict (revenue-sharing spread); (2) Explicit comparison of expense ratios, tracking error, liquidity, and fund size; (3) Conclusion that iShares' 0.04% ER and superior liquidity ($2.1B daily volume) made it objectively lowest-cost option despite conflicts; (4) Disclosure of revenue-sharing amount ($288K annualized on the $1.6M iShares holding). Advisor offered client alternative providers (Charles Schwab, Fidelity) and documented client's affirmative preference for iShares after review.
+
+QUESTION
+--------
+Did Merrill Lynch Advisor satisfy Reg BI's Conflict of Interest Obligation by documenting comparative analysis and allowing the client informed choice?
+
+ANSWER
+------
+Yes. Reg BI §240.15l-1(a)(2)(ii) permits recommendations of higher-compensation products when: (1) conflict is identified and disclosed; (2) material factors are compared (here: expense ratios, liquidity, tracking); (3) mitigation demonstrates the recommendation was NOT materially influenced by the conflict; (4) client receives reasoned basis for choice. The documentation showed iShares was objectively lowest-cost despite revenue-sharing incentive—this affirmatively rebuts materiality of bias. The 0.04% ER versus 0.05–0.08% alternatives, combined with superior liquidity, established that the conflict did not drive the recommendation; comparative advantage did. Disclosure of the revenue-sharing amount ($288K) and offer of alternatives further mitigated. The written comparative analysis is the decisive compliance factor: it proves the advisor managed (not merely disclosed) the conflict.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); mitigation through documented comparative analysis and disclosure
+
+KEY FACTOR
+----------
+Documented comparative analysis showing recommended product is objectively superior despite financial incentive demonstrates conflict was managed, not merely disclosed.

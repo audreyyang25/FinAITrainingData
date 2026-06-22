@@ -1,0 +1,27 @@
+ID: 42
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer advertises on its website that it offers 'low-cost investment solutions' with 'fees starting at 0.25%.' A 50-year-old client with $400,000 views this advertisement and opens an account. However, the advertised 0.25% fee applies only to advisory clients with assets above $2 million. For this client's $400,000 account, the actual advisory fee is 1.5%. The Form CRS provided to the client after account opening (not before) states the advisory fee range is '0.25%–1.5%' without specifying which asset tiers trigger which fee levels. The client only discovers the true 1.5% fee when the first quarterly statement arrives showing actual deductions.
+
+QUESTION
+--------
+Does this disclosure comply with Reg BI's requirement to disclose fees before providing advice?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+Reg BI requires broker-dealers to disclose material facts, including fees, before providing advice or accepting a customer for a relationship. Here, the client was induced to open the account based on a website advertisement stating 0.25% fees, but the actual applicable fee is 1.5%—a 500% difference. While the Form CRS was eventually provided, it was delivered post-account-opening and failed to clearly delineate which fee applies to which asset level, creating confusion. The client did not discover the true fee until the first quarterly statement. This delay in clear, accurate disclosure violates Reg BI's timing requirement. Additionally, the advertisement's statement that fees 'start at 0.25%' without clarifying that this applies only to accounts above $2 million could be viewed as misleading under Exchange Act Section 34(b). The SEC has emphasized that Reg BI requires transparent, pre-relationship disclosure.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest (17 CFR 240.15l-1(b)(1)–(2)) requiring disclosure of material facts about the relationship and compensation before making recommendations or opening an account; SEC guidance on pre-recommendation disclosure timing and anti-fraud rules under Securities Exchange Act Section 34(b).
+
+KEY FACTOR
+----------
+Failure to disclose the applicable fee tier (1.5% for a $400,000 account) before account opening, reliance on post-account-opening Form CRS, and misleading website advertisement suggesting 0.25% starting fees without asset-level qualifications.

@@ -1,0 +1,25 @@
+ID: 296
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisory firm charges a performance fee of 15% of gains to a 45-year-old retail investor with $250,000 in a discretionary account. The client is not accredited (income $95,000/year, net worth $300,000). The fee arrangement is disclosed in Form ADV Part 2A, but the adviser received no written acknowledgment from the client that they are not a qualified client as defined in Rule 205-3(d)(1). The performance fee was applied retroactively to the first quarter of 2024.
+
+QUESTION
+--------
+Does this performance fee arrangement comply with Investment Adviser Act Rule 205-3?
+
+ANSWER
+------
+No. Rule 205-3(a) prohibits performance fees to non-qualified clients, defined in Rule 205-3(d)(1) as natural persons whose net worth (excluding primary residence) is less than $750,000 or whose net income is less than $200,000 individually. This client qualifies as non-qualified (net worth $300,000, income $95,000). Rule 205-3(e) permits performance fees only when the adviser obtains a written acknowledgment that the client is a qualified client and understands the risks. No such acknowledgment was obtained. Disclosure alone in Form ADV does not satisfy the requirement; individual client acknowledgment is mandatory. The retroactive application further violates the rule's requirement that the fee arrangement be in place prospectively.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Rule 205-3(a) and (e), 17 CFR §275.205-3
+
+KEY FACTOR
+----------
+Performance fee charged to non-qualified client without required written acknowledgment that client meets Rule 205-3(d)(1) accreditation threshold.

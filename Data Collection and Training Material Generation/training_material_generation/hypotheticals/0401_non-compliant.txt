@@ -1,0 +1,25 @@
+ID: 401
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A Massachusetts-based broker-dealer has historically relied on federal Reg BI as its compliance baseline for all clients, including those in Massachusetts. The firm's engagement letter and Form CRS do not reference Massachusetts fiduciary rule (2020), which imposes a higher standard than federal Reg BI. The firm recommends to a Boston client, age 62, with $750,000 in assets, a portfolio of five actively managed mutual funds with blended expense ratio of 1.08% and 45% annual turnover. The recommendation is documented as meeting Reg BI's best-interest obligation. However, the adviser did not conduct a written analysis comparing the recommended strategy to a lower-cost index-based alternative (estimated total cost: 0.15% annually), nor did the adviser disclose the Massachusetts fiduciary rule status. A subsequent independent analysis shows the actively managed strategy underperformed the index alternative by 1.7% annually (net of fees) over a 5-year holding period. The client files a complaint with the Massachusetts Securities Division.
+
+QUESTION
+--------
+Did the broker-dealer comply with Massachusetts fiduciary rule by documenting only federal Reg BI compliance and not disclosing MA law's higher standard?
+
+ANSWER
+------
+No. Massachusetts fiduciary rule (effective 2020) imposes a broker-dealer fiduciary duty above the federal Reg BI baseline. The firm's failure to acknowledge and apply this higher standard constitutes non-compliance. Specifically: (1) Form CRS and engagement letter must disclose MA fiduciary status—omission itself is a violation; (2) MA fiduciary rule requires best-interest determination with comparison to available alternatives; (3) Recommending 1.08% actively managed strategy without comparing to 0.15% index alternative, when the former underperformed by 1.7% annually, suggests the recommendation did not serve the client's interest (loyal fiduciary would choose lower-cost alternative); (4) The 45% turnover and higher costs benefit the adviser relative to client outcomes; (5) Federal Reg BI compliance alone is insufficient in Massachusetts—the state rule is the applicable binding law. This pattern mirrors Massachusetts Securities Division enforcement findings (e.g., against firms ignoring MA fiduciary rule post-2020). The federal-only compliance strategy is a material deficiency under state law.
+
+APPLICABLE STANDARD
+-------------------
+Massachusetts Fiduciary Rule (2020) — Broker-dealer Fiduciary Duty; Massachusetts Form CRS Supplemental Disclosure Requirements
+
+KEY FACTOR
+----------
+Relying exclusively on federal Reg BI compliance while ignoring Massachusetts's higher fiduciary standard, and failing to disclose MA law status, violates applicable state law regardless of federal compliance.

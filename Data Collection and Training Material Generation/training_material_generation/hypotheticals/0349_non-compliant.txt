@@ -1,0 +1,25 @@
+ID: 349
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Client D.R., age 71, held a fixed index annuity (Equitable Holding Corp. structured annuity, issued 2016, annual 2.50% fee) with a current account value of $310,000 and a remaining surrender charge of 4% ($12,400). The representative at CapitalGrow Securities recommended surrendering the existing annuity and purchasing a new variable annuity (Hartford Funds Variable Annuity, 1.65% mortality and expense charge, 0.42% insurance charge, plus subaccount expense ratios averaging 0.68%, total annual cost 2.75%) with $310,000 principal. The new annuity had a 7-year surrender period with a 6% initial charge declining 1% annually. No new annuitization or life event had occurred. The representative's commission on the new annuity sale was $9,300 (3% of principal). A contemporaneous fact-find documented client's goal as 'income in retirement'—unchanged from the existing annuity. The firm approved the recommendation without requiring a cost-benefit analysis comparing the two products.
+
+QUESTION
+--------
+Did the representative and firm violate FINRA Rule 2330 (Variable Annuity Sales) and Rule 2111 (Suitability) by recommending the exchange without demonstrating material benefit?
+
+ANSWER
+------
+Non-compliant. FINRA Rule 2330(d) explicitly requires that prior to recommending the exchange or replacement of an existing annuity, the member firm must prepare a detailed written comparison of the old and new contracts, including surrender charges, expense ratios, and features. The recommendation must be suitable under Rule 2111, which requires the firm to have a reasonable basis for recommending the exchange in light of the client's circumstances. Here, D.R.'s stated objective ('income in retirement') did not change, and the new annuity's total annual cost (2.75%) exceeded the old product (2.50%) while imposing a new 4% surrender charge ($12,400 immediate loss plus new 6% surrender period). The $9,300 commission created an obvious conflict of interest. FINRA enforcement pattern (AWC 2021-056, comparable annuity exchange case) establishes that exchanges lacking documented economic benefit to the customer, especially for retirees approaching or in annuitization, constitute violations of Rule 2330 and Rule 2111. The firm's failure to require the mandated written comparison compounds the violation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(d) (Variable Annuity Exchanges — comparison and suitability); FINRA Rule 2111(a)(2) (Suitability)
+
+KEY FACTOR
+----------
+Exchange to higher-cost annuity with new surrender charge and no documented benefit, plus firm's failure to prepare required written comparison, violates Rule 2330(d) and Rule 2111.

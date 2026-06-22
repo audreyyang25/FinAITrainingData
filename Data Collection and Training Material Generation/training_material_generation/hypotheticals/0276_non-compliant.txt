@@ -1,0 +1,25 @@
+ID: 276
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Madison Wealth Management, a $280M AUM adviser, managed a $12M proprietary trading account alongside 47 client accounts. The firm's written Allocation Policy stated: 'Block trades shall be allocated on a pro-rata basis weighted by account AUM.' However, over a 14-month period (Jan–Feb 2023), Madison executed 23 block trades in equity securities. An SEC examination revealed: (1) In 18 of 23 trades, the proprietary account received allocations at better average prices than client accounts; (2) The proprietary account represented 4.1% of total firm AUM but received 12.8% of total block-trade dollar allocations; (3) Price deviations favoring proprietary allocations ranged from $0.05 to $2.10 per share; (4) No allocation rebalancing occurred; (5) The adviser had a written conflict-of-interest disclosure but did not disclose the systematic allocation deviation. Cumulative proprietary gains from favorable allocations exceeded $185,000 over the period.
+
+QUESTION
+--------
+Does this pattern of allocations violate Section 206 and Rule 17j-1, and what evidence is most probative?
+
+ANSWER
+------
+Yes. This violates Section 206(1) (breach of fiduciary duty) and Rule 17j-1(b)(1) (failure to consistently apply written policy). The statistical evidence is determinative: the proprietary account received disproportionate allocations (12.8% vs. 4.1% of AUM) and systematically better prices (18 of 23 trades). Although a pro-rata policy existed, it was not applied. Rule 17j-1 requires consistent application; deviations must be rare, inadvertent, or documented in writing. Here, 78% of trades show bias, demonstrating a pattern, not inadvertent error. The adviser disclosed conflicts but not the specific allocation practice, violating the disclosure requirement. The $185,000 cumulative gain to the proprietary account establishes materiality and intent. SEC enforcement (e.g., In re Oppenheimer & Co.) treats statistical deviation over time as cherry-picking, even absent a smoking-gun e-mail. The adviser's failure to disclose the systematic deviation further violates Section 206(2) (fraudulent conduct).
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) & (2); SEC Rule 17j-1(b)(1), (c)(1) (consistent application and client disclosure of allocation practices)
+
+KEY FACTOR
+----------
+Systematic statistical bias in block allocations over 14 months (proprietary account receiving 12.8% of allocations vs. 4.1% of AUM) combined with failure to disclose the practice demonstrates non-compliance with the written policy and Section 206.

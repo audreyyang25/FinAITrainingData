@@ -1,0 +1,27 @@
+ID: 799
+Source Folder: 15_FINRA_Regulatory_Notices
+Topic: complex_products
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA member firm permits its registered representatives to recommend alternative mutual funds employing multi-alternative and event-driven strategies. The firm's compliance manual includes a section on Alt Funds, and representatives are required to complete a one-hour online training module before selling them. However, the firm's supervisory review process relies on a principal who reviews only a 5% random sample of Alt Fund recommendations monthly. FINRA examiners discover that 68 of 410 Alt Fund recommendations over 18 months were made to customers whose account documentation reflected conservative investment objectives and annual income below $45,000, with Alt Fund allocations averaging 40% of total portfolio value. The reviewing principal flagged none of these recommendations because the random sample review never selected any of the 68 accounts. The firm has no concentration limits, no risk-based screening for Alt Fund recommendations, and no systematic process to match Alt Fund complexity to customer profiles.
+
+QUESTION
+--------
+Was the firm's supervisory system for alternative mutual fund recommendations reasonably designed under FINRA standards despite having some written procedures and training in place?
+
+ANSWER
+------
+No, this conduct is a supervisory system deficiency regarding alternative mutual fund suitability review.
+
+Regulatory Notice 22-11 highlights that FINRA has noted deficiencies at firms that nominally had supervisory procedures but whose systems were not reasonably designed to identify unsuitable Alt Fund recommendations. A 5% random sample review with no risk-based screening, no concentration thresholds, and no systematic matching of product complexity to customer investment profiles is insufficient to detect obvious red flags such as conservative investors with low incomes holding 40% Alt Fund allocations. The existence of a training module and written procedures does not satisfy FINRA Rule 3110 if the actual implementation fails to catch plainly unsuitable recommendations. The 68 undetected problematic recommendations over 18 months demonstrate the system's inadequacy.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision); FINRA Rule 2111 (Suitability); FINRA Regulatory Notice 22-11 (Alt Funds Sales Practice Obligations)
+
+KEY FACTOR
+----------
+Despite having written procedures and training, the firm's purely random-sample review process with no risk-based screening or concentration limits was not reasonably designed to detect unsuitable Alt Fund recommendations to conservative, low-income investors.

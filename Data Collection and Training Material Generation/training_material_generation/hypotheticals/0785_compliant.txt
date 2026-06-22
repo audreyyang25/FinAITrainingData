@@ -1,0 +1,27 @@
+ID: 785
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_fraud
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Summit Ridge Advisors, LLC, a state-registered investment adviser in Colorado with $45 million in AUM, manages a pooled investment vehicle called the Summit Ridge Diversified Fund LP with $6.8 million from 22 accredited investor clients. The firm's principal, Jonathan Mercer, maintains all fund assets at Charles Schwab as a qualified custodian in an account titled 'Summit Ridge Diversified Fund LP.' Mercer disclosed custody of pooled vehicle assets on Form ADV Part 1A, Item 9, and notified the Colorado Division of Securities promptly in writing. The fund undergoes an annual audit by an independent PCAOB-registered public accounting firm, and audited financial statements are distributed to all fund investors within 120 days of the fund's fiscal year-end. Mercer charges a 1.5% management fee and 15% performance allocation, both of which are fully disclosed in Form ADV Part 2A and the fund's private placement memorandum. A state examiner during a 2025 coordinated exam initially flagged the performance allocation as a potential conflict of interest but, upon review, confirmed all disclosures were adequate and the fee structure was consistent with the offering documents.
+
+QUESTION
+--------
+Is Summit Ridge Advisors' management of the pooled investment vehicle, including its custody arrangements and fee disclosures, compliant with NASAA model custody rules and state securities law?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Summit Ridge satisfies all elements of NASAA Model Rule 102(e)(1)-1: the firm notified the Administrator of custody on Form ADV (subsection a(1)), maintains fund assets at a qualified custodian in the name of the pooled investment vehicle (subsection a(2)(B)), and distributes audited financial statements to investors within 120 days of fiscal year-end, which satisfies the audit exception to the surprise examination requirement. The performance allocation and management fee, while representing potential conflicts of interest, are fully disclosed in both Form ADV Part 2A and the PPM. The 2025 coordinated examination confirmed compliance despite the initial flag, illustrating that adequate disclosure of conflicts can resolve surface-level concerns.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(e)(1)-1(a)(1)-(3) – Custody of Client Funds or Securities by Investment Advisers; annual audit exception to surprise examination requirement; Form ADV disclosure obligations
+
+KEY FACTOR
+----------
+The firm maintained pooled vehicle assets at a qualified custodian in the fund's name, obtained an annual audit distributed within 120 days, and fully disclosed all fees and conflicts in Form ADV and offering documents.

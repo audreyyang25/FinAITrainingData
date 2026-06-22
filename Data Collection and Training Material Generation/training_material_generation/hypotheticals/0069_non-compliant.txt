@@ -1,0 +1,27 @@
+ID: 69
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA managing $100M AUM enters into a compensation arrangement with a custodian whereby the RIA receives $100 per account per month ($1,200/year) for each client account held at the custodian, in addition to the RIA's standard 1% AUM fee. The RIA discloses the AUM fee in its ADV but states only that it 'may receive compensation from custodians' without disclosing the specific amount per account. Over three years, the RIA refers 120 new clients to the custodian (instead of allowing clients to choose), generating $432,000 in undisclosed kickback compensation.
+
+QUESTION
+--------
+Does this compensation arrangement comply with the Investment Adviser Act fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty under the Investment Adviser Act.
+
+The adviser's undisclosed per-account custodian compensation creates a material conflict of interest that violates §206(2) because it incentivizes the adviser to select a custodian based on the adviser's financial benefit rather than the client's best execution and service interests. The generic disclosure in the ADV ('may receive compensation') fails to meet the specificity required under SEC Rule 206(4)-3 and SEC guidance; clients cannot assess the magnitude or impact of the conflict if they do not know the adviser receives $1,200/year per account. The 'soft dollar' arrangement further violates the duty of loyalty because the adviser directly profits from steering clients to a particular custodian rather than allowing clients to choose. The aggregate undisclosed compensation of $432,000 demonstrates knowing and reckless disregard of the fiduciary obligation. Even if the custodian was appropriate, the failure to disclose the specific incentive breaches the duty to act in the client's interest.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2) (prohibition on engaging in fraudulent conduct/self-dealing); SEC Rule 206(4)-3 (prohibition on cash compensation from custodians without disclosure); SEC Guidance on Custodian Payments and Adviser Conflicts (Release IA-2568); Regulation Best Interest (SEC Rule 15l-1) cross-reference on conflict disclosure.
+
+KEY FACTOR
+----------
+Material conflict of interest (per-account custodian kickbacks) not specifically disclosed, creating incentive to steer clients to a particular custodian and depriving clients of ability to assess adviser's independence.

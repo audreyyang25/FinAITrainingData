@@ -1,0 +1,25 @@
+ID: 359
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Titan Brokerage, a 28-person FINRA member firm with one branch, had no written supervisory procedures at all. The firm's compliance officer, Rita M., verbally instructed reps to 'be careful with suitability' and told managers to 'watch for red flags,' but these instructions were never documented, and no training materials, checklists, or escalation procedures existed. Over 18 months, registered rep Kenneth F. executed 156 option trades in the account of Mr. Lee (age 76, $180,000 portfolio, stated risk tolerance 'conservative'), generating $24,300 in commissions and resulting in realized losses of $47,200. When Mr. Lee filed a complaint alleging churning and unsuitability, Rita M. received the complaint email but did not log it, did not notify branch manager Steven P., and did not investigate. Four months later, a FINRA exam revealed the absence of written procedures and the unhandled complaint. Kenneth F.'s trading pattern showed 89% turnover annually on a conservative-risk account, with average holding periods of 18 days.
+
+QUESTION
+--------
+Did Titan Brokerage comply with FINRA Rule 3110 regarding written supervisory procedures?
+
+ANSWER
+------
+No. FINRA Rule 3110(b) explicitly requires member firms to establish and maintain written supervisory procedures reasonably designed to supervise the activities of each registered person. Titan's complete absence of written procedures is a fundamental violation. The verbal instructions to 'be careful' and 'watch for red flags' do not satisfy the written documentation requirement. Additionally, Rita M.'s failure to log, escalate, or investigate Mr. Lee's complaint constitutes a separate violation of Rule 3110(d) regarding complaint handling. The unchecked 89% portfolio turnover and $24,300 in commissions on a $180,000 conservative account, combined with the absence of supervisory controls, evidences systemic supervisory failure. This is a straightforward Rule 3110(b) violation akin to foundational FINRA enforcement patterns.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(b) — Written Supervisory Procedures (Mandatory Requirement)
+
+KEY FACTOR
+----------
+The firm maintained no written supervisory procedures whatsoever, in direct violation of the mandatory requirement under Rule 3110(b).

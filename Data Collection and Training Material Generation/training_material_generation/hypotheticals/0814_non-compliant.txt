@@ -1,0 +1,27 @@
+ID: 814
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_enforcement_patterns
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Raymond James Financial Services, Inc. ('RJFS') executed approximately 270,000 low-principal equity transactions in customer accounts across multiple states, including Massachusetts, between 2018 and 2022. On these transactions, RJFS charged commissions that, when calculated as a percentage of the transaction's principal value, frequently exceeded 5% and in some cases reached 20–30% of principal on trades involving balances under $500. The Massachusetts Securities Division, acting as lead state in a coordinated investigation, found that the commission structure was applied systematically without individualized review of whether such charges were reasonable relative to the services rendered, the size of the transaction, or comparable market rates. RJFS's written supervisory procedures did not include any mechanism to flag, review, or reject commission charges that were disproportionate to transaction principal. The Division entered a Consent Order under Docket No. E-2023-0041 requiring remediation and a fine.
+
+QUESTION
+--------
+Did RJFS's practice of charging commissions that frequently exceeded 5%—and sometimes 20–30%—of principal on low-value equity transactions violate Massachusetts state securities law?
+
+ANSWER
+------
+No, this conduct is not compliant — it constitutes charging unreasonable commissions in violation of the Massachusetts Uniform Securities Act.
+
+The Massachusetts Uniform Securities Act and its implementing regulations prohibit broker-dealers from charging unreasonable commissions that are disproportionate to the services provided and the size of the transaction. On low-principal equity trades, a commission consuming 20–30% of transaction value is facially unreasonable under the NASAA Statement of Policy on Dishonest or Unethical Business Practices, which identifies excessive markups and commissions as a per se violation. RJFS's failure to implement supervisory controls capable of identifying and preventing these charges compounded the substantive violation, as coordinated state enforcement—led by Massachusetts—confirmed across approximately 270,000 transactions.
+
+APPLICABLE STANDARD
+-------------------
+Massachusetts Uniform Securities Act, Mass. Gen. Laws c. 110A, and 950 Code Mass. Regs. 10.01–14.413 (prohibition on unreasonable commissions and dishonest or unethical practices)
+
+KEY FACTOR
+----------
+The systematic imposition of commissions vastly disproportionate to low transaction principal amounts, without any supervisory review mechanism to detect or prevent overcharging, constituted unreasonable commission practices actionable under state securities law.

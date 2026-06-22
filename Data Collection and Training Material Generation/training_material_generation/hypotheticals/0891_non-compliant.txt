@@ -1,0 +1,27 @@
+ID: 891
+Source Folder: 19_CFTC_Guidance
+Topic: commodity_conflicts
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A dual-registered investment adviser and CPO manages a registered investment company that began investing in commodity-linked derivatives after the CFTC's February 8, 2012 rule amendments eliminated the prior exemption and imposed CPO registration requirements on such advisers. Following registration, the firm began allocating the fund's assets to commodity swaps and futures contracts issued by an affiliated commodity broker-dealer, generating $1.2 million in annual soft-dollar credits and execution fees flowing back to the parent company. The firm's Form CPO-PQR filings accurately disclosed the pool's positions and margins, but the firm's offering documents and investor disclosures did not describe the affiliated broker-dealer relationship or quantify the fee revenue generated. Investors were not informed that the selection of the affiliated broker created a material financial conflict of interest.
+
+QUESTION
+--------
+Did the CPO's failure to disclose its affiliated broker-dealer relationship and associated fee revenues in investor-facing documents violate CFTC disclosure obligations?
+
+ANSWER
+------
+No, this conduct is a conflict of interest disclosure violation under CFTC Regulation 4.24 and NFA Compliance Rule 2-29.
+
+CFTC Regulation 4.24(l) requires CPO disclosure documents to describe all material conflicts of interest, including those arising from affiliated service provider relationships where fees flow to related parties. The firm's accurate Form CPO-PQR filing addresses regulatory reporting but does not substitute for investor-facing disclosure of conflicts. Routing $1.2 million in execution business to an affiliate without disclosure is a material omission that prevents investors from evaluating the impartiality of the CPO's brokerage selection decisions. The 2012 CFTC rule amendments that triggered registration also carried with them the full suite of disclosure obligations that the firm failed to honor.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Regulation 4.24(l) – CPO Disclosure Document Requirements; NFA Compliance Rule 2-29 – Communications with the Public
+
+KEY FACTOR
+----------
+The CPO disclosed accurate position data to regulators but omitted a material affiliated-broker conflict generating $1.2 million in annual revenues from investor-facing offering documents.

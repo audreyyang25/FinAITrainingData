@@ -1,0 +1,27 @@
+ID: 28
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer recommends its proprietary mutual fund (0.85% ER, 20 bps 12b-1) to a 48-year-old client with $400,000 in taxable assets and aggressive growth objectives. The advisor provides a written disclosure stating: (1) the firm earns 12b-1 fees from the fund; (2) lower-cost alternatives exist (e.g., index fund at 0.10% ER); and (3) the proprietary fund is recommended because of superior historical risk-adjusted returns (13.2% annualized over 5 years vs. 11.8% for the benchmark index) and active management features valued for volatile equity markets.
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+Yes, this recommendation is compliant with Regulation Best Interest.
+
+The firm satisfied Reg BI's conflict-of-interest standard through three compliant steps: (1) clear written disclosure of the 12b-1 fee arrangement and resulting revenue incentive; (2) explicit acknowledgment that lower-cost alternatives exist, demonstrating awareness of the conflict; and (3) articulated, documented business rationale (superior risk-adjusted performance and active management) that supports the higher-cost recommendation as in the client's interest despite the conflict. The SEC's Reg BI release states that disclosure of conflicts combined with mitigation steps (such as comparative product analysis and documented suitability rationale) satisfies the broker's obligation, provided the recommendation remains in the customer's best interest. The advisor's documented 5-year outperformance data (130 basis points) exceeds the 75 basis point cost differential, supporting the claim that active management benefits the client.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) — broker must disclose material conflicts of interest and take reasonable steps to mitigate conflicts that place broker's interests ahead of the customer's; disclosure coupled with documented performance justification may satisfy mitigation.
+
+KEY FACTOR
+----------
+Documented disclosure of conflict + comparative analysis + performance-based business justification for higher-cost proprietary product.

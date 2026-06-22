@@ -1,0 +1,27 @@
+ID: 143
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old plan participant with $340,000 in a 401(k) receives a rollover recommendation from a broker-dealer advisor. The 401(k) offers a stable value fund (guaranteed 3.2% annual return) and low-cost index funds. The advisor recommends rolling to an IRA and investing in a variable annuity with a 1.85% annual expense ratio, a 7% surrender charge (declining 1% per year), and a guaranteed income rider costing an additional 0.75% annually. The advisor documents that the rollover is "suitable" and provides "income security" for the participant's approaching retirement. The advisor receives a 4% sales commission on the annuity (deferred and recouped through surrender charges). The participant is risk-averse, has stable income, and expressed concern about market volatility. No comparison to the 401(k) options is documented, and the advisor does not discuss the surrender charge's impact on liquidity.
+
+QUESTION
+--------
+Does this rollover recommendation comply with DOL ERISA fiduciary duty and PTE 2020-02 requirements?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and does not satisfy PTE 2020-02 requirements.
+
+This recommendation violates PTE 2020-02 on multiple grounds. First, the advice is materially tainted by the advisor's compensation incentive: the advisor received a 4% sales commission front-loaded through surrender charges, creating a direct financial stake in the rollover. Under PTE 2020-02, rollover advice must be rendered "without regard to the financial or other interests of the fiduciary," and the 4% commission directly contradicts this requirement. Second, the recommendation lacks an impartial fee and product comparison: the advisor did not document why the variable annuity's 2.6% total annual cost (1.85% ER + 0.75% rider) plus 7% surrender charge is preferable to the 401(k)'s stable value fund (3.2% guaranteed return with no surrender restrictions) or low-cost index funds. The stable value option is explicitly designed for risk-averse participants and provides a guaranteed return, making the higher-cost, illiquid annuity difficult to justify for this participant's profile. Third, the documentation is superficial: citing "income security" and "suitability" without analyzing the participant's actual situation (stable income, approaching retirement, expressed risk aversion) fails the "reasonable inquiry" requirement of 29 CFR 2550.404a-1(b)(4)(iii). The failure to discuss the 7-year surrender charge's impact on a 58-year-old participant within 7-10 years of retirement compounds the breach.
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA Section 406(b) (fiduciary duty; prohibition on self-dealing); PTE 2020-02 (requirement that rollover advice be based on disinterested analysis of the participant's best interest); 29 CFR 2550.404a-1(b)(4)(viii) (impartial conduct requirement).
+
+KEY FACTOR
+----------
+The advisor received a substantial 4% front-loaded sales commission on the annuity recommendation and failed to document any comparison to the 401(k)'s lower-cost, lower-risk alternatives, establishing that the recommendation was tainted by compensation incentive and not based on disinterested analysis required by PTE 2020-02.

@@ -1,0 +1,25 @@
+ID: 282
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Sentinel Portfolio Advisers, managing $845 million for 340 institutional clients, uses a soft-dollar arrangement with its primary broker, Pinnacle Securities, to fund $720,000 annually in office technology, research subscriptions, and vendor software licenses. Under the arrangement, Pinnacle retains excess commissions (up to $0.015 per share executed) to offset these costs, above the firm's documented legitimate research spend. Sentinel's ADV (average daily volume) is approximately 156,000 shares across equity and fixed-income. The arrangement benefits all clients collectively but provides unequal benefit to client portfolios with different sector allocations (tech-heavy portfolios receive little benefit from bond research funded by the soft dollars). Sentinel's disclosure brochure mentions "research and technology funding" generically but does not itemize the $720,000 annual soft-dollar budget, identify Pinnacle by name, or quantify the execution cost impact per dollar of AUM.
+
+QUESTION
+--------
+Does Sentinel's soft-dollar arrangement comply with Section 206(3) and SEC guidance on best execution?
+
+ANSWER
+------
+No. Sentinel's arrangement violates best execution requirements: (1) the excess commission structure (0.015/share above research) is a non-research soft-dollar benefit used to subsidize operating expenses, prohibited under SEC guidance absent legitimate research nexus; (2) unequal client benefit (sector-specific allocation disparity) creates conflicts without proportional rebate mechanisms; (3) insufficient disclosure—generic reference to 'research and technology' fails to itemize the $720,000 budget, name Pinnacle, or quantify execution impact. SEC guidance requires IAs to document that soft-dollar costs do not exceed the value of legitimate research services received and to disclose specifically which clients bear which costs. Undisclosed or disproportionate soft-dollar arrangements violate the duty of loyalty by prioritizing firm cost reduction over execution quality and client cost minimization.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC IM Guidance (best execution and soft dollars, IM Guidance Update 2020-01)
+
+KEY FACTOR
+----------
+Soft-dollar arrangement funds non-research operating expenses ($720k annually) without documented research justification or client-specific disclosure of execution cost impact.

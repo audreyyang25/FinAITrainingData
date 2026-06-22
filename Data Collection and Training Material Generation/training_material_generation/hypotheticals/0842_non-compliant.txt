@@ -1,0 +1,27 @@
+ID: 842
+Source Folder: 17_SEC_Staff_Bulletins
+Topic: care_obligation_detail
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer representative recommends that a 52-year-old software engineer with a $310,000 commission-based brokerage account and a stated moderate risk tolerance move 85% of his portfolio into a single leveraged inverse ETF tracking the S&P 500, marketed internally as a 'tactical hedge.' The representative completes a Best Interest Analysis form but documents only that the client expressed concern about a market downturn and wanted 'downside protection,' without analyzing the product's daily reset mechanism, the compounding decay risk over holding periods longer than one trading session, or the client's 10-year investment horizon. The representative earns a $4,650 commission on the transaction.
+
+QUESTION
+--------
+Does the representative's recommendation of a leveraged inverse ETF without analyzing the product's unique risk characteristics in the context of the client's long-term investment horizon satisfy Reg BI's Care Obligation?
+
+ANSWER
+------
+No, this conduct is a violation of Reg BI's Care Obligation.
+
+The Care Obligation requires broker-dealers to exercise reasonable diligence, care, and skill to understand the potential risks, rewards, and costs of a recommended security and to have a reasonable basis to believe the recommendation is in the retail customer's best interest. Leveraged inverse ETFs are specifically flagged in SEC guidance as complex products requiring heightened analysis, particularly their daily reset mechanism and volatility decay. A Best Interest Analysis form that documents only a client's stated concern without analyzing these product-specific risks and the mismatch with a 10-year horizon does not satisfy the Care Obligation. Allocating 85% to a single complex instrument also conflicts with the customer's moderate risk tolerance.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(ii) – Reg BI Care Obligation; SEC Staff Bulletin on Care Obligation (2020)
+
+KEY FACTOR
+----------
+The representative failed to analyze the leveraged inverse ETF's daily reset and compounding decay risks relative to the client's 10-year horizon, rendering the Best Interest Analysis form a procedural formality rather than a substantive compliance exercise.

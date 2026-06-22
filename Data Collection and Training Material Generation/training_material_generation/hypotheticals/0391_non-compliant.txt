@@ -1,0 +1,25 @@
+ID: 391
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pension plan sponsor (defined benefit plan covering 850 employees, $420M in assets) hired Investment Adviser Alpha to review and recommend changes to the plan's investment menu. Alpha charged a flat $85,000 annual fee for consulting services. During the engagement, Alpha recommended replacing the existing Vanguard Total Bond Market Index Fund (0.03% ER) with a proprietary bond fund managed by Alpha's parent company (0.68% ER). The parent company paid Alpha 35 basis points in revenue sharing for the recommendation. Alpha prepared no written investment policy statement, conducted no peer benchmarking analysis, and documented no prudent expert analysis comparing the funds' risk-adjusted returns over the prior 3-year and 5-year periods. The plan sponsor accepted Alpha's recommendation without independent review, and $120M migrated to the proprietary fund.
+
+QUESTION
+--------
+Did Investment Adviser Alpha breach its DOL fiduciary duty under ERISA §404(a) when recommending the proprietary bond fund, and did it engage in a prohibited transaction under ERISA §406(a)?
+
+ANSWER
+------
+No. Alpha breached the duty of prudence (ERISA §404(a)(1)(B)) because it recommended a higher-cost fund (65 bps gap = ~$780K annually on $120M) without documented prudent expert analysis, peer comparison, or written IPS support. The revenue-sharing arrangement (35 bps) created a material conflict of interest that Alpha failed to disclose to the plan sponsor, violating the duty of loyalty (§404(a)(1)(A)). The transaction likely qualifies as a prohibited transaction under §406(a) (fiduciary receiving consideration from a party dealing with the plan) unless Alpha satisfied the QPAM exemption (29 CFR §2550.408b-2), which requires full written disclosure and a finding that the arrangement is reasonable—neither occurred. Similar to DOL FAB 2015-01 (revenue-sharing disclosure failures).
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A)–(B) (duty of loyalty and prudence); ERISA §406(a) (prohibited transaction); 29 CFR §2550.408b-2 (QPAM exemption).
+
+KEY FACTOR
+----------
+Recommendation of higher-cost proprietary fund without written prudent expert analysis, peer benchmarking, or disclosure of revenue-sharing conflict of interest.

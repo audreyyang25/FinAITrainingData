@@ -1,0 +1,27 @@
+ID: 111
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $180,000 in a taxable brokerage account earning 2.1% yield in dividend stocks asks about retirement income. The advisor recommends a variable annuity with a 7% annual mortality and expense charge (M&E), 1.5% annual sub-account fees, and a 7-year surrender charge of 7% declining 1% per year. The advisor does not compare this to low-cost index mutual funds (0.08% expense ratio) or discuss the tax-deferral benefit being minimal in a taxable account. The client is in the 24% tax bracket and would owe ordinary income tax on gains upon withdrawal.
+
+QUESTION
+--------
+Does this variable annuity recommendation satisfy FINRA Rule 2330 and Reg BI?
+
+ANSWER
+------
+No, this violates the applicable standards.
+
+Rule 2330 requires that before recommending a variable annuity, the broker-dealer must have a reasonable basis to believe it is suitable, taking into account the client's age, financial situation, investment objectives, and other securities holdings. The cumulative annual costs (8.5%+ in this scenario) are exceptionally high relative to the client's age (58) and time horizon. The tax-deferral benefit of a variable annuity is illusory in a taxable account where a client faces 24% ordinary income tax on withdrawal; the adviser failed to conduct a basic tax analysis. No documented comparison to lower-cost alternatives (index mutual funds) appears. FINRA's 2014-2015 variable annuity sweeps found widespread suitability failures where advisors recommended high-cost annuities to clients who could benefit equally from low-cost funds. Reg BI's best interest standard similarly requires the advisor to consider whether the product serves the client's best interest, which it does not when substantially identical alternatives with dramatically lower costs exist.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (Variable Annuity Suitability); Reg BI duty of best interest; SEC guidance on variable annuity suitability (2012 sweep findings; FINRA AWC settlements 2014-2020)
+
+KEY FACTOR
+----------
+Recommendation of a high-cost variable annuity (8.5% annual charges) without documented analysis of materially cheaper alternatives (low-cost mutual funds) or acknowledgment that tax-deferral benefit is negligible in a taxable account, violating Rule 2330's suitability mandate and Reg BI's best interest obligation.

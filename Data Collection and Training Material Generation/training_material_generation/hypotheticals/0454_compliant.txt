@@ -1,0 +1,25 @@
+ID: 454
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Client, age 62, held $1.2M in 401(k) at Employer A. RIA recommended rollover to self-directed IRA to access: (1) broader investment menu (25 vs. 6 funds); (2) lower-cost index funds (0.03% vs. 0.52% for 401(k) equivalents); (3) access to separately managed accounts (SMAs) charging 0.65% vs. internal advisory fee of 1.2% in plan; (4) ability to conduct tax-loss harvesting. RIA provided written rollover analysis showing 25-year projection: IRA scenario net of all fees and taxes projected 4.87% annualized return vs. 4.52% in 401(k). RIA disclosed that it would earn 0.65% on SMA management but had fiduciary obligation regardless. Client signed suitability memo. Employer plan had no guarantees, no employer match (client not eligible), and no unique investment features.
+
+QUESTION
+--------
+Did the rollover recommendation comply with fiduciary standards despite RIA's financial incentive to manage the IRA assets?
+
+ANSWER
+------
+Yes. Rollover analysis met DOL Prohibited Transaction Exemption 2020-02 standards (which apply to ERISA advice): (1) written analysis comparing costs and features; (2) quantified benefit projection showing IRA advantage; (3) disclosure of adviser's fee; (4) no prohibition on adviser earning fee if recommendation independently justified. The documented 35 basis-point annualized advantage (4.87% vs. 4.52%) over 25 years, combined with lack of offsetting plan features, makes recommendation objectively prudent. RIA's disclosed fee does not violate fiduciary duty if recommendation is independently sound. This tracks DOL guidance (Field Assistance Bulletin 2005-03) permitting adviser compensation provided rollover is in client's interest.
+
+APPLICABLE STANDARD
+-------------------
+DOL PTE 2020-02 (ERISA Rollover Advice); Fiduciary Duty; Cost-Benefit Analysis
+
+KEY FACTOR
+----------
+Documented quantitative analysis showing material net benefit (35 bps) despite adviser's fee increase satisfies fiduciary obligation despite potential conflict.

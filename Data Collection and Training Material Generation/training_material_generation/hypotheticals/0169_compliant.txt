@@ -1,0 +1,27 @@
+ID: 169
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: easy
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered representative at a brokerage firm recommends a portfolio of individual stocks to a 55-year-old corporate executive with $800,000 in savings and a buy-and-hold investing philosophy. The firm does not receive underwriting fees, soft-dollar payments, or revenue sharing from any of the recommended stocks. The rep is compensated on a flat $0.50 per-share commission basis, which applies uniformly to all stocks the firm offers, regardless of issuer. The firm publishes a disclosure document stating: 'We receive a $0.50-per-share commission on all equity trades; this creates an incentive to recommend trading. We recommend a buy-and-hold strategy and discourage frequent trading.'
+
+QUESTION
+--------
+Does the firm's disclosure of this compensation arrangement satisfy Reg BI conflict obligations?
+
+ANSWER
+------
+Yes, this is compliant.
+
+The conflict here—the rep's per-share commission creating an incentive to recommend trading—is material because it could theoretically influence recommendations toward high-turnover strategies. However, the firm's disclosure adequately addresses this by: (1) identifying the per-share fee amount ($0.50), (2) acknowledging the trading incentive created by this structure, and (3) stating a firm-wide policy against frequent trading that runs counter to the conflict. The uniform application of the fee across all stocks means no specific recommendation is unfairly skewed by differential compensation. The firm's published policy explicitly mitigates the conflict by discouraging the very behavior the fee structure would incentivize. This generic but clear disclosure satisfies the 'clear, prominent, and understandable' standard because the client can readily see the fee structure and the firm's stated intention to counteract the inherent bias.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest (Rule 15l-1(a)(2)(ii)) requires disclosure of material conflicts of interest; SEC Release 34-90717 states that conflicts arising from per-share or per-trade compensation must be disclosed, but the disclosure may be generic if uniform across all recommendations.
+
+KEY FACTOR
+----------
+Uniform fee structure across all products, explicit disclosure of the per-share amount, and published firm policy explicitly discouraging the behavior the fee structure incentivizes.

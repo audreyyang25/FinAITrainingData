@@ -1,0 +1,27 @@
+ID: 94
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker recommends three covered-call ETF funds (YieldMax NVDA CC, 0.35% expense ratio, monthly income distribution averaging 2.8% annually) to a 58-year-old client with $1.2 million, moderate risk tolerance, stated goal of 'quarterly income needs of $10,000 for living expenses,' and a 15-year investment horizon. The client is experienced with dividend stocks and has reviewed a written suitability analysis documenting income needs, time horizon, and tax efficiency of covered-call structure.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Suitability Rule 2111's three prongs?
+
+ANSWER
+------
+Yes, this recommendation satisfies FINRA Suitability Rule 2111.
+
+The broker satisfies all three suitability prongs. (1) Reasonable basis: covered-call ETF strategies are well-documented, SEC-regulated products with published methodology; their income generation characteristics are measurable and disclosed, giving the broker a rational basis to believe they are suitable for income-focused investors. (2) Customer-specific: the recommendation directly addresses this client's stated $40,000 annual income need; the 2.8% yield on $1.2M generates ~$33,600 annually, supplemented by capital appreciation or account balance flexibility—this is tailored to the client's actual objective. The client's experience with dividend investing and 15-year horizon support moderate-risk equity income strategies. (3) Quantitative: turnover is minimal (covered-call ETFs hold long-term positions; rebalancing quarterly generates no churning); expense ratios of 0.35% are market-standard for actively managed alternatives; no commission-to-turnover red flags exist. Documentation of suitability analysis further evidences compliance.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(1) (reasonable basis), Rule 2111(a)(2) (customer-specific suitability), and quantitative suitability principles (turn out is minimal, expenses are reasonable)
+
+KEY FACTOR
+----------
+Perfect alignment between client's stated income need ($10K/quarter = $40K annually), the product's yield (2.8% on $1.2M ≈ $34K), and client's risk tolerance and experience level; minimal turnover and reasonable fees.

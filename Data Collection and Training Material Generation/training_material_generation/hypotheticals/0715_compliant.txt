@@ -1,0 +1,27 @@
+ID: 715
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Lakeview Regional Hospital sponsors a 403(b) retirement plan with $240 million in assets for its 3,400 employees. The plan offers a diversified menu of 18 investment options across asset classes, including a suite of low-cost index funds from Vanguard and Fidelity with expense ratios ranging from 0.03% to 0.15%, as well as four actively managed funds with expense ratios between 0.55% and 0.82%. The plan's investment committee, composed of five hospital administrators with investment experience, meets quarterly to review each fund's performance, fees, and peer-group comparisons. Committee meeting minutes document that the actively managed funds were retained because they provided exposure to asset classes (such as emerging market debt and real assets) not readily available through low-cost index alternatives, and because the committee determined participants valued having both passive and active options. A participant files suit under ERISA alleging the committee breached its duty of prudence by offering any funds with expense ratios above 0.20%, citing Hughes v. Northwestern University.
+
+QUESTION
+--------
+Did the plan investment committee breach its ERISA fiduciary duty by retaining actively managed funds with higher expense ratios alongside low-cost index options?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+In Hughes v. Northwestern University, the Supreme Court held that even when a plan offers some low-cost options, fiduciaries are not automatically insulated from claims that other options are imprudent. However, the Court's holding does not prohibit offering actively managed funds; rather, it requires that fiduciaries engage in a prudent process when selecting and monitoring all investment options. Here, the Lakeview committee maintained a documented quarterly review process, evaluated each fund against peer benchmarks, and articulated a specific investment rationale for retaining the actively managed funds — namely, they provide diversified asset class exposure not available through index options. The deliberate, well-documented decision-making process satisfies the procedural prudence standard under ERISA § 404(a)(1)(B).
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(B) – Duty of Prudence; Hughes v. Northwestern University, 595 U.S. 170 (2022)
+
+KEY FACTOR
+----------
+Retaining higher-cost actively managed funds is permissible under ERISA when the fiduciary committee documents a prudent process with a substantive investment rationale, consistent with the procedural prudence standard reinforced in Hughes v. Northwestern.

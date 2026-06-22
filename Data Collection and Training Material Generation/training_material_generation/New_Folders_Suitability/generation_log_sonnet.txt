@@ -1,0 +1,355 @@
+[2026-03-29 03:18:35] ============================================================
+[2026-03-29 03:18:35] new_folders_generator_sonnet.py starting
+[2026-03-29 03:18:35] Model: claude-sonnet-4-6 (switched from claude-opus-4-6 on Mar 29 2026)
+[2026-03-29 03:18:35] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-29 03:18:35] 
+==================================================
+[2026-03-29 03:18:35] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-29 03:18:35]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-29 03:18:35]   24_Variable_Annuities P13: already 25/25, skipping
+[2026-03-29 03:18:35] 
+==================================================
+[2026-03-29 03:18:35] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-29 03:18:35]   25_Leveraged_Inverse_ETFs P12: already 30/30, skipping
+[2026-03-29 03:18:35]   25_Leveraged_Inverse_ETFs P13: already 15/15, skipping
+[2026-03-29 03:18:35] 
+==================================================
+[2026-03-29 03:18:35] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-29 03:18:35]   26_Options P12: already 30/30, skipping
+[2026-03-29 03:18:35]   26_Options P13: already 15/15, skipping
+[2026-03-29 03:18:35] 
+==================================================
+[2026-03-29 03:18:35] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-29 03:18:35]   27_Private_Placements_DPPs P12: already 40/40, skipping
+[2026-03-29 03:18:35]   27_Private_Placements_DPPs P13: resuming from 4/20
+[2026-03-29 03:18:35]     batch ids 21504–21504 (4/20)
+[2026-03-29 03:19:35]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 03:20:55] ============================================================
+[2026-03-29 03:20:55] new_folders_generator_sonnet.py starting
+[2026-03-29 03:20:55] Model: claude-sonnet-4-6 (switched from claude-opus-4-6 on Mar 29 2026)
+[2026-03-29 03:20:55] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-29 03:20:55] 
+==================================================
+[2026-03-29 03:20:55] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-29 03:20:55]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-29 03:20:55]   24_Variable_Annuities P13: already 25/25, skipping
+[2026-03-29 03:20:55] 
+==================================================
+[2026-03-29 03:20:55] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-29 03:20:55]   25_Leveraged_Inverse_ETFs P12: already 30/30, skipping
+[2026-03-29 03:20:55]   25_Leveraged_Inverse_ETFs P13: already 15/15, skipping
+[2026-03-29 03:20:55] 
+==================================================
+[2026-03-29 03:20:55] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-29 03:20:55]   26_Options P12: already 30/30, skipping
+[2026-03-29 03:20:55]   26_Options P13: already 15/15, skipping
+[2026-03-29 03:20:55] 
+==================================================
+[2026-03-29 03:20:55] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-29 03:20:55]   27_Private_Placements_DPPs P12: already 40/40, skipping
+[2026-03-29 03:20:55]   27_Private_Placements_DPPs P13: resuming from 4/20
+[2026-03-29 03:20:55]     batch ids 21504–21504 (4/20)
+[2026-03-29 03:22:00]     Saved. 27_Private_Placements_DPPs P13: 5/20
+[2026-03-29 03:22:02]     batch ids 21505–21505 (5/20)
+[2026-03-29 03:23:06]     Saved. 27_Private_Placements_DPPs P13: 6/20
+[2026-03-29 03:23:08]     batch ids 21506–21506 (6/20)
+[2026-03-29 03:24:16]     Saved. 27_Private_Placements_DPPs P13: 7/20
+[2026-03-29 03:24:19]     batch ids 21507–21507 (7/20)
+[2026-03-29 03:25:13]     Saved. 27_Private_Placements_DPPs P13: 8/20
+[2026-03-29 03:25:15]     batch ids 21508–21508 (8/20)
+[2026-03-29 03:26:14]     Saved. 27_Private_Placements_DPPs P13: 9/20
+[2026-03-29 03:26:16]     batch ids 21509–21509 (9/20)
+[2026-03-29 03:38:44]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 03:39:53]     Saved. 27_Private_Placements_DPPs P13: 10/20
+[2026-03-29 03:39:55]     batch ids 21510–21510 (10/20)
+[2026-03-29 03:40:59]     Saved. 27_Private_Placements_DPPs P13: 11/20
+[2026-03-29 03:41:01]     batch ids 21511–21511 (11/20)
+[2026-03-29 03:42:06]     Saved. 27_Private_Placements_DPPs P13: 12/20
+[2026-03-29 03:42:09]     batch ids 21512–21512 (12/20)
+[2026-03-29 03:43:05]     Saved. 27_Private_Placements_DPPs P13: 13/20
+[2026-03-29 03:43:07]     batch ids 21513–21513 (13/20)
+[2026-03-29 03:44:11]     Saved. 27_Private_Placements_DPPs P13: 14/20
+[2026-03-29 03:44:13]     batch ids 21514–21514 (14/20)
+[2026-03-29 03:45:27]     Saved. 27_Private_Placements_DPPs P13: 15/20
+[2026-03-29 03:45:29]     batch ids 21515–21515 (15/20)
+[2026-03-29 03:46:34]     Saved. 27_Private_Placements_DPPs P13: 16/20
+[2026-03-29 03:46:36]     batch ids 21516–21516 (16/20)
+[2026-03-29 03:47:51]     Saved. 27_Private_Placements_DPPs P13: 17/20
+[2026-03-29 03:47:53]     batch ids 21517–21517 (17/20)
+[2026-03-29 03:48:50]     Saved. 27_Private_Placements_DPPs P13: 18/20
+[2026-03-29 03:48:52]     batch ids 21518–21518 (18/20)
+[2026-03-29 04:04:22]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 04:21:10]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 04:37:38]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 04:37:43]     Empty response (1/3), retrying in 5s...
+[2026-03-29 04:37:48]     batch ids 21518–21518 (18/20)
+[2026-03-29 04:54:54]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 05:11:08]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 05:28:00]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 05:28:05]     Empty response (2/3), retrying in 5s...
+[2026-03-29 05:28:10]     batch ids 21518–21518 (18/20)
+[2026-03-29 05:43:51]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 06:01:31]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 06:19:05]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 06:19:10]     Skipping batch after 3 failures, advancing
+[2026-03-29 06:19:10]     batch ids 21519–21519 (18/20)
+[2026-03-29 06:35:07]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 06:44:55]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 07:01:47]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 07:01:52]     Empty response (1/3), retrying in 5s...
+[2026-03-29 07:01:57]     batch ids 21519–21519 (18/20)
+[2026-03-29 07:19:04]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 07:35:54]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 15:03:25] ============================================================
+[2026-03-29 15:03:25] new_folders_generator_sonnet.py starting
+[2026-03-29 15:03:25] Model: claude-sonnet-4-6 (switched from claude-opus-4-6 on Mar 29 2026)
+[2026-03-29 15:03:25] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-29 15:03:25]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-29 15:03:25]   24_Variable_Annuities P13: already 25/25, skipping
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-29 15:03:25]   25_Leveraged_Inverse_ETFs P12: already 30/30, skipping
+[2026-03-29 15:03:25]   25_Leveraged_Inverse_ETFs P13: already 15/15, skipping
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-29 15:03:25]   26_Options P12: already 30/30, skipping
+[2026-03-29 15:03:25]   26_Options P13: already 15/15, skipping
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-29 15:03:25]   27_Private_Placements_DPPs P12: already 40/40, skipping
+[2026-03-29 15:03:25]   27_Private_Placements_DPPs P13: already 20/20, skipping
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 28_Structured_Products | P12 target: 30 | P13 target: 15
+[2026-03-29 15:03:25]   28_Structured_Products P12: already 30/30, skipping
+[2026-03-29 15:03:25]   28_Structured_Products P13: already 15/15, skipping
+[2026-03-29 15:03:25] 
+==================================================
+[2026-03-29 15:03:25] Folder: 29_Crypto_Digital_Assets | P12 target: 50 | P13 target: 25
+[2026-03-29 15:03:25]   29_Crypto_Digital_Assets P12: resuming from 17/50
+[2026-03-29 15:03:25]     batch ids 12517–12517 (17/50)
+[2026-03-29 15:04:05]     Saved. 29_Crypto_Digital_Assets P12: 18/50
+[2026-03-29 15:04:07]     batch ids 12518–12518 (18/50)
+[2026-03-29 15:19:44]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 15:29:49]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 15:30:39]     Saved. 29_Crypto_Digital_Assets P12: 19/50
+[2026-03-29 15:30:42]     batch ids 12519–12519 (19/50)
+[2026-03-29 15:31:30]     Saved. 29_Crypto_Digital_Assets P12: 20/50
+[2026-03-29 15:31:33]     batch ids 12520–12520 (20/50)
+[2026-03-29 15:48:40]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 16:04:47]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 16:22:04]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 16:22:09]     Empty response (1/3), retrying in 5s...
+[2026-03-29 16:22:14]     batch ids 12520–12520 (20/50)
+[2026-03-29 16:30:49]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 16:31:35]     Saved. 29_Crypto_Digital_Assets P12: 21/50
+[2026-03-29 16:48:00]     batch ids 12521–12521 (21/50)
+[2026-03-29 17:05:14]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 17:23:10]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 17:39:12]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 17:39:17]     Empty response (1/3), retrying in 5s...
+[2026-03-29 17:39:22]     batch ids 12521–12521 (21/50)
+[2026-03-29 17:56:55]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 18:14:36]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 18:30:36]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 18:30:41]     Empty response (2/3), retrying in 5s...
+[2026-03-29 18:30:46]     batch ids 12521–12521 (21/50)
+[2026-03-29 18:47:48]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 19:03:36]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 19:04:21]     Saved. 29_Crypto_Digital_Assets P12: 22/50
+[2026-03-29 19:04:24]     batch ids 12522–12522 (22/50)
+[2026-03-29 19:21:29]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 19:37:19]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 19:53:22]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 19:53:27]     Empty response (1/3), retrying in 5s...
+[2026-03-29 19:53:33]     batch ids 12522–12522 (22/50)
+[2026-03-29 20:09:39]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 20:10:35]     Saved. 29_Crypto_Digital_Assets P12: 23/50
+[2026-03-29 20:10:37]     batch ids 12523–12523 (23/50)
+[2026-03-29 20:23:16]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 20:39:33]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 20:55:30]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 20:55:35]     Empty response (1/3), retrying in 5s...
+[2026-03-29 20:55:40]     batch ids 12523–12523 (23/50)
+[2026-03-29 21:13:09]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 21:14:06]     Saved. 29_Crypto_Digital_Assets P12: 24/50
+[2026-03-29 21:14:08]     batch ids 12524–12524 (24/50)
+[2026-03-29 21:29:32]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 21:45:52]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 22:02:18]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 22:02:23]     Empty response (1/3), retrying in 5s...
+[2026-03-29 22:02:28]     batch ids 12524–12524 (24/50)
+[2026-03-29 22:20:05]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 22:24:16]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 22:40:36]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 22:40:41]     Empty response (2/3), retrying in 5s...
+[2026-03-29 22:40:46]     batch ids 12524–12524 (24/50)
+[2026-03-29 22:56:58]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 22:57:54]     Saved. 29_Crypto_Digital_Assets P12: 25/50
+[2026-03-29 22:57:56]     batch ids 12525–12525 (25/50)
+[2026-03-29 23:14:32]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-29 23:25:16]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-29 23:41:32]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-29 23:41:37]     Empty response (1/3), retrying in 5s...
+[2026-03-29 23:41:42]     batch ids 12525–12525 (25/50)
+[2026-03-29 23:59:22]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-30 00:00:06]     Saved. 29_Crypto_Digital_Assets P12: 26/50
+[2026-03-30 00:00:08]     batch ids 12526–12526 (26/50)
+[2026-03-30 00:16:46]   curl failed rc=28 (attempt 1), retrying in 5s...
+[2026-03-30 00:26:16]   curl failed rc=28 (attempt 2), retrying in 5s...
+[2026-03-30 00:34:44]   curl failed rc=28 (attempt 3), retrying in 5s...
+[2026-03-30 00:34:49]     Empty response (1/3), retrying in 5s...
+[2026-03-30 00:34:55]     batch ids 12526–12526 (26/50)
+[2026-03-30 00:35:41]     Saved. 29_Crypto_Digital_Assets P12: 27/50
+[2026-03-30 00:35:43]     batch ids 12527–12527 (27/50)
+[2026-03-30 00:36:50] ============================================================
+[2026-03-30 00:36:50] new_folders_generator_sonnet.py starting
+[2026-03-30 00:36:50] Model: claude-sonnet-4-6 (switched from claude-opus-4-6 on Mar 29 2026)
+[2026-03-30 00:36:50] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/New_Folders_Suitability
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 24_Variable_Annuities | P12 target: 50 | P13 target: 25
+[2026-03-30 00:36:50]   24_Variable_Annuities P12: already 50/50, skipping
+[2026-03-30 00:36:50]   24_Variable_Annuities P13: already 25/25, skipping
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 25_Leveraged_Inverse_ETFs | P12 target: 30 | P13 target: 15
+[2026-03-30 00:36:50]   25_Leveraged_Inverse_ETFs P12: already 30/30, skipping
+[2026-03-30 00:36:50]   25_Leveraged_Inverse_ETFs P13: already 15/15, skipping
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 26_Options | P12 target: 30 | P13 target: 15
+[2026-03-30 00:36:50]   26_Options P12: already 30/30, skipping
+[2026-03-30 00:36:50]   26_Options P13: already 15/15, skipping
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 27_Private_Placements_DPPs | P12 target: 40 | P13 target: 20
+[2026-03-30 00:36:50]   27_Private_Placements_DPPs P12: already 40/40, skipping
+[2026-03-30 00:36:50]   27_Private_Placements_DPPs P13: already 20/20, skipping
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 28_Structured_Products | P12 target: 30 | P13 target: 15
+[2026-03-30 00:36:50]   28_Structured_Products P12: already 30/30, skipping
+[2026-03-30 00:36:50]   28_Structured_Products P13: already 15/15, skipping
+[2026-03-30 00:36:50] 
+==================================================
+[2026-03-30 00:36:50] Folder: 29_Crypto_Digital_Assets | P12 target: 50 | P13 target: 25
+[2026-03-30 00:36:50]   29_Crypto_Digital_Assets P12: resuming from 27/50
+[2026-03-30 00:36:50]     batch ids 12527–12527 (27/50)
+[2026-03-30 00:37:46]     Saved. 29_Crypto_Digital_Assets P12: 28/50
+[2026-03-30 00:37:48]     batch ids 12528–12528 (28/50)
+[2026-03-30 00:38:37]     Saved. 29_Crypto_Digital_Assets P12: 29/50
+[2026-03-30 00:38:40]     batch ids 12529–12529 (29/50)
+[2026-03-30 00:39:21]     Saved. 29_Crypto_Digital_Assets P12: 30/50
+[2026-03-30 00:39:24]     batch ids 12530–12530 (30/50)
+[2026-03-30 00:40:08]     Saved. 29_Crypto_Digital_Assets P12: 31/50
+[2026-03-30 00:40:10]     batch ids 12531–12531 (31/50)
+[2026-03-30 00:41:08]     Saved. 29_Crypto_Digital_Assets P12: 32/50
+[2026-03-30 00:41:10]     batch ids 12532–12532 (32/50)
+[2026-03-30 00:41:51]     Saved. 29_Crypto_Digital_Assets P12: 33/50
+[2026-03-30 00:41:53]     batch ids 12533–12533 (33/50)
+[2026-03-30 00:42:38]     Saved. 29_Crypto_Digital_Assets P12: 34/50
+[2026-03-30 00:42:40]     batch ids 12534–12534 (34/50)
+[2026-03-30 00:43:25]     Saved. 29_Crypto_Digital_Assets P12: 35/50
+[2026-03-30 00:43:27]     batch ids 12535–12535 (35/50)
+[2026-03-30 00:44:23]     Saved. 29_Crypto_Digital_Assets P12: 36/50
+[2026-03-30 00:44:25]     batch ids 12536–12536 (36/50)
+[2026-03-30 00:45:08]     Saved. 29_Crypto_Digital_Assets P12: 37/50
+[2026-03-30 00:45:11]     batch ids 12537–12537 (37/50)
+[2026-03-30 00:45:57]     Saved. 29_Crypto_Digital_Assets P12: 38/50
+[2026-03-30 00:46:00]     batch ids 12538–12538 (38/50)
+[2026-03-30 00:46:53]     Saved. 29_Crypto_Digital_Assets P12: 39/50
+[2026-03-30 00:46:55]     batch ids 12539–12539 (39/50)
+[2026-03-30 00:47:41]     Saved. 29_Crypto_Digital_Assets P12: 40/50
+[2026-03-30 00:47:43]     batch ids 12540–12540 (40/50)
+[2026-03-30 00:48:32]     Saved. 29_Crypto_Digital_Assets P12: 41/50
+[2026-03-30 00:48:34]     batch ids 12541–12541 (41/50)
+[2026-03-30 00:49:26]     Saved. 29_Crypto_Digital_Assets P12: 42/50
+[2026-03-30 00:49:29]     batch ids 12542–12542 (42/50)
+[2026-03-30 00:50:16]     Saved. 29_Crypto_Digital_Assets P12: 43/50
+[2026-03-30 00:50:18]     batch ids 12543–12543 (43/50)
+[2026-03-30 00:51:03]     Saved. 29_Crypto_Digital_Assets P12: 44/50
+[2026-03-30 00:51:05]     batch ids 12544–12544 (44/50)
+[2026-03-30 00:51:52]     Saved. 29_Crypto_Digital_Assets P12: 45/50
+[2026-03-30 00:51:54]     batch ids 12545–12545 (45/50)
+[2026-03-30 00:52:50]     Saved. 29_Crypto_Digital_Assets P12: 46/50
+[2026-03-30 00:52:52]     batch ids 12546–12546 (46/50)
+[2026-03-30 00:53:42]     Saved. 29_Crypto_Digital_Assets P12: 47/50
+[2026-03-30 00:53:44]     batch ids 12547–12547 (47/50)
+[2026-03-30 00:54:37]     Saved. 29_Crypto_Digital_Assets P12: 48/50
+[2026-03-30 00:54:39]     batch ids 12548–12548 (48/50)
+[2026-03-30 00:55:27]     Saved. 29_Crypto_Digital_Assets P12: 49/50
+[2026-03-30 00:55:29]     batch ids 12549–12549 (49/50)
+[2026-03-30 00:56:19]     Saved. 29_Crypto_Digital_Assets P12: 50/50
+[2026-03-30 00:56:21]   29_Crypto_Digital_Assets P12: COMPLETE (50 items)
+[2026-03-30 00:56:21]   29_Crypto_Digital_Assets P13: resuming from 0/25
+[2026-03-30 00:56:21]     batch ids 22500–22500 (0/25)
+[2026-03-30 00:57:21]     Saved. 29_Crypto_Digital_Assets P13: 1/25
+[2026-03-30 00:57:23]     batch ids 22501–22501 (1/25)
+[2026-03-30 00:58:30]     Saved. 29_Crypto_Digital_Assets P13: 2/25
+[2026-03-30 00:58:32]     batch ids 22502–22502 (2/25)
+[2026-03-30 00:59:51]     Saved. 29_Crypto_Digital_Assets P13: 3/25
+[2026-03-30 00:59:53]     batch ids 22503–22503 (3/25)
+[2026-03-30 01:01:00]     Saved. 29_Crypto_Digital_Assets P13: 4/25
+[2026-03-30 01:01:03]     batch ids 22504–22504 (4/25)
+[2026-03-30 01:02:13]     Saved. 29_Crypto_Digital_Assets P13: 5/25
+[2026-03-30 01:02:16]     batch ids 22505–22505 (5/25)
+[2026-03-30 01:03:28]     Saved. 29_Crypto_Digital_Assets P13: 6/25
+[2026-03-30 01:03:30]     batch ids 22506–22506 (6/25)
+[2026-03-30 01:04:36]     Saved. 29_Crypto_Digital_Assets P13: 7/25
+[2026-03-30 01:04:38]     batch ids 22507–22507 (7/25)
+[2026-03-30 01:05:39]     Saved. 29_Crypto_Digital_Assets P13: 8/25
+[2026-03-30 01:05:41]     batch ids 22508–22508 (8/25)
+[2026-03-30 01:06:44]     Saved. 29_Crypto_Digital_Assets P13: 9/25
+[2026-03-30 01:06:46]     batch ids 22509–22509 (9/25)
+[2026-03-30 01:08:09]     Saved. 29_Crypto_Digital_Assets P13: 10/25
+[2026-03-30 01:08:11]     batch ids 22510–22510 (10/25)
+[2026-03-30 01:09:15]     Saved. 29_Crypto_Digital_Assets P13: 11/25
+[2026-03-30 01:09:17]     batch ids 22511–22511 (11/25)
+[2026-03-30 01:10:30]     Saved. 29_Crypto_Digital_Assets P13: 12/25
+[2026-03-30 01:10:32]     batch ids 22512–22512 (12/25)
+[2026-03-30 01:11:41]     Saved. 29_Crypto_Digital_Assets P13: 13/25
+[2026-03-30 01:11:43]     batch ids 22513–22513 (13/25)
+[2026-03-30 01:12:46]     Saved. 29_Crypto_Digital_Assets P13: 14/25
+[2026-03-30 01:12:49]     batch ids 22514–22514 (14/25)
+[2026-03-30 01:13:52]     Saved. 29_Crypto_Digital_Assets P13: 15/25
+[2026-03-30 01:13:54]     batch ids 22515–22515 (15/25)
+[2026-03-30 01:15:06]     Saved. 29_Crypto_Digital_Assets P13: 16/25
+[2026-03-30 01:15:08]     batch ids 22516–22516 (16/25)
+[2026-03-30 01:16:15]     Saved. 29_Crypto_Digital_Assets P13: 17/25
+[2026-03-30 01:16:17]     batch ids 22517–22517 (17/25)
+[2026-03-30 01:17:29]     Saved. 29_Crypto_Digital_Assets P13: 18/25
+[2026-03-30 01:17:31]     batch ids 22518–22518 (18/25)
+[2026-03-30 01:18:46]     Saved. 29_Crypto_Digital_Assets P13: 19/25
+[2026-03-30 01:18:48]     batch ids 22519–22519 (19/25)
+[2026-03-30 01:19:48]     Saved. 29_Crypto_Digital_Assets P13: 20/25
+[2026-03-30 01:19:51]     batch ids 22520–22520 (20/25)
+[2026-03-30 01:20:57]     Saved. 29_Crypto_Digital_Assets P13: 21/25
+[2026-03-30 01:20:59]     batch ids 22521–22521 (21/25)
+[2026-03-30 01:22:09]     Saved. 29_Crypto_Digital_Assets P13: 22/25
+[2026-03-30 01:22:11]     batch ids 22522–22522 (22/25)
+[2026-03-30 01:23:19]     Saved. 29_Crypto_Digital_Assets P13: 23/25
+[2026-03-30 01:23:21]     batch ids 22523–22523 (23/25)
+[2026-03-30 01:24:26]     Saved. 29_Crypto_Digital_Assets P13: 24/25
+[2026-03-30 01:24:28]     batch ids 22524–22524 (24/25)
+[2026-03-30 01:25:30]     Saved. 29_Crypto_Digital_Assets P13: 25/25
+[2026-03-30 01:25:32]   29_Crypto_Digital_Assets P13: COMPLETE (25 items)
+[2026-03-30 01:25:32] 
+============================================================
+[2026-03-30 01:25:32] ALL GENERATION COMPLETE
+[2026-03-30 01:25:32] P12 total: 230 items
+[2026-03-30 01:25:32] P13 total: 115 items
+[2026-03-30 01:25:32] Opus items — P12: 150 | P13: 58
+[2026-03-30 01:25:32] Sonnet items — P12: 33 | P13: 39
+[2026-03-30 01:25:32]   24_Variable_Annuities: P12=50/50 P13=25/25
+[2026-03-30 01:25:32]   25_Leveraged_Inverse_ETFs: P12=30/30 P13=15/15
+[2026-03-30 01:25:32]   26_Options: P12=30/30 P13=15/15
+[2026-03-30 01:25:32]   27_Private_Placements_DPPs: P12=40/40 P13=20/20
+[2026-03-30 01:25:32]   28_Structured_Products: P12=30/30 P13=15/15
+[2026-03-30 01:25:32]   29_Crypto_Digital_Assets: P12=50/50 P13=25/25

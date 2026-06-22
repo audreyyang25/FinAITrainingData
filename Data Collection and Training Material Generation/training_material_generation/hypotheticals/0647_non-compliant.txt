@@ -1,0 +1,27 @@
+ID: 647
+Source Folder: 08_State_Fiduciary_Rules
+Topic: state_fiduciary_bd
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An investment adviser representative registered in Massachusetts recommends that Carlos Menendez, a 52-year-old municipal employee with a $340,000 rollover IRA, allocate 60% of his portfolio to a proprietary fund-of-funds product managed by the adviser's affiliated firm. The fund-of-funds charges a 1.85% management fee on top of underlying fund expenses averaging 0.95%, resulting in total layered costs of approximately 2.80%. A comparable diversified balanced fund from a third-party provider is available at a total expense ratio of 0.45%. The adviser discloses the conflict on page 47 of a 52-page Form ADV Part 2A brochure but does not verbally discuss it with the client or highlight it in any client-facing summary document. The adviser's compensation increases by 35 basis points when the proprietary product is used.
+
+QUESTION
+--------
+Does this recommendation comply with the Massachusetts fiduciary standard under 950 CMR 12.207?
+
+ANSWER
+------
+No, this conduct is a violation of the Massachusetts fiduciary duty of loyalty and care under 950 CMR 12.207.
+
+Massachusetts imposes a fiduciary duty on investment adviser representatives requiring that recommendations be made in the client's best interest without placing the adviser's interest ahead of the client's. Recommending a proprietary product with layered fees totaling 2.80% when a comparable product is available at 0.45% — where the adviser receives enhanced compensation — raises a clear conflict of interest. Burying the conflict disclosure deep in Form ADV Part 2A without meaningful verbal discussion or client-facing highlighting does not satisfy the duty of loyalty or the obligation to mitigate conflicts. The fiduciary standard under Massachusetts law requires more than mere technical disclosure; it requires the adviser to act primarily for the benefit of the client.
+
+APPLICABLE STANDARD
+-------------------
+MA 950 CMR 12.207 – Fiduciary Conduct Standard for Broker-Dealers, Agents, Investment Advisers, and Investment Adviser Representatives
+
+KEY FACTOR
+----------
+The adviser prioritized enhanced compensation from a proprietary high-cost product over a materially cheaper comparable alternative, with inadequate conflict disclosure, violating the Massachusetts fiduciary duty of loyalty.

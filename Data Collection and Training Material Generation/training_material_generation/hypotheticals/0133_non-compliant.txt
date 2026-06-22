@@ -1,0 +1,27 @@
+ID: 133
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old plan participant with $310,000 in a 401(k) meets with an advisor who recommends rolling over the account to an IRA solely to invest in variable annuities with a 7% surrender charge (declining 1% per year) and 2.1% annual insurance expense charges. The advisor receives a 5% commission on the annuity sale ($15,500). The advisor does not provide a written best interest analysis, does not disclose the surrender charges or commission structure, and does not execute a PTE 2020-02 BICE. The participant has not requested access to annuity features.
+
+QUESTION
+--------
+Does this rollover recommendation comply with DOL ERISA fiduciary duty and PTE 2020-02?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and PTE 2020-02, and operates without a valid prohibited transaction exemption.
+
+The advisor's conduct violates multiple ERISA standards. First, under ERISA § 404(a)(1)(A), the advisor failed to demonstrate that the annuity rollover is in the participant's best interest; variable annuities with 7% surrender charges and 2.1% insurance expenses are rarely prudent for a 52-year-old with stable employment and no stated annuity-specific need. Second, the 5% commission ($15,500) creates a self-dealing conflict under ERISA § 406(b) that requires PTE 2020-02 protection. Third, the advisor failed to provide the written best interest analysis, fee disclosure, and BICE contract required by PTE 2020-02 § I.C (rollover recommendations must include a written explanation of material conflicts and a certification of best interest). Without the BICE, the rollover advice constitutes a prohibited transaction under ERISA § 406(a)(1)(D) and (E). The absence of participant-specific circumstances justifying the annuity—combined with the substantial commission and surrender charges—demonstrates that the recommendation is motivated by the advisor's financial interest, not the participant's.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(A) (fiduciary duty); ERISA § 406(a), 406(b) (prohibited transactions); PTE 2020-02 (BICE requirements for rollover advice); 29 CFR § 2550.404a-3(b)(1) (documentation requirement).
+
+KEY FACTOR
+----------
+Absence of written best interest analysis, BICE documentation, and full fee disclosure, combined with a substantial commission conflict and no documented participant need for annuity features.

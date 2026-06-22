@@ -1,0 +1,27 @@
+ID: 136
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old plan participant with $485,000 in a 401(k) at her employer (Acme Corp) meets with a registered investment adviser who is also a broker-dealer. The adviser recommends rolling the 401(k) into a self-directed IRA so the client can 'have more control and lower fees.' The adviser fails to document a comparison of the 401(k) plan's investment options, fees (0.35% all-in), and participant protections against the proposed IRA custodian fees (0.50%) plus recommended mutual funds (average 1.15% expense ratio). The adviser instead emphasizes the IRA's 'unlimited investment choices' and potential to establish a fee-based advisory relationship generating $8,100/year in AUM fees.
+
+QUESTION
+--------
+Does this rollover recommendation satisfy the DOL fiduciary duty under ERISA and PTE 2020-02?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and fails to meet PTE 2020-02 requirements.
+
+Under ERISA §404(a)(1)(B), a fiduciary must act 'solely in the interest of the participants and beneficiaries' and discharge duties with 'care, skill, prudence, and diligence.' PTE 2020-02 permits rollover advice only if the adviser (1) makes a reasoned, documented determination that the rollover is in the client's best interest, (2) discloses all material conflicts of interest, and (3) enters into a written BIC. Here, the adviser failed to compare total costs (existing 401(k) costs vs. IRA + AUM fees), did not document a best-interest analysis, and the recommendation appears motivated by the $8,100 annual fee the adviser would earn—precisely the self-interest problem PTE 2020-02 addresses. The emphasis on 'control' and 'unlimited choices' without cost-benefit analysis is a classic rationalization found in DOL enforcement cases (see DOL Prohibited Transaction Advisory Opinion 2005-01A regarding rollover advice).
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA §404(a)(1)(B) (fiduciary duty of loyalty); PTE 2020-02 (Prohibited Transaction Exemption for adviser-client relationships requiring written Best Interest Contract Exemption disclosures); 29 CFR §2550.404a-1(d) (fiduciary advice standard)
+
+KEY FACTOR
+----------
+Adviser failed to document a comparison of total costs and failed to disclose that the rollover would generate $8,100/year in AUM fees to the adviser, violating the conflict-of-interest disclosure and best-interest determination requirements of PTE 2020-02.

@@ -1,0 +1,25 @@
+ID: 474
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Portfolio manager David manages a $95M equity fund. To meet performance benchmarks, David systematically overweights large-cap winners from prior quarters (a "momentum" strategy) while simultaneously underweighting small-cap laggards. This practice produces higher turnover (2.1x annually) in the fund. David's proprietary trading desk executes 60% of the fund's trades using soft dollars—research payments from broker-dealers equal to $340,000 annually—allowing David's firm to avoid paying hard-dollar commissions. The soft-dollar research consists primarily of market newsletters and sector research that David himself uses in his personal portfolio-management role. David never segregated this personal benefit and did not document how the soft-dollar research benefits the fund specifically. Additionally, David's practice of overweighting prior winners while underweighting prior losers results in a disproportionate number of winners being overexposed to institutional money-managing clients (David's larger accounts) while losers are disproportionately held by smaller retail accounts. No disclosure of this cherry-picking practice was made to retail investors.
+
+QUESTION
+--------
+Did David violate IA Act §206 (fiduciary duty—duty of loyalty) through cherry-picking and improper soft-dollar usage, and did he fail in best-execution obligations?
+
+ANSWER
+------
+Yes, David violated §206 on multiple counts. Under §206(2), an adviser must act "primarily for the benefit of the client" and may not place personal interests ahead of the client's. Cherry-picking (allocating winners to larger institutional accounts and losers to smaller retail accounts) is a textbook §206 breach: David prioritized institutional clients' returns over retail clients' returns. This is akin to SEC v. Tambone pattern. The soft-dollar arrangement violates §206 because David used research for his personal trading benefit without segregating that benefit from the fund; soft dollars must benefit the fund specifically, not the adviser personally. SEC guidance (Commission Guidance Regarding Soft Dollar Arrangements, 1998) requires advisers to demonstrate that soft-dollar research "reduces costs" or "enhances performance" of the affected accounts—David failed to document this. The 2.1x turnover and momentum overweighting inflated trading costs for retail clients. Best execution under Rule 10b-5 was also compromised because David prioritized soft-dollar relationships over negotiating tighter commissions. The commingling of personal and fund benefits constitutes a §206 violation regardless of performance outcomes.
+
+APPLICABLE STANDARD
+-------------------
+IA Act §206 Fiduciary Duty (Duty of Loyalty); SEC Soft Dollar Guidance; Best Execution Standards
+
+KEY FACTOR
+----------
+Allocation of winners to institutional clients, use of soft-dollar research for adviser's personal benefit, and failure to document how soft dollars benefited the fund constitute a duty-of-loyalty breach.

@@ -1,0 +1,25 @@
+ID: 385
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Tanya, age 59, is employed at MediCorp and holds a 401(k) with $738,000 in stable value (4.5% current return, backed by insurance contracts). She is within 5 years of planned retirement. Her adviser, Michael, recommends converting the 401(k) to a Roth IRA rollover by (1) rolling to traditional IRA, then (2) converting to Roth, triggering $738,000 in ordinary income tax (at Tanya's 24% marginal rate = $177,120 tax due). Michael's documented rationale states: 'Roth conversion provides tax-free growth and no RMDs, ideal for legacy planning.' Michael recommends Tanya cover the tax from savings outside the IRA and complete the Roth conversion immediately. Michael does NOT document: (1) Tanya's time horizon (5 years) or liquidity needs; (2) the concentration risk of moving stable value to market-based investments (even with balanced allocation, Roth conversion assumes 8%+ returns to justify the $177,120 tax hit); (3) alternative: keep stable value in plan until separation, then roll only to Roth (lower tax, same benefits). Michael receives 0.95% AUM on a Roth balance (vs. 0.60% if assets remain in plan stable value). Tanya's stated goal was 'retire in 5 years with steady income.'
+
+QUESTION
+--------
+Did Michael's Roth conversion recommendation comply with PTE 2020-02 and DOL fiduciary duty?
+
+ANSWER
+------
+No. PTE 2020-02 requires advisers to analyze whether a rollover/conversion is in the client's best interest, considering time horizon, liquidity, and risk. Michael's recommendation fails because: (1) Tanya's 5-year time horizon is too short for a $177,120 Roth tax prepayment to be justified without documented return assumptions; (2) Michael did not address the market-risk conversion (stable value at 4.5% guaranteed to market-based returns); (3) Michael identified a material alternative (conversion at separation of service, which may lower the tax liability) but did not analyze it; (4) Michael's compensation incentive (0.95% vs. 0.60%) creates a conflict not addressed. The immediate conversion contradicts Tanya's goal of steady income pre-retirement and creates unnecessary liquidity risk. This mirrors DOL cautionary guidance on aggressive Roth conversions absent clear documentation of client-specific justification.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 Best-Interest Standard; Time-Horizon Analysis; DOL Technical Release 2020-02
+
+KEY FACTOR
+----------
+Failure to document that immediate Roth conversion ($177,120 tax cost, 5-year horizon) serves client's stated objective of steady income, without analyzing lower-tax alternative or market risk.

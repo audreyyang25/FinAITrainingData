@@ -1,0 +1,27 @@
+ID: 582
+Source Folder: 05_SEC_Exam_Findings
+Topic: wrap_fee_programs
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An SEC-registered investment adviser manages a wrap fee program charging 1.50% annually on assets under management, covering advisory services, trading, and custody. During a routine internal review covering the twelve months ending March 2025, the firm identified that 187 of its 1,200 wrap accounts—predominantly belonging to retired clients aged 65–80 with conservative fixed-income portfolios—executed fewer than three trades during the entire year. These clients paid an average annual wrap fee of $6,750 each, while a comparable transaction-based fee arrangement would have cost approximately $150–$450 per year given their minimal trading activity. The firm's wrap fee brochure (Form ADV Part 2A Appendix 1) states that 'wrap fee programs may cost more or less than purchasing services separately' but does not address the specific scenario of low-trading accounts or establish any periodic review to assess ongoing suitability. The firm took no action after the internal review to notify affected clients or recommend alternative fee arrangements.
+
+QUESTION
+--------
+Did the investment adviser violate its fiduciary obligations by continuing to charge wrap fees to low-trading retired clients without conducting a suitability reassessment or recommending a more cost-effective fee arrangement?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes a breach of the adviser's fiduciary duty of care and loyalty under the Investment Advisers Act and implicates wrap fee concerns identified in SEC EXAMS priorities.
+
+SEC EXAMS has repeatedly flagged wrap fee programs as a priority examination area, specifically targeting advisers who fail to assess whether wrap programs remain in clients' best interests on an ongoing basis, particularly for accounts with low trading activity. The adviser's fiduciary duty requires ongoing evaluation of whether the fee arrangement continues to serve the client's interest. Identifying that 187 accounts were materially overpaying relative to available alternatives and taking no corrective action demonstrates a breach of the duty of care and loyalty. The generic brochure disclosure is insufficient to cure the conflict or relieve the adviser of its obligation to act.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act §§ 206(1) and 206(2); SEC OCIE Risk Alert on Wrap Fee Programs; FY 2025 and FY 2026 SEC Division of Examinations Priorities
+
+KEY FACTOR
+----------
+The firm identified low-trading wrap accounts paying dramatically more than transaction-based alternatives but took no corrective action, failing its ongoing fiduciary obligation to ensure fee arrangements remain suitable.

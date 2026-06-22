@@ -1,0 +1,25 @@
+ID: 344
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Senior broker Christopher M. at a mid-sized FINRA member firm initiated a variable annuity exchange for 64-year-old widow Margaret H. in November 2022. Margaret's existing VA (issued 2015, $240,000 value, 5% remaining surrender charge = $12,000 penalty, 1.50% annual insurance cost) was exchanged into a new VA (January 2023, $240,000 initial value, 10% surrender charge declining 1% annually, 1.65% annual insurance cost, $12,000 commission to Christopher). Christopher documented that Margaret sought 'higher income features,' but the new VA offered only identical income riders with slightly higher costs. The new policy had a 10-year surrender charge schedule vs. 3 years remaining on the old policy. No suitability file documented: (1) analysis of surrender charge differential; (2) discussion of tax consequences (VA exchanges are non-taxable but lock surrender risk); (3) explanation why identical income features justified surrender-charge reset and cost increase. Christopher received no supervisory approval pre-sale. Margaret filed complaint 8 months later, reporting $12,000 surrender-charge loss and learning the new policy cost more.
+
+QUESTION
+--------
+Did Christopher M. comply with FINRA Rule 2330 (variable annuity suitability) and Rule 3110 supervision in executing the VA exchange?
+
+ANSWER
+------
+No. Christopher violated Rule 2330(b), which requires that VA recommendations be suitable considering the client's age, financial situation, investment objectives, and whether the recommendation is in the customer's best interest. The exchange failed this standard because: (1) the new VA imposed $12,000 additional surrender-charge risk (10-year schedule vs. 3 years remaining), materially disadvantaging a 64-year-old retiree within her life expectancy; (2) annual insurance costs increased 0.15% ($360 annually on $240K), providing no offset benefit; (3) income features were identical, negating any material advantage; (4) the exchange was non-taxable but still locked surrender risk, disadvantaging the client relative to the status quo. Rule 2330(d) requires supervisory approval and suitability documentation pre-sale. Christopher's supervisor failed to implement Rule 3110 procedures by approving the exchange without documented analysis. FINRA 2021-2023 AWCs show $250K–$800K fines for unsuitable VA exchanges; restitution typically equals surrender charges plus costs differential. This case exhibits classic 'exchange churning'—reversing prior surrender-charge progress for commission.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b) (VA suitability); FINRA Rule 2330(d) (supervisory approval requirement); FINRA Rule 3110(b) (supervisory procedures)
+
+KEY FACTOR
+----------
+VA exchange imposed materially worse surrender-charge schedule and higher costs with no offsetting benefit to a retiree, while lacking pre-sale supervisory approval and documented suitability analysis.

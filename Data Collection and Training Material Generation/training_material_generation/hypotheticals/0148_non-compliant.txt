@@ -1,0 +1,27 @@
+ID: 148
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker managed a discretionary account for a 72-year-old widow with $520,000 and stated conservative objectives (60% bonds, 30% dividend stocks, 10% cash). The account was held at a firm with a compensation system paying brokers 40 basis points per trade. Over 18 months, the account turned over 5.2 times (117 trades), with particularly heavy in-and-out trading in 3 mutual funds (each held for 4–8 weeks before sale). The client never initiated trades or requested changes, received no advisory reports explaining the rationale, and stated in a subsequent regulatory interview that she 'trusted the broker and didn't look closely.' Total commissions and fees were $9,840 (1.89% of average equity annually). The account returned 3.1% gross, compared to a 4.7% return for a comparable conservative bond index fund over the same period.
+
+QUESTION
+--------
+Does this conduct violate FINRA Rule 2111 (suitability) or Rule 2010 (churning)?
+
+ANSWER
+------
+No, this does not satisfy the legal standard. The conduct violates FINRA Rule 2111(b) and Rule 2010.
+
+This conduct violates Rule 2010/2111 churning standards on multiple grounds: (1) Turnover of 5.2 exceeds the 1.0 presumptive threshold; (2) Fee-to-equity ratio of 1.89% combined with underperformance (3.1% vs. 4.7% benchmark) is unsuitable for a conservative, elderly client; (3) The broker's compensation incentive (40 bps per trade) creates a conflict of interest motivating excessive trading — particularly problematic where the firm knew this structure; (4) Absence of written trading rationales, client-initiated trades, or documented reviews indicates the broker exercised de facto control over the account; (5) The client's trust and passivity, combined with the broker's churning, is precisely the vulnerability FINRA Rule 2010 protects against. The underperformance is critical — it shows the churning harmed the client. See FINRA AWC Case #2013036166 (2016) (advisor sanctioned for 4.8 turnover in conservative account).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b) (suitability requirement and prohibition on excessive trading); FINRA Rule 2010 (churning standard — control + excessive in-and-out trading + intent to defraud or knowledge that conduct is unsuitable); FINRA Rule 4512 (supervision and documentation); In re Lorin, 88 F.3d 626 (8th Cir. 1996) (excessive trading without client authorization or business purpose).
+
+KEY FACTOR
+----------
+Combination of 5.2 turnover, absence of client initiation or documented rationale, de facto broker control, misaligned compensation incentive, and underperformance relative to benchmark establish churning under Rule 2010.

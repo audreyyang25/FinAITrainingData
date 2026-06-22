@@ -1,0 +1,25 @@
+ID: 405
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A New Jersey-registered broker-dealer advises a 72-year-old retiree in Newark with $640,000 in a taxable account and $180,000 in an IRA, and explicitly states a goal: 'maximize income while preserving capital for 25-year life expectancy.' The BD recommends a strategy mixing (1) a $200,000 immediate annuity (immediate income of $12,400/year, 6.2% rate, but irreversible commitment) and (2) a $150,000 collar strategy (buy protective puts on concentrated $600,000 equity position, sell covered calls; net cost 1.2% annually) for the remainder. The BD discloses commissions ($6,400 immediate annuity, $1,800 collar implementation) but does not disclose that under NJ's fiduciary rule (NASAA-modeled, effective 2019), it owes a 'duty of loyalty' requiring it to act in client's best interest and avoid conflicts—and that the $8,200 in commissions create an incentive to recommend income-generating products over lower-commission alternatives like a diversified dividend portfolio yielding 3.1% with minimal fees. The BD does not analyze whether the dividend portfolio would better satisfy the client's dual goals of income and capital preservation while providing greater flexibility.
+
+QUESTION
+--------
+Does the BD's recommendation comply with NJ's fiduciary rule, which requires avoidance of conflicts and pursuit of best interest?
+
+ANSWER
+------
+No. Under New Jersey's fiduciary rule (effective 2019, modeled on NASAA principles), broker-dealers owe a duty of loyalty and care to all clients, including retirees. The rule requires explicit analysis of whether the recommended strategy (immediate annuity + collar) serves the client's best interest better than alternatives. The BD failed to disclose that its $8,200 compensation creates a conflict favoring commission-generating products over a simpler dividend portfolio (3.1% yield, minimal fees) that would achieve the same income goal with greater flexibility and lower costs. The BD's failure to document analysis of the dividend portfolio alternative—which would generate only ~$3,200 in fees—violates the duty of loyalty under NJ law, which requires that conflicts be disclosed and that the adviser affirmatively demonstrate why higher-compensation products serve client best interest.
+
+APPLICABLE STANDARD
+-------------------
+New Jersey Fiduciary Rule (2019, NASAA-modeled) — duty of loyalty and care for all retail clients
+
+KEY FACTOR
+----------
+Failing to analyze or disclose lower-commission alternative (dividend portfolio) that achieves equivalent income goals violates NJ fiduciary duty of loyalty by omitting material conflict-of-interest analysis.

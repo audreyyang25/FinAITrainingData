@@ -1,0 +1,25 @@
+ID: 311
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Fairmont Advisors, a dually registered BD/IA firm, advised 62-year-old Marcus T., who held a $850,000 advisory account earning the firm 1.1% annual AUM fee ($9,350/year). In March 2023, without documented client discussion or written consent, the firm transferred Marcus's account to the brokerage division, redesignated it as 'commission-based.' The advisor recommended 18 equity trades over 6 months, generating $12,400 in commissions (1.46% turnover). No Form CRS was provided. The firm's recorded call shows the advisor stating only 'We're moving you to our brokerage platform for better execution,' with no explanation that the firm would now earn commissions instead of fees, or that Marcus retained the right to remain in advisory status.
+
+QUESTION
+--------
+Did Fairmont Advisors comply with Form CRS delivery requirements and Reg BI capacity disclosure obligations when moving Marcus from advisory to brokerage without documenting his informed consent?
+
+ANSWER
+------
+No. Fairmont violated multiple obligations. First, Form CRS must be delivered to all clients before or at account opening; moving an existing client to a new service model (brokerage instead of advisory) triggers a delivery requirement under Reg BI preamble guidance on dual registrants. Second, Reg BI §240.15l-1(a)(1)(i)(B) requires clear disclosure of capacity (principal broker or agent acting on behalf of customer), which the recorded call lacks entirely. Third, the firm failed to obtain documented client consent to the capacity change, violating best interest duty under §240.15l-1(a)(2). The shift from 1.1% AUM ($9,350) to 1.46% trading revenue ($12,400 annually) suggests revenue maximization by the firm, not client benefit. This resembles the FINRA dual-registrant enforcement pattern wherein scope of services is altered without consent.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Capacity Disclosure, 17 CFR §240.15l-1(a)(1)(i)(B); Form CRS Rule, 17 CFR §275.204-1; Reg BI preamble discussion of dual registrant duties; Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)
+
+KEY FACTOR
+----------
+Dual registrant transferred client from advisory to brokerage account without Form CRS delivery, capacity disclosure, or documented informed consent, creating undisclosed conflict of interest.

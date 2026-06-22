@@ -1,0 +1,27 @@
+ID: 191
+Source Folder: unknown
+Topic: options_complex
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retired client with $285,000 in liquid assets, conservative risk tolerance, and primary income from Social Security requests a meeting to discuss his portfolio. His broker recommends selling short 15 call options on Tesla stock (which he does not own) to generate income, stating 'this is a great way to boost your retirement income by 2-3% monthly.' The client has never traded options before. The broker documents suitability as 'client expressed interest in income generation' but does not assess the client's knowledge of options mechanics, unlimited loss potential, or margin requirements.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2360 (options) suitability requirements?
+
+ANSWER
+------
+No, this recommendation violates FINRA Rule 2360 and fails the options suitability standard.
+
+FINRA Rule 2360(b)(14) requires that a firm shall not approve a customer for uncovered option writing unless the firm has a reasonable basis to believe the customer has the experience, sophistication, and financial resources to use this strategy. Here, the 68-year-old client has zero options experience, is retired on fixed income, and has only $285K liquid assets—insufficient to cover potential losses from short calls (theoretically unlimited). The broker's failure to document assessment of options knowledge, loss potential, or margin risk violates the heightened suitability inquiry mandated for complex derivatives. See FINRA Case 2016049181401 (selling covered calls to retirees without documentation of options understanding). The 2-3% monthly income expectation is also unrealistic and inconsistent with the client's conservative profile.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2360 (Options Accounts); FINRA Suitability Rule 2111; Reg BI duty of care
+
+KEY FACTOR
+----------
+Client has no documented options experience and conservative risk tolerance, making naked short calls unsuitable regardless of income objectives; firm failed to assess customer sophistication and loss potential as required by Rule 2360(b)(14).

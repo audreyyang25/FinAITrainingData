@@ -1,0 +1,25 @@
+ID: 468
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Chen managed a $4.2M diversified portfolio for 45-year-old software engineer James Wong with a stated moderate-growth objective and 20-year investment horizon. Over a 24-month period (Jan 2022–Dec 2023), Chen executed 87 trades with an average holding period of 8.2 months and a portfolio turnover ratio of 2.4x per annum (average turnover for comparable moderate-growth portfolios: 0.6–0.8x). Chen generated $89,400 in trading commissions during this period (an average of $1,030/month). Chen documented in his file: (1) written instructions from Wong dated Jan 5, 2022 stating 'I authorize trading as needed to maximize returns and maintain allocations'; (2) a quarterly report showing Wong's signed approval of trading activity; (3) a claim that the frequent rebalancing 'responded to market opportunities and maintained target allocations.' However, upon review, the SEC found: (a) 62 of 87 trades (71%) were initiated by Chen without contemporaneous documentation of specific client-identified opportunities or allocations that required rebalancing; (b) the turnover rate of 2.4x annually was 3–4x higher than necessary to maintain stated allocations; (c) internal communications showed Chen told his supervisor 'trading activity keeps clients engaged and generates meaningful commission income'; (d) Wong's signed 'approval' was a pre-printed quarterly form, not specific consent to each trade strategy.
+
+QUESTION
+--------
+Did Advisor Chen comply with the fiduciary duty of care and the prohibition on churning under Reg BI and FINRA Rule 2111, despite Wong's written authorization?
+
+ANSWER
+------
+No. Non-compliant. While Wong provided general written authorization, the fiduciary duty of care and prohibition on churning (Rule 2111 & Reg BI §240.15l-1(a)(2)(i)) require that trading activity serve the client's stated objectives, not the adviser's financial interest. The SEC's facts show: (1) excessive turnover (2.4x vs. 0.6–0.8x benchmark) without documented justification; (2) 71% of trades lacked contemporaneous documentation of client-identified needs or market opportunities; (3) internal evidence (supervisor statement) of commission-driven intent; (4) Wong's consent was blanket, not specific, and the pre-printed quarterly form was insufficient. General authorization does not permit churning; each trade must be supported by documented analysis of the client's needs. The disparity between stated moderate-growth objective (requiring minimal trading) and actual 2.4x turnover, combined with internal commission-focused communications, demonstrates a breach of fiduciary duty and Rule 2111. Comparable FINRA AWC cases (e.g., 2019-XX) held that excessive turnover without contemporaneous documentation of suitability violates fiduciary standards despite client authorization.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability, prohibition on churning); Investment Adviser Act §206 (fiduciary duty of care); Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)
+
+KEY FACTOR
+----------
+Turnover ratio 3–4x higher than benchmark + 71% of trades undocumented + internal evidence of commission-driven intent + blanket (not specific) client authorization = churning violation.

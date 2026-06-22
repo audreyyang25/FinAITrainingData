@@ -1,0 +1,25 @@
+ID: 430
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Adviser Patricia Gomez, CFA, manages $6.2M for high-net-worth client Elena Vasquez, age 61. Vasquez's portfolio holds $500,000 in Bitcoin (8% of assets, acquired 2018). Gomez personally owns $1.8M in Bitcoin and has undisclosed financial interests in two crypto exchange platforms (stake ownership not disclosed to clients). In 2024, Gomez recommends Vasquez delegate her Bitcoin holdings to a crypto staking service ('CryptoYield'), earning 12% annual yield. Gomez does not disclose: (1) her substantial personal Bitcoin holdings; (2) her ownership stakes in the exchanges that route to CryptoYield; (3) that staking involves smart-contract risk, slashing penalties (up to 10% loss), and illiquidity (6-month lock-up); (4) that Gomez receives a 2% fee from CryptoYield for client referrals. Vasquez enrolls $500,000; within 8 months, a smart-contract exploit causes a 12% loss ($60,000). Vasquez discovers Gomez's interests only after the loss.
+
+QUESTION
+--------
+Did Gomez comply with Reg BI and the Investment Adviser Act fiduciary duty of loyalty and care?
+
+ANSWER
+------
+No, on multiple grounds. (1) Conflicts Disclosure (Reg BI §240.15l-1(a)(2)(ii) & Inv Adv Act §206(1)): Gomez failed to disclose material conflicts: her substantial personal Bitcoin holdings (creating incentive to recommend yield strategies to inflate Bitcoin's perceived value), her ownership stakes in the exchanges routing to CryptoYield (financial interest in client deposits), and the 2% referral fee. (2) Duty of Loyalty (Inv Adv Act §206(1)): The undisclosed conflicts demonstrate breach because Gomez prioritized her referral fee and exchange interests over Vasquez's need for risk disclosure. (3) Care Obligation (Reg BI §240.15l-1(a)(2)(i) & Inv Adv Act §206(2)): Gomez failed to disclose material risks (smart-contract risk, slashing, illiquidity, lock-up period) that would be critical to Vasquez's evaluation. (4) Staking-specific risk: SEC guidance emphasizes that staking services involve custody and operational risks requiring explicit disclosure. The pattern resembles SEC enforcement against advisers with hidden crypto holdings and undisclosed platform stakes. This is 'hard' because it involves multiple fiduciary breaches (loyalty, care, conflict disclosure) on an emerging product.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflicts Disclosure, 17 CFR §240.15l-1(a)(2)(ii); Investment Adviser Act §206 (duty of loyalty and care); SEC Digital Asset Guidance IA-5653
+
+KEY FACTOR
+----------
+Adviser recommended staking without disclosing own substantial Bitcoin holdings, ownership stakes in crypto platforms, 2% referral fee, or material staking risks (slashing, smart-contract risk, illiquidity).

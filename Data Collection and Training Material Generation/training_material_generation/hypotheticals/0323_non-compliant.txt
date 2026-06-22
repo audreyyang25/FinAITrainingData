@@ -1,0 +1,25 @@
+ID: 323
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Robert P. manages a $275,000 account for Margaret S., age 81, widow, modest income ($32,000/year Social Security), conservative risk tolerance, no trading experience. From June 2022 to May 2023, Robert P. executes 142 trades (primarily small-cap growth stocks rotating in/out every 25–35 days). Annualized turnover ratio = 7.2×. Total commissions/fees = $51,800 (cost-to-equity = 18.8%). Portfolio generated 3.2% return. No written investment policy statement. Robert P. claims he had 'de facto discretionary control' based on general verbal authorization ('manage as you see fit'). Margaret S. later states she did not recall authorizing frequent trading and believed account was invested 'conservatively.' Compliance review finds Robert P. had no formal discretionary authority letter but advisor executed trades without pre-trade approval or documented post-trade calls.
+
+QUESTION
+--------
+Did Robert P. violate FINRA Rule 2111(b) despite cost-to-equity ratio (18.8%) technically below 20% threshold?
+
+ANSWER
+------
+Yes. While cost-to-equity 18.8% falls below the 20% presumptive unsuitability threshold, multiple other factors establish churning: (1) turnover ratio 7.2× exceeds the 6× strong-inference threshold; (2) Margaret S.'s profile (age 81, widow, modest fixed income, conservative risk tolerance, no trading experience) is fundamentally incompatible with active trading strategy; (3) de facto discretionary control exercised via verbal authorization without formal written authority or documented periodic client approval violates the control test—excessive influence without formal disclosure; (4) 3.2% return fails to justify transaction costs, indicating trading generated no economic value exceeding commissions; (5) absence of written IPS and post-trade documented approval calls demonstrate lack of ongoing suitability analysis. The quantitative red flags (7.2× turnover, in-and-out pattern, inadequate returns) combined with qualitative factors (elderly widow, conservative profile, de facto control, no documentation) establish churning under FINRA Rule 2111(b).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) — Quantitative Suitability; Control Test; Excessive Trading; 17 CFR §240.15l-1(a)(2)(i)
+
+KEY FACTOR
+----------
+Turnover 7.2× above 6× threshold combined with inadequate returns (3.2%), de facto discretionary control without written authorization, and elderly conservative client profile establishes churning despite cost-to-equity below 20%.

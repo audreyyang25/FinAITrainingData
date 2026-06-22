@@ -1,0 +1,25 @@
+ID: 356
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerCorp, a FINRA member firm with 47 registered representatives across 3 branches, maintained written supervisory procedures (WSPs) that required branch managers to review all customer complaints within 5 business days and escalate complaints alleging 'unauthorized trading' or 'excessive fees' to the compliance department within 2 business days. On March 15, 2023, customer Janet M. (age 68, $425,000 account) filed a written complaint with branch manager Sarah T. alleging that registered rep David K. had executed 47 round-trip trades in her account over 4 months, generating $12,340 in commissions while her account was designated 'conservative.' Sarah T. received the complaint on March 16, filed it in a local folder, but did not forward it to compliance. A compliance review 8 months later discovered the unescalated complaint and found that David K. had indeed churned 12 similar accounts that same quarter, generating $67,800 total in commissions. The firm had taken no supervisory action.
+
+QUESTION
+--------
+Did BrokerCorp comply with FINRA Rule 3110's written supervisory procedures and escalation obligations regarding customer complaints?
+
+ANSWER
+------
+No. FINRA Rule 3110(b)(5) requires member firms to establish and maintain WSPs reasonably designed to supervise the activities of each associated person. Here, BrokerCorp's written procedures explicitly required escalation of unauthorized trading complaints to compliance within 2 business days, but branch manager Sarah T. failed to follow that procedure. The fact that compliant procedures existed does not satisfy Rule 3110 if they are not implemented. The 8-month delay in discovering the complaint and the subsequent finding of pattern churning across 12 accounts demonstrates the firm's failure to reasonably supervise. This mirrors FINRA enforcement patterns (similar to FINRA AWC 2019-084) where branch-level supervisory failures allowed churning to continue unremedied.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(b)(5) — Written Supervisory Procedures; FINRA Rule 3110(c) — Supervisory System Implementation
+
+KEY FACTOR
+----------
+Written procedures existed but were not implemented by the branch manager, and the firm's compliance department was never notified despite explicit escalation requirements.

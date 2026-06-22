@@ -1,0 +1,27 @@
+ID: 195
+Source Folder: unknown
+Topic: options_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $310,000 in assets, stated moderate risk tolerance, and full-time employed status asks her advisor about 'generating extra income' during an annual review. The advisor recommends a systematic monthly covered call writing program on the client's $120,000 of dividend-paying blue-chip stocks (MSFT, JNJ, KO, PG), targeting monthly premiums of $1,200-1,500 (representing an annual yield of 12-15% on the covered position). The advisor provides a suitability form documenting the client's 'income generation objective' and notes that covered calls are 'lower risk.' However, the form does not address: (i) the client's understanding of the impact on capital appreciation above the call strikes; (ii) the opportunity cost of repeated call sales suppressing upside potential; (iii) the embedded tax inefficiency (short-term gains if called away at short holding periods); (iv) the concentration risk of selling calls against only 4 stocks; or (v) whether the 12-15% target is realistic or would require increasingly aggressive (closer-to-the-money) strike selection over time. No quarterly review or monitoring procedure is documented. After 8 months, the client complains that she is 'locked in' at strike prices and has missed significant upside when her holdings gap higher.
+
+QUESTION
+--------
+Does this covered call program recommendation satisfy FINRA suitability and monitoring obligations?
+
+ANSWER
+------
+No, this covered call program violates FINRA Rule 2111 (suitability) and FINRA Rule 4512 (books and records, supervision, monitoring).
+
+The recommendation fails on multiple counts: (1) while covered calls are generally compliant for investors seeking modest income enhancement, the stated 12-15% annual yield from call premiums is inconsistent with realistic option pricing for out-of-the-money calls on stable blue-chip stocks; this suggests the advisor either failed to explain the cost or implicitly encouraged in-the-money call sales (cap appreciation), which is unsuitable for a moderate-risk client seeking growth and income balance; (2) the suitability documentation is incomplete—it does not address the client's understanding of opportunity cost, tax drag, or the real objective (income vs. total return), as required by FINRA Rule 2111's 'reasonable basis' standard; (3) the concentration of calls on 4 stocks amplifies idiosyncratic risk relative to a diversified blue-chip portfolio; (4) the firm did not establish a written supervisory procedure or monitoring plan for this systematic program, violating Rule 4512(c) (each firm shall establish, maintain, and enforce supervisory procedures); and (5) after 8 months the advisor had not reviewed whether the strategy was achieving its stated objective or whether the client remained suitable. See FINRA AWC cases involving systematic covered call programs (e.g., cases finding violations when firms failed to monitor and update suitability for changing market conditions).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (suitability); FINRA Rule 2360 (options suitability); FINRA Rule 4512 (supervision and books & records); SEC Reg BI (ongoing monitoring duty)
+
+KEY FACTOR
+----------
+The 12-15% yield target is unrealistic for out-of-the-money covered calls and suggests inadequate suitability analysis; incomplete documentation of opportunity cost and tax inefficiency; absence of documented monitoring or supervisory procedures for an ongoing strategy; client complaint of 'locked in' position indicates strategy objectives and constraints were not clearly communicated.

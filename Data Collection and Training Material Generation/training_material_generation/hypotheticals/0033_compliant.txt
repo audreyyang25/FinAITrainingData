@@ -1,0 +1,27 @@
+ID: 33
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer pays advisors a 30% payout on all fund recommendations, regardless of whether they are proprietary or third-party products. An advisor recommends a mix of proprietary mutual funds (30% of portfolio) and low-cost third-party index funds (70% of portfolio) to a 58-year-old client with $500,000 in assets and moderate growth objectives. Written disclosure is provided explaining the firm's compensation structure (flat 30% across all products), and a written memo in the file documents that the mixed allocation balances active and passive strategies appropriate for the client's risk tolerance and time horizon.
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+Yes, this recommendation is compliant with Regulation Best Interest.
+
+The firm satisfied Reg BI by establishing a compensation structure that eliminates the primary conflict of interest: the flat 30% payout across proprietary and third-party products means the advisor has no financial incentive to favor one over the other. This 'conflict elimination' approach (preferred under Reg BI) is supported by disclosure of the compensation structure and documented rationale for the mixed allocation (balancing active and passive strategies). The 70/30 split toward index funds demonstrates prioritization of the customer's best interest (low costs, diversification) despite no financial incentive advantage. The firm disclosed its compensation structure, and the advisor documented why the allocation serves the client's moderate growth objectives. This approach reflects best-practice compliance: conflict elimination (uniform compensation) combined with disclosure and documented suitability rationale.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) — when compensation is uniform across products (no differential incentive), conflict disclosure and mitigation burden is reduced; documented allocation rationale satisfies Reg BI.
+
+KEY FACTOR
+----------
+Uniform compensation structure across all products (30% flat payout) eliminates differential incentive; combined with disclosure and documented allocation rationale satisfies Reg BI.

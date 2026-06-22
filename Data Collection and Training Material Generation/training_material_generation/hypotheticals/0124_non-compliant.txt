@@ -1,0 +1,27 @@
+ID: 124
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 67-year-old widow with $320,000 in a traditional IRA (inherited from her spouse's estate) is recommended to exchange the IRA into a variable annuity with a guaranteed minimum income rider (GMIR) guaranteed to pay 4.5% of the account value for life, beginning at age 70. The variable annuity carries 0.95% M&E fees, 0.50% rider fee, and the advisor earns a $9,600 commission (3%). The advisor's written recommendation states 'suitable to ensure guaranteed lifetime income and reduce market risk,' but does not address: (1) the client's current retirement income sources (Social Security of $28,000 annually, pension of $18,000 annually = $46,000 total); (2) whether the client needs additional guaranteed income now or can defer to age 70; (3) the tax implications of the GMIR payout structure (10% tax penalty on any distributions before age 59.5, already satisfied, but ordinary income treatment); (4) whether a less expensive income annuity ($320,000 would generate $15,200-$18,000 annually at age 67 vs. 4.5% at age 70 from the GMIR) would better serve the stated objective with lower fees.
+
+QUESTION
+--------
+Does this variable annuity exchange comply with FINRA Rule 2330(d) (exchange suitability) and Reg BI?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330(d) exchange suitability and Reg BI's best interest standard.
+
+This recommendation violates Rule 2330(d) exchange suitability because: (1) the advisor failed to document the customer's current and projected retirement income needs—the client already has $46,000 in annual guaranteed income (Social Security + pension), and the recommendation does not show why immediate or future guaranteed income from the GMIR is necessary or how it improves the client's retirement security; (2) the advisor did not compare the variable annuity GMIR (4.5% payable at age 70, with 1.45% annual fees and a 3-year deferral) to a lower-cost income annuity purchased immediately (which would pay $15,200-$18,000 at age 67, generating guaranteed income within 3 years rather than age 70, with total fees of 0.5%-1.0%); (3) the $9,600 commission (3%) creates a direct conflict of interest favoring the higher-fee, higher-commission variable annuity over a low-cost income annuity (which would generate $3,200-$4,800 commission), and this conflict is not disclosed or addressed in the suitability analysis; (4) Rule 2330(d) explicitly requires the advisor to document why the exchange benefits the customer compared to keeping the existing IRA structure or adopting a lower-cost alternative; and (5) under ERISA's prohibited transaction rules (26 U.S.C. § 4975(c)), the advisor's recommendation of a higher-fee, commission-generating product over a lower-cost alternative that serves the same stated objective creates a non-exempt prohibited transaction unless the recommendation can be justified as in the exclusive benefit of the retirement plan participant—the documentation does not make this case.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(d) — Recommendations to exchange one variable annuity or to exchange a non-variable product for a variable annuity require specific suitability analysis addressing whether the exchange benefits the customer; Reg BI Rule 15l-1(b)(2)(i)(C) — recommendation must consider compensation (commissions) conflict of interest; DOL ERISA 406 — prohibited transaction if advisor recommends IRA rollover/exchange without considering the exclusive benefit standard for retirement accounts.
+
+KEY FACTOR
+----------
+The advisor recommended a 3-year deferral to age 70 for guaranteed income without documenting the client's actual current income needs, and did not compare the 1.45% annual fee variable annuity to a lower-cost income annuity that could provide comparable or superior guaranteed income immediately, while the advisor's $9,600 commission on the variable annuity versus ~$3,500 on an income annuity creates undisclosed compensation conflict.

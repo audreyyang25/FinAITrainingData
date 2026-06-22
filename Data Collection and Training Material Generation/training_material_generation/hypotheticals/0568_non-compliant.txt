@@ -1,0 +1,27 @@
+ID: 568
+Source Folder: 05_SEC_Exam_Findings
+Topic: best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Ridgeline Capital, an SEC-registered adviser with $95 million in AUM, routes substantially all equity trades for its 340 client accounts through a single executing broker-dealer, Apex Securities, with whom the firm has a soft-dollar arrangement under Section 28(e). In exchange for directing order flow, Ridgeline receives Bloomberg terminal access and third-party research reports valued at approximately $48,000 annually. Over an 18-month period, Apex's execution quality data shows average effective spreads 3.2 basis points wider than the national best bid/offer for comparable orders, and Ridgeline's compliance department has not conducted a best execution review or evaluated alternative execution venues since the arrangement was established four years ago. The firm's Form ADV Part 2A mentions the soft-dollar arrangement in general terms but does not quantify the economic benefit received or the potential impact on execution quality.
+
+QUESTION
+--------
+Did Ridgeline Capital satisfy its best execution obligations and SEC examination standards regarding soft-dollar arrangements and order routing?
+
+ANSWER
+------
+No, this conduct constitutes a best execution failure and inadequate disclosure of the material conflict inherent in the soft-dollar arrangement.
+
+The SEC Division of Examinations has identified best execution as a perennial exam priority, with particular focus on advisers that route order flow to a single broker-dealer in exchange for soft-dollar benefits without conducting periodic, documented reviews of execution quality. The 3.2 basis point spread differential across 340 accounts over 18 months represents a quantifiable cost borne by clients to subsidize Ridgeline's operational expenses. The Section 28(e) safe harbor requires that the adviser make a good faith determination that the commissions paid are reasonable in relation to the value of brokerage and research received—a determination impossible without comparative execution analysis. The generic Form ADV disclosure further fails the fiduciary duty of loyalty by not informing clients of the economic magnitude of the conflict.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1) and 206(2) – Best Execution Duty; Securities Exchange Act § 28(e) – Safe Harbor for Soft Dollars; SEC Division of Examinations Best Execution Risk Alerts and FY 2025/2026 Exam Priorities
+
+KEY FACTOR
+----------
+The firm failed to conduct any best execution review for four years while routing all trades to a single broker providing soft-dollar benefits, resulting in demonstrably wider execution spreads borne by clients.

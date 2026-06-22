@@ -1,0 +1,25 @@
+ID: 455
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer's advisory division recommended a 7% deferred annuity (7% annual 12b-1, 2% surrender charge declining 1% annually, 1.25% internal management fee, 0.5% insurance cost) to 68-year-old client with $420,000 in liquid CDs earning 2.3%. Client's stated goal was "income in retirement." Broker noted client was sophisticated (former CFO), documented risk tolerance as "aggressive," and noted client's intent to hold 15 years. Broker prepared suitability memo citing: (1) tax deferral benefit at client's 32% combined tax rate (marginal benefit: $14,700 over 15 years); (2) lifetime income rider ensuring $28,000 annual payment. However, broker did not compare annuity to alternative strategies: (1) Treasury ladder yielding 4.8% with zero fees; (2) low-cost dividend portfolio (0.15% fees) with 3.5% yield. No analysis of whether income goal required annuitization.
+
+QUESTION
+--------
+Did the broker comply with suitability standards by recommending the annuity without analyzing non-annuity income alternatives?
+
+ANSWER
+------
+No. FINRA Rule 2111 and Rule 2330 (variable/deferred annuities) require broker to conduct comparative analysis of material alternatives before recommending annuity, especially for income objectives. Broker documented tax benefit ($14,700 present value over 15 years) but failed to compare to Treasury ladder or dividend strategy, which would deliver same income with lower costs and greater liquidity. The suitability memo's focus on tax deferral alone does not justify ignoring lower-cost alternatives achieving the same stated goal. This mirrors FINRA enforcement (AWC 2022-048) where annuity suitability was questioned when non-annuity income solutions existed with materially lower costs and comparable benefit.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability); FINRA Rule 2330 (Annuity Sales); Comparative Analysis Requirement
+
+KEY FACTOR
+----------
+Failure to document analysis of lower-cost income alternatives (Treasury ladder, dividend portfolio) violates suitability duty despite valid tax deferral rationale.

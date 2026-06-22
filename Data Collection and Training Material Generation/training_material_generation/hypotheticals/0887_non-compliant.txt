@@ -1,0 +1,27 @@
+ID: 887
+Source Folder: 19_CFTC_Guidance
+Topic: commodity_conflicts
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Meridian Asset Management is a registered investment adviser to a large registered investment company (mutual fund) with $1.2 billion in assets under management. Following the CFTC's February 8, 2012 rule amendments requiring CPO registration by investment advisers to registered investment companies investing in commodity-linked derivatives, Meridian's commodity exposure—primarily through S&P GSCI-linked total return swaps and exchange-traded crude oil futures representing 8.3% of the fund's NAV—triggers the CPO registration requirement. Meridian's general counsel determines that the fund qualifies for a de minimis exemption under CFTC Regulation 4.13(a)(3) and does not register as a CPO. However, Meridian simultaneously earns undisclosed revenue-sharing payments from the swap counterparty on the commodity-linked swaps, a fact omitted from both the fund's prospectus and its Form ADV Part 2. The fund's board is not informed of the revenue-sharing arrangement.
+
+QUESTION
+--------
+Does Meridian's failure to disclose the revenue-sharing arrangement with its commodity swap counterparty, combined with its CPO registration analysis, comply with applicable CFTC and SEC requirements?
+
+ANSWER
+------
+No, this conduct is a violation of CFTC conflict of interest disclosure obligations and SEC fiduciary disclosure requirements under the Investment Advisers Act.
+
+While the CFTC's 2012 rule revisions created CPO registration obligations for advisers to registered investment companies investing in commodity-linked derivatives, an adviser claiming an exemption under Rule 4.13(a)(3) must still satisfy conditions including honest dealing free of material conflicts. The undisclosed revenue-sharing payment from the swap counterparty constitutes a material conflict of interest that must be disclosed to the fund's board and investors under both CFTC anti-fraud provisions under Regulation 4.41 and the SEC's fiduciary duty framework. The SEC-CFTC MOU on information sharing means dual regulatory exposure is heightened in cases involving registered investment companies with commodity derivatives. Failure to disclose to the board alone constitutes a breach of fiduciary duty independent of the CPO analysis.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Regulations 4.13(a)(3) and 4.41; SEC Investment Advisers Act Section 206; SEC-CFTC MOU on Coordination in Areas of Common Regulatory Interest (June 28, 2018)
+
+KEY FACTOR
+----------
+Undisclosed revenue-sharing payments from the commodity swap counterparty to the investment adviser constitute a material, undisclosed conflict of interest triggering violations under both CFTC and SEC frameworks.

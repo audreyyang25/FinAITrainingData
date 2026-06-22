@@ -1,0 +1,27 @@
+ID: 723
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Beacon Retirement Services serves as the investment committee for a university's $2.1 billion 403(b) defined contribution plan with 28,000 participants. The plan offers a lineup of 42 investment options, including several institutional share class mutual funds with expense ratios ranging from 0.03% to 0.72%. An internal audit reveals that three actively managed funds have underperformed their benchmarks for three consecutive years. The investment committee meets quarterly and has documented minutes showing it reviews each fund's performance, expenses, and peer rankings. After the three-year underperformance period, the committee conducts a formal review with its independent investment consultant, considers replacing the funds, but ultimately decides to retain them for 12 additional months based on documented analysis showing the underperformance coincided with a specific market cycle and that the fund managers' investment theses remain intact. The committee simultaneously negotiates lower expense ratios on two of the three funds.
+
+QUESTION
+--------
+Does the plan fiduciary's decision to retain underperforming funds for an additional monitoring period, rather than immediately replacing them, violate ERISA's duty of prudence?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Under Tibble v. Edison, ERISA fiduciaries have a continuing duty to monitor plan investments and remove imprudent ones. However, this duty requires a prudent process, not a specific outcome. Here, the investment committee engaged in a well-documented, deliberative process including quarterly reviews, engagement of an independent consultant, substantive analysis of the reasons for underperformance, and active negotiation of lower fees. Hughes v. Northwestern reinforced that fiduciaries must engage in ongoing monitoring but did not mandate automatic removal upon underperformance. The documented, reasoned decision to retain funds during a monitoring period—supported by independent analysis—satisfies the procedural prudence standard.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(B) – Duty of Prudence (Prudent Man Standard); Tibble v. Edison Int'l, 575 U.S. 523 (2015); Hughes v. Northwestern University, 595 U.S. 170 (2022)
+
+KEY FACTOR
+----------
+A thoroughly documented, deliberative monitoring process with independent expert input satisfies the continuing duty of prudence under Tibble even when the fiduciary retains temporarily underperforming funds.

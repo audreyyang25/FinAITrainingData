@@ -1,0 +1,25 @@
+ID: 291
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+NorthStar Advisors, a $3.8 billion RIA, maintains a proprietary principal trading operation, NorthStar Trading LLC, which is not affiliated with the adviser but is under common ownership (same managing partners). NorthStar Advisors frequently purchases corporate bonds, ETFs, and equities into its own account for inventory, then sells identical or substantially similar securities to client accounts at "market prices." In a representative transaction, NorthStar Trading LLC purchases 50,000 shares of TechCorp (ticker: TECH) at $45.20 per share on Monday. On Wednesday, NorthStar Advisors' client portfolios (collectively representing $890 million of the firm's AUM) receive advice to purchase 48,000 shares of TECH, and on the same day, NorthStar Advisors directs the purchases through NorthStar Trading LLC at $45.65 per share—a 0.45-point spread ($22,320 total markup). NorthStar Advisors does not disclose this principal trading arrangement in its Form ADV Part 2A; the adviser characterizes NorthStar Trading LLC merely as "an affiliated execution service." Clients are not informed of the principal trading or the markup. The adviser documents in an internal memo that "this structure provides liquidity and improves client execution," but provides no comparative analysis of alternative execution venues or justification for the 0.45-point spread.
+
+QUESTION
+--------
+Does NorthStar Advisors' undisclosed principal trading with clients comply with the Investment Adviser Act's best execution and fiduciary duty obligations?
+
+ANSWER
+------
+No. NorthStar violates Section 206(3) on multiple grounds. First, principal trading (adviser buying from clients or selling to clients out of its own account) is a material conflict of interest requiring explicit written disclosure and, under SEC guidance, implied client consent. NorthStar's failure to disclose the principal trading relationship and the markup violates the disclosure duty. Second, the adviser must demonstrate that principal trading is in clients' best interest and that the price is fair. The 0.45-point spread ($22,320 on a $2.2 million order) is not justified by the vague assertion that it "improves execution." NorthStar has not compared the principal spread to alternative execution venues (e.g., open market purchases) or documented that the principal price was competitive. Third, the adviser's characterization of NorthStar Trading LLC as merely an "affiliated execution service" is materially misleading. Principal trading violates best execution when undisclosed and when the client does not receive execution quality comparable to what independent market execution would provide. This pattern aligns with SEC enforcement against advisers engaging in undisclosed principal trading and charging hidden markups.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3) and Section 206(1) (general fiduciary duty), SEC Inv. Mgmt. Release IA-1092, and SEC principal trading guidance (IA-1545)
+
+KEY FACTOR
+----------
+Undisclosed principal trading with material markup and absence of executed best-price analysis violates fiduciary duty and best execution obligation.

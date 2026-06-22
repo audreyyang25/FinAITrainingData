@@ -1,0 +1,27 @@
+ID: 964
+Source Folder: 23_International_Comparative
+Topic: mifid_ii_suitability_assessment_omission
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A UK-based investment firm operating under MiFID II onboards a retail client seeking to invest €150,000 in complex structured products. The adviser collects basic demographic information but does not gather any information about the client's investment knowledge, experience, financial situation, or risk tolerance. The adviser proceeds to recommend a leveraged equity-linked note, stating the product has historically performed well. No suitability report is provided to the client prior to execution.
+
+QUESTION
+--------
+Does the adviser's recommendation of a complex structured product without conducting a suitability assessment comply with MiFID II requirements?
+
+ANSWER
+------
+No, this conduct is a violation of MiFID II Article 25(2), which requires firms to obtain necessary information regarding a client's knowledge, experience, financial situation, and investment objectives before making any personal recommendation.
+
+MiFID II Article 25(2) explicitly mandates that investment firms obtain sufficient information about a client's knowledge and experience, ability to bear losses, risk tolerance, financial situation, and investment objectives before providing a personal recommendation. The adviser's failure to collect this information renders any recommendation inherently unsuitable and exposes the firm to regulatory sanction. Additionally, the absence of a suitability report, required under Article 25(6), compounds the violation.
+
+APPLICABLE STANDARD
+-------------------
+MiFID II Art. 25(2); ESMA Guidelines on Suitability (ESMA35-43-1163)
+
+KEY FACTOR
+----------
+Complete omission of mandatory suitability information gathering prior to a personal recommendation for a complex financial instrument.

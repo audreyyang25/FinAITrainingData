@@ -1,0 +1,25 @@
+ID: 427
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Investment adviser Margaret Chen, age 68, manages $450,000 in retirement assets. Her risk tolerance assessment (conducted 2023) indicates 'conservative' with 5-year time horizon. In Q1 2024, her broker-dealer adviser James Park recommends a 20% allocation ($90,000) to Bitcoin futures contracts, citing 'inflation hedge' and 'diversification benefits.' Park does not obtain updated risk tolerance documentation, does not discuss Bitcoin's extreme volatility (annualized std dev ~70%), does not mention Bitcoin's limited historical correlation with traditional assets, and does not document Chen's prior cryptocurrency experience (she has none). Park's recommendation letter states: 'Bitcoin allocation suitable for long-term retirement planning.' Chen accepts and allocates $90,000 within 30 days.
+
+QUESTION
+--------
+Did Park comply with Reg BI's care obligation and FINRA Suitability Rule 2111 in recommending a 20% Bitcoin futures allocation to a 68-year-old conservative investor?
+
+ANSWER
+------
+No. This violates Reg BI's care obligation (17 CFR §240.15l-1(a)(2)(i)) requiring the adviser to understand the client's financial situation, investment experience, and objectives before recommending an investment. Park failed to: (1) update risk tolerance given the extreme volatility of Bitcoin futures; (2) document Chen's zero cryptocurrency experience; (3) explain why a 20% allocation to a highly speculative asset suits a conservative, near-retiree profile; and (4) analyze behavioral suitability (risk of panic selling). Under FINRA Rule 2111, the recommendation also fails the suitability prong because it is incongruous with Chen's stated conservative tolerance and short time horizon. The 'inflation hedge' rationale is generic and unsupported by Chen's specific circumstances. Similar pattern to FINRA 2022 cryptocurrency suitability enforcement actions.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); FINRA Suitability Rule 2111
+
+KEY FACTOR
+----------
+Recommendation of 20% speculative Bitcoin allocation to conservative elderly client without updated risk assessment, volatility disclosure, or documentation of suitability rationale.

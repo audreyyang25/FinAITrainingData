@@ -1,0 +1,25 @@
+ID: 332
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor at boutique firm manages account for 76-year-old retired teacher with $485,000 pension rollover IRA, stated objective: "generate $22,000 annual income, preserve principal." Over 14 months, advisor executed 118 trades in mutual fund shares and individual securities, annualized turnover ratio: 6.8×. Transaction costs (commissions, bid-ask spreads, fund loads): $28,500 (5.9% of average account value). Cost-to-equity ratio: 5.9%. Advisor documented "client preference for active management" in account notes despite client never requesting frequent trading—client's signed IRA agreement stated "long-term buy-and-hold strategy." Portfolio shifted from 75% dividend-paying stocks to 40% dividend stocks, 35% speculative micro-cap stocks, 25% inverse ETFs (short positions). Actual annual income generated: $7,800 (vs. $22,000 target). Client's net return: −3.1% (S&P 500 +14.2%). Advisor's prior client complaint (2019): SEC received complaint client felt pressured into frequent trading.
+
+QUESTION
+--------
+Does this trading pattern and cost structure violate FINRA Rule 2111(b) quantitative suitability standards?
+
+ANSWER
+------
+Yes, clear violation of FINRA Rule 2111(b). Decisive factors establish unsuitable churning: (1) annualized turnover ratio of 6.8× exceeds the 6× presumptive churning threshold; (2) cost-to-equity ratio of 5.9% is substantial and unjustified by negative returns (−3.1% actual vs. +14.2% market); (3) documented mismatch between stated objective (capital preservation, $22,000 income) and portfolio composition (speculative micro-caps, inverse ETFs)—incompatible with 76-year-old retiree; (4) quantitative misalignment: client paid $28,500 in costs but realized −3.1% loss and only $7,800 income (vs. $22,000 goal); (5) contradiction between signed agreement ("long-term buy-and-hold") and actual trading pattern (6.8× turnover) undermines claimed client authorization; (6) prior SEC complaint about "pressure to trade" supports inference of control abuse. The high costs consumed income needed for living expenses. Advisor's retroactive documentation of "client preference for active management" contradicts signed IRA agreement and prior client complaint. Classic churning pattern in vulnerable elderly client account.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative analysis; control test; qualitative misalignment with documented objective
+
+KEY FACTOR
+----------
+6.8× turnover exceeding presumptive threshold, combined with 5.9% cost-to-equity, negative returns, income shortfall, portfolio drift from stated objective, and prior client complaint, establishes unsuitable churning.

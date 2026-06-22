@@ -1,0 +1,27 @@
+ID: 165
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer's registered representative (age 52, 15 years in the industry) manages $18 million in assets for 47 high-net-worth clients. The rep has a side business: he is a licensed insurance agent and sells life insurance and fixed annuities to select clients from his broker-dealer book. When recommending a fixed annuity (3% guaranteed rate, 2% M&E fee, 7-year surrender charge) to a 72-year-old client with $2.8 million in liquid assets and conservative objectives, the rep earns a 5% commission ($22,000) on the annuity sale through his insurance agency. The broker-dealer's Form CRD lists the insurance license, but the firm's ADV Part 2A contains only boilerplate language: 'Representatives may engage in outside business activities. Clients should ask their representative for details.' No client-specific conflict letter or disclosure is provided before the annuity recommendation. The fixed annuity purchase represents 8% of the client's portfolio, and no documented suitability analysis compares the fixed annuity to alternatives (e.g., Treasury bonds, bond ladder, balanced mutual fund).
+
+QUESTION
+--------
+Does this transaction comply with Reg BI's conflict-of-interest obligation and FINRA suitability rules?
+
+ANSWER
+------
+No, this violates Reg BI 15l-1(b)(2)(i) (conflict disclosure), FINRA Rule 2111 (suitability), and the IA fiduciary duty of loyalty.
+
+The rep's undisclosed conflict is material: he receives 5% commission ($22,000) from selling the fixed annuity through his insurance agency, a self-dealing incentive that must be disclosed to the client before the recommendation. Reg BI 15l-1(b)(2)(i) requires written disclosure of the specific conflict and compensation ('$22,000 commission if you purchase this annuity'). The boilerplate Form ADV language ('ask your representative for details') does not satisfy this standard—the SEC has explicitly rejected generic disclosures in favor of specific, client-facing conflict notices. FINRA Rule 2111 requires suitability be documented and is heightened when the rep has compensation conflicts; the absence of a written analysis comparing the fixed annuity to Treasury bonds or a bond ladder—obvious alternatives for a 72-year-old conservative investor—is a suitability failure. The rep's outside insurance business activity must be specifically disclosed to *this* client before the recommendation, not buried in firm-wide ADV language. This is a classic pattern from FINRA enforcement (see AWC settlements involving undisclosed insurance commissions).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI 15l-1(b)(2)(i) (specific written conflict disclosure required before recommendation); FINRA Rule 2111 (suitability must be documented); FINRA Rule 2210 (communication with the public must be fair and balanced); IA Act Section 206(2) (IA duty of loyalty requires disclosure of outside business conflicts).
+
+KEY FACTOR
+----------
+Failure to provide specific written disclosure of the 5% insurance commission before recommending the fixed annuity, combined with absence of documented suitability analysis comparing alternatives, constitutes an undisclosed material conflict in violation of Reg BI and FINRA suitability.

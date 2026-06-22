@@ -1,0 +1,27 @@
+ID: 581
+Source Folder: 05_SEC_Exam_Findings
+Topic: share_class_selection
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A dually registered investment adviser and broker-dealer with $120 million in assets under management systematically recommended Class A mutual fund shares with front-end loads averaging 5.25% to 342 retirement account holders between 2022 and 2024. Lower-cost Class I (institutional) shares were available for all of the same funds on the firm's platform, which would have saved clients an estimated $1.8 million in aggregate front-end sales charges. The firm's compliance policies referenced share class evaluation, but no documented analysis was performed for any of these recommendations, and the firm received 12b-1 fee revenue from the Class A share placements. The firm's Form ADV Part 2A disclosed that it 'may receive compensation from mutual fund companies' but did not specifically disclose the conflict created by the availability of lower-cost share classes.
+
+QUESTION
+--------
+Did the adviser violate its fiduciary duty and Reg BI obligations by systematically recommending higher-cost Class A shares when lower-cost institutional shares were available on the same platform?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes a violation of the adviser's fiduciary duty under the Investment Advisers Act and a failure to satisfy Reg BI's Care and Conflict of Interest obligations.
+
+SEC OCIE/EXAMS has consistently identified share class selection as a priority examination area, issuing risk alerts specifically targeting advisers who recommend higher-cost share classes when lower-cost alternatives are available. The adviser's fiduciary duty requires it to act in clients' best interests, which includes selecting the lowest-cost share class reasonably available. The failure to document any share class analysis, combined with the inadequate disclosure of the specific conflict (12b-1 fee revenue), violates both the duty of care and the duty to address conflicts of interest under Reg BI and the Advisers Act fiduciary standard.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act §§ 206(1) and 206(2); SEC Rule 15l-1(a)(2)(i) and (ii) – Reg BI Care and Conflict of Interest Obligations; SEC OCIE Share Class Selection Risk Alert (2018/2019)
+
+KEY FACTOR
+----------
+Systematic selection of higher-cost share classes generating 12b-1 fee revenue for the firm when lower-cost institutional shares were available on the same platform, with no documented analysis or adequate conflict disclosure.

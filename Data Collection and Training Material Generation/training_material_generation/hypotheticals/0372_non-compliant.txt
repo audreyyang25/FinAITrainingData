@@ -1,0 +1,25 @@
+ID: 372
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David, age 62, has $1.8M in a Fidelity 403(b) plan (teachers' annuity contract) holding primarily stable value funds yielding 3.5% with a 2.2% annual insurance wrap charge. The plan has no loan provision. Advisor Jennifer recommends rolling over $1.8M to a Vanguard Traditional IRA where Jennifer will charge 0.75% AUM fee and reinvest in a diversified portfolio (60/40 stocks/bonds, blended ER 0.12%). Jennifer documents her analysis: 'Rollover allows broader investment options, CARES Act-compliant distributions (client turned 62 last month), and lower ongoing costs.' Jennifer does disclose her fee of 0.75% in writing. However, Jennifer does not calculate or document the net tax impact of moving $1.8M from an annuity contract (subject to surrender charges of 2% = $36,000) and does not mention that David could access 403(b) loans at 4% if liquidity were needed post-rollover.
+
+QUESTION
+--------
+Did Jennifer comply with PTE 2020-02 requirements for documenting best interest analysis on the 403(b) rollover recommendation?
+
+ANSWER
+------
+No. Although Jennifer disclosed her fee and identified legitimate rollover benefits (investment flexibility, lower costs), her analysis is incomplete under PTE 2020-02 §I(a)(1). The Five-Part Test requires advisers to document consideration of 'all relevant facts and circumstances.' Critical omissions: (1) Jennifer did not quantify or address the 2% surrender charge ($36,000), which erodes near-term returns; (2) she ignored the plan's loan feature (4% rate) as an alternative to rollover for liquidity; (3) she provided no net analysis showing that 0.75% AUM fee on IRA minus the 2.2% 403(b) wrap still benefits David after accounting for $36,000 surrender charge amortized over his time horizon. While the rollover may ultimately be suitable, Jennifer's written analysis fails PTE 2020-02's documentation requirement by omitting material plan features and costs. This mirrors SEC/DOL enforcement where incomplete analysis—even with fee disclosure—violates the standard.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 §I(a)(1) (Five-Part Test: documented analysis of relevant facts); ERISA §408(b)(14)
+
+KEY FACTOR
+----------
+Advisor failed to document analysis of $36,000 surrender charge, plan loan alternative, or net cost comparison—material omissions that fail the Five-Part Test despite fee disclosure.

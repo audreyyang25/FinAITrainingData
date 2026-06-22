@@ -1,0 +1,27 @@
+ID: 6
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old non-English-speaking client with limited investment experience and $200,000 in savings meets with a multilingual broker-dealer advisor. The client states a goal of 'safe savings' and has never invested before. The advisor recommends a 60/40 portfolio that includes: (1) $60,000 in a leveraged inverse ETF (SQQQ, 3x inverse Nasdaq), and (2) $80,000 in a small-cap value fund with high turnover (1.2% expense ratio). The advisor explains the leveraged ETF as 'insurance' but does not discuss the daily reset mechanism, the unsuitability for long-term holding, the tax inefficiency, or the impact of volatility decay. The advisor obtains a signed acknowledgment that the client 'understands' the risks.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+No, this violates the Reg BI care obligation.
+
+The recommendation violates Reg BI for multiple reasons: (1) a leveraged inverse ETF is fundamentally unsuitable for a first-time investor with a 'safe savings' goal; (2) the advisor failed to adequately explain the 'costs' (daily reset mechanism, volatility decay, high tax inefficiency, 0.95% expense ratio) in the context of the client's profile and language barriers; (3) the advisor did not discuss 'alternatives' such as Treasury bonds, stable-value funds, or diversified index funds that would meet the 'safe savings' objective; (4) leveraged inverse ETFs are designed for tactical hedging over days/weeks, not long-term holding, making this recommendation particularly unsuitable; (5) the signed acknowledgment does not cure the underlying violation—Reg BI is an objective standard focused on what the advisor should recommend, not on whether a client signs a waiver; and (6) the combination of the leveraged inverse ETF and the high-turnover small-cap fund creates a contradictory, incoherent portfolio (hedged downside + upside exposure) that does not align with 'safe savings.' This is a clear Reg BI violation.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i); Reg BI care obligation—broker-dealer must recommend an investment in the customer's best interest considering costs, risks, rewards, and alternatives. Heightened scrutiny applies for complex/exotic products recommended to unsophisticated investors.
+
+KEY FACTOR
+----------
+Recommending a leveraged inverse ETF to an unsophisticated, non-English-speaking first-time investor with a 'safe savings' goal, without explaining daily reset risk, volatility decay, or tax consequences, and without considering safe alternatives.

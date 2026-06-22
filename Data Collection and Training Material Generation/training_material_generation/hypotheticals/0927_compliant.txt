@@ -1,0 +1,27 @@
+ID: 927
+Source Folder: 21_FINRA_OHO_Decisions
+Topic: adequate_supervisory_system_options
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Broker-dealer Meridian Securities implemented a written supervisory procedures manual that specifically addressed options trading, requiring principal review and pre-approval of all Level 3 and Level 4 options accounts within 24 hours of application. The firm designated a registered options principal to review daily exception reports flagging accounts with unusual options concentration exceeding 30% of net equity, and conducted quarterly branch audits that included sampling of options suitability documentation. When an exception report flagged a customer account with a 45% concentration in naked put options inconsistent with the customer's conservative profile, the designated principal contacted the broker within the same business day and required the position to be unwound. Documentation of the review and corrective action was retained for six years.
+
+QUESTION
+--------
+Did Meridian Securities' supervisory system for options trading satisfy the requirements of FINRA Rule 3110?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Rule 3110 requires member firms to establish and maintain a supervisory system, including written supervisory procedures, reasonably designed to achieve compliance with applicable securities laws and FINRA rules. Meridian's system satisfies this standard by combining written procedures tailored to options risk, designated principal oversight, automated exception reporting with defined thresholds, and documented corrective action that was triggered and executed within required timeframes. The firm's six-year retention of supervisory documentation also satisfies the books and records obligations under Rule 4511.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision); FINRA Rule 2360 (Options); FINRA Rule 4511 (Books and Records)
+
+KEY FACTOR
+----------
+The firm's layered supervisory controls—written procedures, designated principal review, automated exception reporting, and documented corrective action—constituted a system reasonably designed to detect and address options suitability failures.

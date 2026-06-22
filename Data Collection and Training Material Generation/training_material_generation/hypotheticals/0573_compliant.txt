@@ -1,0 +1,27 @@
+ID: 573
+Source Folder: 05_SEC_Exam_Findings
+Topic: best_execution
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+An SEC-registered investment adviser managing $175 million across 420 client accounts routes approximately 85% of equity orders to a single executing broker-dealer that does not offer the lowest posted commission rate on the adviser's approved broker list. The adviser's best execution committee meets quarterly and documents a multi-factor analysis that includes execution quality metrics (price improvement data, fill rates, speed of execution), research services received under a legitimate soft dollar arrangement disclosed in Form ADV Part 2A §12, the broker's financial stability, and the broker's ability to handle the firm's order flow without market impact. The committee's minutes from each quarter reflect that the preferred broker consistently achieves price improvement of 1.2 cents per share above the NBBO on average, offsetting the $0.005 per share higher commission. Two alternative brokers were evaluated each quarter and the analysis was retained in compliance files. The soft dollar arrangement is fully disclosed in the adviser's Form ADV, and the research obtained qualifies under Section 28(e) of the Securities Exchange Act.
+
+QUESTION
+--------
+Is the adviser's practice of routing most orders to a higher-commission broker-dealer compliant with its best execution obligations given the documented multi-factor analysis?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Best execution does not require an adviser to obtain the lowest possible commission; rather, it requires that the adviser seek the most favorable terms reasonably available under the circumstances. The SEC Division of Examinations has emphasized that best execution reviews should consider the full range of execution quality factors, not merely commission cost. Here, the adviser's quarterly committee analysis documents superior price improvement that more than offsets the higher per-share commission, evaluates alternatives, and maintains the analysis in compliance records. The soft dollar arrangement is within the §28(e) safe harbor and fully disclosed, which addresses the potential conflict of interest.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206 fiduciary duty (best execution component); Securities Exchange Act §28(e) safe harbor for soft dollars; SEC Division of Examinations best execution risk alerts
+
+KEY FACTOR
+----------
+The adviser's documented quarterly multi-factor best execution analysis demonstrating superior price improvement and legitimate soft dollar usage satisfies fiduciary best execution obligations despite routing to a higher-commission broker.

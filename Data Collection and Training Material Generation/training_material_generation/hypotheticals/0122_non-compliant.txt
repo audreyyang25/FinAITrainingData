@@ -1,0 +1,27 @@
+ID: 122
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 62-year-old retiree with $180,000 in liquid savings and moderate risk tolerance is recommended to invest $150,000 in a variable annuity with 7% annual surrender charges declining over 7 years, 1.5% annual mortality and expense (M&E) fee, and $4,500 in front-loaded commissions. The advisor documents the recommendation as 'suitable' but does not document why the high surrender charges and fees are reasonable given the client's stated objective of retirement income with liquidity flexibility.
+
+QUESTION
+--------
+Does this variable annuity recommendation comply with FINRA Rule 2330's suitability obligation?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330 suitability standards.
+
+The recommendation fails Rule 2330(b) suitability because: (1) the client explicitly stated need for liquidity and retirement income flexibility, yet the 7-year surrender charge schedule (7% declining) directly conflicts with this stated objective—if the client needs to access funds before year 5, penalties would erode 3.5% to 7% of principal; (2) the combined M&E fee (1.5% annually) plus front-loaded commission (3%) equals 4.5% drag in year one, which is excessive for a retiree seeking stable income; (3) the advisor's documentation does not address why this specific product with these fees was chosen over lower-cost alternatives (e.g., a low-cost index annuity at 0.5% M&E or a diversified municipal bond fund with no surrender charges); and (4) at age 62, actuarial life expectancy is approximately 25 years, making the 7-year surrender schedule a material constraint for nearly 28% of expected remaining life. The lack of documented comparative analysis violates the Rule 2330(d) record-keeping requirement.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b) — Variable Annuity Suitability; Rule 2330(a)(2) — requirement to document reasonable basis and customer-specific suitability; Reg BI Rule 15l-1(b)(2)(i)(A) — investment recommendation must be in client's best interest considering available alternatives.
+
+KEY FACTOR
+----------
+Client's stated liquidity need and high surrender charges (7% for 7 years) are directly incompatible, and the advisor failed to document why the product's fee structure (1.5% M&E + 3% commission) is reasonable compared to alternatives.

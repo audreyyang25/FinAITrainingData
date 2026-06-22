@@ -1,0 +1,25 @@
+ID: 382
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Marcus, age 62, holds 5,000 shares of his employer stock (ABC Corp) in his 401(k), current value $312,500 (cost basis $47,000). The stock represents 38% of his $820,000 total plan balance. He is considering retirement in 18 months. His adviser, Patricia, recommends rolling the entire 401(k) to a traditional IRA. Patricia's analysis letter states: 'IRA provides greater flexibility and lower fees (0.95% vs. plan's 1.10%).' Patricia did NOT address the Net Unrealized Appreciation (NUA) tax strategy, which would allow Marcus to: (1) roll only non-ABC shares to IRA; (2) distribute ABC shares in kind; (3) pay ordinary income tax on cost basis ($47,000); (4) hold ABC shares in taxable account, paying long-term capital gains (20% federal) on $265,500 appreciation only when sold. At Marcus's marginal tax rate (32%) and assuming 15-year hold, NUA would save approximately $84,000 in taxes vs. rolling over all shares and paying 32% on the entire $312,500 when distributed.
+
+QUESTION
+--------
+Did Patricia's rollover recommendation comply with PTE 2020-02 and DOL fiduciary duty despite the documented fee analysis?
+
+ANSWER
+------
+No. Although Patricia documented a fee comparison, she violated the best-interest standard by failing to identify and analyze the NUA tax opportunity—a material, documented tax-advantaged strategy specific to Marcus's circumstances. PTE 2020-02 requires advisers to identify material alternatives and explain why a rollover is in the client's best interest. The NUA election is a standard strategy for concentrated employer stock holdings and is directly relevant to a client within 18 months of retirement. Patricia's silence on NUA suggests inadequate analysis. The $84,000 tax savings (over 10% of the rollover value) represents a material oversight. This mirrors DOL guidance that advisers must analyze distribution strategies before recommending rollovers.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 Best-Interest Standard; DOL Technical Release 2020-02; ERISA §408(b)(14)
+
+KEY FACTOR
+----------
+Failure to identify and analyze material tax strategy (NUA) specific to concentrated employer stock, despite documented fee analysis.

@@ -1,0 +1,25 @@
+ID: 295
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Eastside Asset Management, a $680M AUM adviser, maintains a soft-dollar arrangement with its primary execution partner, Goldstein Capital Markets. Under this arrangement, Eastside generates approximately $1.24M in annual commission flow (0.55% of average client equity AUM), of which $890K is credited as 'research credits' by Goldstein. These credits fund: (a) $520K in third-party research subscriptions (Bloomberg, FactSet, S&P MarketLogic), (b) $280K in Goldstein-produced market commentary and economic reports, and (c) $90K in 'execution analysis' software that Goldstein develops and licenses back to Eastside. Eastside's written soft-dollar policy identifies the research and tools but does not quantify the dollar allocation or specify how commissions are allocated between execution and services. No annual assessment compares the $1.24M in commissions paid to Goldstein versus execution quality available from other brokers (TD Ameritrade, Citadel, Virtu) at lower all-in costs. Eastside's clients are not explicitly told in disclosures that execution commission dollars fund Goldstein-branded research or in-house software development. A compliance review in 2024 reveals that Goldstein's average effective spread on S&P 500 buy orders is 4.2 bps, versus 2.8 bps for Citadel, implying ~$13,500 in annual opportunity cost per $500K client position.
+
+QUESTION
+--------
+Did Eastside Asset Management's soft-dollar arrangement and broker selection comply with Investment Adviser Act Section 206(3)?
+
+ANSWER
+------
+No. Section 206(3), read together with SEC soft-dollar guidance and the IM Division's 2024 best execution updates, requires advisers to: (1) ensure soft-dollar arrangements do not result in paying supracompetitive commissions for inferior execution, and (2) make meaningful disclosure of soft-dollar benefits and conflicts to clients. Eastside's violation involves multiple failures: First, no documented comparison of Goldstein's execution costs versus alternatives demonstrates whether the $1.24M annual commission represents best execution or pays a premium for soft-dollar services. Second, the $1.40 bps execution spread disadvantage (4.2 vs. 2.8 bps) suggests potential overcharge. Third, client disclosures omit specifics: dollar allocation between execution and research/tools, names of affiliate-produced outputs (Goldstein commentary, Goldstein software), and the fact that soft-dollar credits fund affiliate product development. Fourth, Eastside-branded research (including software for execution analysis) raises a self-dealing concern under Section 206(3). The lack of competitive benchmarking combined with undisclosed affiliate benefits mirrors enforcement patterns in SEC/FINRA cases (2019-2023) where advisers funneled commissions to affiliates via soft dollars without documented execution quality analysis.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC Soft Dollar Guidance (1998, reaffirmed 2024); SEC IM Division best execution guidance; SEC Marketing Rule conflicts disclosure requirements
+
+KEY FACTOR
+----------
+Unmeasured soft-dollar arrangement funding affiliate research and software development without documented execution quality analysis or explicit client disclosure of dollar allocations and affiliate benefits violates the best execution fiduciary duty and Section 206(3).

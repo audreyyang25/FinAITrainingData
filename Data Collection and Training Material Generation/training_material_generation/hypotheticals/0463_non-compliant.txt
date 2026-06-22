@@ -1,0 +1,25 @@
+ID: 463
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor Gomez recommended a performance-based fee arrangement to 52-year-old business owner Rachel managing her $4.2M investment portfolio. Rachel agreed to pay Advisor Gomez: (1) 1.25% annual base fee on assets under management, plus (2) 20% of net gains exceeding the S&P 500 return (calculated annually). Under this arrangement, if the portfolio returned 10% and the S&P 500 returned 8%, Advisor Gomez would receive $84K base fee ($4.2M × 1.25%) plus $42K performance fee (20% × $4.2M × 2% outperformance = $42K), totaling $126K or 3% of assets that year. Rachel, not registered as 'qualified client' under Rule 205-3(d)(1), signed the agreement without objection. Advisor Gomez's supervisory firm did not document compliance review. During the first year, the portfolio returned 12% versus S&P 500's 9%, and Advisor Gomez charged the full performance fee.
+
+QUESTION
+--------
+Did Advisor Gomez comply with Rule 205-3 by charging a performance fee to Rachel?
+
+ANSWER
+------
+No, non-compliant with Rule 205-3. SEC Rule 205-3(a) prohibits investment advisers from charging performance-based fees except to 'qualified clients.' Rule 205-3(d)(1) defines qualified clients as: (1) individuals with $750K+ assets under adviser management (not total net worth—Rachel's $4.2M satisfies this), OR (2) individuals with $1.5M+ net worth, OR (3) 'qualified eligible entities' (institutions, trusts). However, Rule 205-3(d)(1) also requires the client qualify at the time the adviser enters into the agreement. More critically, Rule 205-3(c)(1) requires that the adviser provide the client with a written disclosure of all material terms of the fee arrangement before entering into the agreement. There is no evidence Advisor Gomez provided Rachel with a written disclosure document stating the exact calculation method, performance benchmarks, and fee cap. Additionally, Rule 205-3(d)(1) requires that qualified client status be documented at entry; Advisor Gomez's firm failed to document Rachel's qualified status. While Rachel is likely a qualified client by assets, the absence of written disclosure violates Rule 205-3(c)(1).
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 205-3(a)-(d); Investment Advisers Act §205(a)(1)
+
+KEY FACTOR
+----------
+Failure to provide written disclosure of performance fee terms before entering into the agreement violates Rule 205-3(c)(1), even if client is otherwise qualified.

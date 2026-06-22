@@ -1,0 +1,27 @@
+ID: 974
+Source Folder: 23_International_Comparative
+Topic: mifid_ii_suitability_assessment_omission
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A UK-based investment firm operating under MiFID II onboards a retail client seeking to invest £50,000 in complex structured products. The adviser collects basic KYC information but skips the formal suitability questionnaire, reasoning that the client appears financially sophisticated based on conversation alone. A personal recommendation is made and documented without any written suitability report. The client later suffers significant losses.
+
+QUESTION
+--------
+Does the firm's conduct satisfy MiFID II suitability requirements when making a personal recommendation to a retail client without completing a formal suitability assessment?
+
+ANSWER
+------
+No, this conduct is a violation of MiFID II Article 25(2), which mandates a documented suitability assessment prior to any personal recommendation.
+
+MiFID II Article 25(2) explicitly requires investment firms to obtain information on a client's knowledge and experience, financial situation, and investment objectives before making any personal recommendation. Relying on subjective impressions rather than a structured assessment process fails this requirement. The absence of a written suitability report also violates the documentation obligation under Article 25(6).
+
+APPLICABLE STANDARD
+-------------------
+MiFID II Art. 25(2); ESMA Guidelines on Suitability (ESMA35-43-1163)
+
+KEY FACTOR
+----------
+Personal recommendation made without a completed, documented suitability assessment as required under MiFID II Art. 25(2).

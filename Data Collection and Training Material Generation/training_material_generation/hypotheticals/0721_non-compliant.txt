@@ -1,0 +1,27 @@
+ID: 721
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+GlobalRetire Financial Services, a non-fiduciary service provider, administers a participant loan program for a $450 million defined contribution plan covering 12,000 employees. Under the program, participants can borrow against their retirement savings at an interest rate of prime plus 3.5%, significantly above prevailing market rates for similar secured loans. GlobalRetire retains the interest rate spread as additional compensation beyond its stated administrative fees, but the loan program terms are buried in a 200-page service agreement that plan fiduciaries did not independently negotiate. A participant, Maria Chen, age 34, borrows $42,000 from her account and pays approximately $6,800 in excess interest over five years compared to what she would have paid at market rates. The plan fiduciaries never conducted a competitive analysis of the loan terms, and GlobalRetire never disclosed that the interest spread constituted additional compensation to itself.
+
+QUESTION
+--------
+Does GlobalRetire's operation of the participant loan program, where it retains above-market interest as undisclosed additional compensation, constitute a prohibited transaction under ERISA?
+
+ANSWER
+------
+No, this conduct is a prohibited transaction under ERISA Section 406 and a potential violation of ERISA Section 408(b)(2) disclosure requirements.
+
+Under Haley v. TIAA, the Second Circuit recognized that a non-fiduciary service provider can be subject to ERISA prohibited transaction claims when a participant loan program generates undisclosed compensation through above-market interest retained by the provider. ERISA Section 408(b)(2) requires that compensation to service providers be reasonable and fully disclosed. The failure to disclose the interest rate spread as additional compensation, combined with the plan fiduciaries' failure to independently evaluate the loan terms, means the arrangement does not qualify for the statutory exemption for reasonable service arrangements.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §§ 406(a)(1)(C), 406(b), and 408(b)(2) – Prohibited Transactions and Reasonable Compensation Exemption; see Haley v. TIAA, No. 21-805-cv (2d Cir. 2022)
+
+KEY FACTOR
+----------
+The non-fiduciary service provider's retention of undisclosed above-market interest from participant loans constitutes a prohibited transaction that cannot be shielded by the reasonable compensation exemption absent full disclosure.

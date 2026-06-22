@@ -1,0 +1,366 @@
+[11:50:41] ==================================================
+[11:50:41] phase13_borderline.py — claude-opus-4-6
+[11:50:41] Target: 250 borderline hypotheticals
+[11:50:41] ==================================================
+[11:50:41] Have 0 results, need 250 more across 23 folders
+[11:50:41] [01_SEC_Guidance_NoAction_Interpreti] need 11 more (have 0, target 11)
+[11:51:27]   [  1/250] 01_SEC_Guidance_NoAction_Inter | guidance2_34-83063-appendix-b.pdf (✓)
+[11:52:10]   [  2/250] 01_SEC_Guidance_NoAction_Inter | interp_ia-6383.pdf (✓)
+[11:52:54] ==================================================
+[11:52:54] phase13_borderline.py — claude-opus-4-6
+[11:52:54] Target: 250 borderline hypotheticals
+[11:52:54] ==================================================
+[11:52:54] Loaded 2 existing results
+[11:52:54] Have 2 results, need 248 more across 23 folders
+[11:52:54] [01_SEC_Guidance_NoAction_Interpreti] need 9 more (have 2, target 11)
+[11:53:42]   [skip] brave_guidance_im-guidance-2016-03.pdf
+[11:54:31]   [skip] im-guidance-2017-02.pdf
+[11:55:23]   [skip] guidance2_2024-Industry-Snapshot.pdf
+[11:56:11]   [  3/250] 01_SEC_Guidance_NoAction_Inter | guidance2_Regulatory-Notice-16-37.pdf (✓)
+[11:56:57]   [  4/250] 01_SEC_Guidance_NoAction_Inter | guidance2_crs_151088.pdf (✓)
+[11:57:43]   [skip] im-guidance-2014-10.pdf
+[11:58:31]   [  5/250] 01_SEC_Guidance_NoAction_Inter | noaction_4606-3126.pdf (✓)
+[11:59:14]   [  6/250] 01_SEC_Guidance_NoAction_Inter | brave_guidance_im-guidance-2015-01.pdf (✓)
+[11:59:59]   [  7/250] 01_SEC_Guidance_NoAction_Inter | interp_ia-4509.pdf (✓)
+[12:00:45]   [  8/250] 01_SEC_Guidance_NoAction_Inter | gap1_crs_281515.pdf (✓)
+[12:01:31]   [  9/250] 01_SEC_Guidance_NoAction_Inter | guidance2_crs_298587.pdf (✓)
+[12:02:14]   [ 10/250] 01_SEC_Guidance_NoAction_Inter | im-guidance-2016-05.pdf (✓)
+[12:03:01]   [ 11/250] 01_SEC_Guidance_NoAction_Inter | gap1_crs_338618.pdf (✓)
+[12:03:01] [02_SEC_Enforcement_Actions] need 11 more (have 0, target 11)
+[12:03:47]   [ 12/250] 02_SEC_Enforcement_Actions | ia-5944.pdf (✓)
+[12:04:31]   [ 13/250] 02_SEC_Enforcement_Actions | 34-101169.pdf (✓)
+[12:05:20]   [skip] ia-5912.pdf
+[12:06:06]   [ 14/250] 02_SEC_Enforcement_Actions | ia-6122.pdf (✓)
+[12:06:54]   [skip] enf2015_ia-4889.pdf
+[12:07:41]   [ 15/250] 02_SEC_Enforcement_Actions | ia-4163.pdf (✓)
+[12:08:29]   [ 16/250] 02_SEC_Enforcement_Actions | 20-chapter-16-pdf.pdf (✓)
+[12:09:22]   [skip] enf2015_wrap-fee-programs-risk-alert_0.pdf
+[12:10:03]   [ 17/250] 02_SEC_Enforcement_Actions | ia-5363.pdf (✓)
+[12:10:50]   [ 18/250] 02_SEC_Enforcement_Actions | ia-6407.pdf (✓)
+[12:11:38]   [skip] 34-104851.pdf
+[12:12:29]   [ 19/250] 02_SEC_Enforcement_Actions | IA_6882_2025.pdf (✓)
+[12:13:16]   [skip] ia-5162.pdf
+[12:14:03]   [skip] ia-6673.pdf
+[12:14:48]   [ 20/250] 02_SEC_Enforcement_Actions | ia-4493.pdf (✓)
+[12:15:40]   [skip] ia-6104.pdf
+[12:16:31]   [skip] ia-5627.pdf
+[12:17:21]   [ 21/250] 02_SEC_Enforcement_Actions | ia-6116.pdf (✓)
+[12:18:10]   [ 22/250] 02_SEC_Enforcement_Actions | 34-104158.pdf (✓)
+[12:18:10] [03_FINRA_AWC] need 11 more (have 0, target 11)
+[12:18:52]   [ 23/250] 03_FINRA_AWC | 2020065143601_20The_20GMS_20Group_2C_20L (✓)
+[12:19:39]   [ 24/250] 03_FINRA_AWC | awc_brave_2015_December_2015_Disciplinar (✓)
+[12:20:22]   [ 25/250] 03_FINRA_AWC | 2020066079905_20Nicholas_20Lorenzo_20CRD (✓)
+[12:21:05]   [ 26/250] 03_FINRA_AWC | awc_crs_10538.pdf (✓)
+[12:21:50]   [ 27/250] 03_FINRA_AWC | 2022075778501_20CIBC_20World_20Markets_2 (✓)
+[12:22:37]   [ 28/250] 03_FINRA_AWC | 2022075083801_20Zachary_20Ellis_20Taylor (✓)
+[12:23:19]   [ 29/250] 03_FINRA_AWC | awc_crs_79.pdf (✓)
+[12:24:05]   [ 30/250] 03_FINRA_AWC | 2023078410201_20Wells_20Fargo_20Clearing (✓)
+[12:24:49]   [ 31/250] 03_FINRA_AWC | 2023077446501_20Flow_20Traders_20U.S._20 (✓)
+[12:25:35]   [ 32/250] 03_FINRA_AWC | 2022074793701_20Wedbush_20Securities_20I (✓)
+[12:26:25]   [skip] 2024082633901_20Ali_20F_20Chehab_20CRD_207625979_20OHO_
+[12:27:15]   [skip] 2020066825601_20Aegis_20Capital_20Corp._20CRD_2015007_2
+[12:28:02]   [ 33/250] 03_FINRA_AWC | 2020068865301_20Jeffrey_20K_20Galvani_20 (✓)
+[12:28:02] [04_RegBI_Compliance_Guidance] need 11 more (have 0, target 11)
+[12:28:53]   [skip] regbi_brave_what-to-expect-from-sec-enforcement-regulat
+[12:29:44]   [skip] finra_regbi_34-98609.pdf
+[12:30:28]   [ 34/250] 04_RegBI_Compliance_Guidance | finra_regbi_2021069460001_20Independent_ (✓)
+[12:31:18]   [ 35/250] 04_RegBI_Compliance_Guidance | finra_regbi_2018056490332_20Joseph_20Kel (✓)
+[12:32:09]   [skip] finra_regbi_2018056490309_20Tory_20A__20Duggins_20CRD_2
+[12:32:53]   [ 36/250] 04_RegBI_Compliance_Guidance | finra_regbi_2024081346101_20Jonathan_20M (✓)
+[12:33:43]   [ 37/250] 04_RegBI_Compliance_Guidance | finra_regbi_2022076365001_20CIM_20Securi (✓)
+[12:34:33]   [skip] finra_regbi_2022073329701_20JVM_20Securities_2C_20LLC_2
+[12:35:21]   [ 38/250] 04_RegBI_Compliance_Guidance | finra_regbi_2023080042101_20CUNA_20Broke (✓)
+[12:36:07]   [ 39/250] 04_RegBI_Compliance_Guidance | finra_regbi_34-102379.pdf (✓)
+[12:36:56]   [skip] finra_regbi_2018056490327_20Michael_20J__20Dugan_20CRD_
+[12:37:46]   [skip] finra_regbi_2022074296701_20Donald_20J__20Everhart_20CR
+[12:38:34]   [ 40/250] 04_RegBI_Compliance_Guidance | finra_regbi_2018056490316_20Kostas_20Tsa (✓)
+[12:39:25]   [skip] finra_regbi_2022074096805_20Gustave_20J__20Schmidt_20CR
+[12:40:11]   [ 41/250] 04_RegBI_Compliance_Guidance | finra_regbi_2021069365001_20Long_20Islan (✓)
+[12:41:01]   [ 42/250] 04_RegBI_Compliance_Guidance | finra_regbi_2021069380601_20Blaine_20R__ (✓)
+[12:41:51]   [ 43/250] 04_RegBI_Compliance_Guidance | finra_regbi_2021069353201_20John_20Wigmo (✓)
+[12:42:38]   [ 44/250] 04_RegBI_Compliance_Guidance | finra_regbi_2022073340901_20Justin_20W__ (✓)
+[12:42:38] [05_SEC_Exam_Findings] need 11 more (have 0, target 11)
+[12:43:28]   [ 45/250] 05_SEC_Exam_Findings | EXAMS_Priorities_2024.pdf (✓)
+[12:44:18]   [ 46/250] 05_SEC_Exam_Findings | gap5_2022-exam-priorities.pdf (✓)
+[12:45:06]   [ 47/250] 05_SEC_Exam_Findings | gap5_exams-riskalert-mrkt-rule-2512-508. (✓)
+[12:45:51]   [ 48/250] 05_SEC_Exam_Findings | gap5_2024-exam-priorities.pdf (✓)
+[12:46:44]   [skip] gap5_2025-exam-priorities.pdf
+[12:47:34]   [skip] OCIE_Priorities_2015.pdf
+[12:48:24]   [skip] 2025-exam-priorities.pdf
+[12:49:18]   [ 49/250] 05_SEC_Exam_Findings | EXAMS_brave_2025-exam-priorities.pdf (✓)
+[12:50:00]   [ 50/250] 05_SEC_Exam_Findings | EXAMS_brave_national-examination-program (✓)
+[12:50:46]   [ 51/250] 05_SEC_Exam_Findings | OCIE_Priorities_2021.pdf (✓)
+[12:51:34]   [ 52/250] 05_SEC_Exam_Findings | EXAMS_Priorities_2023.pdf (✓)
+[12:52:19]   [ 53/250] 05_SEC_Exam_Findings | gap5_exams-risk-alert-marketing-observat (✓)
+[12:53:09]   [ 54/250] 05_SEC_Exam_Findings | EXAMS_brave_risk-alert-newly-registered- (✓)
+[12:53:59]   [ 55/250] 05_SEC_Exam_Findings | exam_brave_OCIE_20Risk_20Alert_20-_20RIC (✓)
+[12:53:59] [06_DOL_Fiduciary] need 11 more (have 0, target 11)
+[12:54:46]   [skip] dol_final_2019-02.pdf
+[12:55:30]   [ 56/250] 06_DOL_Fiduciary | 6_D_2025-02.pdf (✓)
+[12:56:17]   [ 57/250] 06_DOL_Fiduciary | 6_D_00010.pdf (✓)
+[12:57:07]   [skip] dol_brave_2022-4.pdf
+[12:57:54]   [skip] DOL_FAB_2017_03.pdf
+[12:58:41]   [ 58/250] 06_DOL_Fiduciary | dol_brave_00368.pdf (✓)
+[12:59:26]   [ 59/250] 06_DOL_Fiduciary | DOL_FAB_2019_01.pdf (✓)
+[13:00:07]   [ 60/250] 06_DOL_Fiduciary | 6_D_2019-01.pdf (✓)
+[13:00:55]   [ 61/250] 06_DOL_Fiduciary | gap6_01427.pdf (✓)
+[13:01:39]   [ 62/250] 06_DOL_Fiduciary | 6_D_erisa-fidelity-bonding-requirements. (✓)
+[13:02:24]   [ 63/250] 06_DOL_Fiduciary | dol_final_prohibited-transaction-exempti (✓)
+[13:03:13]   [skip] dol_final_00059.pdf
+[13:03:56]   [ 64/250] 06_DOL_Fiduciary | DOL_FAB_2021_01.pdf (✓)
+[13:04:44]   [ 65/250] 06_DOL_Fiduciary | dol_final_2025-01.pdf (✓)
+[13:05:33]   [skip] dol_final_2023-1.pdf
+[13:06:21]   [ 66/250] 06_DOL_Fiduciary | dol_final_00010.pdf (✓)
+[13:06:21] [07_Practitioner_Commentary] need 11 more (have 0, target 11)
+[13:07:11]   [ 67/250] 07_Practitioner_Commentary | memo_w25861.pdf (✓)
+[13:07:56]   [ 68/250] 07_Practitioner_Commentary | memo_reg-bi-checklist.pdf (✓)
+[13:08:46]   [ 69/250] 07_Practitioner_Commentary | 7_P_rflr-v9-n2-1-pdf.pdf (✓)
+[13:09:28]   [ 70/250] 07_Practitioner_Commentary | memo_Investment-Adviser-Duty-of-Care-SEC (✓)
+[13:10:13]   [ 71/250] 07_Practitioner_Commentary | 7_P_sifma-guidance-on-rule-506c-verifica (✓)
+[13:10:59]   [ 72/250] 07_Practitioner_Commentary | memo_22_08_02-Staff-Bulletin-on-Conflict (✓)
+[13:11:40]   [ 73/250] 07_Practitioner_Commentary | memo_ia-5248.pdf (✓)
+[13:12:31]   [ 74/250] 07_Practitioner_Commentary | memo_Regulation-Best-Interest-Survey-Rep (✓)
+[13:13:22]   [skip] memo_MA2-Regulatory-Exams-Engagement-Panel.pdf
+[13:14:13]   [skip] 7_P_standards-practice-handbook-12th-edition.pdf
+[13:15:01]   [ 75/250] 07_Practitioner_Commentary | memo_2015_AC_Suitability_What_You_Need_t (✓)
+[13:15:53]   [skip] memo_fiduciary-duty-recommendation-2013.pdf
+[13:16:43]   [ 76/250] 07_Practitioner_Commentary | 7_P_MA3-Compliance-Issues-in-Investment- (✓)
+[13:17:29]   [ 77/250] 07_Practitioner_Commentary | 7_P_SIFMA-AMG-Regulation-Best-Interest-R (✓)
+[13:17:29] [08_State_Fiduciary_Rules] need 11 more (have 0, target 11)
+[13:18:12]   [ 78/250] 08_State_Fiduciary_Rules | state_brave_20-Definition_of_Investment_ (✓)
+[13:19:02]   [skip] gap8_new-yorkinsuranceregulation187overturned.pdf
+[13:19:50]   [ 79/250] 08_State_Fiduciary_Rules | state8_gicoutline_2013.pdf (✓)
+[13:20:39]   [ 80/250] 08_State_Fiduciary_Rules | state8_ea20201029_principal_life_comp.pd (✓)
+[13:21:29]   [skip] state8_00277.pdf
+[13:22:17]   [ 81/250] 08_State_Fiduciary_Rules | gap8_NASAA-IA-PandP-Model-Rule-and-Sampl (✓)
+[13:23:00]   [ 82/250] 08_State_Fiduciary_Rules | gap8_model-rule-investment-adviser-uneth (✓)
+[13:23:46]   [ 83/250] 08_State_Fiduciary_Rules | gap8_NASAA-IAR-CE-Model-Rule.pdf (✓)
+[13:24:34]   [ 84/250] 08_State_Fiduciary_Rules | MD_Fiduciary_Standard_Page_doc.pdf (✓)
+[13:25:20]   [ 85/250] 08_State_Fiduciary_Rules | NV_SB383_2017.pdf (✓)
+[13:26:10]   [ 86/250] 08_State_Fiduciary_Rules | state8_annrpt_ins_2010.pdf (✓)
+[13:26:58]   [ 87/250] 08_State_Fiduciary_Rules | state_brave_2025-0109_Edward-Jones-New-J (✓)
+[13:27:41]   [ 88/250] 08_State_Fiduciary_Rules | state_brave_fileServer.pdf (✓)
+[13:27:41] [09_Law_Firm_Memos] need 11 more (have 0, target 11)
+[13:28:30]   [skip] lawmemo_34-88828.pdf
+[13:29:16]   [ 89/250] 09_Law_Firm_Memos | lawmemo_dc_im_2018_session_vi.pdf (✓)
+[13:29:56]   [ 90/250] 09_Law_Firm_Memos | Dechert-AIMA-Journal-Edition-136.pdf (✓)
+[13:30:44]   [skip] gap9_redline.pdf
+[13:31:33]   [ 91/250] 09_Law_Firm_Memos | lawmemo_sec-adopts-best-interest-standar (✓)
+[13:32:20]   [ 92/250] 09_Law_Firm_Memos | 9_L_Substantial-Changes-to-the-Private-F (✓)
+[13:33:09]   [skip] 9_L_FS_Update11_8-06.pdf
+[13:33:52]   [ 93/250] 09_Law_Firm_Memos | 22-16268.pdf (✓)
+[13:34:42]   [ 94/250] 09_Law_Firm_Memos | 1882_ERISA_Risks_Role_of_Fiduciary_Liabi (✓)
+[13:35:24]   [ 95/250] 09_Law_Firm_Memos | investment_management_20alert_regulation (✓)
+[13:36:11]   [ 96/250] 09_Law_Firm_Memos | gap9_Investment-Adviser-Duty-of-Care-SEC (✓)
+[13:37:01]   [ 97/250] 09_Law_Firm_Memos | Investment-Management-Guidebook-ext-APR- (✓)
+[13:37:55]   [skip] 9_L_ICLG-PE23-Full-Guide-Dechert.pdf
+[13:38:43]   [ 98/250] 09_Law_Firm_Memos | lawmemo_ia-5248.pdf (✓)
+[13:39:27]   [ 99/250] 09_Law_Firm_Memos | 1377_PS712_Saxon_p1ok3.pdf (✓)
+[13:39:27] [10_Academic_Articles] need 11 more (have 0, target 11)
+[13:40:16]   [100/250] 10_Academic_Articles | acad10_s70420-216512.pdf (✓)
+[13:41:08]   [101/250] 10_Academic_Articles | R48521.1.pdf (✓)
+[13:41:56]   [102/250] 10_Academic_Articles | academic_ia-5248.pdf (✓)
+[13:42:47]   [103/250] 10_Academic_Articles | fiduciary-investment-advice-regulatory-i (✓)
+[13:43:38]   [skip] ICGN_20Guidance_20on_20Investor_20Fiduciary_20Duties.pd
+[13:44:26]   [104/250] 10_Academic_Articles | academic_lornaschnaseFiduciary-Duty-Pape (✓)
+[13:45:17]   [skip] approved-investment-adviser-arbitration-recommendation-
+[13:46:05]   [105/250] 10_Academic_Articles | Melkonyan-Regulation_Best_Practices_and_ (✓)
+[13:46:55]   [skip] academic_InstituteSixCoreFiduciaryDuties.pdf
+[13:47:43]   [skip] academic_IAA-Conflicts-CLE-Outline-AT-9_1_2023.pdf
+[13:48:30]   [106/250] 10_Academic_Articles | 170531DOLRuleChecklist.pdf (✓)
+[13:49:17]   [107/250] 10_Academic_Articles | DP815.pdf (✓)
+[13:50:06]   [108/250] 10_Academic_Articles | 10-03-2022-Revised-Recovery-of-Investmen (✓)
+[13:50:56]   [skip] Engstrom-Engstrom-75-Stan.-L.-Rev.-Online-146.pdf
+[13:51:47]   [109/250] 10_Academic_Articles | w26784.pdf (✓)
+[13:52:30]   [110/250] 10_Academic_Articles | acad10_19712_regulation_best_interest_ba (✓)
+[13:52:30] [11_Case_Law] need 11 more (have 0, target 11)
+[13:53:22]   [skip] brave_case_govuscourtscacd975245341.pdf
+[13:54:07]   [111/250] 11_Case_Law | cl_2014_ca2_sec_v._contorinis.pdf (✓)
+[13:54:52]   [112/250] 11_Case_Law | cl_2022_delch_polychain_capital_lp_v._pa (✓)
+[13:55:38]   [skip] brave_case_13-15809.pdf
+[13:56:27]   [skip] cl_2019_calctapp_j.b.b._investment_partners_v._fair.pdf
+[13:57:10]   [113/250] 11_Case_Law | gap11_zaun-final.pdf (✓)
+[13:58:00]   [skip] cl_2023_ca9_julie_su_v._brian_bowers.pdf
+[13:58:49]   [114/250] 11_Case_Law | brave_case_24-6164.pdf (✓)
+[13:59:34]   [115/250] 11_Case_Law | cl_2018_ca9_jaclyn_santomenno_v._transam (✓)
+[14:00:21]   [116/250] 11_Case_Law | cl_2024_cadc_an_opinion_was_released_in_ (✓)
+[14:01:07]   [117/250] 11_Case_Law | cl_2020_dcd_pca_integrity_associates_llp (✓)
+[14:01:48]   [118/250] 11_Case_Law | gap11_ia-4889.pdf (✓)
+[14:02:34]   [119/250] 11_Case_Law | case_lornaschnaseFiduciary-Duty-Paper.pd (✓)
+[14:03:26]   [skip] cl_2023_dcd_freeman_v._herring_networks_inc..pdf
+[14:04:16]   [120/250] 11_Case_Law | cl_2025_md_attorney_grievance_commn_v._p (✓)
+[14:05:02]   [121/250] 11_Case_Law | cl_2025_ca2_united_states_v._phillips.pd (✓)
+[14:05:02] [12_FINRA_Arbitration_Awards] need 11 more (have 0, target 11)
+[14:05:48]   [122/250] 12_FINRA_Arbitration_Awards | 16-00880.pdf (✓)
+[14:06:31]   [123/250] 12_FINRA_Arbitration_Awards | 23-03106.pdf (✓)
+[14:07:16]   [124/250] 12_FINRA_Arbitration_Awards | 22-00101.pdf (✓)
+[14:07:57]   [125/250] 12_FINRA_Arbitration_Awards | 17-03471.pdf (✓)
+[14:08:44]   [126/250] 12_FINRA_Arbitration_Awards | 19-00391.pdf (✓)
+[14:09:30]   [skip] 774484.pdf
+[14:10:18]   [127/250] 12_FINRA_Arbitration_Awards | 17-02091.pdf (✓)
+[14:11:03]   [128/250] 12_FINRA_Arbitration_Awards | 25-01283.pdf (✓)
+[14:11:52]   [129/250] 12_FINRA_Arbitration_Awards | 22-02653.pdf (✓)
+[14:12:38]   [130/250] 12_FINRA_Arbitration_Awards | 16-02347.pdf (✓)
+[14:13:22]   [131/250] 12_FINRA_Arbitration_Awards | 17-01426.pdf (✓)
+[14:14:11]   [132/250] 12_FINRA_Arbitration_Awards | 25-00001.pdf (✓)
+[14:14:11] [13_FINRA_Rulebook] need 11 more (have 0, target 11)
+[14:14:55]   [133/250] 13_FINRA_Rulebook | FS_31_10-07_SEC_Approves_FINRA_Rule_Gove (✓)
+[14:15:35]   [134/250] 13_FINRA_Rulebook | p003328.pdf (✓)
+[14:16:22]   [135/250] 13_FINRA_Rulebook | WSP-Checklist-for-BD.pdf (✓)
+[14:17:10]   [136/250] 13_FINRA_Rulebook | p006378_0.pdf (✓)
+[14:17:58]   [137/250] 13_FINRA_Rulebook | Regulatory-Notice-24-02-Attachment-A.pdf (✓)
+[14:18:40]   [138/250] 13_FINRA_Rulebook | p125037.pdf (✓)
+[14:19:20]   [139/250] 13_FINRA_Rulebook | p125237.pdf (✓)
+[14:20:06]   [skip] Regulatory-Notice-19-16.pdf
+[14:20:53]   [140/250] 13_FINRA_Rulebook | p122778.pdf (✓)
+[14:21:39]   [141/250] 13_FINRA_Rulebook | Frequently-Asked-Questions-Regarding-FIN (✓)
+[14:22:25]   [142/250] 13_FINRA_Rulebook | Broker-Dealer-Recordkeeping-Requirements (✓)
+[14:23:14]   [143/250] 13_FINRA_Rulebook | Recent-FINRA-Cases-Highlight-Rule-2010s. (✓)
+[14:23:14] [14_NASAA_State_Enforcement] need 11 more (have 0, target 11)
+[14:23:59]   [144/250] 14_NASAA_State_Enforcement | How-to-Become-A-California-Registered-In (✓)
+[14:24:41]   [145/250] 14_NASAA_State_Enforcement | 2022-Enforcement-Report-FINAL.pdf (✓)
+[14:25:31]   [skip] consent-order_2-3-25.pdf
+[14:26:13]   [146/250] 14_NASAA_State_Enforcement | NASAA-Series-63-Exam-Study-Guide.pdf (✓)
+[14:26:56]   [147/250] 14_NASAA_State_Enforcement | Admin.-Action-Kuber-Capital-Management-L (✓)
+[14:27:40]   [148/250] 14_NASAA_State_Enforcement | index.php.pdf (✓)
+[14:28:17]   [149/250] 14_NASAA_State_Enforcement | BankingandSecurities.pdf (✓)
+[14:28:56]   [150/250] 14_NASAA_State_Enforcement | Signed-Consent-Order-E-2021-0108.pdf (✓)
+[14:29:42]   [151/250] 14_NASAA_State_Enforcement | 2023-04-16_TSSB_20Electronic_20Rulebook. (✓)
+[14:30:27]   [152/250] 14_NASAA_State_Enforcement | 297923.pdf (✓)
+[14:31:11]   [153/250] 14_NASAA_State_Enforcement | 2025_IA_Coordinated_Examinations.pdf (✓)
+[14:31:57]   [154/250] 14_NASAA_State_Enforcement | what-to-expect-from-sec-enforcement-regu (✓)
+[14:31:57] [15_FINRA_Regulatory_Notices] need 11 more (have 0, target 11)
+[14:32:42]   [155/250] 15_FINRA_Regulatory_Notices | 99-24493.pdf (✓)
+[14:33:32]   [156/250] 15_FINRA_Regulatory_Notices | Daniel_20Kolber_5.7.2022_Comment_20Regar (✓)
+[14:34:18]   [157/250] 15_FINRA_Regulatory_Notices | 17-34_sutherland_comment.pdf (✓)
+[14:35:01]   [158/250] 15_FINRA_Regulatory_Notices | Joyce_20Beatty_20_5BUS_20House_20of_20Re (✓)
+[14:35:52]   [159/250] 15_FINRA_Regulatory_Notices | 18-16_IBN_Comment.pdf (✓)
+[14:36:43]   [160/250] 15_FINRA_Regulatory_Notices | 19-17_Rockfleet_comment.pdf (✓)
+[14:37:32]   [161/250] 15_FINRA_Regulatory_Notices | M_20B_6.24.2022_Regulatory_20Notice_2022 (✓)
+[14:38:18]   [162/250] 15_FINRA_Regulatory_Notices | 18-22_Kohn_comment.pdf (✓)
+[14:39:08]   [skip] Danielle_20Douglas_3.29.2022_Regulatory_20Notice_2022-0
+[14:39:59]   [skip] Code_of_conduct-Dec-2020_Eng.pdf
+[14:40:45]   [163/250] 15_FINRA_Regulatory_Notices | 15-19_RJA_comment.pdf (✓)
+[14:41:34]   [skip] Regulatory-Notice-19-27.pdf
+[14:42:17]   [164/250] 15_FINRA_Regulatory_Notices | 18-22_Boliver_Comment.pdf (✓)
+[14:43:03]   [165/250] 15_FINRA_Regulatory_Notices | NASAA_20Comment_20Letter_20re_20FINRA_20 (✓)
+[14:43:03] [16_Congressional_Materials] need 11 more (have 0, target 11)
+[14:43:51]   [166/250] 16_Congressional_Materials | hhrg-118-ba00-20241120-sd002.pdf (✓)
+[14:44:42]   [167/250] 16_Congressional_Materials | HHRG-118-BA10-20240416-SD002.pdf (✓)
+[14:45:29]   [168/250] 16_Congressional_Materials | 2025-11-30_--_fsc_debanking_report_final (✓)
+[14:46:12]   [169/250] 16_Congressional_Materials | hfsc_esg_working_group_staff_report.pdf (✓)
+[14:47:00]   [170/250] 16_Congressional_Materials | HHRG-119-BA10-20250612-SD002.pdf (✓)
+[14:47:53]   [skip] HHRG-119-BA00-Wstate-KlimpelL-20251202.pdf
+[14:48:45]   [skip] senate_banking_committee_digital_asset_market_structure
+[14:49:27]   [171/250] 16_Congressional_Materials | HHRG-118-BA20-20240501-SD001.pdf (✓)
+[14:50:11]   [172/250] 16_Congressional_Materials | 2020-24781.pdf (✓)
+[14:51:01]   [173/250] 16_Congressional_Materials | Fiduciary-Obligations-of-Brokers-Dealers (✓)
+[14:51:49]   [174/250] 16_Congressional_Materials | hhrg-118-ba00-20240924-sd002.pdf (✓)
+[14:52:39]   [175/250] 16_Congressional_Materials | 2023-industry-snapshot.pdf (✓)
+[14:53:31]   [skip] Manisha_20Padi_20Fiduciary_20Duty_20and_20the_20Market_
+[14:54:11]   [176/250] 16_Congressional_Materials | 20061023_RL33703_c93f4e46c967474582c578c (✓)
+[14:54:11] [17_SEC_Staff_Bulletins] need 11 more (have 0, target 11)
+[14:55:04]   [177/250] 17_SEC_Staff_Bulletins | IAA-Conflicts-CLE-Outline-AT-9.1.2023.pd (✓)
+[14:55:48]   [178/250] 17_SEC_Staff_Bulletins | Aug2020NewRegBIFAQs.pdf (✓)
+[14:56:41]   [skip] 22.08.02-Staff-Bulletin-on-Conflicts-of-Interest-for-Br
+[14:57:27]   [179/250] 17_SEC_Staff_Bulletins | Investment-Adviser-Duty-of-Care-SEC-Enfo (✓)
+[14:58:12]   [180/250] 17_SEC_Staff_Bulletins | us-sec-division-investment-management.pd (✓)
+[14:58:56]   [181/250] 17_SEC_Staff_Bulletins | Reg_20BI_20FAQs.pdf (✓)
+[14:59:47]   [182/250] 17_SEC_Staff_Bulletins | 2019_RBI_Reg_BI_Obligations.pdf (✓)
+[15:00:33]   [183/250] 17_SEC_Staff_Bulletins | sec_issues_important_guidance_on_the_adv (✓)
+[15:01:20]   [184/250] 17_SEC_Staff_Bulletins | Firms-Need-to-Improve-Compliance-with-Re (✓)
+[15:02:01]   [185/250] 17_SEC_Staff_Bulletins | SOC-Overview-of-Reg-BI-Staff-Bulletin-re (✓)
+[15:02:42]   [186/250] 17_SEC_Staff_Bulletins | ey-sec21721-231us-11-30-2023-v2.pdf (✓)
+[15:03:29]   [187/250] 17_SEC_Staff_Bulletins | CFP-Board-Code-and-Standards-and-Reg-BI- (✓)
+[15:03:29] [18_OCC_Bank_Trust_Guidance] need 10 more (have 0, target 10)
+[15:04:15]   [188/250] 18_OCC_Bank_Trust_Guidance | pub-ch-retail-nondeposit.pdf (✓)
+[15:05:04]   [189/250] 18_OCC_Bank_Trust_Guidance | int1170.pdf (✓)
+[15:05:47]   [190/250] 18_OCC_Bank_Trust_Guidance | int829.pdf (✓)
+[15:06:28]   [191/250] 18_OCC_Bank_Trust_Guidance | int769.pdf (✓)
+[15:07:15]   [192/250] 18_OCC_Bank_Trust_Guidance | pub-ch-asset-management.pdf (✓)
+[15:08:03]   [193/250] 18_OCC_Bank_Trust_Guidance | int850.pdf (✓)
+[15:08:48]   [194/250] 18_OCC_Bank_Trust_Guidance | OCC2015-12-PersonalFiduciaryActivities.p (✓)
+[15:09:34]   [skip] int995.pdf
+[15:10:20]   [195/250] 18_OCC_Bank_Trust_Guidance | pub-ch-conflicts-of-interest.pdf (✓)
+[15:11:08]   [skip] bulletin-2021-34a.pdf
+[15:11:50]   [196/250] 18_OCC_Bank_Trust_Guidance | int1179.pdf (✓)
+[15:12:36]   [197/250] 18_OCC_Bank_Trust_Guidance | bulletin-1994-13a.pdf (✓)
+[15:12:36] [19_CFTC_Guidance] need 11 more (have 0, target 11)
+[15:13:24]   [skip] enfadvisorycompanies011917.pdf
+[15:14:12]   [198/250] 19_CFTC_Guidance | IOSCOPD698.pdf (✓)
+[15:14:52]   [199/250] 19_CFTC_Guidance | cta-disclosure-documents.pdf (✓)
+[15:15:33]   [200/250] 19_CFTC_Guidance | faq_cpocta.pdf (✓)
+[15:16:18]   [201/250] 19_CFTC_Guidance | six-factsheet-mifid2-investor-protection (✓)
+[15:17:05]   [202/250] 19_CFTC_Guidance | soundpractices.pdf (✓)
+[15:17:49]   [203/250] 19_CFTC_Guidance | 2024-11798a.pdf (✓)
+[15:18:36]   [204/250] 19_CFTC_Guidance | us_commodity_exchange_act_related_regula (✓)
+[15:19:24]   [205/250] 19_CFTC_Guidance | rules11202533001.pdf (✓)
+[15:20:12]   [skip] CFTCcorresCongCmtes2018-2022.pdf
+[15:21:00]   [206/250] 19_CFTC_Guidance | CFTC_MOU_InformationSharing062818.pdf (✓)
+[15:21:49]   [skip] cftc-proposes-amendments-to-rule-47-exemptions-for-comm
+[15:22:36]   [207/250] 19_CFTC_Guidance | 17-68.pdf (✓)
+[15:23:21]   [208/250] 19_CFTC_Guidance | il0512obrien.pdf (✓)
+[15:23:21] [20_SEC_ALJ_OALJ_Decisions] need 10 more (have 0, target 10)
+[15:24:07]   [209/250] 20_SEC_ALJ_OALJ_Decisions | ia-2982.pdf (✓)
+[15:24:54]   [210/250] 20_SEC_ALJ_OALJ_Decisions | 23-60471CV0.pdf (✓)
+[15:25:39]   [211/250] 20_SEC_ALJ_OALJ_Decisions | ia-6926.pdf (✓)
+[15:26:27]   [212/250] 20_SEC_ALJ_OALJ_Decisions | id1414.pdf (✓)
+[15:27:17]   [213/250] 20_SEC_ALJ_OALJ_Decisions | SecuritiesandExchangeCommissionvBrettMBa (✓)
+[15:28:02]   [214/250] 20_SEC_ALJ_OALJ_Decisions | id260cff.pdf (✓)
+[15:28:47]   [215/250] 20_SEC_ALJ_OALJ_Decisions | id1361ce.pdf (✓)
+[15:29:34]   [216/250] 20_SEC_ALJ_OALJ_Decisions | Citigroup_20Global_20Markets.Consent_20O (✓)
+[15:30:20]   [217/250] 20_SEC_ALJ_OALJ_Decisions | id-64bpm.pdf (✓)
+[15:31:03]   [218/250] 20_SEC_ALJ_OALJ_Decisions | id729jeg.pdf (✓)
+[15:31:03] [21_FINRA_OHO_Decisions] need 11 more (have 0, target 11)
+[15:31:50]   [219/250] 21_FINRA_OHO_Decisions | OHO_Order_24-17_Lek_2021071137001.pdf (✓)
+[15:32:34]   [220/250] 21_FINRA_OHO_Decisions | oho-order-23-05-2020066627202-capellini. (✓)
+[15:33:21]   [221/250] 21_FINRA_OHO_Decisions | oho-order-21-02-2018058588501.pdf (✓)
+[15:34:11]   [222/250] 21_FINRA_OHO_Decisions | NAC_2009016317701_Rooney_072315.pdf (✓)
+[15:34:53]   [223/250] 21_FINRA_OHO_Decisions | oho_order_23-07_2017055886402_cantone.pd (✓)
+[15:35:39]   [224/250] 21_FINRA_OHO_Decisions | iphc_script_panel_cases.pdf (✓)
+[15:36:29]   [skip] Disciplinary_Actions_January_2022.pdf
+[15:37:15]   [225/250] 21_FINRA_OHO_Decisions | p007201.pdf (✓)
+[15:38:00]   [226/250] 21_FINRA_OHO_Decisions | NAC_SD-2137_Block_031318_0.pdf (✓)
+[15:38:54]   [227/250] 21_FINRA_OHO_Decisions | OHO-Kolta-2018057297102-20240815.pdf (✓)
+[15:39:36]   [228/250] 21_FINRA_OHO_Decisions | p209251.pdf (✓)
+[15:40:22]   [229/250] 21_FINRA_OHO_Decisions | p118980.pdf (✓)
+[15:40:22] [22_PIABA_Materials] need 10 more (have 0, target 10)
+[15:41:07]   [230/250] 22_PIABA_Materials | 20-02_PIABA_Comment.pdf (✓)
+[15:41:52]   [231/250] 22_PIABA_Materials | 2019.07.22-The-Guide-to-Challenging-and- (✓)
+[15:42:35]   [232/250] 22_PIABA_Materials | HHRG-118-ED02-TTF-PeifferJ-20240215.pdf (✓)
+[15:43:21]   [233/250] 22_PIABA_Materials | PIABA-Comment-HFSC-33125.pdf (✓)
+[15:44:14]   [skip] PIABA_Michael_20Edmiston_5.9.2022_FINRA_20Reg_20Notice_
+[15:44:55]   [234/250] 22_PIABA_Materials | 11-2513_Amicus_20Brief_20_PIABA_.pdf (✓)
+[15:45:42]   [235/250] 22_PIABA_Materials | 19-17_PIABA_comment.pdf (✓)
+[15:46:27]   [236/250] 22_PIABA_Materials | PIABA_20Comment_20Letter_20Regulatory_20 (✓)
+[15:47:17]   [237/250] 22_PIABA_Materials | JFE_Honigsberg-and-Jacob-2021.pdf (✓)
+[15:48:01]   [238/250] 22_PIABA_Materials | 22020525_BCA_Report_2022_FINAL.pdf (✓)
+[15:48:52]   [skip] 25-07_20PIABA_20Comment_20Letter.pdf
+[15:49:39]   [239/250] 22_PIABA_Materials | CLE-Confirming-and-Vacating-Arbitration- (✓)
+[15:49:39] [23_International_Comparative] need 11 more (have 0, target 11)
+[15:50:28]   [skip] esma35-43-3172_final_report_on_mifid_ii_guidelines_on_s
+[15:51:15]   [240/250] 23_International_Comparative | ria-mbie-fadr-oct19.pdf (✓)
+[15:52:05]   [skip] rg175-ris.pdf
+[15:52:58]   [skip] consumer-duty-outcome-testing.pdf
+[15:53:48]   [241/250] 23_International_Comparative | csa_20121025_33-403_fiduciary-duty.pdf (✓)
+[15:54:35]   [242/250] 23_International_Comparative | IOSCOPD395.pdf (✓)
+[15:55:24]   [skip] Submissions-report-financial-advice-reasonable-grounds.
+[15:56:16]   [skip] consumer-duty-portfolio-letter-retail-finance-providers
+[15:57:03]   [243/250] 23_International_Comparative | esma35-43-1163_guidelines_on_certain_asp (✓)
+[15:57:53]   [244/250] 23_International_Comparative | Meeting-your-obligations-under-the-new-r (✓)
+[15:58:46]   [skip] cp22-24.pdf
+[15:59:37]   [245/250] 23_International_Comparative | EBF_028563D-EBF-response-to-ESMA-CP-on-M (✓)
+[16:00:29]   [skip] assessing-suitability-review.pdf
+[16:01:22]   [skip] IOSCOPD801.pdf
+[16:02:16]   [skip] 9789264163065-en.pdf
+[16:03:05]   [246/250] 23_International_Comparative | Submission-CP182-Best-Ints-Duty-FINAL-Oc (✓)
+[16:03:56]   [skip] ESMA35-43-3172_Guidelines_on_certain_aspects_of_the_MiF
+[16:04:43]   [247/250] 23_International_Comparative | Schedule_2ii-_Investment_Dealer_and_Part (✓)
+[16:05:35]   [skip] esma35-43-2998_consultation_paper_on_review_mifid_ii_gu
+[16:06:22]   [248/250] 23_International_Comparative | establishing-an-sfc-may2024.pdf (✓)
+[16:07:15]   [skip] esma35-43-349_mifid_ii_qas_on_investor_protection_topic
+[16:08:05]   [249/250] 23_International_Comparative | a-guide-to-the-fca-new-consumer-duty-sec (✓)
+[16:08:53]   [250/250] 23_International_Comparative | rg175-published-21-november-2024-2024121 (✓)
+[16:08:53] DONE. 250 borderline hypotheticals.
+[16:08:53] JSON → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_6_AI_Training_Borderline.json
+[16:08:53] TXT  → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/March_6_AI_Training_Borderline.txt

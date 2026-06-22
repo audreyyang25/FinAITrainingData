@@ -1,0 +1,27 @@
+ID: 780
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_enforcement_patterns
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Pinnacle Advisors LLC, a state-registered investment adviser in Ohio managing $95 million, maintains custody of client funds because the firm's principal serves as trustee on three client trust accounts totaling $4.2 million. The firm properly disclosed its custody status on Form ADV Part 1A, Item 9, and maintains all custodied assets with Charles Schwab as a qualified custodian in separate accounts under each client's name as required. Each client received written notice at account opening identifying the qualified custodian's name, address, and the manner in which funds are maintained. Schwab sends quarterly account statements directly to each client. Additionally, Pinnacle engaged an independent public accountant to conduct an annual surprise examination of custodied assets, with the most recent examination completed in March 2025 and the accountant's report filed with the Ohio Division of Securities within 30 days. During the 2025 NASAA coordinated examination cycle, Ohio examiners reviewed Pinnacle's custody practices and confirmed full compliance, noting no deficiencies.
+
+QUESTION
+--------
+Did Pinnacle Advisors comply with state custody requirements despite having custody of client trust assets?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+NASAA Model Rule 102(e)(1)-1 permits an investment adviser to maintain custody of client funds provided it satisfies all enumerated safeguards. Pinnacle met each requirement: it notified the administrator of custody via Form ADV (subsection a(1)); maintained funds with a qualified custodian (Schwab) in separate accounts under each client's name (subsection a(2)); provided written notice to clients identifying the custodian and account details (subsection a(3)); and engaged an independent public accountant for the required annual surprise examination. The fact that custody arises from a trustee relationship does not create a per se violation—it triggers the custody safeguards, all of which Pinnacle satisfied.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(e)(1)-1 – Custody of Client Funds or Securities by Investment Advisers, subsections (a)(1) through (a)(4)
+
+KEY FACTOR
+----------
+Despite having custody through a trustee relationship, the firm satisfied every safeguard under NASAA Model Rule 102(e)(1)-1 including qualified custodian use, client notice, and annual surprise examination.

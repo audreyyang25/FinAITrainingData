@@ -1,0 +1,27 @@
+ID: 9
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old client with $320,000 in investable assets, moderate risk tolerance, and a 15-year time horizon to retirement is recommended a variable annuity (VA) with: (1) 1.35% annual MER (mortality & expense risk charge); (2) 0.75% sub-account expense ratio; (3) 3% contingent deferred sales charge (CDSC) if surrendered before year 7; and (4) guaranteed income rider adding 0.45% annually. Total annual cost: 2.55%. The advisor documents that the VA provides 'lifetime income guarantee' and complies with FINRA Rule 2330 suitability requirements (questionnaire, principal approval). However, the advisor fails to document: (1) analysis of whether the guaranteed income rider is necessary given the client's pension and Social Security, or (2) comparison to a diversified portfolio of mutual funds (ER ~0.25%) + a simple deferred income annuity (cost ~1.0%) as an alternative.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation, even though it complies with FINRA Rule 2330?
+
+ANSWER
+------
+No, this violates the care obligation under Reg BI §240.15l-1(a)(2)(i), despite technical compliance with FINRA Rule 2330.
+
+While FINRA Rule 2330 suitability for VAs focuses on the customer's age, financial situation, needs, and risk tolerance, Reg BI's care obligation is narrower but more stringent: it requires active, documented consideration of costs and alternatives at the time of recommendation. The VA's 2.55% annual cost is 10x the cost of a portfolio alternative (mutual funds + deferred income annuity = ~1.25% total). For a client with a 15-year time horizon who already has pension/Social Security income, the advisor did not document why the high cost and surrender charges (illiquidity risk) were justified. The FINRA Rule 2330 questionnaire is a suitability screen, not a care analysis. Reg BI requires affirmative documentation that the specific product (with its specific costs) was chosen over available lower-cost alternatives. The advisor's failure to analyze the rider's necessity or compare to lower-cost alternatives breaches the care obligation, even if the product is 'suitable' under FINRA rules.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest §240.15l-1(a)(2)(i) — care obligation (higher standard than FINRA suitability) requires consideration of costs, risks, rewards, and alternatives; Reg BI is the controlling standard for broker-dealer recommendations to retail customers after June 30, 2020.
+
+KEY FACTOR
+----------
+2.55% total annual cost with no documented analysis of whether the product's features (guaranteed income rider, lifetime income guarantee) justified a cost differential of 1.3+ percentage points annually versus reasonable alternatives.

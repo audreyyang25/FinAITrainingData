@@ -1,0 +1,25 @@
+ID: 285
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Sterling Wealth Management, a $620 million RIA, has an arrangement with its affiliated broker-dealer, SterlingBrokers Inc. (80% owned by Sterling Wealth's parent holding company), whereby SterlingBrokers receives a standing order from Sterling for 100% of client equity trades at a stated commission rate of $0.0095 per share. Unknown to clients, SterlingBrokers simultaneously engages in systematic payment-for-order-flow (PFOF) arrangements with high-frequency traders, receiving approximately $0.0038 per share for a portion of Sterling's order flow (roughly 60% of share volume). The PFOF income offsets SterlingBrokers' commission costs, allowing SterlingBrokers to offer competitive rates to Sterling. However, the PFOF payments are not rebated to Sterling's clients; instead, they reduce SterlingBrokers' operating costs, indirectly benefiting its profitability. Sterling's client disclosures mention the 'affiliated broker-dealer relationship' but do not disclose: (1) the existence of PFOF arrangements; (2) that client orders are routed to PFOF market makers rather than lit exchanges; (3) the per-share PFOF value ($0.0038/share); (4) that alternative brokers execute similar orders without PFOF arrangements at comparable or superior execution prices.
+
+QUESTION
+--------
+Does Sterling's undisclosed PFOF arrangement comply with Section 206(3) best execution obligations?
+
+ANSWER
+------
+No. Sterling violates Section 206(3) best execution and duty of loyalty: (1) PFOF creates a material conflict—SterlingBrokers profits from selling Sterling's order flow, creating incentive to prioritize PFOF economics over execution quality; (2) systematic PFOF routing (60% of volume) to market makers rather than lit exchanges may result in inferior execution prices without documented analysis; (3) client disclosures fail to disclose the existence of PFOF, per-share value ($0.0038), or that orders are preferentially routed to PFOF market makers; (4) no documented evidence that PFOF-routed execution equals or exceeds lit-exchange execution prices for comparable order sizes; (5) absence of client choice or opt-out mechanism. SEC enforcement guidance (Robinhood AWC 2022, etc.) requires explicit disclosure of PFOF arrangements and evidence that PFOF routing does not disadvantage execution. Undisclosed PFOF is treated as concealed conflict material to the adviser-client relationship.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3) (best execution); Section 206(1) (duty of loyalty); SEC Staff Guidance on PFOF and best execution disclosure
+
+KEY FACTOR
+----------
+Systematic PFOF routing (60% of volume at $0.0038/share value) undisclosed to clients violates duty to seek reasonably favorable execution and disclose material conflicts.

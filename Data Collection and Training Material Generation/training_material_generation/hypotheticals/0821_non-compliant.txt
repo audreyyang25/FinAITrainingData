@@ -1,0 +1,27 @@
+ID: 821
+Source Folder: 16_Congressional_Materials
+Topic: legislative_history
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered representative at a mid-sized broker-dealer recommends that a 72-year-old retired schoolteacher with a $180,000 IRA rollover purchase shares in a leveraged inverse ETF designed to return -3x the daily performance of the S&P 500. The representative tells the client the product will 'protect her savings if the market drops,' but does not explain the daily rebalancing mechanism, volatility decay, or that the product is designed for short-term tactical use by sophisticated traders. The SEC's foundational mandate under the Securities Exchange Act of 1934—as reinforced by Dodd-Frank §913's directive to study enhanced standards for broker-dealers—explicitly encompasses investor protection as a core regulatory objective. The representative earns a 2.5% commission on the $180,000 transaction and does not disclose this conflict of interest in writing at or before the recommendation.
+
+QUESTION
+--------
+Does the representative's recommendation of a leveraged inverse ETF to a 72-year-old retiree, without adequate disclosure of product complexity or conflicts of interest, satisfy Regulation Best Interest's Care and Disclosure Obligations?
+
+ANSWER
+------
+No, this conduct is a violation of Reg BI's Care Obligation and Disclosure Obligation.
+
+Reg BI's Care Obligation requires a broker-dealer to exercise reasonable diligence to understand the risks, costs, and characteristics of a recommended security and to consider the customer's investment profile. A leveraged inverse ETF is demonstrably unsuitable for a retiree seeking capital preservation, as its daily reset mechanism causes performance divergence from the underlying index over time. The Disclosure Obligation separately required written disclosure of the 2.5% commission conflict at or before the recommendation, which the representative failed to provide. Dodd-Frank §913's legislative history reflects Congress's specific concern that broker-dealers inadequately disclosed conflicts and sold complex products to retail investors without adequate suitability analysis.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) – Reg BI Care Obligation and Disclosure Obligation; Dodd-Frank Act §913 (legislative mandate for enhanced broker-dealer standards)
+
+KEY FACTOR
+----------
+The representative failed to understand and communicate the material risks of a complex leveraged product to a vulnerable retail investor and omitted required conflict-of-interest disclosure.

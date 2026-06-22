@@ -1,0 +1,27 @@
+ID: 584
+Source Folder: 05_SEC_Exam_Findings
+Topic: exam_findings
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+During the COVID-19 pandemic and continuing through 2024, a state-registered investment adviser with $85 million in AUM transitioned its 14-person advisory team to a hybrid remote/in-office work model. In anticipation of SEC examination priorities emphasizing operational resiliency and remote work compliance risks—as detailed in the August 2020 OCIE COVID-19 Compliance Risk Alert—the firm proactively implemented enhanced supervisory procedures including: (1) mandatory recording and archiving of all client communications on personal devices via a third-party compliance platform, (2) quarterly reviews of all electronic communications by the Chief Compliance Officer, (3) updated business continuity plans tested semi-annually, (4) enhanced cybersecurity protocols including multi-factor authentication and encrypted VPN access for all remote advisers, and (5) documented annual compliance training covering remote-work-specific risks. During a state regulatory examination in 2025, the firm produced complete records of all supervisory reviews, communication archives dating back to 2020, and evidence of BCP testing. One adviser was found to have used a personal text messaging application for three client communications in 2023, but the CCO had identified this during a quarterly review, issued a written warning, required the adviser to forward the messages to the archiving system, and updated policies to include additional monitoring of personal device usage.
+
+QUESTION
+--------
+Did the adviser's remote work compliance framework satisfy regulatory expectations for supervision and recordkeeping given the operational challenges posed by COVID-19 and the hybrid work model?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The SEC's August 2020 COVID-19 Compliance Risk Alert specifically identified supervision of remote personnel, electronic communications archiving, business continuity planning, and cybersecurity as key compliance risk areas. The firm's proactive implementation of comprehensive supervisory controls directly addresses each of these identified risks. The isolated instance of off-channel communication was detected through the firm's own supervisory review process, promptly remediated, and used as a basis for policy enhancement—demonstrating exactly the type of effective compliance culture that EXAMS expects. The firm's ability to produce complete documentation during examination further demonstrates compliance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act § 204; SEC OCIE COVID-19 Compliance Risk Alert (August 12, 2020); SEC EXAMS FY 2025/2026 Examination Priorities (Operational Resiliency)
+
+KEY FACTOR
+----------
+The firm proactively implemented comprehensive remote-work supervisory controls addressing all key risk areas identified in SEC risk alerts, and its internal compliance review process successfully detected and remediated an isolated off-channel communication.

@@ -1,0 +1,27 @@
+ID: 892
+Source Folder: 19_CFTC_Guidance
+Topic: cta_cpo_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A CTA operates a managed futures trading program exclusively for Qualified Eligible Persons (QEPs) under CFTC Rule 4.7, relying on the conditional exemption that reduces certain disclosure obligations for 4.7 pools. Following the CFTC's October 2, 2023 proposed rulemaking that would impose minimum disclosure requirements on 4.7 Funds and increase the Portfolio Requirement financial thresholds to reflect inflation, the CTA continues onboarding new participants using QEP qualification documentation from 2019 without reverifying that participants still meet the financial thresholds. One participant, originally qualifying with $2.1 million in securities and futures positions in 2019, has experienced substantial losses reducing her qualifying portfolio to approximately $890,000 as of 2024. The CTA allocated $750,000 of her remaining assets to a highly leveraged short volatility futures strategy without reassessing her current QEP status or financial capacity.
+
+QUESTION
+--------
+Did the CTA violate its obligations under CFTC Rule 4.7 and applicable suitability standards by failing to reverify QEP eligibility and reassess suitability before making a $750,000 allocation for a participant whose financial condition had materially changed?
+
+ANSWER
+------
+No, this conduct is a violation of CFTC Regulation 4.7 QEP eligibility maintenance obligations and NFA Compliance Rule 2-30 suitability requirements.
+
+CFTC Rule 4.7 conditions the reduced disclosure exemption on pools being comprised solely of QEPs, imposing an ongoing obligation on CPOs and CTAs to ensure participants continue to meet QEP financial thresholds—not merely qualify at initial onboarding. The CFTC's October 2023 proposed rulemaking specifically signaled regulatory intent to tighten these standards and increase Portfolio Requirement thresholds to reflect inflation, underscoring the importance of current-condition verification. A participant whose qualifying portfolio has declined from $2.1 million to $890,000 likely no longer satisfies the Portfolio Requirement, meaning the CTA may be operating outside the 4.7 exemption's conditions. Additionally, allocating $750,000—approximately 84% of remaining assets—to a leveraged short volatility strategy without a refreshed suitability analysis independently violates NFA Compliance Rule 2-30.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Regulation 4.7 – Exemption for Qualified Eligible Persons; NFA Compliance Rule 2-30 – Suitability Obligations
+
+KEY FACTOR
+----------
+The CTA relied on stale 2019 QEP qualification data without reverification, continued to operate under the Rule 4.7 exemption for a participant who likely no longer qualifies, and made a grossly concentrated high-risk allocation without updated suitability analysis.

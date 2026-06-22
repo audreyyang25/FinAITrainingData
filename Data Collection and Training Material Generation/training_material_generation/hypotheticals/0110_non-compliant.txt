@@ -1,0 +1,27 @@
+ID: 110
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 71-year-old retired schoolteacher with a fixed pension of $48,000 annually, $580,000 in liquid retirement savings, and documented moderate risk tolerance approached a broker seeking to supplement her income and preserve capital. The broker recommended investing $480,000 (83% of assets) in a structured note linked to a basket of volatile emerging-market currencies with a 5-year term, 4.5% annual coupon, principal-at-risk if currencies underperformed, and early-redemption penalties of 2-3% if liquidated before maturity. The broker documented the recommendation as 'structured income product suitable for income-focused investors' but did not analyze: (1) the customer's actual cash flow needs month-to-month; (2) whether a 5-year liquidity lock violated her income needs; (3) the complexity and embedded leverage in the currency basket; or (4) whether the 4.5% coupon justified the principal risk for a retiree. The customer had no prior experience with structured products.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Suitability Rule 2111?
+
+ANSWER
+------
+No, this violates FINRA Suitability Rule 2111 because the recommendation is not suitable given the customer's specific investment profile and needs.
+
+This recommendation fails Rule 2111 on multiple grounds. First, it fails the customer-specific suitability prong: the customer is 71 years old, relies on a fixed pension, and explicitly stated she needed to 'supplement income and preserve capital.' A 5-year liquidity-locked structured note on volatile emerging-market currencies is fundamentally unsuitable—it locks capital away precisely when a retiree needs access to cash flow for living expenses, and it puts principal at risk rather than preserving capital. The high coupon (4.5%) does not justify principal risk for a customer with an explicit capital preservation objective. Second, the broker failed to conduct a reasonable basis analysis: investing 83% of the customer's liquid retirement savings in a complex, illiquid, principal-at-risk product contradicts both her stated objective and her moderate risk tolerance. The customer had no structured product experience, yet the broker recommended one of the most complex types (currency-linked). Third, the suitability documentation was conclusory and pretextual: simply labeling it 'structured income product suitable for income-focused investors' does not constitute an analysis of whether this specific product suited this specific customer's documented needs (monthly cash flow access, capital preservation, moderate risk tolerance). FINRA has sanctioned brokers for recommending illiquid, complex products to older customers without analyzing actual cash flow needs and experience levels.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(1) requires a reasonable basis to believe the recommendation is suitable. FINRA Rule 2111(a)(2) requires that recommendations be made only when the member has reasonable basis to believe the recommendation is suitable to the specific customer based on the customer's age, other investments, financial situation and needs, investment experience, and investment objectives. FINRA Regulatory Notice 15-46 (re: complex products) emphasizes that brokers must have a reasonable basis to recommend complex products and must ensure recommendations are suitable to the specific customer's needs and experience level.
+
+KEY FACTOR
+----------
+The combination of the customer's stated need for current income and capital preservation, combined with a 5-year liquidity lock and principal-at-risk structure, along with no documented analysis of the customer's actual monthly cash flow needs and no prior structured product experience, creates a fundamental mismatch between the recommendation and the customer's profile.

@@ -1,0 +1,27 @@
+ID: 90
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA broker recommends three alternative investments to a 52-year-old client: (1) a non-traded REIT with 7% upfront sales load and illiquidity lock-up of 10 years; (2) a hedge fund clone ETF with 1.2% expense ratio and tracking error; (3) a structured note with 5-year maturity, embedded derivatives, and credit risk tied to a single-country bank. The client has $500,000 liquid assets, 15-year time horizon, moderate-growth objectives, and a stated preference for liquid, low-cost investments. The broker provides no written suitability analysis and documents only that 'customer authorized alternative investments.'
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates FINRA Rule 2111 customer-specific suitability requirements.
+
+The broker fails the customer-specific suitability prong of Rule 2111. The client explicitly stated a preference for liquid, low-cost investments, yet the broker recommends: (1) a non-traded REIT with 7% load and 10-year illiquidity, directly contrary to stated preference; (2) a hedge fund clone with 1.2% ER plus tracking error, inconsistent with low-cost preference; (3) a complex structured note with embedded derivatives and concentrated credit risk, unsuitable for a moderate-growth investor. The failure to document any written analysis explaining how these recommendations address the customer's stated liquidity and cost preferences, or fit within a moderate-growth 15-year strategy, demonstrates lack of customer-specific suitability. This pattern mirrors FINRA enforcement against recommendations of illiquid, high-cost alternative products to customers with stated liquidity and cost concerns.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b): broker must have reasonable basis to believe recommendation is suitable and must determine suitability based on customer's investment profile, including liquidity needs, cost preferences, and risk tolerance.
+
+KEY FACTOR
+----------
+Recommendation of illiquid, high-cost alternative investments directly contradicts customer's stated preference for liquidity and low-cost products, with no documented suitability analysis.

@@ -1,0 +1,25 @@
+ID: 289
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Asset Management, a $180 million RIA, maintains soft-dollar arrangements with its executing broker, FastTrade Capital. Under the arrangement, Pinnacle directs 55% of its equity trading volume (approximately $89 million annually in notional value) to FastTrade. In exchange, FastTrade credits $127,000 annually in commissions back to Pinnacle, which Pinnacle uses to pay for: (1) $67,000 for a third-party research subscription service (permissible research), (2) $38,000 for the broker's proprietary market intelligence platform, (3) $15,000 toward the broker's training seminars, and (4) $7,000 for office equipment (desk and chair). Pinnacle's compliance documentation states that all soft-dollar uses are "research and brokerage services," but no independent analysis confirms that the $7,000 in office furniture or the $15,000 in training seminars qualify as research-related services under SEC soft dollar guidance. A spot audit reveals FastTrade's execution quality (average spread: 3.2 bps) trails two non-affiliated brokers (2.1 bps and 2.4 bps) by 0.8–1.1 basis points. Pinnacle has not documented why this price gap is justified by the soft-dollar services received.
+
+QUESTION
+--------
+Does Pinnacle's soft-dollar arrangement with FastTrade comply with the Investment Adviser Act and SEC soft-dollar guidance?
+
+ANSWER
+------
+No. Pinnacle violates Section 206(3) on multiple grounds. First, the soft-dollar arrangement includes non-permissible items: office furniture ($7,000) does not qualify as research or brokerage services under SEC guidance (IA-1092 Part II), and training seminars ($15,000) are questionable absent clear evidence they provide brokerage research. Second, Pinnacle directed 55% of trading volume to FastTrade without documented analysis showing that the soft-dollar benefits justify the execution quality deficit (0.8–1.1 bps). The adviser must demonstrate that the non-monetary benefits received (permissible research) offset the higher trading costs incurred by clients. Pinnacle's blanket characterization of all costs as "research and brokerage services" without independent scrutiny violates the best execution duty. This pattern mirrors SEC enforcement against advisers improperly characterizing office and administrative costs as research.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3), SEC Inv. Mgmt. Release IA-1092 (soft dollar guidance), and SEC Rule 10b-1 (Research Safe Harbor)
+
+KEY FACTOR
+----------
+Soft-dollar arrangement includes non-permissible items (office furniture, training) and lacks documentation that benefits offset higher execution costs.

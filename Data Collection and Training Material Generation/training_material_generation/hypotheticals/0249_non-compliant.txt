@@ -1,0 +1,25 @@
+ID: 249
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-Dealer BD-3 operates a sales contest awarding bonuses to advisors who exceed quarterly targets for recommending Class A share mutual funds (front-load: 5.75%) over lower-cost Class I share versions (no load, same funds, advisor compensation via BD-3 payout from 12b-1 fees of 0.25% annually). In Q3 2023, the contest offered $500 bonuses per advisor reaching $2M in Class A sales; 18 advisors competed. Advisor Goldstein recommended Class A shares of BD-3-affiliated Growth Fund ($2.5M AUM from new client Patel, age 61, $3.2M portfolio, 20-year horizon, conservative risk tolerance). Patel signed the prospectus disclosing 5.75% front-load but did not receive written advice or suitability documentation showing why Class A (with 5.75% immediate cost) was superior to Class I (no load, same fund, same advisor service level). BD-3's advisory documentation noted "sales competition" as context but provided no comparative analysis. Goldstein earned the $500 bonus and received BD-3's revenue from 12b-1 fees ($6,250 annually on Patel's investment). Patel's time horizon (20 years) and conservative profile would benefit from expense minimization; Class I shares would cost ~$144,000 less over 20 years (5.75% load on $2.5M = $143,750 day-one cost, which Class I avoids).
+
+QUESTION
+--------
+Did Advisor Goldstein comply with Reg BI's Conflict of Interest obligation when recommending Class A shares to fund a sales contest bonus, without documented analysis of why the higher-cost share class was appropriate?
+
+ANSWER
+------
+Non-compliant. Reg BI requires advisors to identify material conflicts and take reasonable steps to mitigate them. The sales contest is a material conflict of interest: it creates a direct financial incentive (bonus) to recommend the higher-cost product, independent of client suitability. Goldstein failed to satisfy Reg BI on multiple grounds: (1) the conflict was not disclosed to Patel in the advisory context (Form CRS disclosures are generic and do not address the specific sales contest incentive); (2) no mitigation steps were documented — no written analysis explaining why Class A (5.75% load, $144K total drag) was appropriate for a 20-year investor with conservative risk tolerance when Class I was available at identical service level; (3) the $500 bonus created a direct incentive to recommend the higher-cost share class, and the advisory record shows Goldstein prioritized the contest over client benefit. The 20-year horizon and conservative profile strongly suggest Class I alignment. This mirrors enforcement patterns where contests without documented mitigation create prohibited conflicts (similar to FINRA patterns in share class abuse cases).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); Reg BI Care Obligation for best execution and appropriate recommendations, 17 CFR §240.15l-1(a)(2)(i)
+
+KEY FACTOR
+----------
+Sales contest bonus created material undisclosed conflict incentivizing higher-cost share class; absence of documented mitigation analysis showing client benefit despite $144K cost differential over 20-year horizon demonstrates conflict was not managed in client's favor.

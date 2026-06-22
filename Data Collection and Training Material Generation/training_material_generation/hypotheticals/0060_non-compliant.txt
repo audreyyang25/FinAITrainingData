@@ -1,0 +1,27 @@
+ID: 60
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA manages accounts for 120 clients. A preferred client—CEO of a company about to announce a major acquisition—mentions in casual conversation that the company will announce strong earnings. The RIA, without any additional verification, immediately directs 15 other clients' portfolios (totaling $4.2M) into the CEO's company stock before the announcement. After the announcement, the stock gains 18% in one week. The RIA allocates 80% of the gains to the CEO's account and 20% to the other 15 clients proportionally, justifying this as 'recognition of the CEO's insight.' The RIA did not execute the trades simultaneously across all 16 clients.
+
+QUESTION
+--------
+Does this allocation of gains and trade sequencing satisfy the RIA's fiduciary duty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty and care.
+
+The RIA has engaged in multiple breaches of fiduciary duty. First, the allocation of gains (80% to the CEO, 20% to others) prioritizes a preferred client over other clients with equal interests, violating the duty of loyalty, which requires the adviser to put all clients' interests on equal footing absent explicit differentiation in fee arrangements. Second, trading the CEO's account first or allocating the best execution price to the CEO disadvantages other clients—this is cherry-picking and violates fair allocation principles. Third, the trade was based on material non-public information obtained through a client relationship, creating an inherent conflict. The unequal allocation is not justified by any documented arrangement or differential fee structure, and the staggered execution suggests the RIA knew the allocation was unfair.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206; SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963); SEC Rule 206(4)-1 (duty of loyalty); FINRA Rule 5210 (best execution and fair allocation)
+
+KEY FACTOR
+----------
+Preferential allocation of superior returns to one client based on informal relationship status rather than documented contractual terms, combined with sequential (not simultaneous) execution that suggests deliberate cherry-picking.

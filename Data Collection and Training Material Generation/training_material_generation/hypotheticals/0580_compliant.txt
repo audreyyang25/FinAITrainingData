@@ -1,0 +1,27 @@
+ID: 580
+Source Folder: 05_SEC_Exam_Findings
+Topic: share_class_selection
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A dually-registered adviser and broker-dealer recommends Class A shares of a large-cap equity mutual fund with a 4.50% front-end load for a 62-year-old client investing $450,000 in a taxable brokerage account. Lower-cost institutional shares (Class I) are available on the platform but require a $1 million minimum investment that the client does not meet, and the client does not qualify for any breakpoint aggregation. The adviser also evaluated no-load alternatives but determined that the selected fund's 10-year risk-adjusted performance (Sharpe ratio of 0.82 vs. 0.61-0.74 for comparable no-load funds) and the fund manager's consistent alpha generation justified the front-end load over the client's stated 15-year investment horizon. The adviser documented this analysis in the client file, including a cost comparison showing that even with the front-end load, the projected total cost of ownership over 15 years was competitive with the no-load alternatives due to the Class A shares' lower ongoing expense ratio (0.45% vs. 0.65%-0.80% for no-load alternatives). The adviser's Form CRS and account-opening documents clearly disclosed the front-end load, the adviser's compensation, and the rationale for the recommendation.
+
+QUESTION
+--------
+Under Reg BI and the adviser's fiduciary duty, was the recommendation of Class A shares with a front-end load compliant given the availability of no-load alternatives?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The SEC's share class selection guidance does not categorically prohibit recommending share classes with front-end loads; rather, it requires that the adviser have a reasonable basis to believe the recommendation is in the client's best interest after evaluating costs, available alternatives, and the client's investment profile. Here, the adviser conducted and documented a thorough cost-benefit analysis demonstrating that the Class A shares' lower ongoing expense ratio made them competitive over the client's 15-year time horizon, institutional shares were genuinely unavailable due to minimum investment requirements, and the fund's superior risk-adjusted performance provided a reasonable basis for the selection. Full disclosure of compensation and rationale further supports compliance with both the Reg BI Care and Disclosure Obligations and the adviser's fiduciary duty.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) – Reg BI Care Obligation; Investment Advisers Act of 1940 §§ 206(1), 206(2); SEC OCIE Share Class Selection Risk Alert; SEC Division of Examinations Exam Priorities (FY 2025-2026)
+
+KEY FACTOR
+----------
+The adviser documented a legitimate, client-specific cost-benefit analysis showing that the Class A shares' lower ongoing expenses offset the front-end load over the client's time horizon, institutional shares were unavailable due to minimum investment thresholds, and superior risk-adjusted performance justified the recommendation.

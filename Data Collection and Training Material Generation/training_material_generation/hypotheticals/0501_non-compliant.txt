@@ -1,0 +1,27 @@
+ID: 501
+Source Folder: 01_SEC_Guidance_NoAction_Interpretive
+Topic: interpretive_edge_cases
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Capital Advisors serves as the investment adviser to both a publicly traded BDC ('Apex BDC') and a private fund organized as a limited partnership ('Apex Private Fund LP'). A limited partner of Apex Private Fund LP, Meridian Holdings, owns 8% of the outstanding voting securities of Apex BDC. Apex Capital identifies an attractive $15 million mezzanine lending opportunity and arranges for Apex BDC and Apex Private Fund LP to co-invest on a 60/40 basis. Apex Capital's CCO classifies Meridian Holdings as a 'remote affiliate' of the BDC under Section 57 of the Investment Company Act of 1940 and proceeds with the co-investment after obtaining approval from a required majority of the BDC's independent directors, without further analysis of whether Meridian's 8% voting stake and board representation elevate it to 'close affiliate' status.
+
+QUESTION
+--------
+Did Apex Capital correctly classify Meridian Holdings as a remote affiliate and properly authorize the BDC's co-investment transaction?
+
+ANSWER
+------
+No, this conduct is a potential violation of Section 57 of the Investment Company Act of 1940 governing BDC transactions with affiliated persons.
+
+IM Guidance Update 2014-12 specifically addresses the classification of second-tier affiliates of BDCs, emphasizing that whether a second-tier affiliate (such as a limited partner of a partnership that is an affiliated person of the BDC) qualifies as a 'close affiliate' or 'remote affiliate' depends on various factors, including voting power and influence. An entity owning 8% of voting securities and holding board representation may constitute a close affiliate, making certain co-investment transactions prohibited under Section 57(a) rather than merely subject to director approval. The CCO's failure to conduct a thorough factual analysis before classifying Meridian as a remote affiliate is inconsistent with the guidance's framework.
+
+APPLICABLE STANDARD
+-------------------
+Investment Company Act of 1940, Section 57(a); IM Guidance Update No. 2014-12 (BDC Transactions with Certain Second-Tier Affiliates)
+
+KEY FACTOR
+----------
+The adviser failed to conduct the multi-factor analysis required by IM Guidance 2014-12 to determine whether a second-tier affiliate's voting stake and board influence elevated it from 'remote affiliate' to 'close affiliate' status, potentially rendering the co-investment transaction prohibited rather than merely subject to board approval.

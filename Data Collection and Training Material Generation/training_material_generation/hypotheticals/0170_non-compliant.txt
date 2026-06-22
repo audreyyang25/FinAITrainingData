@@ -1,0 +1,27 @@
+ID: 170
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A financial adviser serves as a registered representative at Firm A and is also a licensed life insurance agent receiving commissions from insurance carriers. A 42-year-old small-business owner with $500,000 in investable assets and two minor children meets with the rep to discuss retirement and estate planning. The rep recommends: (1) a $300,000 allocation to a 10-year fixed annuity (5.25% upfront commission to Firm A) and (2) a $100,000 whole-life insurance policy with $40,000 annual face value (90% first-year commission paid directly to the rep as an insurance agent, approximately $18,000). The rep discloses the existence of the insurance license in a boilerplate statement: 'I am licensed as both a broker-dealer representative and life insurance agent and may receive compensation from both sources.' The rep does not disclose the specific commission amounts, does not explain that the insurance recommendation generates 18 times higher first-year compensation ($18,000) than a comparable term policy ($1,000), and does not document why whole-life is superior to term for this client's stated goals.
+
+QUESTION
+--------
+Does this disclosure satisfy Reg BI and FINRA Rule 2111 suitability requirements?
+
+ANSWER
+------
+No, this violates the applicable standard.
+
+The rep's boilerplate disclosure fails to quantify the material difference in compensation: the whole-life policy generates approximately $18,000 in first-year commissions to the rep personally, while a term policy would generate only ~$1,000. This 18-fold differential is material because it creates a strong incentive to recommend whole-life over term, independent of suitability. The client is 42 years old with two minor children—a classic profile where term life (covering the working years until age 65–67) is often more suitable than whole-life, yet the rep recommends whole-life without documented justification. The absence of a suitability memo explaining why whole-life's higher cost and cash-value complexity are appropriate for this client's goals demonstrates that the recommendation is not based on a reasonable basis. Under FINRA Rule 2111 and SEC Reg BI, boilerplate conflict disclosures are insufficient when a specific recommendation creates a material compensation differential.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 requires that recommendations be suitable and accompanied by reasonable-basis suitability analysis. FINRA Rule 2330 (variable annuities) requires specific conflict disclosure and suitability documentation. SEC Reg BI Rule 15l-1(a)(2)(ii) requires disclosure of material conflicts 'in a clear, prominent, and understandable manner.' FINRA enforcement pattern (e.g., In the Matter of Oppenheimer & Co., AWC 2018-05642) shows that failing to disclose specific commission differentials between alternative products is a material violation.
+
+KEY FACTOR
+----------
+Failure to disclose the specific commission amounts or the 18-fold differential between whole-life ($18K) and term ($1K), coupled with the absence of suitability documentation justifying the more expensive product for a client with classic term-life characteristics.

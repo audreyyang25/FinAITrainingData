@@ -1,0 +1,25 @@
+ID: 274
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Cornerstone Wealth Partners, a registered adviser managing $320M AUM, received an allocation of 800 IPO shares of NewCo Inc. on August 3, 2023, priced at $22/share ($17,600 total). The adviser's written IPO Allocation Policy (disclosed to all clients in the Advisory Agreement) states: 'IPO allocations shall be distributed pro rata to all client portfolios with a minimum account value of $5M, weighted by notional AUM. Adviser's proprietary accounts receive IPO shares only if: (i) the IPO is oversubscribed and all client minimums are met, and (ii) after client allocations are completed, and (iii) surplus shares remain.' Cornerstone had five qualifying clients with $8M, $12M, $15M, $20M, and $25M AUM respectively. The pro-rata allocation consumed 760 shares. The adviser's $2M proprietary account received 40 remaining shares. NewCo opened at $26/share. All clients received written confirmation of their allocation within 2 hours of the trade.
+
+QUESTION
+--------
+Did Cornerstone comply with Section 206 and Rule 17j-1 in its IPO allocation process?
+
+ANSWER
+------
+Yes. Cornerstone complied with Section 206(1) and Rule 17j-1. The adviser had a written, pre-disclosed IPO allocation policy that: (1) prioritized client accounts, (2) applied a clear pro-rata methodology, (3) imposed restrictions on adviser proprietary allocations (only surplus shares, after client minimums), and (4) was applied consistently and transparently. The allocation itself followed the policy precisely: clients received shares first, and the adviser's account received only leftover shares after all client minimums were satisfied. Rule 17j-1 permits principal transactions and allocations when a written policy exists, is disclosed, and is consistently applied. The prompt written confirmation further evidences transparency. This is a compliant cross-trade scenario similar to SEC no-action letters and settled enforcement cases where clear, pre-existing policies with client-favorable sequencing satisfied the standard.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) (fiduciary duty); SEC Rule 17j-1(a), (b) (written policy, consistent application, client disclosure)
+
+KEY FACTOR
+----------
+Written pre-disclosed policy prioritizing client allocations, applied consistently with adviser receipt of only surplus shares, satisfies Rule 17j-1 requirements.

@@ -1,0 +1,25 @@
+ID: 433
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+SmartAlloc Inc., a registered investment adviser, operates a robo-adviser platform with 8,500 clients. The algorithm allocates portfolios across 15 passively managed, low-cost ETFs (expense ratios 0.03%-0.12%) selected from multiple providers (Vanguard, iShares, Schwab). All recommended ETFs are screened against a proprietary cost-minimization algorithm that rejects any fund with ER exceeding 0.20%. The platform maintains an affiliate relationship with Vanguard but does not recommend Vanguard funds in a concentration higher than the market-cap weight for that asset class (approximately 8-12% of equity allocation). SmartAlloc discloses in its Form ADV Part 2, client account statements, and initial email to new clients: (1) the affiliate relationship with Vanguard; (2) the fee-minimization criteria; (3) that Vanguard products may be recommended in line with market-cap weighting; and (4) the client's right to request alternative fund families. For client David Park, age 41, with $220,000 initial investment, the algorithm recommended 45% U.S. equities, 10% international, 35% bonds, 10% alternatives. Recommended Vanguard holdings comprised 9% of the portfolio (below market-cap weight). The total advisory fee was 0.35% annually.
+
+QUESTION
+--------
+Did SmartAlloc's robo-adviser comply with Reg BI, the duty of loyalty, and SEC IM Guidance 2017-02?
+
+ANSWER
+------
+Yes. SmartAlloc demonstrates compliance on multiple fronts: (1) Conflict disclosure is clear, specific, and timely—clients learn of the Vanguard affiliate relationship before investing; (2) the algorithm's ER cap (0.20%) and cost-minimization logic reflect the Care Obligation (Reg BI §240.15l-1(a)(2)(i))—the adviser demonstrates it selected funds based on merit, not affiliate favoritism; (3) Vanguard's concentration (9%) does not exceed market-cap justification, limiting the loyalty breach risk; (4) the 0.35% all-in fee is transparent and competitive; (5) clients retain opt-out rights. SEC IM Guidance 2017-02 emphasizes that robo-advisers must have clear, documented algorithms with periodic testing for bias—SmartAlloc's cost-minimization screen and market-cap cap serve this purpose. The hybrid disclosure+limitation approach cures the conflict.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict Disclosure & Care Obligation, 17 CFR §240.15l-1(a)(1) and (a)(2)(i); IA Act §206(1)-(2); SEC IM Guidance 2017-02
+
+KEY FACTOR
+----------
+Transparent affiliate disclosure combined with algorithmic cost-minimization guardrails and market-cap weighting caps achieves compliance despite affiliate relationship.

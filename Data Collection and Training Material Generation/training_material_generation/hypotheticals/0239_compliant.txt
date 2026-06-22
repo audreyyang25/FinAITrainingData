@@ -1,0 +1,25 @@
+ID: 239
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Independent RIA DataTech Advisors recommends a mix of ETFs managed by affiliated entity DataTech AM (45% of typical client portfolios) and unaffiliated managers (Vanguard, Fidelity, iShares). DataTech AM fees average 0.35% vs. unaffiliated competitors 0.25%–0.40%. DataTech RIA's Form ADV Part 1A explicitly disclosed the affiliation (Item 5F) and Item 5I detailed the conflict: DataTech AM receives all advisory fees for DataTech-managed products, creating incentive to recommend affiliated products. DataTech RIA's written investment policy statement (provided to all clients) included: (1) 'Affiliated Manager Allocation Protocol': each client's portfolio allocation to DataTech AM products was documented in writing with specific justification—e.g., 'Client diversification objective matches DataTech AM Core Equity Strategy's documented 10-year alpha of +0.45% vs. peer median'; (2) quarterly performance monitoring showing if DataTech AM underperformed unaffiliated alternatives by >0.50% annually for two consecutive quarters, DataTech RIA would recommend rebalancing to unaffiliated managers; (3) right of clients to request exclusion of DataTech AM products; (4) no compensation bonus or incentive tied to affiliated product sales. In 2023, DataTech AM's large-cap fund underperformed by 0.62% in Q2 and Q3, and compliance triggered directive requiring DataTech RIA to recommend rebalancing to Vanguard for 23 affected clients. Documentation showed reps complied.
+
+QUESTION
+--------
+Did DataTech RIA comply with Reg BI's conflict of interest obligation when recommending affiliated DataTech AM products comprising 45% of client portfolios?
+
+ANSWER
+------
+Yes. Reg BI permits affiliated product recommendations when the conflict is properly managed. DataTech satisfied all elements: (1) Identification: ADV clearly disclosed DataTech AM affiliation and financial incentive; (2) Disclosure: IPS provided specific conflict disclosure to all clients upfront; (3) Mitigation: implemented substantive controls—documented performance justification for each allocation, quarterly performance monitoring with pre-set triggers for rebalancing, client opt-out rights, and absence of sales incentives. The 45% allocation was supported by documented alpha analysis, not mere firm preference. Critically, when performance deteriorated, compliance proactively intervened and directed remedial action, demonstrating systemic commitment to investor protection despite the affiliation. The mitigation protocol satisfies Reg BI's standard that conflicts be managed through structural controls and documented analysis, not eliminated entirely.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); IA-5053 Release (affiliated product recommendations compliant if supported by documented analysis and performance monitoring)
+
+KEY FACTOR
+----------
+Affiliated manager bias is compliant when disclosed, justified by documented performance/alpha analysis, subject to performance-based rebalancing triggers, and monitored with demonstrated enforcement of remedial action when conflict produces poor outcomes.

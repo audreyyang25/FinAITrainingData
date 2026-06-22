@@ -1,0 +1,27 @@
+ID: 205
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA recommends that a 71-year-old client in required minimum distribution (RMD) phase with a $2.8M IRA invest $840,000 (30% of the IRA) in a low-liquidity interval fund with an annual expense ratio of 2.1%, a 2% redemption fee if redeemed within 2 years, and limited quarterly redemption windows. The adviser documents that the fund provides 'higher returns in low-rate environment' and diversifies away from equity concentration. The client has no significant other liquid assets outside the IRA. The RMD requirement for Year 1 is $112,000. The RIA's Form ADV discloses that the interval fund adviser is a 'preferred partner' through a revenue-sharing arrangement that nets the RIA $12,000 annually.
+
+QUESTION
+--------
+Does this recommendation satisfy the fiduciary duty of care and loyalty, and comply with SEC Reg BI standards for this client's situation?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty and Regulation Best Interest due to undisclosed conflicts and unsuitability for RMD-phase assets.
+
+The recommendation fails on multiple grounds: (1) An RMD-phase client should maintain sufficient liquidity to satisfy RMD requirements without forced redemptions from restricted vehicles; this holding has limited quarterly redemption windows and a 2% redemption fee, creating a risk that the client will incur penalties or forced liquidation at unfavorable times if RMD calculations shift or other withdrawals become necessary, violating the duty of care; (2) the revenue-sharing arrangement ($12,000 annually for an RIA of typical size) creates a material conflict of interest that must be 'clearly disclosed' under Reg BI 15l-1(d)(2), and this disclosure in Form ADV alone is insufficient because it does not appear the RIA disclosed in the specific recommendation communication that this product generates revenue to the firm, failing the requirement to provide conflict disclosure 'in a manner designed to be understood'; (3) placing 30% of retirement assets in a 2.1% expense-ratio illiquid product for a 71-year-old with no other liquid assets is not suitable under FINRA 2111 or Reg BI—the concentration and illiquidity are not matched to the client's need for cash flow and capital access; (4) the documentation does not show that the RIA analyzed whether lower-cost liquid alternatives (e.g., a 0.20% bond fund) might serve the goal of 'higher returns in low-rate environment' without the conflict and illiquidity risk.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206 (duty of loyalty and care); SEC Reg BI Rule 15l-1 (reasonably designed to serve best interests, with conflict disclosure); DOL ERISA fiduciary standards for retirement account management; SEC Exam Priorities (interval funds in IRAs for near-elderly clients raise suitability red flags).
+
+KEY FACTOR
+----------
+The undisclosed revenue-sharing conflict combined with placement of 30% of RMD-phase assets in a restricted-redemption fund creates both a loyalty violation (conflict incentive) and a care violation (illiquidity mismatch to client's cash flow needs), either of which would support enforcement action.

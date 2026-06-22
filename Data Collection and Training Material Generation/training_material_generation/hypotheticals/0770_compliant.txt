@@ -1,0 +1,27 @@
+ID: 770
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_enforcement_patterns
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Ridgeline Capital Management, a state-registered investment adviser in Ohio managing $45 million for 120 clients, was selected for its first-ever state examination as part of NASAA's 2025 Coordinated Investment Adviser Examination program. During the examination, state regulators noted that Ridgeline's principal, Diana Okoye, also served as trustee for three elderly clients' revocable living trusts, which held a combined $2.1 million in assets at Fidelity Investments. Examiners flagged this as a potential custody concern. However, Ridgeline had disclosed the trustee arrangement on Form ADV Part 1, Item 9, and Part 2A, Item 15. The trust assets were maintained in separate accounts at Fidelity under each trust's name. Ridgeline had engaged an independent CPA firm to conduct annual surprise examinations, and clients had received written notice of the custodial arrangement. Ridgeline's compliance manual contained specific policies addressing the conflicts of interest arising from the dual trustee-adviser role, and Diana Okoye provided each trust beneficiary with quarterly account statements directly from Fidelity in addition to Ridgeline's own performance reports.
+
+QUESTION
+--------
+Did Ridgeline Capital Management comply with state custody and disclosure requirements despite its principal serving as trustee for client trusts, as evaluated under the NASAA coordinated examination?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Serving as trustee for client trusts triggers custody under NASAA Model Rule 102(e)(1)-1, but this arrangement is permissible when properly safeguarded. Ridgeline satisfied all requirements: it disclosed custody on Form ADV (satisfying (a)(1)), maintained trust assets in separate accounts at Fidelity, a qualified custodian, under each trust's name (satisfying (a)(2)(A)), provided written notice to clients (satisfying (a)(3)), and arranged for annual surprise examinations. The firm's compliance manual addressing the inherent conflict of interest and the delivery of qualified custodian statements directly to beneficiaries demonstrate the kind of robust compliance infrastructure that NASAA's coordinated examinations—365 of which in 2025 were first-time examinations—are designed to evaluate. The dual role creates an appearance of conflict, but the comprehensive safeguards render the arrangement compliant.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(e)(1)-1(a)(1)-(3) – Custody Safekeeping Requirements; NASAA 2025 Coordinated Investment Adviser Examination standards; State fiduciary and disclosure obligations
+
+KEY FACTOR
+----------
+Despite the principal serving as trustee for client trusts—triggering custody—the firm satisfied every element of NASAA Model Rule 102(e)(1)-1 through proper disclosure, use of a qualified custodian with separate accounts, client notification, surprise examinations, and documented conflict-of-interest policies.

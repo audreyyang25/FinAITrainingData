@@ -1,0 +1,27 @@
+ID: 168
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered investment adviser manages $2.5M for a 45-year-old professional with high risk tolerance and 20-year time horizon. The adviser recommends a portfolio of 60% equities and 40% fixed income, including a substantial allocation (15% of AUM, $375K) to a private equity fund (Acme PE Fund IV) managed by a sister company. The adviser receives 2% management fee on the overall portfolio and, through the sister company's carried interest arrangement, receives 20% of profits above 8% annual returns from Acme PE Fund IV. The adviser's Form ADV Part 2A discloses that the firm 'may recommend affiliated investments' but does not name Acme PE Fund IV, does not quantify the 20% carried-interest entitlement, and does not explain that the carried interest creates an incentive to overweight PE (which is highly illiquid and has longer hold periods than the client's other holdings).
+
+QUESTION
+--------
+Does this recommendation and disclosure satisfy IA Act fiduciary duty under Section 206?
+
+ANSWER
+------
+No, this violates the applicable standard.
+
+The generic disclosure that the firm 'may recommend affiliated investments' is insufficient because it does not identify Acme PE Fund IV by name, does not quantify the 20% carried-interest entitlement to the adviser personally, and does not acknowledge the conflict between the client's 20-year liquidity profile and the PE fund's illiquidity and hold periods. The carried interest creates a dual incentive: (1) to overallocate to PE because each dollar generates 20% profit participation above 8%, and (2) to hold the investment longer to maximize returns above the 8% hurdle. Under SEC v. Steadman, non-disclosure of a material profit-sharing arrangement is inherently deceptive and violates Section 206(2). The ADV disclosure must be specific enough for a client to evaluate whether the adviser's economic incentives align with the client's objectives.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(2) fiduciary duty prohibits fraudulent, deceptive, or manipulative conduct and requires affirmative disclosure of material conflicts. SEC v. Steadman, 603 F.2d 1126 (5th Cir. 1979), established that an adviser's non-disclosure of a material conflict is inherently deceptive. SEC Adviser Marketing Rule and Form ADV requirements mandate specific identification of affiliated arrangements.
+
+KEY FACTOR
+----------
+Non-disclosure of the specific carried-interest percentage (20%) and the resulting economic incentive to overallocate and hold illiquid PE, which conflicts with the client's liquidity and time-horizon objectives.

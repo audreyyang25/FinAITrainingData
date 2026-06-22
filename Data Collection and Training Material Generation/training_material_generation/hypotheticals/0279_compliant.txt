@@ -1,0 +1,25 @@
+ID: 279
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Pinnacle Wealth Advisers manages $450M in AUM across 180 institutional and individual clients. On January 10, 2023, the firm executed a block trade of 25,000 shares of semiconductor manufacturer Broadcom (AVGO) at $475/share for an aggregated client portfolio. The firm's written allocation policy, adopted in 2018 and disclosed to all clients in the advisory agreement and quarterly statements, mandates: (1) single, pro-rata allocation by client account size at the time of trade execution; (2) allocation list prepared within 30 minutes of trade completion; (3) transaction reconciliation reviewed monthly by the CCO; (4) no exception or override permitted. On January 10, at 2:47 PM, the trade executed. At 3:10 PM, the allocation clerk pro-rated 25,000 shares across 180 accounts based on each account's AUM as of January 10 opening: a $5.6M account received 318 shares; a $1.2M account received 68 shares. AVGO closed that day at $478/share (+0.63%). The following week, the CCO reviewed the execution log, trade ticket, allocation list timestamp, and account ledgers—all matched. No deviation occurred. Adviser's compensation remained fee-only, based on AUM percentage, regardless of trade allocation outcome.
+
+QUESTION
+--------
+Does Pinnacle's pro-rata allocation methodology, applied consistently per written policy, satisfy the fiduciary duty of loyalty and comply with Rule 17j-1?
+
+ANSWER
+------
+Yes. The fiduciary duty of loyalty permits adviser discretion in trade allocation provided the adviser establishes a rational, non-discriminatory allocation methodology and applies it consistently without regard to personal benefit. The decisive facts: (1) written allocation policy pre-exists and is disclosed to clients; (2) the pro-rata-by-AUM methodology is rational and does not favor any particular account type (adviser-managed vs. client accounts are treated identically); (3) allocation occurs within 30 minutes of execution, before material price movement or outcome uncertainty; (4) the time-stamp evidence and CCO reconciliation demonstrate consistent application without override; (5) adviser compensation is fee-only AUM-based, eliminating financial incentive to favor certain accounts. SEC enforcement (e.g., In re DRA Advisors, LLC, 2015) and FINRA cases affirm that consistent, pre-written, rational allocation policies insulate advisers from Section 206(2) liability even when price movements occur post-execution. The absence of post-hoc manipulation is the decisive compliance factor.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(2) (fiduciary duty of loyalty); Rule 17j-1(a)(2) (adviser must adopt and follow written procedures for allocation of investment opportunities); SEC Investment Adviser Examination Priorities (2023) — allocation policy review
+
+KEY FACTOR
+----------
+Pre-written, rational, consistently-applied, and transparent allocation policy insulates adviser from cherry-picking liability despite temporary price movements.

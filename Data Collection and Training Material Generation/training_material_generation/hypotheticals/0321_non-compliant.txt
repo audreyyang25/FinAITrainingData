@@ -1,0 +1,25 @@
+ID: 321
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor Mark T. manages a $185,000 account for Patricia M., age 74, conservative risk tolerance, retired schoolteacher. Over 12 months (Jan–Dec 2023), the account generated $42,300 in commissions and fees. The advisor made 94 trades: buying and selling municipal bonds, dividend stocks, and mutual funds. Portfolio turnover ratio = 6.8× annualized (cost-to-equity: $42,300 ÷ $185,000 = 22.9%). Client received $8,100 in dividends and interest. Advisor documented no written investment policy, client preference for active trading, or discretionary authority in the file. Account statements show frequent buy-sell pairs of identical securities within 20–40 days.
+
+QUESTION
+--------
+Did Advisor Mark T. violate FINRA Rule 2111(b) by churning Patricia M.'s account?
+
+ANSWER
+------
+Yes. Under FINRA Rule 2111(b), churning—excessive trading to generate commissions unsuitable to the client—is prohibited. Mark T. exhibits three quantitative red flags: (1) turnover ratio 6.8× exceeds the 6× threshold for strong inference of churning; (2) cost-to-equity ratio 22.9% far exceeds the 20% presumptive unsuitability threshold, requiring $42,300 in returns just to break even; (3) buy-sell pairs of identical securities within 20–40 days indicate in-and-out trading without legitimate investment purpose. Patricia M., age 74 with conservative risk tolerance and no documented preference for active trading, had no legitimate reason for 94 annual trades generating disproportionate commissions relative to portfolio value. Absence of written consent or investment policy statement further undermines compliance. This pattern matches FINRA enforcement typical of cases involving elderly clients.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) — Quantitative Suitability; Churning; 17 CFR §240.15l-1(a)(2)(i) (Care Obligation)
+
+KEY FACTOR
+----------
+Turnover ratio 6.8× combined with cost-to-equity 22.9% and lack of documented client preference for active trading creates strong inference of unsuitable churning.

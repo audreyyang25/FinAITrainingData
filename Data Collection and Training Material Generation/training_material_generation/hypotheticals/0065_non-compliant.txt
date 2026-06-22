@@ -1,0 +1,27 @@
+ID: 65
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA with $500M AUM recommends that a 58-year-old client with $2.8M in investable assets and moderate risk tolerance purchase a high-yield bond fund (expense ratio 1.25%) managed by an affiliated fund company. The RIA receives 25 basis points in indirect compensation from the affiliated manager but does not disclose this relationship or the conflict to the client in writing before the recommendation.
+
+QUESTION
+--------
+Does this recommendation comply with the Investment Adviser Act fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty under the Investment Adviser Act.
+
+The RIA's undisclosed receipt of indirect compensation from the affiliated fund manager creates a material conflict of interest that directly incentivizes the adviser to recommend the affiliate's product over potentially lower-cost alternatives. Under §206(2) of the Investment Adviser Act and SEC guidance, advisers must disclose all conflicts of interest that could reasonably be expected to impair their judgment in making recommendations. The failure to disclose the 25 basis point revenue sharing arrangement in writing before the recommendation breaches the duty of loyalty because the client cannot make an informed judgment about whether the adviser is putting the client's interests first. The fact that the fund may be suitable does not cure the breach; the conflict itself required advance disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2) (fiduciary duty of loyalty); SEC Compliance and Disclosure Releases emphasizing requirement for disclosure of all material conflicts; SEC v. Steadman, 5 F.3d 1511 (9th Cir. 1993) (adviser must act in client's interest, not adviser's).
+
+KEY FACTOR
+----------
+Material conflict of interest (indirect compensation from affiliated fund manager) was not disclosed in writing before the recommendation, preventing the client from assessing whether the adviser's judgment was compromised.

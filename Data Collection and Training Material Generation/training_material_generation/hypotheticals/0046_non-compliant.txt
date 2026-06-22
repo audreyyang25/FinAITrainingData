@@ -1,0 +1,27 @@
+ID: 46
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered investment adviser (RIA) with $500M AUM recommends that a 62-year-old client with $1.2M in investable assets and moderate risk tolerance move 60% of her portfolio into a proprietary mutual fund family managed by the RIA's affiliate. The RIA earns a 1.25% management fee on AUM plus 0.50% 12b-1 distribution fees on the proprietary funds. The RIA does not disclose to the client that the affiliate relationship exists or that the RIA earns additional revenue from the 12b-1 fees.
+
+QUESTION
+--------
+Does this recommendation satisfy the Investment Adviser Act fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty under the Investment Adviser Act.
+
+An investment adviser owes an undivided duty of loyalty to its clients and must not engage in self-dealing or place its own interests ahead of the client's interests. The RIA's failure to disclose the affiliate relationship and the additional 12b-1 compensation creates a material conflict of interest that impairs the adviser's ability to render disinterested advice. Under Capital Gains, advisers must affirmatively disclose all material conflicts, including compensation arrangements with affiliates, before or at the time of executing the transaction. The recommendation to overweight proprietary funds (60% allocation) combined with non-disclosure of the dual compensation stream violates Section 206(1) (prohibition on fraud/deception) and Section 206(2) (prohibition on engaging in transactions in which the adviser has an undisclosed conflict). The adviser had a duty to either disclose and obtain informed consent or recommend an alternative.
+
+APPLICABLE STANDARD
+-------------------
+SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963); Investment Adviser Act Section 206(1) and 206(2); SEC Compliance Rule 206(4)-1 (advice disclosure)
+
+KEY FACTOR
+----------
+Failure to disclose material conflict (affiliate relationship and 12b-1 compensation) before recommending concentrated position in affiliated products.

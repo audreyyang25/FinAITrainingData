@@ -1,0 +1,27 @@
+ID: 862
+Source Folder: 18_OCC_Bank_Trust_Guidance
+Topic: trust_investment_management
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Meridian National Bank operates a national fiduciary program, consistent with OCC Interpretive Letter #995, administering trust accounts in states where it has no branch presence. Meridian serves as corporate trustee for a $9.3 million special needs trust (SNT) established in Ohio for a 34-year-old beneficiary with severe cognitive disabilities, funded by a personal injury settlement. Meridian's trust officers, based in its home state of Texas, apply Texas Uniform Prudent Investor Act standards and Texas state court rulings when making investment and distribution decisions, despite the trust document designating Ohio law as the law of the situs. Over an 18-month period, Meridian makes four discretionary distributions totaling $210,000 for expenses that, under Ohio Medicaid regulations, render the beneficiary ineligible for Supplemental Security Income (SSI) and Medicaid — a result that would not have occurred under proper Ohio SNT administration. The bank's compliance program failed to implement state-specific legal review protocols for out-of-state fiduciary accounts.
+
+QUESTION
+--------
+Does Meridian's application of Texas law standards to an Ohio-situs special needs trust with an Ohio choice-of-law provision satisfy its fiduciary obligations under OCC guidance and applicable trust law?
+
+ANSWER
+------
+No, this conduct is a breach of fiduciary duty through failure to administer the trust in accordance with its governing law and applicable state statutory requirements, causing material harm to the beneficiary.
+
+OCC Interpretive Letter #995 confirms that a national bank operating a fiduciary program must 'administer, manage, and distribute fiduciary assets in accordance with the law of the situs or law designated in the trust agreements,' making Ohio law controlling here. OTS Trust Handbook Section 110 further requires fiduciaries to comply with 'state and federal statutory law and regulation' applicable to each account. Meridian's failure to implement state-specific legal review for out-of-state accounts — resulting in distributions that destroyed the beneficiary's public benefits eligibility — represents both a legal compliance failure and a breach of the duty of prudent administration. The OCC Comptroller's Handbook Asset Management requires management to ensure appropriate policies are established and followed for all fiduciary accounts, including those in states where the bank lacks physical presence.
+
+APPLICABLE STANDARD
+-------------------
+OCC Interpretive Letter #995 (July 2004) – National Fiduciary Program; OTS Trust Handbook Section 110 – Provisions of the Trust Document and State Statutory Law; OCC Comptroller's Handbook Asset Management (June 2023) – Fiduciary Risk Management
+
+KEY FACTOR
+----------
+Applying the incorrect state's law to an out-of-state trust account with an explicit choice-of-law designation, resulting in destruction of a disabled beneficiary's public benefits, constitutes a breach of fiduciary duty and failure to comply with the governing trust instrument and applicable situs-state law.

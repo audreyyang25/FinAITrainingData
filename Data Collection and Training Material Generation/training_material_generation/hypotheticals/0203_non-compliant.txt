@@ -1,0 +1,27 @@
+ID: 203
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer recommends that a 62-year-old retired client, with $420,000 in a rollover IRA and conservative risk tolerance, invest $105,000 (25% of the account) in a non-traded REIT fund with a 7% front-end sales load, 2.5% annual management fee, and 1.5% annual servicing fee. The broker documents the client's moderate experience with investments and notes that the REIT 'provides inflation hedge and diversification.' No analysis of whether the client can access the funds in an emergency (REITs typically have 7–10 year lockup periods) is documented.
+
+QUESTION
+--------
+Does this variable annuity recommendation satisfy FINRA suitability and the DOL ERISA fiduciary standard for retirement account advice?
+
+ANSWER
+------
+No, this violates both FINRA suitability (Rule 2111) and the DOL ERISA prohibited transaction rules and fiduciary standard.
+
+The recommendation fails suitability on multiple grounds: (1) a 62-year-old retiree with conservative risk tolerance and likely liquidity needs should not hold 25% of retirement assets in a 7–10 year illiquid vehicle, which violates the 'customer-specific' suitability requirement under FINRA 2111(a)(1)(B); (2) the cumulative fee structure (7% load + 2.5% management + 1.5% servicing = 11% in year one, 4% thereafter) is disproportionate for a conservative product and creates a conflict of interest suggesting the recommendation was partly motivated by commissions; (3) the adviser failed to document analysis of liquidity needs or emergency access, which is a critical suitability factor for retirement accounts under DOL guidance. Non-traded REITs in rollover IRAs were a frequent enforcement target in FINRA cases 2015–2020 (see FINRA Disciplinary Notices) when not carefully tailored to individual liquidity and time horizon.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (suitability rule requires reasonable basis, customer specific suitability, and disclosure); DOL Fiduciary Rule (29 U.S.C. § 1104(c)—prohibited transactions); SEC Exam Priorities (illiquid investments in retirement accounts raise suitability concerns for conservative investors near/in retirement).
+
+KEY FACTOR
+----------
+The failure to analyze liquidity needs for a near-retiree in a lockup-restricted product, combined with excessive fees and a concentration of 25% in an illiquid holding, makes this a clear suitability violation regardless of documentation of diversification rationale.

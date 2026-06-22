@@ -1,0 +1,27 @@
+ID: 693
+Source Folder: 10_Academic_Articles
+Topic: conflicts_research
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An investment adviser registered with the SEC under the Investment Advisers Act of 1940 manages $180 million in client assets across 420 accounts. The adviser's principal, who also serves as a corporate director of a mid-cap technology company, learns during a board meeting that the company will announce a significant acquisition in two weeks. Without disclosing his directorship or the material nonpublic information to clients or the firm's compliance department, the adviser purchases 15,000 shares of the target company at $28/share across 37 client accounts over a four-day period before the public announcement. After the announcement, shares rise to $41. The adviser's Form ADV Part 2A lists the directorship in Schedule D but does not disclose the specific conflict arising from access to material nonpublic information or how it is managed. The adviser argues that the directorship was disclosed and therefore no further action was required.
+
+QUESTION
+--------
+Did the investment adviser satisfy its fiduciary duty of loyalty under the Advisers Act by purchasing the target company's shares in client accounts while possessing material nonpublic information obtained through a board position?
+
+ANSWER
+------
+No, this conduct violates the investment adviser's fiduciary duty of loyalty and constitutes trading on material nonpublic information.
+
+The SEC's proposed interpretation in Release No. IA-4889 reaffirms that the fiduciary duty under the Advisers Act encompasses both a duty of care and an undivided duty of loyalty, requiring full and fair disclosure of all material conflicts of interest. Merely listing a directorship on Form ADV does not satisfy the obligation to disclose the specific, operational conflict arising from access to MNPI or to manage that conflict through abstention from trading. As the Jardak & Matoussi research notes, the Sarbanes-Oxley Act's disclosure regime for insiders and the SEC's focus on the identity of the 'insider' shareholder is specifically designed to prevent this type of informational exploitation. Trading client accounts on MNPI obtained through a board seat is a paradigmatic breach of loyalty.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206(1) and §206(2) – Anti-fraud provisions; SEC Release No. IA-4889 (Proposed Commission Interpretation Regarding Standard of Conduct for Investment Advisers); Sarbanes-Oxley Act §16 (ownership reporting by directors and insiders)
+
+KEY FACTOR
+----------
+The adviser used material nonpublic information obtained through a corporate directorship to trade client accounts, breaching the undivided duty of loyalty regardless of whether the directorship itself was disclosed on Form ADV.

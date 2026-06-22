@@ -1,0 +1,25 @@
+ID: 358
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+SafeGuard Advisors, a 62-person FINRA member firm with 2 branches, maintains detailed WSPs requiring that all customer complaints be logged in a centralized complaint tracking system within 24 hours of receipt. Each complaint alleging suitability concerns, unauthorized trading, or excessive fees triggers an automatic escalation to Compliance Director Michelle K., who must conduct a preliminary review within 5 business days and notify the branch manager and subject rep within 10 business days. On June 12, 2023, customer Robert T. (age 58, $340,000 account) sent an email to branch manager David P. questioning whether a recommended $95,000 allocation to a non-traded REIT (3.5% annual fee, 7-year lockup) was suitable for his 'growth-oriented but liquid' portfolio. David P. logged the inquiry as a potential suitability complaint at 2:47 PM that same day. By June 13, Michelle K. reviewed the email and determined that the REIT recommendation required documentation of suitability analysis. On June 20, Michelle K. issued a written memo to David P. and rep Karen S. documenting the complaint, attaching the customer's email, the suitability checklist used, and a summary of the rep's documented rationale. The firm's records showed Karen S. had properly documented the customer's risk tolerance, investment timeline (15+ years), and existing liquidity needs ($50,000 annual), and the REIT allocation represented only 28% of the portfolio. No further customer complaint occurred.
+
+QUESTION
+--------
+Did SafeGuard Advisors comply with FINRA Rule 3110 regarding complaint handling, escalation, and supervisory documentation?
+
+ANSWER
+------
+Yes. SafeGuard complied with FINRA Rule 3110(b)(5) and (d). The firm's WSPs clearly defined escalation timelines and responsibilities; the complaint was logged within 24 hours and escalated to compliance within 1 business day (well ahead of the 5-day requirement). Compliance Director Michelle K. conducted a timely preliminary review, documented her findings in writing, and preserved the customer's original complaint. The suitability analysis was documented and showed that the REIT allocation (28% of portfolio, with adequate documented liquidity reserves and a 15+ year time horizon) was reasonably aligned with the customer's profile. The firm's supervisory system included written procedures, implementation, and documented review. This exemplifies compliant FINRA practice: centralized logging, prompt escalation, documented analysis, and preservation of customer communications.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(b)(5) — Written Supervisory Procedures; FINRA Rule 3110(d) — Documentation
+
+KEY FACTOR
+----------
+All required supervisory steps (logging, escalation, preliminary review, documentation) were completed on time, with adequate suitability analysis preserved in the file.

@@ -1,0 +1,25 @@
+ID: 267
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Platinum Wealth Advisors (RIA, $2.1B AUM) manages a growth-equity sleeve across 156 client accounts. On March 15, the firm executed a master order for 75,000 shares of BioGenX at $156.00/share as part of a sector rotation strategy. By 3:58 PM (2 minutes before close), the stock traded to $158.75. The chief investment officer waited until 4:02 PM (after-hours) to allocate shares: 12,000 shares ($1.905M) to three accounts for which the CIO earned highest advisory fees (0.95% vs. firm average 0.65%), and 63,000 shares to remaining accounts. The firm's ADV (written policy) specified 'proportional allocation based on model weightings determined at time of trade initiation.' No amendment or waiver was documented.
+
+QUESTION
+--------
+Did Platinum Wealth's post-close allocation timing and fee-based selectivity violate the firm's own written allocation policy and IA fiduciary duty?
+
+ANSWER
+------
+Yes. Platinum Wealth breached Investment Advisers Act Section 206(1) (duty of care) and Rule 17j-1 (requiring consistent application of written policies). The facts show: (1) ADV explicitly required allocation by 'time of trade initiation' (3:56 PM), not post-close; (2) actual allocation delayed until 4:02 PM to observe favorable 1.76% intra-day movement; (3) selectivity based on advisory fee rates contradicts stated model-weighting methodology; (4) no documented exception or waiver. SEC/FINRA enforcement pattern (similar to Wedbush 2019 AWC) treats deviation from documented procedures as breach, especially when timing allows adviser to observe performance before allocation.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) (duty of care and prudence); SEC Rule 17j-1(a) (requiring written policies and procedures for fair allocation)
+
+KEY FACTOR
+----------
+Delay of allocation timing after performance observation and deviation from written policy without documented approval constitutes procedural breach enabling cherry-picking.

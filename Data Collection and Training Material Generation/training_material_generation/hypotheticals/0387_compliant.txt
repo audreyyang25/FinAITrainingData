@@ -1,0 +1,25 @@
+ID: 387
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Strategic Advisors, a consulting firm, was retained by the board of trustees of the $620M pension plan for municipal employees (1,440 active participants, average age 48) to prepare a comprehensive Investment Policy Statement (IPS) and recommend an asset allocation. Strategic Advisors was explicitly engaged as a fiduciary adviser under ERISA §3(21). Strategic Advisors conducted a detailed analysis: demographic modeling (benefit payout schedule 25–35 years), liability-driven investment (LDI) analysis, three stress-test scenarios (equity down 30%, bond yield up 200bp, inflation 5%), and benchmarked allocation against 47 comparable plans. The IPS, completed after 180 days, documented: 55% equities, 35% fixed income, 10% alternatives, with explicit rebalancing bands. Strategic Advisors disclosed its compensation: $280,000 fixed fee, no AUM tie-in, no revenue-sharing with fund managers. The plan sponsor approved the IPS and delegation structure in writing. Strategic Advisors obtained fidelity bond coverage and E&O insurance ($10M limit) and documented all analyses in an auditable file.
+
+QUESTION
+--------
+Did Strategic Advisors comply with DOL fiduciary duty of care under ERISA §404(a)(1)(B) when preparing the IPS and recommending asset allocation?
+
+ANSWER
+------
+Yes. ERISA §404(a)(1)(B) requires a fiduciary to act with the care, skill, prudence, and diligence of a prudent expert. Strategic Advisors satisfied each prong: (1) Expertise—the firm had relevant knowledge of pension fund management and asset allocation; (2) Documentation—comprehensive analysis (LDI, demographic modeling, stress testing) was fully documented; (3) Benchmarking—allocation was compared to comparable plans, supporting prudence; (4) Liability alignment—analysis explicitly matched payout obligations; (5) Disclosure—all conflicts and fees were transparent; (6) Governance—delegation structure and IPS approval were properly documented. DOL Field Assistance Bulletin (FAB) 2001-01 confirms that such methodical, documented advice constitutes prudent fiduciary conduct. Strategic Advisors' fixed-fee arrangement with no fund-manager revenue sharing further eliminates prohibited transaction risk.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(B) — Duty of Care (prudence standard); DOL FAB 2001-01; ERISA §3(21)
+
+KEY FACTOR
+----------
+Fiduciary properly documented detailed analysis, disclosed all conflicts and fees, and aligned recommendations to plan's liability structure and participant demographics.

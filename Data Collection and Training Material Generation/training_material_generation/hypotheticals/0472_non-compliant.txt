@@ -1,0 +1,25 @@
+ID: 472
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Dual registrant adviser Sarah manages two client relationships: (1) a $1.2M portfolio for retired Tom (age 72) via her RIA (advisory fees 0.95% annually), and (2) a $350,000 brokerage account for Tom's spouse Linda via her FINRA-registered broker-dealer capacity (commissions 1.5-2.5% per trade). Sarah never delivered Form CRS to either client. When Tom requested a rollover of his IRA ($400,000 rollover value) into an immediate annuity, Sarah recommended the transfer and effected it within Sarah's RIA capacity. The annuity carried a 6% surrender charge and $2,800 in undisclosed back-end load fees (0.7% of the rollover amount). Sarah's RIA earned no direct advisory fee on the annuity but received a $1,260 (0.315%) third-party distribution fee. For Linda, Sarah recommended her spouse sell $80,000 of Linda's stocks and purchase a variable annuity through the BD, earning a 4.5% load ($3,600). No analysis was documented comparing the IRA-to-annuity conversion against keeping the IRA in mutual funds or keeping the current advisory arrangement.
+
+QUESTION
+--------
+Did Sarah violate: (a) Reg BI Form CRS delivery requirement; (b) IA Act §206 fiduciary duty in the IRA rollover; (c) DOL ERISA fiduciary duty (if the IRA is a retirement plan); and (d) FINRA 2330 (variable annuity exchange) standards?
+
+ANSWER
+------
+Sarah violated all four standards. Form CRS must be delivered before or at the time of establishing advisory relationship (IA-5614 amendments; effective Feb 2021). Sarah's failure to deliver to Tom or Linda violates Reg BI IA-5653 Marketing Rule. For the IRA rollover, the IA Act §206(2) fiduciary duty requires the adviser to prove the recommendation was in the client's best interest—absent a written analysis comparing annuity versus IRA-held alternatives and demonstrating the rollover reduced fees/costs, Sarah cannot meet this burden. The $1,260 hidden fee compounds the breach. Under DOL PTE 2020-02 ERISA standards (if applicable to retirement accounts), Sarah must document that the annuity recommendation was solely for the participant's benefit, without regard to the adviser's $1,260 fee—the undisclosed fee violates this requirement. FINRA 2330 requires suitability analysis for variable annuity exchanges; Sarah's BD-side recommendation lacks documented analysis for Linda. The dual registration created unmanaged conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Marketing Rule IA-5653 (Form CRS); IA Act §206 Fiduciary Duty; DOL PTE 2020-02 (ERISA); FINRA Rule 2330 (VA Exchange Suitability)
+
+KEY FACTOR
+----------
+Failure to deliver Form CRS, undisclosed fees in IRA rollover, and lack of suitability documentation for VA exchange violate fiduciary standards across RIA, ERISA, and FINRA capacities simultaneously.

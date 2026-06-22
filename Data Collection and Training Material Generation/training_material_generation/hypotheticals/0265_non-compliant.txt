@@ -1,0 +1,25 @@
+ID: 265
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Raymond James & Associates operates as both a broker-dealer and investment adviser. It delivered Form CRS to retail client James Morrison, age 55, with $680,000 in liquid assets, at account opening on July 10, 2024. The Form CRS stated: "We provide brokerage and investment advisory services. Our advisers may recommend either brokerage or advisory accounts depending on your needs." However, the form did not disclose that the firm's compensation structure creates a financial incentive to recommend brokerage accounts for clients with portfolios under $1 million: brokerage commissions on mutual funds average 0.65% annually, while advisory fees are 0.45% AUM. For Mr. Morrison's $680,000 account, the difference amounts to approximately $1,360 per year in additional compensation if the account is placed in brokerage versus advisory status. The Form CRS contained no explanation of this threshold-based incentive. When Mr. Morrison called to ask about the difference, his adviser verbally explained that "brokerage is more flexible for active trading," but did not disclose the compensation difference. Mr. Morrison's stated investment objective was long-term buy-and-hold ($30,000 annually from distributions), unsuitable for active brokerage trading.
+
+QUESTION
+--------
+Did Raymond James comply with Form CRS conflict-of-interest disclosure obligations under Reg BI §240.15l-1(e) and SEC staff guidance on dual-registrant conflicts?
+
+ANSWER
+------
+No. Raymond James violated Form CRS conflict-of-interest disclosure requirements on two grounds: (1) the Form CRS failed to disclose a material conflict of interest—the 0.20% AUM fee differential ($1,360 on this client's account size) creates a financial incentive to recommend brokerage over advisory, and SEC guidance requires disclosure of "specific dollar impacts" where conflicts are tailored to account size; (2) the adviser's verbal explanation of product differences does not cure the Form CRS omission, because Reg BI requires conflicts to be disclosed in the Form CRS itself, not relegated to variable oral discussion. SEC staff guidance (2023) specifically identified dual-registrant compensation structures that incentivize account-type recommendations as material conflicts requiring explicit numerical disclosure. The mismatch between the long-term buy-and-hold objective and the brokerage recommendation further suggests the conflict, not client suitability, influenced the recommendation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR §240.15l-1(e); SEC Form CRS Staff Guidance (March 2023) on dual-registrant conflicts; SEC Marketing Rule IA-5653 (material conflict disclosure)
+
+KEY FACTOR
+----------
+Failure to disclose the account-size-dependent AUM/commission differential in Form CRS violates the material conflict-of-interest disclosure obligation for dual registrants.

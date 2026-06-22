@@ -1,0 +1,27 @@
+ID: 717
+Source Folder: 11_Case_Law
+Topic: ia_case_law
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Meridian Capital Advisors, a registered investment adviser managing $340 million in client assets, has a revenue-sharing arrangement with Pinnacle Mutual Funds whereby Meridian receives 15 basis points on all client assets directed into Pinnacle products. Meridian's Form ADV Part 2A states that 'the firm may receive compensation from third-party fund companies,' but does not identify Pinnacle by name, quantify the revenue-sharing amount, or explain how this creates a financial incentive to recommend Pinnacle funds over lower-cost alternatives. Over the past three years, 72% of client assets have been placed in Pinnacle funds, despite several comparable index funds from other providers carrying expense ratios 30-45 basis points lower. When examined by the SEC, Meridian's chief compliance officer stated the firm believed its generic ADV disclosure was sufficient.
+
+QUESTION
+--------
+Does Meridian's generic disclosure of potential third-party compensation in its Form ADV satisfy the Investment Advisers Act's fiduciary duty to disclose material conflicts of interest?
+
+ANSWER
+------
+No, this conduct is a violation of the Investment Advisers Act §§ 206(1) and 206(2) for failure to adequately disclose material conflicts of interest.
+
+In Robare Group v. SEC, the D.C. Circuit addressed the adequacy of conflict disclosures involving revenue-sharing arrangements. While the court scrutinized the SEC's scienter findings, it affirmed the principle that an investment adviser's fiduciary duty under §§ 206(1) and 206(2) requires disclosure that is sufficiently specific to allow clients to understand the nature, magnitude, and implications of the conflict. A generic statement that the firm 'may receive compensation' without identifying the specific fund family, the amount of compensation, or the resulting incentive to favor those products over cheaper alternatives fails to provide the informed consent that fiduciary duty requires. Meridian's 72% concentration in higher-cost Pinnacle funds while receiving undisclosed basis-point payments demonstrates the materiality of the conflict.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1), 206(2); Robare Group, Ltd. v. SEC, 922 F.3d 468 (D.C. Cir. 2019)
+
+KEY FACTOR
+----------
+Generic boilerplate disclosure of potential third-party compensation fails to satisfy the adviser's fiduciary obligation to provide clients with specific, quantified information about revenue-sharing conflicts that incentivize recommendations of higher-cost products.

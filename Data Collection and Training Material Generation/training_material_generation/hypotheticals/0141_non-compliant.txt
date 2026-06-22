@@ -1,0 +1,27 @@
+ID: 141
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old plan participant with $180,000 in a 401(k) at her employer (a mid-sized manufacturing firm) meets with a financial advisor affiliated with a wirehouse. The advisor recommends rolling the 401(k) into an IRA to access a broader range of investments, specifically recommending a series of actively managed mutual funds with expense ratios of 1.2% annually, compared to the 401(k)'s low-cost index fund options at 0.08%. The advisor earns a 1% advisory fee on assets in the IRA. The participant has no prior investment experience, moderate risk tolerance, and stable employment. The advisor documents that the rollover is "in the client's best interest" but does not compare the 401(k) fees to the proposed IRA fees or document why active management outweighs the cost differential.
+
+QUESTION
+--------
+Does this rollover recommendation comply with DOL ERISA fiduciary duty and PTE 2020-02 requirements?
+
+ANSWER
+------
+No, this violates the DOL ERISA fiduciary duty and does not satisfy the conditions of PTE 2020-02.
+
+While the advisor recommended a rollover, the facts reveal multiple failures under PTE 2020-02. First, the advisor did not engage in reasonable inquiry: there is no documentation that the advisor assessed whether the participant's modest investment experience and stable employment made the 401(k) plan's lower-cost index funds sufficient for her needs. Second, the fee comparison is absent: the advisor recommended rolling to an IRA where the participant would pay 1.2% in mutual fund expenses plus 1% advisory fee (2.2% total) versus the 401(k)'s 0.08%, a 27.5x cost increase. Third, the recommendation itself suggests self-interest: the advisor earns a 1% asset-based fee only on the IRA assets, creating an incentive to move the assets and earn higher compensation than the participant would retain in the 401(k). The bare assertion that the rollover is "in the client's best interest" without supporting analysis fails the impartial conduct standard. Under 29 CFR 2550.404a-1(b)(4), a fiduciary must act "solely in the interests of the participant," and the cost differential alone—combined with the absence of documented justification—indicates the recommendation is tainted by the advisor's compensation incentive.
+
+APPLICABLE STANDARD
+-------------------
+Department of Labor ERISA Section 406(b) (fiduciary duty to avoid self-dealing); DOL Prohibited Transaction Exemption 2020-02 (effective February 27, 2021), which requires that a fiduciary providing rollover advice must: (1) act in the participant's best interest, (2) charge no more than reasonable compensation, (3) not recommend the rollover based on compensation received, and (4) make reasonable inquiry into the participant's needs; 29 CFR 2550.404a-1(b)(4)(viii) (impartial conduct requirement).
+
+KEY FACTOR
+----------
+The advisor earned higher compensation (1% AUM fee) from the IRA rollover and failed to document a fee comparison or reasonable inquiry into the participant's needs, violating PTE 2020-02's core requirement that rollover advice be disinterested and based on facts specific to the participant.

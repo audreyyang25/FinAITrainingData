@@ -1,0 +1,27 @@
+ID: 176
+Source Folder: unknown
+Topic: concentration
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 62-year-old client with $500,000 in a brokerage account and moderate risk tolerance states she needs liquidity for medical expenses within 2-3 years. Her advisor recommends concentrating 65% ($325,000) in a single municipal bond fund with a 7-year average duration and illiquidity constraints. The client has no other significant assets.
+
+QUESTION
+--------
+Does this concentration recommendation satisfy the suitability standard under FINRA Rule 2111?
+
+ANSWER
+------
+No, this violates the applicable standard.
+
+The advisor has violated suitability by recommending a concentration in a single illiquid security that is inconsistent with the client's stated liquidity need (2-3 years) and the fund's 7-year duration. FINRA Rule 2111 requires the advisor to have a reasonable basis for suitability considering the client's financial situation and needs. A 65% concentration in an illiquid municipal bond with maturity misalignment creates both concentration and liquidity risk that directly conflicts with the client's express need for near-term liquidity for medical expenses. This is a classic case of product-client mismatch driven by excessive concentration.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (suitability); SEC Reg BI Rule 15l-1(b)(2)(i) (reasonable basis for recommendation); FINRA guidance on concentration risk.
+
+KEY FACTOR
+----------
+The concentration (65%) is coupled with explicit liquidity need (2-3 years) and illiquid instrument (7-year duration), creating a clear suitability violation rather than a prudent risk-managed approach.

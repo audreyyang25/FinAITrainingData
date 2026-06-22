@@ -1,0 +1,25 @@
+ID: 357
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Premier Securities hired registered representative Marcus L. on January 10, 2023. Marcus L. had 8 years of prior industry experience at another firm and passed all licensing exams. On his first day, Marcus was assigned to serve a book of 156 existing clients, including high-net-worth clients with portfolios ranging from $800,000 to $3.2 million. Premier's WSPs required a 60-day supervised probationary period for all new reps, during which the assigned supervisor (Branch Manager Tom H.) was required to pre-approve all trades exceeding $50,000 notional value and conduct weekly compliance interviews. During Marcus's first 40 days, Tom H. approved 3 of 47 large trades (>$50,000 notional) submitted by Marcus and conducted zero compliance interviews. On day 42, Marcus executed a $180,000 concentrated position in a speculative biotech stock (BETA: 2.1) for Mrs. Chen (age 71, $1.2 million portfolio, stated risk tolerance 'moderate'), without pre-approval. When Mrs. Chen suffered a $67,000 loss within 2 weeks, she filed a complaint. Premier's compliance review found Marcus had also made 8 unauthorized margin calls across 6 accounts during the unsupervised period.
+
+QUESTION
+--------
+Did Premier Securities comply with FINRA Rule 3110(a)(1) regarding initial and ongoing supervision of a newly hired registered representative?
+
+ANSWER
+------
+No. FINRA Rule 3110(a)(1) requires each member to designate a principal who is responsible for the supervision of each registered person, and Rule 3110(b)(1) mandates that a firm establish and implement WSPs reasonably designed to supervise the opening of accounts, approval of account transfers, and all trades. Here, Premier's WSPs explicitly required a 60-day probationary period with pre-approval of large trades and weekly interviews. Tom H.'s failure to pre-approve 44 of 47 trades (94% non-compliance rate) and complete zero of the required weekly interviews constitutes a clear violation. The unauthorized margin calls and unsuitable biotech trade during the unsupervised period resulted in regulatory harm. FINRA enforcement (analogous to FINRA AWC 2021-067) consistently holds firms liable when supervisors fail to implement initial probationary oversight, regardless of the rep's prior experience.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(a)(1) — Principal Responsibility; FINRA Rule 3110(b)(1) — Supervisory System Design; FINRA Rule 3110(c) — Implementation
+
+KEY FACTOR
+----------
+Supervisor failed to implement the firm's mandatory probationary oversight procedures (94% non-compliance with pre-approval requirement, zero compliance interviews), allowing unsupervised trading that resulted in customer harm.

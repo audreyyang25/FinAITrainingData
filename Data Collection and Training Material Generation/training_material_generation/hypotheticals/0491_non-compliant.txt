@@ -1,0 +1,27 @@
+ID: 491
+Source Folder: 01_SEC_Guidance_NoAction_Interpretive
+Topic: interpretive_edge_cases
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Capital Advisors serves as investment adviser to both Apex BDC, Inc., a publicly traded business development company, and Apex Private Partners LP, a private fund organized as a limited partnership. Apex Capital controls both vehicles. Without seeking any board approval, Apex BDC co-invests $12 million alongside Apex Private Partners LP in a mezzanine loan to a mid-market software company. The co-investment is arranged on identical terms. One of the limited partners of Apex Private Partners LP owns 7% of Apex BDC's outstanding voting securities, making that limited partner an affiliated person of the BDC and thus the Private Fund a second-tier affiliate through the common adviser relationship. Apex Capital's compliance team classifies this limited partner as a 'remote affiliate' of the BDC and does not present the co-investment transaction to the BDC's board of directors for approval.
+
+QUESTION
+--------
+Did Apex Capital comply with the Investment Company Act of 1940's restrictions on BDC co-investment transactions with second-tier affiliates by classifying the limited partner as a remote affiliate and bypassing board approval?
+
+ANSWER
+------
+No, this conduct is a violation of the Investment Company Act of 1940's restrictions on transactions between BDCs and affiliated persons.
+
+Under IM Guidance Update 2014-12, a second-tier affiliate's classification as a 'close affiliate' versus a 'remote affiliate' depends on various factors, and the determination cannot be made reflexively. A limited partner that holds 7% of the BDC's outstanding voting securities is an affiliated person of the BDC and likely qualifies as a close affiliate, meaning the co-investment transaction may be prohibited outright rather than merely subject to board approval. By failing to conduct a proper analysis and bypassing the required majority board approval process entirely, Apex Capital violated the 1940 Act's affiliate transaction restrictions designed to protect the BDC from undue influence and overreaching.
+
+APPLICABLE STANDARD
+-------------------
+Investment Company Act of 1940, Sections 57(a) and 57(f); IM Guidance Update No. 2014-12 (December 2014) – BDC Transactions with Second-Tier Affiliates
+
+KEY FACTOR
+----------
+The adviser improperly classified a second-tier affiliate with significant BDC ownership as a 'remote affiliate,' bypassing both the required affiliate analysis and the mandatory board approval process for co-investment transactions.

@@ -1,0 +1,25 @@
+ID: 376
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Sarah, age 52, has $340,000 in a 401(k) earning 6.2% annually with $95 in annual plan fees. Her employer plan offers a low-cost S&P 500 index fund (0.03% expense ratio) and a bond fund (0.04% ER). Registered investment adviser Marcus recommends rolling over to an IRA where Marcus will charge 1.15% AUM fee and place Sarah in retail mutual funds with 0.89% average ER. Marcus documents that the rollover will provide "greater investment flexibility and consolidation." No analysis was performed comparing the 401(k) institutional fund costs to the proposed IRA retail fund costs. Sarah's total annual cost will increase from $210 to approximately $3,910.
+
+QUESTION
+--------
+Did Marcus comply with PTE 2020-02 requirements when recommending the rollover to an IRA managed under his advisory fee?
+
+ANSWER
+------
+No. PTE 2020-02 requires a documented best interest analysis comparing the rolled-over IRA arrangement with remaining assets in the 401(k) plan. The decisive fact is that Marcus failed to document cost-benefit analysis: the 401(k) institutional funds cost 0.07% combined versus the IRA retail funds at 0.89% plus Marcus's 1.15% fee (total 2.04%), creating a $3,700 annual cost increase. Under PTE 2020-02's Five-Part Test, the adviser must demonstrate that the recommended rollover serves the client's best interest, not the adviser's compensation interest. Here, Marcus's recommendation materially increased costs without documented justification, violating ERISA §408(b)(14) and PTE 2020-02(b)(1) (best interest standard). The generic "flexibility" rationale does not overcome quantified cost disadvantage.
+
+APPLICABLE STANDARD
+-------------------
+DOL PTE 2020-02 Best Interest Standard; ERISA §408(b)(14); Five-Part Test (Part 1: Best Interest; Part 4: Policies & Procedures; Part 5: Documentation)
+
+KEY FACTOR
+----------
+Recommended rollover increased annual client costs by $3,700 without documented analysis comparing plan institutional funds to IRA retail funds, violating PTE 2020-02(b)(1) fiduciary best interest obligation.

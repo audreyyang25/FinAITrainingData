@@ -1,0 +1,27 @@
+ID: 510
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_bd
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+BiscayneAtlantic Advisers, LLC, a dually registered investment adviser and broker-dealer, manages approximately $340 million in advisory accounts and also executes brokerage transactions for certain clients. The firm's Latin American client book includes 85 clients who are non-U.S. persons residing in Colombia and Brazil. When executing cross-border transactions for these clients, the firm routes equity orders through a correspondent broker-dealer in which BiscayneAtlantic's CEO holds a 12% passive, non-controlling equity interest. The firm's Form ADV Part 2A contains a dedicated section titled 'Affiliated Brokerage and Conflicts of Interest' that discloses the CEO's ownership interest in the correspondent broker, the percentage owned, the fact that the firm routes certain orders through this entity, and a detailed comparison showing that execution quality and commission rates at the correspondent broker are equivalent to or better than two independent alternatives the firm evaluated. The firm annually commissions an independent best-execution analysis from a third-party consultant, and the most recent report confirms that the correspondent broker's execution quality ranks in the top quartile among comparable counterparties. All affected clients received and acknowledged the conflict disclosure at account opening and at each annual update.
+
+QUESTION
+--------
+Is BiscayneAtlantic Advisers in compliance with its fiduciary and best-execution obligations despite routing client orders through a broker-dealer in which its CEO holds a financial interest?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+An investment adviser is not per se prohibited from directing client orders to a broker-dealer in which an associated person holds a financial interest, provided the conflict is fully disclosed and the adviser satisfies its best-execution obligations. Unlike the BiscayneAmericas enforcement action—where the SEC found inadequate conflict disclosure and self-dealing—this firm provides comprehensive, specific disclosure of the CEO's ownership interest, the order-routing practice, and comparative execution data. The annual independent best-execution review provides objective evidence that the routing decision is driven by execution quality rather than the CEO's financial interest. The combination of granular disclosure, client acknowledgment, and independently verified best execution demonstrates compliance with both the duty of loyalty and the duty of care.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206(1), §206(2); SEC best-execution guidance for investment advisers; cf. In re BiscayneAmericas Advisers L.L.C. (IA Release No. 6119, 2022)
+
+KEY FACTOR
+----------
+The firm's detailed disclosure of the CEO's financial interest in the correspondent broker, combined with an independent annual best-execution analysis confirming top-quartile execution quality, transformed a potential self-dealing conflict into a properly managed and disclosed arrangement.

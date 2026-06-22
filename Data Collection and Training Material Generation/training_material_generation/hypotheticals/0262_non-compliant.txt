@@ -1,0 +1,25 @@
+ID: 262
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+CrossBridge Advisers, a SEC-registered investment adviser with $680 million AUM, filed its initial Form CRS on June 30, 2020. On September 12, 2023, CrossBridge acquired a $185 million AUM RIA, expanding staff from 12 to 35 advisers and opening three new branch offices. This acquisition materially changed CrossBridge's business: (1) the adviser now offers alternative investment products (hedge fund access) that were not previously offered; (2) new advisory fees range from 0.80%–1.50% for the acquired firm's clients, creating fee disparity; (3) CrossBridge now custodies client assets at both Fidelity and Charles Schwab instead of just Fidelity; (4) the firm now has compensation arrangements with the acquired firm's advisers that include performance bonuses tied to AUM targets. CrossBridge did not update Form CRS until March 15, 2024 (6 months after the acquisition), despite knowing immediately that the acquisition created material changes. During this period, 127 new clients opened accounts and received an outdated Form CRS.
+
+QUESTION
+--------
+Did CrossBridge comply with the requirement to update Form CRS when material changes occurred?
+
+ANSWER
+------
+No. Reg BI § 240.15l-1(g)(3) and Form CRS Instructions require advisers to update Form CRS 'within 90 days of the end of the calendar quarter in which a material change occurs.' The SEC defines 'material change' to include changes in advisory services offered, fee structures, conflicts, or custody arrangements. CrossBridge's acquisition triggered multiple material changes immediately in September 2023, requiring an updated Form CRS by December 31, 2023 (end of Q4 2023) at the latest. The firm's 6-month delay until March 2024 violated this requirement. Delivering an outdated Form CRS to 127 new clients between September and March violated Reg BI's disclosure obligation. This pattern mirrors SEC enforcement actions against advisers for untimely Form CRS updates (e.g., SEC v. Mercer, 2022).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR § 240.15l-1(g)(3); Form CRS Instructions on material changes and 90-day update window
+
+KEY FACTOR
+----------
+Material changes to adviser services, fees, or conflicts require Form CRS update within 90 days of quarter-end; 6-month delay is non-compliant.

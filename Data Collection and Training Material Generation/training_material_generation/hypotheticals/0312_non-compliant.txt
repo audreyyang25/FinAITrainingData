@@ -1,0 +1,25 @@
+ID: 312
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Riverside Wealth, BD/IA dually registered, manages advisory accounts for 45 high-net-worth clients with average portfolio size $2.8M, charged 0.95% AUM. In Q4 2023, Riverside's Chief Compliance Officer noticed that 12 of these advisory clients (all with $2M+ portfolios) had been systematically moved to the brokerage platform over 18 months with minimal advisory-model recommendations. Once in brokerage status, these clients averaged 23 trades/year (vs. 4/year in advisory accounts), generating $18,700 average annual commissions per client ($224,400 total firm revenue annually). An internal email from the SVP of Sales dated June 2023 stated: 'Advisory is killing our margins on large accounts—push the A-list to brokerage. Commissions beat AUM on $2M+.' However, when the CCO reviewed account files, each contained a signed client acknowledgment of 'service model options' dated at account inception, though none documented client choice between advisory vs. brokerage after the June 2023 email or explained why the firm recommended the switch.
+
+QUESTION
+--------
+Did Riverside Wealth comply with fiduciary duties and Reg BI when systematically moving high-net-worth advisory clients to higher-commission brokerage accounts based on internal revenue-maximization directives, despite having generic service-model disclosures?
+
+ANSWER
+------
+No. Although Riverside obtained initial service-model disclosures, this does not cure the violation. Reg BI §240.15l-1(a)(2)(i) requires the firm to act in the client's best interest, prioritizing client interest over its own. The pattern—12 large accounts moved simultaneously following an internal directive to 'push' clients to brokerage to improve firm margins—evidences systematic revenue prioritization. The email is documentary evidence of scienter (intent to favor commissions). Generic disclosures at inception do not satisfy the obligation to discuss the *particular* suitability and conflicts when *subsequently* changing a client's service model. The 23-trade-per-year churn (vs. 4/year baseline) suggests excessive trading for commission generation, violating both Reg BI care obligation and FINRA suitability rules. This mirrors FINRA enforcement patterns (e.g., AWC settlements for 'converting' advisory accounts to brokerage to boost revenue). Updated Form CRS and capacity disclosure specific to the service model change are required but not documented.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Best Interest Standard, 17 CFR §240.15l-1(a)(2)(i); Reg BI Conflict of Interest Disclosure, 17 CFR §240.15l-1(a)(2)(ii); FINRA Rule 5110 (WSPs for compensation); FINRA Rule 2111 (Suitability); Investment Adviser Act §206(1) (fiduciary duty of loyalty)
+
+KEY FACTOR
+----------
+Dual registrant systematically moved advisory clients to higher-commission brokerage accounts based on documented internal revenue-maximization directive, absent specific informed consent for each service-model change.

@@ -1,0 +1,25 @@
+ID: 260
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+WeathAM, a SEC-registered investment adviser with $310 million AUM, disclosed on Form CRS Item 4 that it has conflicts of interest but provided only generic language: 'We manage conflicts of interest through compliance policies and procedures.' The firm omitted material facts: (1) WeathAM's owner holds a 40% stake in a commercial real estate development firm; (2) the adviser recommends that clients allocate 15–20% of their portfolios to real estate investment trusts (REITs) that own properties developed by the related entity; (3) two senior advisers sit on the REIT's board and receive $75,000 annual director fees each; (4) the adviser has steered approximately $85 million from 287 client accounts into the affiliated REIT without explicit disclosure of the ownership conflict. A 56-year-old client, Patricia Valdez, with $340,000 under management, was allocated $51,000 (15%) into the REIT without being informed of WeathAM's ownership interest.
+
+QUESTION
+--------
+Did WeathAM's Form CRS adequately disclose material conflicts of interest under Reg BI?
+
+ANSWER
+------
+No. Form CRS Item 4 requires disclosure of 'material conflicts of interest,' defined in the Instructions as conflicts that are likely to impair the objectivity of the adviser's recommendations. Ownership interests in entities that benefit from advice recommendations, combined with board compensation, are classic material conflicts. WeathAM's generic disclosure obscures rather than clarifies these conflicts. The SEC's 2021 examination findings on Form CRS filings criticized advisers for 'boilerplate' conflict disclosures that fail to identify specific conflicts affecting retail clients. Material conflicts must be identified by type and impact (e.g., 'we own 40% of a REIT into which we recommend client assets; our staff receive fees from the REIT'). Omitting these facts violates the requirement that Form CRS be clear and not misleading.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR § 240.15l-1(g)(1); Form CRS Item 4; SEC Exam Priorities 2021–2022
+
+KEY FACTOR
+----------
+Form CRS must specifically identify material conflicts of interest affecting advice recommendations; generic 'we manage conflicts' language is non-compliant.

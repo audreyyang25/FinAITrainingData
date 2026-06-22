@@ -1,0 +1,27 @@
+ID: 192
+Source Folder: unknown
+Topic: options_complex
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 45-year-old software engineer with $750,000 in investable assets, sophisticated financial knowledge (CFA charterholder), stated high risk tolerance (9/10), and 25-year time horizon requests a recommendation for a collar strategy on 500 shares of his employer stock (concentrated position worth $180,000, representing 24% of portfolio). His broker recommends: buy 500 puts at 10% out-of-the-money (strike $90; premium $2,100) and sell 500 calls at 15% out-of-the-money (strike $115; net cost $1,200 after call premiums). The broker documents: (i) client's CFA credential and stated understanding of put-call mechanics; (ii) the collar's protective and leverage-limiting function relative to the concentrated position; (iii) impact on capital appreciation above $115; and (iv) the client's ability to sustain the $1,200 net debit. The client signs acknowledgment of strategy mechanics and risks.
+
+QUESTION
+--------
+Does this collar recommendation satisfy FINRA Rule 2360 suitability and options account requirements?
+
+ANSWER
+------
+Yes, this recommendation is compliant with FINRA Rule 2360 and the options suitability standard.
+
+This recommendation satisfies FINRA Rule 2360(b)(14) because: (1) the client has documented sophisticated financial knowledge (CFA), appropriate for options strategies; (2) the collar is a medium-complexity derivatives strategy suitable for a high-net-worth, concentrated-equity holder with a defined risk profile; (3) the firm clearly documented the customer's knowledge level, the specific mechanics and risks of the collar, the impact on upside potential, and the client's financial capacity to execute; (4) the strategy addresses a legitimate investment objective (hedging/managing concentration risk) and is proportionate to the client's 9/10 risk tolerance and 25-year horizon; and (5) the client provided informed consent via signed acknowledgment. FINRA cases consistently find collar strategies compliant when customer sophistication is documented and the strategy addresses a documented objective. See FINRA Rule 2360 guidance on documented options knowledge as prerequisite for approval.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2360(b)(14) (options account suitability); FINRA Rule 2111 (suitability); Reg BI duty of care
+
+KEY FACTOR
+----------
+Client's documented CFA credential, clearly documented understanding of collar mechanics, legitimate hedge objective for concentrated position, and express informed consent satisfy all Rule 2360(b)(14) suitability elements.

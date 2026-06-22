@@ -1,0 +1,25 @@
+ID: 256
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+TechWealth Advisers, an SEC-registered IA managing $180 million AUM, developed a new Form CRS in March 2024 that disclosed its standard advisory fee of 1.0% annually. However, the form contained a single sentence buried on page 3: 'We may offer fee waivers or reduced fees for clients who refer new assets to our firm.' In practice, TechWealth systematically waived 40% of fees (0.6% instead of 1.0%) for clients who brought $2 million or more in referrals. Client Michael Zhang, age 52, with a $3.2 million account, referred $7.5 million in assets from his business partners and received a perpetual 0.4% fee rate (60% below standard). His Form CRS stated the standard 1.0% rate but did not quantify or explain the referral-fee-waiver practice. A new prospect, Jennifer Lee, age 50, who would have paid the full 1.0% without referrals, was not informed that similarly situated clients (referrers) were paying substantially less. Form CRS made no reference to the differential fee structure, creating an appearance that all clients were charged identically. The firm's adviser did not disclose to Jennifer that referral-based fee reductions were available to her.
+
+QUESTION
+--------
+Did TechWealth's Form CRS adequately disclose material differences in fee treatment based on client referrals?
+
+ANSWER
+------
+No. Form CRS must clearly disclose material fee variations and conflicts of interest that could affect different clients' treatment. SEC guidance (IA-5653) requires that differential fee arrangements be disclosed in a manner enabling clients to understand the fee structure they are receiving relative to others. Here, the single buried sentence on page 3 fails this standard—it does not quantify the fee-waiver magnitude (40% reduction), does not clarify that referral-based waivers are conditional, and does not explain that some clients may be paying 2.5x more than others (1.0% vs. 0.4%). Jennifer Lee was not informed of her potential eligibility for fee reductions, creating an information asymmetry. This arrangement creates a material conflict: advisers are incentivized to favor high-referral clients with lower fees, potentially disadvantaging non-referrers. SEC enforcement actions on differential fee treatment (similar to SEC v. Edward Jones cases) require clear, upfront disclosure enabling clients to understand their fee relative to others. The buried, vague disclosure fails to meet this standard.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI, 17 CFR §240.15l-1(c)(1)(vi) (disclosure of material conflicts affecting fee treatment); SEC Form CRS Instructions, Question 4 (fees and costs must be clear and understandable); Advisers Act §206 (fiduciary duty requiring clear disclosure of material conflicts)
+
+KEY FACTOR
+----------
+Form CRS fails to clearly disclose that similarly situated clients pay dramatically different fees (0.4% to 1.0%) based on referral activity, burying the practice in vague language without quantification.

@@ -1,0 +1,25 @@
+ID: 456
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+RIA managed $3.2M for 45-year-old high-net-worth client. Portfolio trades averaged 185% annual turnover for 4 years, generating $85,000 in trading costs (commissions + bid-ask spreads) annually. Initial investment policy statement authorized "active tactical rebalancing based on economic conditions." RIA documented each quarter: (1) macroeconomic rationale for sector shifts (e.g., "Fed tightening signals pivot to energy; reduce tech exposure 12%"); (2) written trade lists showing client initials; (3) performance attribution showing whether tactical calls added 0.35–0.67% alpha. Client received detailed quarterly reviews. After 4 years, RIA conducted backtest analysis showing that passive index portfolio would have outperformed by 1.2% annualized. Client requested reduction to 25% turnover. RIA complied immediately.
+
+QUESTION
+--------
+Does the high turnover portfolio, despite underperformance vs. passive benchmark, constitute churning violation?
+
+ANSWER
+------
+No. Churning under Reg BI and fiduciary standards requires: (1) excessive trading without reasonable basis, (2) intent to generate commissions, and (3) lack of documented justification. Here: (1) IPS explicitly authorized tactical trading; (2) RIA documented economic rationale for each trade; (3) client initiated and approved trades in writing; (4) RIA disclosed trading costs transparently; (5) RIA conducted performance attribution. Underperformance vs. passive index, while material, does not establish churning absent evidence of intentional suitability violation. Once client became aware of underperformance, RIA promptly reduced turnover. This parallels SEC guidance (IA-4574) that documented client authorization and reasonable basis defeat churning claims despite high activity.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Obligation to Act in Client's Best Interest; Churning Standard; Fiduciary Care Duty
+
+KEY FACTOR
+----------
+Documented client authorization for each trade, written economic rationale, and transparent disclosure of costs satisfy best-interest standard despite high turnover and eventual underperformance.

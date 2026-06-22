@@ -1,0 +1,27 @@
+ID: 113
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 45-year-old client with $85,000 in a Roth IRA and $120,000 in a taxable brokerage account consults an advisor about diversification and long-term growth. The advisor recommends rolling over the Roth IRA into a variable annuity B-share (back-loaded surrender charge, 6% declining 1% per year, plus 8% annual M&E and sub-account fees combined). The advisor states: 'B-shares will save you fees up front and are perfect for long-term growth.' The advisor does not quantify: (1) the tax consequence of the Roth rollover (loss of tax-free growth status); (2) the probability of the surrender charge applying (high, given the client's 20+ year time horizon and market volatility); (3) the fee impact over 20 years (cumulative drag of 8%+ annually); or (4) whether a simple rollover to a low-cost IRA custodian with no surrender charges would be superior.
+
+QUESTION
+--------
+Does this Roth IRA-to-variable-annuity rollover recommendation satisfy FINRA Rule 2330 and DOL fiduciary standards?
+
+ANSWER
+------
+No, this violates the applicable standards.
+
+This recommendation violates Rule 2330 and Reg BI in multiple ways. First, the advisor recommends a B-share variable annuity without documented suitability analysis showing why the high surrender charges (6% declining), high ongoing fees (8%+), and back-loaded structure are suitable for a 45-year-old with 20+ years to retirement and modest account size ($85,000). Second, and critically, rolling a Roth IRA into a variable annuity is a rollover to a non-IRA custodian that destroys the Roth's tax-free growth advantage; the advisor provided no analysis of this tax consequence or whether it served the client's interest. Third, for a Roth IRA held as a qualified retirement plan asset, DOL fiduciary principles under ERISA apply (or at minimum, state law fiduciary duty applies). The advisor breached the duty of care by failing to analyze whether the rollover served the client's best interest—a simple rollover to a low-cost IRA custodian custodian would preserve Roth tax benefits and avoid annuity surrender charges and fees. FINRA's 2015-2017 variable annuity settlements (e.g., FINRA Case #2014039928) consistently found violations when advisors recommended annuities in IRAs without analyzing the tax and fee consequences relative to non-annuity alternatives.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (Variable Annuity Suitability); DOL ERISA § 406 (prohibited transactions) and PTE 84-24 (exception for IRAs); SEC Reg BI (best interest standard); IRC § 408 (Roth IRA rules)
+
+KEY FACTOR
+----------
+Recommending a variable annuity B-share rollover of a Roth IRA without documented analysis of the tax consequence (loss of tax-free growth status) or comparison to a simple low-cost Roth IRA rollover, violating both Rule 2330 suitability and Reg BI best interest, plus potentially DOL/state fiduciary duties.

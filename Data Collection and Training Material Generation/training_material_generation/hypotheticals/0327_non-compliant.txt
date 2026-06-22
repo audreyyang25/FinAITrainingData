@@ -1,0 +1,25 @@
+ID: 327
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor Maria supervised account of retired client, age 72, with $450,000 in liquid assets and stated goal of capital preservation. Over 12 months, advisor executed 89 trades (average holding period 4.1 days), generating $18,900 in commissions and $12,600 in markup/markdown spreads. Annualized turnover ratio: 8.2×. Cost-to-equity ratio: 7.1% of average account value required just to break even. Client's actual net return after all costs: −2.3% (S&P 500 returned +11.8%). No written discretionary agreement; advisor exercised de facto control by calling client weekly with "must-act" trading recommendations the client followed without meaningful independent deliberation.
+
+QUESTION
+--------
+Did the advisor's trading activity violate FINRA Rule 2111(b) quantitative suitability standards for this elderly, conservative account?
+
+ANSWER
+------
+Yes, clear violation of FINRA Rule 2111(b) suitability obligation. The 8.2× annualized turnover ratio far exceeds the 6× threshold that creates strong inference of unsuitable churning. Cost-to-equity ratio of 7.1% is well above the presumptively unsuitable 20% benchmark but combined with turnover creates pattern of excessive trading for commissions. Client's −2.3% return versus market +11.8% demonstrates quantifiable harm. Absence of written discretionary authority but presence of de facto control (weekly "must-act" calls client invariably followed) establishes control prong. Account profile (age 72, capital preservation goal) incompatible with 4-day average holding periods. Pattern consistent with FINRA enforcement actions against commission-driven churning in retiree accounts.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative prong; control and purpose test for churning inference
+
+KEY FACTOR
+----------
+8.2× annual turnover ratio combined with 7.1% cost-to-equity in elderly conservative account with negative returns creates strong churning inference under FINRA quantitative suitability test.

@@ -1,0 +1,25 @@
+ID: 335
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David, age 68, widow with $620,000 liquid portfolio, modest Social Security income ($28,000/year), and stated objective: 'stable monthly income, minimal risk.' He signed a standard brokerage account agreement with discretionary authorization clause (limited to 'recommendations'). His advisor at a regional wirehouse recommended a 'dividend-focused' strategy. Over 18 months (Jan 2022–June 2023), the advisor executed 224 trades, 78 of which involved the same 8 dividend stocks (e.g., buying 500 XYZ Corp shares on Jan 15, selling 500 on Feb 2, repurchasing 600 on Feb 20). The turnover ratio was 9.6×. Cost-to-equity ratio: 22.1% (including bid-ask spreads estimated at $3,100/year). Commissions alone totaled $8,900. Net portfolio return was 2.1% annually (gross return ~4.2%). The advisor never provided written suitability analysis. David expressed concern in month 11, stating 'I thought this was supposed to be a simple income portfolio.' The advisor responded orally that 'this is normal dividend investing.' David's account showed realized losses of $12,400 over the period; unrealized loss at June 2023: $18,700.
+
+QUESTION
+--------
+Did the advisor's trading pattern comply with FINRA Rule 2111(b) suitability, and was the cost-to-equity ratio defensible for a 68-year-old income investor?
+
+ANSWER
+------
+No. Multiple quantitative violations under FINRA Rule 2111(b): (1) Turnover ratio of 9.6× substantially exceeds the 6× presumption threshold, triggering a presumption of unsuitable excessive trading; (2) Cost-to-equity ratio of 22.1% exceeds the 20% danger zone, meaning the account must generate 22.1% annual returns to break even—incompatible with David's 'stable income, minimal risk' objective and actual 2.1% net return; (3) In-and-out pattern in same dividend stocks (buy-sell-buy cycles in XYZ, etc.) within 3–6 weeks shows scalping behavior, not passive dividend investing—no economic rationale for this churn given dividend strategy; (4) Realized losses of $12,400 + unrealized losses of $18,700 despite 'income' strategy indicate improper trading; (5) No written suitability analysis despite high complexity; (6) Client's mid-term complaint ('I thought this was supposed to be simple') was dismissed without documentation or strategy review. The advisor generated $8,900 in commissions while client bore all trading costs and net losses. This pattern parallels FINRA enforcement for suitability violations against elderly clients: high turnover + cost-to-equity exceeding 20% + loss performance + undocumented basis = churning.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(1), (b) (suitability obligation); FINRA Regulatory Notice 12-11 (quantitative benchmarks; 6× turnover and 20% cost-to-equity as presumptions)
+
+KEY FACTOR
+----------
+Turnover of 9.6× + cost-to-equity of 22.1% + net loss performance (2.1%) + in-and-out cycling of same securities + elderly income-focused client + no written suitability = clear quantitative unsuitability.

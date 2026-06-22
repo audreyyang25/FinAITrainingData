@@ -1,0 +1,610 @@
+[09:49:40] 
+============================================================
+[09:49:40] Phase 10 — Opus Hypotheticals Generator
+[09:49:40] Model: claude-opus-4-6
+[09:49:40] Target: 500 new hypotheticals from 23 folders
+[09:49:40] ============================================================
+
+[09:49:40] Loaded 655 existing hypotheticals
+[09:49:40] Targeting ~22 hypotheticals per folder across 23 folders
+
+[09:49:40] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings']
+[09:49:40] Partial folders (will top up): {'06_DOL_Fiduciary': 20, '07_Practitioner_Commentary': 20, '08_State_Fiduciary_Rules': 20}
+
+[09:49:40] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[09:49:40] SKIP (already done): 02_SEC_Enforcement_Actions
+[09:49:40] SKIP (already done): 03_FINRA_AWC
+[09:49:40] SKIP (already done): 04_RegBI_Compliance_Guidance
+[09:49:40] SKIP (already done): 05_SEC_Exam_Findings
+[09:49:40] 📁 06_DOL_Fiduciary (need 2 more, have 20)
+[09:49:40]   Sampled 6 PDFs with text
+[09:50:10]   Batch 1: +2 | Folder total: 2 | Grand total: 657 | Est. cost so far: $0.14
+[09:50:11]   ✅ 2 added from 06_DOL_Fiduciary
+
+[09:50:11] 📁 07_Practitioner_Commentary (need 2 more, have 20)
+[09:50:11]   Sampled 6 PDFs with text
+[09:50:39]   Batch 1: +2 | Folder total: 2 | Grand total: 659 | Est. cost so far: $0.28
+[09:50:40]   ✅ 2 added from 07_Practitioner_Commentary
+
+[09:50:40] 📁 08_State_Fiduciary_Rules (need 2 more, have 20)
+[09:50:40]   Sampled 6 PDFs with text
+[09:51:04]   Batch 1: +2 | Folder total: 2 | Grand total: 661 | Est. cost so far: $0.40
+[09:51:05]   ✅ 2 added from 08_State_Fiduciary_Rules
+
+[09:51:05] 📁 09_Law_Firm_Memos (need 22 more, have 0)
+[09:51:05]   Sampled 6 PDFs with text
+[09:52:01]   Batch 1: +5 | Folder total: 5 | Grand total: 666 | Est. cost so far: $0.63
+[09:52:58]   Batch 2: +5 | Folder total: 10 | Grand total: 671 | Est. cost so far: $0.86
+[09:53:58]   Batch 3: +5 | Folder total: 15 | Grand total: 676 | Est. cost so far: $1.10
+[09:55:02]   Batch 4: +5 | Folder total: 20 | Grand total: 681 | Est. cost so far: $1.36
+[09:55:03]   ✅ 20 added from 09_Law_Firm_Memos
+
+[09:55:03] 📁 10_Academic_Articles (need 22 more, have 0)
+[09:55:03]   Sampled 6 PDFs with text
+[09:56:02]   Batch 1: +5 | Folder total: 5 | Grand total: 686 | Est. cost so far: $1.61
+[09:57:11]   Batch 2: +5 | Folder total: 10 | Grand total: 691 | Est. cost so far: $1.88
+[09:58:15]   Batch 3: +5 | Folder total: 15 | Grand total: 696 | Est. cost so far: $2.14
+[09:59:13]   Batch 4: +5 | Folder total: 20 | Grand total: 701 | Est. cost so far: $2.38
+[09:59:13]   ✅ 20 added from 10_Academic_Articles
+
+[09:59:13] 📁 11_Case_Law (need 22 more, have 0)
+[09:59:13]   Sampled 6 PDFs with text
+[10:01:05]   curl error (code 28): 
+[10:01:10]   Batch 1: no items returned
+[10:07:14]   curl error (code 28): 
+[10:07:19]   Batch 2: no items returned
+[10:23:01]   curl error (code 28): 
+[10:52:15] 
+============================================================
+[10:52:15] Phase 10 — Opus Hypotheticals Generator
+[10:52:15] Model: claude-opus-4-6
+[10:52:15] Target: 500 new hypotheticals from 23 folders
+[10:52:15] ============================================================
+
+[10:52:15] Loaded 701 existing hypotheticals
+[10:52:15] Targeting ~22 hypotheticals per folder across 23 folders
+
+[10:52:15] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules']
+[10:52:15] Partial folders (will top up): {'09_Law_Firm_Memos': 20, '10_Academic_Articles': 20}
+
+[10:52:15] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[10:52:15] SKIP (already done): 02_SEC_Enforcement_Actions
+[10:52:15] SKIP (already done): 03_FINRA_AWC
+[10:52:15] SKIP (already done): 04_RegBI_Compliance_Guidance
+[10:52:15] SKIP (already done): 05_SEC_Exam_Findings
+[10:52:15] SKIP (already done): 06_DOL_Fiduciary
+[10:52:15] SKIP (already done): 07_Practitioner_Commentary
+[10:52:15] SKIP (already done): 08_State_Fiduciary_Rules
+[10:52:15] 📁 09_Law_Firm_Memos (need 2 more, have 20)
+[10:52:15]   Sampled 6 PDFs with text
+[10:52:41]   Batch 1: +2 | Folder total: 2 | Grand total: 703 | Est. cost so far: $0.13
+[10:52:41]   ✅ 2 added from 09_Law_Firm_Memos
+
+[10:52:41] 📁 10_Academic_Articles (need 2 more, have 20)
+[10:52:41]   Sampled 5 PDFs with text
+[10:53:16]   Batch 1: +2 | Folder total: 2 | Grand total: 705 | Est. cost so far: $0.27
+[10:53:17]   ✅ 2 added from 10_Academic_Articles
+
+[10:53:17] 📁 11_Case_Law (need 22 more, have 0)
+[10:53:17]   Sampled 6 PDFs with text
+[10:54:20]   Batch 1: +5 | Folder total: 5 | Grand total: 710 | Est. cost so far: $0.54
+[10:55:19]   Batch 2: +5 | Folder total: 10 | Grand total: 715 | Est. cost so far: $0.81
+[10:56:25]   Batch 3: +5 | Folder total: 15 | Grand total: 720 | Est. cost so far: $1.10
+[10:57:30]   Batch 4: +5 | Folder total: 20 | Grand total: 725 | Est. cost so far: $1.37
+[10:57:30]   ✅ 20 added from 11_Case_Law
+
+[10:57:30] 📁 12_FINRA_Arbitration_Awards (need 22 more, have 0)
+[10:57:31]   Sampled 5 PDFs with text
+[10:58:32]   Batch 1: +5 | Folder total: 5 | Grand total: 730 | Est. cost so far: $1.64
+[10:59:33]   Batch 2: +5 | Folder total: 10 | Grand total: 735 | Est. cost so far: $1.89
+[11:00:34]   Batch 3: +5 | Folder total: 15 | Grand total: 740 | Est. cost so far: $2.15
+[11:01:30]   Batch 4: +5 | Folder total: 20 | Grand total: 745 | Est. cost so far: $2.38
+[11:01:31]   ✅ 20 added from 12_FINRA_Arbitration_Awards
+
+[11:01:31] 📁 13_FINRA_Rulebook (need 22 more, have 0)
+[11:01:31]   Sampled 5 PDFs with text
+[11:02:32]   Batch 1: +5 | Folder total: 5 | Grand total: 750 | Est. cost so far: $2.64
+[11:03:46]   Batch 2: +5 | Folder total: 10 | Grand total: 755 | Est. cost so far: $2.89
+[11:04:44]   Batch 3: +5 | Folder total: 15 | Grand total: 760 | Est. cost so far: $3.13
+[11:05:40]   Batch 4: +5 | Folder total: 20 | Grand total: 765 | Est. cost so far: $3.37
+[11:05:41]   ✅ 20 added from 13_FINRA_Rulebook
+
+[11:05:41] 📁 14_NASAA_State_Enforcement (need 22 more, have 0)
+[11:05:41]   Sampled 6 PDFs with text
+[11:06:41]   Batch 1: +5 | Folder total: 5 | Grand total: 770 | Est. cost so far: $3.62
+[11:07:38]   Batch 2: +5 | Folder total: 10 | Grand total: 775 | Est. cost so far: $3.86
+[11:08:36]   Batch 3: +5 | Folder total: 15 | Grand total: 780 | Est. cost so far: $4.10
+[11:09:33]   Batch 4: +5 | Folder total: 20 | Grand total: 785 | Est. cost so far: $4.35
+[11:09:34]   ✅ 20 added from 14_NASAA_State_Enforcement
+
+[11:09:34] 📁 15_FINRA_Regulatory_Notices (need 22 more, have 0)
+[11:09:34]   Sampled 6 PDFs with text
+[11:10:26]   Batch 1: +5 | Folder total: 5 | Grand total: 790 | Est. cost so far: $4.57
+[11:11:30]   Batch 2: +5 | Folder total: 10 | Grand total: 795 | Est. cost so far: $4.83
+[11:12:27]   Batch 3: +5 | Folder total: 15 | Grand total: 800 | Est. cost so far: $5.08
+[11:13:32]   Batch 4: +5 | Folder total: 20 | Grand total: 805 | Est. cost so far: $5.33
+[11:13:33]   ✅ 20 added from 15_FINRA_Regulatory_Notices
+
+[11:13:33] 📁 16_Congressional_Materials (need 22 more, have 0)
+[11:13:33]   Sampled 6 PDFs with text
+[11:32:00] 
+============================================================
+[11:32:00] Phase 10 — Opus Hypotheticals Generator
+[11:32:00] Model: claude-opus-4-6
+[11:32:00] Target: 500 new hypotheticals from 23 folders
+[11:32:00] ============================================================
+
+[11:32:00] Loaded 805 existing hypotheticals
+[11:32:00] Targeting ~22 hypotheticals per folder across 23 folders
+
+[11:32:00] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles']
+[11:32:00] Partial folders (will top up): {'11_Case_Law': 20, '12_FINRA_Arbitration_Awards': 20, '13_FINRA_Rulebook': 20, '14_NASAA_State_Enforcement': 20, '15_FINRA_Regulatory_Notices': 20}
+
+[11:32:00] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[11:32:00] SKIP (already done): 02_SEC_Enforcement_Actions
+[11:32:00] SKIP (already done): 03_FINRA_AWC
+[11:32:00] SKIP (already done): 04_RegBI_Compliance_Guidance
+[11:32:00] SKIP (already done): 05_SEC_Exam_Findings
+[11:32:00] SKIP (already done): 06_DOL_Fiduciary
+[11:32:00] SKIP (already done): 07_Practitioner_Commentary
+[11:32:00] SKIP (already done): 08_State_Fiduciary_Rules
+[11:32:00] SKIP (already done): 09_Law_Firm_Memos
+[11:32:00] SKIP (already done): 10_Academic_Articles
+[11:32:00] 📁 11_Case_Law (need 2 more, have 20)
+[11:32:00]   Sampled 6 PDFs with text
+[11:32:28]   Batch 1: +2 | Folder total: 2 | Grand total: 807 | Est. cost so far: $0.14
+[11:32:29]   ✅ 2 added from 11_Case_Law
+
+[11:32:29] 📁 12_FINRA_Arbitration_Awards (need 2 more, have 20)
+[11:32:29]   Sampled 6 PDFs with text
+[11:47:32]   curl error (code 28): 
+[11:47:37]   Batch 1: no items returned
+[11:47:40]   ✅ 0 added from 12_FINRA_Arbitration_Awards
+
+[11:47:40] 📁 13_FINRA_Rulebook (need 2 more, have 20)
+[11:47:40]   Sampled 5 PDFs with text
+[11:48:09]   Batch 1: +2 | Folder total: 2 | Grand total: 809 | Est. cost so far: $0.27
+[11:48:10]   ✅ 2 added from 13_FINRA_Rulebook
+
+[11:48:10] 📁 14_NASAA_State_Enforcement (need 2 more, have 20)
+[11:48:10]   Sampled 6 PDFs with text
+[11:57:35]   curl error (code 28): 
+[11:57:40]   Batch 1: no items returned
+[11:57:42]   ✅ 0 added from 14_NASAA_State_Enforcement
+
+[11:57:42] 📁 15_FINRA_Regulatory_Notices (need 2 more, have 20)
+[11:57:42]   Sampled 3 PDFs with text
+[11:58:17]   Batch 1: +2 | Folder total: 2 | Grand total: 811 | Est. cost so far: $0.40
+[11:58:17]   ✅ 2 added from 15_FINRA_Regulatory_Notices
+
+[11:58:17] 📁 16_Congressional_Materials (need 22 more, have 0)
+[11:58:17]   Sampled 6 PDFs with text
+[12:13:53] 
+============================================================
+[12:13:54] Phase 10 — Opus Hypotheticals Generator
+[12:13:54] Model: claude-opus-4-6
+[12:13:54] Target: 500 new hypotheticals from 23 folders
+[12:13:54] ============================================================
+
+[12:13:54] Loaded 811 existing hypotheticals
+[12:13:54] Targeting ~22 hypotheticals per folder across 23 folders
+
+[12:13:54] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '13_FINRA_Rulebook', '15_FINRA_Regulatory_Notices']
+[12:13:54] Partial folders (will top up): {'12_FINRA_Arbitration_Awards': 20, '14_NASAA_State_Enforcement': 20}
+
+[12:13:54] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[12:13:54] SKIP (already done): 02_SEC_Enforcement_Actions
+[12:13:54] SKIP (already done): 03_FINRA_AWC
+[12:13:54] SKIP (already done): 04_RegBI_Compliance_Guidance
+[12:13:54] SKIP (already done): 05_SEC_Exam_Findings
+[12:13:54] SKIP (already done): 06_DOL_Fiduciary
+[12:13:54] SKIP (already done): 07_Practitioner_Commentary
+[12:13:54] SKIP (already done): 08_State_Fiduciary_Rules
+[12:13:54] SKIP (already done): 09_Law_Firm_Memos
+[12:13:54] SKIP (already done): 10_Academic_Articles
+[12:13:54] SKIP (already done): 11_Case_Law
+[12:13:54] 📁 12_FINRA_Arbitration_Awards (need 2 more, have 20)
+[12:13:54]   Sampled 6 PDFs with text
+[12:14:23]   Batch 1: +2 | Folder total: 2 | Grand total: 813 | Est. cost so far: $0.14
+[12:14:24]   ✅ 2 added from 12_FINRA_Arbitration_Awards
+
+[12:14:24] SKIP (already done): 13_FINRA_Rulebook
+[12:14:24] 📁 14_NASAA_State_Enforcement (need 2 more, have 20)
+[12:14:24]   Sampled 6 PDFs with text
+[12:30:22]   curl error (code 28): 
+[12:30:27]   Batch 1: no items returned
+[12:30:29]   ✅ 0 added from 14_NASAA_State_Enforcement
+
+[12:30:29] SKIP (already done): 15_FINRA_Regulatory_Notices
+[12:30:29] 📁 16_Congressional_Materials (need 22 more, have 0)
+[12:30:29]   Sampled 6 PDFs with text
+[12:40:44]   curl error (code 28): 
+[12:40:49]   Batch 1: no items returned
+[12:42:09] 
+============================================================
+[12:42:09] Phase 10 — Opus Hypotheticals Generator
+[12:42:09] Model: claude-sonnet-4-6
+[12:42:09] Target: 500 new hypotheticals from 23 folders
+[12:42:09] ============================================================
+
+[12:42:09] Loaded 813 existing hypotheticals
+[12:42:09] Targeting ~22 hypotheticals per folder across 23 folders
+
+[12:42:09] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '15_FINRA_Regulatory_Notices']
+[12:42:09] Partial folders (will top up): {'14_NASAA_State_Enforcement': 20}
+
+[12:42:09] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[12:42:09] SKIP (already done): 02_SEC_Enforcement_Actions
+[12:42:09] SKIP (already done): 03_FINRA_AWC
+[12:42:09] SKIP (already done): 04_RegBI_Compliance_Guidance
+[12:42:09] SKIP (already done): 05_SEC_Exam_Findings
+[12:42:09] SKIP (already done): 06_DOL_Fiduciary
+[12:42:09] SKIP (already done): 07_Practitioner_Commentary
+[12:42:09] SKIP (already done): 08_State_Fiduciary_Rules
+[12:42:09] SKIP (already done): 09_Law_Firm_Memos
+[12:42:09] SKIP (already done): 10_Academic_Articles
+[12:42:09] SKIP (already done): 11_Case_Law
+[12:42:09] SKIP (already done): 12_FINRA_Arbitration_Awards
+[12:42:09] SKIP (already done): 13_FINRA_Rulebook
+[12:42:09] 📁 14_NASAA_State_Enforcement (need 2 more, have 20)
+[12:42:09]   Sampled 6 PDFs with text
+[12:42:40]   Batch 1: +2 | Folder total: 2 | Grand total: 815 | Est. cost so far: $0.03
+[12:42:40]   ✅ 2 added from 14_NASAA_State_Enforcement
+
+[12:42:40] SKIP (already done): 15_FINRA_Regulatory_Notices
+[12:42:40] 📁 16_Congressional_Materials (need 22 more, have 0)
+[12:42:40]   Sampled 6 PDFs with text
+[12:43:44]   Batch 1: +5 | Folder total: 5 | Grand total: 820 | Est. cost so far: $0.08
+[12:44:53]   Batch 2: +5 | Folder total: 10 | Grand total: 825 | Est. cost so far: $0.13
+[12:46:04]   Batch 3: +5 | Folder total: 15 | Grand total: 830 | Est. cost so far: $0.19
+[12:47:07]   Batch 4: +5 | Folder total: 20 | Grand total: 835 | Est. cost so far: $0.24
+[12:47:08]   ✅ 20 added from 16_Congressional_Materials
+
+[12:47:08] 📁 17_SEC_Staff_Bulletins (need 22 more, have 0)
+[12:47:08]   Sampled 6 PDFs with text
+[12:48:07]   Batch 1: +5 | Folder total: 5 | Grand total: 840 | Est. cost so far: $0.29
+[12:49:07]   Batch 2: +5 | Folder total: 10 | Grand total: 845 | Est. cost so far: $0.34
+[12:50:12]   Batch 3: +5 | Folder total: 15 | Grand total: 850 | Est. cost so far: $0.39
+[12:51:09]   Batch 4: +5 | Folder total: 20 | Grand total: 855 | Est. cost so far: $0.44
+[12:51:10]   ✅ 20 added from 17_SEC_Staff_Bulletins
+
+[12:51:10] 📁 18_OCC_Bank_Trust_Guidance (need 22 more, have 0)
+[12:51:10]   Sampled 6 PDFs with text
+[13:06:59]   curl error (code 28): 
+[13:07:04]   Batch 1: no items returned
+[13:23:39] 
+============================================================
+[13:23:39] Phase 10 — Opus Hypotheticals Generator
+[13:23:39] Model: claude-sonnet-4-6
+[13:23:39] Target: 500 new hypotheticals from 23 folders
+[13:23:39] ============================================================
+
+[13:23:39] Loaded 855 existing hypotheticals
+[13:23:39] Targeting ~22 hypotheticals per folder across 23 folders
+
+[13:23:39] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices']
+[13:23:39] Partial folders (will top up): {'16_Congressional_Materials': 20, '17_SEC_Staff_Bulletins': 20}
+
+[13:23:39] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[13:23:39] SKIP (already done): 02_SEC_Enforcement_Actions
+[13:23:39] SKIP (already done): 03_FINRA_AWC
+[13:23:39] SKIP (already done): 04_RegBI_Compliance_Guidance
+[13:23:39] SKIP (already done): 05_SEC_Exam_Findings
+[13:23:39] SKIP (already done): 06_DOL_Fiduciary
+[13:23:39] SKIP (already done): 07_Practitioner_Commentary
+[13:23:39] SKIP (already done): 08_State_Fiduciary_Rules
+[13:23:39] SKIP (already done): 09_Law_Firm_Memos
+[13:23:39] SKIP (already done): 10_Academic_Articles
+[13:23:39] SKIP (already done): 11_Case_Law
+[13:23:39] SKIP (already done): 12_FINRA_Arbitration_Awards
+[13:23:39] SKIP (already done): 13_FINRA_Rulebook
+[13:23:39] SKIP (already done): 14_NASAA_State_Enforcement
+[13:23:39] SKIP (already done): 15_FINRA_Regulatory_Notices
+[13:23:39] 📁 16_Congressional_Materials (need 2 more, have 20)
+[13:23:39]   Sampled 6 PDFs with text
+[13:39:48]   curl error (code 28): 
+[13:39:53]   Batch 1: no items returned
+[13:39:55]   ✅ 0 added from 16_Congressional_Materials
+
+[13:39:55] 📁 17_SEC_Staff_Bulletins (need 2 more, have 20)
+[13:39:55]   Sampled 6 PDFs with text
+[13:40:26]   Batch 1: +2 | Folder total: 2 | Grand total: 857 | Est. cost so far: $0.03
+[13:40:27]   ✅ 2 added from 17_SEC_Staff_Bulletins
+
+[13:40:27] 📁 18_OCC_Bank_Trust_Guidance (need 22 more, have 0)
+[13:40:27]   Sampled 6 PDFs with text
+[13:56:03] 
+============================================================
+[13:56:03] Phase 10 — Opus Hypotheticals Generator
+[13:56:03] Model: claude-sonnet-4-6
+[13:56:03] Target: 500 new hypotheticals from 23 folders
+[13:56:03] ============================================================
+
+[13:56:03] Loaded 857 existing hypotheticals
+[13:56:03] Targeting ~22 hypotheticals per folder across 23 folders
+
+[13:56:03] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '17_SEC_Staff_Bulletins']
+[13:56:03] Partial folders (will top up): {'16_Congressional_Materials': 20}
+
+[13:56:03] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[13:56:03] SKIP (already done): 02_SEC_Enforcement_Actions
+[13:56:03] SKIP (already done): 03_FINRA_AWC
+[13:56:03] SKIP (already done): 04_RegBI_Compliance_Guidance
+[13:56:03] SKIP (already done): 05_SEC_Exam_Findings
+[13:56:03] SKIP (already done): 06_DOL_Fiduciary
+[13:56:03] SKIP (already done): 07_Practitioner_Commentary
+[13:56:03] SKIP (already done): 08_State_Fiduciary_Rules
+[13:56:03] SKIP (already done): 09_Law_Firm_Memos
+[13:56:03] SKIP (already done): 10_Academic_Articles
+[13:56:03] SKIP (already done): 11_Case_Law
+[13:56:03] SKIP (already done): 12_FINRA_Arbitration_Awards
+[13:56:03] SKIP (already done): 13_FINRA_Rulebook
+[13:56:03] SKIP (already done): 14_NASAA_State_Enforcement
+[13:56:03] SKIP (already done): 15_FINRA_Regulatory_Notices
+[13:56:03] 📁 16_Congressional_Materials (need 2 more, have 20)
+[13:56:03]   Sampled 6 PDFs with text
+[13:56:37]   Batch 1: +2 | Folder total: 2 | Grand total: 859 | Est. cost so far: $0.03
+[14:03:34]   ✅ 2 added from 16_Congressional_Materials
+
+[14:03:34] SKIP (already done): 17_SEC_Staff_Bulletins
+[14:03:34] 📁 18_OCC_Bank_Trust_Guidance (need 22 more, have 0)
+[14:03:34]   Sampled 6 PDFs with text
+[14:04:38]   Batch 1: +5 | Folder total: 5 | Grand total: 864 | Est. cost so far: $0.08
+[14:05:46]   Batch 2: +5 | Folder total: 10 | Grand total: 869 | Est. cost so far: $0.14
+[14:06:55]   Batch 3: +5 | Folder total: 15 | Grand total: 874 | Est. cost so far: $0.19
+[14:08:00]   Batch 4: +5 | Folder total: 20 | Grand total: 879 | Est. cost so far: $0.24
+[14:08:01]   ✅ 20 added from 18_OCC_Bank_Trust_Guidance
+
+[14:08:01] 📁 19_CFTC_Guidance (need 22 more, have 0)
+[14:08:01]   Sampled 6 PDFs with text
+[14:08:57]   Batch 1: +5 | Folder total: 5 | Grand total: 884 | Est. cost so far: $0.30
+[14:10:01]   Batch 2: +5 | Folder total: 10 | Grand total: 889 | Est. cost so far: $0.35
+[14:11:03]   Batch 3: +5 | Folder total: 15 | Grand total: 894 | Est. cost so far: $0.40
+[14:12:01]   Batch 4: +5 | Folder total: 20 | Grand total: 899 | Est. cost so far: $0.45
+[14:12:02]   ✅ 20 added from 19_CFTC_Guidance
+
+[14:12:02] 📁 20_SEC_ALJ_OALJ_Decisions (need 22 more, have 0)
+[14:12:02]   Sampled 6 PDFs with text
+[14:13:06]   Batch 1: +5 | Folder total: 5 | Grand total: 904 | Est. cost so far: $0.51
+[14:14:13]   Batch 2: +5 | Folder total: 10 | Grand total: 909 | Est. cost so far: $0.56
+[14:30:21] 
+============================================================
+[14:30:21] Phase 10 — Opus Hypotheticals Generator
+[14:30:21] Model: claude-sonnet-4-6
+[14:30:21] Target: 500 new hypotheticals from 23 folders
+[14:30:21] ============================================================
+
+[14:30:21] Loaded 909 existing hypotheticals
+[14:30:21] Targeting ~22 hypotheticals per folder across 23 folders
+
+[14:30:21] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '16_Congressional_Materials', '17_SEC_Staff_Bulletins']
+[14:30:21] Partial folders (will top up): {'18_OCC_Bank_Trust_Guidance': 20, '19_CFTC_Guidance': 20, '20_SEC_ALJ_OALJ_Decisions': 10}
+
+[14:30:21] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[14:30:21] SKIP (already done): 02_SEC_Enforcement_Actions
+[14:30:21] SKIP (already done): 03_FINRA_AWC
+[14:30:21] SKIP (already done): 04_RegBI_Compliance_Guidance
+[14:30:21] SKIP (already done): 05_SEC_Exam_Findings
+[14:30:21] SKIP (already done): 06_DOL_Fiduciary
+[14:30:21] SKIP (already done): 07_Practitioner_Commentary
+[14:30:21] SKIP (already done): 08_State_Fiduciary_Rules
+[14:30:21] SKIP (already done): 09_Law_Firm_Memos
+[14:30:21] SKIP (already done): 10_Academic_Articles
+[14:30:21] SKIP (already done): 11_Case_Law
+[14:30:21] SKIP (already done): 12_FINRA_Arbitration_Awards
+[14:30:21] SKIP (already done): 13_FINRA_Rulebook
+[14:30:21] SKIP (already done): 14_NASAA_State_Enforcement
+[14:30:21] SKIP (already done): 15_FINRA_Regulatory_Notices
+[14:30:21] SKIP (already done): 16_Congressional_Materials
+[14:30:21] SKIP (already done): 17_SEC_Staff_Bulletins
+[14:30:21] 📁 18_OCC_Bank_Trust_Guidance (need 2 more, have 20)
+[14:30:21]   Sampled 6 PDFs with text
+[14:30:46]   Batch 1: +2 | Folder total: 2 | Grand total: 911 | Est. cost so far: $0.02
+[14:30:46]   ✅ 2 added from 18_OCC_Bank_Trust_Guidance
+
+[14:30:46] 📁 19_CFTC_Guidance (need 2 more, have 20)
+[14:30:46]   Sampled 6 PDFs with text
+[14:46:32]   curl error (code 28): 
+[14:46:37]   Batch 1: no items returned
+[14:46:40]   ✅ 0 added from 19_CFTC_Guidance
+
+[14:46:40] 📁 20_SEC_ALJ_OALJ_Decisions (need 12 more, have 10)
+[14:46:40]   Sampled 6 PDFs with text
+[15:03:35] 
+============================================================
+[15:03:35] Phase 10 — Opus Hypotheticals Generator
+[15:03:35] Model: claude-sonnet-4-6
+[15:03:35] Target: 500 new hypotheticals from 23 folders
+[15:03:35] ============================================================
+
+[15:03:35] Loaded 911 existing hypotheticals
+[15:03:35] Targeting ~22 hypotheticals per folder across 23 folders
+
+[15:03:35] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '16_Congressional_Materials', '17_SEC_Staff_Bulletins', '18_OCC_Bank_Trust_Guidance']
+[15:03:35] Partial folders (will top up): {'19_CFTC_Guidance': 20, '20_SEC_ALJ_OALJ_Decisions': 10}
+
+[15:03:35] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[15:03:35] SKIP (already done): 02_SEC_Enforcement_Actions
+[15:03:35] SKIP (already done): 03_FINRA_AWC
+[15:03:35] SKIP (already done): 04_RegBI_Compliance_Guidance
+[15:03:35] SKIP (already done): 05_SEC_Exam_Findings
+[15:03:35] SKIP (already done): 06_DOL_Fiduciary
+[15:03:35] SKIP (already done): 07_Practitioner_Commentary
+[15:03:35] SKIP (already done): 08_State_Fiduciary_Rules
+[15:03:35] SKIP (already done): 09_Law_Firm_Memos
+[15:03:35] SKIP (already done): 10_Academic_Articles
+[15:03:35] SKIP (already done): 11_Case_Law
+[15:03:35] SKIP (already done): 12_FINRA_Arbitration_Awards
+[15:03:35] SKIP (already done): 13_FINRA_Rulebook
+[15:03:35] SKIP (already done): 14_NASAA_State_Enforcement
+[15:03:35] SKIP (already done): 15_FINRA_Regulatory_Notices
+[15:03:35] SKIP (already done): 16_Congressional_Materials
+[15:03:35] SKIP (already done): 17_SEC_Staff_Bulletins
+[15:03:35] SKIP (already done): 18_OCC_Bank_Trust_Guidance
+[15:03:35] 📁 19_CFTC_Guidance (need 2 more, have 20)
+[15:03:35]   Sampled 6 PDFs with text
+[15:04:06]   Batch 1: +2 | Folder total: 2 | Grand total: 913 | Est. cost so far: $0.03
+[15:04:06]   ✅ 2 added from 19_CFTC_Guidance
+
+[15:04:06] 📁 20_SEC_ALJ_OALJ_Decisions (need 12 more, have 10)
+[15:04:06]   Sampled 6 PDFs with text
+[15:20:12]   curl error (code 28): 
+[15:20:17]   Batch 1: no items returned
+[15:38:36] 
+============================================================
+[15:38:36] Phase 10 — Opus Hypotheticals Generator
+[15:38:36] Model: claude-sonnet-4-6
+[15:38:36] Target: 500 new hypotheticals from 23 folders
+[15:38:36] ============================================================
+
+[15:38:36] Loaded 913 existing hypotheticals
+[15:38:36] Targeting ~22 hypotheticals per folder across 23 folders
+
+[15:38:36] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '16_Congressional_Materials', '17_SEC_Staff_Bulletins', '18_OCC_Bank_Trust_Guidance', '19_CFTC_Guidance']
+[15:38:36] Partial folders (will top up): {'20_SEC_ALJ_OALJ_Decisions': 10}
+
+[15:38:36] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[15:38:36] SKIP (already done): 02_SEC_Enforcement_Actions
+[15:38:36] SKIP (already done): 03_FINRA_AWC
+[15:38:36] SKIP (already done): 04_RegBI_Compliance_Guidance
+[15:38:36] SKIP (already done): 05_SEC_Exam_Findings
+[15:38:36] SKIP (already done): 06_DOL_Fiduciary
+[15:38:36] SKIP (already done): 07_Practitioner_Commentary
+[15:38:36] SKIP (already done): 08_State_Fiduciary_Rules
+[15:38:36] SKIP (already done): 09_Law_Firm_Memos
+[15:38:36] SKIP (already done): 10_Academic_Articles
+[15:38:36] SKIP (already done): 11_Case_Law
+[15:38:36] SKIP (already done): 12_FINRA_Arbitration_Awards
+[15:38:36] SKIP (already done): 13_FINRA_Rulebook
+[15:38:36] SKIP (already done): 14_NASAA_State_Enforcement
+[15:38:36] SKIP (already done): 15_FINRA_Regulatory_Notices
+[15:38:36] SKIP (already done): 16_Congressional_Materials
+[15:38:36] SKIP (already done): 17_SEC_Staff_Bulletins
+[15:38:36] SKIP (already done): 18_OCC_Bank_Trust_Guidance
+[15:38:36] SKIP (already done): 19_CFTC_Guidance
+[15:38:36] 📁 20_SEC_ALJ_OALJ_Decisions (need 12 more, have 10)
+[15:38:36]   Sampled 6 PDFs with text
+[15:55:07]   curl error (code 28): 
+[15:55:12]   Batch 1: no items returned
+[16:10:36] 
+============================================================
+[16:10:36] Phase 10 — Opus Hypotheticals Generator
+[16:10:36] Model: claude-sonnet-4-6
+[16:10:36] Target: 500 new hypotheticals from 23 folders
+[16:10:36] ============================================================
+
+[16:10:36] Loaded 913 existing hypotheticals
+[16:10:36] Targeting ~22 hypotheticals per folder across 23 folders
+
+[16:10:36] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '16_Congressional_Materials', '17_SEC_Staff_Bulletins', '18_OCC_Bank_Trust_Guidance', '19_CFTC_Guidance']
+[16:10:36] Partial folders (will top up): {'20_SEC_ALJ_OALJ_Decisions': 10}
+
+[16:10:36] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[16:10:36] SKIP (already done): 02_SEC_Enforcement_Actions
+[16:10:36] SKIP (already done): 03_FINRA_AWC
+[16:10:36] SKIP (already done): 04_RegBI_Compliance_Guidance
+[16:10:36] SKIP (already done): 05_SEC_Exam_Findings
+[16:10:36] SKIP (already done): 06_DOL_Fiduciary
+[16:10:36] SKIP (already done): 07_Practitioner_Commentary
+[16:10:36] SKIP (already done): 08_State_Fiduciary_Rules
+[16:10:36] SKIP (already done): 09_Law_Firm_Memos
+[16:10:36] SKIP (already done): 10_Academic_Articles
+[16:10:36] SKIP (already done): 11_Case_Law
+[16:10:36] SKIP (already done): 12_FINRA_Arbitration_Awards
+[16:10:36] SKIP (already done): 13_FINRA_Rulebook
+[16:10:36] SKIP (already done): 14_NASAA_State_Enforcement
+[16:10:36] SKIP (already done): 15_FINRA_Regulatory_Notices
+[16:10:36] SKIP (already done): 16_Congressional_Materials
+[16:10:36] SKIP (already done): 17_SEC_Staff_Bulletins
+[16:10:36] SKIP (already done): 18_OCC_Bank_Trust_Guidance
+[16:10:36] SKIP (already done): 19_CFTC_Guidance
+[16:10:36] 📁 20_SEC_ALJ_OALJ_Decisions (need 12 more, have 10)
+[16:10:36]   Sampled 6 PDFs with text
+[16:26:22]   curl error (code 28): 
+[16:26:27]   Batch 1: no items returned
+[16:27:04] 
+============================================================
+[16:27:04] Phase 10 — Opus Hypotheticals Generator
+[16:27:04] Model: claude-sonnet-4-6
+[16:27:04] Target: 500 new hypotheticals from 23 folders
+[16:27:04] ============================================================
+
+[16:27:04] Loaded 913 existing hypotheticals
+[16:27:04] Targeting ~22 hypotheticals per folder across 23 folders
+
+[16:27:04] Resuming — fully done: ['01_SEC_Guidance_NoAction_Interpretive', '02_SEC_Enforcement_Actions', '03_FINRA_AWC', '04_RegBI_Compliance_Guidance', '05_SEC_Exam_Findings', '06_DOL_Fiduciary', '07_Practitioner_Commentary', '08_State_Fiduciary_Rules', '09_Law_Firm_Memos', '10_Academic_Articles', '11_Case_Law', '12_FINRA_Arbitration_Awards', '13_FINRA_Rulebook', '14_NASAA_State_Enforcement', '15_FINRA_Regulatory_Notices', '16_Congressional_Materials', '17_SEC_Staff_Bulletins', '18_OCC_Bank_Trust_Guidance', '19_CFTC_Guidance']
+[16:27:04] Partial folders (will top up): {'20_SEC_ALJ_OALJ_Decisions': 10}
+
+[16:27:04] SKIP (already done): 01_SEC_Guidance_NoAction_Interpretive
+[16:27:04] SKIP (already done): 02_SEC_Enforcement_Actions
+[16:27:04] SKIP (already done): 03_FINRA_AWC
+[16:27:04] SKIP (already done): 04_RegBI_Compliance_Guidance
+[16:27:04] SKIP (already done): 05_SEC_Exam_Findings
+[16:27:04] SKIP (already done): 06_DOL_Fiduciary
+[16:27:04] SKIP (already done): 07_Practitioner_Commentary
+[16:27:04] SKIP (already done): 08_State_Fiduciary_Rules
+[16:27:04] SKIP (already done): 09_Law_Firm_Memos
+[16:27:04] SKIP (already done): 10_Academic_Articles
+[16:27:04] SKIP (already done): 11_Case_Law
+[16:27:04] SKIP (already done): 12_FINRA_Arbitration_Awards
+[16:27:04] SKIP (already done): 13_FINRA_Rulebook
+[16:27:04] SKIP (already done): 14_NASAA_State_Enforcement
+[16:27:04] SKIP (already done): 15_FINRA_Regulatory_Notices
+[16:27:04] SKIP (already done): 16_Congressional_Materials
+[16:27:04] SKIP (already done): 17_SEC_Staff_Bulletins
+[16:27:04] SKIP (already done): 18_OCC_Bank_Trust_Guidance
+[16:27:04] SKIP (already done): 19_CFTC_Guidance
+[16:27:04] 📁 20_SEC_ALJ_OALJ_Decisions (need 12 more, have 10)
+[16:27:04]   Sampled 3 PDFs with text
+[16:44:11]   curl error (code 28): 
+[16:44:16]   Batch 1: no items returned
+[17:46:18] 
+==================================================
+phase10_finish.py — folders 21, 22, 23
+Model: claude-sonnet-4-6
+==================================================
+[17:46:18] Loaded 913 existing hypotheticals
+[17:46:18] 
+📁 21_FINRA_OHO_Decisions (need 22, have 0)
+[17:46:18]   Sampled 3 PDFs
+[18:02:16]   curl error 28
+[18:02:22]   Batch 1: failed (1 consecutive)
+[18:12:18]   curl error 28
+[18:12:23]   Batch 2: failed (2 consecutive)
+[20:05:02] 
+==================================================
+phase10_finish.py — folders 21, 22, 23
+Model: claude-sonnet-4-6
+==================================================
+[20:05:02] Loaded 913 existing hypotheticals
+[20:05:02] 
+📁 21_FINRA_OHO_Decisions (need 22, have 0)
+[20:05:02]   Sampled 3 PDFs
+[20:14:18]   curl error 28
+[20:14:24]   Batch 1: failed (1 consecutive)
+[20:14:53] 
+==================================================
+phase10_finish.py — folders 21, 22, 23
+Model: claude-sonnet-4-6
+==================================================
+[20:14:53] Loaded 913 existing hypotheticals
+[20:14:53] 
+📁 21_FINRA_OHO_Decisions (need 22, have 0)
+[20:14:53]   Sampled 3 PDFs
+[20:31:39]   curl error 28
+[20:31:39]   curl error 28
+[20:31:44]   Batch 1: failed (1 consecutive)
+[20:31:44]   Batch 2: failed (2 consecutive)
+[20:36:06]   curl error 28
+[20:36:06]   curl error 28
+[20:36:11]   Batch 2: failed (2 consecutive)
+[20:54:14] 
+==================================================
+phase10_final4.py — metadata-only, folders 20-23
+==================================================
+[20:54:14] Loaded 913 existing
+[20:54:14] 
+📁 20_SEC_ALJ_OALJ_Decisions (have 10, need 10)
+[20:56:36]   fail 1: curl error 28
+[21:13:23]   fail 2: curl error 28
+[21:15:18]   fail 3: curl error 28

@@ -1,0 +1,27 @@
+ID: 507
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Paradigm Horizon Advisory, LLC, a registered investment adviser with approximately $480 million in AUM, maintained undisclosed inventory positions in certain fixed-income securities. When clients requested allocation to investment-grade corporate bonds, Paradigm's portfolio managers frequently sold bonds from the firm's proprietary inventory to client accounts at prices that included a markup of 1.5% to 2.8% above the prevailing market price, generating approximately $3.2 million in undisclosed revenue over a 30-month period. Paradigm's Form ADV Part 2A stated the firm 'does not engage in principal transactions,' and client advisory agreements contained no authorization for principal trading. The firm's CCO was aware of the inventory positions but did not flag the trading pattern for compliance review or amend the firm's disclosure documents.
+
+QUESTION
+--------
+Did Paradigm Horizon Advisory violate the Investment Advisers Act by selling securities from its own inventory to client accounts without disclosure, consent, or updated Form ADV filings?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes violations of Investment Advisers Act §206(1), §206(2), and §206(3) for undisclosed principal transactions and materially misleading disclosure documents.
+
+Section 206(3) of the Advisers Act expressly requires that an investment adviser, acting as principal for its own account, must disclose to the client in writing the capacity in which it is acting and obtain the client's consent before completion of each such transaction. Paradigm's affirmative misrepresentation in its Form ADV that it 'does not engage in principal transactions' compounded the violation, implicating §206(1) and §206(2) as well. The CCO's awareness without corrective action demonstrates a supervisory failure that allowed the fraud to persist, consistent with the pattern identified in the Paradigm Wealth Advisory enforcement action involving undisclosed inventory conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206(1), §206(2), and §206(3) – Prohibition on fraud, deceit, and undisclosed principal transactions; SEC enforcement precedent in In re Paradigm Wealth Advisory, LLC (IA Release No. 5852, 2021)
+
+KEY FACTOR
+----------
+The firm affirmatively represented in its Form ADV that it did not engage in principal transactions while systematically selling securities from its own inventory to clients at marked-up prices without disclosure or consent.

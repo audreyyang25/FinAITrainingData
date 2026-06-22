@@ -1,0 +1,27 @@
+ID: 758
+Source Folder: 13_FINRA_Rulebook
+Topic: supervision_rule
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Financial Group maintains a branch office in Tampa with 14 registered representatives. The firm's written supervisory procedures (WSPs) designate the Tampa branch manager, Robert Vance, as the principal responsible for reviewing all deferred variable annuity transactions under FINRA Rule 2330 and all suitability determinations under Rule 2111. Over a 14-month period, representatives in the Tampa branch process 127 deferred variable annuity exchanges, 38 of which involve clients over age 70 moving into products with new 6- to 8-year surrender periods. The firm's automated surveillance system generates exception reports for each of these transactions, but an internal audit reveals that Robert Vance approved all 127 transactions within minutes of submission, never requested supplemental documentation, never contacted any customer to verify suitability information, and kept no written record of his review rationale. The firm's compliance department was aware that Vance managed a high-volume branch but conducted no heightened supervision or follow-up review of his approval practices.
+
+QUESTION
+--------
+Did the firm satisfy its supervisory obligations under FINRA Rule 3110 with respect to the Tampa branch's variable annuity exchange activity?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 3110 – Supervision.
+
+FINRA Rule 3110(a) requires each member firm to establish and maintain a system to supervise the activities of its associated persons that is reasonably designed to achieve compliance with applicable rules. Rule 3110(b) requires written supervisory procedures and Rule 2330(c) specifically mandates that a registered principal review and make a determination that the customer has been informed of the material features of the deferred variable annuity and that the transaction is suitable before approving it. Rubber-stamping 127 transactions within minutes — including 38 exchanges for elderly clients into new lengthy surrender periods — with no documented rationale and no customer contact demonstrates that no meaningful supervisory review occurred. The firm's failure to identify and remediate this pattern despite having automated surveillance data constitutes a systemic supervision failure.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 – Supervision; FINRA Rule 2330(c) – Principal Review and Approval of Deferred Variable Annuity Transactions
+
+KEY FACTOR
+----------
+The designated supervisory principal rubber-stamped all variable annuity exchange approvals without meaningful review, and the firm failed to detect or remediate this systemic supervisory deficiency despite available surveillance data.

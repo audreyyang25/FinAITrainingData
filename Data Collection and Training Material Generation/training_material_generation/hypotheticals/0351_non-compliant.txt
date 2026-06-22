@@ -1,0 +1,25 @@
+ID: 351
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A branch manager at ProActiv Securities, V.H., age 54, was contacted by a client, N.P., who asked to invest $50,000 in a specialized cryptocurrency index fund ('Digital Assets Growth Fund') not offered by the firm through its standard approved product platform. The manager, aware that the firm had not conducted due diligence on the fund and it was not on the member firm's approved product list, nevertheless verbally approved the purchase and instructed a registered representative to execute the trade as a 'directed customer request.' The manager documented the call: 'Customer specifically requested this fund; authorized per customer direction.' The representative executed the trade without requiring written supervisory approval or exception documentation. Three months later, the fund's value declined 42%, and the customer filed a complaint alleging unsuitable recommendation. Review of the manager's prior 18 months of branch supervision showed 14 similar instances of directing trades in non-approved products, with no escalation to compliance or the firm's principal office. The manager's annual bonus was partially tied to branch trading volume.
+
+QUESTION
+--------
+Did the manager and firm violate FINRA Rule 3110 (Supervision) and Rule 2010 (Standards of Commercial Honor) by permitting repeated directed trades in non-approved products without documented controls?
+
+ANSWER
+------
+Non-compliant. Although FINRA permits customer-directed purchases, the manager's systemic failure to enforce firm supervisory controls and approved product procedures violates Rule 3110(a) and (b). Rule 3110(a) requires each member firm to establish, maintain, and enforce written procedures designed to supervise trading and business conduct; Rule 3110(b)(15) specifically mandates supervision of recommendations and sales of products not on the firm's approved list. The manager's verbal approval and minimal documentation, combined with 14 similar instances over 18 months, demonstrates a pattern circumventing supervisory review. The manager's bonus tied to trading volume creates an appearance and reality of financial incentive to evade controls. FINRA enforcement pattern (AWC 2020-063, branch manager supervision case) treats systemic non-reporting and lack of exception procedures as a critical control failure. The firm failed its obligation under Rule 3110(c) to enforce compliance and escalate concerns. Rule 2010's fair dealing standard requires that member firms supervise to prevent conflicts of interest and undisclosed material risks.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(a), (b)(15), (c) (Supervision — written procedures, enforcement, escalation); FINRA Rule 2010 (Standards of Commercial Honor)
+
+KEY FACTOR
+----------
+Repeated approval of non-approved products without documented supervisory exception procedures, combined with manager incentive tied to volume, violates Rule 3110 supervisory mandate and Rule 2010 fair dealing standard.

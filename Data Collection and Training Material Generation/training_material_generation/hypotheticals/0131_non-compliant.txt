@@ -1,0 +1,27 @@
+ID: 131
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old plan participant with $425,000 in a 401(k) earning 4.2% annually in low-cost index funds (0.05% ER) meets with a broker-dealer advisor who recommends rolling over to a self-directed IRA invested in actively managed mutual funds (1.15% ER) and variable annuity subaccounts (1.85% ER combined). The advisor emphasizes tax-free growth and flexibility but does not quantify the fee impact or document that the higher-cost products are in the participant's best interest. The participant has moderate risk tolerance and steady employment.
+
+QUESTION
+--------
+Does this rollover recommendation comply with DOL ERISA fiduciary duty and PTE 2020-02 requirements?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and PTE 2020-02 Best Interest Contract Exemption requirements.
+
+Under ERISA § 404(a)(1)(A), a fiduciary advisor must act solely in the interests of participants and with the care, skill, and diligence of a prudent expert. When recommending a rollover, the advisor must document that the IRA is objectively preferable to remaining in the 401(k) plan. Here, the advisor failed to conduct a formal comparison: the 401(k) offers low-cost index funds (0.05% ER) while the proposed IRA increases annual costs by approximately 1.80–1.95% on the same assets—a meaningful drag on a $425,000 account. PTE 2020-02 requires rollover advice to be prudent, supported by documented analysis, and free from self-dealing; the advisor has not demonstrated that higher fees serve the participant's best interest, and the recommendation appears motivated by increased compensation from the higher-fee products. The participant's moderate risk tolerance and stable employment do not justify the additional cost.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(A) (fiduciary duty of prudence and loyalty); 29 CFR § 2550.404a-3 (investment advice fiduciary standard); PTE 2020-02 § I.C.1 (rollover recommendations must be in participant's best interest, documented, and consider lower-cost alternatives in existing 401(k) plan).
+
+KEY FACTOR
+----------
+Failure to document a comparative analysis of fees and demonstrate that the higher-cost IRA is preferable to the lower-cost 401(k) alternative, combined with the absence of a Best Interest Contract Exemption disclosure.

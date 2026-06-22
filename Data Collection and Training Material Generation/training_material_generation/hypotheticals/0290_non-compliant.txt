@@ -1,0 +1,25 @@
+ID: 290
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Catalyst Investment Strategies, a $2.2 billion RIA managing primarily value equity and fixed-income portfolios, enters into a payment-for-order-flow (PFOF) arrangement with its affiliated broker-dealer, Catalyst Markets. The arrangement specifies: for equity orders, Catalyst Markets pays Catalyst Investment Strategies $0.0008 per share in rebates. In 2023, Catalyst Investment Strategies executed 127,000 equity trades totaling $650 million notional, generating $104,000 in PFOF rebates to the adviser. Unaffiliated market makers and brokers offer execution at prices averaging 2.1 basis points better than Catalyst Markets' prices, but the PFOF rebates (approximately 1.6 basis points on average order value) nearly offset the price gap. Catalyst's Compliance Officer argues the net client cost difference is minimal (0.5 bps), but the adviser has: (1) not disclosed PFOF arrangements to clients in writing, (2) not documented any analysis of whether Catalyst Markets' execution quality is competitive on metrics other than price (e.g., fill rates, speed), and (3) not obtained client consent for the affiliated routing and retained rebates. The adviser's Form ADV Part 2A mentions only that Catalyst Markets is "affiliated" without specifying PFOF or rebates.
+
+QUESTION
+--------
+Does Catalyst Investment Strategies' PFOF arrangement comply with fiduciary best execution duties and disclosure obligations?
+
+ANSWER
+------
+No. Catalyst violates Section 206(3) on multiple levels. First, PFOF creates a material conflict of interest requiring explicit written client disclosure and, in many cases, informed consent. Catalyst's Form ADV disclosure is insufficient—it mentions affiliation but does not specifically disclose PFOF amounts, the mechanism, or the impact on execution quality. Second, even if PFOF is disclosed, the adviser must demonstrate that the execution quality (across all metrics, not just price) justifies routing to the affiliated PFOF-paying broker. Catalyst has not documented comparative analysis of fill rates, speed, or execution predictability—only price. Third, the adviser is retaining a portion of PFOF rebates as compensation without explicit client agreement and without articulating how this arrangement aligns with client interests. SEC guidance treats PFOF skeptically when affiliated brokers pay for order flow, as the incentive structure prioritizes affiliate revenue over client execution quality. Without documented execution quality review and explicit PFOF disclosure, the arrangement violates fiduciary duty.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3), SEC Inv. Mgmt. Release IA-1092, SEC guidance on PFOF conflicts (IA-5605), and SEC Regulation Best Interest (applicability to affiliated broker-dealers)
+
+KEY FACTOR
+----------
+PFOF arrangement lacks explicit written client disclosure, documented execution quality analysis beyond price, and informed consent to retain rebates.

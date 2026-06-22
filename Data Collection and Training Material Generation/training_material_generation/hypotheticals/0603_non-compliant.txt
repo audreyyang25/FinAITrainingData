@@ -1,0 +1,27 @@
+ID: 603
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Heartland Advisory Group, LLC, a registered investment adviser managing approximately $420 million in client assets, maintained a dual-hatted arrangement where its principal, David Renner, also served as a licensed insurance agent. From 2018 through 2021, Renner directed over 140 advisory clients—predominantly retirees with moderate risk tolerances and account sizes averaging $285,000—into proprietary variable annuity products underwritten by an affiliated insurance company. These variable annuities carried surrender periods of 7 years and internal expenses of 2.85% annually, whereas substantially similar non-affiliated variable annuity products were available with internal expenses of 1.40% and 4-year surrender periods. Heartland's Form ADV Part 2A disclosed that 'affiliates may receive compensation in connection with certain insurance products,' but did not specify the magnitude of the conflict, the revenue-sharing arrangement with the affiliated insurer, or that lower-cost alternatives existed. Heartland received approximately $1.9 million in additional revenue from the affiliated insurer over the three-year period.
+
+QUESTION
+--------
+Did Heartland Advisory Group violate its fiduciary obligations under the Investment Advisers Act by placing clients in higher-cost affiliated variable annuities without adequate disclosure of the conflict of interest?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes a violation of Sections 206(1) and 206(2) of the Investment Advisers Act of 1940 for breach of fiduciary duty through inadequate conflict-of-interest disclosure and failure to act in clients' best interests.
+
+Under Sections 206(1) and 206(2) of the Advisers Act, an investment adviser owes a fiduciary duty to its clients that includes both a duty of care and a duty of loyalty, which requires full and fair disclosure of all material conflicts of interest. As seen in SEC enforcement actions against firms like VisionPoint Advisory Group (IA-4778), Summit Financial Group (IA-5168), and First Citizens Asset Management (IA-5123), the Commission has consistently held that boilerplate or generic disclosures about affiliate compensation are insufficient when the adviser is systematically steering clients into higher-cost affiliated products. The $1.9 million in undisclosed revenue from the affiliated insurer constitutes a material conflict that a reasonable client would want to know about when evaluating the adviser's recommendation, and the failure to disclose available lower-cost alternatives compounded the breach of the duty of care.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(1) and 206(2) – Anti-Fraud Provisions; Sections 203(e) and 203(k) – Remedial Sanctions and Cease-and-Desist Authority
+
+KEY FACTOR
+----------
+The adviser's generic Form ADV disclosure about affiliate compensation was materially inadequate to inform clients of the specific revenue-sharing conflict and the availability of substantially similar, lower-cost non-affiliated alternatives.

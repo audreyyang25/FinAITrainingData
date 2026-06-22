@@ -1,0 +1,25 @@
+ID: 326
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Registered Investment Advisor (RIA) under SEC jurisdiction, Timothy C., manages a $650,000 discretionary account for Elena R., age 55, CFO, high risk tolerance, $3.2M net worth, 20-year investment knowledge. Elena R. executes written Investment Policy Statement (IPS) explicitly authorizing 'tactical asset allocation with quarterly rebalancing' and 'sector rotation to capture market inefficiencies.' Over 12 months, Timothy makes 118 trades across equities, fixed income, and alternatives. Turnover ratio = 4.2×. Total advisory fees = $19,500 (2.8% AUM + 15 bp transaction costs). Portfolio generated 16.8% return after all fees. Timothy maintains quarterly documented performance reviews with Elena R., showing each trade's rationale tied to IPS objectives. No commissions; advisory fee structure fully disclosed in Form ADV. Elena R. confirms in writing (Q4 2023) satisfaction with trading frequency and acknowledges understanding of transaction costs.
+
+QUESTION
+--------
+Does Timothy C.'s account comply with SEC fiduciary duty and Reg BI care obligation despite 4.2× turnover?
+
+ANSWER
+------
+Yes. Timothy C. demonstrates full compliance with SEC fiduciary duty (Investment Adviser Act §206) and Reg BI care obligation through multiple factors: (1) turnover ratio 4.2× is below the 6× strong-inference threshold and accompanied by legitimate economic performance (16.8% return after fees) demonstrating trading added substantial value; (2) Elena R.'s profile (age 55, CFO, $3.2M net worth, 20-year investment knowledge, high risk tolerance, $650K account) is sophisticated and well-matched to tactical trading strategy; (3) explicit written IPS authorizes rebalancing and sector rotation, documenting client preference for active management; (4) quarterly documented performance reviews with written client confirmation show ongoing suitability analysis; (5) fee-only advisory structure ($19,500 AUM + 15 bp) eliminates transaction-based compensation incentive to churn; (6) 16.8% net return vastly exceeds transaction costs, demonstrating economic value. Quantitative metrics (4.2× turnover, cost as percentage of returns <5%) combined with qualitative factors (client sophistication, written authorization, positive performance, documented periodic review) satisfy both care obligation prongs.
+
+APPLICABLE STANDARD
+-------------------
+SEC Investment Adviser Act §206 Fiduciary Duty; Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Quantitative Suitability Standards
+
+KEY FACTOR
+----------
+Turnover 4.2× below 6× threshold combined with 16.8% return, fee-only compensation (no commission incentive), written IPS authorization, and quarterly documented reviews demonstrate compliance.

@@ -1,0 +1,27 @@
+ID: 31
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer operates a proprietary mutual fund family earning 20 bps in 12b-1 fees. An advisor recommends the firm's Small Cap Value Fund (1.10% ER, 20 bps 12b-1) to a 52-year-old client with $800,000 in assets, aggressive growth objectives, and a 20-year horizon. The advisor provides: (1) written disclosure of 12b-1 fees and revenue source; (2) quantified comparison showing the proprietary fund at 1.30% total cost vs. Vanguard Small Cap Value (0.07% ER) at 0.07% cost; (3) documented analysis showing the proprietary fund's 5-year alpha of +2.1% annualized, exceeding the 123 basis point cost differential; (4) specific notation in the file that the client declined a lower-cost alternative after reviewing comparative disclosure.
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+Yes, this recommendation is compliant with Regulation Best Interest.
+
+The firm fully satisfied Reg BI's conflict-of-interest standard through comprehensive disclosure and mitigation: (1) clear written disclosure of the 12b-1 revenue arrangement; (2) quantified cost comparison showing the 123 basis point cost differential explicitly; (3) documented alpha analysis (2.1% annualized outperformance) exceeding the cost differential by 87 basis points, supporting the claim that the higher-cost recommendation serves the client's aggressive growth objectives; and (4) affirmative client acknowledgment that the customer reviewed and accepted the recommendation despite the lower-cost alternative. The SEC's Reg BI guidance explicitly permits recommendations of higher-cost proprietary products when (a) conflicts are disclosed, (b) comparative analysis is provided, (c) performance or service justification exceeds the cost differential, and (d) customer acknowledgment is documented. The 20-year horizon and aggressive mandate support active small-cap management. This fact pattern reflects best-practice compliance under Reg BI.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) — disclosure of conflicts combined with documented mitigation steps (comparative analysis, performance justification, customer acknowledgment) satisfies the conflict-of-interest obligation when recommendation remains in customer's best interest.
+
+KEY FACTOR
+----------
+Comprehensive disclosure + quantified comparison + documented alpha exceeding cost differential + customer acknowledgment of conflict and acceptance of recommendation.

@@ -1,0 +1,25 @@
+ID: 331
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Advisor manages discretionary account for 52-year-old corporate executive with $3.2M portfolio, documented investment objective: "long-term wealth accumulation with quarterly rebalancing." Investment policy statement explicitly permits turnover up to 5× annually to maintain target allocations (50% large-cap equity, 30% international, 20% fixed income/alternatives). Over 24 months, advisor executed 287 trades with annualized turnover ratio of 5.0× and cost-to-equity ratio of 2.1% ($33,600 in annual costs on average $3.2M balance). Client's actual return: +12.8% annualized (net of all costs), vs. benchmark (MSCI Global 60/40) +11.2%. Turnover driven entirely by documented rebalancing activity (no single security held <8 months on average). Advisor reviewed suitability semi-annually in writing. Client confirmed satisfaction in annual reviews; no evidence of churning intent or control abuse. Advisor's compensation: $3,200/month salary (not commission-based).
+
+QUESTION
+--------
+Does the 5.0× turnover ratio in this rebalancing strategy comply with FINRA Rule 2111(b) quantitative suitability standards?
+
+ANSWER
+------
+Yes, fully compliant with FINRA Rule 2111(b). Critical factors establish suitability: (1) turnover ratio of exactly 5.0× is at permitted threshold stated in written investment policy and below the 6× presumptive churning benchmark; (2) cost-to-equity ratio of 2.1% is conservative relative to +12.8% net return, producing +1.6% alpha over benchmark; (3) trading pattern driven by documented rebalancing requirement (not commission-seeking) with minimum 8-month holding periods per security; (4) advisor has no commission incentive (salary-based compensation) eliminating churning motive; (5) written investment policy explicitly authorizes stated turnover level; (6) periodic suitability documentation confirms continued alignment with client objectives; (7) client demonstrated satisfaction in annual reviews. The quantitative metrics fall within permissible ranges for active management. Rebalancing-driven turnover (maintaining target allocations) is fundamentally different from discretionary high-frequency trading in churning cases. This pattern aligns with SEC/FINRA positions on appropriate tactical portfolio management.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative analysis; exception for documented rebalancing strategy with written authorization
+
+KEY FACTOR
+----------
+5.0× turnover at stated authorization threshold, driven by documented rebalancing (not commission-seeking), with salary-based compensation and net positive alpha (+1.6%), establishes compliance despite active trading.

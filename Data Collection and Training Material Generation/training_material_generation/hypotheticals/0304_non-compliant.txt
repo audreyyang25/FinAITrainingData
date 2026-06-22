@@ -1,0 +1,25 @@
+ID: 304
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Lexington Capital Management advised a $6.2 million portfolio for Patricia K., age 68, a retired executive with net worth of $8.1 million (excluding primary residence). The portfolio held $5.2 million in equities and $1 million in a money market fund earning 4.8%. Lexington charged a tiered AUM fee: 0.85% on assets up to $5 million, 0.65% on assets above $5 million. The adviser calculated the AUM fee on the full $6.2 million balance, including the money market holding. The Form ADV Part 2A stated 'fees are charged on AUM' without specifying whether cash positions are included. Patricia received quarterly statements but did not receive a separate disclosure explaining the money market fee treatment. Over two years, Lexington charged approximately $34,200 in fees on the money market position alone.
+
+QUESTION
+--------
+Did Lexington Capital's AUM fee arrangement comply with the Investment Adviser Act and SEC disclosure rules?
+
+ANSWER
+------
+No. While performance fees to qualified clients are permissible under Rule 205-3, AUM fees on non-interest-bearing or money market cash must be clearly disclosed under Form ADV Part 2A Item 5 and the Brochure Supplement. The SEC has consistently held that charging AUM fees on cash holdings without explicit disclosure is misleading (similar to SEC exam findings and enforcement patterns). Lexington's disclosure was ambiguous—'AUM' is undefined in the brochure regarding cash inclusion. The $34,200 charge on a money market fund (a passive holding with minimal management burden) without clear disclosure violates Section 206(2) of the Advisers Act (deceptive practices). Lexington should have either (1) carved out cash from the fee or (2) clearly disclosed the practice with justification in the brochure.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(2) (Anti-Fraud), Form ADV Part 2A Item 5, SEC Marketing Rule IA-5653(b)(1)(ii)
+
+KEY FACTOR
+----------
+Adviser charged AUM fees on passive money market holding without clear brochure disclosure of this practice.

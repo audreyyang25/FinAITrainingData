@@ -1,0 +1,25 @@
+ID: 324
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer TradeRight Securities employs advisor Kevin L., who manages a $420,000 discretionary account for Thomas J., age 67, moderate risk tolerance, retired accountant with $890,000 total net worth. Kevin L. holds a formal discretionary authority agreement signed March 1, 2023. Over 12 months (Mar 2023–Feb 2024), Kevin makes 156 trades in technology sector mutual funds and individual tech stocks. Turnover ratio = 6.4×. Total commissions = $68,600 (cost-to-equity = 16.3%). Portfolio generated 8.1% return. At year-end, Kevin L. also personally owns $95,000 of the same three technology funds he recommended. During the trading period, Kevin purchased $15,000 of Fund XYZ for Thomas J. on April 15, then sold it June 22 (6-week holding period). Kevin simultaneously purchased $22,000 of Fund XYZ for his own account on April 18, three days after client purchase. Compliance file shows no documented rationale for 156 trades or quarterly performance reviews.
+
+QUESTION
+--------
+Did Kevin L. violate FINRA Rule 2111(b) by potential scalping combined with high turnover?
+
+ANSWER
+------
+Yes. Kevin L. violates FINRA Rule 2111(b) on multiple grounds: (1) turnover ratio 6.4× exceeds the 6× strong-inference threshold for churning; (2) the buy-sell pattern in Fund XYZ (April 15 purchase for client, June 22 sale at 6-week holding period, with Kevin's own purchase three days later at April 18) raises scalping concerns—recommending purchase to drive up price for client benefit, then purchasing for own account; (3) Kevin's $95,000 personal position in the same three funds creates appearance of self-dealing; (4) cost-to-equity 16.3%, while below 20% threshold, combined with 8.1% return and 6.4× turnover shows transaction costs consumed 2% of portfolio returns; (5) lack of documented rationale for 156 trades and no quarterly performance reviews demonstrates failure to conduct ongoing suitability analysis under the qualitative prong. The scalping pattern (client purchase followed by advisor's own purchase shortly after) suggests Kevin recommended trades to benefit his personal position, violating duty of loyalty.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) — Quantitative Suitability; Scalping; Conflicts of Interest; Duty of Loyalty
+
+KEY FACTOR
+----------
+Turnover 6.4× above threshold combined with scalping pattern (client purchase April 15, advisor purchase April 18) and advisor's $95,000 personal position in same funds establishes unsuitable churning driven by self-interest.

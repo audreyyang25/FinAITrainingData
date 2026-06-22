@@ -1,0 +1,27 @@
+ID: 540
+Source Folder: 03_FINRA_AWC
+Topic: finra_awc_supervision
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Beacon Wealth Advisors, a FINRA member firm with 45 registered representatives across eight branches, implements a comprehensive Reg BI compliance program in May 2020, one month before the June 30, 2020 compliance date. The program includes updated written supervisory procedures addressing all four Reg BI component obligations (Care, Disclosure, Conflict of Interest, and Compliance), mandatory training modules completed by all registered representatives, a revised Form CRS delivered to all existing retail customers, and an enhanced exception reporting system that flags transactions for review when product costs exceed certain thresholds or when recommended products carry elevated conflicts such as revenue-sharing arrangements. In 2023, a FINRA examination identifies that one registered representative had, on three occasions over a two-year period, failed to deliver an updated Form CRS to new customers at the point of recommendation. The firm's supervisory system had in fact flagged two of the three instances through its automated workflow system, and the supervising principal had addressed them with the representative through documented corrective counseling within 30 days. The third instance occurred due to a one-time system migration glitch that was corrected within two weeks.
+
+QUESTION
+--------
+Did Beacon Wealth Advisors' supervisory system fail to meet the requirements of Reg BI and FINRA Rule 3110 based on the three instances of missed Form CRS delivery by one representative?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The standard under FINRA Rule 3110 and Reg BI's Compliance Obligation is that firms must establish and maintain a supervisory system and written procedures reasonably designed to achieve compliance — not that the system must prevent every single instance of non-compliance. Beacon's comprehensive program, which included written procedures addressing all four Reg BI obligations, mandatory training, automated exception reporting, and documented corrective action when lapses were detected, demonstrates a system reasonably designed for compliance. The three isolated delivery failures by one representative out of 45, two of which were independently detected and corrected by the firm's own system, do not evidence a systemic failure. This contrasts sharply with cases like Alexander Investment Services (AWC No. 2024080211301), where the firm had no Reg BI policies or procedures at all.
+
+APPLICABLE STANDARD
+-------------------
+Exchange Act Rule 15l-1(a)(1) – Reg BI Compliance Obligation; FINRA Rule 3110 – Supervision
+
+KEY FACTOR
+----------
+The firm's comprehensive, documented supervisory system with functioning exception reporting and prompt corrective action demonstrates reasonable design, distinguishing isolated representative-level failures from a systemic supervisory deficiency.

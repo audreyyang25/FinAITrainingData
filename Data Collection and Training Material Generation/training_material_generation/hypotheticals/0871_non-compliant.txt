@@ -1,0 +1,27 @@
+ID: 871
+Source Folder: 18_OCC_Bank_Trust_Guidance
+Topic: trust_investment_management
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Heartland National Bank serves as discretionary investment trustee for a $4.7 million ERISA-qualified defined benefit pension plan trust for a regional manufacturing company with 312 participants. The bank's trust investment officer, under pressure to increase returns following a below-benchmark quarter, allocates 40% of plan assets into a single private equity fund sponsored by a firm whose managing partner is a member of the bank's trust committee. The investment officer does not document any diversification analysis, does not obtain a fairness opinion, and does not disclose the trust committee member's relationship to the private equity sponsor to either the plan administrator or plan participants. The bank's written investment policy statement for the plan requires diversification across at least six asset classes and prohibits concentration exceeding 20% in any single alternative investment.
+
+QUESTION
+--------
+Does the bank trust officer's allocation of 40% of ERISA plan assets to a single affiliated private equity fund without disclosure or adherence to the written investment policy statement constitute a fiduciary violation?
+
+ANSWER
+------
+No, this conduct is a breach of fiduciary duty under ERISA and OCC fiduciary standards through imprudent concentration and undisclosed conflict of interest.
+
+ERISA Section 404 requires plan fiduciaries to diversify plan investments to minimize the risk of large losses unless clearly imprudent not to do so, and the 40% concentration in a single alternative investment directly violates both this standard and the plan's own written investment policy statement. ERISA Section 406 prohibits transactions between a plan and a party in interest, and the trust committee member's relationship to the private equity sponsor creates a prohibited transaction requiring at minimum an applicable exemption and full disclosure. The OCC Conflicts of Interest handbook specifically addresses dealings with affiliated service providers in fiduciary accounts and requires that such conflicts be identified, disclosed, and authorized before proceeding. The investment officer's failure to document diversification analysis further breaches the prudent investor process requirement.
+
+APPLICABLE STANDARD
+-------------------
+ERISA Section 404(a)(1)(B) – Prudent Man Standard; ERISA Section 406 – Prohibited Transactions; OCC Comptroller's Handbook – Conflicts of Interest (AM-CI), Dealings With Affiliated Service Providers Section; OTS Trust Handbook Section 110
+
+KEY FACTOR
+----------
+The officer violated ERISA's diversification and prohibited transaction rules by concentrating 40% of plan assets in a single fund tied to an undisclosed affiliated party, in direct contravention of the written investment policy statement.

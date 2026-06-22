@@ -1,0 +1,27 @@
+ID: 193
+Source Folder: unknown
+Topic: options_complex
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old client with $125,000 in a brokerage account, moderate risk tolerance, and no options experience visits her financial advisor seeking growth investment advice. Without asking about options experience or investment knowledge, the advisor recommends the client purchase 100 shares of UPRO (Direxion Daily S&P 500 Bull 3X Shares), a 3x leveraged ETF, stating 'this will triple your returns.' The advisor does not explain the daily reset mechanism, tracking decay, or the unsuitability of 3x leverage for buy-and-hold longer than 1-2 days. No suitability documentation is prepared. The client purchases $38,000 worth (30% of account).
+
+QUESTION
+--------
+Does this leveraged ETF recommendation comply with FINRA suitability rules?
+
+ANSWER
+------
+No, this recommendation violates FINRA Rule 2111 (suitability) and Reg BI duty of care.
+
+The recommendation fails suitability on multiple grounds: (1) FINRA explicitly states that 3x leveraged ETFs are unsuitable for buy-and-hold investors due to daily reset and compounding decay—the advisor never assessed the client's intended holding period or explained this risk; (2) for a moderate-risk, unsophisticated client with no documented options knowledge, a 3x leveraged product concentration (30% of account) far exceeds reasonable leverage for her risk profile; (3) the advisor's claim that leverage will 'triple returns' demonstrates either negligence (failure to understand tracking decay) or misrepresentation; and (4) no suitability documentation was created. Under Reg BI's duty of care, the advisor must have a reasonable basis to believe the recommendation is in the client's interest, which requires understanding product mechanics and client sophistication. FINRA has consistently disciplined advisors for unsuitable leveraged ETF recommendations without documented suitability analysis.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (suitability); Reg BI (SEC Rule 15l-1, duty of care); FINRA guidance on leveraged/inverse ETFs
+
+KEY FACTOR
+----------
+Advisor recommended a 3x leveraged ETF to an unsophisticated, moderate-risk client without explaining daily reset decay, assessing holding period, or documenting suitability; the 30% concentration and 'triple returns' claim are inconsistent with reasonable investing.

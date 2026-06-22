@@ -1,0 +1,27 @@
+ID: 25
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer offers both a proprietary mutual fund family and access to third-party mutual funds. The firm's compensation structure pays advisors a 50 basis point higher "payout" (commission/trail) on proprietary funds compared to third-party funds. A 45-year-old client with $200,000 in a brokerage account and moderate risk tolerance seeks a diversified portfolio recommendation. The advisor recommends: $80,000 in the firm's proprietary mid-cap growth fund (expense ratio 0.85%, total annual compensation to firm including 12b-1 fees 1.10%), $60,000 in the firm's proprietary bond fund (expense ratio 0.70%, total compensation 0.95%), and $60,000 in a third-party international developed markets fund (expense ratio 0.25%, total compensation to firm 0.10%). The advisor's Form CRS states that the firm receives "compensation from fund families," but does not specify the 50 basis point differential in payout structure or disclose that advisors personally benefit from higher proprietary fund payouts.
+
+QUESTION
+--------
+Does this recommendation comply with Reg BI?
+
+ANSWER
+------
+No, this violates Reg BI's disclosure requirement.
+
+While the Form CRS contains a generic statement about receiving compensation from fund families, it does not disclose the material conflict created by the 50 basis point differential in payout structure. This differential creates a direct economic incentive for the advisor (and the firm) to favor proprietary products, and is therefore material. The recommendation allocates 70% ($140,000 of $200,000) to proprietary products with significantly higher costs (average 1.03%) compared to the third-party alternative (0.25%). Reg BI § 15l-1(b)(2)(i) requires disclosure that is "clear and prominent," not buried in generic language. The failure to disclose that advisors personally receive higher payouts for recommending proprietary products is a material omission under Reg BI and mirrors undisclosed conflicts that have triggered FINRA enforcement (see FINRA AWC cases involving undisclosed revenue sharing). The allocation to proprietary products might be justified if documented as serving the client's best interest, but that justification is absent from the file.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2)(i) — Reg BI requires disclosure of all material conflicts of interest. The SEC has stated that differential compensation structures that incentivize advisors to recommend specific products constitute material conflicts requiring disclosure.
+
+KEY FACTOR
+----------
+Failure to specifically disclose the 50 basis point differential in advisor compensation/payout based on proprietary vs. third-party product recommendations, creating an undisclosed material conflict of interest.

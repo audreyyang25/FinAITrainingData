@@ -1,0 +1,27 @@
+ID: 22
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer publishes and provides to all customers a detailed Conflicts of Interest Disclosure Statement that itemizes all compensation sources, including 12b-1 fees (0.50% on proprietary mutual funds), advisory fees (1.00% AUM), and revenue-sharing arrangements with third-party fund families. A financial advisor recommends a 52-year-old client with $400,000 in retirement assets and conservative-to-moderate risk tolerance to allocate $250,000 to the firm's proprietary balanced fund (0.75% expense ratio, includes 0.50% 12b-1 fee) and $150,000 to a third-party low-cost bond index fund (0.10% expense ratio). The advisor documents that the proprietary balanced fund was selected because its asset allocation matched the client's risk profile, and provides the client with a side-by-side comparison showing all fees.
+
+QUESTION
+--------
+Does this recommendation satisfy Reg BI's conflict of interest obligation?
+
+ANSWER
+------
+Yes, this recommendation appears to comply with Reg BI.
+
+The firm has disclosed all material conflicts (12b-1 fees, AUM-based compensation, revenue sharing) in a comprehensive statement provided to the customer. The advisor's recommendation includes a diversified approach (proprietary balanced fund + third-party bond fund), demonstrating that the recommendation is not solely driven by the conflict. The side-by-side fee comparison shows transparency. While the proprietary fund carries higher total costs (0.75% vs. alternatives), the allocation serves the client's stated conservative-to-moderate risk profile and avoids concentration in proprietary products. Reg BI permits conflicted recommendations where conflicts are disclosed, the recommendation serves the customer's best interest, and the firm has policies to mitigate conflicts. The documented rationale (asset allocation fit) and diversification strategy support compliance.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2)(i) and (ii) — Reg BI permits recommendations of proprietary products where conflicts are clearly disclosed and the recommendation serves the customer's best interest, provided the firm implements policies to mitigate conflicts.
+
+KEY FACTOR
+----------
+Full disclosure of all material conflicts in writing, combined with documented investment rationale tied to customer risk profile and diversified allocation strategy that is not solely proprietary-focused.

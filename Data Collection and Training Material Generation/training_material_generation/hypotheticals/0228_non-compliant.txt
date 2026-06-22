@@ -1,0 +1,25 @@
+ID: 228
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RIA advisor at firm managing $2.8B AUM recommends Class A shares (5.75% front-end load) of actively managed large-cap fund to 58-year-old client with $425,000 liquid assets and moderate risk tolerance. Fund has 0.89% annual expense ratio and 78% turnover. Client had previously held identical fund in Class I shares (0.31% ER, no load) via prior advisor. Current advisor documents in file: 'Client prefers hands-on relationship; Class A aligns with personalized service model.' Advisor receives 12% of front-end load as compensation. No analysis documented comparing share classes, expense impact over 10-year hold period ($31,400 difference), or whether Class I was available. Advisor's firm policy prohibits Class I recommendations to retail clients under $500K AUM.
+
+QUESTION
+--------
+Did the advisor comply with Reg BI's care obligation (17 CFR §240.15l-1(a)(2)) by recommending Class A shares without documented analysis of materially cheaper Class I alternative?
+
+ANSWER
+------
+No. Under Reg BI's care obligation, advisors must make reasonable inquiry into client characteristics and document that the recommendation represents the best interest choice after reasonable diligence. The advisor's stated reason—'personalized service'—is pretextual and unsupported by evidence that Class A provides superior service justifying $31,400 in excess costs over the likely holding period. The advisor failed to document any comparison of share classes, cost impact analysis, or client-specific reasons why Class I's lower costs would not better serve this client's interest. The firm's blanket policy against Class I for retail clients under $500K suggests institutional conflict of interest rather than individualized care. This pattern mirrors FINRA enforcement against share-class steering (e.g., Schwab AWC 2017 patterns). Adequate documentation of a materially inferior choice for compensation-aligned reasons does not cure Reg BI breach; it evidences it.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation – Reasonable Inquiry & Suitability Analysis, 17 CFR §240.15l-1(a)(2)(i)(A) & (B)
+
+KEY FACTOR
+----------
+Absence of documented comparative cost-benefit analysis of available share classes, combined with compensation incentive and firm policy steering toward higher-cost option, fails Reg BI's best-interest standard.

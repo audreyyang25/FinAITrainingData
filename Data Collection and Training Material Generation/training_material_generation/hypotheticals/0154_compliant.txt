@@ -1,0 +1,27 @@
+ID: 154
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A FINRA broker-dealer manages a $800,000 discretionary account for a 55-year-old client with stated objective of 'income generation with selective capital appreciation,' moderate risk tolerance, and 12-year investment horizon (target retirement age 67). The broker executes 18 round-trip trades annually, including dividend-paying stock purchases/sales, option-income strategies (covered calls on dividend stocks), and rebalancing into REITs and bond ETFs. Annual turnover ratio: 1.4x. Annual commissions and option premiums: $4,200. The broker provides a detailed quarterly report explaining each rebalance, option strategy rationale, and how each position serves the 'income with growth' objective. Client has signed written agreement authorizing discretionary management and option trading.
+
+QUESTION
+--------
+Does this trading pattern comply with FINRA Rule 2111(b)?
+
+ANSWER
+------
+Yes, this conduct complies with the suitability standard.
+
+A 1.4x turnover ratio is appropriate for an income-focused portfolio with modest tactical rebalancing and option-income strategies. The annual cost ($4,200 / $800,000 = 0.525%) is reasonable and does not impair the income objective. The 18 annual trades align logically with the stated strategy: regular rebalancing into dividend/income sources (REITs, bonds), covered call income generation, and occasional stock rotation. The 12-year horizon to retirement and moderate risk tolerance support this active-income approach. The broker's detailed quarterly reports explicitly tie each transaction to the documented investment objective, satisfying the reasonable-basis and customer-specific prongs of Rule 2111(a). The written authorization for discretionary and option trading, combined with ongoing education of the client, demonstrates compliance with disclosure and consent requirements. This pattern reflects suitability-compliant active income management.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b): Suitability requires reasonable basis (security knowledge), customer-specific analysis (financial situation, investment objectives, risk tolerance), and prohibition on excessive transactions in size or frequency relative to the account characteristics.
+
+KEY FACTOR
+----------
+Moderate 1.4x turnover, low cost drag (0.525%), clear alignment of each trading action (dividend purchases, covered calls, rebalancing) to documented income-with-growth objective, and detailed ongoing client reporting.

@@ -1,0 +1,27 @@
+ID: 524
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_bd
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Atlas Private Equity Partners, LP, a registered investment adviser managing two private equity funds with combined commitments of $750 million, engaged an affiliated broker-dealer, Atlas Capital Markets, LLC, to provide co-investment syndication services for three portfolio company acquisitions. Atlas Capital Markets charged co-investors a 1.5% placement fee on co-investment capital totaling $48 million, generating $720,000 in fees. Atlas Private Equity disclosed the existence of the affiliated broker-dealer in its Form ADV Part 2A, specifically identified the potential for placement fee arrangements with co-investors, disclosed the fee range of 1% to 2%, and described the conflict arising from the affiliated relationship. The fund limited partnership agreements authorized the adviser to engage affiliates for brokerage services subject to the LP Advisory Committee's annual review. The LP Advisory Committee received quarterly reports detailing the specific placement activities and fee amounts, and approved the arrangements at its annual meeting each year. Co-investors received separate disclosure documents before committing capital that identified the placement agent as an affiliate and disclosed the applicable fee.
+
+QUESTION
+--------
+Did Atlas Private Equity Partners comply with its fiduciary obligations under the Advisers Act regarding the affiliated broker-dealer's placement fee arrangements?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Unlike the situation in In the Matter of First Reserve Management, L.P. (IA-4529), where the private equity adviser failed to disclose financial conflicts involving affiliated entities, Atlas Private Equity implemented multiple layers of disclosure and governance that satisfy fiduciary standards. The conflict was specifically described in Form ADV Part 2A with fee ranges, authorized in the fund partnership agreements, subject to ongoing LP Advisory Committee oversight with quarterly reporting, and separately disclosed to co-investors prior to their commitment. The SEC has consistently held that adequate disclosure of conflicts—when specific, timely, and accompanied by appropriate governance mechanisms—permits affiliated transactions that might otherwise raise fiduciary concerns. The key distinction is the specificity and layered nature of the disclosure regime.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(2) and 206(4); SEC guidance on private fund adviser conflicts of interest
+
+KEY FACTOR
+----------
+The adviser's specific, multi-layered disclosure of the affiliated broker-dealer relationship—through Form ADV, fund documents, LP Advisory Committee governance, and co-investor-specific disclosure—satisfied fiduciary obligations by enabling informed consent.

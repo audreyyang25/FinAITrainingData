@@ -1,0 +1,25 @@
+ID: 294
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Pinnacle Wealth Management, a $1.2B AUM registered adviser serving 340 institutional clients, uses a tiered broker selection model with five primary execution partners: Citadel Securities, Jane Street Capital, Virtu Financial, Pershing, and internal affiliate Pinnacle Execution Services (PES). PES executes approximately 22% of monthly equity flow ($8.4M of $38M), while external BDs execute 78%. Every quarter, Pinnacle's Execution Committee (CIO, head of trading, CCO) performs documented venue analysis covering: effective spreads, market impact, latency, Principal Component Analysis on 50+ transaction samples per broker per asset class, and 12-month rolling performance scorecards. In Q3 2024, analysis showed Citadel's 3.1 bps average spread on mid-cap buy orders outperformed PES's 3.8 bps and Jane Street's 3.4 bps. Pinnacle subsequently redirected mid-cap buy orders away from PES to Citadel, while maintaining PES for certain retail-sized orders (avg. $220K) where PES's 3.7 bps remained competitive. Clients receive annual execution quality summaries by asset class showing peer comparisons. Conflicts disclosure in advisory agreements explicitly identifies PES ownership and notes that Pinnacle may route affiliate trades when execution quality is competitive, and that such decisions are subject to documented review.
+
+QUESTION
+--------
+Did Pinnacle Wealth Management's best execution practices comply with Investment Adviser Act Section 206(3) and SEC guidance?
+
+ANSWER
+------
+Yes. Pinnacle satisfies the fiduciary duty to ensure best execution through: (1) systematic, documented quarterly review of execution quality across multiple dimensions (spreads, market impact, latency, sample size >50); (2) objective performance measurement using industry-standard metrics (effective spreads, PCA); (3) responsive decision-making (redirecting mid-cap flow from PES to Citadel based on demonstrated underperformance); (4) context-appropriate tiering (maintaining PES for order sizes where it remains competitive); (5) full disclosure of conflicts (PES ownership and routing discretion); and (6) transparent reporting to clients. This methodology aligns with SEC staff guidance (2010 Execution Quality Guidance and 2024 IM alerts) requiring advisers to establish systematic processes, not one-time reviews. The rolling 12-month scorecards and quarterly committee review demonstrate ongoing monitoring. Pinnacle's willingness to disfavor the affiliate (PES) when data showed underperformance reinforces good faith execution.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC Execution Quality Guidance (2010); SEC Division of Investment Management guidance on best execution procedures
+
+KEY FACTOR
+----------
+Documented quarterly execution quality review, objective benchmarking against alternatives, responsive reallocation away from underperforming affiliate, and full conflict disclosure establish compliance with the best execution fiduciary duty.

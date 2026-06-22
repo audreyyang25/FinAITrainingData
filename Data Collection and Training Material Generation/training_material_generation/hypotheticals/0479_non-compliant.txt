@@ -1,0 +1,25 @@
+ID: 479
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Large broker-dealer firm Apex Securities employs 280 registered representatives. Senior compliance officer Jane audits a portfolio manager's trading activity and discovers that portfolio manager Tom executed 34 equity trades over three months with affiliated market maker subsidiary, all at commissions of 0.041% per share, while third-party execution venues consistently offered 0.022% rates. Tom's trading activity generated $187,000 in soft-dollar credits to Apex's compliance and market data budgets. No written policy documented whether Tom was directed or incentivized to use the affiliate for commission purposes. Jane also discovers that five client accounts were "churned"—14 trades in 90 days generating $34,000 in commissions—but no supervisory review documented suitability analysis or client objectives justifying the frequency. Tom's manager, regional director Robert, signed off on suitability forms post-hoc (after trades were executed) with only minimal notes: "Client aggressive investor, trades suitable." FINRA Rule 3110 requires branches to establish written supervisory procedures (WSPs) and conduct reviews; Apex's WSPs mandated best execution review quarterly but none was documented for Q2 and Q3.
+
+QUESTION
+--------
+Did Apex Securities violate FINRA Rules 3110 (supervision), 2111 (suitability), and best execution principles through systemic failures?
+
+ANSWER
+------
+Yes. Apex violated Rule 3110 by failing to implement adequate WSPs for best execution; the 0.019% execution premium (0.041% vs. 0.022%) across 34 trades shows the firm did not consistently seek best execution and created no documented incentive analysis for affiliate use. The firm's failure to conduct quarterly best execution reviews (required by its own WSPs) is a supervisory failure. FINRA Rule 2111 suitability was breached because Robert's post-execution sign-off with generic "aggressive investor" notes lacks the detailed analysis required for 14 trades in 90 days; post-hoc approval does not satisfy contemporaneous supervisory review. The churning pattern (high frequency, high commission generation, minimal customer benefit) combined with absent suitability documentation suggests Rule 2111 violations across affected accounts. FINRA enforcement pattern (similar to cases involving Oppenheimer, Morgan Stanley) shows that dual failures—both affiliate overuse and weak suitability supervision—result in substantial penalties and suspension.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision and WSPs); FINRA Rule 2111 (Suitability); FINRA Rule 5310 (Best Execution)
+
+KEY FACTOR
+----------
+Absent quarterly best execution reviews, post-hoc suitability approval, and affiliate commission premium without documented business justification evidence systemic supervisory failure enabling both execution quality and suitability violations.

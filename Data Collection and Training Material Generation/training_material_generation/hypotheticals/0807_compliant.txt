@@ -1,0 +1,27 @@
+ID: 807
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Meridian Energy Corp. underwent a corporate spin-off in 2018, separating from its parent company, Atlas Petroleum Corp. As part of the separation, the Meridian Employee Savings Plan's Investment Committee was required to manage a significant holding of legacy Atlas Petroleum stock that remained in the plan. Over the next 30 months, the Committee engaged an independent investment consultant to evaluate the continued inclusion of Atlas stock. The consultant produced quarterly reports analyzing Atlas's financial health, stock volatility, and concentration risk. Based on these analyses, the Committee adopted a phased divestiture strategy, reducing Atlas stock from 28% of plan assets to under 4% over the 30-month period. Two plan participants filed suit alleging the Committee breached its ERISA fiduciary duty by failing to divest Atlas stock immediately upon the spin-off, claiming the stock declined 15% during the transition period.
+
+QUESTION
+--------
+Did the Investment Committee breach its ERISA fiduciary duty of prudence by implementing a phased divestiture of the legacy parent-company stock rather than divesting immediately?
+
+ANSWER
+------
+Yes, this conduct is compliant. The Investment Committee's deliberate, well-documented phased divestiture, supported by an independent consultant, satisfies the duty of prudence.
+
+In Schweitzer v. Investment Committee of the Phillips 66 Savings Plan, the Fifth Circuit affirmed dismissal of claims alleging fiduciary breach for failure to immediately divest legacy parent-company stock following a corporate spin-off, recognizing that fiduciaries are entitled to a reasonable process and timeframe for evaluating divestiture decisions. Here, unlike in Schweitzer where plaintiffs failed to state a claim, the Committee affirmatively engaged an independent consultant, generated quarterly analyses, and executed a systematic reduction from 28% to under 4%—demonstrating the type of deliberate, informed process that satisfies ERISA's prudent-expert standard. A short-term 15% stock decline during an orderly liquidation does not establish imprudence when the fiduciary's decision-making process was thorough and well-documented.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(B) – Duty of Prudence; see Schweitzer v. Investment Committee of the Phillips 66 Savings Plan, No. 18-20379 (5th Cir. 2020)
+
+KEY FACTOR
+----------
+The Committee's engagement of an independent consultant and documented, phased divestiture strategy demonstrated the deliberate fiduciary process required under ERISA's duty of prudence, even though the stock declined during the transition period.

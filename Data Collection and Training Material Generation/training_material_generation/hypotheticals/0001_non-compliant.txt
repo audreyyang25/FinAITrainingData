@@ -1,0 +1,27 @@
+ID: 1
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retired client with $250,000 in liquid savings and a stated conservative risk tolerance meets with a broker-dealer representative. The client seeks income and capital preservation. The advisor recommends a $200,000 allocation to a proprietary, actively managed equity fund with a 1.75% annual expense ratio and front-end load of 5.5%, generating $12,100 in commission. The advisor did not discuss or present comparable index funds with 0.15% annual expense ratios or discuss the total cost impact.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+No, this violates the Reg BI care obligation.
+
+Under Reg BI §240.15l-1(a)(2)(i), the advisor must consider 'the costs of the recommended investment' and 'available alternatives' at the time of the recommendation. Here, the advisor recommended a high-cost proprietary fund (1.75% + 5.5% load = 7.25% first-year cost) to a conservative retiree without discussing lower-cost index alternatives (0.15% expense ratio). The 460 basis-point annual cost differential for a conservative investor seeking income and capital preservation cannot be justified under the care standard. The proprietary nature and the substantial commission create a conflict of interest the advisor failed to mitigate by considering cheaper alternatives. This mirrors FINRA AWC cases involving recommendations of high-cost actively managed funds to conservative retirees without discussing passive alternatives.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i); Reg BI care obligation—broker-dealer must recommend a product in the customer's best interest considering costs, risks, rewards, and alternatives.
+
+KEY FACTOR
+----------
+Failure to discuss or present a materially lower-cost alternative (index fund 0.15% vs. 1.75% + 5.5% load) that would be equally or more suitable for a conservative income-focused retiree.

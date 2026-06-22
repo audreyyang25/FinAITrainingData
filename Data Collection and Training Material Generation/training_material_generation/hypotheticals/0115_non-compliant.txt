@@ -1,0 +1,27 @@
+ID: 115
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An advisor manages a book of 85 clients, all of whom receive the same model portfolio: a variable annuity L-share (low up-front load, typically 2-3%, but higher ongoing M&E of 1.5% plus 0.9% sub-account fees = 2.4% annually). The advisor has no documented process for evaluating individual client suitability; internal records show a template suitability letter stating only 'Client has been informed of the annuity's features and risks' but no reference to age, risk tolerance, financial situation, or investment objectives. A review of 20 random client files reveals: 8 clients aged 35-45 with 25+ year time horizons and stated growth objectives; 6 clients in taxable accounts; 4 clients with prior annuity holdings (suggesting high friction costs if exchanging); none with documented need for guarantees or income riders. The advisor's compensation structure awards a higher commission for L-share annuity sales (2.5%) versus mutual funds (1%), creating an incentive misalignment.
+
+QUESTION
+--------
+Does this variable annuity sales practice satisfy FINRA Rule 2330 and Reg BI?
+
+ANSWER
+------
+No, this violates the applicable standards.
+
+This practice violates Rule 2330 and Reg BI in systematic ways. Rule 2330 requires that before recommending a variable annuity, the firm must have a reasonable basis to believe it is suitable, taking into account the client's age, financial situation, investment objectives, and other holdings. Here: (1) The advisor applied a one-size-fits-all template without individualized analysis; (2) For 8 of 20 clients reviewed (40%), young age (35-45) and long time horizon contraindicate a 2.4% annual fee annuity; a low-cost index fund (0.05-0.20%) would be more suitable; (3) For 6 clients, a taxable account context makes tax-deferral benefits marginal while full fee drag applies; (4) For 4 clients, a prior annuity position suggests exchange costs and tax consequences that were not analyzed; (5) None had documented needs for guarantees or income riders justifying the M&E costs; (6) The compensation structure (2.5% for annuities vs. 1% for funds) created a conflict of interest not disclosed. Under Reg BI, the advisor owed a duty of best interest; recommending a 2.4% annual-fee product to 35-year-olds with 25+ year growth horizons does not serve best interest when 0.1% alternatives exist. FINRA's 2015-2017 variable annuity enforcement actions (e.g., FINRA Case #2014050313, $700M+ settlements) specifically targeted this pattern: systematic recommendations without individualized suitability analysis, especially to younger clients.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (Variable Annuity Suitability); Reg BI (duty of best interest, fiduciary duty); FINRA Rule 3110 (supervisory procedures); SEC/FINRA enforcement on systematic suitability violations (2010-2020 variable annuity sweeps)
+
+KEY FACTOR
+----------
+Systematic, template-based variable annuity recommendations with no documented individualized suitability analysis for each client, applied across a diverse book including young (35-45) growth-oriented clients for whom 2.4% annual fees are unsuitable, combined with compensation structure incentivizing annuity sales, violating Rule 2330 and Reg BI.

@@ -1,0 +1,25 @@
+ID: 437
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+AdvisorBot LLC, a dual-registered broker-dealer and RIA, operates a hybrid robo-human model managing $2.1 billion. The algorithm generates initial recommendations. A human 'advisor' (licensed rep, 4 years experience, 15 minutes per client per quarter) can override. In Q2 2024, the algorithm recommended a 34-year-old client with $420,000 in investable assets and 'moderate' risk tolerance a diversified portfolio: 55% low-cost broad-market index ETFs (0.04% ER), 25% intermediate-bond ETFs (0.05% ER), 20% cash. The human advisor overrode this to recommend instead: 30% proprietary structured notes (6% upfront commission paid to advisor; product prospectus showed 4-year lockup and embedded leverage), 40% actively managed equity funds (1.15% ER; affiliated with parent firm), 30% bond funds (0.78% ER). The override was documented with no reference to client request or changed circumstances. The algorithm's original recommendation had cost estimate of 0.21% blended; the override increased blended cost to 0.84% AUM + 6% upfront. No separate best-interest determination or conflict disclosure was prepared for the override decision.
+
+QUESTION
+--------
+When the human advisor overrode the algorithm's recommendation in this hybrid model, did the adviser comply with Reg BI's conflict-of-interest and reasonable-basis requirements?
+
+ANSWER
+------
+No. Under Reg BI 240.15l-1(a)(1)(ii), when a fiduciary recommends a product, it must disclose conflicts and take steps to mitigate them. Here, the override introduced three material conflicts: (1) the 6% commission on structured notes (paid to the advisor personally), (2) the 1.15% ER on affiliated funds, and (3) a 4-year liquidity lock favoring the issuer. The override also breached the care obligation (17 CFR §240.15l-1(a)(2)(i)): the advisor lacked documented reasonable basis—there is no indication the client requested higher-cost products, changed risk tolerance, or that the locked-up structured notes served a legitimate goal better than the original recommendation. SEC IM Guidance 2017-02 requires that overrides of algorithmic recommendations be documented with clear rationale and compliance review. The bare fact of override documentation here is insufficient. This pattern mirrors FINRA disciplinary cases (e.g., overrides driven by compensation conflicts, settled as unsuitable sales).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict-of-Interest Obligation, 17 CFR §240.15l-1(a)(1)(ii) & Care Obligation §240.15l-1(a)(2)(i); SEC IM Guidance 2017-02 (Robo-Adviser Overrides)
+
+KEY FACTOR
+----------
+Human override introduced material conflicts of interest (personal commission, affiliate products, illiquid terms) without documented reasonable basis, conflict disclosure, or mitigation—Reg BI violation.

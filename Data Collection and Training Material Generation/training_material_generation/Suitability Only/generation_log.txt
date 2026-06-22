@@ -1,0 +1,1743 @@
+[2026-03-22 05:05:38] ============================================================
+[2026-03-22 05:05:38] suitability_only_generator.py starting
+[2026-03-22 05:05:38] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 05:05:38] Model claude-opus-4-7 not available: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-opus-4-7'}, 'request_id': 'req_011CZGuUENLDN6jgq9By2HjP'}
+[2026-03-22 05:05:39] Using model: claude-opus-4-5
+[2026-03-22 05:05:39] 
+============================================================
+[2026-03-22 05:05:39] Starting P12 (standard) — target: 499 items
+[2026-03-22 05:05:39]   Resuming from 0/499
+[2026-03-22 05:05:39]   Generating batch: items 1–5 (0/499 done)
+[2026-03-22 05:07:01] ============================================================
+[2026-03-22 05:07:01] suitability_only_generator.py starting
+[2026-03-22 05:07:01] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 05:07:03] Using model: claude-opus-4-6
+[2026-03-22 05:07:03] 
+============================================================
+[2026-03-22 05:07:03] Starting P12 (standard) — target: 499 items
+[2026-03-22 05:07:03]   Resuming from 0/499
+[2026-03-22 05:07:03]   Generating batch: items 1–5 (0/499 done)
+[2026-03-22 05:09:28]   Saved. Progress: 5/499
+[2026-03-22 05:09:29]   Generating batch: items 6–10 (5/499 done)
+[2026-03-22 05:12:12]   Saved. Progress: 10/499
+[2026-03-22 05:12:13]   Generating batch: items 11–15 (10/499 done)
+[2026-03-22 05:14:50]   Saved. Progress: 15/499
+[2026-03-22 05:14:51]   Generating batch: items 16–20 (15/499 done)
+[2026-03-22 05:17:45]   JSON parse error (attempt 1/5): Unterminated string starting at: line 45 column 15 (char 31361)
+[2026-03-22 05:20:34]   Saved. Progress: 20/499
+[2026-03-22 05:20:35]   Generating batch: items 21–25 (20/499 done)
+[2026-03-22 05:22:57]   Saved. Progress: 25/499
+[2026-03-22 05:22:58]   Generating batch: items 26–30 (25/499 done)
+[2026-03-22 05:24:59]   Saved. Progress: 30/499
+[2026-03-22 05:25:00]   Generating batch: items 31–35 (30/499 done)
+[2026-03-22 05:27:12]   Saved. Progress: 35/499
+[2026-03-22 05:27:13]   Generating batch: items 36–40 (35/499 done)
+[2026-03-22 05:29:47]   Saved. Progress: 40/499
+[2026-03-22 05:29:48]   Generating batch: items 41–45 (40/499 done)
+[2026-03-22 05:31:25]   Saved. Progress: 45/499
+[2026-03-22 05:31:26]   Generating batch: items 46–50 (45/499 done)
+[2026-03-22 05:34:15]   Saved. Progress: 50/499
+[2026-03-22 05:34:16]   Generating batch: items 51–55 (50/499 done)
+[2026-03-22 05:36:19]   Saved. Progress: 55/499
+[2026-03-22 05:36:20]   Generating batch: items 56–60 (55/499 done)
+[2026-03-22 05:38:09]   Saved. Progress: 60/499
+[2026-03-22 05:38:10]   Generating batch: items 61–65 (60/499 done)
+[2026-03-22 05:40:17]   Saved. Progress: 65/499
+[2026-03-22 05:40:18]   Generating batch: items 66–70 (65/499 done)
+[2026-03-22 05:42:21]   Saved. Progress: 70/499
+[2026-03-22 05:42:22]   Generating batch: items 71–75 (70/499 done)
+[2026-03-22 06:03:35]   Saved. Progress: 75/499
+[2026-03-22 06:03:36]   Generating batch: items 76–80 (75/499 done)
+[2026-03-22 06:05:36]   Saved. Progress: 80/499
+[2026-03-22 06:05:37]   Generating batch: items 81–85 (80/499 done)
+[2026-03-22 06:08:18]   Saved. Progress: 85/499
+[2026-03-22 06:08:19]   Generating batch: items 86–90 (85/499 done)
+[2026-03-22 06:10:09]   Saved. Progress: 90/499
+[2026-03-22 06:10:10]   Generating batch: items 91–95 (90/499 done)
+[2026-03-22 06:12:00]   Saved. Progress: 95/499
+[2026-03-22 06:12:01]   Generating batch: items 96–100 (95/499 done)
+[2026-03-22 06:13:52]   Saved. Progress: 100/499
+[2026-03-22 06:13:53]   Generating batch: items 101–105 (100/499 done)
+[2026-03-22 06:16:07]   Saved. Progress: 105/499
+[2026-03-22 06:16:08]   Generating batch: items 106–110 (105/499 done)
+[2026-03-22 06:18:23]   Saved. Progress: 110/499
+[2026-03-22 06:18:24]   Generating batch: items 111–115 (110/499 done)
+[2026-03-22 06:20:27]   Saved. Progress: 115/499
+[2026-03-22 06:20:28]   Generating batch: items 116–120 (115/499 done)
+[2026-03-22 06:22:34]   Saved. Progress: 120/499
+[2026-03-22 06:22:36]   Generating batch: items 121–125 (120/499 done)
+[2026-03-22 06:47:47]   Saved. Progress: 125/499
+[2026-03-22 06:47:48]   Generating batch: items 126–130 (125/499 done)
+[2026-03-22 06:50:02]   Saved. Progress: 130/499
+[2026-03-22 06:50:03]   Generating batch: items 131–135 (130/499 done)
+[2026-03-22 07:56:40] ============================================================
+[2026-03-22 07:56:40] suitability_only_generator.py starting
+[2026-03-22 07:56:40] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 07:56:42] Using model: claude-opus-4-6
+[2026-03-22 07:56:42] 
+============================================================
+[2026-03-22 07:56:42] Starting P12 (standard) — target: 499 items
+[2026-03-22 07:56:42]   Resuming from 130/499
+[2026-03-22 07:56:42]   Generating batch: items 131–135 (130/499 done)
+[2026-03-22 07:59:17] ============================================================
+[2026-03-22 07:59:17] suitability_only_generator.py starting
+[2026-03-22 07:59:17] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 07:59:20] Using model: claude-opus-4-6
+[2026-03-22 07:59:20] 
+============================================================
+[2026-03-22 07:59:20] Starting P12 (standard) — target: 499 items
+[2026-03-22 07:59:20]   Resuming from 130/499
+[2026-03-22 07:59:20]   Generating batch: items 131–135 (130/499 done)
+[2026-03-22 07:59:22]   Saved. Progress: 135/499
+[2026-03-22 07:59:23]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 08:00:03] ============================================================
+[2026-03-22 08:00:03] suitability_only_generator.py starting
+[2026-03-22 08:00:03] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 08:00:05] Using model: claude-opus-4-6
+[2026-03-22 08:00:05] 
+============================================================
+[2026-03-22 08:00:05] Starting P12 (standard) — target: 499 items
+[2026-03-22 08:00:05]   Resuming from 135/499
+[2026-03-22 08:00:05]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 08:01:20] WATCHDOG: Watchdog started
+[2026-03-22 08:05:24]   Request timed out (attempt 1/5), retrying...
+[2026-03-22 08:11:22] WATCHDOG: Stalled 301s with no log progress — killing PID 15790 and restarting
+[2026-03-22 08:11:25] WATCHDOG: Started generator PID 16046
+[2026-03-22 08:11:25] ============================================================
+[2026-03-22 08:11:25] suitability_only_generator.py starting
+[2026-03-22 08:11:25] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 08:11:27] Using model: claude-opus-4-6
+[2026-03-22 08:11:27] 
+============================================================
+[2026-03-22 08:11:27] Starting P12 (standard) — target: 499 items
+[2026-03-22 08:11:28]   Resuming from 135/499
+[2026-03-22 08:11:28]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 08:17:26] WATCHDOG: Stalled 301s with no log progress — killing PID 16046 and restarting
+[2026-03-22 08:17:29] WATCHDOG: Started generator PID 16160
+[2026-03-22 08:17:29] ============================================================
+[2026-03-22 08:17:29] suitability_only_generator.py starting
+[2026-03-22 08:17:29] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 08:17:33] Using model: claude-opus-4-6
+[2026-03-22 08:17:33] 
+============================================================
+[2026-03-22 08:17:33] Starting P12 (standard) — target: 499 items
+[2026-03-22 08:17:33]   Resuming from 135/499
+[2026-03-22 08:17:33]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 08:50:00] WATCHDOG: Generator not running — restarting
+[2026-03-22 08:50:00] WATCHDOG: Started generator PID 16213
+[2026-03-22 08:50:00] ============================================================
+[2026-03-22 08:50:00] suitability_only_generator.py starting
+[2026-03-22 08:50:00] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 08:50:03] Using model: claude-opus-4-6
+[2026-03-22 08:50:03] 
+============================================================
+[2026-03-22 08:50:03] Starting P12 (standard) — target: 499 items
+[2026-03-22 08:50:03]   Resuming from 135/499
+[2026-03-22 08:50:03]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 09:08:39] ============================================================
+[2026-03-22 09:08:39] suitability_only_generator.py starting
+[2026-03-22 09:08:39] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 09:08:42] Using model: claude-opus-4-6
+[2026-03-22 09:08:42] 
+============================================================
+[2026-03-22 09:08:42] Starting P12 (standard) — target: 499 items
+[2026-03-22 09:08:42]   Resuming from 135/499
+[2026-03-22 09:08:42]   Generating batch: items 136–140 (135/499 done)
+[2026-03-22 09:16:35]   Saved. Progress: 140/499
+[2026-03-22 09:16:36]   Generating batch: items 141–145 (140/499 done)
+[2026-03-22 09:18:20]   Saved. Progress: 145/499
+[2026-03-22 09:18:21]   Generating batch: items 146–150 (145/499 done)
+[2026-03-22 09:20:21]   Hard timeout after 120s (attempt 1/5), retrying...
+[2026-03-22 09:25:23] WATCHDOG: Stalled 301s with no log progress — killing PID 16262 and restarting
+[2026-03-22 09:25:26] WATCHDOG: Started generator PID 16500
+[2026-03-22 09:25:26] ============================================================
+[2026-03-22 09:25:26] suitability_only_generator.py starting
+[2026-03-22 09:25:26] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 09:25:28] Using model: claude-opus-4-6
+[2026-03-22 09:25:28] 
+============================================================
+[2026-03-22 09:25:28] Starting P12 (standard) — target: 499 items
+[2026-03-22 09:25:28]   Resuming from 145/499
+[2026-03-22 09:25:28]   Generating batch: items 146–150 (145/499 done)
+[2026-03-22 09:27:09]   Saved. Progress: 150/499
+[2026-03-22 09:27:10]   Generating batch: items 151–155 (150/499 done)
+[2026-03-22 09:29:10]   Hard timeout after 120s (attempt 1/5), retrying...
+[2026-03-22 09:34:27] WATCHDOG: Stalled 301s with no log progress — killing PID 16500 and restarting
+[2026-03-22 09:34:31] WATCHDOG: Started generator PID 16654
+[2026-03-22 09:34:31] ============================================================
+[2026-03-22 09:34:31] suitability_only_generator.py starting
+[2026-03-22 09:34:31] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 09:34:33] Using model: claude-opus-4-6
+[2026-03-22 09:34:33] 
+============================================================
+[2026-03-22 09:34:33] Starting P12 (standard) — target: 499 items
+[2026-03-22 09:34:33]   Resuming from 150/499
+[2026-03-22 09:34:33]   Generating batch: items 151–155 (150/499 done)
+[2026-03-22 09:51:24] WATCHDOG: Watchdog started (tracking item count)
+[2026-03-22 09:51:24] WATCHDOG: Started generator PID 16727
+[2026-03-22 09:51:24] WATCHDOG: Starting item count: 150
+[2026-03-22 09:51:25] ============================================================
+[2026-03-22 09:51:25] suitability_only_generator.py starting
+[2026-03-22 09:51:25] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 09:51:27] Using model: claude-opus-4-6
+[2026-03-22 09:51:27] 
+============================================================
+[2026-03-22 09:51:27] Starting P12 (standard) — target: 499 items
+[2026-03-22 09:51:27]   Resuming from 150/499
+[2026-03-22 09:51:27]   Generating batch: items 151–155 (150/499 done)
+[2026-03-22 09:52:25] WATCHDOG: No new items for 61s (still at 150) PID=16727
+[2026-03-22 09:53:11]   Saved. Progress: 155/499
+[2026-03-22 09:53:12]   Generating batch: items 156–160 (155/499 done)
+[2026-03-22 10:08:28] WATCHDOG: Progress: 150 → 155 items
+[2026-03-22 10:24:28] WATCHDOG: No new items for 960s (still at 155) PID=16727
+[2026-03-22 10:24:28] WATCHDOG: Stalled 960s — killing PID 16727 and restarting
+[2026-03-22 10:24:31] WATCHDOG: Started generator PID 16862
+[2026-03-22 10:24:31] ============================================================
+[2026-03-22 10:24:31] suitability_only_generator.py starting
+[2026-03-22 10:24:31] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 10:24:34] Using model: claude-opus-4-6
+[2026-03-22 10:24:34] 
+============================================================
+[2026-03-22 10:24:34] Starting P12 (standard) — target: 499 items
+[2026-03-22 10:24:34]   Resuming from 155/499
+[2026-03-22 10:24:34]   Generating batch: items 156–160 (155/499 done)
+[2026-03-22 10:38:35] WATCHDOG: No new items for 844s (still at 155) PID=16862
+[2026-03-22 10:38:35] WATCHDOG: Stalled 844s — killing PID 16862 and restarting
+[2026-03-22 10:38:39] WATCHDOG: Started generator PID 16913
+[2026-03-22 10:38:39] ============================================================
+[2026-03-22 10:38:39] suitability_only_generator.py starting
+[2026-03-22 10:38:39] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 10:38:40] Using model: claude-opus-4-6
+[2026-03-22 10:38:40] 
+============================================================
+[2026-03-22 10:38:40] Starting P12 (standard) — target: 499 items
+[2026-03-22 10:38:40]   Resuming from 155/499
+[2026-03-22 10:38:40]   Generating batch: items 156–160 (155/499 done)
+[2026-03-22 10:39:39] WATCHDOG: No new items for 60s (still at 155) PID=16913
+[2026-03-22 10:40:24] WATCHDOG: Watchdog started (tracking item count)
+[2026-03-22 10:40:24] WATCHDOG: Started generator PID 16958
+[2026-03-22 10:40:24] WATCHDOG: Starting item count: 155
+[2026-03-22 10:40:24] ============================================================
+[2026-03-22 10:40:24] suitability_only_generator.py starting
+[2026-03-22 10:40:24] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 10:40:27] Using model: claude-opus-4-6
+[2026-03-22 10:40:27] 
+============================================================
+[2026-03-22 10:40:27] Starting P12 (standard) — target: 499 items
+[2026-03-22 10:40:27]   Resuming from 155/499
+[2026-03-22 10:40:27]   Generating batch: items 156–157 (155/499 done)
+[2026-03-22 10:41:24] WATCHDOG: No new items for 60s (still at 155) PID=16958
+[2026-03-22 10:41:47]   Saved. Progress: 157/499
+[2026-03-22 10:41:48]   Generating batch: items 158–159 (157/499 done)
+[2026-03-22 10:42:24] WATCHDOG: Progress: 155 → 157 items
+[2026-03-22 10:42:49]   Saved. Progress: 159/499
+[2026-03-22 10:42:50]   Generating batch: items 160–161 (159/499 done)
+[2026-03-22 10:43:25] WATCHDOG: Progress: 157 → 159 items
+[2026-03-22 10:43:57]   Saved. Progress: 161/499
+[2026-03-22 10:43:58]   Generating batch: items 162–163 (161/499 done)
+[2026-03-22 10:44:25] WATCHDOG: Progress: 159 → 161 items
+[2026-03-22 10:45:04]   Saved. Progress: 163/499
+[2026-03-22 10:45:05]   Generating batch: items 164–165 (163/499 done)
+[2026-03-22 10:45:25] WATCHDOG: Progress: 161 → 163 items
+[2026-03-22 10:46:17]   Saved. Progress: 165/499
+[2026-03-22 10:46:18]   Generating batch: items 166–167 (165/499 done)
+[2026-03-22 10:46:25] WATCHDOG: Progress: 163 → 165 items
+[2026-03-22 10:47:19]   Saved. Progress: 167/499
+[2026-03-22 10:47:20]   Generating batch: items 168–169 (167/499 done)
+[2026-03-22 10:47:25] WATCHDOG: Progress: 165 → 167 items
+[2026-03-22 10:48:19]   Saved. Progress: 169/499
+[2026-03-22 10:48:21]   Generating batch: items 170–171 (169/499 done)
+[2026-03-22 10:48:25] WATCHDOG: Progress: 167 → 169 items
+[2026-03-22 10:49:05]   Saved. Progress: 171/499
+[2026-03-22 10:49:07]   Generating batch: items 172–173 (171/499 done)
+[2026-03-22 10:49:26] WATCHDOG: Progress: 169 → 171 items
+[2026-03-22 10:50:20]   Saved. Progress: 173/499
+[2026-03-22 10:50:21]   Generating batch: items 174–175 (173/499 done)
+[2026-03-22 10:50:26] WATCHDOG: Progress: 171 → 173 items
+[2026-03-22 10:51:04]   Saved. Progress: 175/499
+[2026-03-22 10:51:05]   Generating batch: items 176–177 (175/499 done)
+[2026-03-22 10:51:26] WATCHDOG: Progress: 173 → 175 items
+[2026-03-22 10:52:06]   Saved. Progress: 177/499
+[2026-03-22 10:52:08]   Generating batch: items 178–179 (177/499 done)
+[2026-03-22 10:52:26] WATCHDOG: Progress: 175 → 177 items
+[2026-03-22 10:53:14]   Saved. Progress: 179/499
+[2026-03-22 10:53:15]   Generating batch: items 180–181 (179/499 done)
+[2026-03-22 10:53:27] WATCHDOG: Progress: 177 → 179 items
+[2026-03-22 10:54:14]   Saved. Progress: 181/499
+[2026-03-22 10:54:15]   Generating batch: items 182–183 (181/499 done)
+[2026-03-22 10:54:27] WATCHDOG: Progress: 179 → 181 items
+[2026-03-22 10:55:08]   Saved. Progress: 183/499
+[2026-03-22 10:55:09]   Generating batch: items 184–185 (183/499 done)
+[2026-03-22 10:55:27] WATCHDOG: Progress: 181 → 183 items
+[2026-03-22 10:56:09]   Saved. Progress: 185/499
+[2026-03-22 10:56:10]   Generating batch: items 186–187 (185/499 done)
+[2026-03-22 10:56:27] WATCHDOG: Progress: 183 → 185 items
+[2026-03-22 10:57:04]   Saved. Progress: 187/499
+[2026-03-22 10:57:05]   Generating batch: items 188–189 (187/499 done)
+[2026-03-22 10:57:27] WATCHDOG: Progress: 185 → 187 items
+[2026-03-22 10:57:52]   Saved. Progress: 189/499
+[2026-03-22 10:57:53]   Generating batch: items 190–191 (189/499 done)
+[2026-03-22 10:58:28] WATCHDOG: Progress: 187 → 189 items
+[2026-03-22 10:59:09]   Saved. Progress: 191/499
+[2026-03-22 10:59:10]   Generating batch: items 192–193 (191/499 done)
+[2026-03-22 10:59:28] WATCHDOG: Progress: 189 → 191 items
+[2026-03-22 11:00:28] WATCHDOG: No new items for 60s (still at 191) PID=16958
+[2026-03-22 11:00:31]   Saved. Progress: 193/499
+[2026-03-22 11:00:32]   Generating batch: items 194–195 (193/499 done)
+[2026-03-22 11:01:28] WATCHDOG: Progress: 191 → 193 items
+[2026-03-22 11:01:38]   Saved. Progress: 195/499
+[2026-03-22 11:01:40]   Generating batch: items 196–197 (195/499 done)
+[2026-03-22 11:02:29] WATCHDOG: Progress: 193 → 195 items
+[2026-03-22 11:02:39]   Saved. Progress: 197/499
+[2026-03-22 11:02:40]   Generating batch: items 198–199 (197/499 done)
+[2026-03-22 11:03:29] WATCHDOG: Progress: 195 → 197 items
+[2026-03-22 11:03:36]   Saved. Progress: 199/499
+[2026-03-22 11:03:37]   Generating batch: items 200–201 (199/499 done)
+[2026-03-22 11:04:29] WATCHDOG: Progress: 197 → 199 items
+[2026-03-22 11:04:55]   Saved. Progress: 201/499
+[2026-03-22 11:04:56]   Generating batch: items 202–203 (201/499 done)
+[2026-03-22 11:05:29] WATCHDOG: Progress: 199 → 201 items
+[2026-03-22 11:06:03]   Saved. Progress: 203/499
+[2026-03-22 11:06:04]   Generating batch: items 204–205 (203/499 done)
+[2026-03-22 11:06:30] WATCHDOG: Progress: 201 → 203 items
+[2026-03-22 11:06:56]   Saved. Progress: 205/499
+[2026-03-22 11:06:57]   Generating batch: items 206–207 (205/499 done)
+[2026-03-22 11:07:30] WATCHDOG: Progress: 203 → 205 items
+[2026-03-22 11:08:03]   Saved. Progress: 207/499
+[2026-03-22 11:08:04]   Generating batch: items 208–209 (207/499 done)
+[2026-03-22 11:08:30] WATCHDOG: Progress: 205 → 207 items
+[2026-03-22 11:09:12]   Saved. Progress: 209/499
+[2026-03-22 11:09:13]   Generating batch: items 210–211 (209/499 done)
+[2026-03-22 11:09:30] WATCHDOG: Progress: 207 → 209 items
+[2026-03-22 11:10:18]   Saved. Progress: 211/499
+[2026-03-22 11:10:19]   Generating batch: items 212–213 (211/499 done)
+[2026-03-22 11:10:30] WATCHDOG: Progress: 209 → 211 items
+[2026-03-22 11:11:29]   Saved. Progress: 213/499
+[2026-03-22 11:11:30]   Generating batch: items 214–215 (213/499 done)
+[2026-03-22 11:11:31] WATCHDOG: Progress: 211 → 213 items
+[2026-03-22 11:12:19]   Saved. Progress: 215/499
+[2026-03-22 11:12:20]   Generating batch: items 216–217 (215/499 done)
+[2026-03-22 11:12:31] WATCHDOG: Progress: 213 → 215 items
+[2026-03-22 11:13:24]   Saved. Progress: 217/499
+[2026-03-22 11:13:25]   Generating batch: items 218–219 (217/499 done)
+[2026-03-22 11:13:31] WATCHDOG: Progress: 215 → 217 items
+[2026-03-22 11:14:23]   Saved. Progress: 219/499
+[2026-03-22 11:14:24]   Generating batch: items 220–221 (219/499 done)
+[2026-03-22 11:14:31] WATCHDOG: Progress: 217 → 219 items
+[2026-03-22 11:15:32] WATCHDOG: No new items for 61s (still at 219) PID=16958
+[2026-03-22 11:15:44]   Saved. Progress: 221/499
+[2026-03-22 11:15:46]   Generating batch: items 222–223 (221/499 done)
+[2026-03-22 11:16:32] WATCHDOG: Progress: 219 → 221 items
+[2026-03-22 11:16:33]   Saved. Progress: 223/499
+[2026-03-22 11:16:34]   Generating batch: items 224–225 (223/499 done)
+[2026-03-22 11:17:32] WATCHDOG: Progress: 221 → 223 items
+[2026-03-22 11:17:35]   Saved. Progress: 225/499
+[2026-03-22 11:17:36]   Generating batch: items 226–227 (225/499 done)
+[2026-03-22 11:18:32] WATCHDOG: Progress: 223 → 225 items
+[2026-03-22 11:18:41]   Saved. Progress: 227/499
+[2026-03-22 11:18:42]   Generating batch: items 228–229 (227/499 done)
+[2026-03-22 11:19:32] WATCHDOG: Progress: 225 → 227 items
+[2026-03-22 11:19:49]   Saved. Progress: 229/499
+[2026-03-22 11:19:50]   Generating batch: items 230–231 (229/499 done)
+[2026-03-22 11:20:33] WATCHDOG: Progress: 227 → 229 items
+[2026-03-22 11:20:39]   Saved. Progress: 231/499
+[2026-03-22 11:20:40]   Generating batch: items 232–233 (231/499 done)
+[2026-03-22 11:21:30]   Saved. Progress: 233/499
+[2026-03-22 11:21:31]   Generating batch: items 234–235 (233/499 done)
+[2026-03-22 11:21:33] WATCHDOG: Progress: 229 → 233 items
+[2026-03-22 11:22:29]   Saved. Progress: 235/499
+[2026-03-22 11:22:31]   Generating batch: items 236–237 (235/499 done)
+[2026-03-22 11:22:33] WATCHDOG: Progress: 233 → 235 items
+[2026-03-22 11:23:29]   Saved. Progress: 237/499
+[2026-03-22 11:23:30]   Generating batch: items 238–239 (237/499 done)
+[2026-03-22 11:23:33] WATCHDOG: Progress: 235 → 237 items
+[2026-03-22 11:24:34] WATCHDOG: No new items for 61s (still at 237) PID=16958
+[2026-03-22 11:24:34]   Saved. Progress: 239/499
+[2026-03-22 11:24:35]   Generating batch: items 240–241 (239/499 done)
+[2026-03-22 11:25:34] WATCHDOG: Progress: 237 → 239 items
+[2026-03-22 11:25:53]   Saved. Progress: 241/499
+[2026-03-22 11:25:54]   Generating batch: items 242–243 (241/499 done)
+[2026-03-22 11:26:34] WATCHDOG: Progress: 239 → 241 items
+[2026-03-22 11:26:54]   Saved. Progress: 243/499
+[2026-03-22 11:26:55]   Generating batch: items 244–245 (243/499 done)
+[2026-03-22 11:27:34] WATCHDOG: Progress: 241 → 243 items
+[2026-03-22 11:27:47]   Saved. Progress: 245/499
+[2026-03-22 11:27:48]   Generating batch: items 246–247 (245/499 done)
+[2026-03-22 11:28:34] WATCHDOG: Progress: 243 → 245 items
+[2026-03-22 11:29:04]   Saved. Progress: 247/499
+[2026-03-22 11:29:05]   Generating batch: items 248–249 (247/499 done)
+[2026-03-22 11:29:34] WATCHDOG: Progress: 245 → 247 items
+[2026-03-22 11:30:10]   Saved. Progress: 249/499
+[2026-03-22 11:30:11]   Generating batch: items 250–251 (249/499 done)
+[2026-03-22 11:30:34] WATCHDOG: Progress: 247 → 249 items
+[2026-03-22 11:31:28]   Saved. Progress: 251/499
+[2026-03-22 11:31:29]   Generating batch: items 252–253 (251/499 done)
+[2026-03-22 11:31:35] WATCHDOG: Progress: 249 → 251 items
+[2026-03-22 11:32:27]   Saved. Progress: 253/499
+[2026-03-22 11:32:28]   Generating batch: items 254–255 (253/499 done)
+[2026-03-22 11:32:35] WATCHDOG: Progress: 251 → 253 items
+[2026-03-22 11:33:27]   Saved. Progress: 255/499
+[2026-03-22 11:33:28]   Generating batch: items 256–257 (255/499 done)
+[2026-03-22 11:33:35] WATCHDOG: Progress: 253 → 255 items
+[2026-03-22 11:34:23]   Saved. Progress: 257/499
+[2026-03-22 11:34:24]   Generating batch: items 258–259 (257/499 done)
+[2026-03-22 11:34:35] WATCHDOG: Progress: 255 → 257 items
+[2026-03-22 11:35:28]   Saved. Progress: 259/499
+[2026-03-22 11:35:30]   Generating batch: items 260–261 (259/499 done)
+[2026-03-22 11:35:36] WATCHDOG: Progress: 257 → 259 items
+[2026-03-22 11:36:36] WATCHDOG: No new items for 60s (still at 259) PID=16958
+[2026-03-22 11:36:38]   Saved. Progress: 261/499
+[2026-03-22 11:36:40]   Generating batch: items 262–263 (261/499 done)
+[2026-03-22 11:37:36] WATCHDOG: Progress: 259 → 261 items
+[2026-03-22 11:37:46]   Saved. Progress: 263/499
+[2026-03-22 11:37:47]   Generating batch: items 264–265 (263/499 done)
+[2026-03-22 11:38:36] WATCHDOG: Progress: 261 → 263 items
+[2026-03-22 11:38:44]   Saved. Progress: 265/499
+[2026-03-22 11:38:45]   Generating batch: items 266–267 (265/499 done)
+[2026-03-22 11:39:37] WATCHDOG: Progress: 263 → 265 items
+[2026-03-22 11:39:40]   Saved. Progress: 267/499
+[2026-03-22 11:39:41]   Generating batch: items 268–269 (267/499 done)
+[2026-03-22 11:40:35]   Saved. Progress: 269/499
+[2026-03-22 11:40:36]   Generating batch: items 270–271 (269/499 done)
+[2026-03-22 11:40:37] WATCHDOG: Progress: 265 → 269 items
+[2026-03-22 11:41:37] WATCHDOG: No new items for 60s (still at 269) PID=16958
+[2026-03-22 11:42:00]   Saved. Progress: 271/499
+[2026-03-22 11:42:01]   Generating batch: items 272–273 (271/499 done)
+[2026-03-22 11:42:37] WATCHDOG: Progress: 269 → 271 items
+[2026-03-22 11:42:54]   Saved. Progress: 273/499
+[2026-03-22 11:42:55]   Generating batch: items 274–275 (273/499 done)
+[2026-03-22 11:43:37] WATCHDOG: Progress: 271 → 273 items
+[2026-03-22 11:43:57]   Saved. Progress: 275/499
+[2026-03-22 11:43:58]   Generating batch: items 276–277 (275/499 done)
+[2026-03-22 11:44:38] WATCHDOG: Progress: 273 → 275 items
+[2026-03-22 11:44:53]   Saved. Progress: 277/499
+[2026-03-22 11:44:54]   Generating batch: items 278–279 (277/499 done)
+[2026-03-22 11:45:38] WATCHDOG: Progress: 275 → 277 items
+[2026-03-22 11:46:00]   Saved. Progress: 279/499
+[2026-03-22 11:46:01]   Generating batch: items 280–281 (279/499 done)
+[2026-03-22 11:46:38] WATCHDOG: Progress: 277 → 279 items
+[2026-03-22 11:47:02]   Saved. Progress: 281/499
+[2026-03-22 11:47:03]   Generating batch: items 282–283 (281/499 done)
+[2026-03-22 11:47:38] WATCHDOG: Progress: 279 → 281 items
+[2026-03-22 11:47:51]   Saved. Progress: 283/499
+[2026-03-22 11:47:52]   Generating batch: items 284–285 (283/499 done)
+[2026-03-22 11:48:39] WATCHDOG: Progress: 281 → 283 items
+[2026-03-22 11:49:07]   Saved. Progress: 285/499
+[2026-03-22 11:49:08]   Generating batch: items 286–287 (285/499 done)
+[2026-03-22 11:49:39] WATCHDOG: Progress: 283 → 285 items
+[2026-03-22 11:50:14]   Saved. Progress: 287/499
+[2026-03-22 11:50:15]   Generating batch: items 288–289 (287/499 done)
+[2026-03-22 11:50:39] WATCHDOG: Progress: 285 → 287 items
+[2026-03-22 11:51:20]   Saved. Progress: 289/499
+[2026-03-22 11:51:21]   Generating batch: items 290–291 (289/499 done)
+[2026-03-22 11:51:39] WATCHDOG: Progress: 287 → 289 items
+[2026-03-22 11:52:24]   Saved. Progress: 291/499
+[2026-03-22 11:52:25]   Generating batch: items 292–293 (291/499 done)
+[2026-03-22 11:52:39] WATCHDOG: Progress: 289 → 291 items
+[2026-03-22 11:53:18]   Saved. Progress: 293/499
+[2026-03-22 11:53:19]   Generating batch: items 294–295 (293/499 done)
+[2026-03-22 11:53:40] WATCHDOG: Progress: 291 → 293 items
+[2026-03-22 11:54:19]   Saved. Progress: 295/499
+[2026-03-22 11:54:20]   Generating batch: items 296–297 (295/499 done)
+[2026-03-22 11:54:40] WATCHDOG: Progress: 293 → 295 items
+[2026-03-22 11:55:24]   Saved. Progress: 297/499
+[2026-03-22 11:55:25]   Generating batch: items 298–299 (297/499 done)
+[2026-03-22 11:55:40] WATCHDOG: Progress: 295 → 297 items
+[2026-03-22 11:56:14]   Saved. Progress: 299/499
+[2026-03-22 11:56:15]   Generating batch: items 300–301 (299/499 done)
+[2026-03-22 11:56:40] WATCHDOG: Progress: 297 → 299 items
+[2026-03-22 11:57:29]   Saved. Progress: 301/499
+[2026-03-22 11:57:30]   Generating batch: items 302–303 (301/499 done)
+[2026-03-22 11:57:41] WATCHDOG: Progress: 299 → 301 items
+[2026-03-22 11:58:29]   Saved. Progress: 303/499
+[2026-03-22 11:58:30]   Generating batch: items 304–305 (303/499 done)
+[2026-03-22 11:58:41] WATCHDOG: Progress: 301 → 303 items
+[2026-03-22 11:59:41] WATCHDOG: No new items for 60s (still at 303) PID=16958
+[2026-03-22 11:59:45]   Saved. Progress: 305/499
+[2026-03-22 11:59:46]   Generating batch: items 306–307 (305/499 done)
+[2026-03-22 12:00:41] WATCHDOG: Progress: 303 → 305 items
+[2026-03-22 12:00:53]   Saved. Progress: 307/499
+[2026-03-22 12:00:54]   Generating batch: items 308–309 (307/499 done)
+[2026-03-22 12:01:42] WATCHDOG: Progress: 305 → 307 items
+[2026-03-22 12:01:51]   Saved. Progress: 309/499
+[2026-03-22 12:01:52]   Generating batch: items 310–311 (309/499 done)
+[2026-03-22 12:02:42] WATCHDOG: Progress: 307 → 309 items
+[2026-03-22 12:02:45]   Saved. Progress: 311/499
+[2026-03-22 12:02:46]   Generating batch: items 312–313 (311/499 done)
+[2026-03-22 12:03:42] WATCHDOG: Progress: 309 → 311 items
+[2026-03-22 12:03:59]   Saved. Progress: 313/499
+[2026-03-22 12:04:00]   Generating batch: items 314–315 (313/499 done)
+[2026-03-22 12:04:42] WATCHDOG: Progress: 311 → 313 items
+[2026-03-22 12:05:11]   Saved. Progress: 315/499
+[2026-03-22 12:05:12]   Generating batch: items 316–317 (315/499 done)
+[2026-03-22 12:05:42] WATCHDOG: Progress: 313 → 315 items
+[2026-03-22 12:06:09]   Saved. Progress: 317/499
+[2026-03-22 12:06:10]   Generating batch: items 318–319 (317/499 done)
+[2026-03-22 12:06:43] WATCHDOG: Progress: 315 → 317 items
+[2026-03-22 12:07:09]   Saved. Progress: 319/499
+[2026-03-22 12:07:10]   Generating batch: items 320–321 (319/499 done)
+[2026-03-22 12:07:43] WATCHDOG: Progress: 317 → 319 items
+[2026-03-22 12:08:15]   Saved. Progress: 321/499
+[2026-03-22 12:08:16]   Generating batch: items 322–323 (321/499 done)
+[2026-03-22 12:08:43] WATCHDOG: Progress: 319 → 321 items
+[2026-03-22 12:09:34]   Saved. Progress: 323/499
+[2026-03-22 12:09:35]   Generating batch: items 324–325 (323/499 done)
+[2026-03-22 12:09:43] WATCHDOG: Progress: 321 → 323 items
+[2026-03-22 12:10:30]   Saved. Progress: 325/499
+[2026-03-22 12:10:31]   Generating batch: items 326–327 (325/499 done)
+[2026-03-22 12:10:44] WATCHDOG: Progress: 323 → 325 items
+[2026-03-22 12:11:44] WATCHDOG: No new items for 60s (still at 325) PID=16958
+[2026-03-22 12:11:45]   Saved. Progress: 327/499
+[2026-03-22 12:11:46]   Generating batch: items 328–329 (327/499 done)
+[2026-03-22 12:12:44] WATCHDOG: Progress: 325 → 327 items
+[2026-03-22 12:12:51]   Saved. Progress: 329/499
+[2026-03-22 12:12:52]   Generating batch: items 330–331 (329/499 done)
+[2026-03-22 12:13:44] WATCHDOG: Progress: 327 → 329 items
+[2026-03-22 12:13:48]   Saved. Progress: 331/499
+[2026-03-22 12:13:50]   Generating batch: items 332–333 (331/499 done)
+[2026-03-22 12:14:44] WATCHDOG: Progress: 329 → 331 items
+[2026-03-22 12:15:11]   Saved. Progress: 333/499
+[2026-03-22 12:15:12]   Generating batch: items 334–335 (333/499 done)
+[2026-03-22 12:15:45] WATCHDOG: Progress: 331 → 333 items
+[2026-03-22 12:16:29]   Saved. Progress: 335/499
+[2026-03-22 12:16:30]   Generating batch: items 336–337 (335/499 done)
+[2026-03-22 12:16:45] WATCHDOG: Progress: 333 → 335 items
+[2026-03-22 12:17:45] WATCHDOG: No new items for 60s (still at 335) PID=16958
+[2026-03-22 12:17:45]   Saved. Progress: 337/499
+[2026-03-22 12:17:46]   Generating batch: items 338–339 (337/499 done)
+[2026-03-22 12:18:33]   Saved. Progress: 339/499
+[2026-03-22 12:18:34]   Generating batch: items 340–341 (339/499 done)
+[2026-03-22 12:18:45] WATCHDOG: Progress: 335 → 339 items
+[2026-03-22 12:19:36]   Saved. Progress: 341/499
+[2026-03-22 12:19:37]   Generating batch: items 342–343 (341/499 done)
+[2026-03-22 12:19:46] WATCHDOG: Progress: 339 → 341 items
+[2026-03-22 12:20:38]   Saved. Progress: 343/499
+[2026-03-22 12:20:39]   Generating batch: items 344–345 (343/499 done)
+[2026-03-22 12:20:46] WATCHDOG: Progress: 341 → 343 items
+[2026-03-22 12:21:33]   Saved. Progress: 345/499
+[2026-03-22 12:21:34]   Generating batch: items 346–347 (345/499 done)
+[2026-03-22 12:21:46] WATCHDOG: Progress: 343 → 345 items
+[2026-03-22 12:22:30]   Saved. Progress: 347/499
+[2026-03-22 12:22:31]   Generating batch: items 348–349 (347/499 done)
+[2026-03-22 12:22:46] WATCHDOG: Progress: 345 → 347 items
+[2026-03-22 12:23:21]   Saved. Progress: 349/499
+[2026-03-22 12:23:23]   Generating batch: items 350–351 (349/499 done)
+[2026-03-22 12:23:46] WATCHDOG: Progress: 347 → 349 items
+[2026-03-22 12:24:07]   Saved. Progress: 351/499
+[2026-03-22 12:24:09]   Generating batch: items 352–353 (351/499 done)
+[2026-03-22 12:24:47] WATCHDOG: Progress: 349 → 351 items
+[2026-03-22 12:25:16]   Saved. Progress: 353/499
+[2026-03-22 12:25:17]   Generating batch: items 354–355 (353/499 done)
+[2026-03-22 12:25:47] WATCHDOG: Progress: 351 → 353 items
+[2026-03-22 12:26:07]   Saved. Progress: 355/499
+[2026-03-22 12:26:08]   Generating batch: items 356–357 (355/499 done)
+[2026-03-22 12:26:47] WATCHDOG: Progress: 353 → 355 items
+[2026-03-22 12:27:04]   Saved. Progress: 357/499
+[2026-03-22 12:27:05]   Generating batch: items 358–359 (357/499 done)
+[2026-03-22 12:27:47] WATCHDOG: Progress: 355 → 357 items
+[2026-03-22 12:28:06]   Saved. Progress: 359/499
+[2026-03-22 12:28:08]   Generating batch: items 360–361 (359/499 done)
+[2026-03-22 12:28:48] WATCHDOG: Progress: 357 → 359 items
+[2026-03-22 12:29:09]   Saved. Progress: 361/499
+[2026-03-22 12:29:11]   Generating batch: items 362–363 (361/499 done)
+[2026-03-22 12:29:48] WATCHDOG: Progress: 359 → 361 items
+[2026-03-22 12:30:22]   Saved. Progress: 363/499
+[2026-03-22 12:30:23]   Generating batch: items 364–365 (363/499 done)
+[2026-03-22 12:30:48] WATCHDOG: Progress: 361 → 363 items
+[2026-03-22 12:31:27]   Saved. Progress: 365/499
+[2026-03-22 12:31:28]   Generating batch: items 366–367 (365/499 done)
+[2026-03-22 12:31:48] WATCHDOG: Progress: 363 → 365 items
+[2026-03-22 12:32:25]   Saved. Progress: 367/499
+[2026-03-22 12:32:26]   Generating batch: items 368–369 (367/499 done)
+[2026-03-22 12:32:49] WATCHDOG: Progress: 365 → 367 items
+[2026-03-22 12:33:19]   Saved. Progress: 369/499
+[2026-03-22 12:33:20]   Generating batch: items 370–371 (369/499 done)
+[2026-03-22 12:33:49] WATCHDOG: Progress: 367 → 369 items
+[2026-03-22 12:34:28]   Saved. Progress: 371/499
+[2026-03-22 12:34:29]   Generating batch: items 372–373 (371/499 done)
+[2026-03-22 12:34:49] WATCHDOG: Progress: 369 → 371 items
+[2026-03-22 12:35:41]   Saved. Progress: 373/499
+[2026-03-22 12:35:42]   Generating batch: items 374–375 (373/499 done)
+[2026-03-22 12:35:49] WATCHDOG: Progress: 371 → 373 items
+[2026-03-22 12:36:47]   Saved. Progress: 375/499
+[2026-03-22 12:36:48]   Generating batch: items 376–377 (375/499 done)
+[2026-03-22 12:36:49] WATCHDOG: Progress: 373 → 375 items
+[2026-03-22 12:37:33]   Saved. Progress: 377/499
+[2026-03-22 12:37:34]   Generating batch: items 378–379 (377/499 done)
+[2026-03-22 12:37:50] WATCHDOG: Progress: 375 → 377 items
+[2026-03-22 12:38:29]   Saved. Progress: 379/499
+[2026-03-22 12:38:30]   Generating batch: items 380–381 (379/499 done)
+[2026-03-22 12:38:50] WATCHDOG: Progress: 377 → 379 items
+[2026-03-22 12:39:31]   Saved. Progress: 381/499
+[2026-03-22 12:39:32]   Generating batch: items 382–383 (381/499 done)
+[2026-03-22 12:39:50] WATCHDOG: Progress: 379 → 381 items
+[2026-03-22 12:40:40]   Saved. Progress: 383/499
+[2026-03-22 12:40:42]   Generating batch: items 384–385 (383/499 done)
+[2026-03-22 12:40:50] WATCHDOG: Progress: 381 → 383 items
+[2026-03-22 12:41:37]   Saved. Progress: 385/499
+[2026-03-22 12:41:38]   Generating batch: items 386–387 (385/499 done)
+[2026-03-22 12:41:51] WATCHDOG: Progress: 383 → 385 items
+[2026-03-22 12:42:48]   Saved. Progress: 387/499
+[2026-03-22 12:42:49]   Generating batch: items 388–389 (387/499 done)
+[2026-03-22 12:42:51] WATCHDOG: Progress: 385 → 387 items
+[2026-03-22 12:43:37]   Saved. Progress: 389/499
+[2026-03-22 12:43:38]   Generating batch: items 390–391 (389/499 done)
+[2026-03-22 12:43:51] WATCHDOG: Progress: 387 → 389 items
+[2026-03-22 12:44:39]   Saved. Progress: 391/499
+[2026-03-22 12:44:40]   Generating batch: items 392–393 (391/499 done)
+[2026-03-22 12:44:51] WATCHDOG: Progress: 389 → 391 items
+[2026-03-22 12:45:52] WATCHDOG: No new items for 60s (still at 391) PID=16958
+[2026-03-22 12:45:54]   Saved. Progress: 393/499
+[2026-03-22 12:45:55]   Generating batch: items 394–395 (393/499 done)
+[2026-03-22 12:46:52] WATCHDOG: Progress: 391 → 393 items
+[2026-03-22 12:46:54]   Saved. Progress: 395/499
+[2026-03-22 12:46:55]   Generating batch: items 396–397 (395/499 done)
+[2026-03-22 12:47:44]   Saved. Progress: 397/499
+[2026-03-22 12:47:45]   Generating batch: items 398–399 (397/499 done)
+[2026-03-22 12:47:52] WATCHDOG: Progress: 393 → 397 items
+[2026-03-22 12:48:40]   Saved. Progress: 399/499
+[2026-03-22 12:48:41]   Generating batch: items 400–401 (399/499 done)
+[2026-03-22 12:48:52] WATCHDOG: Progress: 397 → 399 items
+[2026-03-22 12:49:50]   Saved. Progress: 401/499
+[2026-03-22 12:49:51]   Generating batch: items 402–403 (401/499 done)
+[2026-03-22 12:49:52] WATCHDOG: Progress: 399 → 401 items
+[2026-03-22 12:50:50]   Saved. Progress: 403/499
+[2026-03-22 12:50:51]   Generating batch: items 404–405 (403/499 done)
+[2026-03-22 12:50:53] WATCHDOG: Progress: 401 → 403 items
+[2026-03-22 12:51:53] WATCHDOG: No new items for 60s (still at 403) PID=16958
+[2026-03-22 12:52:06]   Saved. Progress: 405/499
+[2026-03-22 12:52:07]   Generating batch: items 406–407 (405/499 done)
+[2026-03-22 12:52:53] WATCHDOG: Progress: 403 → 405 items
+[2026-03-22 12:53:08]   Saved. Progress: 407/499
+[2026-03-22 12:53:09]   Generating batch: items 408–409 (407/499 done)
+[2026-03-22 12:53:53] WATCHDOG: Progress: 405 → 407 items
+[2026-03-22 12:54:02]   Saved. Progress: 409/499
+[2026-03-22 12:54:04]   Generating batch: items 410–411 (409/499 done)
+[2026-03-22 12:54:54] WATCHDOG: Progress: 407 → 409 items
+[2026-03-22 12:55:02]   Saved. Progress: 411/499
+[2026-03-22 12:55:03]   Generating batch: items 412–413 (411/499 done)
+[2026-03-22 12:55:54] WATCHDOG: Progress: 409 → 411 items
+[2026-03-22 12:56:22]   Saved. Progress: 413/499
+[2026-03-22 12:56:23]   Generating batch: items 414–415 (413/499 done)
+[2026-03-22 12:56:54] WATCHDOG: Progress: 411 → 413 items
+[2026-03-22 12:57:18]   Saved. Progress: 415/499
+[2026-03-22 12:57:19]   Generating batch: items 416–417 (415/499 done)
+[2026-03-22 12:57:54] WATCHDOG: Progress: 413 → 415 items
+[2026-03-22 12:58:15]   Saved. Progress: 417/499
+[2026-03-22 12:58:16]   Generating batch: items 418–419 (417/499 done)
+[2026-03-22 12:58:54] WATCHDOG: Progress: 415 → 417 items
+[2026-03-22 12:59:09]   Saved. Progress: 419/499
+[2026-03-22 12:59:10]   Generating batch: items 420–421 (419/499 done)
+[2026-03-22 12:59:55] WATCHDOG: Progress: 417 → 419 items
+[2026-03-22 13:00:05]   Saved. Progress: 421/499
+[2026-03-22 13:00:06]   Generating batch: items 422–423 (421/499 done)
+[2026-03-22 13:00:55] WATCHDOG: Progress: 419 → 421 items
+[2026-03-22 13:01:14]   Saved. Progress: 423/499
+[2026-03-22 13:01:15]   Generating batch: items 424–425 (423/499 done)
+[2026-03-22 13:01:55] WATCHDOG: Progress: 421 → 423 items
+[2026-03-22 13:01:59]   Saved. Progress: 425/499
+[2026-03-22 13:02:00]   Generating batch: items 426–427 (425/499 done)
+[2026-03-22 13:02:55] WATCHDOG: Progress: 423 → 425 items
+[2026-03-22 13:03:21]   Saved. Progress: 427/499
+[2026-03-22 13:03:22]   Generating batch: items 428–429 (427/499 done)
+[2026-03-22 13:03:56] WATCHDOG: Progress: 425 → 427 items
+[2026-03-22 13:04:11]   Saved. Progress: 429/499
+[2026-03-22 13:04:12]   Generating batch: items 430–431 (429/499 done)
+[2026-03-22 13:04:56] WATCHDOG: Progress: 427 → 429 items
+[2026-03-22 13:05:13]   Saved. Progress: 431/499
+[2026-03-22 13:05:14]   Generating batch: items 432–433 (431/499 done)
+[2026-03-22 13:05:56] WATCHDOG: Progress: 429 → 431 items
+[2026-03-22 13:06:21]   Saved. Progress: 433/499
+[2026-03-22 13:06:23]   Generating batch: items 434–435 (433/499 done)
+[2026-03-22 13:06:56] WATCHDOG: Progress: 431 → 433 items
+[2026-03-22 13:07:24]   Saved. Progress: 435/499
+[2026-03-22 13:07:26]   Generating batch: items 436–437 (435/499 done)
+[2026-03-22 13:07:57] WATCHDOG: Progress: 433 → 435 items
+[2026-03-22 13:08:15]   Saved. Progress: 437/499
+[2026-03-22 13:08:17]   Generating batch: items 438–439 (437/499 done)
+[2026-03-22 13:08:57] WATCHDOG: Progress: 435 → 437 items
+[2026-03-22 13:09:18]   Saved. Progress: 439/499
+[2026-03-22 13:09:20]   Generating batch: items 440–441 (439/499 done)
+[2026-03-22 13:09:57] WATCHDOG: Progress: 437 → 439 items
+[2026-03-22 13:10:31]   Saved. Progress: 441/499
+[2026-03-22 13:10:33]   Generating batch: items 442–443 (441/499 done)
+[2026-03-22 13:10:57] WATCHDOG: Progress: 439 → 441 items
+[2026-03-22 13:11:42]   Saved. Progress: 443/499
+[2026-03-22 13:11:44]   Generating batch: items 444–445 (443/499 done)
+[2026-03-22 13:11:57] WATCHDOG: Progress: 441 → 443 items
+[2026-03-22 13:12:44]   Saved. Progress: 445/499
+[2026-03-22 13:12:45]   Generating batch: items 446–447 (445/499 done)
+[2026-03-22 13:12:58] WATCHDOG: Progress: 443 → 445 items
+[2026-03-22 13:13:48]   Saved. Progress: 447/499
+[2026-03-22 13:13:49]   Generating batch: items 448–449 (447/499 done)
+[2026-03-22 13:13:58] WATCHDOG: Progress: 445 → 447 items
+[2026-03-22 13:14:55]   Saved. Progress: 449/499
+[2026-03-22 13:14:56]   Generating batch: items 450–451 (449/499 done)
+[2026-03-22 13:14:58] WATCHDOG: Progress: 447 → 449 items
+[2026-03-22 13:15:58] WATCHDOG: No new items for 60s (still at 449) PID=16958
+[2026-03-22 13:16:00]   Saved. Progress: 451/499
+[2026-03-22 13:16:01]   Generating batch: items 452–453 (451/499 done)
+[2026-03-22 13:16:59] WATCHDOG: Progress: 449 → 451 items
+[2026-03-22 13:17:05]   Saved. Progress: 453/499
+[2026-03-22 13:17:06]   Generating batch: items 454–455 (453/499 done)
+[2026-03-22 13:17:54]   Saved. Progress: 455/499
+[2026-03-22 13:17:56]   Generating batch: items 456–457 (455/499 done)
+[2026-03-22 13:17:59] WATCHDOG: Progress: 451 → 455 items
+[2026-03-22 13:18:53]   Saved. Progress: 457/499
+[2026-03-22 13:18:54]   Generating batch: items 458–459 (457/499 done)
+[2026-03-22 13:18:59] WATCHDOG: Progress: 455 → 457 items
+[2026-03-22 13:19:59] WATCHDOG: No new items for 60s (still at 457) PID=16958
+[2026-03-22 13:20:00]   Saved. Progress: 459/499
+[2026-03-22 13:20:01]   Generating batch: items 460–461 (459/499 done)
+[2026-03-22 13:20:53]   Saved. Progress: 461/499
+[2026-03-22 13:20:54]   Generating batch: items 462–463 (461/499 done)
+[2026-03-22 13:20:59] WATCHDOG: Progress: 457 → 461 items
+[2026-03-22 13:22:00] WATCHDOG: No new items for 61s (still at 461) PID=16958
+[2026-03-22 13:22:12]   Saved. Progress: 463/499
+[2026-03-22 13:22:13]   Generating batch: items 464–465 (463/499 done)
+[2026-03-22 13:23:00] WATCHDOG: Progress: 461 → 463 items
+[2026-03-22 13:23:04]   Saved. Progress: 465/499
+[2026-03-22 13:23:05]   Generating batch: items 466–467 (465/499 done)
+[2026-03-22 13:24:00] WATCHDOG: Progress: 463 → 465 items
+[2026-03-22 13:24:07]   Saved. Progress: 467/499
+[2026-03-22 13:24:08]   Generating batch: items 468–469 (467/499 done)
+[2026-03-22 13:25:00] WATCHDOG: Progress: 465 → 467 items
+[2026-03-22 13:25:08]   Saved. Progress: 469/499
+[2026-03-22 13:25:09]   Generating batch: items 470–471 (469/499 done)
+[2026-03-22 13:26:01] WATCHDOG: Progress: 467 → 469 items
+[2026-03-22 13:26:09]   Saved. Progress: 471/499
+[2026-03-22 13:26:10]   Generating batch: items 472–473 (471/499 done)
+[2026-03-22 13:27:01] WATCHDOG: Progress: 469 → 471 items
+[2026-03-22 13:27:16]   Saved. Progress: 473/499
+[2026-03-22 13:27:17]   Generating batch: items 474–475 (473/499 done)
+[2026-03-22 13:28:01] WATCHDOG: Progress: 471 → 473 items
+[2026-03-22 13:28:32]   Saved. Progress: 475/499
+[2026-03-22 13:28:33]   Generating batch: items 476–477 (475/499 done)
+[2026-03-22 13:29:01] WATCHDOG: Progress: 473 → 475 items
+[2026-03-22 13:29:29]   Saved. Progress: 477/499
+[2026-03-22 13:29:30]   Generating batch: items 478–479 (477/499 done)
+[2026-03-22 13:30:02] WATCHDOG: Progress: 475 → 477 items
+[2026-03-22 13:30:29]   Saved. Progress: 479/499
+[2026-03-22 13:30:31]   Generating batch: items 480–481 (479/499 done)
+[2026-03-22 13:31:02] WATCHDOG: Progress: 477 → 479 items
+[2026-03-22 13:31:39]   Saved. Progress: 481/499
+[2026-03-22 13:31:40]   Generating batch: items 482–483 (481/499 done)
+[2026-03-22 13:32:02] WATCHDOG: Progress: 479 → 481 items
+[2026-03-22 13:32:44]   Saved. Progress: 483/499
+[2026-03-22 13:32:45]   Generating batch: items 484–485 (483/499 done)
+[2026-03-22 13:33:02] WATCHDOG: Progress: 481 → 483 items
+[2026-03-22 13:33:49]   Saved. Progress: 485/499
+[2026-03-22 13:33:50]   Generating batch: items 486–487 (485/499 done)
+[2026-03-22 13:34:02] WATCHDOG: Progress: 483 → 485 items
+[2026-03-22 13:34:42]   Saved. Progress: 487/499
+[2026-03-22 13:34:43]   Generating batch: items 488–489 (487/499 done)
+[2026-03-22 13:35:03] WATCHDOG: Progress: 485 → 487 items
+[2026-03-22 13:35:50]   Saved. Progress: 489/499
+[2026-03-22 13:35:51]   Generating batch: items 490–491 (489/499 done)
+[2026-03-22 13:36:03] WATCHDOG: Progress: 487 → 489 items
+[2026-03-22 13:36:54]   Saved. Progress: 491/499
+[2026-03-22 13:36:55]   Generating batch: items 492–493 (491/499 done)
+[2026-03-22 13:37:03] WATCHDOG: Progress: 489 → 491 items
+[2026-03-22 13:38:03] WATCHDOG: No new items for 60s (still at 491) PID=16958
+[2026-03-22 13:38:19]   Saved. Progress: 493/499
+[2026-03-22 13:38:20]   Generating batch: items 494–495 (493/499 done)
+[2026-03-22 13:39:04] WATCHDOG: Progress: 491 → 493 items
+[2026-03-22 13:39:31]   Saved. Progress: 495/499
+[2026-03-22 13:39:32]   Generating batch: items 496–497 (495/499 done)
+[2026-03-22 13:40:04] WATCHDOG: Progress: 493 → 495 items
+[2026-03-22 13:40:31]   Saved. Progress: 497/499
+[2026-03-22 13:40:32]   Generating batch: items 498–499 (497/499 done)
+[2026-03-22 13:41:04] WATCHDOG: Progress: 495 → 497 items
+[2026-03-22 13:41:43]   Saved. Progress: 499/499
+[2026-03-22 13:41:44]   P12 COMPLETE: 499 items
+[2026-03-22 13:41:44] 
+============================================================
+[2026-03-22 13:41:44] Starting P13 (borderline) — target: 250 items
+[2026-03-22 13:41:44]   Resuming from 0/250
+[2026-03-22 13:41:44]   Generating batch: items 1–2 (0/250 done)
+[2026-03-22 13:42:04] WATCHDOG: Progress: 497 → 499 items
+[2026-03-22 13:43:04] WATCHDOG: No new items for 60s (still at 499) PID=16958
+[2026-03-22 13:43:21]   Saved. Progress: 2/250
+[2026-03-22 13:43:22]   Generating batch: items 3–4 (2/250 done)
+[2026-03-22 13:44:05] WATCHDOG: Progress: 499 → 501 items
+[2026-03-22 13:44:51]   Saved. Progress: 4/250
+[2026-03-22 13:44:52]   Generating batch: items 5–6 (4/250 done)
+[2026-03-22 13:45:05] WATCHDOG: Progress: 501 → 503 items
+[2026-03-22 13:46:05] WATCHDOG: No new items for 60s (still at 503) PID=16958
+[2026-03-22 13:46:27]   Saved. Progress: 6/250
+[2026-03-22 13:46:28]   Generating batch: items 7–8 (6/250 done)
+[2026-03-22 13:47:05] WATCHDOG: Progress: 503 → 505 items
+[2026-03-22 13:47:54]   Saved. Progress: 8/250
+[2026-03-22 13:47:55]   Generating batch: items 9–10 (8/250 done)
+[2026-03-22 13:48:06] WATCHDOG: Progress: 505 → 507 items
+[2026-03-22 13:49:06] WATCHDOG: No new items for 60s (still at 507) PID=16958
+[2026-03-22 13:49:30]   Saved. Progress: 10/250
+[2026-03-22 13:49:31]   Generating batch: items 11–12 (10/250 done)
+[2026-03-22 13:50:06] WATCHDOG: Progress: 507 → 509 items
+[2026-03-22 13:51:06] WATCHDOG: No new items for 60s (still at 509) PID=16958
+[2026-03-22 13:51:08]   Saved. Progress: 12/250
+[2026-03-22 13:51:09]   Generating batch: items 13–14 (12/250 done)
+[2026-03-22 13:52:07] WATCHDOG: Progress: 509 → 511 items
+[2026-03-22 13:52:49]   Saved. Progress: 14/250
+[2026-03-22 13:52:50]   Generating batch: items 15–16 (14/250 done)
+[2026-03-22 13:53:07] WATCHDOG: Progress: 511 → 513 items
+[2026-03-22 13:54:07] WATCHDOG: No new items for 60s (still at 513) PID=16958
+[2026-03-22 13:54:29]   Saved. Progress: 16/250
+[2026-03-22 13:54:30]   Generating batch: items 17–18 (16/250 done)
+[2026-03-22 13:55:07] WATCHDOG: Progress: 513 → 515 items
+[2026-03-22 13:56:01]   Saved. Progress: 18/250
+[2026-03-22 13:56:02]   Generating batch: items 19–20 (18/250 done)
+[2026-03-22 13:56:07] WATCHDOG: Progress: 515 → 517 items
+[2026-03-22 13:57:08] WATCHDOG: No new items for 61s (still at 517) PID=16958
+[2026-03-22 13:57:27]   Saved. Progress: 20/250
+[2026-03-22 13:57:28]   Generating batch: items 21–22 (20/250 done)
+[2026-03-22 13:58:08] WATCHDOG: Progress: 517 → 519 items
+[2026-03-22 13:58:56]   Saved. Progress: 22/250
+[2026-03-22 13:58:58]   Generating batch: items 23–24 (22/250 done)
+[2026-03-22 13:59:08] WATCHDOG: Progress: 519 → 521 items
+[2026-03-22 14:00:08] WATCHDOG: No new items for 60s (still at 521) PID=16958
+[2026-03-22 14:00:46]   Saved. Progress: 24/250
+[2026-03-22 14:00:47]   Generating batch: items 25–26 (24/250 done)
+[2026-03-22 14:01:09] WATCHDOG: Progress: 521 → 523 items
+[2026-03-22 14:02:09] WATCHDOG: No new items for 60s (still at 523) PID=16958
+[2026-03-22 14:02:19]   Saved. Progress: 26/250
+[2026-03-22 14:02:21]   Generating batch: items 27–28 (26/250 done)
+[2026-03-22 14:03:09] WATCHDOG: Progress: 523 → 525 items
+[2026-03-22 14:03:57]   Saved. Progress: 28/250
+[2026-03-22 14:03:58]   Generating batch: items 29–30 (28/250 done)
+[2026-03-22 14:04:09] WATCHDOG: Progress: 525 → 527 items
+[2026-03-22 14:05:10] WATCHDOG: No new items for 61s (still at 527) PID=16958
+[2026-03-22 14:05:27]   Saved. Progress: 30/250
+[2026-03-22 14:05:28]   Generating batch: items 31–32 (30/250 done)
+[2026-03-22 14:06:10] WATCHDOG: Progress: 527 → 529 items
+[2026-03-22 14:06:59]   Saved. Progress: 32/250
+[2026-03-22 14:07:01]   Generating batch: items 33–34 (32/250 done)
+[2026-03-22 14:07:10] WATCHDOG: Progress: 529 → 531 items
+[2026-03-22 14:08:10] WATCHDOG: No new items for 60s (still at 531) PID=16958
+[2026-03-22 14:08:33]   Saved. Progress: 34/250
+[2026-03-22 14:08:34]   Generating batch: items 35–36 (34/250 done)
+[2026-03-22 14:09:10] WATCHDOG: Progress: 531 → 533 items
+[2026-03-22 14:10:00]   Saved. Progress: 36/250
+[2026-03-22 14:10:01]   Generating batch: items 37–38 (36/250 done)
+[2026-03-22 14:10:11] WATCHDOG: Progress: 533 → 535 items
+[2026-03-22 14:11:11] WATCHDOG: No new items for 60s (still at 535) PID=16958
+[2026-03-22 14:11:32]   Saved. Progress: 38/250
+[2026-03-22 14:11:33]   Generating batch: items 39–40 (38/250 done)
+[2026-03-22 14:12:11] WATCHDOG: Progress: 535 → 537 items
+[2026-03-22 14:13:06]   Saved. Progress: 40/250
+[2026-03-22 14:13:08]   Generating batch: items 41–42 (40/250 done)
+[2026-03-22 14:13:11] WATCHDOG: Progress: 537 → 539 items
+[2026-03-22 14:14:12] WATCHDOG: No new items for 61s (still at 539) PID=16958
+[2026-03-22 14:14:42]   Saved. Progress: 42/250
+[2026-03-22 14:14:43]   Generating batch: items 43–44 (42/250 done)
+[2026-03-22 14:15:12] WATCHDOG: Progress: 539 → 541 items
+[2026-03-22 14:16:12] WATCHDOG: No new items for 60s (still at 541) PID=16958
+[2026-03-22 14:16:24]   Saved. Progress: 44/250
+[2026-03-22 14:16:25]   Generating batch: items 45–46 (44/250 done)
+[2026-03-22 14:17:12] WATCHDOG: Progress: 541 → 543 items
+[2026-03-22 14:18:01]   Saved. Progress: 46/250
+[2026-03-22 14:18:02]   Generating batch: items 47–48 (46/250 done)
+[2026-03-22 14:18:12] WATCHDOG: Progress: 543 → 545 items
+[2026-03-22 14:19:13] WATCHDOG: No new items for 61s (still at 545) PID=16958
+[2026-03-22 14:19:38]   Saved. Progress: 48/250
+[2026-03-22 14:19:39]   Generating batch: items 49–50 (48/250 done)
+[2026-03-22 14:20:13] WATCHDOG: Progress: 545 → 547 items
+[2026-03-22 14:21:13] WATCHDOG: No new items for 60s (still at 547) PID=16958
+[2026-03-22 14:21:17]   Saved. Progress: 50/250
+[2026-03-22 14:21:19]   Generating batch: items 51–52 (50/250 done)
+[2026-03-22 14:22:13] WATCHDOG: Progress: 547 → 549 items
+[2026-03-22 14:22:46]   Saved. Progress: 52/250
+[2026-03-22 14:22:47]   Generating batch: items 53–54 (52/250 done)
+[2026-03-22 14:23:14] WATCHDOG: Progress: 549 → 551 items
+[2026-03-22 14:24:07]   Saved. Progress: 54/250
+[2026-03-22 14:24:08]   Generating batch: items 55–56 (54/250 done)
+[2026-03-22 14:24:14] WATCHDOG: Progress: 551 → 553 items
+[2026-03-22 14:25:14] WATCHDOG: No new items for 60s (still at 553) PID=16958
+[2026-03-22 14:25:41]   Saved. Progress: 56/250
+[2026-03-22 14:25:42]   Generating batch: items 57–58 (56/250 done)
+[2026-03-22 14:26:14] WATCHDOG: Progress: 553 → 555 items
+[2026-03-22 14:27:13]   Saved. Progress: 58/250
+[2026-03-22 14:27:14]   Generating batch: items 59–60 (58/250 done)
+[2026-03-22 14:27:15] WATCHDOG: Progress: 555 → 557 items
+[2026-03-22 14:28:15] WATCHDOG: No new items for 60s (still at 557) PID=16958
+[2026-03-22 14:28:47]   Saved. Progress: 60/250
+[2026-03-22 14:28:48]   Generating batch: items 61–62 (60/250 done)
+[2026-03-22 14:29:15] WATCHDOG: Progress: 557 → 559 items
+[2026-03-22 14:30:15] WATCHDOG: No new items for 60s (still at 559) PID=16958
+[2026-03-22 14:30:21]   Saved. Progress: 62/250
+[2026-03-22 14:30:22]   Generating batch: items 63–64 (62/250 done)
+[2026-03-22 14:31:15] WATCHDOG: Progress: 559 → 561 items
+[2026-03-22 14:31:55]   Saved. Progress: 64/250
+[2026-03-22 14:31:56]   Generating batch: items 65–66 (64/250 done)
+[2026-03-22 14:32:16] WATCHDOG: Progress: 561 → 563 items
+[2026-03-22 14:33:16] WATCHDOG: No new items for 60s (still at 563) PID=16958
+[2026-03-22 14:33:28]   Saved. Progress: 66/250
+[2026-03-22 14:33:30]   Generating batch: items 67–68 (66/250 done)
+[2026-03-22 14:34:16] WATCHDOG: Progress: 563 → 565 items
+[2026-03-22 14:35:06]   Saved. Progress: 68/250
+[2026-03-22 14:35:07]   Generating batch: items 69–70 (68/250 done)
+[2026-03-22 14:35:16] WATCHDOG: Progress: 565 → 567 items
+[2026-03-22 14:36:17] WATCHDOG: No new items for 61s (still at 567) PID=16958
+[2026-03-22 14:36:43]   Saved. Progress: 70/250
+[2026-03-22 14:36:44]   Generating batch: items 71–72 (70/250 done)
+[2026-03-22 14:37:17] WATCHDOG: Progress: 567 → 569 items
+[2026-03-22 14:38:17] WATCHDOG: No new items for 60s (still at 569) PID=16958
+[2026-03-22 14:38:22]   Saved. Progress: 72/250
+[2026-03-22 14:38:23]   Generating batch: items 73–74 (72/250 done)
+[2026-03-22 14:39:17] WATCHDOG: Progress: 569 → 571 items
+[2026-03-22 14:39:58]   Saved. Progress: 74/250
+[2026-03-22 14:39:59]   Generating batch: items 75–76 (74/250 done)
+[2026-03-22 14:40:18] WATCHDOG: Progress: 571 → 573 items
+[2026-03-22 14:41:18] WATCHDOG: No new items for 60s (still at 573) PID=16958
+[2026-03-22 14:41:40]   Saved. Progress: 76/250
+[2026-03-22 14:41:41]   Generating batch: items 77–78 (76/250 done)
+[2026-03-22 14:42:18] WATCHDOG: Progress: 573 → 575 items
+[2026-03-22 14:43:03]   Saved. Progress: 78/250
+[2026-03-22 14:43:04]   Generating batch: items 79–80 (78/250 done)
+[2026-03-22 14:43:18] WATCHDOG: Progress: 575 → 577 items
+[2026-03-22 14:44:18] WATCHDOG: No new items for 60s (still at 577) PID=16958
+[2026-03-22 14:44:41]   Saved. Progress: 80/250
+[2026-03-22 14:44:42]   Generating batch: items 81–82 (80/250 done)
+[2026-03-22 14:45:19] WATCHDOG: Progress: 577 → 579 items
+[2026-03-22 14:46:10]   Saved. Progress: 82/250
+[2026-03-22 14:46:11]   Generating batch: items 83–84 (82/250 done)
+[2026-03-22 14:46:19] WATCHDOG: Progress: 579 → 581 items
+[2026-03-22 14:47:19] WATCHDOG: No new items for 60s (still at 581) PID=16958
+[2026-03-22 14:47:29]   Saved. Progress: 84/250
+[2026-03-22 14:47:30]   Generating batch: items 85–86 (84/250 done)
+[2026-03-22 14:48:19] WATCHDOG: Progress: 581 → 583 items
+[2026-03-22 14:48:55]   Saved. Progress: 86/250
+[2026-03-22 14:48:56]   Generating batch: items 87–88 (86/250 done)
+[2026-03-22 14:49:20] WATCHDOG: Progress: 583 → 585 items
+[2026-03-22 14:50:20] WATCHDOG: No new items for 60s (still at 585) PID=16958
+[2026-03-22 14:50:20]   Saved. Progress: 88/250
+[2026-03-22 14:50:21]   Generating batch: items 89–90 (88/250 done)
+[2026-03-22 14:51:20] WATCHDOG: Progress: 585 → 587 items
+[2026-03-22 14:51:52]   Saved. Progress: 90/250
+[2026-03-22 14:51:53]   Generating batch: items 91–92 (90/250 done)
+[2026-03-22 14:52:20] WATCHDOG: Progress: 587 → 589 items
+[2026-03-22 14:53:21] WATCHDOG: No new items for 61s (still at 589) PID=16958
+[2026-03-22 14:53:33]   Saved. Progress: 92/250
+[2026-03-22 14:53:34]   Generating batch: items 93–94 (92/250 done)
+[2026-03-22 14:54:21] WATCHDOG: Progress: 589 → 591 items
+[2026-03-22 14:55:04]   Saved. Progress: 94/250
+[2026-03-22 14:55:06]   Generating batch: items 95–96 (94/250 done)
+[2026-03-22 14:55:21] WATCHDOG: Progress: 591 → 593 items
+[2026-03-22 14:56:21] WATCHDOG: No new items for 60s (still at 593) PID=16958
+[2026-03-22 14:56:34]   Saved. Progress: 96/250
+[2026-03-22 14:56:35]   Generating batch: items 97–98 (96/250 done)
+[2026-03-22 14:57:21] WATCHDOG: Progress: 593 → 595 items
+[2026-03-22 14:58:06]   Saved. Progress: 98/250
+[2026-03-22 14:58:08]   Generating batch: items 99–100 (98/250 done)
+[2026-03-22 14:58:22] WATCHDOG: Progress: 595 → 597 items
+[2026-03-22 14:59:22] WATCHDOG: No new items for 60s (still at 597) PID=16958
+[2026-03-22 14:59:35]   Saved. Progress: 100/250
+[2026-03-22 14:59:36]   Generating batch: items 101–102 (100/250 done)
+[2026-03-22 15:00:22] WATCHDOG: Progress: 597 → 599 items
+[2026-03-22 15:01:07]   Saved. Progress: 102/250
+[2026-03-22 15:01:08]   Generating batch: items 103–104 (102/250 done)
+[2026-03-22 15:01:22] WATCHDOG: Progress: 599 → 601 items
+[2026-03-22 15:02:23] WATCHDOG: No new items for 61s (still at 601) PID=16958
+[2026-03-22 15:02:37]   Saved. Progress: 104/250
+[2026-03-22 15:02:38]   Generating batch: items 105–106 (104/250 done)
+[2026-03-22 15:03:23] WATCHDOG: Progress: 601 → 603 items
+[2026-03-22 15:04:12]   Saved. Progress: 106/250
+[2026-03-22 15:04:13]   Generating batch: items 107–108 (106/250 done)
+[2026-03-22 15:04:23] WATCHDOG: Progress: 603 → 605 items
+[2026-03-22 15:05:23] WATCHDOG: No new items for 60s (still at 605) PID=16958
+[2026-03-22 15:05:43]   Saved. Progress: 108/250
+[2026-03-22 15:05:44]   Generating batch: items 109–110 (108/250 done)
+[2026-03-22 15:06:24] WATCHDOG: Progress: 605 → 607 items
+[2026-03-22 15:07:11]   Saved. Progress: 110/250
+[2026-03-22 15:07:12]   Generating batch: items 111–112 (110/250 done)
+[2026-03-22 15:07:24] WATCHDOG: Progress: 607 → 609 items
+[2026-03-22 15:08:24] WATCHDOG: No new items for 60s (still at 609) PID=16958
+[2026-03-22 15:08:46]   Saved. Progress: 112/250
+[2026-03-22 15:08:47]   Generating batch: items 113–114 (112/250 done)
+[2026-03-22 15:09:24] WATCHDOG: Progress: 609 → 611 items
+[2026-03-22 15:10:14]   Saved. Progress: 114/250
+[2026-03-22 15:10:15]   Generating batch: items 115–116 (114/250 done)
+[2026-03-22 15:10:24] WATCHDOG: Progress: 611 → 613 items
+[2026-03-22 15:11:25] WATCHDOG: No new items for 61s (still at 613) PID=16958
+[2026-03-22 15:11:43]   Saved. Progress: 116/250
+[2026-03-22 15:11:45]   Generating batch: items 117–118 (116/250 done)
+[2026-03-22 15:12:25] WATCHDOG: Progress: 613 → 615 items
+[2026-03-22 15:13:21]   Saved. Progress: 118/250
+[2026-03-22 15:13:22]   Generating batch: items 119–120 (118/250 done)
+[2026-03-22 15:13:25] WATCHDOG: Progress: 615 → 617 items
+[2026-03-22 15:14:25] WATCHDOG: No new items for 60s (still at 617) PID=16958
+[2026-03-22 15:14:54]   Saved. Progress: 120/250
+[2026-03-22 15:14:55]   Generating batch: items 121–122 (120/250 done)
+[2026-03-22 15:15:26] WATCHDOG: Progress: 617 → 619 items
+[2026-03-22 15:16:24]   Saved. Progress: 122/250
+[2026-03-22 15:16:25]   Generating batch: items 123–124 (122/250 done)
+[2026-03-22 15:16:26] WATCHDOG: Progress: 619 → 621 items
+[2026-03-22 15:17:26] WATCHDOG: No new items for 60s (still at 621) PID=16958
+[2026-03-22 15:17:51]   Saved. Progress: 124/250
+[2026-03-22 15:17:52]   Generating batch: items 125–126 (124/250 done)
+[2026-03-22 15:18:26] WATCHDOG: Progress: 621 → 623 items
+[2026-03-22 15:19:21]   Saved. Progress: 126/250
+[2026-03-22 15:19:22]   Generating batch: items 127–128 (126/250 done)
+[2026-03-22 15:19:27] WATCHDOG: Progress: 623 → 625 items
+[2026-03-22 15:20:27] WATCHDOG: No new items for 60s (still at 625) PID=16958
+[2026-03-22 15:21:03]   Saved. Progress: 128/250
+[2026-03-22 15:21:04]   Generating batch: items 129–130 (128/250 done)
+[2026-03-22 15:21:27] WATCHDOG: Progress: 625 → 627 items
+[2026-03-22 15:22:27]   Saved. Progress: 130/250
+[2026-03-22 15:22:27] WATCHDOG: Progress: 627 → 629 items
+[2026-03-22 15:22:28]   Generating batch: items 131–132 (130/250 done)
+[2026-03-22 15:23:27] WATCHDOG: No new items for 60s (still at 629) PID=16958
+[2026-03-22 15:23:57]   Saved. Progress: 132/250
+[2026-03-22 15:23:58]   Generating batch: items 133–134 (132/250 done)
+[2026-03-22 15:24:28] WATCHDOG: Progress: 629 → 631 items
+[2026-03-22 15:25:24]   Saved. Progress: 134/250
+[2026-03-22 15:25:25]   Generating batch: items 135–136 (134/250 done)
+[2026-03-22 15:25:28] WATCHDOG: Progress: 631 → 633 items
+[2026-03-22 15:26:28] WATCHDOG: No new items for 60s (still at 633) PID=16958
+[2026-03-22 15:26:50]   Saved. Progress: 136/250
+[2026-03-22 15:26:52]   Generating batch: items 137–138 (136/250 done)
+[2026-03-22 15:27:28] WATCHDOG: Progress: 633 → 635 items
+[2026-03-22 15:28:25]   Saved. Progress: 138/250
+[2026-03-22 15:28:26]   Generating batch: items 139–140 (138/250 done)
+[2026-03-22 15:28:29] WATCHDOG: Progress: 635 → 637 items
+[2026-03-22 15:29:29] WATCHDOG: No new items for 60s (still at 637) PID=16958
+[2026-03-22 15:29:59]   Saved. Progress: 140/250
+[2026-03-22 15:30:00]   Generating batch: items 141–142 (140/250 done)
+[2026-03-22 15:30:29] WATCHDOG: Progress: 637 → 639 items
+[2026-03-22 15:31:22]   Saved. Progress: 142/250
+[2026-03-22 15:31:23]   Generating batch: items 143–144 (142/250 done)
+[2026-03-22 15:31:29] WATCHDOG: Progress: 639 → 641 items
+[2026-03-22 15:32:30] WATCHDOG: No new items for 61s (still at 641) PID=16958
+[2026-03-22 15:32:55]   Saved. Progress: 144/250
+[2026-03-22 15:32:57]   Generating batch: items 145–146 (144/250 done)
+[2026-03-22 15:33:30] WATCHDOG: Progress: 641 → 643 items
+[2026-03-22 15:34:24]   Saved. Progress: 146/250
+[2026-03-22 15:34:25]   Generating batch: items 147–148 (146/250 done)
+[2026-03-22 15:34:30] WATCHDOG: Progress: 643 → 645 items
+[2026-03-22 15:35:30] WATCHDOG: No new items for 60s (still at 645) PID=16958
+[2026-03-22 15:35:53]   Saved. Progress: 148/250
+[2026-03-22 15:35:54]   Generating batch: items 149–150 (148/250 done)
+[2026-03-22 15:36:31] WATCHDOG: Progress: 645 → 647 items
+[2026-03-22 15:37:18]   Saved. Progress: 150/250
+[2026-03-22 15:37:19]   Generating batch: items 151–152 (150/250 done)
+[2026-03-22 15:37:31] WATCHDOG: Progress: 647 → 649 items
+[2026-03-22 15:38:31] WATCHDOG: No new items for 60s (still at 649) PID=16958
+[2026-03-22 15:38:52]   Saved. Progress: 152/250
+[2026-03-22 15:38:53]   Generating batch: items 153–154 (152/250 done)
+[2026-03-22 15:39:31] WATCHDOG: Progress: 649 → 651 items
+[2026-03-22 15:40:20]   Saved. Progress: 154/250
+[2026-03-22 15:40:21]   Generating batch: items 155–156 (154/250 done)
+[2026-03-22 15:40:31] WATCHDOG: Progress: 651 → 653 items
+[2026-03-22 15:41:32] WATCHDOG: No new items for 61s (still at 653) PID=16958
+[2026-03-22 15:41:41]   Saved. Progress: 156/250
+[2026-03-22 15:41:43]   Generating batch: items 157–158 (156/250 done)
+[2026-03-22 15:42:32] WATCHDOG: Progress: 653 → 655 items
+[2026-03-22 15:43:06]   Saved. Progress: 158/250
+[2026-03-22 15:43:07]   Generating batch: items 159–160 (158/250 done)
+[2026-03-22 15:43:32] WATCHDOG: Progress: 655 → 657 items
+[2026-03-22 15:44:32] WATCHDOG: No new items for 60s (still at 657) PID=16958
+[2026-03-22 15:44:35]   Saved. Progress: 160/250
+[2026-03-22 15:44:36]   Generating batch: items 161–162 (160/250 done)
+[2026-03-22 15:45:33] WATCHDOG: Progress: 657 → 659 items
+[2026-03-22 15:46:09]   Saved. Progress: 162/250
+[2026-03-22 15:46:11]   Generating batch: items 163–164 (162/250 done)
+[2026-03-22 15:46:33] WATCHDOG: Progress: 659 → 661 items
+[2026-03-22 15:47:33] WATCHDOG: No new items for 60s (still at 661) PID=16958
+[2026-03-22 15:47:44]   Saved. Progress: 164/250
+[2026-03-22 15:47:45]   Generating batch: items 165–166 (164/250 done)
+[2026-03-22 15:48:33] WATCHDOG: Progress: 661 → 663 items
+[2026-03-22 15:49:06]   Saved. Progress: 166/250
+[2026-03-22 15:49:07]   Generating batch: items 167–168 (166/250 done)
+[2026-03-22 15:49:33] WATCHDOG: Progress: 663 → 665 items
+[2026-03-22 15:50:32]   Saved. Progress: 168/250
+[2026-03-22 15:50:33]   Generating batch: items 169–170 (168/250 done)
+[2026-03-22 15:50:34] WATCHDOG: Progress: 665 → 667 items
+[2026-03-22 15:51:34] WATCHDOG: No new items for 60s (still at 667) PID=16958
+[2026-03-22 15:52:02]   Saved. Progress: 170/250
+[2026-03-22 15:52:03]   Generating batch: items 171–172 (170/250 done)
+[2026-03-22 15:52:34] WATCHDOG: Progress: 667 → 669 items
+[2026-03-22 15:53:34] WATCHDOG: No new items for 60s (still at 669) PID=16958
+[2026-03-22 15:53:39]   Saved. Progress: 172/250
+[2026-03-22 15:53:40]   Generating batch: items 173–174 (172/250 done)
+[2026-03-22 15:54:35] WATCHDOG: Progress: 669 → 671 items
+[2026-03-22 15:55:08]   Saved. Progress: 174/250
+[2026-03-22 15:55:09]   Generating batch: items 175–176 (174/250 done)
+[2026-03-22 15:55:35] WATCHDOG: Progress: 671 → 673 items
+[2026-03-22 15:56:34]   Saved. Progress: 176/250
+[2026-03-22 15:56:35]   Generating batch: items 177–178 (176/250 done)
+[2026-03-22 15:56:35] WATCHDOG: Progress: 673 → 675 items
+[2026-03-22 15:57:35] WATCHDOG: No new items for 60s (still at 675) PID=16958
+[2026-03-22 15:57:53]   Saved. Progress: 178/250
+[2026-03-22 15:57:54]   Generating batch: items 179–180 (178/250 done)
+[2026-03-22 15:58:36] WATCHDOG: Progress: 675 → 677 items
+[2026-03-22 15:59:20]   Saved. Progress: 180/250
+[2026-03-22 15:59:21]   Generating batch: items 181–182 (180/250 done)
+[2026-03-22 15:59:36] WATCHDOG: Progress: 677 → 679 items
+[2026-03-22 16:00:36] WATCHDOG: No new items for 60s (still at 679) PID=16958
+[2026-03-22 16:00:37]   Saved. Progress: 182/250
+[2026-03-22 16:00:38]   Generating batch: items 183–184 (182/250 done)
+[2026-03-22 16:01:36] WATCHDOG: Progress: 679 → 681 items
+[2026-03-22 16:02:02]   Saved. Progress: 184/250
+[2026-03-22 16:02:03]   Generating batch: items 185–186 (184/250 done)
+[2026-03-22 16:02:36] WATCHDOG: Progress: 681 → 683 items
+[2026-03-22 16:03:21]   Saved. Progress: 186/250
+[2026-03-22 16:03:23]   Generating batch: items 187–188 (186/250 done)
+[2026-03-22 16:03:37] WATCHDOG: Progress: 683 → 685 items
+[2026-03-22 16:04:37] WATCHDOG: No new items for 60s (still at 685) PID=16958
+[2026-03-22 16:04:50]   Saved. Progress: 188/250
+[2026-03-22 16:04:51]   Generating batch: items 189–190 (188/250 done)
+[2026-03-22 16:05:37] WATCHDOG: Progress: 685 → 687 items
+[2026-03-22 16:06:19]   Saved. Progress: 190/250
+[2026-03-22 16:06:21]   Generating batch: items 191–192 (190/250 done)
+[2026-03-22 16:06:37] WATCHDOG: Progress: 687 → 689 items
+[2026-03-22 16:07:38] WATCHDOG: No new items for 61s (still at 689) PID=16958
+[2026-03-22 16:07:38]   Saved. Progress: 192/250
+[2026-03-22 16:07:39]   Generating batch: items 193–194 (192/250 done)
+[2026-03-22 16:08:38] WATCHDOG: Progress: 689 → 691 items
+[2026-03-22 16:09:11]   Saved. Progress: 194/250
+[2026-03-22 16:09:12]   Generating batch: items 195–196 (194/250 done)
+[2026-03-22 16:09:38] WATCHDOG: Progress: 691 → 693 items
+[2026-03-22 16:10:38] WATCHDOG: No new items for 60s (still at 693) PID=16958
+[2026-03-22 16:10:45]   Saved. Progress: 196/250
+[2026-03-22 16:10:46]   Generating batch: items 197–198 (196/250 done)
+[2026-03-22 16:11:39] WATCHDOG: Progress: 693 → 695 items
+[2026-03-22 16:12:16]   Saved. Progress: 198/250
+[2026-03-22 16:12:17]   Generating batch: items 199–200 (198/250 done)
+[2026-03-22 16:12:39] WATCHDOG: Progress: 695 → 697 items
+[2026-03-22 16:13:39] WATCHDOG: No new items for 60s (still at 697) PID=16958
+[2026-03-22 16:13:51]   Saved. Progress: 200/250
+[2026-03-22 16:13:52]   Generating batch: items 201–202 (200/250 done)
+[2026-03-22 16:14:39] WATCHDOG: Progress: 697 → 699 items
+[2026-03-22 16:15:27]   Saved. Progress: 202/250
+[2026-03-22 16:15:28]   Generating batch: items 203–204 (202/250 done)
+[2026-03-22 16:15:39] WATCHDOG: Progress: 699 → 701 items
+[2026-03-22 16:16:40] WATCHDOG: No new items for 61s (still at 701) PID=16958
+[2026-03-22 16:17:01]   Saved. Progress: 204/250
+[2026-03-22 16:17:02]   Generating batch: items 205–206 (204/250 done)
+[2026-03-22 16:17:40] WATCHDOG: Progress: 701 → 703 items
+[2026-03-22 16:18:30]   Saved. Progress: 206/250
+[2026-03-22 16:18:32]   Generating batch: items 207–208 (206/250 done)
+[2026-03-22 16:18:40] WATCHDOG: Progress: 703 → 705 items
+[2026-03-22 16:19:40] WATCHDOG: No new items for 60s (still at 705) PID=16958
+[2026-03-22 16:20:08]   Saved. Progress: 208/250
+[2026-03-22 16:20:09]   Generating batch: items 209–210 (208/250 done)
+[2026-03-22 16:20:41] WATCHDOG: Progress: 705 → 707 items
+[2026-03-22 16:21:27]   Saved. Progress: 210/250
+[2026-03-22 16:21:28]   Generating batch: items 211–212 (210/250 done)
+[2026-03-22 16:21:41] WATCHDOG: Progress: 707 → 709 items
+[2026-03-22 16:22:41] WATCHDOG: No new items for 60s (still at 709) PID=16958
+[2026-03-22 16:23:07]   Saved. Progress: 212/250
+[2026-03-22 16:23:08]   Generating batch: items 213–214 (212/250 done)
+[2026-03-22 16:23:41] WATCHDOG: Progress: 709 → 711 items
+[2026-03-22 16:24:42] WATCHDOG: No new items for 61s (still at 711) PID=16958
+[2026-03-22 16:24:49]   Saved. Progress: 214/250
+[2026-03-22 16:24:50]   Generating batch: items 215–216 (214/250 done)
+[2026-03-22 16:25:42] WATCHDOG: Progress: 711 → 713 items
+[2026-03-22 16:26:11]   Saved. Progress: 216/250
+[2026-03-22 16:26:12]   Generating batch: items 217–218 (216/250 done)
+[2026-03-22 16:26:42] WATCHDOG: Progress: 713 → 715 items
+[2026-03-22 16:27:36]   Saved. Progress: 218/250
+[2026-03-22 16:27:37]   Generating batch: items 219–220 (218/250 done)
+[2026-03-22 16:27:42] WATCHDOG: Progress: 715 → 717 items
+[2026-03-22 16:28:43] WATCHDOG: No new items for 61s (still at 717) PID=16958
+[2026-03-22 16:29:04]   Saved. Progress: 220/250
+[2026-03-22 16:29:05]   Generating batch: items 221–222 (220/250 done)
+[2026-03-22 16:29:43] WATCHDOG: Progress: 717 → 719 items
+[2026-03-22 16:30:40]   Saved. Progress: 222/250
+[2026-03-22 16:30:41]   Generating batch: items 223–224 (222/250 done)
+[2026-03-22 16:30:43] WATCHDOG: Progress: 719 → 721 items
+[2026-03-22 16:31:43] WATCHDOG: No new items for 60s (still at 721) PID=16958
+[2026-03-22 16:32:00]   Saved. Progress: 224/250
+[2026-03-22 16:32:01]   Generating batch: items 225–226 (224/250 done)
+[2026-03-22 16:32:43] WATCHDOG: Progress: 721 → 723 items
+[2026-03-22 16:33:36]   Saved. Progress: 226/250
+[2026-03-22 16:33:38]   Generating batch: items 227–228 (226/250 done)
+[2026-03-22 16:33:44] WATCHDOG: Progress: 723 → 725 items
+[2026-03-22 16:34:44] WATCHDOG: No new items for 60s (still at 725) PID=16958
+[2026-03-22 16:35:10]   Saved. Progress: 228/250
+[2026-03-22 16:35:11]   Generating batch: items 229–230 (228/250 done)
+[2026-03-22 16:35:44] WATCHDOG: Progress: 725 → 727 items
+[2026-03-22 16:36:31]   Saved. Progress: 230/250
+[2026-03-22 16:36:32]   Generating batch: items 231–232 (230/250 done)
+[2026-03-22 16:36:44] WATCHDOG: Progress: 727 → 729 items
+[2026-03-22 16:37:45] WATCHDOG: No new items for 61s (still at 729) PID=16958
+[2026-03-22 16:38:03]   Saved. Progress: 232/250
+[2026-03-22 16:38:04]   Generating batch: items 233–234 (232/250 done)
+[2026-03-22 16:38:45] WATCHDOG: Progress: 729 → 731 items
+[2026-03-22 16:39:27]   Saved. Progress: 234/250
+[2026-03-22 16:39:28]   Generating batch: items 235–236 (234/250 done)
+[2026-03-22 16:39:45] WATCHDOG: Progress: 731 → 733 items
+[2026-03-22 16:40:45] WATCHDOG: No new items for 60s (still at 733) PID=16958
+[2026-03-22 16:41:01]   Saved. Progress: 236/250
+[2026-03-22 16:41:02]   Generating batch: items 237–238 (236/250 done)
+[2026-03-22 16:41:46] WATCHDOG: Progress: 733 → 735 items
+[2026-03-22 16:42:24]   Saved. Progress: 238/250
+[2026-03-22 16:42:25]   Generating batch: items 239–240 (238/250 done)
+[2026-03-22 16:42:46] WATCHDOG: Progress: 735 → 737 items
+[2026-03-22 16:43:46] WATCHDOG: No new items for 60s (still at 737) PID=16958
+[2026-03-22 16:43:48]   Saved. Progress: 240/250
+[2026-03-22 16:43:50]   Generating batch: items 241–242 (240/250 done)
+[2026-03-22 16:44:46] WATCHDOG: Progress: 737 → 739 items
+[2026-03-22 16:45:08]   Saved. Progress: 242/250
+[2026-03-22 16:45:09]   Generating batch: items 243–244 (242/250 done)
+[2026-03-22 16:45:46] WATCHDOG: Progress: 739 → 741 items
+[2026-03-22 16:46:41]   Saved. Progress: 244/250
+[2026-03-22 16:46:42]   Generating batch: items 245–246 (244/250 done)
+[2026-03-22 16:46:47] WATCHDOG: Progress: 741 → 743 items
+[2026-03-22 16:47:47] WATCHDOG: No new items for 60s (still at 743) PID=16958
+[2026-03-22 16:48:14]   Saved. Progress: 246/250
+[2026-03-22 16:48:15]   Generating batch: items 247–248 (246/250 done)
+[2026-03-22 16:48:47] WATCHDOG: Progress: 743 → 745 items
+[2026-03-22 16:49:43]   Saved. Progress: 248/250
+[2026-03-22 16:49:44]   Generating batch: items 249–250 (248/250 done)
+[2026-03-22 16:49:47] WATCHDOG: Progress: 745 → 747 items
+[2026-03-22 16:50:48] WATCHDOG: No new items for 61s (still at 747) PID=16958
+[2026-03-22 16:51:25]   Saved. Progress: 250/250
+[2026-03-22 16:51:26]   P13 COMPLETE: 250 items
+[2026-03-22 16:51:26] 
+============================================================
+[2026-03-22 16:51:26] Starting P14 (conversation) — target: 50 items
+[2026-03-22 16:51:26]   Resuming from 0/50
+[2026-03-22 16:51:26]   Generating batch: items 1–2 (0/50 done)
+[2026-03-22 16:51:48] WATCHDOG: Progress: 747 → 749 items
+[2026-03-22 16:52:48] WATCHDOG: No new items for 60s (still at 749) PID=16958
+[2026-03-22 16:52:54]   Saved. Progress: 2/50
+[2026-03-22 16:52:55]   Generating batch: items 3–4 (2/50 done)
+[2026-03-22 16:53:48] WATCHDOG: Progress: 749 → 751 items
+[2026-03-22 16:54:27]   Saved. Progress: 4/50
+[2026-03-22 16:54:28]   Generating batch: items 5–6 (4/50 done)
+[2026-03-22 16:54:49] WATCHDOG: Progress: 751 → 753 items
+[2026-03-22 16:55:49] WATCHDOG: No new items for 60s (still at 753) PID=16958
+[2026-03-22 16:56:07]   Saved. Progress: 6/50
+[2026-03-22 16:56:09]   Generating batch: items 7–8 (6/50 done)
+[2026-03-22 16:56:49] WATCHDOG: Progress: 753 → 755 items
+[2026-03-22 16:57:49] WATCHDOG: No new items for 60s (still at 755) PID=16958
+[2026-03-22 16:57:56]   Saved. Progress: 8/50
+[2026-03-22 16:57:57]   Generating batch: items 9–10 (8/50 done)
+[2026-03-22 16:58:49] WATCHDOG: Progress: 755 → 757 items
+[2026-03-22 16:59:39]   Saved. Progress: 10/50
+[2026-03-22 16:59:40]   Generating batch: items 11–12 (10/50 done)
+[2026-03-22 16:59:50] WATCHDOG: Progress: 757 → 759 items
+[2026-03-22 17:00:50] WATCHDOG: No new items for 60s (still at 759) PID=16958
+[2026-03-22 17:01:11]   Saved. Progress: 12/50
+[2026-03-22 17:01:12]   Generating batch: items 13–14 (12/50 done)
+[2026-03-22 17:01:50] WATCHDOG: Progress: 759 → 761 items
+[2026-03-22 17:02:50] WATCHDOG: No new items for 60s (still at 761) PID=16958
+[2026-03-22 17:02:55]   Saved. Progress: 14/50
+[2026-03-22 17:02:57]   Generating batch: items 15–16 (14/50 done)
+[2026-03-22 17:03:51] WATCHDOG: Progress: 761 → 763 items
+[2026-03-22 17:04:28]   Saved. Progress: 16/50
+[2026-03-22 17:04:29]   Generating batch: items 17–18 (16/50 done)
+[2026-03-22 17:04:51] WATCHDOG: Progress: 763 → 765 items
+[2026-03-22 17:05:51] WATCHDOG: No new items for 60s (still at 765) PID=16958
+[2026-03-22 17:06:02]   Saved. Progress: 18/50
+[2026-03-22 17:06:03]   Generating batch: items 19–20 (18/50 done)
+[2026-03-22 17:06:51] WATCHDOG: Progress: 765 → 767 items
+[2026-03-22 17:07:51]   Saved. Progress: 20/50
+[2026-03-22 17:07:52] WATCHDOG: Progress: 767 → 769 items
+[2026-03-22 17:07:52]   Generating batch: items 21–22 (20/50 done)
+[2026-03-22 17:08:52] WATCHDOG: No new items for 60s (still at 769) PID=16958
+[2026-03-22 17:09:25]   Saved. Progress: 22/50
+[2026-03-22 17:09:26]   Generating batch: items 23–24 (22/50 done)
+[2026-03-22 17:09:52] WATCHDOG: Progress: 769 → 771 items
+[2026-03-22 17:10:52] WATCHDOG: No new items for 60s (still at 771) PID=16958
+[2026-03-22 17:11:05]   Saved. Progress: 24/50
+[2026-03-22 17:11:06]   Generating batch: items 25–26 (24/50 done)
+[2026-03-22 17:11:52] WATCHDOG: Progress: 771 → 773 items
+[2026-03-22 17:12:41]   Saved. Progress: 26/50
+[2026-03-22 17:12:42]   Generating batch: items 27–28 (26/50 done)
+[2026-03-22 17:12:53] WATCHDOG: Progress: 773 → 775 items
+[2026-03-22 17:13:53] WATCHDOG: No new items for 60s (still at 775) PID=16958
+[2026-03-22 17:14:17]   Saved. Progress: 28/50
+[2026-03-22 17:14:18]   Generating batch: items 29–30 (28/50 done)
+[2026-03-22 17:14:53] WATCHDOG: Progress: 775 → 777 items
+[2026-03-22 17:15:48]   Saved. Progress: 30/50
+[2026-03-22 17:15:49]   Generating batch: items 31–32 (30/50 done)
+[2026-03-22 17:15:53] WATCHDOG: Progress: 777 → 779 items
+[2026-03-22 17:16:54] WATCHDOG: No new items for 61s (still at 779) PID=16958
+[2026-03-22 17:17:16]   Saved. Progress: 32/50
+[2026-03-22 17:17:17]   Generating batch: items 33–34 (32/50 done)
+[2026-03-22 17:17:54] WATCHDOG: Progress: 779 → 781 items
+[2026-03-22 17:18:51]   Saved. Progress: 34/50
+[2026-03-22 17:18:52]   Generating batch: items 35–36 (34/50 done)
+[2026-03-22 17:18:54] WATCHDOG: Progress: 781 → 783 items
+[2026-03-22 17:19:54] WATCHDOG: No new items for 60s (still at 783) PID=16958
+[2026-03-22 17:20:21]   Saved. Progress: 36/50
+[2026-03-22 17:20:22]   Generating batch: items 37–38 (36/50 done)
+[2026-03-22 17:20:55] WATCHDOG: Progress: 783 → 785 items
+[2026-03-22 17:21:55] WATCHDOG: No new items for 60s (still at 785) PID=16958
+[2026-03-22 17:22:00]   Saved. Progress: 38/50
+[2026-03-22 17:22:01]   Generating batch: items 39–40 (38/50 done)
+[2026-03-22 17:22:55] WATCHDOG: Progress: 785 → 787 items
+[2026-03-22 17:23:41]   Saved. Progress: 40/50
+[2026-03-22 17:23:42]   Generating batch: items 41–42 (40/50 done)
+[2026-03-22 17:23:55] WATCHDOG: Progress: 787 → 789 items
+[2026-03-22 17:24:56] WATCHDOG: No new items for 61s (still at 789) PID=16958
+[2026-03-22 17:25:20]   Saved. Progress: 42/50
+[2026-03-22 17:25:21]   Generating batch: items 43–44 (42/50 done)
+[2026-03-22 17:25:56] WATCHDOG: Progress: 789 → 791 items
+[2026-03-22 17:26:48]   Saved. Progress: 44/50
+[2026-03-22 17:26:49]   Generating batch: items 45–46 (44/50 done)
+[2026-03-22 17:26:56] WATCHDOG: Progress: 791 → 793 items
+[2026-03-22 17:27:56] WATCHDOG: No new items for 60s (still at 793) PID=16958
+[2026-03-22 17:28:27]   Saved. Progress: 46/50
+[2026-03-22 17:28:28]   Generating batch: items 47–48 (46/50 done)
+[2026-03-22 17:28:56] WATCHDOG: Progress: 793 → 795 items
+[2026-03-22 17:29:57] WATCHDOG: No new items for 61s (still at 795) PID=16958
+[2026-03-22 17:29:57]   Saved. Progress: 48/50
+[2026-03-22 17:29:58]   Generating batch: items 49–50 (48/50 done)
+[2026-03-22 17:30:57] WATCHDOG: Progress: 795 → 797 items
+[2026-03-22 17:31:31]   Saved. Progress: 50/50
+[2026-03-22 17:31:32]   P14 COMPLETE: 50 items
+[2026-03-22 17:31:32] 
+============================================================
+[2026-03-22 17:31:32] Starting P15 (red_flag) — target: 50 items
+[2026-03-22 17:31:32]   Resuming from 0/50
+[2026-03-22 17:31:32]   Generating batch: items 1–2 (0/50 done)
+[2026-03-22 17:31:57] WATCHDOG: Progress: 797 → 799 items
+[2026-03-22 17:32:36]   Saved. Progress: 2/50
+[2026-03-22 17:32:37]   Generating batch: items 3–4 (2/50 done)
+[2026-03-22 17:32:57] WATCHDOG: Progress: 799 → 801 items
+[2026-03-22 17:33:40]   Saved. Progress: 4/50
+[2026-03-22 17:33:41]   Generating batch: items 5–6 (4/50 done)
+[2026-03-22 17:33:58] WATCHDOG: Progress: 801 → 803 items
+[2026-03-22 17:34:43]   Saved. Progress: 6/50
+[2026-03-22 17:34:44]   Generating batch: items 7–8 (6/50 done)
+[2026-03-22 17:34:58] WATCHDOG: Progress: 803 → 805 items
+[2026-03-22 17:35:52]   Saved. Progress: 8/50
+[2026-03-22 17:35:53]   Generating batch: items 9–10 (8/50 done)
+[2026-03-22 17:35:58] WATCHDOG: Progress: 805 → 807 items
+[2026-03-22 17:36:53]   Saved. Progress: 10/50
+[2026-03-22 17:36:54]   Generating batch: items 11–12 (10/50 done)
+[2026-03-22 17:36:58] WATCHDOG: Progress: 807 → 809 items
+[2026-03-22 17:37:59] WATCHDOG: No new items for 61s (still at 809) PID=16958
+[2026-03-22 17:38:01]   Saved. Progress: 12/50
+[2026-03-22 17:38:02]   Generating batch: items 13–14 (12/50 done)
+[2026-03-22 17:38:59] WATCHDOG: Progress: 809 → 811 items
+[2026-03-22 17:39:10]   Saved. Progress: 14/50
+[2026-03-22 17:39:12]   Generating batch: items 15–16 (14/50 done)
+[2026-03-22 17:39:59] WATCHDOG: Progress: 811 → 813 items
+[2026-03-22 17:40:14]   Saved. Progress: 16/50
+[2026-03-22 17:40:15]   Generating batch: items 17–18 (16/50 done)
+[2026-03-22 17:40:59] WATCHDOG: Progress: 813 → 815 items
+[2026-03-22 17:41:24]   Saved. Progress: 18/50
+[2026-03-22 17:41:25]   Generating batch: items 19–20 (18/50 done)
+[2026-03-22 17:41:59] WATCHDOG: Progress: 815 → 817 items
+[2026-03-22 17:42:33]   Saved. Progress: 20/50
+[2026-03-22 17:42:34]   Generating batch: items 21–22 (20/50 done)
+[2026-03-22 17:43:00] WATCHDOG: Progress: 817 → 819 items
+[2026-03-22 17:43:37]   Saved. Progress: 22/50
+[2026-03-22 17:43:38]   Generating batch: items 23–24 (22/50 done)
+[2026-03-22 17:44:00] WATCHDOG: Progress: 819 → 821 items
+[2026-03-22 17:44:57]   Saved. Progress: 24/50
+[2026-03-22 17:44:58]   Generating batch: items 25–26 (24/50 done)
+[2026-03-22 17:45:00] WATCHDOG: Progress: 821 → 823 items
+[2026-03-22 17:46:00]   Saved. Progress: 26/50
+[2026-03-22 17:46:00] WATCHDOG: Progress: 823 → 825 items
+[2026-03-22 17:46:01]   Generating batch: items 27–28 (26/50 done)
+[2026-03-22 17:47:01] WATCHDOG: No new items for 61s (still at 825) PID=16958
+[2026-03-22 17:47:05]   Saved. Progress: 28/50
+[2026-03-22 17:47:06]   Generating batch: items 29–30 (28/50 done)
+[2026-03-22 17:48:01] WATCHDOG: Progress: 825 → 827 items
+[2026-03-22 17:48:14]   Saved. Progress: 30/50
+[2026-03-22 17:48:15]   Generating batch: items 31–32 (30/50 done)
+[2026-03-22 17:49:01] WATCHDOG: Progress: 827 → 829 items
+[2026-03-22 17:49:22]   Saved. Progress: 32/50
+[2026-03-22 17:49:23]   Generating batch: items 33–34 (32/50 done)
+[2026-03-22 17:50:01] WATCHDOG: Progress: 829 → 831 items
+[2026-03-22 17:50:20]   Saved. Progress: 34/50
+[2026-03-22 17:50:21]   Generating batch: items 35–36 (34/50 done)
+[2026-03-22 17:51:02] WATCHDOG: Progress: 831 → 833 items
+[2026-03-22 17:51:24]   Saved. Progress: 36/50
+[2026-03-22 17:51:25]   Generating batch: items 37–38 (36/50 done)
+[2026-03-22 17:52:02] WATCHDOG: Progress: 833 → 835 items
+[2026-03-22 17:52:36]   Saved. Progress: 38/50
+[2026-03-22 17:52:37]   Generating batch: items 39–40 (38/50 done)
+[2026-03-22 17:53:02] WATCHDOG: Progress: 835 → 837 items
+[2026-03-22 17:53:39]   Saved. Progress: 40/50
+[2026-03-22 17:53:40]   Generating batch: items 41–42 (40/50 done)
+[2026-03-22 17:54:02] WATCHDOG: Progress: 837 → 839 items
+[2026-03-22 17:54:47]   Saved. Progress: 42/50
+[2026-03-22 17:54:48]   Generating batch: items 43–44 (42/50 done)
+[2026-03-22 17:55:03] WATCHDOG: Progress: 839 → 841 items
+[2026-03-22 17:55:56]   Saved. Progress: 44/50
+[2026-03-22 17:55:57]   Generating batch: items 45–46 (44/50 done)
+[2026-03-22 17:56:03] WATCHDOG: Progress: 841 → 843 items
+[2026-03-22 17:57:02]   Saved. Progress: 46/50
+[2026-03-22 17:57:03]   Generating batch: items 47–48 (46/50 done)
+[2026-03-22 17:57:03] WATCHDOG: Progress: 843 → 845 items
+[2026-03-22 17:58:03] WATCHDOG: No new items for 60s (still at 845) PID=16958
+[2026-03-22 17:58:03]   Saved. Progress: 48/50
+[2026-03-22 17:58:05]   Generating batch: items 49–50 (48/50 done)
+[2026-03-22 17:59:03] WATCHDOG: Progress: 845 → 847 items
+[2026-03-22 17:59:14]   Saved. Progress: 50/50
+[2026-03-22 17:59:15]   P15 COMPLETE: 50 items
+[2026-03-22 17:59:15] 
+============================================================
+[2026-03-22 17:59:15] Starting P16 (adversarial) — target: 200 items
+[2026-03-22 17:59:15]   Resuming from 0/200
+[2026-03-22 17:59:15]   Generating batch: items 1–2 (0/200 done)
+[2026-03-22 18:00:04] WATCHDOG: Progress: 847 → 849 items
+[2026-03-22 18:00:26]   Saved. Progress: 2/200
+[2026-03-22 18:00:27]   Generating batch: items 3–4 (2/200 done)
+[2026-03-22 18:01:04] WATCHDOG: Progress: 849 → 851 items
+[2026-03-22 18:01:50]   Saved. Progress: 4/200
+[2026-03-22 18:01:51]   Generating batch: items 5–6 (4/200 done)
+[2026-03-22 18:02:04] WATCHDOG: Progress: 851 → 853 items
+[2026-03-22 18:03:04] WATCHDOG: No new items for 60s (still at 853) PID=16958
+[2026-03-22 18:03:08]   Saved. Progress: 6/200
+[2026-03-22 18:03:09]   Generating batch: items 7–8 (6/200 done)
+[2026-03-22 18:04:05] WATCHDOG: Progress: 853 → 855 items
+[2026-03-22 18:04:25]   Saved. Progress: 8/200
+[2026-03-22 18:04:26]   Generating batch: items 9–10 (8/200 done)
+[2026-03-22 18:05:05] WATCHDOG: Progress: 855 → 857 items
+[2026-03-22 18:05:36]   Saved. Progress: 10/200
+[2026-03-22 18:05:37]   Generating batch: items 11–12 (10/200 done)
+[2026-03-22 18:06:05] WATCHDOG: Progress: 857 → 859 items
+[2026-03-22 18:06:49]   Saved. Progress: 12/200
+[2026-03-22 18:06:50]   Generating batch: items 13–14 (12/200 done)
+[2026-03-22 18:07:05] WATCHDOG: Progress: 859 → 861 items
+[2026-03-22 18:08:00]   Saved. Progress: 14/200
+[2026-03-22 18:08:01]   Generating batch: items 15–16 (14/200 done)
+[2026-03-22 18:08:06] WATCHDOG: Progress: 861 → 863 items
+[2026-03-22 18:09:06] WATCHDOG: No new items for 60s (still at 863) PID=16958
+[2026-03-22 18:09:23]   Saved. Progress: 16/200
+[2026-03-22 18:09:24]   Generating batch: items 17–18 (16/200 done)
+[2026-03-22 18:10:06] WATCHDOG: Progress: 863 → 865 items
+[2026-03-22 18:10:26]   Saved. Progress: 18/200
+[2026-03-22 18:10:27]   Generating batch: items 19–20 (18/200 done)
+[2026-03-22 18:11:06] WATCHDOG: Progress: 865 → 867 items
+[2026-03-22 18:11:45]   Saved. Progress: 20/200
+[2026-03-22 18:11:46]   Generating batch: items 21–22 (20/200 done)
+[2026-03-22 18:12:06] WATCHDOG: Progress: 867 → 869 items
+[2026-03-22 18:12:53]   Saved. Progress: 22/200
+[2026-03-22 18:12:54]   Generating batch: items 23–24 (22/200 done)
+[2026-03-22 18:13:07] WATCHDOG: Progress: 869 → 871 items
+[2026-03-22 18:14:03]   Saved. Progress: 24/200
+[2026-03-22 18:14:04]   Generating batch: items 25–26 (24/200 done)
+[2026-03-22 18:14:07] WATCHDOG: Progress: 871 → 873 items
+[2026-03-22 18:15:07] WATCHDOG: No new items for 60s (still at 873) PID=16958
+[2026-03-22 18:15:28]   Saved. Progress: 26/200
+[2026-03-22 18:15:29]   Generating batch: items 27–28 (26/200 done)
+[2026-03-22 18:16:07] WATCHDOG: Progress: 873 → 875 items
+[2026-03-22 18:16:52]   Saved. Progress: 28/200
+[2026-03-22 18:16:54]   Generating batch: items 29–30 (28/200 done)
+[2026-03-22 18:17:08] WATCHDOG: Progress: 875 → 877 items
+[2026-03-22 18:18:08] WATCHDOG: No new items for 60s (still at 877) PID=16958
+[2026-03-22 18:18:08]   Saved. Progress: 30/200
+[2026-03-22 18:18:09]   Generating batch: items 31–32 (30/200 done)
+[2026-03-22 18:19:08] WATCHDOG: Progress: 877 → 879 items
+[2026-03-22 18:19:28]   Saved. Progress: 32/200
+[2026-03-22 18:19:29]   Generating batch: items 33–34 (32/200 done)
+[2026-03-22 18:20:08] WATCHDOG: Progress: 879 → 881 items
+[2026-03-22 18:20:41]   Saved. Progress: 34/200
+[2026-03-22 18:20:42]   Generating batch: items 35–36 (34/200 done)
+[2026-03-22 18:21:09] WATCHDOG: Progress: 881 → 883 items
+[2026-03-22 18:21:52]   Saved. Progress: 36/200
+[2026-03-22 18:21:53]   Generating batch: items 37–38 (36/200 done)
+[2026-03-22 18:22:09] WATCHDOG: Progress: 883 → 885 items
+[2026-03-22 18:23:09] WATCHDOG: No new items for 60s (still at 885) PID=16958
+[2026-03-22 18:23:10]   Saved. Progress: 38/200
+[2026-03-22 18:23:11]   Generating batch: items 39–40 (38/200 done)
+[2026-03-22 18:24:09] WATCHDOG: Progress: 885 → 887 items
+[2026-03-22 18:24:26]   Saved. Progress: 40/200
+[2026-03-22 18:24:28]   Generating batch: items 41–42 (40/200 done)
+[2026-03-22 18:25:10] WATCHDOG: Progress: 887 → 889 items
+[2026-03-22 18:25:43]   Saved. Progress: 42/200
+[2026-03-22 18:25:44]   Generating batch: items 43–44 (42/200 done)
+[2026-03-22 18:26:10] WATCHDOG: Progress: 889 → 891 items
+[2026-03-22 18:26:51]   Saved. Progress: 44/200
+[2026-03-22 18:26:52]   Generating batch: items 45–46 (44/200 done)
+[2026-03-22 18:27:10] WATCHDOG: Progress: 891 → 893 items
+[2026-03-22 18:28:03]   Saved. Progress: 46/200
+[2026-03-22 18:28:05]   Generating batch: items 47–48 (46/200 done)
+[2026-03-22 18:28:10] WATCHDOG: Progress: 893 → 895 items
+[2026-03-22 18:29:10] WATCHDOG: No new items for 60s (still at 895) PID=16958
+[2026-03-22 18:29:19]   Saved. Progress: 48/200
+[2026-03-22 18:29:20]   Generating batch: items 49–50 (48/200 done)
+[2026-03-22 18:30:11] WATCHDOG: Progress: 895 → 897 items
+[2026-03-22 18:30:31]   Saved. Progress: 50/200
+[2026-03-22 18:30:32]   Generating batch: items 51–52 (50/200 done)
+[2026-03-22 18:31:11] WATCHDOG: Progress: 897 → 899 items
+[2026-03-22 18:31:46]   Saved. Progress: 52/200
+[2026-03-22 18:31:47]   Generating batch: items 53–54 (52/200 done)
+[2026-03-22 18:32:11] WATCHDOG: Progress: 899 → 901 items
+[2026-03-22 18:32:59]   Saved. Progress: 54/200
+[2026-03-22 18:33:01]   Generating batch: items 55–56 (54/200 done)
+[2026-03-22 18:33:11] WATCHDOG: Progress: 901 → 903 items
+[2026-03-22 18:34:10]   Saved. Progress: 56/200
+[2026-03-22 18:34:11]   Generating batch: items 57–58 (56/200 done)
+[2026-03-22 18:34:12] WATCHDOG: Progress: 903 → 905 items
+[2026-03-22 18:35:12] WATCHDOG: No new items for 60s (still at 905) PID=16958
+[2026-03-22 18:35:14]   Saved. Progress: 58/200
+[2026-03-22 18:35:15]   Generating batch: items 59–60 (58/200 done)
+[2026-03-22 18:36:12] WATCHDOG: Progress: 905 → 907 items
+[2026-03-22 18:36:21]   Saved. Progress: 60/200
+[2026-03-22 18:36:22]   Generating batch: items 61–62 (60/200 done)
+[2026-03-22 18:37:12] WATCHDOG: Progress: 907 → 909 items
+[2026-03-22 18:37:43]   Saved. Progress: 62/200
+[2026-03-22 18:37:44]   Generating batch: items 63–64 (62/200 done)
+[2026-03-22 18:38:13] WATCHDOG: Progress: 909 → 911 items
+[2026-03-22 18:38:46]   Saved. Progress: 64/200
+[2026-03-22 18:38:47]   Generating batch: items 65–66 (64/200 done)
+[2026-03-22 18:39:13] WATCHDOG: Progress: 911 → 913 items
+[2026-03-22 18:40:00]   Saved. Progress: 66/200
+[2026-03-22 18:40:01]   Generating batch: items 67–68 (66/200 done)
+[2026-03-22 18:40:13] WATCHDOG: Progress: 913 → 915 items
+[2026-03-22 18:41:10]   Saved. Progress: 68/200
+[2026-03-22 18:41:11]   Generating batch: items 69–70 (68/200 done)
+[2026-03-22 18:41:13] WATCHDOG: Progress: 915 → 917 items
+[2026-03-22 18:42:13] WATCHDOG: No new items for 60s (still at 917) PID=16958
+[2026-03-22 18:42:18]   Saved. Progress: 70/200
+[2026-03-22 18:42:19]   Generating batch: items 71–72 (70/200 done)
+[2026-03-22 18:43:14] WATCHDOG: Progress: 917 → 919 items
+[2026-03-22 18:43:27]   Saved. Progress: 72/200
+[2026-03-22 18:43:29]   Generating batch: items 73–74 (72/200 done)
+[2026-03-22 18:44:14] WATCHDOG: Progress: 919 → 921 items
+[2026-03-22 18:44:42]   Saved. Progress: 74/200
+[2026-03-22 18:44:43]   Generating batch: items 75–76 (74/200 done)
+[2026-03-22 18:45:14] WATCHDOG: Progress: 921 → 923 items
+[2026-03-22 18:45:48]   Saved. Progress: 76/200
+[2026-03-22 18:45:49]   Generating batch: items 77–78 (76/200 done)
+[2026-03-22 18:46:14] WATCHDOG: Progress: 923 → 925 items
+[2026-03-22 18:46:55]   Saved. Progress: 78/200
+[2026-03-22 18:46:56]   Generating batch: items 79–80 (78/200 done)
+[2026-03-22 18:47:15] WATCHDOG: Progress: 925 → 927 items
+[2026-03-22 18:48:14]   Saved. Progress: 80/200
+[2026-03-22 18:48:15]   Generating batch: items 81–82 (80/200 done)
+[2026-03-22 18:48:15] WATCHDOG: Progress: 927 → 929 items
+[2026-03-22 18:49:15] WATCHDOG: No new items for 60s (still at 929) PID=16958
+[2026-03-22 18:49:25]   Saved. Progress: 82/200
+[2026-03-22 18:49:26]   Generating batch: items 83–84 (82/200 done)
+[2026-03-22 18:50:15] WATCHDOG: Progress: 929 → 931 items
+[2026-03-22 18:50:32]   Saved. Progress: 84/200
+[2026-03-22 18:50:34]   Generating batch: items 85–86 (84/200 done)
+[2026-03-22 18:51:16] WATCHDOG: Progress: 931 → 933 items
+[2026-03-22 18:51:38]   Saved. Progress: 86/200
+[2026-03-22 18:51:39]   Generating batch: items 87–88 (86/200 done)
+[2026-03-22 18:52:16] WATCHDOG: Progress: 933 → 935 items
+[2026-03-22 18:52:53]   Saved. Progress: 88/200
+[2026-03-22 18:52:54]   Generating batch: items 89–90 (88/200 done)
+[2026-03-22 18:53:16] WATCHDOG: Progress: 935 → 937 items
+[2026-03-22 18:53:58]   Saved. Progress: 90/200
+[2026-03-22 18:53:59]   Generating batch: items 91–92 (90/200 done)
+[2026-03-22 18:54:16] WATCHDOG: Progress: 937 → 939 items
+[2026-03-22 18:55:06]   Saved. Progress: 92/200
+[2026-03-22 18:55:07]   Generating batch: items 93–94 (92/200 done)
+[2026-03-22 18:55:17] WATCHDOG: Progress: 939 → 941 items
+[2026-03-22 18:56:14]   Saved. Progress: 94/200
+[2026-03-22 18:56:15]   Generating batch: items 95–96 (94/200 done)
+[2026-03-22 18:56:17] WATCHDOG: Progress: 941 → 943 items
+[2026-03-22 18:57:17] WATCHDOG: No new items for 60s (still at 943) PID=16958
+[2026-03-22 18:57:29]   Saved. Progress: 96/200
+[2026-03-22 18:57:30]   Generating batch: items 97–98 (96/200 done)
+[2026-03-22 18:58:17] WATCHDOG: Progress: 943 → 945 items
+[2026-03-22 18:58:35]   Saved. Progress: 98/200
+[2026-03-22 18:58:36]   Generating batch: items 99–100 (98/200 done)
+[2026-03-22 18:59:17] WATCHDOG: Progress: 945 → 947 items
+[2026-03-22 19:00:03]   Saved. Progress: 100/200
+[2026-03-22 19:00:04]   Generating batch: items 101–102 (100/200 done)
+[2026-03-22 19:00:18] WATCHDOG: Progress: 947 → 949 items
+[2026-03-22 19:01:15]   Saved. Progress: 102/200
+[2026-03-22 19:01:16]   Generating batch: items 103–104 (102/200 done)
+[2026-03-22 19:01:18] WATCHDOG: Progress: 949 → 951 items
+[2026-03-22 19:02:18] WATCHDOG: No new items for 60s (still at 951) PID=16958
+[2026-03-22 19:02:25]   Saved. Progress: 104/200
+[2026-03-22 19:02:26]   Generating batch: items 105–106 (104/200 done)
+[2026-03-22 19:03:18] WATCHDOG: Progress: 951 → 953 items
+[2026-03-22 19:03:37]   Saved. Progress: 106/200
+[2026-03-22 19:03:38]   Generating batch: items 107–108 (106/200 done)
+[2026-03-22 19:04:19] WATCHDOG: Progress: 953 → 955 items
+[2026-03-22 19:04:47]   Saved. Progress: 108/200
+[2026-03-22 19:04:48]   Generating batch: items 109–110 (108/200 done)
+[2026-03-22 19:05:19] WATCHDOG: Progress: 955 → 957 items
+[2026-03-22 19:06:00]   Saved. Progress: 110/200
+[2026-03-22 19:06:02]   Generating batch: items 111–112 (110/200 done)
+[2026-03-22 19:06:19] WATCHDOG: Progress: 957 → 959 items
+[2026-03-22 19:07:19] WATCHDOG: No new items for 60s (still at 959) PID=16958
+[2026-03-22 19:07:20]   Saved. Progress: 112/200
+[2026-03-22 19:07:21]   Generating batch: items 113–114 (112/200 done)
+[2026-03-22 19:08:20] WATCHDOG: Progress: 959 → 961 items
+[2026-03-22 19:08:23]   Saved. Progress: 114/200
+[2026-03-22 19:08:24]   Generating batch: items 115–116 (114/200 done)
+[2026-03-22 19:09:20] WATCHDOG: Progress: 961 → 963 items
+[2026-03-22 19:09:41]   Saved. Progress: 116/200
+[2026-03-22 19:09:42]   Generating batch: items 117–118 (116/200 done)
+[2026-03-22 19:10:20] WATCHDOG: Progress: 963 → 965 items
+[2026-03-22 19:10:49]   Saved. Progress: 118/200
+[2026-03-22 19:10:50]   Generating batch: items 119–120 (118/200 done)
+[2026-03-22 19:11:20] WATCHDOG: Progress: 965 → 967 items
+[2026-03-22 19:12:05]   Saved. Progress: 120/200
+[2026-03-22 19:12:06]   Generating batch: items 121–122 (120/200 done)
+[2026-03-22 19:12:20] WATCHDOG: Progress: 967 → 969 items
+[2026-03-22 19:13:21] WATCHDOG: No new items for 61s (still at 969) PID=16958
+[2026-03-22 19:13:22]   Saved. Progress: 122/200
+[2026-03-22 19:13:23]   Generating batch: items 123–124 (122/200 done)
+[2026-03-22 19:14:21] WATCHDOG: Progress: 969 → 971 items
+[2026-03-22 19:14:46]   Saved. Progress: 124/200
+[2026-03-22 19:14:47]   Generating batch: items 125–126 (124/200 done)
+[2026-03-22 19:15:21] WATCHDOG: Progress: 971 → 973 items
+[2026-03-22 19:15:58]   Saved. Progress: 126/200
+[2026-03-22 19:16:00]   Generating batch: items 127–128 (126/200 done)
+[2026-03-22 19:16:21] WATCHDOG: Progress: 973 → 975 items
+[2026-03-22 19:17:20]   Saved. Progress: 128/200
+[2026-03-22 19:17:21]   Generating batch: items 129–130 (128/200 done)
+[2026-03-22 19:17:22] WATCHDOG: Progress: 975 → 977 items
+[2026-03-22 19:18:22] WATCHDOG: No new items for 60s (still at 977) PID=16958
+[2026-03-22 19:18:31]   Saved. Progress: 130/200
+[2026-03-22 19:18:32]   Generating batch: items 131–132 (130/200 done)
+[2026-03-22 19:19:22] WATCHDOG: Progress: 977 → 979 items
+[2026-03-22 19:19:43]   Saved. Progress: 132/200
+[2026-03-22 19:19:44]   Generating batch: items 133–134 (132/200 done)
+[2026-03-22 19:20:22] WATCHDOG: Progress: 979 → 981 items
+[2026-03-22 19:20:59]   Saved. Progress: 134/200
+[2026-03-22 19:21:01]   Generating batch: items 135–136 (134/200 done)
+[2026-03-22 19:21:23] WATCHDOG: Progress: 981 → 983 items
+[2026-03-22 19:22:12]   Saved. Progress: 136/200
+[2026-03-22 19:22:13]   Generating batch: items 137–138 (136/200 done)
+[2026-03-22 19:22:23] WATCHDOG: Progress: 983 → 985 items
+[2026-03-22 19:23:16]   Saved. Progress: 138/200
+[2026-03-22 19:23:17]   Generating batch: items 139–140 (138/200 done)
+[2026-03-22 19:23:23] WATCHDOG: Progress: 985 → 987 items
+[2026-03-22 19:24:23] WATCHDOG: No new items for 60s (still at 987) PID=16958
+[2026-03-22 19:24:38]   Saved. Progress: 140/200
+[2026-03-22 19:24:39]   Generating batch: items 141–142 (140/200 done)
+[2026-03-22 19:25:24] WATCHDOG: Progress: 987 → 989 items
+[2026-03-22 19:25:53]   Saved. Progress: 142/200
+[2026-03-22 19:25:54]   Generating batch: items 143–144 (142/200 done)
+[2026-03-22 19:26:24] WATCHDOG: Progress: 989 → 991 items
+[2026-03-22 19:26:57]   Saved. Progress: 144/200
+[2026-03-22 19:26:58]   Generating batch: items 145–146 (144/200 done)
+[2026-03-22 19:27:24] WATCHDOG: Progress: 991 → 993 items
+[2026-03-22 19:28:07]   Saved. Progress: 146/200
+[2026-03-22 19:28:08]   Generating batch: items 147–148 (146/200 done)
+[2026-03-22 19:28:24] WATCHDOG: Progress: 993 → 995 items
+[2026-03-22 19:29:21]   Saved. Progress: 148/200
+[2026-03-22 19:29:22]   Generating batch: items 149–150 (148/200 done)
+[2026-03-22 19:29:24] WATCHDOG: Progress: 995 → 997 items
+[2026-03-22 19:30:25] WATCHDOG: No new items for 61s (still at 997) PID=16958
+[2026-03-22 19:30:28]   Saved. Progress: 150/200
+[2026-03-22 19:30:29]   Generating batch: items 151–152 (150/200 done)
+[2026-03-22 19:31:25] WATCHDOG: Progress: 997 → 999 items
+[2026-03-22 19:31:40]   Saved. Progress: 152/200
+[2026-03-22 19:31:41]   Generating batch: items 153–154 (152/200 done)
+[2026-03-22 19:32:25] WATCHDOG: Progress: 999 → 1001 items
+[2026-03-22 19:32:47]   Saved. Progress: 154/200
+[2026-03-22 19:32:48]   Generating batch: items 155–156 (154/200 done)
+[2026-03-22 19:33:25] WATCHDOG: Progress: 1001 → 1003 items
+[2026-03-22 19:33:49]   Saved. Progress: 156/200
+[2026-03-22 19:33:50]   Generating batch: items 157–158 (156/200 done)
+[2026-03-22 19:34:26] WATCHDOG: Progress: 1003 → 1005 items
+[2026-03-22 19:35:04]   Saved. Progress: 158/200
+[2026-03-22 19:35:05]   Generating batch: items 159–160 (158/200 done)
+[2026-03-22 19:35:26] WATCHDOG: Progress: 1005 → 1007 items
+[2026-03-22 19:36:18]   Saved. Progress: 160/200
+[2026-03-22 19:36:20]   Generating batch: items 161–162 (160/200 done)
+[2026-03-22 19:36:26] WATCHDOG: Progress: 1007 → 1009 items
+[2026-03-22 19:37:26] WATCHDOG: No new items for 60s (still at 1009) PID=16958
+[2026-03-22 19:37:32]   Saved. Progress: 162/200
+[2026-03-22 19:37:33]   Generating batch: items 163–164 (162/200 done)
+[2026-03-22 19:38:27] WATCHDOG: Progress: 1009 → 1011 items
+[2026-03-22 19:38:43]   Saved. Progress: 164/200
+[2026-03-22 19:38:45]   Generating batch: items 165–166 (164/200 done)
+[2026-03-22 19:39:27] WATCHDOG: Progress: 1011 → 1013 items
+[2026-03-22 19:39:56]   Saved. Progress: 166/200
+[2026-03-22 19:39:57]   Generating batch: items 167–168 (166/200 done)
+[2026-03-22 19:40:27] WATCHDOG: Progress: 1013 → 1015 items
+[2026-03-22 19:41:03]   Saved. Progress: 168/200
+[2026-03-22 19:41:04]   Generating batch: items 169–170 (168/200 done)
+[2026-03-22 19:41:27] WATCHDOG: Progress: 1015 → 1017 items
+[2026-03-22 19:42:12]   Saved. Progress: 170/200
+[2026-03-22 19:42:13]   Generating batch: items 171–172 (170/200 done)
+[2026-03-22 19:42:27] WATCHDOG: Progress: 1017 → 1019 items
+[2026-03-22 19:43:25]   Saved. Progress: 172/200
+[2026-03-22 19:43:26]   Generating batch: items 173–174 (172/200 done)
+[2026-03-22 19:43:28] WATCHDOG: Progress: 1019 → 1021 items
+[2026-03-22 19:44:28] WATCHDOG: No new items for 60s (still at 1021) PID=16958
+[2026-03-22 19:44:38]   Saved. Progress: 174/200
+[2026-03-22 19:44:39]   Generating batch: items 175–176 (174/200 done)
+[2026-03-22 19:45:28] WATCHDOG: Progress: 1021 → 1023 items
+[2026-03-22 19:45:47]   Saved. Progress: 176/200
+[2026-03-22 19:45:48]   Generating batch: items 177–178 (176/200 done)
+[2026-03-22 19:46:28] WATCHDOG: Progress: 1023 → 1025 items
+[2026-03-22 19:46:54]   Saved. Progress: 178/200
+[2026-03-22 19:46:55]   Generating batch: items 179–180 (178/200 done)
+[2026-03-22 19:47:29] WATCHDOG: Progress: 1025 → 1027 items
+[2026-03-22 19:47:55]   Saved. Progress: 180/200
+[2026-03-22 19:47:56]   Generating batch: items 181–182 (180/200 done)
+[2026-03-22 19:48:29] WATCHDOG: Progress: 1027 → 1029 items
+[2026-03-22 19:49:00]   Saved. Progress: 182/200
+[2026-03-22 19:49:01]   Generating batch: items 183–184 (182/200 done)
+[2026-03-22 19:49:29] WATCHDOG: Progress: 1029 → 1031 items
+[2026-03-22 19:50:12]   Saved. Progress: 184/200
+[2026-03-22 19:50:13]   Generating batch: items 185–186 (184/200 done)
+[2026-03-22 19:50:29] WATCHDOG: Progress: 1031 → 1033 items
+[2026-03-22 19:51:21]   Saved. Progress: 186/200
+[2026-03-22 19:51:22]   Generating batch: items 187–188 (186/200 done)
+[2026-03-22 19:51:30] WATCHDOG: Progress: 1033 → 1035 items
+[2026-03-22 19:52:30] WATCHDOG: No new items for 60s (still at 1035) PID=16958
+[2026-03-22 19:52:35]   Saved. Progress: 188/200
+[2026-03-22 19:52:36]   Generating batch: items 189–190 (188/200 done)
+[2026-03-22 19:53:30] WATCHDOG: Progress: 1035 → 1037 items
+[2026-03-22 19:53:44]   Saved. Progress: 190/200
+[2026-03-22 19:53:45]   Generating batch: items 191–192 (190/200 done)
+[2026-03-22 19:54:30] WATCHDOG: Progress: 1037 → 1039 items
+[2026-03-22 19:55:03]   Saved. Progress: 192/200
+[2026-03-22 19:55:04]   Generating batch: items 193–194 (192/200 done)
+[2026-03-22 19:55:31] WATCHDOG: Progress: 1039 → 1041 items
+[2026-03-22 19:56:15]   Saved. Progress: 194/200
+[2026-03-22 19:56:16]   Generating batch: items 195–196 (194/200 done)
+[2026-03-22 19:56:31] WATCHDOG: Progress: 1041 → 1043 items
+[2026-03-22 19:57:31] WATCHDOG: No new items for 60s (still at 1043) PID=16958
+[2026-03-22 19:57:39]   Saved. Progress: 196/200
+[2026-03-22 19:57:41]   Generating batch: items 197–198 (196/200 done)
+[2026-03-22 19:58:31] WATCHDOG: Progress: 1043 → 1045 items
+[2026-03-22 19:58:57]   Saved. Progress: 198/200
+[2026-03-22 19:58:58]   Generating batch: items 199–200 (198/200 done)
+[2026-03-22 19:59:31] WATCHDOG: Progress: 1045 → 1047 items
+[2026-03-22 20:00:15]   Saved. Progress: 200/200
+[2026-03-22 20:00:16]   P16 COMPLETE: 200 items
+[2026-03-22 20:00:16] 
+============================================================
+[2026-03-22 20:00:16] ALL PHASES COMPLETE
+[2026-03-22 20:00:16]   P12: 499/499 items
+[2026-03-22 20:00:16]   P13: 250/250 items
+[2026-03-22 20:00:16]   P14: 50/50 items
+[2026-03-22 20:00:16]   P15: 50/50 items
+[2026-03-22 20:00:16]   P16: 200/200 items
+[2026-03-22 20:00:16] Done. Files in: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 20:15:39] WATCHDOG: Generator not running — restarting
+[2026-03-22 20:15:39] WATCHDOG: Started generator PID 27664
+[2026-03-22 20:15:39] ============================================================
+[2026-03-22 20:15:39] suitability_only_generator.py starting
+[2026-03-22 20:15:39] Output: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only
+[2026-03-22 20:15:41] Using model: claude-opus-4-6
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] Starting P12 (standard) — target: 499 items
+[2026-03-22 20:15:41]   P12 already complete (499/499), skipping.
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] Starting P13 (borderline) — target: 250 items
+[2026-03-22 20:15:41]   P13 already complete (250/250), skipping.
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] Starting P14 (conversation) — target: 50 items
+[2026-03-22 20:15:41]   P14 already complete (50/50), skipping.
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] Starting P15 (red_flag) — target: 50 items
+[2026-03-22 20:15:41]   P15 already complete (50/50), skipping.
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] Starting P16 (adversarial) — target: 200 items
+[2026-03-22 20:15:41]   P16 already complete (200/200), skipping.
+[2026-03-22 20:15:41] 
+============================================================
+[2026-03-22 20:15:41] ALL PHASES COMPLETE
+[2026-03-22 20:15:41]   P12: 499/499 items
+[2026-03-22 20:15:41]   P13: 250/250 items
+[2026-03-22 20:15:41]   P14: 50/50 items
+[2026-03-22 20:15:41]   P15: 50/50 items
+[2026-03-22 20:15:41]   P16: 200/200 items
+[2026-03-22 20:15:41] Done. Files in: /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/Suitability Only

@@ -1,0 +1,27 @@
+ID: 752
+Source Folder: 13_FINRA_Rulebook
+Topic: suitability_rule
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David Morales, a registered representative, recommends that Brian Kowalski, a 34-year-old software engineer earning $145,000 annually with moderate risk tolerance and a 5-year investment horizon for a home down payment, invest $95,000 — representing 85% of his liquid net worth — into a concentrated position in a single leveraged inverse ETF tracking the Nasdaq-100 index. David documents Brian's investment profile as required under FINRA Rule 2090 but does not perform any analysis of whether the leveraged inverse ETF is consistent with Brian's stated moderate risk tolerance and medium-term time horizon. The firm's suitability review checklist was completed by David himself with no independent supervisory review.
+
+QUESTION
+--------
+Does this recommendation satisfy the reasonable-basis and customer-specific suitability obligations under FINRA Rule 2111?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 2111(a) — both the reasonable-basis and customer-specific suitability obligations.
+
+FINRA Rule 2111 requires that a representative have a reasonable basis to believe a recommendation is suitable based on reasonable diligence regarding the product (reasonable-basis suitability) and the customer's investment profile (customer-specific suitability). Leveraged inverse ETFs are complex products designed for short-term trading and can produce returns dramatically different from their benchmark over holding periods longer than one day — making them inappropriate for a 5-year hold. Concentrating 85% of liquid net worth in such a product for a client with moderate risk tolerance and a specific savings goal violates customer-specific suitability. The representative's failure to perform any product-level analysis also fails the reasonable-basis obligation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) — Suitability (reasonable-basis suitability and customer-specific suitability obligations)
+
+KEY FACTOR
+----------
+The representative failed to analyze whether a leveraged inverse ETF — a complex, short-term trading product — was consistent with the client's moderate risk tolerance and 5-year time horizon, and concentrated nearly all of the client's liquid assets in that single position.

@@ -1,0 +1,27 @@
+ID: 983
+Source Folder: 23_International_Comparative
+Topic: iosco_cross_border_suitability_compliant
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A multinational asset management firm operating across EU, UK, and Asia-Pacific jurisdictions develops a unified cross-border suitability framework aligned with IOSCO's 2021 Suitability Principles to serve high-net-worth clients holding accounts in multiple regulatory domains. The framework requires jurisdiction-specific overlays: MiFID II suitability reports for EU clients, FCA Consumer Duty outcome monitoring for UK clients, and ASIC-compliant SOAs for Australian clients, with a central data governance system ensuring no client is recommended a product outside their assessed risk profile in any jurisdiction. The firm conducts annual reviews of client risk profiles and retains audit trails accessible to each relevant regulator.
+
+QUESTION
+--------
+Does the firm's cross-border suitability framework satisfy international conduct standards applicable across its operating jurisdictions?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+IOSCO's 2021 Suitability Principles establish baseline standards requiring firms to collect adequate client information, maintain updated profiles, and ensure recommendations are appropriate to client circumstances, with jurisdiction-specific implementation left to local regulators. The firm's layered framework satisfies IOSCO's cross-border coherence expectations while meeting each domestic regime's prescriptive requirements through jurisdiction-specific overlays, and the annual review cycle with auditable records addresses both the ongoing suitability monitoring obligations under MiFID II and the ASIC periodic review expectations.
+
+APPLICABLE STANDARD
+-------------------
+IOSCO Suitability Principles 2021 (Principles 1-9); MiFID II Art. 25; FCA Consumer Duty PRIN 12; ASIC Corporations Act §961B
+
+KEY FACTOR
+----------
+Integrated cross-border framework with jurisdiction-specific compliance overlays, continuous monitoring, and full audit trail satisfying all applicable international and domestic suitability standards.

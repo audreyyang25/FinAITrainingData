@@ -1,0 +1,27 @@
+ID: 204
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 48-year-old client with $1.2M in a 401(k) and a $200,000 deferred compensation plan at a mid-cap tech company rolls over $200,000 from the deferred comp plan into a self-directed brokerage account at his RIA. The RIA documents that the rollover avoids a 10% per-year distribution schedule mandated by the plan after age 50, preserves tax deferral, and provides greater investment control. The client has 15+ years to retirement, a 7/10 risk tolerance, and no documented liquidity constraints. The RIA charges 1.1% AUM on the new account (market rate for accounts this size).
+
+QUESTION
+--------
+Does this rollover recommendation satisfy the fiduciary duty of loyalty and care under the Investment Adviser Act and DOL ERISA standards?
+
+ANSWER
+------
+Yes, this rollover is compliant with fiduciary duties.
+
+The RIA satisfied the duty of care and loyalty by: (1) analyzing the plan's specific distribution constraint (mandatory 10% withdrawals) and documenting that the rollover avoids forced liquidation and adverse tax consequences; (2) verifying that the client's time horizon (15 years) and risk tolerance (7/10) are compatible with managing the account independently; (3) documenting that the client has no liquidity needs that would be better served by the plan's guaranteed payment options (if any); and (4) charging a market-rate fee (1.1% AUM for a $200K account is within normal range). The adviser's fee structure does not create a prohibited transaction under DOL standards because the recommendation is not motivated by fee generation—the net benefit to the client (avoiding forced liquidations and gaining control) is clearly documented and outweighs the new AUM fee. This parallels DOL and SEC guidance favoring rollovers when plan-specific constraints are documented as problematic.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206 (fiduciary duty); DOL Advisory Opinion 2005-01A (fiduciaries may recommend rollovers if in client's best interest and fees are reasonable); SEC Exam Priorities (rollover recommendations scrutinized but compliant if alternative plan features are analyzed and documented).
+
+KEY FACTOR
+----------
+The documented analysis of the plan's specific drawback (mandatory 10% distributions) that the rollover cures, combined with no liquidity conflicts and market-rate fees, establishes that the recommendation is client-centric rather than fee-driven.

@@ -1,0 +1,27 @@
+ID: 523
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Drew Kellner, the sole managing member and chief compliance officer of Horizon Tactical Management, LLC, a registered investment adviser with $195 million in AUM, implemented a proprietary tactical allocation strategy that shifted client assets between equity ETFs and money market funds based on a quantitative model. Kellner presented the strategy to prospective and existing clients as one that would 'substantially reduce downside risk while capturing equity upside.' However, over a 42-month period, the strategy's frequent trading generated average annual portfolio turnover of 1,400%, resulting in realized short-term capital gains that created tax liabilities averaging 3.8% of account value annually for taxable accounts. Kellner never disclosed the strategy's anticipated turnover rate or tax consequences in his Form ADV Part 2A brochure, in client investment advisory agreements, or in any client communications. Additionally, Kellner allocated 22% of client assets to a private fund he managed on the side, Horizon Opportunity Fund LP, which paid him a 2% management fee and 20% performance allocation, without disclosing this additional compensation layer to his advisory clients or obtaining their informed consent. The SEC calculated that Kellner received approximately $860,000 in management fees and $1.3 million in performance allocations from the private fund attributable to advisory client assets over the relevant period.
+
+QUESTION
+--------
+Did Kellner and Horizon Tactical Management violate the Advisers Act through the undisclosed tax consequences of the tactical strategy and the undisclosed cross-allocation to the affiliated private fund?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes multiple violations of Sections 206(1), 206(2), and 206(4) of the Investment Advisers Act for fraudulent and deceptive conduct, breach of fiduciary duty, and failure to disclose material conflicts of interest.
+
+This fact pattern involves two distinct but compounding fiduciary failures analogous to those in In the Matter of Horter Investment Management, LLC and Drew K. Horter (IA-6182). First, the failure to disclose the extreme portfolio turnover and its material tax consequences deprived taxable account clients of information essential to evaluating the strategy's true net-of-tax performance and suitability. Second, the cross-allocation of advisory client assets to a private fund in which Kellner received layered compensation (management fees and performance allocation) without disclosure or informed consent constitutes a classic conflict of interest under Section 206. When an adviser's principal also serves as CCO, as in the Horter matter, the absence of independent compliance oversight magnifies the risk of self-dealing and underscores the supervisory failure. Both the individual and the firm bear liability for the fraudulent omissions.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(1), 206(2), and 206(4); SEC Rule 206(4)-7; SEC Rule 206(4)-8
+
+KEY FACTOR
+----------
+The dual-layer of undisclosed conflicts—excessive tax drag from a high-turnover strategy and undisclosed self-enriching cross-allocation to an affiliated fund—combined with the absence of independent compliance oversight, demonstrated a systemic failure of fiduciary duty.

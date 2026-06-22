@@ -1,0 +1,25 @@
+ID: 403
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A Boston-based independent broker-dealer (BD) provides advice to a 45-year-old Massachusetts resident with $520,000 in a taxable brokerage account. The BD's advisor recommends a strategy: quarterly rebalancing with 18% annualized turnover, resulting in $93,600 annualized trading volume. The strategy generates $18,720 in annual BD trading commissions (2% per trade, round-trip). Under Massachusetts' fiduciary rule (codified in MA Securities Division Guidance effective 2020), broker-dealers owe a fiduciary duty of loyalty and care to MA retail clients—a standard that exceeds federal Reg BI by requiring avoidance of all undisclosed conflicts and affirmative pursuit of client benefit, not merely 'reasonable' recommendations. The BD disclosed the commission structure in account documents but did not disclose that the rebalancing frequency was optimized to generate trading revenue and that a passive 4% annual rebalancing would achieve equivalent diversification at $20,800 annual turnover and $4,160 in commissions.
+
+QUESTION
+--------
+Does the Boston BD's recommendation comply with Massachusetts' fiduciary rule, which requires avoidance of undisclosed conflicts and pursuit of client benefit?
+
+ANSWER
+------
+No. Massachusetts' fiduciary rule (MA Securities Division 2020 Guidance adopting NASAA Model Rule principles) requires broker-dealers to avoid conflicts of interest that are not affirmatively disclosed and to prioritize client benefit over BD revenue. While the BD disclosed commission structure, it failed to disclose that rebalancing frequency (18% turnover generating $18,720 in commissions) was materially higher than necessary for prudent asset allocation (4% turnover, $4,160 commissions). This omission of a material conflict—that the BD's revenue incentive drives recommended trading frequency—violates the Massachusetts duty of loyalty. The BD's fiduciary obligation under MA law exceeds Reg BI's 'reasonable basis' standard by requiring affirmative analysis and disclosure of whether conflicts create incentives to over-serve the BD rather than the client.
+
+APPLICABLE STANDARD
+-------------------
+Massachusetts Securities Division Fiduciary Rule (2020 Guidance) — fiduciary duty of loyalty and care for all retail clients
+
+KEY FACTOR
+----------
+Recommending 18% annual turnover without disclosing that 4% rebalancing achieves equivalent outcome with 78% lower commissions violates MA fiduciary duty of loyalty to avoid undisclosed conflicts.

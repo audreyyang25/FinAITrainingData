@@ -1,0 +1,27 @@
+ID: 29
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer enters into a revenue-sharing arrangement with a third-party annuity manufacturer: the firm receives 0.50% annually of assets placed in the manufacturer's variable annuity contracts, but receives only 0.08% for alternative investments (mutual funds, ETFs). A 62-year-old client with $600,000 in liquid assets, moderate risk tolerance, and a 25-year time horizon is recommended a variable annuity (1.25% ER + 0.50% revenue share = 1.75% total drag). The advisor discloses the revenue-sharing arrangement in the account agreement but does not quantify the total annual cost or compare it to a non-annuity alternative (e.g., balanced mutual fund at 0.35% ER).
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+The firm disclosed the revenue-sharing arrangement but failed to mitigate the conflict adequately under Reg BI. Disclosure alone is insufficient when a material conflict incentivizes a recommendation contrary to the customer's best interest. Here, the 25-year time horizon and moderate risk tolerance suggest a non-annuity vehicle would be appropriate; annuities' surrender charges, tax complexity, and 1.75% total cost drag are unsuitable for this client profile and unsuitable under FINRA Rule 2330 absent specific justification (e.g., lifetime income guarantee need, which is not documented). The conflict is quantified at approximately 140 basis points annually (1.75% vs. 0.35%) over 25 years—a material cost incentivizing the firm's recommendation despite inferior suitability. Mere disclosure of the arrangement without quantifying the dollar impact, comparing alternatives, or justifying why the annuity serves the client's documented goals fails Reg BI's mitigation standard. The SEC's Reg BI release (85 FR 80308) requires brokers to take 'reasonable steps' to mitigate conflicts; disclosed but unmitigated revenue incentives do not meet this standard.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii); FINRA Rule 2330 (variable annuity suitability); SEC Reg BI guidance on quantification and comparison of conflicts.
+
+KEY FACTOR
+----------
+Disclosed but unquantified and unmittigated revenue incentive (1.75% total drag vs. 0.35% alternative) supporting unsuitable annuity recommendation for long-horizon, moderate-risk client.

@@ -1,0 +1,25 @@
+ID: 246
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Wells Fargo Advisors holds a sales contest (May 2024): top three advisors recommending Advisors Preferred Mutual Funds earn $5K bonus each; no bonus for other fund families. Client: 48-year-old, $420K portfolio, moderate growth objective. Advisor recommends $280K into WFA Advisors Preferred Growth Fund (0.78% ER, $560M AUM, bottom-quartile 5-year return: 8.2% annualized). Competitive option: Fidelity Growth Company Fund (0.64% ER, $18B AUM, top-quartile return: 10.1% annualized). Advisor was competing in the sales contest (ultimately finished 2nd, earned $5K). Written disclosure: 'We may receive compensation for recommending our funds,' but no specific mention of the May contest or the $5K incentive. No documented analysis of why underperforming Advisors Preferred was selected despite the competition bias.
+
+QUESTION
+--------
+Did Wells Fargo's recommendation of underperforming Advisors Preferred Fund amid an active sales contest, with generic conflict disclosure but no contest-specific notice, comply with Reg BI's Conflict of Interest Obligation?
+
+ANSWER
+------
+No. Reg BI §240.15l-1(a)(2)(ii) requires identification, disclosure, and mitigation of material conflicts. Sales contests create time-limited, quantified financial incentives that are inherently material. The generic disclosure ('We may receive compensation for recommending our funds') did not identify the specific $5K contest bonus or the fact that the contest was active at the time of the recommendation. More critically, the advisor recommended an underperforming fund (8.2% vs. 10.1% 5-year return; 14 bps higher ER) without documented analysis explaining how the contest-driven incentive did NOT materially influence the choice. The firm failed to demonstrate mitigation: either the conflict should have been eliminated (recommend the superior Fidelity fund) or demonstrably managed (documented analysis of why underperformance was acceptable). This pattern mirrors FINRA enforcement cases on sales contests driving recommendations toward firm-profitable products. Absence of contest-specific disclosure compounded the violation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); sales contests as material conflicts requiring specific disclosure and mitigation
+
+KEY FACTOR
+----------
+Time-limited sales contest bonuses are material conflicts requiring specific (not generic) disclosure and documented mitigation analysis, particularly when the recommended product underperforms alternatives.

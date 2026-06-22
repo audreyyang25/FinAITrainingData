@@ -1,0 +1,27 @@
+ID: 21
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer's compliance manual explicitly prohibits recommending proprietary mutual funds unless they are the best available option for the customer. A financial advisor recommends a 58-year-old client with $250,000 in a brokerage account and moderate risk tolerance to invest $150,000 in the firm's proprietary large-cap equity fund (expense ratio 0.95%) instead of Vanguard Total Stock Market ETF (expense ratio 0.03%). The advisor documents in the file that the proprietary fund had slightly higher 3-year returns (4.2% vs. 4.1%), but never discloses that the firm receives 12b-1 fees of 0.25% annually from the proprietary fund.
+
+QUESTION
+--------
+Does the advisor's recommendation comply with Reg BI's conflict of interest obligation?
+
+ANSWER
+------
+No, this violates Reg BI's requirement to disclose and mitigate conflicts.
+
+The advisor failed to disclose the material 12b-1 conflict (0.25% annual fee differential translating to approximately $375 annually on the recommended position). While the 3-year performance difference (4.2% vs. 4.1%) is marginal and does not justify the conflict, the undisclosed revenue sharing violates the core Reg BI conflict disclosure obligation. Reg BI § 15l-1(b)(2)(i) requires clear disclosure of all material conflicts; the failure to disclose the firm's economic incentive to recommend its own product, even where alternatives exist, is a per se violation. The firm's written policy against recommending proprietary products without demonstrable superiority is not sufficient without disclosure of why the proprietary fund meets that standard given the conflict.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2)(i) and (ii) — Reg BI requires broker-dealers to disclose all material conflicts of interest and implement policies to mitigate conflicts that put the firm's interests ahead of the customer's.
+
+KEY FACTOR
+----------
+Undisclosed 12b-1 fees creating material economic incentive for proprietary product recommendation without corresponding disclosure of the conflict to the customer.

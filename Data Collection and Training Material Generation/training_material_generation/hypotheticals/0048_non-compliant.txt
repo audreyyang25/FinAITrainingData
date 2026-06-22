@@ -1,0 +1,27 @@
+ID: 48
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA adviser (registered with the SEC, $2.5B AUM) manages separately managed accounts (SMAs) for institutional clients. The RIA recommends that a pension plan client with $50M in assets purchase a $10M block of illiquid private equity interests in a fund advised by the RIA's co-founder and majority owner. The RIA earns a 0.50% AUM fee on the $50M account and will earn a 2% management fee + 20% carried interest on the private equity fund (in which the RIA has no direct investment). The RIA discloses the existence of the PE fund and the performance data, but does not disclose that: (a) the PE fund has significantly underperformed the client's benchmark over 5 years; (b) the RIA senior management receives compensation incentives tied to raising capital for the PE fund; and (c) the illiquidity of the PE interests will reduce the client's portfolio flexibility.
+
+QUESTION
+--------
+Does this recommendation satisfy the fiduciary duty of loyalty despite partial disclosure?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty due to incomplete disclosure of material conflicts and performance issues.
+
+Although the RIA disclosed the existence of the PE fund, the disclosure was materially incomplete under the Capital Gains standard. An adviser's fiduciary duty of loyalty requires disclosure of all facts that might affect the impartiality of the adviser's advice, including: (1) compensation arrangements that incentivize the adviser to favor one investment over another; (2) material performance shortfalls compared to benchmarks; and (3) liquidity constraints that impair the client's ability to rebalance or access capital. The RIA's compensation incentives (tied to capital raised for the PE fund) create a direct financial bias toward recommending the PE investment. The failure to disclose the 5-year underperformance is a core violation of Section 206(1) because it prevents the client from making a fully informed decision. The SEC has consistently held that advisers cannot rely on disclosure of the 'existence' of a conflict without disclosing the magnitude and incentives created by the conflict. Under SEC Enforcement Manual standards, this conduct constitutes self-dealing because the RIA is prioritizing its own compensation interests over the client's return profile. The partial disclosure actually compounds the violation because it may suggest to the client that all material information was provided.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(1) and 206(2); SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963); SEC Enforcement Manual, 'undisclosed conflicts of interest' (self-dealing doctrine); 17 CFR 206.4-1(a)(5) (Form ADV disclosure of conflicts)
+
+KEY FACTOR
+----------
+Failure to disclose material performance underperformance, compensation incentives tied to capital raising, and liquidity implications—partial disclosure does not cure material omissions.

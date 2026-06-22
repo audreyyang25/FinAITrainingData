@@ -1,0 +1,25 @@
+ID: 460
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RIA Advisor Lin manages $5.2M for 71-year-old physician Edmund in a diversified portfolio (50% US equities, 30% international, 20% bonds, 5% alternatives). Edmund stated moderate risk tolerance and annual rebalancing preference. Over 14 months (Feb 2023–Apr 2024), Advisor Lin executed 47 securities transactions (turnover ratio 1.8x), including: 23 individual equity trades, 12 bond position rotations, 8 options spreads on tech stocks, and 4 commodity futures trades. Advisor Lin documented that each trade had 'tactical allocation justification' and that Edmund verbally approved trading strategy. No written trading authorization existed. Total transaction costs were $67,400 (1.29% of portfolio value). Edmund's statements show he viewed trading activity as 'aggressive' but did not explicitly object.
+
+QUESTION
+--------
+Did Advisor Lin comply with Reg BI's care obligation and fiduciary duty duty of loyalty despite apparent churning activity?
+
+ANSWER
+------
+No, not compliant. While verbal approval and documented tactical rationales might suggest defensibility, this pattern fails under multiple standards. First, Reg BI care obligation (17 CFR §240.15l-1(a)(2)(i)) requires adviser to 'have a reasonable basis' that recommendations are in client's best interest; 47 trades in 14 months on a moderate-risk portfolio suggests excessive trading regardless of documentation. Second, the lack of written trading authorization conflicts with IAA §206(1) best-interest requirement; verbal consent is insufficient for fiduciary duty. Third, 1.29% annual transaction cost ratio on a rebalancing portfolio suggests churning pattern under SEC v. Steadman standard. Edmund's characterization as 'aggressive' and his lack of explicit objection do not constitute affirmative consent to excessive trading. The options spreads and commodity futures on a 71-year-old moderate-risk portfolio also raise suitability concerns independent of frequency.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Investment Adviser Act §206(1) fiduciary duty; SEC v. Steadman 603 F.2d 1126 (5th Cir. 1979) churning standard
+
+KEY FACTOR
+----------
+Lack of written trading authorization, excessive transaction frequency (1.8x turnover), high transaction costs, and unsuitable derivatives for moderate-risk elderly client constitute churning despite vague verbal approval.

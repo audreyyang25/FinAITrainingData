@@ -1,0 +1,27 @@
+ID: 24
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer specializes in variable annuities and discloses in its Form CRS and detailed Conflicts of Interest statement that it receives substantial commissions (5-7%) on variable annuity sales and that these commissions exceed the commissions it receives on other products (0.5-2% on mutual funds). The firm also discloses a 12b-1 fee of 0.50% from variable annuities. A 71-year-old client with $350,000 in savings, high risk aversion, and a stated goal of "preserving capital and generating steady income in retirement" meets with an advisor. After documenting the client's needs and reviewing alternatives (balanced mutual funds at 0.60% AUM, bond ETFs at 0.05%), the advisor recommends a deferred variable annuity with a guaranteed income rider (GLWB) with total annual costs of 1.85% (0.95% fund expense ratio + 0.50% 12b-1 + 0.40% rider fee). The recommendation is supported by a detailed written analysis explaining why the guaranteed income feature aligns with the client's income preservation goal, despite the higher cost and sales commission.
+
+QUESTION
+--------
+Does this recommendation satisfy Reg BI?
+
+ANSWER
+------
+Yes, this recommendation complies with Reg BI.
+
+The broker-dealer has satisfied Reg BI's core requirements. First, it disclosed all material conflicts in writing via Form CRS and detailed conflict statements, specifically calling out the higher commissions (5-7%) and 12b-1 fees for variable annuities. Second, the advisor documented the client's profile (71 years old, high risk aversion, capital preservation goal) and performed a comparative analysis of alternatives, demonstrating that the recommendation serves the client's stated best interest. The GLWB rider directly addresses the client's articulated goal of steady income with capital preservation—a need that simpler bond or balanced funds would not provide. While the total cost (1.85%) exceeds alternatives, Reg BI permits higher-cost recommendations where they serve the customer's documented best interest and conflicts are disclosed. The firm's policies mitigating the conflict (written analysis, documented client profile, comparative review) further support compliance.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2) and FINRA Rule 2330 (variable annuity rule) — Both require clear disclosure of material conflicts and that recommendations serve the customer's best interest, even when compensation is higher.
+
+KEY FACTOR
+----------
+Comprehensive pre-trade disclosure of conflicts combined with documented investment analysis showing the higher-cost product with guaranteed income features directly addresses the client's stated goal of retirement income preservation.

@@ -1,0 +1,25 @@
+ID: 333
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Maria, age 72, retired teacher with $480,000 portfolio of long-term holdings (equity mutual funds, bonds). Her stated investment objective was income and capital preservation. Over 14 months (Jan 2022–Feb 2023), her broker at a wirehouse executed 187 trades in her account, generating $12,400 in commissions (2.58% of average equity balance). The annualized turnover ratio was 8.2×. No trades exceeded 15 days holding period; 41% were sold within 30 days of purchase. She purchased XYZ Tech Growth Fund ($45,000) on March 15, then sold it March 28 for a $1,200 loss, then repurchased on April 10. The cost-to-equity ratio on the account was 18.2% (commissions + fees / average equity). Maria signed a general account agreement but no discretionary authorization; all trades were 'recommended.' She received no written analysis justifying the high turnover.
+
+QUESTION
+--------
+Did the broker comply with FINRA Rule 2111(b) quantitative suitability standards for Maria's account?
+
+ANSWER
+------
+No. The broker violated FINRA Rule 2111(b) suitability. Three quantitative red flags are conclusive: (1) Turnover ratio of 8.2× exceeds the 6× statutory presumption of unsuitable trading; (2) Cost-to-equity ratio of 18.2% approaches the 20% threshold, requiring 18.2% net annual returns to break even—unrealistic for a 72-year-old seeking income/preservation; (3) Pattern of rapid in-and-out trading (41% of trades within 30 days, XYZ Tech purchase-sale-repurchase cycle) with no documented suitability analysis. Maria's age, stated objectives, and lack of discretionary authorization mandate conservative quantitative metrics. The broker generated substantial commissions (2.58% annually) while client bore all trading costs and market risk. Absence of written suitability justification and no evidence Maria requested active trading undermines any defense. This pattern mirrors FINRA enforcement actions against excessive trading by brokers controlling non-discretionary accounts through unilateral 'recommendations.'
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (quantitative suitability); FINRA Regulatory Notice 12-11 (excessive trading benchmarks)
+
+KEY FACTOR
+----------
+Annualized turnover of 8.2× + cost-to-equity ratio of 18.2% + elderly client + no documented consent to active trading strategy = churning.

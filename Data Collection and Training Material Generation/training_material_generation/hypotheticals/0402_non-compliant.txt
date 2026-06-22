@@ -1,0 +1,25 @@
+ID: 402
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A registered representative at a New York-based broker-dealer recommends a MetLife variable annuity with a 7% surrender charge to a 62-year-old client in Queens with $280,000 in liquid retirement savings and stated need for liquidity within 5 years. The rep earned a 5.25% commission on the $180,000 annuity purchase. Under NY Regulation 187 (effective February 2020), the rep must determine 'best interest' by analyzing suitability, conflicts of interest, and whether less-restrictive alternatives exist. The rep documented 'aggressive growth' as risk tolerance but did not compare to lower-cost, liquid alternatives like low-cost index mutual funds (expense ratio 0.08%) or ETFs. The client's stated liquidity need and 5-year horizon directly conflict with the 7-year surrender period.
+
+QUESTION
+--------
+Did the registered representative comply with NY Regulation 187's best interest standard in recommending the variable annuity to this client?
+
+ANSWER
+------
+No. Under NY Reg 187 § 227.2(a), the rep must act in the client's best interest and have a reasonable basis for believing the recommendation is suitable, considering the client's financial situation, tax status, investment objectives, and liquidity needs. The rep's failure to analyze less-restrictive alternatives (liquid mutual funds/ETFs with 0.08% expenses vs. annuity with 1.3% annual M&E plus surrender charge) constitutes a violation of the comparative analysis requirement. The 5-year stated liquidity need directly conflicts with a 7-year surrender period, making the recommendation unsuitable under NY Reg 187's heightened standard, which exceeds federal Reg BI by requiring affirmative analysis of alternatives and explicit documentation of why restricted products serve best interest.
+
+APPLICABLE STANDARD
+-------------------
+NY Regulation 187 § 227.2(a) — best interest standard for life insurance and annuity recommendations
+
+KEY FACTOR
+----------
+Recommending a 7-year surrender annuity to client with stated 5-year liquidity need, without documented analysis of liquid alternatives, violates NY Reg 187's affirmative best interest obligation.

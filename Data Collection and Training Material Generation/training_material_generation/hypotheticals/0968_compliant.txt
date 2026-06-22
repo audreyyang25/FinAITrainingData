@@ -1,0 +1,27 @@
+ID: 968
+Source Folder: 23_International_Comparative
+Topic: iosco_suitability_cross_border_digital_advice
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A cross-border digital wealth platform regulated in multiple IOSCO member jurisdictions deploys an automated suitability engine that collects granular client data at onboarding, including financial situation, investment horizon, risk tolerance validated through scenario-based questions, and sustainability preferences. The algorithm is reviewed semi-annually by an independent third-party model validator, and outputs are logged with a timestamped audit trail. Where the algorithm flags ambiguous risk profiles, the system automatically escalates the client to a human adviser before any product recommendation is generated. The firm maintains jurisdiction-specific product menus ensuring only locally suitable instruments are offered to clients in each regulatory domain.
+
+QUESTION
+--------
+Does the platform's automated suitability framework, with human escalation protocols and jurisdiction-specific product controls, satisfy IOSCO's principles for suitability in digital financial advice?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+IOSCO's 2021 Suitability Principles establish that automated advice must rest on sufficiently granular client data collection, must be subject to ongoing algorithmic governance and model validation, and must include escalation mechanisms for complex or ambiguous client circumstances. The platform's semi-annual independent model review, timestamped audit trail, and automatic human escalation for ambiguous profiles directly address these governance expectations. Jurisdiction-specific product menus further demonstrate that the firm has operationalised the IOSCO principle that suitability assessments must account for applicable local regulatory requirements.
+
+APPLICABLE STANDARD
+-------------------
+IOSCO Suitability Principles for Intermediaries 2021; IOSCO Report on Digital and Algorithmic Advice (2021); MiFID II Art. 25 (where EU clients are served)
+
+KEY FACTOR
+----------
+Independent model validation, human escalation triggers, and jurisdiction-specific product controls collectively satisfy IOSCO's algorithmic suitability governance requirements for cross-border digital advice.

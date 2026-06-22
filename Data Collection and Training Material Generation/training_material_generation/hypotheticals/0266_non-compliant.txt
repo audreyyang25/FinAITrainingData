@@ -1,0 +1,25 @@
+ID: 266
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Merlin Capital Advisors, an RIA managing $850M in AUM, executed a block purchase of 50,000 shares of TechCorp stock at $94.32/share on behalf of 12 client accounts (total $4.716M). The stock closed that day at $97.15. Merlin allocated 18,000 shares ($1.749M at execution price) to the principal adviser's personal IRA account and the remaining 32,000 shares to the 12 client accounts. The adviser's account received a $42,840 unrealized gain by day-end, while client accounts averaged $28,900 per account. No allocation policy or contemporaneous written procedures existed. The adviser claimed the allocation was 'arbitrary and based on account size.'
+
+QUESTION
+--------
+Did Merlin Capital comply with the Investment Advisers Act Section 206(2) fiduciary duty against self-dealing in allocating the TechCorp block trade?
+
+ANSWER
+------
+No. Under Investment Advisers Act Section 206(2), an adviser must not effect securities transactions in which the adviser has a conflicting interest unless disclosure and informed consent are obtained. Classic cherry-picking of profitable trades to an adviser's personal account violates this duty. The facts show: (1) deliberate allocation favoring the adviser's IRA with disproportionately high gains; (2) no pre-existing written allocation policy; (3) allocation directly contradicts 'arbitrary by account size' rationale (adviser's account received 36% of shares but was only one of 13 accounts). SEC precedent (e.g., Envestnet enforcement 2020) establishes that post-trade allocation to favorable accounts constitutes per se breach.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(2); SEC Rule 17j-1 (requiring disclosure of personal transactions and policies); IA Care Obligation principles
+
+KEY FACTOR
+----------
+Allocation of highest-performing trades to adviser's personal account without pre-existing written policy or client consent constitutes self-dealing breach.

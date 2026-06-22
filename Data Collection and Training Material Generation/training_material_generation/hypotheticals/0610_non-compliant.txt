@@ -1,0 +1,27 @@
+ID: 610
+Source Folder: 03_FINRA_AWC
+Topic: finra_awc_supervision
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Financial Services, Inc., a FINRA member firm since 2001 headquartered in Monaca, Pennsylvania, offers various investment products including deferred variable annuities through its approximately 260 registered representatives across more than 180 branch offices. From January 2018 through December 2022, the firm's supervisory system, including its written supervisory procedures (WSPs), failed to reasonably supervise variable annuity exchange transactions. The firm's WSPs did not require supervisors to document a meaningful comparison of the costs, features, and surrender periods of the existing annuity versus the recommended replacement annuity before approving exchanges. During this period, registered representative Kevin Dorsey recommended 47 variable annuity exchanges for 31 customers — predominantly retirees aged 65-78 with moderate risk tolerances and account values ranging from $85,000 to $340,000 — into new annuity contracts carrying fresh 7-year surrender periods and total annual fees averaging 45 basis points higher than the surrendered contracts. The firm's principal reviewers approved all 47 exchanges using a checklist that did not require any quantitative cost comparison, and the firm had no automated surveillance system to flag exchanges where the new product's costs exceeded the existing product's costs.
+
+QUESTION
+--------
+Did Pinnacle Financial Services maintain a supervisory system reasonably designed to supervise its registered representatives' variable annuity exchange recommendations?
+
+ANSWER
+------
+No, this conduct is a supervision violation under FINRA Rules 3110 and 2010.
+
+FINRA Rule 3110 requires member firms to establish and maintain a system to supervise the activities of each associated person that is reasonably designed to achieve compliance with applicable securities laws and regulations. The firm's WSPs failed to require principals to conduct or document any meaningful quantitative comparison of existing versus replacement variable annuity costs, features, and surrender schedules before approving exchanges. This mirrors the pattern identified in the Fortune Financial Services AWC, where a firm's supervisory system was found deficient for failing to reasonably supervise variable annuity transactions over a multi-year period. The absence of automated surveillance tools or documented cost-comparison requirements rendered the firm's supervisory framework inadequate.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision) and FINRA Rule 2010 (Standards of Commercial Honor and Principles of Trade)
+
+KEY FACTOR
+----------
+The firm's written supervisory procedures lacked any requirement for a documented quantitative comparison of costs and features between existing and replacement variable annuities before approving exchange transactions.

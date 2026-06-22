@@ -1,0 +1,25 @@
+ID: 263
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Merrill Lynch Securities, a dual-registered broker-dealer and investment adviser, opened a retail brokerage account for Margaret Chen, age 62, with $485,000 in investable assets on March 15, 2024. The firm delivered Form CRS to Ms. Chen electronically via email on March 16, 2024 (one day after account opening), with a generic acknowledgment link. The Form CRS stated that Merrill Lynch charges "asset-based and transaction-based fees" but failed to disclose that in the brokerage channel (which was the account type opened), the firm receives 12% of revenue from proprietary mutual funds and 8% from affiliated insurance products. The form stated the relationship type as "We are a broker-dealer and investment adviser" but did not explain that brokerage recommendations carry a suitability standard, while advisory recommendations carry a fiduciary duty. Ms. Chen was not given a choice of relationship type before account opening.
+
+QUESTION
+--------
+Did Merrill Lynch comply with the Form CRS Disclosure Obligation under Reg BI §240.15l-1(e) and SEC staff Form CRS guidance?
+
+ANSWER
+------
+No. Merrill Lynch violated Form CRS delivery and disclosure requirements on three grounds: (1) Delivery occurred one day after account opening, whereas Form CRS must be delivered before or at account opening per IA Form 275 instructions; (2) the Form CRS omitted material conflicts of interest—specifically that proprietary product revenue comprises 12% of firm compensation, a fact directly relevant to retail clients' understanding of potential conflicts; (3) the dual-registrant relationship disclosure failed to explain the different standards applicable to each capacity, violating SEC guidance that Form CRS must "clearly distinguish" broker-dealer suitability from adviser fiduciary duty. The generic electronic delivery with automatic acknowledgment does not evidence informed consent to electronic delivery.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR §240.15l-1(e); SEC Form CRS Instructions (revised 2023); IA Form 275 Item 15 (timing); SEC Marketing Rule IA-5653 (conflict materiality)
+
+KEY FACTOR
+----------
+Post-opening delivery combined with material conflict omission and failure to clearly distinguish dual-registrant standards constitutes a Form CRS violation.

@@ -1,0 +1,25 @@
+ID: 448
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Patricia, age 79, took out a reverse mortgage 2 years ago, receiving $420,000 in a lump sum. She used $150,000 to pay off medical bills and mortgage. She retained $270,000 in her checking account. Advisor Gomez, unaware of the reverse mortgage, recommends Patricia invest $200,000 of the cash in a "high-yield bond fund" (6.2% yield, 0.85% expense ratio, moderate interest-rate duration of 4.2 years) to "generate income to complement Social Security." Gomez conducts no analysis of the reverse mortgage's impact. Patricia's investment policy statement (created 3 years prior, pre-reverse mortgage) specified: "Conservative, capital preservation focus; monthly distributions of $3,000." Under the reverse mortgage terms, Patricia must maintain the home, pay property taxes and insurance (now $18,000/year due to rising assessments), and any failure to do so can trigger acceleration of the mortgage balance (currently $410,000 owed). Patricia's Social Security is $28,000/year, and she has minimal other income. The bond fund recommendation provides $12,400/year in distributions (before taxes), but Patricia's total annual obligations (property costs, living expenses, healthcare copays) are approximately $48,000. Gomez never discusses the reverse mortgage or liquidity constraints.
+
+QUESTION
+--------
+Did Advisor Gomez comply with Reg BI and suitability standards in recommending the bond fund without analyzing Patricia's reverse mortgage and true cash flow needs?
+
+ANSWER
+------
+No. Gomez failed to meet Reg BI's Care Obligation on multiple critical dimensions: (1) Information Gathering (17 CFR §240.15l-1(a)(2)(i)): Gomez did not ascertain Patricia's complete financial situation, including the reverse mortgage debt structure, its conditions, and its impact on available liquidity. The reverse mortgage imposes mandatory annual costs ($18,000+) and creates a contingent liability ($410,000) that could accelerate if Patricia cannot maintain the property. A competent Reg BI analysis requires mapping all debt and obligations. (2) Best-Interest Analysis: The bond fund recommendation assumes Patricia has $270,000 in discretionary cash, but in reality her true liquidity cushion is far smaller ($270,000 minus property obligations, healthcare reserves, emergency buffer). Committing $200,000 to a bond fund with 4.2-year duration creates risk that Patricia may need to liquidate at an inopportune time if property emergencies arise (roof, HVAC, tax increases). (3) Suitability Mismatch: Patricia's IPS stated "capital preservation," yet a bond fund facing rising interest rates and 4.2-year duration creates mark-to-market losses if she must liquidate early. (4) The recommendation also violates FINRA Rule 2111 (Suitability) because Gomez had no reasonable basis to believe the recommendation was suitable absent understanding the reverse mortgage constraint. This scenario mirrors SEC enforcement against advisers who blindly recommend illiquid or interest-rate-sensitive products to seniors with unexamined debt (similar to 2019 SEC case against a Maryland advisory firm).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i) (Information Gathering and Best Interest Analysis); FINRA Rule 2111 (Suitability); SEC 2018 Senior Investor Report (reverse mortgage risk for seniors)
+
+KEY FACTOR
+----------
+Advisor recommended bond fund without inquiring about or analyzing the client's reverse mortgage debt, mandatory property expense obligations, and resulting liquidity constraints, failing to ascertain complete financial situation under Reg BI.

@@ -1,0 +1,27 @@
+ID: 129
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 55-year-old professional with $875,000 in a rollover IRA, aggressive risk tolerance, 30+ year time horizon until age 85, and no anticipated near-term withdrawals meets with an independent RIA. The RIA recommends a 1035 exchange of the client's existing low-balance mutual fund IRA into a Fidelity Contrafund VIP (a variable annuity subaccount) bundled with a deferred income rider, citing: (1) the client's long time horizon and ability to benefit from 30+ years of tax-deferred compounding; (2) the guaranteed minimum income benefit (GMIB) rider at 5% annual roll-up, which locks in a 7.2% annual income floor if the client delays until age 70; (3) the Contrafund's strong long-term track record; and (4) total annual costs of 1.08% (0.50% M&E + 0.58% subaccount expense). The RIA documented comparison of the expense ratio of the stand-alone Contrafund mutual fund (0.85% ER) versus the VA bundled offering (1.08%), explicitly noted the 0.23% annual premium, but concluded that the GMIB rider value (estimated at 0.45% annually for the client's profile) exceeds the cost differential. The client signed a detailed disclosure of all fees and a specific acknowledgment that he understands the surrender charge (5-year declining schedule) and the income rider mechanics.
+
+QUESTION
+--------
+Does this variable annuity exchange recommendation comply with FINRA Rule 2330 and Reg BI?
+
+ANSWER
+------
+Yes, this recommendation is compliant with FINRA Rule 2330 and Reg BI.
+
+This recommendation is compliant because: (1) the client is 55 with 30+ years to retirement, making the long-term, tax-deferred VA structure aligned with his time horizon and need for retirement income planning; (2) the RIA explicitly quantified the cost premium (0.23%) and made a reasonable, documented argument that the GMIB rider value (0.45% estimated annual benefit) offsets it—this satisfies Rule 2330(b)(1)(C) cost-benefit analysis; (3) the client has no stated near-term liquidity needs and can tolerate a 5-year surrender charge; (4) the RIA disclosed all material facts (fees, surrender charges, rider mechanics) in writing and obtained specific acknowledgment; and (5) the RIA's comparison of the VA to the stand-alone mutual fund alternative demonstrates a reasonable-basis investigation into merits and alternatives, satisfying Rule 2330(b)(1)(A). The combination of long time horizon, explicit cost analysis showing rider value justifying the premium, and detailed disclosure aligns this with best-practice VA recommendations in FINRA case law.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b)(1) and SEC Reg BI Rule 15l-1(b) require reasonable basis suitability analysis with documentation of age, time horizon, financial situation, needs, and cost-benefit analysis. FINRA Notice 13-45 acknowledges that VAs with guaranteed lifetime income riders may be suitable for clients with long time horizons and retirement income planning needs. The SEC's 2020 Reg BI guidance (Compliance Outreach Effort) confirms that where a VA's specific features (income guarantee) plausibly offset higher fees for a client with demonstrated need for that feature, the recommendation can satisfy best-interest duty.
+
+KEY FACTOR
+----------
+Detailed, quantified cost-benefit analysis showing that the income rider's estimated value (0.45% annually) exceeds the cost premium (0.23%) for a 55-year-old with 30+ year horizon and documented retirement income need demonstrates compliance with Rule 2330(b)(1)(C) and Reg BI Rule 15l-1(b).

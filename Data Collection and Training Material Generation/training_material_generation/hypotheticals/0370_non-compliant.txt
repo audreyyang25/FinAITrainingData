@@ -1,0 +1,25 @@
+ID: 370
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Susan, age 47, has $1,200,000 in a 401(k) with 18 investment options including institutional-class index funds (ER 0.03%) and actively managed funds (ER 0.45%). Plan administrator charges 0.08% annually ($960/year). She meets with her adviser at Firm D, which specializes in Roth conversion strategies. The adviser recommends a $400,000 'partial rollover to a Roth IRA' with the goal of executing a backdoor Roth conversion over 3 years, converting $400,000 at $133,333/year to minimize IRMAA impact on her future Medicare premiums (she expects high income post-retirement from consulting). The adviser charges 0.65% AUM on the Roth IRA ($2,600/year on the $400,000 rolled amount vs. $0 on plan assets). The adviser documents that the Roth conversion strategy is in the client's interest but does not analyze: (1) the tax cost of the conversion itself (approximately 24% federal × $400,000 = $96,000 in taxes due, plus state taxes); (2) whether the Roth conversion fee (0.65% vs. 0.03% plan cost) is justified by the Roth benefit; (3) alternative strategies (e.g., Roth conversions in low-income years post-separation, or keeping assets in plan and using qualified charitable distributions).
+
+QUESTION
+--------
+Does the adviser's Roth rollover recommendation comply with PTE 2020-02 best interest analysis requirements?
+
+ANSWER
+------
+No, the recommendation violates PTE 2020-02(d)(1) and (ii). While Roth conversions can be beneficial, the adviser failed to provide written best interest analysis of the rollover decision itself. Critical deficiencies: (1) no analysis of conversion tax cost ($96,000+) relative to the alleged IRMAA benefit (which depends on future income, uncertain); (2) no comparison of fee impact: 0.65% Roth IRA AUM ($2,600/year) vs. 0.03% plan cost ($360/year) = $2,240/year incremental fee with no documented justification; (3) no analysis of alternative post-separation Roth conversion strategies that avoid the immediate rollover and fee increase; (4) insufficient documentation that the partial rollover (vs. converting in-kind at separation using lower-rate years) is in the client's best interest. PTE 2020-02(ii) requires analysis of 'all material facts,' including tax consequences and fee comparisons. The adviser's focus on the Roth benefit, without analyzing the rollover's cost-benefit, violates the fiduciary duty. This case parallels DOL patterns of Roth conversion recommendations driven by AUM fee capture rather than genuine tax planning.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02(d)(1)-(ii) Best Interest & Written Analysis; DOL ERISA §408(b)(14)(ii)
+
+KEY FACTOR
+----------
+No documented analysis comparing conversion tax cost ($96,000+), fee impact ($2,240/year incremental), or alternative post-separation conversion strategies demonstrating rollover serves client's best interest.

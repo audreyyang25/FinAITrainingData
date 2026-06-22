@@ -1,0 +1,27 @@
+ID: 748
+Source Folder: 13_FINRA_Rulebook
+Topic: supervision_rule
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Westfield Securities, a FINRA member firm with 12 branch offices, designates regional compliance officer Karen Huang as the supervisory principal responsible for reviewing variable annuity transactions under FINRA Rule 2330 across all 12 branches. Karen is also responsible for reviewing all options transactions and municipal securities recommendations. Over a 14-month period, the firm processes 847 deferred variable annuity transactions. An internal audit reveals that Karen reviewed only 312 of these transactions, with average review times of under 90 seconds per transaction. For the remaining 535 transactions, Karen applied a batch electronic approval without individual review, relying on an automated system that checked only whether new account forms were complete but did not assess the substantive suitability factors required by Rule 2330. The firm's written supervisory procedures (WSPs) describe the automated system as a 'preliminary screen' but do not require any follow-up manual review of transactions that pass the screen.
+
+QUESTION
+--------
+Did the firm's supervisory system and procedures satisfy the requirements of FINRA Rules 3110 and 2330 with respect to principal review and approval of deferred variable annuity transactions?
+
+ANSWER
+------
+No, the firm's supervisory framework violates both FINRA Rule 3110 (Supervision) and FINRA Rule 2330's principal review and approval requirements.
+
+FINRA Rule 2330(c) requires that a registered principal review and approve each recommended deferred variable annuity transaction based on the specific suitability considerations enumerated in the rule, including customer age, liquidity needs, investment objectives, and whether an exchange is involved. FINRA Rule 3110 requires firms to establish, maintain, and enforce written supervisory procedures reasonably designed to achieve compliance with applicable rules, and to designate supervisory personnel with adequate capacity to fulfill their responsibilities. Here, the batch electronic approval of 535 transactions without individualized substantive review fails Rule 2330's principal approval mandate. The WSPs are deficient because they treat an automated completeness check as a sufficient screen without requiring manual review, and the designation of a single individual responsible for multiple complex product lines across 12 branches created an unreasonable supervisory burden that foreseeably led to inadequate oversight.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision) and FINRA Rule 2330(c) – Principal Review and Approval of Deferred Variable Annuity Transactions
+
+KEY FACTOR
+----------
+The firm's automated batch approval system bypassed the individualized substantive principal review required by Rule 2330, and the WSPs failed to ensure that each variable annuity transaction received the mandated suitability-based supervisory review.

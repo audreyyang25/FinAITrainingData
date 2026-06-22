@@ -1,0 +1,27 @@
+ID: 146
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retired client with $450,000 in a discretionary account and moderate risk tolerance (stated as 40% equities, 60% fixed income) had her account turned over 8.5 times in a 12-month period. The broker executed 127 round-trip trades generating $12,400 in commissions and fees, representing 2.76% of average account equity annually. The client received statements showing the activity but made no complaints. No changes in the client's financial situation, investment objectives, or risk tolerance occurred during the period.
+
+QUESTION
+--------
+Does this trading activity violate FINRA Rule 2111(b) (suitability) or Rule 2010 (churning)?
+
+ANSWER
+------
+No, this does not satisfy the legal standard. The trading activity violates FINRA Rule 2111 and Rule 2010.
+
+An 8.5 turnover ratio far exceeds the 1.0 threshold courts and FINRA use as presumptive evidence of churning under Rule 2010 and Rule 2111(b). The annual fee-to-equity ratio of 2.76% is also excessive; FINRA AWCs typically cite ratios above 1.5–2.0% as red flags. A retired, moderate-risk client with stable objectives has no legitimate business reason for 127 round-trip trades in one year; such activity is inconsistent with her stated investment profile. The absence of client complaints or market volatility does not cure the violation — the broker's conduct (not client ratification) determines suitability. See FINRA Case #2015048485011 (AWC, 2017) (churning case involving similar turnover in discretionary account).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (suitability); FINRA Rule 2010 (churning standard — excessive in-and-out trading inconsistent with client profile); Vann v. Shearson American Express Inc., 809 F.2d 763 (11th Cir. 1987) (turnover ratio above 1.0 per year is presumptive evidence of churning).
+
+KEY FACTOR
+----------
+Turnover ratio of 8.5 annually combined with 2.76% fee-to-equity ratio and stable client profile creates presumptive evidence of excessive trading under Rule 2010.

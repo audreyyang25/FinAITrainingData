@@ -1,0 +1,25 @@
+ID: 446
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Eleanor, age 76, transferred her $650,000 portfolio to Advisor Kim at a RIA after her husband passed away. Eleanor's investment policy statement specifies: 50% dividend-paying equities, 40% investment-grade bonds, 10% cash; annual withdrawal need of $26,000 for living expenses; no concentrated positions; no illiquid alternatives. During the onboarding process, Advisor Kim implements FINRA Rule 4512 by explicitly requesting Eleanor to designate a trusted contact person—Eleanor names her daughter Sarah (age 48). Kim documents Sarah's phone number and relationship in the account records. Kim also structures Eleanor's account with a standing cash buffer of $35,000 to cover 18 months of distributions, limiting sale pressure. When Eleanor's brother claims he is her guardian and demands a large distribution ($200,000) to fund a "business opportunity," Kim uses the Rule 4512 trusted contact procedure: she contacts Sarah first to verify the brother's authority. Sarah confirms no guardianship exists and that Eleanor has instructed her to watch for unusual requests. Kim also obtains a copy of Eleanor's current durable POA naming Sarah as attorney-in-fact, confirming consistency. Kim places a temporary hold under FINRA Rule 2165 pending verification, and Eleanor confirms directly with Kim that the brother's request was unauthorized. No distribution is made.
+
+QUESTION
+--------
+Did Advisor Kim comply with FINRA Rules 4512 and 2165, and senior investor protection best practices, in handling Eleanor's account?
+
+ANSWER
+------
+Yes. Advisor Kim implemented a comprehensive senior protection framework: (1) FINRA Rule 4512 compliance: Kim documented the trusted contact person (Sarah) during account opening, establishing a known reference point to verify unusual requests. When the brother made an unexpected large distribution request, Kim followed Rule 4512 by contacting Sarah first rather than relying solely on the claimant's word. (2) FINRA Rule 2165 compliance: Faced with a request from someone claiming authority but without prior documentation in the account, Kim placed a temporary hold on the disbursement pending verification—the rule's core mandate. (3) Verification of authority: Kim obtained and reviewed Eleanor's actual POA document, confirming Sarah's authority and the absence of any guardianship. (4) Direct client confirmation: Kim contacted Eleanor directly to confirm the request's legitimacy, best practice for detecting undue influence. (5) Structural safeguards: The standing cash reserve ($35,000) reduced pressure to liquidate securities impulsively. This layered approach—trusted contact, hold, authority verification, client direct contact—mirrors SEC enforcement guidance and prevents the exploitation pattern seen in cases like the SEC's actions against advisory firms in 2019–2021. Eleanor's portfolio remains aligned with her IPS, and no unsuitable transaction occurred.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 4512 (Trusted Contact Person Designation); FINRA Rule 2165 (Temporary Hold on Disbursements for Suspected Financial Exploitation); SEC 2018 Senior Investor Report
+
+KEY FACTOR
+----------
+Advisor proactively documented trusted contact, verified authority before executing large withdrawal request, placed appropriate hold pending investigation, and confirmed client's wishes directly—exemplary implementation of Rules 4512 and 2165.

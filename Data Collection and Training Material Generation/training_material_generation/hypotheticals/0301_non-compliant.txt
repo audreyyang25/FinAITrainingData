@@ -1,0 +1,25 @@
+ID: 301
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An adviser manages $12M across 40 clients using a composite index strategy. Clients pay a 0.60% AUM fee. The adviser also operates a proprietary bond trading desk that buys and sells bonds for client accounts. When executing bond purchases (average trade size $150,000), the adviser applies a 0.75% markup on the bid-ask spread—e.g., buying a bond at par ($100) but charging the client $100.75. Over 12 months, 320 bond trades were executed, generating approximately $112,500 in undisclosed principal trading profits. The adviser did not disclose this practice in Form ADV Part 2A Item 5 or Item 11 (conflicts of interest). Clients were not informed that they were purchasing bonds at a markup above market. The adviser's conflict-of-interest policy stated that 'all securities transactions are at market rates,' but internally documented the markup practice.
+
+QUESTION
+--------
+Does the undisclosed bond markup violate the Investment Adviser Act fiduciary duty and disclosure requirements?
+
+ANSWER
+------
+Yes, clear breach on multiple grounds. First, Section 206(1) fiduciary duty of loyalty requires the adviser to disclose conflicts of interest and material facts affecting the advisory relationship. Principal trading with undisclosed markups (0.75% above spread) is a material conflict—the adviser profits directly from each transaction while charging clients the AUM fee. Second, Form ADV Part 2A Item 5 must disclose all fees and compensation, including principal trading profit arrangements. The omission violates Item 5 requirements. Third, Item 11 requires disclosure of conflicts of interest; the undisclosed markup is a textbook conflict. Fourth, the internal documentation ('all securities transactions are at market rates') contradicts actual practice, creating evidence of intentional concealment. The aggregate harm ($112,500 over 12 months) is material. This pattern mirrors FINRA enforcement against advisers engaged in undisclosed principal trading (similar to FINRA AWC 2018-045 patterns on mark-ups). SEC also enforces this aggressively under IA Act Section 206(2).
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Sections 206(1) and 206(2), Form ADV Part 2A Items 5 and 11, SEC guidance on principal trading disclosure
+
+KEY FACTOR
+----------
+Undisclosed 0.75% markup on bond trades generating $112,500 annual profit constitutes material conflict of interest requiring disclosure per Section 206 and Form ADV Item 11.

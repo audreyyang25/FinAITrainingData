@@ -1,0 +1,25 @@
+ID: 250
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Wealth manager WM-1 is wholly owned by asset management subsidiary AM-1, which manages 47 separate institutional funds (equity, fixed-income, alternatives). WM-1 advisors recommend AM-1 funds in approximately 89% of client portfolios; WM-1 publishes on its website a "recommended fund list" of 52 products, of which 41 are AM-1 funds. WM-1 charges clients 0.75% AUM fee; AM-1 funds charge internal expense ratios ranging from 0.35% to 1.10%. In early 2023, WM-1 received $8.2M in revenue from AM-1 fund management (approximately 31% of WM-1's total revenue). Advisor Lin recommended a $1.8M allocation to 54-year-old client Reynolds (age 62, $4.2M portfolio, moderate risk tolerance, 18-year horizon) split across three AM-1 funds (Large Cap Core 0.42% ER, Mid Cap Growth 0.68% ER, International Equity 0.55% ER) totaling 0.55% blended ER. Lin documented that the recommendation was based on "strategic asset allocation analysis" but did not document comparison with third-party alternatives (e.g., Vanguard equivalents at 0.05%, 0.15%, 0.10% ERs, or iShares equivalents). Form CRS disclosed WM-1's affiliation with AM-1 and stated that WM-1 "may have financial incentive to recommend affiliated funds" but did not quantify the conflict or describe mitigation steps beyond general disclosure.
+
+QUESTION
+--------
+Did Advisor Lin comply with Reg BI's Conflict of Interest obligation by recommending affiliated funds without documented alternatives analysis and with only generic disclosure of the affiliation?
+
+ANSWER
+------
+Non-compliant. Reg BI requires advisors to identify, disclose, and mitigate material conflicts. WM-1's structure creates a substantial conflict: 31% of firm revenue derives from affiliated fund management, and 89% of client portfolios use affiliated funds. This is material. Lin's recommendation failed the standard on multiple grounds: (1) generic Form CRS disclosure ("may have financial incentive") without specificity regarding the fund selection process or quantified conflict magnitude; (2) no documented alternatives analysis — the recommendation file lacks comparison to third-party funds with significantly lower expense ratios (Vanguard alternatives would save approximately 0.40% annually, totaling ~$72K over 18 years on a $1.8M allocation); (3) no documented mitigation explaining why the recommended allocation was appropriate despite the cost differential and the firm's financial incentive to recommend affiliated funds. The absence of a documented conflict-conscious process, combined with high utilization of affiliated products and revenue dependency, suggests the firm prioritized its revenue over exploring lower-cost alternatives. This mirrors SEC enforcement regarding affiliated manager bias without compensating analysis.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); identification and reasonable mitigation of material conflicts
+
+KEY FACTOR
+----------
+Material conflict from affiliated fund revenue (31% of firm revenue, 89% adoption rate) was disclosed only generically without documented alternatives analysis or quantified mitigation demonstrating client benefit over available lower-cost third-party options.

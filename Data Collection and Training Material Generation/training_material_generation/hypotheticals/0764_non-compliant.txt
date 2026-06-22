@@ -1,0 +1,27 @@
+ID: 764
+Source Folder: 13_FINRA_Rulebook
+Topic: supervision_rule
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Bridgewater Securities, a FINRA member firm with 14 branch offices, designates regional supervisors to oversee variable annuity transactions under its written supervisory procedures (WSPs). The WSPs require that a registered principal review and approve all deferred variable annuity purchases and exchanges before execution, consistent with FINRA Rule 2330(c). However, an internal audit reveals that the firm's Dallas branch processed 47 deferred variable annuity exchanges over a six-month period, totaling $3.2 million, with principal approvals occurring an average of 12 business days after trade execution. The regional supervisor responsible for the Dallas branch explains that she relied on post-trade exception reports generated monthly and assumed that the absence of client complaints indicated suitability. The firm's compliance department was aware of the backlog but took no corrective action, characterizing the delays as an 'operational issue' rather than a supervisory deficiency.
+
+QUESTION
+--------
+Did Bridgewater Securities comply with FINRA Rule 2330(c) and Rule 3110(a) regarding supervisory review of deferred variable annuity exchanges?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 2330(c) and FINRA Rule 3110(a) – Supervision.
+
+FINRA Rule 2330(c) explicitly requires that a registered principal review and approve a recommended deferred variable annuity transaction prior to transmitting the application to the issuing insurance company. The rule was specifically designed to ensure pre-execution gatekeeping, not post-trade review. Approving transactions an average of 12 business days after execution directly contravenes this requirement. Furthermore, FINRA Rule 3110(a) requires firms to establish, maintain, and enforce a supervisory system reasonably designed to achieve compliance with applicable rules. The compliance department's awareness of the backlog and failure to take corrective action demonstrates that the firm failed to enforce its own WSPs, compounding the violation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(c) – Principal Review and Approval of Deferred Variable Annuity Transactions; FINRA Rule 3110(a) – Supervisory System
+
+KEY FACTOR
+----------
+Principal approval of deferred variable annuity exchanges occurred an average of 12 days after execution rather than before, directly violating Rule 2330(c)'s pre-execution review requirement, and the firm's compliance department knowingly failed to remedy the deficiency.

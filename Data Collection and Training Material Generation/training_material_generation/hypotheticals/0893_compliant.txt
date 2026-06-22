@@ -1,0 +1,27 @@
+ID: 893
+Source Folder: 19_CFTC_Guidance
+Topic: derivatives_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered CPO operates a commodity pool that invests in exchange-traded futures contracts across energy, metals, and agricultural sectors. The pool's offering memorandum prominently discloses that it is offered exclusively to QEPs under CFTC Rule 4.7, describes all material risks including the potential for total loss of invested capital, and quantifies historical drawdown periods. A 52-year-old hedge fund manager with $18 million in securities and derivatives positions and 15 years of futures trading experience subscribes for $500,000. The CPO's onboarding file contains a completed NFA-required customer information form, the manager's most recent audited financial statements confirming QEP status, and a signed acknowledgment that the manager reviewed the offering memorandum. The pool subsequently experiences a 22% drawdown during a period of commodity market volatility, and the investor complains that the product was misrepresented.
+
+QUESTION
+--------
+Did the CPO satisfy its suitability and disclosure obligations with respect to this QEP investor notwithstanding the subsequent significant drawdown?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+CFTC Regulation 4.7 permits CPOs to offer pools with reduced disclosure requirements to QEPs, provided participants genuinely satisfy the financial thresholds—which this investor clearly does with $18 million in qualifying positions. The CPO's onboarding file documents QEP verification, risk disclosure receipt, and the investor's extensive derivatives experience, satisfying NFA Compliance Rule 2-30's know-your-customer requirements. Suitability obligations do not guarantee performance; a 22% drawdown in a properly disclosed, appropriately targeted futures pool does not retroactively render the recommendation unsuitable where the investor had the financial capacity, experience, and full disclosure necessary to make an informed decision. Post-hoc investor dissatisfaction following a market-driven loss is not a compliance failure.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Regulation 4.7 – QEP Exemption Requirements; NFA Compliance Rule 2-30 – Suitability Obligations for CTAs and CPOs
+
+KEY FACTOR
+----------
+The CPO documented current QEP eligibility, obtained signed disclosure acknowledgment, and matched the product to an experienced, high-net-worth investor, rendering the subsequent drawdown a market outcome rather than a suitability failure.

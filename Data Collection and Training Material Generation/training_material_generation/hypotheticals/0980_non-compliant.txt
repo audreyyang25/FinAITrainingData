@@ -1,0 +1,27 @@
+ID: 980
+Source Folder: 23_International_Comparative
+Topic: fca_consumer_duty_product_value_failure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A UK retail bank distributes a fixed-term savings bond that carries an annual fee of 1.8% on assets under management, despite offering a gross interest rate of only 1.2% per annum, resulting in a guaranteed negative real return before inflation. The product is marketed to elderly customers on fixed incomes through branch networks, with promotional materials emphasising 'capital security' without disclosing the net fee impact. The bank's product governance committee approved the product but did not conduct a price-value assessment for the target market.
+
+QUESTION
+--------
+Does the bank's distribution of this product without a price-value assessment for the identified target market satisfy its obligations under the FCA Consumer Duty?
+
+ANSWER
+------
+No, this conduct is a violation of FCA Consumer Duty PRIN 12 and the Products and Services outcome requirements.
+
+The FCA Consumer Duty requires firms to ensure products deliver fair value, meaning the price paid by retail customers must be reasonable relative to the overall benefits received. A product that guarantees a negative net return while being marketed on security grounds to a vulnerable target market fails the price-value and consumer understanding outcomes. The absence of a documented value assessment in product governance further compounds the breach.
+
+APPLICABLE STANDARD
+-------------------
+FCA Consumer Duty (PRIN 12); FCA PS22/9 Products and Services Outcome; PROD 4.2
+
+KEY FACTOR
+----------
+Product structured to deliver guaranteed net loss to target market without price-value assessment or adequate disclosure of fee impact.

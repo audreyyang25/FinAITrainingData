@@ -1,0 +1,25 @@
+ID: 393
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Large plan sponsor (1,200 employees, $680M in defined benefit assets) hired Fiduciary Adviser Gamma to serve as plan investment committee chair and provide 3(38) discretionary investment management. Gamma's engagement included: (1) selecting 11 core funds from a pre-approved menu; (2) quarterly rebalancing; (3) quarterly reporting. Gamma's fee was 18 basis points on AUM. Over 18 months, Gamma rotated three funds: (i) removed T. Rowe Price Growth Fund (0.60% ER, 7% underperformance vs. Russell 1000 over 1 year); (ii) added AB Growth Fund (0.72% ER, 2% underperformance vs. Russell 1000 over 1 year); and (iii) replaced Vanguard Total Bond (0.05% ER, outperforming Bloomberg Agg by 8 bps) with a proprietary bond vehicle managed by Gamma's affiliate (0.64% ER, 12 bps underperformance). Gamma claimed the AB Growth replacement was justified by 'style diversification,' though the plan's asset allocation policy set 30% large-cap growth allocation and both funds overlapped substantially (83% correlation). Gamma documented no written analysis of the Vanguard-to-proprietary-bond transition. The proprietary bond fund paid Gamma's affiliate 40 bps in management fees, with no incremental revenue sharing to Gamma itself.
+
+QUESTION
+--------
+Did Adviser Gamma breach its duty of prudence under ERISA §404(a)(1)(B) and duty of loyalty under §404(a)(1)(A) through the fund replacement decisions?
+
+ANSWER
+------
+Yes, on both counts. Prudence violation (§404(a)(1)(B)): Gamma replaced an outperforming, low-cost T. Rowe Price fund with an underperforming, higher-cost AB Growth fund and claimed 'style diversification' without documented analysis showing the replacement improved risk-adjusted returns or reduced concentration. The 83% correlation undermines the diversification rationale. The Vanguard-to-proprietary-bond transition (59 bps cost increase) lacks documented support for superior risk-adjusted performance. Loyalty violation (§404(a)(1)(A)): Gamma's affiliate profit from the proprietary bond fund ($272K annually at $680M AUM × 0.40%) created a conflict of interest. Although Gamma received no direct revenue sharing, the affiliate's enrichment indirectly benefits Gamma and was not disclosed to the plan sponsor in writing. Similar to DOL enforcement pattern (Pentegra case, 2015) where affiliates' profit streams influenced discretionary decisions. Gamma's failure to document these transitions violates the duty of prudence's documentation requirement.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A)–(B) (duty of loyalty and prudence); ERISA §3(38) (discretionary manager fiduciary duty); DOL FAB 2015-01 (affiliate conflict disclosure).
+
+KEY FACTOR
+----------
+Fund replacement decisions lack documented prudent expert analysis and are motivated by affiliate profit incentives undisclosed to plan sponsor.

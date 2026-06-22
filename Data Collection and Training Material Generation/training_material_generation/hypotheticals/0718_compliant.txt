@@ -1,0 +1,27 @@
+ID: 718
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Apex University sponsors a defined contribution 403(b) plan with $2.1 billion in assets and 8,500 participants. The plan's investment committee conducts a comprehensive review of its investment lineup every 18 months, engaging an independent investment consultant to benchmark all funds against peer groups for performance, expense ratios, and risk-adjusted returns. During the 2023 review, the committee identified that three actively managed large-cap equity funds had expense ratios of 62-78 basis points, compared to an available S&P 500 index fund charging 3 basis points. After deliberation documented in detailed meeting minutes, the committee decided to retain two of the three active funds based on evidence of consistent alpha generation over 10-year periods and the consultant's recommendation, while replacing the third with the index option. A plan participant files an ERISA breach-of-fiduciary-duty complaint alleging the committee should have replaced all actively managed options with index funds.
+
+QUESTION
+--------
+Does the plan investment committee's decision to retain actively managed funds with higher expense ratios, after a documented prudent review process, constitute a breach of fiduciary duty under ERISA?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+While Hughes v. Northwestern held that ERISA fiduciaries cannot escape judicial scrutiny simply by offering a wide range of options, and Tibble established a continuing duty to monitor plan investments, neither case mandates that fiduciaries must select the lowest-cost option available. The ERISA prudent man standard under § 404(a)(1)(B) requires a prudent process, not a particular outcome. Here, the committee engaged an independent consultant, conducted regular benchmarking reviews, documented its analysis and rationale, and actually removed one underperforming fund — demonstrating the type of ongoing, deliberate monitoring that Tibble requires. The decision to retain funds with demonstrated long-term alpha generation, supported by expert analysis, reflects the procedural prudence that courts evaluate.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(B) – Prudent Man Standard of Care; Hughes v. Northwestern University, 595 U.S. 170 (2022); Tibble v. Edison International, 575 U.S. 523 (2015)
+
+KEY FACTOR
+----------
+A well-documented, regular investment review process using independent consultants and evidence-based decision-making satisfies ERISA's prudent process requirement, even when the fiduciary retains higher-cost actively managed funds over cheaper index alternatives.

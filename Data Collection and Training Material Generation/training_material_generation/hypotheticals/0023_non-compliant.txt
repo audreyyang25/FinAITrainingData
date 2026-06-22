@@ -1,0 +1,27 @@
+ID: 23
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer operates two related but legally separate entities: a broker-dealer and an RIA affiliate. The broker-dealer's standard fee is 1.50% AUM but steers all clients with $500,000+ in assets to the RIA affiliate (0.75% AUM). The RIA affiliate uses the same investment models and personnel as the broker-dealer but operates under a separate advisory agreement. A 61-year-old client with $600,000 in liquid assets asks for investment management advice. The advisor recommends the RIA affiliate without disclosing that: (1) the firm receives economically material benefits from AUM at the affiliated RIA, (2) the affiliate relationship creates a conflict because the firm profits from steering assets to the affiliate, and (3) the 0.75% RIA fee is the same as the firm's internal cost structure (suggesting the affiliate retains minimal margin after paying compensation to the broker-dealer). The advisor instead represents that the affiliate is "more suitable for larger accounts."
+
+QUESTION
+--------
+Does this recommendation comply with Reg BI?
+
+ANSWER
+------
+No, this violates Reg BI's conflict disclosure and mitigation requirements.
+
+The recommendation fails Reg BI in multiple respects. First, the advisor did not disclose the affiliate relationship or the economic incentive created by the affiliate structure. The statement that the affiliate is "more suitable for larger accounts" is vague and does not constitute a material conflict disclosure under Reg BI § 15l-1(b)(2)(i). Second, the pattern of steering all clients above $500,000 to the affiliate suggests systematic prioritization of the firm's interests (higher AUM concentration in the affiliate, potential economies of scale for the affiliate) over neutral analysis of customer needs. Third, while the RIA fee (0.75%) is lower than the broker-dealer fee (1.50%), this does not cure the conflict — the affiliate relationship itself creates an incentive to move assets, and the compensation structure (affiliate retains minimal margin) may create perverse incentives. Reg BI requires disclosure of affiliate relationships and any material economic benefits derived from steering, neither of which occurred here.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(b)(2)(i) — Reg BI requires disclosure of material conflicts of interest, including affiliate relationships that create economic incentives. SEC Reg BI FAQs (June 2020) address affiliate steering as a conflict requiring disclosure.
+
+KEY FACTOR
+----------
+Undisclosed affiliate relationship and systematic steering of clients above a threshold to a related entity without disclosing the conflict and the firm's economic incentive to concentrate AUM in the affiliate.

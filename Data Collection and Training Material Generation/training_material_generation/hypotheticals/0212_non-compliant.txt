@@ -1,0 +1,25 @@
+ID: 212
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+FINRA member broker-dealer recommended an interval fund (Franklin Templeton Emerging Markets Debt Fund, 1.05% ER, monthly liquidity, 6-month redemption gate language) to a 71-year-old retired client with $225,000, stated 10-year time horizon, and documented need for annual $18,000 distributions (8% draw rate). The broker did not: (1) disclose or analyze the monthly redemption gate and potential suspension risk in a down market; (2) document why a simpler bond fund (BND 0.035% ER, daily liquidity) would be unsuitable; (3) obtain written acknowledgment of the liquidity restrictions; (4) analyze the mismatch between an 8% distribution need and an interval fund with liquidity caps. No written suitability memo was prepared.
+
+QUESTION
+--------
+Did the FINRA member comply with Reg BI and FINRA Rule 2111 in recommending the interval fund to a distribution-dependent retiree?
+
+ANSWER
+------
+No. Reg BI's care obligation (§240.15l-1(a)(2)(ii)) and FINRA Rule 2111 require the advisor to consider the customer's financial situation, including liquidity needs and distribution requirements. The recommendation fails because: (1) an 8% annual distribution need conflicts with interval fund redemption gates; (2) the advisor did not document analysis of liquidity restrictions or compare to daily-liquidity alternatives; (3) no written suitability memo or client acknowledgment; (4) the 1.05% ER plus gate risk is unsuitable for income-dependent retirees. Interval funds are complex products requiring clear documentation of suitability; absence of written disclosure to a distribution-dependent client is a clear violation. This pattern mirrors FINRA enforcement against interval fund sales to unsuitable retail clients without proper disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(ii)) and FINRA Rule 2111
+
+KEY FACTOR
+----------
+Failure to document interval fund liquidity gate restrictions and distribution conflict in writing violates both Reg BI and FINRA Rule 2111.

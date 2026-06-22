@@ -1,0 +1,25 @@
+ID: 328
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Advisor serves sophisticated, 45-year-old client with $2.8M in brokerage account, documented investment objective: "active tactical trading portfolio with 12-18 month rebalancing window." Client is former options trader with Series 7, 63, 24. Over 24-month period, advisor executed 156 trades with annualized turnover ratio of 4.1× and cost-to-equity ratio of 3.2% (total costs $89,600). Client signed written advisory agreement explicitly authorizing frequent trading and accepting turnover at stated level. Average holding period: 87 days. Client's actual return (net of all costs): +19.4% annualized vs. 60/40 benchmark +8.1%. Advisor reviewed suitability quarterly in writing, confirming continued alignment with stated objectives.
+
+QUESTION
+--------
+Does the 4.1× annual turnover and active trading recommendation comply with FINRA Rule 2111(b) for this client?
+
+ANSWER
+------
+Yes, compliant with FINRA Rule 2111(b). Four critical factors support suitability: (1) turnover ratio of 4.1× is below the 6× presumptive threshold; (2) cost-to-equity of 3.2% is conservative and well justified by +19.4% net return; (3) client is sophisticated (Series 7/24 holder, former trader) with documented preference for active trading evidenced by written advisory agreement; (4) quantitative suitability test satisfied because trading strategy produces positive alpha (+11.3% outperformance net of costs). Periodic written suitability reviews confirm continued fit. Unlike churning cases, this reflects legitimate active management strategy chosen by informed client with capacity to bear costs and realize benefits. Pattern aligns with FINRA no-action positions on tactical trading accounts.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative analysis; exception for documented client preference and written consent
+
+KEY FACTOR
+----------
+Sub-6× turnover ratio combined with documented client sophistication, written trading authorization, and net positive returns (+11.3% alpha) establish suitability despite active trading frequency.

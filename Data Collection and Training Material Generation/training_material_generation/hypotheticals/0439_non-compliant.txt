@@ -1,0 +1,25 @@
+ID: 439
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Harold, age 83, has been a buy-and-hold client with Advisor Chen for 12 years. Harold's $520,000 portfolio is 60% diversified index funds, 30% individual dividend stocks, 10% bonds—yielding ~2.8% annually with $0 advisory fee. Harold's only income is Social Security ($2,100/month) and a small pension ($900/month). Harold has no significant health issues and remains cognitively sharp. In March 2023, Chen recommends moving the entire portfolio into a 7-year deferred variable annuity (DVA) with a 6.5% surrender charge, 2.1% annual expense ratio, embedded mortality & expense (M&E) fee of 1.25%, and a 1% annual advisory fee on the annuity contract. Chen documents suitability: 'Client seeks income and principal protection.' Harold signs. By year 2, the DVA underperforms the S&P 500 by 4.2% net of fees. Harold needs $50,000 for unexpected home repairs; surrender charge costs him $11,700.
+
+QUESTION
+--------
+Did Advisor Chen comply with FINRA Suitability Rule 2111 and Reg BI Care Obligation in recommending the DVA to Harold?
+
+ANSWER
+------
+No. Chen violated both FINRA Rule 2111 (suitability) and Reg BI §240.15l-1(a)(2)(i) (care obligation—reasonable inquiry into client's needs and costs). Critical facts: (1) Harold's stated need is income ($3,000/month)—a simple dividend/bond portfolio achieves this at 0.5% total cost; (2) the 6-year illiquidity and 6.5% surrender charge are unsuitable for an 83-year-old with limited liquid reserves and potential medical contingencies; (3) the 3.45% annual cost (M&E + advisory + expense ratio) vs. ~0.15% for comparable diversified ETF portfolio is not justified by disclosed benefits; (4) the recommendation benefits Chen ($5,200 annual revenue vs. $0 under existing arrangement). FINRA enforcement patterns (AWC 2021-016) show DVA recommendations to seniors with fixed incomes as presumptively unsuitable without compelling documented need for annuitization. Reg BI requires reasonable inquiry into whether lower-cost alternatives serve client's stated goals.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability); Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); FINRA Rule 2330 (Variable Annuity Suitability)
+
+KEY FACTOR
+----------
+High-cost illiquid annuity unsuitable for 83-year-old needing income and liquidity; cost differential (3.45% vs. 0.15%) not justified; recommendation benefits advisor financially.

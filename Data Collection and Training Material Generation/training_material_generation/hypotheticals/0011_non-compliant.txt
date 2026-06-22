@@ -1,0 +1,27 @@
+ID: 11
+Source Folder: unknown
+Topic: reg_bi_care
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 35-year-old investor with $95,000 in investable assets, moderate-to-high risk tolerance, and a 30-year time horizon is recommended to invest $50,000 in Class A shares of an actively managed large-cap mutual fund with: (1) 5.75% front-end sales load; (2) 0.89% annual expense ratio (MER); (3) 5-year track record of 8.2% annualized return. The advisor documents that the recommendation is 'suitable' based on the client's risk profile and time horizon. However, the advisor fails to document: (1) any analysis of the fund's performance after fees (the after-fee return of 7.31% annualized is materially underperformance versus the S&P 500 index's 9.1% over the same period); (2) comparison to a lower-cost index alternative (e.g., VTSAX with 0.04% ER and long-term performance matching the index); or (3) analysis of whether the 5.75% load is justified given the client's investment knowledge or the fund's underperformance.
+
+QUESTION
+--------
+Does this recommendation satisfy the Reg BI care obligation?
+
+ANSWER
+------
+No, this violates the care obligation under Reg BI §240.15l-1(a)(2)(i).
+
+The advisor failed the care obligation by not analyzing costs and underperformance. The 5.75% upfront load represents a 5.75% cost drag on a 30-year horizon. More critically, the fund's after-fee return (7.31%) underperformed a passive index fund (9.1%) by 1.79 percentage points annually—a $280,000+ opportunity cost over 30 years for the initial $50,000 investment (using 7.31% vs. 9.1% compounding). Reg BI requires the advisor to consider 'rewards' relative to costs; here, the high cost (5.75% load + 0.89% ER vs. 0.04% ER) cannot be justified by superior performance. The advisor's documentation of 'suitability' under FINRA rules does not substitute for the affirmative cost-and-alternatives analysis required by Reg BI. An index fund at a fraction of the cost with superior historical performance was a readily available alternative.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest §240.15l-1(a)(2)(i) — care obligation to consider the costs, risks, rewards, and alternatives; SEC Regulation SHO guidance on cost analysis in fund selection.
+
+KEY FACTOR
+----------
+Recommendation of a high-cost, underperforming active fund (5.75% load + 0.89% ER) without documenting why it was superior to a low-cost index alternative (0.04% ER) with better historical performance.

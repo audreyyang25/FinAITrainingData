@@ -1,0 +1,25 @@
+ID: 314
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Wealth Advisors, a BD/IA dual registrant, opened an advisory account for 58-year-old Patricia R., a retired schoolteacher with $1.2M in savings, invested entirely in a target-date mutual fund (0.35% ER). Patricia's risk profile was documented as 'conservative; loss aversion; time horizon 25+ years to age 83.' Pinnacle's advisory fee was 0.85% AUM. After 14 months, Patricia asked to 'reduce advisory fees because my mutual fund is performing well and I want to cut costs.' The advisor responded by moving Patricia to Pinnacle's brokerage platform and recommending she purchase 12 individual stocks, 8 bonds, and 4 actively managed mutual funds (blended ER 1.2%, average bid-ask spread 0.15%). The advisor explained: 'In brokerage, there are no advisory fees; we charge only small commissions and transaction fees.' Patricia signed a new account agreement but received no updated Form CRS; the original Form CRS (from 14 months prior) made no mention of brokerage services or how commissions compare to advisory fees. Over the next 12 months, Patricia incurred $4,100 in commissions and transaction fees (annualized ~0.34%) plus increased fund expense ratios, totaling ~1.54% annual cost—higher than the advisory fee of 0.85%.
+
+QUESTION
+--------
+Did Pinnacle Advisors comply with Form CRS and Reg BI duties by moving a conservative advisory client to commission-based brokerage without updated Form CRS or demonstrating that the brokerage model better served her cost-reduction objective?
+
+ANSWER
+------
+No. Pinnacle violated multiple obligations. First, it failed to deliver an updated Form CRS before switching Patricia to brokerage. Form CRS §275.204-1 requires delivery at account opening; a material service-model change (advisory to brokerage) is functionally an account opening for regulatory purposes, triggering a new Form CRS delivery obligation. The original CRS from 14 months prior did not address brokerage services, so Patricia could not compare the two models. Second, although Patricia sought cost reduction, the recommendation did not achieve that goal: total costs rose from 0.85% to 1.54%, contradicting the stated objective. Reg BI §240.15l-1(a)(2)(i) requires the firm to act in the client's best interest; recommending a costlier service model is per se not best interest. Third, the account switch introduced unsuitable complexity (12 individual stocks for a conservative, loss-averse retiree); the recommendation fails suitability prongs of both Reg BI and FINRA Rule 2111. The firm prioritized eliminating its revenue (advisory fees) without ensuring Patricia understood the brokerage cost structure or that it would actually benefit her.
+
+APPLICABLE STANDARD
+-------------------
+Form CRS Rule, 17 CFR §275.204-1(a); Reg BI Best Interest Standard, 17 CFR §240.15l-1(a)(2)(i); Reg BI Conflict of Interest Disclosure, 17 CFR §240.15l-1(a)(2)(ii); FINRA Rule 2111 (Suitability)
+
+KEY FACTOR
+----------
+Dual registrant failed to deliver updated Form CRS when converting advisory client to brokerage, and the brokerage model resulted in higher total costs, contradicting client's stated cost-reduction objective.

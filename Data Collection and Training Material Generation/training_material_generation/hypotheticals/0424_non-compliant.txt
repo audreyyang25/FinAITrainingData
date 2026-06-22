@@ -1,0 +1,25 @@
+ID: 424
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Financial adviser Thomas Chen recommended that his client, software engineer Susan Park, age 29, with $280,000 investable assets and high risk tolerance, establish accounts on three unregistered cryptocurrency exchanges: Binance (registered in Cayman Islands, no SEC registration), Kraken (registered Delaware but not FINRA member or SEC broker-dealer), and FTX (now defunct; was unregistered and based in the Bahamas). Chen directed Park to deposit $50,000 across these exchanges for spot cryptocurrency trading. Chen did not disclose that these exchanges lack SEC/FINRA oversight, are not subject to Reg SHO short-sale requirements, do not provide SIPC customer protection, and carry counterparty risk if the exchange insolvency. Park subsequently lost contact with the Kraken account for 3 weeks during a system outage.
+
+QUESTION
+--------
+Did Advisor Chen comply with Reg BI disclosure and care obligations by recommending unregistered crypto exchanges without disclosing the absence of regulatory oversight and custodial protection?
+
+ANSWER
+------
+No. Under Reg BI's disclosure obligation (17 CFR §240.15l-1(b)(3)), an adviser must disclose all material facts about a recommended investment, including conflicts and custodial protections. Directing a client to deposit funds on unregistered exchanges without SEC/FINRA oversight or SIPC protection is materially different from regulated securities trading; the adviser's silence on these risks violates the disclosure standard. Reg BI's care obligation further requires the adviser to consider the impact on the client (§240.15l-1(a)(2)(ii)(C)). Unregistered exchanges lack custodial insurance and segregation requirements; the Kraken outage exemplifies counterparty risk. FINRA Notice 21-25 explicitly warns advisers against directing clients to unregulated platforms. The recommendation to use three unregistered venues without written disclosure of regulatory gaps and absence of investor protections constitutes a care and disclosure violation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR §240.15l-1(b)(3); Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(ii)(C)
+
+KEY FACTOR
+----------
+Directing client deposits to unregistered crypto exchanges without disclosing absence of SEC/FINRA oversight, SIPC protection, and custodial segregation violates Reg BI disclosure and care standards.

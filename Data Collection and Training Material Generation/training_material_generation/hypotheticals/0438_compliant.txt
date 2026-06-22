@@ -1,0 +1,25 @@
+ID: 438
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+SmartAlloc Inc., a registered investment adviser, operates a proprietary robo-adviser platform managing $890 million across 8,500 accounts. The algorithm collects: client age, income, investable assets, investment time horizon, liquidity needs (near-term, 3-5 year, 10+ year tranches), risk tolerance (questionnaire using established FINRA/CFP metrics), tax status (taxable vs. tax-deferred), and prior investment experience. The algorithm dynamically allocates across three tiers: Tier 1 (liquid emergency funds, 3-6 months expenses) into money-market instruments (0.25% ER); Tier 2 (3-10 year horizon) into diversified mix of 80+ low-cost index ETFs and bond ETFs (blended ER 0.18%); Tier 3 (10+ year, retirement) into global equity exposure (0.12% ER). For a 52-year-old client with $680,000 in a taxable account, $240,000 in annual income, and stated 15-year time horizon to retirement, the algorithm recommended: $34,000 cash, $186,000 intermediate bonds, $460,000 equities. SmartAlloc charges 0.40% AUM on accounts over $500k and 0.50% on smaller accounts; no transaction fees; no proprietary product bias. The adviser disclosed all fees in plain-language summary and published a detailed whitepaper on algorithm design, rebalancing rules (annual threshold-based), and tax-loss harvesting logic (explained in prospectus). Clients received annual attestations of investment performance vs. stated benchmarks. The algorithm includes a human escalation trigger if market volatility exceeds 1 standard deviation or if client circumstances change.
+
+QUESTION
+--------
+Did SmartAlloc's robo-adviser comply with Reg BI, IA Act Section 206 fiduciary duty, and SEC IM Guidance 2017-02?
+
+ANSWER
+------
+Yes. SmartAlloc's design and implementation satisfy all three standards. Under Reg BI §240.15l-1(a)(2)(i), the adviser established a reasonable basis: the algorithm integrates all material profile variables (age, horizon, liquidity tranches, risk tolerance, tax status) and generates differentiated allocations. Fees (0.40-0.50%) are disclosed transparently and are competitive. There are no hidden conflicts—no affiliated products, no proprietary fund bias, no transaction fees creating perverse incentives. Under IA Act Section 206 duty of care, SmartAlloc demonstrates documented compliance policies: published algorithm design, prospectus detailing rebalancing logic, annual performance attestation, and human escalation triggers for market stress. SEC IM Guidance 2017-02 requires written policies on algorithm oversight, conflict mitigation, and periodic compliance testing—SmartAlloc's whitepaper and annual reports satisfy this. The algorithm also accounts for tax efficiency (tax-loss harvesting logic) and client liquidity tiers. The hybrid escalation protocol shows human oversight is integrated when needed, not absent. This is a model compliant robo-adviser deployment.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); IA Act Section 206(1) & (2) Fiduciary Duty (Duty of Care); SEC IM Guidance 2017-02 (Robo-Adviser Compliance Framework)
+
+KEY FACTOR
+----------
+Algorithm integrates all material client variables, fees are transparent and non-conflicted, compliance procedures are documented, and human oversight is integrated—all three standards satisfied.

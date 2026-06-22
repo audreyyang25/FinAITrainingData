@@ -1,0 +1,25 @@
+ID: 288
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Sterling Portfolio Management, a registered IA managing $520 million, maintains an Execution Services Committee that meets quarterly to review execution quality metrics. Sterling routes client trades to three broker-dealers: BrokerA (affiliated; 35% of volume), BrokerB (independent; 40%), and BrokerC (independent; 25%). Sterling's Adviser maintains a documented policy requiring annual review of execution reports from each broker, measuring: average price improvement, effective spread vs. NBBO, median fill time, and rejection rates. For the most recent fiscal year, BrokerA showed average price improvement of 2.3 basis points, BrokerB 2.8 bps, and BrokerC 2.4 bps. The Committee documented that BrokerA's lower performance (2.3 bps) is offset by its knowledge of Sterling's trading patterns and ability to "facilitate large block orders smoothly," reducing market impact by approximately 1.5 basis points—total net benefit 3.8 bps. The allocation decision was documented in Committee minutes. Clients are disclosed annually that Sterling uses affiliated and unaffiliated brokers and are provided access to Sterling's execution quality metrics.
+
+QUESTION
+--------
+Does Sterling Portfolio Management comply with best execution obligations notwithstanding its use of an affiliated broker-dealer?
+
+ANSWER
+------
+Yes. While the use of an affiliated broker-dealer creates a conflict of interest requiring heightened scrutiny, Sterling complies with Section 206(3) by implementing a documented, systematic framework for evaluating execution quality. The quarterly review of multiple execution metrics (price improvement, spreads, fill times, rejections) satisfies the requirement for periodic analysis. Importantly, Sterling documented a rational business justification for the allocation decision (block handling capability and reduced market impact) based on quantified data (1.5 bps benefit), not merely affiliate preference. Annual client disclosure of the use of affiliated brokers and provision of execution quality reports further satisfy the transparency requirement. This approach aligns with SEC guidance and exemplifies compliant "soft dollar" arrangements where the adviser can articulate non-monetary benefits received in exchange for commission.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3), SEC Inv. Mgmt. Release IA-1092, and SEC soft dollar guidance (IA-1092 Part II)
+
+KEY FACTOR
+----------
+Documented quarterly execution quality review, quantified net benefit analysis, and client disclosure support compliance despite affiliated broker use.

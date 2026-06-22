@@ -1,0 +1,25 @@
+ID: 453
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RIA managed $850,000 for 51-year-old client. Portfolio consisted of 2,800 shares of Tesla (TSLA) purchased 12 years prior at $3.21/share (current value $890,000; unrealized gain $869,000). Client requested annual rebalancing to 40% equities / 60% bonds. RIA advised against selling Tesla, citing: (1) embedded capital gains tax ($217,000 federal liability); (2) client's intent to donate shares to charity in estate. Client agreed verbally. Over 3 years, RIA never documented this decision in writing, never updated the IPS, and never conducted a formal tax analysis with present value calculation. When client's health declined, beneficiary contested RIA's Tesla concentration, claiming it violated fiduciary duty. RIA's file contained no written agreement acknowledging concentration or deferral rationale.
+
+QUESTION
+--------
+Did the RIA satisfy its fiduciary duty of care and loyalty by maintaining the concentrated position based on unwritten tax deferral rationale?
+
+ANSWER
+------
+No. Investment Adviser Act fiduciary duty (Treas. Reg. §275.206(4)-1) requires that non-diversification decisions based on tax considerations be documented in writing, especially when they conflict with stated asset allocation policy. Adviser failed to: (1) formalize the tax-deferral strategy in IPS; (2) conduct present-value analysis comparing tax cost vs. diversification benefit; (3) obtain written client acknowledgment that concentration risk was acceptable; (4) document periodic review of changed circumstances (e.g., health decline, changed charitable intent). Verbal agreement is insufficient. This resembles SEC enforcement pattern (IA-2549) where lack of written tax documentation undermines claimed benefit to client.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Fiduciary Duty, 17 CFR §275.206(4)-1; Duty of Care & Documentation
+
+KEY FACTOR
+----------
+Failure to document in writing and formalize in IPS the tax deferral rationale for concentrated position violates duty of care despite stated client intent.

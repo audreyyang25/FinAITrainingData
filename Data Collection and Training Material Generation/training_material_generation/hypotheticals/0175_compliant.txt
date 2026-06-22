@@ -1,0 +1,27 @@
+ID: 175
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered investment adviser manages a $4.2M discretionary account for a 48-year-old client with growth objectives. The RIA recommends a $1.5M allocation to a separately managed account (SMA) sub-advised by an affiliated investment manager. The RIA's written Form ADV Part 2A (brochure) and Part 2B supplement fully disclose: (1) the affiliate relationship with the SMA manager, (2) the specific fee arrangement (RIA receives 0.35% of AUM from client, affiliate manager receives 0.25%, no cross-payments or revenue-sharing), (3) that the SMA recommendation may benefit the RIA through consolidation of AUM with the affiliate, and (4) that the client may obtain similar services from unaffiliated SMA managers. The client receives annual performance reporting showing the SMA's net-of-fee returns (12.4% last year) compared to the S&P 500 (15.2%) and acknowledges the disclosure in writing.
+
+QUESTION
+--------
+Does this affiliate SMA recommendation and disclosure satisfy the RIA's fiduciary duty and Reg BI Conflict Obligation?
+
+ANSWER
+------
+Yes, this recommendation and disclosure satisfy the RIA's fiduciary duty and Reg BI Conflict Obligation.
+
+Although the RIA has a financial incentive to recommend the affiliated SMA (consolidating AUM and revenue), the disclosure is thorough and meets the Investment Adviser Act § 206(2) standard. The RIA's Form ADV Part 2A explicitly identifies the affiliate relationship, quantifies the fee split, and acknowledges the potential benefit to the RIA. Critically, the RIA also discloses that unaffiliated alternatives exist, allowing the client to make an informed comparison. The client's written acknowledgment and the ongoing performance reporting (even showing underperformance vs. the S&P 500 benchmark) demonstrate transparency and good-faith fiduciary conduct. Under IA Release No. 2759, a disclosed conflict of interest does not violate the fiduciary duty if the adviser acts in the client's best interest and obtains informed consent — both elements are satisfied here. The SMA's underperformance is disclosed, so the recommendation is not favored by conflicts but rather justified on the merits of affiliation and service integration.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206(2) (fiduciary duty requires disclosure of conflicts 'in writing'); SEC IA Release No. 2759 (2014) (establishing that disclosed conflicts do not violate fiduciary duty if the adviser acts in client's best interest and client gives informed consent); FINRA Rule 2330 (similar suitability/disclosure standards for affiliated transactions).
+
+KEY FACTOR
+----------
+Comprehensive written disclosure of the affiliate relationship, fee arrangements, potential conflicts, and availability of alternatives, combined with client acknowledgment and transparent performance reporting, satisfies the fiduciary duty even when the RIA receives a financial benefit.

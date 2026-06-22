@@ -1,0 +1,25 @@
+ID: 369
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David, age 62, employed with $950,000 in 401(k) including 25,000 shares of his company stock (XYZ Corp, current value $500,000, basis $50,000, unrealized gain $450,000). The remaining $450,000 is in diversified funds. He is still employed and plans to work 3 more years. His adviser, Firm C, recommends rolling the entire $950,000 to a self-directed IRA 'for greater control and tax efficiency.' The adviser mentions in a phone call that 'you can separate company stock to avoid the NUA tax trap,' but does not document this analysis in writing. The adviser charges 0.75% AUM on the IRA ($7,125/year) vs. $0 on the 401(k). Under current tax law, if David keeps the stock in the 401(k) until separation at age 65, he can execute a Net Unrealized Appreciation (NUA) strategy: distribute the stock in-kind, pay ordinary income tax only on basis ($50,000 × 22% = $11,000), and hold for long-term capital gains ($450,000 gain taxed at 20% upon later sale = $90,000), saving approximately $54,000 in taxes vs. rolling over (where gains are taxed as ordinary income on distribution).
+
+QUESTION
+--------
+Did the adviser comply with DOL ERISA fiduciary duty in recommending the full rollover without documenting the NUA analysis?
+
+ANSWER
+------
+No, the adviser violated PTE 2020-02's best interest and documentation requirements. The undocumented oral reference to NUA is insufficient. Critical failures: (1) no written analysis of the NUA strategy's $54,000+ tax advantage versus the fee-driven IRA recommendation; (2) rollover recommendation generates 0.75% AUM ($7,125/year) vs. $0 plan fees, creating an economic incentive adverse to client; (3) the client's stated goal ('greater control') does not objectively justify forfeiting a documented, superior tax outcome; (4) DOL enforcement guidance (e.g., DOL Field Assistance Bulletins) has flagged NUA analysis as a critical fiduciary obligation in rollovers of company stock. The adviser's failure to document the NUA comparison in writing violates PTE 2020-02(d)(1). Under ERISA §408(b)(14), the 'best interest' standard requires analysis of material tax consequences; NUA is a textbook material consequence. The oral mention of NUA without analysis is not a substitute for written comparative analysis showing the rollover is nevertheless in the client's best interest.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02(d)(1) Written Analysis; DOL ERISA §408(b)(14)(ii); 29 CFR §2550.408(b)(14)(iii) (best interest standard)
+
+KEY FACTOR
+----------
+Undocumented NUA tax analysis showing rollover forfeits approximately $54,000 tax advantage, with adviser receiving higher fee (0.75% vs. 0%) from rollover.

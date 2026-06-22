@@ -1,0 +1,27 @@
+ID: 578
+Source Folder: 05_SEC_Exam_Findings
+Topic: best_execution
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An investment adviser managing $250 million across 600 client accounts routes approximately 95% of equity trades to a single broker-dealer, Apex Clearing Corp, with which the adviser has a soft dollar arrangement under Section 28(e) of the Securities Exchange Act. The adviser receives Bloomberg terminal access and third-party research reports valued at approximately $180,000 annually through this arrangement. During the COVID-19 pandemic period, the adviser transitioned to fully remote operations and did not update its best execution review process; its last formal best execution evaluation was conducted in Q4 2019. An SEC examination in 2024 revealed that Apex's execution quality had deteriorated relative to competitors, with average price improvement per share approximately $0.003 lower than two alternative broker-dealers available to the firm. The adviser's compliance manual stated that best execution reviews would be conducted 'at least annually' but no documentation existed for 2020 through 2023. The firm's Form ADV disclosed the soft dollar arrangement in general terms.
+
+QUESTION
+--------
+Did the adviser meet its fiduciary best execution obligation and comply with SEC examination expectations during and after the COVID-19 operational disruption?
+
+ANSWER
+------
+No, this conduct is a violation of the adviser's fiduciary best execution obligation through failure to conduct periodic best execution reviews and failure to evaluate whether soft dollar benefits justified routing concentration.
+
+The SEC's August 2020 COVID-19 Compliance Risk Alert specifically warned that while operational challenges were acknowledged, firms were expected to maintain core compliance functions including trade execution monitoring. The adviser's failure to conduct any best execution review for four consecutive years—despite its own compliance manual requiring annual reviews—demonstrates a systemic supervision failure, not a temporary pandemic-related disruption. Additionally, concentrating 95% of order flow with a single broker-dealer under a soft dollar arrangement creates a material conflict of interest that requires heightened scrutiny and documentation that the execution quality, in the aggregate, satisfies the duty of best execution, even accounting for the research benefits received.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1), 206(2); Section 28(e) Safe Harbor of the Securities Exchange Act of 1934; SEC OCIE Risk Alert on COVID-19 Compliance Risks (August 12, 2020); SEC Division of Examinations Exam Priorities (FY 2025-2026, Best Execution)
+
+KEY FACTOR
+----------
+The adviser failed to conduct any documented best execution review for four years while routing nearly all trades to a single broker-dealer under a soft dollar arrangement, ignoring both its own compliance policies and SEC guidance that core compliance functions must be maintained even during COVID-19 disruptions.

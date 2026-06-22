@@ -1,0 +1,25 @@
+ID: 473
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+RIA Kenji manages a $2.8M portfolio for institutional client RetirementCorp, a defined-benefit plan trustee with a 10-year investment horizon and low-to-moderate volatility tolerance. Kenji's affiliated broker-dealer (AD) executes all trades; the BD is not on Kenji's approved list under SEC rules, creating a potential conflict of interest. Kenji's affiliate earns execution spreads and clearing fees (~$18,000 annually on this account). Before accepting the engagement, Kenji disclosed in writing that his affiliated BD would execute trades, that the BD earned transaction-based revenue, and that this created an incentive to over-trade. Kenji provided detailed analysis showing the affiliated BD offered best-execution pricing within 0.5 bps of the lowest-cost alternative broker for institutional-sized orders (supporting data from August 2024 execution reports). RetirementCorp signed an acknowledgment form explicitly consenting to use of the affiliated BD. Kenji documented his process: (1) quarterly review of best-execution metrics; (2) annual comparison of spreads to market benchmarks; (3) monthly CRM notes justifying each major trade by reference to rebalancing targets or portfolio drift thresholds. The account's annualized turnover remained 0.65x. No instances of churning or self-dealing trades were identified.
+
+QUESTION
+--------
+Despite the affiliated broker-dealer conflict, did Kenji comply with Reg BI and the IA Act §206 fiduciary duty through disclosure, consent, and best-execution documentation?
+
+ANSWER
+------
+Yes, Kenji complied with both standards. Reg BI §240.15l-1(a)(2)(ii) requires disclosure of material conflicts "in writing" before effecting transactions and requires the adviser to make recommendation "in the client's best interest." Kenji disclosed the affiliation and its revenue consequence in advance; RetirementCorp's written consent demonstrates informed decision-making. IA Act §206 fiduciary duty does not prohibit conflicts—it requires disclosure + fair dealing. Kenji's documentation of best-execution equivalence (within 0.5 bps) proves the recommendation was not tainted by the conflict; the affiliated BD was objectively competitive. Quarterly monitoring of execution metrics and low turnover (0.65x) demonstrate care. The IA Act's duty of loyalty permits conflicted transactions if: (1) disclosed, (2) client consents, and (3) the transaction is fair to the client. All three elements are satisfied. This case mirrors compliant patterns in SEC adviser exams where affiliated execution is allowed if documented and monitored.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation 17 CFR §240.15l-1(a)(2); IA Act §206 Fiduciary Duty (Duty of Loyalty and Duty of Care)
+
+KEY FACTOR
+----------
+Advance written disclosure, informed client consent, documented best-execution equivalence, and ongoing monitoring of affiliate transactions cure the conflict-of-interest concern and satisfy fiduciary standards.

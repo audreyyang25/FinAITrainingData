@@ -1,0 +1,25 @@
+ID: 255
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+PremiumBrokers Inc., a FINRA-registered broker-dealer, developed a new Form CRS in April 2024 that stated: 'Our firm makes money primarily through commissions and mark-ups on securities transactions.' However, the firm failed to disclose that it receives 35 basis points in annual payments from mutual fund sponsors (Fidelity, Vanguard, and iShares) for directing client purchases into their products. In 2023, these arrangements generated $4.2 million in revenue for the firm (approximately 18% of total commission revenue). The Form CRS also contained the statement: 'We recommend stocks, bonds, and mutual funds based on your financial goals'—without disclosing that the firm's compensation incentive (sponsor payments) heavily favors mutual fund recommendations over direct stock purchases. Client James Rodriguez, age 58, invested $600,000 in a mutual fund portfolio recommended by his PremiumBrokers advisor, generating $2,100 in compensation to the firm (0.35% of assets). The firm never disclosed that it earns revenue-sharing payments from the specific fund sponsors whose products it recommended.
+
+QUESTION
+--------
+Did PremiumBrokers' Form CRS adequately disclose material compensation conflicts with mutual fund sponsors?
+
+ANSWER
+------
+No. Form CRS must clearly disclose all material compensation sources that could incentivize recommendations. Here, the firm's statement about commissions and mark-ups is incomplete and misleading. The non-disclosure of $4.2 million in annual revenue-sharing from mutual fund sponsors (representing 18% of commission revenue) is material—it directly incentivizes the firm to recommend mutual funds over alternative securities. SEC guidance (IA-5653) and FINRA Rule 2111 require that all compensation conflicts material to the recommendation be disclosed. The vague language ('recommend stocks, bonds, and mutual funds') masks the financial incentive favoring mutual funds. The fact that the firm earned $2,100 in sponsor payments from James's single recommendation demonstrates materiality. Form CRS must specifically identify compensation sources by category and explain how each could affect recommendations. The failure to disclose sponsor revenue-sharing arrangements violates the conflict-disclosure requirement. This pattern mirrors FINRA enforcement actions addressing undisclosed fund sponsor conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI, 17 CFR §240.15l-1(c)(1)(vi) (Form CRS must disclose material conflicts); FINRA Rule 2111(a) (disclose all conflicts of interest); SEC Form CRS Instructions, Question 5 (detailed conflict disclosure)
+
+KEY FACTOR
+----------
+Non-disclosure in Form CRS of $4.2 million annual revenue-sharing with mutual fund sponsors, constituting 18% of firm compensation and creating direct incentive bias in product recommendations.

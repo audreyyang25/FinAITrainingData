@@ -1,0 +1,25 @@
+ID: 225
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Robo-advisor platform Quantify (hybrid model with algorithmic portfolio construction + human advisor override) managed a $180,000 account for a 45-year-old software engineer with high income ($220k annually), $1.2M in total investable assets, and a 20-year time horizon. The algorithm recommended a diversified, low-cost ETF portfolio (SPY 35%, BND 30%, VEA 20%, VWO 10%, BIL 5%; blended ER 0.12%). The human advisor, Garcia, reviewed the algorithm's recommendation and noted that the client had expressed interest in ESG investing during intake. Garcia recommended substituting VEA (developed markets) with Vanguard FTSE Social Choice 300 (VFTSX, ER 0.24%, primarily U.S.-focused) and adding a 5% allocation to iShares Global Clean Energy (ICLN, ER 0.39%). The blended portfolio ER increased from 0.12% to 0.19%. Garcia documented: (1) cost differential ($108 annually on $180k); (2) client's stated ESG preference; (3) that VFTSX still provided developed-market exposure through U.S. large-cap companies; and (4) that ICLN was appropriate given the client's high income, long horizon, and interest in climate-themed investing. No additional advice fees were charged; the robo platform's standard 0.35% AUM fee applied to all portfolios.
+
+QUESTION
+--------
+Did Garcia comply with the Reg BI Care Obligation by recommending higher-cost ESG ETFs to override the algorithm's lower-cost recommendation?
+
+ANSWER
+------
+Yes. Garcia complied with Reg BI's Care Obligation. The cost differential ($108/year, 0.07% increase on $180k) is immaterial given the client's income, assets, and stated preference. Critically, Garcia documented: (1) the client's affirmative ESG interest during intake; (2) that the substitute funds still achieved diversification goals; (3) the specific cost impact; and (4) alignment with the client's values-based investing objective. Under Reg BI, the Care Obligation permits cost-reasonable product substitutions when they better serve stated client preferences and values. The $108 annual cost is justified by the documented benefit (ESG alignment with stated client values). Garcia's analysis meets the Reg BI standard: reasonable diligence, documented basis, consideration of client needs (here, ESG values), and materiality-weighted cost analysis. The human override of the algorithm with documented reasoning exemplifies compliant Reg BI hybrid-advice practice.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)(A)-(C); SEC guidance on ESG investing and Reg BI compatibility
+
+KEY FACTOR
+----------
+Immaterial cost increase (0.07%) justified by documented client ESG values and high income/long horizon supports Reg BI compliance for values-aligned product substitution.

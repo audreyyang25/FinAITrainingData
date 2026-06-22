@@ -1,0 +1,25 @@
+ID: 308
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Harmony Capital, a boutique RIA managing $127 million AUM, offers both AUM-based advisory services and proprietary mutual funds. A married couple, Donald and Susan B., ages 59 and 57, with $2.1 million in investable assets, signed an advisory agreement with Harmony for a tiered AUM fee: 1.0% on the first $1M, 0.75% on assets $1M–$2M, and 0.5% on assets above $2M. The adviser placed $1.4 million (67% of their portfolio) into Harmony's proprietary 'Balanced Growth Fund,' which charges a net expense ratio of 0.68%. The adviser did not disclose in writing that it earned additional revenue from the mutual fund sales (12% front-end load of $168,000 and ongoing 12b-1 fees of 0.35% annually). Form ADV Part 2A mentioned 'we manage proprietary funds' but did not quantify the load or the economic conflict. The advisory agreement charged AUM fees without reducing them to account for the overlapping fees from the mutual fund. Over three years, the couple paid approximately $89,400 in advisory AUM fees plus $178,200 in mutual fund expenses (load + 12b-1 fees), totaling $267,600, versus an estimated $158,000 at a comparable low-cost index fund wrapped in the adviser's AUM fee alone.
+
+QUESTION
+--------
+Did Harmony Capital's fee arrangement comply with the Advisers Act fiduciary duty and disclosure requirements?
+
+ANSWER
+------
+No. Harmony violated the fiduciary duty of loyalty under §206 and Form ADV Part 2A disclosure obligations by failing to disclose and quantify material conflicts of interest. Specifically: (1) the 12% front-end load and ongoing 12b-1 fees were not clearly disclosed in writing before the recommendation, (2) the adviser did not explain that it earned dual compensation (AUM fee + fund load + 12b-1 fees) without offsetting the AUM fee, and (3) the brochure did not quantify the economic conflict or explain why the higher-cost proprietary fund was selected over lower-cost alternatives. The $178,200 mutual fund expense burden imposed on a $1.4M position (12.7% cost over 3 years) creates a conflict that requires clear written disclosure and adviser explanation of why the costlier solution serves the clients' best interests. The couple is not 'qualified clients' for performance fees, so standard fiduciary suitability applies. Harmony's failure to disclose the dual-fee conflict breaches §206(2) and Item 5.G of Form ADV.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206 (Fiduciary Duty of Loyalty); Form ADV Part 2A Item 5.G (Conflicts Related to Proprietary Products); SEC Enforcement (In re Glancy Brocchini, 2022)
+
+KEY FACTOR
+----------
+Adviser failed to disclose in writing that it earned dual compensation (AUM fee + mutual fund load + 12b-1 fees) and did not explain why the higher-cost proprietary fund was recommended.

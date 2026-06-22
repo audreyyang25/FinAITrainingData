@@ -1,0 +1,25 @@
+ID: 319
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Heritage Financial Group, a BD and IA, served Elena Rodriguez, age 68, with a $1.2 million portfolio. Elena's account was labeled 'Advisory' and carried a 1.10% annual advisory fee. Form CRS was delivered at account opening and stated: 'We manage accounts on a fee basis and may recommend trades.' After 8 months, the firm's advisor noted declining advisory revenue and recommended selling Elena's holdings in 15 individual stocks and replacing them with 10 actively managed mutual funds (0.75% ER each). Unknown to Elena, the mutual funds were proprietary products that paid the firm a 0.35% distribution fee (12b-1). Elena did not consent to the change in investment structure. The advisor's internal notes stated: 'Move to mutual funds—generates 12b-1 for us.' No updated Form CRS was provided; the firm simply processed the trades under the existing advisory agreement. Elena was not informed that the new funds carried embedded compensation benefiting the firm.
+
+QUESTION
+--------
+Did Heritage Financial Group comply with fiduciary duty and Reg BI standards when recommending proprietary mutual funds and failing to disclose the 12b-1 conflict to Elena Rodriguez?
+
+ANSWER
+------
+No. Heritage violated multiple standards. First, the firm failed its Reg BI duty of care (17 CFR §240.15l-1(a)(2)(i)) by not documenting a reasonable basis for shifting from individual stocks to proprietary mutual funds; the internal evidence (revenue motive) suggests the recommendation was not in Elena's best interest. Second, as an investment adviser, Heritage breached fiduciary duty under the Investment Adviser Act §206(2) by failing to disclose the 12b-1 conflict of interest before implementing the trades. Third, Form CRS inadequately disclosed that the firm recommends proprietary products with embedded compensation; the generic language 'may recommend trades' does not satisfy the requirement to clearly disclose conflicts. Fourth, at age 68, concentration in individual stocks may have suited Elena better than actively managed funds (concentration risk + higher fees), particularly without documented analysis. The advisory account type alone does not insulate the firm from these violations; the 12b-1 compensation creates a material conflict requiring explicit disclosure and consent.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Investment Adviser Act §206(2) duty of care; Form CRS Rule, 17 CFR §275.204-1
+
+KEY FACTOR
+----------
+Failure to disclose 12b-1 embedded compensation conflict in proprietary funds, coupled with revenue-motivated recommendation lacking documented suitability analysis.

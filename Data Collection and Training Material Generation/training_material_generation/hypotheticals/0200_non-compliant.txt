@@ -1,0 +1,27 @@
+ID: 200
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 38-year-old client with $265,000 in investable assets, aggressive risk tolerance, and a 25-year investment horizon was recommended a leveraged inverse ETF (3× short S&P 500) as a 5% 'hedge' position. The advisor documented the client's aggressive risk tolerance and stated that the hedge was appropriate 'to protect against market downturns.' The prospectus clearly disclosed daily rebalancing and decay risk. The client was a software engineer with financial knowledge and confirmed understanding.
+
+QUESTION
+--------
+Does this leveraged inverse ETF recommendation satisfy Reg BI and FINRA suitability standards?
+
+ANSWER
+------
+No, this violates the applicable standards.
+
+Leveraged inverse ETFs are designed for intraday or short-term tactical trading, not long-term buy-and-hold hedging, due to daily rebalancing and decay effects. For a 38-year-old with a 25-year horizon, a 3× inverse position is fundamentally unsuitable regardless of risk tolerance documentation. Under Reg BI's care obligation, the advisor must have a reasonable basis for believing the recommendation is in the client's best interest. SEC guidance (2021 statement on leveraged/inverse ETFs) and FINRA enforcement patterns make clear that: (1) leveraged inverse ETFs decay over time in sideways or uptrending markets, not protecting as advertised; (2) they are not designed for buy-and-hold strategies; and (3) they are generally unsuitable for retirement or long-term accounts. The advisor's generic justification ('protect against downturns') does not satisfy the care obligation; true downside protection for a 25-year horizon would be achieved through asset allocation, diversification, or puts—not a daily-decay product. The client's financial knowledge and agreement do not overcome the product-market mismatch. This is similar to FINRA enforcement cases (e.g., 2020s AWC cases) where advisors recommended leveraged ETFs without understanding decay mechanics.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest (Rule 15l-1(b)(2)(i) — care obligation), FINRA Rule 2111 (Suitability), and SEC guidance on leveraged and inverse ETF suitability
+
+KEY FACTOR
+----------
+A leveraged inverse ETF is inherently unsuitable for a 25-year buy-and-hold investor because it decays in sideways or uptrending markets and is designed for short-term tactical trading—the advisor's failure to understand this fundamental product characteristic violates the Reg BI reasonable basis requirement and FINRA suitability.

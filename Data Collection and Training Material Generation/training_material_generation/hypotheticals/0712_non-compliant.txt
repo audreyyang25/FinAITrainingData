@@ -1,0 +1,27 @@
+ID: 712
+Source Folder: 11_Case_Law
+Topic: ia_case_law
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Ridgeline Capital Advisors, a registered investment adviser managing $320 million in client assets, maintains a revenue-sharing arrangement with Apex Clearing Corporation under which Ridgeline receives 15 basis points annually on client assets custodied at Apex. Ridgeline's Form ADV Part 2A includes a general statement that the firm 'may receive compensation from third parties in connection with custody and clearing services.' However, the disclosure does not identify Apex by name, does not quantify the revenue-sharing payments (which totaled $480,000 in the prior year), and does not explain that this arrangement creates an incentive for Ridgeline to custody client assets at Apex rather than at lower-cost alternatives. When the SEC staff inquired during an examination, Ridgeline's chief compliance officer stated the firm believed its generic disclosure was adequate.
+
+QUESTION
+--------
+Is Ridgeline's generic disclosure of its revenue-sharing arrangement with its custodian sufficient under the Investment Advisers Act's fiduciary duty of disclosure?
+
+ANSWER
+------
+No, this conduct is a violation of the Investment Advisers Act fiduciary duty and SEC disclosure requirements.
+
+Under Sections 206(1) and 206(2) of the Investment Advisers Act, an investment adviser has a fiduciary duty to make full and fair disclosure of all material conflicts of interest. In Robare Group v. SEC, the D.C. Circuit addressed whether an adviser's generic disclosure of a revenue-sharing arrangement was adequate, emphasizing the materiality of such conflicts and the need for specificity. Ridgeline's failure to identify the specific custodian, quantify the payments, or explain the resulting conflict means clients cannot assess whether Ridgeline's custodial recommendation is truly in their best interest. The $480,000 annual payment is material and creates a concrete incentive that must be disclosed with particularity.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §§ 206(1) and 206(2); See Robare Group, Ltd. v. SEC, 922 F.3d 468 (D.C. Cir. 2019)
+
+KEY FACTOR
+----------
+Generic, boilerplate disclosure of a revenue-sharing arrangement with a custodian is insufficient under the Advisers Act fiduciary duty when it fails to identify the conflict's specifics, as illustrated in Robare Group v. SEC.

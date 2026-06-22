@@ -1,0 +1,25 @@
+ID: 355
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Santos at Pinnacle Securities executed a principal transaction on behalf of client Hayes, age 71, without prior written disclosure or customer consent. On March 15, 2023, Santos purchased 500 shares of XYZ Corp (a non-affiliated security) from Pinnacle's proprietary inventory at $85/share ($42,500 total), and sold them to Hayes at $87/share ($43,500 total). The markup ($2/share or $1,000 total; 2.35% margin above the firm's cost) was not disclosed to Hayes until the trade confirmation arrived 3 days later. Pinnacle's supervisory procedures required prior written authorization for principal trades and disclosure of markup on the confirmation. No written pre-authorization was obtained. Hayes discovered the non-disclosure 6 months later when reviewing statements and filed a complaint. Santos documented no reasonableness assessment of the $2/share markup relative to market prices.
+
+QUESTION
+--------
+Did Advisor Santos and Pinnacle Securities comply with FINRA Rule 2010 and Rule 2111 in executing the principal transaction?
+
+ANSWER
+------
+No. FINRA Rule 2010 (Standards of Commercial Honor) and Rule 2111 (Suitability) require that prior to executing a principal transaction, the member must provide the customer with written notice of capacity as principal and obtain prior written consent. Additionally, Rule 2110 requires fair dealing and full disclosure of material facts, including markup amounts. Santos violated Rule 2010 by: (1) executing a principal trade without prior written authorization; (2) failing to disclose the markup until post-execution; (3) not documenting a reasonable markup analysis. The 2.35% markup on a non-affiliated security may be reasonable, but lack of pre-disclosure and consent constitute per se violations regardless of reasonableness. This pattern mirrors FINRA enforcement cases against advisors executing proprietary sales without authorization, typically resulting in restitution and sanctions. Pinnacle's supervision failure (Rule 3110) allowed the unauthorized principal transaction to occur.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2010 (Standards of Commercial Honor); FINRA Rule 2111(a)(2) (Principal Transaction Disclosure); FINRA Rule 3110 (Supervisory Procedures—Detection Controls)
+
+KEY FACTOR
+----------
+Executing a principal transaction without prior written customer consent and pre-trade markup disclosure violates FINRA Rule 2010 and Rule 2111, regardless of whether markup was ultimately reasonable.

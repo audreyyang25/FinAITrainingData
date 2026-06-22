@@ -1,0 +1,25 @@
+ID: 247
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerDealer BD-1 owns 100% of proprietary mutual fund complex BD-Funds, which offers 12 equity funds with expense ratios ranging from 0.65% to 0.88%. BD-1's advisors receive 0.15% additional compensation (paid from BD-1's own revenue, not fund expenses) when they recommend BD-Funds products versus comparable third-party funds (e.g., Vanguard S&P 500 ETF at 0.03%, Fidelity Growth Fund at 0.54%). In 2023, Advisor Chen recommended BD-Growth Equity Fund (0.75% ER) to 47-year-old client Jackson, who had $680,000 liquid assets and stated moderate risk tolerance with 15-year time horizon. Chen documented that she identified three comparable alternatives (Vanguard, Fidelity, Schwab) but concluded BD-Growth was "best fit" due to "superior performance track record" — which showed 5-year annualized return of 9.2% vs. Vanguard's 9.0%. Chen's Form CRS disclosed the 0.15% revenue-share incentive in boilerplate terms. No discussion occurred regarding the cost differential or mitigation of the conflict.
+
+QUESTION
+--------
+Did Advisor Chen comply with Reg BI's Conflict of Interest obligation (17 CFR §240.15l-1(a)(2)(ii)) by disclosing the revenue-share arrangement and recommending the product based on documented alternatives analysis?
+
+ANSWER
+------
+Non-compliant. While disclosure occurred, Reg BI requires advisors to identify material conflicts AND take reasonable steps to mitigate them. The 0.72% cost premium over 15 years (0.75% − 0.03% ER) totals approximately $48,000 in excess fees on a $680K portfolio growing at 9%. The 0.2% performance differential (9.2% vs. 9.0%) is statistically insignificant and within normal tracking variance; it does not justify the cost premium or material revenue incentive Chen receives. The advisory record lacks evidence of genuine conflict mitigation: no discussion of fee impact, no documented reason why the conflict's incentive structure did not bias the recommendation, and no consideration of lower-cost alternatives as primary option. Similar to FINRA enforcement patterns (e.g., AWC cases regarding proprietary fund bias), disclosure without active mitigation is insufficient when material economic incentives conflict with client interests.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); Reg BI Care Obligation regarding appropriate recommendations, 17 CFR §240.15l-1(a)(2)(i)
+
+KEY FACTOR
+----------
+Disclosure of revenue-share incentive without documented steps to mitigate material conflict or explain why highest-cost option was selected over significantly cheaper alternatives with comparable performance.

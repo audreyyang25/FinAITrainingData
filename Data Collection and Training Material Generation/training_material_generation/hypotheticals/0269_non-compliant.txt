@@ -1,0 +1,25 @@
+ID: 269
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Zenith Partners (RIA, $4.2B AUM) manages three categories of accounts: (A) institutional clients ($50M+, 18 accounts), (B) high-net-worth individuals ($5M–$50M, 267 accounts), and (C) retail ($100K–$5M, 2,104 accounts). On June 12, the portfolio managers executed a block trade: 120,000 shares of QuantumTech at $287.00/share for all clients interested in a new 'emerging AI' thematic sleeve. Stock closed at $289.50 (0.87% gain). The allocation methodology stated in the ADV was 'based on client demand and risk tolerance.' In practice, institutional accounts (Category A) received 48,000 shares with 100% allocation of their requested amounts; HNW accounts (Category B) received 52,000 shares with 75% allocation rate; retail (Category C) received 20,000 shares with only 18% allocation rate. Post-trade emails show portfolio managers discussed 'prioritizing our largest fee-paying clients.' Category C clients submitted allocation requests totaling 115,000 shares, while Category A submitted only 50,000.
+
+QUESTION
+--------
+Did Zenith Partners' tiered allocation methodology comply with Section 206 fiduciary duty, and does the deviation from stated 'demand and risk tolerance' standard constitute cherry-picking or impermissible bias?
+
+ANSWER
+------
+No. Zenith violated Investment Advisers Act Section 206(1) (duty of care and loyalty). While allocation based on client demand is facially compliant, Zenith's execution reveals impermissible account prioritization: (1) stated criteria ('demand and risk tolerance') were subordinated to account category/fee size; (2) Category A received 100% fulfillment despite lowest demand, while Category C received 18% despite highest demand, contradicting stated standards; (3) internal communications ('prioritizing fee-paying clients') document conscious bias; (4) the deviation pattern suggests systematic favoritism toward institutional accounts across multiple trades. This resembles FINRA pattern (similar to Stifel AWC 2018) where stated allocation criteria are overridden by account profitability considerations. The fiduciary breach occurs even if no single client is 'disadvantaged' comparatively—it is the adviser's intentional departure from disclosed methodology.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) (duty of loyalty requires equal treatment per disclosed standards); SEC Rule 17j-1 (procedures must be actually followed); SEC Exam Priorities (allocation consistency enforcement)
+
+KEY FACTOR
+----------
+Systematic deviation from disclosed allocation criteria in favor of larger-fee accounts constitutes breach of loyalty duty despite generic policy language.

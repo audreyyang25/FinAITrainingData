@@ -1,0 +1,27 @@
+ID: 884
+Source Folder: 19_CFTC_Guidance
+Topic: derivatives_suitability
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A dual-registered entity, Nexus Investment Advisers LLC, is registered with both the SEC as an investment adviser and with the CFTC as a CPO following the April 24, 2012 rule amendments that eliminated the exemption for registered investment company advisers investing in commodities. Nexus advises a large-cap equity mutual fund that invests up to 10% of net assets in commodity-linked structured notes and exchange-traded futures for hedging purposes only, remaining below the threshold that would trigger full CPO regulatory obligations. Nexus files Form CPO-PQR only for its separately operated commodity pool (which actively traded futures during the reporting period) and not for the mutual fund, consistent with the FAQ guidance that a registered CPO that operated pools pursuant to an applicable exemption during the reporting period is not required to file CPO-PQR for those exempt pools.
+
+QUESTION
+--------
+Is Nexus Investment Advisers' decision to file Form CPO-PQR only for its actively operated commodity pool, and not for its exempt mutual fund commodity pool, consistent with CFTC filing requirements?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The November 2015 CFTC FAQ guidance expressly states that a registered CPO that operated pools pursuant to an applicable registration exemption (such as Regulation 4.13(a)(3)) during the reporting period is not required to file Form CPO-PQR for those exempt pools. Nexus's mutual fund commodity pool operates under an applicable exemption from full CPO registration obligations, and the firm correctly limits its CPO-PQR filing to the pool it actively operated as a registered CPO during the reporting period. This approach reflects a sophisticated but correct reading of the bifurcated filing obligations arising from the 2012 dual-registration framework.
+
+APPLICABLE STANDARD
+-------------------
+CFTC Form CPO-PQR Filing Requirements; CFTC Division FAQ Guidance (November 5, 2015) – CPO-PQR Reporting Obligations for Exempt Pools
+
+KEY FACTOR
+----------
+CFTC FAQ guidance explicitly exempts pools operated under applicable registration exemptions from CPO-PQR filing requirements, and Nexus correctly applied this carve-out to its exempt mutual fund commodity pool.

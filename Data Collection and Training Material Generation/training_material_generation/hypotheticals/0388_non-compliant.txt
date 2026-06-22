@@ -1,0 +1,25 @@
+ID: 388
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Beacon Capital Solutions, a registered investment adviser ($180M AUM), was hired by the GreenTech Corp. 401(k) plan (312 participants, $67M in assets) as the plan's investment adviser to manage the plan's investment menu. Beacon recommended that the plan add its proprietary GreenTech Growth Fund to the core investment lineup, a $340M fund with a 1.15% expense ratio (compared to a 0.42% index-based alternative). Beacon disclosed in its ADV Part 2A that it earned a 0.25% annual management fee from the fund, creating a revenue stream. However, in its written advice to the plan sponsor, Beacon stated the GreenTech Growth Fund offered "superior long-term performance and ESG alignment" without quantitatively comparing it to the lower-cost index alternative. Over five years, the plan's participants invested $18M into the fund; Beacon earned an additional $112,500 in undisclosed revenue from fund management fees alone. No exemptive relief (e.g., PTE 2020-02) was obtained.
+
+QUESTION
+--------
+Did Beacon comply with the prohibited transaction rules and fiduciary duty of loyalty when recommending its own proprietary fund to the 401(k) plan without obtaining exemptive relief?
+
+ANSWER
+------
+No. Under ERISA §406(a), a fiduciary cannot cause a plan to engage in certain transactions with a party in interest (including revenue-sharing with the fiduciary). Beacon's recommendation of its proprietary fund while earning management fees constitutes a prohibited transaction without exemptive relief. Although PTE 2020-02 permits conflicted advice if the fiduciary meets strict conditions (acknowledgment, best interest standard, fair fees), Beacon failed these: (1) no written acknowledgment of conflict in advice to plan; (2) no quantitative comparison demonstrating the fund's fee was fair relative to alternatives; (3) GreenTech Growth Fund's 1.15% expense ratio vs. 0.42% index fund was materially disadvantageous to participants. Beacon's reliance on prior ADV disclosure does not cure the recommendation's conflict. DOL enforcement pattern (similar to Schwab Institutional settlements) holds advisers liable for biased investment selections driven by internal revenue sharing.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §406(a) — Prohibited Transactions; PTE 2020-02 conditions; ERISA §404(a)(1)(A) — Duty of Loyalty
+
+KEY FACTOR
+----------
+Adviser recommended proprietary fund earning it revenue without exemptive relief, quantitative comparison, or acknowledgment of conflict; fee differential (1.15% vs. 0.42%) was material to participants.

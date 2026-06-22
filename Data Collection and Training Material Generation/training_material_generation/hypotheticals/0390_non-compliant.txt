@@ -1,0 +1,25 @@
+ID: 390
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Premier Retirement Solutions (PRS), a registered investment adviser, served as co-fiduciary adviser to the $520M Midwest Manufacturing Pension Plan, advising on asset allocation and fund selection for the discretionary investment option. Premier's engagement letter stated it was a §3(21) adviser—advising on menu design, not exercising discretionary control. However, in practice, Premier directed the plan's recordkeeper to automatically rebalance the plan's core portfolio quarterly without explicit plan sponsor instruction for each rebalancing cycle; Premier also unilaterally substituted three underperforming active mutual funds with lower-cost index alternatives (saving participants $2.8M in fees annually) without advance approval. Premier disclosed these actions in its quarterly letters but did not seek written retroactive consent. The plan sponsor, receiving 40+ quarterly reports, acquiesced but never formally amended the engagement letter to reflect discretionary authority. Premier's compensation was structured as 0.15% of AUM ($78,000 annually), with no additional revenue-sharing. Plan participants' average account value grew $4.2M over three years.
+
+QUESTION
+--------
+Did Premier remain compliant as a §3(21) adviser, or did its rebalancing and fund substitution activities cross into §3(38) discretionary fiduciary status requiring formal delegation and heightened fiduciary duties?
+
+ANSWER
+------
+Premier exceeded §3(21) scope and became a §3(38) fiduciary without formal delegation or consent. ERISA §3(21) defines an investment adviser as one who "provides advice" but does not exercise "discretionary authority or control" over plan assets. §3(38) defines a fiduciary as one who exercises such discretionary authority. Premier's conduct—automatic rebalancing and unilateral fund substitutions—constitutes discretionary control, not advice. Even though Premier's actions benefited participants, the lack of formal written consent for discretionary authority breaches fiduciary governance. DOL Field Assistance Bulletin 2007-02 states that discretionary actions require explicit fiduciary delegation; acquiescence is insufficient. Premier should have either: (1) obtained written amendment expanding its role to §3(38) fiduciary with explicit discretionary authority, or (2) remained a §3(21) adviser and sought specific advance approval for each rebalancing/substitution decision. The fee structure and benefit to participants do not cure the governance violation.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §3(21) vs. §3(38) — Fiduciary status; DOL Field Assistance Bulletin 2007-02; ERISA §404(a) — Scope of fiduciary duties
+
+KEY FACTOR
+----------
+Adviser exercised discretionary authority (automatic rebalancing, unilateral fund substitutions) without formal written delegation, crossing into §3(38) status without proper governance.

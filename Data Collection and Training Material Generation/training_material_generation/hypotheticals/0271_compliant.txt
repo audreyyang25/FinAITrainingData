@@ -1,0 +1,25 @@
+ID: 271
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Ascent Advisors (RIA, $3.1B AUM) manages a 'Performance-Tiered Growth' strategy offering three fee schedules tied to account performance: Tier 1 (returns >12% annually, fee 0.85%), Tier 2 (8–12%, fee 0.70%), Tier 3 (<8%, fee 0.50%). The prospectus and client engagement letter (signed by all 234 clients) explicitly state: 'To optimize client outcomes, the Adviser may allocate securities differently to accounts based on their tier status and stated risk tolerances. This may result in higher-volatility positions for Tier 1 accounts and defensive positions for Tier 3. Clients acknowledge and consent to such differentiated allocations.' On Sept 8, Ascent executed a large equity block (95,000 shares of RoboticsPlus at $421/share). Allocations: Tier 1 accounts (47 accounts, $1.95B AUM) received 48,000 shares; Tier 2 accounts (98 accounts, $850M AUM) received 32,000 shares; Tier 3 accounts (89 accounts, $305M AUM) received 15,000 shares. Stock rallied 6% by day-end. Allocations were documented and matched stated tiering methodology consistently across prior 18 months of block trades.
+
+QUESTION
+--------
+Does Ascent's performance-tier-based allocation methodology comply with Investment Advisers Act Section 206, given advance disclosure and client consent?
+
+ANSWER
+------
+Yes, likely compliant. Although allocation is not pro-rata by assets and benefits higher-performing accounts, Ascent mitigates Section 206 breach risk through: (1) explicit prospectus-level disclosure of tiered allocation methodology; (2) informed, signed consent by all clients acknowledging and accepting differentiation; (3) rational business justification (risk tolerance matching) stated upfront; (4) consistent application across multiple trades over 18 months (demonstrating not selective post-hoc rationalization); (5) transparent link between fee tier and allocation tier. SEC guidance (e.g., IA Marketing Rule preamble) recognizes that performance-based fees with disclosed allocations are compliant under Section 206(1) if clients consent. However, the key vulnerability: if evidence showed allocations deviated from disclosed tier definitions (e.g., Tier 2 accounts received outsized allocations to specific favored clients), the consent would be insufficient and breach would occur. The facts suggest consistent methodology, supporting compliance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) (duty of care—satisfied by advance disclosure); Section 206(2) (self-dealing waived by informed consent); Rule 17j-1 (policies and procedures requirements met)
+
+KEY FACTOR
+----------
+Performance-tier allocation complies if prospectus-disclosed, client-consented, and applied consistently; consent is dispositive defense to Section 206(1) charge.

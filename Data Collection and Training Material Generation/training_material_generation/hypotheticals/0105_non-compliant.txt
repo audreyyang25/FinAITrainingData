@@ -1,0 +1,27 @@
+ID: 105
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 67-year-old widow, 2 years into retirement, with $300,000 in investable assets opened an account after her late husband's investment advisor left the firm. She stated her primary goal was 'preserve capital and generate steady income,' and her account profile noted 'conservative risk tolerance.' The new broker recommended shifting her portfolio from a 70/30 stock/bond allocation (0.25% AUM, no sales charges) to a portfolio of 5 actively-managed mutual funds (average 0.95% expense ratios, 2% front-end loads totaling $6,000). Three of the funds had 10-year Morningstar ratings of 2 or 3 stars. The broker documented no analysis of whether active management justified the cost differential or compared performance benchmarks.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates the suitability standard.
+
+The broker lacks a reasonable basis for the recommendation. While actively-managed funds are not per se unsuitable, shifting a conservative 67-year-old retiree from a 0.25% AUM portfolio to a 0.95% average-cost portfolio without documenting expected outperformance fails the reasonable-basis prong. FINRA Rule 2111 and SEC guidance require brokers to have an analytical basis for recommending higher-cost products; absent evidence of superior risk-adjusted returns, the cost differential alone makes the recommendation unreasonable. Three of the five recommended funds had 2-3 star ratings, providing no evidence of future outperformance. The $6,000 in front-end loads (2% of $300,000 assets) are unsuitable for a conservative income-focused retiree with no need for the liquidity or transaction events that might justify load-based share classes. The broker's failure to document a comparative analysis of the old vs. new portfolio's expected return, risk, or cost demonstrates absence of reasonable basis—a hallmark FINRA violation (In re LPL Financial, LLC, 2015).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) requires a reasonable basis for believing the recommendation is suitable. A recommendation to shift from low-cost passive to high-cost actively-managed funds without documented analysis of superior expected performance violates the reasonable-basis requirement.
+
+KEY FACTOR
+----------
+Recommending a portfolio with 3.8x higher expense ratios and $6,000 in loads without documented analysis of superior expected returns violates reasonable-basis suitability for a conservative retiree.

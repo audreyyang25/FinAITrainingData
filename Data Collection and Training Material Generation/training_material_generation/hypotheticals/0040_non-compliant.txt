@@ -1,0 +1,27 @@
+ID: 40
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer firm's Form CRS describes the firm as offering 'comprehensive financial planning and advisory services' and lists a standard 'advisory fee of 0.5% to 1.5% annually.' However, the Form CRS does not disclose that (1) the firm charges a $5,000 upfront planning fee that is separate from the advisory fee, (2) for annuity recommendations, the firm receives embedded commissions that can range from 3% to 8% depending on the product, and (3) the firm has a revenue-sharing arrangement with a preferred mutual fund family where the firm receives 0.15% of assets under management in those funds. A 55-year-old client with $600,000 in assets relies on this Form CRS and opens an advisory account.
+
+QUESTION
+--------
+Does this Form CRS adequately disclose the firm's material fee structures and conflicts?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+The Form CRS presents a materially incomplete picture of the firm's compensation by disclosing only the advisory fee range (0.5%–1.5%) while omitting the $5,000 upfront planning fee that significantly affects the client's true cost of service. The failure to disclose embedded annuity commissions (3%–8%) is especially material because it creates a conflict of interest if the advisor recommends annuities (the firm earns far more than from advisory fees on the same assets). The 0.15% revenue-sharing arrangement with the preferred mutual fund family is also a material conflict that must be disclosed because it creates an incentive to overweight those funds in the client's portfolio. The SEC has stated that Reg BI requires all material compensation to be disclosed, not just the primary advisory fee. A retail investor reading this Form CRS would reasonably believe the total cost is 0.5%–1.5% annually, not 0.5%–1.5% plus $5,000 plus potential 3%–8% commissions.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest (17 CFR 240.15l-1(b)(2)) requiring disclosure of all material compensation, including upfront fees, commissions, and revenue-sharing arrangements; SEC Reg BI FAQ on comprehensive disclosure of compensation structures.
+
+KEY FACTOR
+----------
+Omission of the $5,000 upfront planning fee, 3%–8% embedded annuity commissions, and 0.15% revenue-sharing arrangement from the Form CRS despite these being material to a client's understanding of total compensation.

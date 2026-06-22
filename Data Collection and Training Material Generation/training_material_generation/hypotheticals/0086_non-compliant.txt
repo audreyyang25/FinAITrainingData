@@ -1,0 +1,27 @@
+ID: 86
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA broker recommends a 72-year-old retired client with a $250,000 portfolio and stated conservative risk tolerance to invest 80% of assets in emerging-market small-cap growth funds with 1.95% expense ratios and high volatility (beta 1.8). The client states he needs income and capital preservation. The broker documents only that the recommendation is 'suitable' but provides no written analysis of how emerging-market exposure aligns with the client's age, time horizon, or stated conservative objectives.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates FINRA Rule 2111 suitability requirements.
+
+The broker fails the customer-specific suitability prong of Rule 2111. A 72-year-old retiree seeking income and capital preservation has a fundamentally conservative profile that is materially inconsistent with 80% allocation to high-volatility emerging-market small-caps. The broker's failure to document any written analysis connecting the recommendation to the customer's stated needs, age, and risk tolerance demonstrates lack of customer-specific suitability. This pattern mirrors FINRA enforcement in cases involving recommendations of growth products to elderly conservative clients without documented basis (see FINRA disciplinary patterns in AWC settlements involving unsuitable growth allocations).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a): broker must have reasonable basis to believe recommendation is suitable based on customer's investment profile, including age, risk tolerance, and financial situation.
+
+KEY FACTOR
+----------
+Recommendation of high-volatility emerging-market funds to a 72-year-old conservative retiree without documented analysis of customer-specific suitability.

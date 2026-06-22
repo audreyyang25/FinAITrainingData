@@ -1,0 +1,27 @@
+ID: 97
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker working at a firm specializing in variable annuities recommends a $400,000 surrender of a 12-year-old deferred fixed annuity (earning 3.2% guaranteed rate, $12,000 annual income, no surrender charges remaining) and replacement with a new variable annuity (4.25% expense ratio, 1.75% mortality & expense fee, 1.50% asset management fee, 2% upfront sales commission, 7-year surrender charge schedule). Client is 74 years old, retired, takes $24,000 annually for living expenses, and has moderate-to-low risk tolerance. The broker's recommendation letter states the new product offers 'enhanced growth potential' but does not quantify or justify the fee structure relative to the client's stated objective of 'reliable retirement income.'
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Suitability Rule 2111 and FINRA Rule 2330 (variable annuity standards)?
+
+ANSWER
+------
+No, this violates FINRA Suitability Rule 2111 and FINRA Rule 2330.
+
+This recommendation violates both general suitability and variable-annuity-specific rules. Under Rule 2111(a)(2), the broker must determine that the replacement is suitable to the customer's specific situation—here, a 74-year-old on fixed retirement income. Rule 2330(b)(1) imposes heightened scrutiny on variable annuity recommendations and requires that the broker document the 'specific reasons' why the variable annuity is suitable. The client is replacing a guaranteed 3.2% fixed annuity (generating $12,800 annually) with a variable annuity carrying total annual fees of 7.5% (4.25% + 1.75% + 1.50%), plus a 2% upfront commission and 7-year surrender penalty. For a 74-year-old income-dependent retiree, this fee structure is quantitatively unsuitable: the client must achieve 7.5% annual variable returns just to match the 3.2% guaranteed income, an unrealistic expectation for a moderate-to-low-risk investor nearing or in retirement. The broker's vague reference to 'enhanced growth potential' fails to justify the recommendation under Rule 2330(b)(1), which requires specific, documented justification for variable annuity replacement recommendations, particularly for seniors. FINRA enforcement patterns (e.g., 2019-05641) consistently sanction such replacements when fee structures are unsuitable for the client's age and income dependence.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (suitability), FINRA Rule 2330 (variable annuity specific suitability and replacement criteria), FINRA Regulatory Notice 16-11 (annuity recommendations for senior investors)
+
+KEY FACTOR
+----------
+Replacement of a guaranteed 3.2% income product with a 7.5% total-fee variable annuity for a 74-year-old income-dependent retiree fails quantitative and customer-specific suitability; lack of documented justification under Rule 2330(b)(1).

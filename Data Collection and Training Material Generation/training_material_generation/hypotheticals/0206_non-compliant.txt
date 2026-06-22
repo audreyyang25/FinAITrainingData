@@ -1,0 +1,25 @@
+ID: 206
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RIA Advisor Martinez recommended a $450,000 allocation to a Vanguard S&P 500 Index Fund Admiral Shares (0.03% ER) for a 58-year-old client with $2.2M in investable assets and moderate risk tolerance. However, the advisor's firm received 12 basis points in platform revenue sharing from Vanguard but was not disclosing this arrangement in writing. The advisor documented that the lower-cost Admiral Share class (vs. Investor Shares at 0.04%) was recommended based on "availability and cost-effectiveness," but the platform revenue arrangement was omitted from the recommendation memo. The client held the position for 36 months without questioning the choice.
+
+QUESTION
+--------
+Did Advisor Martinez comply with Reg BI's care obligation (§240.15l-1(a)(2)) regarding the recommendation of the Admiral Shares class and disclosure of conflicts?
+
+ANSWER
+------
+No. While the recommendation itself may be cost-efficient, Reg BI's care obligation requires the advisor to obtain client information, analyze suitability, and document the recommendation in a manner that reflects the advisor's materialized conflict of interest. The failure to disclose platform revenue sharing (12 bps) in the written recommendation violates the duty to act in the customer's best interest when conflicts exist (§240.15l-1(b)(1)). The advisor must affirmatively disclose and, if applicable, mitigate or absent the conflict. Merely selecting a lower ER class does not cure the omission of a material conflict. This pattern mirrors SEC enforcement against advisors who recommend affiliated products without proper conflict disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation & Conflicts Disclosure, 17 CFR §240.15l-1(a)(2)(i) and (b)(1)
+
+KEY FACTOR
+----------
+Failure to disclose material platform revenue conflict in writing negates the benefit of recommending a low-cost share class.

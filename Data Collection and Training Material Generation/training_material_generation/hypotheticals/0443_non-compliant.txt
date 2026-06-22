@@ -1,0 +1,25 @@
+ID: 443
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Dorothy, age 76, approaches Advisor Morrison with $245,000 to invest. Dorothy discloses she has COPD (chronic obstructive pulmonary disease) requiring ongoing treatment; her physician notes life expectancy of 6–8 years. Dorothy's goals: 'I want stable income and know my money will be there for my care.' Morrison recommends a 10-year structured note with auto-callable feature: if S&P 500 rises, note pays 6% annually; if S&P 500 falls >20%, Dorothy loses principal dollar-for-dollar. Morrison documents: 'Client age-appropriate for growth with income.' The structured note has a 2% embedded fee (vs. stated 6% coupon, net yield ~4%), is illiquid with no secondary market, and carries issuer credit risk (BBB-rated bank). Morrison does not explain the downside principal-loss scenario, the illiquidity, or the embedded fee explicitly. Dorothy signs and invests $200,000. Within 18 months, S&P 500 declines 18%; Dorothy's note value drops to $164,000 (18% loss on $200,000). Dorothy, needing funds for medical equipment, calls Morrison asking to sell. Morrison informs her the note is illiquid and cannot be sold.
+
+QUESTION
+--------
+Did Advisor Morrison comply with Reg BI and FINRA Rule 2111 (Suitability) in recommending the structured note to Dorothy?
+
+ANSWER
+------
+No, clear violations. (1) Reg BI Care Obligation §240.15l-1(a)(2)(i) requires reasonable inquiry into material facts and suitability of costs/complexity. Morrison failed to: (a) Inquire into Dorothy's understanding of structured note mechanics (auto-callable, principal-at-risk feature, embedded fees); (b) Explain that a 6-year life expectancy conflicts with 10-year illiquidity; (c) Disclose the 2% embedded fee, making net yield 4% not 6%; (d) Assess whether Dorothy understood downside loss scenario. (2) FINRA Rule 2111 suitability requires that recommendation be suitable based on customer's 'financial situation, investment experience and objectives, and any other information the firm possesses.' Dorothy's profile—age 76, limited life expectancy (6–8 years per physician), goal of stable income and preservation—is incompatible with a 10-year illiquid instrument with principal-at-risk and embedded fees. (3) FINRA Rule 2330 (variable product suitability) and structural product guidance require explicit principal-loss disclosure and complexity assessment. Morrison's documentation ('age-appropriate for growth') is conclusory and contradicted by Dorothy's stated preference for 'know my money will be there.' (4) The illiquidity for someone with potential near-term medical needs is unsuitable. SEC enforcement and FINRA AWC patterns consistently cite structured products sold to seniors without explicit downside/liquidity disclosure as violations.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); FINRA Rule 2111 (Suitability); FINRA Guidance on Structured Products (2013)
+
+KEY FACTOR
+----------
+Advisor recommended 10-year illiquid structured note with principal-at-risk and hidden fees to 76-year-old with 6-8 year life expectancy and stated preference for capital preservation, without explaining downside scenario or illiquidity.

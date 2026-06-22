@@ -1,0 +1,27 @@
+ID: 703
+Source Folder: 09_Law_Firm_Memos
+Topic: regulatory_change_impact
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Cascade Benefits Group serves as a third-party administrator for a large ERISA-governed 401(k) plan with 12,000 participants sponsored by a Fortune 500 technology company. In June 2021, after the DOL published its final rule on e-delivery of retirement plan notices (effective May 27, 2020), Cascade transitioned to electronic delivery as the default method for all required DOL disclosures — including summary plan descriptions, quarterly benefit statements, and summary annual reports — for the 9,800 participants who had employer-provided email addresses and regular work computer access. For the remaining 2,200 participants who lacked consistent internet access (primarily field technicians), Cascade continued to send paper notices by first-class mail. Cascade's system sent an initial notification to each e-delivery participant explaining that disclosures would be provided electronically, included a free paper-copy request mechanism, and sent annual reminders of the right to opt out and receive paper. The system also monitored for invalid email addresses and bounced messages, reverting to paper delivery when electronic delivery failed.
+
+QUESTION
+--------
+Did Cascade Benefits Group comply with ERISA disclosure requirements by using e-delivery as the default method for plan participants with employer email addresses while maintaining paper delivery for those without internet access?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The DOL's 2020 final rule on e-delivery established a safe harbor that permits electronic delivery as the permissible default method for DOL-required disclosures under ERISA, provided certain conditions are met. Cascade satisfied these conditions by limiting e-delivery to participants with employer-provided email addresses and regular computer access, providing initial and annual notices of the right to opt out and receive paper copies at no cost, monitoring for delivery failures and reverting to paper when necessary, and maintaining paper delivery for participants who lacked internet access. These measures collectively satisfy the safe harbor's requirements for covered individuals, notice, opt-out rights, and system safeguards.
+
+APPLICABLE STANDARD
+-------------------
+DOL Final Rule on Electronic Delivery of Retirement Plan Disclosures (29 CFR 2520.104b-31), effective May 27, 2020; ERISA Title I disclosure and reporting requirements
+
+KEY FACTOR
+----------
+Cascade properly implemented the DOL e-delivery safe harbor by segmenting participants based on electronic access, providing required notices and opt-out rights, monitoring delivery failures, and maintaining paper delivery for those without internet access.

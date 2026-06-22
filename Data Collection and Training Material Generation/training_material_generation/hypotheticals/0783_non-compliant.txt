@@ -1,0 +1,27 @@
+ID: 783
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_enforcement_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Kuber-style scenario: Orion Capital Strategies, LLC, a state-registered investment adviser in California (CRD No. 295110), was formed in 2020 and manages $28 million for 55 clients. The firm's principal, Rajiv Anand, created a pooled investment vehicle called the 'Orion Growth Fund LP' and raised $4.2 million from 18 advisory clients, most of whom are first-generation immigrant small business owners with moderate risk tolerance and investable assets between $100,000 and $500,000. Anand did not file a notice with the California Department of Financial Protection and Innovation regarding the fund, commingled the fund's assets with his personal operating account rather than maintaining them at a qualified custodian in the name of the pooled investment vehicle, and paid himself a 3% annual management fee plus a 20% performance allocation without disclosing these fee structures in Form ADV Part 2A. An internal bookkeeper raised concerns, but Anand dismissed them, stating that pooled vehicles were exempt from state custody rules.
+
+QUESTION
+--------
+Does Anand's management of the pooled investment vehicle without proper custodial arrangements, disclosure, or notice to the state administrator violate California and NASAA custody and anti-fraud provisions?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes multiple violations including custody rule violations, failure to disclose material conflicts, and potentially fraudulent practices under state securities law.
+
+Under NASAA Model Rule 102(e)(1)-1(a)(2)(B), pooled investment vehicle assets must be maintained at a qualified custodian in the name of the pooled investment vehicle—not commingled with the adviser's personal operating account. Anand's failure to use a qualified custodian and commingling of fund assets constitutes an unlawful, fraudulent, deceptive, or manipulative act under the rule. His failure to notify the Administrator on Form ADV about custody, and his failure to disclose the fee structure in Form ADV Part 2A, are additional violations. This pattern closely mirrors the California DFPI enforcement action against Kuber Capital Management, LLC, where the state Commissioner pursued an order to discontinue violations under Corporations Code § 25249.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(e)(1)-1(a)(1)-(3) – Custody of Client Funds or Securities; California Corporations Code § 25249 (Commissioner's Order to Discontinue Violations); NASAA Model Rule on custody of pooled investment vehicle assets
+
+KEY FACTOR
+----------
+Anand commingled pooled investment vehicle assets with his personal account instead of maintaining them at a qualified custodian in the fund's name, directly violating NASAA Model Rule 102(e)(1)-1(a)(2)(B).

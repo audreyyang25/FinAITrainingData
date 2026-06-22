@@ -1,0 +1,25 @@
+ID: 222
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Advisor Q, a fee-only fiduciary, advised a 62-year-old client (former engineer, net worth $2.8M, 60% in employer stock, 40% in cash/bonds) on a 401(k) rollover decision. The 401(k) held $920,000 with a Vanguard 2020 Target Date Fund (0.08% ER), stable value fund option (2.5% crediting rate, ~0.45% implied cost), and brokerage window access (0.05% transaction fees). Advisor Q documented a 15-page rollover analysis: (1) Cost comparison: rolling to Advisor Q's platform (0.75% AUM fee) vs. staying in 401(k) (0.08% ER + 0.45% stable value); (2) Tax efficiency: no immediate tax on rollover; Roth conversion opportunity post-rollover; required minimum distribution (RMD) timing and age 72 implications; (3) Investment flexibility: access to non-traded real assets (interval funds, private credit) unavailable in 401(k); client's stated desire for alternative diversification given 60% concentrated stock position; (4) Creditor protection analysis: 401(k) ERISA protections vs. IRA rollover state exemptions; (5) Written acknowledgment of the 0.67% net fee increase in year one, amortized vs. rollover benefits. The analysis was signed by both advisor and client, with quarterly review scheduled.
+
+QUESTION
+--------
+Did Advisor Q comply with Reg BI's care obligation in recommending a 401(k) rollover that would increase the advisor's fee from 0% to 0.75% AUM?
+
+ANSWER
+------
+Yes. Advisor Q satisfied Reg BI's care obligation and the elevated Reg BI rollover standard (17 CFR §240.15l-1(a)(2)(ii)(C)). Despite the clear conflict of interest (fee increase), Advisor Q documented: (1) specific comparisons of in-plan costs vs. rollover costs; (2) individual client circumstances justifying rollover (concentrated stock position, desire for alternative investments, fee increases quantified and disclosed); (3) reasonable basis through comprehensive written analysis; (4) explicit disclosure of the 0.67% fee spread and underlying conflict; (5) client written acknowledgment. The fact that the rollover recommendation was NOT purely self-interested—the client genuinely needed diversification and had access to alternatives only post-rollover—supports reasonable basis. This mirrors DOL PTE 2020-02 guidance and FINRA 2019-064 (rollover compliance). Contemporaneous documentation and signed acknowledgment are critical.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(ii)(C) (Rollover Specific); DOL PTE 2020-02; FINRA AWC 2019-064
+
+KEY FACTOR
+----------
+Detailed, client-specific cost-benefit analysis with quantified conflict disclosure and written client acknowledgment overcomes the inherent advisor incentive in rollover recommendations.

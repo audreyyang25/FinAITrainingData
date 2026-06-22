@@ -1,0 +1,27 @@
+ID: 716
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+GreenLeaf Retirement Services administers a 403(b) plan for a large university system with 12,000 participants and $1.8 billion in assets. GreenLeaf offers a participant loan program where loans are secured by the participant's retirement savings. The loan interest rates are set at prime plus 3%, significantly above the market rate for comparable secured loans, and GreenLeaf retains the interest rate spread as additional compensation beyond its stated administrative fees. The plan fiduciaries approved the loan program without conducting any analysis of whether the loan terms were reasonable compared to market alternatives, and the plan document does not specifically authorize GreenLeaf to retain the interest spread. A participant who borrowed $45,000 against her account paid $8,200 in excess interest over the loan term compared to what she would have paid at prevailing market rates for similar secured credit.
+
+QUESTION
+--------
+Does GreenLeaf's participant loan program, where the service provider retains above-market interest spreads as undisclosed additional compensation, comply with ERISA's prohibited transaction rules?
+
+ANSWER
+------
+No, this conduct is a prohibited transaction under ERISA § 406(a)(1)(D) involving the use of plan assets for the benefit of a party in interest, and potentially a violation of § 406(b) if GreenLeaf is deemed a fiduciary.
+
+As analyzed in Haley v. TIAA, a participant loan program offered by a service provider can constitute a prohibited transaction under ERISA when the service provider uses plan assets (the participant's retirement savings securing the loan) to generate compensation that exceeds reasonable amounts. Under ERISA § 408(b)(2), a loan program is exempt from prohibited transaction rules only if the compensation is reasonable and the arrangement is disclosed. GreenLeaf's retention of an above-market interest spread without disclosure or fiduciary approval of that specific compensation component fails the statutory exemption requirements. The Second Circuit's holding that such claims can proceed against non-fiduciary service providers under ERISA § 502(a)(3) further underscores that the conduct is actionable.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §§ 406(a)(1)(D), 406(b)(1), and 408(b)(2) – Prohibited Transaction Exemption for Loans; Haley v. TIAA, No. 21-805-cv (2d Cir. 2022)
+
+KEY FACTOR
+----------
+The service provider's retention of above-market interest spreads as undisclosed additional compensation from a participant loan program secured by plan assets constitutes a prohibited transaction that fails the reasonable compensation exemption under ERISA § 408(b)(2).

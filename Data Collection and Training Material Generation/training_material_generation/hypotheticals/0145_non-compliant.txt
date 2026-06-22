@@ -1,0 +1,27 @@
+ID: 145
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 52-year-old participant in a Vanguard 401(k) plan with $485,000 in low-cost index funds (0.04% expense ratio) meets with a financial advisor at a wirehouse. The advisor recommends rolling over the entire balance to a self-directed IRA to pursue 'more aggressive growth through individual stocks and options strategies.' The advisor will receive a 0.85% annual AUM fee on the IRA assets and will manage trading commissions. The participant has moderate risk tolerance, is 13 years from retirement, and has no investment experience in options trading. The advisor documents no comparison of fees, investment options, or plan-specific protections (ERISA fiduciary liability, loan provisions).
+
+QUESTION
+--------
+Does this rollover recommendation satisfy DOL ERISA fiduciary duty requirements under PTE 2020-02 and the Investment Adviser Act?
+
+ANSWER
+------
+No, this violates DOL ERISA fiduciary duty and fails to satisfy PTE 2020-02 requirements.
+
+Under ERISA §404(a)(1)(B), a fiduciary recommending a rollout must prudently consider whether the rollover is in the participant's best interest, including a fee comparison and analysis of plan-specific features. PTE 2020-02 requires that the adviser act in the participant's best interest (not the adviser's financial interest), avoid misleading statements, and disclose all material conflicts of interest. Here, the advisor fails this standard because: (1) rolling from a 0.04% index fund to a 0.85% AUM fee (2,100 basis point increase) with active trading commissions serves the advisor's financial interest, not the participant's, particularly given the participant's moderate risk tolerance and inexperience with options; (2) no documented analysis of plan-level protections (loan provisions, ERISA fiduciary liability shield, investment lineup) vs. IRA limitations; (3) the recommendation is unsuitable under FINRA Rule 2111 and violates the Adviser Act §206(2) fiduciary duty of loyalty by prioritizing advisor compensation over client returns. Courts and DOL have consistently found such rollovers imprudent when driven by fee arbitrage without documented analysis.
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA §404(a)(1)(B) fiduciary duty of prudence and loyalty; PTE 2020-02 (Prohibited Transaction Exemption for adviser recommendations) §4975 conditional exemption; Investment Adviser Act §206(2) fiduciary duty.
+
+KEY FACTOR
+----------
+The advisor earned a direct financial incentive (0.85% AUM fee vs. no compensation in the 401(k) plan) without documenting any analysis of whether the rollover was in the participant's best interest, violating PTE 2020-02's requirement that the advisor must not place its financial interest ahead of the participant's and must conduct a prudent analysis of plan-vs.-IRA tradeoffs.

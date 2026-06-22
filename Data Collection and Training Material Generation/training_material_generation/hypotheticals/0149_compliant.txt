@@ -1,0 +1,27 @@
+ID: 149
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker manages a discretionary account for a 52-year-old investor with $750,000 and balanced risk tolerance (50% equities, 50% fixed income). Over 24 months, the account turned over 2.1 times (52 trades) as the broker implemented a documented systematic rebalancing strategy: quarterly rebalancing to maintain the 50/50 allocation, plus tactical sector rotations when economic data shifted (Fed policy changes, yield curve inversions, PMI swings). Each trade was accompanied by written memos explaining the economic rationale. The client received quarterly reports comparing portfolio performance against a balanced index (60/40 Russell/Bloomberg mix) and outperformed by 2.4% annually (gross). Total costs were $6,200 annually (0.83% of average equity). The client confirmed annually in writing that his objectives and risk tolerance remained unchanged.
+
+QUESTION
+--------
+Does this trading activity comply with FINRA Rule 2111 and Rule 2010?
+
+ANSWER
+------
+Yes, this is compliant with the applicable legal standard.
+
+This conduct complies with Rule 2111 and Rule 2010 because: (1) The turnover ratio of 2.1 is well below the 1.0 presumptive churning threshold and is consistent with a documented, systematic rebalancing strategy; (2) The fee-to-equity ratio of 0.83% is reasonable for actively managed discretionary accounts; (3) Each trade has a documented, legitimate business purpose (rebalancing to target allocation or tactical sector rotation based on economic indicators); (4) The strategy outperformed a comparable benchmark by 2.4%, demonstrating value and alignment with the client's balanced objectives; (5) The broker provided transparent reporting and annual written confirmation of client objectives; (6) The 24-month track record shows consistent execution of the stated strategy. The Economic rationale memos and quarterly reporting satisfy FINRA Rule 4512 supervision requirements. This is distinguishable from churning because the trading is *proportionate to legitimate portfolio management objectives*.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (suitability — recommendation suitable given client's age, other investments, financial situation, needs, and objectives); FINRA Rule 2010 (fair dealing — prohibition on churning, which requires excessive in-and-out trading *without legitimate business purpose*); FINRA Rule 4512 (supervision and documentation).
+
+KEY FACTOR
+----------
+Turnover ratio of 2.1 combined with documented economic rationale for each trade, outperformance relative to benchmark, transparent reporting, and reasonable fee ratio establish suitable conduct under Rule 2111 and Rule 2010.

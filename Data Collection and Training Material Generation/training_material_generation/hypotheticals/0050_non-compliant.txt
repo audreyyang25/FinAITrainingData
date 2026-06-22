@@ -1,0 +1,27 @@
+ID: 50
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An RIA manages $400M AUM and has a side business providing financial planning services and tax advice through a separate, unaffiliated professional services LLC. A 52-year-old client with $2M in assets approaches the RIA seeking comprehensive financial planning advice. The RIA's adviser discusses the client's retirement goals, tax situation, and estate plan. The adviser then recommends that the client engage the tax services LLC (operated by the same adviser, though technically a separate entity) for tax optimization planning, estimating fees of $15K annually. The RIA's AUM fee is 0.65%. The RIA does not disclose in writing the conflict of interest (adviser incentive to recommend the ancillary tax business) or provide the client with an estimate of total fees (investment advisory + tax services).
+
+QUESTION
+--------
+Does this side business recommendation satisfy the fiduciary duty of loyalty?
+
+ANSWER
+------
+No, this violates the fiduciary duty of loyalty due to undisclosed conflict of interest.
+
+Although the tax services business is technically separate, the adviser's control over and financial interest in both entities creates a material conflict of interest that must be disclosed. Under Section 206(1) and SEC guidance (Form ADV Part 2A requirements, 17 CFR 206.4-1), an adviser must disclose conflicts arising from 'non-advisory' side businesses, particularly when the adviser has personal financial incentives to recommend them. The failure to provide written disclosure of the conflict and to estimate the total advisory fees (investment + tax services) violates the duty of loyalty. The SEC has consistently taken the position (see Steadman) that even technically separate business relationships operated by the same adviser constitute self-dealing if the adviser has financial incentives to steer clients toward the ancillary business. The client cannot make an informed decision about the merits of the tax services without knowing that the recommending adviser directly profits from the recommendation. The RIA should have disclosed the conflict in writing, provided fee estimates for both services, and allowed the client to independently select tax advisers if desired.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(1) and 206(2); 17 CFR 206(4)-1 (brochure disclosure requirements for conflicts); SEC IA Exam Priorities and Enforcement Manual; SEC v. Steadman, 603 F.2d 1126 (5th Cir. 1979) (self-dealing by adviser in ancillary business)
+
+KEY FACTOR
+----------
+Undisclosed financial interest in ancillary tax services business operated by the same adviser, creating incentive to recommend without client awareness.

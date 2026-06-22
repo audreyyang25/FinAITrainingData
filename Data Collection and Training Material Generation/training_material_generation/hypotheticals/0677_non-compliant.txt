@@ -1,0 +1,27 @@
+ID: 677
+Source Folder: 09_Law_Firm_Memos
+Topic: regulatory_change_impact
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Apex Capital Management is a SEC-registered investment adviser that manages three private funds with a combined $1.8 billion in AUM. In its most recent fund, Apex Fund III, the adviser granted preferential redemption rights to a $200 million institutional investor through a side letter, allowing quarterly redemptions while all other LPs are subject to a two-year lock-up. Apex did not disclose the existence or material terms of this preferential treatment to any other investors in Fund III, reasoning that the side letter was confidential and that the institutional investor's size justified differential treatment. The fund's PPM contained only generic language stating that 'the Adviser may enter into side arrangements with certain investors.' The preferential redemption right could materially disadvantage other LPs during a liquidity stress event by depleting fund assets before other investors can redeem.
+
+QUESTION
+--------
+Did Apex Capital Management comply with the SEC's Private Fund Adviser Rules regarding preferential treatment of investors through side letters?
+
+ANSWER
+------
+No, this conduct violates the SEC's Preferential Treatment Rule under the Private Fund Adviser Rules.
+
+Under the SEC's Private Fund Adviser Rules, preferential treatment regarding redemption rights that has a material negative effect on other investors is subject to specific disclosure requirements. The rule requires that advisers provide written notice to current and prospective investors detailing the material terms of any preferential treatment relating to redemptions or portfolio information. Generic PPM language referencing the possibility of 'side arrangements' is insufficient to satisfy the rule's disclosure obligations. Apex's failure to disclose the specific material terms of the preferential redemption right to other Fund III investors violates the preferential treatment disclosure provisions.
+
+APPLICABLE STANDARD
+-------------------
+SEC Private Fund Adviser Rules – Preferential Treatment Rule (Rule 211(h)(2)-3 under the Investment Advisers Act of 1940)
+
+KEY FACTOR
+----------
+Failure to provide specific written disclosure of preferential redemption terms to other fund investors, relying instead on generic boilerplate language in the PPM.

@@ -1,0 +1,27 @@
+ID: 574
+Source Folder: 05_SEC_Exam_Findings
+Topic: exam_findings
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+During the COVID-19 pandemic, an SEC-registered investment adviser with 1,200 retail clients transitioned to fully remote operations in March 2020. By August 2020, the firm had not updated its business continuity plan to reflect the remote work environment, had not conducted any testing of its remote supervisory controls, and had disabled its electronic communications surveillance system due to technical difficulties with employees using personal devices. During this period, three investment adviser representatives conducted 47 discretionary trades in senior client accounts (clients aged 72-85) involving high-yield bond funds with durations averaging 8.5 years—a significant departure from these clients' previously documented moderate-conservative risk profiles. No supervisory review of these trades occurred, no updated suitability documentation was created, and the firm's CCO was not made aware of the trading pattern until an SEC examination in late 2021. The firm's written supervisory procedures required quarterly reviews of trading in senior client accounts.
+
+QUESTION
+--------
+Did the firm comply with its regulatory obligations regarding operational resiliency, supervision of senior investor accounts, and suitability during the COVID-19 remote work transition?
+
+ANSWER
+------
+No, this conduct involves multiple violations: failure to maintain adequate supervisory controls during operational transition (Investment Advisers Act §206(4) and Rule 206(4)-7), breach of fiduciary duty regarding suitability for senior investors, and failure to follow the firm's own written supervisory procedures.
+
+The August 2020 SEC OCIE Risk Alert specifically identified COVID-19 compliance risks including the need for firms to adapt supervisory and compliance practices to remote operations, maintain surveillance of electronic communications, and ensure that operational changes do not compromise investor protections. The firm's disabling of its surveillance system and failure to conduct any supervisory review directly contravenes this guidance and the firm's own WSPs. The Division of Examinations has consistently prioritized the protection of senior investors, and the unsupervised shift of elderly clients into high-duration, higher-risk bond funds without updated suitability documentation represents a serious fiduciary breach. The firm also violated Rule 206(4)-7 by failing to implement or follow its own compliance policies during a period of heightened risk.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act §206(4) and Rule 206(4)-7 (compliance policies and procedures); SEC OCIE Risk Alert on COVID-19 Compliance Risks (August 12, 2020); SEC Exam Priority: Senior Investors
+
+KEY FACTOR
+----------
+The firm disabled supervisory controls during the COVID-19 remote transition while its representatives simultaneously made unsuitable trades in senior client accounts, compounding operational resiliency failures with fiduciary breaches.

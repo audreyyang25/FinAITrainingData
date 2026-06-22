@@ -1,0 +1,27 @@
+ID: 711
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+GlobalRetire Services, a non-fiduciary third-party administrator, contracts with 47 employer-sponsored 401(k) plans to offer participant loan programs. Under the program, participants can borrow up to 50% of their vested balance, secured by their retirement savings. GlobalRetire charges a $150 loan origination fee plus an annual servicing fee of 1.25% of the outstanding loan balance — both paid from participant accounts — significantly exceeding market rates for comparable loan administration services. The plan fiduciaries who contracted with GlobalRetire did not solicit competitive bids or benchmark GlobalRetire's fees against other providers. GlobalRetire also retains the spread between the interest rate participants pay (prime + 3%) and the rate credited back to participant accounts (prime + 1%), generating $4.2 million annually across all plans. No plan document or summary plan description discloses the interest rate spread retained by GlobalRetire.
+
+QUESTION
+--------
+Does GlobalRetire's participant loan program structure constitute a prohibited transaction under ERISA, even though GlobalRetire is a non-fiduciary service provider?
+
+ANSWER
+------
+No, this conduct is a prohibited transaction under ERISA Section 406(a).
+
+Under ERISA § 406(a)(1)(C) and (D), a transaction involving plan assets that furnishes goods, services, or facilities between a plan and a party in interest, or that transfers plan assets to a party in interest, may constitute a prohibited transaction regardless of whether the service provider is itself a fiduciary. As the Second Circuit held in Haley v. TIAA, a non-fiduciary can be sued under ERISA where the loan program it administers constitutes a prohibited transaction. The undisclosed retention of the interest rate spread and the above-market fees extracted from participant accounts without competitive benchmarking by plan fiduciaries compound the violation. The plan fiduciaries' failure to solicit competitive bids also implicates their own duty of prudence under ERISA § 404(a)(1)(B).
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 406(a)(1)(C) and (D) – Prohibited Transactions; See Haley v. TIAA, No. 21-805-cv (2d Cir. 2022)
+
+KEY FACTOR
+----------
+A non-fiduciary service provider can engage in prohibited transactions under ERISA § 406(a) through a participant loan program with undisclosed fee retention, as established in Haley v. TIAA.

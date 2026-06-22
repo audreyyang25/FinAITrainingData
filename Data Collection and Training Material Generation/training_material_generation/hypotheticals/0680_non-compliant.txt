@@ -1,0 +1,27 @@
+ID: 680
+Source Folder: 09_Law_Firm_Memos
+Topic: legal_risk_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greenfield Advisors LLC is an SEC-registered investment adviser managing $600 million across two private credit funds. The adviser charges a 1.5% management fee and a 20% performance allocation. Without obtaining the required annual audits for either fund, the adviser instead provides investors with internally prepared quarterly financial statements. Additionally, Greenfield allocates $1.2 million in broken-deal expenses from a failed acquisition across both funds on a pro-rata AUM basis, despite the fact that only Fund I was pursuing the acquisition. Fund II's LPA does not authorize the allocation of expenses from transactions not undertaken for Fund II's benefit. Greenfield does not disclose the allocation methodology or the fact that Fund II bore costs from Fund I's failed transaction.
+
+QUESTION
+--------
+Does Greenfield Advisors' expense allocation and financial reporting comply with the SEC's Private Fund Adviser Rules and the investment adviser's fiduciary duty?
+
+ANSWER
+------
+No, this conduct violates the SEC Private Fund Adviser Rules and the investment adviser's fiduciary duty under Section 206 of the Advisers Act.
+
+The Private Fund Adviser Rules require registered advisers to obtain annual financial statement audits for each private fund, making internally prepared quarterly statements an insufficient substitute. Additionally, the Restricted Activities Rule addresses the allocation of fees and expenses, requiring disclosure and, in certain cases, investor consent for expense allocations that may create conflicts. Allocating $1.2 million in broken-deal costs to Fund II—which had no involvement in the failed transaction and whose LPA did not authorize such allocation—constitutes a breach of fiduciary duty under Section 206 and violates the restricted activities provisions. The lack of disclosure compounds the violation.
+
+APPLICABLE STANDARD
+-------------------
+SEC Private Fund Adviser Rules (Rule 211(h)(2)-1, Audit Rule and Restricted Activities Rule); Section 206(1) and 206(2) of the Investment Advisers Act of 1940
+
+KEY FACTOR
+----------
+The adviser allocated broken-deal expenses to a fund that was not party to the transaction without disclosure or LPA authorization, while also failing to comply with the annual audit requirement.

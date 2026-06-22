@@ -1,0 +1,27 @@
+ID: 763
+Source Folder: 13_FINRA_Rulebook
+Topic: suitability_rule
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer receives a recommended transaction request from Apex Capital Management, an institutional account as defined under FINRA Rule 4512(c), with $500 million in assets under management and a dedicated internal investment committee staffed by three CFA charterholders. The broker-dealer's representative recommends a complex structured note linked to emerging market sovereign debt. Prior to the recommendation, the firm obtained from Apex a signed Institutional Suitability Certificate in which Apex affirmatively indicated that it is capable of evaluating investment risks independently, both in general and with regard to all transactions and investment strategies involving a security or securities, and that it will exercise independent judgment in evaluating the broker-dealer's recommendations. The firm's records show that the representative discussed the specific risks of the structured note with Apex's investment committee, including credit risk, liquidity risk, and currency risk, and that Apex's committee independently analyzed the product before proceeding.
+
+QUESTION
+--------
+Has the broker-dealer satisfied its customer-specific suitability obligation under FINRA Rule 2111(b) for this institutional account recommendation?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Under FINRA Rule 2111(b), a broker-dealer fulfills its customer-specific suitability obligation for an institutional account if (1) the firm has a reasonable basis to believe the institutional customer is capable of evaluating investment risks independently, and (2) the institutional customer affirmatively indicates that it is exercising independent judgment. Here, Apex qualifies as an institutional account under Rule 4512(c), has a sophisticated internal investment committee, provided a signed Institutional Suitability Certificate affirming independent evaluation capability and exercise of independent judgment, and the firm documented the risk discussion. These facts satisfy both prongs of the institutional suitability safe harbor.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) – Institutional Account Suitability; FINRA Rule 4512(c) – Institutional Account Definition
+
+KEY FACTOR
+----------
+The institutional client's signed certificate affirming capability to evaluate risks independently and exercise of independent judgment, combined with the firm's documented risk discussion, satisfies the two-prong institutional suitability standard under Rule 2111(b).

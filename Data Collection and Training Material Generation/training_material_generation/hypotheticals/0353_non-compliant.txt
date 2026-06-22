@@ -1,0 +1,25 @@
+ID: 353
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Kowalski at Premier Wealth Partners recommended that client Anderson, age 45 with $2.5M in investable assets, purchase $500,000 in Franklin Templeton B-share mutual funds (12b-1 fee 1.0% annually, contingent deferred sales charge 5.5% if redeemed in year 1, declining to 0% by year 8). The B-share expense ratio was 0.95% total (including 12b-1). The equivalent A-share option had a 5% front-end load ($25,000 upfront) plus 0.55% annual expense ratio. Anderson stated a 15-year investment horizon and had no liquidity constraints. Kowalski documented: "Client prefers to avoid upfront fees." No breakpoint analysis was performed. Over 15 years, the B-share would cost Anderson $71,250 in 12b-1 + management fees (0.95% × $500K × 15 years), versus $25,000 upfront + $41,250 in A-share annual fees = $66,250 total. The 12b-1 fee paid Kowalski's firm $5,000 annually ($75,000 over 15 years).
+
+QUESTION
+--------
+Did Advisor Kowalski comply with FINRA Rule 2111 (Suitability) in recommending B-shares to Anderson given his stated 15-year horizon?
+
+ANSWER
+------
+No. Under FINRA Rule 2111, Kowalski had an obligation to recommend the share class best suited to the customer's circumstances, including holding period, tax status, and total costs. Anderson's 15-year horizon and $2.5M asset base (well above typical breakpoints, often $25K–$100K depending on fund family) make A-shares the cheaper alternative over the holding period by approximately $5,000 ($71,250 vs. $66,250). The documentation citing client preference for avoiding upfront fees is insufficient to overcome the suitability analysis—the advisor must educate the client on total cost of ownership. The 12b-1 revenue accruing to Kowalski's firm ($75,000) creates an undisclosed conflict of interest under FINRA Rule 2010. This pattern mirrors FINRA enforcement actions against advisory firms that systematically recommend higher-fee share classes without rigorous economic justification. The lack of breakpoint analysis is a red flag for supervision failure under Rule 3110.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability—Reasonable Basis and Customer-Specific); FINRA Rule 2010 (Standards of Commercial Honor and Ethical Conduct)
+
+KEY FACTOR
+----------
+Recommending B-shares to a long-horizon, high-asset client without breakpoint analysis or total-cost comparison creates suitability violation and undisclosed conflicts; A-shares are objectively cheaper.

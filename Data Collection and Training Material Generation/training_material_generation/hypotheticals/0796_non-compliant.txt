@@ -1,0 +1,27 @@
+ID: 796
+Source Folder: 15_FINRA_Regulatory_Notices
+Topic: complex_products
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A mid-sized broker-dealer allows its 45 registered representatives to recommend alternative mutual funds (liquid alts) including long/short equity funds and managed futures funds. The firm has no written supervisory procedures specific to Alt Funds and instead relies on the same review process used for traditional equity mutual funds. Over a 14-month period, representatives recommend Alt Fund concentrations of 30-50% of portfolio value to 212 retail customers, including retirees with moderate risk tolerances and account values between $150,000 and $400,000. The firm's compliance department conducts only post-trade suitability reviews using automated exception reports calibrated for traditional mutual funds, with no flags for Alt Fund-specific risks such as liquidity constraints, use of derivatives, or increased volatility. A FINRA examination identifies that the firm never updated its supervisory system or trained its representatives on the unique characteristics and risks of Alt Funds.
+
+QUESTION
+--------
+Did the broker-dealer maintain a reasonably designed supervisory system for recommendations of alternative mutual funds as required by FINRA rules?
+
+ANSWER
+------
+No, this conduct is a supervisory system violation related to alternative mutual fund sales practices.
+
+Regulatory Notice 22-11 explicitly reminds firms of their obligation to establish and maintain a reasonably designed supervisory system for recommendations of Alt Funds, noting that FINRA has taken enforcement action against firms for precisely this deficiency. The firm's failure to create Alt Fund-specific written supervisory procedures, to train representatives on unique product characteristics (derivatives usage, liquidity risk, volatility), and to calibrate surveillance systems for Alt Fund-specific risk factors constitutes a failure to comply with FINRA Rule 3110. Relying on generic equity mutual fund review processes is inadequate given the materially different risk profiles of Alt Funds.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110 (Supervision); FINRA Regulatory Notice 22-11 (Alt Funds Sales Practice and Supervisory Obligations)
+
+KEY FACTOR
+----------
+The firm failed to establish any supervisory procedures specifically tailored to the unique risks and characteristics of alternative mutual funds, instead relying on generic mutual fund review processes.

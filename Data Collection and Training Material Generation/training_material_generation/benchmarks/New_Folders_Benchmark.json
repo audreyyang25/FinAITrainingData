@@ -1,0 +1,3452 @@
+[
+  {
+    "id": 10000,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10001,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10002,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10003,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10004,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10005,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10006,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10007,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10008,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10009,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10010,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10011,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10012,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10013,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10014,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10015,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10016,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10017,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10018,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10019,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10020,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10021,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10022,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10023,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10024,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10025,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10026,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10027,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 10028,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10029,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10030,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10031,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10032,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10033,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10034,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10035,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10036,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10037,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10038,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10039,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10040,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10041,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10042,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10043,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10044,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10045,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10046,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10047,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10048,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10049,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10500,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10501,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10502,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10503,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10504,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10505,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10506,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10507,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10508,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10509,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10510,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10511,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10512,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10513,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10514,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10515,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10516,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10517,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10518,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10519,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10520,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10521,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10522,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10523,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10524,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10525,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10526,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10527,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10528,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 10529,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11000,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11001,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11002,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11003,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11004,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11005,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11006,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11007,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11008,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11009,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11010,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11011,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11012,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11013,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11014,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11015,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11016,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11017,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11018,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11019,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11020,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11021,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11022,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11023,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11024,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11025,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11026,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 11027,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11028,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11029,
+    "source_folder": "26_Options",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11500,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11501,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11502,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11503,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11504,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11505,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11506,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11507,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11508,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11509,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11510,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11511,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11512,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 11513,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11514,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11515,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11516,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11517,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11518,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11519,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11520,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11521,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11522,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11523,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11524,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11525,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11526,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11527,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11528,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11529,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11530,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11531,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11532,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11533,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11534,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11535,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11536,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11537,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11538,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 11539,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12000,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12001,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12002,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12003,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12004,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12005,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12006,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12007,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12008,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12009,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12010,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12011,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12012,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12013,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12014,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12015,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12016,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12017,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12018,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12019,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12020,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12021,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12022,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12023,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12024,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12025,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12026,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12027,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12028,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12029,
+    "source_folder": "28_Structured_Products",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12500,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12501,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12502,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12503,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12504,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12505,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12506,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12507,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12508,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12509,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12510,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12511,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12512,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12513,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12514,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12515,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12516,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12517,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12518,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12519,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12520,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12521,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12522,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12523,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12524,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12525,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12526,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12527,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12528,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12529,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12530,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12531,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12532,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12533,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12534,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12535,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12536,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12537,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12538,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12539,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12540,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12541,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12542,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12543,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12544,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12545,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12546,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12547,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12548,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 12549,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P12",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20000,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20001,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20002,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20003,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20004,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20005,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20006,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20007,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20008,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20009,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20010,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20011,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20012,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20013,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20014,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20015,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20016,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20017,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20018,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20019,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20020,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20021,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20022,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20023,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20024,
+    "source_folder": "24_Variable_Annuities",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20500,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20501,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20502,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20503,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20504,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20505,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20506,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20507,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20508,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20509,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20510,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20511,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20512,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 20513,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 20514,
+    "source_folder": "25_Leveraged_Inverse_ETFs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21000,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21001,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21002,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21003,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21004,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21005,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21006,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21007,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21008,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21009,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21010,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21011,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21012,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21013,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21014,
+    "source_folder": "26_Options",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21500,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21501,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21502,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21503,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21504,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21505,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21506,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21507,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21508,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21509,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21510,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21511,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21512,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21513,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21514,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21515,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21516,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21517,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": false
+  },
+  {
+    "id": 21518,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 21519,
+    "source_folder": "27_Private_Placements_DPPs",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22000,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22001,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22002,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22003,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22004,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22005,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22006,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22007,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22008,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22009,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22010,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22011,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22012,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22013,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22014,
+    "source_folder": "28_Structured_Products",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "ERROR",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22500,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22501,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22502,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22503,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22504,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22505,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22506,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22507,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22508,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO.",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22509,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22510,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22511,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22512,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22513,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22514,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22515,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22516,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22517,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22518,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22519,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "NO",
+    "gpt4o_correct": true,
+    "gpt52_answer": "NO",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22520,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22521,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "NO",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": false,
+    "gpt52_answer": "YES",
+    "gpt52_correct": false
+  },
+  {
+    "id": 22522,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22523,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  },
+  {
+    "id": 22524,
+    "source_folder": "29_Crypto_Digital_Assets",
+    "phase": "P13",
+    "ground_truth": "YES",
+    "gpt4o_answer": "YES",
+    "gpt4o_correct": true,
+    "gpt52_answer": "YES",
+    "gpt52_correct": true
+  }
+]

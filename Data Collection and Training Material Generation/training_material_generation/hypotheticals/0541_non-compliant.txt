@@ -1,0 +1,27 @@
+ID: 541
+Source Folder: 03_FINRA_AWC
+Topic: finra_awc_churning
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Marcus Dalton, a General Securities Representative registered with a mid-sized broker-dealer, recommended a series of 147 short-term trades over 28 months in the accounts of three senior customers, ages 72, 75, and 68, all of whom had balanced allocation investment profiles and moderate risk tolerances. The customers' accounts had annualized cost-to-equity ratios ranging from 14% to 22% and turnover rates between 6.1 and 9.3. Dalton earned approximately $185,000 in commissions from these accounts during this period, while the customers collectively suffered net realized losses of $94,000. Dalton's firm, Oppenheimer-affiliated, terminated him after discovering he could not produce documentary evidence that the customers had authorized the trading frequency.
+
+QUESTION
+--------
+Did Dalton's pattern of excessive trading in senior customers' balanced-allocation accounts violate FINRA suitability and ethical standards?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes excessive trading (churning) in violation of FINRA Rules 2111 (quantitative suitability) and 2010 (standards of commercial honor).
+
+FINRA Rule 2111's quantitative suitability component prohibits a broker who exercises de facto control over an account from engaging in trading that is excessive in light of the customer's investment profile. Cost-to-equity ratios above 6% and turnover rates above 6 are widely recognized as presumptive indicators of churning. The customers' balanced allocation profiles and moderate risk tolerances are wholly inconsistent with the aggressive short-term trading pattern. The pattern closely mirrors the Zachary Taylor AWC where excessive trading in senior balanced-allocation accounts led to sanctions.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) – Suitability (Quantitative Suitability) and FINRA Rule 2010 – Standards of Commercial Honor and Principles of Just and Equitable Trade
+
+KEY FACTOR
+----------
+Annualized cost-to-equity ratios of 14%-22% and turnover rates of 6.1-9.3 in balanced-allocation senior accounts are clear quantitative indicators of excessive trading.

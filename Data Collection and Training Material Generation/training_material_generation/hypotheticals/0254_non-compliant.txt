@@ -1,0 +1,25 @@
+ID: 254
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+SecureWealth Advisers, an SEC-registered IA with $420 million AUM, delivered Form CRS to client Patricia Sokolowski, age 71, on May 1, 2023. The firm's Form CRS (filed with SEC as exhibit) stated: 'Advisory fees are 0.90% annually on AUM.' In September 2023, the firm implemented a tiered fee schedule: 0.90% on the first $500,000, 0.75% on assets $500,001–$1,500,000, and 0.60% on assets above $1,500,000. The firm did not update its Form CRS until January 10, 2024, and did not proactively notify existing clients of the fee change. Patricia's account had grown to $1,850,000 by October 2023. Under the new tier structure, her fee should have been 0.60% ($11,100 annually), but the firm continued billing at 0.90% ($16,650) until January 2024 when the new Form CRS took effect. On December 15, 2023, when Patricia asked about her fee, the firm's compliance officer stated the fee change was 'pending a future Form CRS update' and did not disclose the exact effective date or Patricia's reduced fee entitlement. Patricia received no Form CRS update until January 10, 2024 (post-retroactive application).
+
+QUESTION
+--------
+Did SecureWealth's delay in updating Form CRS and failure to notify clients of material fee changes constitute a disclosure violation?
+
+ANSWER
+------
+Yes. Reg BI and SEC guidance require that Form CRS be updated 'promptly' (within a reasonable time) after material changes to the advisory relationship, including fee structure modifications. SEC guidance (IA-5653, p. 15) specifies that changes material to the client's decision-making must trigger an update. Here, implementation of a tiered fee schedule is material (Patricia's fee dropped 33%, from 0.90% to 0.60%), yet the firm delayed updating Form CRS from September 2023 until January 2024 (4 months). During this period, Patricia was charged at the old rate without notice of her entitlement to the lower tier. SEC guidance further requires that clients be notified of material changes in a manner allowing them to make informed decisions. The firm's vague statement ('pending future update') misled Patricia about when the new fees would apply. The firm's failure to inform Patricia of her fee reduction until after retroactive application constitutes a disclosure violation and potentially an unfair practice. Similar patterns appear in SEC enforcement actions addressing untimely Form CRS updates.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI, 17 CFR §240.15l-1(c)(1)(vii) (Form CRS must be updated within a reasonable time after material changes); SEC Form CRS Instructions, p. 15 (prompt update requirement); Advisers Act §206(2) (prohibition on unfair practice)
+
+KEY FACTOR
+----------
+4-month delay in updating Form CRS to reflect material fee-tier change, combined with failure to proactively notify client of fee reduction during the interim period.

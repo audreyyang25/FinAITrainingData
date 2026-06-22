@@ -1,0 +1,25 @@
+ID: 467
+Source Folder: unknown
+Topic: compliant_nuanced
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Torres, a Series 7/65 registered rep/adviser, executed a principal transaction between two of her clients: (1) Client A (real estate investor, $2.8M portfolio) sold 5,000 shares of a thinly traded biotech stock at $34/share ($170,000 total); (2) Client B (retiree, $580,000 portfolio) purchased the same 5,000 shares at $34/share. Torres charged no explicit commission to either party, and both clients signed a 'principal transaction' acknowledgment form stating 'Advisor Torres is acting as principal in this cross-trade.' However, Torres did NOT: (a) obtain written consent BEFORE executing the trade (only after); (b) obtain independent fair market value (FMV) verification—she used the prior week's closing price ($33.90) as the 'fair price' without checking recent quotes or conducting any valuation analysis; (c) disclose that she intended to retain a 0.05% spread ($85) for her firm; (d) document any analysis of whether Client A had better execution alternatives (e.g., public market at $34.08 bid-ask).
+
+QUESTION
+--------
+Did Advisor Torres comply with SEC Rule 17a-7 (principal transactions) and Reg BI's conflict of interest obligations in executing this cross-trade?
+
+ANSWER
+------
+No. Non-compliant on multiple grounds. Rule 17a-7(b) requires written client consent BEFORE the principal transaction occurs; Torres obtained consent after execution. Rule 17a-7(c) mandates that the transaction be 'executed at the independent current market price for the security' or documented analysis from an independent pricing source; Torres used a prior-week closing price without independent verification or valuation analysis of this illiquid stock. Reg BI §240.15l-1(e)(1)(iii) requires disclosure of material conflicts of interest, including the firm's spread ($85). Most critically, Torres did not demonstrate that Client A (the seller) obtained better execution than available in the public market (bid-ask $34.08)—failure to seek best execution violates Rule 2111. The lack of pre-execution written consent is a categorical violation per SEC guidance. Similar to FINRA AWC 2020-XX pattern of improper cross-trades, failure to obtain prior written consent and independent FMV verification renders the transaction non-compliant regardless of the parties' eventual agreement.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 17a-7(b) & (c) (principal transaction conditions); Reg BI Conflict Disclosure, 17 CFR §240.15l-1(e)(1); FINRA Rule 2111 (best execution)
+
+KEY FACTOR
+----------
+Post-execution consent (not pre-execution) + no independent FMV verification + no analysis of alternative execution prices = non-compliant principal transaction.

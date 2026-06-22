@@ -1,0 +1,25 @@
+ID: 287
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Beacon Wealth Advisers, a registered investment adviser managing $340 million, routes 100% of client equity trades to its affiliated broker-dealer, Beacon Capital Markets, without exception. Beacon Capital Markets charges $0.015 per share for equity trades. Three competing broker-dealers in the marketplace charge $0.008, $0.010, and $0.011 per share for identical order types. During a 18-month period, Beacon executed approximately 8,400 equity trades totaling $127 million in notional value. Beacon's Chief Compliance Officer documented the arrangement in the firm's Policies & Procedures as "designed to benefit the firm's affiliated broker-dealer," but no documented analysis of execution quality compared Beacon Capital Markets' pricing, speed, or fill rates to competitors. Clients were not informed of the affiliation or the price differential.
+
+QUESTION
+--------
+Did Beacon Wealth Advisers comply with the Investment Adviser Act's best execution obligation under Section 206(3) and SEC guidance?
+
+ANSWER
+------
+No. Under Section 206(3) and SEC guidance (Inv. Mgmt. Release IA-1092), advisers must seek best execution for client orders, which requires periodic review of the execution quality and pricing of broker-dealers used, considering factors including price, speed, likelihood of execution, and settlement. Routing 100% of trades to an affiliated broker at demonstrably higher prices ($0.015 vs. $0.008–$0.011) without documented comparative analysis violates the duty. The affiliation creates a structural conflict of interest requiring heightened scrutiny. The lack of client disclosure and absence of documented execution quality review independently breach the obligation. This pattern mirrors SEC enforcement actions against advisers favoring affiliated executing brokers.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3), SEC Inv. Mgmt. Release IA-1092 (best execution guidance)
+
+KEY FACTOR
+----------
+Systematic routing to affiliated broker at higher prices without documented comparative analysis of execution quality and without client disclosure violates best execution duty.

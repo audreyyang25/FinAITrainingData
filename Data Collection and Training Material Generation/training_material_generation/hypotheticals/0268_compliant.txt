@@ -1,0 +1,25 @@
+ID: 268
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Cornerstone Advisors (RIA, $575M AUM) adopted a written, SEC-compliant allocation policy in January 2023 that specified: 'All block trades shall be allocated on a pro-rata basis by model weightings as of trade initiation time. For partial fills or imbalances, allocation order shall be determined by FIFO by account funding date (oldest accounts first). No exceptions except upon documented board approval and advance client notice.' On April 3, the firm executed 45,000 shares of SoftwareInc at $203.50/share for a value growth model (18 accounts, $9.158M notional). Execution occurred 10:30–10:47 AM across three brokers. At 10:50 AM, before any subsequent market movement, the Operations team allocated all shares within 30 minutes via documented allocation sheet cross-referenced to the policy, with FIFO applied for the 3,200-share residual. All allocations were recorded contemporaneously with board sign-off.
+
+QUESTION
+--------
+Did Cornerstone's allocation procedure comply with Investment Advisers Act Section 206 and SEC Rule 17j-1 standards for fair allocation?
+
+ANSWER
+------
+Yes. Cornerstone complied with Investment Advisers Act Section 206(1) (duty of care) and Rule 17j-1 requirements. Compliant factors: (1) pre-existing written policy clearly specifying allocation methodology (pro-rata by model, then FIFO); (2) allocation executed within 30 minutes of trade completion, before price movement that could enable cherry-picking; (3) contemporaneous documentation linking allocation to policy; (4) consistent application across all accounts without exceptions; (5) board awareness and sign-off. SEC enforcement patterns (e.g., Merrill Lynch 2021) recognize this as safe harbor: prompt allocation per written, objective policy prevents cherry-picking by eliminating timing discretion.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1); SEC Rule 17j-1(a) (written policies ensuring fair allocation); SEC Compliance Outreach materials on allocation best practices
+
+KEY FACTOR
+----------
+Prompt, documented allocation within 30 minutes using pre-existing objective methodology applied consistently eliminates cherry-picking risk.

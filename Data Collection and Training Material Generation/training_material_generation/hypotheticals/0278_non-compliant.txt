@@ -1,0 +1,25 @@
+ID: 278
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+On March 15, 2023, Advisor Chen at Summit Capital Advisers executed a block trade of 5,000 shares of Palantir Technologies (PLTR) at $18.50/share for an aggregated client account. The trade was initially undifferentiated across four client accounts: Account A (Chen's personal account, $800K AUM); Account B (senior partner's account, $2.1M AUM); Account C (longtime client Ms. Rodriguez, age 68, $1.2M AUM); and Account D (new client Mr. Park, age 45, $450K AUM). On March 16, after PLTR rose to $19.20 (+3.8%), Chen allocated all 1,250 shares that appreciated above $19.00 to Accounts A and B (625 shares each), while allocating the 1,250 shares that executed below $19.00 to Accounts C and D. No pre-written allocation policy existed. By month-end, Account A gained $1,031 on its PLTR position; Accounts C and D realized losses of $625 each.
+
+QUESTION
+--------
+Did Advisor Chen's post-execution allocation methodology violate the Investment Advisers Act Section 206(2) fiduciary duty of loyalty?
+
+ANSWER
+------
+Yes. Section 206(2) prohibits advisers from acting as principal or receiving compensation without disclosure and consent. More broadly, the fiduciary duty of loyalty requires adviser conduct free from self-dealing. The decisive facts: (1) allocation occurred after trade execution and price confirmation, creating a temporal opportunity to favor personal and senior accounts; (2) no pre-written allocation policy existed to constrain discretion; (3) favorable allocations flowed disproportionately to the adviser's own account and the senior partner's account versus client accounts; (4) the allocation methodology—winners to favored accounts, losers to client accounts—is the classic cherry-picking pattern. SEC enforcement (e.g., In re Managed Account Services LLC, 2013) consistently holds that post-trade allocation based on performance tips the arrangement toward adviser benefit. Compliance requires pre-established, written allocation policies applied consistently and without regard to post-execution price movement.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(2) (fiduciary duty of loyalty); Rule 17j-1 (adviser principal transactions and conflicts); SEC v. Steadman, 603 F.2d 1126 (5th Cir. 1979) (fiduciary duty to clients prevails over personal interest)
+
+KEY FACTOR
+----------
+Post-execution allocation based on observed performance, without pre-written policy, disproportionately favoring adviser's personal account constitutes breach of duty of loyalty.

@@ -1,0 +1,27 @@
+ID: 27
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer's proprietary mutual fund family (XYZ Fund Complex) pays the firm 25 basis points in 12b-1 fees annually. The firm recommends the XYZ Large Cap Growth Fund (0.95% ER, 25 bps 12b-1) to a 55-year-old client with $250,000 in investable assets and moderate growth objectives, without disclosing the 12b-1 fee structure or comparing it to lower-cost competitors like Vanguard Large Cap Growth (0.04% ER, no 12b-1).
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+The firm failed to satisfy Reg BI's conflict-of-interest obligation in two ways: (1) non-disclosure of the material 12b-1 fee revenue source, which creates a direct incentive to favor proprietary products, and (2) failure to mitigate the conflict by recommending a substantially lower-cost alternative without articulated business or service reasons justifying the higher-cost proprietary option. The 91-basis-point cost differential (25 bps 12b-1 + 0.71 bps difference in ER) is material to a moderate-growth client. SEC guidance (Reg BI release, 85 FR 80308) explicitly requires disclosure of compensation arrangements that would incentivize recommendations of proprietary products and mitigation through comparative analysis or documentation of suitability rationale.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) and (ii) — broker must disclose material conflicts and mitigate those that place the firm's interests ahead of the customer's; failure to disclose 12b-1 fees and recommend proprietary product without comparative disclosure or specific justification.
+
+KEY FACTOR
+----------
+Undisclosed 12b-1 fee creating proprietary product bias without compensating disclosure or mitigation analysis.

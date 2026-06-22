@@ -1,0 +1,27 @@
+ID: 537
+Source Folder: 03_FINRA_AWC
+Topic: finra_awc_churning
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Zachary Keene, a General Securities Representative registered with a mid-size broker-dealer, manages accounts for three senior customers aged 72, 76, and 80, all of whom have documented balanced allocation investment objectives and moderate risk tolerances. Between January 2021 and March 2024, Keene executes over 340 trades across these three accounts, generating approximately $187,000 in commissions. The annualized cost-to-equity ratios in the accounts range from 14% to 22%, and the turnover rates range from 6.1 to 9.8. Each customer's account agreement reflects that the accounts are non-discretionary, though Keene routinely calls each customer in the morning with a list of trades and obtains only perfunctory verbal approval before executing. The firm's exception reports flagged the accounts twice for excessive activity, but the supervising principal closed both alerts after Keene stated the customers were 'active traders who liked to stay engaged.'
+
+QUESTION
+--------
+Did Keene's pattern of frequent trading in the accounts of senior customers with balanced investment objectives constitute excessive trading in violation of applicable rules?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes excessive trading (churning) in violation of FINRA Rules 2111(a) (Suitability – Quantitative Suitability) and 2010 (Standards of Commercial Honor), and post-June 2020 also violates Reg BI's Care Obligation under Exchange Act Rule 15l-1(a)(2)(i).
+
+Quantitative suitability under FINRA Rule 2111 requires that the overall pattern of trading in a customer's account not be excessive given the customer's profile. Cost-to-equity ratios above 2% and turnover rates above 6 are widely recognized as presumptive indicators of churning, and these accounts far exceeded both thresholds. The customers' balanced allocation objectives and senior status are directly inconsistent with the aggressive trading pattern. As reflected in the Zachary Taylor AWC (No. 2022075083801), FINRA actively pursues representatives who recommend excessive trading to senior customers with conservative or balanced profiles, and the supervising principal's cursory dismissal of exception report alerts further compounds the violation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) – Quantitative Suitability; FINRA Rule 2010 – Standards of Commercial Honor; SEC Rule 15l-1(a)(2)(i) – Reg BI Care Obligation
+
+KEY FACTOR
+----------
+Cost-to-equity ratios of 14–22% and turnover rates of 6.1–9.8 in accounts of senior customers with balanced investment objectives are definitive indicators of quantitatively unsuitable excessive trading.

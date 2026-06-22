@@ -1,0 +1,27 @@
+ID: 777
+Source Folder: 14_NASAA_State_Enforcement
+Topic: state_fraud
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Kuber Wealth Partners LLC, a state-registered investment adviser in Georgia with CRD No. 312887, manages $45 million for 78 clients. The firm's sole principal, Deepak Rajan, maintains custody of client funds by serving as trustee on several client trust accounts. Rajan notified the state administrator of custody via Form ADV Part 1A, Item 9, but failed to maintain client funds with a qualified custodian in separate accounts under each client's name. Instead, Rajan commingled funds from 14 client trust accounts into a single operating account at a regional bank under the firm's name, using the pooled funds to cover the firm's office lease and payroll for two months before replenishing the account. No client received notice that their funds were held in a commingled account, and no surprise examination was conducted.
+
+QUESTION
+--------
+Did Kuber Wealth Partners violate state custody rules by commingling client trust funds in the firm's operating account?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes a fraudulent, deceptive, or manipulative act under NASAA Model Rule 102(e)(1)-1 regarding custody of client funds.
+
+NASAA Model Rule 102(e)(1)-1(a) deems it unlawful and a fraudulent, deceptive, or manipulative act for an investment adviser with custody to fail to maintain client funds with a qualified custodian in either separate accounts under each client's name or in accounts containing only clients' funds under the adviser's name as agent or trustee. Rajan commingled client trust assets with the firm's operating funds, directly violating subsection (a)(2). Additionally, no client received notice of the custodial arrangement as required by subsection (a)(3). Using client funds to pay firm operating expenses constitutes conversion, compounding the custody violation.
+
+APPLICABLE STANDARD
+-------------------
+NASAA Model Rule 102(e)(1)-1 – Custody of Client Funds or Securities by Investment Advisers, subsections (a)(2) and (a)(3)
+
+KEY FACTOR
+----------
+Client trust funds were commingled with the firm's operating account and used to pay firm expenses, violating the qualified custodian and segregation requirements of NASAA custody rules.

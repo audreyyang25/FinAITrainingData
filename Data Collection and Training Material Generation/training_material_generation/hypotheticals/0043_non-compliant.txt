@@ -1,0 +1,27 @@
+ID: 43
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer advisor recommends a $250,000 variable annuity (5.75% upfront commission, 1.25% annual trail) to a 68-year-old client with $400,000 in liquid assets and moderate risk tolerance who plans to retire in 2 years. The advisor provides a Form CRS but does not disclose the surrender charge schedule (7% year 1–2, declining over 10 years) or that the variable annuity contains a nested 0.85% mortality and expense risk charge in addition to the 1.25% annual advisory fee the broker charges.
+
+QUESTION
+--------
+Does the advisor's disclosure satisfy Regulation Best Interest's requirement to disclose material facts about fees and conflicts?
+
+ANSWER
+------
+No, this violates Regulation Best Interest's disclosure obligation under SEC Rule 15l-1(e)(1)(i).
+
+The advisor disclosed the upfront commission and annual trail but failed to disclose the material surrender charge schedule and the nested mortality and expense risk charge within the variable annuity. For a 68-year-old client retiring in 2 years, a 7% surrender charge is material because withdrawal within that window is foreseeable. The nested M&E charge of 0.85% is a material cost component that directly reduces the client's net return. Reg BI requires disclosure of 'the full scope of fees, charges, and costs' that the client will pay; omitting these components violates the plain language of Rule 15l-1(e)(1)(i) and mirrors FINRA enforcement patterns in annuity sales (cf. FINRA AWC cases against advisors selling variable annuities with inadequate cost disclosure).
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(e)(1)(i) requires broker-dealers to disclose all material facts about fees and costs, including the dollar impact and timing of such fees. FINRA Rule 2330(b)(2)(A) requires suitability disclosure for variable annuities, including surrender charges and all components of cost.
+
+KEY FACTOR
+----------
+Failure to disclose surrender charges and nested M&E fees within the variable annuity product, which are material to a near-retiree's investment decision and liquidity needs.

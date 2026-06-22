@@ -1,0 +1,25 @@
+ID: 226
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Kim at a regional broker-dealer recommended a leveraged inverse ETF (ProShares UltraShort QQQ, ticker PSQ, 3x inverse Nasdaq-100, ER 0.95%, daily reset) to a 52-year-old retail client with $420,000 in investable assets. The client was a semi-skilled investor who had traded options casually and requested a "hedge" against tech stock concentration ($240,000 in Apple, Tesla, and Nvidia individual stocks representing 57% of the portfolio). Kim documented: "Client understands leverage and inverse exposure; appropriate for hedging purpose; ER is reasonable given complexity." However, Kim did not: (1) confirm the client's understanding of daily compounding decay (PSQ loses value in flat or slowly declining markets due to reset mechanics); (2) provide written materials explaining the 3x leverage mechanism; (3) calculate the optimal hedge ratio (PSQ represented only 8% of portfolio, providing minimal hedge for $240k in tech concentration); or (4) discuss holding period implications (PSQ is designed for daily trading, not long-term holding; the client had not stated a daily trading objective).
+
+QUESTION
+--------
+Did Advisor Kim comply with the Reg BI Care Obligation by recommending leveraged inverse ETFs to a retail client for hedging purposes?
+
+ANSWER
+------
+No. Kim violated the Reg BI Care Obligation's reasonable diligence and documentation requirements (17 CFR §240.15l-1(a)(2)(i)(B)-(C)). Although the client had some investment experience, Kim failed to establish a reasonable basis for recommending PSQ because: (1) the 3x leverage and daily compounding mechanics require investor sophistication beyond casual options trading; (2) the 8% allocation provided inadequate hedge for $240k (57%) of concentrated exposure; (3) the 0.95% ER, while not per se excessive, is material for a position that does not meet the client's hedging objective due to inadequate sizing; and (4) Kim's documentation did not evidence client understanding of daily reset mechanics—a critical feature absent from the record. Recommending leveraged inverse products to retail clients absent clear, documented comprehension of daily decay mechanics violates Reg BI's duty to conduct reasonable diligence regarding product complexity and suitability to client investment objectives and experience.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)(B)-(C); SEC warnings on leveraged/inverse ETF complexity (Division of Investment Management guidance, 2009)
+
+KEY FACTOR
+----------
+Recommending complex leveraged inverse product to retail client without documented evidence of understanding of daily reset mechanics and inadequate hedge sizing violates reasonable diligence standard.

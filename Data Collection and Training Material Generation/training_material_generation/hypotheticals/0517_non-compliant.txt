@@ -1,0 +1,27 @@
+ID: 517
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Paradigm Horizon Advisory, LLC, a registered investment adviser with $340 million in AUM, maintained an inventory of proprietary structured notes issued by an affiliated broker-dealer. Between 2019 and 2022, Paradigm's advisors allocated approximately $52 million of client assets—primarily belonging to retirees and pre-retirees with moderate risk profiles—into these structured notes, which carried embedded fees of 2.75% and were illiquid with 7-year maturities. Paradigm's Form ADV Part 2A referenced 'potential conflicts related to affiliated products' in a single general sentence but did not specifically identify the structured note program, the affiliated broker-dealer relationship, or the magnitude of the embedded compensation. Lower-cost, more liquid alternatives with comparable risk-return profiles, such as investment-grade bond ETFs, were available and considered by Paradigm's investment committee but were not selected for client portfolios.
+
+QUESTION
+--------
+Did Paradigm Horizon Advisory violate the Advisers Act by investing client assets in affiliated proprietary structured notes without adequate specific disclosure and while lower-cost alternatives existed?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes violations of Investment Advisers Act §206(1) and §206(2) for inadequate disclosure of material conflicts of interest and breach of the duty of loyalty.
+
+Sections 206(1) and 206(2) require advisers to provide full and fair disclosure of all material conflicts, including specific information sufficient for clients to provide informed consent. A single generic sentence about 'potential conflicts related to affiliated products' is insufficient when the adviser is systematically channeling tens of millions in client assets into specific proprietary structured notes issued by an affiliate, generating substantial embedded compensation. The SEC's proceeding against Paradigm Wealth Advisory (IA-5852) addressed analogous undisclosed investment conflicts. The existence of lower-cost, more liquid alternatives that were actually identified by the adviser's own investment committee further underscores the breach of the duty of loyalty, as the adviser prioritized its own financial interests over those of its clients.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(1) and 206(2); SEC guidance on investment adviser conflicts of interest and duty to disclose (see also SEC IA-5852, In the Matter of Paradigm Wealth Advisory, LLC)
+
+KEY FACTOR
+----------
+Generic boilerplate conflict disclosure was materially inadequate to inform clients about the specific, systematic allocation to high-fee affiliated proprietary products when suitable lower-cost alternatives were known to the adviser.

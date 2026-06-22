@@ -1,0 +1,25 @@
+ID: 345
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered representative Stephanie K. recommended mutual fund shares worth $75,000 to 52-year-old client David Y. in a principal transaction—Stephanie's firm, Beacon Securities, purchased the shares as principal and sold them to David at a 3.5% markup ($2,625 total) over the firm's cost. Beacon did NOT obtain David's prior written consent to the principal transaction, and the confirmation statement did NOT disclose the firm's principal capacity or the markup amount. FINRA Rule 2010 requires that principal transactions include disclosure of the principal capacity before completion, and Rule 2030 requires reasonable markup (typically 2–3% for mutual funds). The 3.5% markup was at the upper range but arguably reasonable. However, David did not learn of the principal transaction or markup until reviewing his monthly statement six weeks later. When David questioned the charge, a compliance analyst discovered no consent file existed and no pre-trade notification had been provided.
+
+QUESTION
+--------
+Did Stephanie K. and Beacon Securities comply with FINRA Rule 2010 (principal transactions) and Rule 2030 (markups)?
+
+ANSWER
+------
+No. The transaction violated FINRA rules in critical respects. Rule 2010(b)(1) requires that before completing a principal transaction, the member must disclose its principal capacity and provide the customer with written notice of the right to refuse the transaction or seek alternative pricing. Neither step occurred here; David was not informed pre-trade. Rule 2030(b) permits reasonable markups, typically 2–3% for mutual funds; while 3.5% is defensible as reasonable in isolation, the absence of prior consent and disclosure undermines the entire transaction's validity. The post-facto discovery of the principal capacity in the monthly statement (not the confirmation) violated Rule 10b-10, which requires contemporaneous disclosure of principal capacity on the confirmation. FINRA pattern enforcement (2019–2023) treats absence of pre-trade consent as per se violation, with $150K–$600K fines regardless of markup reasonableness. The 'surprise disclosure' in the monthly statement, rather than pre-confirmation notice, is a typical red flag for disciplinary action.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2010(b)(1) (principal transaction disclosure and consent); FINRA Rule 2030(b) (reasonable markup limits); SEC Rule 10b-10 (confirmation requirements)
+
+KEY FACTOR
+----------
+Principal transaction lacked required pre-trade written consent and disclosure of principal capacity, violating Rule 2010(b)(1) regardless of markup reasonableness.

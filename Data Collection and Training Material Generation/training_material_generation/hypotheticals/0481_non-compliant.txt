@@ -1,0 +1,25 @@
+ID: 481
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered Representative Sarah Chen at dual-registered firm (broker-dealer + RIA subsidiary) manages account for Margaret Liu, age 58, with $485,000 in liquid assets and $320,000 in IRA rollover proceeds from a 401(k). Over 18 months, Chen executes 47 trades in Margaret's brokerage account (turnover ratio 3.8x annually, generating $18,500 in commissions to Chen personally and $31,200 to the firm). Chen also recommends a rollover of Margaret's remaining $120,000 in her former employer's 401(k) into an IRA at the RIA subsidiary, where Chen earns a 1.25% AUM fee (generating $1,500 annually). Chen never provides Form CRS to Margaret, never discloses the commission structure or the revenue split between the brokerage and RIA recommendations, and documents in the file show that many trades lacked economic justification (e.g., purchasing identical mutual funds on the same day, then selling them 6 weeks later at a loss). Margaret's risk tolerance is documented as 'moderate,' but 60% of trades involved speculative options strategies.
+
+QUESTION
+--------
+Did Chen and the firm comply with Reg BI disclosure obligations, FINRA Rule 2111 suitability, DOL fiduciary duty for the rollover recommendation, and the dual-registrant Form CRS requirement under IA Marketing Rule?
+
+ANSWER
+------
+No. Multiple violations: (1) Reg BI: Chen failed to disclose material conflicts of interest (commission structure + dual-capacity incentive to recommend rollover to RIA) and failed to conduct reasonable inquiry into Margaret's actual needs before churning; (2) FINRA Rule 2111: the excessive trading (3.8x turnover) and unsuitable options strategies for a moderate-risk client constitute churning, violating suitability; (3) DOL fiduciary duty: the rollover recommendation was not in Margaret's best interest—the IRA fee (1.25% AUM) on $120,000 ($1,500/year) plus continued brokerage commissions ($18,500+/year) exceeded the economic benefit of consolidation; (4) IA Marketing Rule: Chen failed to deliver Form CRS before or at the time of providing advisory services in the RIA capacity. The undisclosed dual conflict and lack of Form CRS are decisive—Chen's incentive to churn and steer assets to the RIA subsidiary created irreconcilable conflicts unmitigated by disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)); FINRA Rule 2111 (Suitability); DOL ERISA §406(a) (prohibited transaction); SEC IA Marketing Rule IA-5653 (Form CRS delivery)
+
+KEY FACTOR
+----------
+Dual-registrant failed to disclose material conflicts between commission-generating churning and asset-gathering in affiliated RIA, and failed to deliver Form CRS before providing advisory services.

@@ -1,0 +1,27 @@
+ID: 513
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Drew Kellerman, the sole managing member and CCO of Horizon Tactical Management, LLC, a registered investment adviser with $185 million in AUM, directed client accounts into a series of complex structured notes issued by an offshore entity in which Kellerman held a 15% equity stake. The structured notes carried a 2.5% upfront placement fee paid to Horizon and promised clients annual returns of 8-10%. Kellerman's Form ADV disclosed that 'the firm or its affiliates may have financial interests in recommended securities,' but did not disclose his specific equity ownership in the issuing entity or the placement fees. Over three years, approximately $28 million of client assets were invested in the notes. When the offshore entity experienced liquidity problems, client redemptions were suspended, ultimately resulting in $11.2 million in client losses. Kellerman had not conducted independent due diligence on the offshore entity's financial condition, relying solely on representations from the entity's management, with whom he had a longstanding personal relationship.
+
+QUESTION
+--------
+Did Kellerman and Horizon Tactical Management violate their fiduciary duties under the Advisers Act through the undisclosed ownership interest, inadequate due diligence, and placement of client assets into the conflicted structured notes?
+
+ANSWER
+------
+No, this conduct is not compliant. This constitutes violations of Sections 206(1), 206(2), and 206(4) of the Investment Advisers Act, reflecting both fraudulent conduct and breaches of fiduciary duty.
+
+This fact pattern combines multiple violation types seen across SEC enforcement actions against advisers. Similar to Horter Investment Management (IA Release No. 6182), the principal directed client assets into investments with undisclosed conflicts and inadequate due diligence. The generic Form ADV language is insufficient to disclose a 15% equity stake in the issuing entity—a conflict that would be material to any reasonable investor's decision to invest. Under Section 206(1), the scienter element is satisfied by Kellerman's knowledge of his own equity interest and placement fees, combined with his deliberate decision to use vague disclosure language. The failure to conduct independent due diligence on an entity in which the adviser held a financial interest, particularly when relying solely on personal relationships, represents an additional breach of the duty of care. The SEC has consistently held, as in the Mina Tadrus proceeding (IA Release No. 6933), that individual respondents may face bars under Section 203(f) for such conduct.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(1), 206(2), and 206(4); Section 203(e) and 203(f) – Remedial Sanctions against firms and individuals
+
+KEY FACTOR
+----------
+The adviser's undisclosed 15% equity interest in the issuer, combined with the receipt of placement fees and the complete absence of independent due diligence, demonstrates a multi-layered conflict that the generic ADV disclosure was wholly inadequate to address.

@@ -1,0 +1,25 @@
+ID: 210
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Lopez recommended a 3x leveraged inverse Nasdaq ETF (SQQQ, 2.95% ER, daily rebalance cost ~2-3% annually) to a 52-year-old retail client with $180,000 liquid assets, "moderate" risk tolerance, and 15-year retirement horizon. The advisor documented that "client expressed concern about market correction" and "wanted a hedge." However, the advisor did not: (1) obtain or document understanding of the daily rebalancing mechanism and compounding decay risk; (2) analyze the suitability of a 2.95% ER + compounding drag product for a long-term hedge; (3) recommend a simpler alternative (long-duration Treasuries, 2% ER bond fund, or a 5-10% cash allocation). The client held SQQQ for 18 months during a sideways-to-up market and lost $31,400 (17% of initial investment).
+
+QUESTION
+--------
+Did Advisor Lopez comply with Reg BI's care obligation in recommending the leveraged inverse ETF for a 15-year retirement goal?
+
+ANSWER
+------
+No. Reg BI's care obligation (§240.15l-1(a)(2)(i)) requires advisors to obtain and analyze customer information, understand recommended products, and ensure the recommendation is in the customer's best interest. Recommending a 3x daily-rebalanced inverse ETF to a 15-year investor violates this duty because: (1) daily rebalancing drag makes leveraged/inverse ETFs unsuitable for buy-and-hold investors; (2) a "market correction concern" does not justify a product designed for short-term hedging with compounding decay; (3) the advisor failed to document why simpler alternatives (Treasury ladder, defensive funds) were inferior; (4) the 2.95% ER on a hedge position is excessive. This pattern mirrors FINRA enforcement against advisors recommending leveraged/inverse ETFs to unsuitable retail clients without understanding the mechanics.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)) — Product Knowledge & Suitability Analysis
+
+KEY FACTOR
+----------
+Recommending daily-rebalanced inverse ETF to long-term investor without documenting product mechanics or suitability analysis violates care obligation.

@@ -1,0 +1,25 @@
+ID: 325
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor Sandra M. manages an $890,000 account for Raymond L., age 72, widow, fixed income ($38,000/year pension), stated risk tolerance 'moderate-conservative.' From January 2023 to December 2023, Sandra executes 224 trades—frequent rotation among 14 dividend stocks, 8 bond funds, and 6 balanced funds. Monthly turnover averages 2.4× (annualized 28.8×). Commissions and fees = $126,400 (cost-to-equity = 14.2%). Portfolio generated 5.8% return. Sandra claims account was 'discretionary' based on client's general statement ('I trust your judgment'); no written discretionary authority agreement exists. Sandra also fails to disclose that she earns tiered commission bonuses ($2,000 per month for accounts exceeding $500,000 in annual trading volume). Raymond L. later states he did not authorize frequent trading and believed Sandra was managing a 'buy-and-hold' strategy. Compliance records show no documented investment policy statement or quarterly suitability reviews.
+
+QUESTION
+--------
+Does Sandra M.'s account meet FINRA Rule 2111(b) standards despite cost-to-equity below 20%?
+
+ANSWER
+------
+No. Sandra M. violates FINRA Rule 2111(b) on multiple dimensions: (1) monthly turnover 2.4× and annualized 28.8× vastly exceed both the 2× monthly red-flag threshold and 6× annual strong-inference threshold—this extreme turnover ratio is nearly 5× the 6× standard; (2) cost-to-equity 14.2%, while below 20%, is misleading because the extraordinary turnover (224 trades) consumed significant opportunity for economic loss; (3) actual return 5.8% barely exceeds typical passive bond-fund returns, failing to justify excessive trading costs; (4) Sandra lacks formal written discretionary authority agreement despite exercising de facto control, violating the control test; (5) undisclosed tiered commission bonus creates significant conflict of interest—Sandra received $24,000 in bonuses specifically incentivizing trading volume, establishing motivation for churning; (6) Raymond L.'s profile (age 72, widow, fixed income, moderate-conservative risk tolerance) fundamentally incompatible with 224 annual trades; (7) absence of written IPS and quarterly suitability reviews demonstrates no ongoing monitoring. This pattern, with extreme turnover driven by hidden compensation incentive, constitutes clear churning.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) — Quantitative Suitability; Excessive Turnover; Undisclosed Conflicts of Interest; Control Test
+
+KEY FACTOR
+----------
+Annualized 28.8× turnover (224 trades) combined with undisclosed $24,000 tiered commission bonus, de facto discretionary control without written agreement, and inadequate returns establish churning unsuitable for fixed-income widow.

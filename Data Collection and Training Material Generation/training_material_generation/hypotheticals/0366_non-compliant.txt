@@ -1,0 +1,25 @@
+ID: 366
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Patricia, age 58, employed by Fortune 500 company with $850,000 in 401(k) balance earning 4.2% annually in stable value fund and low-cost index funds (average expense ratio 0.08%). Her employer plan charges $0 in advisory fees. She meets with her financial adviser, who recommends rolling over the entire balance to an IRA managed under the adviser's discretionary AUM model at 0.85% annually ($7,225/year vs. $0). The adviser documents only that the client requested consolidation with other assets but provides no written analysis comparing the 401(k) plan's protections, investment options, or costs. The adviser's compensation increases from $0 to $7,225 upon rollover completion.
+
+QUESTION
+--------
+Did the adviser comply with DOL ERISA fiduciary duty and PTE 2020-02 requirements for the rollover recommendation?
+
+ANSWER
+------
+No, the adviser violated DOL ERISA fiduciary duty and PTE 2020-02 five-part test. The recommendation appears driven primarily by the 0.85% AUM fee rather than the client's best interest. PTE 2020-02 requires: (1) fiduciary status—satisfied; (2) best interest standard—violated (fee increase with no documented analysis of plan vs. IRA); (3) no misleading statements—unclear disclosure of fee impact; (4) reasonable compensation—0.85% AUM is reasonable in isolation but not justified here given superior plan terms; (5) written policies/procedures and documentation—missing comparative cost/feature analysis. The adviser failed the critical 'best interest' prong: stable value funds and 0.08% index options in the plan objectively outperform a 0.85% IRA arrangement. The absence of documented analysis comparing the two arrangements is itself a violation under PTE 2020-02(d)(1).
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA §408(b)(14); PTE 2020-02 Five-Part Test; 29 CFR §2550.408(b)(14)(i)-(v)
+
+KEY FACTOR
+----------
+Rollover recommended without documented best interest analysis comparing plan fees (0%) to IRA fees (0.85%), with primary benefit accruing to adviser, not client.

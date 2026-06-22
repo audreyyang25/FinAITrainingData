@@ -1,0 +1,25 @@
+ID: 485
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered representative Marcus T. (dual-registered: RR at BD XYZ and IAR at RIA subsidiary) advised client Janet M., age 58, with $420,000 in a rollover IRA from her prior employer's 401(k). Marcus recommended a variable annuity (VA) with a 7% surrender charge, 1.35% annual mortality & expense (M&E) fee, and $450/year administrative fee, citing "tax deferral and downside protection." The VA's underlying funds charged 0.98% annually. Total first-year cost: 9.83% in fees and loads (including 4% upfront commission paid to Marcus's BD). Marcus documented the recommendation as "suitable" under FINRA Rule 2111 but failed to: (1) provide Form CRS before the recommendation; (2) disclose the $450 revenue-sharing arrangement between his RIA and the VA carrier; (3) document analysis of the VA versus keeping the IRA in low-cost index funds (0.08% annual cost). Janet signed the VA application without seeing any cost comparison. Over 18 months, Janet experienced market volatility and expressed concern about the high fees. Marcus recommended exchanging the VA for a different VA with identical M&E and admin fees (also paying 4% commission to his BD), citing "improved investment options." No new suitability analysis was documented.
+
+QUESTION
+--------
+Did Marcus comply with Reg BI disclosure obligations, DOL fiduciary duty (PTE 2020-02), FINRA Rule 2111 suitability standards, and FINRA Rule 2330 (variable annuity exchanges) in recommending and exchanging the VAs?
+
+ANSWER
+------
+Marcus violated multiple standards. (1) Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)): Marcus failed to conduct a reasonable investigation into the costs, conflicts, and comparative suitability of the VA versus the IRA's existing low-cost options; the 9.83% total cost versus 0.08% for index funds is a material differential he did not disclose. (2) DOL Fiduciary Duty (PTE 2020-02): A rollover recommendation for a high-fee VA fails the "best interest" standard when lower-cost alternatives exist; Marcus did not document that the VA fee structure was prudent or that he received no more than reasonable compensation. (3) FINRA Rule 2111: The initial recommendation lacked documented suitability analysis specific to Janet's age (58), near-retirement timeline, and $420,000 account size; VA suitability requires particular scrutiny for older investors. (4) FINRA Rule 2330 (VA exchanges): The 18-month exchange with no new suitability analysis and identical fee structures suggests potential churning (FINRA churning standard: excessive trading for the purpose of generating commissions). (5) Form CRS & Reg BI Disclosures: Marcus failed to deliver Form CRS and did not separately disclose the revenue-sharing arrangement or his dual-registration conflict. This pattern mirrors FINRA enforcement in 2021–2023 against dual-registered RIAs/RRs recommending high-fee VAs without adequate conflict disclosure.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation (17 CFR §240.15l-1(a)(2)(i)); DOL Fiduciary Duty (PTE 2020-02); FINRA Rule 2111 Suitability; FINRA Rule 2330 (Variable Annuity Exchanges); Form CRS Delivery (IA §206(a))
+
+KEY FACTOR
+----------
+Dual-registered representative recommended high-cost VA for rollover IRA without documenting comparative cost analysis, disclosing revenue-sharing conflict, delivering Form CRS, or analyzing the 18-month exchange—violating Reg BI care, DOL fiduciary duty, FINRA suitability, and churning standards simultaneously.

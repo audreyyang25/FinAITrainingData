@@ -1,0 +1,25 @@
+ID: 418
+Source Folder: unknown
+Topic: esg_sustainable_investing
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David Hoffman, age 61, rolled over $2.4M from his employer 401(k) to a SEP-IRA. He had no stated investment preferences and requested a diversified, low-cost approach. His advisor recommended: 40% iShares MSCI USA ESG Select (0.25% ER), 30% Vanguard ESG International (0.12% ER), 20% SPDR S&P 500 ETF (0.03% ER), 10% cash. Total blended ER: 0.137%. The advisor's rationale, documented in the advice memo, stated: 'ESG investing provides downside protection and reduces regulatory/reputational risk to portfolio companies, which reduces client risk.' He cited two peer-reviewed studies (2019, 2021) showing ESG portfolios had 12% lower volatility historically. However, the advisor did not mention: (1) David was 4 years from retirement with moderate risk tolerance; (2) recent performance (2022–2023) showed ESG underperformance by 2.8% annually in market downturns; (3) the DOL 2022 ESG Rule § 404(a)(1)(B) tiebreaker provision—ESG may be considered only when two or more investments have 'substantially equal' net returns and risk; (4) current ESG fund volatility (0.21–0.28) actually exceeded conventional peers. The advisor did not conduct a written analysis of whether the ESG recommendation satisfied the 'tiebreaker' standard under DOL guidance for ERISA accounts.
+
+QUESTION
+--------
+Did the advisor violate the DOL fiduciary duty under ERISA when recommending ESG funds to an ERISA-covered IRA rollover without analyzing the 'tiebreaker' rule and recent performance data?
+
+ANSWER
+------
+Non-compliant. Although the SEP-IRA is not ERISA-covered, the advisor's advice pattern violates Reg BI and fiduciary principles applicable to all clients. The critical failure: the advisor relied on historic ESG volatility studies without investigating current performance in downturns (2022–2023 underperformance of 2.8% annually) or recent volatility data (ESG funds at 0.21–0.28 vs. conventional 0.15–0.18). Under Reg BI §240.15l-1(a)(2)(i)(C), the advisor must conduct a reasonable investigation into the current characteristics and costs of recommended securities. The advisor also mischaracterized ESG as a risk-reduction strategy without substantiation (IA-5653 violation). If David held ERISA plan assets, the DOL 2022 ESG Rule would require the advisor to document that ESG funds were selected as 'tiebreakers' among substantially equal alternatives—here, the ESG funds underperformed and had higher volatility, failing the tiebreaker standard. The reliance on outdated studies without current performance analysis mirrors FINRA enforcement patterns (similar to 2023 ESG greenwashing sweep).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI §240.15l-1(a)(2)(i)(C) (reasonable investigation of current fund characteristics); SEC Marketing Rule IA-5653 §206(4)-1(a) (no false/misleading claims about ESG risk reduction); DOL 2022 ESG Rule § 404(a)(1)(B) tiebreaker provision (if ERISA-covered); SEC Staff Guidance on ESG claims (2021, 2024).
+
+KEY FACTOR
+----------
+Advisor relied on 2-year-old ESG volatility studies without investigating recent underperformance and actual current volatility, and failed to document ESG as a tiebreaker among substantially equal alternatives.

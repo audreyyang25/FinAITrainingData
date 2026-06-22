@@ -1,0 +1,27 @@
+ID: 152
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: easy
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered representative manages a $500,000 discretionary account for a 45-year-old client with stated aggressive growth objective and 20+ year time horizon. The rep executes 12 round-trip trades annually in a mix of growth stocks, sector ETFs, and tactical positions, generating $3,200 in annual commissions. The portfolio turnover ratio is 0.8x. The rep provides a written investment policy statement documenting the client's goal (capital appreciation), risk tolerance (high), and strategy (tactical rebalancing and sector rotation). The client confirms understanding and approves the IPS.
+
+QUESTION
+--------
+Does this trading pattern comply with FINRA Rule 2111(b)?
+
+ANSWER
+------
+Yes, this conduct complies with the suitability standard.
+
+A 0.8x turnover ratio is well within normal parameters for an aggressive growth portfolio with active tactical management. The 12 annual round trips (approximately one per month) are reasonable given the stated tactical rebalancing strategy. The cost-to-equity ratio ($3,200 / $500,000 = 0.64%) is modest. The documented IPS establishes reasonable basis and customer-specific suitability: the strategy (sector rotation, growth focus) aligns directly with the client's 20-year horizon and stated high risk tolerance. The rep's written disclosures and client acknowledgment provide clear evidence of compliance with the documentation requirement under Rule 2111(a). This pattern reflects compliant active management for an appropriately profiled client.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b): Recommended transactions must be suitable based on reasonable basis (firm knowledge of security), customer-specific (consideration of financial situation, investment objectives, risk tolerance, time horizon), and transactions must not be excessive in size or frequency.
+
+KEY FACTOR
+----------
+Low turnover ratio (0.8x), modest cost drag (0.64%), documented IPS aligning trading strategy to client's aggressive growth objectives and 20+ year time horizon.

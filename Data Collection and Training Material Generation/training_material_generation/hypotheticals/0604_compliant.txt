@@ -1,0 +1,27 @@
+ID: 604
+Source Folder: 02_SEC_Enforcement_Actions
+Topic: sec_enforcement_ia
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Lakeview Wealth Partners, LLC, a registered investment adviser with $310 million in assets under management, allocates a portion of certain client portfolios to a private real estate fund managed by an affiliated entity in which Lakeview's founder holds a 30% ownership interest. The allocation is limited to clients with liquid net worth exceeding $2 million and investable assets above $1 million, and no client has more than 8% of their total portfolio allocated to the affiliated fund. Lakeview's Form ADV Part 2A contains a dedicated section titled 'Affiliated Fund Conflict of Interest' that specifically identifies the founder's ownership stake, quantifies the additional management fee layer (0.75% annually) charged by the affiliated fund, explains that the allocation creates an incentive for Lakeview to recommend the fund over non-affiliated alternatives, and lists three comparable non-affiliated real estate funds with their respective fee structures. Each affected client received a standalone written conflict disclosure at the time of the initial allocation, signed an acknowledgment, and was offered the option to opt out and instead invest in one of the identified non-affiliated alternatives. Lakeview's compliance department conducts quarterly reviews of affiliated fund allocations and documents the investment rationale for each client based on individual investment policy statements.
+
+QUESTION
+--------
+Does Lakeview Wealth Partners' practice of allocating client assets to an affiliated private real estate fund comply with its fiduciary obligations under the Investment Advisers Act given the inherent conflict of interest?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+While allocating client assets to an affiliated fund creates an inherent conflict of interest, the Advisers Act does not categorically prohibit such arrangements—it requires that the adviser provide full and fair disclosure sufficient for the client to provide informed consent. Lakeview's approach addresses the specific deficiencies the SEC has targeted in enforcement actions against firms like VisionPoint (IA-4778) and Michigan Advisors (IA-5395): the disclosure is specific rather than generic, it quantifies the additional cost layer, it identifies the economic incentive, it names comparable alternatives, and each client affirmatively consented after receiving a standalone written notice. The 8% portfolio concentration limit, suitability screening for high-net-worth clients, and quarterly compliance reviews further demonstrate that the duty of care was met through reasonable diligence and ongoing monitoring of the recommendation's appropriateness.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Sections 206(1) and 206(2) – Fiduciary Duty of Care and Loyalty; SEC Guidance on Disclosure of Conflicts of Interest (Commission Interpretation Regarding Standard of Conduct for Investment Advisers, IA-5248, June 2019)
+
+KEY FACTOR
+----------
+The pivotal compliance factor is that Lakeview provided specific, quantified conflict disclosures naming the affiliated interest and comparable alternatives, obtained informed client consent, and maintained ongoing compliance oversight—satisfying both the duty of loyalty and duty of care despite the inherent conflict.

@@ -1,0 +1,25 @@
+ID: 224
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Broker-dealer advisor Martinez recommended a 3-year holding period for a non-traded REIT fund (American Realty Capital Properties-style product with 6.5% upfront sales load, 1.85% annual ER, 1.75% distribution rate, 8-year lockup) to a 72-year-old retired teacher with a $500,000 IRA rollover from a pension plan. The client's stated goal was "income during retirement," and she had moderate risk tolerance. The client's other assets included $150,000 in a savings account (2.5% APY) and $80,000 in dividend-paying blue-chip stocks (2.1% yield). The advisor documented that the non-traded REIT offered "higher yield" (1.75% vs. 2.1% in stocks, 2.5% in savings) and "diversification," but did not compare the all-in cost burden ($32,500 upfront load + $9,250 annual ER = $41,750 first-year cost). The advisor also failed to adequately address the 8-year lockup conflict with the client's 25-year remaining life expectancy and potential liquidity needs at age 80+.
+
+QUESTION
+--------
+Did Martinez comply with the Reg BI Care Obligation by recommending the non-traded REIT as an income vehicle for a 72-year-old retiree?
+
+ANSWER
+------
+No. This recommendation violates multiple prongs of the Reg BI Care Obligation. First, the cost analysis is deficient: $41,750 in first-year costs to generate $8,750 income (1.75% × $500k) is economically irrational—the client recoups costs only after 4.77 years, inconsistent with a 3-year holding recommendation. Second, the illiquidity (8-year lockup) conflicts with the client's age and likely increasing healthcare and liquidity needs after age 80. Third, the product does not match the client's income goal better than alternatives (savings yields 2.5%, stocks yield 2.1%; non-traded REIT yields only 1.75% net of load drag). The documentation of "higher yield" is factually misleading. This pattern matches FINRA enforcement against non-traded REIT recommendations to older investors (see FINRA 2021-2022 AWC settlements for illiquidity suitability failures).
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i)(A)-(C); FINRA 2111 adapted to Reg BI standard (cost, liquidity, age-appropriateness prongs)
+
+KEY FACTOR
+----------
+Illiquid, high-cost product (8-year lockup, 6.5% load) recommended to 72-year-old with potential age-related liquidity needs violates duty to match product characteristics to client circumstances.

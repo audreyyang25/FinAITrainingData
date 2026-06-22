@@ -1,0 +1,25 @@
+ID: 237
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+BrokerDealer XYZ offers proprietary Equity Fund (ER 0.82%) and receives 0.70% commission vs. 0.45% on third-party competitors (Vanguard ER 0.04%, Fidelity ER 0.15%). XYZ implemented a Conflict Mitigation Protocol: (1) documented written policy requiring reps to complete a 'Fund Selection Worksheet' analyzing fund performance (3-yr, 5-yr, 10-yr returns), expense ratio vs. peer median, investment strategy fit, and tax efficiency; (2) random audits (quarterly) of 15% of recommendations reviewing whether worksheet supported choice; (3) cap on proprietary allocation: no client portfolio >35% proprietary funds; (4) client-facing disclosure on firm website and account docs showing the 0.25% commission differential and explaining the conflict; (5) in 2023, when XYZ Equity Fund underperformed peer median by 0.60% annually, compliance directed reps to shift new recommendations to third-party alternatives for clients with growth objectives; (6) compensation plan explicitly excluded proprietary sales contests or bonus incentives. Audit of 47 client files from Rep Smith showed worksheets documented why proprietary fund was selected (e.g., 'superior tax efficiency in taxable accounts' or 'client preference for ABC strategy'), with third-party alternatives rejected only when documented performance/strategy mismatch.
+
+QUESTION
+--------
+Did XYZ's recommendation of its proprietary Equity Fund comply with Reg BI's Conflict of Interest obligation despite the 0.25% commission differential?
+
+ANSWER
+------
+Yes. Reg BI requires identification, disclosure, and *reasonable* mitigation—not elimination—of conflicts. XYZ satisfied all three prongs: (1) Identification: documented awareness of commission differential (0.70% vs. 0.45%); (2) Disclosure: client-facing materials disclosed the conflict and dollar impact; (3) Mitigation: implemented structural controls (fund selection worksheet with documented analysis, 35% cap, performance reviews triggering directive shifts, no contest incentives, audit enforcement). The key distinction from non-compliance patterns is that the recommendation was supported by documented analysis of fund-specific merit (tax efficiency, performance vs. peers, strategy fit), not merely commission advantage. When funds underperformed, compliance proactively intervened. Audit evidence showed adherence to mitigation protocol, demonstrating good-faith conflict management rather than bias.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Release No. 86031 ('reasonable mitigation' includes performance monitoring and structural caps)
+
+KEY FACTOR
+----------
+Commission differential is compliant when paired with documented fund selection analysis, structural allocation caps, performance monitoring, and audit enforcement proving the conflict did not materially bias recommendations.

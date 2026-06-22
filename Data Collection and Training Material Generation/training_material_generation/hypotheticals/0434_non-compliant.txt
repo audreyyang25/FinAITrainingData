@@ -1,0 +1,25 @@
+ID: 434
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+AutoPortfolio Inc. developed a machine-learning robo-adviser that adjusts client portfolios daily based on real-time volatility metrics, sentiment analysis, and algorithmic rebalancing triggers. The algorithm recommends tax-loss harvesting when it detects a 12% unrealized loss in any position. For Patricia Gonzalez, age 58, with $580,000 in a taxable brokerage account, the algorithm executed 67 tax-loss-harvesting transactions over 11 months. Unknown to Patricia, the algorithm's 'substantially identical' security replacement logic was flawed: it sold ABC Company stock at a loss and immediately repurchased ABC Company stock with a 0.02% price difference within 31 days on 14 separate occasions, effectively violating the IRS wash-sale rule. Patricia's CPA discovered the violations during year-end tax preparation. The algorithm had been deployed without any human tax adviser reviewing the harvesting logic or Patricia's specific tax situation (she had $120,000 in long-term capital gains from a stock sale 8 months prior). AutoPortfolio's Form ADV disclosed that robo-adviser could execute tax-loss harvesting but did not disclose the risk of algorithmic wash-sale violations or the absence of human tax review.
+
+QUESTION
+--------
+Did AutoPortfolio's robo-adviser violate Reg BI's Care Obligation and IA Act §206(2) duty of care by executing algorithmic tax transactions without adequate safeguards or human oversight?
+
+ANSWER
+------
+Yes, on multiple grounds. Under Reg BI §240.15l-1(a)(2)(i), the Care Obligation requires the adviser to conduct a reasonable investigation into the client's circumstances and consider her tax situation. AutoPortfolio failed: (1) it did not document Patricia's specific tax situation (the $120K prior gain), yet deployed algorithmic harvesting without human tax-law review; (2) the algorithm's 'substantially identical' logic was algorithmically defective and created wash-sale risk, which a competent tax adviser would catch; (3) the disclosure was insufficient—merely stating robo can harvest without warning of material algorithm risks or lack of tax-professional oversight. SEC IM Guidance 2017-02 requires robo-advisers to implement adequate testing and oversight of algorithms, especially for complex tax or regulatory domains. The wash-sale violations constitute breach of the duty of care under IA Act §206(2). Similar to FINRA enforcement patterns on algorithmic failures (e.g., algorithmic trading misconduct cases), liability attaches when algorithm logic is defective and unmonitored.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i); IA Act §206(2) Duty of Care; SEC IM Guidance 2017-02 (algorithm testing requirement)
+
+KEY FACTOR
+----------
+Algorithmic tax-loss harvesting without human tax-law review, client tax-situation investigation, or algorithm validation for wash-sale compliance breaches the Care Obligation.

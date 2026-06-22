@@ -1,0 +1,25 @@
+ID: 449
+Source Folder: unknown
+Topic: senior_investor_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Margaret, 82 years old, has $850,000 in a diversified portfolio: 40% large-cap equities, 35% investment-grade bonds, 15% money market, 10% dividend-paying REITs. Annual turnover is 8%. Margaret's risk tolerance assessment (completed annually) shows low risk tolerance; she lives on $45,000/year fixed income plus Social Security. Her advisor, Tom, recommends moving $400,000 into a deferred variable annuity with a 7% front-end load, 1.85% annual expense ratio, 10-year surrender charge (declining 1% annually), and a guaranteed minimum income rider (2% annually). Tom documents that this provides "guaranteed income of $8,000/year" and "principal protection." Margaret has mild cognitive decline (family recently named a trusted contact per FINRA Rule 4512), but Margaret signs the recommendation herself. No second opinion was obtained. Tom receives a $28,000 commission on the transaction.
+
+QUESTION
+--------
+Did Tom comply with FINRA Rule 2111 (Suitability), FINRA Rule 2330 (Variable Annuities), and SEC Reg BI Care Obligation when recommending the annuity to Margaret?
+
+ANSWER
+------
+No. Multiple violations: (1) Unsuitability under FINRA 2111 — Margaret's documented low risk tolerance and $45K annual spending need contradict a 10-year illiquid product with 7% front-load and surrender charges, especially when her current portfolio already generates sufficient income. (2) FINRA Rule 2330 aggravates the violation — the advisor failed to conduct a "thorough investigation" of Margaret's objectives and failed to document why an annuity was "suitable" given her stated needs. The "guaranteed income" of $8,000/year is misleading: Margaret already has ~$60K fixed income; the annuity locks capital for 10 years. (3) Reg BI Care Obligation breach — Tom did not conduct reasonable inquiry into Margaret's financial situation; a $28,000 commission on a $400K transaction (7%) creates material conflict not mitigated. SEC 2018 Senior Investor Report flags exactly this pattern: annuity sales to elderly clients with sufficient liquidity needs using misleading "guarantees." The documented cognitive decline and named trusted contact heighten the obligation to obtain independent verification, which Tom did not do.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability); FINRA Rule 2330(b) & (c) (Variable Annuity Investigation & Documentation); Reg BI 17 CFR §240.15l-1(a)(2)(i) (Care Obligation); SEC Senior Investor Report 2018 (Best Practices)
+
+KEY FACTOR
+----------
+Recommending a high-cost, illiquid annuity with 7-year surrender period to an 82-year-old with documented low risk tolerance and adequate income is unsuitable, especially when the advisor's $28K commission and annuity's complexity conflict with her stated needs and cognitive status.

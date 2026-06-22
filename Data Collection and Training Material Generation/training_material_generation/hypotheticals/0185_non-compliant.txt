@@ -1,0 +1,27 @@
+ID: 185
+Source Folder: unknown
+Topic: concentration
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer advisor at a regional firm recommends that a 45-year-old client with $850,000 in investable assets, moderate risk tolerance, and a 20-year horizon allocate $255,000 (30%) to a non-traded REIT (Real Estate Investment Trust) sold by the firm's affiliate, with a 7% sales load, 2% annual management fee, and a 10-year liquidity lockup period. The client has 60% of liquid net worth in the REIT allocation and requested 'some real estate exposure.' The firm received 1.2% trailing revenue from the REIT sponsor. The suitability statement says 'client likes real estate' but does not address: (1) the concentration of 30% in a single illiquid vehicle; (2) the liquidity mismatch given the client's moderate risk tolerance; (3) alternative real estate products (REITs, mutual funds, 60/40 allocations); or (4) the firm's compensation conflict.
+
+QUESTION
+--------
+Does this non-traded REIT recommendation satisfy FINRA Suitability Rule 2111 and Regulation Best Interest?
+
+ANSWER
+------
+No, this violates both standards.
+
+This recommendation fails on multiple grounds under both FINRA 2111 and Reg BI. First, FINRA Rule 2111(a)(1)(B) explicitly requires suitability analysis to include the customer's need for liquidity; here, a moderate-risk-tolerance investor is subjected to a 10-year liquidity lockup for 30% of liquid net worth—a severe liquidity mismatch that is never documented or addressed. Second, under Reg BI's obligation to recommend a strategy in the customer's best interest, the advisor failed to consider or present reasonable alternatives (liquid REITs, real estate mutual funds, or a smaller allocation to non-traded REITs). Third, the firm's 1.2% trailing revenue from the REIT sponsor creates a material conflict of interest that must be disclosed and addressed under Reg BI; the suitability statement fails to mention this conflict or explain why the non-traded vehicle (with higher fees and locks) is better than alternatives. Fourth, the concentration of 30% in a single illiquid security without documented analysis of concentration risk violates FINRA Rule 2111(a). This pattern mirrors real FINRA disciplinary actions (e.g., firms sanctioned for recommending non-traded REITs without adequate liquidity analysis and without disclosure of conflicts). The fact that the client said 'likes real estate' is not sufficient suitability documentation—FINRA requires affirmative, documented analysis.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (suitability rule), particularly 2111(a)(1)(B) (suitability analysis must include customer's need for liquidity); SEC Regulation Best Interest (Reg BI), 17 CFR 240.15l-1(a)(1) (recommendation must be in customer's best interest), with particular application to conflicts of interest and consideration of reasonable alternatives; FINRA Rule 2330 (non-traded REIT communications and suitability requirements).
+
+KEY FACTOR
+----------
+The 10-year liquidity lockup on 30% of assets combined with undisclosed conflicts of interest (1.2% trailing revenue), failure to present alternative real estate products, and inadequate suitability documentation create clear violations of both FINRA 2111 (liquidity requirement) and Reg BI (best-interest standard and conflict disclosure).

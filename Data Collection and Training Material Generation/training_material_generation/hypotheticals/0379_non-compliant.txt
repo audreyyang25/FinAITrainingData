@@ -1,0 +1,25 @@
+ID: 379
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Robert, age 54, has $890,000 in a 401(k) with a former employer. Plan options include a large-cap index fund (0.04% ER), an international fund (0.18% ER), and a bond fund (0.07% ER). Robert's brokerage firm adviser, Kathryn (registered rep and investment adviser), recommends rolling $890,000 to an IRA. Kathryn will then recommend purchasing five variable annuities with a 7% front-end sales load ($62,300 commission to Kathryn's firm) and embedded 1.85% annual mortality and expense charge. Kathryn discloses the 7% load but states it is "typical for annuities" and does not compare this arrangement to the lower-cost 401(k) options. Kathryn documents "roll IRA for consolidation and annuity protection features" but provides no cost-benefit analysis. Kathryn's firm compensates her at 5% commission on the annuity sale. No separate written best interest analysis is prepared.
+
+QUESTION
+--------
+Does Kathryn's variable annuity rollover recommendation comply with PTE 2020-02 requirements?
+
+ANSWER
+------
+No. PTE 2020-02 compliance fails on multiple grounds. First, Five-Part Test Part 1 (best interest): Kathryn recommended a rollover specifically to facilitate a high-commission annuity sale, creating a conflict of interest that materially undermines best interest analysis. The 401(k) index fund at 0.04% plus minimal plan costs ($360 annually) are vastly cheaper than the annuity with 7% load ($62,300) plus 1.85% annual M&E charge ($16,465 annually), totaling $78,765 in initial and first-year costs. Second, Part 5 (documentation): No written best interest analysis was prepared comparing the 401(k) options to the proposed annuity. Third, Part 2 (reasonable compensation): Kathryn's personal 5% commission ($3,115) plus firm 7% load ($62,300) far exceed reasonable compensation for a rollover recommendation under ERISA §408(b)(14). This pattern mirrors DOL/SEC enforcement actions against annuity rollovers lacking documented alternatives analysis and driven by adviser compensation.
+
+APPLICABLE STANDARD
+-------------------
+DOL PTE 2020-02 Best Interest Standard; Five-Part Test (Parts 1, 2, 5); ERISA §408(b)(14); SEC/DOL Reg BI and fiduciary conflicts-of-interest rules
+
+KEY FACTOR
+----------
+Recommended rollover to variable annuities with 7% load and 1.85% annual cost specifically to generate $65,415 in first-year compensation, without documented analysis comparing cheaper 401(k) options, violating PTE 2020-02 best interest requirement.

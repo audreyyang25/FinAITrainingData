@@ -1,0 +1,25 @@
+ID: 329
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor recommends series of in-and-out trades in 500-share blocks of XYZ Technology stock (trade price range $42–$48) to client age 68 with $380,000 portfolio, stated objective: "steady income, low volatility." Over 8 months: buy 500 XYZ @ $44 (commission: $275), sell 500 @ $45.20 (commission + spread: $320), buy 500 @ $46.10 (commission: $280), sell 500 @ $47 (commission + spread: $310), buy 500 @ $46.50 (commission: $275), sell 500 @ $47.80 (commission + spread: $315). Total round-trip costs: $1,775; price appreciation realized: $1,800 (net client gain: $25). XYZ holds 8.5% of portfolio; turnover of this position: 3 buy-sell cycles in 8 months. Cost-to-equity for these 6 trades: 4.2% of capital deployed. Client never requested active trading; advisor stated goal was "taking advantage of technical patterns."
+
+QUESTION
+--------
+Does this in-and-out trading pattern in XYZ stock violate FINRA Rule 2111(b) quantitative suitability standards?
+
+ANSWER
+------
+Yes, clear violation of FINRA Rule 2111(b). Although the overall portfolio turnover may be modest, the quantitative suitability violation focuses on the specific security (XYZ) and the strategy's economics. Three decisively unsuitable factors: (1) in-and-out trading pattern (3 round-trips in 8 months) with minimal net gain ($25 for $1,775 in costs—2.3% realized return before tax drag) demonstrates trading is unsuitable for stated income/low-volatility objective; (2) cost-to-equity of 4.2% on deployed capital is near presumptive threshold and unjustified by realized returns; (3) advisor exercised de facto control via unilateral recommendations client never requested, based on advisor's "technical pattern" views not documented as client preference. The in-and-out pattern creates classic churning inference: frequent buys and sells of same security generating commissions without economic justification. Client's $25 net gain does not offset the misalignment of strategy (technical trading) with stated objective (income/stability) for elderly investor.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) (Suitability) — quantitative analysis of in-and-out trading; control test
+
+KEY FACTOR
+----------
+In-and-out trading generating $1,775 costs for $25 net gain, with no documented client preference for tactical trading, violates quantitative suitability for income-focused elderly client.

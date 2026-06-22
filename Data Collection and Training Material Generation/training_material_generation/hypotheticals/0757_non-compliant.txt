@@ -1,0 +1,27 @@
+ID: 757
+Source Folder: 13_FINRA_Rulebook
+Topic: suitability_rule
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+David Kowalski, a 34-year-old software engineer earning $145,000 annually with moderate risk tolerance and a stated 15-year growth objective, opens a brokerage account at Apex Securities. His registered representative, Sarah Lin, documents David's investment profile under FINRA Rule 2090 but records his risk tolerance as 'aggressive' without discussing the discrepancy with David. Over the next four months, Sarah recommends a concentrated portfolio of leveraged ETFs and speculative biotech stocks, investing 85% of David's $220,000 account in these positions. When David later questions the volatility, Sarah points to the 'aggressive' risk tolerance notation in his account documentation as justification for the strategy.
+
+QUESTION
+--------
+Did the representative satisfy the customer-specific suitability obligation under FINRA Rule 2111(a)?
+
+ANSWER
+------
+No, this conduct violates FINRA Rule 2111(a) – Customer-Specific Suitability Obligation.
+
+FINRA Rule 2111 requires that a firm or associated person have a reasonable basis to believe a recommended transaction or investment strategy is suitable for the particular customer based on the customer's actual investment profile. Regulatory Notice 11-25 clarifies that the investment profile includes the customer's stated risk tolerance, investment objectives, and other factors gathered through reasonable diligence under Rule 2090. Recording an inaccurate risk tolerance that conflicts with the customer's stated 'moderate' preference, and then using that inflated documentation to justify an aggressive concentrated strategy, undermines both the know-your-customer and customer-specific suitability obligations.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) – Suitability (Customer-Specific Obligation); FINRA Rule 2090 – Know Your Customer
+
+KEY FACTOR
+----------
+The representative inflated the client's documented risk tolerance beyond what the client actually stated, then used the falsified profile to justify unsuitable aggressive recommendations.

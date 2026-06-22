@@ -1,0 +1,27 @@
+ID: 727
+Source Folder: 12_FINRA_Arbitration_Awards
+Topic: arbitration_defenses
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Craig Matsuda, a registered representative with TD Ameritrade, managed a self-directed brokerage account for 62-year-old semi-retired client Hisako Yamamoto with a $340,000 portfolio. Over 18 months, Yamamoto independently directed 47 trades in technology sector ETFs and individual equities, often overriding Matsuda's documented recommendations to diversify. Yamamoto filed a FINRA arbitration claim alleging unsuitable concentration in technology stocks and seeking $95,000 in losses. Matsuda's records showed that on at least five occasions he sent written emails recommending diversification into fixed-income and broad-market index funds, each time receiving written responses from Yamamoto declining and directing the technology-focused trades. Yamamoto appeared pro se at the arbitration hearing but failed to appear on the second scheduled hearing day.
+
+QUESTION
+--------
+Does the broker have a valid defense against the suitability claim given the client's documented pattern of unsolicited, self-directed trading over the broker's written diversification recommendations?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Under FINRA Rule 2111.07, a broker's suitability obligation regarding customer-specific recommendations is satisfied when the customer independently directs trades that the broker did not recommend. The documented email trail showing repeated diversification recommendations that the customer rejected provides strong evidence that the trades were unsolicited. The customer's failure to appear at the hearing further undermines the claim, as seen in Patten v. TD Ameritrade (FINRA Case No. 18-01226), where a pro se claimant's non-appearance weakened the claimant's case.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability); FINRA Rule 2111.07 (Customer-Specific Suitability—Unsolicited Transactions)
+
+KEY FACTOR
+----------
+The broker's contemporaneous written documentation of diversification recommendations overridden by the client's unsolicited trade directives defeats the suitability claim.

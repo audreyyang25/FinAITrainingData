@@ -1,0 +1,27 @@
+ID: 710
+Source Folder: 11_Case_Law
+Topic: ia_case_law
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Apex Capital Management, an SEC-registered investment adviser with $890 million in AUM, holds a 10.3% beneficial ownership stake in Cortland Industries (NASDAQ: CRTD) across multiple client accounts. After accumulating this position over 14 months, Apex files a Schedule 13D within 10 days of crossing the 10% threshold as required. Three weeks later, Cortland's stock rises 18% following a positive earnings surprise, and Apex sells 2.1% of the position across client accounts to rebalance portfolios, reducing its stake to 8.2%. The entire holding period from crossing 10% to the partial sale spans approximately 33 days. A Cortland shareholder files a derivative Section 16(b) short-swing profit claim against Apex, seeking disgorgement of profits on the theory that Apex was a 10% beneficial owner at the time of the sale.
+
+QUESTION
+--------
+Is Apex Capital Management's sale of Cortland Industries shares within six months of crossing the 10% beneficial ownership threshold a Section 16(b) short-swing profit violation requiring disgorgement?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Section 16(b) requires that a person be a 10% beneficial owner both at the time of the purchase and at the time of the sale for the short-swing profit provision to apply. As analyzed in the Packer v. Raging Capital framework, the critical question is whether the purchase that brought Apex above 10% and the subsequent sale both occurred while Apex was a statutory insider. Here, Apex properly filed its Schedule 13D, and the purchase that crossed the 10% threshold was not itself subject to Section 16(b) liability because the purchaser was not yet a 10% owner at the time of that crossing purchase. The subsequent sale, while Apex was above 10%, can only be matched with purchases made after Apex became a 10% owner, limiting the scope of any potential disgorgement to profits on shares purchased after the threshold was crossed, which in this case were not part of the sale.
+
+APPLICABLE STANDARD
+-------------------
+Securities Exchange Act § 16(b) – Short-Swing Profits; see Packer v. Raging Capital Management, LLC, No. 23-367-cv (2d Cir. 2024) (evaluating 10% beneficial owner status and Section 16(b) standing requirements)
+
+KEY FACTOR
+----------
+Section 16(b) short-swing liability requires matching purchases and sales both made while the person was a 10% beneficial owner; the purchase that initially crosses the 10% threshold is not itself subject to matching under established precedent.

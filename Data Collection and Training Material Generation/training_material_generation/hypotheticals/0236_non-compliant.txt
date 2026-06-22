@@ -1,0 +1,25 @@
+ID: 236
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerDealer ABC operates a mutual fund complex offering 47 domestic equity funds with average expense ratios of 0.89%. ABC's registered representatives receive standard 0.50% commission on all third-party funds but 0.75% commission on proprietary ABC MutualFund Series A (ER 0.95%). Over 18 months, Rep Jones recommended ABC Series A to 312 retail clients with investable assets averaging $185,000, with Series A representing 68% of all equity recommendations. Rep Jones received $847,500 in commissions on Series A vs. $421,000 on third-party alternatives. ABC's compliance manual required written disclosure of the revenue differential in account agreements but did not require documented exploration of lower-cost third-party alternatives or analysis of whether the differential was reasonable in light of services. No suitability analysis documented fund-specific merit of Series A.
+
+QUESTION
+--------
+Did ABC and Rep Jones comply with Reg BI's Conflict of Interest obligation regarding the differential commission structure for proprietary mutual funds?
+
+ANSWER
+------
+No. Reg BI §240.15l-1(a)(2)(ii) requires advisors to identify, disclose, and reasonably mitigate or eliminate material conflicts. Disclosure alone is insufficient when a material conflict remains unmitigated. Here, the 50% commission differential (0.75% vs. 0.50%) created a substantial incentive to favor higher-cost proprietary products. ABC failed the mitigation prong by: (1) lacking documented analysis of whether proprietary funds offered superior performance, services, or risk characteristics justifying the cost premium; (2) failing to document consideration of lower-cost alternatives; and (3) imposing no structural limit on proprietary allocation. The 68% allocation to proprietary funds despite broader availability of lower-cost alternatives suggests the conflict materially influenced recommendations, not suitability analysis.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Reg BI Release No. 86031 (identifying, disclosing, mitigating conflicts)
+
+KEY FACTOR
+----------
+Disclosure of differential compensation without documented mitigation (comparison analysis, structural caps, or performance justification) fails the reasonable mitigation standard when bias is demonstrable through recommendation patterns.

@@ -1,0 +1,25 @@
+ID: 334
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+James, age 41, software engineer with $320,000 liquid net worth, $2.1M in retirement accounts (employer 401k, IRA), and $85,000 annual bonus (variable). He explicitly stated to his advisor at an independent broker-dealer: 'I want an aggressive, actively-managed growth strategy—I'm comfortable with 30% annual drawdowns and frequent trading.' His advisor documented this in writing and obtained James's signature on a suitability statement dated Jan 2, 2023. Over 12 months, the advisor executed 156 trades generating $4,100 in commissions (4.8% turnover ratio). Average holding period was 44 days. Cost-to-equity ratio: 16.1%. The account held 60% equities, 25% growth-oriented mutual funds, 15% options spreads (max loss capped per spread). All recommendations were documented in email with brief rationales (e.g., 'buying ABC biotech on FDA approval catalyst; 6-week target exit'). James's portfolio returned 18.2% gross (12.4% net of commissions). No complaints or inquiries were filed.
+
+QUESTION
+--------
+Did the advisor comply with FINRA Rule 2111 quantitative suitability despite the 4.8× turnover ratio and 44-day average holding period?
+
+ANSWER
+------
+Yes. Although turnover (4.8×) and cost-to-equity (16.1%) are elevated, the advisor complied with FINRA Rule 2111 due to: (1) Documented, dated written consent from James specifying aggressive/active strategy and high turnover tolerance; (2) Turnover of 4.8× remains below the 6× presumption threshold, and cost-to-equity of 16.1% is materially lower than the 20% red line; (3) Account composition (growth stocks, options) aligns with stated aggressive objective; (4) Average 44-day holding period is consistent with active trading, not churning, given James's explicit approval; (5) Documented trade rationales (catalysts, exit targets) show care in selection; (6) 12-month net return of 12.4% demonstrates performance adequate to justify costs for an aggressive account. The critical distinction from churning is documented client consent to the strategy itself, not merely to account opening. James received what he requested and paid reasonable costs for professional active management. This satisfies the suitability 'triad': recommendation is suitable given objectives, reasonable costs, and documented consent.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a)(1) and (b) (suitability with documented client consent); FINRA Regulatory Notice 12-11 (quantitative benchmarks are presumptions, not absolute rules when consent documented)
+
+KEY FACTOR
+----------
+Client's explicit, dated written consent to active trading strategy + turnover below 6× + cost-to-equity below 20% + performance justifying costs = compliant despite elevated activity.

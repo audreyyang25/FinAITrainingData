@@ -1,0 +1,27 @@
+ID: 572
+Source Folder: 05_SEC_Exam_Findings
+Topic: wrap_fee_programs
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An SEC-registered investment adviser with $320 million in AUM offers a wrap fee program charging 1.50% annually that bundles advisory fees, trading costs, and custodial services. During a Division of Examinations review covering 2023-2024, examiners find that 38 accounts in the wrap program executed fewer than four trades per year and held predominantly buy-and-hold allocations of index ETFs. The adviser conducted no periodic reviews to determine whether these low-trading accounts would have been better served by a non-wrap, transaction-based fee arrangement. The firm's Form ADV Part 2A Appendix 1 (wrap fee brochure) states that 'wrap fee programs may cost more or less than purchasing such services separately,' but the adviser never performed or documented any actual cost-benefit analysis for individual clients.
+
+QUESTION
+--------
+Did the adviser fulfill its fiduciary obligations under the Investment Advisers Act by maintaining low-activity clients in the wrap fee program without conducting periodic cost-benefit reviews?
+
+ANSWER
+------
+No, this conduct is a violation of the Investment Advisers Act fiduciary duty, specifically the duty of care and the duty to act in clients' best interests with respect to wrap fee program suitability.
+
+SEC exam priorities have consistently flagged wrap fee programs as an area of focus, specifically examining whether advisers are monitoring whether the wrap fee structure remains appropriate for clients over time. An adviser's fiduciary duty requires an ongoing obligation to evaluate whether the services and fee structure continue to serve the client's best interest—not merely at account opening but throughout the relationship. The generic boilerplate language in the wrap brochure does not satisfy the adviser's affirmative duty to assess and document that the wrap arrangement is suitable for clients who trade infrequently. Holding 38 buy-and-hold index ETF accounts in a 1.50% wrap program where transaction costs would be negligible suggests clients are paying materially more than necessary.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206(1)&(2); SEC Division of Examinations Risk Alerts on Wrap Fee Programs; Form ADV Part 2A Appendix 1 requirements
+
+KEY FACTOR
+----------
+The adviser failed to conduct any periodic cost-benefit analysis for low-trading wrap accounts, breaching its ongoing fiduciary duty to ensure the wrap fee arrangement remained in each client's best interest.

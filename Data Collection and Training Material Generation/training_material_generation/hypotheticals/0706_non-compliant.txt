@@ -1,0 +1,27 @@
+ID: 706
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RetirePlus Financial Services, a non-fiduciary third-party administrator, contracts with 47 employer-sponsored 401(k) plans to offer participant loan programs. Under the program, participants can borrow up to 50% of their vested balance, with loans secured by the participant's retirement savings. RetirePlus charges a $75 origination fee and a 2.5% spread above prime on each loan, both of which are paid from participant accounts but are not disclosed in the plan's fee schedule provided to plan fiduciaries. RetirePlus receives approximately $3.8 million annually from these fees across all plans. Plan fiduciaries were told the loan program was 'at no additional cost to the plan' during the sales process, and the service agreement between RetirePlus and each plan does not itemize loan-related revenue.
+
+QUESTION
+--------
+Does RetirePlus's undisclosed receipt of origination fees and interest spreads from participant loan accounts constitute a prohibited transaction under ERISA, even though RetirePlus is a non-fiduciary service provider?
+
+ANSWER
+------
+No, this conduct is not compliant. RetirePlus's conduct constitutes a prohibited transaction under ERISA Section 406(a)(1)(C) and potentially Section 406(a)(1)(D).
+
+In Haley v. TIAA, the Second Circuit held that ERISA prohibited transaction claims can proceed against non-fiduciary service providers where the loan program structure results in the service provider receiving plan assets through undisclosed fee arrangements. RetirePlus's collection of origination fees and interest spreads from participant accounts constitutes the furnishing of goods or services involving plan assets, and the failure to disclose these revenues to plan fiduciaries means the fiduciaries cannot evaluate whether the arrangement is reasonable. The misrepresentation that the program was 'at no additional cost' compounds the violation by preventing informed fiduciary oversight.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 406(a)(1)(C)-(D) – Prohibited Transactions; see Haley v. TIAA, No. 21-805-cv (2d Cir. 2022) (permitting ERISA claims against non-fiduciary TIAA for prohibited transactions arising from participant loan programs)
+
+KEY FACTOR
+----------
+A non-fiduciary service provider's undisclosed extraction of fees from participant loan accounts secured by retirement savings constitutes a prohibited transaction under ERISA regardless of fiduciary status, as established in Haley v. TIAA.

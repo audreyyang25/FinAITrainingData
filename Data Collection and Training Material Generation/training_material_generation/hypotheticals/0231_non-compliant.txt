@@ -1,0 +1,25 @@
+ID: 231
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BD Inc., a broker-dealer, owns 100% of BD Growth Funds LLC, which manages 12 equity mutual funds with $8.2B in AUM. BD's advisors receive 40 basis points in 12b-1 fees when clients purchase BD Growth Funds, versus 5 basis points when clients purchase unaffiliated competitor funds (Vanguard, Fidelity). In 2023, the firm distributed $2.1M in 12b-1 compensation to its 47 advisors based on net sales of BD Growth products. Compliance discovered that during client review meetings, advisors mentioned only BD Growth Funds and two unaffiliated options, without systematically searching for lower-cost alternatives. A 52-year-old client with $385,000 in investable assets and moderate risk tolerance was recommended a $140,000 allocation to BD Growth Large Cap Fund (1.24% expense ratio) over the Vanguard Total Stock Market Index Fund (0.03% expense ratio), generating $1,960 annually in additional fees. The advisor documented that the BD fund was 'appropriate' but did not explicitly disclose the 12b-1 fee structure or conduct a documented alternatives analysis.
+
+QUESTION
+--------
+Did the advisor and BD comply with the Reg BI conflict of interest obligation by disclosing 12b-1 fees without performing a meaningful alternatives analysis or mitigating the differential compensation bias?
+
+ANSWER
+------
+No. Under Reg BI's Conflict Obligation (17 CFR §240.15l-1(a)(2)(ii)), the firm must (1) identify the conflict, (2) disclose it in writing, and (3) mitigate or eliminate it. Disclosure of 12b-1 fees alone is insufficient when a material differential compensation structure exists. The 40 bps vs. 5 bps spread creates a substantial financial incentive favoring higher-cost proprietary products. FINRA enforcement patterns (e.g., similar to 2022 settlements regarding revenue-sharing bias) show that without documented alternatives analysis and explicit mitigation (e.g., index fund carve-outs or commission caps), 12b-1 disclosure fails to satisfy Reg BI. The advisor's failure to systematically explore lower-cost alternatives and document that analysis, combined with the $1,960 annual fee differential, evidences inadequate mitigation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Marketing Rule IA-5653 (cost-benefit narrative for insurance products as analogous principle)
+
+KEY FACTOR
+----------
+Material differential compensation (40 bps vs. 5 bps) without documented mitigation, alternatives analysis, or explicit fee-impact disclosure breaches the conflict obligation identification, disclosure, and mitigation triad.

@@ -1,0 +1,27 @@
+ID: 164
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+An RIA with $8 billion AUM manages a $5.2 million discretionary portfolio for a 68-year-old client (conservative allocation: 40% stocks, 60% bonds/alternatives). The RIA's Form ADV Part 2A discloses that it acts as a sub-adviser to two proprietary mutual funds (Alpha Bond Fund and Beta Income Fund) and receives management fees from those funds in addition to its AUM-based advisory fee (which is 0.60% on this client's assets). The RIA's allocation for this client includes 18% in Beta Income Fund (a proprietary fund where the RIA serves as sub-adviser and receives an additional 0.15% management fee). The RIA's Form ADV and client account statements separately itemize both the AUM advisory fee and the fund management fees; the client's IPS documents the rationale for Beta Income Fund selection (credit quality, yield, duration matching to client's bond ladder objectives, and 10-year track record of outperformance vs. comparable index funds and ETFs). Compliance reviews verify that fund selection was based on quantitative performance and suitability analysis, and that the RIA has not systematically overweighted proprietary funds across its client base relative to alternative options.
+
+QUESTION
+--------
+Does the RIA's use of proprietary funds while receiving dual compensation violate Reg BI or IA fiduciary duty?
+
+ANSWER
+------
+No, this arrangement is compliant with both Reg BI and IA fiduciary duty because the conflicts are properly disclosed and the conduct demonstrates they are not driving the recommendation.
+
+The RIA's dual compensation structure (AUM fee + sub-adviser management fee) is a material conflict of interest that must be disclosed. Here it is: Form ADV Part 2A discloses both compensation sources, and the client account statements separately itemize each fee. This transparency is the foundation of compliant conflict management. Critically, the RIA's documented conduct—selecting Beta Income Fund based on performance data, duration matching, and track record analysis, not on compensation incentives—demonstrates the conflict is managed, not hidden. The RIA's form ADV also discloses that it serves as a sub-adviser, identifying the conflict explicitly. The fact that compliance reviews confirm no systematic overweighting of proprietary products across the client base is further evidence of good-faith mitigation. Under SEC IA guidance, proprietary products are permissible if disclosed, if performance justifies selection, and if the adviser's overall practices show the conflict is not the driver. This fact pattern meets all three criteria.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206 (fiduciary duty to disclose conflicts + act in client's best interest); Reg BI 15l-1(b)(2)(i) (conflict disclosure); SEC IA Guidance (IA Letter 2008, SEC speeches on proprietary products).
+
+KEY FACTOR
+----------
+Dual compensation is fully disclosed in writing, fund selection is documented to be performance-driven (not compensation-driven), and compliance monitoring confirms the fund is not systematically preferred across the firm's client base.

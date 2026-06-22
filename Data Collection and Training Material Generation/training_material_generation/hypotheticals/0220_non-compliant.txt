@@ -1,0 +1,25 @@
+ID: 220
+Source Folder: unknown
+Topic: reg_bi_care_expanded
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Advisor O manages a hybrid robo-advisorfintech platform (60% algorithmic, 40% human-advisor touch). A 47-year-old client with $95,000 in liquid savings, moderate risk tolerance, and no prior investment experience completed a digital risk questionnaire. The algorithm recommended a 60/40 portfolio split with 0.18% ER in low-cost index ETFs (VOO/BND). However, the client then scheduled a 20-minute call with Advisor O (included in the fee). During the call, Advisor O learned the client's employer offered a 5% match in a 401(k) with a $6,000 annual savings rate and a 3-year employer-sponsored profit sharing deferral (vesting 50% at year 2, 100% at year 3). Advisor O did not modify the robo recommendation and did not discuss or document the relationship between the taxable brokerage account, the 401(k) contribution strategy, or prioritization of tax-advantaged savings. The client proceeded with the robo-only 60/40 plan and invested $95,000 immediately, forgoing 3 years of $6,000 annual 401(k) employer match ($18,000 total employer benefit).
+
+QUESTION
+--------
+Did Advisor O comply with Reg BI's care obligation by allowing the robo recommendation to proceed without addressing the client's employer retirement plan and contribution strategy?
+
+ANSWER
+------
+No. Advisor O failed the care obligation under 17 CFR §240.15l-1(a)(2)(i) (reasonable basis) and §240.15l-1(c) (interconnected accounts). The 20-minute human-advisor touchpoint created a fiduciary moment where Advisor O became aware of a material fact: the employer match incentive. Reg BI requires investigation of material facts and interconnected account strategies. Recommending a $95,000 taxable investment without analyzing 401(k) optimization violates the standard, even with a compliant robo-core. This is analogous to FINRA AWC 2019-063 (failing to prioritize tax-advantaged retirement savings). The failure to document the 401(k) consideration or provide advice on contribution sequencing undermines the care obligation's reasonableness requirement.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(i), (c); FINRA AWC 2019-063 (retirement savings prioritization)
+
+KEY FACTOR
+----------
+Human advisor's awareness of employer match without analysis or documentation of interconnected retirement accounts violates reasonableness of care obligation.

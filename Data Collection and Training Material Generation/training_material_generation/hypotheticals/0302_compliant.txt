@@ -1,0 +1,25 @@
+ID: 302
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: easy
+Verdict: COMPLIANT
+
+FACTS
+-----
+An adviser manages a $6.5M account for a corporate pension plan (qualified client under Rule 205-3(d)(2)). The advisory agreement includes a tiered performance fee: 10% of gains above a 3% hurdle rate for the first $5M in AUM, and 12% for amounts above $5M. The performance fee is charged annually, calculated as of December 31, measured net of all expenses. Form ADV Part 2A Item 5 explicitly states the performance fee tiers, the 3% hurdle rate, the annual calculation method, and includes a worked example showing how a $500,000 annual gain would be calculated. The pension plan trustee signed a dated acknowledgment confirming receipt of Form ADV and understanding the performance fee terms. No side letters exist. The adviser maintains a separate account for the performance fee proceeds, segregated from operating funds.
+
+QUESTION
+--------
+Does this performance fee arrangement comply with Rule 205-3 requirements for qualified clients?
+
+ANSWER
+------
+Yes, fully compliant. Rule 205-3(a) permits performance fees for qualified clients, defined in Rule 205-3(d)(2) to include investment companies, business development companies, and 'any person who, immediately prior to entering into an advisory contract with an adviser, is a qualified client.' A corporate pension plan qualifies as a qualified client (it is not a natural person, and Rule 205-3(d)(2) explicitly permits performance fees for entities). Rule 205-3(e) requires written acknowledgment that the client is a qualified client and understands the terms; the signed acknowledgment satisfies this. Form ADV Part 2A Item 5 provides clear disclosure of fee tiers, hurdle rate, calculation methodology, and a worked example, meeting SEC guidance on transparency. The annual calculation net of expenses is standard practice. The segregated account demonstrates proper compliance controls. No side letters eliminate conflicts. This arrangement meets all Rule 205-3 requirements.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Rule 205-3(a), (d)(2), and (e), Form ADV Part 2A Item 5
+
+KEY FACTOR
+----------
+Performance fee to qualified pension plan client with clear Form ADV disclosure, written acknowledgment, and no side letters fully complies with Rule 205-3(a)–(e).

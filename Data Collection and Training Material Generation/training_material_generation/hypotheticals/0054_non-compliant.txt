@@ -1,0 +1,27 @@
+ID: 54
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+An adviser manages separate accounts for two clients: Client A (age 45, $1.2M assets, growth objective) and Client B (age 72, $800K assets, income objective). Both own shares of the same illiquid private equity fund (Acme PE Fund III). The fund announces a secondary market sale opportunity where limited partners can sell their shares at a 12% discount. The adviser has learned that Client A's position will likely recover fully within 18 months based on the fund manager's projections, but Client B's position may not recover for 3+ years. The adviser recommends the sale only to Client B without mentioning the opportunity to Client A, intending to preserve Client A's long-term upside while respecting Client B's near-term liquidity needs.
+
+QUESTION
+--------
+Does this selective recommendation violate the fiduciary duty of care or loyalty?
+
+ANSWER
+------
+Yes, this violates the fiduciary duty of care and potentially the duty of loyalty through cherry-picking.
+
+Although the adviser's analysis of each client's circumstances has merit, the adviser has violated the duty of care by failing to present the same material opportunity to Client A for Client A to evaluate independently. The duty of care requires that an adviser base recommendations on adequate research, investigation, and consideration of the client's stated objectives. Here, the adviser has made a unilateral judgment that Client A's long-term recovery justifies withholding information about a current liquidity option—but this deprives Client A of the ability to weigh competing factors (e.g., Client A might prefer liquidity, might want to redeploy capital, or might value certainty of a 12% haircut over speculative recovery). The selective presentation also raises loyalty concerns: the adviser is implicitly preferring one client's liquidity needs over another's option to make an informed choice. Cherry-picking opportunities among clients is a classic breach. Both clients should be informed of the opportunity and allowed to decide whether to participate based on their own objectives.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(1)-(2); SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963) (adviser owes undivided loyalty and duty of care to each client); FINRA Rule 4512(c) (apply fair-dealing standards to all clients)
+
+KEY FACTOR
+----------
+Withholding a material investment opportunity from one client while presenting it to another violates the duty of care and loyalty by depriving the excluded client of information necessary to make an informed decision.

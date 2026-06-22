@@ -1,0 +1,25 @@
+ID: 367
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Marcus, age 54, has $620,000 in a 403(b) annuity contract with Insurer A (1.2% annual fee, 7% surrender charge declining 0.5% per year, currently in year 4 of contract, so 3.5% surrender charge applies). The contract includes a guaranteed 3% annual return and limited investment options (5 funds, average ER 0.95%). His adviser recommends rolling to an IRA with Firm B to access 'superior investment options' and recommends a mix of 0.10% ER index funds and 0.35% actively managed funds. The adviser discloses the surrender charge ($21,700) but does not quantify the cost impact over a 10-year horizon. The adviser documents that the client 'prefers broader choices' but does not perform a written break-even analysis comparing the guaranteed 3% return, surrender charge, and fee savings.
+
+QUESTION
+--------
+Does the 403(b) to IRA rollover recommendation comply with DOL ERISA fiduciary duty under PTE 2020-02?
+
+ANSWER
+------
+No, the recommendation violates PTE 2020-02's best interest and documentation requirements. While 403(b) rollover recommendations are fiduciary acts under PTE 2020-02, the adviser failed to conduct a written best interest analysis. Critical missing elements: (1) quantified surrender charge impact ($21,700 = 3.5% × $620,000); (2) present value comparison of guaranteed 3% vs. uncertain market returns plus fee savings; (3) documentation of why guaranteed income was surrendered; (4) analysis of whether 10-year fee savings (approximately $50,000 using conservative assumptions) offset the immediate $21,700 surrender charge and lost guarantee. The adviser documented only client preference ('broader choices'), not objective comparative analysis. PTE 2020-02(d)(1) requires written analysis of the recommendation's basis. This case parallels DOL enforcement patterns involving annuity surrenders where guaranteed income is abandoned without documented justification.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02(d)(1) Written Analysis; DOL ERISA §408(b)(14)(i)-(ii); 29 CFR §2550.408(b)(14)-(iv)
+
+KEY FACTOR
+----------
+No written break-even or comparative analysis documenting whether fee savings and broader investment access justify the $21,700 surrender charge and loss of 3% guarantee.

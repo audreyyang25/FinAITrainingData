@@ -1,0 +1,27 @@
+ID: 126
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retired investor with $380,000 in a traditional IRA currently invested in a diversified portfolio of low-cost index funds (0.15% ER) meets with a broker. The broker recommends exchanging the IRA into a Vanguard Variable Annuity (VVA) with a 1.25% annual mortality and expense risk charge, 0.95% investment management fee, and a 7-year surrender charge schedule (7% in year 1, declining to 0% in year 8). The client has stated moderate risk tolerance and plans to begin withdrawals in 3 years. The broker documents that the exchange is suitable because it provides 'tax-deferred growth and death benefits,' but does not compare the fees to the existing portfolio or discuss the surrender charge timing relative to the client's planned withdrawal date.
+
+QUESTION
+--------
+Does this variable annuity exchange recommendation comply with FINRA Rule 2330 and Reg BI?
+
+ANSWER
+------
+No, this violates both FINRA Rule 2330 and Reg BI.
+
+The broker fails to address the fundamental suitability problem: a 68-year-old with a 3-year withdrawal horizon should not be subject to a 7-year surrender charge, creating liquidity risk if withdrawals exceed the 10% penalty-free amount before year 8. The 1.25% + 0.95% = 2.20% annual cost is substantially higher than the existing 0.15% portfolio, creating a 2.05% annual fee drag that must be justified by materially better features—tax deferral inside an IRA is not such a feature (both are tax-deferred). The broker's documentation does not perform a cost-benefit analysis as required by FINRA Rule 2330(b)(1)(C) or provide the clear, conspicuous disclosure of conflicts required by Reg BI Rule 15l-1(a)(2). The failure to document consideration of surrender charge timing relative to withdrawal plans is a hallmark violation seen in FINRA AWCs involving unsuitable VA exchanges.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b) requires that firms have a reasonable basis for believing a variable annuity exchange is suitable, considering the customer's age, time horizon, liquidity needs, and the costs/charges. Reg BI requires disclosure of all material conflicts of interest and an obligation to recommend in the client's best interest. SEC Regulatory Notice 13-26 emphasizes that tax-deferred growth in a VA inside a tax-deferred account is a redundant feature not aligned with client needs.
+
+KEY FACTOR
+----------
+Recommending a variable annuity with a 7-year surrender charge to a 68-year-old intending to withdraw within 3 years, without analyzing whether the surrender charge creates impermissible liquidity risk, violates Rule 2330(b)(1) and Reg BI Rule 15l-1(b) duty of care.

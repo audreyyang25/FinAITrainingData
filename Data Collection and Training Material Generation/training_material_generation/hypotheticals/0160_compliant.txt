@@ -1,0 +1,27 @@
+ID: 160
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $850,000 in a brokerage account transitions from a passive buy-and-hold strategy to a discretionary advisory relationship with a broker-dealer advisor after expressing frustration with market underperformance. The advisor's Investment Policy Statement (IPS) documents an 'active tactical allocation' strategy with target rebalancing ranges (equity: 50–70%, bonds: 20–40%, alternatives: 10–20%). Over 18 months, the advisor executes 26 trades (0.87x annualized turnover), moving between asset classes and individual holdings based on documented quarterly tactical reviews tied to macroeconomic analysis. The advisor is compensated via a 0.50% AUM fee (with commissions passed through to the firm, not generating individual advisor compensation). Performance net of fees is 6.2% annualized vs. a 50/50 stock-bond benchmark of 5.1%. Quarterly reports document each rebalancing decision with macroeconomic rationale.
+
+QUESTION
+--------
+Does this active trading strategy comply with suitability and anti-churning obligations?
+
+ANSWER
+------
+Yes, this conduct is compliant with FINRA Rule 2111(a) and Rule 2010.
+
+This scenario presents a legitimate active management strategy distinguishable from churning. The 0.87x annualized turnover ratio, while higher than a passive portfolio, is reasonable for a documented 'active tactical allocation' strategy—FINRA guidance recognizes that tactical rebalancing within stated ranges can justify higher trading frequency than passive buy-and-hold. The IPS explicitly authorizes the strategy and defines rebalancing parameters, demonstrating upfront suitability analysis. The advisor's compensation structure (0.50% AUM fee with commissions accruing to the firm rather than generating personal advisor compensation) eliminates the personal commission bias that drives churning—a critical factor in anti-churning analysis. Each trade is documented with quarterly macroeconomic rationale tied to the IPS, not arbitrary market-timing or commission generation. Most importantly, the advisor's outperformance of the benchmark (6.2% vs. 5.1% net of fees) demonstrates that the active trading generated client value rather than just advisor revenue. The strategy matches the client's stated frustration with passive underperformance and stated shift to 'active' management. Under FINRA standards, reasonable turnover + documented strategy + fee-only compensation + outperformance + client approval = compliance with Rule 2111(a) and Rule 2010.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (suitability); FINRA Rule 2010; FINRA Regulatory Notice 02-36 (turnover analysis and reasonableness of trading frequency); FINRA guidance that fee-only compensation and documented rationale support compliance with anti-churning obligations.
+
+KEY FACTOR
+----------
+The combination of (1) 0.87x turnover ratio reasonable for documented active tactical strategy, (2) fee-only compensation eliminating commission bias, (3) quarterly macroeconomic documentation of each trade, and (4) outperformance of benchmark (6.2% vs. 5.1%) establishes compliance with anti-churning obligations.

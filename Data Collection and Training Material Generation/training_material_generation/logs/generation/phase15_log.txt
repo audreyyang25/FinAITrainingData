@@ -1,0 +1,81 @@
+[23:42:56] ==================================================
+[23:42:56] phase15_red_flags.py — claude-opus-4-6
+[23:42:56] Target: 50 red flag scenarios from 23 folders
+[23:42:56] ==================================================
+[23:42:56] Have 0 results, need 50 more across 23 folders
+[23:42:56] [01_SEC_Guidance_NoAction_Interpreti] need 2 (have 0, target 2)
+[23:43:21]   [ 1/50] 01_SEC_Guidance_NoAction_Inter | guidance2_2024-annual-regulatory-oversig (short) ✓
+[23:44:04]   [ 2/50] 01_SEC_Guidance_NoAction_Inter | im-guidance-2015-04.pdf (long) ✓
+[23:44:04] [02_SEC_Enforcement_Actions] need 2 (have 0, target 2)
+[23:44:31]   [ 3/50] 02_SEC_Enforcement_Actions | ia-6113.pdf (short) ✓
+[23:45:09]   [ 4/50] 02_SEC_Enforcement_Actions | ia-6137.pdf (long) ✓
+[23:45:09] [03_FINRA_AWC] need 2 (have 0, target 2)
+[23:46:01]   [ 5/50] 03_FINRA_AWC | 2022075083801_20Zachary_20Ellis_20Taylor (long) ✓
+[23:46:29]   [ 6/50] 03_FINRA_AWC | 2014039285401r_20Black_20CRD_2022451_20S (short) ✓
+[23:46:29] [04_RegBI_Compliance_Guidance] need 2 (have 0, target 2)
+[23:47:19]   [ 7/50] 04_RegBI_Compliance_Guidance | finra_regbi_2020065599101_20SW_20Financi (long) ✓
+[23:47:49]   [ 8/50] 04_RegBI_Compliance_Guidance | finra_regbi_2022074025801_20Joseph_20C__ (short) ✓
+[23:47:49] [05_SEC_Exam_Findings] need 2 (have 0, target 2)
+[23:48:35]   [ 9/50] 05_SEC_Exam_Findings | gap5_adviser-due-diligence-alternative-i (long) ✓
+[23:49:17]   [10/50] 05_SEC_Exam_Findings | exam_brave_Risk_20Alert_20-_20COVID-19_2 (long) ✓
+[23:49:17] [06_DOL_Fiduciary] need 2 (have 0, target 2)
+[23:49:40]   [11/50] 06_DOL_Fiduciary | 6_D_retirement-security-rule-and-amendme (short) ✓
+[23:50:30]   [12/50] 06_DOL_Fiduciary | 6_D_00233.pdf (long) ✓
+[23:50:30] [07_Practitioner_Commentary] need 2 (have 0, target 2)
+[23:50:56]   [13/50] 07_Practitioner_Commentary | memo_dechert_SEC-Division-of-Examination (short) ✓
+[23:51:42]   [14/50] 07_Practitioner_Commentary | 7_P_SIFMA-SIFMA-AMG-and-BPI-on-Request-f (long) ✓
+[23:51:42] [08_State_Fiduciary_Rules] need 2 (have 0, target 2)
+[23:52:35]   [15/50] 08_State_Fiduciary_Rules | state_brave_19-IS-LIFE-GEN-0117-2019-Was (long) ✓
+[23:53:00]   [16/50] 08_State_Fiduciary_Rules | state_brave_IU-3090976.pdf (short) ✓
+[23:53:00] [09_Law_Firm_Memos] need 2 (have 0, target 2)
+[23:53:59]   [17/50] 09_Law_Firm_Memos | 9_L_49EInvestment_20Adviser_20Regulation (long) ✓
+[23:54:27]   [18/50] 09_Law_Firm_Memos | 9_L_Will-ERISAs-Fiduciary-Exemption-Roll (short) ✓
+[23:54:27] [10_Academic_Articles] need 2 (have 0, target 2)
+[23:55:24]   [19/50] 10_Academic_Articles | academic_laby.pdf (long) ✓
+[23:56:08]   [20/50] 10_Academic_Articles | acad10_ERISA_203_16__20Fiduciary_20Plan_ (long) ✓
+[23:56:08] [11_Case_Law] need 2 (have 0, target 2)
+[23:56:38]   [21/50] 11_Case_Law | cl_2022_dcd_eig_energy_fund_xiv_l.p._v._ (short) ✓
+[23:57:33]   [22/50] 11_Case_Law | cl_2025_ca3_nra_group_llc_v._nicole_dure (long) ✓
+[23:57:33] [12_FINRA_Arbitration_Awards] need 2 (have 0, target 2)
+[23:57:58]   [23/50] 12_FINRA_Arbitration_Awards | 20-01496.pdf (short) ✓
+[23:58:45]   [24/50] 12_FINRA_Arbitration_Awards | 24-02673.pdf (long) ✓
+[23:58:45] [13_FINRA_Rulebook] need 2 (have 0, target 2)
+[23:59:38]   [25/50] 13_FINRA_Rulebook | Practical-Compliance-Risk-Management-2.p (long) ✓
+[00:00:04]   [26/50] 13_FINRA_Rulebook | Regulatory-Notice-24-02-Attachment-A.pdf (short) ✓
+[00:00:04] [14_NASAA_State_Enforcement] need 2 (have 0, target 2)
+[00:00:48]   [27/50] 14_NASAA_State_Enforcement | Securities-newsletter-2014.pdf (long) ✓
+[00:01:10]   [28/50] 14_NASAA_State_Enforcement | RegReview_July2013.pdf (short) ✓
+[00:01:10] [15_FINRA_Regulatory_Notices] need 2 (have 0, target 2)
+[00:01:58]   [29/50] 15_FINRA_Regulatory_Notices | Regulatory-Notice-20-04.pdf (long) ✓
+[00:02:48]   [30/50] 15_FINRA_Regulatory_Notices | 19-12_MFA_Comment.pdf (long) ✓
+[00:02:48] [16_Congressional_Materials] need 2 (have 0, target 2)
+[00:03:17]   [31/50] 16_Congressional_Materials | retirement-security-rule-definition-of-a (short) ✓
+[00:04:07]   [32/50] 16_Congressional_Materials | HHRG-118-BA16-Wstate-KothariS-20231102.p (long) ✓
+[00:04:07] [17_SEC_Staff_Bulletins] need 3 (have 0, target 3)
+[00:04:34]   [33/50] 17_SEC_Staff_Bulletins | IAA-Conflicts-CLE-Outline-AT-9.1.2023.pd (short) ✓
+[00:05:23]   [34/50] 17_SEC_Staff_Bulletins | 2019_RBI_Reg_BI_Obligations.pdf (long) ✓
+[00:06:15]   [35/50] 17_SEC_Staff_Bulletins | sec_issues_important_guidance_on_the_adv (long) ✓
+[00:06:15] [18_OCC_Bank_Trust_Guidance] need 2 (have 0, target 2)
+[00:06:38]   [36/50] 18_OCC_Bank_Trust_Guidance | joint20.pdf (short) ✓
+[00:07:25]   [37/50] 18_OCC_Bank_Trust_Guidance | int850.pdf (long) ✓
+[00:07:25] [19_CFTC_Guidance] need 3 (have 0, target 3)
+[00:07:50]   [38/50] 19_CFTC_Guidance | cftc-proposes-amendments-to-rule-47-exem (short) ✓
+[00:08:31]   [39/50] 19_CFTC_Guidance | federalregister020912b.pdf (long) ✓
+[00:09:16]   [40/50] 19_CFTC_Guidance | custprot_qa_final.pdf (long) ✓
+[00:09:16] [20_SEC_ALJ_OALJ_Decisions] need 2 (have 0, target 2)
+[00:09:44]   [41/50] 20_SEC_ALJ_OALJ_Decisions | id470cff.pdf (short) ✓
+[00:10:30]   [42/50] 20_SEC_ALJ_OALJ_Decisions | ia-6896.pdf (long) ✓
+[00:10:30] [21_FINRA_OHO_Decisions] need 3 (have 0, target 3)
+[00:10:55]   [43/50] 21_FINRA_OHO_Decisions | p118867.pdf (short) ✓
+[00:11:39]   [44/50] 21_FINRA_OHO_Decisions | OHO_Mathieson_2014040876001_121616.pdf (long) ✓
+[00:12:28]   [45/50] 21_FINRA_OHO_Decisions | NAC-NYPPEX-2019064813801-20240408.pdf (long) ✓
+[00:12:28] [22_PIABA_Materials] need 2 (have 0, target 2)
+[00:12:52]   [46/50] 22_PIABA_Materials | CLE-Confirming-and-Vacating-Arbitration- (short) ✓
+[00:13:44]   [47/50] 22_PIABA_Materials | 19-17_PIABA_comment.pdf (long) ✓
+[00:13:44] [23_International_Comparative] need 3 (have 0, target 3)
+[00:14:14]   [48/50] 23_International_Comparative | IOSCOPD547.pdf (short) ✓
+[00:15:08]   [49/50] 23_International_Comparative | 2022-suitability-appropriateness-assessm (long) ✓
+[00:15:59]   [50/50] 23_International_Comparative | 220726-MiFiD-II-Lux-EN.pdf (long) ✓
+[00:15:59] DONE. 50 red flag scenarios.
+[00:15:59] JSON → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/AI_training_materials_Red_Flags.json
+[00:15:59] TXT  → /Users/allenferrell/Desktop/FinAdvisor_Training/AI training materials/AI_training_materials_Red_Flags.txt

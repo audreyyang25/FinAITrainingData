@@ -1,0 +1,27 @@
+ID: 99
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 68-year-old retiree with $150,000 in liquid assets and a stated conservative risk tolerance approached a broker to discuss portfolio maintenance. The broker recommended replacing her stable value fund holdings (2% yield) with a leveraged inverse ETF (3x short the S&P 500) to 'protect against market downturns.' The recommendation was documented with no quantitative analysis of the client's ability to withstand the volatility and no consideration of her monthly pension income needs.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates the suitability standard.
+
+The broker lacks a reasonable basis for recommending a 3x inverse leveraged ETF to a 68-year-old conservative investor. Leveraged inverse ETFs are designed for short-term tactical trading, not long-term conservative portfolios, and entail daily rebalancing decay that erodes returns in sideways markets. The broker documented no analysis of why a fixed-income or balanced approach was unsuitable or why leveraged short exposure matched this retiree's need for stable income and capital preservation. This fails both the reasonable-basis prong (no analytical support) and the customer-specific prong (recommendation contradicts stated conservative risk tolerance and age-appropriate asset allocation).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) requires a reasonable basis to believe the recommendation is suitable. The customer-specific prong requires consideration of the customer's age, financial situation, and needs.
+
+KEY FACTOR
+----------
+A conservative 68-year-old retiree with pension income has no legitimate need for leveraged short equity exposure, making the recommendation facially unsuitable regardless of documentation.

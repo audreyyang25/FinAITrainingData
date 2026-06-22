@@ -1,0 +1,27 @@
+ID: 861
+Source Folder: 18_OCC_Bank_Trust_Guidance
+Topic: bank_fiduciary
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Heartland Savings Association's trust department manages a $4.7 million ERISA-qualified defined benefit pension plan for a regional manufacturing company with 200 participants. The trust department's investment committee recommends directing $800,000 of plan assets into a proprietary money market fund managed by Heartland's affiliated asset management subsidiary, which charges a 0.45% annual management fee — higher than comparable unaffiliated funds charging 0.08–0.12%. The bank discloses the affiliated relationship in the plan's annual fee disclosure but does not document any independent fiduciary analysis demonstrating that the affiliated fund's terms are at least as favorable as those available from unaffiliated providers. The pension plan committee did not independently evaluate or approve the affiliated investment on behalf of plan participants.
+
+QUESTION
+--------
+Does Heartland's allocation of ERISA plan assets to its affiliated proprietary fund without documented independent fiduciary analysis satisfy its conflict-of-interest obligations under OCC and ERISA standards?
+
+ANSWER
+------
+No, this conduct is a prohibited self-dealing transaction and a conflict-of-interest violation under ERISA and OCC fiduciary guidance.
+
+The OCC Conflicts of Interest handbook specifically addresses 'Dealings With Affiliated Service Providers and Allocation of Brokerage Services to Affiliates,' requiring that transactions with affiliates be on terms at least as favorable as those available from unaffiliated parties and be supported by documented independent analysis. Heartland's affiliated fund charged a fee four to five times higher than comparable unaffiliated alternatives, and no independent fiduciary analysis was prepared or retained. Under ERISA Section 406(b), a fiduciary is prohibited from dealing with plan assets in its own interest or acting in a transaction involving the plan on behalf of a party whose interests are adverse to plan participants, and a mere annual disclosure without substantive analysis does not constitute an adequate exemption.
+
+APPLICABLE STANDARD
+-------------------
+OCC Comptroller's Handbook AM-CI – Conflicts of Interest (January 2015), Section: Self-Dealing Between Related Parties; ERISA Section 406(b); 29 CFR 2550.408b-2
+
+KEY FACTOR
+----------
+Directing ERISA plan assets to a higher-cost affiliated fund without documented independent fiduciary analysis demonstrating equivalent or superior terms constitutes prohibited self-dealing regardless of disclosure.

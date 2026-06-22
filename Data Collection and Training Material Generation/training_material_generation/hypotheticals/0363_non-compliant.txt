@@ -1,0 +1,25 @@
+ID: 363
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Wealth Management, a 34-person firm, hired registered representative Marcus Thompson on January 15, 2023. Thompson held a Series 7 license and had 18 years' experience at another firm. Pinnacle's WSPs (dated 2021) specified that all new representatives must undergo a 90-day supervised trading period with weekly reviews by the compliance officer, Elena Gomez, covering all accounts exceeding $100K AUM. From January 16–April 10, 2023, Thompson opened 12 new accounts totaling $2.14M. During week 2 (Jan 23–29), Thompson sold $310K of municipal bonds in a client's $425K account to purchase $290K of non-correlated private real estate syndication units (IRR projection 9.2%, illiquidity 7-year hold). Elena conducted no supervisory reviews during the initial 90-day window, documenting only one casual hallway conversation with Thompson on Feb 3. The transaction was not documented in any supervisory file. By June 2023, the client, age 72, requested redemption of the syndication units; the firm was forced to liquidate at a 12% loss ($34,800 loss) due to secondary market illiquidity.
+
+QUESTION
+--------
+Did Pinnacle Wealth Management comply with FINRA Rule 3110 regarding the supervision of a new registered representative?
+
+ANSWER
+------
+No. FINRA Rule 3110 requires firms to establish and implement written supervisory procedures that address the supervision of all registered persons, with heightened scrutiny for new representatives. Pinnacle's failure on two prongs: (1) Elena conducted zero documented supervisory reviews during Thompson's mandatory 90-day probationary period, despite the WSP requirement for weekly reviews; (2) the $310K bond-to-illiquid-syndication transaction in a $425K account for a 72-year-old client presented a suitability red flag that should have triggered supervisory review but was not documented in any supervisory file. The firm's defense that Thompson was experienced elsewhere is irrelevant; FINRA standard practice requires written, documented supervisory review of new reps' trading during the onboarding period. This mirrors FINRA enforcement against firms for inadequate new-rep supervision (e.g., pattern in mid-2021 AWCs). The casual hallway conversation does not satisfy the written supervisory procedure requirement.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(a) and (b) — Written Supervisory Procedures for New Representatives; Rule 3110(a)(1) — Requirement for Documented Supervisory Reviews
+
+KEY FACTOR
+----------
+Complete failure to implement documented weekly supervisory reviews during mandatory 90-day probationary period, combined with failure to document review of a suitability-questionable transaction in a new client account.

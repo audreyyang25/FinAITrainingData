@@ -1,0 +1,27 @@
+ID: 151
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA-registered broker manages a $150,000 discretionary account for a 68-year-old retired client with stated conservative risk tolerance and need for income stability. Over a 12-month period, the broker executes 47 round-trip trades in large-cap stocks and mutual funds, generating $8,900 in commissions and fees. The annual portfolio turnover ratio is 3.1x. The client receives no written explanation for the trading frequency and has never requested this level of trading activity.
+
+QUESTION
+--------
+Does this trading pattern violate FINRA Rule 2111(b) and Rule 2010 (churning prohibition)?
+
+ANSWER
+------
+Yes, this violates the churning prohibition.
+
+The 3.1x annual turnover ratio substantially exceeds what is reasonable for a conservative 68-year-old seeking income stability. Courts and regulators use the in-and-out trading pattern (47 round trips in 12 months) and the cost-to-equity ratio ($8,900 in annual costs against $150,000 equity = 5.9% annual drag) as evidence of churning. The broker exercised de facto control (discretionary authority) without documented suitability analysis justifying this activity level. No reasonable basis exists for this turnover given the client's age, conservative profile, and stated income needs. This pattern matches violations found in FINRA disciplinary cases (e.g., In the Matter of various small-firm AWC settlements involving turnover ratios >2.5x).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b): A broker may not effect purchases or sales of securities for a customer's account that are excessive in size or frequency in light of the financial situation, investment objectives, and characteristics of the account. FINRA Rule 2010: Standards of Commercial Honor and Principles of Trade. DOL ERISA fiduciary standard if account holds retirement assets.
+
+KEY FACTOR
+----------
+Turnover ratio of 3.1x combined with 5.9% annual cost drag and absence of documented investment objective justification for the trading frequency.

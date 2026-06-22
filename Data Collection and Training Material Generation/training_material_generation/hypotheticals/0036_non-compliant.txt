@@ -1,0 +1,27 @@
+ID: 36
+Source Folder: unknown
+Topic: reg_bi_disclosure
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer representative recommends a 58-year-old client with $450,000 in liquid assets purchase a variable annuity with a 7% sales load and 1.25% annual insurance charges. The Form CRS provided to the client lists the firm's standard services and fee ranges but does not specifically disclose the annuity's surrender charges (7-year declining schedule, 7% year 1), mortality and expense risk charges, or the conflicts of interest arising from the 7% upfront commission paid to the advisor.
+
+QUESTION
+--------
+Does this disclosure satisfy Reg BI's requirement to disclose material facts about fees and conflicts of interest?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+Reg BI requires broker-dealers to disclose in a clear, concise manner all material facts about the relationship, including the compensation structure and conflicts of interest. Here, the Form CRS fails to disclose specific, material terms of the recommended product—particularly the surrender charge schedule and the size of the sales load compensation—that a reasonable client would consider important in deciding whether to follow the recommendation. The advisor's incentive to earn a 7% commission creates a conflict of interest that must be affirmatively disclosed. A generic description of 'standard services and fee ranges' does not satisfy this obligation. The omission of the surrender charge schedule is especially material because it directly affects the client's ability to access funds without penalty.
+
+APPLICABLE STANDARD
+-------------------
+SEC Regulation Best Interest (17 CFR 240.15l-1), Item 2 of Form CRS (relationship summary), and instruction regarding disclosure of material conflicts of interest and all compensation.
+
+KEY FACTOR
+----------
+Failure to disclose specific, material terms (surrender charges, sales load percentage, and conflict of interest from the 7% upfront commission) in Form CRS or pre-recommendation disclosures.

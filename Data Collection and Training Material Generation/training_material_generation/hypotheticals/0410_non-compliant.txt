@@ -1,0 +1,25 @@
+ID: 410
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+New Jersey Securities Bureau received a complaint from Rebecca Sutton, age 58, resident of Trenton, NJ. She engaged ClearPath Advisory (a NJ-registered broker-dealer operating under federal Reg BI) to manage a $650,000 retirement portfolio ($480,000 rollover IRA + $170,000 brokerage account). Over 18 months, ClearPath recommended four 'strategic' trades: purchasing in-house mutual funds (Series A, 1.15% ER, higher load) instead of comparable Vanguard index funds (0.08% ER). ClearPath earned $8,900 in commissions and recurring advisory fees totaling $6,200 annually. ClearPath's documentation cited Reg BI compliance: disclosure of the relationship, the funds were 'suitable' for her moderate-growth profile, and the firm presented the in-house funds as 'research-backed alternatives.' However, ClearPath did not disclose that the firm's investment committee had an incentive bonus structure tied to in-house fund sales. Under NJ's 2020 fiduciary rule (N.J.A.C. 13:47A-1 et seq.), all broker-dealers providing investment advice to NJ retail clients owe a fiduciary duty to prioritize client interest. The compliance officer documented only a Reg BI 'best execution' review, not a fiduciary 'best interest' analysis.
+
+QUESTION
+--------
+Did ClearPath violate New Jersey's state fiduciary rule by recommending higher-cost in-house funds while failing to conduct a fiduciary 'best interest' analysis, even though the recommendations satisfied Reg BI?
+
+ANSWER
+------
+Yes. ClearPath violated the NJ fiduciary rule. New Jersey's 2020 regulation (N.J.A.C. 13:47A-1.1) imposes on broker-dealers a fiduciary duty that is materially stricter than federal Reg BI. While Reg BI requires 'reasonable belief of suitability' and disclosure, the NJ rule mandates that recommendations must be in the customer's 'best interest' and requires affirmative documentation that the adviser considered reasonably available alternatives with lower costs or conflicts. ClearPath's failure to disclose the investment committee's incentive bonus for in-house fund sales is a material omission under NJ law. The 1.07% annual cost differential ($6,890 annually on $650,000) combined with the undisclosed compensation conflict demonstrates a breach of the duty of loyalty. Reg BI compliance alone is insufficient; NJ state fiduciary law requires active, documented analysis of alternatives and transparent disclosure of all incentive structures—similar to FINRA enforcement patterns in AWC cases involving compensation conflicts (e.g., FINRA 2021-043).
+
+APPLICABLE STANDARD
+-------------------
+New Jersey Fiduciary Rule N.J.A.C. 13:47A-1.1 — 'Best Interest' Duty for Broker-Dealer Advice to Retail Clients
+
+KEY FACTOR
+----------
+Federal Reg BI compliance does not satisfy NJ state fiduciary duty; the state rule requires explicit 'best interest' analysis, full disclosure of compensation conflicts, and documented consideration of lower-cost alternatives.

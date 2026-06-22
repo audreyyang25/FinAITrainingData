@@ -1,0 +1,25 @@
+ID: 362
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrightEdge Securities, a $2.3B AUM firm with 47 registered representatives across 8 branches, has written supervisory procedures (WSPs) dated January 2022 that require branch managers to conduct monthly suitability reviews of trades exceeding $50,000 notional value. Over a 14-month period (Feb 2022–Mar 2023), registered rep Sarah Chen in the Boston branch executed 23 transactions totaling $1.87M in leveraged ETF trades for client James Wu, age 67, a retired teacher with $380K liquid net worth and stated moderate risk tolerance. Chen's supervisor, branch manager Robert Torres, conducted only 2 supervisory reviews during this period (both cursory, 5-minute file reviews), despite the fact that 18 of the 23 trades exceeded the $50K threshold. Wu's account turnover ratio was 8.2x annually. No escalation occurred until a customer complaint was filed in April 2023. Torres was aware of Chen's high trading volume but documented no concerns.
+
+QUESTION
+--------
+Did BrightEdge Securities comply with FINRA Rule 3110(b) supervisory obligations regarding suitability review and implementation of WSPs?
+
+ANSWER
+------
+No. Although BrightEdge maintained written supervisory procedures requiring monthly suitability reviews, the firm failed to implement them effectively. Rule 3110(b) requires firms to establish written procedures and a system for enforcing compliance. Torres's documented supervisory reviews were sporadic (2 in 14 months) and superficial, falling far short of the monthly standard. The high-volume, high-turnover pattern in a conservative client's account presented red flags that triggered the WSP escalation requirement, yet Torres took no action. This mirrors FINRA's enforcement pattern in cases involving inadequate implementation of existing WSPs (e.g., pattern in 2019–2021 AWC cases). The decisive factor is not the absence of WSPs but their non-implementation and Torres's failure to exercise reasonable supervision despite visible red flags.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(b) — Implementation of Written Supervisory Procedures; Rule 3110(a) — Requirement to Establish WSPs for All Areas of Business
+
+KEY FACTOR
+----------
+Existence of WSPs is insufficient; failure to implement suitability review procedures monthly despite documented red flags (18 transactions exceeding threshold, 8.2x turnover in conservative client account) constitutes failure of reasonable supervision.

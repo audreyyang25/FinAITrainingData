@@ -1,0 +1,27 @@
+ID: 708
+Source Folder: 11_Case_Law
+Topic: erisa_case_law
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Bridgewater University sponsors a defined contribution 403(b) retirement plan with $1.2 billion in assets and 8,400 participants. The plan committee conducts a comprehensive review of its investment lineup every three years, with interim monitoring quarterly. During its 2023 triennial review, the committee evaluates the plan's suite of 22 investment options, including three target-date fund series. The committee identifies that the Vanguard Institutional Target Retirement funds have expense ratios approximately 3-5 basis points lower than the currently offered Fidelity Freedom Index funds. After deliberation documented in detailed meeting minutes, the committee retains the Fidelity funds, citing Fidelity's superior participant education platform, integrated recordkeeping efficiencies that reduce per-participant administrative costs by $18 annually, and comparable net-of-fee historical performance. A participant sues, alleging the committee breached its ERISA fiduciary duty by failing to select the lowest-cost option.
+
+QUESTION
+--------
+Did the plan committee breach its ERISA fiduciary duty of prudence by retaining slightly higher-cost target-date funds when a marginally cheaper alternative existed?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Under Hughes v. Northwestern, fiduciaries have a duty to monitor investments and cannot simply rely on offering a broad menu. However, the duty of prudence under ERISA is a process-based standard, not an outcome-based one. The committee satisfied Tibble's ongoing monitoring requirement through quarterly reviews and triennial comprehensive evaluations. The documented deliberation—weighing expense ratios against participant education benefits, administrative cost savings, and net-of-fee performance—demonstrates the kind of reasoned, informed process that courts evaluate. A 3-5 basis point difference offset by $18 per-participant administrative savings and comparable performance reflects a prudent fiduciary judgment, not a breach.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(B) – Prudent Man Standard; see Hughes v. Northwestern University, 595 U.S. 170 (2022); Tibble v. Edison International, 575 U.S. 523 (2015) (ongoing duty to monitor plan investments)
+
+KEY FACTOR
+----------
+A well-documented, deliberative fiduciary process that considers total cost, ancillary benefits, and net performance satisfies the ERISA duty of prudence even when a marginally lower-cost investment alternative exists.

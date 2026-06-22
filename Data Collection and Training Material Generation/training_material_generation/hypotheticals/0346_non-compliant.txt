@@ -1,0 +1,25 @@
+ID: 346
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered representative James P., employed at Morgan Stanley Wealth Management, engaged in outside business activity without Morgan Stanley approval. James began operating a real estate syndication partnership ('Highland Properties LLC') in March 2022, soliciting investments from three clients—totaling $420,000 deployed by June 2022—without disclosing the venture to his firm's compliance department or obtaining written approval under FINRA Rule 3110 (supervisory approval). James did not disclose his compensation interest (20% promote/carried interest) in the syndicate to any investor. One client, a 67-year-old retiree, invested $150,000 from her IRA without receiving disclosure of risks, liquidity constraints (7-year hold), or James's conflict of interest. When Morgan Stanley discovered the activity in November 2022 via a customer complaint, no approval file existed. James claimed the real estate business was 'passive' and did not require approval.
+
+QUESTION
+--------
+Did James P. comply with FINRA Rule 3110 requirements for outside business activity approval?
+
+ANSWER
+------
+No. James violated Rule 3110(a), which requires that members supervise all associated persons and obtain written approval before permitting them to engage in outside business activities. Rule 3110(a) defines outside business activity broadly as any activity outside the member firm that could reasonably create a conflict of interest or interfere with duties to the firm or clients. Operating an investment syndicate generating compensation (20% carried interest) clearly qualifies. James's claim that it was 'passive' is factually false; he actively solicited three clients for $420,000. Additionally, James violated Rule 2010(a) (fair dealing) by failing to disclose his compensation interest and the IRA client's illiquidity risk. The absence of approval documentation, combined with active client solicitation and undisclosed conflicts, triggered mandatory reporting under Rule 4530 and exposed Morgan Stanley to disciplinary action. FINRA 2021-2023 AWCs show $300K–$1.2M fines for approval failures in outside business activity, plus restitution for clients. The IRA withdrawal was improper, exposing the retiree to potential tax penalties.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(a) (approval of outside business activity); FINRA Rule 2010(a)–(b) (fair dealing and disclosure of conflicts)
+
+KEY FACTOR
+----------
+Representative engaged in outside investment business (syndicate with carried interest) soliciting client funds without firm approval or conflict-of-interest disclosure.

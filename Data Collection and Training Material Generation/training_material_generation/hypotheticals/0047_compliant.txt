@@ -1,0 +1,27 @@
+ID: 47
+Source Folder: unknown
+Topic: ia_fiduciary_duty
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+An RIA manages $300M in AUM and receives a fee of 0.75% on assets under $2M and 0.60% thereafter. A new client, age 45, with $500K to invest, has a balanced risk tolerance (60/40 stocks/bonds). The RIA's primary recommendation is a diversified portfolio of low-cost ETFs (total expense ratios 0.05-0.15%) and a single 0.50% annual advisory fee based on AUM. Before implementing, the RIA provides the client with a detailed written disclosure document explaining the fee structure, investment methodology, potential conflicts, and the basis for recommending ETFs over actively managed mutual funds (higher costs, underperformance history). The client signs and acknowledges receipt.
+
+QUESTION
+--------
+Does this recommendation and disclosure satisfy the fiduciary duty of loyalty and care?
+
+ANSWER
+------
+Yes, this compliant with the fiduciary duty of loyalty and care.
+
+The RIA satisfies the fiduciary duty of care by: (1) recommending low-cost, diversified investment products suitable for the client's age and risk profile; (2) selecting investments with explicit attention to minimizing total costs and expenses; and (3) providing the basis for recommendations (referencing underperformance of active managers). The RIA satisfies the duty of loyalty by: (1) fully disclosing its fee structure in writing before the client commits funds; (2) using a single, transparent fee arrangement that aligns incentives (lower fees on larger portfolios encourage long-term relationships); and (3) explaining potential conflicts proactively. The written disclosure prevents any claim of undisclosed self-dealing. This structure is superior to Reg BI's suitability standard and aligns with SEC guidance (Reg BI Adopting Release, 84 FR 33318) that investment advisers must provide more robust disclosures than brokers. The client's informed, written consent to the fee arrangement and investment approach establishes compliance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206; SEC Form ADV Part 2A disclosure requirements; Reg BI (comparative standard); Uniform Prudent Investor Act principles (UPIA)
+
+KEY FACTOR
+----------
+Proactive written disclosure of fee structure, investment rationale, and conflicts, combined with client acknowledgment, before implementation.

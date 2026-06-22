@@ -1,0 +1,27 @@
+ID: 847
+Source Folder: 17_SEC_Staff_Bulletins
+Topic: conflict_mitigation
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Prestige Wealth Advisors LLC, a dual-registrant operating as both a broker-dealer and SEC-registered investment adviser, employs representative David Okafor, who manages approximately $4.2 million in advisory assets for 38 retail clients. Okafor's firm has a revenue-sharing arrangement with Clearstream Mutual Funds whereby Clearstream pays Prestige 12b-1 fees averaging 0.75% annually on assets placed in Clearstream's Class A shares. Internal firm policy acknowledges this conflict in a generic disclosure buried in Prestige's Form ADV Part 2A but does not require representatives to affirmatively discuss the conflict with clients at the point of recommendation, nor does the firm have any mitigation mechanism such as a preference for lower-cost share classes. Okafor recommends Clearstream Class A shares to 14 clients in 2022, including seven for whom no-load institutional share classes of equivalent funds were available at materially lower cost within the same platform.
+
+QUESTION
+--------
+Does Prestige Wealth Advisors' conflict management framework satisfy its obligations under Reg BI and the SEC's fiduciary duty framework for investment advisers regarding the 12b-1 fee revenue-sharing arrangement?
+
+ANSWER
+------
+No, this conduct is a violation of Reg BI's Conflict of Interest Obligation and the investment adviser duty of loyalty under the Advisers Act fiduciary standard.
+
+The SEC's 2023 Conflicts Staff Bulletin and the Fiduciary Interpretation make clear that generic, buried disclosure of financial conflicts does not satisfy the duty of loyalty; advisers must identify, manage, and mitigate material conflicts, not merely disclose them. Under Reg BI's Conflict of Interest Obligation, broker-dealers must establish policies to identify and mitigate conflicts that provide an incentive to place client interests secondary to their own, which includes revenue-sharing arrangements like 12b-1 fees. Where lower-cost equivalent share classes are available on the same platform, recommending the higher-cost class that generates firm revenue without any mitigation mechanism—such as a share-class selection policy—constitutes a failure to act in the retail customer's best interest. The IAA Conflicts CLE materials confirm that identifying, managing, and disclosing conflicts are distinct and cumulative obligations, not alternatives.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(iii) – Reg BI Conflict of Interest Obligation; SEC Advisers Act § 206 Fiduciary Duty – Duty of Loyalty; 2023 IAA Conflicts Staff Bulletin
+
+KEY FACTOR
+----------
+The firm's disclosure of the 12b-1 conflict was generic and buried, and no mitigation mechanism existed to prevent recommending higher-cost share classes when cheaper equivalents were available, failing both the conflict mitigation and disclosure prongs.

@@ -1,0 +1,25 @@
+ID: 303
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Advisers LLC, a registered investment adviser with $487 million AUM, charged a performance fee of 1.5% of net gains to a 42-year-old client, Marcus T., who had $280,000 invested in a balanced portfolio. Marcus is a self-employed electrician with no institutional affiliation. His Form ADV Part 2A disclosed only that performance fees were available 'for qualified clients,' but the advisor did not conduct any net worth or income verification before charging the performance fee. The performance fee generated $12,600 in the first year when the portfolio gained $840,000. Marcus never saw written documentation confirming his qualification status.
+
+QUESTION
+--------
+Did Pinnacle Advisers comply with SEC Rule 205-3 in charging Marcus a performance fee?
+
+ANSWER
+------
+No. Rule 205-3(c)(1) prohibits performance fees to non-qualified clients. A 'qualified client' must meet one of three tests: (1) net worth of at least $750,000 excluding primary residence, (2) income ≥$200,000 in each of prior two years, or (3) AUM with the adviser ≥$1 million. Pinnacle failed to document Marcus's qualification status before charging the fee. As a self-employed electrician with $280,000 in assets, Marcus likely does not satisfy any prong. Rule 205-3(c)(5) requires written acknowledgment that the client is a qualified client. The absence of written verification and Marcus's asset level establish a clear violation.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 205-3(c)(1) and (c)(5) — Performance Fee Restrictions for Non-Qualified Clients
+
+KEY FACTOR
+----------
+Adviser charged performance fee without documenting client's qualified client status as required by Rule 205-3(c)(5).

@@ -1,0 +1,25 @@
+ID: 422
+Source Folder: unknown
+Topic: digital_assets_crypto
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Brokerage firm BDX Securities' crypto desk recommended purchase of 50,000 units of token 'TerraLuna' (a speculative Layer-1 blockchain token trading at $0.08/unit, market cap $2.5B) to retail client David Rodriguez, age 42, with $175,000 in investable assets and stated moderate risk tolerance. The recommendation ticket documented 'excellent upside potential' and 'decentralized finance innovation' but contained no analysis of the token's volatility (±60% weekly swings), no regulatory status clarification (token not registered under Securities Act), no liquidity assessment, and no disclosure that the token had experienced multiple exchange delistings. The trade settled on a crypto exchange not regulated by the SEC or FINRA. Total investment: $4,000.
+
+QUESTION
+--------
+Did the brokerage comply with FINRA Rule 2111 suitability and Reg BI reasonable basis requirements in recommending TerraLuna token?
+
+ANSWER
+------
+No. FINRA Rule 2111 requires a reasonable basis for suitability, including inquiry into the security's risk profile and client financial circumstances. Recommending a ±60% volatile, illiquid token with no registered exchange listing and multiple delistings violates the reasonable basis prong. Reg BI's care obligation (17 CFR §240.15l-1(a)(2)(ii)(A)) requires analysis of risks, benefits, and costs; documentation reveals none regarding token regulatory status, exchange risks, or liquidity constraints. FINRA Notice 21-25 warns that unregistered digital asset tokens present heightened suitability concerns for retail clients. The absence of due diligence on token stability and the failure to disclose regulatory gaps render the recommendation unsuitable per FINRA standards and deficient under Reg BI.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 Suitability (reasonable basis prong); Reg BI Care Obligation, 17 CFR §240.15l-1(a)(2)(ii)
+
+KEY FACTOR
+----------
+Recommending an unregistered, highly volatile, frequently delisted token without suitability analysis or disclosure of regulatory/liquidity risks violates the reasonable basis standard.

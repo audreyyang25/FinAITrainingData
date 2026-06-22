@@ -1,0 +1,27 @@
+ID: 34
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer's in-house investment advisory subsidiary creates a proprietary mutual fund (XYZ Growth Fund, 1.25% expense ratio) that pays the broker-dealer's retail brokerage division a 0.35% 12b-1 fee annually. A financial advisor recommends the XYZ Growth Fund to a 58-year-old client with $450,000 in investable assets and moderate growth risk tolerance. The fund prospectus discloses the 12b-1 fee but does not specifically identify the broker-dealer as the recipient. The advisor's compensation plan credits him with 15 basis points for every dollar placed in proprietary products. The advisor provides a one-page "conflict of interest" disclosure stating that "the firm may recommend its own products" but does not itemize the 12b-1 revenue, the advisor's personal bonus structure, or the availability of lower-cost comparable funds (e.g., industry-standard index funds at 0.09% expense ratio).
+
+QUESTION
+--------
+Does this recommendation and disclosure satisfy Regulation Best Interest's conflict-of-interest obligations under SEC Rule 15l-1(a)(2)?
+
+ANSWER
+------
+No, this violates Regulation Best Interest's conflict-of-interest disclosure and mitigation requirements.
+
+Under Reg BI Rule 15l-1(a)(2), a broker-dealer must 'disclose, in writing, all material facts regarding conflicts of interest' and 'act in the customer's best interest' in light of those conflicts. The 0.35% 12b-1 revenue stream ($1,575 annually on a $450,000 investment) and the advisor's 15 basis-point personal incentive ($675 annually) are material conflicts—they create a financial incentive for the advisor to recommend the higher-cost proprietary fund over the 0.09% index fund alternative, a 116 basis-point annual cost difference ($5,220 annually on $450,000). The generic one-page disclosure fails to identify these specific revenue sources and the advisor's personal compensation tie to proprietary products, rendering it inadequate under Rule 15l-1(d)(2). The firm has not demonstrated mitigation of the conflict—such as restricting the advisor's ability to earn higher compensation for proprietary products, conducting supervisory review to ensure the recommendation is truly suitable, or requiring comparative cost analysis. The disclosure and compensation structure prioritize the firm's and advisor's interests over the customer's, violating the foundational duty in Reg BI(a)(1) to act in the customer's best interest.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2) (Reg BI Conflict of Interest Obligation) and Rule 15l-1(d)(2) (required disclosures of material facts concerning conflicts); 17 CFR 240.15l-1; FINRA Rule 4512(c) (conflicts of interest disclosure).
+
+KEY FACTOR
+----------
+Failure to provide specific, itemized disclosure of material revenue sources and compensation incentives tied to proprietary product recommendation, combined with absence of conflict mitigation measures, creates a conflict that is neither transparently disclosed nor neutralized.

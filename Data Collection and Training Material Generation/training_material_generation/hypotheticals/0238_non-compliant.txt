@@ -1,0 +1,25 @@
+ID: 238
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Insurance Broker James Parker received recurring 12b-1 fees (0.50% annually) from mutual fund complex for distribution services. Between Jan 2022–Dec 2023, Parker recommended Fund A (12b-1 0.50%) to 89 retail clients with average account sizes $275,000, generating $74,625 in annual 12b-1 revenue. Parker simultaneously offered Client B (age 58, $420,000 liquid assets, 25-year horizon, moderate risk tolerance) Fund B (low-cost passively managed, ER 0.08%, no 12b-1). Parker recommended Fund A, citing 'active management expertise' but provided no comparative analysis of Fund A's 10-year returns (5.2% annualized) vs. Fund B's passive index returns (5.8% annualized). Parker's compliance file disclosed the 12b-1 fee in a generic prospectus reference but did not separately disclose the dollar impact ($2,100 annually on this client) or discuss Fund B. Parker's compensation plan included no restrictions on 12b-1 fund recommendations and Parker had no documented protocol for considering lower-cost alternatives.
+
+QUESTION
+--------
+Did Parker comply with Reg BI's conflict of interest obligation regarding 12b-1 fee compensation?
+
+ANSWER
+------
+No. Reg BI requires identification, disclosure, and reasonable mitigation of material conflicts. The 12b-1 fee creates a material conflict because it incentivizes distribution over investor benefit. Here: (1) Identification: Parker knew of the 12b-1 revenue stream; (2) Disclosure: prospectus reference was insufficient—Reg BI requires clear, conspicuous identification of the specific conflict and dollar impact to enable investor understanding; (3) Mitigation: absent. Parker failed to mitigate by (a) not documenting analysis of whether Fund A's active strategy justified the 12b-1 cost vs. Fund B's superior performance; (b) not comparing net-of-fee returns; (c) not implementing a protocol to consider lower-cost alternatives. The fact that Fund B outperformed Fund A after fees demonstrates the conflict materially skewed the recommendation away from investor best interest. Generic disclosure of 12b-1 fees does not satisfy mitigation when recommendation patterns show consistent bias toward higher-cost products.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Release No. 86031 (12b-1 fees as material conflicts requiring specific mitigation beyond generic disclosure)
+
+KEY FACTOR
+----------
+12b-1 fee conflict is unmitigated when advisor fails to document performance comparison and systematically recommends higher-cost products without analyzing whether active management justifies the fee drag vs. lower-cost alternatives.

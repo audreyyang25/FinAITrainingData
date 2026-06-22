@@ -1,0 +1,25 @@
+ID: 240
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+BrokerDealer SecureLife conducted a sales contest ('Top Producer Club') for Q4 2023: reps who placed ≥$2M in proprietary SecureLife Annuity (Commission: 6%) by Dec 31 received $5,000 bonuses plus trip incentives. Rep Martinez participated and recommended SecureLife Annuity to 12 clients in Oct–Dec 2023 (average age 62, average liquid assets $180,000). None of the 12 client files documented suitability analysis or consideration of non-annuity alternatives (e.g., mutual funds, ETFs, individual bonds). Client testimonials later revealed clients understood the recommendation as a bonus-driven push, not personalized advice. SecureLife's compliance manual explicitly approved sales contests but did not require written documentation of suitability or conflict mitigation. Annuity surrender charges ranged 6%–8% for 7 years; clients were not advised of liquidity constraints.
+
+QUESTION
+--------
+Did SecureLife and Rep Martinez comply with Reg BI's conflict of interest obligation by conducting the sales contest without documented suitability analysis?
+
+ANSWER
+------
+No. Sales contests create material conflicts of interest that Reg BI requires advisors to identify, disclose, and mitigate. Here: (1) Identification: SecureLife and Martinez knew of the contest; (2) Disclosure: neither the contest structure nor the 6% commission was disclosed to clients in writing; (3) Mitigation: entirely absent. The contest incentivized quantity of sales over suitability, and the lack of documented suitability analysis demonstrates the conflict materially influenced recommendations. Reg BI's conflict obligation explicitly encompasses sales contests and bonus structures that bias recommendations. The absence of any written analysis of whether annuity structure was appropriate for these 62-year-old retirees with moderate assets, combined with non-disclosure of surrender charges and commission, establishes violation. Client perception that the recommendation was contest-driven rather than personalized further undermines best-interest representation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); SEC Release No. 86031 (sales contests and bonus structures are material conflicts requiring disclosure and mitigation)
+
+KEY FACTOR
+----------
+Sales contests without documented suitability analysis and client disclosure of the contest structure constitute unmitigated material conflict under Reg BI.

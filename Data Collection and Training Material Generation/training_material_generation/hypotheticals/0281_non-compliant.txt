@@ -1,0 +1,25 @@
+ID: 281
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+RegentAdvice LLC, a registered investment adviser with $2.3 billion AUM, has a conflict-of-interest arrangement with BrokerTrust Capital, its affiliated broker-dealer (50% ownership by RegentAdvice's parent holding company). For five years, RegentAdvice routed 100% of its equity order flow (approximately 12,000 trades annually averaging $45,000 per trade) exclusively to BrokerTrust Capital without conducting any comparative execution quality analysis. BrokerTrust's execution costs (blended spreads + commissions) averaged 8.2 basis points per trade, while independent market data showed competitors executing similar orders at 5.1 basis points. RegentAdvice's compliance manual stated "best execution" as a goal but contained no documented procedures for periodic review of broker-dealer execution quality. No client disclosures mentioned the exclusive routing arrangement or the execution cost differential.
+
+QUESTION
+--------
+Did RegentAdvice comply with the Investment Adviser Act Section 206(3) best execution obligation?
+
+ANSWER
+------
+No. RegentAdvice violated Section 206(3) by: (1) routing all order flow to an affiliated BD without comparative execution analysis; (2) failing to implement documented procedures for periodic execution quality review; (3) ignoring material execution cost differentials (8.2 vs. 5.1 bps) that directly harm client accounts; (4) failing to disclose the conflict. Best execution requires IAs to seek reasonably favorable execution, which demands systematic comparison against reasonable alternatives. Exclusive affiliated routing without competitive benchmarking—especially with a 3.1 bps cost disadvantage—evidences failure to satisfy the care obligation. The SEC and FINRA treat undisclosed affiliated order routing as presumptively violative absent documented justification for the arrangement.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3); SEC IA Best Execution Guidance (IM Guidance Update 2021-03)
+
+KEY FACTOR
+----------
+Exclusive routing to affiliated BD without comparative execution quality analysis or documented periodic review violates the duty to seek reasonably favorable execution.

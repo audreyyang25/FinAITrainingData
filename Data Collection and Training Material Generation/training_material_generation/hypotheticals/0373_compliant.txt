@@ -1,0 +1,25 @@
+ID: 373
+Source Folder: unknown
+Topic: dol_rollover_analysis
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Patricia, age 55, has $320,000 in a small-employer 401(k) with three investment options: a target-date fund (ER 0.85%), a stable value fund (2.8% yield), and a company stock fund (5% of plan assets concentrated). Her employer is downsizing and plans to freeze the plan in 6 months. Advisor Robert recommends rolling over to a Schwab IRA where he will charge 0.50% AUM fee. Robert documents his analysis in a written memo: (1) Plan closure rationale; (2) comparison of plan's three funds vs. diversified IRA options (projected ER 0.35% blended); (3) tax consequences (no early distribution penalty at age 55+); (4) Robert's fee (0.50%) vs. prior implicit costs (0.85% blended); (5) Alternative: keeping assets in a successor plan if available, which Robert notes is unlikely given downsizing. Robert discloses his fee in his ADV and the rollover memo. Robert recommends phased transition into equities over 6 months to manage timing risk.
+
+QUESTION
+--------
+Did Robert comply with PTE 2020-02 requirements for documenting the rollover recommendation?
+
+ANSWER
+------
+Yes. Robert's analysis satisfies the Five-Part Test under PTE 2020-02 §I(a)(1). Compliant factors: (1) documented written analysis addressing all relevant facts (plan closure, age, available plan alternatives); (2) comparison of fees/options (0.85% plan vs. 0.50% IRA/0.35% investments); (3) tax analysis (no penalty, no NUA concern); (4) reasonable compensation (0.50% is market-rate for AUM on $320k); (5) no misleading statements; (6) phased implementation addresses Patricia's risk. The decisive facts: plan is closing (eliminating 'staying put' as viable option), rollover fee is lower than plan cost, no surrender charges, no alternative retained in plan. Robert's documented, comparative analysis showing rollover serves Patricia's interest—not just his revenue—satisfies the standard. This mirrors compliant DOL guidance examples where plan closure and cost reduction justify rollover with proper documentation.
+
+APPLICABLE STANDARD
+-------------------
+PTE 2020-02 §I(a)(1) (Five-Part Test: documented analysis of relevant facts and circumstances); ERISA §408(b)(14) (reasonable compensation)
+
+KEY FACTOR
+----------
+Comprehensive written analysis documenting plan closure, fee comparison, tax consequences, and reasonable compensation; no superior alternative retained in plan.

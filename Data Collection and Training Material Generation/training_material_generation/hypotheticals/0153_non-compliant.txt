@@ -1,0 +1,27 @@
+ID: 153
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A financial advisor at an independent RIA firm manages a $250,000 account for a 72-year-old widow in her first year post-retirement, stated objective of 'preserving capital and generating income,' and moderate risk tolerance. The advisor recommends and executes, within 6 months: 8 sales of municipal bond positions and replacement with different municipal bond ETFs (all investment-grade, similar credit quality); 6 in-and-out trades of dividend-paying stocks; and 4 mutual fund switches. Total annual projected turnover: 4.2x. Commissions and ticket fees total $6,200 annually. The advisor has discretionary authority. The client expresses concern about trading costs but the advisor states 'this is normal portfolio management.'
+
+QUESTION
+--------
+Does this conduct violate the fiduciary duty of care under the Investment Adviser Act, 15 U.S.C. § 80a-1 et seq.?
+
+ANSWER
+------
+Yes, this violates the fiduciary duty of care.
+
+A 4.2x turnover ratio is egregiously high for a 72-year-old retiree with capital preservation and income objectives. The RIA's cost drag ($6,200 / $250,000 = 2.48% annually) significantly impairs the income generation goal. The frequent churning of similar instruments (bond-to-ETF swaps of comparable securities, dividend stock in-and-outs) suggests trading is motivated by fee generation rather than client benefit. The advisor's dismissal of the client's cost concerns and failure to justify the turnover frequency breaches the duty of care, which requires advisers to act with reasonable diligence and in the client's best interest. The absence of documented analysis showing how this turnover advance the stated income and preservation objectives violates the written compliance procedures required under Rule 206(4)-8. This pattern matches SEC enforcement actions against RIAs (e.g., SEC v. various small-cap RIA firms settling on churning grounds).
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act § 206 fiduciary duty; SEC Rule 206(4)-8 (compliance rule requiring written procedures to prevent conflicts of interest and ensure suitability); Dodd-Frank Act § 913 and SEC Form ADV disclosures. State laws (NY GBL § 212, Massachusetts, New Jersey fiduciary standards).
+
+KEY FACTOR
+----------
+4.2x turnover ratio, 2.48% annual cost drag, and absence of documented fiduciary analysis justifying trading frequency for a capital-preservation, income-focused retiree.

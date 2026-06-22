@@ -1,0 +1,27 @@
+ID: 588
+Source Folder: 06_DOL_Fiduciary
+Topic: erisa_plan_fiduciary
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Greenleaf Manufacturing sponsors a 401(k) plan with 380 participants and $28 million in assets. The company's CFO, Laura Chen, serves as the plan's named fiduciary and is responsible for selecting and monitoring investment options. Three years ago, Laura added six mutual funds managed by her brother-in-law's investment management firm, Ridgeline Capital, to the plan's investment lineup. The Ridgeline funds charge expense ratios between 1.10% and 1.65%, substantially above the median for comparable funds in their respective categories (0.45% to 0.75%). Laura has not conducted any formal investment review or benchmarking of the plan's fund lineup since the Ridgeline funds were added. Several participants have complained about poor fund performance, but Laura has taken no action, citing that the funds 'will recover over time.'
+
+QUESTION
+--------
+Has Laura Chen fulfilled her fiduciary duties under ERISA §404 in selecting and monitoring the plan's investment options?
+
+ANSWER
+------
+No, this conduct violates ERISA §404(a)(1)(A) and (B) – the duties of loyalty and prudence.
+
+ERISA §404 requires plan fiduciaries to act solely in the interest of plan participants and beneficiaries and with the care, skill, prudence, and diligence that a prudent person would use. Laura's selection of funds managed by a family member without a documented, arms-length evaluation process raises a direct conflict of interest under ERISA §406(b). Her failure to conduct ongoing monitoring and benchmarking of the significantly above-average cost funds for three years violates the duty of prudence. The persistent above-market fees directly reduce participants' retirement savings, and dismissing performance complaints without analysis compounds the breach.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A) – Duty of Loyalty; ERISA §404(a)(1)(B) – Duty of Prudence; ERISA §406(b)(1) – Self-Dealing Prohibition
+
+KEY FACTOR
+----------
+The plan fiduciary selected a family member's high-cost funds without arms-length evaluation and failed to conduct any ongoing monitoring or benchmarking for three years.

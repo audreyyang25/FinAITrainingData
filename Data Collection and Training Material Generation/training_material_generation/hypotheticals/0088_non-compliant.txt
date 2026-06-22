@@ -1,0 +1,27 @@
+ID: 88
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A FINRA broker recommends a series of options strategies (short puts, covered calls) to a 58-year-old client with $180,000 liquid assets, stated moderate risk tolerance, and 10-year time horizon to retirement. The client has self-directed trading experience with stocks but no prior options trading. The broker conducts a brief telephone call, provides no written suitability analysis, and documents only that 'customer approved options trading.' Over 18 months, the broker executes 240 options trades, generating $32,000 in commissions (17.8% annualized turnover rate). The client reports the account lost 12% while similar conservative portfolios gained 8%.
+
+QUESTION
+--------
+Does this recommendation and conduct satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates FINRA Rule 2111 suitability and quantitative suitability standards.
+
+The broker violates Rule 2111 on multiple fronts. First, customer-specific suitability failure: a 58-year-old with moderate risk tolerance and 10-year horizon approaching retirement does not have a profile supporting aggressive options trading, particularly given the client's stated lack of options experience and moderate risk tolerance documented. Second, quantitative suitability failure: the 17.8% annualized turnover rate (240 trades in 18 months on $180K) far exceeds what is reasonable for a moderate-risk, pre-retirement portfolio and suggests churning driven by commission generation rather than customer objectives. Third, inadequate documentation: the broker failed to document written analysis of why options strategies suited the customer's profile, relying only on telephone approval without suitability analysis. This pattern mirrors FINRA enforcement against excessive options trading in moderate-risk accounts (see multiple AWC settlements involving options recommendations to conservative customers with inadequate documentation).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b): broker must have reasonable basis for suitability and must determine suitability based on customer's investment profile; FINRA Rule 2111(c): broker must have reasonable basis to believe frequent trading is suitable given customer's profile and objectives.
+
+KEY FACTOR
+----------
+Combination of: (1) options recommendation to moderate-risk near-retiree with no options experience, (2) 17.8% annualized turnover indicating churning, and (3) no written suitability analysis.

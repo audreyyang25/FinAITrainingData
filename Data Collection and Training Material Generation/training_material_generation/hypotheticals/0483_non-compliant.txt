@@ -1,0 +1,25 @@
+ID: 483
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered Representative Marcus Williams at wirehouse broker-dealer advisors client Thomas Okafor, age 72, holding $650,000 in a taxable account ($280,000 mutual funds, $370,000 in money market funds earning 0.05%). Williams recommends rolling over $280,000 of mutual fund holdings into a variable annuity (VA) with a 7-year surrender charge schedule (7% Year 1, declining 1% per year), a 1.35% annual 'administrative fee,' a 0.65% underlying fund fee, and a 5.4% upfront commission payable to Williams and the firm. FINRA's 2330 rule requires 'special suitability' for VA exchanges. The firm's suitability file documents only: (1) 'Client seeks income protection'; (2) 'Age 72 appropriate for annuity'; (3) no written analysis of surrender charges, tax consequences, or comparison to existing investments. Thomas has moderate risk tolerance, no immediate liquidity needs, and stated he wanted 'steady, low-cost growth.' The firm's supervision files show no review of this recommendation prior to execution. The VA prospectus discloses the 5.4% commission, but Williams did not orally disclose this figure to Thomas or explain that it would be deducted from the annuity's initial value, reducing his effective investment from $280,000 to $264,880. Six months later, Thomas's account value declined 8% due to market conditions, and he wished to withdraw, but faced a 7% surrender charge ($18,541).
+
+QUESTION
+--------
+Did Williams comply with FINRA Rule 2330 (variable annuity suitability) and did the firm satisfy its supervisory duty under FINRA Rule 3110, given the commission disclosure and surrender-charge analysis gaps?
+
+ANSWER
+------
+No on both counts. (1) FINRA Rule 2330 violation: Williams failed to document the 'special suitability' required for an exchange of existing securities into a VA. The file lacks analysis of: (a) the surrender-charge schedule and its lock-in cost (critical for a 72-year-old with potential liquidity needs); (b) tax consequences of liquidating the mutual funds; (c) comparison of the VA's 2.0% total annual cost (1.35% admin + 0.65% fund) versus the pre-existing low-cost mutual funds; (d) the economic impact of the 5.4% upfront commission. The statement 'age 72 appropriate for annuity' is conclusory, not analysis. (2) Supervision failure (Rule 3110): The firm's supervisory review must include VA recommendations and suitability documentation; the file was incomplete at approval, and the commission was disclosed in the prospectus but not orally communicated in language the client understood. (3) Disclosure gap: Williams failed to explain in plain English that the $280,000 was being reduced by $15,120 (5.4%) before deployment, or the true cost-benefit of the VA versus maintaining low-cost mutual funds for 'steady growth.' This pattern mirrors FINRA AWC 2018-058 (excessive annuity sales to seniors without suitability documentation).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330 (Variable Annuity Suitability); FINRA Rule 3110 (Supervisory Requirements); Reg BI disclosure of material conflicts (17 CFR §240.15l-1(a)(1)(ii))
+
+KEY FACTOR
+----------
+Failure to document special suitability analysis for VA exchange (surrender charges, tax consequences, cost comparison) and supervisory gap in review of complex product recommendation with undisclosed commission impact.

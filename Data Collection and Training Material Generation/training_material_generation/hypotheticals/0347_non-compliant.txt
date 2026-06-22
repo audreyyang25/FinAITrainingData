@@ -1,0 +1,25 @@
+ID: 347
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Between January 2022 and August 2023, a FINRA-registered representative at BrokerCo recommended that client M.T., age 62 with $285,000 in investable assets and moderate risk tolerance, execute 12 switches from American Funds Growth Fund of America A-shares (expense ratio 0.58%) to Vanguard Growth Index Fund A-shares (expense ratio 0.04%). Each switch incurred a 5.75% sales load ($16,413 on the first purchase, declining with subsequent rebalances). Client paid total loads of $58,140 across all transactions. The stated investment objective did not change; the representative documented "portfolio rebalancing" in each recommendation. Firm compliance reviewed 3 of 12 recommendations; none were rejected. The representative earned $3,342 in commissions annually from these switches.
+
+QUESTION
+--------
+Did the representative comply with FINRA Rule 2010 (Standards of Commercial Honor and Principles of Trade) and Rule 2111 (Suitability), given the pattern of frequent A-share switching with repeated front-end loads?
+
+ANSWER
+------
+Non-compliant. Although each individual switch to a lower-cost index fund appears rational, the frequency and pattern violate Rule 2010's requirement of fair dealing and Rule 2111 suitability. FINRA enforcement consistently disciplines representatives for 'churning' or excessive transactions that generate commissions without regard to the client's changed circumstances. The absence of documented changes in M.T.'s financial situation, risk tolerance, or investment objective—combined with the substantial load drag ($58,140 on a $285,000 account = 20.4% total cost)—establishes that the switches were not in the customer's best interest. The representative's commission incentive ($3,342/year) and firm's failure to flag the pattern demonstrate violation of the quantitative prong of suitability (excessiveness).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2010 (Standards of Commercial Honor); FINRA Rule 2111 (Suitability) — quantitative suitability / churning standard
+
+KEY FACTOR
+----------
+Repeated A-share switches without documented changes in client circumstances, generating $58,140 in loads over 20 months, constitutes excessive trading in violation of Rule 2010 and quantitative suitability under Rule 2111.

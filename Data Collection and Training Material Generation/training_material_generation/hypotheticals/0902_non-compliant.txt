@@ -1,0 +1,27 @@
+ID: 902
+Source Folder: 20_SEC_ALJ_OALJ_Decisions
+Topic: alj_ia_violations
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Suzanne Bellamy, a portfolio manager at a registered investment adviser overseeing a $45 million equity mutual fund, executed a series of cross-trades between the fund and a separate private client account she personally managed, routing $3.2 million in underperforming small-cap positions from the private account into the fund at prices slightly above market close without seeking independent valuation or board approval. Bellamy disclosed the cross-trades to her supervisor in a brief email but did not disclose her personal financial interest — she owned a 12% carried interest in the private account — in the fund's Form N-CEN or the clients' account statements. The fund's independent directors were never informed of the transactions. An internal audit 14 months later revealed that the cross-traded securities declined an average of 31% within six months of transfer, resulting in approximately $992,000 in fund losses.
+
+QUESTION
+--------
+Does a portfolio manager's execution of undisclosed cross-trades between a mutual fund and a private account in which she holds a personal financial interest, without board approval or independent valuation, violate the Investment Advisers Act and Investment Company Act?
+
+ANSWER
+------
+No, this conduct is a fraudulent scheme under Investment Advisers Act §206(1) and §206(2), and violates Investment Company Act §17(a) prohibiting affiliated transactions without exemptive relief.
+
+Section 206(1) prohibits intentional fraud on clients, and §206(2) prohibits any practice operating as a deceit, both of which are implicated when a manager self-deals by transferring deteriorating assets from a personally beneficial account into a client fund. Investment Company Act §17(a) flatly prohibits affiliated persons from selling securities to a registered fund unless an exemption under Rule 17a-7 is satisfied, which requires, inter alia, that transactions be at independent market price with no brokerage commission and that the board adopt procedures — conditions Bellamy did not meet. The failure to disclose her carried interest to the fund's directors compounded the fraud, as established in proceedings mirroring the Ballek matter under §203(f) and §9(b) of the Investment Company Act.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act §206(1) and §206(2); Investment Company Act of 1940 §17(a) (Affiliated Transactions); SEC Rule 17a-7 — as reflected in In the Matter of Suzanne Ballek, IA Release No. 6896 (Jul. 15, 2025)
+
+KEY FACTOR
+----------
+Self-dealing cross-trades transferring underperforming assets from a personally beneficial account into a client fund, without board approval, independent valuation, or disclosure of personal financial interest, constitutes both §206 fraud and a per se §17(a) affiliated transaction violation.

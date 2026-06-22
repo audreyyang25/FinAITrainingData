@@ -1,0 +1,27 @@
+ID: 903
+Source Folder: 20_SEC_ALJ_OALJ_Decisions
+Topic: alj_bd_violations
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered investment adviser, Meridian Capital Advisors LLC, manages separate accounts for 23 institutional clients and 8 high-net-worth individuals. In 2023, Meridian began recommending a thinly traded micro-cap issuer, Pacifica Protein Corp., to clients after conducting 60 hours of proprietary research, including management interviews, supply chain analysis, and review of three years of audited financials. Meridian's Form ADV Part 2A disclosed that the firm's research analysts personally held positions in securities the firm recommended, and that Meridian had a policy requiring a 72-hour pre-clearance blackout period before and after client transactions. Two analysts owned Pacifica shares worth $14,200 and $9,800 respectively, disclosed under the policy, and all client purchases were executed after the blackout period. The firm's CCO documented the research basis and conflict mitigation steps in contemporaneous written records.
+
+QUESTION
+--------
+Does Meridian Capital Advisors' recommendation of a micro-cap security in which its analysts hold personal positions constitute a disqualifying conflict of interest under the Investment Advisers Act, notwithstanding the firm's disclosure and pre-clearance procedures?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+Rule 204A-1 requires registered investment advisers to adopt a code of ethics that includes personal trading pre-clearance procedures and reporting requirements, but does not prohibit analysts from holding positions in recommended securities provided conflicts are properly disclosed and managed. Meridian's 72-hour blackout period, advance disclosure in Form ADV, and contemporaneous documentation of the research basis and conflict mitigation satisfy the rule's requirements. The relatively modest personal holdings ($14,200 and $9,800) further weigh against a finding of material undisclosed conflict, as the analysts lacked sufficient position size to materially benefit from client-driven price movement in a manner that would operate as a deceit under §206(2).
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act §206(2); SEC Rule 204A-1 (Code of Ethics for Investment Advisers); Form ADV Part 2A Disclosure Requirements
+
+KEY FACTOR
+----------
+Full pre-trade disclosure, a documented blackout period, and a written research record demonstrating independent analytical basis are the pivotal compliance factors that distinguish permissible personal holdings from actionable conflicts under Rule 204A-1.

@@ -1,0 +1,27 @@
+ID: 973
+Source Folder: 23_International_Comparative
+Topic: iosco_cross_border_suitability_digital_advice
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A robo-advisory firm regulated in multiple jurisdictions designs its onboarding algorithm to collect granular client data including financial situation, investment objectives, risk capacity, risk tolerance, investment knowledge, and time horizon for each account. The algorithm is validated annually by an independent third party and is calibrated to align portfolio recommendations with each client's assessed profile; clients assessed as low-risk are systematically excluded from portfolios containing leveraged or illiquid instruments. The firm maintains auditable records of each client's input data, the algorithm's output, and the resulting portfolio allocation, with records retained for a minimum of seven years. A human compliance officer reviews flagged edge-case recommendations before they are executed.
+
+QUESTION
+--------
+Does the robo-advisory firm's automated suitability process satisfy IOSCO's 2021 Suitability Principles applicable to digital financial advice platforms?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+IOSCO's 2021 Suitability Principles require firms delivering automated advice to collect sufficient client information, ensure recommendation logic is validated and fit for purpose, and maintain records demonstrating the suitability basis for each recommendation. The firm satisfies all six principles through comprehensive data collection, annual algorithm validation, systematic exclusion of unsuitable instruments for lower-risk profiles, human supervisory oversight of edge cases, and seven-year record retention supporting regulatory auditability.
+
+APPLICABLE STANDARD
+-------------------
+IOSCO Suitability Principles 2021 (Principles 1-6); IOSCO Report on Digital and Sustainable Finance (2021); MiFID II Art. 25 (as cross-reference standard)
+
+KEY FACTOR
+----------
+Independent algorithm validation, systematic risk-based product exclusion logic, and auditable record-keeping collectively demonstrate compliance with IOSCO automated suitability principles.

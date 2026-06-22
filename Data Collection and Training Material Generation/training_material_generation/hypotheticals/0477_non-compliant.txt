@@ -1,0 +1,25 @@
+ID: 477
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Investment adviser Patricia manages a $180 million actively managed equity fund. In Q2 2023, she executed 1,200 equity trades via her affiliated broker-dealer (BD), generating $340,000 in soft-dollar credits that she allocated toward market research subscriptions ($200,000), compliance software ($85,000), and trading terminal fees ($55,000). Patricia's fund prospectus discloses "soft-dollar arrangements may be entered into at the adviser's discretion" but does not specify that soft dollars offset adviser operating expenses, effectively reducing her cost of managing the fund. She allocates soft dollars across all fund shareholders but documents no analysis showing that the research obtained benefited fund holders proportionately. Separately, her portfolio managers execute trades with her affiliated BD at commissions averaging 0.045% (versus 0.028% available from non-affiliated competitors). Patricia directs trades to the affiliated BD to generate soft dollars, even when best execution (faster fills, tighter spreads) would be achieved through competing platforms. No rebate or benefit allocation disclosure appears in the fund's SAI beyond the general prospectus language.
+
+QUESTION
+--------
+Did Patricia violate the Investment Adviser Act §206(1) (duty of loyalty) and §206(2) (duty of care) regarding soft-dollar arrangements and best execution?
+
+ANSWER
+------
+Yes, on both counts. Under IA Act §206(1), an adviser must act with complete good faith and put client interests first; Patricia's undisclosed use of soft dollars to offset her own operating costs (research, software) is a classic loyalty violation—she benefited from reduced overhead while fund shareholders bore the excess commissions. SEC Marketing Rule guidance and IA-5653 amendments emphasize advisers must disclose material conflicts; the SAI disclosure is inadequate because it fails to quantify the benefit to the adviser. §206(2) requires reasonable care; Patricia failed to demonstrate that the 0.045% commission rate served best execution—the 0.017% premium to competitors shows she prioritized soft-dollar generation over execution quality, harming fund performance.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act §206(1) (Duty of Loyalty); §206(2) (Duty of Care); SEC Soft Dollar Policy (Compliance Outreach 2006); Best Execution Standard (similar to FINRA 5310 principles for advisers)
+
+KEY FACTOR
+----------
+Directing trades to affiliated BD at above-market rates to generate soft dollars that reduced adviser's operating costs—not fund holder costs—evidences disloyalty and failure to seek best execution.

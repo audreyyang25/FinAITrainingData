@@ -1,0 +1,27 @@
+ID: 135
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 62-year-old plan participant with $1.2 million in a 401(k) at a large company with a robust, low-cost investment menu (0.08–0.15% ER on index funds; 0.35–0.52% ER on actively managed options) meets with an advisor who recommends rolling over 60% of the account ($720,000) to an IRA for 'enhanced retirement income planning' through structured note products (3.5% fee plus embedded leverage) and separately managed accounts (SMAs) (1.1% advisory fee). The advisor provides a written analysis comparing the 401(k) to the IRA but focuses on access to 'sophisticated strategies' rather than fee comparison or risk-adjusted returns. The advisor does not disclose that the participant will lose the 401(k) plan's $25 per-transaction rebalancing service. A PTE 2020-02 BICE is executed, but the advisor receives 60 basis points annually on AUM from the IRA while receiving no ongoing compensation from the 401(k).
+
+QUESTION
+--------
+Does this partial rollover recommendation comply with ERISA § 404(a)(1)(A) fiduciary duty?
+
+ANSWER
+------
+No, this violates ERISA § 404(a)(1)(A) fiduciary duty and ERISA § 406(b) conflict-of-interest standards.
+
+Although the advisor executed a PTE 2020-02 BICE, the underlying advice fails ERISA § 404(a)(1)(A) because the comparative analysis is incomplete and motivated by self-interest. The 401(k) plan offers genuinely low-cost diversified options (0.08–0.52% ER), yet the advisor recommends rolling 60% to products charging 3.5% plus leverage and 1.1% AUM fees—a material increase in cost that is not justified by documented superior risk-adjusted returns. The advisor's emphasis on 'sophisticated strategies' substitutes marketing language for fiduciary analysis. Moreover, the advisor receives 60 basis points annually on the rolled-over $720,000 (approximately $4,320 annually) while earning nothing on assets remaining in the 401(k), creating a powerful financial incentive to maximize the rollover. Under ERISA § 406(b), this conflict is improper even with BICE disclosure unless the advisor's analysis affirmatively establishes that the more expensive products serve the participant's best interest—which the record does not show. The failure to disclose the loss of the 401(k) rebalancing service compounds the breach. A prudent fiduciary would have documented that the costs and loss of plan features are offset by measurable, participant-specific benefits.
+
+APPLICABLE STANDARD
+-------------------
+ERISA § 404(a)(1)(A) (duty to act solely in participant's interest with care, skill, and diligence); ERISA § 406(b) (prohibited self-dealing by fiduciaries); PTE 2020-02 § I.C (rollover advice must be objectively in best interest); 29 CFR § 2550.404a-3(b)(3) (comparative analysis requirement).
+
+KEY FACTOR
+----------
+Partial rollover justified primarily by access to 'sophisticated strategies' rather than fee comparison or risk-adjusted return analysis, combined with substantial ongoing AUM compensation conflict on the rolled assets and non-disclosure of lost plan services.

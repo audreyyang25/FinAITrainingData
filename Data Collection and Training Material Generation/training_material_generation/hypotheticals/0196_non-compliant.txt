@@ -1,0 +1,27 @@
+ID: 196
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $420,000 in investable assets and moderate risk tolerance was recommended a non-traded REIT with a 7% front-end load and 2% annual management fee. The advisor documented that the client's stated investment objective was 'long-term appreciation with illiquidity acceptable.' No other advisor at the firm recommended non-traded REITs that year. The REIT prospectus disclosed all fees clearly, and the client signed a suitability statement.
+
+QUESTION
+--------
+Does this recommendation satisfy Reg BI and FINRA suitability requirements despite the high upfront cost structure?
+
+ANSWER
+------
+No, this likely violates the applicable standards.
+
+While disclosure of fees and client agreement are necessary, they are not sufficient under Reg BI and FINRA rules. Rule 15l-1(b)(2)(ii) requires advisors to eliminate or disclose material conflicts, and for non-traded REITs, FINRA Rule 5110(c)(3) requires that sales be limited to no more than 10% of the customer's liquid net worth. Here, $420,000 × 7% load = $29,400 in immediate compensation creates a significant incentive to recommend this illiquid, high-cost vehicle. The fact that no other advisor recommended REITs that year, combined with the client's moderate (not aggressive) risk tolerance and the illiquidity profile, suggests the recommendation prioritized the advisor's compensation over the client's best interest. Suitability requires reasonable basis and suitability to the individual; a non-traded REIT with 9%+ blended fees is disfavored for moderate-risk clients absent exceptional justification.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability), SEC Regulation Best Interest (Rule 15l-1(b)(2)(ii) — conflict of interest mitigation), and FINRA Rule 5110 (non-traded REIT sales practice standards)
+
+KEY FACTOR
+----------
+The 9% combined load and annual fee structure creates a material compensation conflict that was disclosed but not mitigated, and the high concentration relative to client risk tolerance and need for liquidity suggests the recommendation was driven by advisor compensation incentives rather than client benefit.

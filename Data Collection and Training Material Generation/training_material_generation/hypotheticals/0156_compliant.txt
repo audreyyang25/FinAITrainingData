@@ -1,0 +1,27 @@
+ID: 156
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A broker-dealer manages a $3.2M discretionary account for a 48-year-old hedge fund manager with stated objective 'absolute return / capital preservation in all market conditions,' high risk tolerance (client is sophisticated and has 15+ years hedge fund experience), and 3-5 year time horizon for tactical repositioning. The broker executes 156 round-trip trades annually (approx. 3 per week) across equities, options, index futures, and forex pairs. Annual turnover ratio: 5.2x. Annual commissions: $22,400 (0.7% of AUM). The broker has provided: (i) a detailed written investment policy statement documenting the 'absolute return / tactical' strategy; (ii) quarterly reports explaining each trade cluster by strategy (market neutral, event arbitrage, volatility overlay); (iii) three years of performance data showing strategy has delivered 8.2% annualized returns with 3.1% volatility vs. S&P 500 at 11.2% returns and 12.4% volatility; (iv) annual certification from client acknowledging and approving the high-turnover strategy. The client is accredited and has signed acknowledgment of conflicts of interest and fee structures.
+
+QUESTION
+--------
+Does this high-turnover trading pattern comply with FINRA Rule 2111(b) and general fiduciary standards?
+
+ANSWER
+------
+Yes, this conduct complies with the suitability standard and fiduciary requirements.
+
+Despite the high 5.2x turnover, this satisfies Rule 2111(b) because: (1) the client is a sophisticated, experienced hedge fund manager with explicit knowledge and approval of the absolute-return, tactical strategy; (2) the documented IPS clearly states the 3-5 year tactical horizon and explains high turnover as central to strategy execution; (3) the 0.7% annual commission cost is reasonable given the strategy complexity and the delivered results (8.2% return with 3.1% volatility vs. market alternatives); (4) the quarterly reports and annual certifications demonstrate ongoing, informed client consent; (5) the performance record shows the strategy has merit — turnover is not generating costs without benefit. Rule 2111(b)'s prohibition on excessive trading is contextual: 5.2x turnover is 'excessive' for a retiree but reasonable for a sophisticated trader pursuing absolute returns through tactical arbitrage and hedging. The detailed disclosures, IPS, and client certifications establish compliance with Rule 206(4)-8 (written compliance procedures) and fiduciary duty of care. This pattern reflects FINRA-compliant active management for a client whose profile, sophistication, and explicit strategy authorization justify high turnover.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) and (b): Suitability based on reasonable basis, customer-specific factors, and prohibition on excessive transactions. SEC Rule 206(4)-8 and common law fiduciary duty permitting active trading when aligned with documented strategy and client objectives.
+
+KEY FACTOR
+----------
+Sophisticated client with documented approval of tactical absolute-return strategy; detailed IPS and quarterly reports justifying each trade; verifiable performance showing strategy merit; annual client certification of high-turnover approach; client sophistication and hedge fund experience.

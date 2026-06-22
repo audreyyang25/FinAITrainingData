@@ -1,0 +1,25 @@
+ID: 273
+Source Folder: unknown
+Topic: ia_cherry_picking
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Patriot Investment Advisors, a mid-sized RIA managing $480M in AUM, established a written Allocation Policy in January 2022 stating: 'All block trades shall be allocated pro rata based on portfolio notional value at time of order.' On June 10, 2023, the firm's trader executed a block short sale of 3,000 shares of TechStock at $125/share ($375,000 notional). Three client portfolios were eligible: Portfolio X ($12M notional, 80 shares allocated), Portfolio Y ($18M notional, 120 shares allocated), and Patriot's proprietary account ($3M, 20 shares allocated). By noon the same day, TechStock fell to $118, creating a $21,000 unrealized gain on the position. The trader then reallocated shares: 30 shares to Portfolio X, 40 to Portfolio Y, and 1,930 to Patriot's account. The adviser did not obtain client consent and made no disclosure of the reallocation.
+
+QUESTION
+--------
+Does this constitute a cherry-picking violation despite the existence of a written allocation policy, and what is the legal standard?
+
+ANSWER
+------
+Yes, this violates Section 206(1) (duty of loyalty) and Rule 17j-1(b) (consistent application of written policy). Although Patriot adopted a written pro-rata allocation policy, it abandoned that policy after observing intra-day performance gains and reallocated to favor its own account. Rule 17j-1(b)(1) requires that any written policy be 'consistently applied.' Courts and the SEC treat deviation from a written policy post-execution—especially when performance information becomes available—as intentional cherry-picking, not inadvertent mistake. The reallocation occurred before client knowledge, consent was not obtained, and the timing correlates exactly with the price movement. The fact that the adviser *had* a policy makes the deviation more culpable, not less, because it shows deliberate circumvention. This mirrors SEC enforcement patterns in cases like in re Beacon Hill Asset Mgmt.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act Section 206(1) (fiduciary duty of loyalty); SEC Rule 17j-1(b)(1) (consistent application of written allocation policy)
+
+KEY FACTOR
+----------
+Deliberate deviation from written pro-rata allocation policy post-execution to favor adviser's account after observing price gain constitutes cherry-picking.

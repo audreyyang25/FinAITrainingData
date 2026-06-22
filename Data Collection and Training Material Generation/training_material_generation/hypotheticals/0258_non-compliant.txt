@@ -1,0 +1,25 @@
+ID: 258
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+AdvisorNY, a SEC-registered investment adviser, manages $450 million in AUM. Its Form CRS stated: 'We charge advisory fees based on assets under management: 1.00% per annum on accounts under $250,000; 0.75% on accounts $250,000–$1 million; and 0.50% on accounts exceeding $1 million.' In practice, AdvisorNY charged a minimum annual advisory fee of $2,500 per account, which was not disclosed on Form CRS. For a 28-year-old client, David Wu, opening an account with $50,000, the minimum fee created an effective cost of 5.0% annually—not the 1.00% tiered rate listed on Form CRS. The fee schedule was accurate for larger accounts but materially misleading for smaller accounts. The firm had not updated Form CRS in two years despite knowing the minimum fee structure.
+
+QUESTION
+--------
+Did AdvisorNY's Form CRS adequately disclose its fee structure in compliance with Reg BI requirements?
+
+ANSWER
+------
+No. Form CRS Item 5 requires clear and accurate disclosure of 'the amount and types of fees and costs' including all material costs that reduce returns. Stating only tiered rates of 1.00%–0.50% without disclosing the $2,500 minimum annual fee is materially misleading because it omits a significant cost that applies to the entire clientele under $250,000. This violates the clarity and accuracy standards articulated in SEC IA Marketing Rule IA-5653 (adopted 2020), which requires that material information not be omitted or presented in a manner that obscures or disguises its significance. The omission would likely cause a retail client to misunderstand the true cost of the relationship.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Disclosure Obligation, 17 CFR § 240.15l-1(g); Form CRS Item 5; SEC Marketing Rule IA-5653 clarity standard
+
+KEY FACTOR
+----------
+Material fee components (minimum fees) must be disclosed on Form CRS; omission renders the tiered rate disclosure misleading.

@@ -1,0 +1,27 @@
+ID: 686
+Source Folder: 10_Academic_Articles
+Topic: conflicts_research
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+An SEC-registered investment adviser with $200 million in AUM uses a model portfolio that includes a 5% allocation to an ETF managed by an affiliated sub-adviser. The affiliated ETF has a 0.18% expense ratio, which is lower than the 0.25% expense ratio of the comparable non-affiliated ETF in the same asset class that the adviser previously used. The adviser's Form ADV Part 2A specifically discloses the affiliated relationship, identifies the affiliated ETF by name, states the exact additional revenue the firm's affiliate earns from the allocation, and quantifies the annual per-account cost savings compared to the prior non-affiliated ETF. The adviser's investment committee documented the selection process, including a side-by-side comparison of five competing ETFs on the basis of expense ratio, tracking error, liquidity, and tax efficiency. Clients received a supplemental disclosure letter and were given 30 days to opt out of the affiliated allocation. A 45-year-old client with a $320,000 moderate-growth portfolio holds $16,000 in the affiliated ETF.
+
+QUESTION
+--------
+Does the adviser's use of an affiliated ETF in client portfolios violate the fiduciary duty of loyalty under the Advisers Act?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The Advisers Act fiduciary duty does not categorically prohibit affiliated product usage; rather, it requires full and fair disclosure of the conflict and informed client consent. As outlined in SEC Release IA-4889, an adviser may manage conflicts through a combination of disclosure and consent, particularly when the adviser can demonstrate that the recommendation is in the client's best interest notwithstanding the conflict. Here, the adviser provided specific, quantified disclosure of the affiliated relationship and revenue, documented a rigorous investment committee selection process comparing multiple alternatives, demonstrated that the affiliated ETF was objectively lower-cost with comparable or superior investment characteristics, and offered clients an opt-out mechanism. This represents a best-practice approach to managing affiliated product conflicts.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940 §206(1) and §206(2); SEC Release No. IA-4889 (Proposed Interpretation Regarding Standard of Conduct for Investment Advisers)
+
+KEY FACTOR
+----------
+The adviser provided specific and quantified conflict disclosure, documented a rigorous comparative selection process demonstrating the affiliated ETF's objective superiority, and offered clients an opt-out right, satisfying the fiduciary duty of loyalty through full disclosure and informed consent.

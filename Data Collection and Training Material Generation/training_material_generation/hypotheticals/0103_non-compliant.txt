@@ -1,0 +1,27 @@
+ID: 103
+Source Folder: unknown
+Topic: finra_suitability
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old public school teacher with $200,000 in a deferred-compensation plan (457 account) and a modest pension approached a broker about investing her lump-sum distribution. Her account notes stated 'conservative risk tolerance' and 'retirement in 7 years.' The broker recommended a $180,000 allocation to a non-traded REIT fund (12% front-end load, 2% annual expenses, 7-year liquidity lock-up). The prospectus disclosed the REIT target yield was 8% (paid via return of capital and distributions). The broker documented suitability as 'client needs income' but did not analyze the client's pension income sufficiency or discuss the liquidity restriction's interaction with the 7-year retirement timeline.
+
+QUESTION
+--------
+Does this recommendation satisfy FINRA Rule 2111 suitability?
+
+ANSWER
+------
+No, this violates the suitability standard.
+
+The recommendation fails the customer-specific suitability prong. The client has a 7-year retirement timeline and stated conservative risk tolerance, but the broker recommended a 7-year liquidity lock-up investment, creating a maturity-mismatch risk: if the client needs funds before retirement, she cannot access her capital without significant penalties. A conservative investor retiring in 7 years typically requires accessibility to capital for transition or emergency needs. The 12% front-end load and 2% annual fees (14% total cost if held 7 years) are steep for a conservative income investor and consume the target 8% yield. The broker's bare statement 'client needs income' lacks analysis of whether the client's pension income alone is sufficient (likely yes for a public school teacher), making the non-traded REIT's income focus potentially unsuitable. FINRA cases have found suitability violations when brokers recommend illiquid products to pre-retirement clients without analyzing liquidity needs (In re Morgan Stanley, 2015).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 requires customer-specific suitability analysis considering the customer's financial situation, needs, and time horizon. Reg BI §240.15l-1(d) similarly requires analysis of conflicts of interest and alternatives.
+
+KEY FACTOR
+----------
+A 7-year liquidity lock-up is fundamentally misaligned with a client's 7-year retirement timeline and conservative risk tolerance, requiring documented analysis that was absent.

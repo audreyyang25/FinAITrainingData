@@ -1,0 +1,27 @@
+ID: 634
+Source Folder: 07_Practitioner_Commentary
+Topic: compliance_program_design
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A mid-sized dual-registrant broker-dealer/investment adviser undergoes a routine OCIE examination in early 2021, which was flagged under the SEC's 2020 Examination Priorities focus on fintech and electronic investment advice. The firm operates a digital advisory platform that recommends model portfolios of ETFs to retail investors. Despite the novel technology, the firm had proactively built its Reg BI compliance program to address all four component obligations: the Care Obligation is met through an algorithm that evaluates cost, risk, and client financial profile before each recommendation; the Disclosure Obligation is met through a detailed pre-recommendation disclosure document delivered electronically; the Conflict of Interest Obligation is addressed through policies eliminating revenue-sharing arrangements with ETF sponsors; and the Compliance Obligation is met through quarterly testing of the algorithm's outputs, annual training of all associated persons, and a dedicated compliance officer for the digital platform. The firm also delivers a compliant Form CRS including the investor.gov/crs link at account opening.
+
+QUESTION
+--------
+Does the firm's digital advisory platform compliance framework satisfy Reg BI's four component obligations and Form CRS requirements despite operating through an automated recommendation engine?
+
+ANSWER
+------
+Yes, this conduct is compliant.
+
+The OCIE 2020 Examination Priorities specifically highlighted fintech and electronic investment advice as an examination focus area, signaling heightened scrutiny of digital platforms. The firm addressed this by building a comprehensive Reg BI compliance program tailored to its digital model: algorithmic cost-risk-profile analysis satisfies the Care Obligation, pre-recommendation electronic disclosures satisfy the Disclosure Obligation, elimination of revenue-sharing addresses conflicts, and quarterly algorithm testing with annual training and dedicated compliance personnel satisfies the Compliance Obligation. The firm's proactive approach to a novel technology delivery channel represents the kind of compliance program design that practitioner commentary identifies as industry best practice.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i)-(iv) – Reg BI Care, Disclosure, Conflict of Interest, and Compliance Obligations; SEC Form CRS; OCIE 2020 Examination Priorities (Fintech/Electronic Investment Advice)
+
+KEY FACTOR
+----------
+The firm's proactive design of a Reg BI compliance program specifically tailored to its digital advisory platform — including algorithmic testing, conflict elimination, and dedicated compliance oversight — demonstrates that automated recommendation channels can satisfy all four Reg BI component obligations.

@@ -1,0 +1,248 @@
+[01:38:14] 
+============================================================
+[01:38:14] Hypothetical EXPANDER — 2026-02-28 01:38
+[01:38:14] ============================================================
+
+[01:38:14] Loaded 205 existing hypotheticals
+[01:38:14] 
+  ── reg_bi_care_expanded ──
+[01:38:14]   Need: 25 (have 0/25)
+[01:38:14]     Generating 10 (IDs 206–215)...
+[01:38:53]     ✓  Got 7. Running total: 212
+[01:38:54]     Generating 10 (IDs 213–222)...
+[01:39:35]     ✓  Got 5. Running total: 217
+[01:39:37]     Generating 10 (IDs 218–227)...
+[01:40:18]     ✓  Got 5. Running total: 222
+[01:40:19]     Generating 8 (IDs 223–230)...
+[01:41:02]     ✓  Got 5. Running total: 227
+[01:41:03]     Generating 3 (IDs 228–230)...
+[01:41:27]     ✓  Got 3. Running total: 230
+[01:41:28] 
+  ── reg_bi_conflict_expanded ──
+[01:41:28]   Need: 20 (have 0/20)
+[01:41:28]     Generating 10 (IDs 231–240)...
+[01:42:10]     ✓  Got 5. Running total: 235
+[01:42:11]     Generating 10 (IDs 236–245)...
+[01:42:55]     ✓  Got 5. Running total: 240
+[01:42:56]     Generating 10 (IDs 241–250)...
+[01:43:37]     ✓  Got 6. Running total: 246
+[01:43:38]     Generating 4 (IDs 247–250)...
+[01:44:12]     ✓  Got 4. Running total: 250
+[01:44:13] 
+  ── form_crs_disclosure ──
+[01:44:13]   Need: 15 (have 0/15)
+[01:44:13]     Generating 10 (IDs 251–260)...
+[01:44:53]     ✓  Got 6. Running total: 256
+[01:44:54]     Generating 9 (IDs 257–265)...
+[01:45:34]     ✓  Got 6. Running total: 262
+[01:45:35]     Generating 3 (IDs 263–265)...
+[01:45:55]     ✓  Got 3. Running total: 265
+[01:45:56] 
+  ── ia_cherry_picking ──
+[01:45:56]   Need: 15 (have 0/15)
+[01:45:56]     Generating 10 (IDs 266–275)...
+[01:46:39]     ✓  Got 6. Running total: 271
+[01:46:40]     Generating 9 (IDs 272–280)...
+[01:47:20]     ✓  Got 6. Running total: 277
+[01:47:21]     Generating 3 (IDs 278–280)...
+[01:47:45]     ✓  Got 3. Running total: 280
+[01:47:46] 
+  ── ia_best_execution ──
+[01:47:46]   Need: 15 (have 0/15)
+[01:47:46]     Generating 10 (IDs 281–290)...
+[01:48:26]     ✓  Got 6. Running total: 286
+[01:48:27]     Generating 9 (IDs 287–295)...
+[01:49:08]     ✓  Got 6. Running total: 292
+[01:49:09]     Generating 3 (IDs 293–295)...
+[01:49:33]     ✓  Got 3. Running total: 295
+[01:49:34] 
+  ── ia_fee_arrangements ──
+[01:49:34]   Need: 15 (have 0/15)
+[01:49:34]     Generating 10 (IDs 296–305)...
+[01:50:13]     ✓  Got 7. Running total: 302
+[01:50:14]     Generating 8 (IDs 303–310)...
+[01:50:56]     ✓  Got 6. Running total: 308
+[01:50:57]     Generating 2 (IDs 309–310)...
+[01:51:12]     ✓  Got 2. Running total: 310
+[01:51:13] 
+  ── ia_dual_registration ──
+[01:51:13]   Need: 10 (have 0/10)
+[01:51:13]     Generating 10 (IDs 311–320)...
+[01:51:55]     ✓  Got 5. Running total: 315
+[01:51:56]     Generating 5 (IDs 316–320)...
+[01:52:34]     ✓  Got 5. Running total: 320
+[01:52:35] 
+  ── finra_quantitative_suitability ──
+[01:52:35]   Need: 15 (have 0/15)
+[01:52:35]     Generating 10 (IDs 321–330)...
+[01:53:12]     ✓  Got 6. Running total: 326
+[01:53:13]     Generating 9 (IDs 327–335)...
+[01:53:53]     ✓  Got 6. Running total: 332
+[01:53:54]     Generating 3 (IDs 333–335)...
+[01:54:18]     ✓  Got 3. Running total: 335
+[01:54:19] 
+  ── finra_awc_patterns ──
+[01:54:19]   Need: 20 (have 0/20)
+[01:54:19]     Generating 10 (IDs 336–345)...
+[01:55:02]     ✓  Got 5. Running total: 340
+[01:55:03]     Generating 10 (IDs 341–350)...
+[01:55:47]     ✓  Got 6. Running total: 346
+[01:55:48]     Generating 9 (IDs 347–355)...
+[01:56:31]     ✓  Got 5. Running total: 351
+[01:56:32]     Generating 4 (IDs 352–355)...
+[01:57:00]     ✓  Got 4. Running total: 355
+[01:57:01] 
+  ── finra_supervision ──
+[01:57:01]   Need: 10 (have 0/10)
+[01:57:01]     Generating 10 (IDs 356–365)...
+[01:57:42]     ✓  Got 6. Running total: 361
+[01:57:43]     Generating 4 (IDs 362–365)...
+[01:58:14]     ✓  Got 4. Running total: 365
+[01:58:15] 
+  ── dol_rollover_analysis ──
+[01:58:15]   Need: 20 (have 0/20)
+[01:58:15]     Generating 10 (IDs 366–375)...
+[01:58:56]     ✓  Got 5. Running total: 370
+[01:58:57]     Generating 10 (IDs 371–380)...
+[01:59:39]     ✓  Got 5. Running total: 375
+[01:59:40]     Generating 10 (IDs 376–385)...
+[02:00:21]     ✓  Got 5. Running total: 380
+[02:00:22]     Generating 5 (IDs 381–385)...
+[02:00:54]     ✓  Got 5. Running total: 385
+[02:00:55] 
+  ── dol_plan_adviser ──
+[02:00:55]   Need: 10 (have 0/10)
+[02:00:55]     Generating 10 (IDs 386–395)...
+[02:01:36]     ✓  Got 5. Running total: 390
+[02:01:37]     Generating 5 (IDs 391–395)...
+[02:02:13]     ✓  Got 5. Running total: 395
+[02:02:14] 
+  ── state_fiduciary_rules ──
+[02:02:14]   Need: 15 (have 0/15)
+[02:02:14]     Generating 10 (IDs 396–405)...
+[02:02:53]     ✓  Got 6. Running total: 401
+[02:02:55]     Generating 9 (IDs 402–410)...
+[02:03:32]     ✓  Got 6. Running total: 407
+[02:03:34]     Generating 3 (IDs 408–410)...
+[02:03:55]     ✓  Got 3. Running total: 410
+[02:03:56] 
+  ── esg_sustainable_investing ──
+[02:03:56]   Need: 10 (have 0/10)
+[02:03:56]     Generating 10 (IDs 411–420)...
+[02:04:37]     ✓  Got 5. Running total: 415
+[02:04:38]     Generating 5 (IDs 416–420)...
+[02:05:18]     ✓  Got 5. Running total: 420
+[02:05:19] 
+  ── digital_assets_crypto ──
+[02:05:19]   Need: 10 (have 0/10)
+[02:05:19]     Generating 10 (IDs 421–430)...
+[02:05:58]     ✓  Got 6. Running total: 426
+[02:05:59]     Generating 4 (IDs 427–430)...
+[02:06:26]     ✓  Got 4. Running total: 430
+[02:06:27] 
+  ── ai_robo_adviser ──
+[02:06:27]   Need: 8 (have 0/8)
+[02:06:27]     Generating 8 (IDs 431–438)...
+[02:07:07]     ✓  Got 5. Running total: 435
+[02:07:08]     Generating 3 (IDs 436–438)...
+[02:07:31]     ✓  Got 3. Running total: 438
+[02:07:32] 
+  ── senior_investor_expanded ──
+[02:07:32]   Need: 12 (have 0/12)
+[02:07:32]     Generating 10 (IDs 439–448)...
+[02:24:13] 
+============================================================
+[02:24:13] Hypothetical EXPANDER — 2026-02-28 02:24
+[02:24:13] ============================================================
+
+[02:24:13] Loaded 438 existing hypotheticals
+[02:24:13]   reg_bi_care_expanded: already complete (25)
+[02:24:13]   reg_bi_conflict_expanded: already complete (20)
+[02:24:13]   form_crs_disclosure: already complete (15)
+[02:24:13]   ia_cherry_picking: already complete (15)
+[02:24:13]   ia_best_execution: already complete (15)
+[02:24:13]   ia_fee_arrangements: already complete (15)
+[02:24:13]   ia_dual_registration: already complete (10)
+[02:24:13]   finra_quantitative_suitability: already complete (15)
+[02:24:13]   finra_awc_patterns: already complete (20)
+[02:24:13]   finra_supervision: already complete (10)
+[02:24:13]   dol_rollover_analysis: already complete (20)
+[02:24:13]   dol_plan_adviser: already complete (10)
+[02:24:13]   state_fiduciary_rules: already complete (15)
+[02:24:13]   esg_sustainable_investing: already complete (10)
+[02:24:13]   digital_assets_crypto: already complete (10)
+[02:24:13]   ai_robo_adviser: already complete (8)
+[02:24:13] 
+  ── senior_investor_expanded ──
+[02:24:13]   Need: 12 (have 0/12)
+[02:24:13]     Generating 10 (IDs 439–448)...
+[02:24:57]     ✓  Got 5. Running total: 443
+[02:24:59]     Generating 7 (IDs 444–450)...
+[02:25:44]     ✓  Got 5. Running total: 448
+[02:25:45]     Generating 2 (IDs 449–450)...
+[02:26:03]     ✓  Got 2. Running total: 450
+[02:26:04] 
+  ── compliant_nuanced ──
+[02:26:04]   Need: 20 (have 0/20)
+[02:26:04]     Generating 10 (IDs 451–460)...
+[02:26:48]     ✓  Got 7. Running total: 457
+[02:26:49]     Generating 10 (IDs 458–467)...
+[02:27:32]     ✓  Got 6. Running total: 463
+[02:27:33]     Generating 7 (IDs 464–470)...
+[02:28:15]     ✓  Got 5. Running total: 468
+[02:28:16]     Generating 2 (IDs 469–470)...
+[02:28:35]     ✓  Got 2. Running total: 470
+[02:28:36] 
+  ── multi_issue_complex ──
+[02:28:36]   Need: 15 (have 0/15)
+[02:28:36]     Generating 10 (IDs 471–480)...
+[02:29:19]     ✓  Got 5. Running total: 475
+[02:29:20]     Generating 10 (IDs 476–485)...
+[02:30:06]     ✓  Got 5. Running total: 480
+[02:30:07]     Generating 5 (IDs 481–485)...
+[02:30:52]     ✓  Got 4. Running total: 484
+[02:30:53]     Generating 1 (IDs 485–485)...
+[02:31:05]     ✓  Got 1. Running total: 485
+[02:31:06] 
+============================================================
+[02:31:06] EXPANSION COMPLETE
+[02:31:06] Added: 47 new hypotheticals
+[02:31:06] Total: 485 hypotheticals
+[02:31:06] JSON: /Users/allenferrell/Desktop/FinAdvisor_Training/hypotheticals.json
+[02:31:06] ============================================================
+
+[02:31:06] Compliant: 168 | Non-compliant: 317
+[02:31:06] By topic:
+[02:31:06]   ai_robo_adviser: 8
+[02:31:06]   churning_excessive: 15
+[02:31:06]   compliant_edge: 10
+[02:31:06]   compliant_nuanced: 20
+[02:31:06]   concentration: 10
+[02:31:06]   digital_assets_crypto: 10
+[02:31:06]   dol_erisa: 15
+[02:31:06]   dol_plan_adviser: 10
+[02:31:06]   dol_rollover_analysis: 20
+[02:31:06]   esg_sustainable_investing: 10
+[02:31:06]   finra_awc_patterns: 20
+[02:31:06]   finra_quantitative_suitability: 15
+[02:31:06]   finra_suitability: 25
+[02:31:06]   finra_supervision: 10
+[02:31:06]   form_crs_disclosure: 15
+[02:31:06]   ia_best_execution: 15
+[02:31:06]   ia_cherry_picking: 15
+[02:31:06]   ia_dual_registration: 10
+[02:31:06]   ia_duty_of_care: 15
+[02:31:06]   ia_fee_arrangements: 15
+[02:31:06]   ia_fiduciary_duty: 25
+[02:31:06]   multi_issue_complex: 15
+[02:31:06]   options_complex: 5
+[02:31:06]   reg_bi_care: 20
+[02:31:06]   reg_bi_care_expanded: 25
+[02:31:06]   reg_bi_conflict: 15
+[02:31:06]   reg_bi_conflict_expanded: 20
+[02:31:06]   reg_bi_disclosure: 10
+[02:31:06]   senior_investor: 5
+[02:31:06]   senior_investor_expanded: 12
+[02:31:06]   state_fiduciary_rules: 15
+[02:31:06]   undisclosed_conflict: 15
+[02:31:06]   variable_annuity: 20

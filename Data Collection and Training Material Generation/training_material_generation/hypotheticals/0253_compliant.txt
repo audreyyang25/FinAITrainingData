@@ -1,0 +1,25 @@
+ID: 253
+Source Folder: unknown
+Topic: form_crs_disclosure
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+DualReg Partners is a dual-registered firm (broker-dealer and SEC-registered investment adviser with $320 million AUM). On January 10, 2024, the firm opened account for client David Kim, age 54, with $175,000 to invest. Before account opening, the firm delivered a clear Form CRS (Form CRS Part 2.A) that explained in plain language: 'We act as a BROKER-DEALER when we buy and sell securities for you and earn commissions on transactions' and 'We act as an INVESTMENT ADVISER when we manage your account under an IMA and charge advisory fees.' The form separately described the broker-dealer standard (suitability under FINRA Rule 2111) vs. the adviser standard (fiduciary duty) using bolded, side-by-side comparison tables. The client signed an acknowledgment of receipt of Form CRS prior to transferring funds. When recommending a $50,000 portfolio in individual stocks (broker-dealer capacity, 1% commission = $500), the firm's broker explicitly disclosed: 'I am acting as your broker-dealer here; I am earning a commission. You can also use our advisory services if you prefer a different fee structure.'
+
+QUESTION
+--------
+Did DualReg Partners adequately disclose its dual-registration status and capacity in Form CRS and during recommendations?
+
+ANSWER
+------
+Yes. Form CRS adequately addressed the dual-registration disclosure obligation. SEC guidance (IA-5653) acknowledges that dual registrants must clearly distinguish between broker-dealer and adviser capacities. Here, the firm provided a side-by-side comparison (plain-language, bolded) that clearly explains the different standards and fee structures. The firm delivered Form CRS before account opening with signed acknowledgment, satisfying delivery timing and method. Critically, when making the brokerage recommendation, the firm's broker explicitly disclosed the commission conflict and offered the alternative adviser relationship, enabling the client to make an informed choice. The comparison format (rather than dense narrative) complies with SEC staff guidance on clarity (IA-5653, p. 39-40). The firm documented the client's choice to proceed in broker-dealer capacity.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI, 17 CFR §240.15l-1(c)(1)(iii)-(iv) (dual registrant disclosure); SEC Form CRS Instructions, Question 6 (separate disclosure for dual registrants)
+
+KEY FACTOR
+----------
+Clear, pre-opening delivery of Form CRS with side-by-side comparison of broker-dealer vs. adviser standards, combined with transaction-level disclosure of the firm's capacity and conflict.

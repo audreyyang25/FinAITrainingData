@@ -1,0 +1,27 @@
+ID: 78
+Source Folder: unknown
+Topic: ia_duty_of_care
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 58-year-old client with $450,000 in a taxable brokerage account stated her objective was "capital preservation with modest growth" and indicated she had "low risk tolerance." Her adviser recommended a portfolio of 70% small-cap growth funds (expense ratio 1.8%) and 20% emerging markets bonds (YTM 6.2%), with 10% in money market. The adviser documented no suitability analysis, no risk assessment questionnaire, and no discussion of why these volatile allocations align with capital preservation. The portfolio experienced 32% drawdown during market correction.
+
+QUESTION
+--------
+Does this recommendation satisfy the Investment Adviser Act fiduciary duty of care?
+
+ANSWER
+------
+No, this violates the duty of care.
+
+The adviser failed to conduct a reasonable investigation into the client's stated objectives and risk tolerance before making recommendations. The 70% small-cap growth allocation is fundamentally inconsistent with a stated objective of capital preservation and documented low risk tolerance. The adviser's failure to document any suitability analysis or risk assessment violates the duty of care's requirement to have a reasonable basis for recommendations. The 32% drawdown demonstrates the portfolio was unsuitable for the client's stated objectives. Under SEC Rule 206(4)-7 and the Advisers Act, an adviser must have a reasonable basis for recommendations, supported by investigation and documentation of client circumstances.
+
+APPLICABLE STANDARD
+-------------------
+Investment Advisers Act of 1940, Section 206(2); SEC Compliance Rule 206(4)-7; duty of care requires adviser to have a reasonable basis for recommendations consistent with client's investment objectives and risk tolerance.
+
+KEY FACTOR
+----------
+Complete absence of documented suitability analysis or client risk assessment before recommending a volatile portfolio to a client who explicitly stated low risk tolerance and capital preservation objectives.

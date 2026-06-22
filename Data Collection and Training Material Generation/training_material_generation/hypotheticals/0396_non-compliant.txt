@@ -1,0 +1,25 @@
+ID: 396
+Source Folder: unknown
+Topic: state_fiduciary_rules
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A New York broker-dealer licensed under NY Regulation 187 recommends a fixed indexed annuity (FIA) with a 7-year surrender charge period to a 62-year-old client with $480,000 liquid net worth and stated need for emergency liquidity. The FIA carries a 4.5% up-front commission, 1.75% annual mortality and expense (M&E) ratio, and 0.90% asset-based administrative fee. The client's primary goal is 'preservation with modest growth' and he explicitly states, 'I may need to access funds within 3–5 years for potential medical expenses.' The adviser documents the recommendation as 'compliant with suitability' but does not discuss the 10% penalty for early withdrawal or liquidity constraints. The client signs a suitability form but not a separate best-interest analysis under NY Reg 187 § 227.0(b).
+
+QUESTION
+--------
+Did the broker-dealer comply with NY Regulation 187's 'best interest' standard in recommending a 7-year surrender-charge FIA to a client expressing explicit liquidity needs?
+
+ANSWER
+------
+No. NY Regulation 187 § 227.0(b) requires recommendations in the best interest of the customer, considering the customer's needs, objectives, and financial situation. A 7-year surrender charge product conflicts directly with the client's stated 3–5 year liquidity need. Although 'best interest' is not a pure fiduciary standard (permitting commissions), it requires the adviser to place the client's interest ahead of compensation incentives. The 4.5% commission creates a financial incentive misaligned with the client's documented liquidity requirement. The adviser's failure to provide a written best-interest analysis and to discuss early-withdrawal penalties demonstrates lack of care required under NY Reg 187. This pattern is similar to FINRA enforcement actions against annuity sales that ignore liquidity needs (e.g., AWC 2017-063, annuity surrender charges).
+
+APPLICABLE STANDARD
+-------------------
+NY Regulation 187 § 227.0(b) — Best Interest Standard for Life Insurance and Annuity Recommendations
+
+KEY FACTOR
+----------
+Recommending a 7-year surrender-charge product to a client with explicit 3–5 year liquidity needs violates the best-interest requirement under NY Reg 187, regardless of federal suitability safe harbor.

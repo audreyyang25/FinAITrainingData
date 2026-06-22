@@ -1,0 +1,25 @@
+ID: 435
+Source Folder: unknown
+Topic: ai_robo_adviser
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+PlatformX, a robo-adviser, deployed a machine-learning algorithm trained on historical market data (2010-2019) to optimize portfolio rebalancing. The algorithm was designed to detect market stress and increase cash allocations during extreme volatility spikes. However, the training data excluded the 2008 financial crisis and the COVID-19 pandemic. On March 16, 2020, when the S&P 500 dropped 12% intraday, the algorithm failed to trigger its stress-response protocol because the volatility level (VIX >80) exceeded the range in its training data. Instead, it continued to maintain a 70/30 stocks/bonds allocation for 11,000 retail clients, including retirees in drawdown mode. One client, Robert Kim, age 74, with $520,000 in his account and $26,000/year in planned withdrawals (5% SWR), suffered a 19% portfolio decline while the algorithm made no adjustments. The PlatformX advisory team was aware of the algorithm's 2010-2019 training window but did not implement manual override protocols or pause-trading triggers during extreme market events. The robo platform's Form ADV disclosed that the algorithm used 'historical market data' but did not specify the training period, date ranges excluded, or limitations during market regimes outside the training set.
+
+QUESTION
+--------
+Did PlatformX breach Reg BI and the duty of care by deploying an algorithm with known limitations (training-data gap spanning a major crisis) without adequate disclosure or human intervention safeguards?
+
+ANSWER
+------
+Yes. Under Reg BI §240.15l-1(a)(1), PlatformX must disclose 'all material facts' related to conflicts and limitations. Failing to disclose that the algorithm was trained on data excluding 2008 and 2020 crises—precisely when algorithmic logic becomes critical—is a material omission. The Care Obligation (§240.15l-1(a)(2)(i)) requires reasonable investigation into client circumstances; for a 74-year-old retiree with active withdrawals, understanding the algorithm's crisis-response capability is essential. Under SEC IM Guidance 2017-02, advisers must perform backtesting and stress-testing of algorithms and disclose material limitations. PlatformX's failure to implement manual override or pause-trading during extreme events (VIX >80, outside training range) demonstrates inadequate supervisory controls. The algorithm was not simply suboptimal—it was deployed with a known blind spot in exactly the conditions when it matters most. Robert Kim's 19% decline during crisis, without portfolio adjustment, exemplifies breach of the duty of care owed to a retiree.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict Disclosure & Care Obligation, 17 CFR §240.15l-1(a)(1) and (a)(2)(i); SEC IM Guidance 2017-02 (backtesting and stress-testing); IA Act §206(2)
+
+KEY FACTOR
+----------
+Failure to disclose material algorithm limitation (training-data gap spanning major crises) and absence of manual safeguards during extreme market events breaches both disclosure and care obligations.

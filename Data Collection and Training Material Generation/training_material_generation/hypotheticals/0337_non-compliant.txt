@@ -1,0 +1,25 @@
+ID: 337
+Source Folder: unknown
+Topic: finra_awc_patterns
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered Representative Maria S. recommended to Client B (age 55, $725,000 portfolio, moderate risk tolerance) the Putnam Multi-Asset Allocation Fund in B-share form (PNPBX, 12b-1 fee 1.00% annually, contingent deferred sales charge 4% if redeemed within 7 years, NAV $31.42). Maria's recommendation memo stated: 'B-shares appropriate due to 10+ year holding period and breakpoint avoidance.' The firm's breakpoint schedule showed that a $750,000+ purchase qualifies for A-share load reduction to 3.5% (versus standard 5.5% load). Using A-shares, Client B would pay $41,250 initial load (5.5% × $750,000 at net asset value post-load). Over 10 years, B-share 12b-1 fees would total ~$72,500 (1.0% annually on $725,000 average balance). A-shares plus advisor fee would cost ~$41,250 initial + $43,500 (0.6% annual advisory wrap-fee for 10 years on declining balance). The client had never purchased shares approaching the $750,000 breakpoint before.
+
+QUESTION
+--------
+Did Maria S. comply with FINRA Rule 2111 by recommending B-shares despite the client qualifying for a lower-cost A-share breakpoint?
+
+ANSWER
+------
+No. Maria violated FINRA Rule 2111's suitability obligation by recommending B-shares when the client qualified for a substantially more favorable A-share breakpoint. The total cost of B-shares ($72,500 in 12b-1 fees over 10 years) significantly exceeded the A-share cost structure ($41,250 upfront + $43,500 in wrap fees = $84,750, but B-shares provide no advisory service, making direct comparison: B-shares cost $72,500 for fund-only; A-shares at breakpoint cost ~$41,250 + fund expenses, clearly cheaper). FINRA enforcement (similar to 2018-2020 AWC patterns on breakpoint violations) treats recommending higher-cost share classes when breakpoints are available as presumptively unsuitable unless the representative can document a compelling reason (e.g., client insists on no upfront load due to cash flow). Maria's memo provides no such justification. The suitability recommendation must balance cost, services, and client intent—here all factors favor A-shares.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (Suitability Obligation), FINRA Rule 2330(d) (Disclosure of Variable Products—by analogy, cost disclosure duty)
+
+KEY FACTOR
+----------
+Recommending higher-cost B-shares when the client's asset level qualifies for a breakpoint-discounted A-share load (3.5% vs. 5.5%) violates the suitability duty absent documented client preference for deferred charges.

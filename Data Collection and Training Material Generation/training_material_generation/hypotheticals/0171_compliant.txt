@@ -1,0 +1,27 @@
+ID: 171
+Source Folder: unknown
+Topic: undisclosed_conflict
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+A registered investment adviser manages approximately $200M in AUM and operates a soft-dollar arrangement with a major broker-dealer: the adviser directs client brokerage commissions to this broker-dealer in exchange for research, market data, and order execution services valued at approximately $800K annually. The adviser's Form ADV Part 2A, Item 12 (Brokerage Practices), provides a detailed narrative explaining: (1) the soft-dollar arrangement and the specific services received (research, data, execution); (2) that the adviser may not achieve the most favorable execution prices because it prioritizes commission generation for soft dollars; (3) the dollar amounts and percentages of commissions directed to this arrangement; (4) that clients can request a detailed breakdown of soft-dollar allocations; and (5) that the adviser conducts annual reviews comparing execution quality and soft-dollar costs to ensure the arrangement remains in clients' best interests. The adviser also has a written policy documenting that soft dollars are allocated only to services that provide a 'direct or indirect lawful benefit' to clients under SEC Rule 28(e) safe harbor.
+
+QUESTION
+--------
+Does this soft-dollar arrangement and disclosure satisfy IA Act Section 206 fiduciary duty and Reg BI conflict obligations?
+
+ANSWER
+------
+Yes, this is compliant.
+
+The adviser's disclosure is exceptionally detailed and specific: it itemizes the services received ($800K annually in research, data, and execution), quantifies the commission allocation, acknowledges the execution-quality trade-off, and explains the compliance framework (Rule 28(e) safe harbor). The annual reviews comparing execution quality to soft-dollar costs demonstrate ongoing monitoring to ensure the arrangement benefits clients rather than merely reducing the adviser's research costs. The written policy limiting soft dollars to services with 'direct or indirect lawful benefit' is consistent with SEC Rule 28(e) language and shows good-faith adherence to the safe harbor. Under SEC Release IA-2850, this level of disclosure and review satisfies both the transparency requirement and the requirement that the adviser act in clients' best interests by monitoring whether the execution/service trade-off remains economically justified.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(1) prohibits fraudulent conduct; Section 206(2) prohibits material non-disclosure of conflicts. SEC Rule 28(e) provides a safe harbor for soft-dollar arrangements if (1) compensation is reasonable in relation to services, (2) the adviser discloses the arrangement, and (3) services provide direct or indirect lawful benefit to clients. SEC Release No. IA-2850 (1990) requires detailed disclosure of soft-dollar practices and ongoing analysis of execution quality.
+
+KEY FACTOR
+----------
+Detailed quantified disclosure of soft-dollar services, annual execution-quality reviews, written compliance policy referencing Rule 28(e), and acknowledgment of execution-price trade-offs.

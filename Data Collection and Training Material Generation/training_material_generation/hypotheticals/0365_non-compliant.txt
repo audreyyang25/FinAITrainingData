@@ -1,0 +1,25 @@
+ID: 365
+Source Folder: unknown
+Topic: finra_supervision
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Premier Securities Group, a 41-person firm with $3.2B AUM, employs registered rep Lisa Patterson in its Atlanta branch (45 reps total). Lisa's WSPs (updated March 2022) require supervisory review of all variable annuity (VA) recommendations and escalation of customer complaints to the compliance department within 5 business days. From July 2022 to September 2023, Lisa recommended VAs to 14 clients, generating $187,000 in first-year commissions. On January 12, 2024, client Robert Hendricks, age 58, filed a written complaint with the firm stating that Lisa had 'misrepresented the surrender period and access to funds.' Hendricks had purchased a $280K variable annuity in August 2022 with a 10-year surrender penalty (7% withdrawal fee if redeemed within 10 years). Branch manager Greg Olsen received the complaint on January 13 and reviewed Lisa's file, finding that the suitability documentation was sparse—only a basic one-page questionnaire signed in July 2022 and no contemporaneous notes. Greg did not escalate the complaint to compliance. On January 20, another client, Margaret Zhou, age 67, called the branch to complain about the same annuity product, stating she was never informed of the 10-year surrender period. Greg again did not escalate. On March 8, 2024, a third client complaint arrived (Terrence Cole, age 72, similar complaint). Only then was compliance notified (48 days after the first complaint, 10 days after the third).
+
+QUESTION
+--------
+Did Premier Securities Group comply with FINRA Rule 3110(d) and Rule 3120 regarding complaint escalation and supervision of variable annuity sales?
+
+ANSWER
+------
+No. Premier violated Rule 3110(d) (complaint escalation) and Rule 3120 (VA sales supervision) on multiple fronts: (1) Rule 3110(d) requires firms to establish written procedures for prompt review and escalation of complaints; Greg received two complaints (Jan 13 and Jan 20) and escalated neither, breaching the 5-business-day escalation requirement in the WSPs; (2) Rule 3120 requires documented suitability review for all VA recommendations, but Lisa's file contained only a sparse one-page questionnaire with no notes on why the 10-year surrender period was appropriate for clients in their late 50s-70s; (3) the pattern of three identical complaints within 8 weeks (surrender period confusion) should have triggered supervisory escalation and review of Lisa's sales practices—Greg's failure to escalate after the second complaint compounds the violation. FINRA enforcement pattern shows escalation failure + VA documentation deficiency = significant discipline (similar to FINRA AWC cases involving inadequate VA supervision 2020-2022). The decisive violation is the 48-day delay in escalating a clear, documented pattern of customer complaints about the same product representation.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 3110(d) — Complaint Escalation Procedures; FINRA Rule 3120 — Variable Annuity Suitability; FINRA Rule 4530 — Customer Complaints
+
+KEY FACTOR
+----------
+Failure to escalate three customer complaints to compliance within required timeframe, combined with inadequate VA suitability documentation, constitutes failure of supervisory oversight of a regulated product category.

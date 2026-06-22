@@ -1,0 +1,27 @@
+ID: 147
+Source Folder: unknown
+Topic: churning_excessive
+Difficulty: easy
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 45-year-old active trader with $200,000 in an account and aggressive risk tolerance (stated as 100% equities, frequent rebalancing) explicitly authorized his broker to execute a discretionary day-trading and swing-trading strategy. Over 12 months, the account had a 12.0 turnover ratio with 642 trades and $8,500 in commissions (4.25% of average equity). The client reviewed detailed monthly statements showing all trades, discussed results in quarterly calls, and confirmed in writing twice per year that his risk tolerance and trading objectives remained aggressive. Market conditions were volatile (VIX averaged 22), and the strategy generated a 16% gross return before commissions.
+
+QUESTION
+--------
+Does this trading activity violate FINRA Rule 2111(b) or Rule 2010?
+
+ANSWER
+------
+Yes, this is compliant with the applicable legal standard.
+
+Although the turnover ratio (12.0) and fee-to-equity ratio (4.25%) are high, they are consistent with the client's explicitly stated aggressive, active trading objectives and discretionary authorization. The client is young (45), financially capable, actively monitors his account, and has confirmed his aggressive risk tolerance in writing twice annually. The strategy's 16% gross return (before commissions) demonstrates a rational business purpose aligned with the client's stated goals. FINRA Rule 2111(a) requires suitability to be assessed relative to the *specific client's* profile; for aggressive traders with explicit discretionary authority, high turnover is not per se unsuitable. The regular review and client affirmation documents FINRA-compliant supervision. This distinguishes the case from churning, which requires excessive trading *inconsistent with the client's needs*.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(a) (suitability requirement — recommendation must be suitable given client's age, other investments, financial situation, needs, and objectives); FINRA Rule 2010 (fair dealing); DOE v. Chiles, 540 U.S. 529 (2003) (churning analysis requires showing that trading is excessive *in relation to the client's stated investment objectives*).
+
+KEY FACTOR
+----------
+Client's explicit written authorization for discretionary aggressive trading strategy, regular documented review, and expressed objectives consistent with high turnover make the conduct suitable despite high turnover ratio.

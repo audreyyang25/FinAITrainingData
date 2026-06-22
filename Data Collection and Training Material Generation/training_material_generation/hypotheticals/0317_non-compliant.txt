@@ -1,0 +1,25 @@
+ID: 317
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Pinnacle Wealth Management (BD and IA) advised David and Susan Martinez, both age 62, with a $2.3 million investable portfolio, on retirement planning. The couple maintained a $1.8 million advisory account (fee: 0.85% annually) and a smaller $500,000 brokerage account for 'trading flexibility.' In late 2023, as part of a 'comprehensive portfolio optimization,' the firm recommended transferring $400,000 from the advisory account into a structured note (principal-protected, 3-year term, 6.5% coupon, Barclays issued) placed through the brokerage arm. The structured note carried a 4.2% embedded sales credit to the firm and a 2.1% internal markup on the secondary market exit. Form CRS was delivered at account opening 18 months prior and stated only generically that the firm 'may recommend different account types depending on your needs.' The advisor documented that the structured note was 'more suitable for non-core capital' but the file lacked any documented analysis of whether the advisory client's fee-based account was truly the wrong venue, or whether the brokerage commission structure was disclosed as an alternative charge arrangement.
+
+QUESTION
+--------
+Did Pinnacle Wealth Management comply with Regulation Best Interest and fiduciary duty standards when recommending the structured note transfer and commission arrangement to the Martinezes?
+
+ANSWER
+------
+No. Although Pinnacle disclosed Form CRS at account opening, the transfer recommendation presents a multi-layered compliance failure. First, the generic Form CRS language ('depending on your needs') does not satisfy the duty to clearly explain the material difference in compensation: advisory fee (0.85% annually, aligned with retention) versus embedded commissions (4.2% upfront + 2.1% markup exit, creating incentive for transaction). Second, under Reg BI §240.15l-1(a)(2)(i), the care obligation requires documented analysis of whether the brokerage-commission structure served the clients' best interest; the file lacks this analysis. Third, the recommendation to transfer $400k into a single, illiquid structured note for retirees near required distributions violates concentration and liquidity principles without documented justification. The Reg BI preamble (88 FR 20728) explicitly warns that dual registrants must avoid steering clients between capacities based on firm revenue. The advisor's notation of 'non-core capital' is pretextual without objective support.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest Care Obligation, 17 CFR §240.15l-1(a)(2)(i); Form CRS Rule, 17 CFR §275.204-1; SEC Regulation BI Preamble, 88 FR 20728 (dual registrant guidance); Investment Adviser Act §206(2) duty of care
+
+KEY FACTOR
+----------
+Capacity shift motivated by compensation structure (4.2% commission vs. 0.85% advisory fee) with generic Form CRS disclosure and no documented analysis of client suitability for illiquid, concentration-heavy product.

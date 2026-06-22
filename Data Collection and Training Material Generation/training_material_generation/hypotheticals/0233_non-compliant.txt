@@ -1,0 +1,25 @@
+ID: 233
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+SeniorCare Insurance Partners, a broker-dealer focused on annuity sales, has a compensation agreement with Zenith Life Insurance Company whereby advisors earn a 7.5% front-end commission on single premium immediate annuities (SPIAs) sold to customers aged 65+. For variable annuities (VAs) with guaranteed income riders, the commission is 6%, but the firm receives ongoing 12b-1 payments of 0.65% annually. In Q2 2023, SeniorCare sold 340 SPIAs (average premium $185,000; total commissions $4.7M) and 89 VAs with riders (average premium $224,000; total initial commissions $1.2M plus projected $1.3M in annual 12b-1 revenue over 10 years). An advisor recommended a 73-year-old widow with $450,000 liquid assets and low risk tolerance receive a $250,000 SPIA and keep $200,000 in money market funds. The firm's written disclosure stated: 'SeniorCare earns commissions on insurance products sold' but did not disclose (1) the 7.5% vs. 6% differential favoring SPIAs, (2) the 12b-1 ongoing revenue stream, or (3) that the SPIA was recommended primarily because it generated front-end cash compensation while the VA's ongoing revenue was deferred. Documentation showed the advisor compared only two SPIA products from Zenith, not alternative SPIA providers (Mass Mutual, New York Life, Principal) or laddered Treasury strategies.
+
+QUESTION
+--------
+Did SeniorCare comply with Reg BI's conflict of interest obligation regarding the SPIA recommendation and commission differential?
+
+ANSWER
+------
+No. SeniorCare violated the conflict obligation on multiple counts. (1) Identification: while the firm generally disclosed commissions, it failed to identify the specific 7.5% SPIA vs. 6% VA differential or the 12b-1 stream, material conflicts. (2) Disclosure: the generic 'we earn commissions' language does not satisfy the requirement to disclose conflicts 'in writing' with specificity sufficient for clients to understand the incentive structure (similar to FINRA AWC patterns 2020–2023 on inadequate annuity disclosures). (3) Mitigation: the advisor did not explore alternatives (no Treasury ladder analysis, no comparison to other carriers' SPIAs), suggesting the recommendation was driven by commission optimization rather than client interest. The failure to document an alternatives analysis or explain why the SPIA's front-end compensation structure better served the widow than a lower-commission strategy evidences inadequate mitigation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); FINRA Rule 2111 (suitability including compensation consideration); SEC IA-5653 (insurance product disclosure requirements)
+
+KEY FACTOR
+----------
+Undisclosed commission differentials between insurance products and failure to conduct documented alternatives analysis for a complex, high-cost recommendation breaches identification and mitigation prongs of the conflict obligation.

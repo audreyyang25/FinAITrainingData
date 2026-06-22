@@ -1,0 +1,25 @@
+ID: 484
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Registered Investment Adviser Elena Rodriguez manages a concentrated portfolio strategy. Portfolio Manager James Liu executes trades for client Patricia Walsh's account: (1) buy 15,000 shares of XYZ Corp (mid-cap stock, tight bid-ask 0.08%) via Rodriguez's affiliated broker-dealer; (2) immediately thereafter, direct a $450,000 soft-dollar payment to the same affiliated broker in exchange for 'research services' (undefined); (3) systematically favor the affiliated broker for 78% of Patricia's trade volume, despite market data showing competitors offer better execution (average 0.04% savings per share on XYZ trades). Rodriguez's advisory agreement discloses the affiliate relationship but does not itemize soft-dollar arrangements or explain that soft dollars are paid from the client's trading costs, reducing net returns. Over 2 years, Patricia's account incurred $127,000 in trading costs, of which $98,500 (77.4%) were routed through the affiliate, compared to an estimated best-execution cost of $91,200 at independent brokers. The net opportunity loss is $7,300. Additionally, the 'research services' purchased via soft dollars were never specified in writing, and Rodriguez never segregated client trades that benefited from the research versus those that did not. SEC examination finds no evidence that Rodriguez conducted a written analysis of whether the soft-dollar arrangement satisfied the exception under IA Act §206(a)(1) (soft dollars must be used for 'brokerage and research services' that benefit the client).
+
+QUESTION
+--------
+Did Rodriguez violate the IA Act §206 duty of loyalty through: (1) undisclosed soft-dollar practices; (2) failure to negotiate best execution despite conflicts; and (3) inability to document that soft-dollar research benefited Patricia's account?
+
+ANSWER
+------
+Yes on all three prongs. (1) Soft-dollar disclosure: While Rodriguez disclosed the affiliate relationship generally, it failed to disclose the specific soft-dollar arrangement ($450,000 over 2 years) or that soft dollars reduce net client returns. IA §206(a)(1) requires that soft dollars be used for 'research services,' but Rodriguez did not document what research was purchased, to whom it was delivered, or which client trades benefited. This is a material omission—Patricia could not evaluate whether she was subsidizing research that benefited other clients. (2) Best execution: Rodriguez's systematic routing of 78% of Patricia's trades to the affiliated broker, despite 0.04% per-share savings available elsewhere, violated the duty of care. The IA Act does not mandate 'best execution' formally, but §206(a)(2) requires care—Rodriguez failed to conduct comparative cost analysis. (3) Prohibited soft-dollar use: The $450,000 payment was undefined ('research services' without specifics), failing the requirement that soft dollars purchase identifiable, client-benefiting services. Rodriguez cannot retroactively justify the arrangement. This pattern parallels SEC enforcement in IA v. investment advisers using soft dollars for entertainment or salaries (no client benefit). Patricia's $7,300 opportunity cost is damages traceable to the dual conflict (affiliate use + undefined soft dollars).
+
+APPLICABLE STANDARD
+-------------------
+IA Act §206(a)(1) & (2) (fiduciary duty—loyalty & care); SEC Soft Dollar Guidance (C&DI 606.09)
+
+KEY FACTOR
+----------
+Adviser failed to disclose specific soft-dollar arrangement, did not document research services benefited client, and systematically underexecuted Patricia's trades using affiliated broker despite better-execution alternatives.

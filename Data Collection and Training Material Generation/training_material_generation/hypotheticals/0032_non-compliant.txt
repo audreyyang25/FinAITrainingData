@@ -1,0 +1,27 @@
+ID: 32
+Source Folder: unknown
+Topic: reg_bi_conflict
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer enters into a "revenue sharing" arrangement with an insurance company for variable annuity sales: the firm receives a 1.5% upfront commission plus 0.75% trail annually. An advisor recommends a variable annuity to a 45-year-old client with $275,000 in assets, moderate risk tolerance, and a 22-year time horizon. The recommendation is documented as 'suitable for growth and income,' but no disclosure is provided to the customer regarding the commission structure or the firm's financial incentive to recommend the annuity over non-annuity alternatives.
+
+QUESTION
+--------
+Does this recommendation comply with Regulation Best Interest's conflict-of-interest obligations?
+
+ANSWER
+------
+No, this violates Regulation Best Interest.
+
+The firm violated Reg BI by completely failing to disclose the material commission structure (1.5% upfront + 0.75% trail) associated with the annuity recommendation. SEC Reg BI release (85 FR 80308) explicitly requires disclosure of all material conflicts, including compensation arrangements that vary by product. A 2.25% total compensation (1.5% upfront + one year of 0.75% trail) creates a substantial financial incentive to recommend the annuity over non-annuity alternatives. The absence of any disclosure in the account documentation or advisor communication is a clear violation. Additionally, there is no documented mitigation of the conflict (e.g., comparative analysis, performance justification, or customer acknowledgment). For a 45-year-old with moderate risk tolerance and a long time horizon, annuities' complexity and cost structure require explicit suitability rationale and conflict disclosure.
+
+APPLICABLE STANDARD
+-------------------
+SEC Rule 15l-1(a)(2)(i) — broker must disclose material conflicts of interest; commission-based compensation arrangements for products are material conflicts requiring disclosure.
+
+KEY FACTOR
+----------
+Completely undisclosed commission structure (1.5% upfront + 0.75% trail) for annuity product creating substantial compensation incentive without any disclosure or mitigation.

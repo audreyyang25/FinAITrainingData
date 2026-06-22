@@ -1,0 +1,27 @@
+ID: 139
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 55-year-old plan participant with $850,000 in a 401(k) at a Fortune 500 company receives advice from a fee-based adviser who is a registered representative of a broker-dealer. The 401(k) offers 25 investment options including a 0.05% index fund suite and has 0.40% in plan-level administrative fees. The adviser recommends a rollover to an IRA with the adviser's firm (0.50% custodial fee) where the adviser will charge 0.85% AUM. The adviser provides a written analysis titled 'Rollover Recommendation Report' documenting a best-interest determination. However, the analysis compares only the cost of the 401(k) index funds (0.05%) to the IRA index funds (0.08%) and does not account for the 0.85% AUM advisory fee or the plan-level 0.40% fee in the 401(k) cost calculation. The adviser discloses her 0.85% advisory fee, but frames it as providing 'professional portfolio management and monitoring services,' which the 401(k) plan does not offer. No mention is made of the 0.40% plan-level fee or whether comparable advisory services are available in the 401(k) plan.
+
+QUESTION
+--------
+Does this rollover recommendation satisfy DOL ERISA fiduciary duty and PTE 2020-02?
+
+ANSWER
+------
+No, this violates PTE 2020-02 best-interest determination and ERISA §404(a)(1)(A) (duty of care) requirements.
+
+Although the adviser provided a written analysis and disclosed her advisory fee, the cost comparison is materially incomplete and misleading. PTE 2020-02's preamble clarifies that the adviser must compare 'all material costs,' which includes plan-level fees. Here, the true all-in cost of the 401(k) (index fund 0.05% + plan fee 0.40% = 0.45%) is far lower than the IRA arrangement (index fund 0.08% + custodial 0.50% + advisory 0.85% = 1.43%). By omitting the plan-level fee from the 401(k) cost and framing the 0.85% advisory fee as an incremental benefit (rather than calculating its inclusion in total cost), the adviser created a deceptive comparison. The duty of prudence (ERISA §404(a)(1)(A)) requires that the adviser's analysis be accurate and complete. The DOL has explicitly stated in guidance that cherry-picking favorable cost components violates the fiduciary standard. The recommendation likely favors the adviser's financial interest (generating $7,205/year in fees) over the client's best interest.
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA §404(a)(1)(A) (fiduciary duty of prudence and care); PTE 2020-02 (requirement for accurate, itemized comparison of all material costs and features); DOL Interpretation Letter regarding rollover cost analysis (2005-01A); 29 CFR §2550.408g-2(d)(3)(ii)
+
+KEY FACTOR
+----------
+Adviser's cost comparison omits the 401(k) plan-level 0.40% fee and fails to calculate the true all-in cost of the proposed IRA arrangement (1.43%) versus the 401(k) (0.45%), making the written best-interest determination materially misleading and failing the duty of care.

@@ -1,0 +1,27 @@
+ID: 789
+Source Folder: 15_FINRA_Regulatory_Notices
+Topic: complex_products
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A broker-dealer sells non-traded REIT shares through a public offering and discloses total underwriting compensation of 7.8% in its offering documents. However, the firm also receives a 1.5% annual distribution fee from the REIT sponsor and a separate 0.75% marketing support payment, neither of which is reported as underwriting compensation in the firm's FINRA Corporate Financing filing. A compliance review later reveals that these additional payments were structured as 'advisory services agreements' to avoid inclusion in the compensation cap calculations. In total, investors in the offering effectively pay 10.05% in combined front-end and ongoing compensation to the firm over the first year, with the additional payments not disclosed in the manner required under FINRA's Corporate Financing Rules.
+
+QUESTION
+--------
+Did the firm comply with FINRA's Corporate Financing Rules by structuring distribution fees and marketing support payments outside of reported underwriting compensation?
+
+ANSWER
+------
+No, this conduct violates FINRA's Corporate Financing Rules regarding underwriting compensation disclosure.
+
+FINRA's Corporate Financing Rules require that all items of value received by participating members in connection with a public offering be included in the calculation of underwriting compensation. Structuring payments as 'advisory services agreements' to circumvent compensation caps and disclosure requirements is precisely the type of evasion the CF Rules are designed to prevent. Regulatory Notice 24-17 and proposed amendments to the CF Rules reaffirm that all forms of compensation connected to an offering must be captured, and the firm's failure to include these payments constitutes both a disclosure violation and a potential fraud on investors.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 5110 (Corporate Financing Rule – Underwriting Terms and Arrangements); FINRA Regulatory Notice 24-17 (Capital Formation / CF Rules Amendments)
+
+KEY FACTOR
+----------
+The firm deliberately structured offering-related compensation payments as separate advisory agreements to avoid FINRA's underwriting compensation disclosure and cap requirements under the Corporate Financing Rules.

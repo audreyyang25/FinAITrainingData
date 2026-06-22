@@ -1,0 +1,27 @@
+ID: 128
+Source Folder: unknown
+Topic: variable_annuity
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 72-year-old widow with $145,000 in savings and a $1,850/month fixed pension income meets with a broker to discuss her savings allocation. The broker recommends investing the entire $145,000 into a Nationwide variable annuity L-share product (0.80% M&E + 0.65% subaccount fees = 1.45% annual cost; 8-year surrender charge peaking at 5%; no front-end load). The client states she is risk-averse, needs income now, and may need to access funds for medical expenses. The broker's suitability memo states only 'suitable for long-term growth and income' without addressing the client's stated need for near-term medical liquidity, her age, or the unsuitability of an 8-year surrender charge for someone aged 72 with a life expectancy of ~15 years and stated short-term needs.
+
+QUESTION
+--------
+Does this variable annuity recommendation comply with FINRA Rule 2330?
+
+ANSWER
+------
+No, this violates FINRA Rule 2330(b).
+
+This recommendation is non-compliant for multiple, overlapping reasons: (1) The client is 72 years old with a life expectancy of approximately 15 years; at age 80, she will be deep in the surrender charge period, creating liquidity risk if she needs funds earlier than anticipated. (2) She explicitly stated risk aversion and immediate income needs, which point toward fixed-income or money market alternatives, not a 1.45% annual cost VA with subaccount volatility. (3) Her stated concern about medical expenses signals near-term liquidity needs; an 8-year surrender charge (peaking at 5%) is directly contrary to this need and violates Rule 2330(b)(1) suitability inquiry. (4) The suitability memo is boilerplate ('long-term growth and income') and does not document consideration of her actual age, needs, or time horizon as required by Rule 2330(b)(1)(C). This fact pattern mirrors FINRA disciplinary cases (e.g., In re Morgan Stanley, Exchange Act Rel. No. 86413 (July 16, 2019)) where elderly customers with immediate income needs were sold high-fee VAs.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2330(b)(1) requires that before recommending a VA, a firm must have reasonable basis to believe the customer's age, other investments, financial situation, needs, and time horizon justify the recommendation. FINRA Notice 13-45 emphasizes that a VA may be unsuitable for elderly customers with near-term liquidity needs or those in poor health. DOL guidance (ERISA Advisory Opinion 96-1R, cited analogously in FINRA cases) notes that recommending illiquid, high-fee vehicles to retirees with income needs is a typical conflict of interest signal.
+
+KEY FACTOR
+----------
+Recommending a variable annuity with an 8-year surrender charge to a 72-year-old with stated medical liquidity needs and risk-averse profile violates Rule 2330(b)(1) suitability requirement; boilerplate documentation failing to address age, health, and liquidity needs is non-compliant.

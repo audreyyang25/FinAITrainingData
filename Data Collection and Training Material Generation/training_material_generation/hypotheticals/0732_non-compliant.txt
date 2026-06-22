@@ -1,0 +1,27 @@
+ID: 732
+Source Folder: 12_FINRA_Arbitration_Awards
+Topic: arbitration_damages
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Hisako Yamamoto, a 68-year-old Japanese-American widow with limited English proficiency and a stated conservative risk tolerance, opened a brokerage account at a regional broker-dealer with $425,000 in life insurance proceeds. Her registered representative, Craig Bellini, concentrated 78% of the portfolio in speculative biotechnology equities and leveraged ETFs over a 14-month period, generating an annualized turnover ratio of 6.2 and a cost-to-equity ratio of 23%. Hisako filed a FINRA arbitration claim pro se asserting churning, unsuitability, and breach of fiduciary duty, but failed to appear at the evidentiary hearing after the first day of proceedings. The arbitration panel proceeded with the hearing in her absence and ultimately dismissed her claims, finding insufficient evidence to support the allegations without her testimony. Her account had lost $187,000 during the relevant period.
+
+QUESTION
+--------
+Was the registered representative's trading activity in this conservative client's account consistent with suitability requirements despite the arbitration panel's dismissal of the claim?
+
+ANSWER
+------
+No, this conduct is not compliant. The trading activity constitutes churning and a suitability violation regardless of the arbitration outcome.
+
+A turnover ratio of 6.2 and cost-to-equity ratio of 23% are well above the thresholds courts and arbitration panels routinely use to establish presumptive churning (turnover ratios above 4-6 and cost-to-equity ratios above 12-20%). The pattern mirrors the Patten v. TD Ameritrade/Scottrade/Dock case (FINRA No. 18-01226), where a pro se claimant with limited resources faced procedural challenges. An arbitration panel's dismissal—particularly one driven by the claimant's failure to appear—does not retroactively render the underlying trading activity suitable. The quantitative metrics independently demonstrate excessive trading inconsistent with a conservative risk profile.
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111 (Suitability – Quantitative Suitability); SEC Rule 15l-1(a)(2)(i) (Reg BI Care Obligation)
+
+KEY FACTOR
+----------
+The turnover ratio of 6.2 and cost-to-equity ratio of 23% far exceed recognized churning thresholds, and the arbitration dismissal based on the claimant's non-appearance does not validate the suitability of the trading pattern.

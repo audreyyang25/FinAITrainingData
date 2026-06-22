@@ -1,0 +1,25 @@
+ID: 292
+Source Folder: unknown
+Topic: ia_best_execution
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Alpine Capital Management, a $1.6 billion RIA, regularly engages in agency cross transactions (ACTs), where Alpine acts as agent for both the buyer and seller in a single transaction, or as principal facilitating a cross. Alpine's Form ADV Part 2A discloses: (1) the types of cross transactions Alpine may execute, (2) the potential conflicts of interest, (3) that Alpine will obtain client consent before executing any cross involving that client, and (4) the methodology for determining fair pricing. Alpine's Written Policies & Procedures specify that ACTs may only be executed if: (a) the adviser determines in writing that the cross is in both parties' best interest, (b) pricing is determined using the most recent NBBO or an independent third-party pricing service, (c) both clients consent in writing to the cross and the fee waived by Alpine if applicable, and (d) the transaction is reviewed monthly by the Compliance Committee. In a specific transaction, Alpine identified that Client A wishes to sell 25,000 shares of MidCap Corp (ticker: MCC) and Client B wishes to purchase 25,000 shares. Alpine obtained written consent from both clients, verified the NBBO at trade time ($67.43), executed the cross at $67.43, and recorded the transaction in its cross-transaction log. Alpine charged no commission (fee waived), and documented the business rationale ("eliminating market impact and bid-ask spread benefits both parties by approximately 2 basis points each"). The Compliance Committee reviewed the transaction in its monthly ACT audit.
+
+QUESTION
+--------
+Does Alpine Capital Management's agency cross transaction comply with the Investment Adviser Act's best execution and fiduciary duty obligations?
+
+ANSWER
+------
+Yes. Alpine's ACT structure complies with Section 206(3) and SEC best execution guidance. The Investment Adviser Act permits ACTs provided the adviser takes specific steps to manage conflicts: (1) advance written disclosure in Form ADV and written policies, (2) explicit written consent from both clients before the ACT, (3) fair pricing (here, NBBO at execution), (4) documentation of the business rationale and benefit to both parties, and (5) periodic compliance review. Alpine satisfied all prongs. The adviser's practice of waiving commissions in cross transactions demonstrates prioritization of client interests over adviser revenue. The use of independent pricing (NBBO) rather than adviser-determined pricing eliminates valuation conflicts. The documented business rationale (elimination of bid-ask spread and market impact) is factually supported and shows the adviser considered client benefit. The monthly Compliance Committee review ensures ongoing monitoring. This structure aligns with SEC guidance permitting ACTs under strict conditions and represents best practice in conflict management.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Section 206(3), SEC Inv. Mgmt. Release IA-1092 (agency cross transaction guidance), and SEC Rule 17j-1 (account operations)
+
+KEY FACTOR
+----------
+Documented client consent, NBBO pricing, fee waiver, and periodic compliance review support compliant agency cross transaction execution.

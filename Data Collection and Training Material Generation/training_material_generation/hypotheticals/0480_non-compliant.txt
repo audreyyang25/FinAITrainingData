@@ -1,0 +1,25 @@
+ID: 480
+Source Folder: unknown
+Topic: multi_issue_complex
+Difficulty: hard
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Small registered investment adviser Elena advises Elena's Retirement Solutions, a boutique firm managing $240 million in ERISA retirement accounts. Elena recommends that client pension plan sponsor TechCorp (350 employees, $145 million defined contribution plan) allocate 30% of the plan's stable value fund to a proprietary fixed-indexed annuity (FIA) issued by Pioneer Annuity Co., in which Elena holds a 2.5% ownership stake (undisclosed to TechCorp). The FIA carries a 3.2% annual fee (split 1.8% to Pioneer, 1.4% credited to Elena's firm). Elena documents that the FIA's historical 6-year return (5.2% average) compares favorably to the plan's prior stable value fund (4.8% average). However, Elena's analysis did not address: (1) that the FIA includes a 7% surrender charge (held 12 years to avoid), (2) that TechCorp employees cannot transfer out if market performance declines, (3) that Elena's 2.5% ownership stake creates a prohibited transaction under ERISA §406(b) (self-dealing), and (4) that New York State (where TechCorp is located) Fiduciary Duty Regulation 187 requires written disclosure of all material conflicts. Elena's written recommendation to TechCorp's board stated only: "Pioneer FIA provides enhanced stability and historical outperformance." No conflict of interest disclosure letter was provided.
+
+QUESTION
+--------
+Did Elena violate DOL ERISA prohibited transaction rules (§406(b)), NY Fiduciary Regulation 187, and IA Act §206(2) (duty of care)?
+
+ANSWER
+------
+Yes, on all counts. Under ERISA §406(b), Elena's 2.5% ownership stake in Pioneer constitutes a "party in interest" relationship; recommending that TechCorp allocate plan assets to a product in which Elena has a financial interest is a per se prohibited transaction (self-dealing), regardless of whether the FIA performed adequately. No exemption applies without DOL approval (no PTE filed). NY Reg 187 requires fiduciaries to disclose all material conflicts in writing; Elena failed to disclose her ownership stake or the 1.4% fee credit, violating state law. Under IA Act §206(2), Elena's duty of care required her to analyze whether the FIA's 3.2% total fee and 7% surrender charge with 12-year hold period suited a DC plan's liquidity needs; most plan sponsors expect stable value options with minimal lock-up. Her analysis ignoring these structural constraints falls below the reasonable-care standard. The DOL would likely view this as willful fiduciary breach given the undisclosed self-interest.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §406(b) (Prohibited Transactions—Self-Dealing); NY Fiduciary Duty Reg 187 (Conflict Disclosure); Investment Adviser Act §206(2) (Duty of Care)
+
+KEY FACTOR
+----------
+Undisclosed ownership stake in FIA issuer combined with failure to address surrender charge risk and liquidity constraints for DC plan participants constitutes prohibited transaction (self-dealing) and state fiduciary breach.

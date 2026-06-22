@@ -1,0 +1,25 @@
+ID: 313
+Source Folder: unknown
+Topic: ia_dual_registration
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+Nexus Capital, a dually registered BD/IA firm, serves 340 clients across both service models. In January 2023, Nexus redesigned its Form CRS to explicitly state: 'We offer investment advisory services (fee-based, 0.80%–1.25% annually on AUM) and brokerage services (commission-based, $0–$150 per transaction depending on asset class). We earn commissions when you use brokerage; we earn management fees in advisory accounts. These models create conflicts: commissions may incentivize higher trading; management fees may incentivize us to keep assets in the account. You choose which service model suits your goals. We recommend advisory for long-term buy-and-hold investors; brokerage for active traders.' Nexus delivers this Form CRS before opening any new account. For 23 existing advisory clients who inquire about switching to brokerage (e.g., because they wish to execute frequent tactical trades), advisors document a written discussion, update the Form CRS, obtain written consent signed and dated, and transfer the account only after the client receives and acknowledges receipt of the revised CRS. In all 23 cases, the advisor's file memo states: '[Client name] elected brokerage model to implement tactical trading strategy, understanding 0% AUM fee but $X average commissions annually based on projected trading volume.'
+
+QUESTION
+--------
+Did Nexus Capital comply with Form CRS and Reg BI dual-registrant requirements when enabling existing advisory clients to elect brokerage service models with updated disclosures and documented informed consent?
+
+ANSWER
+------
+Yes. Nexus complied with multiple standards. First, the Form CRS explicitly distinguishes the two service models (advisory vs. brokerage), their respective compensation structures (AUM vs. commissions), and material conflicts of interest, satisfying 17 CFR §275.204-1(a)–(b). Second, for existing clients switching service models, Nexus provided an updated Form CRS before the change, not merely at initial account opening, addressing the Reg BI preamble directive that dual registrants must disclose capacity and conflicts *at each material transaction*. Third, the firm documented that clients made an informed *choice* based on their stated investment strategy (buy-and-hold vs. tactical trading), satisfying Reg BI §240.15l-1(a)(2)(i)'s best-interest standard: the firm recommended the model aligned with each client's objectives. Fourth, the file memos quantify projected trading costs, enabling the firm to demonstrate it assessed suitability. This proactive approach—clear written communication, choice documentation, and strategy alignment—aligns with SEC guidance on dual-registrant compliance (IA Release No. 2876).
+
+APPLICABLE STANDARD
+-------------------
+Form CRS Rule, 17 CFR §275.204-1(a)–(b); Reg BI Capacity Disclosure, 17 CFR §240.15l-1(a)(1)(i)(B); Reg BI Best Interest and Conflict Disclosure, 17 CFR §240.15l-1(a)(2)(i)–(ii); SEC IA Release No. 2876 (dual registrant guidance)
+
+KEY FACTOR
+----------
+Dual registrant achieved compliance by delivering updated Form CRS, explicitly disclosing conflicts, documenting client choice between service models, and aligning service recommendation to client's stated investment strategy.

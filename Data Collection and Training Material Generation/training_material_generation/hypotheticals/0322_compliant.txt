@@ -1,0 +1,25 @@
+ID: 322
+Source Folder: unknown
+Topic: finra_quantitative_suitability
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+Broker Jessica H. opens a $320,000 account for David K., age 58, aggressive risk tolerance, software engineer with $2.1M net worth and documented trading experience (15+ years day trading in personal account). On March 15, 2023, David K. completes a written Day-Trading Agreement explicitly authorizing active portfolio management. Over 12 months, Jessica makes 186 trades with annual turnover ratio 5.8× and cost-to-equity ratio 18.7% ($59,840 commissions ÷ $320,000). Portfolio generates 24% net return (after commissions). The investment policy statement explicitly states: 'Client requests frequent rebalancing and tactical shifts. Active management fee 185 bp/year acceptable. Client capable and willing to bear trading costs.' Jessica maintains contemporaneous written notes of quarterly calls documenting David K.'s approval of trading strategy and performance reviews.
+
+QUESTION
+--------
+Did Advisor Jessica H. comply with FINRA Rule 2111(b) quantitative suitability requirements?
+
+ANSWER
+------
+Yes. Jessica H. demonstrates compliance with FINRA Rule 2111(b) through multiple factors: (1) turnover ratio 5.8× is below the 6× strong-inference threshold, and cost-to-equity 18.7% falls under the 20% presumptive unsuitability ceiling; (2) David K.'s profile (age 58, aggressive risk tolerance, $2.1M net worth, 15 years trading experience, software engineer earnings capacity) matches the trading strategy recommended; (3) explicit written Day-Trading Agreement and Investment Policy Statement document client's preference for active management; (4) 24% net return after commissions demonstrates trading generated economic value exceeding transaction costs; (5) quarterly documented calls show ongoing suitability analysis and client approval. Quantitative metrics combined with qualitative factors (client sophistication, written consent, positive performance, documented periodic review) satisfy both the quantitative and qualitative prongs of Rule 2111(b).
+
+APPLICABLE STANDARD
+-------------------
+FINRA Rule 2111(b) — Quantitative Suitability; Turnover Ratio; Cost-to-Equity Ratio
+
+KEY FACTOR
+----------
+Turnover 5.8× below 6× threshold, cost-to-equity 18.7% below 20% threshold, combined with explicit written authorization and positive net returns, demonstrates compliance.

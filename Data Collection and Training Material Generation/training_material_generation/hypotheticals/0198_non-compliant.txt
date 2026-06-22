@@ -1,0 +1,27 @@
+ID: 198
+Source Folder: unknown
+Topic: compliant_edge
+Difficulty: easy
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+A 45-year-old client with $350,000 in a 401(k) and an employer offering a low-cost index fund option (0.05% ER) was advised by a broker-dealer advisor to roll the 401(k) to an IRA and purchase the firm's proprietary mutual funds with a 1.25% annual expense ratio and a 0.50% 12b-1 fee. The advisor stated that the IRA would offer 'more control and investment flexibility,' but did not document the cost comparison or explain the 12b-1 fee structure.
+
+QUESTION
+--------
+Does this rollover recommendation satisfy Reg BI and DOL ERISA fiduciary standards?
+
+ANSWER
+------
+No, this violates the applicable standards.
+
+Rollover recommendations are subject to strict scrutiny under both Reg BI and DOL standards because they create significant advisor conflicts (fees increase, assets move under advisor's control). Here, the advisor failed to satisfy the care obligation: (1) no analysis comparing the 1.75% blended cost of the IRA solution to the 0.05% cost of the 401(k) option; (2) no documentation of why the purported flexibility benefit outweighs the 1.70% annual cost differential (on $350,000, this is $5,950/year); (3) no discussion of DOL prohibited transaction implications for a broker rollover recommendation; and (4) no explanation of the 12b-1 distribution fee, which is a material conflict. Under Reg BI, the advisor must have a reasonable basis that the rollover is in the client's best interest considering all relevant factors, including costs. A 34-fold increase in fees cannot be justified by access to 'more control' without detailed analysis and documentation. This is a clear Reg BI and DOL ERISA violation.
+
+APPLICABLE STANDARD
+-------------------
+Regulation Best Interest (Rule 15l-1(b)(2)(i) — care obligation with respect to conflicts of interest), DOL ERISA Section 4975 fiduciary duty (prohibited transaction and duty of care), and SEC rollover guidance (2021 rollover enforcement initiative)
+
+KEY FACTOR
+----------
+The complete absence of cost comparison and documented analysis of a 1.70% annual fee increase ($5,950/year) in a rollover recommendation, which inherently benefits the advisor through asset gathering and increased AUM, constitutes a failure of the Reg BI care obligation and DOL fiduciary duty.

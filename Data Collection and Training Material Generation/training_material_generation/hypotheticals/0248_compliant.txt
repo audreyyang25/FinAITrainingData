@@ -1,0 +1,25 @@
+ID: 248
+Source Folder: unknown
+Topic: reg_bi_conflict_expanded
+Difficulty: hard
+Verdict: COMPLIANT
+
+FACTS
+-----
+BrokerDealer BD-2 is affiliated with insurance subsidiary InsureCo-1, which sells variable annuities (VAs) with 1.25% mortality & expense (M&E) charges, 0.85% annual management fees, and 2% front-load commission (paid to BD-2's advisors, vs. 0.50% for non-proprietary VAs). BD-2 implemented a structural conflict mitigation policy: (1) Advisors may only recommend BD-2 VAs to clients age 55+ with assets >$500K and 10+ year time horizon; (2) for clients age <55 or with shorter horizons, advisors must document written analysis showing why a non-proprietary VA or mutual fund wrapper is more appropriate; (3) BD-2 pays advisors a flat salary (not commissions) plus 0.05% AUM fee on all recommendations regardless of product type; (4) annual compliance audits review all VA recommendations for clients <55 (sample size: 15% of recommendations). In 2023, Advisor Martinez recommended a non-proprietary Schwab VA (1.15% M&E, 0.60% management fee) to 52-year-old client Park with $385,000 in investable assets and 8-year horizon, despite Park's suitability for a BD-2 VA under the firm's guidelines. Form CRS disclosed the M&E/fee differential and that BD-2 VAs yield 2% commission vs. 0.50% elsewhere. Recommendation file documented that Park's shorter time horizon and asset size below $500K made the lower-cost alternative better aligned with client needs despite foregone commission.
+
+QUESTION
+--------
+Did Advisor Martinez comply with Reg BI's Conflict of Interest obligation by recommending the lower-fee third-party VA despite institutional incentive to recommend proprietary product, and by disclosing conflicts with documented mitigation?
+
+ANSWER
+------
+Compliant. Reg BI's Conflict of Interest obligation requires identification, disclosure, and reasonable mitigation steps. BD-2's structural policy — restricting proprietary VAs to age 55+, >$500K, 10+ year horizon, and audit sampling — is a reasonable mitigation framework. Critically, the firm eliminated the primary conflict incentive: advisors receive identical compensation (flat salary + 0.05% AUM) regardless of product selection, removing the commission bias (2% vs. 0.50%). Martinez's recommendation of the lower-fee alternative for a client outside the firm's proprietary guidelines, with documented analysis, demonstrates that the conflict mitigation structure operated effectively. Disclosure in Form CRS of the fee differential and commission structure was clear. The compensation structure — removing commission bias — is the decisive compliance factor; this represents best-practice conflict management under Reg BI. Martinez's analysis and recommendation choice show the advisor prioritized client interest over forgone compensation.
+
+APPLICABLE STANDARD
+-------------------
+Reg BI Conflict of Interest Obligation, 17 CFR §240.15l-1(a)(2)(ii); mitigation through compensation structure alignment
+
+KEY FACTOR
+----------
+Advisor's recommendation of lower-fee product outside firm's proprietary guideline, combined with compensation structure that eliminates commission bias and documented mitigation policy, demonstrates that identified conflict was effectively managed and client interest prioritized.

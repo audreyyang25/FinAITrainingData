@@ -1,0 +1,27 @@
+ID: 144
+Source Folder: unknown
+Topic: dol_erisa
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+A 61-year-old plan participant with $520,000 in a 401(k) consults a fee-only RIA that is a fiduciary under ERISA. The 401(k) plan offers adequate investment options but will impose a 6% early withdrawal penalty and income tax if the participant accesses funds before age 59½ (he is 61, so this is not an issue). The participant is approaching full retirement eligibility at the current employer (6 months) and expressed desire to consolidate all retirement accounts (he has an old 403(b) and a prior 401(k) rollover IRA) to simplify management. The RIA documents that rolling the 401(k) to an IRA would: (1) permit consolidation with existing IRAs, (2) provide in-service Roth conversion planning not available in the 401(k), and (3) enable a streamlined fee structure. The RIA charges a flat 0.65% annual fee on all consolidated IRA assets, documented in an engagement letter. The RIA compares the 401(k)'s cost structure (including the employer plan's 0.25% administrative fees) to the IRA fee, discusses the loss of creditor protection under ERISA (ERISA plans enjoy stronger creditor protections than IRAs), and documents that the participant understood the trade-offs. The participant's stated reason for the rollover is genuine account consolidation and Roth conversion planning.
+
+QUESTION
+--------
+Does this rollover recommendation comply with DOL ERISA fiduciary duty and PTE 2020-02 requirements?
+
+ANSWER
+------
+Yes, this recommendation satisfies DOL ERISA fiduciary duty and PTE 2020-02 requirements.
+
+The RIA's rollover recommendation complies with PTE 2020-02 on all material dimensions. First, it is based on reasonable inquiry: the RIA assessed the participant's specific situation (approaching full retirement, multiple existing IRAs, stated consolidation and Roth planning objectives) and documented that the rollover addressed genuine financial planning goals beyond mere investment menu access. Second, the fee analysis is transparent and comparative: the RIA documented the 401(k)'s plan cost (0.25% plus plan-level fees), disclosed the proposed 0.65% annual RIA fee, and explained that the fee is justified by consolidated account management and Roth conversion planning capabilities unavailable in the 401(k). The 0.65% fee is reasonable for the comprehensive services provided. Third, the compensation structure is not tainted by self-interest: the RIA charges a flat percentage of consolidated AUM, creating no incentive to recommend the rollover over retention (the RIA would earn the same 0.65% on the 401(k) assets under a consolidated fee arrangement post-employment). Fourth, the RIA disclosed a material non-monetary consequence: the loss of ERISA creditor protection under 29 U.S.C. § 1002(b)(1) and IRAs' limited creditor protection, following DOL Advisory Opinion 2001-01A guidance that fiduciaries should disclose this trade-off. The documented participant understanding of creditor protection trade-offs strengthens the compliance posture under 29 CFR 2550.404a-1(b)(4)(viii).
+
+APPLICABLE STANDARD
+-------------------
+DOL ERISA Section 406(b) (fiduciary duty); PTE 2020-02 (disinterested rollover advice); 29 CFR 2550.404a-1(b)(4) (impartial conduct); DOL Advisory Opinion 2001-01A (creditor protection disclosure for rollover advice).
+
+KEY FACTOR
+----------
+The RIA documented specific, genuine financial planning objectives (account consolidation, Roth conversion planning) tied to the participant's circumstances, disclosed the fee comparison and material creditor protection consequences, and earned the same compensation whether the rollover occurred or not, establishing disinterested advice required by PTE 2020-02.

@@ -1,0 +1,25 @@
+ID: 298
+Source Folder: unknown
+Topic: ia_fee_arrangements
+Difficulty: medium
+Verdict: COMPLIANT
+
+FACTS
+-----
+An adviser implements a tiered AUM fee schedule: 1.0% on the first $1M, 0.75% on $1M–$5M, 0.50% on $5M+, applied quarterly in arrears to all discretionary accounts. The schedule is disclosed in Form ADV Part 2A Item 5 with precise breakpoints and examples. For qualified clients (accredited investors, net worth >$750K), the adviser separately offers performance fees of 20% of gains above a 2% hurdle rate, charged annually, with annual rebalancing. Each qualified client signs a dated acknowledgment stating they understand the performance fee terms and meet the Rule 205-3(d) definition. All fee changes are disclosed via amended Form ADV within 45 days. No side letters exist.
+
+QUESTION
+--------
+Does this fee structure comply with Rule 205-3 and Form ADV disclosure requirements?
+
+ANSWER
+------
+Yes, fully compliant. The tiered AUM structure meets Rule 205-3(b) standards: fees are reasonable, disclosed clearly with specific dollar amounts and percentages, and applied uniformly to all clients (no hidden side letters or disparate treatment). Performance fees comply with Rule 205-3(a)–(e) because they are offered only to qualified clients (accredited investors with net worth >$750K per Rule 205-3(d)(1)), each client has signed a written acknowledgment, and the fee terms are explicit (20% of gains, 2% hurdle, annual charge). Form ADV Part 2A Item 5 disclosures include concrete examples (e.g., $1.5M account = $9,375 quarterly fee at 0.75% tier), satisfying SEC guidance. The amended Form ADV filings within 45 days comply with the 90-day amendment rule. Absence of side letters eliminates conflicts of interest.
+
+APPLICABLE STANDARD
+-------------------
+Investment Adviser Act Rule 205-3(a)–(e), Form ADV Part 2A Items 5 and 6, SEC IA Guidance on Fee Reasonableness
+
+KEY FACTOR
+----------
+Clear, uniform tiered fee disclosure to all clients, performance fees limited to qualified clients with signed acknowledgments, and timely Form ADV updates establish full compliance.

@@ -1,0 +1,25 @@
+ID: 386
+Source Folder: unknown
+Topic: dol_plan_adviser
+Difficulty: medium
+Verdict: NON-COMPLIANT
+
+FACTS
+-----
+Wealth Management LLC, a registered investment adviser, was hired by Acme Manufacturing's defined benefit plan sponsor to evaluate the $45M pension investment portfolio and recommend asset allocation changes. The plan had 280 participants, average age 52, with a $89M underfunded liability. WM LLC charged the plan sponsor a flat $35,000 annual fee. However, WM LLC simultaneously managed a $12M discretionary account for Acme's CFO personally, earning 0.75% AUM ($9,000 annually). When recommending shifting $15M from equities to fixed income, WM LLC did not disclose to the plan sponsor that this reallocation would benefit the CFO's personal account (which held significant equity positions that would rise due to plan capital inflows into bonds). WM LLC documented no written conflict-of-interest analysis or mitigation procedures in its advice file.
+
+QUESTION
+--------
+Did WM LLC comply with DOL fiduciary duty of loyalty (ERISA §404(a)(1)(A)) when recommending asset reallocation without disclosing and managing conflicts of interest between the plan and the CFO's personal account?
+
+ANSWER
+------
+No. Under ERISA §404(a)(1)(A), a fiduciary must act solely in the interest of plan participants and beneficiaries. WM LLC's simultaneous representation of both the plan and the CFO creates an undisclosed material conflict—the CFO's personal investment interests diverge from the plan's allocation needs. The failure to disclose this conflict, document a conflict mitigation procedure, or demonstrate that the recommendation served the plan's standalone interests (not the CFO's) breaches the duty of loyalty. DOL guidance (Advisory Opinion 2001-01A) establishes that a fiduciary must either eliminate the conflict, obtain informed written consent after full disclosure, or operate under a DOL exemption (e.g., PTE 2020-02 requires explicit acknowledgment of conflicts by plan fiduciaries). WM LLC's silence violates this standard.
+
+APPLICABLE STANDARD
+-------------------
+ERISA §404(a)(1)(A) — Duty of Loyalty; DOL Advisory Opinion 2001-01A; PTE 2020-02 conflict disclosure
+
+KEY FACTOR
+----------
+Material conflict of interest between plan and CFO's personal account was not disclosed to plan sponsor, and no written conflict mitigation was documented.
