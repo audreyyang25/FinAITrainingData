@@ -21,25 +21,9 @@ def plot_table_counts(df):
 def topic_by_type(df):
     return pd.crosstab(df["topic"], df["content_type"])
 
-def plot_topic_by_type(df):
-    counts = topic_by_type(df)
-    counts = counts.loc[counts.sum(axis=1).sort_values().index]
-    fig, ax = plt.subplots(figsize=(8, 10))
-    im = ax.imshow(counts.values, aspect="auto", cmap="Blues")
-    ax.set_xticks(range(len(counts.columns)))
-    ax.set_xticklabels(counts.columns, rotation=45, ha="right")
-    ax.set_yticks(range(len(counts.index)))
-    ax.set_yticklabels(counts.index)
-    for (i, j), val in np.ndenumerate(counts.values):
-        ax.text(j, i, val, ha="center", va="center")
-    fig.colorbar(im, ax=ax, label="count")
-    fig.savefig(FIG_DIR + "/topic_by_type.png", bbox_inches="tight")
-    plt.show()
-
 if __name__ == "__main__":
     df = load_all()
     print(topic_counts(df))
     print(topic_by_type(df))
     plot_table_counts(df)
-    plot_topic_by_type(df)
 
