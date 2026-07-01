@@ -2,7 +2,7 @@ import os
 import re
 import json
 from openai import OpenAI
-from config import ADAPTERS, SUITE, DATA_DIR, load_dataset
+from config import ADAPTERS, GEN_SUITE, JUDGE_SUITE, DATA_DIR, load_dataset
 
 GEN_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generations.jsonl")
 PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "judgments.jsonl")
@@ -45,6 +45,8 @@ def parse_judgment(text):
     If we can't read a JSON object with a numeric score, the judgment is marked
     invalid (score=None) rather than fabricating a number from the raw text.
     """
+    if not text:  # model returned no content (None/empty) -> invalid, don't crash
+        return None, "", None, False
     obj = None
     try:
         obj = json.loads(text)
@@ -68,13 +70,23 @@ def parse_judgment(text):
 def model_call(model, task_prompt_user):
     resp = client.chat.completions.create(
         model=model,
-        max_tokens=600,
+        max_tokens=2000,
+        # Cap hidden reasoning so the budget goes to the JSON, not thinking.
+        # (no_q outputs are longer -- they also carry guessed_question.)
+        # OpenRouter ignores this for non-reasoning models (gpt-4o, llama, ...).
+        extra_body={"reasoning": {"effort": "low"}},
         messages=[
             {"role": "system", "content": JUDGE_SYS},
             {"role": "user", "content": task_prompt_user},
         ],
     )
-    return resp.choices[0].message.content
+    msg = resp.choices[0].message
+    if msg.content is None:  # diagnose which model/why returns no text
+        print("NULL:", model,
+              "| finish:", resp.choices[0].finish_reason,
+              "| has_reasoning:", getattr(msg, "reasoning", None) is not None,
+              "| err:", getattr(resp, "error", None))
+    return msg.content
 
 
 def build_truths(data_dir=DATA_DIR):
@@ -87,7 +99,12 @@ def build_truths(data_dir=DATA_DIR):
 
 
 def load_done(path):
-    """Skips blank/partial lines so an interrupted write can't break resume."""
+    """Keys with a VALID (non-null) score -> skipped on resume.
+
+    Null/invalid judgments are intentionally left OUT of the done-set, so they
+    can be re-run later (e.g. after raising max_tokens) without re-running the
+    good entries. Also skips blank/partial lines.
+    """
     done = set()
     if os.path.exists(path):
         for line in open(path):
@@ -98,6 +115,8 @@ def load_done(path):
                 r = json.loads(line)
             except json.JSONDecodeError:
                 continue
+            if r.get("score") is None or not r.get("valid", False):
+                continue  # leave null/invalid judgments re-runnable
             done.add((r["dataset"], r["id"], r["generator"], r["judge"], r["condition"]))
     return done
 
@@ -109,7 +128,7 @@ def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
         for line in open(gen_path):
             g = json.loads(line)
             task, truth = truths[(g["dataset"], g["id"])]
-            for spec in SUITE:                       # the judge
+            for spec in JUDGE_SUITE:                       # the judge
                 for cond in CONDITIONS:
                     key = (g["dataset"], g["id"], g["generator"], spec["key"], cond)
                     if key in done:
@@ -139,7 +158,7 @@ def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
                     }) + "\n")
                     out.flush()
                     done.add(key)
-                    print(f"ok {key} -> {score}")
+                    print(f"judged {key} -> {score}")
 
 
 if __name__ == "__main__":

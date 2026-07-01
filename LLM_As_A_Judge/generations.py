@@ -1,10 +1,10 @@
 import os
 import json
 from openai import OpenAI
-from config import ADAPTERS, SUITE, DATA_DIR, load_dataset
+from config import ADAPTERS, GEN_SUITE, DATA_DIR, load_dataset
 
 PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generations.jsonl")
-LIMIT = 15  # pilot: records per dataset. Set to None for the full run.
+LIMIT = 5  # pilot: records per dataset. Set to None for the full run.
 
 GEN_SYSTEM = (
     "You are a securities-law and FINRA/SEC compliance expert. "
@@ -55,7 +55,7 @@ def run_generation(out_path=PATH, data_dir=DATA_DIR, limit=LIMIT):
     with open(out_path, "a") as out:
         for name in ADAPTERS:
             for rid, prompt, _truth in load_dataset(name, limit=limit, data_dir=data_dir):
-                for spec in SUITE:
+                for spec in GEN_SUITE:
                     key = (name, rid, spec["key"])
                     if key in done:
                         continue

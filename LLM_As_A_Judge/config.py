@@ -15,12 +15,18 @@ DATA_DIR = os.path.join(
 # All routed through OpenRouter (one OpenAI-compatible endpoint), so `model`
 # is an OpenRouter slug. Verify exact slugs at https://openrouter.ai/models —
 # they change over time; these are five distinct vendors for cross-model bias.
-SUITE = [
-    {"key": "claude",   "model": "anthropic/claude-opus-4.1"},
-    {"key": "gpt",      "model": "openai/gpt-4o"},
+GEN_SUITE = [
+    {"key": "claude",   "model": "anthropic/claude-opus-4.8"}, # opus-4.8
+    {"key": "gpt",      "model": "openai/gpt-5.5"}, # gpt-5.5
     {"key": "gemini",   "model": "google/gemini-2.5-pro"},
-    {"key": "llama",    "model": "meta-llama/llama-3.3-70b-instruct"},
-    {"key": "deepseek", "model": "deepseek/deepseek-chat"},
+    {"key": "qwen",    "model": "qwen/qwen3-235b-a22b"},
+    {"key": "deepseek", "model": "deepseek/deepseek-r1"},
+]
+
+JUDGE_SUITE = [
+    {"key": "claude", "model": "anthropic/claude-sonnet-5"},
+    {"key": "gpt", "model": "openai/gpt-4o-mini"},
+
 ]
 
 
