@@ -20,6 +20,7 @@ from collections import defaultdict
 from config import GEN_SUITE, JUDGE_SUITE, ADAPTERS
 from generations import model_call as gen_call
 from judge import model_call as judge_call, judge_user, parse_judgment
+from figures import save_table_fig, save_bar, save_heatmap
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -119,60 +120,6 @@ def run_judging(variants):
                 print(f"judge ok {key} -> {score}")
 
 
-# ---- figures ----
-def _plt():
-    import matplotlib
-    matplotlib.use("Agg")
-    import matplotlib.pyplot as plt
-    return plt
-
-
-def save_table_fig(df, title, fname):
-    plt = _plt()
-    fig, ax = plt.subplots(figsize=(max(6, 1.3 * len(df.columns) + 2), 0.5 * len(df) + 1.4))
-    ax.axis("off")
-    ax.set_title(title, fontweight="bold", pad=12)
-    tbl = ax.table(cellText=df.round(4).astype(str).values,
-                   colLabels=list(df.columns), rowLabels=[str(i) for i in df.index],
-                   loc="center", cellLoc="center")
-    tbl.auto_set_font_size(False)
-    tbl.set_fontsize(9)
-    tbl.scale(1, 1.4)
-    fig.savefig(os.path.join(FIG_DIR, fname), bbox_inches="tight", dpi=150)
-    plt.close(fig)
-    print(f"  figure: {fname}")
-
-
-def save_bar(series, title, fname):
-    plt = _plt()
-    fig, ax = plt.subplots(figsize=(7, 4))
-    colors = ["#4C72B0" if v >= 0 else "#C44E52" for v in series]
-    series.plot(kind="bar", ax=ax, color=colors)
-    ax.axhline(0, color="black", lw=0.8)
-    ax.set_ylabel("mean delta (male - female)")
-    ax.set_title(title, fontweight="bold")
-    fig.savefig(os.path.join(FIG_DIR, fname), bbox_inches="tight", dpi=150)
-    plt.close(fig)
-    print(f"  figure: {fname}")
-
-
-def save_heatmap(pivot, title, fname):
-    plt = _plt()
-    fig, ax = plt.subplots(figsize=(1.1 * len(pivot.columns) + 3, 0.6 * len(pivot.index) + 2))
-    vmax = max(0.001, abs(pivot.values).max())
-    im = ax.imshow(pivot.values, cmap="RdBu_r", vmin=-vmax, vmax=vmax, aspect="auto")
-    ax.set_xticks(range(len(pivot.columns)), pivot.columns)
-    ax.set_yticks(range(len(pivot.index)), pivot.index)
-    for i in range(len(pivot.index)):
-        for j in range(len(pivot.columns)):
-            ax.text(j, i, f"{pivot.values[i, j]:.3f}", ha="center", va="center", fontsize=8)
-    ax.set_title(title, fontweight="bold")
-    fig.colorbar(im, ax=ax, label="male - female")
-    fig.savefig(os.path.join(FIG_DIR, fname), bbox_inches="tight", dpi=150)
-    plt.close(fig)
-    print(f"  figure: {fname}")
-
-
 def aggregate():
     import pandas as pd
     df = pd.read_json(JUD_PATH, lines=True)
@@ -212,12 +159,12 @@ def aggregate():
           f"{overall.loc['overall', 'mean_delta']}  n={int(overall.loc['overall', 'n_pairs'])}")
 
     try:
-        save_table_fig(overall, "Gender effect (male - female) -- overall", "overall.png")
-        save_table_fig(by_type, "Gender effect by dataset type", "by_type.png")
-        save_table_fig(by_judge, "Gender effect by judge", "by_judge.png")
-        save_table_fig(by_generator, "Gender effect by generator", "by_generator.png")
-        save_bar(by_generator["mean_delta"], "Gender effect by generator", "bar_by_generator.png")
-        save_heatmap(gen_judge, "Gender effect: generator x judge (mean delta)", "heatmap_gen_judge.png")
+        save_table_fig(overall, "Gender effect (male - female) -- overall", os.path.join(FIG_DIR, "overall.png"))
+        save_table_fig(by_type, "Gender effect by dataset type", os.path.join(FIG_DIR, "by_type.png"))
+        save_table_fig(by_judge, "Gender effect by judge", os.path.join(FIG_DIR, "by_judge.png"))
+        save_table_fig(by_generator, "Gender effect by generator", os.path.join(FIG_DIR, "by_generator.png"))
+        save_bar(by_generator["mean_delta"], "Gender effect by generator", os.path.join(FIG_DIR, "bar_by_generator.png"), ylabel="mean delta (male - female)")
+        save_heatmap(gen_judge, "Gender effect: generator x judge (mean delta)", os.path.join(FIG_DIR, "heatmap_gen_judge.png"), cbar_label="male - female")
         print(f"figures + csvs saved under {OUT_DIR}")
     except ImportError:
         print("matplotlib not installed -- CSVs saved; run `pip install matplotlib` for figures")

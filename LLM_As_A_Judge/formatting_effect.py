@@ -20,11 +20,13 @@ import math
 from config import GEN_SUITE, JUDGE_SUITE, DATA_DIR
 from generations import model_call as gen_call
 from judge import model_call as judge_call, judge_user, parse_judgment
+from figures import save_table_fig, save_bar, save_heatmap
 
 HERE = os.path.dirname(os.path.abspath(__file__))   # LLM_As_A_Judge
 REPO = os.path.dirname(HERE)                         # repo root
 OUT_DIR = os.path.join(HERE, "runs", "v2")
-os.makedirs(OUT_DIR, exist_ok=True)
+FIG_DIR = os.path.join(OUT_DIR, "figures")
+os.makedirs(FIG_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")
 JUD_PATH = os.path.join(OUT_DIR, "judgments.jsonl")
 
@@ -149,30 +151,47 @@ def aggregate():
                           "std": round(sd, 4), "t": round(t, 3),
                           "pos": int((x > 0).sum()), "neg": int((x < 0).sum())})
 
-    print("\n=== FORMATTING EFFECT: delta = conversation - narrative (judge score) ===")
-    print("\nOVERALL:\n" + summary(deltas).to_string())
-    print("\nBY JUDGE:\n" + deltas.groupby("judge").apply(summary).to_string())
-    print("\nBY GENERATOR:\n" + deltas.groupby("generator").apply(summary).to_string())
-    print("\nBY GENERATOR x JUDGE (mean delta):\n" +
-          deltas.pivot_table(index="generator", columns="judge",
-                             values="delta", aggfunc="mean").round(3).to_string())
+    overall = summary(deltas).to_frame("overall").T
+    by_judge = deltas.groupby("judge").apply(summary)
+    by_generator = deltas.groupby("generator").apply(summary)
+    gen_judge = deltas.pivot_table(index="generator", columns="judge",
+                                   values="delta", aggfunc="mean").round(4)
+
+    deltas.to_csv(os.path.join(OUT_DIR, "formatting_deltas.csv"), index=False)
+    for name, tbl in [("overall", overall), ("by_judge", by_judge),
+                      ("by_generator", by_generator), ("gen_x_judge", gen_judge)]:
+        tbl.to_csv(os.path.join(OUT_DIR, f"formatting_{name}.csv"))
+
+    print(f"\nFORMATTING EFFECT (conversation - narrative): overall mean_delta="
+          f"{overall.loc['overall', 'mean_delta']}  n={int(overall.loc['overall', 'n_pairs'])}")
 
     try:
         from scipy.stats import wilcoxon
         x = deltas["delta"].to_numpy()
         if (x != 0).any():
             stat, p = wilcoxon(x)
-            print(f"\nWilcoxon signed-rank (overall): stat={stat:.1f}, p={p:.4g}")
+            print(f"Wilcoxon signed-rank (overall): stat={stat:.1f}, p={p:.4g}")
     except ImportError:
-        print("\n(install scipy for a Wilcoxon signed-rank p-value)")
+        pass
 
-    deltas.to_csv(os.path.join(OUT_DIR, "formatting_effect_deltas.csv"), index=False)
-    print(f"\nsaved {os.path.join(OUT_DIR, 'formatting_effect_deltas.csv')}")
+    try:
+        save_table_fig(overall, "Formatting effect (conversation - narrative) -- overall", os.path.join(FIG_DIR, "overall.png"))
+        save_table_fig(by_judge, "Formatting effect by judge", os.path.join(FIG_DIR, "by_judge.png"))
+        save_table_fig(by_generator, "Formatting effect by generator", os.path.join(FIG_DIR, "by_generator.png"))
+        save_bar(by_generator["mean_delta"], "Formatting effect by generator", os.path.join(FIG_DIR, "bar_by_generator.png"), ylabel="mean delta (conversation - narrative)")
+        save_heatmap(gen_judge, "Formatting effect: generator x judge (mean delta)", os.path.join(FIG_DIR, "heatmap_gen_judge.png"), cbar_label="conversation - narrative")
+        print(f"figures + csvs saved under {OUT_DIR}")
+    except ImportError:
+        print(f"matplotlib not installed -- CSVs saved under {OUT_DIR}; pip install matplotlib for figures")
 
 
 if __name__ == "__main__":
-    formats = load_formats()
-    print(f"paired records: {len(formats['narrative'])}")
-    run_generation(formats)
-    run_judging(formats)
-    aggregate()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "agg":
+        aggregate()  # stats + figures only, from existing judgments (no API calls)
+    else:
+        formats = load_formats()
+        print(f"paired records: {len(formats['narrative'])}")
+        run_generation(formats)
+        run_judging(formats)
+        aggregate()
