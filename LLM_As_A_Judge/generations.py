@@ -22,6 +22,10 @@ def model_call(model, task_prompt):
     resp = client.chat.completions.create(
         model=model,
         max_tokens=2000,
+        # Cap reasoning so reasoning-model generators (gemini/deepseek/qwen) don't
+        # spend the whole budget thinking and return empty/truncated answers.
+        # OpenRouter ignores this for non-reasoning models.
+        extra_body={"reasoning": {"effort": "low"}},
         messages=[
             {"role": "system", "content": GEN_SYSTEM},
             {"role": "user", "content": task_prompt},
