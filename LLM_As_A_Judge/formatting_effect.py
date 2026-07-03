@@ -1,19 +1,3 @@
-"""Formatting-effect pipeline.
-
-Question: does presenting the SAME standard case as a narrative vs a conversation
-change how well models answer it (as scored by the judges)?
-
-Runs generation + judging on both formats of the standard cases that have been
-rewritten (paired by id -- only fact_pattern differs; question/answer identical),
-then reports the PAIRED signed effect: delta = score(conversation) - score(narrative).
-
-Reuses the main pipeline's generation/judging calls for comparability. Resumable.
-Everything is judged WITH the question. Outputs under runs/v2/.
-
-PREREQ: modified_data/standard_conversation.jsonl must exist (produced by
-rewrite_format.py). Run that first if it's missing.
-"""
-
 import os
 import json
 import math

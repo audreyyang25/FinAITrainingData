@@ -2,7 +2,7 @@ import os
 import re
 import json
 from openai import OpenAI
-from config import ADAPTERS, GEN_SUITE, JUDGE_SUITE, DATA_DIR, load_dataset
+from config import ADAPTERS, JUDGE_SUITE, DATA_DIR, load_dataset
 
 GEN_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generations.jsonl")
 PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "judgments.jsonl")
@@ -121,6 +121,7 @@ def load_done(path):
     return done
 
 
+# separated into with question and no question
 def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
     truths = build_truths(data_dir=data_dir)
     done = load_done(out_path)

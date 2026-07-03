@@ -18,7 +18,7 @@ MODIFIED_DIR = os.path.join(
 os.makedirs(MODIFIED_DIR, exist_ok=True)
 OUT = os.path.join(MODIFIED_DIR, "standard_conversation.jsonl")
 SRC = os.path.join(DATA_DIR, "suitability_only_P12.json")
-LIMIT = 15            # records to rewrite; None for all of P12
+LIMIT = 45            # records to rewrite; None for all of P12
 MAX_TRIES = 3         # rewrite->verify attempts before writing flagged-unverified
 MODEL = "anthropic/claude-opus-4.8"  # adjust to a slug valid in your account
 
