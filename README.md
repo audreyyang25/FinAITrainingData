@@ -53,15 +53,22 @@ FinAITrainingData/
 │       ├── DATASET_MANIFEST.md        ← Phase 4 snapshot (Feb 2026) — historical only
 │       └── …
 │
-└── AI Suitability Training Materials/  ← curated export / training deliverable subset
-    ├── 23_Folders_Suitability/         ← suitability_only_P12–P16.json (folders 01–23)
-    └── New_6_Folders_Suitability/      ← per-product Standard + Borderline JSON (folders 24–29)
-        ├── Variable Annuities/
-        ├── Leveraged Inverse ETFs/
-        ├── Options/
-        ├── Private Placements/
-        ├── Structured Products/
-        └── Crypto Digital Assets/
+├── AI Suitability Training Materials/  ← curated export / training deliverable subset
+│   ├── 23_Folders_Suitability/         ← suitability_only_P12–P16.json (folders 01–23)
+│   └── New_6_Folders_Suitability/      ← per-product Standard + Borderline JSON (folders 24–29)
+│       ├── Variable Annuities/
+│       ├── Leveraged Inverse ETFs/
+│       ├── Options/
+│       ├── Private Placements/
+│       ├── Structured Products/
+│       └── Crypto Digital Assets/
+│
+└── LLM_As_A_Judge/                     ← LLM-as-a-judge eval pipeline
+    ├── README.md                       ← pipeline docs (studies, run order, outputs)
+    ├── config·generations·judge·run    ← core eval           (→ runs/v1)
+    ├── rewrite_format·rewrite_names·name_swap   ← case perturbations (→ modified_data/)
+    ├── formatting_effect·gender_effect·figures  ← studies + plots    (→ runs/v2, v3)
+    └── runs/{v1,v2,v3}/                 ← per-study outputs: jsonl · csv · figures
 ```
 ### Project Setup & Data
 The source code is tracked in this repository, but the raw data is stored externally due to size constraints.
@@ -81,6 +88,25 @@ The source code is tracked in this repository, but the raw data is stored extern
 | Dataset counts, formats, known duplicates | [`training_material_generation/README.md`](Data%20Collection%20and%20Training%20Material%20Generation/training_material_generation/README.md) |
 | Coverage gaps, audits, reviews | [`AUDITS_AND_REVIEWS.md`](Data%20Collection%20and%20Training%20Material%20Generation/AUDITS_AND_REVIEWS.md) |
 | Per-PDF scrape provenance | `raw_data/logs/index.json` |
+| LLM-as-a-judge eval + formatting/gender studies | [`LLM_As_A_Judge/README.md`](LLM_As_A_Judge/README.md) |
+
+---
+
+## LLM-as-a-Judge evaluation
+
+`LLM_As_A_Judge/` is an evaluation harness that scores model answers to the
+suitability cases with a suite of judge models (via OpenRouter), plus two
+controlled-perturbation studies:
+
+- **Main eval** — generator models answer each case; judge models score each
+  answer against the ground-truth answer.
+- **Formatting effect** (`runs/v2`) — the same case as a narrative vs a
+  conversation; does the format change the score?
+- **Gender effect** (`runs/v3`) — swap only the client's name (male- vs
+  female-coded); does it change the score?
+
+Setup, run order, outputs, and how to read the results (paired deltas, `n_pairs`
+semantics, significance) are in **[`LLM_As_A_Judge/README.md`](LLM_As_A_Judge/README.md)**.
 
 ---
 
