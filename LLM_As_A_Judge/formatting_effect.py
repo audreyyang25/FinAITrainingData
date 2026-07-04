@@ -115,6 +115,10 @@ def run_judging(formats):
 
 def aggregate():
     import pandas as pd
+    try:
+        from scipy import stats as _st
+    except ImportError:
+        _st = None
     df = pd.read_json(JUD_PATH, lines=True)
     df = df[df["valid"].fillna(False)].copy()
 
@@ -129,15 +133,26 @@ def aggregate():
         x = d["delta"].to_numpy()
         n = len(x)
         mean = x.mean()
-        sd = x.std(ddof=1) if n > 1 else float("nan")
-        t = mean / (sd / math.sqrt(n)) if n > 1 and sd > 0 else float("nan")
-        return pd.Series({"n_pairs": n, "mean_delta": round(mean, 4),
-                          "std": round(sd, 4), "t": round(t, 3),
+        sd = x.std(ddof=1) if n > 1 else float("nan")     # sample std (spread of deltas)
+        se = sd / math.sqrt(n) if n > 0 else float("nan")  # standard error of the mean
+        t = mean / se if n > 1 and sd > 0 else float("nan")  # one-sample t vs 0 (no effect)
+        # two-sided p from Student's t, df = n-1
+        p = 2 * _st.t.sf(abs(t), n - 1) if (_st and n > 1 and sd > 0) else float("nan")
+        return pd.Series({"n": n, "mean_delta": round(mean, 4), "std": round(sd, 4),
+                          "t": round(t, 3), "p": round(p, 4),
                           "pos": int((x > 0).sum()), "neg": int((x < 0).sum())})
 
-    overall = summary(deltas).to_frame("overall").T
+    # Collapse the two JUDGES into one delta per (case, generator) for the
+    # significance tests: judges scoring the SAME answers aren't independent, so
+    # counting both inflates n and the p-value. Generators stay separate (they
+    # produce different answers).
+    collapsed = deltas.groupby(["id", "generator"], as_index=False)["delta"].mean()
+
+    # Significance (t, p) on judge-collapsed data:
+    overall = summary(collapsed).to_frame("overall").T
+    by_generator = collapsed.groupby("generator").apply(summary)
+    # Descriptive tables stay on the raw per-judge pairs (kept as-is):
     by_judge = deltas.groupby("judge").apply(summary)
-    by_generator = deltas.groupby("generator").apply(summary)
     gen_judge = deltas.pivot_table(index="generator", columns="judge",
                                    values="delta", aggfunc="mean").round(4)
 
@@ -146,17 +161,15 @@ def aggregate():
                       ("by_generator", by_generator), ("gen_x_judge", gen_judge)]:
         tbl.to_csv(os.path.join(OUT_DIR, f"formatting_{name}.csv"))
 
-    print(f"\nFORMATTING EFFECT (conversation - narrative): overall mean_delta="
-          f"{overall.loc['overall', 'mean_delta']}  n={int(overall.loc['overall', 'n_pairs'])}")
+    print(f"\nFORMATTING EFFECT (conversation - narrative), judges averaged: "
+          f"mean_delta={overall.loc['overall','mean_delta']}  n={int(overall.loc['overall','n'])}  "
+          f"t={overall.loc['overall','t']}  p={overall.loc['overall','p']}")
 
-    try:
-        from scipy.stats import wilcoxon
-        x = deltas["delta"].to_numpy()
+    if _st is not None:
+        x = collapsed["delta"].to_numpy()
         if (x != 0).any():
-            stat, p = wilcoxon(x)
-            print(f"Wilcoxon signed-rank (overall): stat={stat:.1f}, p={p:.4g}")
-    except ImportError:
-        pass
+            stat, pw = _st.wilcoxon(x)
+            print(f"Wilcoxon signed-rank (overall, judges averaged): stat={stat:.1f}, p={pw:.4g}")
 
     try:
         save_table_fig(overall, "Formatting effect (conversation - narrative) -- overall", os.path.join(FIG_DIR, "overall.png"))

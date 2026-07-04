@@ -86,6 +86,21 @@ def run_aggregation(judgments_path=PATH, out_dir=None, verbose=True):
         index="generator", columns="judge", values="score", aggfunc="mean"
     ).round(3).to_csv(os.path.join(dest, "matrix_no_q.csv"))
 
+    # Generator x question-type difficulty: mean score per (generator, dataset),
+    # averaged over judges + conditions, columns ordered hardest -> easiest.
+    gxt = df.pivot_table(index="generator", columns="dataset", values="score", aggfunc="mean")
+    gxt = gxt[df.groupby("dataset").score.mean().sort_values().index]
+    gxt.round(3).to_csv(os.path.join(dest, "generator_x_type.csv"))
+    try:
+        from figures import save_score_heatmap
+        fig_dir = os.path.join(dest, "figures")
+        os.makedirs(fig_dir, exist_ok=True)
+        save_score_heatmap(
+            gxt, "mean judge score: generator x question type\n(red = worst; columns hardest -> easiest)",
+            os.path.join(fig_dir, "generator_x_type_score.png"))
+    except ImportError:
+        pass
+
     return metrics
 
 

@@ -173,19 +173,30 @@ Terminal output is intentionally minimal (progress + "saved …"); read the figu
 
 ## Reading the results
 
-- **`delta`** = arm A − arm B for one `(case, generator, judge)` (v2: conversation−narrative;
-  v3: male−female). A pair only exists when **both** arms got a `valid` score.
-- **`n_pairs` counts deltas, not cases.** It's `cases × (dimensions not grouped on)`:
-  `by_generator` = cases × judges; `by_judge` = cases × generators; `overall` =
-  cases × generators × judges. So a generator can show ~110 pairs from ~55 cases × 2 judges.
-- **Uneven `n_pairs` across models** = uneven success: a model with more
-  `GEN EMPTY`/`GEN FAIL` or a judge with more `valid:false` loses pairs. Reasoning
-  models (and `claude-sonnet-5` as a judge) drop the most.
-- **The delta is within-judge**, so judge leniency/scale cancels out — robust to
-  the imbalance. But pooled means weight toward whichever judge has more pairs, so
-  check the `by_judge` table; if judges agree, pooling is fine.
-- **Significance**: look at the `t` column (|t| ≳ 2 ≈ significant). `std` is the
-  per-pair spread, *not* the uncertainty of the mean (that's `std/√n`).
+- **`delta`** = arm A − arm B (v2: conversation−narrative; v3: male−female). At the
+  raw level there's one delta per `(case, generator, judge)`, and it exists only
+  when **both** arms got a `valid` score.
+- **Significance and descriptive tables use different units.** The two judges score
+  the *same* answers, so they aren't independent — counting both inflates `n` and
+  the p-value. The significance tables therefore **collapse judges** (average them):
+  - `overall`, `by_generator`, `by_type` → one delta per **`case × generator`**
+    (judges averaged). Their `n` ≈ cases × generators.
+  - `by_judge`, `gen×judge` → left on the **raw per-judge pairs** (descriptive).
+  So `n` in `overall`/`by_generator` is *not* comparable to `n` in `by_judge`.
+- **`t` and `p`** (in every summary table) test whether the mean delta = 0 (no effect):
+  `t = mean / (std/√n)`, `p =` two-sided Student's t with `df = n−1`. A Wilcoxon
+  signed-rank p (non-parametric, robust to outliers, drops ties) is also printed for
+  the overall. Rule of thumb: `|t| ≳ 2` / `p < 0.05` ≈ significant.
+- **`std` is spread, not precision.** It's the case-to-case scatter of deltas; the
+  uncertainty of the *mean* is `std/√n` (shrinks with n). A tiny mean can still be
+  significant if `std` is small and n large (e.g. gender `redflags`).
+- **Uneven `n` across models** = uneven success: a model with more `GEN EMPTY`/
+  `GEN FAIL`, or a judge with more `valid:false`, loses pairs (reasoning models and
+  `claude-sonnet-5` as a judge drop the most). The delta is within-judge, so this
+  doesn't bias the effect — but check `by_judge` to confirm the two judges agree in
+  direction before trusting the pooled number.
+- **Watch multiple comparisons** in `by_type` (5 tests): expect ~1 to cross p<0.05
+  by chance, so treat a lone significant subgroup skeptically.
 
 ### Diagnostics (run from `LLM_As_A_Judge/`)
 ```bash

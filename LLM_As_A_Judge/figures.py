@@ -44,6 +44,24 @@ def save_bar(series, title, path, ylabel="mean delta"):
     print(f"  figure: {os.path.basename(path)}")
 
 
+def save_score_heatmap(pivot, title, path, cbar_label="mean score"):
+    """Heatmap for raw scores (sequential, data-range colormap; red=low/worst)."""
+    plt = _plt()
+    fig, ax = plt.subplots(figsize=(1.3 * len(pivot.columns) + 3, 0.6 * len(pivot.index) + 2))
+    im = ax.imshow(pivot.values, cmap="RdYlGn",
+                   vmin=pivot.values.min(), vmax=pivot.values.max(), aspect="auto")
+    ax.set_xticks(range(len(pivot.columns)), pivot.columns, rotation=20, ha="right")
+    ax.set_yticks(range(len(pivot.index)), pivot.index)
+    for i in range(len(pivot.index)):
+        for j in range(len(pivot.columns)):
+            ax.text(j, i, f"{pivot.values[i, j]:.3f}", ha="center", va="center", fontsize=8)
+    ax.set_title(title, fontweight="bold")
+    fig.colorbar(im, ax=ax, label=cbar_label)
+    fig.savefig(path, bbox_inches="tight", dpi=150)
+    plt.close(fig)
+    print(f"  figure: {os.path.basename(path)}")
+
+
 def save_heatmap(pivot, title, path, cbar_label="delta"):
     plt = _plt()
     fig, ax = plt.subplots(figsize=(1.1 * len(pivot.columns) + 3, 0.6 * len(pivot.index) + 2))
