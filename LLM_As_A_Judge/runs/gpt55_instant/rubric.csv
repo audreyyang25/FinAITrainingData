@@ -1,0 +1,76 @@
+phase,timestamp,rubric
+before,2026-07-06T21:51:01,"{
+  ""rubric"": {
+    ""factor_recall"": {
+      ""description"": ""Assesses the AI's ability to identify specific borderline suitability or Regulation Best Interest (Reg BI) factors from the case scenario."",
+      ""earns_credit"": ""The response must semantically match the reference borderline factors (e.g., extreme concentration, high cost relative to alternatives, mismatch with stated risk tolerance, short time horizon for illiquid products). Each recalled factor must be supported by an exact quote from the response."",
+      ""no_credit"": ""Vague, generalized statements (e.g., 'the broker must know the customer') without linking to the specific borderline facts of the case, or factors not supported by an exact quote."",
+      ""rules"": [
+        ""Apply strict semantic matching: look for substance, not exact wording."",
+        ""Every credited factor must have a corresponding exact quote from the response.""
+      ]
+    },
+    ""outcome_prediction"": {
+      ""description"": ""Evaluates the accuracy of the compliance determination (e.g., violation vs. no violation) and the legal/regulatory justification."",
+      ""earns_credit"": ""The response correctly identifies the compliance direction (compliant, non-compliant, or borderline/unresolved) AND provides a legally sound justification matching the reference analysis (e.g., citing specific rule elements like Care Obligation, Disclosure Obligation, or Suitability prongs)."",
+      ""no_credit"": ""Incorrect direction, correct direction with incorrect/hallucinated legal reasoning, or correct direction with no justification."",
+      ""rules"": [
+        ""First quote the exact passage containing the prediction and justification before rendering a judgment.""
+      ]
+    },
+    ""overall_content_similarity"": {
+      ""description"": ""A calibrated score from 0.0 to 1.0 measuring how closely the response's substance, reasoning, and conclusions match the gold-standard analysis."",
+      ""calibration"": {
+        ""0.0"": ""Completely irrelevant, entirely incorrect, or completely hallucinated response."",
+        ""0.3"": ""Mentions relevant terms (e.g., 'Reg BI', 'suitability') but misses the core compliance issue, predicts the wrong outcome, or relies on incorrect facts."",
+        ""0.5"": ""Correctly identifies the outcome and the main rule, but misses key borderline factors, provides weak or generic reasoning, and lacks depth."",
+        ""0.7"": ""Correct outcome, identifies most key borderline factors, provides solid reasoning that aligns with the gold standard, but misses minor nuances or secondary regulatory elements."",
+        ""1.0"": ""Perfect semantic match to the gold-standard analysis, capturing all key factors, correct outcome, precise reasoning, and accurate citations.""
+      },
+      ""rules"": [
+        ""Judge substance, not style, length, or formatting."",
+        ""Do not use external knowledge to fill gaps; evaluate only what is written.""
+      ]
+    },
+    ""citation_extraction"": {
+      ""description"": ""Identifies and extracts legal authorities cited in the response to verify accuracy and check for fabrication."",
+      ""earns_credit"": ""Accurately identifying real, applicable regulatory authorities cited in the text (e.g., FINRA Rule 2111, SEC Rule 15l-1, FINRA Rule 2330)."",
+      ""no_credit"": ""Failing to extract a cited rule, or extracting a rule that was not actually mentioned in the text."",
+      ""fabrication_check"": ""Any cited rule that is non-existent, fabricated, or completely inapplicable to the context must be flagged as a fabrication, resulting in zero credit for that citation.""
+    }
+  }
+}"
+after,2026-07-06T22:22:03,"{
+  ""rubric_definition"": {
+    ""factor_recall"": {
+      ""description"": ""Assess the AI's ability to identify and discuss the specific borderline/critical compliance factors defined in the reference case."",
+      ""earns_credit"": ""The response must substantively address the core compliance factor. Credit is awarded based on semantic matching of the substance, not specific terminology. Every claimed factor must be supported by an exact quote from the AI response."",
+      ""no_credit"": ""Vague, generalized statements about compliance or suitability that do not address the specific borderline tension of the factor. No credit is given if a supporting quote cannot be found in the text.""
+    },
+    ""outcome_prediction"": {
+      ""description"": ""Evaluate whether the AI correctly predicts the compliance outcome (violation vs. no violation / compliant vs. non-compliant) and provides the correct legal/regulatory justification."",
+      ""earns_credit"": ""The response must correctly identify the ultimate direction of the compliance determination AND provide the core legal/regulatory reasoning (e.g., specific FINRA Rule 2111 or Reg BI Care Obligation elements) matching the gold standard."",
+      ""no_credit"": ""Incorrect direction, or correct direction with entirely incorrect, fabricated, or irrelevant legal reasoning.""
+    },
+    ""overall_content_similarity"": {
+      ""description"": ""A holistic score from 0.0 to 1.0 measuring how closely the response's substance, reasoning, and conclusions match the gold-standard analysis."",
+      ""calibration_rules"": {
+        ""0.0"": ""No overlap; completely irrelevant or entirely incorrect response."",
+        ""0.3"": ""The response identifies the general topic (e.g., Reg BI) and perhaps the correct outcome direction, but misses almost all specific borderline factors, relies on generic boilerplate, and lacks rigorous legal reasoning."",
+        ""0.5"": ""The response gets the outcome direction right and identifies at least half of the key factors, but lacks depth in its justification or includes minor inaccuracies/hallucinations."",
+        ""0.7"": ""The response matches the gold standard on the outcome, identifies the vast majority of key borderline factors, and provides solid, accurate legal reasoning, though it may omit minor nuances or exhibit slight differences in analytical structure."",
+        ""1.0"": ""Perfect semantic alignment. Identifies all key factors, matches the outcome and reasoning exactly, cites correct authorities, and contains zero extraneous or incorrect compliance assertions.""
+      }
+    },
+    ""citation_extraction"": {
+      ""description"": ""Identify and extract all legal and regulatory authorities cited in the response to verify authenticity and check for fabrication."",
+      ""earns_credit"": ""Accurately listing actual, existing regulatory rules (e.g., FINRA Rule 2111, Exchange Act Rule 15l-1) cited in the text."",
+      ""fabrication_check"": ""Any citation of non-existent rules, mismatched rule numbers, or fabricated regulatory notices results in a failure of this dimension and penalizes the overall similarity score.""
+    },
+    ""general_evaluation_rules"": [
+      ""Judge substance, not style. Do not reward length, formatting, or confident tone."",
+      ""Apply strict semantic matching. Focus on the meaning, not the exact words."",
+      ""Evidence before verdict: Every judgment must be justified by an exact quote from the evaluated text. If no quote exists, the score/credit must be denied.""
+    ]
+  }
+}"

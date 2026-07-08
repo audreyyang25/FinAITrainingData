@@ -4,7 +4,7 @@ from openai import OpenAI
 from config import ADAPTERS, GEN_SUITE, DATA_DIR, load_dataset
 
 PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generations.jsonl")
-LIMIT = 5  # pilot: records per dataset. Set to None for the full run.
+LIMIT = 15  # pilot: records per dataset. Set to None for the full run.
 
 GEN_SYSTEM = (
     "You are a securities-law and FINRA/SEC compliance expert. "
@@ -18,7 +18,7 @@ client = OpenAI(
 )
 
 
-def model_call(model, task_prompt):
+def model_call(model, task_prompt, system=GEN_SYSTEM):
     resp = client.chat.completions.create(
         model=model,
         max_tokens=2000,
@@ -27,7 +27,7 @@ def model_call(model, task_prompt):
         # OpenRouter ignores this for non-reasoning models.
         extra_body={"reasoning": {"effort": "low"}},
         messages=[
-            {"role": "system", "content": GEN_SYSTEM},
+            {"role": "system", "content": system},
             {"role": "user", "content": task_prompt},
         ],
     )
@@ -54,32 +54,36 @@ def load_done(path):
     return done
 
 
-def run_generation(out_path=PATH, data_dir=DATA_DIR, limit=LIMIT):
-    done = load_done(out_path)
-    with open(out_path, "a") as out:
-        for name in ADAPTERS:
-            for rid, prompt, _truth in load_dataset(name, limit=limit, data_dir=data_dir):
-                for spec in GEN_SUITE:
-                    key = (name, rid, spec["key"])
-                    if key in done:
-                        continue
-                    try:
-                        answer = model_call(spec["model"], prompt)
-                    except Exception as e:
-                        # Don't write a line on failure -> key stays "not done"
-                        # and the next run retries it.
-                        print(f"FAIL {key}: {e}")
-                        continue
-                    out.write(json.dumps({
-                        "dataset": name,
-                        "id": rid,
-                        "generator": spec["key"],
-                        "model": spec["model"],
-                        "answer": answer,
-                    }) + "\n")
-                    out.flush()
-                    done.add(key)
-                    print(f"ok {key}")
+def run_generation(out_paths=[PATH], data_dir=DATA_DIR, limit=LIMIT, content_types=["standard", "borderline", "conversations", "redflags", "adversarial"], gen_suites=[GEN_SUITE], gen_system=GEN_SYSTEM):
+    for out_path, suite in zip(out_paths, gen_suites):
+        done = load_done(out_path)
+        with open(out_path, "a") as out:
+            for name in ADAPTERS:
+                if name in content_types:
+                    for rid, prompt, _truth in load_dataset(name, limit=limit, data_dir=data_dir):
+                        for spec in suite:
+                            key = (name, rid, spec["key"])
+                            if key in done:
+                                continue
+                            try:
+                                answer = model_call(spec["model"], prompt, system=gen_system)
+                            except Exception as e:
+                                # Don't write a line on failure -> key stays "not done"
+                                # and the next run retries it.
+                                print(f"FAIL {key}: {e}")
+                                continue
+                            out.write(json.dumps({
+                                "dataset": name,
+                                "id": rid,
+                                "generator": spec["key"],
+                                "model": spec["model"],
+                                "answer": answer,
+                            }) + "\n")
+                            out.flush()
+                            done.add(key)
+                            print(f"ok {key}")
+                else:
+                    continue
 
 
 if __name__ == "__main__":

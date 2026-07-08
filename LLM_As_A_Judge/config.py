@@ -23,10 +23,21 @@ GEN_SUITE = [
     {"key": "deepseek", "model": "deepseek/deepseek-r1"},
 ]
 
+GPT_SUITE = [
+    {"key": "gpt-3.5", "model": "openai/gpt-3.5-turbo"},
+    {"key": "gpt-4", "model": "openai/gpt-4-turbo"},
+    {"key": "gpt-4o", "model": "openai/gpt-4o"},
+    {"key": "gpt-5.5", "model": "openai/gpt-5.5"},
+]
+
+# CLAUDE_SUITE = [
+
+# ]
+
 JUDGE_SUITE = [
     {"key": "claude", "model": "anthropic/claude-sonnet-5"},
     {"key": "gpt", "model": "openai/gpt-4o-mini"},
-
+    # {"key": "gemini-3.5", "model": "google/gemini-3.5-flash"},
 ]
 
 
@@ -48,8 +59,8 @@ ADAPTERS = {
     ),
     "borderline": dict(  # P13, n=250
         file="suitability_only_P13.json",
-        prompt=lambda r: f"{r['fact_pattern']}\n\nQuestion: {r['question']}",
-        truth=lambda r: f"{r['analysis']}\n\nLikely outcome: {r['likely_outcome']}",
+        prompt=lambda r: f"{r['fact_pattern']}\n\nQuestion: {r['question']} Respond with four clear components: arguments that the financial advisor violated their obligations, arguments that the financial advisor acted appropriately, list the key borderline factors, what is the likely outcome of a regulator's decisions.",
+        truth=lambda r: f"Analysis: {r['analysis']}\n\nBorderline Factors: {r['borderline_factors']}\n\nLikely outcome: {r['likely_outcome']}",
         has_question=True,
     ),
     "conversations": dict(  # P14, n=50 (no explicit question)
