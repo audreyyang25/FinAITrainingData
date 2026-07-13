@@ -6,11 +6,9 @@ from config import output_path
 
 CASE_FEATURES = output_path("case_features.json")
 
-OUTPUT = output_path("coverage.csv")
 
 
-
-def compute_coverage():
+def compute_coverage(suffix=""):
 
     cases = load_json(
         CASE_FEATURES,
@@ -70,7 +68,7 @@ def compute_coverage():
     df = pd.DataFrame(rows)
 
     df.to_csv(
-        OUTPUT,
+        output_path(f"coverage{suffix}.csv"),
         index=False,
     )
 

@@ -8,11 +8,9 @@ GLOBAL_FEATURES = output_path("global_features.json")
 
 CASE_FEATURES = output_path("case_features.json")
 
-OUTPUT = output_path("reasoning_profiles.csv")
 
 
-
-def build_profiles():
+def build_profiles(suffix=""):
 
     global_space = load_json(
         GLOBAL_FEATURES,
@@ -118,7 +116,7 @@ def build_profiles():
 
 
     profile.to_csv(
-        OUTPUT,
+        output_path(f"reasoning_profiles{suffix}.csv"),
         index=False,
     )
 

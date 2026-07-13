@@ -28,12 +28,19 @@ def main():
         help="Number of examples to process per dataset adapter"
     )
 
+    parser.add_argument(
+        "--suffix",
+        default="",
+        help="Label appended to RESULT tables (coverage/entropy/profiles/"
+             "matrix/js), e.g. '_500'. Intermediates are never suffixed."
+    )
+
     args = parser.parse_args()
 
 
     if args.stage in [
         "generation",
-        # "all",   # generation excluded from 'all' -- it's done; uncomment to re-include
+        "all",
     ]:
         from generation import generate_all
 
@@ -47,7 +54,7 @@ def main():
 
     if args.stage in [
         "gold",
-        # "all",
+        "all",
     ]:
         from extract_gold_features import (
             extract_gold_features
@@ -91,7 +98,7 @@ def main():
             "\n=== Computing coverage ==="
         )
 
-        compute_coverage()
+        compute_coverage(suffix=args.suffix)
 
 
 
@@ -125,7 +132,7 @@ def main():
             "\n=== Computing reasoning profiles ==="
         )
 
-        build_profiles()
+        build_profiles(suffix=args.suffix)
 
 
 
@@ -142,7 +149,7 @@ def main():
             "\n=== Computing reasoning concentration ==="
         )
 
-        compute_entropy()
+        compute_entropy(suffix=args.suffix)
 
 
 
@@ -159,7 +166,7 @@ def main():
             "\n=== Computing importance distributions ==="
         )
 
-        build_distribution()
+        build_distribution(suffix=args.suffix)
 
 
 

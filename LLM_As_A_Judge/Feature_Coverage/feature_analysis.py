@@ -10,8 +10,6 @@ from config import output_path
 
 INPUT = output_path("generations.jsonl")
 
-OUTPUT = output_path("entropy.csv")
-
 
 
 def entropy(values):
@@ -36,7 +34,7 @@ def entropy(values):
 
 
 
-def compute_entropy():
+def compute_entropy(suffix=""):
 
 
     records = load_jsonl(
@@ -78,7 +76,7 @@ def compute_entropy():
 
 
     df.to_csv(
-        OUTPUT,
+        output_path(f"entropy{suffix}.csv"),
         index=False
     )
 

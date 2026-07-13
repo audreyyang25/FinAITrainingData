@@ -25,9 +25,6 @@ from config import output_path
 CASE_FEATURES = output_path("case_features.json")
 GLOBAL_FEATURES = output_path("global_features.json")
 
-MATRIX_OUT = output_path("importance_matrix.csv")
-JS_OUT = output_path("js_divergence.csv")
-
 
 def _accumulate_mass():
     """mass[model][global_feature] = total importance summed over all cases."""
@@ -72,7 +69,7 @@ def _js_divergence(p, q):
     return 0.5 * _kl(p, m) + 0.5 * _kl(q, m)
 
 
-def build_distribution():
+def build_distribution(suffix=""):
 
     mass = _accumulate_mass()
 
@@ -102,7 +99,7 @@ def build_distribution():
         .fillna(0.0)
         .sort_index()
     )
-    matrix.to_csv(MATRIX_OUT)
+    matrix.to_csv(output_path(f"importance_matrix{suffix}.csv"))
 
     # Pairwise JS divergence over the shared feature axis.
     models = list(matrix.index)
@@ -116,11 +113,12 @@ def build_distribution():
             js[i, j] = d
             js[j, i] = d
 
-    pd.DataFrame(js, index=models, columns=models).to_csv(JS_OUT)
+    js_out = output_path(f"js_divergence{suffix}.csv")
+    pd.DataFrame(js, index=models, columns=models).to_csv(js_out)
 
-    print(f"Wrote {MATRIX_OUT} "
+    print(f"Wrote importance_matrix{suffix}.csv "
           f"({matrix.shape[0]} models x {matrix.shape[1]} global features)")
-    print(f"Wrote {JS_OUT} ({n} x {n} model JS-divergence matrix)")
+    print(f"Wrote {js_out} ({n} x {n} model JS-divergence matrix)")
 
 
 if __name__ == "__main__":
