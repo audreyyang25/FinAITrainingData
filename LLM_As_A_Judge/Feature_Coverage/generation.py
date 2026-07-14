@@ -23,10 +23,8 @@ from utils import (
     parallel_yield,
 )
 
-
 OUTPUT = output_path("generations.jsonl")
 FAILURES = output_path("generation_failures.jsonl")
-
 
 ALL_MODELS = (
     ANTHROPIC
@@ -35,24 +33,16 @@ ALL_MODELS = (
     + QWEN
 )
 
-
 MODEL_PARAMS = {
     "generation": {
-        # The answer target is only 400-600 words; the headroom is for
-        # reasoning tokens. Small reasoning models (qwen) were truncating at
-        # 6000, and truncation isn't retried, so give them room.
         "max_tokens": 10000,
         "temperature": 0.0,
         "reasoning_effort": "medium",
     }
 }
 
-
 def parse_generation(raw):
-
-    """
-    Extract JSON from model response.
-    """
+    """Extract JSON from model response."""
 
     raw = raw.strip()
 
@@ -65,8 +55,7 @@ def parse_generation(raw):
             .strip()
         )
 
-    # Model occasionally wraps the JSON in a prose preamble/epilogue; grab the
-    # outermost {...} object rather than failing at char 0.
+    # Model occasionally wraps the JSON in a prose preamble/epilogue; grab the outermost {...} object rather than failing at char 0.
     if not raw.startswith("{"):
         m = re.search(r"\{.*\}", raw, flags=re.DOTALL)
         if not m:
@@ -114,14 +103,11 @@ def _generate_one(task):
         "features": [f.model_dump() for f in validated.features],
     })
 
-
 def generate_all(limit=None, max_workers=MAX_WORKERS):
-
     completed = existing_keys(
         OUTPUT,
         ["dataset", "case_id", "model"],
     )
-
 
     # Build the full task list first, skipping cells already done. Gold is
     # written by the `gold` stage, not here.
@@ -136,7 +122,6 @@ def generate_all(limit=None, max_workers=MAX_WORKERS):
 
     print(f"{len(tasks)} generations to run ({max_workers} concurrent)")
 
-
     # Fan out the calls; the main loop is the sole writer (no append race).
     for status, payload in tqdm(
         parallel_yield(_generate_one, tasks, max_workers),
@@ -148,8 +133,6 @@ def generate_all(limit=None, max_workers=MAX_WORKERS):
             append_jsonl(FAILURES, payload)
             print(f"SKIP {payload['dataset']}/{payload['case_id']}/"
                   f"{payload['model']}: {payload['error']}")
-
-
 
 if __name__ == "__main__":
     generate_all()

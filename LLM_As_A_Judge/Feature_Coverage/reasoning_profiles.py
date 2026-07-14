@@ -8,10 +8,7 @@ GLOBAL_FEATURES = output_path("global_features.json")
 
 CASE_FEATURES = output_path("case_features.json")
 
-
-
 def build_profiles(suffix=""):
-
     global_space = load_json(
         GLOBAL_FEATURES,
         default={},
@@ -25,21 +22,17 @@ def build_profiles(suffix=""):
             "global_canonicalization first. Skipping profiles."
         )
         return
-
-
+    
     cases = load_json(
         CASE_FEATURES,
         default={},
     )
 
-
     rows = []
-
 
     for case in cases.values():
 
         superset = case["superset"]
-
 
         for e in case["features"].values():
 
@@ -95,14 +88,12 @@ def build_profiles(suffix=""):
         .reset_index()
     )
 
-
     totals = (
         df
         .groupby("model")
         .case_id
         .nunique()
     )
-
 
     profile["frequency"] = (
         profile.apply(
@@ -114,13 +105,10 @@ def build_profiles(suffix=""):
         )
     )
 
-
     profile.to_csv(
         output_path(f"reasoning_profiles{suffix}.csv"),
         index=False,
     )
-
-
 
 if __name__ == "__main__":
     build_profiles()

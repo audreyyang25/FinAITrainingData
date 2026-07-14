@@ -1,30 +1,22 @@
-"""importance_distribution.py -- per-model reasoning-attention distributions.
+"""Returns per-model reasoning feature-attention distributions.
 
 For each model, P_m(f) = share of that model's total self-reported importance
 that went to global feature f, aggregated over all cases. Every model lives on
 the SAME axis (the global vocabulary), so the distributions are directly
 comparable: we also emit a pairwise Jensen-Shannon divergence between models.
 
-Pure local computation off case_features.json + global_features.json -- no API
-calls. Gold is excluded (it is the reference, not a contestant).
-
-Outputs:
-  importance_matrix.csv  -- rows = model, cols = global feature, values = P_m(f)
-  js_divergence.csv      -- symmetric model x model JS divergence (log2, [0,1])
+Gold is excluded.
 """
 
 from collections import defaultdict
 
 import numpy as np
 import pandas as pd
-
 from utils import load_json
 from config import output_path
 
-
 CASE_FEATURES = output_path("case_features.json")
 GLOBAL_FEATURES = output_path("global_features.json")
-
 
 def _accumulate_mass():
     """mass[model][global_feature] = total importance summed over all cases."""
@@ -36,9 +28,7 @@ def _accumulate_mass():
     mass = defaultdict(lambda: defaultdict(float))
 
     for case in cases.values():
-
         superset = case["superset"]
-
         for e in case["features"].values():
 
             if e["model_family"] == "gold":
@@ -70,7 +60,6 @@ def _js_divergence(p, q):
 
 
 def build_distribution(suffix=""):
-
     mass = _accumulate_mass()
 
     # Normalize each model's mass to a probability distribution.

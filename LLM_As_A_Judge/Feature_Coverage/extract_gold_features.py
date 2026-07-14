@@ -21,18 +21,13 @@ from utils import (
     parallel_yield,
 )
 
-
 OUTPUT = output_path("generations.jsonl")
 FAILURES = output_path("gold_failures.jsonl")
 
-
 GOLD_MODEL = "gold"
 
-
 def parse_json(raw):
-
     raw = raw.strip()
-
     if raw.startswith("```"):
         raw = (
             raw
@@ -40,16 +35,12 @@ def parse_json(raw):
             .replace("```", "")
             .strip()
         )
-
     if not raw.startswith("{"):
         m = re.search(r"\{.*\}", raw, flags=re.DOTALL)
         if not m:
             raise ValueError(f"no JSON object in response: {raw[:200]!r}")
         raw = m.group(0)
-
     return json.loads(raw)
-
-
 
 def _extract_one(task):
     """Worker: extract gold features for one case. No file I/O -- returns
@@ -73,8 +64,6 @@ REFERENCE ANSWER:
             model=CANONICALIZER_MODEL,
             system=GENERATION_SYSTEM,
             user=extraction_prompt,
-            # deepseek-r1 reasons verbosely; give it headroom so a small
-            # feature-list output doesn't truncate behind the reasoning.
             max_tokens=10000,
             temperature=0,
             reasoning_effort="medium",
@@ -101,14 +90,11 @@ REFERENCE ANSWER:
         "features": [f.model_dump() for f in validated.features],
     })
 
-
 def extract_gold_features(limit=None, max_workers=MAX_WORKERS):
-
     completed = existing_keys(
         OUTPUT,
         ["dataset", "case_id", "model"],
     )
-
 
     tasks = []
     for dataset_name in ADAPTERS:
@@ -118,7 +104,6 @@ def extract_gold_features(limit=None, max_workers=MAX_WORKERS):
             tasks.append((dataset_name, case_id, truth))
 
     print(f"{len(tasks)} gold extractions to run ({max_workers} concurrent)")
-
 
     for status, payload in tqdm(
         parallel_yield(_extract_one, tasks, max_workers),
@@ -130,8 +115,6 @@ def extract_gold_features(limit=None, max_workers=MAX_WORKERS):
             append_jsonl(FAILURES, payload)
             print(f"SKIP gold {payload['dataset']}/{payload['case_id']}: "
                   f"{payload['error']}")
-
-
 
 if __name__ == "__main__":
     extract_gold_features()

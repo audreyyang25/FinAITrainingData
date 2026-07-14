@@ -10,10 +10,6 @@ Reusable across dataset sizes:
   python visualize_distributions.py --suffix _250
   python visualize_distributions.py --matrix outputs/importance_matrix_500.csv \\
          --js outputs/js_divergence_500.csv --suffix _500
-
-Color: perceptually-uniform, CVD-safe maps -- 'cividis' for magnitude,
-'RdBu_r' centered at 0 for the diverging signature. Family tags use the
-Okabe-Ito colorblind-safe categorical palette.
 """
 
 import argparse
@@ -31,7 +27,6 @@ from scipy.cluster.hierarchy import linkage, leaves_list
 from scipy.spatial.distance import squareform
 
 
-# Okabe-Ito (colorblind-safe), fixed order by family.
 FAMILY_COLORS = {
     "anthropic": "#E69F00",   # orange
     "openai":    "#0072B2",   # blue
@@ -42,20 +37,16 @@ FAMILY_COLORS = {
 TOP_N = 25          # features shown in the attention / signature heatmaps
 LABEL_CHARS = 46    # feature-label truncation
 
-
 def family_of(model):
     return model.split("/")[0]
-
 
 def short(feature):
     f = feature.strip()
     return f if len(f) <= LABEL_CHARS else f[: LABEL_CHARS - 1] + "…"
 
-
 def order_by_family(models):
     fam_rank = {f: i for i, f in enumerate(FAMILY_COLORS)}
     return sorted(models, key=lambda m: (fam_rank.get(family_of(m), 9), m))
-
 
 def plot_similarity(js, outpath):
     """Fig 1: clustered heatmap + dendrogram of pairwise JS divergence."""

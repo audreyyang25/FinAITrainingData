@@ -22,22 +22,17 @@ from config import (
     MAX_WORKERS,
 )
 
-
 INPUT = output_path("generations.jsonl")
 OUTPUT = output_path("case_features.json")
 FAILURES = output_path("case_canonicalization_failures.jsonl")
 
-
 def group_cases(records):
-
     cases = defaultdict(list)
 
     for r in records:
         cases[(r["dataset"], r["case_id"])].append(r)
 
     return cases
-
-
 
 def build_registry(case_records):
     """Assign every raw feature (across all models, incl. gold) an integer id.
@@ -68,10 +63,7 @@ def build_registry(case_records):
 
     return registry
 
-
-
 def build_prompt(registry):
-
     numbered = "\n".join(
         f'{fid}. {e["feature"]}'
         for fid, e in registry.items()
@@ -81,8 +73,6 @@ def build_prompt(registry):
         "Numbered reasoning features extracted from several answers to the "
         "same question:\n\n" + numbered
     )
-
-
 
 def parse_json(raw):
 
@@ -106,8 +96,6 @@ def parse_json(raw):
 
     return json.loads(raw)
 
-
-
 def _canonicalize_one(task):
     """Worker: canonicalize one case. No file I/O -- returns
     ("ok", (key, case_dict)) / ("fail", failure_row) / ("skip", None)."""
@@ -117,7 +105,6 @@ def _canonicalize_one(task):
     registry = build_registry(case_records)
 
     if not registry:
-        # No model produced features for this case; nothing to merge.
         return ("skip", None)
 
     try:
@@ -161,17 +148,12 @@ def _canonicalize_one(task):
         },
     ))
 
-
 def canonicalize_cases(max_workers=MAX_WORKERS):
-
     records = load_jsonl(INPUT)
-
     cases = group_cases(records)
-
 
     # Resume: keep cases already canonicalized in a prior run.
     results = load_json(OUTPUT, default={})
-
 
     tasks = [
         (dataset, case_id, case_records)
@@ -180,7 +162,6 @@ def canonicalize_cases(max_workers=MAX_WORKERS):
     ]
 
     print(f"{len(tasks)} cases to canonicalize ({max_workers} concurrent)")
-
 
     # Fan out; the main loop is the sole writer (results dict + checkpoint).
     for status, payload in tqdm(
@@ -195,8 +176,6 @@ def canonicalize_cases(max_workers=MAX_WORKERS):
             append_jsonl(FAILURES, payload)
             print(f"SKIP case {payload['dataset']}:{payload['case_id']}: "
                   f"{payload['error']}")
-
-
 
 if __name__ == "__main__":
     canonicalize_cases()

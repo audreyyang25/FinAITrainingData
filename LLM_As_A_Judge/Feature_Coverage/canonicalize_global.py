@@ -18,13 +18,9 @@ from config import (
     output_path,
 )
 
-
 INPUT = output_path("case_features.json")
-
 OUTPUT = output_path("global_features.json")
-
 FAILURES = output_path("global_canonicalization_failures.jsonl")
-
 
 # Case features are folded into the global vocabulary a batch at a time, so
 # neither prompt nor output grows unbounded. The vocabulary carries forward
@@ -89,28 +85,19 @@ Every NEW feature number must appear exactly once as a key. Use a bare integer
 for reuse, a quoted string for a new global feature, or null to discard.
 """
 
-
 def collect_features():
 
     cases = load_json(
         INPUT,
         default={},
     )
-
-
     features = set()
-
-
     for case in cases.values():
 
         for f in case["superset"]:
 
             features.add(f)
-
-
     return sorted(features)
-
-
 
 def build_batch_prompt(vocabulary, batch):
 
@@ -122,19 +109,15 @@ def build_batch_prompt(vocabulary, batch):
     else:
         vocab_block = "(empty)"
 
-
     feat_block = "\n".join(
         f"{i}. {f}"
         for i, f in enumerate(batch, start=1)
     )
 
-
     return (
         f"EXISTING VOCABULARY:\n{vocab_block}\n\n"
         f"NEW FEATURES:\n{feat_block}"
     )
-
-
 
 def parse_json(raw):
 
@@ -158,30 +141,24 @@ def parse_json(raw):
 
     return json.loads(raw)
 
-
-
 def resolve(value, vocabulary):
     """Turn one mapping value into a global-feature string, or None to skip.
 
     value is an int index into `vocabulary`, a new global-feature string, or
     null. Mutates `vocabulary` (appends) when a genuinely new feature appears.
     """
-
     # Accept a quoted integer ("5") as an index too, defensively.
     if isinstance(value, str) and value.strip().lstrip("-").isdigit():
         value = int(value)
-
 
     # bool is an int subclass -- never a valid index.
     if isinstance(value, bool):
         return None
 
-
     if isinstance(value, int):
         if 0 <= value < len(vocabulary):
             return vocabulary[value]
         return None   # out-of-range index -> leave unmapped, retried next run
-
 
     if isinstance(value, str) and value.strip():
         g = value.strip()
@@ -189,15 +166,11 @@ def resolve(value, vocabulary):
             vocabulary.append(g)
         return g
 
-
     return None
-
-
 
 def canonicalize_global():
 
     all_features = collect_features()
-
 
     # Resume from any prior partial run: a feature already in the mapping is
     # done. The vocabulary is preserved in code and never re-typed by the model.
@@ -209,13 +182,11 @@ def canonicalize_global():
     vocabulary = state["vocabulary"]
     mapping = state["mapping"]
 
-
     remaining = [
         f
         for f in all_features
         if f not in mapping
     ]
-
 
     print(
         f"{len(all_features)} unique case features; "
@@ -223,20 +194,15 @@ def canonicalize_global():
         f"vocabulary so far: {len(vocabulary)}"
     )
 
-
     batches = [
         remaining[i:i + CHUNK_SIZE]
         for i in range(0, len(remaining), CHUNK_SIZE)
     ]
 
-
     for batch in tqdm(batches):
 
         prompt = build_batch_prompt(vocabulary, batch)
 
-
-        # A truncated/unparseable batch must not sink the whole run. Log it and
-        # move on; its features stay unmapped, so a rerun retries just them.
         try:
             raw = call_llm(
                 model=CANONICALIZER_MODEL,
@@ -246,9 +212,7 @@ def canonicalize_global():
                 temperature=CANONICALIZATION_CONFIG["temperature"],
                 reasoning_effort=CANONICALIZATION_CONFIG["reasoning_effort"],
             )
-
             parsed = parse_json(raw)
-
             validated = GlobalBatchCanonicalization(**parsed)
 
         except Exception as e:
@@ -263,21 +227,17 @@ def canonicalize_global():
             )
 
             print(f"SKIP batch ({len(batch)} features): {e}")
-
             continue
-
 
         # Assign each batch feature (numbered from 1) its global feature.
         for i, feat in enumerate(batch, start=1):
 
             key = str(i)
-
             # Omitted by the model -> leave unmapped so a rerun retries it.
             if key not in validated.mapping:
                 continue
 
             value = validated.mapping[key]
-
             # Explicit null -> a genuine discard (relevance filter). Record it
             # as None so it counts as done (not retried) and stays
             # distinguishable from a silent omission.
@@ -291,7 +251,6 @@ def canonicalize_global():
                 mapping[feat] = global_feature
             # else: invalid/out-of-range index -> unmapped, retried next run
 
-
         # Checkpoint after every batch so a crash keeps prior work.
         save_json(
             OUTPUT,
@@ -300,7 +259,6 @@ def canonicalize_global():
                 "mapping": mapping,
             },
         )
-
 
     mapped = sum(1 for v in mapping.values() if v)
     discarded = sum(1 for v in mapping.values() if not v)
@@ -311,8 +269,6 @@ def canonicalize_global():
         f"{mapped} case features mapped, {discarded} discarded, "
         f"{unresolved} still unresolved (rerun to retry)."
     )
-
-
 
 if __name__ == "__main__":
     canonicalize_global()
