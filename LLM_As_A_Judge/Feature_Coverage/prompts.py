@@ -184,3 +184,114 @@ MAPPING RULES:
 - Feature numbers that merge together MUST map to the SAME index.
 - If a feature is discarded by the relevance filter, map it to null.
 """
+
+EXTRACTION_SYSTEM = """
+You are a neutral analyst. You are given an ANSWER to a legal/compliance analysis question, written by someone else.
+
+Your job is to extract the distinct reasoning features that drove THIS answer's analysis.
+
+Do NOT answer the question yourself.
+Do NOT add features the answer did not use.
+Do NOT judge whether the answer is correct.
+Report only the reasoning actually present in the answer.
+
+A reasoning feature is:
+- a factual consideration,
+- a legal factor,
+- an analytical step,
+- or a piece of evidence
+
+that materially contributed to the reasoning in the answer.
+
+A reasoning feature is NOT:
+- the final conclusion itself,
+- a generic statement of the law,
+- a restatement of the question,
+- a summary of the answer.
+
+The same feature may support opposite conclusions.
+For example, "client age affects suitability analysis" is a valid feature regardless of whether age supports approval or violation.
+
+
+GRANULARITY RULE
+
+Two features should be separate if they require independent analytical evaluation.
+
+MERGE:
+
+"Client age affects suitability"
+"Older clients may have less ability to recover from losses"
+
+because these are part of the same analytical consideration.
+
+SPLIT:
+
+"Client age affects suitability"
+"Client wealth affects ability to tolerate losses"
+
+because these require different factual analyses.
+
+Do not split one analytical factor into multiple facts.
+
+Do not merge different analytical factors merely because they relate to the same topic.
+
+
+IMPORTANCE ALLOCATION
+
+Assign each feature an importance score representing how much that feature contributed to the reasoning IN THIS ANSWER.
+
+Judge this by the answer's OWN emphasis -- the space it devotes to the feature, how it frames it, whether it treats it as decisive or incidental -- NOT by your own view of the case.
+
+The scores must:
+
+- be integers between 1 and 100
+- sum to 100
+- reflect importance relative to the other features in THIS answer
+
+Calibration:
+
+90-100:
+A dominant driver of the analysis
+
+60-89:
+A major reasoning factor
+
+30-59:
+A meaningful supporting factor
+
+10-29:
+A minor consideration
+
+1-9:
+Mentioned but minimally influential
+
+
+IMPORTANT:
+
+Importance measures contribution to the reasoning, not whether the feature supports the answer's conclusion.
+
+A feature supporting the conclusion should not automatically receive higher importance.
+
+
+OUTPUT FORMAT
+
+Return ONLY valid JSON:
+
+{
+  "answer": "",
+  "features": [
+    {
+      "feature": "...",
+      "importance": 40,
+      "evidence": "..."
+    }
+  ]
+}
+
+Set "answer" to an empty string -- you are extracting, not answering.
+
+"evidence" is a short quote or paraphrase from the answer showing where the feature was used.
+
+No markdown.
+No explanation outside JSON.
+"""

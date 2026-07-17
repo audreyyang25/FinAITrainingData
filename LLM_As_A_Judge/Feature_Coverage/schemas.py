@@ -46,6 +46,27 @@ class GenerationOutput(BaseModel):
 
 
 
+class ExtractionOutput(BaseModel):
+    """Third-party feature extraction from an existing answer.
+
+    Same shape as GenerationOutput but WITHOUT the sum-to-100 validator. That
+    validator encodes a self-report *budget* -- it makes sense when a model
+    allocates 100 points across its own reasoning, but not when a neutral
+    extractor reads someone else's answer. Importances are normalized per-model
+    downstream, and importance is the low-signal dimension anyway (feature
+    SELECTION carries the signal), so an off-100 total is harmless. Enforcing it
+    would drop records non-randomly -- e.g. Llama leaves ~7% of answers summing
+    to something other than 100 -- biasing the sample toward whichever models
+    happen to budget cleanly. Per-feature bounds (0..100) are still enforced by
+    Feature; the pipeline clamps to that range before validating.
+    """
+
+    answer: str
+
+    features: list[Feature]
+
+
+
 class CanonicalFeature(BaseModel):
 
     feature: str

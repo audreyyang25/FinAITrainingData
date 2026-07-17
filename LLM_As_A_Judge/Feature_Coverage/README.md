@@ -39,7 +39,7 @@ OpenRouter:
 Canonicalization (case + global) and gold-feature extraction all use
 `anthropic/claude-opus-4.8` as a fixed, high-reasoning arbiter.
 
-## Pipeline stages
+## Self-evaluated Pipeline stages
 
 Run via `run_pipeline.py --stage <name>` (or `--stage all`). Each stage reads
 the previous stage's output file, so they must run in order. All stages are
@@ -108,11 +108,6 @@ Every stage is checkpointed, so an interrupted run resumes where it left off.
 Run `gold` before or after `generation` — they own separate output rows.
 
 ## Known limitations (not blocking)
-
-- **`config.py` knobs are not all wired in.** `OUTPUT_DIR`, `GENERATION_CONFIG`,
-  `CANONICALIZATION_CONFIG`, and `EXTRACT_GOLD_FEATURES` are not imported by the
-  stage modules, which hardcode their own `outputs/...` paths and params. The
-  "pilot vs. final" switch in `config.py` therefore has no effect yet.
 - **Flaky responses are skipped, not fatal.** Reasoning models occasionally
   return empty/whitespace content or an importance set that doesn't sum to 100.
   `call_llm` retries empty responses; anything still failing (bad JSON, failed

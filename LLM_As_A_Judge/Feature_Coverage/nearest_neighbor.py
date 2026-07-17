@@ -52,14 +52,13 @@ import os
 from collections import Counter, defaultdict
 
 import numpy as np
+import pandas as pd
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 from config import output_path
 
-# Same Okabe-Ito assignment visualize_distributions.py uses -- keep families
-# reading identically across every figure in the project.
 FAMILY_COLORS = {
     "anthropic": "#E69F00",
     "openai":    "#0072B2",
@@ -72,16 +71,12 @@ N_BOOT = 2000
 N_PERM = 20000
 N_SPLIT = 200
 
-
 def family(model):
     return model.split("/")[0]
 
-
-# ============================================================
 # Data
-# ============================================================
 
-def load_mass(complete_cases=False):
+def load_mass(complete_cases=False, case_path=None, global_path=None):
     """(cases x models x features) importance tensor, gold included.
 
     Keeping the case axis un-summed is what makes the bootstrap possible: we
@@ -90,9 +85,9 @@ def load_mass(complete_cases=False):
     complete_cases: keep only cases where every generator produced features, so
     each model's profile is estimated from an identical case set.
     """
-    with open(output_path("case_features.json")) as fh:
+    with open(case_path or output_path("case_features.json")) as fh:
         cases = json.load(fh)
-    with open(output_path("global_features.json")) as fh:
+    with open(global_path or output_path("global_features.json")) as fh:
         mapping = json.load(fh)["mapping"]
 
     keys = sorted(cases)
@@ -486,6 +481,77 @@ def plot_gold_ranking(point, ci, wins, suffix):
     print(f"  wrote {path}")
 
 
+def plot_heatmap(D, models, suffix):
+    """Annotated pairwise JS-divergence heatmap -- the raw distances behind the
+    NN plot and gold ranking. Family-ordered so same-family blocks are visible.
+
+    Read the PATTERN (are same-family pairs consistently lower?), not individual
+    cells: at this sample size absolute JSD is upward-biased (~0.06 even for two
+    draws from the SAME distribution), so a single 0.042-vs-0.044 gap is noise.
+    The replication test printed at run start is what certifies the structure.
+    """
+    fam_rank = {f: i for i, f in enumerate(FAMILY_COLORS)}
+    order = sorted(range(len(models)),
+                   key=lambda i: (fam_rank.get(family(models[i]), 9), models[i]))
+    Do = D[np.ix_(order, order)]
+    labels = ["GOLD" if models[i] == "gold" else models[i].split("/")[1]
+              for i in order]
+    lab_c = [GOLD_COLOR if models[i] == "gold" else FAMILY_COLORS[family(models[i])]
+             for i in order]
+    n = len(models)
+
+    fig, ax = plt.subplots(figsize=(1.05 * n + 2, 1.05 * n + 1))
+    im = ax.imshow(Do, cmap="cividis")
+    thresh = Do.max() * 0.55
+    for i in range(n):
+        for j in range(n):
+            if i == j:
+                continue
+            ax.text(j, i, f"{Do[i, j]:.3f}", ha="center", va="center", fontsize=7,
+                    color="white" if Do[i, j] < thresh else "#222222")
+
+    ax.set_xticks(range(n)); ax.set_yticks(range(n))
+    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=8)
+    ax.set_yticklabels(labels, fontsize=8)
+    for t, c in zip(ax.get_xticklabels(), lab_c): t.set_color(c)
+    for t, c in zip(ax.get_yticklabels(), lab_c): t.set_color(c)
+    ax.set_xticks(np.arange(-.5, n, 1), minor=True)
+    ax.set_yticks(np.arange(-.5, n, 1), minor=True)
+    ax.grid(which="minor", color="white", lw=1)
+    ax.tick_params(which="both", length=0)
+
+    cbar = fig.colorbar(im, ax=ax, fraction=0.046, pad=0.02)
+    cbar.set_label("JS divergence (bits)   0 = identical attention", fontsize=9)
+    ax.set_title("Pairwise reasoning divergence  (same matrix as the NN plot; "
+                 "gold included)", fontsize=11, pad=12, loc="left")
+
+    path = output_path(os.path.join("figures", f"js_heatmap{suffix}.png"))
+    fig.tight_layout()
+    fig.savefig(path, dpi=200, facecolor="white")
+    plt.close(fig)
+    print(f"  wrote {path}")
+
+
+def dump_matrices(P, D, models, feats, suffix):
+    """Write the exact matrices behind the figures so the coefficients are
+    inspectable and reusable:
+
+      importance_matrix{suffix}.csv -- P_m(f), rows = model, cols = global
+        feature. GOLD INCLUDED and (if --complete-cases) on the same case set as
+        the figures, so it matches plot_heatmap/plot_embedding exactly. This is
+        NOT the same as importance_distribution.py's output, which drops gold.
+      js_divergence{suffix}.csv     -- D, the model x model JSD matrix the
+        heatmap and embedding are built from.
+    """
+    pd.DataFrame([P[m] for m in models], index=models, columns=feats).to_csv(
+        output_path(f"importance_matrix{suffix}.csv"))
+    pd.DataFrame(D, index=models, columns=models).to_csv(
+        output_path(f"js_divergence{suffix}.csv"))
+    print(f"  wrote importance_matrix{suffix}.csv "
+          f"({len(models)} models x {len(feats)} features) and "
+          f"js_divergence{suffix}.csv")
+
+
 # ============================================================
 
 def main():
@@ -494,11 +560,17 @@ def main():
     ap.add_argument("--complete-cases", action="store_true",
                     help="only use cases where all 13 generators succeeded, so "
                          "every model is estimated from an identical case set")
+    ap.add_argument("--dir", default=None,
+                    help="read case_feat.json + global_features.json from this "
+                         "directory (e.g. outputs/llama); default = top-level run")
     args = ap.parse_args()
 
     os.makedirs(output_path("figures"), exist_ok=True)
 
-    mass, models, feats, covars, n_cases = load_mass(args.complete_cases)
+    case_path = os.path.join(args.dir, "case_feat.json") if args.dir else None
+    global_path = os.path.join(args.dir, "global_features.json") if args.dir else None
+    mass, models, feats, covars, n_cases = load_mass(
+        args.complete_cases, case_path, global_path)
     mode = "COMPLETE CASES ONLY" if args.complete_cases else "all cases"
     print(f"{n_cases} cases x {len(models)} models x {len(feats)} features "
           f"[{mode}]\n")
@@ -533,6 +605,8 @@ def main():
     print("\nFIGURES")
     plot_embedding(D, models, args.suffix)
     plot_gold_ranking(point, ci, wins, args.suffix)
+    plot_heatmap(D, models, args.suffix)
+    dump_matrices(P, D, models, feats, args.suffix)
 
 
 if __name__ == "__main__":

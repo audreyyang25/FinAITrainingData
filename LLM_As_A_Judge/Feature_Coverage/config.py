@@ -183,6 +183,28 @@ CANONICALIZER_MODEL = (
     "anthropic/claude-opus-4.8"
 )
 
+EXTRACTORS = (
+    # Dropped: deepseek-v3.2 emitted negative importance on ~15% of answers
+    # (non-random, concentrated in OpenAI answers). Re-enable only with the
+    # clamp/lenient-schema repair, and rely on feature SELECTION not importance.
+    # {"key": "deepseek", "extractor": "deepseek/deepseek-v3.2"},
+    {"key": "llama", "extractor": "meta-llama/llama-3.3-70b-instruct"},
+)
+
+# Per-extractor OpenRouter provider routing, keyed by slug. Llama 3.3-70B is
+# served by many providers at different quantizations (fp8 vs bf16); left
+# unpinned, the serving backend varies call-to-call and injects noise into an
+# extraction comparison meant to isolate model identity. Restricting it to bf16
+# makes every answer get extracted at the same precision. DeepSeek is
+# effectively first-party on OpenRouter, so it needs no pin. For strict
+# single-backend determinism, add "order": ["<provider>"] alongside the filter.
+EXTRACTOR_PROVIDER = {
+    "meta-llama/llama-3.3-70b-instruct": {
+        "quantizations": ["bf16"],
+        "allow_fallbacks": False,
+    },
+}
+
 # Generation parameters
 
 GENERATION_CONFIG = {

@@ -85,10 +85,10 @@ Every NEW feature number must appear exactly once as a key. Use a bare integer
 for reuse, a quoted string for a new global feature, or null to discard.
 """
 
-def collect_features():
+def collect_features(input=INPUT):
 
     cases = load_json(
-        INPUT,
+        input,
         default={},
     )
     features = set()
@@ -131,15 +131,18 @@ def parse_json(raw):
             .strip()
         )
 
-    if not raw.startswith("{"):
-        m = re.search(r"\{.*\}", raw, flags=re.DOTALL)
-        if not m:
-            raise ValueError(
-                f"no JSON object in response: {raw[:200]!r}"
-            )
-        raw = m.group(0)
+    start = raw.find("{")
+    if start == -1:
+        raise ValueError(
+            f"no JSON object in response: {raw[:200]!r}"
+        )
 
-    return json.loads(raw)
+    # raw_decode parses the first complete JSON object and ignores anything
+    # after it, so a valid object followed by trailing content (a second
+    # object, a stray note, an extra code fence) no longer raises "Extra data".
+    obj, _ = json.JSONDecoder().raw_decode(raw, start)
+
+    return obj
 
 def resolve(value, vocabulary):
     """Turn one mapping value into a global-feature string, or None to skip.
@@ -168,14 +171,14 @@ def resolve(value, vocabulary):
 
     return None
 
-def canonicalize_global():
+def canonicalize_global(input=INPUT, output=OUTPUT, failures=FAILURES):
 
-    all_features = collect_features()
+    all_features = collect_features(input)
 
     # Resume from any prior partial run: a feature already in the mapping is
     # done. The vocabulary is preserved in code and never re-typed by the model.
     state = load_json(
-        OUTPUT,
+        output,
         default={"vocabulary": [], "mapping": {}},
     )
 
@@ -218,7 +221,7 @@ def canonicalize_global():
         except Exception as e:
 
             append_jsonl(
-                FAILURES,
+                failures,
                 {
                     "error": str(e),
                     "batch_size": len(batch),
@@ -253,7 +256,7 @@ def canonicalize_global():
 
         # Checkpoint after every batch so a crash keeps prior work.
         save_json(
-            OUTPUT,
+            output,
             {
                 "vocabulary": vocabulary,
                 "mapping": mapping,

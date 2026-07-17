@@ -148,12 +148,12 @@ def _canonicalize_one(task):
         },
     ))
 
-def canonicalize_cases(max_workers=MAX_WORKERS):
-    records = load_jsonl(INPUT)
+def canonicalize_cases(input=INPUT, output=OUTPUT, failures=FAILURES, max_workers=MAX_WORKERS):
+    records = load_jsonl(input)
     cases = group_cases(records)
 
     # Resume: keep cases already canonicalized in a prior run.
-    results = load_json(OUTPUT, default={})
+    results = load_json(output, default={})
 
     tasks = [
         (dataset, case_id, case_records)
@@ -171,9 +171,9 @@ def canonicalize_cases(max_workers=MAX_WORKERS):
         if status == "ok":
             key, case_dict = payload
             results[key] = case_dict
-            save_json(OUTPUT, results)
+            save_json(output, results)
         elif status == "fail":
-            append_jsonl(FAILURES, payload)
+            append_jsonl(failures, payload)
             print(f"SKIP case {payload['dataset']}:{payload['case_id']}: "
                   f"{payload['error']}")
 

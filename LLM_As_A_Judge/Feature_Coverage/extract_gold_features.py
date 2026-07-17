@@ -35,12 +35,14 @@ def parse_json(raw):
             .replace("```", "")
             .strip()
         )
-    if not raw.startswith("{"):
-        m = re.search(r"\{.*\}", raw, flags=re.DOTALL)
-        if not m:
-            raise ValueError(f"no JSON object in response: {raw[:200]!r}")
-        raw = m.group(0)
-    return json.loads(raw)
+    start = raw.find("{")
+    if start == -1:
+        raise ValueError(f"no JSON object in response: {raw[:200]!r}")
+    # raw_decode parses the first complete JSON object and ignores anything
+    # after it, so a valid object followed by trailing content (a second
+    # object, a stray note, an extra code fence) no longer raises "Extra data".
+    obj, _ = json.JSONDecoder().raw_decode(raw, start)
+    return obj
 
 def _extract_one(task):
     """Worker: extract gold features for one case. No file I/O -- returns

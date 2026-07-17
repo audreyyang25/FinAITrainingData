@@ -28,6 +28,7 @@ def call_llm(
     max_tokens: int,
     temperature: float = 0.0,
     reasoning_effort: str | None = None,
+    provider: dict | None = None,
     retries: int = 5,
 ) -> str:
 
@@ -56,12 +57,15 @@ def call_llm(
                 timeout=300,
             )
 
+            extra_body = {}
             if reasoning_effort:
-                kwargs["extra_body"] = {
-                    "reasoning": {
-                        "effort": reasoning_effort
-                    }
-                }
+                extra_body["reasoning"] = {"effort": reasoning_effort}
+            # OpenRouter provider routing (e.g. pin quantization/provider so the
+            # serving backend doesn't vary call-to-call). Passed through verbatim.
+            if provider:
+                extra_body["provider"] = provider
+            if extra_body:
+                kwargs["extra_body"] = extra_body
 
             response = client.chat.completions.create(
                 **kwargs
