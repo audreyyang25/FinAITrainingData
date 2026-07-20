@@ -9,8 +9,10 @@ about, AND return a flat dict of scalar metrics so run.py can compare runs.
 """
 
 import os
+import sys
 import pandas as pd
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path (for figures)
 PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "judgments.jsonl")
 pd.set_option("display.width", 120)
 

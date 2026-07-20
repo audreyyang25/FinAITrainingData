@@ -98,12 +98,13 @@ def build_truths(data_dir=DATA_DIR):
     return truths
 
 
-def load_done(path):
-    """Keys with a VALID (non-null) score -> skipped on resume.
+def load_done(path, key_fields=("dataset", "id"), write_condition=True):
+    """Done-keys with a VALID (non-null) score -> skipped on resume.
 
-    Null/invalid judgments are intentionally left OUT of the done-set, so they
-    can be re-run later (e.g. after raising max_tokens) without re-running the
-    good entries. Also skips blank/partial lines.
+    A done-key is tuple(row[f] for f in key_fields) + (generator, judge) plus
+    (condition,) when write_condition. Null/invalid judgments are intentionally
+    left OUT of the done-set, so they can be re-run later (e.g. after raising
+    max_tokens) without re-running the good entries. Also skips blank/partial lines.
     """
     done = set()
     if os.path.exists(path):
@@ -117,21 +118,36 @@ def load_done(path):
                 continue
             if r.get("score") is None or not r.get("valid", False):
                 continue  # leave null/invalid judgments re-runnable
-            done.add((r["dataset"], r["id"], r["generator"], r["judge"], r["condition"]))
+            key = tuple(r[f] for f in key_fields) + (r["generator"], r["judge"])
+            if write_condition:
+                key += (r["condition"],)
+            done.add(key)
     return done
 
 
-# separated into with question and no question
-def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
-    truths = build_truths(data_dir=data_dir)
-    done = load_done(out_path)
+def judge_answers(gen_path, out_path, lookup, key_fields=("dataset", "id"),
+                  suite=JUDGE_SUITE, conditions=("with_q",)):
+    """Generic, resumable judging loop shared by every experiment.
+
+    lookup:     gen_row -> (task_prompt, ground_truth) for that generation.
+    key_fields: identifying fields (besides generator/judge) copied onto each
+                judgment row and used for resume.
+    conditions: ("with_q",) judges once with the question and writes no
+                `condition` field (the effect experiments). ("no_q", "with_q")
+                loops both, adds a `condition` field, and on no_q asks the judge
+                to guess the withheld question (`guessed_question`).
+    """
+    write_condition = len(conditions) > 1
+    include_guess = "no_q" in conditions
+    done = load_done(out_path, key_fields, write_condition)
     with open(out_path, "a") as out:
         for line in open(gen_path):
             g = json.loads(line)
-            task, truth = truths[(g["dataset"], g["id"])]
-            for spec in JUDGE_SUITE:                       # the judge
-                for cond in CONDITIONS:
-                    key = (g["dataset"], g["id"], g["generator"], spec["key"], cond)
+            task, truth = lookup(g)
+            base = tuple(g[f] for f in key_fields) + (g["generator"],)
+            for spec in suite:                             # the judge
+                for cond in conditions:
+                    key = base + (spec["key"],) + ((cond,) if write_condition else ())
                     if key in done:
                         continue
                     user = judge_user(
@@ -142,24 +158,36 @@ def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
                     try:
                         raw = model_call(spec["model"], user)
                     except Exception as e:
-                        print(f"FAIL {key}: {e}")
+                        print(f"JUDGE FAIL {key}: {e}")
                         continue
                     score, rationale, guessed_question, valid = parse_judgment(raw)
-                    out.write(json.dumps({
-                        "dataset": g["dataset"],
-                        "id": g["id"],
-                        "generator": g["generator"],
-                        "judge": spec["key"],
-                        "judge_model": spec["model"],
-                        "condition": cond,
-                        "score": score,
-                        "rationale": rationale,
-                        "guessed_question": guessed_question,
-                        "valid": valid,
-                    }) + "\n")
+                    row = {f: g[f] for f in key_fields}
+                    row["generator"] = g["generator"]
+                    row["judge"] = spec["key"]
+                    row["judge_model"] = spec["model"]
+                    if write_condition:
+                        row["condition"] = cond
+                    row["score"] = score
+                    row["rationale"] = rationale
+                    if include_guess:
+                        row["guessed_question"] = guessed_question
+                    row["valid"] = valid
+                    out.write(json.dumps(row) + "\n")
                     out.flush()
                     done.add(key)
                     print(f"judged {key} -> {score}")
+
+
+# separated into with question and no question
+def run_judging(gen_path=GEN_PATH, out_path=PATH, data_dir=DATA_DIR):
+    """Judge the built-in datasets under both no_q and with_q. Thin wrapper."""
+    truths = build_truths(data_dir=data_dir)
+    judge_answers(
+        gen_path, out_path,
+        lookup=lambda g: truths[(g["dataset"], g["id"])],
+        key_fields=("dataset", "id"),
+        conditions=CONDITIONS,
+    )
 
 
 if __name__ == "__main__":

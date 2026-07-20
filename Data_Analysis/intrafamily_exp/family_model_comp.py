@@ -1,8 +1,13 @@
-"""Family-model comparison: GPT family on the BORDERLINE cases.
+"""Family-model comparison: the full GPT family on the BORDERLINE (P13) cases.
 
-Generates answers to the borderline (P13) cases with the GPT family
-(config.GPT_SUITE), then judges them with the 3-dimension borderline judge in
-family_model_judging.py. Outputs under results/gpt_family/.
+Generates answers with the whole GPT family (config.GPT_SUITE), then judges them
+with the 3-dimension borderline judge in family_model_judging.py. Outputs under
+results/gpt_family/.
+
+Anti-truncation is built in: gpt-5.5 is a reasoning model that otherwise runs long
+and truncates at max_tokens, so it carries a brevity system prompt (reach the
+conclusion early) applied ONLY to it -- every other family member uses the default
+GEN_SYSTEM. A single full-family run therefore covers gpt-5.5 too; no separate rerun.
 
 Run:  python family_model_comp.py
 """
@@ -20,23 +25,28 @@ from family_model_judging import run_family_judging, get_rubric
 
 HERE = os.path.dirname(os.path.abspath(__file__))         # Data_Analysis/intrafamily_exp
 DA_ROOT = os.path.dirname(HERE)                           # Data_Analysis
-# OUT_DIR = os.path.join(DA_ROOT, "results", "gpt_family")                  # full GPT family run
-OUT_DIR = os.path.join(DA_ROOT, "results", "gpt_family", "gpt55_instant")   # GPT-5.5-only rerun (brevity prompt)
+OUT_DIR = os.path.join(DA_ROOT, "results", "gpt_family")
 os.makedirs(OUT_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")
 GOLD_PATH = os.path.join(DATA_DIR, "suitability_only_P13.json")  # borderline gold
 RUBRIC_PATH = os.path.join(OUT_DIR, "rubric.csv")
 LIMIT = 75  # borderline records to use; None for all of P13
 
-# GPT-5.5-only rerun: just gpt-5.5, with a brevity system prompt meant to emulate
-# gpt-5.5-instant (get to the conclusion instead of running long and truncating).
-GPT55_SUITE = [s for s in GPT_SUITE if s["key"] == "gpt-5.5"]
-GPT55_SYSTEM = (
+# Anti-truncation: gpt-5.5 runs long and truncates at max_tokens, so it gets a
+# brevity system prompt (reach the conclusion early). Applied ONLY to the models in
+# NEEDS_BREVITY; the rest use the default GEN_SYSTEM. Attaching it to the suite spec
+# (instead of running a separate pass) means one full-family run handles gpt-5.5.
+BREVITY_SYSTEM = (
     "You are a securities-law and FINRA/SEC compliance expert. Answer directly and reach "
     "your conclusion quickly. Be brief, direct, and non-redundant, but thorough: address "
     "every part of the question and state your bottom-line conclusion explicitly and early. "
     "Do not pad, restate the fact pattern at length, or repeat points."
 )
+NEEDS_BREVITY = {"gpt-5.5"}
+FAMILY_SUITE = [
+    {**spec, "system": BREVITY_SYSTEM} if spec["key"] in NEEDS_BREVITY else spec
+    for spec in GPT_SUITE
+]
 
 
 def generations_for_judge(path):
@@ -82,13 +92,10 @@ def capture_rubric(phase):
 
 
 if __name__ == "__main__":
-    # 1. Generate: BORDERLINE cases only, GPT-5.5 only, with the brevity system
-    #    prompt (emulating gpt-5.5-instant). Resumable.
+    # 1. Generate: BORDERLINE cases, full GPT family, one pass. gpt-5.5 carries the
+    #    brevity system prompt automatically (see FAMILY_SUITE). Resumable.
     run_generation(out_paths=[GEN_PATH], content_types=["borderline"],
-                   gen_suites=[GPT55_SUITE], limit=LIMIT, gen_system=GPT55_SYSTEM)
-    # --- full GPT family run (commented out for the GPT-5.5-only rerun) ---
-    # run_generation(out_paths=[GEN_PATH], content_types=["borderline"],
-    #                gen_suites=[GPT_SUITE], limit=LIMIT)
+                   gen_suites=[FAMILY_SUITE], limit=LIMIT)
     gens = generations_for_judge(GEN_PATH)
 
     # 2. Snapshot the judge's rubric BEFORE judging.

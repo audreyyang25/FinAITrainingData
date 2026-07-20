@@ -86,21 +86,21 @@ Gold rows use `model: "gold"` with `answer` = the dataset's reference `truth`.
 
 Paths are resolved from the code, not the current directory: the OpenRouter
 key is read from the repo-root `.env`, `DATA_DIR` points at the training
-materials, and all outputs go to `Feature_Coverage/outputs/` — so you can
+materials, and all outputs go to `feature_importance_exp/outputs/` — so you can
 launch `run_pipeline.py` from anywhere and every stage reads/writes the same
 place. No manual setup beyond installing deps:
 
 ```bash
-pip install -r Feature_Coverage/requirements.txt   # needs OPENROUTER_API_KEY in repo-root .env
+pip install -r feature_importance_exp/requirements.txt   # needs OPENROUTER_API_KEY in repo-root .env
 
 # Pilot on the first 100 cases of each dataset (~500 cases, 6000 generations):
-python Feature_Coverage/run_pipeline.py --stage generation --limit 100
-python Feature_Coverage/run_pipeline.py --stage gold --limit 100
-python Feature_Coverage/run_pipeline.py --stage case_canonicalization
-python Feature_Coverage/run_pipeline.py --stage coverage
-python Feature_Coverage/run_pipeline.py --stage global_canonicalization
-python Feature_Coverage/run_pipeline.py --stage profiles
-python Feature_Coverage/run_pipeline.py --stage entropy
+python feature_importance_exp/run_pipeline.py --stage generation --limit 100
+python feature_importance_exp/run_pipeline.py --stage gold --limit 100
+python feature_importance_exp/run_pipeline.py --stage case_canonicalization
+python feature_importance_exp/run_pipeline.py --stage coverage
+python feature_importance_exp/run_pipeline.py --stage global_canonicalization
+python feature_importance_exp/run_pipeline.py --stage profiles
+python feature_importance_exp/run_pipeline.py --stage entropy
 ```
 
 `--limit N` takes the first N records of each dataset. Omit it for the full run.

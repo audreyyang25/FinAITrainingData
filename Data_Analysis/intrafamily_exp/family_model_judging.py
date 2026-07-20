@@ -374,10 +374,20 @@ def run_family_judging(gold_path, generations, out_dir="results", limit=0):
             fh.write(json.dumps(rec) + "\n")
             fh.flush()
 
-    # Aggregate: mean per model across cases/runs
+    agg_path = write_aggregate(out_dir)
+    print(f"\nDone. Detail: {detail_path}")
+    return agg_path
+
+
+def write_aggregate(out_dir):
+    """Recompute aggregate_by_model.csv + citations_for_review.txt from an existing
+    judgments_detail.jsonl. Pure post-processing -- no judging, no API -- so it can
+    be re-run any time the detail file changes (e.g. after folding in another run)."""
     import csv
     from collections import defaultdict
-    all_recs = [json.loads(l) for l in detail_path.read_text().splitlines()]
+    outdir = Path(out_dir)
+    detail_path = outdir / "judgments_detail.jsonl"
+    all_recs = [json.loads(l) for l in detail_path.read_text().splitlines() if l.strip()]
     by_model = defaultdict(list)
     for r in all_recs:
         by_model[r["model"]].append(r["summary"])
@@ -409,5 +419,5 @@ def run_family_judging(gold_path, generations, out_dir="results", limit=0):
             for c in r["legal_grounding"]["unverified_citations"]:
                 fh.write(f"{r['model']}\tcase={r['case_id']}\trun={r['run']}\t{c}\n")
 
-    print(f"\nDone. Detail: {detail_path}\nAggregate: {agg_path}\nCitation review: {review_path}")
+    print(f"aggregate: {agg_path}\ncitation review: {review_path}")
     return agg_path

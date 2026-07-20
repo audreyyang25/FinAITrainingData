@@ -1,25 +1,37 @@
+"""Formatting-effect experiment: does rendering the SAME case as a conversation
+vs a narrative change how models' answers score?
+
+    delta = score(conversation) - score(narrative)   (+ => conversation scored higher)
+
+Unique to this experiment: pairing narrative (P12) with the verified conversation
+rewrites. Generation, judging (with-question only), and the paired-delta stats are
+all shared code in the top-level Data_Analysis modules.
+
+PREREQ: modified_data/standard_conversation.jsonl (from rewrite_format.py).
+"""
+
 import os
 import sys
 import json
-import math
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
-from config import GEN_SUITE, JUDGE_SUITE, DATA_DIR
-from generations import model_call as gen_call
-from judge import model_call as judge_call, judge_user, parse_judgment
-from figures import save_table_fig, save_bar, save_heatmap
+from config import GEN_SUITE, DATA_DIR
+from generations import generate
+from judge import judge_answers
+from paired_stats import paired_delta
 
 HERE = os.path.dirname(os.path.abspath(__file__))   # Data_Analysis/formatting_effect_exp
 DA_ROOT = os.path.dirname(HERE)                      # Data_Analysis
 REPO = os.path.dirname(DA_ROOT)                      # repo root (FinAITrainingData)
 OUT_DIR = os.path.join(DA_ROOT, "results", "convo_formatting_effect")
-FIG_DIR = os.path.join(OUT_DIR, "figures")
-os.makedirs(FIG_DIR, exist_ok=True)
+os.makedirs(OUT_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")
 JUD_PATH = os.path.join(OUT_DIR, "judgments.jsonl")
 
 STD_SRC = os.path.join(DATA_DIR, "suitability_only_P12.json")
 CONVO_SRC = os.path.join(REPO, "modified_data", "standard_conversation.jsonl")
+
+KEY_FIELDS = ("format", "id")
 
 
 def _prompt(fact_pattern, question):
@@ -47,152 +59,30 @@ def load_formats():
             "conversation": {i: conversation[i] for i in paired}}
 
 
-def _load_done(path, keylen):
-    done = set()
-    if os.path.exists(path):
-        for line in open(path):
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                r = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            if keylen == 3:
-                done.add((r["format"], r["id"], r["generator"]))
-            else:
-                done.add((r["format"], r["id"], r["generator"], r["judge"]))
-    return done
+def _items(formats):
+    for fmt, recs in formats.items():
+        for rid, d in recs.items():
+            yield {"format": fmt, "id": rid}, d["prompt"]
 
 
-def run_generation(formats):
-    done = _load_done(GEN_PATH, 3)
-    with open(GEN_PATH, "a") as out:
-        for fmt, recs in formats.items():
-            for rid, d in recs.items():
-                for gen in GEN_SUITE:
-                    key = (fmt, rid, gen["key"])
-                    if key in done:
-                        continue
-                    try:
-                        answer = gen_call(gen["model"], d["prompt"])
-                    except Exception as e:
-                        print(f"GEN FAIL {key}: {e}")
-                        continue
-                    if not answer:
-                        print(f"GEN EMPTY {key}")
-                        continue
-                    out.write(json.dumps({
-                        "format": fmt, "id": rid, "generator": gen["key"],
-                        "model": gen["model"], "answer": answer}) + "\n")
-                    out.flush()
-                    done.add(key)
-                    print(f"gen ok {key}")
-
-
-def run_judging(formats):
-    done = _load_done(JUD_PATH, 4)
-    with open(JUD_PATH, "a") as out:
-        for line in open(GEN_PATH):
-            g = json.loads(line)
-            d = formats[g["format"]][g["id"]]
-            for spec in JUDGE_SUITE:
-                key = (g["format"], g["id"], g["generator"], spec["key"])
-                if key in done:
-                    continue
-                user = judge_user(d["truth"], g["answer"],
-                                    task=d["prompt"])
-                try:
-                    raw = judge_call(spec["model"], user)
-                except Exception as e:
-                    print(f"JUDGE FAIL {key}: {e}")
-                    continue
-                score, rationale, gq, valid = parse_judgment(raw)
-                out.write(json.dumps({
-                        "format": g["format"], "id": g["id"], "generator": g["generator"],
-                        "judge": spec["key"], "judge_model": spec["model"],
-                        "score": score, "rationale": rationale, "valid": valid}) + "\n")
-                out.flush()
-                done.add(key)
-                print(f"judge ok {key} -> {score}")
+def _lookup(formats):
+    def fn(g):
+        d = formats[g["format"]][g["id"]]
+        return d["prompt"], d["truth"]
+    return fn
 
 
 def aggregate():
-    import pandas as pd
-    try:
-        from scipy import stats as _st
-    except ImportError:
-        _st = None
-    df = pd.read_json(JUD_PATH, lines=True)
-    df = df[df["valid"].fillna(False)].copy()
-
-    # Pair conversation vs narrative on (id, generator, judge).
-    wide = df.pivot_table(index=["id", "generator", "judge"],
-                          columns="format", values="score", aggfunc="mean")
-    wide = wide.dropna(subset=["narrative", "conversation"])
-    wide["delta"] = wide["conversation"] - wide["narrative"]  # + => convo scored higher
-    deltas = wide.reset_index()
-
-    def summary(d):
-        x = d["delta"].to_numpy()
-        n = len(x)
-        mean = x.mean()
-        sd = x.std(ddof=1) if n > 1 else float("nan")     # sample std (spread of deltas)
-        se = sd / math.sqrt(n) if n > 0 else float("nan")  # standard error of the mean
-        t = mean / se if n > 1 and sd > 0 else float("nan")  # one-sample t vs 0 (no effect)
-        # two-sided p from Student's t, df = n-1
-        p = 2 * _st.t.sf(abs(t), n - 1) if (_st and n > 1 and sd > 0) else float("nan")
-        return pd.Series({"n": n, "mean_delta": round(mean, 4), "std": round(sd, 4),
-                          "t": round(t, 3), "p": round(p, 4),
-                          "pos": int((x > 0).sum()), "neg": int((x < 0).sum())})
-
-    # Collapse the two JUDGES into one delta per (case, generator) for the
-    # significance tests: judges scoring the SAME answers aren't independent, so
-    # counting both inflates n and the p-value. Generators stay separate (they
-    # produce different answers).
-    collapsed = deltas.groupby(["id", "generator"], as_index=False)["delta"].mean()
-
-    # Significance (t, p) on judge-collapsed data:
-    overall = summary(collapsed).to_frame("overall").T
-    by_generator = collapsed.groupby("generator").apply(summary)
-    # Descriptive tables stay on the raw per-judge pairs (kept as-is):
-    by_judge = deltas.groupby("judge").apply(summary)
-    gen_judge = deltas.pivot_table(index="generator", columns="judge",
-                                   values="delta", aggfunc="mean").round(4)
-
-    deltas.to_csv(os.path.join(OUT_DIR, "formatting_deltas.csv"), index=False)
-    for name, tbl in [("overall", overall), ("by_judge", by_judge),
-                      ("by_generator", by_generator), ("gen_x_judge", gen_judge)]:
-        tbl.to_csv(os.path.join(OUT_DIR, f"formatting_{name}.csv"))
-
-    print(f"\nFORMATTING EFFECT (conversation - narrative), judges averaged: "
-          f"mean_delta={overall.loc['overall','mean_delta']}  n={int(overall.loc['overall','n'])}  "
-          f"t={overall.loc['overall','t']}  p={overall.loc['overall','p']}")
-
-    if _st is not None:
-        x = collapsed["delta"].to_numpy()
-        if (x != 0).any():
-            stat, pw = _st.wilcoxon(x)
-            print(f"Wilcoxon signed-rank (overall, judges averaged): stat={stat:.1f}, p={pw:.4g}")
-
-    try:
-        save_table_fig(overall, "Formatting effect (conversation - narrative) -- overall", os.path.join(FIG_DIR, "overall.png"))
-        save_table_fig(by_judge, "Formatting effect by judge", os.path.join(FIG_DIR, "by_judge.png"))
-        save_table_fig(by_generator, "Formatting effect by generator", os.path.join(FIG_DIR, "by_generator.png"))
-        save_bar(by_generator["mean_delta"], "Formatting effect by generator", os.path.join(FIG_DIR, "bar_by_generator.png"), ylabel="mean delta (conversation - narrative)")
-        save_heatmap(gen_judge, "Formatting effect: generator x judge (mean delta)", os.path.join(FIG_DIR, "heatmap_gen_judge.png"), cbar_label="conversation - narrative")
-        print(f"figures + csvs saved under {OUT_DIR}")
-    except ImportError:
-        print(f"matplotlib not installed -- CSVs saved under {OUT_DIR}; pip install matplotlib for figures")
+    paired_delta(JUD_PATH, OUT_DIR, arm_col="format", hi="conversation", lo="narrative",
+                 case_cols=["id"], prefix="formatting", effect_name="Formatting effect")
 
 
 if __name__ == "__main__":
-    import sys
     if len(sys.argv) > 1 and sys.argv[1] == "agg":
         aggregate()  # stats + figures only, from existing judgments (no API calls)
     else:
         formats = load_formats()
         print(f"paired records: {len(formats['narrative'])}")
-        run_generation(formats)
-        run_judging(formats)
+        generate(_items(formats), GEN_PATH, key_fields=KEY_FIELDS, suite=GEN_SUITE)
+        judge_answers(GEN_PATH, JUD_PATH, lookup=_lookup(formats), key_fields=KEY_FIELDS)
         aggregate()

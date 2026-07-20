@@ -3,7 +3,8 @@ import pandas as pd
 import json
 from collections import defaultdict
 
-RESULTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results", "gender_effect")
+DA_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Data_Analysis
+RESULTS = os.path.join(DA_ROOT, "results", "gender_effect")
 df = pd.read_csv(os.path.join(RESULTS, 'gender_deltas.csv'))
 identical = df.loc[df['delta']==0, ['type', 'base_id', 'demographic', 'generator', 'judge']]
 keys_list = set(identical[['type', 'base_id', 'demographic', 'generator', 'judge']].itertuples(index=False, name=None))
