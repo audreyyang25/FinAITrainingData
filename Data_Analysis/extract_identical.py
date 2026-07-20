@@ -1,13 +1,15 @@
+import os
 import pandas as pd
 import json
 from collections import defaultdict
 
-df = pd.read_csv('runs/v3/gender_deltas.csv')
+RESULTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results", "gender_effect")
+df = pd.read_csv(os.path.join(RESULTS, 'gender_deltas.csv'))
 identical = df.loc[df['delta']==0, ['type', 'base_id', 'demographic', 'generator', 'judge']]
 keys_list = set(identical[['type', 'base_id', 'demographic', 'generator', 'judge']].itertuples(index=False, name=None))
 
-INPUT = 'runs/v3/judgments.jsonl'
-OUTPUT = 'runs/v3/identical_score_judgments.jsonl'
+INPUT = os.path.join(RESULTS, 'judgments.jsonl')
+OUTPUT = os.path.join(RESULTS, 'identical_score_judgments.jsonl')
 grouped_data = defaultdict(list)
 
 with open(INPUT, 'r', encoding='utf-8') as infile:

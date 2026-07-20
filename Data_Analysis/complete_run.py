@@ -9,13 +9,13 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 
 # Add the second dataset here when it's ready — same pipeline, new data_dir.
 RUNS = [
-    {"name": "v1", "data_dir": DATA_DIR, "limit": 15},
+    {"name": "pilot_run", "data_dir": DATA_DIR, "limit": 15},
     # {"name": "v2", "data_dir": "/abs/path/to/second/dataset", "limit": 15},
 ]
 
 
 def run_one(run):
-    out_dir = os.path.join(BASE, "runs", run["name"])
+    out_dir = os.path.join(BASE, "results", run["name"])
     os.makedirs(out_dir, exist_ok=True)
     gen_path = os.path.join(out_dir, "generations.jsonl")
     jud_path = os.path.join(out_dir, "judgments.jsonl")
@@ -38,7 +38,7 @@ if __name__ == "__main__":
         m["var"] = m[cols].var(axis=1, ddof=1)
         print("\n" + "=" * 70 + "\nCROSS-RUN VARIANCE\n" + "=" * 70)
         print(m.round(4))
-        m.round(6).to_csv(os.path.join(BASE, "runs", "variance.csv"))
+        m.round(6).to_csv(os.path.join(BASE, "results", "variance.csv"))
         print(f"\nsaved {os.path.join(BASE, 'runs', 'variance.csv')}")
     else:
         print("\n(only one run — add a second to RUNS to get the variance comparison)")

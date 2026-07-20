@@ -1,14 +1,18 @@
 import os
+import sys
 import json
 import math
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
 from config import GEN_SUITE, JUDGE_SUITE, DATA_DIR
 from generations import model_call as gen_call
 from judge import model_call as judge_call, judge_user, parse_judgment
 from figures import save_table_fig, save_bar, save_heatmap
 
-HERE = os.path.dirname(os.path.abspath(__file__))   # LLM_As_A_Judge
-REPO = os.path.dirname(HERE)                         # repo root
-OUT_DIR = os.path.join(HERE, "runs", "v2")
+HERE = os.path.dirname(os.path.abspath(__file__))   # Data_Analysis/formatting_effect_exp
+DA_ROOT = os.path.dirname(HERE)                      # Data_Analysis
+REPO = os.path.dirname(DA_ROOT)                      # repo root (FinAITrainingData)
+OUT_DIR = os.path.join(DA_ROOT, "results", "convo_formatting_effect")
 FIG_DIR = os.path.join(OUT_DIR, "figures")
 os.makedirs(FIG_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")

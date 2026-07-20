@@ -1,3 +1,8 @@
 # Ignore raw materials folder completely
 Data Collection and Training Material Generation/raw_data/
 .env
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.DS_Store

@@ -20,14 +20,17 @@ Writes name_variants.jsonl under modified_data/. Resumable on
 """
 
 import os
+import sys
 import re
 import json
 from openai import OpenAI
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
 from config import ADAPTERS, DATA_DIR
 from name_swap import NAMES, GENDERS, DEMOGRAPHICS, assign_names, changed_tokens, _HON_CORES
 
 MODIFIED_DIR = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "modified_data")
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "modified_data")
 os.makedirs(MODIFIED_DIR, exist_ok=True)
 OUT = os.path.join(MODIFIED_DIR, "name_variants.jsonl")
 CACHE = os.path.join(MODIFIED_DIR, "person_roles.jsonl")

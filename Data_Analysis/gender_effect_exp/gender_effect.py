@@ -7,24 +7,28 @@ case, demographic held constant). Signed effect:
     delta = score(male) - score(female)     (+ => male variant scored higher)
 
 Generation + judging reuse the main-pipeline calls (judge WITH the question).
-Every result table is saved as a PNG figure (and CSV) under runs/v3/ so you don't
+Every result table is saved as a PNG figure (and CSV) under results/gender_effect/ so you don't
 have to scroll the terminal.
 
 PREREQ: modified_data/name_variants.jsonl (from rewrite_names.py).
 """
 
 import os
+import sys
 import json
 import math
 from collections import defaultdict
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
 from config import GEN_SUITE, JUDGE_SUITE, ADAPTERS
 from generations import model_call as gen_call
 from judge import model_call as judge_call, judge_user, parse_judgment
 from figures import save_table_fig, save_bar, save_heatmap
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.dirname(HERE)
-OUT_DIR = os.path.join(HERE, "runs", "v3")
+HERE = os.path.dirname(os.path.abspath(__file__))   # Data_Analysis/gender_effect_exp
+DA_ROOT = os.path.dirname(HERE)                      # Data_Analysis
+REPO = os.path.dirname(DA_ROOT)                      # repo root (FinAITrainingData)
+OUT_DIR = os.path.join(DA_ROOT, "results", "gender_effect")
 FIG_DIR = os.path.join(OUT_DIR, "figures")
 os.makedirs(FIG_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")

@@ -2,22 +2,26 @@
 
 Generates answers to the borderline (P13) cases with the GPT family
 (config.GPT_SUITE), then judges them with the 3-dimension borderline judge in
-family_model_judging.py. Outputs under runs/gpt_family/.
+family_model_judging.py. Outputs under results/gpt_family/.
 
 Run:  python family_model_comp.py
 """
 
 import os
+import sys
 import json
 import csv
 import datetime
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
 from config import GPT_SUITE, DATA_DIR
 from generations import run_generation
 from family_model_judging import run_family_judging, get_rubric
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-# OUT_DIR = os.path.join(HERE, "runs", "gpt_family")     # full GPT family run
-OUT_DIR = os.path.join(HERE, "runs", "gpt55_instant")    # GPT-5.5-only rerun (brevity prompt)
+HERE = os.path.dirname(os.path.abspath(__file__))         # Data_Analysis/intrafamily_exp
+DA_ROOT = os.path.dirname(HERE)                           # Data_Analysis
+# OUT_DIR = os.path.join(DA_ROOT, "results", "gpt_family")                  # full GPT family run
+OUT_DIR = os.path.join(DA_ROOT, "results", "gpt_family", "gpt55_instant")   # GPT-5.5-only rerun (brevity prompt)
 os.makedirs(OUT_DIR, exist_ok=True)
 GEN_PATH = os.path.join(OUT_DIR, "generations.jsonl")
 GOLD_PATH = os.path.join(DATA_DIR, "suitability_only_P13.json")  # borderline gold

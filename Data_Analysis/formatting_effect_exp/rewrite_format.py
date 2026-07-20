@@ -8,13 +8,16 @@ is the prose format. Does NOT touch ADAPTERS. Resumable on record id.
 """
 
 import os
+import sys
 import re
 import json
 from openai import OpenAI
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Data_Analysis/ on sys.path
 from config import DATA_DIR
 
 MODIFIED_DIR = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "modified_data")
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "modified_data")
 os.makedirs(MODIFIED_DIR, exist_ok=True)
 OUT = os.path.join(MODIFIED_DIR, "standard_conversation.jsonl")
 SRC = os.path.join(DATA_DIR, "suitability_only_P12.json")

@@ -30,10 +30,6 @@ GPT_SUITE = [
     {"key": "gpt-5.5", "model": "openai/gpt-5.5"},
 ]
 
-# CLAUDE_SUITE = [
-
-# ]
-
 JUDGE_SUITE = [
     {"key": "claude", "model": "anthropic/claude-sonnet-5"},
     {"key": "gpt", "model": "openai/gpt-4o-mini"},
