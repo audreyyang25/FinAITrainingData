@@ -4,25 +4,26 @@ import re
 import os
 from tqdm import tqdm
 
-from config import (
+from shared.config import (
     ADAPTERS,
     load_dataset,
-    output_path,
+    part_output,
+    GENERATIONS_JSON,
     MAX_WORKERS,
     CANONICALIZER_MODEL,
     EXTRACTORS
 )
 
-from config import EXTRACTOR_PROVIDER
-from extract_gold_features import parse_json
-from llm import call_llm
-from schemas import ExtractionOutput
-from prompts import EXTRACTION_SYSTEM
-from canonicalize_case import canonicalize_cases
-from canonicalize_global import canonicalize_global
+from shared.config import EXTRACTOR_PROVIDER
+from shared.utils import parse_json
+from shared.llm import call_llm
+from shared.schemas import ExtractionOutput
+from shared.prompts import EXTRACTION_SYSTEM
+from part2_coverage.canonicalize_case import canonicalize_cases
+from part2_coverage.canonicalize_global import canonicalize_global
 
-from utils import (
-    load_jsonl,
+from shared.utils import (
+    load_json,
     append_jsonl,
     existing_keys,
     parallel_yield,
@@ -91,7 +92,7 @@ ANSWER:
     })
         
 def extract_features(extractor, output, failures, max_workers=MAX_WORKERS):
-    generations = load_jsonl(output_path("generations.jsonl"))
+    generations = load_json(GENERATIONS_JSON, default=[])
     completed = existing_keys(
         output,
         ["dataset", "case_id", "model_family", "model_key", "model"],
@@ -123,7 +124,7 @@ if __name__ == "__main__":
         key, extractor = e["key"], e["extractor"]
 
         def model_output_path(name, _e=key):
-            d = output_path(_e)
+            d = part_output("part2_coverage", _e)
             os.makedirs(d, exist_ok=True)
             return os.path.join(d, name)
 

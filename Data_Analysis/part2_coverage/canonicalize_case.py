@@ -4,27 +4,29 @@ from collections import defaultdict
 
 from tqdm import tqdm
 
-from llm import call_llm
-from schemas import CaseCanonicalization
-from prompts import CASE_CANONICALIZATION_SYSTEM
+from shared.llm import call_llm
+from shared.schemas import CaseCanonicalization
+from shared.prompts import CASE_CANONICALIZATION_SYSTEM
 
-from utils import (
+from shared.utils import (
     load_json,
     load_jsonl,
     save_json,
     append_jsonl,
     parallel_yield,
 )
-from config import (
+from shared.config import (
     CANONICALIZER_MODEL,
     CANONICALIZATION_CONFIG,
-    output_path,
+    part_output,
     MAX_WORKERS,
 )
 
-INPUT = output_path("generations.jsonl")
-OUTPUT = output_path("case_features.json")
-FAILURES = output_path("case_canonicalization_failures.jsonl")
+# Defaults for a standalone run; the pipeline (indep_extractor_pipeline) passes
+# explicit per-extractor paths that override these.
+INPUT = part_output("part2_coverage", "llama/gen_feat.jsonl")
+OUTPUT = part_output("part2_coverage", "llama/case_feat.json")
+FAILURES = part_output("part2_coverage", "llama/case_canon_failures.jsonl")
 
 def group_cases(records):
     cases = defaultdict(list)

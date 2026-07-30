@@ -3,7 +3,7 @@ analysis used for the feature vocabulary, so the two are directly comparable.
 
 Per model, the distribution is the 20-criterion PRESENCE-rate vector (fraction of
 the model's cases where each criterion is engaged), normalized to sum to 1. Then
-the exact JSD / nearest-neighbour / permutation machinery from coarsen_jsd runs
+the exact JSD / nearest-neighbour / permutation machinery from jsd_stats runs
 on it -- if families still separate on these clean, uniformly-scored axes, the
 family clustering is substance, not vocabulary or phrasing.
 
@@ -22,14 +22,14 @@ import os
 import numpy as np
 import pandas as pd
 
-from config import output_path
-from coarsen_jsd import jsd, summarize, TIER      # reuse the exact stats
-from rubric import IDS, LABELS
-from utils import load_jsonl
+from shared.config import part_output
+from shared.jsd_stats import jsd, summarize, TIER      # reuse the exact stats
+from part3_distribution.rubric import IDS, LABELS
+from shared.utils import load_jsonl
 
 
 def load_scores(judge_slug):
-    path = os.path.join(output_path("rubric"), f"{judge_slug}.jsonl")
+    path = os.path.join(part_output("part3_distribution", "rubric"), f"{judge_slug}.jsonl")
     rows = load_jsonl(path)
     # present[(model, case)] = {id: bool}
     recs = {}
@@ -110,8 +110,8 @@ def main():
     print("  ratio>1 & p<.05 -> families differ on substantive criteria")
 
     pd.DataFrame(D.items(), columns=["pair", "jsd"]).to_csv(
-        output_path(f"rubric_jsd_pairs_{args.judge}.csv"), index=False)
-    M.to_csv(output_path(f"rubric_matrix_{args.judge}.csv"))
+        part_output("part3_distribution", f"rubric_jsd_pairs_{args.judge}.csv"), index=False)
+    M.to_csv(part_output("part3_distribution", f"rubric_matrix_{args.judge}.csv"))
 
 
 if __name__ == "__main__":

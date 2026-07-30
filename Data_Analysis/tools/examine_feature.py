@@ -16,6 +16,9 @@ import argparse
 import json
 import os
 
+from shared.config import GENERATIONS_JSON
+from shared.utils import load_json
+
 
 def load(d):
     with open(os.path.join(d, "case_feat.json")) as fh:
@@ -39,13 +42,13 @@ def _one(candidates, query, what):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dir", default="outputs/llama")
+    ap.add_argument("--dir", default="outputs/part2_coverage/llama")
     ap.add_argument("--feature", required=True, help="substring of the global feature")
     ap.add_argument("--a", required=True, help="model A (substring ok)")
     ap.add_argument("--b", required=True, help="model B (substring ok)")
     ap.add_argument("--top", type=int, default=12)
     ap.add_argument("--show-answers", action="store_true",
-                    help="print answer excerpts for the top cases (reads generations.jsonl)")
+                    help="print answer excerpts for the top cases (reads generations.json)")
     args = ap.parse_args()
 
     cases, mapping = load(args.dir)
@@ -83,16 +86,11 @@ def main():
 
     answers = {}
     if args.show_answers:
-        gpath = os.path.join(os.path.dirname(args.dir.rstrip("/")) or ".",
-                             "generations.jsonl")
-        gpath = gpath if os.path.exists(gpath) else "outputs/generations.jsonl"
-        with open(gpath) as fh:
-            for line in fh:
-                r = json.loads(line)
-                answers[(f"{r['dataset']}:{r['case_id']}", r["model"])] = r["answer"]
+        for r in load_json(GENERATIONS_JSON, default=[]):
+            answers[(f"{r['dataset']}:{r['case_id']}", r["model"])] = r["answer"]
 
     rows.sort(key=lambda r: -abs(r["ia"] - r["ib"]))
-    print("\nMost contrastive cases (grep generations.jsonl for the case + model):")
+    print("\nMost contrastive cases:")
     for r in rows[:args.top]:
         lead = A if r["ia"] > r["ib"] else B
         print(f"\n  {r['case']}   A={r['ia']:>3}  B={r['ib']:>3}   (+{lead.split('/')[-1]})")

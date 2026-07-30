@@ -3,24 +3,26 @@ import re
 
 from tqdm import tqdm
 
-from llm import call_llm
-from schemas import GlobalBatchCanonicalization
+from shared.llm import call_llm
+from shared.schemas import GlobalBatchCanonicalization
 
-from utils import (
+from shared.utils import (
     load_json,
     save_json,
     append_jsonl,
 )
 
-from config import (
+from shared.config import (
     CANONICALIZER_MODEL,
     CANONICALIZATION_CONFIG,
-    output_path,
+    part_output,
 )
 
-INPUT = output_path("case_features.json")
-OUTPUT = output_path("global_features.json")
-FAILURES = output_path("global_canonicalization_failures.jsonl")
+# Defaults for a standalone run; the pipeline (indep_extractor_pipeline) passes
+# explicit per-extractor paths that override these.
+INPUT = part_output("part2_coverage", "llama/case_feat.json")
+OUTPUT = part_output("part2_coverage", "llama/global_features.json")
+FAILURES = part_output("part2_coverage", "llama/global_failures.jsonl")
 
 # Case features are folded into the global vocabulary a batch at a time, so
 # neither prompt nor output grows unbounded. The vocabulary carries forward

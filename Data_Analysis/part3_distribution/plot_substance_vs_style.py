@@ -1,18 +1,24 @@
-"""plot_substance_vs_style.py -- figures for the question "why do same-family
-models cluster in JSD space: substance, intensity, or vocabulary?"
+"""plot_substance_vs_style.py -- how big is the family gap, in each feature space?
 
-Reads what the analysis scripts already wrote (all from the Llama extraction):
-    outputs/jsd_matrix_p.csv, jsd_matrix_freq.csv   (importance_distribution-style)
-    outputs/coarsen_jsd_tfidf_freq.csv, coarsen_jsd_llama_freq.csv  (coarsen_jsd.py)
+Within-family vs across-family mean pairwise JSD, at two FREQUENCY-based
+granularities (importance weights and vocabulary coarsening both dropped):
 
-Writes three PNGs to outputs/figures/:
-    intensity_scatter.png   -- Test 1: dropping importance weights barely moves any pair
-    coarsening_ratio.png    -- Test 2: family separation survives collapsing the vocabulary
-    within_across_bars.png  -- the gap itself, both weightings
+    open vocabulary (556 features, selection frequency) -- emergent extraction
+    20 rubric criteria (binary presence)                -- fixed codebook
 
-    python plot_substance_vs_style.py
+In BOTH spaces, across-family pairs diverge more than within-family pairs -- the
+gap the JSD clustering rests on. The two spaces live on very different absolute
+scales (556 vs 20 features), so each granularity gets its OWN panel/axis; read
+within-vs-across inside a panel, and the across/within ratio in the panel title.
+
+Inputs:
+    outputs/js_divergence_freq.csv       (Part 2: nearest_neighbor --suffix _freq)
+    outputs/rubric_matrix_<judge>.csv    (Part 3: rubric_analysis)
+
+    python -m part3_distribution.plot_substance_vs_style
 """
 
+import argparse
 import itertools
 import os
 
@@ -20,9 +26,10 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from config import output_path, ANTHROPIC, OPENAI, GEMINI, QWEN
+from shared.config import part_output, ANTHROPIC, OPENAI, GEMINI, QWEN
+from shared.jsd_stats import jsd
 
-FIGDIR = output_path("figures")
+FIGDIR = part_output("part3_distribution", "figures")
 FAM = {m["model"]: m["family"]
        for fam in (ANTHROPIC, OPENAI, GEMINI, QWEN) for m in fam}
 
@@ -36,113 +43,64 @@ plt.rcParams.update({
 })
 
 
-def _pairs(P, F):
-    models = list(P.index)
-    rows = []
-    for a, b in itertools.combinations(models, 2):
-        rows.append((P.loc[a, b], F.loc[a, b], FAM[a] == FAM[b]))
-    return np.array([(p, f) for p, f, _ in rows]), np.array([s for *_, s in rows])
+def _within_across(D, models):
+    w = [D[(a, b)] for a, b in itertools.combinations(models, 2) if FAM[a] == FAM[b]]
+    x = [D[(a, b)] for a, b in itertools.combinations(models, 2) if FAM[a] != FAM[b]]
+    return float(np.mean(w)), float(np.mean(x))
 
 
-def fig_scatter():
-    P = pd.read_csv(output_path("jsd_matrix_p.csv"), index_col=0)
-    F = pd.read_csv(output_path("jsd_matrix_freq.csv"), index_col=0)
-    xy, same = _pairs(P, F)
-
-    fig, ax = plt.subplots(figsize=(6.2, 6.0))
-    lo, hi = 0.03, 0.125
-    ax.plot([lo, hi], [lo, hi], color=MUTED, lw=1.4, ls=(0, (5, 4)), zorder=1)
-    ax.text(0.118, 0.118, "y = x", color=MUTED, style="italic",
-            ha="right", va="bottom", fontsize=10)
-    ax.scatter(xy[~same, 0], xy[~same, 1], s=46, c=BLUE, alpha=0.55,
-               edgecolors="white", linewidths=0.9, label="across-family", zorder=2)
-    ax.scatter(xy[same, 0], xy[same, 1], s=60, c=ORANGE, alpha=0.95,
-               edgecolors="white", linewidths=1.1, label="within-family", zorder=3)
-
-    ax.set_xlim(lo, hi); ax.set_ylim(lo, hi); ax.set_aspect("equal")
-    ax.set_xlabel("JSD with importance weights")
-    ax.set_ylabel("JSD, selection frequency only")
-    ax.set_title("Dropping the importance weights barely moves any pair",
-                 fontsize=12.5, fontweight="600", loc="left", pad=30)
-    ax.text(0, 1.035, "Each dot is one of 66 model pairs · nearest-neighbour family purity 9/12 either way",
-            transform=ax.transAxes, fontsize=9.5, color=MUTED)
-    ax.legend(frameon=False, loc="lower right", fontsize=10)
-    ax.grid(True, color=GRID, lw=0.8)
-    ax.set_axisbelow(True)
-    fig.tight_layout()
-    p = os.path.join(FIGDIR, "intensity_scatter.png")
-    fig.savefig(p, dpi=200, bbox_inches="tight"); plt.close(fig)
-    return p
+def _open_vocab():
+    M = pd.read_csv(part_output("part2_coverage", "js_divergence_freq.csv"), index_col=0)
+    models = [m for m in M.index if m in FAM]           # drop gold
+    D = {(a, b): M.loc[a, b] for a, b in itertools.combinations(models, 2)}
+    return _within_across(D, models)
 
 
-def fig_ratio():
-    t = pd.read_csv(output_path("coarsen_jsd_tfidf_freq.csv"))
-    l = pd.read_csv(output_path("coarsen_jsd_llama_freq.csv"))
-
-    fig, ax = plt.subplots(figsize=(7.2, 5.0))
-    ax.axhline(1.0, color=MUTED, lw=1.4, ls=(0, (5, 4)), zorder=1)
-    ax.text(6, 1.006, "no family effect", color=MUTED, fontsize=9.5, va="bottom")
-    for df, color, name in ((t, BLUE, "TF-IDF (lexical)"),
-                            (l, ORANGE, "Llama (semantic)")):
-        ax.plot(df.k, df.ratio, "-o", color=color, lw=2.4, ms=7,
-                mec="white", mew=1.4, label=name, zorder=3)
-
-    ax.set_xscale("log")
-    ax.set_xlim(560, 4.5)                         # inverted: coarser to the right
-    ax.set_ylim(0.95, 1.45)
-    ax.set_xticks([547, 200, 100, 50, 25, 12, 6])
-    ax.get_xaxis().set_major_formatter(plt.matplotlib.ticker.ScalarFormatter())
-    ax.minorticks_off()
-    ax.set_xlabel("feature groups  (547 to 5, log scale — coarser toward the right)")
-    ax.set_ylabel("across / within family JSD")
-    ax.set_title("Family separation survives collapsing the vocabulary",
-                 fontsize=12.5, fontweight="600", loc="left", pad=30)
-    ax.text(0, 1.035, "Ratio > 1 = families differ on substance, not phrasing. It holds down to ~5 concepts.",
-            transform=ax.transAxes, fontsize=9.5, color=MUTED)
-    ax.legend(frameon=False, loc="upper right", fontsize=10)
-    ax.grid(True, axis="y", color=GRID, lw=0.8)
-    ax.set_axisbelow(True)
-    fig.tight_layout()
-    p = os.path.join(FIGDIR, "coarsening_ratio.png")
-    fig.savefig(p, dpi=200, bbox_inches="tight"); plt.close(fig)
-    return p
-
-
-def fig_bars():
-    data = []
-    for label, name in (("Importance-weighted", "p"), ("Frequency only", "freq")):
-        M = pd.read_csv(output_path(f"jsd_matrix_{name}.csv"), index_col=0)
-        models = list(M.index)
-        w = [M.loc[a, b] for a, b in itertools.combinations(models, 2) if FAM[a] == FAM[b]]
-        x = [M.loc[a, b] for a, b in itertools.combinations(models, 2) if FAM[a] != FAM[b]]
-        data.append((label, np.mean(w), np.mean(x)))
-
-    fig, ax = plt.subplots(figsize=(7.2, 3.2))
-    y = np.arange(len(data))[::-1]
-    h = 0.34
-    for i, (label, w, x) in enumerate(data):
-        yy = y[i]
-        ax.barh(yy + h / 2 + 0.02, w, height=h, color=ORANGE, zorder=2)
-        ax.barh(yy - h / 2 - 0.02, x, height=h, color=BLUE, zorder=2)
-        ax.text(w + 0.001, yy + h / 2 + 0.02, f"within  {w:.4f}", va="center", fontsize=9.5, color="#333")
-        ax.text(x + 0.001, yy - h / 2 - 0.02, f"across  {x:.4f}", va="center", fontsize=9.5, color="#333")
-    ax.set_yticks(y); ax.set_yticklabels([d[0] for d in data], fontsize=11)
-    ax.set_xlim(0, 0.105)
-    ax.set_xlabel("mean pairwise JSD (547-feature resolution)")
-    ax.set_title("Across-family pairs diverge ~25% more, with or without intensity",
-                 fontsize=12.5, fontweight="600", loc="left", pad=14)
-    ax.grid(True, axis="x", color=GRID, lw=0.8); ax.set_axisbelow(True)
-    ax.spines["left"].set_visible(False); ax.tick_params(left=False)
-    fig.tight_layout()
-    p = os.path.join(FIGDIR, "within_across_bars.png")
-    fig.savefig(p, dpi=200, bbox_inches="tight"); plt.close(fig)
-    return p
+def _rubric(judge):
+    R = pd.read_csv(part_output("part3_distribution", f"rubric_matrix_{judge}.csv"), index_col=0)
+    models = [m for m in R.index if m in FAM]
+    D = {(a, b): jsd(R.loc[a].values, R.loc[b].values)
+         for a, b in itertools.combinations(models, 2)}
+    return _within_across(D, models)
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--judge", default="llama-3_3-70b-instruct")
+    args = ap.parse_args()
     os.makedirs(FIGDIR, exist_ok=True)
-    for f in (fig_scatter, fig_ratio, fig_bars):
-        print("wrote", f())
+
+    panels = [
+        ("Open vocabulary  (556 features, selection frequency)", _open_vocab()),
+        ("20 rubric criteria  (binary presence)", _rubric(args.judge)),
+    ]
+
+    fig, axes = plt.subplots(2, 1, figsize=(7.4, 4.4))
+    for ax, (title, (w, x)) in zip(axes, panels):
+        ax.barh(1, w, height=0.5, color=ORANGE, zorder=2)      # within
+        ax.barh(0, x, height=0.5, color=BLUE, zorder=2)        # across
+        ax.text(w, 1, f"  within  {w:.4f}", va="center", fontsize=9.5, color="#333")
+        ax.text(x, 0, f"  across  {x:.4f}", va="center", fontsize=9.5, color="#333")
+        ax.set_yticks([])
+        ax.set_ylim(-0.6, 1.6)
+        ax.set_xlim(0, x * 1.4)
+        ax.set_title(f"{title}      across / within = {x / w:.2f}",
+                     fontsize=10.5, loc="left", fontweight="600", pad=6)
+        ax.grid(True, axis="x", color=GRID, lw=0.8)
+        ax.set_axisbelow(True)
+        for s in ("top", "right", "left"):
+            ax.spines[s].set_visible(False)
+        ax.tick_params(left=False)
+
+    axes[-1].set_xlabel("mean pairwise JS divergence (bits)")
+    fig.suptitle("Across-family pairs diverge more than within-family "
+                 "-- in both feature spaces",
+                 fontsize=12.5, fontweight="600", x=0.02, ha="left")
+    fig.tight_layout(rect=[0, 0, 1, 0.94])
+    path = os.path.join(FIGDIR, "within_across_bars.png")
+    fig.savefig(path, dpi=200, bbox_inches="tight")
+    plt.close(fig)
+    print("wrote", path)
 
 
 if __name__ == "__main__":

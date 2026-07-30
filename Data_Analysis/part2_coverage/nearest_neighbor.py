@@ -1,48 +1,48 @@
 """nearest_neighbor.py -- who does gold reason like, and is the geometry real?
 
-Builds the model x global-feature importance matrix WITH gold included (unlike
-importance_distribution.py, which drops gold as the reference), then runs four
-tests.  Absolute JSD is badly upward-biased at this sample size (400 cases, ~500
-features): two draws from the SAME distribution score ~0.06, which is where most
-of the observed pairwise values sit.  So nothing here reads magnitudes.  Every
-claim is a RANKING on a shared case set, where the common sampling noise cancels,
-and every ranking is checked against a null.
+Builds the model x global-feature SELECTION-frequency matrix WITH gold included,
+from the independent-Llama extraction (outputs/llama), then runs four tests. The
+profile is FREQUENCY, not importance: for each model, the share of cases in which
+it engaged each global reasoning feature -- the extractor's importance weights are
+deliberately discarded, so nothing here depends on a cheaper model's numeric
+scoring. Absolute JSD is upward-biased at this sample size (two draws from the
+SAME distribution score well above 0), so nothing reads magnitudes. Every claim
+is a RANKING on a shared case set, where the common sampling noise cancels, and
+every ranking is checked against a null.
 
   1. REPLICATION.  Build the whole distance matrix twice on disjoint halves of
      the cases and correlate them.  If the geometry is sampling noise the two
-     halves disagree.  (Observed r ~ 0.92 against a label-shuffled null of ~0.00.)
+     halves disagree; the null shuffles one half's model labels.
      NOTE: this detects noise, not systematic bias -- see MISSING DATA below.
 
-  2. WHAT DRIVES DISTANCE.  Regress the 66 pairwise JSDs on |verbosity gap| and
-     same-family.  This replaces an earlier --control flag that residualized the
-     profiles against verbosity covariates.  That control was wrong twice over:
-     it silently switched metric (residuals aren't distributions, so JSD is
-     undefined and it fell back to correlation distance), and it controlled for a
-     MEDIATOR -- verbosity is itself a family trait (Anthropic ~8.8 features/case,
-     Google ~5.0), so regressing it out deletes the very signal being measured.
-     The pairwise regression answers the question the control was reaching for
-     without either flaw, and it finds verbosity explains R^2 = 0.000 of the
-     divergence while same-family explains 0.174 (p < 1e-4).  There is nothing to
-     control away.
+  2. WHAT DRIVES DISTANCE.  Regress the pairwise JSDs on |verbosity gap| and
+     same-family.  Verbosity (features named per case) is itself part of house
+     style, so we test whether it explains anything rather than residualizing it
+     out (which would delete family signal, since verbosity is a family trait).
 
   3. FAMILY RECOVERY.  Leave-one-out nearest-neighbour family accuracy against a
      permutation null, plus the BOOTSTRAP STABILITY of each NN edge -- because a
-     "hit" on a pair separated by 0.001 is luck, not evidence.
+     "hit" on a pair separated by a hair is luck, not evidence.
 
   4. GOLD.  Ranked JS divergence from gold to every model, with the bootstrap
      probability that each is gold's nearest neighbour.
 
-MISSING DATA.  Generation failed for some cases (claude-haiku-4.5 is short 82 of
-400, qwen3.5-9b short 61; everyone else <5).  A model estimated from fewer cases
-has a sparser profile and therefore an inflated JSD to EVERYONE -- a systematic
-bias that replicates across splits and so survives test 1.  --complete-cases
-restricts every model to the cases where all 13 generators succeeded, which is
-the only way to make the comparison genuinely apples-to-apples.
+MISSING DATA.  Generation failed for some cases (a few models are short a chunk
+of the 400). A model estimated from fewer cases has a sparser profile and thus an
+inflated JSD to EVERYONE -- a systematic bias that survives test 1.
+--complete-cases restricts every model to the cases where all generators
+succeeded, the only way to make the comparison genuinely apples-to-apples.
 
-Outputs (figures/):
-  nn_embedding{suffix}.png   -- classical MDS of JS distance, gold starred,
+Run from the Data_Analysis root:
+    python -m part2_coverage.nearest_neighbor                    # outputs/llama
+    python -m part2_coverage.nearest_neighbor --complete-cases
+
+Outputs (outputs/part2_coverage/):
+  figures/nn_embedding{suffix}.png -- classical MDS of JS distance, gold starred,
                                 arrows = each model's nearest neighbour
   gold_ranking{suffix}.png   -- gold's distance to every model
+  js_heatmap{suffix}.png     -- pairwise JS-divergence heatmap
+Plus selection_matrix{suffix}.csv (P_m(f)) and js_divergence{suffix}.csv.
 """
 
 import argparse
@@ -57,7 +57,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-from config import output_path
+from shared.config import part_output
 
 FAMILY_COLORS = {
     "anthropic": "#E69F00",
@@ -77,17 +77,22 @@ def family(model):
 # Data
 
 def load_mass(complete_cases=False, case_path=None, global_path=None):
-    """(cases x models x features) importance tensor, gold included.
+    """(cases x models x features) SELECTION tensor, gold included.
 
-    Keeping the case axis un-summed is what makes the bootstrap possible: we
-    resample cases and re-sum, rather than resampling the aggregate.
+    Frequency, not importance: mass[c, m, g] = 1 if model m named >= 1 feature
+    mapping to global feature g in case c, else 0. Summed over cases (see
+    `profiles`), each model's profile becomes its selection-frequency
+    distribution over the global vocabulary -- the extractor's importance weights
+    are dropped entirely. Keeping the case axis un-summed is what makes the
+    bootstrap possible: we resample cases and re-sum, rather than resampling the
+    aggregate.
 
     complete_cases: keep only cases where every generator produced features, so
     each model's profile is estimated from an identical case set.
     """
-    with open(case_path or output_path("case_features.json")) as fh:
+    with open(case_path or part_output("part2_coverage", "llama/case_feat.json")) as fh:
         cases = json.load(fh)
-    with open(global_path or output_path("global_features.json")) as fh:
+    with open(global_path or part_output("part2_coverage", "llama/global_features.json")) as fh:
         mapping = json.load(fh)["mapping"]
 
     keys = sorted(cases)
@@ -104,12 +109,11 @@ def load_mass(complete_cases=False, case_path=None, global_path=None):
     midx = {m: i for i, m in enumerate(models)}
 
     mass = np.zeros((len(keys), len(models), len(feats)))
-    named = defaultdict(list)          # model -> features named, per case
-    evens = defaultdict(list)          # model -> evenness, per case
+    named = defaultdict(list)          # model -> distinct features named, per case
 
     for ci, k in enumerate(keys):
         superset = cases[k]["superset"]
-        per_case = defaultdict(list)
+        per_case = defaultdict(set)    # model -> set of global-feature indices named
 
         for e in cases[k]["features"].values():
             idx = e["superset_index"]
@@ -118,27 +122,20 @@ def load_mass(complete_cases=False, case_path=None, global_path=None):
             global_feature = mapping.get(superset[idx])
             if not global_feature:
                 continue
-            mass[ci, midx[e["model"]], fidx[global_feature]] += e["importance"]
-            per_case[e["model"]].append((idx, e["importance"]))
+            gi = fidx[global_feature]
+            # Selection indicator: assignment (not +=) deduplicates a model that
+            # names the same global feature twice in one case -- it engaged one
+            # feature, not two.
+            mass[ci, midx[e["model"]], gi] = 1.0
+            per_case[e["model"]].add(gi)
 
-        for m, vals in per_case.items():
-            total = sum(v for _, v in vals)
-            if total <= 0:
-                continue
-            p = np.array([v for _, v in vals]) / total
-            p = p[p > 0]          # 0*log0 := 0; without the mask numpy gives nan
-            # Deduplicate by superset slot to match coverage.py's features_found:
-            # a model that names the same slot twice has not attended to two
-            # features.
-            k_named = len({i for i, _ in vals})
-            h = float(-np.sum(p * np.log(p)))
-            named[m].append(k_named)
-            # Evenness, not raw entropy: raw H tracks k at r ~ 0.95 and is mostly
-            # a verbosity restatement (see feature_analysis.py).
-            evens[m].append(h / np.log(k_named) if k_named > 1 else np.nan)
+        for m, gis in per_case.items():
+            named[m].append(len(gis))
 
-    covars = {m: {"verbosity": float(np.mean(named[m])),
-                  "evenness": float(np.nanmean(evens[m]))} for m in models}
+    # verbosity = mean distinct features engaged per case (a frequency covariate,
+    # no importance involved).
+    covars = {m: {"verbosity": float(np.mean(named[m])) if named[m] else 0.0}
+              for m in models}
     return mass, models, feats, covars, len(keys)
 
 
@@ -152,7 +149,7 @@ def _normalize(v):
 
 
 def js_divergence(p, q):
-    """Jensen-Shannon divergence in bits; matches importance_distribution.py."""
+    """Jensen-Shannon divergence in bits (0 = identical distributions)."""
     m = 0.5 * (p + q)
 
     def kl(a):
@@ -428,7 +425,7 @@ def plot_embedding(D, models, suffix):
     for s in ax.spines.values():
         s.set_visible(False)
 
-    path = output_path(os.path.join("figures", f"nn_embedding{suffix}.png"))
+    path = part_output("part2_coverage", os.path.join("figures", f"nn_embedding{suffix}.png"))
     fig.tight_layout()
     fig.savefig(path, dpi=200, facecolor="white")
     plt.close(fig)
@@ -474,7 +471,7 @@ def plot_gold_ranking(point, ci, wins, suffix):
                           label=f) for f, c in FAMILY_COLORS.items()]
     ax.legend(handles=handles, frameon=False, loc="lower right", fontsize=9)
 
-    path = output_path(os.path.join("figures", f"gold_ranking{suffix}.png"))
+    path = part_output("part2_coverage", os.path.join("figures", f"gold_ranking{suffix}.png"))
     fig.tight_layout()
     fig.savefig(path, dpi=200, facecolor="white")
     plt.close(fig)
@@ -525,7 +522,7 @@ def plot_heatmap(D, models, suffix):
     ax.set_title("Pairwise reasoning divergence  (same matrix as the NN plot; "
                  "gold included)", fontsize=11, pad=12, loc="left")
 
-    path = output_path(os.path.join("figures", f"js_heatmap{suffix}.png"))
+    path = part_output("part2_coverage", os.path.join("figures", f"js_heatmap{suffix}.png"))
     fig.tight_layout()
     fig.savefig(path, dpi=200, facecolor="white")
     plt.close(fig)
@@ -536,18 +533,18 @@ def dump_matrices(P, D, models, feats, suffix):
     """Write the exact matrices behind the figures so the coefficients are
     inspectable and reusable:
 
-      importance_matrix{suffix}.csv -- P_m(f), rows = model, cols = global
-        feature. GOLD INCLUDED and (if --complete-cases) on the same case set as
-        the figures, so it matches plot_heatmap/plot_embedding exactly. This is
-        NOT the same as importance_distribution.py's output, which drops gold.
-      js_divergence{suffix}.csv     -- D, the model x model JSD matrix the
+      selection_matrix{suffix}.csv -- P_m(f), rows = model, cols = global
+        feature, values = selection-frequency shares. GOLD INCLUDED and (if
+        --complete-cases) on the same case set as the figures, so it matches
+        plot_heatmap/plot_embedding exactly.
+      js_divergence{suffix}.csv    -- D, the model x model JSD matrix the
         heatmap and embedding are built from.
     """
     pd.DataFrame([P[m] for m in models], index=models, columns=feats).to_csv(
-        output_path(f"importance_matrix{suffix}.csv"))
+        part_output("part2_coverage", f"selection_matrix{suffix}.csv"))
     pd.DataFrame(D, index=models, columns=models).to_csv(
-        output_path(f"js_divergence{suffix}.csv"))
-    print(f"  wrote importance_matrix{suffix}.csv "
+        part_output("part2_coverage", f"js_divergence{suffix}.csv"))
+    print(f"  wrote selection_matrix{suffix}.csv "
           f"({len(models)} models x {len(feats)} features) and "
           f"js_divergence{suffix}.csv")
 
@@ -562,10 +559,10 @@ def main():
                          "every model is estimated from an identical case set")
     ap.add_argument("--dir", default=None,
                     help="read case_feat.json + global_features.json from this "
-                         "directory (e.g. outputs/llama); default = top-level run")
+                         "directory; default = outputs/llama (independent extractor)")
     args = ap.parse_args()
 
-    os.makedirs(output_path("figures"), exist_ok=True)
+    os.makedirs(part_output("part2_coverage", "figures"), exist_ok=True)
 
     case_path = os.path.join(args.dir, "case_feat.json") if args.dir else None
     global_path = os.path.join(args.dir, "global_features.json") if args.dir else None

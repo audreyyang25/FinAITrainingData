@@ -14,11 +14,11 @@ import os
 
 from tqdm import tqdm
 
-from config import output_path, MAX_WORKERS, EXTRACTORS, EXTRACTOR_PROVIDER
-from extract_gold_features import parse_json
-from llm import call_llm
-from utils import load_jsonl, append_jsonl, existing_keys, parallel_yield, ensure_dir
-from rubric import RUBRIC_SYSTEM, user_prompt, IDS
+from shared.config import part_output, GENERATIONS_JSON, MAX_WORKERS, EXTRACTORS, EXTRACTOR_PROVIDER
+from shared.utils import parse_json
+from shared.llm import call_llm
+from shared.utils import load_json, append_jsonl, existing_keys, parallel_yield, ensure_dir
+from part3_distribution.rubric import RUBRIC_SYSTEM, user_prompt, IDS
 
 DEFAULT_JUDGE = EXTRACTORS[0]["extractor"]      # llama, same as the extractor
 KEY = ["dataset", "case_id", "model"]
@@ -61,14 +61,14 @@ def main():
     args = ap.parse_args()
 
     slug = args.judge.split("/")[-1].replace(".", "_")
-    outdir = output_path("rubric")
+    outdir = part_output("part3_distribution", "rubric")
     ensure_dir(outdir)
     out = os.path.join(outdir, f"{slug}.jsonl")
     fails = os.path.join(outdir, f"{slug}.failures.jsonl")
     done = existing_keys(out, KEY)
 
     filt = [s.strip() for s in args.models.split(",") if s.strip()]
-    gens = load_jsonl(output_path("generations.jsonl"))
+    gens = load_json(GENERATIONS_JSON, default=[])
 
     tasks, per_model = [], {}
     for g in gens:

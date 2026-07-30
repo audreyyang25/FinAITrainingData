@@ -17,7 +17,8 @@ import json
 import os
 import re
 
-from config import output_path, load_dataset
+from shared.config import load_dataset, GENERATIONS_JSON
+from shared.utils import load_json
 
 
 def resolve(candidates, query, what):
@@ -51,8 +52,8 @@ def main():
     ap.add_argument("case", help="dataset:id, e.g. standard:30 (as printed by examine_feature.py)")
     ap.add_argument("model", help="model substring, or 'gold' for the reference answer")
     ap.add_argument("--feature", help="regex; answer lines matching it are marked with '>'")
-    ap.add_argument("--dir", default="outputs/llama",
-                    help="extraction dir holding case_feat.json (default outputs/llama)")
+    ap.add_argument("--dir", default="outputs/part2_coverage/llama",
+                    help="extraction dir holding case_feat.json (default outputs/part2_coverage/llama)")
     ap.add_argument("--no-case", action="store_true", help="skip the fact pattern")
     args = ap.parse_args()
 
@@ -78,11 +79,9 @@ def main():
         return
 
     records = {}
-    with open(output_path("generations.jsonl")) as fh:
-        for line in fh:
-            r = json.loads(line)
-            if r["dataset"] == ds and str(r["case_id"]) == cid:
-                records[r["model"]] = r
+    for r in load_json(GENERATIONS_JSON, default=[]):
+        if r["dataset"] == ds and str(r["case_id"]) == cid:
+            records[r["model"]] = r
     if not records:
         raise SystemExit(f"no generations found for {args.case}")
 

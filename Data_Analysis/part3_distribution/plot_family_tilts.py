@@ -13,10 +13,10 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from config import output_path
-from rubric_analysis import load_scores, presence_matrix
-from coarsen_jsd import TIER
-from rubric import LABELS
+from shared.config import part_output
+from part3_distribution.rubric_analysis import load_scores, presence_matrix
+from shared.jsd_stats import TIER
+from part3_distribution.rubric import LABELS
 
 BLUE, ORANGE, MUTED, GRID = "#2a78d6", "#eb6834", "#86857f", "#e8e7e2"
 FAMS = ["Anthropic", "OpenAI", "Gemini", "Qwen"]
@@ -74,7 +74,9 @@ def main():
              ha="center", fontsize=10, color="#444")
 
     fig.tight_layout(rect=[0, 0.03, 1, 0.92])
-    p = os.path.join(output_path("figures"), "family_tilts.png")
+    figdir = part_output("part3_distribution", "figures")
+    os.makedirs(figdir, exist_ok=True)
+    p = os.path.join(figdir, "family_tilts.png")
     fig.savefig(p, dpi=200, bbox_inches="tight")
     plt.close(fig)
     print("wrote", p)

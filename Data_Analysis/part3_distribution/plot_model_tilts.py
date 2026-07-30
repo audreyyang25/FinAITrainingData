@@ -20,10 +20,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
-from config import output_path
-from rubric_analysis import load_scores, presence_matrix
-from coarsen_jsd import TIER
-from rubric import LABELS
+from shared.config import part_output
+from part3_distribution.rubric_analysis import load_scores, presence_matrix
+from shared.jsd_stats import TIER
+from part3_distribution.rubric import LABELS
 
 # Tier colors = categorical slots 1-3 (blue/orange/aqua), validated all-pairs.
 # Color now carries TIER IDENTITY (not sign); sign is read from bar direction.
@@ -100,7 +100,9 @@ def main():
              ha="center", fontsize=10, color="#444")
 
     fig.tight_layout(rect=[0, 0.03, 1, 0.92])
-    p = os.path.join(output_path("figures"), "model_tilts.png")
+    figdir = part_output("part3_distribution", "figures")
+    os.makedirs(figdir, exist_ok=True)
+    p = os.path.join(figdir, "model_tilts.png")
     fig.savefig(p, dpi=200, bbox_inches="tight")
     plt.close(fig)
     print("wrote", p)

@@ -25,7 +25,7 @@ from collections import defaultdict
 
 import pandas as pd
 
-from config import ADAPTERS, DATA_DIR, output_path
+from shared.config import ADAPTERS, DATA_DIR, part_output
 
 SEP = "  ||  "          # multi-value cell separator; readable in Excel
 
@@ -49,7 +49,8 @@ def main():
                          "feature for it to count as a consensus miss")
     args = ap.parse_args()
 
-    with open(output_path("case_features.json")) as fh:
+    # Independent-Llama extraction (Part 2), not the legacy self-report file.
+    with open(part_output("part2_coverage", "llama/case_feat.json")) as fh:
         cases = json.load(fh)
     source = load_source_records()
 
@@ -135,7 +136,7 @@ def main():
     )
 
     top = df.head(args.n)
-    path = output_path(f"gold_review{args.suffix}.csv")
+    path = part_output("part2_coverage", f"gold_review{args.suffix}.csv")
     top.to_csv(path, index=False)
 
     print(f"{len(df)} cases scored -> wrote top {len(top)} to {path}\n")

@@ -16,7 +16,7 @@ pass --random for an unbiased sample within each split type (seeded).
 
 Each row carries its concept's grounded regex (built from the concept's member-
 feature vocabulary, not guessed) and a ready-to-run read_cmd. Selection is
-frequency-based (intensity carried no family signal); all data from outputs/llama.
+frequency-based (intensity carried no family signal); all data from outputs/part2_coverage/llama.
 
     python build_concept_spotcheck.py
     python build_concept_spotcheck.py --random --seed 1
@@ -28,8 +28,8 @@ import json
 import random
 from collections import defaultdict
 
-from coarsen_jsd import load, TIER
-from config import output_path
+from shared.jsd_stats import load, TIER
+from shared.config import part_output
 
 FAMS = ["Anthropic", "OpenAI", "Gemini", "Qwen"]
 
@@ -59,7 +59,7 @@ TAKE = {"2v2": 3, "3v1_lone_miss": 2, "1v3_lone_name": 2}
 sh = lambda m: m.split("/")[-1]
 
 
-def concept_importance(extract_dir="outputs/llama"):
+def concept_importance(extract_dir="outputs/part2_coverage/llama"):
     """cimp[(model, case)][concept_id] = summed importance on that concept."""
     mass, named, total, ncase = load(extract_dir)
     groups = json.load(open(f"{extract_dir}/feature_groups.json"))
@@ -89,7 +89,7 @@ def main():
     ap.add_argument("--random", action="store_true",
                     help="sample within each split type instead of ranking by gold importance")
     ap.add_argument("--seed", type=int, default=0)
-    ap.add_argument("--out", default=output_path("crossfam_concept_spotcheck.csv"))
+    ap.add_argument("--out", default=part_output("part2_coverage", "crossfam_concept_spotcheck.csv"))
     args = ap.parse_args()
     rng = random.Random(args.seed)
 

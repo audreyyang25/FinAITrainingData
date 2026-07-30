@@ -1,5 +1,6 @@
 # config.py
 
+import csv
 import os
 import json
 
@@ -13,15 +14,37 @@ DATA_DIR = os.path.join(
     "23_Folders_Suitability",
 )
 
-# Outputs to a folder next to code
+# Outputs live at the Data_Analysis root (one level up from shared/).
 OUTPUT_DIR = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)),
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
     "outputs",
+)
+
+# Materialized ADAPTERS table, also at the Data_Analysis root.
+ADAPTERS_CSV = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "adapters.csv",
+)
+
+# Shared SETUP output: one answer-only record per (case, model), at the root.
+GENERATIONS_JSON = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "generations.json",
 )
 
 def output_path(name):
     """Absolute path inside OUTPUT_DIR, independent of the current directory."""
     return os.path.join(OUTPUT_DIR, name)
+
+
+def part_output(part, name=""):
+    """Absolute path inside a per-part output subdir, created on demand, e.g.
+    part_output('part2_coverage', 'coverage.csv') -> outputs/part2_coverage/coverage.csv.
+    Groups every artifact under its pipeline part (part1_eval / part2_coverage /
+    part3_distribution / setup)."""
+    d = os.path.join(OUTPUT_DIR, part)
+    os.makedirs(d, exist_ok=True)
+    return os.path.join(d, name) if name else d
 
 def _format_convo(turns):
     """P14 conversations are a list of {speaker, text} dicts."""
@@ -230,3 +253,42 @@ MAX_WORKERS = 8
 
 # Pipeline settings
 EXTRACT_GOLD_FEATURES = True
+
+
+# Materialized ADAPTERS table
+
+def build_adapters_csv(out_path=ADAPTERS_CSV, data_dir=DATA_DIR, force=False):
+    """Materialize every adapter over ALL its records into a flat CSV.
+
+    Columns: FILE, ID, PROMPT, TRUTH, HAS_QUESTION. Every field is fully quoted
+    so embedded commas/newlines/quotes in PROMPT and TRUTH round-trip safely
+    (open in a spreadsheet, or load with pandas.read_csv). No row limit here;
+    slice in the caller if you want fewer rows.
+
+    Returns (rows_written, out_path). Skips the build when the file already
+    exists unless force=True.
+    """
+    if os.path.exists(out_path) and not force:
+        return None, out_path
+    rows = 0
+    with open(out_path, "w", newline="") as fh:
+        writer = csv.writer(fh, quoting=csv.QUOTE_ALL)
+        writer.writerow(["FILE", "ID", "PROMPT", "TRUTH", "HAS_QUESTION"])
+        for a in ADAPTERS.values():
+            with open(os.path.join(data_dir, a["file"])) as f:
+                records = json.load(f)
+            for r in records:
+                writer.writerow([
+                    a["file"], r["id"], a["prompt"](r), a["truth"](r), a["has_question"],
+                ])
+                rows += 1
+    return rows, out_path
+
+
+if __name__ == "__main__":
+    n, path = build_adapters_csv()
+    if n is None:
+        print(f"adapters.csv already exists -> {path} (delete it or call "
+              f"build_adapters_csv(force=True) to rebuild)")
+    else:
+        print(f"Wrote {n} rows -> {path}")

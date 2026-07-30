@@ -1,9 +1,10 @@
 import pandas as pd
 
-from utils import load_json
-from config import output_path
+from shared.utils import load_json
+from shared.config import part_output
 
-CASE_FEATURES = output_path("case_features.json")
+# Independent-Llama extraction (Part 2), not the legacy self-report case_features.
+CASE_FEATURES = part_output("part2_coverage", "llama/case_feat.json")
 
 def compute_coverage(suffix=""):
     cases = load_json(
@@ -49,7 +50,7 @@ def compute_coverage(suffix=""):
     df = pd.DataFrame(rows)
 
     df.to_csv(
-        output_path(f"coverage{suffix}.csv"),
+        part_output("part2_coverage", f"coverage{suffix}.csv"),
         index=False,
     )
 

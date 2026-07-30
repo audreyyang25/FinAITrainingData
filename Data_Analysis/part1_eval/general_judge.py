@@ -25,9 +25,9 @@ Every binary judgment requires an evidence quote; no quote => NO. All judge outp
 is strict JSON, validated and retried.
 
 Usage (programmatic):
-    from eval_pipeline.general_judge import run_eval
-    run_eval("feature_importance_exp/outputs/generations.jsonl",
-             out_dir="results/feature_importance_eval",
+    from part1_eval.general_judge import run_eval
+    run_eval("generations.json",
+             out_dir="outputs/part1_eval/gemini",
              exclude_models={"gold"})
 """
 
@@ -46,7 +46,7 @@ from dotenv import load_dotenv
 from openai import OpenAI, RateLimitError
 from tqdm import tqdm
 
-from dataset_specs import SPECS, load_gold
+from part1_eval.dataset_specs import SPECS, load_gold
 
 # Provider-pinned judges (Llama bf16) route to ONE upstream shared pool that
 # rate-limits under concurrency, so the default stays modest. Bump it only for an
@@ -464,7 +464,7 @@ def _summary(rec) -> dict:
 # Generations loading / normalization
 # ----------------------------------------------------------------------------
 
-# Default field map matches feature_importance_exp/outputs/generations.jsonl.
+# Default field map matches the SETUP generations.json (answer -> response).
 DEFAULT_FIELD_MAP = {
     "dataset": "dataset",
     "case_id": "case_id",
@@ -508,7 +508,7 @@ def parallel_yield(fn, items, max_workers):
     """Run fn(item) across a thread pool; yield results as they complete. I/O-bound
     LLM calls release the GIL during the network wait, so threads give real
     concurrency; the CALLER does all writes (single writer, no append race).
-    Mirrors feature_importance_exp/utils.py."""
+    Mirrors shared/utils.py's parallel_yield."""
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
         futures = [ex.submit(fn, it) for it in items]
         for fut in as_completed(futures):
@@ -555,7 +555,7 @@ def _precompute_gold_verdicts(tasks, gold_by_ds, workers):
 # Driver
 # ----------------------------------------------------------------------------
 
-def run_eval(generations, out_dir="results/eval", gold_dir=None,
+def run_eval(generations, out_dir="outputs/part1_eval/gemini", gold_dir=None,
              exclude_models=frozenset({"gold"}), datasets=None,
              limit=0, field_map=None, judge=DEFAULT_JUDGE, workers=DEFAULT_WORKERS):
     """Judge a set of generations across whatever datasets they contain.

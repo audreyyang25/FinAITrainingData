@@ -1,0 +1,14 @@
+# Large, regenerable data artifacts -- kept out of git.
+# (Global junk rules -- .env, __pycache__, *.pyc, .DS_Store -- live in the repo-root .gitignore.)
+
+# All pipeline outputs: extractions, matrices, figures, eval judgments.
+outputs/
+
+# Setup output + materialized dataset table.
+#   regenerate: python -m setup.generation   /   python -m shared.config
+generations.json
+adapters.csv
+
+# Archived experiment result data + the original self-report generations run.
+archive/results/
+archive/selfreport_generations.jsonl

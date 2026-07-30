@@ -3,24 +3,23 @@
 Judges an existing generations file across whatever datasets it contains (P12-P16),
 using each dataset's own gold and the applicable judge dimensions. Resumable.
 
-Examples
-  # The 12 feature-importance models, all datasets present, gold answer excluded:
-  python run_eval.py \
-      --generations ../feature_importance_exp/outputs/generations.jsonl \
-      --out ../results/feature_importance_eval
+Run from the Data_Analysis root:
+  # Default judge (gemini) -> outputs/part1_eval/gemini/ ; gold excluded from scoring:
+  python -m part1_eval.run_eval
 
-  # Only the borderline + adversarial sets:
-  python run_eval.py --generations <path> --out <dir> --datasets borderline adversarial
+  # A second judge goes in its own subdir:
+  python -m part1_eval.run_eval --judge meta-llama/llama-3.3-70b-instruct \
+      --out outputs/part1_eval/llama
 """
 
 import argparse
 from pathlib import Path
 
-from general_judge import run_eval, DEFAULT_JUDGE, DEFAULT_WORKERS
+from part1_eval.general_judge import run_eval, DEFAULT_JUDGE, DEFAULT_WORKERS
 
 HERE = Path(__file__).resolve().parent
-DEFAULT_GENS = HERE.parent / "feature_importance_exp" / "outputs" / "generations.jsonl"
-DEFAULT_OUT = HERE.parent / "results" / "feature_importance_eval"
+DEFAULT_GENS = HERE.parent / "generations.json"                 # SETUP output at the root
+DEFAULT_OUT = HERE.parent / "outputs" / "part1_eval" / "gemini"  # per-judge subdir
 
 
 def main():
@@ -29,7 +28,7 @@ def main():
     ap.add_argument("--generations", default=str(DEFAULT_GENS),
                     help="generations JSONL/JSON (default: feature_importance outputs)")
     ap.add_argument("--out", default=str(DEFAULT_OUT),
-                    help="output directory (default: results/feature_importance_eval)")
+                    help="output directory (default: outputs/part1_eval/gemini)")
     ap.add_argument("--datasets", nargs="*", default=None,
                     help="restrict to these dataset names (default: all present)")
     ap.add_argument("--exclude", nargs="*", default=["gold"],

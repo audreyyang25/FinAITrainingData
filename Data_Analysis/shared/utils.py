@@ -58,6 +58,22 @@ def load_jsonl(path):
         ]
 
 
+def parse_json(raw):
+    """Extract the first JSON object from a model response, tolerating markdown
+    fences, a prose preamble, and trailing content after the object."""
+    raw = raw.strip()
+    if raw.startswith("```"):
+        raw = raw.replace("```json", "").replace("```", "").strip()
+    start = raw.find("{")
+    if start == -1:
+        raise ValueError(f"no JSON object in response: {raw[:200]!r}")
+    # raw_decode parses the first complete JSON object and ignores anything after
+    # it, so a valid object followed by trailing content (a second object, a stray
+    # note, an extra code fence) no longer raises "Extra data".
+    obj, _ = json.JSONDecoder().raw_decode(raw, start)
+    return obj
+
+
 def existing_keys(path, key_fields):
 
     records = load_jsonl(path)

@@ -1,6 +1,7 @@
+import csv
 import json
 import os
-from dotenv import load_dotenv 
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -10,6 +11,9 @@ DATA_DIR = os.path.join(
     "AI Suitability Training Materials",
     "23_Folders_Suitability",
 )
+
+# Materialized ADAPTERS output: flat, human-readable form of the adapters below.
+ADAPTERS_CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), "adapters.csv")
 
 # Model suite: each model both generates and judges (self-bias study).
 # All routed through OpenRouter (one OpenAI-compatible endpoint), so `model`
@@ -102,9 +106,38 @@ def load_dataset(name, limit=None, data_dir=DATA_DIR):
         yield r["id"], a["prompt"](r), a["truth"](r)
 
 
+def build_adapters_csv(out_path=ADAPTERS_CSV, data_dir=DATA_DIR, force=False):
+    """Materialize every adapter over ALL its records into a flat CSV.
+
+    Columns: FILE, ID, PROMPT, TRUTH, HAS_QUESTION. Every field is fully quoted
+    so embedded commas/newlines/quotes in PROMPT and TRUTH round-trip safely
+    (open in a spreadsheet, or load with pandas.read_csv). No row limit here;
+    slice in the caller if you want fewer rows.
+
+    Returns (rows_written, out_path). Skips the build when the file already
+    exists unless force=True.
+    """
+    if os.path.exists(out_path) and not force:
+        return None, out_path
+    rows = 0
+    with open(out_path, "w", newline="") as fh:
+        writer = csv.writer(fh, quoting=csv.QUOTE_ALL)
+        writer.writerow(["FILE", "ID", "PROMPT", "TRUTH", "HAS_QUESTION"])
+        for a in ADAPTERS.values():
+            with open(os.path.join(data_dir, a["file"])) as f:
+                records = json.load(f)
+            for r in records:
+                writer.writerow([
+                    a["file"], r["id"], a["prompt"](r), a["truth"](r), a["has_question"],
+                ])
+                rows += 1
+    return rows, out_path
+
+
 if __name__ == "__main__":
-    for name in ADAPTERS:
-        rid, prompt, truth = next(load_dataset(name, limit=1))
-        print(f"[{name}] id={rid}")
-        print(f"  prompt[:100]: {prompt[:100]!r}")
-        print(f"  truth[:100] : {truth[:100]!r}\n")
+    n, path = build_adapters_csv()
+    if n is None:
+        print(f"adapters.csv already exists -> {path} (delete it or call "
+              f"build_adapters_csv(force=True) to rebuild)")
+    else:
+        print(f"Wrote {n} rows -> {path}")

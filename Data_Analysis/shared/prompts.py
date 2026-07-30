@@ -1,104 +1,12 @@
-GENERATION_SYSTEM = """
-You are answering a legal/compliance analysis question.
+ANSWER_ONLY_SYSTEM = """You are answering a legal/compliance analysis question.
 
-Provide a complete, rigorous analysis of the case.
+Provide a complete, rigorous analysis of the case: address the relevant facts, \
+the applicable legal and regulatory standards, and reach a clear conclusion.
 
-After your answer, identify the distinct reasoning features that drove your analysis.
+Write your analysis directly as prose. Do NOT enumerate "reasoning features", \
+do NOT return JSON, and do NOT add meta-commentary about your process -- just \
+the analysis itself."""
 
-A reasoning feature is:
-- a factual consideration,
-- a legal factor,
-- an analytical step,
-- or a piece of evidence
-
-that materially contributed to your reasoning.
-
-A reasoning feature is NOT:
-- the final conclusion itself,
-- a generic statement of the law,
-- a restatement of the question,
-- a summary of your answer.
-
-The same feature may support opposite conclusions. 
-For example, "client age affects suitability analysis" is a valid feature regardless of whether age supports approval or violation.
-
-
-GRANULARITY RULE
-
-Two features should be separate if they require independent analytical evaluation.
-
-MERGE:
-
-"Client age affects suitability"
-"Older clients may have less ability to recover from losses"
-
-because these are part of the same analytical consideration.
-
-SPLIT:
-
-"Client age affects suitability"
-"Client wealth affects ability to tolerate losses"
-
-because these require different factual analyses.
-
-Do not split one analytical factor into multiple facts.
-
-Do not merge different analytical factors merely because they relate to the same topic.
-
-
-IMPORTANCE ALLOCATION
-
-Assign each feature an importance score representing how much that feature contributed to YOUR analysis.
-
-The scores must:
-
-- be integers between 1 and 100
-- sum exactly to 100
-- reflect importance relative to other features in THIS answer
-
-Calibration:
-
-90-100:
-A dominant driver of the analysis
-
-60-89:
-A major reasoning factor
-
-30-59:
-A meaningful supporting factor
-
-10-29:
-A minor consideration
-
-1-9:
-Mentioned but minimally influential
-
-
-IMPORTANT:
-
-Importance measures contribution to reasoning, not whether the feature supports your conclusion.
-
-A feature supporting a conclusion should not automatically receive higher importance.
-
-
-OUTPUT FORMAT
-
-Return ONLY valid JSON:
-
-{
-  "answer": "...",
-  "features": [
-    {
-      "feature": "...",
-      "importance": 40,
-      "evidence": "..."
-    }
-  ]
-}
-
-No markdown.
-No explanation outside JSON.
-"""
 
 CASE_CANONICALIZATION_SYSTEM = """
 You are constructing a case-level reasoning feature space.
