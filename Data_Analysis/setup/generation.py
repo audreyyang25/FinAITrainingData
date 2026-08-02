@@ -24,6 +24,7 @@ FLUSH_EVERY completions and once at the end.
 """
 
 import argparse
+import re
 
 from tqdm import tqdm
 
@@ -49,6 +50,41 @@ from shared.utils import (
 FAILURES = part_output("setup", "generation_failures.jsonl")
 FLUSH_EVERY = 200
 RECORD_FIELDS = ("dataset", "case_id", "model_family", "model_key", "model", "answer")
+
+# Reasoning models sometimes put the analysis in the thinking block and emit only
+# a pointer to it ("See full analysis above"), or collapse to a bare verdict with
+# no reasoning. Both pass call_llm's guards -- finish_reason is "stop" and the
+# content is non-empty -- so they need catching here or they land in
+# generations.json looking valid and drag the model's scores down.
+#
+# 300 chars is deliberately conservative: below it answers are bare verdicts with
+# no supporting reasoning, while the 300-500 band is terse-but-genuine analysis
+# from the small qwen models. Regenerating those would bias the corpus toward
+# verbosity, which Part 2 treats as a variable rather than a defect.
+MIN_ANSWER_CHARS = 300
+
+# Anchored to the opening only: a full analysis may legitimately say "as noted
+# above" partway through, but one that *starts* by deferring is a stub.
+POINTER_RE = re.compile(
+    r"^\W*(see|refer to|as (shown|stated|noted|described))\b[^.]{0,80}\babove\b"
+    r"|^\W*(the )?(full |complete |detailed )?(analysis|assessment|response|answer)\b"
+    r"[^.]{0,80}\b(above|previously provided)\b",
+    re.I,
+)
+
+
+def invalid_reason(answer):
+    """Why `answer` isn't a usable analysis, or None if it's fine. Used both on
+    fresh completions and on reload, so a bad row already in generations.json is
+    dropped and regenerated rather than skipped as done."""
+    answer = (answer or "").strip()
+    if not answer:
+        return "empty answer"
+    if len(answer) < MIN_ANSWER_CHARS:
+        return f"answer too short ({len(answer)} < {MIN_ANSWER_CHARS} chars)"
+    if POINTER_RE.search(answer[:200]):
+        return "answer defers to the reasoning block instead of containing the analysis"
+    return None
 
 
 def _key(rec):
@@ -78,8 +114,9 @@ def _generate_one(task):
             **GENERATION_CONFIG,
         )
         answer = (raw or "").strip()
-        if not answer:
-            raise ValueError("empty answer")
+        bad = invalid_reason(answer)
+        if bad:
+            raise ValueError(bad)
     except Exception as e:
         return ("fail", {
             "dataset": dataset_name,
@@ -101,6 +138,32 @@ def _generate_one(task):
 
 def generate_all(limit=None, max_workers=MAX_WORKERS, out_path=GENERATIONS_JSON):
     records = load_json(out_path, default=[])
+
+    # Drop previously-saved rows that fail the validity check so they re-run.
+    # Gold rows are the dataset's reference answer, not a completion -- never
+    # judge them by these rules. Rows missing their identifying fields are dropped
+    # too: they can't be keyed, so they'd crash _key() below and can never be
+    # matched to a case again.
+    kept, dropped, malformed = [], [], 0
+    for r in records:
+        if not all(k in r for k in ("dataset", "case_id", "model")):
+            malformed += 1
+            continue
+        if r.get("model") == "gold" or not invalid_reason(r.get("answer")):
+            kept.append(r)
+        else:
+            dropped.append(r)
+    if malformed:
+        print(f"dropped {malformed} record(s) missing dataset/case_id/model")
+    if dropped:
+        by_model = {}
+        for r in dropped:
+            by_model[r["model"]] = by_model.get(r["model"], 0) + 1
+        print(f"regenerating {len(dropped)} invalid answer(s) already in {out_path}:")
+        for model, n in sorted(by_model.items(), key=lambda kv: -kv[1]):
+            print(f"  {n:4}  {model}")
+    records = kept
+
     completed = {_key(r) for r in records}
 
     # Build the task list, skipping done cells. Gold rows are the reference

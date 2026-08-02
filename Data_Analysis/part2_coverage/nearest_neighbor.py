@@ -207,6 +207,9 @@ def replication(mass, models):
     print(f"  -> observed beats the null in {np.mean(obs > cut):.0%} of {N_SPLIT} splits")
     print("  NOTE: this rules out sampling noise, NOT systematic bias "
           "(e.g. missing data).")
+    return {"split_half_r": float(obs.mean()), "split_half_r_p5": float(np.percentile(obs, 5)),
+            "null_mean": float(null.mean()), "null_p95": float(cut),
+            "frac_beats_null": float(np.mean(obs > cut)), "n_splits": N_SPLIT}
 
 
 # ============================================================
@@ -254,6 +257,9 @@ def distance_drivers(P, models, covars):
     print(f"    same family       {beta[2]:+.4f}               "
           f"[R^2 added = {r2_full - r2_verb:+.3f}]   perm p = {p:.4f}")
     print(f"  -> verbosity explains ~nothing; family is what the metric encodes.")
+    return {"n_pairs": len(pairs), "verbosity_beta": float(beta[1]),
+            "verbosity_r2": float(r2_verb), "family_beta": float(beta[2]),
+            "family_r2_added": float(r2_full - r2_verb), "perm_p": float(p), "n_perm": N_PERM}
 
 
 # ============================================================
@@ -285,7 +291,8 @@ def family_recovery(D, models):
 
     print(f"  NN family accuracy {acc:.0%} ({sum(hits)}/{len(names)})   "
           f"chance {chance:.0%}   permutation p = {p:.4f}")
-    return names, hits
+    return names, hits, {"nn_accuracy": float(acc), "chance": float(chance),
+                         "perm_p": float(p), "n_perm": N_PERM, "n_models": len(names)}
 
 
 def edge_stability(mass, models, names, hits):
@@ -576,13 +583,13 @@ def main():
     D = divergence_matrix(P, models)
 
     print("1. REPLICATION -- is the geometry real?")
-    replication(mass, models)
+    rep = replication(mass, models)
 
     print("\n2. WHAT DRIVES DISTANCE -- verbosity or family?")
-    distance_drivers(P, models, covars)
+    drivers = distance_drivers(P, models, covars)
 
     print("\n3. FAMILY RECOVERY (gold held out)")
-    names, hits = family_recovery(D, models)
+    names, hits, fam_rec = family_recovery(D, models)
     print()
     edge_stability(mass, models, names, hits)
 
@@ -598,6 +605,23 @@ def main():
     print("\n  P(gold's nearest neighbour is from family X):")
     for f, c in by_family.most_common():
         print(f"    {f:12s} {c / N_BOOT:6.1%}")
+
+    stats = {
+        "n_cases": n_cases, "n_models": len(models), "n_features": len(feats),
+        "complete_cases": bool(args.complete_cases), "n_boot": N_BOOT,
+        "replication": rep,
+        "distance_drivers": drivers,
+        "family_recovery": fam_rec,
+        "gold": {
+            "distance": {m: float(point[m]) for m in point},
+            "nearest_frac": {m: wins[m] / N_BOOT for m in point},
+            "family_win_frac": {f: c / N_BOOT for f, c in by_family.items()},
+        },
+    }
+    stats_path = part_output("part2_coverage", f"stats{args.suffix}.json")
+    with open(stats_path, "w") as fh:
+        json.dump(stats, fh, indent=2)
+    print(f"\n  wrote {stats_path}")
 
     print("\nFIGURES")
     plot_embedding(D, models, args.suffix)

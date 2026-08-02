@@ -70,13 +70,36 @@ JUDGES = {
     "meta-llama/llama-3.3-70b-instruct": {
         "reasoning_effort": None,
         "provider": {"quantizations": ["bf16"], "allow_fallbacks": False},
+        # The bf16 pin routes to the minority of providers serving this model at bf16,
+        # with no fallback -- so concurrency collides with a small pool and 429s far
+        # sooner than for unpinned models. Fewer workers is the right lever: relaxing
+        # the pin would trade rate limits for a judge whose numeric precision drifts
+        # mid-run, which is what a reliability study can least afford.
+        "workers": 2,
     },
+    # Cross-model judging panel. Both families sit OUTSIDE the 12-model generator
+    # pool (anthropic / google / openai / qwen), so no judge ever scores its own
+    # family's output and the panel carries no self-preference term.
+    # DeepSeek is effectively first-party on OpenRouter, so it needs no provider pin.
+    "deepseek/deepseek-v3.2": {"reasoning_effort": "low", "provider": None},
+    "mistralai/mistral-large-2512": {"reasoning_effort": None, "provider": None},
 }
 DEFAULT_JUDGE = "google/gemini-3.5-flash"
 
+
+def judge_workers(model: str, default: int) -> int:
+    """Per-judge concurrency override from JUDGES, else `default`. Lets a
+    provider-pinned judge run slower without throttling the rest of the panel."""
+    return (JUDGES.get(model) or {}).get("workers") or default
+
+
 JUDGE_TEMPERATURE = 0.0
 JUDGE_MAX_TOKENS = 4000                    # headroom for JSON + evidence quotes
-MAX_RETRIES = 6                            # total attempts per judge call
+# 8 attempts with the rate-limit backoff below covers ~4 min of sustained 429s before
+# giving up. Failures are logged, not written to the detail file, so a rerun retries
+# only what failed -- but more headroom here means fewer reruns.
+MAX_RETRIES = 8                            # total attempts per judge call
+SCHEMA_RETRIES = 2                         # attempts for a DETERMINISTIC schema failure
 RETRY_BASE_SLEEP = 2.0                     # backoff base for schema/transient errors
 RATE_LIMIT_BASE_SLEEP = 8.0               # 429 from a shared provider pool: wait longer
 RATE_LIMIT_MAX_SLEEP = 60.0
@@ -155,6 +178,7 @@ def _strip_fences(text: str) -> str:
 def call_judge(user_prompt: str, validator) -> dict:
     """Call the judge with retries; `validator(parsed) -> None` raises on bad schema."""
     last_err = None
+    last_raw = None
     extra_body = {}
     if JUDGE_REASONING_EFFORT:
         extra_body["reasoning"] = {"effort": JUDGE_REASONING_EFFORT}
@@ -174,7 +198,8 @@ def call_judge(user_prompt: str, validator) -> dict:
             if extra_body:
                 kwargs["extra_body"] = extra_body
             resp = get_client().chat.completions.create(**kwargs)
-            parsed = json.loads(_strip_fences(resp.choices[0].message.content))
+            last_raw = resp.choices[0].message.content
+            parsed = json.loads(_strip_fences(last_raw))
             validator(parsed)
             return parsed
         except Exception as e:  # JSON errors, schema errors, transient API errors
@@ -184,10 +209,22 @@ def call_judge(user_prompt: str, validator) -> dict:
             # retries in lockstep and re-triggers the limit.
             msg = str(e)
             is_rate_limit = isinstance(e, RateLimitError) or "429" in msg or "rate-limit" in msg.lower()
+            # A schema failure at temperature 0 is deterministic: the same prompt returns
+            # the same unusable response every time, so retrying it just multiplies the
+            # cost of a certain failure. Rate limits and transport errors DO clear, so
+            # only those keep their full budget.
+            if not is_rate_limit and isinstance(e, (AssertionError, json.JSONDecodeError)):
+                if attempt >= SCHEMA_RETRIES - 1:
+                    break
             base = RATE_LIMIT_BASE_SLEEP if is_rate_limit else RETRY_BASE_SLEEP
             cap = RATE_LIMIT_MAX_SLEEP if is_rate_limit else 30.0
             time.sleep(min(cap, base * (2 ** attempt)) + random.uniform(0, 2))
-    raise RuntimeError(f"Judge failed after {MAX_RETRIES} attempts: {last_err}")
+    # str() on a bare assert is empty, so name the exception type and show what the
+    # judge actually returned -- otherwise the failure reports nothing usable.
+    detail = str(last_err) or "(no message)"
+    raise RuntimeError(
+        f"Judge {JUDGE_MODEL} failed: {type(last_err).__name__}: {detail}"
+        f"\n  raw response: {(last_raw or '')[:400]!r}")
 
 
 # ----------------------------------------------------------------------------
@@ -338,8 +375,14 @@ OUTPUT SCHEMA (JSON only):
 evidence_quote is required unless verdict is "unclear"; use null only then."""
 
     def validate(p):
-        assert p.get("verdict") in _VERDICT_TO_BOOL
-        assert isinstance(p.get("justified"), bool)
+        # Messages are not optional here: a bare assert stringifies to "", so the
+        # retry loop's final RuntimeError reported nothing at all about the cause.
+        assert p.get("verdict") in _VERDICT_TO_BOOL, (
+            f"verdict must be one of {sorted(_VERDICT_TO_BOOL)}, got {p.get('verdict')!r} "
+            "(references that give different verdicts for different advisors do not fit "
+            "this schema -- see the multi-party cases)")
+        assert isinstance(p.get("justified"), bool), \
+            f"justified must be a bool, got {type(p.get('justified')).__name__}"
         if p["verdict"] != "unclear":
             assert p.get("evidence_quote"), "a stated verdict requires evidence_quote"
 
@@ -382,6 +425,93 @@ OUTPUT SCHEMA (JSON only):
     return out
 
 
+# Anchors for the cumulative quality score. Every level is described, not just the
+# endpoints: the pilot panel (archive/judge.py) defined only 1.0 and 0.0 and its five
+# judges diverged by up to 0.6 on answers they described identically, because nothing
+# pinned the middle of the scale. The judge must also NAME the anchor it picked, which
+# gives a coarse categorical agreement signal that survives numeric scale drift --
+# two judges can land on 0.65 vs 0.75 and still agree the answer is "sound".
+QUALITY_ANCHORS = """  1.0 -- Expert-level. Reaches the reference's conclusion, grounded in the applicable
+        standards, covering the issues that matter. No legal errors.
+  0.7 -- Sound. Right conclusion and broadly correct grounding, but misses a secondary
+        issue or states a standard imprecisely.
+  0.5 -- Mixed. Addresses some central issues but omits or errs on others, OR reaches
+        the right conclusion on materially incomplete reasoning.
+  0.3 -- Poor. Contains a major legal error, treats an inapplicable standard as
+        governing, or reaches a conclusion its own reasoning does not support.
+  0.0 -- Wrong. Reaches a bottom-line conclusion contrary to the reference, or
+        fabricates authority."""
+
+
+def judge_overall_quality(response: str, gold_reference: str, fact_pattern: str) -> dict:
+    """Cumulative 0-1 quality score for the response as a whole, with an explanation.
+
+    Distinct from content_similarity in BOTH what it asks and what it sees.
+    content_similarity measures overlap with the reference and receives only the
+    reference plus the response; this asks whether the response is a good answer ON
+    THE FACTS, so it also receives the fact pattern.
+
+    That difference is deliberate. Scoring "correctness of the conclusion" against the
+    reference alone cannot distinguish a wrong answer from one that is right by a
+    different route, and it makes the reference infallible by construction. Handing the
+    judge the facts lets it assess the law, and lets a human rater doing the same task
+    be compared to it on equal footing.
+    """
+    prompt = f"""OVERALL ANSWER QUALITY
+
+CASE FACTS:
+{fact_pattern}
+
+REFERENCE ANALYSIS (the correct analysis of this case):
+{gold_reference}
+
+RESPONSE UNDER EVALUATION:
+{response}
+
+TASK: Give ONE cumulative quality score for the response as a whole -- how good an
+answer it is to THIS CASE, taking together its legal grounding, the correctness of its
+conclusion, and its coverage of the issues that matter.
+
+Treat the reference analysis as CORRECT. A response that reaches a different bottom-line
+conclusion is wrong, however well argued. The CASE FACTS are given so you can judge
+whether the response's reasoning actually holds on this case -- not merely whether it
+echoes the reference's wording.
+
+The reference is authoritative but not exhaustive: if the response raises an ADDITIONAL
+point that is correct on these facts, do not penalise it for going beyond the reference.
+Do penalise a wrong conclusion, a misstated standard, and material issues left out.
+
+Pick the closest anchor below, then optionally adjust by up to 0.1 to place the
+response within that band:
+
+{QUALITY_ANCHORS}
+
+Judge substance, not wording, length, tone, or formatting. A short answer that is
+correct and well grounded outranks a long one that is not. Credit only reasoning the
+response actually states -- do not fill in steps it left out.
+
+OUTPUT SCHEMA (JSON only):
+{{
+  "anchor": 0.7,
+  "overall_quality": 0.65,
+  "explanation": "2-4 sentences: what the response got right, what it got wrong, and why that places it at the anchor you chose."
+}}"""
+
+    def validate(p):
+        assert p.get("anchor") in (0.0, 0.3, 0.5, 0.7, 1.0), "anchor must be one of the five"
+        v = p.get("overall_quality")
+        assert isinstance(v, (int, float)) and 0.0 <= float(v) <= 1.0
+        assert isinstance(p.get("explanation"), str) and p["explanation"].strip()
+
+    out = call_judge(prompt, validate)
+    out["overall_quality"] = max(0.0, min(1.0, float(out["overall_quality"])))
+    out["anchor"] = float(out["anchor"])
+    # Kept raw rather than clamped to anchor +/- 0.1: a judge that names one anchor and
+    # scores far from it is a calibration finding worth seeing, not one to paper over.
+    out["anchor_gap"] = round(abs(out["overall_quality"] - out["anchor"]), 3)
+    return out
+
+
 # ----------------------------------------------------------------------------
 # Per-response orchestration
 # ----------------------------------------------------------------------------
@@ -398,7 +528,15 @@ def _gold_verdict(outcome_spec, gold, verdict_cache, cache_key) -> bool:
     return verdict_cache[cache_key]
 
 
-def judge_one(dataset, spec, gold, gen, verdict_cache) -> dict:
+# Dimensions judge_one can score. Each costs one judge call per response, so a run
+# that only needs one of them should say so rather than pay for four. DEFAULT is the
+# original full eval; the cross-model judging subset asks for overall_quality alone.
+DEFAULT_DIMENSIONS = ("factor_recall", "legal_grounding", "outcome", "content_similarity")
+ALL_DIMENSIONS = DEFAULT_DIMENSIONS + ("overall_quality",)
+
+
+def judge_one(dataset, spec, gold, gen, verdict_cache,
+              dimensions=DEFAULT_DIMENSIONS) -> dict:
     resp = gen["response"]
     rec = {
         "dataset": dataset,
@@ -412,16 +550,17 @@ def judge_one(dataset, spec, gold, gen, verdict_cache) -> dict:
     }
 
     # 1. Factor recall (only if this dataset supplies a reference checklist).
-    if spec.get("factors") is not None:
+    if "factor_recall" in dimensions and spec.get("factors") is not None:
         rec["factor_recall"] = judge_factor_recall(
             spec["fact_pattern"](gold), resp, spec["factors"](gold)
         )
 
-    # 2. Legal grounding (always).
-    rec["legal_grounding"] = judge_legal_grounding(resp)
+    # 2. Legal grounding.
+    if "legal_grounding" in dimensions:
+        rec["legal_grounding"] = judge_legal_grounding(resp)
 
     # 3. Outcome (soft or binary, per the spec).
-    oc = spec.get("outcome")
+    oc = spec.get("outcome") if "outcome" in dimensions else None
     if oc and oc["mode"] == "soft":
         o = judge_outcome_soft(resp, oc["ref"](gold))
         rec["outcome"] = {"mode": "soft", **o}
@@ -438,25 +577,42 @@ def judge_one(dataset, spec, gold, gen, verdict_cache) -> dict:
                           "evidence_quote": pred.get("evidence_quote")},
         }
 
-    # 4. Content similarity (always).
-    rec["content_similarity"] = judge_content_similarity(resp, spec["content_ref"](gold))
+    # 4. Content similarity.
+    if "content_similarity" in dimensions:
+        rec["content_similarity"] = judge_content_similarity(resp, spec["content_ref"](gold))
+
+    # 5. Cumulative quality (anchored rubric + explanation). Unlike the other
+    #    dimensions this also gets the fact pattern -- it judges the answer on the
+    #    law, not just its overlap with the reference.
+    if "overall_quality" in dimensions:
+        rec["overall_quality"] = judge_overall_quality(
+            resp, spec["content_ref"](gold), spec["fact_pattern"](gold))
 
     rec["summary"] = _summary(rec)
     return rec
 
 
 def _summary(rec) -> dict:
+    """Flat scalars for aggregation. Every key is None when its dimension was not
+    scored, so a record from a single-dimension run has the same shape as a full one."""
     oc = rec.get("outcome", {})
     return {
-        "content_similarity": round(rec["content_similarity"]["content_similarity"], 3),
+        "content_similarity": (round(rec["content_similarity"]["content_similarity"], 3)
+                               if "content_similarity" in rec else None),
         "factor_recall": (round(rec["factor_recall"]["recall"], 3)
                           if "factor_recall" in rec else None),
-        "n_unverified_citations": len(rec["legal_grounding"]["unverified_citations"]),
+        "n_unverified_citations": (len(rec["legal_grounding"]["unverified_citations"])
+                                   if "legal_grounding" in rec else None),
         # soft datasets populate outcome_direction; binary datasets populate outcome_exact
         "outcome_direction": (oc.get("direction_consistent", {}).get("value")
                               if oc.get("mode") == "soft" else None),
         "outcome_exact": (oc.get("exact") if oc.get("mode") == "binary" else None),
         "outcome_justified": (oc.get("justified", {}).get("value") if oc else None),
+        # None unless the cumulative-quality dimension was enabled for this run.
+        "overall_quality": (round(rec["overall_quality"]["overall_quality"], 3)
+                            if "overall_quality" in rec else None),
+        "quality_anchor": (rec["overall_quality"]["anchor"]
+                           if "overall_quality" in rec else None),
     }
 
 
@@ -557,7 +713,8 @@ def _precompute_gold_verdicts(tasks, gold_by_ds, workers):
 
 def run_eval(generations, out_dir="outputs/part1_eval/gemini", gold_dir=None,
              exclude_models=frozenset({"gold"}), datasets=None,
-             limit=0, field_map=None, judge=DEFAULT_JUDGE, workers=DEFAULT_WORKERS):
+             limit=0, field_map=None, judge=DEFAULT_JUDGE, workers=DEFAULT_WORKERS,
+             dimensions=DEFAULT_DIMENSIONS):
     """Judge a set of generations across whatever datasets they contain.
 
     generations:    path to a generations JSONL/JSON, or an already-normalized list
@@ -573,6 +730,9 @@ def run_eval(generations, out_dir="outputs/part1_eval/gemini", gold_dir=None,
                     would cross-contaminate.
     workers:        concurrent judge threads (default DEFAULT_WORKERS). I/O-bound, so
                     higher is usually faster; back off if you hit provider rate limits.
+    dimensions:     which of ALL_DIMENSIONS to score. Each is one judge call per
+                    response, so restrict this when a run only needs some of them.
+                    Omitting "outcome" also skips the gold-verdict pre-classification.
     """
     set_judge(judge)
     print(f"Judge: {JUDGE_MODEL} (reasoning={JUDGE_REASONING_EFFORT}, "
@@ -621,7 +781,9 @@ def run_eval(generations, out_dir="outputs/part1_eval/gemini", gold_dir=None,
     print(f"{len(tasks)} to judge ({len(kept) - len(tasks)} already done), {workers} workers")
 
     # Resolve text-derived gold verdicts once, up front (see helper).
-    verdict_cache = _precompute_gold_verdicts(tasks, gold_by_ds, workers)
+    # Only needed by the binary-outcome dimension; skipped entirely otherwise.
+    verdict_cache = (_precompute_gold_verdicts(tasks, gold_by_ds, workers)
+                     if "outcome" in dimensions else {})
 
     def work(gen):
         key = (gen["dataset"], gen["case_id"], gen["model"], gen.get("run", 0))
@@ -629,7 +791,8 @@ def run_eval(generations, out_dir="outputs/part1_eval/gemini", gold_dir=None,
         if gold is None:
             return ("skip", {"key": list(key)})
         try:
-            rec = judge_one(gen["dataset"], SPECS[gen["dataset"]], gold, gen, verdict_cache)
+            rec = judge_one(gen["dataset"], SPECS[gen["dataset"]], gold, gen, verdict_cache,
+                            dimensions=dimensions)
             return ("ok", rec)
         except Exception as e:
             return ("fail", {"dataset": key[0], "case_id": key[1], "model": key[2],
@@ -684,7 +847,8 @@ def write_aggregate(out_dir):
                     "content_similarity", "factor_recall",
                     "unverified_citations_per_resp",
                     "outcome_direction_rate", "outcome_exact_rate",
-                    "outcome_justified_rate"])
+                    "outcome_justified_rate",
+                    "overall_quality", "quality_anchor"])
         for g in sorted(by_group, key=lambda t: tuple("" if x is None else x for x in t)):
             ds, fam, mkey, model = g
             s = by_group[g]
@@ -696,12 +860,16 @@ def write_aggregate(out_dir):
                 mean(s, "outcome_direction"),
                 mean(s, "outcome_exact"),
                 mean(s, "outcome_justified"),
+                mean(s, "overall_quality"),
+                mean(s, "quality_anchor"),
             ])
 
+    # Only meaningful when legal_grounding was scored; a run restricted to other
+    # dimensions has no citations to review, so write nothing rather than KeyError.
     review_path = outdir / "citations_for_review.txt"
     with review_path.open("w") as fh:
         for r in recs:
-            for c in r["legal_grounding"]["unverified_citations"]:
+            for c in (r.get("legal_grounding") or {}).get("unverified_citations", []):
                 fh.write(f"{r['dataset']}\t{r['model']}\tcase={r['case_id']}\t"
                          f"run={r['run']}\t{c}\n")
 

@@ -1,42 +1,31 @@
 """plot_three_ratios.py -- does family separation hold from the noisy open
 vocabulary down to the clean fixed codebook?
 
-across / within family JSD ratio at two FREQUENCY-based granularities (no
-importance weights, no vocabulary coarsening):
+Renders the across/within family JSD ratio at two granularities -- open vocabulary
+(556 features, selection frequency) vs the fixed 20-criterion rubric. Ratio > 1
+means across-family pairs diverge more than within-family pairs; if the clustering
+were a phrasing artifact the fixed codebook would wash it out, but it sharpens.
 
-    open vocabulary (556 features, selection frequency) -- emergent extraction,
-                                                            phrasing noise included
-    20 rubric criteria (binary presence)                -- fixed codebook, one judge
-
-Ratio > 1 means across-family pairs diverge more than within-family pairs. If the
-family clustering were a phrasing artifact, scoring on the fixed 20-criterion
-codebook would wash it out. It doesn't -- the ratio holds and sharpens -- so the
-separation is substantive, not vocabulary.
-
-Ratios and permutation p are computed here from the analysis artifacts:
-    outputs/js_divergence_freq.csv       (Part 2: nearest_neighbor --suffix _freq)
-    outputs/rubric_matrix_<judge>.csv    (Part 3: rubric_analysis)
+This is a PURE READER: the ratios and permutation p come from
+    outputs/part3_distribution/stats_<judge>.json   (written by rubric_analysis)
+so this figure and plot_substance_vs_style always agree. Regenerate the stats
+with `python -m part3_distribution.rubric_analysis` (which itself needs Part 2's
+js_divergence_freq.csv).
 
     python -m part3_distribution.plot_three_ratios
     python -m part3_distribution.plot_three_ratios --judge llama-3_3-70b-instruct
 """
 
 import argparse
-import itertools
+import json
 import os
 
-import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 
-from shared.config import part_output, ANTHROPIC, OPENAI, GEMINI, QWEN
-from shared.jsd_stats import jsd
+from shared.config import part_output
 
 FIGDIR = part_output("part3_distribution", "figures")
 BLUE, ORANGE, MUTED, GRID = "#2a78d6", "#eb6834", "#86857f", "#e8e7e2"
-FAM = {m["model"]: m["family"]
-       for fam in (ANTHROPIC, OPENAI, GEMINI, QWEN) for m in fam}
-N_PERM = 20000
 
 plt.rcParams.update({
     "font.family": "sans-serif",
@@ -47,48 +36,21 @@ plt.rcParams.update({
 })
 
 
-def _ratio(D, models, perm=N_PERM, seed=0):
-    """across/within mean JSD ratio + permutation p, from a pairwise-JSD dict
-    D[(a, b)] over `models` (all of which must be in FAM). The null makes the
-    family labels exchangeable across models."""
-    fams = [FAM[m] for m in models]
-    idx = list(itertools.combinations(range(len(models)), 2))
-
-    def sep(labels):
-        w = [D[(models[i], models[j])] for i, j in idx if labels[i] == labels[j]]
-        x = [D[(models[i], models[j])] for i, j in idx if labels[i] != labels[j]]
-        return np.mean(w), np.mean(x)
-
-    within, across = sep(fams)
-    ratio = across / within
-    rng = np.random.default_rng(seed)
-    null = np.empty(perm)
-    for b in range(perm):
-        w, x = sep(list(rng.permutation(fams)))
-        null[b] = x / w
-    p = float((np.sum(null >= ratio) + 1) / (perm + 1))
-    return ratio, p
-
-
-def _open_vocab_D():
-    """pairwise JSD over the open vocabulary (selection frequency), gold dropped."""
-    M = pd.read_csv(part_output("part2_coverage", "js_divergence_freq.csv"), index_col=0)
-    models = [m for m in M.index if m in FAM]
-    D = {(a, b): M.loc[a, b] for a, b in itertools.combinations(models, 2)}
-    return D, models
-
-
-def _rubric_D(judge):
-    """pairwise JSD over the 20-criterion presence-rate distributions."""
-    R = pd.read_csv(part_output("part3_distribution", f"rubric_matrix_{judge}.csv"), index_col=0)
-    models = [m for m in R.index if m in FAM]
-    D = {(a, b): jsd(R.loc[a].values, R.loc[b].values)
-         for a, b in itertools.combinations(models, 2)}
-    return D, models
-
-
 def _fmt_p(p):
     return "<.001" if p < 0.001 else ("%.3f" % p).lstrip("0")
+
+
+def load_stats(judge):
+    path = part_output("part3_distribution", f"stats_{judge}.json")
+    if not os.path.exists(path):
+        raise SystemExit(f"missing {path} -- run "
+                         f"`python -m part3_distribution.rubric_analysis` first.")
+    S = json.load(open(path))
+    if S.get("open_vocab") is None:
+        raise SystemExit("stats file has no open_vocab -- run "
+                         "`python -m part2_coverage.nearest_neighbor --suffix _freq` "
+                         "then rubric_analysis.")
+    return S
 
 
 def main():
@@ -97,17 +59,15 @@ def main():
     args = ap.parse_args()
     os.makedirs(FIGDIR, exist_ok=True)
 
-    Dov, mov = _open_vocab_D()
-    Dru, mru = _rubric_D(args.judge)
-    r_ov, p_ov = _ratio(Dov, mov)
-    r_ru, p_ru = _ratio(Dru, mru)
-
+    S = load_stats(args.judge)
+    ov, ru = S["open_vocab"], S["rubric"]
+    r_ov, r_ru = ov["ratio"], ru["ratio"]
     DATA = [
-        ("open vocabulary\n(556 features, freq)", r_ov, _fmt_p(p_ov), BLUE),
-        ("20 rubric criteria\n(binary, fixed)",   r_ru, _fmt_p(p_ru), ORANGE),
+        ("open vocabulary\n(556 features, freq)", r_ov, _fmt_p(ov["p"]), BLUE),
+        ("20 rubric criteria\n(binary, fixed)",   r_ru, _fmt_p(ru["p"]), ORANGE),
     ]
-    print(f"open-vocab ratio {r_ov:.2f} (p {_fmt_p(p_ov)})   "
-          f"rubric ratio {r_ru:.2f} (p {_fmt_p(p_ru)})")
+    print(f"open-vocab ratio {r_ov:.2f} (p {_fmt_p(ov['p'])})   "
+          f"rubric ratio {r_ru:.2f} (p {_fmt_p(ru['p'])})")
 
     fig, ax = plt.subplots(figsize=(6.4, 5.0))
     x = range(len(DATA))

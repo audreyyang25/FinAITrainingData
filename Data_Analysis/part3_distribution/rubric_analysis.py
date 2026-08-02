@@ -17,6 +17,7 @@ flags a fuzzy definition.
 
 import argparse
 import itertools
+import json
 import os
 
 import numpy as np
@@ -54,6 +55,30 @@ def presence_matrix(recs):
     return rate, ncase
 
 
+def _family_ratio(D, models, n_perm=2000, seed=0):
+    """within/across-family mean JSD, their ratio, and a permutation p, from a
+    pairwise-JSD dict D[(a, b)] over `models` (family via TIER; the null makes
+    family labels exchangeable across models)."""
+    fams = [TIER[m][0] for m in models]
+    pairs = list(itertools.combinations(range(len(models)), 2))
+
+    def wx(labels):
+        w = [D[(models[i], models[j])] for i, j in pairs if labels[i] == labels[j]]
+        x = [D[(models[i], models[j])] for i, j in pairs if labels[i] != labels[j]]
+        return float(np.mean(w)), float(np.mean(x))
+
+    within, across = wx(fams)
+    ratio = across / within
+    rng = np.random.default_rng(seed)
+    null = np.empty(n_perm)
+    for k in range(n_perm):
+        w, x = wx(list(rng.permutation(fams)))
+        null[k] = x / w
+    return {"within": within, "across": across, "ratio": ratio,
+            "p": float((null >= ratio).mean()), "null_mean": float(null.mean()),
+            "n_perm": n_perm}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--judge", default="llama-3_3-70b-instruct")
@@ -86,32 +111,52 @@ def main():
 
     M = rate.div(rate.sum(axis=1), axis=0)     # normalize each model to a distribution
     purity, within, across, nn = summarize(M, models)
-    ratio = across / within
 
-    rng = np.random.default_rng(0)
-    D = {(a, b): jsd(M.loc[a].values, M.loc[b].values)
-         for a, b in itertools.combinations(models, 2)}
-
-    def sep(labels):
-        lm = dict(zip(models, labels))
-        w = [d for (a, b), d in D.items() if lm[a] == lm[b]]
-        x = [d for (a, b), d in D.items() if lm[a] != lm[b]]
-        return np.mean(x) / np.mean(w)
-
-    null = np.array([sep(list(rng.permutation(fams))) for _ in range(2000)])
-    p = float((null >= ratio).mean())
+    # --- rubric granularity: within/across-family JSD + permutation p ---
+    Dru = {(a, b): jsd(M.loc[a].values, M.loc[b].values)
+           for a, b in itertools.combinations(models, 2)}
+    ru = _family_ratio(Dru, models)
+    ru["nn_family_purity"] = purity
 
     print(f"\nRUBRIC clustering (20 criteria, binary presence):")
     print(f"  nn family purity : {purity:.0%}")
-    print(f"  within JSD       : {within:.4f}")
-    print(f"  across JSD       : {across:.4f}")
-    print(f"  ratio            : {ratio:.2f}")
-    print(f"  permutation p    : {p:.3f}   (null mean {null.mean():.2f})")
+    print(f"  within JSD       : {ru['within']:.4f}")
+    print(f"  across JSD       : {ru['across']:.4f}")
+    print(f"  ratio            : {ru['ratio']:.2f}")
+    print(f"  permutation p    : {ru['p']:.3f}   (null mean {ru['null_mean']:.2f})")
     print("  ratio>1 & p<.05 -> families differ on substantive criteria")
 
-    pd.DataFrame(D.items(), columns=["pair", "jsd"]).to_csv(
+    pd.DataFrame(Dru.items(), columns=["pair", "jsd"]).to_csv(
         part_output("part3_distribution", f"rubric_jsd_pairs_{args.judge}.csv"), index=False)
     M.to_csv(part_output("part3_distribution", f"rubric_matrix_{args.judge}.csv"))
+
+    # --- open-vocab granularity: read Part 2's frequency JSD matrix (gold dropped) ---
+    ov = None
+    ov_path = part_output("part2_coverage", "js_divergence_freq.csv")
+    if os.path.exists(ov_path):
+        JS = pd.read_csv(ov_path, index_col=0)
+        ov_models = [m for m in JS.index if m in TIER]
+        Dov = {(a, b): float(JS.loc[a, b])
+               for a, b in itertools.combinations(ov_models, 2)}
+        ov = _family_ratio(Dov, ov_models)
+        print(f"\nOPEN-VOCAB (556 features, freq): ratio {ov['ratio']:.2f}  p {ov['p']:.3f}")
+    else:
+        print(f"\n[open-vocab skipped] {ov_path} missing -- run "
+              f"part2_coverage.nearest_neighbor --suffix _freq first.")
+
+    # One stats file, READ by both ratio plots so they cannot drift apart.
+    stats = {
+        "judge": args.judge,
+        "n_models": len(models),
+        "n_answers": int(sum(ncase[m] for m in models)),
+        "open_vocab": ov,
+        "rubric": ru,
+        "criterion_base_rate": {int(i): float(pooled[i]) for i in IDS},
+    }
+    stats_path = part_output("part3_distribution", f"stats_{args.judge}.json")
+    with open(stats_path, "w") as fh:
+        json.dump(stats, fh, indent=2)
+    print(f"  wrote {stats_path}")
 
 
 if __name__ == "__main__":

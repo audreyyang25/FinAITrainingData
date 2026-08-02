@@ -5,7 +5,13 @@ the applicable legal and regulatory standards, and reach a clear conclusion.
 
 Write your analysis directly as prose. Do NOT enumerate "reasoning features", \
 do NOT return JSON, and do NOT add meta-commentary about your process -- just \
-the analysis itself."""
+the analysis itself.
+
+Your response must be SELF-CONTAINED: write the full analysis in the response \
+itself. Do NOT refer to work you did while thinking, and do NOT summarise or \
+point back to it with phrases like "see the analysis above" or "as described \
+previously" -- the reader sees only your response, so anything left there is \
+lost."""
 
 
 CASE_CANONICALIZATION_SYSTEM = """

@@ -114,7 +114,8 @@ python -m part2_coverage.nearest_neighbor --suffix _freq  # geometry: MDS embedd
 
 `nearest_neighbor` uses **selection frequency** (not importance): who reasons like
 whom, and does the family geometry replicate. Writes `selection_matrix_*.csv`,
-`js_divergence_*.csv`, and figures under `outputs/part2_coverage/`.
+`js_divergence_*.csv`, figures, and **`stats_*.json`** (replication r, family-vs-verbosity
+and NN-recovery permutation p, gold's family-win fractions) under `outputs/part2_coverage/`.
 
 ---
 
@@ -136,6 +137,15 @@ python -m part3_distribution.plot_substance_vs_style # within-vs-across gap, bot
 
 The headline: family clustering survives (and sharpens) on the clean fixed
 codebook — it's substance, not vocabulary.
+
+**Recorded statistics.** The permutation p-values are no longer print-only.
+`rubric_analysis` computes both granularities (rubric, plus open-vocab read from Part 2's
+`js_divergence_freq.csv`) and writes one `outputs/part3_distribution/stats_<judge>.json`
+(within/across JSD, ratio, permutation p per granularity, NN purity, per-criterion base rates).
+**Both ratio plots (`plot_three_ratios`, `plot_substance_vs_style`) are pure readers of that
+file**, so they can't drift apart. Part 2's `stats_*.json` records its four geometry tests.
+Cite the paper from these files, not console scrollback. Run order: `nearest_neighbor` →
+`rubric_analysis` → the plots.
 
 ---
 
