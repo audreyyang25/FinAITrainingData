@@ -1,0 +1,1757 @@
+FOR PUBLICATION 
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+In re: FACEBOOK, INC. 
+SECURITIES LITIGATION, 
+______________________________ 
+
+AMALGAMATED BANK, Lead 
+Plaintiff; PUBLIC EMPLOYEES’ 
+RETIREMENT SYSTEM OF 
+MISSISSIPPI; JAMES KACOURIS, 
+individually and on behalf of all others 
+similarly situated, 
+
+ Plaintiffs-Appellants, 
+
+ v. 
+
+FACEBOOK, INC.; MARK 
+ZUCKERBERG; SHERYL 
+SANDBERG; DAVID M. WEHNER, 
+
+ Defendants-Appellees. 
+
+ No. 22-15077 
+
+D.C. No. 5:18-cv-
+01725-EJD 
+
+OPINION 
+
+Appeal from the United States District Court 
+for the Northern District of California 
+Edward J. Davila, District Judge, Presiding 
+
+Argued and Submitted February 8, 2023 
+San Francisco, California 
+2 AMALGAMATED BANK V. FACEBOOK, INC. 
+Filed October 18, 2023 
+
+Before: M. Margaret McKeown, Jay S. Bybee, and Patrick 
+J. Bumatay, Circuit Judges. 
+
+Opinion by Judge McKeown; 
+Partial Concurrence and Partial Dissent by Judge Bumatay 
+
+SUMMARY* 
+
+Securities Exchange Act of 1934 
+
+The panel affirmed in part and reversed in part the 
+district court’s judgment dismissing under Fed. R. Civ. P. 
+12(b)(6) for failure to state a claim a Third Amended 
+Complaint in which purchasers of Facebook common stock 
+between February 3, 2017, and July 25, 2018, (“the 
+shareholders”) allege that Facebook and its executives 
+violated Sections 10(b), 20(a), and 20A of the Securities 
+Exchange Act of 1934 and Rule 10b-5 of the Exchange Act’s 
+implementing regulations by making materially misleading 
+statements and omissions regarding (1) the risk of improper 
+access to Facebook users’ data, (2) Facebook’s internal 
+investigation into British political consulting firm 
+Cambridge Analytica, and (3) the control Facebook users 
+have over their data. 
+In March 2018, news broke that Cambridge Analytica 
+improperly harvested personal data from millions of 
+
+* This summary constitutes no part of the opinion of the court. It has 
+been prepared by court staff for the convenience of the reader. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 3 
+unwitting Facebook users and retained copies of the data 
+beyond Facebook’s control. In the months that followed, the 
+public learned that Facebook had known of Cambridge 
+Analytica’s misconduct for over two years and failed to 
+inform affected users, and that Facebook surreptitiously 
+allowed certain whitelisted third-party apps to access users’ 
+Facebook friend data without the users’ friends’ 
+consent. Facebook and its exec utives made various 
+statements before and after the news announcements 
+assuring users that they fully controlled their data on 
+Facebook and that no third party would access the data 
+without their consent. In the wake of the Cambridge 
+Analytica and whitelisting scandals, Facebook’s stock price 
+suffered two significant drops totaling more than $200 
+billion in market capitalization. 
+The panel considered whether, under the heightened 
+standard of the Private Securities Litigation Reform Act, the 
+shareholders (1 ) adequately pleaded falsity as to the 
+challenged risk statements, (2) adequately pleaded scienter 
+as to the Cambridge Analytica investigation statements, and 
+(3) adequately pleaded loss causation as to the user control 
+statements. 
+First, the panel held that the shareholders adequately 
+pleaded falsity as to the statements warning that misuse of 
+Facebook users’ data could harm Facebook’s business, 
+reputation, and competitive position and the district court 
+erred by dismissing the complaint as to those 
+statements. The panel wrote that, as in In re Alphabet Sec. 
+Litig., 1 F.4th 687 (9th Cir. 2021), the shareholders here 
+adequately pleaded falsity as to statements in a 2016 Form 
+10-K filing with the SEC in which Facebook represented the 
+risk of third parties improperly accessing and using 
+Facebook users’ data as purely hypothetical. The panel held 
+4 AMALGAMATED BANK V. FACEBOOK, INC. 
+that the district court correctly dismissed the challenged 
+statements regarding the risk of security breaches and the 
+risk of the public not perceiving Facebook’s products to be 
+“useful, reliable, and trustworthy”; those statem ents do not 
+relate to the misuse of Facebook user data by Cambridge 
+Analytica, and the shareholders do not allege that those risks 
+had materialized at the time of the 2016 10-K such that they 
+were false or materially misleading. The panel left to the 
+district court on remand whether the shareholders can satisfy 
+the other elements of the claims with respect to risk 
+statements. 
+Second, the panel agreed with the district court that the 
+shareholders failed to plead scienter as to Cambridge 
+Analytica investigation statements, including ones made by 
+a Facebook spokesperson to journalists in March 2017 that 
+Facebook’s internal investigation into Cambridge Analytica 
+had “not uncovered anything that suggest[ed] wrongdoing” 
+related to Cambridge Analytica’s work on th e Brexit and 
+Trump campaigns. The panel wrote that the shareholders 
+pleaded only that the spokesperson should have known that 
+Facebook’s investigation had uncovered misconduct, not 
+that the spokesperson actually knew of any misconduct or 
+even that there w as a strong inference of an “intent to 
+deceive, manipulate, or defraud.” 
+Third, as to Facebook’s user control statements: 
+The panel affirmed the dismissal as to statements related 
+to Facebook’s goals of transparency and control —
+statements that were not false when they were made. The 
+panel also affirmed the dismissal of a standalone claim 
+relating to the June 2018 whitelisting revelation, given that 
+the revelation was unaccompanied by a stock price drop. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 5 
+The panel held that the shareholders adequately pleaded 
+loss causation as to Facebook’s statements —made before 
+the March 16, 2018, stock price drop—assuring users that 
+they control their content and information on the 
+platform. The panel wrote that the shareholders adequately 
+pleaded that the March 2018 revelation about Cambridge 
+Analytica was the first time Facebook investors were alerted 
+that Facebook users did not have complete control over their 
+own data, and also adequately pleaded that Facebook did not 
+make public statements about the Cambridge Analytica issue 
+between 2015 and 2018. 
+The panel held that the shareholders adequately pleaded 
+that the Cambridge Analytica and whitelisting revelations, 
+not any other factor, caused the July 2018 stock drop. The 
+panel therefore reversed the district court’s dismissal of 
+claims as to Facebook’s statements regarding data control 
+that predated the June 3, 2018, whitelisting revelation. 
+The panel remanded for further proceedings. 
+Judge Bumatay concurred in part and dissented in 
+part. He joined the majority in holding that the shareholders 
+failed to sufficiently allege a falsity in Facebook’s 
+Cambridge Analytica investigation statements. He also 
+joined the majority in holding that the shareholders did 
+allege a falsity and loss from the user control statements —
+but only as those statements relate to Facebook’s practice of 
+“whitelisting.” He disagreed with the majority on two 
+fundamental points. In his view, the shareholders failed to 
+sufficiently allege that Facebook’s risk factor statements in 
+its public filings were fraudulent, and didn’t show that 
+Facebook’s user control statements were false based on the 
+Cambridge Analytica revelations. 
+
+6 AMALGAMATED BANK V. FACEBOOK, INC. 
+COUNSEL 
+Thomas C. Goldstein (argued), Kevin K. Russell, and Erica 
+O. Evans, Goldstein Russell & Woofter LLC, Bethesda, 
+Maryland; John C. Browne and Jeremy P. Robinson, 
+Bernstein Litowitz Berger & Grossman LLP, New York, 
+New York; Joseph D. Daley, Danielle S. Myers, and Darren 
+J. Robbins, Robbins Geller Rudman & Dowd LLP, San 
+Diego, California; Jason C. Davis, Robbins Geller Rudman 
+& Dowd LLP, San Francisco, California; Kathleen Foley, 
+Munger Tolles & Olson LLP, Washington, D.C.; Jeremy A. 
+Lieberman, Pomerantz LLP, New York, New York; Jennifer 
+Pafiti, Pomerantz LLP, Los Angeles, California; for 
+Plaintiff-Appellant. 
+Joshua S. Lipshutz (argued), Katherine M. Meeks, and 
+Trenton J. Van Oss, Gibson Dunn & Crutcher LLP, 
+Washington, D.C.; Brian M. Lutz and Michael J. Kahn, 
+Gibson Dunn & Crutcher LLP, San Francisco, California; 
+Orin S. Snyder, Gibson Dunn & Crutcher LLP, New York, 
+New York; Paul J. Collins, Gibson Dunn & Crutcher LLP, 
+Palo Alto, California; for Defendant-Appellee. 
+
+ AMALGAMATED BANK V. FACEBOOK, INC. 7 
+OPINION 
+
+McKEOWN, Circuit Judge: 
+In March 2018, news broke that Cambridge Analytica, a 
+British political consulting firm , improperly harvested 
+personal data from millions of unwitting Facebook users and 
+retained copies of the data beyond Facebook’s control . In 
+the months that followed, the public learned that Facebook 
+had known of Cambridge Analytica’s misconduct for over 
+two years and failed to inform affected users, and that 
+Facebook surreptitiously allowed certain whitelisted third -
+party apps to access users’ Facebook friend data without the 
+users’ friends’ consent. Facebook and its executives made 
+various statements before and after the news announcements 
+assuring users that they fully controlled their data on 
+Facebook and that no third party would access the data 
+without their consent. In the wake of the Cambridge 
+Analytica and whitelisting scandals, Facebook’s stock price 
+suffered two significant drops totaling more than $200 
+billion in market capitalization.
+Appellants, collectively “the shareholders,” purchased 
+shares of Facebook common stock between February 3, 
+2017, and July 25, 2018. Soon after the first stock drop in 
+March 2018, t hey filed a securities fraud action against 
+Facebook and three of its executives: Mark Zuckerberg, 
+Facebook’s chief executive officer, Sheryl Sandberg, 
+Facebook’s then-chief operating officer, and David Wehner, 
+
+1 In late 2021, the parent company Facebook changed its name to Meta 
+Platforms, Inc. Because the events in this case occurred before 2021, we 
+refer to Facebook and its former parent company, Facebook, Inc., simply 
+as Facebook. 
+8 AMALGAMATED BANK V. FACEBOOK, INC. 
+Facebook’s chief financial officer. The shar eholders allege 
+that Facebook and the executives violated Sections 10(b), 
+20(a), and 20A of the Securities Exchange Act of 1934 and 
+Rule 10b-5 of the Exchange Act’s implementing regulations 
+by making materially misleading statements and omissions 
+regarding the risk of improper access to Facebook users’ 
+data, Facebook ’s internal investigation into Cambridge 
+Analytica, and the control Facebook users have over their 
+data. Although the shareholders made multiple claims in 
+their Third Amended Complaint, only these three categories 
+of claims are the subject of this appeal. 
+This case calls on us to consider whether , under the 
+heightened standard of the Private Securities Litigation 
+Reform Act (“PSLRA”), the shareholders adequately 
+pleaded falsity as to the chall enged risk statements, 
+adequately pleaded scienter as to the Cambridge Analytica 
+investigation statements, and adequately pleaded loss 
+causation as to the user control statements. We affirm in part 
+and reverse in part.
+I. BACKGROUND 
+The Third Amended Complaint clocked in at 285 pages. 
+Although impressive in terms of magnitude, we nonetheless 
+examine the allegations individually and holistically, not by 
+weight or volume.3 
+
+2 For ease of reference, we use the categories laid out in the Third 
+Amended Complaint. On appeal, the shareholders challenge the district 
+court’s dismissal of the statements in ¶¶ 501–05, 507–14, 519, 525, 530, 
+533, and 537–38 of the Third Amended Complaint. 
+3 These facts are based on the allegations in the Third Amended 
+Complaint and may not reflect Facebook’s current practices. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 9 
+Facebook, with more than 1.3 billion daily users at the 
+inception of this case , is the world’s largest social media 
+platform. On Facebook, users share personal content, “like” 
+and comment on others’ shared content, play games 
+designed by third-party app developers, and more. Facebook 
+collects data from its users, including the types of content 
+they access, the devices they use to access Facebook, their 
+payment information, and their location. The collected data 
+is used to individualize the content a user sees on Facebook. 
+For example, Facebook may suggest local events to a user 
+and tailor the advertisements a user sees. Additionally, a 
+third-party app or website integrated onto the Facebook 
+platform may access user information when the user engages 
+with its services on the platform. For example, a Facebook 
+user may play an online game added to the Facebook 
+platform by a third- party developer. According to 
+Facebook’s terms, the game developer could then access the 
+user’s age range, location , language preference, list of 
+friends, and other information the user shared with them. 
+This is not the first time Facebook has found itself in 
+legal hot water over its data sharing practices. In 2012, 
+Facebook settled charges with the Federal Trade 
+Commission (“FTC”) that it deceived users by representing 
+that their personal data was private but allowing the data to 
+be shared, including with third- party apps. Facebook 
+entered a twenty -year consent decree as part of the 
+settlement, agreeing not to misrepresent the extent to which 
+Facebook users could control the privacy of their own data. 
+In 2019, the FTC imposed a “record -breaking $5 billion 
+penalty” on Facebook for violating the consent decree by 
+“deceiving users about their ability to control the privacy of 
+10 AMALGAMATED BANK V. FACEBOOK, INC. 
+their personal information.”4 Facebook users have also sued 
+the company alleging that Facebook is dishonest about its 
+privacy practices. See, e.g., In re Facebook, Inc. Internet 
+Tracking Litig., 956 F.3d 589 (9th Cir. 2020); Campbell v. 
+Facebook, Inc., 951 F.3d 1106 (9th Cir. 2020). 
+In 2014, Zuckerberg announced publicly that Facebook 
+would no longer allow third parties to access and collect data 
+from users’ friends, noting that Facebook users were 
+surprised to learn that their Facebook friends could share 
+their data with a third party without their consent. He 
+explained that Facebook users had grown skeptical that their 
+data was safe on the platform, and that Facebook was doing 
+everything it could “to put people first and give people the 
+tools they need” to trust that Facebook would keep their data 
+safe. That same year, however, Zuckerberg and Sandberg 
+created a “reciprocity” system in which certain third-party 
+apps that provided “reciprocal value to Facebook” could be 
+“whitelisted,” meaning that those apps were exempt from the 
+ban on third- party data access and collection. The 
+whitelisting practice continued until mid-2018. 
+In September 2015, Facebook employees noticed that 
+Cambridge Analytica was “receiving vast amounts of 
+Facebook user data.” Facebook’s political team described 
+Cambridge Analytica as a “sketchy” firm that had 
+“penetrated” Facebook’s market and requested an 
+investigation into what Cambridge Analytica was doing with 
+the data. The platform policies team concluded that it was 
+unlikely Cambridge Analytica could use Facebook users’ 
+
+4 Press Release, Fed. Trade Comm’n, FTC Imposes $5 Billion Penalty 
+and Sweeping New Privacy Restrictions on Facebook (July 24, 2019), 
+https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-
+imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 11 
+data for political purposes without violating Facebook’s 
+policies. In November 2015, Facebook paid Aleksandr 
+Kogan, a Cambridge University academic who helped 
+Cambridge Analytica obtain user data from Fac ebook, to 
+give an internal presentation on the lessons he learned from 
+collecting and working with the Facebook data. 
+Trouble for Facebook began in December 2015, when 
+The Guardian reported that Cambridge Analytica had 
+created a database of information about American voters by 
+harvesting their Facebook data. 5 The harvested data 
+originated from a personality quiz integrated onto Facebook 
+by Kogan. When Facebook users completed the quiz, Kogan 
+gained access to their data as well as data from their 
+Facebook friends who had not taken the quiz, including each 
+user’s name, gender, location, birthdate, “ likes,” and list of 
+Facebook friends. Facebook’s app review team initially 
+rejected the personality quiz because it collect ed more user 
+data than necessary to operate, but the quiz nonetheless 
+became available to Facebook users. Although only about 
+250,000 Facebook users took the personality quiz, Kogan 
+harvested data from over thirty million users, most of whom 
+did not consent to the data collection. 
+Kogan used the Facebook “likes” collected from the quiz 
+to train an algorithm that assigned personality scores to 
+Facebook users, including users who had not taken the quiz. 
+The information was saved in a database that classified 
+American voters by scoring them on five personality trai ts: 
+“openness to experience, conscientiousness, extraversion, 
+
+5 See Harry Davies, Ted Cruz Using Firm that Harvested Data on 
+Millions of Unwitting Facebook Users , Guardian (Dec. 11, 2015), 
+https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-
+president-campaign-facebook-user-data. 
+12 AMALGAMATED BANK V. FACEBOOK, INC. 
+agreeableness, and neuroticism (the ‘OCEAN scale’).” 
+According to The Guardian, Cambridge Analytica used the 
+harvested OCEAN scale data to help Ted Cruz’s presidential 
+campaign “gain an edge ov er Donald Trump” in the 
+Republican Party primaries. 
+In response to t he Guardian article, a Facebook 
+spokesperson stated that the company was “carefully 
+investigating” the situation, that misusing user data was a 
+violation of Facebook’s policies, and that the company 
+would “take swift action” against third parties found to have 
+misused Facebook users’ data. In a private email exchange 
+in December 2015, a Facebook executive told a Cambridge 
+Analytica executive that Cambridge Analytica violated 
+Facebook’s policies and terms by using data that Kogan 
+“improperly derived” from Facebook. Cambridge Analytica 
+agreed in January 2016 to delete the personality score data 
+harvested from Facebook. 
+Notwithstanding Cambridge Analytica’s assurance that 
+it would delete the data, Facebook continued to investigat e 
+the data usage . In June 2016, Facebook negotiated a 
+confidential settlement with Koga n, who certified that he 
+had deleted the data in his possession derived from Facebook 
+“likes.” Kogan also provided Facebook with the identity of 
+every entity with which he had shared raw Facebook use r 
+data. In doing so, Kogan revealed that he had shared 
+derivative and raw data from Facebook users —not just the 
+personality score data— with Cambridge Analytica’s chief 
+executive, Alexander Nix, and that the data was still being 
+used in violation of Facebook’s stated policies. Facebook 
+asked Nix to certify that all data harvested from the 
+Facebook personality quiz was deleted, but Nix refused to 
+do so. In October 2016, The Washington Post reported that 
+Cambridge Analytica continued to use data based on the 
+ AMALGAMATED BANK V. FACEBOOK, INC. 13 
+OCEAN scale to benefit the Trump presidential campaign. 6 
+The article did not say explicitly that the social- media data 
+came from Facebook, but the use of the OCEAN scale 
+suggested that Cambridge Analytica may have been using 
+the data originally harvested from Kogan’s personality quiz 
+on Facebook. 
+1. Facebook’s Public Filings 
+Despite the ongoing developments regarding Cambridge 
+Analytica, Facebook represented in its 2016 Form 10- K, 
+filed with the Securities Exchange Commission ( “SEC”) in 
+February 2017, that third -party misuse of Facebook users’ 
+personal data was a purely hypothetical risk that could harm 
+the company if it materialized. For example, the 10-K stated 
+that “[a]ny failure to prevent or mitigate . . . improper access 
+to or disclosure of our data or user data . . . could result in 
+the loss or misuse of such data, which could harm 
+[Facebook’s] business and reputation and diminish our 
+competitive position.” The statements about the risk s of 
+improper access or disclosure appeared in the “Risk Factors” 
+section of the 10- K, in a subsection that also discussed the 
+risks of security breaches such as cyberattacks, hacking, and 
+phishing that could result in Facebook user data falling into 
+the wrong hands. 
+2. Continued Press about Cambridge Analytica 
+In March 2017, The Guardian published another article 
+about Cambridge Analytica’s political activity. The article 
+
+6 Michael Kranish, Trump’s Plan for a Comeback Includes Building a 
+‘Psychographic’ Profile of Every Voter , Wash. Post (Oct. 27, 2016) , 
+https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-
+includes-building-a-psychographic-profile-of-every-
+voter/2016/10/27/9064a706-9611-11e6-9b7c-
+57290af48a49_story.html. 
+14 AMALGAMATED BANK V. FACEBOOK, INC. 
+discussed how Cambridge Analytica used data derived from 
+Facebook “likes” to train algorithms and quoted a 
+Cambridge Analytica spokesperson’s denial that the firm 
+had access to Facebook “likes.”7 The article also quoted a 
+Facebook spokesperson’s statement that Facebook’s 
+investigation into Cambridge Analytica had not yet 
+uncovered any misconduct related to the firm’s work on 
+political matters, specifically the Trump presidential 
+campaign or the Brexit Leave campaign. A Facebook 
+spokesperson made similar comments to journalists later that 
+month.
+8 Throughout 2017 and early 2018, Facebook and its 
+executives assured Facebook users that “no one is going to 
+get your data that shouldn’t have it,” that Facebook and its 
+apps had “long been focused on giving people transparency 
+and control,” and more. 
+On March 12, 2018, T he New York Times and The 
+Guardian contacted Facebook for comment on joint articles 
+the outlets planned to publish about Cambridge Analytica’s 
+misuse of Facebook users’ data. The articles would report 
+that Cambridge Analytica had not actually deleted the 
+improperly collected Facebook user data from 2015. Before 
+
+7 Jamie Doward, Carole Cadwalladr & Alice Gibbs, Watchdog to Launch 
+Inquiry into Misuse of Data in Politics , Guardian (Mar. 4, 2017), 
+https://www.theguardian.com/technology/2017/mar/04/cambridge-
+analytics-data-brexit-trump. 
+8 Tim Sculthorpe, Privacy Watchdog Launces a Probe into How the 
+Leave Campaigns Used Voters’ Personal Data to Win Brexit, Daily Mail 
+(Mar. 5, 2017), https://www.dailymail.co.uk/news/article -
+4283102/amp/Privacy-watchdog-launches-probe-Leave-use-data.html; 
+Mattathias Schwartz, Facebook Failed to Protect 30 Million Users From 
+Having Their Data Harvested By Trump Campaign Affiliate , Intercept 
+(Mar. 30, 2017), https://theintercept.com/2017/03/30/facebook-failed-
+to-protect-30-million-users-from-having-their-data-harvested-by-
+trump-campaign-affiliate/. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 15 
+the articles went to print, Facebook announced on its 
+investor relations website that it was suspending Cambridge 
+Analytica for violating its policies by sharing Facebook 
+users’ data without the users’ consent and for failing to 
+delete the improperly collected data . Facebook explained 
+that, in 2015, it had demanded certification that Cambridge 
+Analytica and Kogan had destroyed the harvested user data, 
+but that Facebook had just learned that not all the data was 
+deleted. Soon after , The New York Times reported that 
+Cambridge Analytica’s use of Facebook users’ data was 
+“one of the largest data leaks in the social network’s 
+history.”
+9 The article took the position that most people 
+whose data was harvested had not consented to the 
+collection, that Cambridge Analytica had used the data to 
+benefit the Trump presidential campaign in 2016, and that 
+“copies of the data still remain [ed] beyond Facebook’s 
+control.”
+Other media outlets and government officials sprang into 
+action. Political figures in the United States and Europe 
+called for investigation into the Cambridge Analytica 
+privacy scandal. Reporters wrote that Facebook knew about 
+the data breach for years and failed to disclose it to the 
+millions of affected users. In particular, CNN observed that 
+“[n]o one ha [d] provided an adequate explanation for why 
+Facebook did not disclose Kogan’s violation to the more 
+than 50 million users who were affected when the com pany 
+
+9 Matthew Rosenberg, Nicholas Confessore & Carole Cadwalladr , How 
+Trump Consultants Exploited the Facebook Data of Millions , N.Y. 
+Times (Mar. 17, 2018), 
+https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-
+trump-campaign.html. 
+10 Id. 
+16 AMALGAMATED BANK V. FACEBOOK, INC. 
+first learned about it in 2015.”11 That same day, an article in 
+Seeking Alpha warned that “[i]f Cambridge Analytica was 
+able to acquire information on tens of millions of Facebook 
+users so quickly and easily, and then keep the information 
+for years without Facebook suspecting otherwise, then that 
+shows a serious flaw in Facebook’s ability to keep exclusive 
+control over its information.”
+3. Facebook’s Stock Price Drop and Low Revenue and 
+Profit Growth 
+The price of Facebook’s stock declined significantly in 
+the week that followed the Cambridge Analytica revelations. 
+On March 19, 2018—the first trading day after the news 
+broke—Facebook shares fell almost 7%. The next day, 
+Facebook shares fell an additional 2.5%. After one week, 
+Facebook’s stock price had dropped nearly 18% from the 
+price before the news about Cambridge Analytica was 
+published, reflecting a loss of more than $100 billion in 
+market capitalization. At this juncture, the shareholders filed 
+their first securities fraud complaint against Facebook. 
+In the aftermath, Facebook reiterated its statements that 
+users have privacy and control over their personal data on 
+the platform. At an April 2018 press conference, Zuckerberg 
+stated that “you have control over everything you put on the 
+service.” Later that month, Zuckerberg issued a public post 
+
+11 Dylan Byers, Facebook Is Facing an Existential Crisis , CNN (Mar. 
+19, 2018), 
+https://money.cnn.com/2018/03/19/technology/business/facebook-data-
+privacy-crisis/index.html. 
+12 Erich Reimer, The Cambridge Analytica Mishap Is Serious for 
+Facebook, Seeking Alpha (Mar. 19, 2018), 
+https://seekingalpha.com/article/4157578-cambridge-analytica-mishap-
+is-serious-for-facebook. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 17 
+on Facebook, saying: “You’ve been hearing a lot about 
+Facebook lately and how your data is being used. While this 
+information can sometimes be confusing and technical, it’s 
+important to know that you are in control of your Facebook, 
+what you see, what you share, and what people see about 
+you.” Zuckerberg also testified before the U nited States 
+Senate that users have control over both what they share on 
+Facebook and their personal data connected to 
+advertisements on the platform. 
+On June 3, 2018, more news emerged about Facebook’s 
+privacy practices. The New York Times reported that 
+Facebook had continued sharing the data of users and their 
+Facebook friends with dozens of whitelisted third parties like 
+Apple, Microsoft, and Samsung without the users’ express 
+consent.
+13 The article reported that Facebook’s whitelisting 
+policy violated the company’s FTC consent decree and 
+contradicted Zuckerberg’s 2014 announcement that 
+Facebook’s third-party data sharing practice had been 
+shuttered.
+14 An FTC investigator testified before the 
+Parliament of the United Kingdom that, for nearly a decade, 
+the whitelisted apps were allowed to completely override 
+Facebook users’ privacy settings. Multiple n ews outlets 
+subsequently reported that Facebook shared its users’ data 
+with foreign entities “believed to be national security risks” 
+without the users’ knowledge. 
+Finally, on July 25, 2018, Facebook announced 
+unexpectedly low revenue growth, profitability, and user 
+growth in its Q2 earnings call. Facebook stated that the 
+
+13 Gabriel J.X. Dance, Nicholas Confessore & Michael Laforgia, 
+Facebook Gave Device Makers Deep Access to Data on Users and 
+Friends, N.Y. Times (June 3, 2018), https://nyti.ms/3aFIMAI. 
+14 Id. 
+18 AMALGAMATED BANK V. FACEBOOK, INC. 
+disappointing revenue growth occurred because it was 
+“putting privacy first” as well as implementing the European 
+Union’s General Data Protection Regulation (“GDPR”). 
+Zuckerberg reported that the GDPR rollout also resulted in a 
+decline in monthly Facebook users across Europe. The day 
+after the earnings call , Facebook’s stock price dropped 
+nearly 19%. Analysts and investors attributed the stock drop 
+to the company’s GDPR implementation, the requisite 
+increased security and privacy required of tech compani es, 
+and the Cambridge Analytica and whitelisting scandals. 
+4. Filing of Amended Complaints 
+The revelation of the Cambridge Analytica and 
+whitelisting scandals and the two Facebook stock price drops 
+precipitated an amended filing by the shareholders in 
+October 2018. The shareholders amended the complaint 
+again in November 2019 (Second Amended Complaint) and 
+October 2020 (Third Amended Complaint). T hey brought 
+claims against Facebook, Zuckerberg, Sandberg, and 
+Wehner under Sections 10(b), 20(a), and 20A of the 
+Securities Exchange Act of 1934 and Rule 10b-5 of the 
+Exchange Act’s implementing regulations. The 
+shareholders allege that Facebook, through the executive 
+defendants or a company spokesperson, made several false 
+or materially misleading state ments between February 3, 
+2017, and July 25, 2018, “the class period.” The challenged 
+statements fall into three categories: (1) statements in 
+Facebook’s 2016 Form 10-K regarding the risk of improper 
+third-party access to and disclosure of Facebook users’ data; 
+(2) statements regarding Facebook’s investigation into 
+Cambridge Analytica’s 2015 misconduct; and (3) statements 
+regarding the control Facebook users have over their data on 
+the platform. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 19 
+The district court dismissed the shareholders’ First 
+Amended Complaint and Second Amended Complaint 
+without prejudice under Federal Rule of Civil Procedure 
+12(b)(6), giving the shareholders leave to amend both times. 
+After determining that the Third Amended Complaint failed 
+to remedy the deficiencies of the first two amended filings , 
+the district court dismissed the shareholders’ claims without 
+leave to amend. 
+II. A
+NALYSIS 
+Although the scope of claims under Section 10(b) of the 
+Exchange Act and Rule 10b- 5 of the Exchange Act’s 
+implementing regulations is well understood and well -tread 
+in the Ninth Circuit, the se principles bear repeating so that 
+our analysis is viewed in context. 
+Section 10(b) of the Exchange Act , 15 U.S.C. § 78j(b), 
+prohibits “manipulative or deceptive ” practices in 
+connection with the purchase or sale of a security. See In re 
+Alphabet Sec. Litig., 1 F.4th 687, 699 (9th Cir. 2021). Rule 
+10b-5 of the Exchange Act’s implementing regulations is 
+coextensive with Section 10(b). S.E.C. v. Zandford, 535 
+U.S. 813, 816 n.1 (2002). The Rule prohibits making “any 
+untrue statement of a material fact” or omitting material facts 
+“necessary in order to make the statements made, in the light 
+of the circumstances under which they were made, not 
+misleading.” Glazer Cap. Mgmt., L.P. v. Forescout Techs., 
+Inc. (Glazer II), 63 F.4th 747, 764 (9th Cir. 2023) (quoting 
+17 C.F.R. § 240.10b- 5(b)). To state a claim under Section 
+10(b) and Rule 10b-5, “a plaintiff must allege: (1) a material 
+misrepresentation or omission by the defendant ( ‘falsity’); 
+(2) scienter; (3) a connection between the misrepresentation 
+or omission and the purchase or sale of a security; (4) 
+reliance upon the misrepresentation or omission; (5) 
+20 AMALGAMATED BANK V. FACEBOOK, INC. 
+economic loss; and (6) loss causation.” Id. (internal 
+quotation marks omitted) (quoting In re NVIDIA Corp. Sec. 
+Litig., 768 F.3d 1046, 1052 (9th Cir. 2014)). Claims under 
+Sections 20(a) and 20A of the Exchange Act are derivative 
+“and therefore require an independent violation of the 
+Exchange Act,” so the shareholders must successfully plead 
+a Section 10(b) claim to succeed on their claims under 
+Sections 20(a) and 20A. See Johnson v. Aljian, 490 F.3d 
+778, 781 (9th Cir. 2007); see also Glazer II, 63 F.4th at 765. 
+Complaints alleging securities fraud are also subject to 
+heightened pleading requirements under the Private 
+Securities Litigation Reform Act (“PSLRA”) and Rule 9(b). 
+Glazer II , 63 F.4th at 765. The PSLRA requires that 
+complaints alleging falsity “specify each statement alleged 
+to have been misl eading, the reason or reasons why the 
+statement is misleading, and, if an allegation regarding the 
+statement or omission is made on information and belief, the 
+complaint shall state with particularity all facts on which that 
+belief is formed.” Id. (quoting 15 U.S.C. § 78u-4(b)(1)). To 
+plead scienter under the PSLRA, “the complaint must ‘state 
+with particularity facts giving rise to a strong inference that 
+the defendant acted with the required state of mind.’” Id. at 
+766 (quoting 15 U.S.C. § 78u-4(b)(2)(A)). When evaluating 
+“whether the strong inference standard is met,” the court first 
+“determines whether any one of the plaintiff’s allegations is 
+alone sufficient to give rise to a strong inference of scienter.” 
+Id. If no individual allegation is sufficient, the court 
+“conducts a ‘holistic’ review to determine whether the 
+allegations combine to give rise to a strong inference of 
+scienter.” Id. (quoting Zucco Partners, LLC v. Digimarc 
+Corp., 552 F.3d 981, 992 (9th Ci r. 2009) ). Rule 9(b) 
+similarly requires plaintiffs to “state with particularity the 
+circumstances constituting fraud.” Id. at 765 (quoting Fed. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 21 
+R. Civ. P. 9(b)). Fraud allegations under Rule 9(b) “must be 
+‘specific enough to give defendants notice of the particular 
+misconduct which is alleged to constitute the fraud charged 
+so that they can defend against the charge and not just deny 
+that they have done anything wrong.’” Id. (quoting Bly-
+Magee v. California, 236 F.3d 1014, 1019 (9th Cir. 2001)). 
+We review de novo the dismissal of a complaint for 
+failure to state a claim , accepting the factual allegations as 
+true and viewing the facts “in the light most favorable” to the 
+shareholders. Id. at 763. In addition to the pleading 
+requirements of the PSLRA and Rule 9(b), Rule 8(a) 
+requires that a complaint “contain sufficient factual matter, 
+accepted as true, to ‘state a claim to relief that is plausible on 
+its face.’” Id. (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 
+(2009)). The factual allegations in the compla int must 
+“allow[] the court to draw the reasonable inference that the 
+defendant is liable for the misconduct alleged.” Id. (quoting 
+Iqbal, 556 U.S. at 678). 
+A. Risk Statements 
+The essence of the challenged risk statements is that , 
+although Facebook knew Cambridge Analytic a had 
+improperly accessed and used Facebook users’ data, 
+Facebook represented in its 2016 Form 10-K that only the 
+hypothetical risk of im proper third-party misuse of 
+Facebook users’ data could harm Facebook’s business, 
+reputation, and competitive position. For example, 
+Facebook’s 2016 10-K warned that the “failure to prevent or 
+mitigate security breaches and improper access to or 
+disclosure of our data or user data could result in the loss or 
+misuse of such data” and that if “ third parties or developers 
+fail to adopt or adhere to adequate data security practices . . . 
+our data or our users’ data may be improperly accessed, used, 
+22 AMALGAMATED BANK V. FACEBOOK, INC. 
+or disclosed.” Additionally, two of the challenged 
+statements warn that Facebook cannot provide “absolute 
+[data] security” and that Facebook’s business will suffer if 
+the public does not perceiv e Facebook’s products to be 
+“useful, reliable, and trustworthy.” 
+The district court held that the shareholders failed to 
+plead falsity as to the risk statements , but its holding 
+predated our decision in In re Alphabet. Without the benefit 
+of our reasoning in In re Alphabet, the district court held that 
+the risk statements were not actionably false because 
+Cambridge Analytica’s misconduct was public knowledge at 
+the time the statements were made and because, while the 
+10-K warned of risk s of harm to Facebo ok’s business, 
+reputation, and competitive position, the shareholders failed 
+to allege that Cambridge Analytica ’s misconduct was 
+causing such harm when the statements were made. This 
+approach overlooks the reality of what Facebook knew. 
+In the securities fraud context, statements and omissions 
+are actionably false or misleading if they “directly contradict 
+what the defendant knew at that time,” Khoja v. Orexigen 
+Therapeutics, Inc., 899 F.3d 988, 1008 (9th Cir. 2018) , or 
+“create an impress ion of a state of affairs that differs in a 
+material way from the one that actually exists,” Brody v. 
+Transitional Hosps . Corp., 280 F.3d 997, 1006 (9th Cir. 
+2002). The Exchange Act does not, however, “create an 
+affirmative duty to disclose any and all ma terial 
+information.” Glazer II, 63 F.4th at 764 (quoting Matrixx 
+Initiatives, Inc. v. Siracusano, 563 U.S. 27, 44 (2011)) . 
+Disclosure is mandatory only when necessary to ensure that 
+a statement made is “not misleading.” Id. (quoting Matrixx 
+Initiatives, 563 U.S. at 44). Accordingly, if the market has 
+already “become aware of the allegedly concealed 
+information,” the allegedly false information or material 
+ AMALGAMATED BANK V. FACEBOOK, INC. 23 
+omission “‘would already be reflected in the stock’s price’ 
+and the market ‘will not be misled.’” Provenz v. Miller, 102 
+F.3d 1478, 1492 (9th Cir. 1996) (quoting In re Convergent 
+Techs. Sec. Litig., 948 F.2d 507, 513 (9th Cir. 1991)). 
+Our recent decision in In re Alphabet is instructive. We 
+held that falsity allegations were sufficient to survive a 
+motion to dismiss when the complaint plausibly alleged that 
+a company’s SEC filings warned that risks “could” occur 
+when, in fact, those risks had already materialized. I n re 
+Alphabet, 1 F.4th at 702–05. This juxtaposition of a “could 
+occur” situation with the fact that the risk had materialized 
+mirrors the allegations in the Facebook scenario. In its 2017 
+Form 10-K, Alphabet warned of the risk that public concerns 
+about its privacy and security practices “ could” harm its 
+reputation and operating results. Id. at 694. The following 
+year, Alphabet discovered a privacy bug that had threatened 
+thousands of users’ personal data for three years. Id. at 695. 
+Nonetheless, in its April and July 2018 Form 10- Q filings, 
+Alphabet repeated the 2017 statement that public concern 
+about its privacy and security “could” cause harm. Id. at 
+696. In the 10-Qs, Alphabet also stated that there had “been 
+no material changes” to its “risk factors” since the 2017 10-
+K. Id. Although news of the privacy bug had not become 
+public at the time of the 10-Qs, we reasoned that the risks of 
+harm to Alphabet “ripened into actual harm” when Alphabet 
+employees discovered the privacy bug and the “new risk that 
+this discovery would bec ome public .” Id. at 703. The 
+plaintiffs thus “ plausibly allege[d] that Alphabet ’s warning 
+in each Form 10-Q of risks that ‘could’ or ‘may’ occur [was] 
+misleading to a reasonable investor when Alphabet knew 
+that those risks had materialized.” Id. at 704. 
+As in In re Alphabet , the shareholders here adequately 
+pleaded falsity as to the statements in Facebook’s 2016 10-
+24 AMALGAMATED BANK V. FACEBOOK, INC. 
+K that represented the risk of third parties improperly 
+accessing and using Facebook users’ data as purely 
+hypothetical. The shareholders pleaded with particularity 
+that Facebook employees flagged Cambridge Analytica in 
+September 2015 for potentially violating Facebook’s terms, 
+that Kogan taught Facebook in November 2015 about the 
+dataset Cambridge Analytica had compiled, and that a 
+Facebook executive told Cambridge Analytica in December 
+2015 that the firm had violated Facebook’s user data 
+policies. The shareholders also alleged that after Facebook 
+learned in June 2016 that Cambridge Analytica lied in 
+December 2015 about deleting the data derived from 
+Facebook “likes,” Cambridge Analytica’s chief executive 
+refused to certify that the data had actually been deleted . 
+These allegations, if true, more than support the claim that 
+Facebook was aware of Cambridge Analytica’s misconduct 
+before February 2017, so Facebook’s statements about risk 
+management “directly contradict[ed]” what the company 
+knew when it filed its 201 6 10-K with the SEC. Glazer II, 
+63 F.4th at 764. 
+Referencing Facebook’s risk statements as including 
+damage to its business, reputation, and competitive position, 
+the dissent asserts that t he risk statements in Facebook’s 
+2016 10-K were not false or materially misleading because 
+they “do not represent that Facebook was free from 
+significant breaches at the time of the filing.” The 
+inadequacy of the risk statements, however, is not that 
+Facebook did not disclose Cambridge Analytica’s breach of 
+its security practices. Instead, the problem is that Facebook 
+represented the risk of improper access to or disclosure of 
+Facebook user data as purely hypothetical when that exact 
+risk had already transpired. A reasonable investor reading 
+the 10- K would have unders tood the risk of a third party 
+ AMALGAMATED BANK V. FACEBOOK, INC. 25 
+accessing and utilizing Facebook user data improperly to be 
+merely conjectural. 
+The dissent’s suggestion that the shareholders have not 
+adequately pleaded falsity because they “have not 
+sufficiently alleged that Facebook knew that its reputation 
+and business were already harmed at the time of the filing of 
+the 10-K” fares no better. Our case law does not require 
+harm to have materialized for a statement to be materially 
+misleading. Facebook’s statement was plausibly materially 
+misleading even if Facebook did not yet know the extent of 
+the reputational harm it would suffer as a result of the breach: 
+Because Facebook presented the prospect of a breach as 
+purely hypothetical when it had already occurred, such a 
+statement could be misleading even if the magnitude of the 
+ensuing harm was still unknown. Put differently, a company 
+may make a materially misleading statement when it “speaks 
+entirely of as -yet-unrealized risks” when the risks have 
+“already come to fruition.” Berson v. Applied Signal Tech., 
+527 F.3d 982, 987 (9th Cir. 2008); see also In re Alphabet , 
+1 F.4th at 702–05 (holding that risk statements in Alphabet’s 
+SEC filings were materially misleading even where 
+Alphabet’s identi fied harm of damage to its “business, 
+financial condition, results of operations,” and more had not 
+yet materialized at the time of the filings). The mere fact that 
+Facebook did not know whether its reputation was already 
+harmed when filing the 10-K does not avoid the reality that 
+it “create[d] an impression of a state of affairs that differ[ed] 
+in a material way from the one that actually exist[ed].” 
+Brody, 280 F.3d at 1006. 
+The dissent endeavors to distinguish In re Alphabet by 
+explaining that before Alphabet made SEC filings 
+containing material misstatements, it circulated an internal 
+memorandum detailing that there would be immediate 
+26 AMALGAMATED BANK V. FACEBOOK, INC. 
+regulatory scrutiny if the public discovered its privacy bug. 
+While true , our holding did not rest on the internal 
+memorandum to conclude that the statements were plausibly 
+materially misleading; instead, we reasoned that a warning 
+of “risks that ‘could’ or ‘may’ occur is misleading to a 
+reasonable investor when Alphabet knew that those risks”—
+the privacy bug itself —“had materialized.” 1 F.4th at 704. 
+Here, as in In re Alphabet , it is the fact of the breach itself, 
+rather than the anticipation of reputational or financial harm, 
+that caused anticipatory statements to be materially 
+misleading. Th e shareholders have therefore adequately 
+pleaded that the risk statements in Facebook’s 2016 10- K 
+directly contradicted what Facebook knew at the time such 
+that, in the dissent’s words, Facebook “knew a risk had come 
+to fruition” and “chose to bury it.” 
+Notably, although the dissent seemingly perceives it 
+otherwise, the extent of Cambridge Analytica’s misconduct 
+was not yet public when Facebook filed its 2016 10- K. At 
+the time, the articles in The Guardian and The Washington 
+Post had alerted readers that Cambridge Analytica collected 
+data from “a massive pool of mainly unwitting US Facebook 
+users.” But the Guardian article quoted a Facebook 
+spokesperson saying that the company would take “swift 
+action” if Cambridge Analytica was found to have violated 
+Facebook’s policies , as well as a Ted Cruz spokesperson 
+saying that the data was acquired legally and with the 
+permission of Facebook users . In response to the article , 
+Facebook stated it was “carefully investigating.” Although 
+the articles may have raised concerns about Cambridge 
+Analytica’s conduct, Facebook did not confirm before the 
+2016 10-K was filed that Cambridge Analytica had acted 
+improperly or whether Facebook had taken the “swift 
+action” promised if it learned of violations. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 27 
+Indeed, Facebook’s first public statement about the 
+results of its investigation —which came in March 2017, a 
+month after the 2016 10-K was filed —represented that no 
+misconduct had been discovered. At the time the 10-K was 
+filed in February 2017, the news of Cambridge Analytica’s 
+misconduct was far from “transmitted to the public with a 
+degree of intensity and credibility sufficient to effectively 
+counterbalance any misleading impression.” Provenz , 102 
+F.3d at 1493 (citation omitted). 
+Importantly, and c ontrary to the dissent’s position, t he 
+placement of the risk statements in Facebook’s 2016 10-K 
+alongside the possibilities of cyberattacks, hacking, and 
+phishing, which the shareholders do not allege had 
+materialized at the time of the 10 -K, does not rescue 
+Facebook’s omission that the risk of improper access and 
+disclosure had occurred from being materially misleading. 
+A close read of the 10-K reveals that the stated hypothetical 
+risks included the risk of a third -party developer harvesting 
+Facebook users’ data without their consent. Indeed, the title 
+of the 10-K subsection in which the risk statements appeared 
+included the statement that “improper access to or disclosure 
+of” Facebook’s “user data” could harm the company’s 
+reputation and business. The subsection itself stated that 
+“[a]ny failure to prevent or mitigate security breaches and 
+improper access to or disclosure of our data or user data 
+could result in the loss or misuse of such data.” Kogan and 
+Cambridge Analytica ’s actions, while not a cyberattack, 
+hacking, or phishing, fit the bill of Facebook failing to 
+prevent or mitigate improper access to or disclosure of 
+Facebook data. The risk of a third -party improperly 
+accessing Facebook user data through methods other than 
+hacking, phishing, or any other security breach was 
+prominent throughout the subsection and covered the 
+28 AMALGAMATED BANK V. FACEBOOK, INC. 
+claimed misconduct of Cambridge Analytica. Collapsing 
+the risks of improper access to and use of Facebook users’ 
+data in the same section as the risk of cyberattacks cannot 
+rescue the risk statements from being false or materially 
+misleading. 
+Additionally, Facebook’s disclosure that “computer 
+malware, viruses, social engineering ( predominantly spear 
+phishing attacks), and general hacking have become more 
+prevalent in our industry, have occurred on our systems in 
+the past, and will occur on our systems in the future” does 
+not bring the risk stat ements within the protection of the 
+PSLRA’s safe harbor provision for forward- looking 
+statements. Under the safe harbor, a company is not liable 
+for a forward -looking statement “accompanied by 
+meaningful cautionary statements identifying important 
+factors that could cause actual results to differ materially 
+from those in the forward-looking statement.” Glazer II, 63 
+F.4th at 767 (quoting 15 U.S.C. § 78u-5(c)(1)(A)). 
+Our recent decision in Weston Family Partnership v. 
+Twitter, Inc., 29 F.4th 611 (9th Cir. 2022), provides a good 
+illustration of statements falling within the safe harbor 
+provision. There, Twitter disclosed its plan to improve the 
+“stability, performance, and flexibility,” of its mobile app 
+promotion product gradually “over multiple quarters ” and 
+made clear that the company was “not there yet” in terms of 
+its stability goals. Id. at 616. At the time, Twitter knew of a 
+software bug affecting its mobile app promotion product but 
+did not disclose the bug’s impact. Id. We explained that 
+Twitter’s disclosure was both forward- looking and 
+accompanied by the type of “meaningful cautionary 
+language” necessary to invoke the safe harbor provision 
+despite the nondisclosure of the software bug. Id. at 623. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 29 
+Here, rather than making cautionary forward- looking 
+statements, Facebook warned that it could not provide 
+“absolute security,” that it would continue to be subject to 
+cyberattacks, and that third parties with inadequate data 
+security practices could compromise users’ data. Such broad 
+pronouncements without meaningful acknowledgement of 
+the known risks of improper data access and disclosure does 
+not suffice to invoke the safe harbor provision. There is a 
+big chasm between “absolute security” and sidestepping the 
+reality of what Facebook allegedly knew about the 
+compromised data. 
+At this stage, the shareholders adequately pleaded falsity 
+as to the statements warning that misuse of Facebook users’ 
+data could harm Facebook’s business, reputation, and 
+competitive position and the district court erred by 
+dismissing the complaint as to those statements. The district 
+court, however, correctly dismissed the challenged 
+statements regarding the risk of se curity breaches and the 
+risk of the public not perceiving Facebook’s products to be 
+“useful, reliable, and trustworthy.” Those statements do not 
+relate to the misuse of Facebook user data by Cambridge 
+Analytica, and the shareholders do not allege that those risks 
+had materialized at the time of the 2016 10-K such that they 
+were false or materially misleading. We leave to the district 
+court on remand whether the shareholders can satisfy the 
+other elements of the claims with respect to risk statements. 
+B. Cambridge Analytica Investigation Statements 
+The challenged Cambridge Analytica investigation 
+statements include statements made by a Facebook 
+spokesperson to journalists in March 2017 that Facebook’s 
+internal investigation into Cambridge Analytica had “not 
+uncovered anything that suggest[ed] wrongdoing” related to 
+30 AMALGAMATED BANK V. FACEBOOK, INC. 
+Cambridge Analytica’s work on the Brexit and Trump 
+campaigns. The district court held that the shareholders 
+failed to plead scienter as to the Cambridge Analytica 
+investigation statements. We agree. 
+To plead scienter, the shareholders “must ‘state with 
+particularity facts giving rise to a strong inference that the 
+defendant acted with the required state of mind.’” Glazer II, 
+63 F.4th at 766 (quoting 15 U.S.C. § 78u- 4(b)(2)(A)). “A 
+‘strong inference’ exists ‘if a reasonable person would deem 
+the inference of scienter cogent and at least as compelling as 
+any opposing inference one could draw from the facts 
+alleged.’” Id. (quoting Tellabs, Inc. v. Makor Issues & Rts., 
+Ltd., 551 U.S. 308, 324 (2007)). For obvious reasons, an 
+actionably misleading statement must be made by a 
+spokesperson “who has actual or apparent authority.” In re 
+ChinaCast Educ. Corp. Sec. Litig., 809 F.3d 471, 476 (9th 
+Cir. 2015) (quoting Hollinger v. Titan Cap. Corp., 914 F.2d 
+1564, 1577 n.28 (9th Cir. 1990)). Thus, “a key inquiry” in 
+evaluating a motion to dismiss “is whether the complaint 
+sufficiently alleges scienter attributable to the corporation.” 
+Id. at 479. 
+Of first order is identifying “whether the complaint 
+adequately alleged that the maker omitted material 
+information knowingly, intentionally, or with deliberate 
+recklessness.” In re Alphabet , 1 F.4th at 705. “Deliberate 
+recklessness is a higher standard than mere recklessness and 
+requires more than a motive to commit fraud.” Glazer II, 63 
+F.4th at 765 (quoting Schueneman v. Arena Pharms., Inc., 
+840 F.3d 698, 705 (9th Cir. 2016)). Instead, “deliberate 
+recklessness” involves “ an extreme departure from the 
+standards of ordinary care” that presents “a danger of 
+misleading buyers or sellers” that “ is so obvious” that the 
+ AMALGAMATED BANK V. FACEBOOK, INC. 31 
+spokesperson “must have been aware of it.” Id. (quoting 
+Schueneman, 840 F.3d at 705). 
+Simply raising an inference that a company’s executive 
+“should have” discovered misconduct, not that the executive 
+actually knew of misconduct, is insufficient “to meet the 
+stringent scienter pleading requirements of the PSLRA.” 
+Glazer Cap. Mgmt., LP v. Magistri (Glazer I), 549 F.3d 736, 
+748–49 (9th Cir. 2008). In Glazer I , the defendant CEO 
+signed a merger agreement before announcing months later 
+that an investigation early in the merger -related due 
+diligence process uncovered possible Foreign Corrupt 
+Practices Act violations. Id. at 740. The plaintiffs argued 
+that because the violations were discovered early, 
+information about the violations “must have been readily 
+available and therefore known to [the CEO] when he signed 
+the merger agreement.” Id. at 748. We held that the CEO 
+learning of the violations shortly after due diligence was not 
+enough “to create a strong inference of scienter.” Id. The 
+only strong inference to be drawn was that the CEO should 
+have known of the possible violations, not that he actually 
+knew about them, whi ch was insufficient to plead scienter. 
+Id. 
+As in Glazer I , the shareholders pleaded only that the 
+Facebook spokesperson should have known that Facebook’s 
+investigation into Cambridge Analytica had uncovered 
+misconduct, not that the spokesperson actually knew of any 
+misconduct or even that there was a strong inference of an 
+“intent to deceive, manipulate, or defraud.” I d. at 742 
+(quoting Ernst & Ernst v. Hochfelder , 425 U.S. 185, 193 
+n.12 (1976)). The mere reference by an unidentified 
+spokesperson to Facebook’s investigation is insufficient to 
+show that the spokesperson knowingly or intentionally made 
+false or materially misleading statements about the 
+32 AMALGAMATED BANK V. FACEBOOK, INC. 
+investigation. The shareholders’ allegations do not rise to 
+the level of showing that it was “so obvious” that Facebook’s 
+investigation had uncovered misconduct related to 
+Cambridge Analytica’s political work that the spokesperson 
+“must have been aware of it.” Glazer II , 63 F.4th at 765 
+(citation omitted). 
+Although one might reasonably expect the spokesperson 
+to have verified the accuracy of the statements before 
+making them, securities fraud actions are not tort actions, 
+and “[m]ere negligence — even head-scratching mistakes — 
+does not amount to fraud.” Prodanova v. H.C. Wainwright 
+& Co., 993 F.3d 1097, 1103 (9th Cir. 2021). Nothing in the 
+complaint suggests that the Cambridge Analytica 
+investigation statements involved an extreme departure from 
+the standards of ordinary care, and the shareholders thus fall 
+short of raising a strong inference that the spokesperson 
+acted with the necessary malintent. In light of the absence 
+of scienter, we need not assess the alleged falsity of the 
+statements. We affirm the district court’s dismissal of the 
+allegations and agree that the shareholders f ailed to plead 
+scienter as to the Cambridge Analytica investigation 
+statements. 
+C. User Control Statements 
+Throughout the class period, Facebook made several 
+statements about users’ control over their personal data. The 
+statements assured Facebook users that they had control over 
+their information and content on Facebook and that 
+Facebook’s priorities of transparency and user control 
+aligned with the GDPR framework. The following 
+Facebook statements are illustrative: “People can control the 
+audience for their posts and the apps that can receive their 
+data,” “[e]very person gets to control who gets to see their 
+ AMALGAMATED BANK V. FACEBOOK, INC. 33 
+content,” and “ [w]e respected the privacy setting s that 
+people had in place.” The shareholders assert that 
+Facebook’s stock price dropped after reporting on the 
+Cambridge Analytica scandal in March 2018 and 
+Facebook’s whitelisting policy in June 2018 revealed the 
+falsity of Facebook’s statements about users’ control over 
+their data. The y allege that the stock price drops caused 
+them to suffer economic loss. 
+Pleading loss causation requires a showing that the 
+“share price fell significantly after the truth became known.” 
+In re Oracle Corp. Sec. Litig., 627 F.3d 376, 392 (9th Cir. 
+2010) (quoting Dura Pharms., Inc. v. Broudo, 544 U.S. 336, 
+347 (2005)). “[L] oss causation is simply a variant of 
+proximate cause.” Lloyd v. CVB Fin. Corp., 811 F.3d 1200, 
+1210 (9th Cir. 2016). The shareholders must show that 
+Facebook’s “misstatement, as opposed to some other fact, 
+foreseeably caused the plaintiff’s loss.” Id. The 
+shareholders’ “burden of pleading loss causation is typically 
+satisfied by allegations that the defendant revealed the truth 
+through ‘corrective disclosures’ which ‘caused the 
+company’s stock price to drop and investors to lose money.’” 
+Id. at 1209 (quoting Halliburton Co. v. Erica P. John Fund, 
+Inc., 573 U.S. 258, 264 (2014)). 
+Neither the Federal Rules of Civil Procedure nor the 
+federal securities laws “impose any special further 
+requirement in respect to the pleading of proximate 
+causation or economic los s” beyond the “short and plain 
+statement of the claim” required by Rule 8. Dura Pharms., 
+544 U.S. at 346. At the pleading stage, it is generally 
+inappropriate to dismiss for failure to establish loss 
+causation. In re Gilead Scis. Sec. Litig., 536 F.3d 1049, 1057 
+(9th Cir. 2008) (agreeing that loss causation “is a matter of 
+proof at trial and not to be decided on a Rule 12(b)(6) motion 
+34 AMALGAMATED BANK V. FACEBOOK, INC. 
+to dismiss” (citation omitted)) . Put differently, if a 
+complaint proffers sufficient facts “to raise a reasonable 
+expectation that discovery will reveal evidence” of loss 
+causation, the allegations therein should survive a motion to 
+dismiss. Id. (quoting Bell Atl. Corp. v. Twombly , 550 U.S. 
+544, 556 (2007)). 
+As an initial matter, the district court correctly held that 
+the shareholders failed to plead sufficiently that Facebook’s 
+statements about the company’s commitment to 
+transparency and control in line with the GDPR framework 
+violated Section 10(b) and Rule 10b-5. As Facebook notes, 
+those statements “merely reiterated Facebook’s ongoing 
+commitment to ‘transparency and control’” rather than 
+assuring users they controlled their Facebook data, and thus 
+were not false when they were made. Further, the June 2018 
+whitelisting revelation, which was unaccompanied by a 
+stock price drop, is not actionable. See Lloyd , 811 F.3d at 
+1210. We affirm the dismissal of the statements related to 
+Facebook’s goals of transparency and control , and the June 
+2018 whitelisting revelation as a standalone claim. 
+However, we reverse the dismissal as to other statements 
+related to the stock drops. 
+1. March 2018 Stock Price Drop 
+Most of the challenged user control statements occurred 
+after the March 16, 2018, revelation about Cambridge 
+Analytica and thus cannot be pegged to the March 2018 
+stock price drop. However, the user control statements that 
+preceded the revelation are relevant here, and the 
+shareholders adequately pleaded loss causation as to the 
+statements assuring users that they control their content and 
+information on the platform. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 35 
+The shareholders adequately pleaded that the March 
+2018 revelation about Cambridge Analytica was the first 
+time Facebook investors were alerted that Facebook users 
+did not have complete control over their own data. As 
+previously discussed, the 2015 and 2016 articles in T he 
+Guardian and The Washington Post did not reveal that 
+Cambridge Analytica had misused Facebook users’ data. 
+Facebook’s public response to the Guardian article in 2015 
+was that it was “carefully investigating” Cambridge 
+Analytica. 
+The shareholders also adequately allege that Facebook 
+did not make public statements about the Ca mbridge 
+Analytica issue between 2015 and 2018. Before the March 
+2018 news broke, reasonable investors would not have 
+known that Cambridge Analytica had improperly accessed 
+Facebook users’ data such that users did not have control 
+over their personal information on the platform. In the week 
+that followed the revelation , Facebook’s stock dropped 
+nearly 18%, representing a loss of over $100 billion in 
+market capitalization and plausibly causing economic loss 
+for the shareholders. 
+The Cambridge Analytica revelation thus satisfies the 
+pleading criteria for a corrective disclosure, which requires 
+allegations that “the defendant’s fraud was ‘revealed to the 
+market and caused the resulting loss [].’” Grigsby v. BofI 
+Holding, Inc., 979 F.3d 1198, 1205 (9th Cir. 2020) (quoting 
+Loos v. Immersion Corp., 762 F.3d 880, 887 (9th Cir. 2014)). 
+A disclosure is not corrective if the information comes 
+entirely from public sources “of which the stock market was 
+presumed to be aware.” Id. (quoting Loos, 762 F.3d at 889). 
+Here, because the 2015 and 2016 articles about Cambridge 
+Analytica did not provide investors the necessary 
+information to learn that Facebook users did not control their 
+36 AMALGAMATED BANK V. FACEBOOK, INC. 
+data, the shareholders adequately alleged that the March 
+2018 revelation was a corrective disclosure as to Facebook’s 
+statements that users control their data on the platform. We 
+reverse the district court ’s dismissal of Facebook’s 
+statements about users controlling their own Facebook da ta 
+that preceded the March 16, 2018, revelation. 
+2. July 2018 Stock Price Drop 
+The July 2018 drop occurred immediately after 
+Facebook’s disappointing earnings report and was tied to 
+approximately $100 billion of shareholder value loss. At the 
+time, it was the largest single -day stock price drop in U.S. 
+history. The question is whether the shareholders adequately 
+pleaded loss causation as to Facebook’s user control 
+statements predating the March 16, 2018, Cambridge 
+Analytica revelation and the June 3, 2018, whitelisting 
+revelation, even though the stock drop did not occur until 
+July 25, 2018. 
+Because loss causation requires that the defendant’s 
+misstatement, rather than some other fact, foreseeably 
+caused the plaintiff’s loss, establishing loss causati on 
+requires more than “an earnings miss ” or the market’s 
+reaction to a company’s “poor financial health generally.” 
+In re Oracle, 627 F.3d at 392. Simply pleading “that the 
+market reacted to the p urported ‘impact’ of the alleged 
+fraud—the earnings miss—rather than to the fraudulent acts 
+themselves” is not sufficient. Id. 
+Illustrative of a disconnect between earnings and 
+causation is In re Oracle, where the shareholders argued that 
+Oracle’s misstatements regarding the “quality and success” 
+of its Suite 11i product, rather than its struggling financial 
+health, caused the company’s stock price to drop. Id. at 392–
+93. The shareholders posited that because the stock price 
+ AMALGAMATED BANK V. FACEBOOK, INC. 37 
+drop occurred immediately after the truth about Suite 11i 
+became public, the revelation of the truth must have caused 
+the price drop. Id. In affirming summary judgment for 
+Oracle, we explained that the “overwhelming evidence 
+produced during discovery indi cate[d] the market 
+understood Oracle’s earnings miss to be a result of several 
+deals lost in the final weeks of the quarter due to customer 
+concern over the declining economy,” not the alleged Suite 
+11i fraud. Id. at 393. 
+Another wrinkle here is whether loss causation 
+allegations can survive a motion to dismiss even when the 
+stock price drop did not immediately follow the revelation 
+of the misstatement. In In re Gilead , the market learned in 
+August 2003 that Gilead had agg ressively marketed a drug 
+by claiming that the company had “carefully complied with 
+federal and state regulations” when, in fact, a warning letter 
+from the Food and Drug Administration had informed 
+Gilead that its marketing claims were unlawful. 536 F.3d at 
+1051. Gilead’s stock price did not drop until October 2003, 
+following a press release revealing “less -than-expected 
+revenues.” Id. at 1054, 1058. Despite the time gap between 
+the revelation and the stock price drop, the shareholder s 
+claimed that Gilead’s misrepresentations caused its stock 
+price to inflate, and the subsequent disappointing revenue 
+performance and stock price drop sufficed to plead loss 
+causation. Id. at 1056. 
+Acknowledging the time gap, we held that the 
+shareholders adequately pleaded loss causation and 
+reiterated that there is no “bright -line rule requiring an 
+immediate market reaction” after a revelation because “[t]he 
+market is subject to distortions that prevent the ideal of a free 
+and open public market from occurring.” Id. at 1057–58 
+(alteration in original) (citation omitted) . Accordingly, the 
+38 AMALGAMATED BANK V. FACEBOOK, INC. 
+shareholders plausibly alleged that Gilead’s stock price drop 
+occurred immediately after the company revealed its 
+disappointing revenue numbers, and the drop was caused by 
+lower demand resulting from the warning letters. Id. As we 
+explained, it was reasonable for the public to fail to 
+appreciate the significance of the warning letter s until 
+learning of Gilead’s disappointing revenue posting. Id. 
+Aligning ourselves with the Second and Third Circuits , we 
+concluded that “loss causation ‘is a matter of proof at trial’” 
+so “it is normally inappropriate to rule on loss causation at 
+the pleading stage.” Id. at 1057 (quoting Emergent Cap. Inv. 
+Mgmt., LLC v. Stonepath Grp., Inc., 343 F.3d 189, 197 (2d 
+Cir. 2003)); see also McCabe v. Ernst & Young, LLP , 494 
+F.3d 418, 427 n.4 (3d Cir. 2007). Because the shareholders 
+pleaded sufficient facts to raise a reasonable expectation that 
+discovery would reveal evidence of the warning letter ’s 
+“effect on demand,” the loss causation claim survived 
+Gilead’s motion to dismiss. In re Gilead, 536 F.3d at 1058. 
+For Facebook’s July 2018 stock price drop to be 
+actionable, it must be because Facebook’s earnings report 
+revealed new information to the market; specifically, that 
+Facebook’s Q2 earnings call in July 2018 allowed the public 
+to “appreciate [the] significance” of the Cambridge 
+Analytica and whitelisting scandals. I d. The disappointing 
+Q2 earnings performance alone cannot satisfy the 
+shareholders’ burden of pleading loss causation. 
+Here, as in In re Gilead , the shareholders adequately 
+pleaded that the Cambridge Analytica and whitelisting 
+revelations, not any other factor, caused the July 2018 stock 
+price drop. Although the stock drop occurred nearly two 
+months after the whitelisting revelation, the shareholders 
+sufficiently allege that the drop was caused by “dramatically 
+lowered user engagement, substantially decreased 
+ AMALGAMATED BANK V. FACEBOOK, INC. 39 
+advertising revenue and earnings, and reduced growth 
+expectations going forward” on account of the Cambridge 
+Analytica and whitelisting sca ndals. The shareholders 
+further detail how the GDPR rollout had little impact on the 
+July 2018 earnings report, and how investors and market 
+analysts explicitly connected the revenue drop to the 
+scandals. These allegations suffice to plead “a causal 
+relationship” between the Cambridge Analytica and 
+whitelisting revelations and the dramatic drop in Facebook’s 
+stock price. Id. at 1057. We emphasize that this case is at 
+the very early motion to dismiss stage, that the shareholders 
+have raised “a reasonable expectation that discovery will 
+reveal evidence” of loss causation , id. (quoting Twombly, 
+550 U.S. at 556), and that discovery and further proceedings 
+are necessary to illuminate the issues surrounding loss 
+causation. 
+Our dissenting colleague would affirm the district 
+court’s dismissal of the user control statements as they relate 
+to the Cambridge Analytica re velation. Stated differently, 
+the dissent would hold that only the July 2018 stock price 
+drop was actionable , and only as to the whitelisting 
+revelation, not the Cambridge Analytica revelation. 
+In support, the dissent contends that the 2018 
+“Cambridge A nalytica disclosures did not make the user 
+control statements materially false,” because “Cambridge 
+Analytica’s lies to Facebook and its continued violation of 
+Facebook’s privacy policies do not mean that Facebook’s 
+privacy protections do not actually exis t.” But the question 
+is not whether and when Cambridge Analytica lied to 
+Facebook, but whether and when Facebook learned of 
+Cambridge Analytica’s deception. It is true that in January 
+2016, Cambridge Analytica agreed to delete the personality 
+score data i t harvested from Facebook. But recall that the 
+40 AMALGAMATED BANK V. FACEBOOK, INC. 
+shareholders pleaded that Facebook had reason to know in 
+June 2016—only five months later —that Cambridge 
+Analytica had received much more information from 
+Facebook than just the personality score data and tha t 
+Cambridge Analytica was still using a model based on the 
+data in violation of Facebook’s policies. The shareholders 
+further allege that when Facebook found out, it tried to 
+require Cambridge Analytica’s CEO to certify that all data 
+harvested from the pe rsonality quiz was deleted, but the 
+CEO refused to do so. Thus, the shareholders pleaded with 
+particularity that Facebook knew Cambridge Analytica did 
+not delete all the data it had improperly accessed. 
+We agree with the dissent that “a supposed bad act or 
+violating Facebook’s privacy controls to improperly access 
+user data doesn’t make the company’s statements about its 
+policies misleading.” But labeling Cambridge Analytica as 
+a “bad actor” is not the issue. I t was not Cambridge 
+Analytica’s deception that made Facebook’s user control 
+statements misleading. Rather, i t was that Facebook knew 
+Cambridge Analytica retained access to improperly 
+collected user data after Cambridge Analytica certified that 
+it had deleted the personality score data, and Facebook 
+nonetheless falsely represented to users that they had control 
+over their data on the platform. The shareholders adequately 
+pleaded loss causation as to the stock price drops that 
+occurred after the Cambridge Analytica revelation in March 
+and July 2018. Accordingly, we reverse the district court’s 
+dismissal of Facebo ok’s statements regarding data control 
+that predated the June 3, 2018, whitelisting revelation. 
+III. C
+ONCLUSION 
+We affirm in part and reverse in part as to dismissal 
+based on the risk statements and user control statements, and 
+ AMALGAMATED BANK V. FACEBOOK, INC. 41 
+we affirm as to dismissal based on the Cambridge Analytica 
+investigation statements. Specifically, we affirm the 
+dismissal of the statements in ¶¶ 503–05, 530, 533, and 537–
+38 of the Third Amended Compl aint, reverse the district 
+court’s dismissal of the statements in ¶¶ 501–02, 507–14, 
+519, and 525, and remand for further proceedings . Each 
+party shall bear its own costs. 
+AFFIRMED IN PART, REVERSED IN PART, AND 
+REMANDED IN PART. 
+
+BUMATAY, J., concurring in part and dissenting in part: 
+
+At issue here are three general categories of alleged false 
+statements: (1) statements about Facebook’s risk factors, (2) 
+statements about Facebook’s investigation of Cambridge 
+Analytica, and (3) statements about Facebook users’ control 
+over their data. I join the majority in holding that the 
+plaintiff Shareholders failed to sufficiently allege a falsity in 
+the second category —Facebook’s Cambridge Analytica 
+investigation statements. I also join the majority in holding 
+that Shareholders did allege a falsity and loss from the third 
+category of user control statements —but only as those 
+statements relate to Facebook’s practice of “whitelisting.” 
+So I disagree with the majority on two fundamental 
+points. First, Shareholders failed to sufficient ly allege that 
+Facebook’s risk factor statements in its public filings were 
+fraudulent. Second, Shareholders didn’t show that 
+Facebook’s user control statements were false based on the 
+Cambridge Analytica revelations. I briefly set out my 
+disagreement below. 
+42 AMALGAMATED BANK V. FACEBOOK, INC. 
+I. 
+Risk Factor Statements 
+Federal securities law creates no “affirmative duty to 
+disclose any and all material information.” Matrixx 
+Initiatives, Inc. v. Siracusano, 563 U.S. 27, 44 (2011). 
+Rather, companies must disclose information “only when 
+necessary ‘to make . . . statements made, in light of the 
+circumstances under which they were made, not 
+misleading.’” Id. (quoting 17 CFR § 240.10b–5(b)). Thus, 
+companies “can control what they have to disclose . . . by 
+controlling what they say to the market.” Id. at 45. 
+Indeed, companies have no “obligation to offer an 
+instantaneous update of every internal” or “fleeting” 
+development. Weston Fam. P’ship LLLP v. Twitter, Inc., 29 
+F.4th 611, 620 (9th Cir. 2022). Instead, a “company must 
+disclose a negative internal development only if its omission 
+would make other statements materially misleading.” Id . 
+Put differently, statements and omissions are actionable only 
+if they “directly contradict what the defendant knew at that 
+time,” Khoja v. Orexigen Therapeutics, Inc., 899 F.3d 988, 
+1008 (9th Cir. 2018), or “create an impression of a state of 
+affairs that differs in a material way from the one that 
+actually exists,” Brody v. Transitional Hosps. Corp., 280 
+F.3d 997, 1006 (9th Cir. 2002). In assessing this question, 
+we look to the “total mix” of information available to the 
+reasonable investor and whether the alleged misstatement 
+“significantly altered” the decision-making of the reasonable 
+investor. Retail Wholesale & Dep’t Store Union Loc. 338 
+Ret. Fund v. Hewlett-Packard Co., 845 F.3d 1268, 1274 (9th 
+Cir. 2017) (simplified); see also In re Syntex Corp. Sec. 
+Litig., 95 F.3d 922, 929 (9th Cir. 1996) (requiring evaluation 
+ AMALGAMATED BANK V. FACEBOOK, INC. 43 
+of the “statement in full and in context at the time it was 
+made”). 
+Shareholders’ alleg ations stem from Facebook’s 2016 
+SEC Form 10-K “Risk Factors” statements, dated February 
+3, 2017. Facebook made these statements in the context of 
+the following bolded headline: 
+• “Security breaches and improper 
+access to or disclosure of our data or 
+user d ata, or other hacking and 
+phishing attacks on our systems, could 
+harm our reputation and adversely 
+affect our business.” 
+Under that header, Facebook gave these warnings: 
+• “Any failure to prevent or mitigate 
+security breaches and improper access to 
+or disc losure of our data or user data 
+could result in the loss or misuse of such 
+data, which could harm our business and 
+reputation and diminish our competitive 
+position.” 
+• “We provide limited information to . . . 
+third parties based on the scope of 
+services provided to us. However, if these 
+third parties or developers fail to adopt or 
+adhere to adequate data security 
+practices . . . our data or our users’ data 
+44 AMALGAMATED BANK V. FACEBOOK, INC. 
+may be improperly accessed, used, or 
+disclosed.” 
+Shareholders argue —and the majority agrees —that all 
+three of these statements are misleading because, by 
+February 2017, Facebook already knew that Cambridge 
+Analytica had gained improper access to the data of tens of 
+millions of Facebook users. According to the majority, this 
+means that the statements directly contradicted what the 
+company knew when it filed its 10-K. 
+There’s a problem with this analysis. Even if Facebook 
+knew about the full extent of the so- called Cambridge 
+Analytica scandal at this point, none of this makes the risk 
+factor statements false. Recall the facts of the scandal. In 
+2015, Facebook became aware that Cambridge Analytica—
+through a consulting academic —had developed a 
+personality quiz that harvested data from more than thirty 
+million Facebook users, often without the users’ consent. 
+This quiz gave Cambridge Analytica access to Facebook 
+users’ name, gender, location, birthdate, “likes,” and 
+“friends,” which made it possible to develop an algorithm to 
+sort Facebook users according to personality traits. 
+Cambridge Analytica then all egedly used that algorithm to 
+help political campaigns. 
+Regardless of the severity of Cambridge Analytica’s 
+alleged misconduct, a careful reading of the 10-K statements 
+shows that these risk factor statements warn about harm to 
+Facebook’s “business” and “ reputation” that “could” 
+materialize based on improper access to Facebook users’ 
+data—not about the occurrence or non- occurrence of data 
+breaches. How do we know that? Well, the statements say 
+so. The first and second statements expressly advise that 
+ AMALGAMATED BANK V. FACEBOOK, INC. 45 
+improper breaches “could harm” Facebook’s “business” and 
+“reputation.” 
+And although the third statement does not expressly 
+mention business and reputational harm, we know that is its 
+focus for two reasons. First, Facebook reported the 
+statement under the bolded section about breaches and 
+improper actions “ could harm [Facebook’s] reputation 
+and adversely affect our business.” Second, the very next 
+sentence places that statement into more context: “Affected 
+users or government authorities could initiate legal or 
+regulatory actions against us in connection with any security 
+breaches or improper disclosure of data, which could cause 
+us to incur significant expense and liability or result in orders 
+or consent decrees forcing us to modify our business 
+practices.” 
+Taken together, Facebook’s risk factor statements warn 
+about harm to its “reputation” and “business” that may come 
+to light if the public or the government learns about improper 
+access to its data. These statements do not represent that 
+Facebook was free from significant breaches at the time of 
+the filing. And if a reasonable investor thought so based on 
+Facebook’s 10- K statements, that “reasonable” investor 
+wasn’t acting so reasonably. Indeed, within the same 
+section, Facebook warned that “computer malware, viruses, 
+social engineering (predominantly spear phishing attacks), 
+and general hacking have become more prevalent in our 
+industry, have occurred on our systems in the past, and will 
+occur on our systems in the future.” Facebook expressly 
+advised that it experienced previous attempts to swipe its 
+data and that it would continue to face such threats. Beyond 
+Facebook’s own statements, much about the Cambridge 
+Analytica scandal was already public. In a December 2015 
+article, The Guardian reported that Cambridge Analytica 
+46 AMALGAMATED BANK V. FACEBOOK, INC. 
+had harvested data from “tens of millions” of Facebook users 
+“without their permission.” 1 These are the same facts 
+Shareholders use to claim Facebook deceived the public with 
+more than two years later. 
+So, on their face, none of the 10-K risk factor statements 
+are false or misleading. The statements advise that improper 
+access to data could harm Facebook’s reputation and 
+business. And Shareholders have not sufficiently alleged 
+that Facebook knew its reputation and business were already 
+harmed at the time of the filing of the 10 -K. Nor do they 
+allege that Facebook was aware of government ent ities or 
+users launching regulatory or legal actions based on the 
+Cambridge Analytica scandal in February 2017. 
+While acknowledging these shortcomings in the 
+Shareholders’ complaint, the majority takes the surprisingly 
+broad view that it’s irrelevant tha t “Facebook did not know 
+whether its reputation was . . . harmed” at the time of the 10-
+K filing. Maj. Op. 25. The majority instead asserts that it’s 
+enough that a breach had occurred, never mind whether the 
+breach led to a discernible effect on Facebook ’s reputation 
+or business at the time. Id . The majority goes so far as to 
+say that a fraud occurs even if the harm caused by the breach 
+was completely “unknown” to Facebook. Id. But if it was 
+“unknown” whether the breach led to reputational or 
+business harm, it’s hard to see how the risk factor statements 
+were untrue. Stating that harm could result from a breach is 
+not falsified by some “unknown” possibility of harm from a 
+breach. In other words, Facebook’s risk factor statements 
+
+1 See Harry Davies, Ted Cruz Using Firm that Harvested Data on 
+Millions of Unwitting Facebook Users , The Guardian (Dec. 11, 2015), 
+https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-
+president-campaign-facebook-user-data. 
+ AMALGAMATED BANK V. FACEBOOK, INC. 47 
+could not “dir ectly contradict what the defendant knew at 
+that time” if any harm was unknown to Facebook at the time. 
+Khoja, 899 F.3d at 1008.2 
+And In re Alphabet, Inc. Securities Litigation, 1 F.4th 
+687 (9th Cir. 2021), doesn’t transform every risk statement 
+into a false or misleading statement if a risk later comes to 
+fruition. Nor does it create a new requirement that a 
+company disclose every bad thing that ever happened to it. 
+In that case, Alphabet stated in two quarterly disclosure 
+forms that certain risks “could adversely affect our business, 
+financial condition, [and] results of operations,” but that 
+“[t]here have been no material changes to our risk factors 
+since our [last] Annual Report on Form 10- K.” 1 F.4th at 
+696 (simplified). What Alphabet didn’t discl ose is that, 
+before the reports came out, its internal Google investigators 
+had discovered a software glitch in one of its programs that 
+allowed third parties to collect users’ private data. Id. at 695. 
+Google’s legal and policy staff quickly recognized the 
+problem and warned in an internal memorandum that these 
+security issues would likely trigger an immediate regulatory 
+response and cause its senior executives to testify before 
+Congress. Id . at 696. When news inevitably broke six 
+
+2 Given the majority’s ana lysis of these statements, it’s difficult to see 
+how Shareholders can ever satisfy the scienter requirement. Indeed, “[a] 
+complaint will survive . . . only if a reasonable person would deem the 
+inference of scienter cogent and at least as compelling as an y opposing 
+inference one could draw from the facts alleged.” Tellabs, Inc. v. Makor 
+Issues & Rights, Ltd., 551 U.S. 308, 324 (2007). Such a strong inference 
+requires an “intent to deceive, manipulate, or defraud,” or “deliberate 
+recklessness”—which is “an extreme departure from the standards of 
+ordinary care.” Schueneman v. Arena Pharmaceuticals, Inc. , 840 F.3d 
+698, 705 (9th Cir. 2016). If the harm from Cambridge Analytica’s 
+breach was unknown at the time of the filing of the 10- K, it’s doubtful 
+this standard can be met. 
+48 AMALGAMATED BANK V. FACEBOOK, INC. 
+months later, Alphabet’s shares plummeted in value and, 
+sure enough, there were calls for government investigation. 
+Id. at 697. We concluded that “[r]isk disclosures that speak 
+entirely of as-yet-unrealized risks and contingencies and do 
+not alert the reader that some of these risks may already have 
+come to fruition can mislead reasonable investors.” Id . at 
+703 (simplified). In Al phabet’s case, the “warning in each 
+[quarterly report] of risks that ‘could’ or ‘may’ occur [was] 
+misleading to a reasonable investor [because] Alphabet 
+knew that those risks had materialized.” Id. at 704. 
+Contrary to the majority’s assertion, this case i s nothing 
+like Alphabet. In Alphabet , the company knew a risk had 
+come to fruition —set out as clear as day in an internal 
+company memo—that a data bug would cause it greater 
+regulatory scrutiny. Id. at 696. Rather than disclose its 
+assessment, Alphabet chose to bury it and even stated that 
+no material changes existed in its risk factors. Id. at 696–97, 
+703. Here, Facebook might have known of breaches of its 
+data—even potentially serious breaches —when it gave its 
+risk statements, but Shareholders don’t allege that Facebook 
+knew that those breaches would lead to immediate harm to 
+its business or reputation. As the majority concedes, the 
+harm from Cambridge Analytica’s breach of Facebook’s 
+policies was “unknown” at the time of the 10- K filing. See 
+Maj. O p. 25. Nor did Facebook lull investors into 
+complacency by suggesting that nothing had changed on its 
+risks front. These facts make all the difference here. Cf . 
+Weston, 29 F.4th at 621 (dismissing fraud claims alleging 
+that Twitter’s risk warning statement—that its “product and 
+services may contain undetected software errors, which 
+could harm our business and operating results” —was 
+misleading because the risk had materialized by then). 
+ AMALGAMATED BANK V. FACEBOOK, INC. 49 
+Because Facebook did not present false or misleading 
+risk statements, and Alphabet did not modify a common-
+sense understanding of truthfulness and disclosure, we 
+should have affirmed the dismissal of this claim. 
+II. 
+User Control Statements 
+The next category of alleged falsehoods concerns 
+Facebook’s representations that users control their data and 
+information. During the relevant period for this lawsuit, 
+Facebook and its executives made various statements 
+emphasizing users’ control over the data they shared with 
+Facebook, such as— 
+• “You own all of the content and 
+information you post on Facebook, and 
+you can control how it is shared through 
+your privacy and application settings .” 
+Facebook’s Statement of Rights and 
+Responsibilities web page, ~ January 30, 
+2015 to May 25, 2018. 
+• “[W]hen you share on Facebook you 
+need to know . . . . No one is going to get 
+your data that shouldn’t have it. That 
+we’re not going to make money in ways 
+that you would feel uncomfortable with 
+off your data. And that you’re controlling 
+who you share with . . . . Privacy for us is 
+making sure that you feel secure, sharing 
+on Facebook.” Sheryl Sandberg, Axios 
+interview, October 12, 2017. 
+50 AMALGAMATED BANK V. FACEBOOK, INC. 
+• “Our apps have long been focused on 
+giving people transparency and control . . 
+. .” Sheryl Sandberg, Facebook Gather 
+Conference, January 23, 2018. 
+A. 
+Shareholders have adequately shown that these 
+statements were misleading based on the allegation that 
+Facebook “whitelisted” third parties. According to the 
+Shareholders, at the same time these statements were made, 
+Facebook continued to allow certain “whitelisted” third 
+parties, mostly app developers and device manufacturers, to 
+continue to access data against a user’s wishes. Shareholders 
+allege that Facebook overrode user privacy settings to allow 
+these third parties access to the data of, not only the 
+Facebook user, but that of the user’s friends as well. In fact, 
+Facebook paid the Federal Trade Commission $5 billion to 
+settle charges stemming from the “whitelisting” allegations. 
+These facts are enough to plead that the statements were 
+false—the only question i s whether the statements caused 
+Shareholders any loss. See Grigsby v. BofI Holding, Inc., 
+979 F.3d 1198, 1204 (9th Cir. 2020) (explaining that 
+“investors must demonstrate that the defendant’s deceptive 
+conduct caused their claimed economic loss”) (simplif ied). 
+Facebook’s “whitelisting” program became public on June 
+3, 2018, when the New York Times reported that Facebook 
+shared users’ and their friends’ data with multiple 
+“whitelisted” companies. When it comes to false statements, 
+a plaintiff can usually show loss causation by pointing to an 
+immediate stock drop after the falsity was uncovered. Id. at 
+1205 (“A plaintiff can satisfy the loss -causation pleading 
+burden by alleging that a corrective disclosure revealed the 
+truth of a defendant’s misrepresentation and thereby caused 
+ AMALGAMATED BANK V. FACEBOOK, INC. 51 
+the company’s stock price to drop and investors to lose 
+money.”) (simplified). The wrinkle here is that Facebook’s 
+stock didn’t drop immediately after the whitelisting became 
+public. It wasn’t until several weeks later —July 26, 2018, 
+the day after Facebook announced slower growth than 
+expected—that Facebook’s stock dropped by almost 19%. 
+Facebook contends that this temporal gap proves that its 
+misleading user control statements didn’t cause 
+Shareholders any loss. 
+But sometimes it takes time for the full scope of a loss 
+from a misrepresentation to materialize. As In re Gilead 
+Sciences Securities Litigation, 536 F.3d 1049, 1058 (9th Cir. 
+2008) recognized, a “limited temporal gap between the time 
+a misrepresentation is publicly revealed and the subsequent 
+decline in stock value does not render a plaintiff’s theory of 
+loss causation per se implausible.” Indeed, in that case, three 
+months had passed between the disclosure of Gilead’s 
+alleged deceptive marketing practices and the stock drop 
+after Gilead missed revenue targets. Id. at 1057–58. Despite 
+this gap, we concluded the plaintiffs had plausibly alleged 
+that the less -than-expected revenue was caused by lower 
+end-user demand, which, in turn, was caused by disclosing 
+the company’s deceptive marketing. Id . at 1058. Thus, an 
+“immediate market reaction” is not necessary when the 
+market might “fail[] to appre ciate [the] significance” of a 
+disclosure right away. Id. at 1057–58. 
+So, we shouldn’t be too quick to dismiss a claim based 
+on a delay in the manifestation of loss. In my view, it’s 
+plausible that the whitelisting revelation made on June 18 
+caused user engagement and advertising revenue to 
+diminish, which contributed to the lower earnings 
+announced on July 25 and the immediate stock drop. 
+Facebook counters that the European Union’s new privacy 
+52 AMALGAMATED BANK V. FACEBOOK, INC. 
+regulations—not the whitelisting revelation —caused the 
+lower July 25 earnings. That might be right. But, at the very 
+least, Shareholders deserve some discovery to prove their 
+theory of loss causation. 
+B. 
+But the analysis of the user control statement must be 
+different when it comes to the Cambridge Analytica scandal. 
+Shareholders allege— and the majority agrees —that new 
+revelations about Cambridge Analytica from March 2018 
+also proved Facebook’s user contr ol statements were false. 
+As a reminder, in late 2015, Facebook discovered that 
+Cambridge Analytica obtained personality score data 
+harvested from Facebook data and demanded that 
+Cambridge Analytica delete all such data. In response, 
+Cambridge Analytica certified to Facebook that it would 
+delete the data. On March 16, 2018, Facebook announced 
+that it had received reports from the media that Cambridge 
+Analytica did not destroy the data and that it was suspending 
+Cambridge Analytica from the platform. News reports then 
+confirmed that Cambridge Analytica continued to possess 
+and use harvested data from Facebook. Within a week of 
+these disclosures, Facebook’s shares dropped nearly 18%. 
+Shareholders contend that these revelations prove the falsity 
+of Facebook’s user control statements. 
+These Cambridge Analytica disclosures did not make the 
+user control statements materially false. To prevail, 
+Shareholders must show that the Facebook user control 
+statements “affirmatively create[d] an impression of a stat e 
+of affairs that differ[ed] in a material way from the one that 
+actually exist[ed.]” Brody, 280 F.3d at 1006. But 
+Cambridge Analytica’s lies to Facebook and its continued 
+violation of Facebook’s privacy policies do not mean that 
+ AMALGAMATED BANK V. FACEBOOK, INC. 53 
+Facebook’s privacy protections do not actually exist. Aside 
+from the whitelisting issue described above, Facebook 
+seemingly described its privacy policies accurately. 
+Cambridge Analytica’s violation of those policies doesn’t 
+falsify them. 
+Imagine a bank. Say that the bank announces a range of 
+security measures to protect its customers’ money. Then 
+consider if a bank robber defeats those measures, breaks in, 
+and ultimately steals a bag of cash. Would anyone say that 
+the bank lied about its security measures? Clearly, no. Here, 
+a supposed bad actor violating Facebook’s privacy controls 
+to improperly access user data doesn’t make the company’s 
+statements about its policies misleading. 
+What makes our ruling all the more odd is that much of 
+the Cambridge Analytica scandal was already public by the 
+time of the user control statements. The first article about it 
+dropped in 2015. So it’s hard to see how this new 
+“revelation” added to the “total mix” of information 
+available to Shareholders or “significantly altered” their 
+decision-making. See Retail Wholesale & Dep’t Store 
+Union Loc. 338 Ret. Fund, 845 F.3d at 1274. We thus should 
+have limited Facebook’s liability for the user control 
+statements to the “whitelisting” allegations. 
+III. 
+For these reasons, I respectfully dissent from Part II.A of 
+the majority opinion, from Part II.C as it relates to 
+Cambridge Analytica, and from Part III.

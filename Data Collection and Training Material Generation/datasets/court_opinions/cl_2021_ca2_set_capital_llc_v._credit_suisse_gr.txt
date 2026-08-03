@@ -1,0 +1,1236 @@
+19-3466 
+Set Capital LLC v. Credit Suisse Group AG 
+
+In the 
+United States Court of Appeals 
+For the Second Circuit 
+________ 
+
+AUGUST TERM, 2019 
+
+ARGUED: APRIL 30, 2020 
+DECIDED: APRIL 27, 2021 
+
+No. 19-3466-cv 
+
+SET CAPITAL LLC, STEFAN JAGER, NIKOLAY DROZHZHINOV, 
+ALEKSANDR GAMBURG, ACM, LTD., 
+Lead Plaintiffs-Appellants, 
+
+RAJAN CHAHAL, individually and on behalf of all others similarly 
+situated, SHAOLEI QIU, GLENN EISENBERG, 
+Plaintiffs, 
+
+v. 
+
+CREDIT SUISSE GROUP AG, DAVID R. MATHERS, TIDJANE THIAM, 
+CREDIT SUISSE AG, CREDIT SUISSE INTERNATIONAL, JANUS HENDERSON 
+GROUP PLC, JANUS INDEX & CALCULATION SERVICES LLC, JANUS 
+DISTRIBUTORS, LLC, DBA JANUS HENDERSON DISTRIBUTORS, 
+Defendants-Appellees. 
+________ 
+
+Appeal from the United States District Court 
+for the Southern District of New York. 
+________ 
+
+ 2 No. 19-3466-cv 
+
+Before: WALKER, POOLER, and LYNCH, Circuit Judges. 
+________ 
+
+Set Capital LLC, Stefan Jager, Nikolay Drozhzhinov, Aleksandr 
+Gamburg, and ACM, Ltd. (collectively, Set Capital ) brought this 
+securities class action lawsuit against Credit Suisse Group AG, Credit 
+Suisse AG, and Credit Suisse International (collectively, Credit 
+Suisse); Credit Suisse’s CEO Tidjane Thiam and CFO David R. 
+Mathers (together, the Individual Defendants); and Janus Henderson 
+Group PLC, Janus Index & Calculation Services LLC, and Janus 
+Distributors, LLC, doing business as Janus Henderson Distributors 
+(collectively, Janus). Set Capital principally alleges that, on February 
+5, 2018, Credit Suisse, Janus, and the Individual Defendants executed 
+a complex fraud to collapse the market for VelocityShares Daily 
+Inverse VIX Short Term Exchange Traded Notes (XIV Notes), earning 
+hundreds of millions of dollars in profit at their investors’ exp ense. 
+The district court (Torres, J.) dismissed the complaint for failure to 
+plead a strong inference of scienter. For the reasons that follow , we 
+AFFIRM in part and VACATE and REMAND in part. 
+________ 
+
+MICHAEL EISENKRAFT (Laura H. Posner, Carol V. 
+Gilden, and Eric S. Berelovich, on the brief), Cohen 
+Milstein Sellers & Toll PLLC , New York, New 
+York, for Appellants Set Capital LLC, Stefan Jager, 
+Nikolay Drozhzhinov, Aleksandr Gamburg, and ACM, 
+Ltd. 
+HERBERT SCOTT WASHER (David G. Januszewski, 
+Nola B. Heller, Peter J. Linken, on the brief), Cahill 
+Gordon & Reindel LLP, New York, New York, for 
+Appellees Credit Suisse Group AG, Credit Suisse AG, 
+Credit Suisse International, Tidjane Thiam, and David 
+R. Mathers 
+ 3 No. 19-3466-cv 
+
+JASON M. HALPER (Jared J. Stanisci, Gillian Groarke 
+Burns, Tianyin Luo, Victor M. Bieger, on the brief), 
+Cadwalader, Wickersham & Taft LLP, New York, 
+New York, for Appellees Janus Henderson Group 
+PLC, Janus Index & Calculation Services LLC, and 
+Janus Distributors, LLC 
+________ 
+JOHN M. WALKER, JR., Circuit Judge: 
+Set Capital LLC, Stefan Jager, Nikolay Drozhzhinov, Aleksandr 
+Gamburg, and ACM, Ltd. (collectively, Set Capital ) brought this 
+securities class action lawsuit against Credit Suisse Group AG, Credit 
+Suisse AG, and Credit Suisse International (collectively, Credit 
+Suisse); Credit Suisse’s CEO Tidjane Thiam and CFO David R. 
+Mathers (together, the Individual Defendants); and Janus Henderson 
+Group PLC, Janus Index & Calculation Services LLC, and Janus 
+Distributors, LLC, doing business as Janus Henderson Distributors 
+(collectively, Janus). Set Capital principally alleges that, on February 
+5, 2018, Credit Suisse, Janus, and the Individual Defendants executed 
+a complex fraud to collapse the market for VelocityShares Daily 
+Inverse VIX Short Term Exchange Traded Notes (XIV Notes), earning 
+hundreds of millions of dollars in profit at their investors’ expense. 
+The district cour t (Torres, J.) dismissed the complaint for failure to 
+plead a strong inference of scienter. For the reasons that follow, we 
+AFFIRM in part and VACATE and REMAND in part. 
+BACKGROUND 
+This appeal stems from the February 5, 2018 collapse of the 
+market for certain investment vehicles called XIV Notes. XIV Notes 
+were a derivative financial product that increased in value when the 
+market was calm and decreased in value when the market was 
+volatile. The notes were issued by Credit Suisse and priced based on 
+the inverse of a volatility index called the S&P 500 VIX Short -Term 
+ 4 No. 19-3466-cv 
+
+Futures Index (VIX Futures Index). 
+This case concerns Set Capital’s allegation that, after observing 
+prior episodes of market volatility, Credit Suisse discerned an ability 
+to depress prices for XIV Notes by purchasing VIX futures contracts 
+on days when volatility spiked . In essence, Set Capital claims that 
+Credit Suisse used this knowledge as part of a scheme to sell millions 
+of XIV Notes before engineering a near-total collapse in their price 
+through just 15 minutes of its own trading. Set Capital further alleges 
+that Janus, although not directly involved in this manipulative 
+scheme, exacerbated the damage by failing to publish accurate prices 
+for XIV Notes during the window of time when the value of those 
+notes collapsed. The complaint alleges that the scheme cost investors 
+$1.8 billion while at the same time allowing Credit Suisse to realize 
+more than $475 million in gains. 
+In the background section that follows, we explain in detail: (1) 
+the characteristics of XIV Notes, including their relationship to the 
+VIX Futures Index; (2) the way Credit Suisse’s trading impacted 
+prices for XIV Notes during prior episodes of market volatility; (3) the 
+extent to which Credit Suisse and Janus warned investors about risks 
+of investing in XIV Notes; and (4) the remarkable collapse of XIV 
+Notes following significant volatility on February 5, 2018. As always 
+at this stage of the litigation, we draw our discussion of the facts from 
+the complaint, which must be taken as true.
+1. The Characteristics of XIV Notes 
+XIV Notes were Exchange Traded Notes (ETNs) issued and 
+sold by Credit Suisse and placed and marketed by Janus. The notes 
+were traded on NASDAQ and were related to the Chicago Board 
+Options Exchange’s VIX Index (VIX Index). The VIX Index is not an 
+
+1 See J. App. at 26–125 (complaint). 
+ 5 No. 19-3466-cv 
+
+asset, but rather a measure of expected volatility in the stock market. 
+When the market expects higher volatility, the VIX Index increases. 
+When the market expects lower volatility, the VIX Index decreases. 
+Because it measures expected swings in the market, the VIX Index is 
+sometimes referred to as Wall Street’s “fear index” or “fear gauge.”
+Although the VIX Index is not a tradable asset, investors may 
+take a position on future levels of market volatility by purchasing 
+futures contracts on the VIX Index. 3 When viewed in the aggregate, 
+the prices of these futures contracts provide a window into whether 
+investors expect market volatility to rise or fall over a specified period 
+of time. To help investors digest this information, S &P created the 
+S&P 500 VIX Short-Term Futures Index (VIX Futures Index), which 
+tracks a portfolio of short-term futures contracts on the VIX Index. 
+The XIV Notes at issue in this case were designed to track the 
+inverse (or opposite) of the VIX Futures Index. This inverse 
+relationship between XIV Notes and the VIX Futures Index meant 
+that investors in XIV Notes would profit from low volatility in the 
+stock market. As market volatility declined and prices underlying the 
+VIX Futures Index decreased, the value of XIV Notes would increase 
+by an equivalent amount. The converse, of course, was also true. As 
+market volatility increased and prices underlying the VIX Futures 
+Index rose, the value of XIV Notes would decline proportionally. 
+In the event of early redemption, acceleration, or m aturity of 
+the XIV Notes, Credit Suisse agreed to pay noteholders based on the 
+notes’ “closing indicative value.” An affiliate of Janus, Janus Index & 
+Calculation Services LLC
+ (JIC), calculated the closing indicative value 
+at the end of each trading day using a formula that automatically 
+
+2 See Compl. ¶ 50. 
+3 A futures contract is an agreement to purchase or sell a particular 
+commodity on a later date at a predetermined price. 
+ 6 No. 19-3466-cv 
+
+adjusted the notes’ value based on the inverse of price changes 
+observed on the VIX Futures Index. 4 Because the closing indicative 
+value was calculated only once each day, JIC also computed an 
+“intraday indicative value” every 15 seconds, which was used by 
+investors trading their notes in the secondary market. 5 JIC used the 
+same formula to automatically calculate this value, which was 
+promptly distributed by NASDAQ. Although the intraday indicative 
+value reflected only a theoretical price for XIV Notes, the secondary 
+market price tracked the intraday indicative value on a typical day. 
+To receive a payment from Credit Suisse based on the closing 
+indicative value, XIV noteholders could redeem their notes early or 
+attempt to hold their notes through maturity. But noteholders could 
+not fully control the timing of their notes’ redemption: As disclosed 
+to investors, Credit Suisse could accelerate the redemption of all XIV 
+Notes either at its option or upon the occurrence of one or more pre -
+defined “Acceleration Events.”
+6 If Credit Suisse accelerated the notes 
+at its option, noteholders would receive a payment based on the 
+closing indicative value on a predetermined date no earlier than five 
+business days after receiving notice of the acceleration. If Credit 
+Suisse declared an Acceleration Event, noteholders would receive a 
+payment based on the closing indicative value on the day the 
+acceleration was declared. As relevant here, one Acceleration Event 
+would occur if, at any point, the intraday indicative value of the XIV 
+
+4 JIC had “the sole ability to calculate and disseminate the Closing 
+Indicative Value” of the XIV Notes. J. App. at 187. 
+5 The Offering Documents (to be described) state that “JIC or its affiliate 
+is responsi ble for computing and disseminating the Intraday Indicative 
+Value.” Id. at 135, 145. 
+6 An affiliate of Credit Suisse, Credit Suisse International (CSI), had “the 
+sole ability to make determinations with respect to . . . certain Acceleration 
+Events.” Id. at 187. 
+ 7 No. 19-3466-cv 
+
+Notes fell such that it was less than or equal to 20 percent of the prior 
+day’s closing indicative value.7 
+2. Prior Episodes of Market Volatility Impacting XIV Notes 
+Due to sustained periods of stability in the market, XIV 
+noteholders for the most part saw the value of XIV Notes climb from 
+2010 until 2018. On three occasions in 2011, 2015, and 2016, however, 
+significant episodes of market volatility caused the value of VIX 
+futures contracts to spike and , correspondingly, the value of XIV 
+Notes to drop. During these three volatility spikes, Credit Suisse, as 
+well as other issuers of volatility-related ETNs, bought large 
+quantities of VIX futures contracts, which were increasing in value, in 
+order to offset or “hedge” against potential losses in the ETNs they 
+issued, which were decreasing in value.8 Each time they attempt ed 
+to do so, however, there was insufficient liquidity in the VIX futures 
+market—that is, not enough VIX futures contracts to meet the 
+hedging demand. As a result of this liquidity squeeze, Credit Suisse’s 
+hedging purchases caused the price of VIX futures contracts to spike 
+over and above what would have been expected based on market 
+volatility alone. At the same time, these spikes caused the value of 
+XIV Notes —the inverse of the VIX Futures Index—to temporarily 
+plummet. 
+Pursuant to Credit Suisse’s internal risk protocols, a ll three of 
+these liquidity incidents were promptly reported to Credit Suisse’s 
+Capital Allocation and Risk Management Committee (CARMC), of 
+which the Individual Defendants were members. In response, Credit 
+
+7 Id. at 184. 
+8 In these circumstances, Credit Suisse routinely hedged by taking short 
+positions on VIX futures contracts. Thus, a drop in the VIX Futures Index 
+would increase Credit Suisse’s obligations to XIV noteholders but would 
+also allow Credit Suisse to profit from its short position. See Compl. ¶ 66. 
+ 8 No. 19-3466-cv 
+
+Suisse sought alternative ways to hedge its own exposure to XIV 
+Notes. On July 1, 2016, Credit Suisse announced (July 2016 
+Announcement) that it may condition all future sales of XIV Notes on 
+the counterparty’s agreement “to sell to Credit Suisse certain hedging 
+instruments consistent with Credit Suisse’s hedging strategy, 
+including but not limited to swaps.”9 
+Following the July 2016 Announcement , Credit Suisse 
+increased the volume of XIV Notes in the market. On June 30, 2017, 
+it offered an additional 5,000,000 notes on top of the roughly 9,000,000 
+notes that were already issued and outstanding. And on January 29, 
+2018, it offered another 16,275,0 00 notes on top of the roughly 
+10,800,000 notes then -outstanding. While only a portion of the 
+16,275,000 notes were ultimately sold between January 29 and 
+February 5, this last offering flooded the market with millions of XIV 
+Notes just days before their value collapsed.10 Notably, Credit Suisse 
+offered and issued these notes despite shareholder pressure to 
+eliminate sales of volatility -related ETNs. It also took these actions 
+even though increasing the volume of XIV Notes outstanding would 
+require Credit Suisse , in the event of another jump in market 
+volatility, to increase its hedg ing activity by purchasing additional 
+VIX futures contracts. As Credit Suisse knew, these purchases would 
+exacerbate the illiquidity that contributed to the three prior price 
+drops of XIV Notes in 2011, 2015, and 2016. 
+
+9 Compl. ¶ 75. 
+10 Between January 29 and February 2, 2018, Credit Suisse issued at least 
+4,200,000 of the 16,275,000 XIV Notes offered, increasing the volume of XIV 
+Notes outstanding by more than 38.9%. This increase does not account for 
+additional sales of XIV Notes that may have occurred between February 3 
+and February 5, 2018, at which point the market for XIV Notes collapsed. 
+ 9 No. 19-3466-cv 
+
+3. Disclosures in the Offering Documents 
+Credit Suisse and Janus issued a prospectus for the XIV Notes 
+as well as a supplement ( together, the Offering Documents ) in 
+connection with their offering of the 16,275,000 notes on January 29, 
+2018. The Offering Documents detailed the structure of XIV Notes 
+(referred to in the documents as “ETNs”), the conditions under which 
+Credit Suisse would pay XIV noteholders, and the methods for 
+calculating the closing and intraday indicative values. 
+The Offering Documents also contained numerous warnings 
+concerning risks of investing in XIV Notes. They informed investors 
+that XIV Notes were “designed as short -term trading vehicles for 
+investors managing their portfolios on a daily basis.”11 They warned 
+investors that “[t]he long term expected value of your ETNs is zero,” 
+and emphasized that “[i]f you hold your ETNs as a long term 
+investment, it is likely that you will lose all or a substantial portion of 
+your investment.”12 
+The Offering Documents also cautioned investors that Credit 
+Suisse intended to hedge its exposure to XIV Notes through trading 
+in related securities, including VIX futures contracts used to calculate 
+the VIX Futures Index. In one section, the Offering Documents stated 
+that “this hedging activity could affect the value of the [VIX Futures] 
+Index, and accordingly the value of the ETNs.”
+13 In another section, 
+they stated, “Although we and our affiliates have no reason to believe 
+that our or their hedging activities will have a material impact on the 
+level of the applicable underlying [VIX Futures] Index, there can be 
+no assurance that the level of the applicable underlying Index will not 
+
+11 J. App. at 166–67 (emphasis omitted). 
+12 Id. at 154 (emphases omitted). 
+13 Id. at 151. 
+ 10 No. 19-3466-cv 
+
+be affected.” 14 The Offering Documents acknowledged that Credit 
+Suisse’s hedging trades “may result in [Credit Suisse’s] receipt of a 
+profit, even if the market value of the ETNs declines,” 15 and further 
+warned that Credit Suisse’s trading activity “may present a conflict” 
+between the bank’s interests and the interests of investors.16 
+The Offering Documents additionally advised investors of risks 
+related to the pricing of XIV Notes and Credit Suisse ’s right s to 
+accelerate the notes. With respect to the pricing of XIV Notes, they 
+disclosed that the intraday indicative value may not accurately reflect 
+the economic value of XIV Notes traded on the secondary market. 
+They advised that “[t]he Intraday Indicative Value calculation is not 
+intended as a price or quotation, or as an offer or solicitation for the 
+purchase, sale, redemption, acceleration or termination of your ETNs, 
+nor will it reflect hedging or transaction costs, credit considerations, 
+market liquidity or bid -offer spreads.” 17 The Offering Documents 
+further warned that the published prices on the VIX Futures Index 
+could be subject to “delay or postponement,” which in turn would 
+affect the accuracy of the intraday indicative value.18 With respect to 
+acceleration, the y specifically advised investors that Credit Suisse 
+retained the right to accelerate the notes at any time 19 and warned 
+that, in the event of an acceleration, investors were “likely to lose part 
+or all of [their] initial investment.”20 
+
+14 Id. at 188. 
+15 Id. at 151. 
+16 Id. at 163. 
+17 Id. at 177. 
+18 Id. 
+19 Credit Suisse could declare an optional acceleration on any business 
+day. See id. at 183. It could declare an Acceleration Event only in certain 
+circumstances. Id. 
+20 J. App. at 130, 140, 148, 152. 
+ 11 No. 19-3466-cv 
+
+Following their review of the Offering Documents, Set Capital 
+purchased XIV Notes during the class period of January 29 through 
+February 5, 2018. During this period, Credit Suisse sold XIV Notes 
+for prices as high as $135 per note, and the market cap for XIV Notes 
+increased to approximately $1.9 billion. 
+4. Market Volatility on February 5, 2018 and the Collapse of the 
+Market for XIV Notes 
+On February 5, 2018, the S&P 500 dropped 4.1 percent. As 
+before, this spike in market volatility increased prices for VIX futures 
+contracts comprising the VIX Futures Index and accordingly 
+decreased the value of XIV Notes. Over the course of regular trading 
+on February 5, the intraday indicative value of the nearly 15 million 
+XIV Notes outstanding dropped more than 30 percent from $108.37 
+to $72.59. 
+Within 15 minutes after the close of regular trading at 4:00 p.m., 
+Credit Suisse purchased more than 105,000 VIX futures contracts to 
+hedge its exposure in sales of XIV Notes. Credit Suisse’s purchases 
+amounted to roughly one -fourth of the entire VIX futures marke t, 
+which drove up trading to more than 167 times the usual volume. As 
+was the case with the three prior incidents of market volatility, Credit 
+Suisse’s hedging trades contributed to a liquidity squeeze that caused 
+the prices of VIX futures contracts to skyrocket. By 4:09 p.m., just nine 
+minutes into Credit Suisse’s hedge, this further spike in prices on the 
+VIX Futures Index caused the value of XIV Notes to plummet to 
+approximately $20. Six minutes later, by 4:15 p.m., Credit Suisse’s 
+continued purchases of VIX futures contracts drove down the value 
+ 12 No. 19-3466-cv 
+
+of XIV Notes to just over $4—a drop of more than 96 percent from the 
+prior day’s closing indicative value.21 
+On top of all this, for one hour from 4:09 p.m. to 5:09 p.m., the 
+intraday indicative value for XIV Notes was not updated every 15 
+seconds as required and did not reflect an accurate valuation of the 
+notes. Instead, d uring this hour , the intraday indicative value 
+updated only sporadically and valued the XIV Notes at about $24 to 
+$27 per note (the Flatline Value). This published Flatline Value 
+persisted notwithstanding that, in reality, each note almost 
+immediately was worth between $4.22 and $4.40. 22 It was not until 
+5:09 p.m . (and after more than thirty minutes during which the 
+intraday indicative value failed to update at all) that NASDAQ 
+disseminated the correct intraday indicative value of $4.22.23 During 
+this hour, investors purchased more than $700 million in XIV Notes 
+at inflated secondary market prices based on their incorrect belief that 
+XIV Notes had weathered the spike in market volatility without 
+triggering an Acceleration Event. 
+
+21 The complaint alleges that, based on historic al data, a 4 percent drop 
+in the S&P 500 should have caused prices for VIX futures contracts to jump 
+by approximately 15 to 25 percent. As a result of Credit Suiss e’s hedging 
+trades, those prices in fact increased by nearly 100 percent. See Compl. 
+¶ 170. 
+22 As Janus points out in its brief, the complaint does not allege that the 
+intraday indicative value failed to accurately track the inverse of the VIX 
+Futures Index, because that index had itself flatlined during the one hour 
+in question. See Br. of Def.-Appellee Janus at 30–31; J. App. at 414–71. 
+23 At 4:09:48 p.m., the intraday indicative value of the XIV Notes was 
+reported as $27.0855, before updating at 4:12:33 p.m. to a value of $27.1951, 
+updating at 4:12:47 p.m. to a value of $26.3182 and then , at 4:13:03 p.m., 
+updating to a value of $24.8933. There were slight fluctuations in the 
+intraday indicative value until 4:38:34 p.m. when the value froze at 
+$24.6961. See Compl. ¶ 174. There was no update thereafter until 5:09:05 
+p.m. when the value was reported as $4.2217. Id. 
+ 13 No. 19-3466-cv 
+
+But, of course, an Acceleration Event had occurred : The 
+intraday indicative value of the XIV Notes plummeted more than 80 
+percent from the prior day’s closing indicative value. Accordingly, 
+on February 6, 2018, Credit Suisse issued a press release stating that 
+the XIV Notes had experienced an Acceleration Event and that Credit 
+Suisse would permanently cease issuing new XIV Notes. Shortly 
+thereafter, Credit Suisse delivered an irrevocable call notice for all 
+notes outstanding, selecting February 15 as the accelerated valuation 
+date. On February 21, Credit Suisse terminated all XIV Notes and 
+paid each investor $5.99 per note, the closing indicative value on 
+February 15, 2018. This resulted in approximately $1.8 billion in 
+market losses to investors, many of whom were Credit Suisse ’s own 
+clients. 
+On April 25, 2018, Credit Suisse ’s quarterly report stated that 
+its equity sales and trading division earned approximately $490 
+million for its own account in the prior fiscal quarter “due to more 
+favorable trading conditions, particul arly higher levels of volatility 
+which benefited our derivatives business.”
+24 Although Credit 
+Suisse’s records are not publicly available, Set Capital estimates that 
+Credit Suisse earned between $475 and $542 million in profits when 
+it redeemed the XIV Notes. 
+5. Prior Proceedings 
+After several plaintiffs sued Credit Suisse and Janus following 
+the collapse of the XIV Notes, the actions were consolidated and Set 
+Capital, one of the lead plaintiffs, filed a class action complaint. The 
+complaint principally asserts three theories of primary liability under 
+Sections 9(a) and 10(b) of the Securities Exchange Act of 1934 
+(Exchange Act)
+25 and Section 11 of the Securities Act of 1933 
+
+24 Compl. ¶¶ 16, 194. 
+25 See 15 U.S.C. § 78i(a) (Section 9(a)); 15 U.S.C. § 78j(b) (Section 10(b)). 
+ 14 No. 19-3466-cv 
+
+(Securities Act).26 First, Set Capital claims that Credit Suisse and the 
+Individual Defendants engaged in a scheme to manipulate the market 
+in violation of Section 10(b) by issuing millions of XIV Notes in 
+January and February 2018 knowing or recklessly disregarding that 
+their own hedging activity would trigger a liquidity squeeze in VIX 
+futures contracts, destroy the value of XIV Notes, and allow Credit 
+Suisse to accelerat e the notes’ redemption at a substantial loss to 
+investors while locking in a profit for its own account . Second, Set 
+Capital claims that Credit Suisse and Janus made a material 
+misstatement or omission in violation of Sections 9(a) and 10(b) by 
+failing to correct the Flatline Value during afterhours trading on 
+February 5. Third, Set Capital claims that the Offering Documents 
+issued by Credit Suisse and Janus contained material misstatements 
+or omissions in violation of Sections 10(b) and 11 by repeatedly 
+warning of “risks” they knew were certain to occur. In addition, Set 
+Capital claims that Credit Suisse and Janus are secondarily liable as 
+“control persons” of Credit Suisse International ( CSI) and JIC under 
+Section 15 of the Securities Act
+27 and Section 20(a) of the Exchange 
+Act.28 
+Credit Suisse, Janus, and the Individual Defendants moved to 
+dismiss the complaint on November 2, 2018. On August 16, 2019, the 
+magistrate judge (Netburn, J .) recommended dismissal of all claims 
+on the basis that Set Capital failed to plead a primary violation of 
+Section 10(b), which overlaps in substance with the elements of 
+Sections 9(a) and 11. Specifically, the magistrate judge concluded that 
+Set Capital failed to allege an actionable misstatement or omission in 
+the Offering Documents and that, although Set Ca pital sufficiently 
+alleged acts of market manipulation and a misrepresentation in the 
+
+26 See 15 U.S.C. § 77k (Section 11). 
+27 See 15 U.S.C. § 77o (Section 15). 
+28 See 15 U.S.C. § 78t(a) (Section 20(a)). 
+ 15 No. 19-3466-cv 
+
+Flatline Value, the complaint failed to support a strong inference of 
+scienter. Because in the magistrate judge’s view the complaint failed 
+to allege a primary violation, the magistrate judge also recommended 
+dismissal of Set Capital’s secondary claims under Sections 15 and 
+20(a). On September 25, the district court issued an order adopting 
+the recommendations of the magistrate judge in full and dismissing 
+the action with prejudice. This appeal followed. 
+DISCUSSION 
+ We review a district court’s dismissal of a complaint for failure 
+to state a claim de novo, “accepting all factual claims in the complaint 
+as true, and drawing all reasonable inferences in the plaintiff’s 
+favor.”29 “To survive a motion to dismiss, a complaint must contain 
+sufficient factual matter, accepted as true, to ‘state a claim to relief that 
+is plausible on its face.’ ”30 A claim is facially plausible “when the 
+plaintiff pleads factual c ontent that allows the court to draw the 
+reasonable inference that the defendant is liable for the misconduct 
+alleged.”31 
+A complaint alleging securities fraud must also satisfy 
+heightened pleading requirements set forth in Federal Rule of Civil 
+Procedure 9(b) and the Private Securities Litigation Reform Act of 
+1995 (PSLRA). 32 Rule 9(b) requires litigants to “state with 
+
+29 Anschutz Corp. v. Me rrill Lynch & Co., Inc., 690 F.3d 98, 107 (2d Cir. 
+2012) (quoting Famous Horse Inc. v. 5th Ave. Photo Inc., 624 F.3d 106, 108 (2d 
+Cir. 2010)). 
+30 Ashcroft v. Iqbal , 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. 
+Twombly, 550 U.S. 544, 570 (2007)). 
+31 Cavello Bay Reinsurance Ltd . v. Shubin Stein, 986 F.3d 161, 165 (2d Cir. 
+2021) (quoting Iqbal, 556 U.S. at 678). 
+32 See ATSI Comm c’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 99 (2d Cir. 
+2007). 
+ 16 No. 19-3466-cv 
+
+particularity the circumstances constituting fraud.” 33 To do so, a 
+plaintiff must “(1) specify the statements that the plaintiff conte nds 
+were fraudulent, (2) identify the speaker, (3) state where and when 
+the statements were made, and (4) explain why the statements were 
+fraudulent.”34 The PSLRA, in turn, requires a plaintiff alleging 
+securities fraud to (1) specify each misleading statement, (2) set forth 
+the facts on which a belief that a statement is misleading was formed, 
+and (3) state with particularity facts giving rise to a “strong inference” 
+that the defendant acted with scienter—the required state of mind.35 
+In this appeal, Set Capital argues that the district court erred by 
+dismissing its market manipulation and Flatline Value claims for 
+failure to plead a strong inference of scienter. Set Capital also argues 
+that the district court erred when it concluded that the complaint does 
+not allege actionable misstatement s or omission s in the Offering 
+Documents. For the reasons that follow, we agree with Set Capital in 
+part. We conclude that the complaint plausibly alleges a strong 
+inference of scienter to support Set Capital’s claim for market 
+manipulation, and that it has identified actionable misstatements or 
+omissions in the Offering Documents. We agree with the district 
+court, however, that the complaint does not support a strong 
+inference that Credit Suisse and Janus acted with scienter when they 
+failed to correct the Flatline Value during afterhours trading on 
+February 5. 
+
+33 Fed. R. Civ. P. 9(b). 
+34 In re Synchrony Fin. Sec. Litig., 988 F.3d 157, 167 (2d Cir. 2021) (quoting 
+Anschutz, 690 F.3d at 108). 
+35 15 U.S.C. § 78u–4(b)(2)(A); see also Anschutz, 690 F.3d at 108. 
+ 17 No. 19-3466-cv 
+
+I. The Manipulative Scheme 
+In proscribing the use of a “manipulative or deceptive device 
+or contrivance,” 36 Section 10(b) of the Exchange Act “prohibits not 
+only material misstatements but also manipulative acts.”37 To state a 
+claim for market manipulation under Section 10(b), a plaintiff must 
+plausibly allege “(1) manipulative acts; (2) damage (3) caused by 
+reliance on an assumption of an efficient market free of manipulation; 
+(4) scienter; (5) in connection with the purchase or sale of securities; 
+(6) furthered by the defendant ’s use of the mails or any facility of a 
+national securities exchange.”38 
+As we have described above, Set Capital claim s that Credit 
+Suisse and the Individual Defendants manipulated the market by 
+issuing millions of additional XIV Notes knowing or reckle ssly 
+disregarding the virtual certainty that their own hedging activity 
+would trigger a liquidity squeeze in VIX futures contracts, destroy the 
+value of XIV Notes, and allow Credit Suisse to accelerate and redeem 
+the notes at a substantial loss to investors while locking in a profit for 
+its own account . Credit Suisse and the Individual Defendants 
+contend that, even accepting these allegations as true, the complaint 
+fails to allege a “manipulative act” and does not plead a strong 
+inference of “ scienter.” We disagree and hold that Set Capital has 
+alleged a plausible claim of liability for market manipulation. 
+
+36 See 15 U.S.C. § 78j(b) (Section 10(b)); see also 17 C.F.R. § 240.10b-5 (SEC 
+Rule 10b-5). 
+37 ATSI, 493 F.3d at 99; see also Lorenzo v. SEC, 139 S. Ct. 1094, 1101, 1105 
+(2019) (explaining that Section 10(b) of the Exchange Act and SEC Rule 10b-
+5 “capture a wide range of conduct” and are “intended to root out all 
+manner of fraud in the securities industry”). 
+38 ATSI, 493 F.3d at 101. 
+ 18 No. 19-3466-cv 
+
+A. Manipulative Act 
+We turn first to the threshold question of whether Set Capital 
+has plausibly alleged a “manipu lative act.” As the Supreme Court 
+has observed, the word “manipulative” is “virtually a term of art 
+when used in connection with securities markets.” 39 It “refers 
+generally to practices, such as wash sales, matched orders, or rigged 
+prices, that are intended to mislead investors by artificially affecting 
+market activity,” 40 and “connotes intentional or willful conduct 
+designed to deceive or defraud investors by controlling or artificially 
+affecting the price of securities.”
+41 For market activity to “artificially” 
+affect a security’s price, we generally ask whether the trans action or 
+series of transactions “sends a false pricing signal to the market” 42 or 
+otherwise distorts estimates of the “underlying economic value ” of 
+the securities traded.43 While a defendant may manipulate the market 
+through open-market transactions, 44 some misrepresentation or 
+nondisclosure is required.45 Deception is the gravamen of a claim for 
+market manipulation, and “the market is not misled when a 
+transaction’s terms are fully disclosed.”
+
+39 Ernst & Ernst v. Hochfelder, 425 U.S. 185, 199 (1976). 
+40 Santa Fe Indus., Inc. v. Green, 430 U.S. 462, 476 (1977). 
+41 Ernst & Ernst, 425 U.S. at 199. 
+42 ATSI, 493 F.3d at 100. 
+43 Id. (quoting Sullivan & Long, Inc. v. Scattered Corp., 47 F.3d 857, 861 (7th 
+Cir. 1995)). 
+44 See id. at 100–02. 
+45 Wilson v. Merrill Lynch & Co., Inc. , 671 F.3d 120, 130 (2d Cir. 2011) ; cf. 
+Lorenzo, 139 S. Ct. at 1100–01 (holding that “dissemination of false or 
+misleading statements with intent to defraud” can qualify as a 
+“manipulative or deceptive device” prohibited by Section 10(b) and SEC 
+Rule 10b-5(a) and (c)). 
+46 Wilson, 671 F.3d at 130 (internal quotation marks , alt eration, and 
+citation omitted). 
+ 19 No. 19-3466-cv 
+
+The complaint alleges manipulative conduct that is actionable 
+under Section 10(b). Accepting the well -pleaded facts as true, three 
+prior volatility spikes in 2011, 2015, and 2016 demonstrated the 
+impact of Credit Suisse’s hedging trades. Each time volatility spiked, 
+Credit Suisse’s hedging contribute d to a liquidity squeeze in VIX 
+futures contracts that depressed the value of XIV Notes further than 
+what would have been expected from market volatility alone. The 
+complaint alleges that Credit Suisse and the Individual Defendants 
+used this knowledge as part of an undisclosed scheme to profit at 
+their investors’ expense. By offering 5,000,000 XIV Notes on June 30, 
+2017 and another 16,275,000 notes on January 29, 2018—millions of 
+which were ultimately issued —Credit Suisse exacerbated the risk of 
+illiquidity in the VIX futures market and created conditions in which 
+it knew that its hedging trades would destroy the value of XIV Notes 
+during the next volatility spike. When that spike occurred days later 
+on February 5, 2018, Credit Suisse executed on the alleged scheme. It 
+purchased more than 105,000 VIX futures contracts, caused the price 
+of XIV Notes to plummet by more than 96 percent, and declared an 
+Acceleration Event to lock in its profit. If proven at trial, this alleged 
+conduct was manipulative under our precedents. 
+ Credit Suisse argues that the complaint fails to allege any 
+“artificial” impact on the price of XIV Notes because its hedging 
+trades were “done openly” for the legitimate purpose of “manag[ing] 
+risk,” not deceiving investors .
+47 To be sure, it is generally true that 
+short selling or other hedging activity is not, by itself, manipulative—
+even when it occurs in high volumes and even when it impacts the 
+market price for a security. 48 But here, the complaint alleges more 
+than routine hedging activity: It alleges that Credit Suisse flooded the 
+market with millions of additional XIV Notes for the very purpose of 
+
+47 Br. of Def.-Appellee Credit Suisse at 45–46. 
+48 See ATSI, 493 F.3d at 101. 
+ 20 No. 19-3466-cv 
+
+enhancing the impact of its hedging trades and collapsing the market 
+for the notes. In this context , it is no defense that Credit Suisse’s 
+transactions were visible to the market and reflected otherwise legal 
+activity. Open-market transactions that are not inherently 
+manipulative may constitute manipulative activity when 
+accompanied by manipulative intent.
+49 In some cases, as here, 
+“scienter is the only factor that distinguishes legitimate trading from 
+improper manipulation.” 50 To the extent Credit Suisse claims it 
+hedged for a legitimate purpose, its position contradicts the 
+complaint. As we discuss in detail below , Set Capital specifically 
+alleges that Credit Suisse executed its hedging trades on February 5 
+for a manipulative purpose—to trigger a liquidity squeeze that would 
+destroy the value of XIV Notes. 
+B. Scienter 
+We turn next to the element of scienter. To establish scienter, 
+“a complaint may (1) allege facts that constitute strong circumstantial 
+evidence of conscious misbehavior or recklessness, or (2) allege facts 
+to show that defendants had both motive and opportunity to commit 
+fraud.”
+51 As the Supreme Court has instructed, we evaluate the 
+sufficiency of a complaint’s allegations of scienter “holistically,” 
+considering “all of the facts alleged, taken collectively,” rather than 
+
+49 See id. at 100 (requiring only “market activity aimed at deceiving 
+investors as to how other market participants have valued a security”). 
+50 Id. at 102; see also Koch v. SEC , 793 F.3d 147, 153–54 (D.C. Cir. 2015), 
+cert. denied, 577 U.S. 1235 (2016) (holding that a “burst of trading” on the 
+open market, combined with manipulative intent, was enough to violate 
+the Exchange Act); Markowski v. SEC , 274 F.3d 525, 529 (D.C. Cir. 2001) 
+(holding that “manipulation can be illegal solely because of the actor’s 
+purpose” (internal quotation marks omitted)). 
+51 Rombach v. Chang, 355 F.3d 164, 176 (2d Cir. 2004) (quoting Rothman v. 
+Gregor, 220 F.3d 81, 90 (2d Cir. 2000)). 
+ 21 No. 19-3466-cv 
+
+“any individual allegation, scrutinized in isolation.” 52 For an 
+inference of scienter to be “strong,” as required by the PSLRA, “ a 
+reasonable person must deem it cogent and at least as compelling as any 
+opposing inference one could draw from the facts alleged.” 53 
+Accepting the facts alleged in the complaint as true, and drawing all 
+reasonable inferences in Set Capital’s favor, we conclude that the 
+allegations of scienter are at least as compelling as the competing 
+inferences urged by Credit Suisse. 
+Evidence of Conscious Misbehavior or Recklessness 
+The complaint alleges circumstantial evidence of conscious 
+misbehavior or recklessness that, when viewed holistically and 
+together with the allegations of motive and opportunity , supports a 
+strong inference of scienter. 
+First, the complaint plausibly alleges that Credit Suisse and the 
+Individual Defendants knew that, on days when market volatility 
+increased, Credit Suisse’s hedging trades would cause a spike in the 
+price for VIX futures contracts and an equally significant drop in the 
+price for XIV Notes. As alleged in the complaint, Credit Suisse and 
+the Individual Defendants would have become aware of this dynamic 
+by observing the impact of their hedging trades during the three prior 
+volatility spikes. On each of those occasions, Credit Suisse observed 
+a liquidity squeeze in the VIX futures market which , as it caused 
+prices for VIX futures contracts to spike, contributed to a sharp drop 
+in the price for XIV Notes. A juror could reasonably infer that Credit 
+Suisse was a ware of this dynamic not only because the bank is a 
+highly sophisticated financial institution and had experienced it first-
+hand on prior occasions , but also because of the actions that Credit 
+
+52 Tellabs, Inc. v. Makor Issues & Rts., Ltd., 551 U.S. 308, 323, 326 (2007). 
+53 ATSI, 493 F.3d at 99 (quoting Tellabs, 551 U.S. at 324) (alterations 
+omitted). 
+ 22 No. 19-3466-cv 
+
+Suisse and the Individual Defendants took in response. Just seven 
+days after the third spike in 2016, Credit Suisse (with approval from 
+CARMC) issued the July 2016 Announcement conditioning the sale of 
+new ETNs on the counterparty’s agreement to sell to Credit Suisse 
+additional hedging inst ruments. Drawing all inferences in favor of 
+Set Capital, a reasonable juror could conclude from this evidence that 
+Credit Suisse recognized the danger of illiquidity in the VIX futures 
+market and identified alternative ways to protect itself. 
+Second, the complaint plausibly alleges that Credit Suisse 
+knowingly or recklessly exacerbated the liquidity squeeze it had 
+already observed in the VIX futures market by increasing the number 
+of XIV Notes outstanding through its offerings of June 30, 2017 and 
+January 29, 2018. When Credit Suisse offered 16,275,000 XIV Notes 
+on the latter date, it knew that the scale of its hedging strategy would 
+have to increase to account for its additional sales even though the 
+liquidity in the VIX futures market would remain roughly the same. 
+From these facts, a reasonable juror could conclude that Credit Suisse 
+and the Individual Defendants sold millions of these notes either 
+knowing or recklessly disregarding a substantial risk that , when the 
+next volatility event occurred, Credit Suisse’s hedging trades would 
+have an even greater negative impact on the value of XIV Notes than 
+they had before. Moreover, the complaint specifically alleges that the 
+Individual De fendants were aware of this risk, as Credit Suisse’s 
+expansion of XIV Notes breached internal risk limits and thus 
+required approval by CARMC. Accepting these allegations as true, 
+the complaint invites a reasonable inference that Credit Suisse 
+increased the volume of XIV Notes for a manipulative purpose —
+specifically, to ensure that Credit Suisse’s hedging trades would 
+ 23 No. 19-3466-cv 
+
+destroy the value of XIV Notes during the next volatility spike so that 
+Credit Suisse could profit by declaring an Acceleration Event. 
+In addition to these central facts, the complaint alleges 
+supporting evidence of conscious misbehavior or recklessness that 
+bolsters the inference of manipulative intent. Most significantly, 
+Credit Suisse made false or misleading public statements regarding 
+the expected impact of its hedging trades and the basis for Credit 
+Suisse’s decision to declare an Acceleration Event. In the Offering 
+Documents, for example, Credit Suisse minimized the expected 
+impact of its hedging trades by stating that its hedging activity “could 
+affect” the value of the VIX Futures Index
+54 while at the same time 
+affirming that it had “no reason to believe” that any impact would be 
+“material.”55 One of the Individual Defendants, Credit Suisse CEO 
+Tidjane Thiam, also stated on February 14, 2018 that Credit Suisse 
+announced an Acceleration Event because XIV Notes had “stopped 
+trading,” when in fact they had not.56 Although these statements are 
+relevant only if we assume the truth of other allegations in the 
+complaint, they tend to support a culpable inference because the 
+complaint plausibly alleges that Credit Suisse and Thiam “knew facts 
+or had access to information suggesting that their public sta tements 
+were not accurate.”57 In addition to these facts, the massive economic 
+impact of the alleged manipulation, as well as the SEC’s decision to 
+
+54 J. App. at 151. 
+55 Id. at 188. 
+56 Compl. ¶ 208. 
+57 Emps.’ Ret. Sys. of Gov’t of the Virgin Islands v. Blanford , 794 F.3d 297, 
+306 (2d Cir. 2015) (quoting ECA, Local 134 IBEW Joint Pension Tr . of Chicago 
+v. JP Morgan Chase Co., 553 F.3d 187, 199 (2d Cir. 2009)). 
+ 24 No. 19-3466-cv 
+
+investigate Credit Suisse following the collapse of the XIV Notes, 
+strengthen the inference that Set Capital asks us to draw.58 
+Credit Suisse principally argue s that inconsistencies and 
+contradictions in the complaint render Set Capital’s theory of scienter 
+“implausible on [its] face.” 59 In its view, the complaint alleges that 
+Credit Suisse had fully hedged itself by acquiring alternative hedging 
+instruments after the July 2016 Announcement. Thus, Credit Suisse 
+would have had no need to trade VIX futures contracts at all on 
+February 5, 2018 and therefore could not have manipulated the 
+market for XIV Notes by doing so. Credit Suisse further argues that, 
+if its positions in XIV Notes were indeed fully hedged, its sales of XIV 
+Notes in January and February 2018 would not have breached 
+internal risk limits and therefore would not have been brought to the 
+attention of the Individual Defendants . While the district court 
+credited this argument, we find it unpersuasive. Viewed in the light 
+most favorable to Set Capital , the complaint does not allege that 
+Credit Suisse had “fully” hedg ed its position. Rather, it alleges that 
+Credit Suisse had the right to obtain alternative hedging instruments 
+but did not significantly hedge its position until February 5, 2018, 
+when it purchased 105,000 VIX futures contracts and caused the value 
+of the XIV Notes to collapse. 
+Credit Suisse also contends that the July 2016 Announcement 
+does not qualify as a “specific document” demonstrating that Credit 
+
+58 See Rothman v. Gregor, 220 F.3d 81, 92 (2d Cir. 2000) (finding that the 
+magnitude of the fraud supported an inference of conscious misbehavior or 
+recklessness); In re Gentiva Sec. Litig. , 932 F. Supp. 2d 352, 380 (E.D.N.Y. 
+2013) (observing that, “while the existence of an [SEC ] investigation alone 
+is not sufficient to give rise to a requisite cogent and compelling inference 
+of scienter,” “courts have considered a governmental investigation as one 
+piece of the puzzle when taking a ‘holistic’ view”). 
+59 Br. of Def.-Appellee Credit Suisse at 28. 
+ 25 No. 19-3466-cv 
+
+Suisse understood the impact of its hedging activity and knew that a 
+future volatility spike would occur.60 We disagree. At the time of the 
+July 2016 Announcement, Credit Suisse had observed five years of 
+low market volatility punctuated by three volatility spikes. During 
+each spike in volatility, Credit Suisse’s hedging trades created a 
+liquidity squeeze that depressed the value of XIV Notes. Although 
+we readily acknowledge that “no market movements are certain,” 61 
+sophisticated investors like Credit Suisse routinely analyze patterns 
+in market data to attempt to predict and profit from future market 
+activity. Here, the Ju ly 2016 Announcement was issued only seven 
+days after the most significant volatility spike in 2016 and it granted 
+Credit Suisse the right to obtain additional instruments to hedge its 
+exposure to sales of XIV Notes. Drawing all inferences in favor of Set 
+Capital, the announcement directly reflect ed Credit Suisse’s 
+awareness of the impact of its hedging strategy as well as its view that 
+occasional spikes in market volatility would likely continue. 
+Finally, Credit Suisse and the Individual Defendants argue that 
+the SEC’s investigation cannot animate Set Capital’s “far -fetched” 
+theory of scienter, and that the magnitude of the alleged fraud was 
+necessarily de minimis because Credit Suisse fully hedged its 
+position.
+62 We agree with Credit Suisse that neither the SEC 
+investigation nor the magnitude of the alleged fraud independently 
+raises a compelling inference of manipulative intent; we view these 
+facts principally as supporting culpable inferences drawn from 
+stronger allegations discussed earlier. We disag ree, however, with 
+
+60 Id. at 29–31; see also Teamsters Loc. 445 Freight Div. Pension Fund v. Dynex 
+Capital Inc. , 531 F.3d 190, 196 (2d Cir. 2008) (explaining that, to plead 
+scienter based on a defendant’s knowledge of facts showing its public 
+statements were inaccurate, a plaintiff “must specifically identify the 
+reports or statements” demonstrating knowledge of such facts). 
+61 See J. App. at 510 (Opinion of Netburn, J.). 
+62 Br. of Def.-Appellee Credit Suisse at 34–35. 
+ 26 No. 19-3466-cv 
+
+Credit Suisse’s renewed assertion that its hedging made it 
+economically impossible for the bank to profit . Accepting the facts 
+alleged in the complaint as true, even Credit Suisse’s own quarterly 
+report on April 25, 2018 acknowledged that it profited substantially 
+from “higher levels of volatility which benefited [its] derivatives 
+business.”63 Thus, while not independently sufficient, these facts add 
+circumstantial evidence of conscious misbehavior or recklessness and 
+bolster the inference of manipulative intent. 
+Evidence of Motive or Opportunity 
+The complaint also points to evidence supporting Credit 
+Suisse’s motive and opportunity to engage in the alleged 
+manipulative scheme. First, the structure of the XIV Notes , which 
+would allow Credit Suisse to profit if the value of the notes collapsed, 
+provided both motive and opportunity for Credit Suisse to 
+manipulate the market. Credit Suisse’s effort, through its January 29 
+offering, to more than double the volume of XIV Notes outstanding 
+enhanced the opportunity for manipulative acts in the days leading 
+up to the market’s collapse. Second, the complaint plausibly alleges 
+that Thiam was under significant pressure to shift Credit Suisse’s 
+investment arm away from volatile assets like XIV Notes. Accepting 
+these allegations as true, Credit Suisse’s scheme to expand and then 
+destroy the value of XIV Notes would have allowed the bank to profit 
+substantially while realizing Thiam’s strategic goal of “right -sizing” 
+Credit Suisse’s investment division.
+64 Third, the complaint alleges 
+that, in March 2018, Thiam was awarded a $10.2 million bonus for 
+successfully shifting Credit Suisse away from volatile assets such as 
+XIV Notes. We conclude that, on balance, these allegations support a 
+
+63 Compl. ¶¶ 16, 194. 
+64 Id. ¶¶ 119–20. 
+ 27 No. 19-3466-cv 
+
+strong inference of scienter when viewed together with the evidence 
+of conscious misbehavior or recklessness. 
+Credit Suisse first argues that the structure of the XIV Notes 
+does not demonstrate motive or opportunity to commit fraud because 
+Credit Suisse had fully hedged its exposure to sales of XIV Notes. We 
+have already rejected this argument in a related context, and we 
+conclude that it is no more persuasive here . Even a ssuming that 
+Credit Suisse had fully hedged its position, Credit Suisse’s argument 
+does not account for its offer to more than double the volume of XIV 
+Notes in the market, use its hedging trades to depress prices for XIV 
+Notes, and leverage the favorable redemption rights that it built into 
+the Offering Documents so that it could profit at investors’ expense. 
+As alleged in the complaint, t his perfect storm was created through 
+Credit Suisse’s market activity, but it would not have been possible 
+without the self-dealing structure of the XIV Notes. 
+Credit Suisse also challenges Set Capital’s theory of Thiam’s 
+motive to manipulate the market. Specifically, it asserts that “it 
+would have been illogical for Mr. Thiam and Credit Suisse to attempt 
+to reduce Credit Suisse’s exposure to risky assets by increasing its 
+exposure to risky assets.”
+65 Credit Suisse also points to the fact that it 
+“made good on Thiam’s promise” to reduce exposure to such assets 
+by closing two other VIX-related ETNs through the “simple exercise” 
+of its right to do so —without an allegation of fraud. 66 But these 
+arguments falter in the face of the facts alleged in the complaint. I f 
+Thiam intended to reduce Credit Suisse’s exposure to XIV Notes, then 
+his decision to issue millions of additional XIV Notes makes sense 
+only if he knew that Credit Suisse could quickly eliminate its 
+
+65 Br. of Def.-Appellee Credit Suisse at 22. 
+66 See id. at 22–23; see also Compl. ¶ 214. 
+ 28 No. 19-3466-cv 
+
+exposure through the alleged manipulative scheme. 67 The fact that 
+Credit Suisse could have offloaded these risky assets without 
+expanding its position does not diminish the inference of scienter but 
+rather supports it. 
+Finally, Credit Suisse argues that Thiam’s $ 10.2 million bonus 
+had no connection to the February 2018 collapse of XIV Notes because 
+it was issued as compensation for the prior fiscal year. While Set 
+Capital emphasizes that the discretionary bonus was paid after the 
+XIV Notes collapsed and specifically celebrated that Thiam’s 
+“strategic shift” was “paying off,”
+68 we agree with Credit Suisse that 
+the culpable inference here is not strong because the complaint alleges 
+that the bonus was compensation for 2017 . We therefore accord this 
+fact only limited weight. 
+In summary, we conclude that the complaint plausibly alleges 
+both motive and opportunity to commit a manipulative act, as well as 
+strong circumstantial evidence of conscious misbehavior or 
+recklessness. Taken together, these allegations are “cogent and at 
+least as compelling as any opposing inference of nonfraudulent 
+intent.”69 We therefore VACATE and REMAND to the district court 
+to reinstate the manipulative scheme claims. Because we remand as 
+to the primary violation, Set Capital’s secondary “control person” 
+claims under Section 20(a) of the Exchange Act are reinstated as well. 
+
+67 The allegations here thus go beyond “ordinary profit motive,” Br. of 
+Def.-Appellee Credit Suisse at 24 , which cannot alone establish a strong 
+inference of scienter. See Chill v. Gen. Elec. Co., 101 F.3d 263, 268 (2d Cir. 
+1996) (“[A] generalized motive, one which could be imputed to any 
+publicly-owned, for-profit endeavor . . . does not support a strong inference 
+of fraudulent intent.”). 
+68 See Compl. ¶ 212. 
+69 Tellabs, 551 U.S. at 314. 
+ 29 No. 19-3466-cv 
+
+II. The Failure to Correct the Flatline Value 
+Sections 9(a) and 10(b) of the Exchange Act prohibit materially 
+false or misleading statements in connection with the purchase or sale 
+of a security. 70 To state a claim for a material misrepresentation or 
+omission under these provisions, a plaintiff must allege “(1) a material 
+misrepresentation or omissi on by the defendant; (2) scienter; (3) a 
+connection between the misrepresentation or omission and the 
+purchase or sale of a security; (4) reliance upon the misrepresentation 
+or omission; (5) economic loss; and (6) loss causation.”
+Set Capital claim s that Credit Suisse and Janus, through their 
+subsidiaries CSI and JIC, made material misstatement s by failing to 
+correct the intraday indicative value when it flatlined for nearly one 
+hour on the evening of February 5 , 2018. C SI and JIC contend that 
+there was no misrepresentation in the Flatline Value because it 
+accurately reflected the inverse of the VIX Futures Index (which itself 
+had failed to update) and that, in any event, the complaint fails to 
+allege scienter. Assuming without dec iding that the Flatline Value 
+materially misled investors, we agree that the complaint fails to allege 
+a strong inference of scienter for these claims. 
+The complaint does not allege any facts showing that either CSI 
+or JIC had motive or opportunity to falsify the Flatline Value. 72 The 
+complaint does not identify specific evidence that CSI profited by 
+selling XIV Notes in the secondary market at prices reflecting the 
+
+70 See 15 U.S.C. § 78i(a)(4) (Section 9(a)); 15 U.S.C. § 78j(b) (Section 10(b)). 
+71 Stoneridge Inv. Partners, LLC v. Sci.-Atlanta, Inc., 552 U.S. 148, 157 (2008) 
+(Section 10(b) and Rule 10b -5). Section 9(a)(4) of the Exchange Act closely 
+parallels this standard. See I.B. Trading, Inc. v. Tripoint Glob . Equities, LLC, 
+280 F. Supp. 3d 524, 539–40 (S.D.N.Y. 2017) (Section 9(a)(4)). 
+72 See Rombach, 355 F.3d at 176 (holding that complaint may establish 
+scienter through facts showing that defendants “had both motive and 
+opportunity to commit fraud”). 
+ 30 No. 19-3466-cv 
+
+inflated Flatline Value. Nor does it allege that CSI benefitted by 
+delaying investors’ realization that an Acceleration Event had 
+occurred. Likewise, the complaint does not allege facts 
+demonstrating that JIC, which was simply a “Calculation Agent,” 
+materially benefitted by failing to correct the Flatline Value. 
+Without an adequate showing of motive or opportunity, Set 
+Capital argues that the complaint nonetheless alleges scienter based 
+on strong circumstantial evidence of conscious misbehavior or 
+recklessness.73 Specifically, Set Capital argues as follows. According 
+to the Offering Documents, CSI and JIC were jointly listed as 
+“Calculation Agents” responsible for announcing a “Market 
+Disruption Event,” which could occur if S&P “fails to publish or 
+compute the [VIX Futures Index].” 74 In order to identify computing 
+errors in the VIX Futures Index, CSI and JIC would have been 
+required to monitor the VIX Futures Index and compare it to the 
+values of its underlying inputs —i.e., the real- time prices for VIX 
+futures contracts. Because careful monitoring would have allowed 
+CSI and JIC to observe the flatline in the VIX Futures Index, they must 
+have known that a derivative flatline was reflected in the intraday 
+indicative value. We are unpersuaded. 
+First and foremost, CSI was under no obligation to calculate or 
+monitor the intr aday indicative value. Although the Offering 
+Documents refer red to CSI as a “Calculation Agent” for some 
+purposes, the Offering Documents specified that “JIC or its 
+affiliate”—not CSI —was “responsible for computing and 
+
+73 See Kalnit v. Eichler, 264 F.3d 131, 142 (2d Cir. 2001) (“Where motive is 
+not apparent, it is still possible to plead scienter by identifying 
+circumstances indicating conscious [misbehavior or recklessness] by the 
+defendant, though the strength of the circumstantial allegations must be 
+correspondingly greater.” (citation omitted)). 
+74 Compl. ¶ 152. 
+ 31 No. 19-3466-cv 
+
+disseminating the Intraday Indicativ e Value.” 75 Thus, w e are not 
+convinced that CSI’s status as a “Calculation Agent” is specific 
+evidence of scienter. 
+Second, the complaint does not set forth facts raising a strong 
+inference that JIC knew that the intraday indicative value had 
+flatlined. As stated in the supplement, JIC calculated the intraday 
+indicative value every 15 seconds using an automated formula “based 
+on the most recent intraday level of [the VIX Futures] Index at the 
+particular time.”
+76 The complaint alleges in a conclusory fashion that 
+JIC had access to real-time pricing data for VIX futures contracts such 
+that it could have monitored the accuracy of the VIX Futures Index. 
+But the complaint does not point to any “ specific reports or 
+statements” showing that JIC could access this data or that it ever 
+monitored the I ndex.77 The Offering Documents specified that JIC 
+would rely on a third party, S&P, to accurately calculate the VIX 
+Futures Index. It would be unreasonable to infer that, despite this 
+plain effort to reduce JIC’s administrative burden, JIC nonetheless 
+devoted resources to calculating a redundant pricing index for VIX 
+futures contracts. 
+ Finally, the Offering Documents do not support a finding of 
+scienter. While the Offering Documents provide that a Market 
+Disruption Event may occur if S&P “fails to publish or compute the 
+[VIX Futures Index],” they afford CSI and JIC “discretion in making 
+[that] determination[].”
+78 Because neither CSI nor JIC was required to 
+
+75 J. App. at 135, 145, 195. 
+76 Id. at 135. 
+77 See Teamsters, 531 F.3d at 196 (finding allegation of “access to . . . raw 
+data” insufficient to support strong inference of scienter where plaintiffs 
+did not “specifically identify the reports or statements containing this 
+information” (citation omitted)). 
+78 J. App. at 159. 
+ 32 No. 19-3466-cv 
+
+declare a Market Disruption Event —either immediately or at any 
+time—there can be no reasonable inference that either entity 
+“[n]ecessarily” monitored the accuracy of the VIX Futures Index. 79 
+Moreover, the Offering Documents warned investors that published 
+prices on the VIX Futures Index “may occasionally be subject to delay 
+or postponement,” which in turn “will affect” the accuracy of the 
+intraday indicative value.80 In light of these facts, the complaint does 
+not allege a compelling inference of scienter. 
+In summary, we hold , as the district court found, that the 
+complaint fails to plausibly plead that CSI and JIC knowingly or 
+recklessly failed to correct the Flatline Value. We therefore AFFIRM 
+the district court’s dismissal of these claims.81 
+III. Misstatements or Omissions in the Offering Documents 
+Section 10(b) of the Exchange Act and Section 11 of the 
+Securities Act also prohibit material misstatements or omissions in 
+registration statements filed with the SEC. 82 Unlike claims brought 
+under Section 10(b), a plaintiff bringing a claim under Section 11 
+“need not allege scienter, reliance, or loss causation.” 83 Instead, 
+Section 11 imposes absolute liabil ity on the issuer of a registration 
+statement if: “(1) the statement ‘contained an untrue statement of a 
+material fact,’ (2) the statement ‘omitted to state a material fact 
+required to be stated therein,’ or (3) the omitted information was 
+
+79 See Br. of Pls.-Appellants at 46. 
+80 J. App. at 177. 
+81 Set Capital does not point to any circumstantial evidence showing that 
+the Individual Defendants knowingly or intentionally failed to correct the 
+Flatline Value. We therefore affirm the district court’s dismissal of these 
+claims as to the Individual Defendants as well. 
+82 See 15 U.S.C. § 78j(b) (Section 10(b)); 15 U.S.C. § 77k (Section 11). 
+83 In re Morgan Stanley Info. Fund Sec. Litig. , 592 F.3d 347, 359 (2d Cir. 
+2010). 
+ 33 No. 19-3466-cv 
+
+‘necessary to make the statements therein not misleading.’” 84 In this 
+Circuit, “a statement or omission is material if a reasonable investor 
+would view it as significantly altering the total mix of information 
+made available.”85 
+Set Capital claim s that the Offering Docum ents misled 
+investors by repeatedly warning of “risks” they knew were certain to 
+occur. Among other things, they allege that the Offering Documents 
+misrepresented Credit Suisse’s knowledge of the impact of its 
+hedging activity and failed to disclose Credit Suisse’s plan to increase 
+the volume of XIV Notes in the market before triggering an 
+Acceleration Event. Credit Suisse disputes these claims and asserts 
+that the Offering Documents contained full and robust disclosures of 
+the very risks that came to pass. Although we acknowledge that 
+many risks were disclosed, we agree with Set Capital that the Offering 
+Documents contain actionable misrepresentations or omissions. 
+The Offering Documents warned investors of extensive risks 
+related to the purchase of XIV Notes. They urged that the notes were 
+intended for “sophisticated investors to manage daily trading risks”
+and advised purchasers that, should they hold the notes long term, 
+“it is likely that [they] will lose all or a substantial portion of [their] 
+investment.”
+87 They also prominently disclosed Credit Suisse’s 
+intention to hedge its exposure to sales of XIV Notes. 88 B ut, w ith 
+respect to the impact of that hedging, the Offering Documents 
+
+84 Stadnick v. Vivint Solar, Inc. , 861 F.3d 31, 36 (2d Cir. 2017) (quoting 15 
+U.S.C. § 77k(a)); see also Synchrony, 988 F.3d at 172. 
+85 Fed. Hous. Fin. Agency for Fed. Nat’l Mortg. Ass’n v. Nomura Holding Am., 
+Inc., 873 F.3d 85, 146 (2d Cir. 2017) (internal quotation marks, alteration, and 
+citation omitted). 
+86 J. App. at 130. 
+87 Id. at 154 (emphasis omitted). 
+88 See, e.g., id. at 154–55, 161–62, 188. 
+ 34 No. 19-3466-cv 
+
+provided a more equivocal advisory. They stated that, while “there 
+can be no assurance that the level of the [VIX Futures] Index will not 
+be affected,” Credit Suisse and the Individual Defendants “have no 
+reason to believe that [their] . . . hedging activities will have a material 
+impact on the level of the [VIX Futures] Index.”89 
+As we explained in Wilson v. Merrill Lynch & Co., Inc., “the law 
+is well settled that so -called ‘half- truths’—literally true statements 
+that create a materially misleading impression—will support claims 
+for securities fraud.” 90 In a similar vein, cautionary words about 
+future risk cannot insulate from liability an issuer’s failure to disclose 
+that the risk has, in fact, materialized in the past and is virtually 
+certain to materialize again.91 As the D.C. Circuit explained in Dolphin 
+& Bradbury, Inc. v. SEC , there is a “critical distinction between 
+disclosing the risk a future event might occur and disclosing actual 
+knowledge that the event will occur”—particularly where that 
+distinction holds “enormous significance” for investors.92 
+
+89 Id. at 188. 
+90 Wilson, 671 F.3d at 130 (alterations omitted) (quoting SEC v. Gabelli , 
+653 F.3d 49, 57 (2d Cir. 2011), rev’d on other grounds, 568 U.S. 442 (2013)); see 
+also In re Vivendi, S.A. Sec . Litig., 838 F.3d 223, 239–40 (2d Cir. 2016) 
+(discussing the rule against half-truths). 
+91 Wilson, 671 F.3d at 130; see also Rombach, 355 F.3d at 173. 
+92 512 F.3d 634, 640 (D.C. Cir. 2008); see also In re Harman Int’l Indus., Inc. 
+Sec. Litig., 791 F.3d 90, 102–03 (D.C. Cir. 2015) (explaining that “[a] warning 
+that identifies a potential risk, but implies that no such problems were on 
+the horizon even if a precipice was in sight,” would not qualify as a 
+“meaningful cautionary statement” for purposes of safe h arbor (citation 
+and alteration omitted)); Lormand v. US Unwired, Inc., 565 F.3d 228, 244, 247 
+(5th Cir. 2009) (holding that warnings “d[id] not qualify as meaningful 
+cautionary language” because they “did not disclose that defendants knew 
+from past experience that the [risks] posed an imminent threat of business 
+and financial ruin and that some damage from these risks had already 
+materialized”). 
+ 35 No. 19-3466-cv 
+
+Here, the complaint alleges that, following three prior volatility 
+spikes, Credit Suisse and the Individual Defendants knew with 
+virtual certainty that , upon the next volatility spike, their hedging 
+activity would significantly depress the value of XIV Notes. It further 
+alleges that Credit Suisse issued millions of additional XIV Notes 
+without disclosing its intent to capitalize on this dynamic and trigger 
+an Acceleration Event. Accepting these well pleaded allegations as 
+true, the Offering Documents misrepresented Credit Suisse’s 
+knowledge and intent when they warned that Credit Suisse’s hedging 
+activity “could” or “may” impact prices of XIV Notes but affirmed 
+that Credit Suisse had “no reason to believe” that it would. While 
+these warnings could have possibly sufficed when Credit Suisse first 
+issued XIV Notes, the bank conceded in its briefing below that the 
+warnings remained unchanged for nearly a decade despite three 
+episodes of market volatility putting to rest any uncertainty as to the 
+price-impact of Credit Suisse’s hedging.
+93 Likewise, the Offering 
+Documents omitted material facts when they stated that Credit 
+Suisse’s hedging trades “may present” a conflict of interest. As 
+alleged in the complaint, Credit Suisse had already structured the 
+market for XIV Notes to ensure that th e next volatility spike would 
+allow it to profit at its own investors’ expense. These misstatements, 
+if proven at trial, would materially alter the mix of information 
+available to Credit Suisse’s investors.
+
+93 See Slayton v. Am. Express Co., 604 F.3d 758, 773 (2d Cir. 2010) (finding 
+cautionary statement in Form 10-Q inadequate in light of “[t]he consistency 
+of the defendants’ language over time despite the new information they 
+received”). 
+94 We recognize that, in In re Proshares Tr. II Sec. Litig. , we affirmed the 
+district court’s dismissal of claims arising out of similar market events —
+namely, illiquidity in the VIX futures market during afterhours trading on 
+February 5, 2018. See 839 F. App’x 649, 651 (2d Cir. 2021) (summary order). 
+While there are superficial similarities between the two cases, our decision 
+
+ 36 No. 19-3466-cv 
+
+For the reasons discussed in Section I, above, we have already 
+concluded that the complaint alleges a strong inference of scienter 
+with respect to the manipulative scheme. Because the Offering 
+Documents misrepresented Credit Suisse’s knowledge and its intent 
+to engage in manipulative acts, we conclude that the complaint pleads 
+actionable misrepresentations or omissions that must be reinstated 
+and therefore REMAND these claims to the district court. Moreover, 
+because we remand as to the primary violation s, Set Capital’s 
+secondary “control person” claims under Section 15 of the Securities 
+Act and Section 20(a) of the Exchange Act are reinstated as well.
+* * * 
+ To summarize this opinion, the dismissals of the market 
+manipulation claim, the actionable misstatements and omissions 
+claims, and the related “control person” claims are vacated. We 
+affirm the dismissal of the Flatline Value claims. Our decision today 
+
+in Proshares addressed different disclosures related to a different 
+underlying securities product—an exchange traded fund (ETF), which 
+bundles securities together. See In re Proshares Trust II Sec. Litig. , No. 19 cv 
+0886 (DLC), 2020 WL 71007, at *1 (S.D.N.Y. Jan. 3, 2020). In part because of 
+the material differences between ETFs and ETNs, the complaint in Proshares 
+did not allege market manipulation or the failure to fully disclose a conflict 
+of interest. See id. Here, unlike in Proshares, the complaint plausibly alleges 
+that Credit Suisse gave itself the right to accelerate the notes it issued such 
+that it could use its own trading to depress their price, force redemptions, 
+and profit at its investors’ expense. Compl. ¶ 7. 
+95 Set Capital asserts a Section 15 claim against Janus in its capacity as an 
+alleged “control person” of Credit Suisse and the Individual Defendants. 
+See Compl. ¶¶ 317 –21. While Janus argues that this last surviving claim 
+against it should be dismissed because it did not control either Credit Suisse 
+or the Individual Defendants, see Br. of Def. -Appellee Janus at 33 –34, the 
+district court did not address the viability of Janus’s control person 
+allegations. We therefore leave it to the district court to address this claim 
+in the first instance on remand. 
+ 37 No. 19-3466-cv 
+
+to reinstate the foregoing claims is based on what we determine to be 
+plausible allegations by Set Capital in the complaint. We express no 
+view nor prediction as to how the proof of these claims may unfold 
+but simply hold that these claims cannot be dismissed at this stage of 
+the litigation. 
+CONCLUSION 
+For the foregoing reasons, we VACATE the judgment 
+dismissing the claims pertaining to the manipulative scheme, the 
+alleged misstatements or omissions in the offering documents, and 
+the corresponding liabilit y of control persons. We therefore 
+REMAND th ose claims for further proceedings. We AFFIRM the 
+judgment dismissing the claims for failure to correct the Flatline 
+Value, while VACATING the district court’s denial of leave to amend 
+those claims.

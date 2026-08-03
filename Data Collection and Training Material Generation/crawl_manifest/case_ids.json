@@ -1,0 +1,2996 @@
+{
+ "arbitration_awards": {
+  "cutoff": "2023-12-31",
+  "pre_cutoff": [
+   {
+    "case_id": "16-01564",
+    "date": "2016-09-29",
+    "source_file": "16-01564.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-01564.pdf"
+   },
+   {
+    "case_id": "16-03250",
+    "date": "2017-06-12",
+    "source_file": "16-03250.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-03250.pdf"
+   },
+   {
+    "case_id": "16-02974",
+    "date": "2017-06-13",
+    "source_file": "16-02974.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-02974.pdf"
+   },
+   {
+    "case_id": "17-01571",
+    "date": "2017-12-11",
+    "source_file": "17-01571.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-01571.pdf"
+   },
+   {
+    "case_id": "17-01201",
+    "date": "2018-03-16",
+    "source_file": "17-01201.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-01201.pdf"
+   },
+   {
+    "case_id": "17-01151",
+    "date": "2018-04-10",
+    "source_file": "17-01151.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-01151.pdf"
+   },
+   {
+    "case_id": "17-02186",
+    "date": "2018-05-03",
+    "source_file": "17-02186.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-02186.pdf"
+   },
+   {
+    "case_id": "17-02931",
+    "date": "2018-05-21",
+    "source_file": "17-02931.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-02931.pdf"
+   },
+   {
+    "case_id": "18-01756",
+    "date": "2018-06-27",
+    "source_file": "18-01756.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/18-01756.pdf"
+   },
+   {
+    "case_id": "16-03235",
+    "date": "2018-07-12",
+    "source_file": "16-03235.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-03235.pdf"
+   },
+   {
+    "case_id": "18-02086",
+    "date": "2018-10-10",
+    "source_file": "18-02086.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/18-02086.pdf"
+   },
+   {
+    "case_id": "16-01459",
+    "date": "2018-12-18",
+    "source_file": "16-01459.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-01459.pdf"
+   },
+   {
+    "case_id": "17-00801",
+    "date": "2019-04-16",
+    "source_file": "17-00801.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-00801.pdf"
+   },
+   {
+    "case_id": "16-02890",
+    "date": "2019-06-04",
+    "source_file": "16-02890.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-02890.pdf"
+   },
+   {
+    "case_id": "19-00271",
+    "date": "2019-08-30",
+    "source_file": "19-00271.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-00271.pdf"
+   },
+   {
+    "case_id": "18-03421",
+    "date": "2019-10-14",
+    "source_file": "18-03421.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/18-03421.pdf"
+   },
+   {
+    "case_id": "19-01356",
+    "date": "2019-10-23",
+    "source_file": "19-01356.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-01356.pdf"
+   },
+   {
+    "case_id": "17-01406",
+    "date": "2019-11-14",
+    "source_file": "17-01406.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/17-01406.pdf"
+   },
+   {
+    "case_id": "16-01714",
+    "date": "2019-12-09",
+    "source_file": "16-01714.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/16-01714.pdf"
+   },
+   {
+    "case_id": "18-02246",
+    "date": "2020-01-06",
+    "source_file": "18-02246.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/18-02246.pdf"
+   },
+   {
+    "case_id": "19-01376",
+    "date": "2020-01-23",
+    "source_file": "19-01376.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-01376.pdf"
+   },
+   {
+    "case_id": "19-02516",
+    "date": "2020-02-19",
+    "source_file": "19-02516.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-02516.pdf"
+   },
+   {
+    "case_id": "19-02781",
+    "date": "2020-06-04",
+    "source_file": "19-02781.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-02781.pdf"
+   },
+   {
+    "case_id": "20-01601",
+    "date": "2020-11-06",
+    "source_file": "20-01601.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-01601.pdf"
+   },
+   {
+    "case_id": "20-02311",
+    "date": "2021-02-17",
+    "source_file": "20-02311.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-02311.pdf"
+   },
+   {
+    "case_id": "20-01106",
+    "date": "2021-03-15",
+    "source_file": "20-01106.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-01106.pdf"
+   },
+   {
+    "case_id": "20-02891",
+    "date": "2021-04-01",
+    "source_file": "20-02891.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-02891.pdf"
+   },
+   {
+    "case_id": "20-02451",
+    "date": "2021-04-19",
+    "source_file": "20-02451.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-02451.pdf"
+   },
+   {
+    "case_id": "20-01361",
+    "date": "2021-05-14",
+    "source_file": "20-01361.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-01361.pdf"
+   },
+   {
+    "case_id": "21-01006",
+    "date": "2022-02-08",
+    "source_file": "21-01006.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-01006.pdf"
+   },
+   {
+    "case_id": "20-01281",
+    "date": "2022-02-17",
+    "source_file": "20-01281.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-01281.pdf"
+   },
+   {
+    "case_id": "21-01406",
+    "date": "2022-02-23",
+    "source_file": "21-01406.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-01406.pdf"
+   },
+   {
+    "case_id": "21-02656",
+    "date": "2022-03-30",
+    "source_file": "21-02656.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-02656.pdf"
+   },
+   {
+    "case_id": "19-01461",
+    "date": "2022-05-10",
+    "source_file": "19-01461.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/19-01461.pdf"
+   },
+   {
+    "case_id": "21-02316",
+    "date": "2022-05-13",
+    "source_file": "21-02316.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-02316.pdf"
+   },
+   {
+    "case_id": "21-02461",
+    "date": "2022-07-27",
+    "source_file": "21-02461.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-02461.pdf"
+   },
+   {
+    "case_id": "22-00331",
+    "date": "2022-09-13",
+    "source_file": "22-00331.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/22-00331.pdf"
+   },
+   {
+    "case_id": "21-02061",
+    "date": "2022-09-22",
+    "source_file": "21-02061.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-02061.pdf"
+   },
+   {
+    "case_id": "22-00426",
+    "date": "2022-09-28",
+    "source_file": "22-00426.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/22-00426.pdf"
+   },
+   {
+    "case_id": "20-01716",
+    "date": "2023-01-12",
+    "source_file": "20-01716.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/20-01716.pdf"
+   }
+  ],
+  "post_cutoff_control": [
+   {
+    "case_id": "21-01271",
+    "date": "2024-01-26",
+    "source_file": "21-01271.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-01271.pdf"
+   },
+   {
+    "case_id": "23-01431",
+    "date": "2024-05-07",
+    "source_file": "23-01431.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/23-01431.pdf"
+   },
+   {
+    "case_id": "24-01196",
+    "date": "2024-09-26",
+    "source_file": "24-01196.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01196.pdf"
+   },
+   {
+    "case_id": "24-00236",
+    "date": "2024-09-26",
+    "source_file": "24-00236.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-00236.pdf"
+   },
+   {
+    "case_id": "24-00981",
+    "date": "2024-12-13",
+    "source_file": "24-00981.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-00981.pdf"
+   },
+   {
+    "case_id": "24-02051",
+    "date": "2025-02-21",
+    "source_file": "24-02051.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02051.pdf"
+   },
+   {
+    "case_id": "24-00976",
+    "date": "2025-03-05",
+    "source_file": "24-00976.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-00976.pdf"
+   },
+   {
+    "case_id": "24-02426",
+    "date": "2025-03-07",
+    "source_file": "24-02426.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02426.pdf"
+   },
+   {
+    "case_id": "24-02566",
+    "date": "2025-03-11",
+    "source_file": "24-02566.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02566.pdf"
+   },
+   {
+    "case_id": "25-00357",
+    "date": "2025-05-16",
+    "source_file": "25-00357.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00357.pdf"
+   },
+   {
+    "case_id": "24-01881",
+    "date": "2025-06-12",
+    "source_file": "24-01881.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01881.pdf"
+   },
+   {
+    "case_id": "24-01996",
+    "date": "2025-06-20",
+    "source_file": "24-01996.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01996.pdf"
+   },
+   {
+    "case_id": "25-00491",
+    "date": "2025-07-24",
+    "source_file": "25-00491.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00491.pdf"
+   },
+   {
+    "case_id": "24-02711",
+    "date": "2025-07-29",
+    "source_file": "24-02711.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02711.pdf"
+   },
+   {
+    "case_id": "24-00971",
+    "date": "2025-08-13",
+    "source_file": "24-00971.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-00971.pdf"
+   },
+   {
+    "case_id": "25-00957",
+    "date": "2025-08-18",
+    "source_file": "25-00957.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00957.pdf"
+   },
+   {
+    "case_id": "25-00534",
+    "date": "2025-08-21",
+    "source_file": "25-00534.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00534.pdf"
+   },
+   {
+    "case_id": "25-00271",
+    "date": "2025-09-15",
+    "source_file": "25-00271.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00271.pdf"
+   },
+   {
+    "case_id": "21-02911",
+    "date": "2025-10-07",
+    "source_file": "21-02911.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/21-02911.pdf"
+   },
+   {
+    "case_id": "25-00704",
+    "date": "2025-10-10",
+    "source_file": "25-00704.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00704.pdf"
+   },
+   {
+    "case_id": "25-00480",
+    "date": "2025-10-22",
+    "source_file": "25-00480.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00480.pdf"
+   },
+   {
+    "case_id": "24-02360",
+    "date": "2025-10-23",
+    "source_file": "24-02360.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02360.pdf"
+   },
+   {
+    "case_id": "25-00367",
+    "date": "2025-10-28",
+    "source_file": "25-00367.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00367.pdf"
+   },
+   {
+    "case_id": "24-02497",
+    "date": "2025-11-13",
+    "source_file": "24-02497.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02497.pdf"
+   },
+   {
+    "case_id": "24-01745",
+    "date": "2025-11-13",
+    "source_file": "24-01745.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01745.pdf"
+   },
+   {
+    "case_id": "25-01511",
+    "date": "2025-11-17",
+    "source_file": "25-01511.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-01511.pdf"
+   },
+   {
+    "case_id": "25-00053",
+    "date": "2025-11-26",
+    "source_file": "25-00053.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00053.pdf"
+   },
+   {
+    "case_id": "25-00266",
+    "date": "2025-12-11",
+    "source_file": "25-00266.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00266.pdf"
+   },
+   {
+    "case_id": "24-01310",
+    "date": "2025-12-12",
+    "source_file": "24-01310.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01310.pdf"
+   },
+   {
+    "case_id": "24-00822",
+    "date": "2025-12-12",
+    "source_file": "24-00822.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-00822.pdf"
+   },
+   {
+    "case_id": "25-00690",
+    "date": "2025-12-17",
+    "source_file": "25-00690.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00690.pdf"
+   },
+   {
+    "case_id": "24-02088",
+    "date": "2025-12-30",
+    "source_file": "24-02088.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02088.pdf"
+   },
+   {
+    "case_id": "24-02696",
+    "date": "2025-12-30",
+    "source_file": "24-02696.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-02696.pdf"
+   },
+   {
+    "case_id": "25-01035",
+    "date": "2026-01-02",
+    "source_file": "25-01035.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-01035.pdf"
+   },
+   {
+    "case_id": "25-00105",
+    "date": "2026-01-23",
+    "source_file": "25-00105.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00105.pdf"
+   },
+   {
+    "case_id": "24-01769",
+    "date": "2026-01-26",
+    "source_file": "24-01769.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/24-01769.pdf"
+   },
+   {
+    "case_id": "25-00737",
+    "date": "2026-01-29",
+    "source_file": "25-00737.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-00737.pdf"
+   },
+   {
+    "case_id": "25-01615",
+    "date": "2026-02-03",
+    "source_file": "25-01615.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-01615.pdf"
+   },
+   {
+    "case_id": "25-01881",
+    "date": "2026-02-10",
+    "source_file": "25-01881.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-01881.pdf"
+   },
+   {
+    "case_id": "25-01815",
+    "date": "2026-02-13",
+    "source_file": "25-01815.pdf",
+    "url_hint": "https://www.finra.org/sites/default/files/aao_documents/25-01815.pdf"
+   }
+  ]
+ },
+ "finra_awc": {
+  "cutoff": "2023-12-31",
+  "pre_cutoff": [
+   {
+    "case_id": "p012377",
+    "date": "2005-01-29",
+    "source_file": "awc_brave_2015_p012377.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "transamerica-awc-122120",
+    "date": "2016-05-15",
+    "source_file": "transamerica-awc-122120.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "robinhood-financial-awc-063021",
+    "date": "2017-11-09",
+    "source_file": "robinhood-financial-awc-063021.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "Barclays-Capital-AWC-100522",
+    "date": "2019-02-15",
+    "source_file": "Barclays-Capital-AWC-100522.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2019061442101",
+    "date": "2020-06-15",
+    "source_file": "2019061442101_20J.P._20Morgan_20Securities_20LLC_20CRD_2079_20AWC_20vr_20_282025-1755130811314_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2019061852801",
+    "date": "2020-06-30",
+    "source_file": "2019061852801_20Haywood_20Securities_20_USA__20Inc._20CRD_2042072_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2019060753505",
+    "date": "2020-06-30",
+    "source_file": "finra_regbi_2019060753505_20Troy_20Allen_20Orlando_20CRD_206055474_20AWC_20vr_20_282023-1703290794748_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2018056490307",
+    "date": "2020-06-30",
+    "source_file": "finra_regbi_2018056490307_20Joao_20A__20Pinto_20CRD_206298233_20AWC_20vr_20_282023-1703204397449_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2018056490319",
+    "date": "2020-06-30",
+    "source_file": "finra_regbi_2018056490319_20Jesse_20D__20Krapf_20CRD_205467277_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2018056490321",
+    "date": "2020-06-30",
+    "source_file": "finra_regbi_2018056490321_20Christopher_20P__20Gallo_20CRD_206045888_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "brian-maguire-awc-042021",
+    "date": "2020-11-27",
+    "source_file": "brian-maguire-awc-042021.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020065683301",
+    "date": "2021-01-31",
+    "source_file": "finra_regbi_2020065683301_20Todd_20Anthony_20Cirella_20CRD_202396336_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069395701",
+    "date": "2021-03-15",
+    "source_file": "finra_regbi_2021069395701_20Dalmore_20Group_20LLC_20CRD_20136352_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021071257201",
+    "date": "2021-04-30",
+    "source_file": "2021071257201_20Ally_20Invest_20Securities_20LLC_20CRD_20136131_20AWC_20ks_20_282025-1762561195045_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "Aegis-Capital-AWC-110921",
+    "date": "2021-11-08",
+    "source_file": "Aegis-Capital-AWC-110921.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021072799801",
+    "date": "2021-12-30",
+    "source_file": "2021072799801_20J.P._20Morgan_20Securities_20LLC_20CRD_2079_20AWC_20keh_20_282025-1759018793536_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022074570601",
+    "date": "2022-03-15",
+    "source_file": "2022074570601_20Cash_20App_20Investing_20LLC_20CRD_20144076_20AWC_20ks_20_282025-1762042805173_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021070851501",
+    "date": "2022-03-31",
+    "source_file": "finra_regbi_2021070851501_Network_1_Financial_Securities_2C_Inc__CRD_13577_and_Michael_R_Molinaro_CRD_2358346_AWC_lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069460001",
+    "date": "2022-05-15",
+    "source_file": "finra_regbi_2021069460001_20Independent_20Financial_20Group_2C_20LLC_20CRD_207717_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022075850501",
+    "date": "2022-07-15",
+    "source_file": "2022075850501_20Jefferies_20LLC_20CRD_202347_20AWC_20lp_20_282025-1760142000890_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069508201",
+    "date": "2022-08-15",
+    "source_file": "2021069508201_20EFG_20Capital_20International_20CRD_2040118_20AWC_20lp_20_282025-1762647600944_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069405501",
+    "date": "2022-10-11",
+    "source_file": "finra_regbi_2021069405501_20Charles_20V__20Malico_20CRD_201507282_20AWC_20va_20_282022-1668126012623_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021071543601",
+    "date": "2022-10-15",
+    "source_file": "2021071543601_20DriveWealth_2C_20LLC_20CRD_20165429_20AWC_20gg_20_282025-1751847601688_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020065435403",
+    "date": "2023-02-10",
+    "source_file": "awc_2020065435403_20Fortune_20Financial_20Services__20Inc__20CRD_2042150_20AWCgg_20_2023-1678666801659.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "sofi-securities-awc-120623",
+    "date": "2023-03-15",
+    "source_file": "sofi-securities-awc-120623.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023078120201",
+    "date": "2023-03-15",
+    "source_file": "2023078120201_20MooMoo_20Financial_20Inc._20CRD_20283078_20AWC_20lp_20_282026-1768004401530_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021070498102",
+    "date": "2023-03-15",
+    "source_file": "finra_regbi_2021070498102_20Alan_20Mason_20CRD_201302190_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023077061201",
+    "date": "2023-03-15",
+    "source_file": "2023077061201_20Laidlaw_20_26_20Company_20_28UK_29_20Ltd._20CRD_20119037_20AWC_20ks_20_282025-1766276400275_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069376801",
+    "date": "2023-05-19",
+    "source_file": "finra_regbi_2021069376801_20American_20Wealth_20Management_2C_20Inc__20CRD_20No__2025536_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022076103701",
+    "date": "2023-05-19",
+    "source_file": "finra_regbi_2022076103701_20Axos_20Invest_20LLC_20CRD_20172393_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069357901",
+    "date": "2023-05-19",
+    "source_file": "finra_regbi_2021069357901_20Highlander_20Capital_20Group_2C_20Inc__20CRD_2019074_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069277101",
+    "date": "2023-05-19",
+    "source_file": "finra_regbi_2021069277101_20Harpeth_20Securities_2C_20LLC_20CRD_20109821_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023077446701",
+    "date": "2023-06-15",
+    "source_file": "2023077446701_20ANZ_20Securities_2C_20Inc._20CRD_2036654_20AWC_20ks_20_282025-1760833205852_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "m1-finance-awc-120623",
+    "date": "2023-06-15",
+    "source_file": "m1-finance-awc-120623.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023079356701",
+    "date": "2023-07-24",
+    "source_file": "2023079356701_20George_20John_20Cairnes_20CRD_204068906_20AWC_20lp_20_282025-1761958190759_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023079527501",
+    "date": "2023-08-10",
+    "source_file": "2023079527501_20William_20N._20Girasole_20CRD_206840837_20AWC_20ks_20_282026-1769127601694_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2019060756501",
+    "date": "2023-08-15",
+    "source_file": "finra_regbi_2019060756501_20Robinhood_20Financial_2C_20LLC_20CRD_20165998_20and_20Robinhood_20Securities_2C_20LLC_20CRD.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020066079904",
+    "date": "2023-08-15",
+    "source_file": "2020066079904_20Diane_20Daly_20CRD_202372551_20AWC_20_282025-1752711603922_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021070498106",
+    "date": "2023-11-02",
+    "source_file": "finra_regbi_2021070498106_20Alfred_20S__20Vanderlaan_20CRD_201172406_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2017052494701",
+    "date": "2023-12-27",
+    "source_file": "finra_regbi_2017052494701_20LPL_20Financial_20LLC_20CRD_206413_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   }
+  ],
+  "post_cutoff_control": [
+   {
+    "case_id": "2024081666401",
+    "date": "2024-03-21",
+    "source_file": "2024081666401_20Timothy_20R._20Jones_20CRD_202366513_20AWC_20ks_20_282025-1766622007488_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073340901",
+    "date": "2024-05-02",
+    "source_file": "finra_regbi_2022073340901_20Justin_20W__20Pagel_20CRD_202554168_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022076162101",
+    "date": "2024-07-17",
+    "source_file": "finra_regbi_2022076162101_20Laura_20Casey_20CRD_202684465_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022075862201",
+    "date": "2024-08-02",
+    "source_file": "2022075862201_20Michael_20Edwin_20Magruder_20CRD_204579211_20AWC_20vr_20_282025-1753662001396_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020068424201",
+    "date": "2024-08-15",
+    "source_file": "2020068424201_20A.G.P._Alliance_20Global_20Partners_2C_20LLC_20CRD_208361_20AWC_20vrp_20_282026-1769818806241_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069353202",
+    "date": "2024-09-13",
+    "source_file": "finra_regbi_2021069353202_20Securities_20Research_2C_20Inc__20of_20Florida_20CRD_20_206516_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021070875201",
+    "date": "2024-09-24",
+    "source_file": "finra_regbi_2021070875201_20Park_20Avenue_20Securities_20LLC_20CRD_2046173_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022075471001",
+    "date": "2024-10-30",
+    "source_file": "2022075471001_20Keith_20M._20Dagostino_20CRD_202837860_20AWC_20ks_20_282026-1768609201084_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073262401",
+    "date": "2024-11-11",
+    "source_file": "finra_regbi_2022073262401_20G__20research_2C_20LLC_20_20CRD_207353_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2018056490327",
+    "date": "2025-04-01",
+    "source_file": "finra_regbi_2018056490327_20Michael_20J__20Dugan_20CRD_202824966_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023077098101",
+    "date": "2025-04-04",
+    "source_file": "finra_regbi_2023077098101_20Liberty_20Partners_20Financial_20Services_2C_20LLC_20CRD_20130390_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069372901",
+    "date": "2025-04-15",
+    "source_file": "2021069372901_20J.K._20Financial_20Services_2C_20Inc._2C_20CRD_20103728_20AWC_20lp_20_282025-1763770797487_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020068655902",
+    "date": "2025-04-22",
+    "source_file": "finra_regbi_2020068655902_20American_20Trust_20Investment_20Services_2C_20Inc__20CRD_203001_20AWC_20gg.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023077077001",
+    "date": "2025-04-24",
+    "source_file": "finra_regbi_2023077077001_20Regulus_20Financial_20Group_2C_20LLC_20CRD_20150631_20AWC_20vr.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2018056490328",
+    "date": "2025-05-01",
+    "source_file": "finra_regbi_2018056490328_20John_20E__20Fendrich_20Jr__20CRD_201791002_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022074999801",
+    "date": "2025-06-04",
+    "source_file": "2022074999801_20Network_201_20Financial_20Securities_2C_20Inc._20CRD_2013577_20AWC_20vr_20_282025-1751674799318_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022077267703",
+    "date": "2025-06-23",
+    "source_file": "2022077267703_20Bingshan_20Song_20CRD_206798955_20AWC_20lp_20_282025-1753316402191_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025085293201",
+    "date": "2025-06-23",
+    "source_file": "2025085293201_20Jeffrey_20Alan_20Arbeit_20CRD_206603428_20AWC_20gg_20_282025-1753402797891_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2021069344801",
+    "date": "2025-06-24",
+    "source_file": "2021069344801_20NewEdge_20Securities_2C_20LLC_20CRD_2010674_20AWC_20lp_20_282025-1753402797881_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2024084295501",
+    "date": "2025-06-30",
+    "source_file": "2024084295501_20Nicholas_20Stephen_20Coubrough_20CRD_204678755_20AWC_20lp_20_282025-1753921209900_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020068547301",
+    "date": "2025-07-08",
+    "source_file": "2020068547301_20Cantor_20Fitzgerald_20_26_20_20Co._20CRD_20134_20AWC_20vr_20_282025-1754612405160_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023079140201",
+    "date": "2025-07-16",
+    "source_file": "2023079140201_20Chuck_20A._20Roberts_20CRD_202064602_20AWC_20lp_20_282025-1755303595510_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023079598001",
+    "date": "2025-07-17",
+    "source_file": "2023079598001_20Daniel_20Michael_20Roper_20CRD_206188279_20AWC_20vr_20_282025-1755476394291_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2020065533402",
+    "date": "2025-07-29",
+    "source_file": "2020065533402_20Noble_20Capital_20Markets_2C_20Inc._20CRD_2015768_20AWC_20lp_20_282025-1756426796809_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023078229701",
+    "date": "2025-08-21",
+    "source_file": "2023078229701_20Navian_20Capital_20Securities_20LLC_20CRD_20145037_20AWC_20lmp_20_282025-1759018793550_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025085994001",
+    "date": "2025-08-28",
+    "source_file": "2025085994001_20Lyle_20H._20Uyeda_20CRD_202637150_20AWC_20lp_20_282025-1759018793555_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073349701",
+    "date": "2025-08-29",
+    "source_file": "2022073349701_20Joseph_20Warner_20Rozof_20CRD_205274784_20AWC_20lp_20_282025-1759105207988_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2024083348501",
+    "date": "2025-09-15",
+    "source_file": "2024083348501_20Harry_20Harper_20Warnick_20CRD_206916323_20AWC_20ks_20_282025-1760574017159_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2024080232801",
+    "date": "2025-10-01",
+    "source_file": "2024080232801_20William_20Coppa_20CRD_201223438_20AWC_20ks_20_282025-1761956407765_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073912801",
+    "date": "2025-10-09",
+    "source_file": "2022073912801_20Brian_20Moran_20CRD_201940341_20AWC_20lp_20_282025-1762647600983_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2024084516401",
+    "date": "2025-10-16",
+    "source_file": "2024084516401_20Robert_20David_20Bienvenu_20CRD_207963321_20AWC_20lp_20_282025-1763252395728_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2023078671001",
+    "date": "2025-12-02",
+    "source_file": "2023078671001_20Barclays_20Capital_20Inc._20CRD_2019714_20AWC_20lp_20_282026-1767313203686_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2024083413501",
+    "date": "2025-12-05",
+    "source_file": "2024083413501_20Ryan_20Wesley_20Davis_20CRD_205285713_20AWC_20lp_20_282026-1768177201908_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025085169301",
+    "date": "2025-12-08",
+    "source_file": "2025085169301_20William_20K._20Weinstein_20CRD_20462058_20AWC_20lp_20_282026-1767831598725_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025084761001",
+    "date": "2025-12-09",
+    "source_file": "2025084761001_20Jennifer_20H._20Ceterko_20CRD_203091599_20AWC_20vr_20_282026-1768004401905_29.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073334701",
+    "date": "2025-12-29",
+    "source_file": "2022073334701_20VSI_20Securities_2C_20Inc._20fka_20Venecredit_20Securities_2C_20Inc._20CRD_20114419_20AWC_20ks_20_282026.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022074289902",
+    "date": "2026-01-27",
+    "source_file": "2022074289902_20Independence_20Capital_20Co._2C_20Inc._20CRD_2024723_20and_20Dennis_20C._20Twarogowski_20CRD_201033169_2.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025085924401",
+    "date": "2026-02-02",
+    "source_file": "2025085924401_20Ronny_20Cruz_20CRD_206892943_20AWC_20lp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2022073260701",
+    "date": "2026-02-09",
+    "source_file": "2022073260701_20Taglich_20Brothers_20Inc._20CRD_2029102_20AWC_20vrp.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   },
+   {
+    "case_id": "2025085940401",
+    "date": "2026-02-17",
+    "source_file": "2025085940401_20Ricardo_20Cruz_20CRD_207001983_20AWC_20ks.pdf",
+    "url_hint": "https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions"
+   }
+  ]
+ },
+ "sec_ia_releases": {
+  "cutoff": "2023-12-31",
+  "pre_cutoff": [
+   {
+    "case_id": "IA-4124",
+    "date": "2015-06-22",
+    "source_file": "ia-4124.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2015/ia-4124.pdf"
+   },
+   {
+    "case_id": "IA-4160",
+    "date": "2015-08-06",
+    "source_file": "ia-4160.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2015/ia-4160.pdf"
+   },
+   {
+    "case_id": "IA-4253",
+    "date": "2015-11-03",
+    "source_file": "ia-4253.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2015/ia-4253.pdf"
+   },
+   {
+    "case_id": "IA-4493",
+    "date": "2016-08-23",
+    "source_file": "ia-4493.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2016/ia-4493.pdf"
+   },
+   {
+    "case_id": "IA-4725",
+    "date": "2017-07-06",
+    "source_file": "ia-4725.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2017/ia-4725.pdf"
+   },
+   {
+    "case_id": "IA-4766",
+    "date": "2017-09-11",
+    "source_file": "ia-4766.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2017/ia-4766.pdf"
+   },
+   {
+    "case_id": "IA-4934",
+    "date": "2018-06-04",
+    "source_file": "ia-4934.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2018/ia-4934.pdf"
+   },
+   {
+    "case_id": "IA-5084",
+    "date": "2018-12-20",
+    "source_file": "ia-5084.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2018/ia-5084.pdf"
+   },
+   {
+    "case_id": "IA-5096",
+    "date": "2018-12-26",
+    "source_file": "ia-5096.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2018/ia-5096.pdf"
+   },
+   {
+    "case_id": "IA-5123",
+    "date": "2019-03-11",
+    "source_file": "ia-5123.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5123.pdf"
+   },
+   {
+    "case_id": "IA-5129",
+    "date": "2019-03-11",
+    "source_file": "ia-5129.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5129.pdf"
+   },
+   {
+    "case_id": "IA-5144",
+    "date": "2019-03-11",
+    "source_file": "ia-5144.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5144.pdf"
+   },
+   {
+    "case_id": "IA-5156",
+    "date": "2019-03-11",
+    "source_file": "ia-5156.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5156.pdf"
+   },
+   {
+    "case_id": "IA-5159",
+    "date": "2019-03-11",
+    "source_file": "ia-5159.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5159.pdf"
+   },
+   {
+    "case_id": "IA-5162",
+    "date": "2019-03-11",
+    "source_file": "ia-5162.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5162.pdf"
+   },
+   {
+    "case_id": "IA-5195",
+    "date": "2019-03-11",
+    "source_file": "ia-5195.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5195.pdf"
+   },
+   {
+    "case_id": "IA-5165",
+    "date": "2019-03-11",
+    "source_file": "ia-5165.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5165.pdf"
+   },
+   {
+    "case_id": "IA-5248",
+    "date": "2019-07-12",
+    "source_file": "ia-5248.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5248.pdf"
+   },
+   {
+    "case_id": "IA-5381",
+    "date": "2019-09-30",
+    "source_file": "ia-5381.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5381.pdf"
+   },
+   {
+    "case_id": "IA-5393",
+    "date": "2019-09-30",
+    "source_file": "ia-5393.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2019/ia-5393.pdf"
+   },
+   {
+    "case_id": "IA-5477",
+    "date": "2020-04-17",
+    "source_file": "ia-5477.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2020/ia-5477.pdf"
+   },
+   {
+    "case_id": "IA-5480",
+    "date": "2020-04-17",
+    "source_file": "ia-5480.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2020/ia-5480.pdf"
+   },
+   {
+    "case_id": "IA-5585",
+    "date": "2020-09-18",
+    "source_file": "ia-5585.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2020/ia-5585.pdf"
+   },
+   {
+    "case_id": "IA-5783",
+    "date": "2021-07-21",
+    "source_file": "ia-5783.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2021/ia-5783.pdf"
+   },
+   {
+    "case_id": "IA-5852",
+    "date": "2021-09-08",
+    "source_file": "ia-5852.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2021/ia-5852.pdf"
+   },
+   {
+    "case_id": "IA-5930",
+    "date": "2021-12-20",
+    "source_file": "ia-5930.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2021/ia-5930.pdf"
+   },
+   {
+    "case_id": "IA-5944",
+    "date": "2022-01-11",
+    "source_file": "ia-5944.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-5944.pdf"
+   },
+   {
+    "case_id": "IA-6020",
+    "date": "2022-05-11",
+    "source_file": "ia-6020.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6020.pdf"
+   },
+   {
+    "case_id": "IA-6095",
+    "date": "2022-08-23",
+    "source_file": "ia-6095.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6095.pdf"
+   },
+   {
+    "case_id": "IA-6113",
+    "date": "2022-09-09",
+    "source_file": "ia-6113.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6113.pdf"
+   },
+   {
+    "case_id": "IA-6116",
+    "date": "2022-09-09",
+    "source_file": "ia-6116.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6116.pdf"
+   },
+   {
+    "case_id": "IA-6122",
+    "date": "2022-09-12",
+    "source_file": "ia-6122.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6122.pdf"
+   },
+   {
+    "case_id": "IA-6143",
+    "date": "2022-09-21",
+    "source_file": "ia-6143.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6143.pdf"
+   },
+   {
+    "case_id": "IA-6152",
+    "date": "2022-09-27",
+    "source_file": "ia-6152.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6152.pdf"
+   },
+   {
+    "case_id": "IA-6185",
+    "date": "2022-11-10",
+    "source_file": "ia-6185.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6185.pdf"
+   },
+   {
+    "case_id": "IA-6188",
+    "date": "2022-11-21",
+    "source_file": "ia-6188.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2022/ia-6188.pdf"
+   },
+   {
+    "case_id": "IA-6431",
+    "date": "2023-09-25",
+    "source_file": "ia-6431.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2023/ia-6431.pdf"
+   },
+   {
+    "case_id": "IA-6437",
+    "date": "2023-09-28",
+    "source_file": "ia-6437.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2023/ia-6437.pdf"
+   },
+   {
+    "case_id": "IA-6470",
+    "date": "2023-10-24",
+    "source_file": "ia-6470.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2023/ia-6470.pdf"
+   },
+   {
+    "case_id": "IA-6491",
+    "date": "2023-12-01",
+    "source_file": "ia-6491.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2023/ia-6491.pdf"
+   }
+  ],
+  "post_cutoff_control": [
+   {
+    "case_id": "IA-6533",
+    "date": "2024-01-24",
+    "source_file": "ia-6533.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6533.pdf"
+   },
+   {
+    "case_id": "IA-6673",
+    "date": "2024-09-03",
+    "source_file": "ia-6673.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6673.pdf"
+   },
+   {
+    "case_id": "IA-6682",
+    "date": "2024-09-09",
+    "source_file": "ia-6682.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6682.pdf"
+   },
+   {
+    "case_id": "IA-6709",
+    "date": "2024-09-19",
+    "source_file": "ia-6709.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6709.pdf"
+   },
+   {
+    "case_id": "IA-6748",
+    "date": "2024-10-15",
+    "source_file": "ia-6748.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6748.pdf"
+   },
+   {
+    "case_id": "IA-6803",
+    "date": "2024-12-20",
+    "source_file": "ia-6803.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6803.pdf"
+   },
+   {
+    "case_id": "IA-6806",
+    "date": "2024-12-30",
+    "source_file": "ia-6806.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2024/ia-6806.pdf"
+   },
+   {
+    "case_id": "IA-6810",
+    "date": "2025-01-10",
+    "source_file": "IA_6810_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6810.pdf"
+   },
+   {
+    "case_id": "IA-6816",
+    "date": "2025-01-13",
+    "source_file": "IA_6816_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6816.pdf"
+   },
+   {
+    "case_id": "IA-6813",
+    "date": "2025-01-13",
+    "source_file": "IA_6813_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6813.pdf"
+   },
+   {
+    "case_id": "IA-6819",
+    "date": "2025-01-14",
+    "source_file": "IA_6819_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6819.pdf"
+   },
+   {
+    "case_id": "IA-6861",
+    "date": "2025-03-07",
+    "source_file": "IA_6861_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6861.pdf"
+   },
+   {
+    "case_id": "IA-6867",
+    "date": "2025-03-20",
+    "source_file": "IA_6867_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6867.pdf"
+   },
+   {
+    "case_id": "IA-6876",
+    "date": "2025-04-25",
+    "source_file": "IA_6876_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6876.pdf"
+   },
+   {
+    "case_id": "IA-6882",
+    "date": "2025-06-03",
+    "source_file": "IA_6882_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6882.pdf"
+   },
+   {
+    "case_id": "IA-6912",
+    "date": "2025-08-29",
+    "source_file": "IA_6912_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6912.pdf"
+   },
+   {
+    "case_id": "IA-6918",
+    "date": "2025-09-12",
+    "source_file": "IA_6918_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6918.pdf"
+   },
+   {
+    "case_id": "IA-6927",
+    "date": "2025-11-24",
+    "source_file": "IA_6927_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6927.pdf"
+   },
+   {
+    "case_id": "IA-6933",
+    "date": "2025-12-12",
+    "source_file": "IA_6933_2025.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2025/ia-6933.pdf"
+   },
+   {
+    "case_id": "IA-6940",
+    "date": "2026-01-16",
+    "source_file": "ia-6940.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2026/ia-6940.pdf"
+   },
+   {
+    "case_id": "IA-6941",
+    "date": "2026-01-20",
+    "source_file": "ia-6941.pdf",
+    "url_hint": "https://www.sec.gov/litigation/admin/2026/ia-6941.pdf"
+   }
+  ]
+ },
+ "court_opinions": {
+  "cutoff": null,
+  "note": "full local pool; superset of the original 40 (see in_original_40)",
+  "cases": [
+   {
+    "case_id": "cl_2014_ca2_city_of_pontiac_v._ubs_ag",
+    "year": "2014",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "city of pontiac v. ubs ag",
+    "docket": null,
+    "n_pages": 31,
+    "source_file": "cl_2014_ca2_city_of_pontiac_v._ubs_ag.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=city+of+pontiac+v.+ubs+ag"
+   },
+   {
+    "case_id": "cl_2014_ca2_sec_v._contorinis",
+    "year": "2014",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "sec v. contorinis",
+    "docket": null,
+    "n_pages": 34,
+    "source_file": "cl_2014_ca2_sec_v._contorinis.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+contorinis"
+   },
+   {
+    "case_id": "cl_2014_ca9_john_loos_v._immersion_corporation",
+    "year": "2014",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "john loos v. immersion corporation",
+    "docket": "12-15100",
+    "n_pages": 21,
+    "source_file": "cl_2014_ca9_john_loos_v._immersion_corporation.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=john+loos+v.+immersion+corporation"
+   },
+   {
+    "case_id": "cl_2015_ca2_in_re_kingate_management_limited_li",
+    "year": "2015",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "in re kingate management limited li",
+    "docket": null,
+    "n_pages": 69,
+    "source_file": "cl_2015_ca2_in_re_kingate_management_limited_li.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=in+re+kingate+management+limited+li"
+   },
+   {
+    "case_id": "cl_2015_ca2_united_states_v._parse",
+    "year": "2015",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "united states v. parse",
+    "docket": "13-1388",
+    "n_pages": 71,
+    "source_file": "cl_2015_ca2_united_states_v._parse.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+parse"
+   },
+   {
+    "case_id": "cl_2015_ca5_state_of_texas_v._usa",
+    "year": "2015",
+    "court": "ca5",
+    "court_name": "Fifth Circuit",
+    "caption": "state of texas v. usa",
+    "docket": "15-40238",
+    "n_pages": 135,
+    "source_file": "cl_2015_ca5_state_of_texas_v._usa.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=state+of+texas+v.+usa"
+   },
+   {
+    "case_id": "cl_2015_ca9_northstar_financial_advisors_v._sch",
+    "year": "2015",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "northstar financial advisors v. sch",
+    "docket": "11-17187",
+    "n_pages": 70,
+    "source_file": "cl_2015_ca9_northstar_financial_advisors_v._sch.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=northstar+financial+advisors+v.+sch"
+   },
+   {
+    "case_id": "cl_2015_ca9_steve_harris_v._amgen_inc.",
+    "year": "2015",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "steve harris v. amgen inc.",
+    "docket": "10-56014",
+    "n_pages": 63,
+    "source_file": "cl_2015_ca9_steve_harris_v._amgen_inc..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=steve+harris+v.+amgen+inc."
+   },
+   {
+    "case_id": "cl_2016_ca2_credit_suisse_secs._llc_v._tracy",
+    "year": "2016",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "credit suisse secs. llc v. tracy",
+    "docket": null,
+    "n_pages": 23,
+    "source_file": "cl_2016_ca2_credit_suisse_secs._llc_v._tracy.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=credit+suisse+secs.+llc+v.+tracy"
+   },
+   {
+    "case_id": "cl_2017_iowa_amended_september_5_2017_state_of_i",
+    "year": "2017",
+    "court": "iowa",
+    "court_name": "iowa",
+    "caption": "amended september 5 2017 state of i",
+    "docket": "15\u20131515",
+    "n_pages": 72,
+    "source_file": "cl_2017_iowa_amended_september_5_2017_state_of_i.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=amended+september+5+2017+state+of+i"
+   },
+   {
+    "case_id": "cl_2017_pa_villani_v._seibert_appeal_of_seiber",
+    "year": "2017",
+    "court": "pa",
+    "court_name": "pa",
+    "caption": "villani v. seibert appeal of seiber",
+    "docket": null,
+    "n_pages": 26,
+    "source_file": "cl_2017_pa_villani_v._seibert_appeal_of_seiber.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=villani+v.+seibert+appeal+of+seiber"
+   },
+   {
+    "case_id": "cl_2017_wva_blackrock_capital_investment_corp._",
+    "year": "2017",
+    "court": "wva",
+    "court_name": "wva",
+    "caption": "blackrock capital investment corp.",
+    "docket": "15-1122",
+    "n_pages": 10,
+    "source_file": "cl_2017_wva_blackrock_capital_investment_corp._.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=blackrock+capital+investment+corp."
+   },
+   {
+    "case_id": "cl_2018_ca9_jaclyn_santomenno_v._transamerica_l",
+    "year": "2018",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "jaclyn santomenno v. transamerica l",
+    "docket": "16-56418",
+    "n_pages": 18,
+    "source_file": "cl_2018_ca9_jaclyn_santomenno_v._transamerica_l.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=jaclyn+santomenno+v.+transamerica+l"
+   },
+   {
+    "case_id": "cl_2018_ca9_united_states_v._jonathan_turner",
+    "year": "2018",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "united states v. jonathan turner",
+    "docket": "14-50238",
+    "n_pages": 45,
+    "source_file": "cl_2018_ca9_united_states_v._jonathan_turner.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+jonathan+turner"
+   },
+   {
+    "case_id": "cl_2018_ca9_ussec_v._e._andrew_schooler",
+    "year": "2018",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "ussec v. e. andrew schooler",
+    "docket": "16-55167",
+    "n_pages": 17,
+    "source_file": "cl_2018_ca9_ussec_v._e._andrew_schooler.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=ussec+v.+e.+andrew+schooler"
+   },
+   {
+    "case_id": "cl_2018_cadc_phh_corporation_v._cfpb",
+    "year": "2018",
+    "court": "cadc",
+    "court_name": "D.C. Circuit",
+    "caption": "phh corporation v. cfpb",
+    "docket": "15-1177",
+    "n_pages": 250,
+    "source_file": "cl_2018_cadc_phh_corporation_v._cfpb.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=phh+corporation+v.+cfpb"
+   },
+   {
+    "case_id": "cl_2018_illappct_vt_investment_corp._v._west_columbi",
+    "year": "2018",
+    "court": "illappct",
+    "court_name": "illappct",
+    "caption": "vt investment corp. v. west columbi",
+    "docket": null,
+    "n_pages": 11,
+    "source_file": "cl_2018_illappct_vt_investment_corp._v._west_columbi.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=vt+investment+corp.+v.+west+columbi"
+   },
+   {
+    "case_id": "cl_2019_ca3_jennifer_sweda_v._university_of_pen",
+    "year": "2019",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "jennifer sweda v. university of pen",
+    "docket": "17-3244",
+    "n_pages": 56,
+    "source_file": "cl_2019_ca3_jennifer_sweda_v._university_of_pen.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=jennifer+sweda+v.+university+of+pen"
+   },
+   {
+    "case_id": "cl_2019_ca9_alexander_acosta_v._city_national_c",
+    "year": "2019",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "alexander acosta v. city national c",
+    "docket": "17-55421",
+    "n_pages": 21,
+    "source_file": "cl_2019_ca9_alexander_acosta_v._city_national_c.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=alexander+acosta+v.+city+national+c"
+   },
+   {
+    "case_id": "cl_2019_ca9_the_depot_inc._v._caring_for_montan",
+    "year": "2019",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "the depot inc. v. caring for montan",
+    "docket": "17-35597",
+    "n_pages": 43,
+    "source_file": "cl_2019_ca9_the_depot_inc._v._caring_for_montan.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=the+depot+inc.+v.+caring+for+montan"
+   },
+   {
+    "case_id": "cl_2019_ca9_ussec_v._hui_feng",
+    "year": "2019",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "ussec v. hui feng",
+    "docket": "17-56522",
+    "n_pages": 30,
+    "source_file": "cl_2019_ca9_ussec_v._hui_feng.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=ussec+v.+hui+feng"
+   },
+   {
+    "case_id": "cl_2019_cadc_donald_trump_v._mazars_usa_llp",
+    "year": "2019",
+    "court": "cadc",
+    "court_name": "D.C. Circuit",
+    "caption": "donald trump v. mazars usa llp",
+    "docket": "19-5142",
+    "n_pages": 134,
+    "source_file": "cl_2019_cadc_donald_trump_v._mazars_usa_llp.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=donald+trump+v.+mazars+usa+llp"
+   },
+   {
+    "case_id": "cl_2019_cadc_the_robare_group_ltd._v._sec",
+    "year": "2019",
+    "court": "cadc",
+    "court_name": "D.C. Circuit",
+    "caption": "the robare group ltd. v. sec",
+    "docket": "16-1453",
+    "n_pages": 19,
+    "source_file": "cl_2019_cadc_the_robare_group_ltd._v._sec.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=the+robare+group+ltd.+v.+sec"
+   },
+   {
+    "case_id": "cl_2019_calctapp_j.b.b._investment_partners_v._fair",
+    "year": "2019",
+    "court": "calctapp",
+    "court_name": "calctapp",
+    "caption": "j. b. b. investment partners v. fair",
+    "docket": null,
+    "n_pages": 32,
+    "source_file": "cl_2019_calctapp_j.b.b._investment_partners_v._fair.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=j.+b.+b.+investment+partners+v.+fair"
+   },
+   {
+    "case_id": "cl_2019_dcd_state_of_new_york_v._united_states_",
+    "year": "2019",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "state of new york v. united states",
+    "docket": "18-1747",
+    "n_pages": 43,
+    "source_file": "cl_2019_dcd_state_of_new_york_v._united_states_.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=state+of+new+york+v.+united+states"
+   },
+   {
+    "case_id": "cl_2019_dcd_taylor_v._federal_aviation_administ",
+    "year": "2019",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "taylor v. federal aviation administ",
+    "docket": "18-cv-00035",
+    "n_pages": 18,
+    "source_file": "cl_2019_dcd_taylor_v._federal_aviation_administ.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=taylor+v.+federal+aviation+administ"
+   },
+   {
+    "case_id": "cl_2020_ca11_united_states_v._gerti_muho",
+    "year": "2020",
+    "court": "ca11",
+    "court_name": "Eleventh Circuit",
+    "caption": "united states v. gerti muho",
+    "docket": "18-11248",
+    "n_pages": 26,
+    "source_file": "cl_2020_ca11_united_states_v._gerti_muho.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+gerti+muho"
+   },
+   {
+    "case_id": "cl_2020_ca2_abm_indus._groups_llc_v._intl_union",
+    "year": "2020",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "abm indus. groups llc v. intl union",
+    "docket": "19-2755",
+    "n_pages": 15,
+    "source_file": "cl_2020_ca2_abm_indus._groups_llc_v._intl_union.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=abm+indus.+groups+llc+v.+intl+union"
+   },
+   {
+    "case_id": "cl_2020_ca2_gonnella_v._securities_and_exchange",
+    "year": "2020",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "gonnella v. securities and exchange",
+    "docket": "16-3433",
+    "n_pages": 30,
+    "source_file": "cl_2020_ca2_gonnella_v._securities_and_exchange.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=gonnella+v.+securities+and+exchange"
+   },
+   {
+    "case_id": "cl_2020_ca2_rubenstein_v._intl_value_advisers_l",
+    "year": "2020",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "rubenstein v. intl value advisers l",
+    "docket": "19-560",
+    "n_pages": 23,
+    "source_file": "cl_2020_ca2_rubenstein_v._intl_value_advisers_l.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=rubenstein+v.+intl+value+advisers+l"
+   },
+   {
+    "case_id": "cl_2020_ca2_united_states_v._kosinski",
+    "year": "2020",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "united states v. kosinski",
+    "docket": "18-3065",
+    "n_pages": 55,
+    "source_file": "cl_2020_ca2_united_states_v._kosinski.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+kosinski"
+   },
+   {
+    "case_id": "cl_2020_ca2_xy_planning_network_llc_v._sec",
+    "year": "2020",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "xy planning network llc v. sec",
+    "docket": "19-2886",
+    "n_pages": 35,
+    "source_file": "cl_2020_ca2_xy_planning_network_llc_v._sec.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=xy+planning+network+llc+v.+sec"
+   },
+   {
+    "case_id": "cl_2020_ca3_jaroslawicz_v._mt_bank_corp",
+    "year": "2020",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "jaroslawicz v. mt bank corp",
+    "docket": null,
+    "n_pages": 36,
+    "source_file": "cl_2020_ca3_jaroslawicz_v._mt_bank_corp.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=jaroslawicz+v.+mt+bank+corp"
+   },
+   {
+    "case_id": "cl_2020_ca3_jeffrey_norman_v._david_elkin",
+    "year": "2020",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "jeffrey norman v. david elkin",
+    "docket": "19-2294",
+    "n_pages": 31,
+    "source_file": "cl_2020_ca3_jeffrey_norman_v._david_elkin.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=jeffrey+norman+v.+david+elkin"
+   },
+   {
+    "case_id": "cl_2020_ca3_united_states_v._steven_fishoff",
+    "year": "2020",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "united states v. steven fishoff",
+    "docket": "18-3549",
+    "n_pages": 22,
+    "source_file": "cl_2020_ca3_united_states_v._steven_fishoff.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+steven+fishoff"
+   },
+   {
+    "case_id": "cl_2020_ca5_jeffery_schweitzer_v._investment_co",
+    "year": "2020",
+    "court": "ca5",
+    "court_name": "Fifth Circuit",
+    "caption": "jeffery schweitzer v. investment co",
+    "docket": "18-20379",
+    "n_pages": 14,
+    "source_file": "cl_2020_ca5_jeffery_schweitzer_v._investment_co.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=jeffery+schweitzer+v.+investment+co"
+   },
+   {
+    "case_id": "cl_2020_ca6_nancy_goodman_v._j.p._morgan_invest",
+    "year": "2020",
+    "court": "ca6",
+    "court_name": "Sixth Circuit",
+    "caption": "nancy goodman v. j. p. morgan invest",
+    "docket": "18-3238",
+    "n_pages": 17,
+    "source_file": "cl_2020_ca6_nancy_goodman_v._j.p._morgan_invest.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=nancy+goodman+v.+j.+p.+morgan+invest"
+   },
+   {
+    "case_id": "cl_2020_ca9_dimitri_shivkov_v._artex_risk_solut",
+    "year": "2020",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "dimitri shivkov v. artex risk solut",
+    "docket": "19-16746",
+    "n_pages": 35,
+    "source_file": "cl_2020_ca9_dimitri_shivkov_v._artex_risk_solut.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=dimitri+shivkov+v.+artex+risk+solut"
+   },
+   {
+    "case_id": "cl_2020_ca9_tamara_moore_v._mars_petcare_us_inc",
+    "year": "2020",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "tamara moore v. mars petcare us inc",
+    "docket": "18-15026",
+    "n_pages": 36,
+    "source_file": "cl_2020_ca9_tamara_moore_v._mars_petcare_us_inc.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=tamara+moore+v.+mars+petcare+us+inc"
+   },
+   {
+    "case_id": "cl_2020_dcd_broidy_capital_management_llc_v._mu",
+    "year": "2020",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "broidy capital management llc v. mu",
+    "docket": null,
+    "n_pages": 44,
+    "source_file": "cl_2020_dcd_broidy_capital_management_llc_v._mu.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=broidy+capital+management+llc+v.+mu"
+   },
+   {
+    "case_id": "cl_2020_dcd_district_of_columbia_v._u.s._depart",
+    "year": "2020",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "district of columbia v. u. s. depart",
+    "docket": "20-119",
+    "n_pages": 84,
+    "source_file": "cl_2020_dcd_district_of_columbia_v._u.s._depart.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=district+of+columbia+v.+u.+s.+depart"
+   },
+   {
+    "case_id": "cl_2020_dcd_ghadami_v._united_states_department",
+    "year": "2020",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "ghadami v. united states department",
+    "docket": "19-00397",
+    "n_pages": 22,
+    "source_file": "cl_2020_dcd_ghadami_v._united_states_department.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=ghadami+v.+united+states+department"
+   },
+   {
+    "case_id": "cl_2020_dcd_pca_integrity_associates_llp_v._nco",
+    "year": "2020",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "pca integrity associates llp v. nco",
+    "docket": ":",
+    "n_pages": 76,
+    "source_file": "cl_2020_dcd_pca_integrity_associates_llp_v._nco.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=pca+integrity+associates+llp+v.+nco"
+   },
+   {
+    "case_id": "cl_2020_dcd_united_states_v._harmon",
+    "year": "2020",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "united states v. harmon",
+    "docket": "19-395",
+    "n_pages": 30,
+    "source_file": "cl_2020_dcd_united_states_v._harmon.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+harmon"
+   },
+   {
+    "case_id": "cl_2021_ca2_donna_browe_v._ctc_corp.",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "donna browe v. ctc corp.",
+    "docket": null,
+    "n_pages": 69,
+    "source_file": "cl_2021_ca2_donna_browe_v._ctc_corp..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=donna+browe+v.+ctc+corp."
+   },
+   {
+    "case_id": "cl_2021_ca2_in_re_tribune_co._fraudulent_conv._",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "in re tribune co. fraudulent conv.",
+    "docket": "19-3049",
+    "n_pages": 67,
+    "source_file": "cl_2021_ca2_in_re_tribune_co._fraudulent_conv._.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=in+re+tribune+co.+fraudulent+conv."
+   },
+   {
+    "case_id": "cl_2021_ca2_people_of_the_state_of_new_york_v._",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "people of the state of new york v.",
+    "docket": "18-2454",
+    "n_pages": 172,
+    "source_file": "cl_2021_ca2_people_of_the_state_of_new_york_v._.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=people+of+the+state+of+new+york+v."
+   },
+   {
+    "case_id": "cl_2021_ca2_sacerdote_v._new_york_university",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "sacerdote v. new york university",
+    "docket": "18-2707",
+    "n_pages": 62,
+    "source_file": "cl_2021_ca2_sacerdote_v._new_york_university.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=sacerdote+v.+new+york+university"
+   },
+   {
+    "case_id": "cl_2021_ca2_sec_v._fowler",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "sec v. fowler",
+    "docket": "20-1081",
+    "n_pages": 29,
+    "source_file": "cl_2021_ca2_sec_v._fowler.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+fowler"
+   },
+   {
+    "case_id": "cl_2021_ca2_set_capital_llc_v._credit_suisse_gr",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "set capital llc v. credit suisse gr",
+    "docket": "19-3466",
+    "n_pages": 37,
+    "source_file": "cl_2021_ca2_set_capital_llc_v._credit_suisse_gr.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=set+capital+llc+v.+credit+suisse+gr"
+   },
+   {
+    "case_id": "cl_2021_ca2_united_states_v._reichberg",
+    "year": "2021",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "united states v. reichberg",
+    "docket": "19-1645",
+    "n_pages": 31,
+    "source_file": "cl_2021_ca2_united_states_v._reichberg.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+reichberg"
+   },
+   {
+    "case_id": "cl_2021_ca9_state_of_rhode_island_v._alphabet_i",
+    "year": "2021",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "state of rhode island v. alphabet i",
+    "docket": "20-15638",
+    "n_pages": 38,
+    "source_file": "cl_2021_ca9_state_of_rhode_island_v._alphabet_i.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=state+of+rhode+island+v.+alphabet+i"
+   },
+   {
+    "case_id": "cl_2021_ca9_united_states_v._benjamin_koziol",
+    "year": "2021",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "united states v. benjamin koziol",
+    "docket": "19-50018",
+    "n_pages": 49,
+    "source_file": "cl_2021_ca9_united_states_v._benjamin_koziol.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+benjamin+koziol"
+   },
+   {
+    "case_id": "cl_2021_delch_john_joseph_smith_iv_v._thomas_m._s",
+    "year": "2021",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "john joseph smith iv v. thomas m. s",
+    "docket": "2020-0263-JRS",
+    "n_pages": 47,
+    "source_file": "cl_2021_delch_john_joseph_smith_iv_v._thomas_m._s.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=john+joseph+smith+iv+v.+thomas+m.+s"
+   },
+   {
+    "case_id": "cl_2021_delch_lone_pine_resources_lp_v._william_s",
+    "year": "2021",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "lone pine resources lp v. william s",
+    "docket": "2020-0450-MTZ",
+    "n_pages": 43,
+    "source_file": "cl_2021_delch_lone_pine_resources_lp_v._william_s.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=lone+pine+resources+lp+v.+william+s"
+   },
+   {
+    "case_id": "cl_2021_delch_riordan_limited_v._ivn_consulting_l",
+    "year": "2021",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "riordan limited v. ivn consulting l",
+    "docket": "2020-0633-KSJM",
+    "n_pages": 11,
+    "source_file": "cl_2021_delch_riordan_limited_v._ivn_consulting_l.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=riordan+limited+v.+ivn+consulting+l"
+   },
+   {
+    "case_id": "cl_2021_ncbizct_aym_techs._llc_v._scopia_cap._mgmt.",
+    "year": "2021",
+    "court": "ncbizct",
+    "court_name": "ncbizct",
+    "caption": "aym techs. llc v. scopia cap. mgmt.",
+    "docket": null,
+    "n_pages": 33,
+    "source_file": "cl_2021_ncbizct_aym_techs._llc_v._scopia_cap._mgmt..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=aym+techs.+llc+v.+scopia+cap.+mgmt."
+   },
+   {
+    "case_id": "cl_2021_ohioctapp_vesper_v._otterbein_lebanon",
+    "year": "2021",
+    "court": "ohioctapp",
+    "court_name": "ohioctapp",
+    "caption": "vesper v. otterbein lebanon",
+    "docket": "19CV92211",
+    "n_pages": 16,
+    "source_file": "cl_2021_ohioctapp_vesper_v._otterbein_lebanon.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=vesper+v.+otterbein+lebanon"
+   },
+   {
+    "case_id": "cl_2021_txctapp14_booster_fuels_inc._v._fuel_husky_ll",
+    "year": "2021",
+    "court": "txctapp14",
+    "court_name": "txctapp14",
+    "caption": "booster fuels inc. v. fuel husky ll",
+    "docket": null,
+    "n_pages": 16,
+    "source_file": "cl_2021_txctapp14_booster_fuels_inc._v._fuel_husky_ll.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=booster+fuels+inc.+v.+fuel+husky+ll"
+   },
+   {
+    "case_id": "cl_2022_ca2_cantero_v._bank_of_am._n.a.",
+    "year": "2022",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "cantero v. bank of am. n. a.",
+    "docket": "21-400, 21-403",
+    "n_pages": 53,
+    "source_file": "cl_2022_ca2_cantero_v._bank_of_am._n.a..pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=cantero+v.+bank+of+am.+n.+a."
+   },
+   {
+    "case_id": "cl_2022_ca2_exxon_mobil_v._healey",
+    "year": "2022",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "exxon mobil v. healey",
+    "docket": "18-1170",
+    "n_pages": 44,
+    "source_file": "cl_2022_ca2_exxon_mobil_v._healey.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=exxon+mobil+v.+healey"
+   },
+   {
+    "case_id": "cl_2022_ca2_haley_v._tiaa",
+    "year": "2022",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "haley v. tiaa",
+    "docket": "21-805",
+    "n_pages": 17,
+    "source_file": "cl_2022_ca2_haley_v._tiaa.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=haley+v.+tiaa"
+   },
+   {
+    "case_id": "cl_2022_ca2_united_states_v._blaszczak",
+    "year": "2022",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "united states v. blaszczak",
+    "docket": "18-2811, 18-2825, 18-2867, 18-2878",
+    "n_pages": 80,
+    "source_file": "cl_2022_ca2_united_states_v._blaszczak.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+blaszczak"
+   },
+   {
+    "case_id": "cl_2022_ca7_andrew_albert_v._oshkosh_corporatio",
+    "year": "2022",
+    "court": "ca7",
+    "court_name": "Seventh Circuit",
+    "caption": "andrew albert v. oshkosh corporatio",
+    "docket": null,
+    "n_pages": 28,
+    "source_file": "cl_2022_ca7_andrew_albert_v._oshkosh_corporatio.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=andrew+albert+v.+oshkosh+corporatio"
+   },
+   {
+    "case_id": "cl_2022_ca7_diane_burke_v._the_boeing_company",
+    "year": "2022",
+    "court": "ca7",
+    "court_name": "Seventh Circuit",
+    "caption": "diane burke v. the boeing company",
+    "docket": "20-3389",
+    "n_pages": 30,
+    "source_file": "cl_2022_ca7_diane_burke_v._the_boeing_company.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=diane+burke+v.+the+boeing+company"
+   },
+   {
+    "case_id": "cl_2022_ca7_walter_dean_v._national_production_",
+    "year": "2022",
+    "court": "ca7",
+    "court_name": "Seventh Circuit",
+    "caption": "walter dean v. national production",
+    "docket": "21-1872",
+    "n_pages": 23,
+    "source_file": "cl_2022_ca7_walter_dean_v._national_production_.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=walter+dean+v.+national+production"
+   },
+   {
+    "case_id": "cl_2022_ca9_lenai_mull_v._motion_picture_indust",
+    "year": "2022",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "lenai mull v. motion picture indust",
+    "docket": "20-56315",
+    "n_pages": 39,
+    "source_file": "cl_2022_ca9_lenai_mull_v._motion_picture_indust.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=lenai+mull+v.+motion+picture+indust"
+   },
+   {
+    "case_id": "cl_2022_calctapp_manlin_v._milner",
+    "year": "2022",
+    "court": "calctapp",
+    "court_name": "calctapp",
+    "caption": "manlin v. milner",
+    "docket": null,
+    "n_pages": 28,
+    "source_file": "cl_2022_calctapp_manlin_v._milner.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=manlin+v.+milner"
+   },
+   {
+    "case_id": "cl_2022_dcd_eig_energy_fund_xiv_l.p._v._petrole",
+    "year": "2022",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "eig energy fund xiv l. p. v. petrole",
+    "docket": "1:16-",
+    "n_pages": 81,
+    "source_file": "cl_2022_dcd_eig_energy_fund_xiv_l.p._v._petrole.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=eig+energy+fund+xiv+l.+p.+v.+petrole"
+   },
+   {
+    "case_id": "cl_2022_dcd_united_states_v._garcia",
+    "year": "2022",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "united states v. garcia",
+    "docket": "21-0129",
+    "n_pages": 32,
+    "source_file": "cl_2022_dcd_united_states_v._garcia.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+garcia"
+   },
+   {
+    "case_id": "cl_2022_delch_metro_storage_international_llc_v._",
+    "year": "2022",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "metro storage international llc v.",
+    "docket": "2018-0937-JTL",
+    "n_pages": 129,
+    "source_file": "cl_2022_delch_metro_storage_international_llc_v._.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=metro+storage+international+llc+v."
+   },
+   {
+    "case_id": "cl_2022_delch_polychain_capital_lp_v._pantera_ven",
+    "year": "2022",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "polychain capital lp v. pantera ven",
+    "docket": "2021-0670-PAF",
+    "n_pages": 33,
+    "source_file": "cl_2022_delch_polychain_capital_lp_v._pantera_ven.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=polychain+capital+lp+v.+pantera+ven"
+   },
+   {
+    "case_id": "cl_2022_delch_xri_investment_holdings_llc_v._holi",
+    "year": "2022",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "xri investment holdings llc v. holi",
+    "docket": "2021-0619-JTL",
+    "n_pages": 154,
+    "source_file": "cl_2022_delch_xri_investment_holdings_llc_v._holi.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=xri+investment+holdings+llc+v.+holi"
+   },
+   {
+    "case_id": "cl_2023_ca2_ark._tchr._ret._sys._v._goldman_sac",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "ark. tchr. ret. sys. v. goldman sac",
+    "docket": "22-484",
+    "n_pages": 82,
+    "source_file": "cl_2023_ca2_ark._tchr._ret._sys._v._goldman_sac.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=ark.+tchr.+ret.+sys.+v.+goldman+sac"
+   },
+   {
+    "case_id": "cl_2023_ca2_cunningham_v._cornell_university",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "cunningham v. cornell university",
+    "docket": null,
+    "n_pages": 52,
+    "source_file": "cl_2023_ca2_cunningham_v._cornell_university.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=cunningham+v.+cornell+university"
+   },
+   {
+    "case_id": "cl_2023_ca2_in_re_nine_west_lbo_sec._litig.",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "in re nine west lbo sec. litig.",
+    "docket": "20-3257",
+    "n_pages": 56,
+    "source_file": "cl_2023_ca2_in_re_nine_west_lbo_sec._litig..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=in+re+nine+west+lbo+sec.+litig."
+   },
+   {
+    "case_id": "cl_2023_ca2_kirschner_v._jp_morgan_chase_bank_n",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "kirschner v. jp morgan chase bank n",
+    "docket": "21-2726",
+    "n_pages": 40,
+    "source_file": "cl_2023_ca2_kirschner_v._jp_morgan_chase_bank_n.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=kirschner+v.+jp+morgan+chase+bank+n"
+   },
+   {
+    "case_id": "cl_2023_ca2_new_england_carpenters_guaranteed_a",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "new england carpenters guaranteed a",
+    "docket": "20-1643",
+    "n_pages": 52,
+    "source_file": "cl_2023_ca2_new_england_carpenters_guaranteed_a.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=new+england+carpenters+guaranteed+a"
+   },
+   {
+    "case_id": "cl_2023_ca2_pauwels_v._deloitte_llp",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "pauwels v. deloitte llp",
+    "docket": null,
+    "n_pages": 45,
+    "source_file": "cl_2023_ca2_pauwels_v._deloitte_llp.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=pauwels+v.+deloitte+llp"
+   },
+   {
+    "case_id": "cl_2023_ca2_sec_v._ahmed",
+    "year": "2023",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "sec v. ahmed",
+    "docket": "21-1686, 21-1712",
+    "n_pages": 47,
+    "source_file": "cl_2023_ca2_sec_v._ahmed.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+ahmed"
+   },
+   {
+    "case_id": "cl_2023_ca3_marlow_henry_v._wilmington_trust_na",
+    "year": "2023",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "marlow henry v. wilmington trust na",
+    "docket": "21-2801",
+    "n_pages": 16,
+    "source_file": "cl_2023_ca3_marlow_henry_v._wilmington_trust_na.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=marlow+henry+v.+wilmington+trust+na"
+   },
+   {
+    "case_id": "cl_2023_ca4_benjamin_reetz_v._aon_hewitt_invest",
+    "year": "2023",
+    "court": "ca4",
+    "court_name": "Fourth Circuit",
+    "caption": "benjamin reetz v. aon hewitt invest",
+    "docket": "21-2267",
+    "n_pages": 26,
+    "source_file": "cl_2023_ca4_benjamin_reetz_v._aon_hewitt_invest.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=benjamin+reetz+v.+aon+hewitt+invest"
+   },
+   {
+    "case_id": "cl_2023_ca4_sec_v._christopher_clark",
+    "year": "2023",
+    "court": "ca4",
+    "court_name": "Fourth Circuit",
+    "caption": "sec v. christopher clark",
+    "docket": "22-1157",
+    "n_pages": 15,
+    "source_file": "cl_2023_ca4_sec_v._christopher_clark.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+christopher+clark"
+   },
+   {
+    "case_id": "cl_2023_ca9_amalgamated_bank_v._facebook_inc.",
+    "year": "2023",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "amalgamated bank v. facebook inc.",
+    "docket": "22-15077",
+    "n_pages": 53,
+    "source_file": "cl_2023_ca9_amalgamated_bank_v._facebook_inc..pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=amalgamated+bank+v.+facebook+inc."
+   },
+   {
+    "case_id": "cl_2023_ca9_julie_su_v._brian_bowers",
+    "year": "2023",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "julie su v. brian bowers",
+    "docket": "22-15378",
+    "n_pages": 30,
+    "source_file": "cl_2023_ca9_julie_su_v._brian_bowers.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=julie+su+v.+brian+bowers"
+   },
+   {
+    "case_id": "cl_2023_dcd_attias_v._carefirst_inc.",
+    "year": "2023",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "attias v. carefirst inc.",
+    "docket": "15-cv-882",
+    "n_pages": 49,
+    "source_file": "cl_2023_dcd_attias_v._carefirst_inc..pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=attias+v.+carefirst+inc."
+   },
+   {
+    "case_id": "cl_2023_dcd_freeman_v._herring_networks_inc.",
+    "year": "2023",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "freeman v. herring networks inc.",
+    "docket": "21-3354",
+    "n_pages": 57,
+    "source_file": "cl_2023_dcd_freeman_v._herring_networks_inc..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=freeman+v.+herring+networks+inc."
+   },
+   {
+    "case_id": "cl_2023_del_holifield_v._xri_investment_holding",
+    "year": "2023",
+    "court": "del",
+    "court_name": "del",
+    "caption": "holifield v. xri investment holding",
+    "docket": null,
+    "n_pages": 78,
+    "source_file": "cl_2023_del_holifield_v._xri_investment_holding.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=holifield+v.+xri+investment+holding"
+   },
+   {
+    "case_id": "cl_2023_delch_smash_franchise_partners_llc_v._kan",
+    "year": "2023",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "smash franchise partners llc v. kan",
+    "docket": "2020-0302-JTL",
+    "n_pages": 66,
+    "source_file": "cl_2023_delch_smash_franchise_partners_llc_v._kan.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=smash+franchise+partners+llc+v.+kan"
+   },
+   {
+    "case_id": "cl_2024_ca2_new_england_carpenters_guaranteed_a",
+    "year": "2024",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "new england carpenters guaranteed a",
+    "docket": "20-1643",
+    "n_pages": 55,
+    "source_file": "cl_2024_ca2_new_england_carpenters_guaranteed_a.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=new+england+carpenters+guaranteed+a"
+   },
+   {
+    "case_id": "cl_2024_ca2_packer_v._raging_capital_management",
+    "year": "2024",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "packer v. raging capital management",
+    "docket": "23-367",
+    "n_pages": 22,
+    "source_file": "cl_2024_ca2_packer_v._raging_capital_management.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=packer+v.+raging+capital+management"
+   },
+   {
+    "case_id": "cl_2024_ca2_peterson_v._bank_markazi",
+    "year": "2024",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "peterson v. bank markazi",
+    "docket": "15-690",
+    "n_pages": 62,
+    "source_file": "cl_2024_ca2_peterson_v._bank_markazi.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=peterson+v.+bank+markazi"
+   },
+   {
+    "case_id": "cl_2024_ca2_sec_v._rashid",
+    "year": "2024",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "sec v. rashid",
+    "docket": "20-4080",
+    "n_pages": 31,
+    "source_file": "cl_2024_ca2_sec_v._rashid.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+rashid"
+   },
+   {
+    "case_id": "cl_2024_ca2_trustees_of_the_nysnapp_v._white_oa",
+    "year": "2024",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "trustees of the nysnapp v. white oa",
+    "docket": "22-1783",
+    "n_pages": 90,
+    "source_file": "cl_2024_ca2_trustees_of_the_nysnapp_v._white_oa.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=trustees+of+the+nysnapp+v.+white+oa"
+   },
+   {
+    "case_id": "cl_2024_ca3_sec_v._dale_chappell",
+    "year": "2024",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "sec v. dale chappell",
+    "docket": "23-2776",
+    "n_pages": 49,
+    "source_file": "cl_2024_ca3_sec_v._dale_chappell.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=sec+v.+dale+chappell"
+   },
+   {
+    "case_id": "cl_2024_ca9_julie_su_v._brian_bowers",
+    "year": "2024",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "julie su v. brian bowers",
+    "docket": "22-15378",
+    "n_pages": 30,
+    "source_file": "cl_2024_ca9_julie_su_v._brian_bowers.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=julie+su+v.+brian+bowers"
+   },
+   {
+    "case_id": "cl_2024_ca9_renaldo_white_v._symetra_assigned_b",
+    "year": "2024",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "renaldo white v. symetra assigned b",
+    "docket": "22-35748",
+    "n_pages": 36,
+    "source_file": "cl_2024_ca9_renaldo_white_v._symetra_assigned_b.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=renaldo+white+v.+symetra+assigned+b"
+   },
+   {
+    "case_id": "cl_2024_cadc_an_opinion_was_released_in_case_24-",
+    "year": "2024",
+    "court": "cadc",
+    "court_name": "D.C. Circuit",
+    "caption": "an opinion was released in case 24-",
+    "docket": "24-1113",
+    "n_pages": 92,
+    "source_file": "cl_2024_cadc_an_opinion_was_released_in_case_24-.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=an+opinion+was+released+in+case+24-"
+   },
+   {
+    "case_id": "cl_2024_dcd_akhmetshin_v._browder",
+    "year": "2024",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "akhmetshin v. browder",
+    "docket": "19-7129",
+    "n_pages": 32,
+    "source_file": "cl_2024_dcd_akhmetshin_v._browder.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=akhmetshin+v.+browder"
+   },
+   {
+    "case_id": "cl_2024_dcd_battineni_v._mayorkas",
+    "year": "2024",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "battineni v. mayorkas",
+    "docket": "22-1332",
+    "n_pages": 39,
+    "source_file": "cl_2024_dcd_battineni_v._mayorkas.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=battineni+v.+mayorkas"
+   },
+   {
+    "case_id": "cl_2024_dcd_securities_and_exchange_commission_",
+    "year": "2024",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "securities and exchange commission",
+    "docket": "23-1599",
+    "n_pages": 89,
+    "source_file": "cl_2024_dcd_securities_and_exchange_commission_.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=securities+and+exchange+commission"
+   },
+   {
+    "case_id": "cl_2024_dcd_united_states_v._michel",
+    "year": "2024",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "united states v. michel",
+    "docket": "19-148",
+    "n_pages": 77,
+    "source_file": "cl_2024_dcd_united_states_v._michel.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+michel"
+   },
+   {
+    "case_id": "cl_2024_delch_be_capital_management_fund_lp_v._fu",
+    "year": "2024",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "be capital management fund lp v. fu",
+    "docket": "12843-VCL",
+    "n_pages": 49,
+    "source_file": "cl_2024_delch_be_capital_management_fund_lp_v._fu.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=be+capital+management+fund+lp+v.+fu"
+   },
+   {
+    "case_id": "cl_2024_delch_kuramo_capital_management_llc_v._la",
+    "year": "2024",
+    "court": "delch",
+    "court_name": "Delaware Chancery",
+    "caption": "kuramo capital management llc v. la",
+    "docket": "2021-0323-KSJM",
+    "n_pages": 96,
+    "source_file": "cl_2024_delch_kuramo_capital_management_llc_v._la.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=kuramo+capital+management+llc+v.+la"
+   },
+   {
+    "case_id": "cl_2024_ohioctapp_state_v._thayer",
+    "year": "2024",
+    "court": "ohioctapp",
+    "court_name": "ohioctapp",
+    "caption": "state v. thayer",
+    "docket": "23CR40675",
+    "n_pages": 17,
+    "source_file": "cl_2024_ohioctapp_state_v._thayer.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=state+v.+thayer"
+   },
+   {
+    "case_id": "cl_2025_ca11_united_states_v._ephren_taylor_ii",
+    "year": "2025",
+    "court": "ca11",
+    "court_name": "Eleventh Circuit",
+    "caption": "united states v. ephren taylor ii",
+    "docket": "20-11238",
+    "n_pages": 26,
+    "source_file": "cl_2025_ca11_united_states_v._ephren_taylor_ii.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+ephren+taylor+ii"
+   },
+   {
+    "case_id": "cl_2025_ca1_securities_and_exchange_commission_",
+    "year": "2025",
+    "court": "ca1",
+    "court_name": "First Circuit",
+    "caption": "securities and exchange commission",
+    "docket": "24-1427",
+    "n_pages": 43,
+    "source_file": "cl_2025_ca1_securities_and_exchange_commission_.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=securities+and+exchange+commission"
+   },
+   {
+    "case_id": "cl_2025_ca2_collins_v._ne._grocery_llc",
+    "year": "2025",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "collins v. ne. grocery llc",
+    "docket": "24-2339",
+    "n_pages": 20,
+    "source_file": "cl_2025_ca2_collins_v._ne._grocery_llc.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=collins+v.+ne.+grocery+llc"
+   },
+   {
+    "case_id": "cl_2025_ca2_in_re_shanda_games_ltd._sec._litig.",
+    "year": "2025",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "in re shanda games ltd. sec. litig.",
+    "docket": "22-3076",
+    "n_pages": 90,
+    "source_file": "cl_2025_ca2_in_re_shanda_games_ltd._sec._litig..pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=in+re+shanda+games+ltd.+sec.+litig."
+   },
+   {
+    "case_id": "cl_2025_ca2_natl_rifle_assn_of_am._v._vullo",
+    "year": "2025",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "natl rifle assn of am. v. vullo",
+    "docket": "21-0636",
+    "n_pages": 45,
+    "source_file": "cl_2025_ca2_natl_rifle_assn_of_am._v._vullo.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=natl+rifle+assn+of+am.+v.+vullo"
+   },
+   {
+    "case_id": "cl_2025_ca2_united_states_v._phillips",
+    "year": "2025",
+    "court": "ca2",
+    "court_name": "Second Circuit",
+    "caption": "united states v. phillips",
+    "docket": "24-1908",
+    "n_pages": 68,
+    "source_file": "cl_2025_ca2_united_states_v._phillips.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+phillips"
+   },
+   {
+    "case_id": "cl_2025_ca3_nra_group_llc_v._nicole_durenleau",
+    "year": "2025",
+    "court": "ca3",
+    "court_name": "Third Circuit",
+    "caption": "nra group llc v. nicole durenleau",
+    "docket": "24-1123",
+    "n_pages": 34,
+    "source_file": "cl_2025_ca3_nra_group_llc_v._nicole_durenleau.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=nra+group+llc+v.+nicole+durenleau"
+   },
+   {
+    "case_id": "cl_2025_ca9_united_states_v._rice",
+    "year": "2025",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "united states v. rice",
+    "docket": "23-2282",
+    "n_pages": 43,
+    "source_file": "cl_2025_ca9_united_states_v._rice.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=united+states+v.+rice"
+   },
+   {
+    "case_id": "cl_2025_ca9_winston_anderson_v._intel_corporati",
+    "year": "2025",
+    "court": "ca9",
+    "court_name": "Ninth Circuit",
+    "caption": "winston anderson v. intel corporati",
+    "docket": "22-16268",
+    "n_pages": 30,
+    "source_file": "cl_2025_ca9_winston_anderson_v._intel_corporati.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=winston+anderson+v.+intel+corporati"
+   },
+   {
+    "case_id": "cl_2025_cadc_robert_goodrich_v._bank_of_america_",
+    "year": "2025",
+    "court": "cadc",
+    "court_name": "D.C. Circuit",
+    "caption": "robert goodrich v. bank of america",
+    "docket": "24-7025",
+    "n_pages": 20,
+    "source_file": "cl_2025_cadc_robert_goodrich_v._bank_of_america_.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=robert+goodrich+v.+bank+of+america"
+   },
+   {
+    "case_id": "cl_2025_dcd_lemelson_v._securities_exchange_com",
+    "year": "2025",
+    "court": "dcd",
+    "court_name": "D.D.C.",
+    "caption": "lemelson v. securities exchange com",
+    "docket": "24",
+    "n_pages": 26,
+    "source_file": "cl_2025_dcd_lemelson_v._securities_exchange_com.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=lemelson+v.+securities+exchange+com"
+   },
+   {
+    "case_id": "cl_2025_md_attorney_grievance_commn_v._pisner",
+    "year": "2025",
+    "court": "md",
+    "court_name": "md",
+    "caption": "attorney grievance commn v. pisner",
+    "docket": ":",
+    "n_pages": 37,
+    "source_file": "cl_2025_md_attorney_grievance_commn_v._pisner.pdf",
+    "in_original_40": false,
+    "url_hint": "https://www.courtlistener.com/?q=attorney+grievance+commn+v.+pisner"
+   },
+   {
+    "case_id": "cl_2025_scotus_cunningham_v._cornell_univ.",
+    "year": "2025",
+    "court": "scotus",
+    "court_name": "Supreme Court",
+    "caption": "cunningham v. cornell univ.",
+    "docket": "23\u20131007",
+    "n_pages": 21,
+    "source_file": "cl_2025_scotus_cunningham_v._cornell_univ..pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=cunningham+v.+cornell+univ."
+   },
+   {
+    "case_id": "cl_2026_ca11_u.s._securities_and_exchange_commis",
+    "year": "2026",
+    "court": "ca11",
+    "court_name": "Eleventh Circuit",
+    "caption": "u. s. securities and exchange commis",
+    "docket": "22-13129",
+    "n_pages": 211,
+    "source_file": "cl_2026_ca11_u.s._securities_and_exchange_commis.pdf",
+    "in_original_40": true,
+    "url_hint": "https://www.courtlistener.com/?q=u.+s.+securities+and+exchange+commis"
+   }
+  ]
+ },
+ "oho_decisions": {
+  "cutoff": null,
+  "note": "carried over unchanged",
+  "cases": [
+   {
+    "case_id": "2019064508802",
+    "proceeding_no": "2019064508802",
+    "source_file": "2019064508802-Kim-OHO-Decision.pdf"
+   },
+   {
+    "case_id": "2023077854301",
+    "proceeding_no": "2023077854301",
+    "source_file": "2023077854301-Willnard-20250725.pdf"
+   },
+   {
+    "case_id": "2020066079903",
+    "proceeding_no": "2020066079903",
+    "source_file": "20240828_202006607903_Centeno_Disciplinary_Decision.pdf"
+   },
+   {
+    "case_id": "2021069373001",
+    "proceeding_no": "2021069373001",
+    "source_file": "20250421-2021069373001-APPEALED-Wong.pdf"
+   },
+   {
+    "case_id": "2019061528001",
+    "proceeding_no": "2019061528001",
+    "source_file": "22-09-Order-Denying-Respondents-Motion-for-Leave-to-Offer-Expert-Testimony.pdf"
+   },
+   {
+    "case_id": "2022073425001",
+    "proceeding_no": "2022073425001",
+    "source_file": "25-04-2022073425001-Lukezic-20250317.pdf"
+   },
+   {
+    "case_id": "2022073425001",
+    "proceeding_no": "2022073425001",
+    "source_file": "25-05-2022073425001-Lukezic-20250428.pdf"
+   },
+   {
+    "case_id": "2022073425001",
+    "proceeding_no": "2022073425001",
+    "source_file": "25-13-2022073425001-Lukezic-20250723.pdf"
+   },
+   {
+    "case_id": "2015044960501",
+    "proceeding_no": "2015044960501",
+    "source_file": "Avenir_Extended_Hearing_Panel_Decision_092016.pdf"
+   },
+   {
+    "case_id": "DKP_Margin_Credit_20160901",
+    "proceeding_no": null,
+    "source_file": "DKP_Margin_Credit_20160901.pdf"
+   },
+   {
+    "case_id": "2018057297102",
+    "proceeding_no": "2018057297102",
+    "source_file": "OHO-Kolta-2018057297102-20240815.pdf"
+   },
+   {
+    "case_id": "2012034393801",
+    "proceeding_no": "2012034393801",
+    "source_file": "OHO-Miller-2012034393801-121815.pdf"
+   },
+   {
+    "case_id": "2012034211301",
+    "proceeding_no": "2012034211301",
+    "source_file": "OHO_20Web_20Decision_20Department_20of_20Enforcement_20v_20_20Success_20Trade_20Securities_20_20_20_20_0_0.pdf"
+   },
+   {
+    "case_id": "2010022977801",
+    "proceeding_no": "2010022977801",
+    "source_file": "OHO_20Web_20Decision_20Proceeding_20Number_202010022977801_0.pdf"
+   },
+   {
+    "case_id": "2013038418201",
+    "proceeding_no": "2013038418201",
+    "source_file": "OHO_Barnes_2013038418201_062816.pdf"
+   },
+   {
+    "case_id": "2017055886402",
+    "proceeding_no": "2017055886402",
+    "source_file": "OHO_CantoneResearchInc_20170555886402_20240125.pdf"
+   },
+   {
+    "case_id": "2015044960501",
+    "proceeding_no": "2015044960501",
+    "source_file": "OHO_Clements-Ibrahim_2015044960501_092016.pdf"
+   },
+   {
+    "case_id": "2020066797301",
+    "proceeding_no": "2020066797301",
+    "source_file": "OHO_Cohen_FPI210005_123021.pdf"
+   },
+   {
+    "case_id": "2019061942901",
+    "proceeding_no": "2019061942901",
+    "source_file": "OHO_Colletti_2019061942901_20240228.pdf"
+   },
+   {
+    "case_id": "2011025785602",
+    "proceeding_no": "2011025785602",
+    "source_file": "OHO_Decision_Proceeding_No.2011025785602_0_0_0_0_0_0.pdf"
+   },
+   {
+    "case_id": "2017053462401",
+    "proceeding_no": "2017053462401",
+    "source_file": "OHO_Henderson_2017053462401_090721.pdf"
+   },
+   {
+    "case_id": "2017054405401",
+    "proceeding_no": "2017054405401",
+    "source_file": "OHO_Kielczewski_2017054405401_051520.pdf"
+   },
+   {
+    "case_id": "2021071137001",
+    "proceeding_no": "2021071137001",
+    "source_file": "OHO_LEK_Securities_Corp_2021071137001_20240322.pdf"
+   },
+   {
+    "case_id": "2014040876001",
+    "proceeding_no": "2014040876001",
+    "source_file": "OHO_Mathieson_2014040876001_121616.pdf"
+   },
+   {
+    "case_id": "2019064813801",
+    "proceeding_no": "2019064813801",
+    "source_file": "OHO_NYPPEX_Appealed_2019064813801.pdf"
+   },
+   {
+    "case_id": "2015044921601",
+    "proceeding_no": "2015044921601",
+    "source_file": "OHO_Order-17-04_2015044921601.pdf"
+   },
+   {
+    "case_id": "2009016159111",
+    "proceeding_no": "2009016159111",
+    "source_file": "OHO_Sanders_2009016159111_050415.pdf"
+   },
+   {
+    "case_id": "2019064313901",
+    "proceeding_no": "2019064313901",
+    "source_file": "OHO_Singh_2019064313901_072221.pdf"
+   },
+   {
+    "case_id": "2021070337501",
+    "proceeding_no": "2021070337501",
+    "source_file": "OHO_Venturino_2021070337501_20240321.pdf"
+   },
+   {
+    "case_id": "2011028647101",
+    "proceeding_no": "2011028647101",
+    "source_file": "OHO_Web_Decision-ProceedingNo.2011028647101_0_0.pdf"
+   },
+   {
+    "case_id": "2012030570301",
+    "proceeding_no": "2012030570301",
+    "source_file": "OHO_Web_Decision-ProceedingNo.2012030570301_0.pdf"
+   },
+   {
+    "case_id": "2015046759201",
+    "proceeding_no": "2015046759201",
+    "source_file": "OHO_Wyche_2015046759201_020217_0.pdf"
+   },
+   {
+    "case_id": "Petra_20Vokata_Ohio_20St_20Univ_5.14.2022_Petra_20Vokata_20_w_20attachment_20to_20publish__0",
+    "proceeding_no": null,
+    "source_file": "Petra_20Vokata_Ohio_20St_20Univ_5.14.2022_Petra_20Vokata_20_w_20attachment_20to_20publish__0.pdf"
+   },
+   {
+    "case_id": "SD-2278",
+    "proceeding_no": null,
+    "source_file": "SD-2278.pdf"
+   },
+   {
+    "case_id": "2016050025401",
+    "proceeding_no": "2016050025401",
+    "source_file": "oho_holloway_2016050025401_041119.pdf"
+   },
+   {
+    "case_id": "2012033566205",
+    "proceeding_no": "2012033566205",
+    "source_file": "this-decision.pdf"
+   }
+  ]
+ },
+ "_meta": {
+  "cutoff": "2023-12-31",
+  "cutoff_model": "Llama 3.1",
+  "seed": 42,
+  "dedupe": {
+   "arbitration_awards": {
+    "unique_ids": 210,
+    "ids_with_dupes": 0,
+    "extra_files": 0
+   },
+   "finra_awc": {
+    "unique_ids": 339,
+    "ids_with_dupes": 41,
+    "extra_files": 48
+   },
+   "sec_ia_releases": {
+    "unique_ids": 179,
+    "ids_with_dupes": 1,
+    "extra_files": 1
+   }
+  },
+  "date_sources": {
+   "arbitration_awards": "arbitrator signature date",
+   "finra_awc": "date following 'Accepted by FINRA:'",
+   "sec_ia_releases": "'Release No. N / <date>' on page 1"
+  }
+ }
+}

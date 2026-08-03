@@ -1,0 +1,1198 @@
+United States Court of Appeals 
+For the First Circuit 
+
+No. 24-1427 
+SECURITIES AND EXCHANGE COMMISSION, 
+Plaintiff, Appellee, 
+v. 
+COMMONWEALTH EQUITY SERVICES, LLC, 
+d/b/a Commonwealth Financial Network, 
+
+Defendant, Appellant. 
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF MASSACHUSETTS 
+
+[Hon. Indira Talwani, U.S. District Judge] 
+
+Before 
+
+Montecalvo, Circuit Judge, 
+Breyer,* Associate Justice, 
+and Lynch, Circuit Judge. 
+
+Thomas M. Byrne , with whom Olga Greenberg , Rebekah 
+Whittington O'Brien, and Eversheds Sutherland (US) LLP were on 
+brief, for appellant. 
+Joshua M. Feinzig , Kelly P. Dunbar , Elizabeth L. Mitchell , 
+Joseph M. Toner, and Wilmer Cutler Pickering Hale and Dorr, LLP , 
+on brief for Financial Services Institute, Inc., amicus curae. 
+Paul G. Álvarez, Senior Appellate Counsel, with whom Megan 
+Barbero, General Counsel, Michael A. Conley, Solicitor, and Daniel 
+Staroselsky, Assistant General Counsel, Securities and Exchange 
+Commission, were on brief, for appellee. 
+
+* Hon. Stephen G. Breyer, Associate Justice (Ret.) of the 
+Supreme Court of the United States, sitting by designation. 
+
+April 1, 2025 
+
+LYNCH, Circuit Judge . Commonwealth Equity Services, 
+LLC, appeals from entry of summary judgment on liability and awards 
+totaling roughly $93 million in a civil enforcement action brought 
+by the Securities and Exchange Commission. The SEC alleges 
+Commonwealth failed to adequately disclose potential conflicts of 
+interest from 2014 to 2018 in violation of Sections 206(2) and (4) 
+of the Investment Advisers Act of 1940, 15 U.S.C. § 80b-6(2), (4), 
+and SEC Rule 206(4)-7, 17 C.F.R. § 275.206(4)-7(a), and claimed a 
+jury trial. On cross motions, the district court granted the SEC's 
+motion for summary judgment as to Commonwealth's liability and 
+denied both Commonwealth's cross-motion for summary judgment, SEC 
+v. Commonwealth Equity Servs., LLC, No. 19 -cv-11655, 2023 WL 
+2838691, at *1 (D. Mass. Apr. 7, 2023), and its later motion to 
+reconsider the grant of summary judgment to the SEC, SEC v. 
+Commonwealth Equity Servs., LLC, 718 F.Supp.3d 113, 115 (D. Mass. 
+2024). The district court then entered final judgment against 
+Commonwealth, ordering disgorgement of $65, 588,906 in 
+revenue-sharing income plus $21,185,162 in prejudgment interest 
+and imposing on Commonwealth a civil penalty of $6,500,000. SEC 
+v. Commonwealth Equity Servs., LLC , No. 19 -cv-11655, 2024 WL 
+1375970, at *1, *11-12, *13 (D. Mass. Mar. 29, 2024). Commonwealth 
+appeals from all of these orders. We vacate the grant of summary 
+judgment and the disgorgement order and remand for further 
+proceedings consistent with this opinion. 
+
+I. 
+ We recite the relevant undisputed facts of record , as 
+well as many of the material disputed facts. 
+ Commonwealth is an SEC -registered broker -dealer and 
+investment advisor. Commonwealth offers its advisory services 
+through a network of approximately 2,300 investment advisor 
+representatives. These representatives are affiliated with 
+Commonwealth but operate independent advisory businesses in their 
+own names, providing advisory services and buying and selling for 
+their clients. There are many different types of clients, as 
+discussed below. Representatives disclose to clients their 
+affiliation with Commonwealth. 
+Commonwealth representatives are responsible for 
+identifying prospective clients, communicating with those clients 
+about their financial circumstances and investment objectives, and 
+managing clients' accounts in accordance with those objectives. 
+As required by regulation, representatives agree that they will 
+offer only those products Commonwealth has approved. Commonwealth 
+charges clients annual advisory fees based on a percentage of the 
+assets under Commonwealth management, and representatives receive 
+as compensation between 50% and 98% of the advisory fees their 
+clients pay. 
+To buy and sell mutual funds, these representatives 
+utilize National Financial Services, LLC (NFS), which acts as a 
+
+clearing broker. Commonwealth functions as an "introducing firm," 
+providing its representatives with access to NFS. In its role as 
+clearing broker, NFS "executes and clears client trades" and NFS 
+or one of its affiliates "maintains custody of the investments 
+held by Commonwealth's clients." NFS provides Commonwealth, and 
+by extension its representatives, with access to the FundsNetwork, 
+a platform through which mutual funds may be purchased. In 
+addition to the mutual funds available through the FundsNet work, 
+representatives are permitted to purchase and sell Fidelity Funds 
+and Fidelity Advisor Funds, also through NFS. 
+Mutual funds that are part of the FundsNetwork are 
+separated into three programs: the No Transaction Fee (NTF) 
+program, the Transaction Fee (TF) program, and the Institutional 
+No Transaction Fee (iNTF) program. The iNTF program was offered 
+for the first time in February 2017. Mutual funds in the TF 
+program incur fees when bought and sold, whereas those within the 
+NTF and iNTF programs do not. As to TF funds, representatives may 
+choose to absorb any of the transaction fees incurred when buying 
+and selling TF program funds and choose whether to pass on those 
+fees as part of the advisory fees they charge their clients. 
+Mutual funds, including those available via the 
+FundsNetwork, may issue multiple share classes of the same fund, 
+and many do so. Each share class of a mutual fund generally has 
+identical voting, dividend, liquidation, and other rights and 
+
+limitations, and different classes of the same fund will receive 
+the same income, realized and unrealized capital gains and losses, 
+and expenses that are common to the mutual fund. But each class 
+may have different class -based fees, expenses, or other 
+requirements associated with it, and may be offered to different 
+types of investors. Some of a share class's expenses are ongoing, 
+and a share class's total ongoing expenses are referred to as its 
+"expense ratio." Other expenses are incurred periodically, s uch 
+as "transaction fees" charged when investors buy, sell, or exchange 
+an investment. These transaction fees are not ongoing and are not 
+included in a share class's expense ratio. Share classes may also 
+differ in the minimum investment required to purchase a particular 
+class. FundsNetwork provide s access to more than 17,000 mutual 
+fund share classes, and some mutual funds are offered in multiple 
+share classes made available for purchase via FundsNetwork through 
+more than one program (TF, NTF, or iNTF). 
+Mutual fund companies that offer mutual funds through 
+the FundsNetwork platform often pay fees to NFS, though some share 
+classes of funds are made available through the FundsNetwork 
+platform without paying such fees. Sometimes, NFS receives 
+payments from mutual fund companies to make some share classes of 
+a fund available on FundsNetwork, but it is also true that other 
+share classes of the same fund may be made available on 
+FundsNetwork without any such payment to NFS. Neither Fidelity 
+
+Funds nor Fidelity Advisor Funds make such payments to NFS. Since 
+at least 2009, NFS has shared a portion of these payments with 
+Commonwealth, and, beginning in 2014, Commonwealth and NFS agreed 
+that NFS would pay Commonwealth 80% of the gross revenue it 
+received from funds in the NTF and TF programs. 
+ The parties agree that representatives are not aware 
+which share classes were part of the revenue -sharing agreement 
+between NFS and Commonwealth. The parties also agree that 
+representatives' compensation is not increased or decreased in any 
+way based on w hether the funds they select for their clients 
+provide Commonwealth with revenue-sharing income. 
+In addition to providing representatives with access to 
+NFS and the FundsNetwork, Commonwealth provides representatives 
+with access to its Preferred Portfolio Services (PPS) program, a 
+Mutual Fund Resource Guide, and a list of recommended funds. The 
+PPS program includes model portfolios which representatives or 
+clients may select, offered under sub-programs known as the "PPS 
+Select" and "PPS Direct" programs. Model portfolios in the PPS 
+Select program are developed by Commonwealth's Investment 
+Management and Research team, while model portfolios in the PPS 
+Direct program are created and managed by third parties and made 
+available through Commonwealth.1 The Mutual Fund Resource Guide 
+
+1 Representatives and clients can also avail themselves of 
+the PPS Custom program, in which case the representative would 
+
+provides information on mutual funds and share classes available 
+to representatives. The list of recommended funds contains funds 
+that have been screened by Commonwealth's Investment Management 
+and Research team and are recommended for use by representatives 
+when crafting their clients' portfolios. Representatives may also 
+conduct independent research into available funds and share 
+classes using Morningstar, a tool Commonwealth makes available to 
+its representatives at a discounted price. 
+As an SEC -registered investment advisor, Commonwealth 
+maintains a "Form ADV" brochure for its clients, and it updates 
+this brochure annually in March of each year , as well as 
+periodically between its annual filings. This brochure is filed 
+with the SEC and a copy is posted on Commonwealth's website. 
+Commonwealth also mails its clients letters summarizing any 
+material changes made to the brochure and notifying the c lients 
+how they may obtain copies of the full brochure if they so wish. 
+Pertinently, SEC regulations require that this brochure: 
+make full disclosure of all material conflicts 
+of interest between [Commonwealth] and [its] 
+clients that could affect the advisory 
+relationship. This obligation requires that 
+[Commonwealth] provide the client with 
+sufficiently specific facts so that the client 
+is able to understand the conflicts of 
+interest [Commonwealth has] and the business 
+practices in which [Commonwealth] engage[s], 
+
+develop a custom investment portfolio for the client and act as 
+that portfolio's manager. 
+
+and can give informed consent to such 
+conflicts or practices or reject them. 
+
+Amendments to Form ADV, Investment Advisers Act of 1940, Release 
+No. 3060 (2010), 2010 WL 2957506, at *74. SEC regulations further 
+specify that "[i]f someone who is not a client provides an economic 
+benefit to you for providing investment advice or other advisory 
+services to your clients, generally describe the arrangement, 
+explain the conflicts of interest, and describe how you address 
+the conflicts of interest." Id. at *86. 
+ As it pertains to Commonwealth's revenue -sharing 
+arrangement with NFS, Commonwealth's 2014 brochure provided: 
+NFS offers a "No Transaction Fee" program with 
+more than 1,200 no -load mutual funds. 
+Participating mutual fund sponsors pay a fee 
+to NFS to participate in this program, and a 
+portion of this fee is shared with 
+Commonwealth. None of these additional 
+payments is paid to any advisors who sell 
+these funds. 
+
+. . . . 
+
+Commonwealth and your advisor may receive 
+service fees and other compensation from 
+investment product sponsors and distributors 
+when they make recommendations or investment 
+decisions for you. These fees and 
+compensation include, but are not limited to, 
+mutual fund and money market 12b -1 and 
+subtransfer agent fees, mutual fund and money 
+market management fees and administrative 
+expenses, mutual fund transaction fees, 
+certain deferred sales charges on previously 
+purchased mutual funds transferred into an 
+account, variable annuity expenses, due 
+diligence fees, market ing reimbursements or 
+reallowances, or other transaction or service 
+
+fees. Commonwealth and your advisor may 
+receive a portion of these fees. This 
+additional compensation presents a potential 
+conflict of interest because Commonwealth and 
+your advisor may have a greater incentive to 
+recommend (or make investment decisions 
+regarding) investments for your account that 
+provide such additional compensation to 
+Commonwealth or your advisor. 
+
+. . . . 
+
+Where permitted by law, Commonwealth and/or 
+your advisor may receive transaction -based 
+commissions, mutual fund 12b -1 fees, 
+distributor fees, service fees, due diligence 
+fees, marketing reimbursements, revenue 
+sharing, or other payments relating to your 
+investment in or otherwise supporting 
+Commonwealth's or your advisor's activities 
+regarding the securities and insurance 
+products recommended, purchased, or held 
+within your Commonwealth advisory program 
+account. To the extent Commonwealth is the 
+investment adviser, sponsor, or other service 
+provider to your investment advisory program, 
+Commonwealth receives compensation for its 
+services. Clients should be aware that 
+Commonwealth's or your advisor's receipt of 
+commissions, fees, payments, and other 
+compensation may present a potential conflict 
+of interest because Commonwealth or your 
+advisor may have an incentive to recommend 
+those products or programs or make investment 
+decisions regarding investments that provide 
+such compensation to Commonwealth or your 
+advisor. 
+
+(Emphasis added). Commonwealth made disclosures substantially 
+similar to these in 2015 and 2016. 
+ Commonwealth's 2017 brochure included this additional 
+disclosure regarding its revenue-sharing arrangement with NFS: 
+
+NFS offers an NTF program composed of no-load 
+mutual funds. Participating mutual fund 
+sponsors pay a fee to NFS to participate in 
+this program, and a portion of this fee is 
+shared with Commonwealth. None of these 
+additional payments is paid to any adviso rs 
+who sell these funds. NTF mutual funds may be 
+purchased within an investment advisory 
+account at no charge to the client. Clients, 
+however, should be aware that funds available 
+through the NTF program may contain higher 
+internal expenses than mutual f unds that do 
+not participate in the NTF program and could 
+present a potential conflict of interest 
+because Commonwealth may have an incentive to 
+recommend those products or make investment 
+decisions regarding investments that provide 
+such compensation to Commonwealth. 
+
+(Emphasis added). 
+
+ And in August 2017, Commonwealth amended its brochure to 
+add: 
+Clients . . . should be aware that funds 
+available through the NTF program often 
+contain higher internal expenses than mutual 
+funds that do not participate in the NTF 
+program. Commonwealth's receipt of a portion 
+of the fees associated with the NTF program 
+creates a conflict of interest because 
+Commonwealth has an incentive to make 
+available or to recommend those products, or 
+make investment decisions regarding 
+investments, that provide such compensation to 
+NFS and Commonwealth over those mutual fund 
+sponsors that do not make such payments to NFS 
+and Commonwealth. 
+
+(Emphasis added). 
+In 2018, Commonwealth further modified its brochure to 
+state that Commonwealth "will receive" revenue -sharing payments 
+
+from NFS, rather than that it "may receive" those payments. 
+Commonwealth's 2018 disclosure also stated: 
+Although NTF funds do not assess transaction 
+charges, most NTF funds have higher internal 
+expenses than funds that do not participate in 
+an NTF program. These higher internal fund 
+expenses are assessed to investors who 
+purchase or hold NTF funds. Depending upon 
+the frequency of trading and hold periods, NTF 
+funds may cost you more, or may cos t 
+Commonwealth or your Commonwealth advisor 
+less, than mutual funds that assess 
+transaction charges but have lower internal 
+expenses. In addition, the higher internal 
+expenses charged to clients who hold NTF funds 
+will adversely affect the long -term 
+performance of the client's account when 
+compared to share classes of the same fund 
+that assess lower internal expenses. 
+
+For those Commonwealth advisory programs that 
+assess transaction charges to clients or to 
+Commonwealth or the advisor, a conflict of 
+interest exists because Commonwealth or your 
+advisor have a financial incentive to 
+recommend or select NTF funds that do not 
+assess transaction charges but cost you more 
+in internal expenses than funds that do assess 
+transaction charges but c ost you less in 
+internal expenses . In addition to reading 
+this Brochure carefully, clients are urged to 
+inquire whether lower-cost share classes are 
+available and/or appropriate for their account 
+in consideration of the client's expected 
+investment holding periods, amounts invested, 
+and anticipated trading frequency. Further 
+information regarding fees and charges 
+assessed by a mutual fund is available in the 
+appropriate mutual fund prospectus. 
+
+(Emphasis added). 
+
+And in December 2018, Commonwealth amended its brochure 
+to add the following language: 
+
+Commonwealth uses National Financial Services 
+("NFS") as its clearing and custody firm for 
+substantially all of Commonwealth's PPS 
+managed accounts. Commonwealth's business 
+relationship with NFS provides Commonwealth 
+considerable revenue -sharing benefits. In 
+particular, Commonwealth receives substantial 
+monthly revenue -sharing payments from NFS 
+based on client assets held by Commonwealth 
+with NFS in . . . non-Fidelity NTF funds that 
+participate in Fidelity's NTF program, and 
+non-Fidelity TF funds that participate in 
+Fidelity's TF program. 
+
+Commonwealth's revenue-sharing agreement with 
+NFS, and the existence of various fund share 
+classes with lower -internal expenses that 
+Commonwealth may not make available for 
+purchase in managed account programs, present 
+a conflict of interest between clients and 
+Commonwealth or its advisors. A conflict of 
+interest exists because Commonwealth and your 
+advisor have a greater incentive to make 
+available, recommend, or make investment 
+decisions regarding investments that provide 
+additional compensation to Commo nwealth that 
+cost clients more than other available share 
+classes in the same fund that cost you less. 
+
+(Emphasis added). 
+From July 2014 through December 2018, NFS paid 
+Commonwealth approximately $189.1 million, which included both 
+revenue-sharing payments and payments for other expenses. The 
+parties disagree as to what portion of the $189.1 million NFS paid 
+to Commonwealth was paid pursuant to the revenue -sharing 
+agreement. Commonwealth contends that "NFS itself had no 
+visibility into the breakdown between revenue sharing and other 
+payments." The SEC has estimated that approximately $155.6 million 
+
+of this was related to the advisory client assets relevant to this 
+enforcement action. Commonwealth has not conceded the accuracy of 
+this $155.6 million figure. 
+Deposition Testimony from Commonwealth Representatives 
+The SEC took depositions from six Commonwealth 
+representatives, each of whom testified as to his own experience 
+as a Commonwealth representative, his own decision-making process 
+when investing on behalf of his clients, and his clients' different 
+investment objectives. The relevant portions of their deposition 
+testimonies in the record follow. 
+Hal Michels 
+Hal Michels, a registered Commonwealth representative 
+since 2007, testified to at least two instances where, on behalf 
+of his clients, he purchased share classes that were not the 
+absolute lowest cost funds available. 
+Michels testified that his firm bought and held shares 
+of the PIMCO Income Fund, Share Class D , from 2014 to 2017. At 
+that time, the expense ratio for Class D was approximately 34 basis 
+points higher than the institutional share class of the PIMCO 
+Income Fund, and 24 basis points higher than Class P of the Fund. 
+Michels was not aware of why his firm purchased the Class D shares 
+for their clients instead of either the Class P or institutional 
+shares and was not personally aware that there was a Class P or 
+institutional share class of the Fund. 
+
+In 2017, PIMCO discontinued its Class D shares. Michels 
+delegated the decision as to what to do with clients' existing 
+Class D shares to two of his associates, Jamie Direnzo and Joe 
+Valenza. Direnzo and Valenza decided to convert clients' Class D 
+shares to Class P shares and not to a cheaper available fund. As 
+Valenza explained: "[w]e are aware that the institutional share 
+class is 10 basis points cheaper than the P share class; however, 
+the institutional class is not considered a core fund. The P share 
+class is a core share class. This matters more to us, so we want 
+the P share class." Michels explained that the difference between 
+core and non-core funds is that core funds don't pay a transaction 
+fee on the purchase portion of a transaction. 
+Michels also testified that, when determining what share 
+classes to purchase for clients, his firm's practice was "typically 
+to start with the Commonwealth recommended list and then do [their] 
+own research on the . . . funds that are there, as well as othe r 
+funds." Direzo and Valenza "ma[de] those decisions as to which 
+share class to use with the instructions" to select "the cheapest 
+most effective share class available." In this context, "cheapest" 
+meant "lowest expense ratio . . . relative to any other charges 
+that there might be, like [transaction fees]." For classes that 
+did not charge transaction fees, or where Michels' firm absorbed 
+the cost of transaction fees, staff were instructed to select share 
+classes with the lowest expense ratio. But, from 2014 to 2018, 
+
+Michels' firm purchased shares of the investor class of the 
+American Century Equity Income Fund, rather than the institutional 
+class of that Fund, even though the expense ratio of the 
+institutional class was 20 basis points lower. Michels testified 
+that h e did not know why his firm had made that investment 
+decision. 
+David Bucholtz 
+David Bucholtz, a registered Commonwealth representative 
+since 2003, testified that "upwards of [75%]" of his firm's clients 
+were invested in the PPS Custom program and "a very small 
+percentage" were invested in PPS Select and "[m]aybe even less" in 
+PPS Direct. When purchasing funds for clients, Bucholtz would 
+"look and . . . try to find . . . the lower cost. Cost matters a 
+lot." But the definition of lower cost, itself, varied in 
+different ways. He would: 
+look at how long [he was] expecting to hold 
+this fund, if [he was] going to hold it for a 
+long period of time, what's the expense 
+ratio . . . [He would] try and look for a no 
+transaction fee. If it's something [he] might 
+be moving out of or if it's something [he] 
+kn[e]w [was] going to be there for a long time, 
+the transaction fee can be more significant 
+than another one where [he was] looking to 
+keep it for a long time. 
+
+Bucholtz testified that he purchased PIMCO Class P shares for his 
+clients in 2016, and that when he did, he was aware that there 
+were other PIMCO Income Fund share classes with lower expense 
+
+ratios, but purchased Class P because it "was the lowest expense 
+ratio . . . without . . .[a] ticket charge on the front side for 
+buying it." At the time he purchased the shares he considered 
+buying the institutional class, instead, but "wasn't certain how 
+long [he] would be in th[e] fund" and "the expense ratio was ten 
+basis points, so it wasn't a huge difference between the two." 
+However, a 24 basis point difference in expense ratio between Class 
+P and Class D shares was more than Bucholtz was willing to pay. 
+William A. Muskat 
+ William Muskat, a registered Commonwealth representative 
+since 2009, testified that, from 2014 to 2018, he was not "an 
+active trading advisor" and his firm "had a buy and hold strategy." 
+During that time, he "look[ed] for share classes that had the lower 
+expense ratio" as "a general rule," and, at the time, "those share 
+classes [were] typically outside of the NTF program." During the 
+period in which Muskat had a buy and hold strategy, he did not 
+recall transaction fees being a factor he considered when selecting 
+a share class. Muskat testified that factors other than 
+transaction fees and expense ratio might also affect the price of 
+a share class, such as whether a fund was supplementing the fee 
+for the expense ratio for a period of time. Muskat also testified 
+that the summary prospectuses for at least some funds laid out the 
+total operating expenses for each share class in the fund and that 
+a fund's prospectus is publicly available information. 
+
+Richard Hana 
+ Richard Hana , a registered representative of 
+Commonwealth since 2005 , testified that, from 2014 to 2018, he 
+determined what mutual funds were available through Commonwealth 
+by consulting lists Commonwealth provided via email and by calling 
+NFS to determine whether a particular fund could be purchased 
+through Commonwealth. Hana was familiar with Commonwealth's 
+Mutual Fund Resource Guide but testified that his office "use[d] 
+Morningstar a lot for [their] research," identifying mutual funds 
+within Morningstar that they would like to purchase for their 
+clients, then contacting Commonwealth or NFS to determine whether 
+those funds were available. In Spring 2018, Hana's office 
+converted client holdings in PIMCO funds to the institutional share 
+class of that PIMCO fund because the conversion offered "the lowest 
+[cost] share class that [Hana's office] thought was 
+available . . . at the time." Commonwealth then provided Hana's 
+office with a spreadsheet listing other mutual fund share classes 
+then held by his clien ts alongside proposed lower -cost share 
+classes to which Hana's clients could convert their holdings. Hana 
+could not recall whether his office converted any of their clients 
+to the lower-cost share classes Commonwealth identified. 
+Larry Robert Brown 
+ Larry Brown, a registered Commonwealth representative 
+since August 1, 2017, testified that he never "at any time looked 
+
+for whether or not a . . . particular mutual fund[] was approved 
+by Commonwealth," offering only the PPS Custom program to his 
+clients. Nor did Brown ever use Commonwealth's Mutual Fund 
+Resource Guide. Brown testified that "for new purchases since 
+being at Commonwealth, we're only using one share class per fund 
+family, whichever share class has the lowest expense ratio." Upon 
+joining Commonwealth in 2017, Brown opted to absorb the cost for 
+all of his clients' transaction fees. 
+ In November of 2018, Brown received an announcement from 
+Commonwealth notifying him that Commonwealth intended to begin 
+offering only a single share class of each mutual fund and would 
+"automatically convert existing PPS Custom and advisor -managed 
+mutual fund holdings to the single share class on a rolling basis." 
+Brown noted that the institutional share class of PIMCO funds 
+(which Brown had purchased for his clients because it had the 
+lowest expense ratio of the PIMCO funds ) was not the share class 
+that Commonwealth would be offering going forward. Brown became 
+concerned that his clients would have their institutional share 
+class holdings automatically converted into another share class 
+with a higher expense ratio, and that clients would not be able to 
+purchase institutional shares of PIMCO in the future, and reached 
+out to Commonwealth about his concerns. Commonwealth responded, 
+indicating that it would not convert share classes to a more 
+expensive share class but that Brown's clients would no longer be 
+
+able to purchase the PIMCO institutional share class after April 
+1, 2019. Brown testified that it was his understanding that these 
+changes did not go into effect as described, however, because he 
+was still able to purchase the PIMCO institutional share class for 
+his clients after April 1, 2019. 
+The SEC presented no testimony from any investor client 
+of any Commonwealth representative. 
+II. 
+The SEC initiated this enforcement action in 2019. The 
+SEC alleged that, from July 2014 through December 2018, 
+Commonwealth failed to adequately disclose that its 
+revenue-sharing agreement with NFS created a conflict of interest 
+by incentivizing Commonwealth to direct its clients' investments, 
+through the representatives, to mutual fund share classes that 
+produced revenue-sharing income for Commonwealth over other share 
+classes that could be cheaper for Commonwealth's clients. 2 The 
+SEC contended that these inadequate disclosures constituted a 
+negligent breach of Commonwealth's fiduciary duty under Section 
+206(2) of the Investment Advisers Act of 1940 and that 
+Commonwealth's failure "to adopt and to implement written policies 
+and procedures reasonably designed to ensure that Commonwealth 
+
+2 The SEC has not claimed that Commonwealth's disclosures 
+have been deficient from the December 2018 amendment to its 
+brochure onward. 
+
+identified and disclosed these conflicts of interest" violated 
+Section 206(4) of the Advisers Act and SEC Rule 206(4)-7. 
+At the close of discovery, the SEC and Commonwealth each 
+cross-moved for summary judgment with supporting expert reports. 
+The SEC's in-house expert, Evgeny (Eugene) Orlov, described the 
+methodologies he used to reach an estimate of the revenue 
+Commonwealth received from December 2014 to December 2018 from its 
+alleged violations. He treated behavior during that time period 
+as constant and represented that he analyzed the extent to which 
+there were alternative, lower -cost share classes available to 
+Commonwealth's clients. Orlov estimated that, of the $189.1 
+million in total revenue sharing Commonwealth received from NFS, 
+$155.6 million was "related to advisory client assets" with $61.3 
+million coming from NTF share classes, $77.0 million from TF share 
+classes, and $17.3 million from iNTF share classes. 
+To estimate the number of share classes with lower cost 
+alternatives, Orlov chose to analyze initially only the ten fund 
+families in the NTF program that produced the highest revenue -
+sharing payments to Commonwealth. He then compared his ten fund-
+family sample to the lower-cost alternative share classes of those 
+very same funds that were listed as available to Commonwealth 
+clients. From this, he concluded that more than 80% of the revenue 
+from those fund families came from share classes with alternatives 
+that were less expensive for clients overall. He conducted a 
+
+similar analysis of the five highest-revenue fund families in the 
+TF/iNTF programs and concluded that more than fifty percent of 
+that revenue came from share classes with lower-cost alternatives. 
+Orlov then purported to compare what he estimated to be 
+the revenue from these higher-cost share classes against the lesser 
+revenue Commonwealth would have received had clients been invested 
+in the lower -cost share classes of the same funds . Orlov 
+extrapolated from these findings as to the fifteen fund families 
+to the much larger group of funds available through Commonwealth 
+as to which it had a conflict of interest. 
+Orlov's conclusions and methodology were contested on 
+numerous grounds by Commonwealth experts. One Commonwealth 
+expert, Mark E. Potter, of the firm of Crowninshield Financial 
+Research, responded, saying that Orlov had erred in numerous ways. 
+To start, the SEC expert extrapolated from funds which were not 
+representative of the roughly 17,000 share classes approved by 
+Commonwealth. Further, many of the lower-cost alternatives Orlov 
+identified would, if clients converted their shares to those 
+classes, result in the same or higher revenue-sharing payments to 
+Commonwealth. Potter further opined that behavior during the 
+period in question was not static, but "[could] change over time" 
+based on changing "goals and objectives and situations ." The 
+revenue-sharing payments Commonwealth received decreased over time 
+
+relative to Commonwealth's total holdings, 3 and Commonwealth 
+clients were "being placed in lower revenue sharing programs" and 
+funds "at an increased rate over time." Potter concluded that 
+each of these errors called into question the validity of Orlov's 
+reliance on only the highest revenue-sharing fund families. 
+Potter also criticized Orlov for failing to account for 
+the impact of transaction fees when calculating whether a lower -
+cost alternative to a particular share class existed. Potter 
+explained that representatives take into account more than just a 
+share class's expense ratio when building a client's portfolio , 
+"also consider[ing] whether the mix of active or passive 
+investments is a good fit for the client's goals and objectives." 
+Potter said that "[t]ransaction fees will have a greater impact on 
+smaller accounts, accounts that contain less liquid securities, 
+and accounts that have more need for rebalancing or periodic 
+withdrawals." Using the fund PIMIX as an example of the impact 
+transaction fees would have on a representative's choice of share 
+class, Potter observed that "[a]t a cost of $24 per trade, it would 
+only take 3 trades" to make a fund with a higher -expense ratio 
+
+3 Potter noted that the average monthly revenue went from 
+"roughly $2.5 million in July 2014 to about $3.6 million by 
+year-end 2018" while Commonwealth's total mutual fund holdings 
+increased substantially more, going from "$33.7 million in 2014 to 
+$61.8 million in 2018." Another Commonwealth expert, Alex J. 
+Russell, of the firm Bates Group, LLC, likewise concluded that 
+"Client Assets that did not pay revenue sharing accounted for an 
+increasing percentage of all Client Assets" between 2014 and 2018. 
+
+more cost -effective for a client planning to actively trade. 
+Potter cautioned that the impact of transaction fees is "not 
+necessarily predictable and Advisors may set up their clients' 
+portfolios to be nimble and flexible over time." 
+The district court granted partial summary judgment to 
+the SEC as to Commonwealth's liability under Section 206(2).4 The 
+district court held that it was undisputed that Commonwealth was 
+an investment advisor within the meaning of the Advisers Act and 
+that it relied on the instrumentalities of interstate commerce to 
+conduct its business, as required by the Act. The district court 
+further held that Commonwealth's disclosures were inadequate as a 
+matter of law. The court reasoned that this was so because over 
+the period from 2014 to 2018 Commonwealth "present[ed] the payments 
+[Commonwealth] receive[d] from the revenue sharing arrangement as 
+a hypothetical rather than disclosing it as a matter of fact," 
+"made no mention of the TF program revenue sharing or that the 
+arrangement was limited to non -Fidelity funds," and failed to 
+disclose that, in some cases, "class shares of the same fund 
+
+4 The district court also held that Commonwealth violated 
+Section 206(4) of the Advisers Act and SEC Rule 206(4) -7, which 
+requires registered investment advisors to "[a]dopt and implement 
+written policies and procedures reasonably designed to prevent 
+violation" of the Advisers Act. 17 C.F.R. § 175.206(4)-7(a); 15 
+U.S.C. § 80b-6(4). The district court concluded that 
+Commonwealth's lack of a written policy as to disclosure of 
+conflicts of interest, and its inadequate disclosure of those 
+conflicts of interest in practice, sufficed to establish its 
+liability as a matter of law. 
+
+existed with lower internal expenses." The district court reasoned 
+that Commonwealth's arrangement with NFS was a material fact, 
+disclosure of which was required by the Advisers Act, because "[i]t 
+is well-settled that potential conflicts of interest are material 
+facts that investors would consider important in making investment 
+decisions." (Quoting SEC v. Duncan, 19-CV-11735, 2021 WL 4197386, 
+at *10 (D. Mass. Sept. 15, 2021) ). The district court also 
+rejected Commonwealth's argument that the fact that it was 
+representatives who were unaware of Commonwealth's revenue-sharing 
+arrangement who gave investment advice to clients precluded entry 
+of summary judgment. This was because, among other things, 
+Commonwealth's Investment Team still exercised an "advisory role" 
+in the process by which representatives selected funds by "creating 
+model portfolios, the Mutual Fund Recommended List, and the Mutual 
+Fund Resource Guide."5 
+Commonwealth moved for reconsideration of the district 
+court's summary judgment ruling, arguing that the district court 
+committed clear errors of law in granting summary judgment to the 
+SEC because the questions of "[w]hether Commonwealth's revenue -
+sharing arrangement . . . would be material to a reasonable 
+
+5 The district court also determined that Commonwealth 
+acted with the requisite negligence because "Commonwealth's 
+revenue paying arrangement with NFS created undisclosed conflicts 
+of interest . . . , Commonwealth made material omissions in its 
+disclosure related to the arrangement," and so "Commonwealth was 
+negligent in its failure to fully disclose its economic conflicts." 
+
+client" and whether its disclosures "provide[d] the information an 
+advisory client would reasonably need to understand and consent to 
+a conflict of interest" were matters for a jury. Commonwealth 
+also argued that the issue of its negligence should have been sent 
+to a jury. The district court denied Commonwealth's motion, 
+determining that Commonwealth's arguments as to materiality were 
+"the same as Commonwealth's materiality arguments on summary 
+judgment" and that Commonwealth's argument that the SEC was n ot 
+entitled to summary judgment had not also explicitly argued that 
+the adequacy of its disclosures created a jury issue. 
+The SEC then moved for entry of final judgment against 
+Commonwealth, submitting an additional expert declaration from 
+Eugene Orlov. This additional declaration was in response to Mark 
+Potter's earlier criticism , at summary judgment , that Orlov's 
+report failed to account for the impact of transaction fees when 
+Orlov purported to determine the number of accounts invested in 
+share classes with lower cost alternatives. The additional Orlov 
+declaration revised down Orlov's calculation of Commonwealth's 
+estimated revenue from NTF share classes from approximately $37.3 
+million to $34.1 million, to a lesser total incremental revenue of 
+approximately $65.5 million. 
+Commonwealth, in response, moved to introduce an 
+additional declaration from its expert Alex J. Russell, proposing 
+an alternate total disgorgement calculation in the amount of 
+
+approximately $25.6 million. The SEC moved to strike this 
+declaration on the ground that it had not been disclosed during 
+discovery and was untimely. The district court granted the SEC's 
+motion and struck Russell's declaration, reasoning that "the new, 
+alternative lower-cost share analysis offered by Russell in his 
+declaration falls squarely in the category of a new theory, 
+opinion, or methodology" that needed to be "excluded as an 
+impermissible supplementary report ." (Quoting Zeolla v. Ford 
+Motor Co., No. 09-40106, 2013 WL 308968, at *11 (D. Mass. Jan. 24, 
+2014)). The district court stated that "both parties could foresee 
+from the inception of this case that disgorgement would be a 
+question if Commonwealth was found liable for violations of the 
+Advisers Act" and any proposed disgorgement analysis should have 
+been submitted earlier, at the summary judgment stage, "in rebuttal 
+to Orlov's original report." 
+The district court then adopted the SEC's proposed 
+disgorgement amount of $65,588,906. It reasoned that disgorgement 
+in that amount, as calculated by Orlov, was appropriate because 
+the incremental revenue Commonwealth gained was causally connected 
+to Commonwealth's failure to disclose its conflicts of interest.6 
+
+6 "Incremental revenue" was defined as "the difference 
+between the revenue Commonwealth received by allowing clients to 
+hold higher -cost NTF and TF share classes of funds and 
+Commonwealth's revenue had clients moved their investments to the 
+lower-cost share classes of those funds that paid less or no fees 
+via revenue sharing to Commonwealth." 
+
+This was so, the court explained, because "Commonwealth's failure 
+to disclose its conflicts of interest kept clients invested in 
+higher-cost shares of Fund A rather than lower-cost shares also of 
+Fund A" and that, "[h]ad Commonwealth's clients known that they 
+were invested in higher-cost shares of funds for which lower-cost 
+shares existed, and that the higher cost resulted in greater profit 
+for Commonwealth, there is reason to believe that at least some of 
+those clients would have elected to move their money to the lower-
+cost funds." The district court declined to deduct Commonwealth's 
+expenses from the amount disgorged, reasoning that deduction of 
+expenses was unavailable "[w]here the entirety of the disgorgement 
+award is based on 'ill -gotten gains,'" which it found to be the 
+case here, where the "SEC ha[d] limited its disgorgement request 
+to incremental revenue Commonwealth received due to its failures 
+to disclose conflicts of interest, which are, in their entirety, 
+unlawful gain." The district court then assessed prejudgment 
+interest in the amount of $22,191,790 and imposed a second -tier 
+civil penalty of $6,500,000.7 The district court denied the SEC's 
+
+7 Courts may impose three tiers of penalties for 
+violations of the Advisers Act, based on the severity of the 
+underlying conduct. See 15 U.S.C. § 80b-9(e)(2). Second tier 
+penalties may be imposed "if the violation . . . involved fraud, 
+deceit, manipulation, or deliberate or reckless disregard of a 
+regulatory requirement" and the penalty may be equal to "the gross 
+amount of pecuniary gain . . . as a result of the violation." Id. 
+at § 80b-9(e)(2)(B). 
+
+request that Commonwealth be permanently enjoined from violating 
+the Advisers Act. 
+III. Legal Analyses 
+A. Error in Entry of Summary Judgment for SEC on Issues of 
+Liability 
+
+Commonwealth argues that, on the facts of this case, the 
+issue of materiality should have gone to the jury, and this 
+requires reversal of the entry of summary judgment for the SEC .8 
+
+8 In denying Commonwealth's motion for reconsideration 
+arguing that materiality is to be determined by a jury, the 
+district court stated that because Commonwealth had moved for entry 
+of summary judgment in its favor without explicitly arguing any 
+disputed facts should be determined by a jury, it c ould not "now 
+claim that adequacy was a jury question." Commonwealth Equity 
+Servs., 718 F.Supp.3d at 118. A party's cross-motion for summary 
+judgment "does not constitute an agreement that if one [motion] is 
+rejected the other is necessarily justified or that the losing 
+party waives judicial consideration and determination whether 
+genuine issues of material fact exist. If any such issue exists 
+it must be disposed of by a plenary trial . . . ." Wiley v. Am. 
+Greetings Corp., 762 F.2d 139, 140 -41 (1st Cir. 1985) (quoting 
+Rains v. Cascade Indus., Inc., 402 F.2d 241, 245 (3d Cir. 1968)). 
+Commonwealth did not need to separately argue that, if its 
+motion was unsuccessful, disputed facts as to materiality must be 
+sent to a jury, as this is inherent in a summary judgment analysis. 
+If undisputed facts "support plausible but conflicting inferences 
+on a pivotal issue in the case, the judge may not choose between 
+those inferences at the summary judgment stage." McGurn v. Bell 
+Microprods., Inc., 284 F.3d 86, 93 (1st Cir. 2002) (emphasis added) 
+(quoting Coyne v. Taber Partners I , 53 F.3d 454, 460 (1st Cir. 
+1995)); see also Sherwood v. Wash. Post, 871 F.2d 1144, 1147 n.4 
+(D.C. Cir. 1989) (noting that when parties file cross-motions for 
+summary judgment, "each side concedes that no material facts are 
+at issue only for the purposes of its own motion" (quoting McKenzie 
+v. Sawyer, 684 F.2d 62, 68 n.3 (D.C. Cir. 1982 ))). Because the 
+SEC demanded a jury trial in its complaint, Commonwealth did not 
+need to do so. "Where one party has made a demand, others are 
+entitled to rely on the demand with respect to issues covered by 
+the demand and need not make an independent demand of their own." 
+
+Summary judgment is appropriate when "there is no genuine dispute 
+as to any material fact and the movant is entitled to judgment as 
+a matter of law." Fed. R. Civ. P. 56(a). We review grants of 
+summary judgment de novo and draw all reasonable inferences i n 
+favor of the nonmoving party, here, Commonwealth. See Gibson 
+Found., Inc. v. Norris, 88 F .4th 1, 5 (1st Cir. 2023). 
+Commonwealth argues that the question of whether the alleged 
+omission of certain statements w as material constituted a jury 
+issue. We agree. 
+"Section 206 [of the Advisers Act] imposes a fiduciary 
+duty on investment advisors to act at all times in the best 
+interest of . . . its investors, and includes an obligation to 
+provide 'full and fair disclosure of all material facts' to 
+investors and independent trustees of the fund." SEC v. Tambone, 
+550 F.3d 106, 146 (1st Cir. 2008) (quoting SEC v. Cap. Gains Rsch. 
+Bureau, 375 U.S. 180, 194 (1963)), reh'g en banc granted on other 
+grounds, opinion withdrawn , 573 F.3d 54 (1st Cir. 2009), and 
+opinion reinstated in part on reh'g on other grounds, 597 F.3d 436 
+(1st Cir. 2010). Basic Inc. v. Levinson, 485 U.S. 224 (1988), 
+establishes the standard for materiality , holding that the test 
+for materiality stated in TSC Industries, Inc. v. Northway, Inc., 
+
+In re N-500L Cases, 691 F.2d 15, 22 (1st Cir. 1982); see also SEC 
+v. Jarkesy, 603 U.S. 109, 140 (2024) ("A defendant facing a fraud 
+suit has the right to be tried by a jury of his peers before a 
+neutral adjudicator."). 
+
+426 U.S. 438, 449 (1976), was the best way to realize the "various 
+Securities Acts['] ," Basic, 485 U.S. at 234, policy of "full 
+disclosure," id. (quoting Cap. Gains Rsch. Bureau , 375 U.S. at 
+186). The TSC Industries materiality standard states that 
+[a]n omitted fact is material if there is a 
+substantial likelihood that a reasonable 
+shareholder would consider it important in 
+deciding how to vote . . . . Put another way, 
+there must be a substantial likelihood that 
+the disclosure of the omitted fact would have 
+been viewed by the reasonable investor as 
+having significantly altered the "total mix" 
+of information made available. 
+
+TSC Indus., 426 U.S. at 449. The Court in TSC Industries went on 
+to caution that determining whether an omitted fact is material 
+requires delicate assessments of the 
+inferences a "reasonable shareholder " would 
+draw from a given set of facts and the 
+significance of those inferences to him, and 
+these assessments are peculiarly ones for the 
+trier of fact. Only if the established 
+omissions are "so obviously important to an 
+investor, that reasonable minds cannot differ 
+on the question of materiality " is the 
+ultimate issue of materiality appropriately 
+resolved "as a matter of law " by summary 
+judgment. 
+
+Id. at 450 (quoting Johns Hopkins Univ. v. Hutton, 422 F.2d 1124, 
+1129 (4th Cir. 1970)). Since then, t his circuit has also held 
+that "[t]he determination of materiality is typically left to the 
+jury." SEC v. Lemelson, 57 F.4th 17, 25 (1st Cir. 2023); see also 
+In re Cabletron Systems, Inc. , 311 F.3d 11, 34 (1st Cir. 2002) 
+
+("In general, the materiality of a statement or omission is a 
+question of fact that should normally be left to a jury . . . ."). 
+As we explain further on, the usual rule that materiality 
+is to be decided by the jury applies in this case . But first we 
+deal with the district court's error of law in its holding that , 
+as a matter of law, under a per se rule, the SEC was entitled to 
+summary judgment as to materiality. Even the SEC does not argue 
+to us that entry of summary judgment in its favor is justified by 
+application of any such per se rule. It has cited no circuit case, 
+nor have we found any, which substitutes a per se materiality rule 
+for the summary judgment standard. The district court did not 
+engage in the required "fact-specific inquiry" and instead rested 
+on a generalized per se conclusion that "[i]t is indisputable that 
+potential conflicts of interest are 'material' facts with respect 
+to clients." Commonwealth Equity Servs., 2023 WL 2838691, at *12 
+(quoting Vernazza v. SEC, 327 F.3d 851, 859 (9th Cir. 2003)). The 
+district court cited two out-of-circuit decisions which it viewed 
+as articulating such a per se rule . See Vernazza, 327 F.3d at 
+859, amended, 335 F.3d 1096 (9th Cir. 2003); Robare Grp., Ltd. v. 
+SEC, 922 F.3d 468, 472 (D.C. Cir. 2019). These cases do not alter 
+the standard the Supreme Court and this circuit have articulated 
+for materiality. They are also not the law of this circuit and 
+are easily distinguishable. 
+
+Vernazza involved a petition for review in the courts of 
+an SEC administrative order, entered after a hearing before an 
+administrative law judge. Vernazza, 327 F.3d at 857. The petition 
+for review dealt with issues of scienter, not whether any 
+misrepresentations were material. See id. at 857-58. The district 
+court quoted a sentence from Vernazza that "[i]t is indisputable 
+that potential conflicts of interest are 'material' facts with 
+respect to clients and the Commission ." Commonwealth Equity 
+Servs., 2023 WL 2838691, at *10 (quoting Vernazza, 327 F.3d at 
+859). That sentence is itself drawn from language in SEC v. Capital 
+Gains Research Bureau, Inc. , 375 U.S. at 180, stating that an 
+investment advisor must "fully and fairly reveal[] his personal 
+interests in [his] recommendations to his clients," see Vernazza, 
+327 F.3d at 859 (citing Cap. Gains Rsch. Bureau, 375 U.S. at 201). 
+But the issue in Capital Gains Research Bureau was not about entry 
+of summary judgment, rather that case was about the correct 
+statutory interpretation of 15 U.S.C. § 80b-6, the Investment 
+Advisers Act of 1940. See Cap. Gains Rsch. Bureau, 375 U.S. at 
+181 (holding that the practice of "'scalping' . . . 'operates as 
+a fraud or deceit upon any client or prospective client' within 
+the meaning of the [Investment Advisers] Act" (quoting 15 U.S.C. 
+§ 80b-6(2))). Capital Gains Research Bureau did not alter the 
+standards for summary judgment, and both TSC Industries and Basic 
+post-date that decision. 
+
+Robare also involved a petition for review of an SEC 
+administrative order entered after an evidentiary hearing before 
+an administrative law judge. Robare Grp., Ltd., 922 F.3d at 473. 
+The district court quoted from Robare's statement that "the 
+Securities and Exchange Commission has long held that '[f]ailure 
+by an investment adviser to disclose potential conflicts of 
+interest to its clients constitutes fraud within the meaning of 
+Sections 206(1) and (2),'" id. at 472 (alteration in original); 
+see Commonwealth Equity Servs., 2023 WL 2838691, at *12 (quoting 
+Robare Grp., Ltd., 922 F.3d at 472). That statement from Robare 
+cited only to an SEC release, Fundamental Portfolio Advisors, Inc., 
+Investment Advisers Act Release No. 2146, 80 SEC Docket 1851, 2003 
+WL 21658248, at *15 & n.54 (Jul. 15, 2003). The quoted statement 
+from Robare was simply an acknowledgement that undisclosed 
+conflicts of interest fall within the statutory language of 
+Sections 206(1) and (2) of the Advisers Act of 1940, which 
+respectively prohibit "any device, scheme, or artifice to defraud" 
+and "any transaction, practice, or co urse of business which 
+operates as a fraud or deceit." 15 U.S.C. § 80b-6(1)-(2). 
+Both Vernazza and Robare are also inapplicable because 
+of the difference in standards of review. The standards of review 
+for grants of summary judgment are very different from the 
+substantial evidence standard of review when the SEC seeks to 
+enforce its orders after there have been proceedings before 
+
+administrative law judges. See Flannery v. SEC, 810 F.3d 1, 8-9 
+(1st Cir. 2015). Our review of entry of summary judgment is de 
+novo and is not at all the same as the substantial evidence rule. 
+"[S]uch [substantial evidence] review is deferential." Jarkesy, 
+603 U.S. at 117. "By law, a reviewing court must treat the agency's 
+factual findings as 'conclusive' if sufficiently supported by the 
+record, even when they rest on evidence that could not have been 
+admitted in federal court." Id. (citations omitted). That is 
+simply not this case. 
+These cases on which the district court relied also 
+predate the Supreme Court's decision in SEC v. Jarkesy, which held 
+that the Seventh Amendment right to a jury trial applies to SEC 
+securities enforcement actions of its administrative orders, see 
+id. at 125, and that "every encroachment upon [the jury trial 
+right] has been watched with great jealousy," id. at 122 (quoting 
+Parsons v. Bedford, 28 U.S. 433, 446 (1830)). 
+In essence, the district court held that, in its view, 
+since all potential conflicts are material, the omissions at issue 
+were material as a matter of law. Applying the correct test of 
+materiality, we hold that a reasonable jury could conclude, on the 
+facts of this case, that additional disclosures with more precise 
+descriptions, added to the already -disclosed conflicts of 
+interest, would not have so "significantly altered the 'total mix' 
+of information made available," Basic Inc. , 485 U.S. at 232 
+
+(emphasis added) (quoting TSC Indus. , 426 U.S. at 449), that 
+summary judgment was appropriate. 
+Commonwealth's advisory client base in 2018 was 
+estimated to include more than 319,000 investors served by 2,300 
+representatives. Those investors differed in many categories of 
+ways, including as to the types of investors, types of investments, 
+types of investment goals they set, and what advice they received 
+from their representatives. The SEC's motion and supporting 
+evidence in many ways assumed that these investors were identically 
+situated. Yet a reasonable jury could find those assumptions 
+questionable and not substantiated. The SEC did not provide 
+testimony from any Commonwealth clients or representatives 
+describing the significance they attribute to the omitted 
+information. Five of the six representatives the SEC deposed 
+testified, either explicitly or implicitly, that the overall price 
+of a share class was a factor they considered when determining 
+what share class of a mutual fund to purchase for their clients , 
+but only a factor . They also testified that they were not 
+necessarily looking for the absolute lowest-cost share class for 
+their clients. And it does not follow that, simply because a share 
+class was the lowest available cost , this was significant in the 
+materiality sense to these representatives and their clients. 
+Indeed, Commonwealth's capacity to indirectly influence 
+clients toward more profitable share classes (that at times were 
+
+costly for clients) was tied to its recommendations in its Mutual 
+Fund Resource Guide and selected portfolios in its PPS Select and 
+Direct programs. But clients made their investment decisions 
+through their representatives rather than Commonwealth's 
+recommendations or pre-constructed portfolios. These 
+representatives were themselves sophisticated and independent 
+members of the financial industry who recommended to their clients 
+the funds and share classes to be purchased. Four of the six 
+representatives conducted independent research to determine what 
+share class was best for a particular client. One representative 
+testified that he never used Commonwealth's preconstructed 
+portfolios or Mutual Fund Resource Guide. There is no evidence 
+that Commonwealth limited or otherwise affected representatives' 
+ability to resear ch and assess the comparative cost of funds. 
+Further, representatives looking to purchase a fund could use that 
+fund's publicly available prospectus to compare the various share 
+classes and find one that best suited their clients' investment 
+strategy. Cf. SEC v. Washington Inv. Network, 475 F.3d 392, 405 
+(D.C. Cir. 2007) ("[T]he public availability of information is a 
+relevant consideration when evaluating a party's disclosure 
+obligations . . . ."). There are material issues of fact as to 
+the importance of price, Commonwealth's influence over the funds 
+selected, and about the significance of the allegedly deficient 
+
+disclosures, themselves. It is the role of a jury to determine 
+those questions. 
+The SEC relies heavily on this court's decision in SEC 
+v. Navellier & Associates, Inc., 108 F.4th 19 (1st Cir. 2024). It 
+misreads the decision. This court's decision in Navellier is 
+consistent with our result. In Navellier, we held that, on the 
+facts there, the appellants' omissions were material as a matter 
+of law because the omissions spoke "to the potential risk that an 
+investor w[ould] take if they decide[d] to invest," and disclosure 
+of the omitted information "'would obviously change the perceived' 
+risk of investing." Id. at 37 (quoting SEC v. Bauer, 723 F.3d 758, 
+773 (7th Cir. 2013)). Not so here. As we said above, it is not 
+obvious that the omitted facts from Commonwealth's conflict of 
+interest would have changed the investors' perceptions, given 
+their use of the investment advice of sophisticated intermediaries 
+in the form of Commonwealth's representatives. Further, the only 
+direct testimony in the record goes to the importance of price to 
+a Commonwealth representative, not "how . . . clients themselves" 
+or even the deposed representatives "considered the [conflict] at 
+issue." Id. at 38. While we are mindful that "the SEC [is] not 
+required to prove that any investor actually relied on 
+[Appellants'] misrepresentations," id. at 37 (alteration s in 
+original) (quoting SEC v. World Tree Fin., LLC, 43 F.4th 448, 465 
+(5th Cir. 2022)), we conclude that reasonable minds could differ 
+
+on the question of materiality in this case and summary judgment 
+is inappropriate.9 
+B. Error as to the Disgorgement Award 
+ Because we vacate the liability judgment, necessarily 
+the disgorgement award must also be vacated. Should a jury find 
+liability in whole or in part and should the issue of disgorgement 
+arise again on remand, the district court must consider anew 
+whether the SEC has adequately established causal relationship s 
+between Commonwealth's profits and its alleged violations, as well 
+as whether Commonwealth is entitled to deduct its expenses from 
+any disgorgement awarded . The district court made concerning, 
+fundamental legal errors as to these issues in it s prior 
+disgorgement calculations. 
+"While monetary relief can be legal or equitable, money 
+damages are the prototypical common law remedy." Jarkesy, 603 
+U.S. at 123. Disgorgement may only be ordered in an amount that 
+is "a reasonable approximation of profits causally connected to 
+the [underlying] violation." Navellier, 108 F.4th at 42 (quoting 
+SEC v. Happ, 392 F.3d 12, 31 (1st Cir. 2004)). The SEC bears the 
+burden of showing that the amount it seeks in disgorgement is a 
+
+9 Because the district court's orders finding Commonwealth 
+liable for violating Section 206(4) of the Advisers Act and Rule 
+206(4)-7 were based on substantially the same reasoning as 
+Commonwealth's Section 206(2) liability, they also present 
+material issues of fact that should have been sent to a jury. 
+
+reasonable approximation of the defendant's unjust enrichment. 
+See Happ, 392 F.3d at 31. "[T]he causal connection required is 
+between the amount by which the defendant was unjustly enriched," 
+that is, "the amount . . . by which the defendant profited from 
+[their] wrongdoing," and "the amount [they] can be required to 
+disgorge." Navellier, 108 F.4th at 41, 43 (third alteration in 
+original) (first quoting SEC v. Banner Fund Int'l, 211 F.3d 602, 
+617 (D.C. Cir. 2000); then quoting CFTC v. JBW Cap., 812 F.3d 98, 
+111 (1st Cir. 2016); then quoting Banner, 211 F.3d at 617). It is 
+also clear that "enrichment, if sufficiently attenuated, no longer 
+appears unjust." Restatement (Third) of Restitution and Unjust 
+Enrichment § 51 cmt. f (Am. L. Inst. 2011). 
+On this record, the SEC has not adequately shown either 
+reasonable approximation or causal connection sufficient to 
+support the court's disgorgement award. The district court adopted 
+in total the $65,588,906 sum the SEC alleged was representative of 
+Commonwealth's profits. See Commonwealth Equity Servs., 2024 WL 
+1375970, at *11. The district court justified the use of the SEC's 
+entire sum as a disgorgement award by reasoning that causation was 
+"self-evident" because "at least some" clients would have mov ed 
+money to lower-cost funds had Commonwealth more fully disclosed 
+its conflict of interest. Id. at *7. This is not the relevant 
+standard and it is incompatible with the requirement that 
+disgorgement represent "a reasonable approximation" of 
+
+Commonwealth's unjust enrichment. Happ, 392 F.3d at 31 (quoting 
+SEC v. First City Fin. Corp. , 890 F.3d 1215, 1231 (D.C. Cir. 
+1989)). The district court's "at least some" standard encompasses 
+too wide a range of possibilities. Although "a reasonable 
+approximation" obviously need not be exact, it requires more 
+analysis and connection than is provided to move from "a few" 
+investors to "every" investor. 
+The district court must also consider and address the 
+numerous shortcomings in the SEC's causation evidence . These 
+include (1) the criticisms raised by Commonwealth's experts as to 
+the representativeness of the sample Orlov used to calculate the 
+number of lower -cost, alternative share classes ; (2) 
+countervailing evidence of causation in statements from 
+Commonwealth representatives; and (3) the inadequately supported 
+assumptions made by the SEC, as discussed in our analysis of 
+materiality above. 
+ The district court must assess whether Commonwealth is 
+entitled to deduct any of its expenses from the disgorgement 
+awarded. Courts awarding disgorgement "must deduct legitimate 
+expenses before ordering disgorgement." Liu v. SEC, 591 U.S. 71, 
+91-92 (2020). The Supreme Court has recognized a limited exception 
+to this rule "when the 'entire profit of a business or undertaking' 
+results from the wrongdoing." Id. at 92 (quoting Root v. Railway 
+Co., 105 U.S. 189, 203 (1882)). Even in such cases, courts may 
+
+only decline to deduct those expenses that are determined to be 
+"inequitable," such as "unconscionable claims for personal 
+services," id. at 84, 92 (quoting Root, 105 U.S. at 203), expenses 
+"bought for the purposes of the [wrongful activity]," id. at 84, 
+or "extraordinary salaries," id. (quoting Providence Rubber Co. v. 
+Goodyear, 78 U.S. 788, 803 (1869)). This exception "requires 
+ascertaining whether expenses are legitimate or whether they are 
+merely wrongful gains 'under another name.'" Id. at 92 (quoting 
+Goodyear, 78 U.S. at 803). 
+ The issues we have identified with the SEC's causation 
+evidence raise similar concerns as to whether Commonwealth's 
+entire profit is properly attributable to its alleged wrongdoing. 
+If the district court again concludes that the entirety of 
+Commonwealth's profit result ed from wrongdoing , it must 
+nevertheless then "ascertain[]" whether each of Commonwealth's 
+claimed expenses were "legitimate," in that they had "value 
+independent of fueling a fraudulent scheme,"10 and were subject to 
+deduction notwithstanding the Liu exception. See id.; see also 
+
+10 On appeal, Commonwealth disputes the district court's 
+characterization of its requested deduction for expenses, arguing 
+that it sought a deduction in the amount of $10.8 million, not 
+$49.5 million as the district court found. See Commonwealth, 2024 
+WL 1375970, at *11. Because we remand this case to the district 
+court on the issue of liability and, should Commonwealth again be 
+found liable for violating the Advisers Act, with instructions to 
+ascertain which of Commonwealth's claimed expenses may 
+legitimately be deducted, we express no opinion on this issue. 
+
+SEC v. O'Brien, No. 23-1071, 2024 WL 2813722, at *2 (2d Cir. June 
+3, 2024) ("Courts must 'deduct legitimate expenses' associated 
+with the defendant's proceeds from his wrongdoing." (emphasis 
+added) (quoting Liu, 591 U.S. at 91-92)); SEC v. Team Res. Inc., 
+No. 22-10359, 2023 WL 1434277, at *2 (5th Cir. Feb. 1, 2023) (per 
+curiam) ("Liu held that an order of disgorgement . . . is limited 
+to a defendant's net profits, meaning a court must deduct 
+legitimate business expenses when calculating the award." (second 
+emphasis added)). 
+IV. 
+ For the reasons stated, we vacate the district court's 
+grant of summary judgment to the SEC and the disgorgement order 
+and remand for further proceedings consistent with this opinion. 
+No costs are awarded.

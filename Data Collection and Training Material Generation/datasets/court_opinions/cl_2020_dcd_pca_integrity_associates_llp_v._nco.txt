@@ -1,0 +1,1937 @@
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+UNITED STATES ex rel. : 
+PCA INTEGRITY ASSOCIATES, LLP, : 
+ : 
+ Plaintiff, : Civil Action No.: 15-750 (RC) 
+ : 
+ v. : Re Document Nos.: 77, 79, 81, 85, 86, 
+ : 87, 88, 89, 91, 92, 
+ : 93, 98 
+NCO FINANCIAL SYSTEMS, INC., et al., : 
+ : 
+ Defendants. : 
+MEMORANDUM OPINION 
+GRANTING JOINT MOTION TO DISMISS CLAIMS AGAINST DEFENDANT WEST CORPORATION; 
+GRANTING DEFENDANTS’ MOTIONS TO DISMISS; DENYING AS MOOT DEFENDANT 
+CONSERVE’S MOTION FOR JUDICIAL NOTICE; DENYING AS MOOT RELATOR PCA 
+INTEGRITY’S MOTION FOR JUDICIAL NOTICE 
+I. INTRODUCTION 
+On May 20, 2015, Relator PCA Integrity Associates, LLP (“PCA Integrity” or “Relator”) 
+filed this lawsuit pursuant to the qui tam provision of the False Claims Act (“FCA”), 31 U.S.C. § 
+3730(b)(1). See Compl. ECF No. 1. Relator is a limited liability partnership that consists of 
+three unnamed partners with “personal knowledge of the false claims, statements, and 
+concealments alleged,” Am. Compl. ¶ 7, ECF No. 54, based on participation in an unidentified 
+private collection agency (“PCA”) “initiative working for certain PCAs” and Relator’s 
+“independent investigation to uncover false claims,” id. ¶ 29. The alleged false claims arise from 
+Defendants’ conduct pursuant to a multi-year contract awarded by the Department of Education 
+(“ED”). More specifically, PCA Integrity contends that three clusters of Defendants, consisting 
+of groups of prime contractors, subcontractors, and associated entities that it labels “co-
+conspirator businesses,” along with unnamed John Doe Defendants, defrauded the government 
+of funds that were intended for small businesses under the terms of ED task orders awarded to 
+PCA prime contractors. After the government declined to intervene in this suit in October 2018, 
+Relator filed an amended complaint on March 28, 2019, in which it removed several defendants, 
+added two new allegedly affiliated businesses as defendants, and reasserted four counts under the 
+FCA for: (1) false presentation/false submission of a claim (31 U.S.C. § 3729(a)(1)(A)); (2) false 
+representation (31 U.S.C. § 3729(a)(1)(B)); (3) so-called “reverse” false claims (31 U.S.C. § 
+3729(a)(1)(G)); and (4) conspiracy to violate the FCA (U.S.C. § 3729(a)(1)(C)). Each of the 
+current Defendants moved to dismiss Relator’s claims. For the reasons set forth below, the Court 
+grants Defendants’ motions, but gives Relator leave to file an amended complaint.1 
+II. BACKGROUND 
+A. Factual History2 
+1. Regulatory Background 
+a. ED’s Debt Collection Service Contracting 
+This dispute arises from ED task orders issued to prime contractors as part of its debt-
+collection and maintenance program. See Am. Compl. ¶¶ 6, 9–13. For nearly four decades, a 
+division of ED known as Federal Student Aid (“FSA”) has relied on PCA contractors to collect 
+and resolve defaulted student loans. Id. ¶ 6. ED contractors must comply with applicable 
+Federal Acquisition Regulations (“FAR”), 48 C.F.R. §§ 1 et seq., and also with ED’s Acquisition 
+Regulations, 48 C.F.R. §§ 3400 et seq. Id. ¶ 47. Within ED’s FSA, the Debt Collection Service 
+
+1 Although several Defendants request an oral hearing, the allowance of such hearings is 
+“within the discretion of the Court.” LCvR 7(f). Because the parties’ written briefings are 
+sufficient to resolve the instant motions, the Court declines to conduct oral hearings. 
+2 At the motion to dismiss stage, the Court views the evidence in the light most favorable 
+to Plaintiff. See United States v. Philip Morris Inc., 116 F. Supp. 2d 131, 135 (D.D.C. 2000) 
+(“At the motion to dismiss stage, the only relevant factual allegations are the plaintiffs’, and they 
+must be presumed to be true.”). 
+(“DCS”) manages “collection activities, including PCA contractors.” Id. ¶ 49. DCS is located in 
+Washington, D.C. Id. Its Contract Services Branch, which “monitors the performance of the 
+PCA contractors,” is based in Atlanta, Georgia. Id. DCS contracts are issued via task orders, 
+which serve as “ED’s contract under the umbrella of the” General Services Administration’s 
+schedule contract, which permits “ED and other federal agencies . . . [to] place orders.” Id. ¶ 50. 
+These contractual task orders “contain terms, conditions and work requirements, which are 
+defined in a Statement of Work.” Id. Potential contractors submit proposals in response to ED 
+solicitations. See id. ¶¶ 50–52 (discussing process by which “[o]ffers leading to contract 
+awards” are evaluated). ED’s contracting officers evaluate proposals based on factors that 
+include past performance, small business participation, and pricing by “two separate panels: 
+small business and unrestricted.” Id. ¶ 51. 
+Once task orders are awarded, because ED PCA contracts are “performance based and 
+highly competitive,” they are subject to a rigorous “measurement and reward system designed to 
+align” ED and PCA interests. Id. ¶ 53. The metric applied is the Competitive Performance and 
+Continuous Surveillance (“CPCS”) rankings. Id. CPSC scores matter to government contractors 
+because the long-term scores “are used to determine past performance and award extensions,” 
+and the scores are also used to assess a particular PCA’s performance relative to other PCAs and 
+thereby allocate quarterly bonuses. Id. ¶¶ 54, 56. The CPCS score is measured out of 100 
+points, with 10 points allocated based on administrative resolutions, 20 points allocated based on 
+total accounts serviced, and 70 points allocated based on dollars collected. Id. In addition, 
+because the Small Business Act “encourages prime contractors to award subcontracts to small 
+companies,” certain ED PCA task orders—like the ones at issue in this suit—contain incentives 
+for prime contractors to subcontract a percentage of their work to small business concerns. Id. ¶ 
+7. These incentives can take the form of additional points added to the prime contractor’s CPCS 
+ranking. Id. ¶ 55. 
+Additionally, in furtherance of the government’s efforts to help “ensure the continued 
+vitality of small businesses,” id. ¶ 2, ED offers small businesses the opportunity to either 
+subcontract with existing ED PCA contractors or to contract directly via small business set aside 
+contracts, id. ¶ 57. Where subcontracting occurs, the subcontractor serves as a “vendor to ED 
+PCA prime contractors to work on core collection services.” Id. 
+On May 29, 2008, ED issued the PCA solicitation on which this case is based: 
+Solicitation No. ED-08-R-0052. Id. ¶ 52. Interested companies submitted proposals by June 26, 
+2008. Id. A total of twenty-two PCAs received ED contracts (e.g., task orders). Id. Of the 
+PCAs receiving such task orders, seventeen were “unrestricted” in size, and five were small, or 
+“set-aside” PCAs, id., reflecting the government’s efforts to provide “set-aside contracts . . . 
+exclusively for small businesses to bid on,” id. ¶ 2.3 While the task orders were active, ED 
+provided incentives for prime contractors to subcontract “no less than 10% of their work to small 
+business concerns” by adding a five-point bonus to the CPCS score of any such PCA. Id. ¶ 55. 
+“The first transfer of accounts under this contract occurred in the first quarter of 2009,” id. ¶ 52, 
+and the task orders pertaining to unrestricted PCAs concluded in late April 2015, id. ¶ 60. On an 
+unspecified date, five PCAs received a two-year extension of the original task order, including, 
+as relevant here, Defendant Continental Service Group. Id. 
+Before the conclusion of the contracts that were issued in 2009, ED solicited and awarded 
+additional task orders. First, in July 2013, seeking to develop “task orders replacing both those 
+awarded in 2009,” ED published Solicitation No. ED-FSA-13-R-0010. Id. ¶ 61. This 
+
+3 Relator does not specify which of the PCA contractors received which form of task 
+order resulting from the 2008 ED solicitation. 
+procurement was cancelled in 2018, “in part because [ED] had learned of” the “widespread small 
+business fraud” alleged in this lawsuit. Id. ¶ 62. Separately, ED awarded new debt-collection 
+task orders set aside specifically for small businesses in September 2014. Id. ¶ 59. Defendant 
+“Co-Conspirator” Bass & Associates, P.C. was awarded one of these 2014 task orders. Id. 
+Before describing the Defendants’ identities in more detail, the Court will briefly summarize the 
+relevant principles of federal small business contracting that underpin Relator’s contentions. 
+b. Small Business Act and Federal Contracting 
+The Small Business Act (“SBA”) aims to provide small companies with “‘the maximum 
+practicable opportunity to participate in the performance’ of federal contracts.” Id. ¶ 63 (quoting 
+15 U.S.C. § 637(d)(1)). To ensure compliance with this objective, the SBA requires that—unless 
+otherwise specified—language concerning the federal government’s goal be included in every 
+federal prime contract. Id. ¶ 64. Each federal prime contract must also include the following 
+clause: “[t]he contractor hereby agrees to carry out this policy in the awarding of subcontracts to 
+the fullest extent consistent with the efficient performance of this contract.” Id. (quoting 15 
+U.S.C. § 637(d)(3)). 
+Furthermore, to be eligible to receive a contract, each federal prime contractor who meets 
+a threshold dollar amount must submit additional materials to the government. Id. ¶ 69 (citing 
+15 U.S.C. § 637(d)(4)(C); 49 C.F.R. § 19.702). Such prime contractors must submit a 
+subcontracting plan to the relevant contracting agency that (1) states the prime contractor’s 
+“percentage goals for the utilization” of small businesses, id. ¶ 65 (quoting 15 U.S.C. § 
+637(d)(4), (d)(6)), and (2) states “the total dollars planned to be subcontracted and a statement of 
+the total dollars planned to be subcontracted to” small businesses and other disadvantaged 
+businesses, id. ¶ 66 (quoting 49 C.F.R. § 19.704(a)(2)). A subcontracting plan by a prime 
+contractor whose bid is accepted is “included in and made a material part of the contract.” Id. ¶ 
+71 (quoting 15 U.S.C. § 637(d)(4)(B) (emphasis removed)). Controlling federal regulations also 
+require the federal prime contractor to submit semi-annual reports that detail each of its 
+subcontracts with small businesses and “the extent of its compliance with its small business 
+subcontracting plan.” Id. ¶ 68 (citing 49 C.F.R. § 52.219-9). The “failure of any contractor or 
+subcontractor to comply in good faith with,” inter alia, “any plan required of such contractor 
+pursuant to the authority of [15 U.S.C. § 637],” such as the previously-described subcontracting 
+plan, is “a material breach of such contract or subcontract and may be considered in any past 
+performance evaluation of the contractor.” 15 U.S.C. § 637(d)(9); see also Am. Compl. ¶ 81 
+(citing 15 U.S.C. § 637(d)(9); 48 C.F.R. § 52.219-9(k)). 
+For purposes of assessing eligibility for government contracts, the size of a business is 
+determined by federal regulation. See 13 C.F.R. § 121.101 (defining SBA size standards that 
+determine “whether a business entity is small and thus, eligible for Government programs and 
+preferences reserved for ‘small business’ concerns”). The North American Industry 
+Classification System (“NAICS”) defines the relevant size standards by industry. Id. For federal 
+government contracting programs, “a concern must not exceed the size standard for the NAICS 
+code specified in the solicitation.” Id. § 121.402; see also Am. Compl. ¶ 83 (citing 13 C.F.R. §§ 
+121.401–413). To determine the size of a concern, “SBA counts the receipts, employees, or 
+other measure of size of the concern whose size is at issue,” as well as those of any of its 
+affiliates. 13 C.F.R. § 121.103(a)(6); see also Am. Compl. ¶ 84 (citing 13 C.F.R. § 
+121103(a)(6)). 
+In this case, the industry that applies to ED’s PCAs task orders is “debt collection 
+services,” which is classified as NAICS code 561440. Am. Compl. ¶ 85. From the time of the 
+initial ED task order awarded in early 2009, id. ¶ 52, until January 7, 2013, a concern could 
+qualify as a small business entity pursuant to this code if its average annual receipts totaled no 
+more than $7 million over the most recent three-year period, id. ¶ 85. From January 7, 2013 to 
+July 2014, the operative size standard for NAICS code 561440 increased to $14 million, and on 
+July 14, 2014, it increased to $15 million. Id. An individual business is deemed affiliated with 
+another entity for these size calculations “when one controls or has the power to control the 
+other, or a third party or parties controls or has the power to control both.” 13 C.F.R. § 121.103; 
+Am. Compl. ¶ 89 (citing 13 C.F.R. § 121.103(a); U.S. Small Bus. Admin., A Handbook for Small 
+Business Liaison Officers (“SBLO Handbook”) 16 (2010), 
+https://www.sba.gov/sites/default/files/articles/Small_Business_Liaison_Officer_(SBLO)_Handb
+ook_6_2010.pdf).4 There is no firm rule to make such an affiliation determination; rather, it is 
+based on the SBA’s consideration of “the totality of the circumstances,” including “factors such 
+as ownership, management, previous relationships with or ties to another concern, and 
+contractual relationships.” 13 C.F.R. § 121.103(a)(2), (a)(5); see also Am. Compl. ¶ 92 
+(discussing applicable regulations). 
+The question of affiliation is at the heart of Relator’s allegations in the instant suit. 
+Affiliation determinations affect a business’s size, and determinations concerning the size of a 
+business affect eligibility for particular contracting and/or subcontracting opportunities. See 13 
+C.F.R. § 121.402; Am. Compl. ¶ 86. Thus, to state what is perhaps obvious, determining 
+whether a business is small requires consideration of any affiliation. Here, Relator’s allegations 
+of fraud hinge on the contention that several ED PCA prime contractors and their associated 
+subcontractors concealed the fact that the purportedly small business subcontractors were 
+
+4 Relator also cites to 49 C.F.R. § 19.101; however, because Title 49 refers to 
+transportation and because it contains no Section 19, the Court omits this citation. 
+affiliated with “co-conspirator” larger businesses, “making them ineligible to be claimed as small 
+businesses by the prime contractors on the ED PCA task orders.” Am. Compl. ¶ 9. To 
+contextualize the details of Relator’s factual allegations and associated claims for relief, the 
+Court next describes the parties and the relationship among them. 
+2. The Parties 
+a. Relator 
+Relator PCA Integrity is a general partnership registered in Delaware. Id. ¶ 26. This 
+entity is “not distinct from its [three] partners,” who have “personal knowledge of the false 
+claims, statements, and concealments” alleged. Id. ¶ 27. Relator identifies itself as “participants 
+in the PCA initiative working for certain PCAs,” which provided Relator with “direct knowledge 
+of the conduct alleged” that it also built up through an “independent investigation to uncover 
+false claims submitted to the United States.” Id. ¶ 29. Accordingly, PCA Integrity avers that it 
+is an original source of non-publicly disclosed information underpinning the claims, which it 
+voluntarily provided to the government before filing a complaint in this suit. Id. ¶¶ 28–29. 
+b. Defendants 
+PCA Integrity brings claims against three clusters of Defendants, with each group 
+consisting of a prime contractor, a subcontractor, and an allegedly affiliated “co-conspirator” 
+business.”5 Id. ¶ 9. 
+More specifically, the operative amended complaint lodges allegations against the 
+following groups of Defendants:6 
+
+5 In clustering Defendants in this manner, the Court follows Relator’s lead in its pleading, 
+see Am. Compl. ¶ 9 (describing “three distinct groups” of Defendants), and in the styling of its 
+oppositions to Defendants’ motions to dismiss, see ECF Nos. 95, 96, 97 (grouping oppositions to 
+Defendants’ arguments into three clusters). See also Part. Mot. Leave to File Omnibus Briefs in 
+Opposition 1, ECF No. 94 (identifying “three groups of Defendants” consisting of a prime 
+contractor, a subcontractor, and an allegedly affiliated business for each group). 
+ Group 1 Group 2 Group 3 
+Prime Contractor 
+Continental 
+Service Group, 
+Inc., d/b/a 
+ConServe 
+(“ConServe”) 
+Pioneer Credit 
+Recovery, Inc. 
+(“Pioneer”) 
+Alorica, Inc. (“Alorica”) / 
+Global Receivables 
+Solutions, Inc. (“GRSI”), 
+f/k/a West Asset 
+Management, Inc. 
+(“WAM”)7 
+Subcontractor 
+Protocol Financial 
+Service, LLC 
+(“Protocol”) 
+Edgewater Consulting 
+Group, LLC, d/b/a 
+Edgewater Financial 
+Services (“Edgewater”) 
+Uniquity Financial, LLC 
+(“Uniquity”) 
+Allegedly 
+Affiliated 
+Business 
+State Collection 
+Services, Inc. 
+(“State”) 
+Bass & Associates, P.C. 
+(“Bass”) 
+Professional Recovery 
+Consultants, Inc. (“PRC”) 
+In Group 1, ConServe, a collection and accounts receivable management services 
+provider that is headquartered in New York, was the prime contractor with ED. Id. ¶ 30–31. 
+ConServe “specializes in the higher education market.” Id. ¶ 30. The subcontractor defendant in 
+this cluster is Protocol, a Wisconsin-based debt collection firm that was incorporated in 2009 and 
+“identifies itself as a 100% woman-owned business located in a [traditionally economically 
+
+ 6 Relator’s amended complaint removed several Defendants and added two new 
+allegedly-affiliated businesses, Professional Recovery, Inc. and State Collection Service, Inc., as 
+Defendants. Compare Compl. 1–2, ECF No. 1, with Am. Compl. 1–2. The Court considers only 
+the facts and allegations presented in the amended complaint. See Pinson v. U.S. Dep’t of 
+Justice, 69 F. Supp. 3d 108, 113 (D.D.C. 2014) (citing Owens v. Republic of Sudan, 412 F. Supp. 
+2d 99, 117 (D.D.C .2006), aff’d and remanded on other grounds, 531 F.3d 884 (D.C. Cir. 2008); 
+6 Charles A. Wright, Arthur R. Miller & Mary Kane, Federal Practice and Procedure § 1476 
+(3d ed.) (“Once an amended pleading is interposed, the original pleading no longer performs any 
+function in the case.”). 
+7 The original prime contractor for this group was WAM, which was at the time a 
+division of West Corporation. Am. Compl. ¶¶ 32–33. Alorica acquired West Corporation’s 
+“agent services business, including [WAM],” in January 2015, id. ¶ 32, and WAM was 
+subsequently rebranded as GRSI, id. ¶ 35. The Court discusses Relator and Alorica/GRSI’s joint 
+motion to dismiss claims against Defendant West Corporation, ECF No. 77, infra Part IV.A. For 
+expositional clarity, the Court refers to WAM in discussing the factual allegations that involve 
+this prime contractor, since WAM was the operative entity at the time of the events alleged. 
+disadvantaged] HUBZone.”8 Id. ¶ 37. The Chief Executive Officer (“CEO”) of Protocol is Tina 
+Hanson, and its President is Tracy Dudek, “both of whom hold key management positions with 
+Defendant State.” Id. The allegedly affiliated business, State, is a debt collection firm that is 
+headquartered in Wisconsin. Id. ¶ 40. State is run by Tom Haag, Tina Hanson’s “longtime 
+domestic partner.” Id. 
+In Group 2, Pioneer, a debt collection firm with offices in Florida, New Jersey, and New 
+York and headquarters in New York, was the prime contractor with ED. Id. ¶ 36. The 
+subcontractor defendant in this cluster is Edgewater, a debt collection services provider that 
+operates out of two branches in Washington State (incorporated 2010) and Arizona (incorporated 
+2011). Id. ¶ 39. The allegedly affiliated business, Bass, is a “woman-owned bankruptcy and 
+collections firm” headquartered in Arizona. Id. ¶ 42. Patricia Hoskins Bass founded Bass in 
+1990 and serves as its President and CEO. Id. The Bass and Edgewater headquarters are located 
+next door to one another in Tucson, Arizona. Id. ¶ 270. 
+In Group 3, WAM is an accounts-receivable management services provider that “has 
+provided collection services for the recovery of government and higher education debt for over a 
+decade.” Id. ¶ 33. The parent corporation of this entity at the time of the original ED contract 
+was West Corporation, which is headquartered in Nebraska. Id. ¶ 32. The subcontractor 
+defendant in this cluster is Uniquity, a debt collection firm created in 2011 that is headquartered 
+in Texas and has offices in North Carolina. Id. ¶ 38. Uniquity is led by its President, Jamie 
+Michael Cameron, and Geoffrey Miller and Stephen Miller are “Members.” Id. The allegedly 
+affiliated business, PRC, “provides debt collection and recovery services” to multiple sectors, 
+
+8 The HUBZone program was created by the Small Business Act of 1997 to set aside 
+contracts for small businesses located in areas that have traditionally “suffered from a lack of 
+investment.” Am. Compl. ¶¶ 102–104 (quoting S. Rep. No. 105-62, at 25 (1997)) (citing 13 
+C.F.R. § 126.200). 
+including the government. Id. ¶ 41. PRC was founded in 1979 by CEO Stephen Miller, and his 
+son Geoffrey Miller is its President. Id. PRC is headquartered in North Carolina at the same 
+address, 2700 Meridian Parkway, Suite 200, that houses one of Uniquity’s offices. Id. ¶¶ 38, 41. 
+In addition to these named Defendants, Relator’s amended complaint also brings claims 
+against “John Does #1-50,” a group that consists of “individuals, corporations, limited liability 
+companies, partnerships, trusts, or other lawful business entities through which Defendants do 
+business, and who are unknown co-conspirators who conspired with Defendants to perpetuate 
+the” alleged scheme, id. ¶ 43, and thereby cause the United States to suffer “financial harm,” id. 
+¶ 45. No further details are provided concerning the John Doe Defendants. 
+3. Relator’s Allegations 
+As its grouping of Defendants suggests, Relator’s factual allegations involve actions 
+taken by three distinct clusters of prime contractors, subcontractors, and allegedly associated 
+businesses. The basic form of the scheme is the same, in broad strokes, across each of the 
+categories (prime contractors, subcontractors, and allegedly associated businesses), though the 
+precise means by which Relator alleges it occurred is unique to each Defendant. Thus, the Court 
+will discuss Relator’s factual allegations concerning each of these categories before detailing the 
+specific factual allegations concerning each individual Defendant. 
+a. Factual Allegations Regarding Categories of Defendants 
+First, Relator alleges that each of the prime contractors—ConServe, WAM, and 
+Pioneer—“defrauded the government by falsely claiming credit for awarding millions of dollars 
+in subcontracts to businesses that were, in fact, other than small.” Id. ¶ 10. This scheme 
+benefited these prime contractors because submission of “false certifications to the government” 
+permitted each prime contractor to receive a higher CPCS score. Id. As a result, the 
+government: 
+was induced to (1) believe that the Prime Contractor Defendants were in 
+compliance with their small business subcontracting plans; (2) award subsequent 
+task order extensions, invitations to compete on a now-outstanding ED 
+solicitation for the same services, and, in the case of ConServe, an additional two-
+year award extension; (3) pay Prime Contractor Defendants millions of dollars in 
+contractually-mandated monetary bonuses; and (4) provide those Defendants with 
+additional business volume, resulting in higher revenues and profits. 
+Id. ¶ 11. 
+In furtherance of this scheme, Defendants “made numerous material false statements and 
+certifications” to the government. Id. ¶ 13. For one, the required subcontracting plans 
+that the prime contractors each submitted to ED “falsely represented that they intended to 
+comply in good faith with their Subcontracting Plans.” Id. In addition, these prime 
+contractor defendants submitted “monthly invoice reports . . . for work allegedly 
+performed by small businesses” as well as “mandatory reports to the Government 
+regarding their utilization of small businesses in their subcontracts.” Id. 
+ Second, Relator alleges that each of the subcontractor defendants—Protocol, 
+Edgewater, and Uniquity—falsely represented themselves to the government by claiming 
+eligibility for “awards on small business subcontracts when they were, in fact, ineligible 
+because each named Prime Contractor Defendant and/or Co-Conspirator Defendant was 
+‘affiliated’ with each of their respective Subcontractor Defendants under SBA rules and 
+regulations.” Id. ¶ 14. Each subcontractor defendant’s self-certification that it was a 
+small business led the United States to pay the associated prime contractor defendant, 
+“which then subcontracted work and diverted compensation” to the subcontractor 
+defendant. Id. 
+ Finally, Relator alleges that each of the “co-conspirator” defendants—State, Bass, 
+and PRC—“were affiliated with their respective Subcontractor Defendants.” Id. ¶ 16. 
+Because these entities were affiliated, the subcontractor defendants were “ineligible small 
+businesses for purposes of the special subcontracting preferences under the ED PCA task 
+orders.” Id. 
+ At bottom, then, all of the alleged fraud across the three categories of Defendants 
+hinges on the factual allegation of undisclosed affiliation and associated submission of 
+false claims and / or misrepresentations concerning business size. The Court next 
+summarizes Relator’s factual allegations concerning each of the Defendants, beginning 
+with the prime contractor defendant in the first group, then discussing the other entities in 
+that group, and then repeating this pattern for the second and third groups. 
+b. Factual Allegations Regarding Defendants 
+i. Group 1: ConServe, Protocol, and State 
+On an unspecified date, prime contractor defendant ConServe received the GSA contract 
+that “led to the award of the ED PCA task order.” Id. ¶ 132. ConServe was “required to 
+establish and implement a small business subcontracting plan,” which it “committed to 
+implementing” in good faith. Id.; see also id. ¶ 134. This plan, which “represented that a portion 
+of the work it subcontracted would go to small businesses,” id. ¶ 134, was “incorporated into the 
+ED PCA task order by reference and made a material part of the contract,” id. ¶ 132. Thereafter, 
+with an awareness of ED’s CPCS incentives for small business contracting, ConServe awarded a 
+subcontract to Protocol under the ED PCA task order. Id. ¶ 133. Protocol filed annual self-
+certifications with the SBA indicating its status as a small business, with the most recent self-
+certification made in 2014. Id. ¶¶ 186–87. 
+Protocol shares both location and personnel with State. The two businesses have the 
+same address, id. ¶ 140, and the point of contact for Protocol’s online certification in a 
+government database, SAM.gov, is the executive administrator at State, id. ¶ 141. Protocol’s 
+upper-level management, moreover, consists of several individuals who are also involved with 
+State. Id. ¶¶ 138–39. “For example, Tina Hanson is the Co-Owner and CEO of Protocol, while 
+also serving as Executive [Vice President (“VP”)] and Chief Strategy Officer for State. 
+Meanwhile, Tracy Dudek serves as the Co-Owner and President of Protocol, while 
+simultaneously working as the VP of Operations at State.” Id. ¶ 138. Ms. Hanson “frequently 
+holds herself out as a representative for State” in industry events and meetings, “going even so 
+far as handing out business cards” that list her “senior management position at State. Id. ¶ 139; 
+see also id. ¶ 146 (noting Ms. Hanson’s nomination for an award and relating her conversation 
+with State colleagues discussing why “she should accept the award as a Protocol employee”). 
+Upper-level Protocol management also exchanged emails using their State email addresses. Id. 
+¶¶ 163; 171–72. The two companies share more personal connections, as well: State’s CEO, Mr. 
+Haag, is the domestic partner of Protocol’s CEO and Co-Owner, Ms. Hanson. Id. ¶ 142. The 
+overlap among employees also includes other, non-managerial staff. See id. ¶¶ 153–55 
+(discussing the movement of employees from State to Protocol and the sharing of employees 
+across the two entities); id. ¶ 156 (May 14, 2013 email chain discussing sharing of employees 
+and what Protocol “had done in the past for others for Hubzone purposes”). 
+Furthermore, Protocol and State’s finances and communications indicate a connection 
+between the entities. First, “since Protocol was formed, State has managed all of Protocol’s 
+financial operations, including accounting and payroll.” Id. ¶ 147. Second, Protocol was able to 
+rely on State’s financial support as a safety net, as when, for instance, Mr. Haag lent Ms. Hanson 
+and Ms. Dudek the capital they required to form Protocol at a low interest rate and “was prepared 
+to forgive this loan entirely if Protocol had been unsuccessful.” Id. ¶ 148. This assistance 
+extended to resource-sharing: “[a]t least until May 2012, Protocol did not have” any utility bill 
+“in its own name and had not established its own relationships with vendors,” instead relying on 
+State for its infrastructure. Id. ¶¶ 158–159; id. ¶ 159 (documenting Protocol expense report 
+consisting of State form on which name was crossed out and replaced with Protocol’s name); id. 
+¶ 170 (documenting email notifying Ms. Hanson and Ms. Dudek that they would have pictures 
+taken for both entities’ websites on the same day and recommending that they bring two outfits). 
+Third, State provided Protocol with “cash infusion[s],” as evidenced by a March 3, 2010, email 
+requesting $25,000 to cover the cost of payroll. Id. ¶ 149. Finally, “Protocol hid its operating 
+expenses on State’s accounts,” as indicated in an April 27, 2009, email in which Ms. Hanson 
+informed Ms. Dudek that she should book trips taken on behalf of Protocol “under State.” Id. ¶ 
+151. These financial interactions led Ms. Hanson to express concern, in a December 16, 2010, 
+email, that the Wisconsin Department of Financial Institutions would not relicense Protocol 
+given “[t]he way financials look today.” Id. ¶ 152. 
+Protocol’s co-founders also discussed how to respond to government inquiries concerning 
+the two entities. In 2013, when Ms. Hanson and Ms. Dudek pursued HUBZone certification (as 
+a small business operating in a traditionally disadvantaged area), the SBA “flagged State and 
+Protocol as potentially affiliated (and thus ineligible for HUBZone certification).” Id. ¶ 166. In 
+a July 10, 2013 email chain, the two women discussed how to indicate to the SBA that “there is 
+no affiliation” when “the owners of a HUBZone business have paid w2 positions at a different 
+company.” Id. Protocol ultimately withdrew its application for HubZone certification. Id. ¶ 
+168. Subsequently, State and Protocol “reached a consensus to withhold” their managerial 
+agreement in response to a 2015 inquiry from a field auditor with the Wisconsin Department of 
+Workforce Development. Id. ¶ 169. 
+During this time, ConServe’s interactions with the companies indicate an awareness of 
+the close relationship between them. “From the time of Protocol’s inception,” Chris Lang, the 
+Vice President for Contract Administration at ConServe, “provided advice to State and 
+Protocol’s officers concerning the bare minimum of separation needed to maintain the 
+appearance of independence.” Id. ¶ 175. For instance, Mr. Lang advised Ms. Dudek in an 
+October 19, 2009, email that the use of State emails for Protocol business made some individuals 
+at ConServe “uneasy.” Id. ¶ 176. Nonetheless, the shared use of emails continued, id. ¶ 177, and 
+Mr. Lang emailed Ms. Dudek (who held positions at both companies) at both addresses on 
+August 18, 2011, to inquire about Protocol’s registration as a small business on the GSA website 
+ccr.gov, id. ¶ 179. Mr. Lang also corresponded with Ms. Dudek regarding Protocol: his May 10, 
+2012, email with Ms. Dudek concerning Protocol’s HUBZone certification revealed to him 
+Protocol’s plans to consider “all addresses” for employees in “the Beloit [HUBZone] from our 
+friends at State to see if anyone can transfer over and do some work for Protocol.” Id. ¶ 182. 
+Previously, on December 19, 2011, ConServe leadership had emailed Ms. Dudek to ask about 
+State’s new operations program. Id. ¶ 180. Moreover, breaking from what Mr. Lang represents 
+as ConServe’s “policy of reviewing audited financial statements from its subcontractors . . . [to] 
+ensure size and ownership,” ConServe never insisted on audited financial statements from 
+Protocol. Id. ¶ 181. 
+ii. Group 2: Pioneer, Edgewater, and Bass 
+Prime contractor Pioneer engaged in a substantially similar pattern of conduct, albeit with 
+distinct details, with subcontractor Edgewater and allegedly affiliated company Bass. At an 
+unspecified date, Pioneer was awarded the ED PCA task order and submitted a small business 
+subcontracting plan. Id. ¶ 237. This subcontracting plan “represented that a portion of the work” 
+that Pioneer “subcontracted would go to small businesses” and was incorporated into the task 
+order by reference, becoming a material part of the contract, id. ¶¶ 237–38. Pioneer then 
+“awarded Edgewater a subcontract under the ED PCA task order, effectively replacing” Bass “as 
+Pioneer’s sole subcontractor.” Id. ¶ 241; see also id. ¶ 246 (noting that Bass had served as a 
+small business subcontractor to Pioneer prior to the ED PCA task orders). Subcontractor 
+Edgewater has represented itself as a small business through its self-certifications “[a]t all times 
+material” to the instant allegations. Id. ¶ 242. Edgewater’s most recent self-certification, which 
+attests to its small business status, was made in 2014. Id. ¶ 282. It has also “self-certified to the 
+Government that, since at least 2009, its average annual receipts over the prior three years have 
+been less than the prior $7 million [NAICS] threshold (in effect from 2007 through January 6, 
+2013), the prior $14 million threshold (from January 7, 2013 through July 13, 2014), or the 
+current $15 million threshold.” Id. ¶ 242. 
+Initially, before Pioneer subcontracted with Edgewater, Pioneer and Bass made overtures 
+to continue their past contracting with respect to the ED contract. On January 16, 2009, Bass and 
+Pioneer “held a Kick-off Meeting” at which Patti Bass, her brother, Rob Hoskins, and 
+Aleksandra Radmanovic represented Bass; at this meeting, Pioneer was represented by 
+Collections Director Bryan Wiler as well as numerous other employees. Id. ¶ 248. On 
+November 6, 2009, Mr. Hoskins sent an email confirming a November 11–12, 2009, meeting 
+that would “focus on measuring performance on the ED subcontract between Pioneer and Bass.” 
+Id. ¶ 250. Between November 2009 and March 2010, however, both Pioneer and Bass 
+“acknowledged that Bass was no longer going to qualify as an eligible small business for 
+purposes of subcontracting under the ED PCA task order.” Id. ¶ 251. Ms. Bass’s own actions 
+with regard to a different subcontract confirm this conclusion: on April 12, 2010, she completed 
+a self-certification indicating that Bass “has average annual revenues for the past three years that 
+exceeded $7 million”—making Bass ineligible as a small business for debt collection services 
+under the relevant NAICS code. Id. ¶ 252. Less than ten days later, Pioneer’s Collection 
+Director, Mr. Wiler, emailed Ms. Bass stating that, due to Bass’s status as a large business, 
+Pioneer “had not ‘been able to identify a benefit to [it]’ in extending the subcontract” with Bass. 
+Id. ¶ 253. Mr. Wiler proceeded to ask which Bass employees would become Edgewater 
+employees. Id. ¶ 254. 
+Edgewater was then formally created. On April 23, 2010, Ms. Bass and Bass itself 
+“signed a Purchase and Sale Agreement with her brother, Mr. Hoskins, and Edgewater to sell the 
+‘Business Opportunity’ of subcontracting with Pioneer under the ED PCA task order” at a 
+purchase price of $1 million. Id. ¶ 255. That same day, Edgewater received a $1 million loan 
+from Bass. Id. Four years after this loan, Mr. Hoskins and Edgewater had not repaid it, and Ms. 
+Bass agreed to continued forbearance for $50,000 and the “promise of continued payments in the 
+future.” Id. ¶ 269. Pioneer was “fully aware” of this sale because Mr. Wiler had been 
+“coordinating the transition for the ED subcontract” since April 15, 2010. Id. ¶ 255. He did so 
+with the assistance of a Bass employee, to whom he explained that “[a]ll that will need to change 
+on the letters [to be sent to debtors as part of the ED collection efforts] is the name of the 
+company.” Id. ¶¶ 257–58. 
+Bass and Edgewater also share both a physical location and employees. First, 
+Edgewater’s principal place of business is located next door to Bass, in a building owned by Ms. 
+Bass since June 2010. Id. ¶ 270. In the fall of 2010, Ms. Bass signed building permit 
+applications for construction at this same address, listing office space for Bass as the stated use 
+of the property. Id. 
+Second, key personnel at Bass were “substantial[ly] involve[d]” with Edgewater, with 
+Pioneer’s knowledge. Id. ¶ 260. Ms. Radmonovic, who had participated in the original Pioneer-
+Bass kick-off meeting, held a senior managerial role at Edgewater “since at least 2010” and, until 
+2014, she simultaneously served as Strategic Planning and Client Services Executive at Bass. Id. 
+¶ 261. At industry trade shows and on her LinkedIn profile, she indicates overlapping 
+employment. See id. (noting Bass affiliation at industry trade shows and ED PCA meetings in 
+2012 and 2013); id. ¶ 262 (reproducing LinkedIn profile that describes roles at Edgewater from 
+2010 to 2015 and roles at Bass from 2003 to 2015). In addition to Ms. Radmonovic, Mr. 
+Hoskins was affiliated with both companies and repeatedly discussed Edgewater business on his 
+Bass email account. Id. ¶¶ 263–67. In one such email on May 22, 2014, Mr. Hoskins indicated 
+to a Pioneer employee that he and Ms. Bass had engaged in conversations about “loaning” 
+collectors from Bass to Edgewater. Id. ¶ 266. In other communications with Mr. Wiler of 
+Pioneer, Mr. Hoskins forwarded ED’s feedback on Bass’s July 2015 quality control plan, and 
+Mr. Wiler responded by stating that Pioneer handled its oversight with Edgewater by ensuring 
+“compliance in the same exact fashion as if the work was being done by one of our own teams.” 
+Id. ¶ 267. Pioneer not only supported Edgewater in its words, but also more materially: “[o]ther 
+than the revenues received from Pioneer under the task order, Edgewater does not generate 
+much, if any, revenue.” Id. ¶ 274. 
+iii. Group 3: WAM, Uniquity, and PRC 
+Prime contractor WAM’s involvement with subcontractor Uniquity and allegedly 
+affiliated company PRC represents another iteration of this basic scheme.9 As a condition of 
+receiving the contract that led to the award of ED PCA task order, WAM submitted a small 
+business subcontracting plan that became a material part of its contract with the government. Id. 
+¶¶ 195– 97. WAM then awarded Uniquity a subcontract under the ED PCA task order. Id. ¶ 
+199. Uniquity’s most recent annual self-certification affirming its small business status was 
+made in 2013. Id. ¶ 230. 
+There are several connections between Uniquity and PRC. 10 Uniquity was created in 
+2011 by the shareholders of PRC “to assist lenders in the collection of student debt.” Id. ¶ 204. 
+
+9 Relator’s factual allegations at times refer to WAM as the prime contractor for this 
+group of Defendants, see, e.g., Am. Compl. ¶ 10 (discussing “prime contractor[s] . . . Global 
+Receivables Solutions, Inc. f/k/a West Asset Management, Inc.”), and at times refer to “Prime 
+Contractor Defendant West Corporation,” see, e.g., id. ¶ 195. Relator’s opposition states that the 
+“Amended Complaint exclusively references West Corporation in the factual allegations for the 
+sake of convenience.” Opp’n to Defs. Alorica/GRSI’s, Uniquity’s, and PRC’s Mot. Dismiss 34 
+n.11, ECF No. 97. As noted previously, West Corporation was the parent company of WAM 
+until 2015, when Alorica acquired West and WAM was rebranded as GRSI. Adding to this 
+confusion, in their reply brief, Defendants collectively refer to Alorica and GRSI as the “WAM 
+Defendants.” Alorica/GRSI Reply Supporting Mot. Dismiss (“Alorica/GRSI Reply”) 1, ECF 
+No. 104. Based on the relationship among the entities articulated in the amended complaint, the 
+Court construes WAM as the operative prime contractor during the time of the allegations. For 
+expositional clarity, the Court uses the term “WAM” only in discussing the factual allegations 
+against the prime contractor associated with this group of Defendants. The Court further 
+discusses these issues in addressing the parties’ joint motion to dismiss Defendant West. See 
+infra Part IV.A. 
+10 Relator’s factual allegations concerning Uniquity also include a number of statements 
+that Uniquity fraudulently mispresented its woman-owned small business (“WOSB”) status. See 
+Am. Compl. ¶¶ 208–212. Even granting Relator’s complaint the generous read it is due at this 
+stage of litigation, the Court cannot discern a connection between WOSB status and the alleged 
+false claims—based on misrepresentations concerning business size —that Relator contests in this 
+suit. See id. ¶¶ 229–36 (discussing how Uniquity, PRC, and West “[s]ubmitted or [c]aused the 
+[s]ubmission of [f]alse [c]laims to the United States Government” through its 
+“misrepresentations concerning Uniquity’s small business status”). Thus, the Court omits this 
+set of factual allegations. 
+These PRC shareholders “maintain a 48% equity interest” in Uniquity. Id. PRC has provided 
+support to Uniquity by “fund[ing] significant organizational and start-up costs” and providing 
+employees to “carr[y] out . . . [Uniquity’s] accounting and other administrative functions.” Id. 
+Due to PRC’s financial investments in PRC, PRC’s accountants have concluded that Uniquity “is 
+a variable interest entity” of PRC, a designation that requires Uniquity’s activities “to be 
+consolidated in the analysis of PRC’s financial statements.” Id. ¶ 205. Moreover, the two 
+companies have reported the same operating office address in Durham, North Carolina, and 
+Uniquity additionally lists the residence of PRC’s CEO as a business address. Id. ¶ 206. 
+Uniquity’s email correspondence and business interactions with WAM involved PRC on 
+several occasions. On June 21, 2011, Uniquity President Jamie Cameron introduced his 
+“business partner,” PRC President and Uniquity Member Geoff Miller, to individuals at WAM, 
+id. ¶ 215. On July 19, 2011, WAM requested additional financial information about Uniquity. 
+Id. ¶ 216. In response, Mr. Cameron suggested that WAM “could simply rely on the financial 
+information of the better-established PRC.” Id. A year and a half later, when WAM incurred 
+skip tracing expenses for which Uniquity was responsible, PRC remitted the funds to WAM. Id. 
+¶ 219. Additionally, when PRC’s comptroller emailed a WAM employee to request “a copy of 
+our 1099,” WAM’s employee began helping PRC to locate Uniquity’s 1099. Id. ¶¶ 220–21 
+(emphasis removed),11 suggesting a working familiarity with both entities’ business operations. 
+See id. ¶ 220. 
+
+ 11 In addition to these factual allegations concerning the relationship between PRC and 
+Uniquity and WAM’s knowledge of this relationship, Relators contend that Uniquity and WAM 
+are affiliated through economic dependence. Am. Compl. ¶¶ 223–28. As Uniquity argues in its 
+reply brief, Relator’s opposition “did not oppose, and therefore concedes, Uniquity’s argument 
+that it could not have been affiliated with [WAM] by ‘economic dependence.’” Def. Uniquity’s 
+Reply Supporting Mot. Dismiss 4, ECF No. 109; see also Alorica/GRSI Reply 3 (“The 
+Opposition abandons half of the alleged grounds for finding affiliation—and the entire basis for 
+B. Procedural History 
+Relator initially filed this lawsuit on May 20, 2015. See Compl. The Government 
+declined to intervene on October 1, 2018. See U.S.’s Notice of Election to Decline Intervention, 
+ECF No. 31. The original complaint was then unsealed, see Oct. 9, 2018 Order, ECF No. 32, and 
+summonses were issued for Defendants Bass, ConServe, Edgewater, Pioneer, Protocol, Uniquity, 
+and West on February 2, 2019, see ECF No. 36. Relator filed an amended complaint on March 
+28, 2019, lodging claims against the same seven Defendants and adding Defendants Alorica, 
+State, and PRC. Am Compl. The amended complaint stated that Relator “voluntarily provided 
+the Government with the information upon which the allegations” in it “are based prior to the 
+filing of the Original Complaint in accordance with 31 U.S.C. § 3730(b)(2),” id. ¶ 28, the qui 
+tam provision of the False Claims Act. 
+This amended complaint includes four counts. Count I alleges that “Defendants 
+knowingly submitted, or caused to be submitted, false claims for payment to the United States, in 
+violation of 31 U.S.C. § 3729(a)(1)(A).” Id. ¶ 326. Count II alleges that Defendants “knowingly 
+used false records or statements to get false or fraudulent claims paid or approved by the United 
+States, in violation of the FCA, 31 U.S.C. § 3729(a)(1)(B). Id. ¶ 331. Count III alleges that 
+“Defendants knowingly conspired, and may still be conspiring, with the various entities and/or 
+persons alleged herein (as well as other unnamed co-conspirators) to commit acts in violation of 
+31 U.S.C. §§ 3729(a)(1) & a(2); 31 U.S.C. §§ 3729(a)(1)(A) & (a)(1)(b).” Id. ¶ 334. Finally, 
+
+asserting a Uniquity-WAM affiliation—by completely failing to address the lack of an 
+“economic dependence” (thus conceding this argument)). Under this Circuit’s clear precedent, 
+“if a party files an opposition to a motion and therein addresses only some of the movant’s 
+arguments, the court may treat the unaddressed arguments as conceded.” Texas v. U.S., 798 F.3d 
+1108, 1110 (D.C. Cir. 2015); see also De La Fuente v. DNC Servs. Corp., No. 18-cv- 336 (RC), 
+2019 WL 1778948, at *4 (D.D.C. Apr. 23, 2019). Because the Court treats these arguments as 
+conceded, it does not relate the underlying factual allegations. 
+Count IV alleges that “Defendants knowingly avoided or decreased their obligation to pay or 
+transmit money to the government,” thereby violating 31 U.S.C. § 3729(a)(1)(G). Id. ¶ 337. 
+Summonses were issued for the Defendants referenced in the amended complaint on April 1, 
+2019. See ECF No. 57. 
+The parties then filed multiple motions. Relator and Defendants Alorica and GRSI 
+jointly moved to dismiss the claims against Defendant West, asking the Court to grant a 
+dismissal agreement wherein Alorica/GRSI agreed to assume any liabilities arising as to 
+Defendant West due to the alleged conduct of WAM. See ECF No. 77. Each of the Defendants 
+also moved to dismiss Relator’s amended complaint. See Def. PRC’s Mot. Dismiss (“PRC 
+Mot.”), ECF No. 79, Def. Protocol’s Mot. Dismiss (“Protocol Mot.”), ECF No. 81, Def. Bass’s 
+Mot. Dismiss (“Bass Mot.”), ECF No. 85, Def. Alorica/GRSI’s Mot. Dismiss (“Alorica/GRSI 
+Mot.”), ECF No. 86, Def. Edgewater’s Mot. Dismiss (“Edgewater Mot.”), ECF No. 87, Def. 
+Pioneer’s Mot. Dismiss, ECF No. 88, Def. ConServe’s Mot. Dismiss (“ConServe Mot.”), ECF 
+No. 92, and Def. State’s Mot Dismiss (“State’s Mot.”), ECF No. 93. In addition, Defendant 
+ConServe moved for judicial notice, ECF No. 92, followed by Relator’s own motion for judicial 
+notice, ECF No. 98. These motions have been briefed and are ripe for the Court’s consideration. 
+III. LEGAL STANDARD 
+A. Federal Rule of Civil Procedure 12(b)(6) 
+The Federal Rules of Civil Procedure require that a complaint contain “a short and plain 
+statement of the claim” in order to give the defendant fair notice of the claim and the grounds 
+upon which it rests. Fed. R. Civ. P. 8(a)(2); accord Erickson v. Pardus, 551 U.S. 89, 93 (2007) 
+(per curiam). A motion to dismiss under Rule 12(b)(6) “tests the legal sufficiency of a 
+complaint” under that standard and asks whether the plaintiff has properly stated a claim. 
+Browning v. Clinton, 292 F.3d 235, 242 (D.C. Cir. 2002). A court considering such a motion 
+takes the complaint’s factual allegations to be true and construes them liberally in the plaintiff’s 
+favor. See, e.g., United States v. Philip Morris, Inc., 116 F. Supp. 2d 131, 135 (D.D.C. 2000). 
+Nevertheless, “[t]o survive a motion to dismiss, a complaint must contain sufficient 
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft 
+v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 
+(2007)). This means that a plaintiff’s factual allegations “must be enough to raise a right to relief 
+above the speculative level, on the assumption that all the allegations in the complaint are true 
+(even if doubtful in fact).” Twombly, 550 U.S. at 555–56 (citations omitted). “Threadbare 
+recitals of the elements of a cause of action, supported by mere conclusory statements,” are thus 
+insufficient to withstand a motion to dismiss. Iqbal, 556 U.S. at 678. A court need not accept a 
+plaintiff’s legal conclusions as true, see id., nor must a court presume the veracity of legal 
+conclusions that are couched as factual allegations. See Twombly, 550 U.S. at 555. 
+B. Federal Rule of Civil Procedure 9(b) and the FCA 
+For FCA fraud actions, a heightened pleading standard applies. See United States ex rel. 
+Totten v. Bombardier Corp. (Totten I), 286 F.3d 542, 551 (D.C. Cir. 2002) (“[B]ecause the False 
+Claims Act is self-evidently an anti-fraud statute, complaints brought under it must comply with 
+Rule 9(b).”). In such a suit, it is not enough to comply with Rule 12(b)(6); rather, FCA 
+“plaintiffs must plead their claims with plausibility and particularity under Federal Rules of Civil 
+Procedure 8 and 9(b) by, for instance, pleading facts to support allegations of materiality.” 
+Universal Health Servs., Inc. v. United States (Universal Health Services), 136 S. Ct. 1989, 2004 
+n.6 (2016); see also Fed. R. Civ. P. 9(b) (requiring a party “alleging fraud or mistake” to “state 
+with particularity the circumstances constituting fraud or mistake”). That said, “[m]alice, intent, 
+knowledge, and other conditions of a person’s mind may be alleged generally.” Fed. R. Civ. P. 
+9(b). Thus, “‘[i]n an FCA fraud action, Rule 9(b) requires, at a minimum, that the pleader state 
+the time, place and content of the false misrepresentations, the fact misrepresented and what was 
+retained or given up as a consequence of the fraud’ and ‘individuals allegedly involved in the 
+fraud.’” Pencheng Si v. Laogai Research Foundation (Si II), 71 F. Supp. 3d 73, 85 (D.D.C. 
+2014) (quoting Williams v. Martin-Baker Aircraft Co., Ltd., 389 F.3d 1251, 1256 (D.C. Cir. 
+2004)); see also United States ex rel. Landis v. Tailwind Sports Corp. (Landis), 51 F. Supp. 3d 9, 
+49 (D.D.C. 2014), on reconsideration in part, 160 F. Supp. 3d 253 (D.D.C. 2016), and clarified 
+on denial of reconsideration, No. 1:10-CV-00976 (CRC), 2016 WL 3197550 (D.D.C. June 8, 
+2016) (discussing pleading standard and quoting Williams, 389 F.3d at 1256); Totten I, 286 F.3d 
+at 551 (quoting 5 Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 
+1297 (2d ed. 1990)). Put slightly differently, “the plaintiff must provide the ‘who,’ ‘what,’ 
+‘when,’ and ‘where’ with respect to the circumstances of the fraud.” United States v. Comstor 
+Corp. (Comstor), 308 F. Supp. 3d 56, 68 (D.D.C. 2018) (quoting United States ex rel. Heath v. 
+AT & T, Inc. (Heath), 791 F.3d 112, 124 (D.C. Cir. 2015)). “This requirement of particularity 
+‘serve[s] to discourage[] the initiation of suits brought solely for their nuisance value, . . . 
+safeguards potential defendants from frivolous accusations of moral turpitude,’” Heath, 791 F.3d 
+at 123 (internal quotation marks omitted) (quoting Williams, 389 F.3d at 1256), and “ensure[s] 
+that defendants have adequate notice of the charges against them to prepare a defense,” Si II, 71 
+F. Supp. 3d at 85 (quoting United States ex. rel. McCready v. Columbia/HCA Healthcare Corp., 
+251 F. Supp. 2d 114, 116 (D.D.C. 2003)). 
+C. Claims Brought under the FCA 
+The FCA’s qui tam provision, 31 U.S.C. § 3730(b)(1), permits private parties termed 
+“relators,” to sue on behalf of the government in order to redress false or fraudulent claims made 
+to the government. See Williams, 389 F.3d at 1254. However, in such a qui tam suit, conditions 
+apply in the form of the FCA’s public disclosure bar: “seeking to prevent suits ‘by those other 
+than an original source when the government already has enough information to investigate the 
+case’ or where ‘the information could at least have alerted law-enforcement authorities to the 
+likelihood of wrongdoing,’ the FCA’s public disclosure bar blocks qui tam suits that are ‘based 
+upon the public disclosure of allegations or transactions.’” United States ex rel. Doe v. Staples, 
+Inc. (Staples), 773 F.3d 83, 86 (D.C. Cir. 2014) (internal quotation marks omitted) (first quoting 
+United States ex rel. Davis v. District of Columbia, 679 F.3d 832, 836 (D.C. Cir. 2012), then 
+quoting 31 U.S.C. § 3730(e)(4)(A) (1986)); see also 31 U.S.C. § 3730(e)(4)(A). 
+This Circuit set forth the relevant analysis to determine whether there has been a public 
+disclosure in United States ex rel. Springfield Terminal Railway v. Quinn (Springfield Terminal), 
+14 F.3d 645 (D.C. Cir. 1994). Springfield Terminal provides a formula to solve the public 
+disclosure question: “if X + Y = Z, Z represents the allegation of fraud and X and Y represent its 
+essential elements. In order to disclose the fraudulent transaction publicly, the combination of X 
+and Y must be revealed, from which readers or listeners may infer Z, i.e., the conclusion that 
+fraud has been committed.” Id. at 654 (emphasis in original). Thus, “a qui tam action cannot be 
+sustained where both elements of the fraudulent transaction—X and Y—are already public, even 
+if the relator ‘comes forward with additional evidence incriminating the defendant.’” Staples, 
+773 F.3d at 86 (quoting Springfield Terminal, 14 F.3d at 655). 
+An exception to the public disclosure bar applies if the relator is an “original source” of 
+the information. “Original source” is defined by the statute as a person who either (1) “has 
+voluntarily disclosed to the Government the information on which allegations or transactions in a 
+claim are based,” prior to a “public disclosure” as defined by the statute, or (2) “has knowledge 
+that is independent of and materially adds to the publicly disclosed allegations or transactions, 
+and who has voluntarily provided the information to the Government before filing an action” 
+under the FCA’s qui tam provision. 31 U.S.C. § 3730(e)(4)(B). 
+In this case, Relator claims original source status and brings four FCA claims.12 The 
+Court will next outline the operative legal standard for each of Relator’s claims in the instant suit 
+before turning to its analysis of Defendants’ motions to dismiss. 
+1. Presentment and False Statement Actions 
+The FCA, as amended, creates civil liability for “any person who . . . knowingly presents, 
+or causes to be presented, a false or fraudulent claim for payment or approval,” 31 U.S.C. § 
+3729(a)(1)(A), or “knowingly makes, uses, or causes to be made or used, a false record or 
+statement material to a false or fraudulent claim,” id. § 3729(a)(1)(B). These two clauses are 
+known as the “presentment clause” and the “false statement clause,” respectively. FERA’s 2009 
+amendments broaden the reach of both clauses. First, the changes to the presentment clause 
+“removed language requiring that the claim be presented to an officer or employee of the 
+government or armed forces.” Comstor, 308 F. Supp. 3d at 78 (citing FERA § 4(a)). Second, 
+
+12 Technically speaking, Relator’s amended complaint can be read as bringing eight 
+claims. On May 20, 2009, Congress amended the FCA by enacting the Fraud Enforcement and 
+Recovery Act of 2009 (“FERA”), Pub. L. No. 111-21, 123 stat. 1617. Relator suggests that the 
+claims may implicate both the pre- and post-amendment versions of the statute. See Am. Compl. 
+84 n.8 (“To the extent wrongdoing occurred prior to May 20, 2009, this Amended Complaint 
+should be deemed to include violations of the Federal False Claims Act prior to its recent 
+amendments, e.g., 31 U.S.C. § 3729(a)(1) (2006).”); id. at 85–86 nn.9–12 (same). The Court 
+thus discusses both versions of the statute, highlighting relevant differences as applicable. 
+the amended false statement clause “replaced the language of ‘false record or statement to get a 
+false or fraudulent claim paid or approved by the government’ with ‘statement material to a false 
+or fraudulent claim.’” Id. (quoting FERA § 4(a)). The amended presentment clause applies to 
+conduct occurring on or after May 20, 2009. FERA § 4(f). The amended false statement clause 
+applies retroactively to “all claims under the False Claims Act . . . that are pending on or after” 
+June 8, 2008. Id. at § 4(f)(1). 
+The presentment and false statement clauses are “complementary,” having been 
+“designed to prevent those who make false records or statements to get claims paid or approved 
+from escaping liability solely on the ground that they did not themselves present a claim for 
+payment or approval.” United States ex rel. Totten v. Bombardier Corp. (Totten II), 380 F.3d 
+488, 501 (D.C. Cir. 2004) (emphasis in original). The elements of these claims are that: “(1) the 
+defendant submitted or caused to be submitted a claim to the government, (2) the claim was 
+false, and (3) the defendant knew the claim was false.” United States ex rel. Tran v. Computer 
+Scis. Corp. (Tran), 53 F. Supp. 3d 104, 121–22 (D.D.C. 2014) (citation and alteration omitted). 
+ A false claim can take several forms. “In the case of the ‘paradigmatic . . . factually false 
+claim,’ a claimant ‘submits information that is untrue on its face.’” United States ex rel. Morsell 
+v. Symantec Corp. (Morsell), 130 F. Supp. 3d 106, 118–19 (D.D.C. 2015) (quoting Kellogg 
+Brown & Root Servs., 800 F. Supp. 2d 143, 154 (D.D.C. 2011)); see also United States v. 
+Science Applications Int’l Corp. (SAIC), 626 F.3d 1257, 1266 (D.C. Cir. 2010). This Circuit also 
+accepts two additional theories of legal “falsity” that are relevant in this case: fraudulent 
+inducement and implied certification. See United States ex rel. Bettis v. Odebrecht Contractors 
+of Cal., Inc., 393 F.3d 1321, 1326–27 (D.C. Cir. 2005) (addressing “fraud-in-inducement theory 
+of liability under the FCA”); SAIC, 626 F.3d at 1266 (discussing Circuit’s endorsement of 
+implied certification theory as basis for FCA claims); see also Tran, 53 F. Supp. 3d at 117 
+(discussing potential bases for liability under the FCA); U.S. ex rel. Head v. Kane Co., 798 F. 
+Supp. 2d 186, 195–96 (D.D.C. 2011) (noting that FCA claims take several forms, including 
+fraudulent inducement and implied false certification, and citing Bettis, 393 F.3d at 1326; SAIC, 
+626 F.3d at 1266). The fraudulent inducement theory imposes liability “for each claim submitted 
+to the Government under a contract which was procured by fraud, even in the absence of 
+evidence that the claims were fraudulent in themselves.” Tran, 53 F. Supp. 3d 104, 117 (quoting 
+Bettis, 393 F.3d at 1326 (citing S. Rep. No. 99–345, at 9 (1986), reprinted in 1986 U.S.C.C.A.N. 
+5266, 5274)). 
+Alternatively, under the implied certification theory of liability, “the falsity of a claim for 
+payment rests on a false representation of compliance with an applicable federal statute, federal 
+regulation, or contractual term.” Comstor, 308 F.Supp. 3d at 79 (quoting United States ex rel. 
+McBride v. Halliburton Co. (McBride), 848 F.3d 1027, 1031 (D.C. Cir. 2017)); see also SAIC, 
+626 F.3d at 1266. “[U]nder the implied certification theory, a party can incur liability for 
+making claims under a contract while ‘withh[olding] information about its noncompliance with 
+material contractual requirements.’” Morsell, 130 F. Supp. 3d at 119 (quoting SAIC, 626 F. 3d at 
+1269). However, “in order to establish liability[,] the plaintiff must prove that ‘compliance with 
+the legal requirement in question is material to the government’s decision to pay.’” McBride, 
+848 F.3d at 1031 (emphasis in original) (quoting SAIC, 626 F.3d at 1271). This Circuit has 
+“committed to ‘enforcing this [materiality] requirement rigorously’ to ‘ensure that government 
+contractors will not face onerous and unforeseen FCA liability as the result of noncompliance 
+with any of potentially hundreds of legal requirements established by contract.’” Id. (quoting 
+SAIC, 626 F.3d at 1271). The Supreme Court has, furthermore, underscored the need for courts 
+to be rigorous in their examination of implied certification theories and engage in “strict 
+enforcement of the Act’s materiality requirements.” Universal Health Services, 136 S. Ct. at 
+2002 (quoting SAIC, 626 F.3d at 1270). The same “strict enforcement” applies to the FCA’s 
+scienter, or knowledge, requirements. Id. “The requisite knowledge has two dimensions: The 
+plaintiff must show that the defendant “knows (1) that it violated a contractual obligation, and (2) 
+that its compliance with that obligation was material to the government’s decision to pay.” 
+Morsell, 130 F. Supp. 3d at 119–20 (quoting SAIC, 626 F.3d at 1271) (citing Heath, 791 F.3d at 
+125). 
+2. “Reverse” False Claim Actions 
+Relator also brings claims pursuant to the so-called “reverse” false claims clause of the 
+FCA, which addresses “any fraudulent conduct that ‘results in no payment to the government 
+when a payment is obligated.’” Si II, 71 F. Supp. 3d at 88 (citation omitted). This clause applies 
+to any person who “knowingly conceals or knowingly and improperly avoids or decreases an 
+obligation to pay or transmit money or property to the Government.” 31 U.S.C. § 3729(a)(1)(G). 
+The pre-FERA version of this clause imposed civil liability on any person who “knowingly 
+makes, uses, or causes to be made or used, a false record or statement to conceal, avoid, or 
+decrease an obligation to pay or transmit money or property to the Government.’” 31 U.S.C. § 
+3729(a)(7) (2006). The amended version of this clause is broader than the pre-FERA version of 
+the statute in two important ways. First, FERA “expanded the type of conduct underlying a 
+reverse false claim action to include presentment (i.e., making a claim-related submission) as 
+well as a material false statement, thereby mirroring sections 3729(a)(1)(A) and 3729(a)(1)(B).” 
+Si II, 71 F. Supp. 3d at 88–89 (citing S. Rep. No. 111–10, at 13–15 (2009)). “Second, it 
+broadened the relevant payment ‘obligation.’ . . . Whereas the pre-FERA version of the FCA did 
+not contain any definition of obligation,” id., FERA defines obligation as “an established duty, 
+whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-
+licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from 
+the retention of any overpayment,” 31 U.S.C. § 3729(b)(3). 
+3. Conspiracy Actions 
+Additionally, the FCA provides for civil liability for any person who “conspires to 
+commit a violation of” any of the above-described provisions. 31 U.S.C. § 3729(a)(1)(C). The 
+elements of this cause of action are: “(1) that ‘an agreement existed to have false or fraudulent 
+claims allowed or paid’ to the government, (2) that each alleged member of the conspiracy 
+‘joined that agreement,’ and (3) that ‘one or more conspirators knowingly committed one or 
+more overt acts in furtherance of the object of the conspiracy.’” Si II, 71 F. Supp. 3d at 89 
+(quoting United States ex rel. Miller v. Bill Harbert Int’l Constr., Inc., 608 F.3d 871, 899 (D.C. 
+Cir. 2010)). “General civil conspiracy principles apply to FCA conspiracy claims.” Kane, 798 
+F. Supp. 2d at 201 (quoting United States ex rel. Westrick v. Second Chance Body Armor, Inc. 
+(Westrick), 685 F. Supp. 2d 129, 140 (D.D.C. 2010)). Thus, for instance, there must be “some 
+underlying tortious act” for there to be a conspiracy. Halberstam v. Welch, 705 F.2d 472, 479 
+(D.C. Cir. 1983). In the FCA context, then, “there can be no liability for conspiracy where there 
+is no underlying violation of the FCA.” Si II, 71 F. Supp. 3d at 89 (citing United States ex rel. 
+Amin v. George Washington Univ. (Amin), 26 F. Supp. 2d 162, 165 (D.D.C. 1998)). 
+IV. ANALYSIS 
+Before turning to Defendant’s motions to dismiss, the Court will address two threshold 
+issues: first, the parties’ joint motion to dismiss Defendant West Corporation, and second, 
+Defendant Alorica’s and Defendant GRSI’s arguments concerning parent company liability. 
+A. Joint Motion to Dismiss Defendant West Corporation 
+As mentioned previously, the parties have jointly moved to dismiss with prejudice 
+Relator’s claims against Defendant West Corporation, the parent company to prime contractor 
+West Asset Management at the time of the original task order. See Joint Mot. Dismiss Claims 
+Against West Corp (“Joint Mot.”), ECF No. 77. The parties state that, pursuant to the 2015 
+Asset Contribution and Equity Purchase Agreement (“Purchase Agreement”) entered into by 
+Alorica and West, Alorica “assumed all liabilities of West related to WAM, including any 
+damages, penalties, or other relief, by way of judgment or settlement, that might arise with 
+respect to Relator’s claims against West” in this lawsuit;” “purchased and acquired all equity and 
+interests in WAM from West and later renamed it GRSI;” and “agreed to also assume any 
+liabilities, including any damages, penalties, or other relief, by way of judgment or settlement, 
+that might arise as to West based on the allegations set forth in the First Amended Complaint.” 
+Dismissal Agreement 1–2, ECF No. 77-1. The parties executed their dismissal agreement on 
+May 14, 2019. Id. at 5. The agreement provided that the parties would confer with the U.S. 
+government within ten days of execution, and the parties state that Relator has in fact conferred 
+with government counsel, “who has represented that the United States does not oppose such 
+dismissal.” Joint Mot. 1. This uncontested submission establishes that the United States, on 
+behalf of which Relators bring the instant suit, has consented to this dismissal. Thus, the Court 
+grants the motion to dismiss the claims against Defendant West with prejudice with respect to 
+Relator and without prejudice with respect to the U.S. government. 
+B. Defendant Alorica/GRSI Parent Company Liability 
+Defendant Alorica/GRSI raises a further argument related to this corporate restructuring, 
+contending that Relator has not provided any basis to assert liability against WAM’s parent 
+company (formerly West and now Alorica). Alorica/GRSI Mem. P. &. A. Supporting Mot. 
+Dismiss (“Alorica/GRSI Mem.”) 42, ECF No. 86. More specifically, Alorica/GRSI argues that 
+Relator has provided no factual allegations that suggest either (1) that the parent company was 
+directly involved with the subsidiary company or (2) that the parent company was an “alter ego” 
+of the subsidiary company. Id. at 42–43 (quoting United States ex rel. Hockett v. Columbia/HCA 
+Healthcare Corp. (Hockett), 498 F. Supp. 2d 25, 59–60 (D.D.C. 2007)).13 Relator’s opposition 
+does not provide factual allegations to rebut this argument. Instead, PCA Integrity asserts that 
+“the practice of courts in this Circuit is to order discovery to illuminate alter ego disputes before 
+deciding dispositive motions which assert lack of jurisdiction over the alleged alter ego.” 
+Relator’s Brief in Opp’n to Alorica/GRSI’s, Uniquity’s, and PRC’s Motions to Dismiss (“Opp’n 
+to Alorica/GRSI, Uniquity, and PRC”) 33, ECF No. 97 (citing Richard v. Bell Atl. Corp., 946 F. 
+Supp. 54, 64 (D.D.C. 1996); United Mine Workers of Am. Int’l Union v. Arch Mineral Corp., 
+145 F.R.D. 3, 6–7 (D.D.C. 1992); Labadie Coal Co. v. Black, 672 F.2d 92, 98 (D.C. Cir. 1982)). 
+For the following reasons, Defendants have the better argument. 
+The problem for Relator is the failure to present any facts at all that suggest either the 
+parent company’s direct role or that the parent company dominated the actions of the subsidiary 
+company. A court can “pierce the [corporate] veil” and hold a parent company liable for the 
+
+13 In addition, Alorica/GRSI suggests that the complaint’s use of the name “West 
+Corporation,” abbreviated to “West,” to refer to the prime contractor in this cluster represents a 
+“failure to clearly identify the entities it is alleging to have committed the fraud.” Alorica/GRSI 
+Mem. 42 & n.16. On Relator’s account, there is no such descriptive failure; rather, “the 
+Amended Complaint exclusively references West Corporation in the factual allegations for the 
+sake of convenience.” Opp’n to Alorica/GRSI, Uniquity, and PRC 34 n.11. Although the Court 
+agrees with Defendants that the initial references to “West” as the prime contractor are less 
+precise than ideal, when the amended complaint is parsed in context, Relator has the better 
+argument. On the Court’s read of the pleadings, construing all ambiguities in favor of the 
+pleader, it is apparent that Relator intends to reference WAM as the prime contractor and uses 
+“West” as shorthand. 
+actions of a subsidiary only where the parent ‘so dominated the subsidiary corporation as to 
+negate its separate personality.’” Hockett, 498 F. Supp. 2d at 60 (quoting AGS Int’l Servs. S.A. v. 
+Newmont USA Ltd., 346 F. Supp. 2d 64, 89 (D.D.C. 2004) (internal punctuation and quotation 
+omitted)); cf. Miller, 608 F.3d at 897 (“Under the alter ego theory, the court may ignore the 
+existence of the corporate form whenever an individual so dominates an organization as in reality 
+to negate its separate personality.” (quoting Founding Church of Scientology of Wash., D. C., 
+Inc. v. Webster, 802 F.2d 1448, 1452 (D.C. Cir. 1986) (internal quotation marks omitted))). The 
+Circuit has set out “several factors” that are “helpful in deciding when to pierce the corporate 
+veil,” grouping them “under a two-prong test: (1) is there such unity of interest and ownership 
+that the separate personalities of the corporation and the individual no longer exist?; and (2) if 
+the acts are treated as those of the corporation alone, will an inequitable result follow?” Labadie 
+Coal, 672 F.2d at 96 (footnote omitted). 
+Under the first prong, a court considers “the degree to which formalities have been 
+followed to maintain a separate corporate identity.” Id. “To justify piercing the corporate veil 
+between a parent and a subsidiary, the parent’s control of the subsidiary must be ‘active and 
+substantial, but it need not be exclusive in a hypertechnical or day-to-day sense.’” IMark Mktg. 
+Servs., LLC v. Geoplast S.p.A., 753 F. Supp. 2d 141, 150–51 (D.D.C. 2010) (quoting Material 
+Supply Int’l, Inc. v. Sunmatch Indus. Co., 62 F. Supp. 2d 13, 20 (D.D.C. 1999); see also Valley 
+Fin., Inc. v. United States, 629 F.2d 162, 172 (D.C. Cir. 1980). Although there is no “rigid 
+standard of what constitutes ‘active and substantial’ control,” courts in this Circuit are “to 
+consider the following factors: (1) the nature of the corporate ownership and control; (2) failure 
+to maintain corporate minutes or adequate records; (3) failure to maintain the corporate 
+formalities; (4) a commingling of funds and other assets; (5) diversion of corporate funds or 
+assets to other uses; and (6) use of the same office or business location.” IMark Mktg. Servs., 
+753 F. Supp. 2d at 150–51 (first quoting Material Supply Int’l, 62 F. Supp. 2d at 20, then citing 
+Labadie Coal, 672 F.2d at 97–99); see also United States v. Dynamic Visions, Inc., 220 F. Supp. 
+3d 16, 25 (D.D.C. 2016). 
+Under the second prong, a court considers “the basic issue of fairness under the facts.” 
+Labadie Coal, 672 F.2d at 96 (footnote omitted). This “practical” analysis is “based largely on a 
+reading of the particular factual circumstances,” with the “ultimate determination . . . dependent 
+upon the sound discretion of the trial judge.” Valley Fin., 629 F.2d at 172. In conducting this 
+analysis, a trial court “should consider the entire picture of the relationship between the two 
+corporations, including the many factors listed in the formalities prong of the test.” Shapiro, 
+Lifschitz & Schram, P.C. v. Hazard (Hazard), 90 F. Supp. 2d 15, 26 (D.D.C. 2000) (quoting 
+Labadie Coal, 672 F.2d at 99); see also IMark Mktg. Servs., 753 F. Supp. 2d at 152 
+(quoting Hazard, 90 F. Supp. 2d at 26). 
+Here, Relator’s argument fails at the first prong because PCA Integrity never presents any 
+factual allegations that would allow the Court to conclude that the parent company (formerly 
+West Corporation, now Alorica) exercised “active and substantial” control over the subsidiary 
+(formerly WAM, now GRSI).14 Instead, Relator appears to assert that this issue is a “factual 
+dispute that is ill-suited to resolution on a motion to dismiss.” Opp’n to Alorica/GRSI, Uniquity, 
+and PRC 33. But the two cited district court cases, standing alone, do not establish that it is “the 
+practice of courts in this Circuit” to order discovery when faced with similar facts.15 Id. Nor 
+
+14 If anything, the complaint’s factual allegations, which indicate that the two entities had 
+different business addresses and managers, cut the other way. See Am. Compl. ¶¶ 32–35. 
+15 In any event, this persuasive authority is not very persuasive here. In United Mine 
+Workers, the motion to dismiss was predicated “largely” on the assertion that the court lacked 
+personal jurisdiction over the parent company with respect to contracts entered into by 
+does the Court find support for such a routine practice in the Circuit’s decision to vacate a 
+decision and order discovery in Labadie Coal after conducting a detailed analysis of whether 
+“formalities ha[d] been followed to maintain a separate corporate identity.” 672 F.2d at 96, 97–
+99 (assessing formalities). At the end of the day, then, Relator neither offers any binding 
+precedent nor any further argumentation beyond the bare statement that it “has pled sufficient 
+facts under either a direct or derivative theory of liability under which West and/or Alorica could 
+be found liable.” Opp’n to Alorica/GRSI, Uniquity, and PRC 34. This bald assertion is no more 
+than a legal conclusion without factual support, however, and cannot survive the motion to 
+dismiss.16 See Twombly, 550 U.S. at 555. 
+C. Presentment and False Statement Claims 
+Turning now to the merits of Defendants’ motions to dismiss, Defendants argue, inter 
+alia, that the presentment and false statement claims that form Count I and Count II, 
+respectively, of the amended complaint, see Am. Compl. ¶¶ 324–32, do not plausibly establish a 
+claim for relief with the particularity demanded by Rule 9(b)’s heightened pleading standard.17 
+
+subsidiaries, such that the court needed to “decide questions of corporate structure that 
+implicate[d] the merits of the underlying [contract] claims.” 145 F.R.D. at 6–7. In this suit, the 
+merits of the underlying FCA claims are independent of the question of parent company liability. 
+In Richard v. Bell Atlantic Corporation, the court ordered discovery based upon its appraisal of 
+38 exhibits submitted by the Plaintiffs, some of which “suggest[ed] that it would not be proper . . 
+. to conclude that as a matter of undisputed material fact [the parent corporation] is not the 
+plaintiffs’ employer.” 946 F. Supp. at 64 (internal quotation marks omitted). In this suit, Relator 
+has submitted no exhibits or any other evidence (or even allegations) in support of its argument. 
+16 Should Relator file an amended complaint, it may add factual allegations that specify 
+(1) in what ways, if any, the parent company directly participated in the alleged activities of the 
+prime contractor subsidiary and/or (2) how the parent company otherwise dominated the 
+subsidiary company in a way that supports piercing the corporate veil between the two entities. 
+17 Because, as discussed previously, “presentment claims under § 3729(a)(1)(A) and false 
+statement claims under § 3729(a)(1)(B) follow ‘essentially the same legal analysis,’” the Court 
+considers these claims jointly. United States ex rel. Hutchins v. DynCorp Int’l, Inc. (Hutchins), 
+342 F. Supp. 3d 32, 48 (D.D.C. 2018) (quoting Tran, 53 F. Supp. 3d at 123). 
+Defendants also contend that Relator has failed to articulate, with the particularity required, the 
+materiality of any alleged false claim. For the forthcoming reasons, the Court agrees with 
+Defendants on both of these points and grants the motions to dismiss these claims. 
+1. Lack of Particularity in Pleading Basic Facts18 
+A common thread throughout Defendants’ briefings is the contention that Relator did not 
+make sufficiently specific allegations concerning any individual Defendant’s presentation of 
+false claims to the government. Put simply, the argument is that Relator failed to allege the who, 
+what, where, and when of the fraud in the manner that Rule 9(b) demands. See Def. ConServe’s 
+Mem. P. & A. Supporting Mot. Dismiss (“ConServe Mem.”) 19, 30–33, ECF No. 91-1 (arguing 
+that “Relator fails to allege the who, what, where, and when of an actual false claim for payment 
+to the government.” (emphasis removed)); Protocol Mem. 1, 10–17 (detailing how “[t] he AC 
+fails to describe the content, dates, and other particularized information for critical claims”); Def. 
+State’s Mem. P. & A. Supporting Mot. Dismiss (“State Mem.”) 17–20, ECF No. 93-1 
+
+Even so, the Court recognizes that one core distinction between these claims involves 
+what suffices to make the required showing of scienter to establish liability under 31 U.S.C. § 
+3729(a)(1)(B). The legal standard turns on which version of the FCA—pre -or post-FERA—
+applies. See Comstor, 308 F. Supp. 3d at 91 (FERA ‘amend[ed] the FCA to clarify and correct 
+erroneous interpretations of the law’ decided in Allison Engine [Co., Inc. v. United States ex rel. 
+Sanders, 553 U.S. 662 (2008)], including by eliminating the false statement provision’s intent 
+requirement.”). As the Court explains below, a major deficiency in the amended complaint is the 
+failure to state with particularity the timing of critical factual allegations that pertain to each 
+specific Defendant. The intervening changes in controlling statutes make this omission even 
+more problematic, as Defendant Protocol rightly notes. Def. Protocol’s Mem. P. & A. 
+Supporting Mot. Dismiss (“Protocol Mem.”) 11, ECF No. 81-1 (“The absence of times figure 
+more prominently in this case due to relevant shifts in the governing law.”). Thus, until Relator 
+clarifies the relevant timeline, permitting the Court to draw firmer conclusions concerning what 
+governing law to apply to the pending claims, the Court reserves judgment concerning scienter. 
+18 In the forthcoming analysis, the Court at times uses one Defendant to illustrate a 
+particular point. However, unless otherwise indicated, such discussion of a Defendant by way of 
+example does not mean that the issue is not equally applicable to all other similarly-positioned 
+Defendants (e.g., where the Court discusses Edgewater to highlight a point regarding the 
+subcontractor defendants, unless otherwise specified, a version of the issues identified also 
+applies to the other subcontractor defendants). 
+(describing how “Relator has failed to plead the ‘who, what, where, and when’ specifics of its 
+FCA claims and has not specified which Counts apply to which defendants”); Def. Pioneer’s 
+Mot. Dismiss (“Pioneer Mot.”) 31, ECF No. 88 (“[R]elator has not alleged facts identifying a 
+single false claim, false invoice, or false account; the date on which any false claim was 
+submitted to the U.S. government; or who submitted such a claim.”); Edgewater Mot. 8–9 
+(contesting Relator’s failure to establish “who, what, when, where, and how” “as it relates to 
+Edgewater”); Bass Mot. 6 (alleging same lack of specificity regarding Bass); Alorica/GRSI 
+Mem. 15–22 (“Throughout the Complaint, rather than plead particularized facts . . . Relator 
+makes general and conclusory assertions without identifying with specificity any false claims by 
+a WAM Defendant, any false record or statement submitted to the Government and attributable 
+to a WAM Defendant, or the actual operation of any fraudulent ‘scheme.’”); Def. Uniquity’s 
+Reply to Relator’s Opp’n Mot. Dismiss (“Uniquity Reply”) 1–2, ECF No. 109 (“Relator has 
+utterly failed to plead any facts regarding any supposed false representation made by Uniquity to 
+the ED.”); PRC Mot. 3 (attacking lack of specific examples in support of Relator’s “generic 
+position”).19 
+Though styled as three separate oppositions to the three groups of Defendants, Relator’s 
+rebuttal comes down to essentially the same core arguments. First, clarifying that it is pursuing 
+both fraudulent inducement and false certification theories, PCA Integrity alleges that each of the 
+three prime contractors “fraudulently induced the government to enter the initial collection 
+contracts by falsely claiming that they would comply with their subcontracting plans.” Relator’s 
+Brief in Opp’n to ConServe’s, Protocol’s[,] and State’s Motions to Dismiss (“Opp’n to 
+
+19 Defendants Alorica/GRSI and Pioneer, respectively, submitted their memoranda along 
+with an unpaginated motion to dismiss as part of the same filing. See ECF Nos. 86, 88. The 
+Court refers to the original page numbers of these documents. 
+ConServe, Protocol, and State”) 26, ECF No. 95; Relator’s Brief in Opp’n to Pioneer’s, 
+Edgewater’s, and Bass’s Mot. Dismiss (“Opp’n to Pioneer, Edgewater, and Bass”) 27, ECF No. 
+96; Opp’n to Alorica/GRSI, Uniquity, and PRC 15.20 Relator contends that, at this stage of 
+litigation, it does not need to “allege the existence of a request for payment with particularity,” 
+Opp’n to ConServe, Protocol, and State 28 (quoting United States ex rel. Folliard v. CDW Tech. 
+Servs., Inc. (Folliard), 722 F. Supp. 2d 20, 26–27 (D.D.C. 2010)), or to “plead the contents of 
+any particular claim for payment,” Opp’n to Pioneer, Edgewater, and Bass 28; Opp’n to 
+Alorica/GRSI, Uniquity, and PRC 16. With respect to Defendant ConServe, Relator further 
+asserts that it has indicated the timing of the alleged fraudulent inducement by stating that “the 
+PCAs submitted proposals by June 26, 2008, and ED ultimately contracted with 22 PCAs, 
+including ConServe, in the first quarter of 2009.” Opp’n to ConServe, Protocol, and State 27. 
+These same fraudulent representations, Relator appears to suggest, amount to implied false 
+certification each time that any of the Defendants “made, or caused to be made, false statements 
+regarding the Prime Contractor defendants’ compliance with these subcontracting plans.” Id. at 
+27–28. 
+In addition, with respect to Defendants Pioneer and WAM, Relator argues that it has 
+provided sufficient factual allegations to establish that each “defendant fraudulently induced the 
+government to enter into a contract,” which is enough to survive Defendants’ Rule 12(b) 
+
+20 Relator’s initial pleading makes allegations about “Defendants” in broad strokes and is 
+not a paragon of clarity regarding which claims and legal theories apply to which parties. Based 
+on the arguments made in Relator’s briefs in opposition, which specify that the fraudulent 
+inducement theory applies to the “Prime Contractor Defendants,” see Opp’n to ConServe, 
+Protocol, and State 26; Opp’n to Pioneer, Edgewater, and Bass 27; Opp’n to Alorica/GRSI, 
+Uniquity, and PRC 15, and which do not make any arguments concerning this theory of liability 
+with respect to any other categories of defendants, the Court concludes that Relator only intends 
+to put forth a fraudulent inducement argument for the prime contractor defendants (ConServe, 
+Pioneer, and WAM). 
+motions. Opp’n to Pioneer, Edgewater, and Bass 28 (quoting United States ex rel. Shemesh v. 
+CA, Inc. (Shemesh), 89 F. Supp. 3d 36, 47 (D.D.C. 2015)); Opp’n to Alorica/GRSI, Uniquity, 
+and PRC 16 (same). For Defendants Pioneer and WAM, Relator also asserts in a single footnote 
+that it satisfies even the “presentment theory of liability” because Rule 9(b) does not require the 
+relator “to plead representative samples of claims actually submitted to the government.” Opp’n 
+to Pioneer, Edgewater, and Bass 28 n.7 (quoting Heath, 791 F.3d at 123); Opp’n to 
+Alorica/GRSI, Uniquity, and PRC 15 n.6 (same). 
+Second, Relator maintains that the factual allegations provided satisfy Rule 9(b)’s 
+heightened pleading standard, properly construed. With respect to Defendants ConServe, 
+Protocol, State, Pioneer, Edgewater, and Bass, Relator argues that it has set forth facts that 
+establish “the circumstances constituting fraud,” and that is enough. Opp’n to ConServe, 
+Protocol, and State 29 (emphasis in original) (quoting Folliard, 722 F. Supp. 2d at 27); Opp’n to 
+Pioneer, Edgewater, and Bass 29 (same). With respect to Defendants WAM, Uniquity, and PRC, 
+Relator argues that it has set forth sufficient facts to satisfy Rule 9(b) because “[neither] the 
+theory of fraudulent inducement nor the theory of false certification require Relator to plead the 
+contents of any particular claim for payment, as the focus is on Defendants’ fraud surrounding 
+any such claim, not the claim itself.” Opp’n to Alorica/GRSI, Uniquity, and PRC 16 (quoting 
+United States ex rel. Hendow v. Univ. of Phoenix, 461 F.3d , 1166, 1174 (9th Cir. 2006)). In 
+support of this argument, Relator generally cites back to—for each group of Defendants— its 
+factual allegations in the amended complaint, which it contends substantiate the alleged scheme 
+to claim small business subcontracting credit by falsely certifying that the subcontractor 
+defendant in each group was a small business. 
+Third, Relator argues that it has in fact established the “who” for its presentment and 
+false statement claims against each category of defendant because it is not alleging individual 
+fraud; rather, it is alleging that each of the entities committed “fraud at the corporate level.” 
+Opp’n to ConServe, Protocol, and State 28 (quoting Heath, 791 F.3d at 125); Opp’n to Pioneer, 
+Edgewater, and Bass 29 (same); Opp’n to Alorica/GRSI, Uniquity, and PRC 16 (same). PCA 
+Integrity argues that its factual allegations plausibly suggest such corporate-level malfeasance. 
+See Opp’n to ConServ, Protocol, and State 29 (“Relator has sufficiently alleged that Defendants’ 
+claims were false because Defendants sought payments, including bonuses and additional task 
+orders, by falsely certifying that legitimate small businesses were providing subcontracting 
+services to the federal government.”); Opp’n to Pioneer, Edgewater, and Bass 29 (asserting that 
+Relator need not identify specific individuals at the companies to advance such a theory); Opp’n 
+to Alorica/GRSI, Uniquity, and PRC 16 (same). 
+Relator’s arguments fill many pages, yet on the facts presented, ultimately prove 
+unavailing on both the fraudulent inducement and implied certification fronts. To sustain either 
+of these claims, Rule 9(b) requires the pleader in an FCA fraud action to, “at a minimum, . . . 
+state the time, place and content of the false misrepresentations, the fact misrepresented and what 
+was retained or given up as a consequence of the fraud’ and ‘individuals allegedly involved in 
+the fraud.’” Si II, 71 F. Supp. 3d at 85 (quoting Williams, 389 F.3d at 1256). Here, despite 
+Relator’s contrary contentions, PCA Integrity’s pleading does not establish with the requisite 
+particularity the time and place of the false misrepresentations, what constitutes the allegedly 
+false claim for each discrete defendant, and what, precisely, “was retained or given up as a 
+consequence of the fraud.” Williams, 389 F.3d at 1256. The Court next considers what, more 
+specifically, is lacking under the fraudulent inducement and implied false certification theories 
+that Relator advances. 
+a. Fraudulent Inducement Theory 
+Taking Relator’s fraudulent inducement theory claim first, PCA Integrity paints a general 
+picture of a scheme wherein a prime contractor defendant submitted a subcontracting agreement 
+that falsely represented an intention to subcontract with small businesses. See, e.g., Opp’n to 
+ConServe, Protocol, and State 26. Again, the fraudulent inducement theory imposes liability 
+“for each claim submitted to the Government under a contract which was procured by fraud, 
+even in the absence of evidence that the claims were fraudulent in themselves.” Tran, 53 F. 
+Supp. 3d 104, 117 (quoting Bettis, 393 F.3d at 1326) (citing S. Rep. No. 99–345, at 9 (1986), 
+reprinted in 1986 U.S.C.C.A.N. 5266, 5274). 
+In this case, the trouble for Relator is the failure to connect several critical dots in the 
+alleged scheme, leaving the Court unclear as to what, precisely, was allegedly actionably false 
+and/or fraudulent. The first fundamental issue involves the terms of the agreement with ED 
+under the operative task order. At bottom, PCA Integrity’s allegations turn on a direct link 
+between the subcontracting plan and the fraud, based on the terms of ED’s contract with the 
+prime contractors. But Realtor does not establish, with particularity, that any of the prime 
+contractors were required to hire any small businesses at all in order to obtain a contract with 
+ED. The closest Relator comes is the statement that “ED ultimately contracted with 22 PCAs: 17 
+large (‘unrestricted’) PCAs and five small (‘set-aside’) PCAs.” Compl. ¶ 52. The fact that ED 
+contracted with some small PCAs does little to advance PCA Integrity’s case, though. Missing 
+are any particularized factual allegations establishing that, without a given prime contractor’s 
+alleged fraudulent misrepresentation at the time of contracting that it would hire small 
+businesses, that prime contractor could not have received a contract with ED. And without more 
+specificity, Relator’s claims are easily distinguished from a case in which, say, a set-aside 
+contract was reserved exclusively for a small business enterprise and a company misrepresented 
+its size to obtain a fraudulently-induced contract. 
+Instead of directly pleading such factual allegations with respect to each prime contractor 
+defendant, Relator gestures towards Defendants’ incentive structures. See Am. Compl. ¶ 7 
+(“Under the ED PCA task orders at issue in this case, PCAs were incentivized to subcontract no 
+less than 10% of their work to small business concerns.”); id. ¶¶ 53–60 (describing incentives in 
+general terms). But if such an incentive structure forms the basis for the alleged fraud, a lack of 
+particularity again plagues PCA Integrity’s pleading. On the Court’s best read of the factual 
+allegations, Relator relies on the following causal chain: given that (1) “ED PCA contracts are 
+performance-based and highly competitive,” id. ¶ 52, and a contracting party can gain extra 
+points in the CPCS ranking system that ED uses to award bonuses and extensions, id. ¶¶ 53–54, 
+(2) the incentive of a five-point bonus awarded to “a PCA that satisfied ED’s small business 
+subcontracting target,” id. ¶ 55, (3) led the prime contractor defendants to misrepresent their size 
+in order to obtain the five-point bonus and thereby receive further awards or consideration, id. ¶¶ 
+10–11. Beyond sketching out this alleged scheme at a high level, however, Relator never 
+indicates what particular preferences were given to each prime contractor defendant in return for 
+a promise to meet the subcontracting target.21 Nor, assuming for the sake of argument that 
+certain (unspecified) preferences were awarded to certain (unspecified) Defendants, does Relator 
+
+21 Even for Defendant ConServe, which Relator alleges “received a two-year award 
+extension” as a result of its “false and/or fraudulent representations and conduct,” Am. Compl. ¶ 
+11, PCA Integrity does not link ConServe’s alleged initial misrepresentation to the extension. 
+Without far more detail to suggest that ConsServe received a five-point bonus as a result of its 
+initial representation to ED with respect to Protocol, and that this added component of its CPCS 
+score led ED to extend its award, Relator has not satisfied its pleading burden. 
+indicate that an initial statement at the time that the subcontracting agreement was submitted was 
+the reason why those parties received those preferences. Without more, the Court is left in the 
+dark regarding how, exactly, the prime contractors’ initial agreements with ED represent 
+statements that fraudulently induced the government to pay out claims. 
+This issue is compounded by the utter lack of information about what promises, if any, 
+were made in the subcontracting plan that is at the core of Relator’s alleged scheme, and what 
+subsequent claims, if any, were purportedly false. The complaint never says anything at all 
+about the subcontracting plan beyond the bare fact that it was submitted to ED. This information 
+is lacking at even a high level, not to mention at the level of detail that Rule 9(b) demands. What 
+if, for instance, a prime contractor defendant initially promised a particular small business 
+subcontracting target of 10%, exceeded this pledge by subcontracting 20% of its overall business 
+to qualified small businesses, and then it turned out that a subcontractor accounting for 5% of 
+overall business was not in fact small—would this amount to fraud? And what is the response of 
+the relevant government entities (ED and the Small Business Administration) in the mine run of 
+cases? Relator does not say. Moreover, based on Relator’s pleading and taking as true the 
+allegation that the small business subcontracting targets were approximately 10% during the 
+relevant time period, Am. Compl. ¶ 55, it appears in most instances that the prime contractor 
+bills ED for work performed by subcontractors that are not small. Relator never explains 
+whether, after submission of the initial subcontracting plan, each prime contractor’s bills to ED 
+indicate that any of the subcontracted work was performed by any small businesses. But because 
+it has omitted any information on this point, Relator has failed to establish that any such claims 
+are, in fact, false at all. Without far more facts concerning the subcontracting plan and promises 
+made therein, subsequent billing submissions for each prime contractor, and any rewards a 
+contractor received as a result of meeting or exceeding the goals set forth in the initial 
+subcontracting plan, the Court cannot determine what, if anything, provides the legal foundation 
+for Relator’s allegations of falsity under its fraudulent inducement theory of relief. 
+Thus, the Court is left without any factual allegations to support the contention that 
+ConServe, Pioneer, or WAM, respectively, acted fraudulently or violated an applicable 
+regulation at the time of submission of the purportedly false claim. See ConServe Mem. 2 
+(explaining that Relator has failed to establish that ConServe knew that Protocol was not a 
+qualifying small business at the time it submitted the subcontracting plan); Def. Pioneer’s Reply 
+Supporting Mot. Dismiss (“Pioneer Reply”) 7, ECF No. 106 (explaining that Pioneer cannot 
+possibly have made a fraudulent inducement by submitting a small business subcontracting plan 
+in 2008 when it did not learn that Bass no longer qualified until 2009 or 2010); Alorica/GRSI 
+Reply 10 (explaining that Uniquity did not exist until 2011, two years after the original 2009 ED 
+task order). In fact, without knowing what the prime contractors promised at the inception, it is 
+impossible to infer that any false claims were made at any point. Accordingly, PCA Integrity has 
+not set forth a plausible claim for relief under a fraudulent inducement theory of liability—let 
+alone a claim sufficient to meet Rule 9(b)’s heightened pleading standard. 
+b. Implied False Certification Theory 
+Turning now to PCA Integrity’s implied false certification theory of liability, such a 
+theory applies when an entity has made “a false representation of compliance with an applicable 
+federal statute, federal regulation, or contractual term.” Comstor, 308 F.Supp. 3d at 79 (quoting 
+United States ex rel. McBride v. Halliburton Co. (McBride), 848 F.3d 1027, 1031 (D.C. Cir. 
+2017)); see also SAIC, 626 F.3d at 1266. 
+Here, Relator’s arguments fall short because Relator misrepresents and muddles what is 
+required to allege a cognizable claim under controlling law. Even if Relator does not need to 
+“allege the existence of a request for payment for particularity,” PCA Integrity must plead with 
+particularity “the circumstances constituting fraud.” Folliard, 722 F. Supp. 2d at 26–27 
+(emphasis removed) (first quoting United States ex rel. Davis v. District of Columbia, 591 
+F.Supp.2d 30, 37 (D.D.C. 2008), then quoting Fed. R. Civ. P. 9(b)). And again, this pleading 
+must satisfy the Rule 9(b) particularity standard by providing each Defendant with “notice of the 
+who, what, when, where, and how with respect to the circumstances of the fraud.” Tran, 53 F. 
+Supp. 3d at 123. Without these details, pled with the particularity that Rule 9(b) requires, the 
+Court cannot determine whether liability for fraudulent claims for payment properly attaches. 
+For the following reasons, PCA Integrity has not said enough to establish a claim for relief.22 
+The core deficiency is straightforward: the face of the pleading does not establish 
+“where” or “when” the allegedly false claims occurred. For prime contractor defendants 
+ConServe, Pioneer, and WAM, the only indication of “where” requires multiple levels of 
+inference to discern that misleading or fraudulent statements were submitted to ED as part of 
+small business subcontracting plans, ostensibly in Washington, DC (though this is left implicit in 
+the amended complaint). Am. Compl. ¶¶ 132–36 (discussing ConServe); 195–99 (discussing 
+WAM); 237–42 (discussing Pioneer). No additional detail is provided that could elucidate the 
+location of these submissions or any other fraudulent claims or misrepresentations made or 
+caused to be made by the prime contractor defendants. Relator’s opposition briefs do not, 
+moreover, connect up other factual allegations to the subcontracting plans. As the Court just 
+discussed, Relator says next to nothing at all about the subcontracting plans or the promises 
+
+22 As noted previously, Relator must also establish materiality with the particularity 
+required to satisfy Rule 9(b). The Court discusses materiality infra Section IV.C.2. 
+allegedly contained therein. Instead, Relator again insists that PCA Integrity need not identify 
+any specific false claims for payment to survive Defendants’ motions to dismiss. See Opp’n to 
+ConServe, Protocol, and State 28; Opp’n to Pioneer, Edgewater, and Bass 28; Opp’n to 
+Alorica/GRSI, Uniquity, and PRC 16. Without more to identify the circumstances concerning 
+the alleged fraud, however, all that the Court has are legal conclusions couched as factual 
+allegations—far short of what Rule 12(b)(6), let alone Rule 9(b), demands. See Twombly, 550 
+U.S. at 555. 
+This lack of clarity concerning what, exactly, the prime contractors are alleged to have 
+done, and where they did it, is especially problematic because PCA Integrity also fails to clarify 
+when the actions occurred. Relator states that ED issued the original PCA solicitation on May 
+29, 2008, Am. Compl. ¶ 52, that interested companies submitted proposals by June 26, 2008, id. 
+and that “[t]he first transfer of accounts under this contract occurred in the first quarter of 2009,” 
+id., with the task orders pertaining to unrestricted PCAs concluded in late April 2015, id. ¶ 60. 
+Left unsaid, however, is when the subcontracting plan was submitted and when, if ever, the 
+prime contractor defendants made any further fraudulent misrepresentations. This specificity 
+concerning the circumstances of the alleged fraud is essential because the FCA “attaches 
+liability, not to underlying fraudulent activity, but to the claim for payment.” Totten I, 286 F.3d 
+at 551 (internal quotation marks and citation omitted) (quoting United States ex rel. Hopper v. 
+Anton, 91 F.3d 1261, 1266 (9th Cir. 1996)). The Court can vaguely infer, based on the alleged 
+facts, that they must have been submitted at some point between June 2008 (when ED issued its 
+solicitation) and the first quarter of 2009 (when the first transfer occurred); if not, then 
+ostensibly, the first transfer would not have taken place. But Rule 9(b) requires more than such 
+attenuated inferences. Because Relator has failed to provide more for the prime contractor 
+defendants, its pleading does not clear the particularity bar.23 
+Though Relator offers comparatively more for the subcontractor defendants, PCA 
+Integrity’s pleading still comes up short. For the subcontractor defendants, Relator’s implied 
+certification theory rests on the assertion that “each Subcontractor defendant self-certified that it 
+was a small business in order to gain subcontract opportunities.” Am. Compl. ¶ 15. Consider, 
+by way of example, Defendant Protocol. PCA Integrity alleges that Protocol submitted annual 
+self-certifications to the SBA attesting to its small business status and last submitted a 
+certification in 2014, id. ¶ 186–87, yet Relator does not offer any additional discussion of the 
+self-certifications. PCA Integrity defends its factual allegations as sufficient, contending that this 
+suit is distinct from those such as Si II, wherein the “plaintiff was unable to identify any details 
+about the contents of certification.” Opp’n to ConServe, Protocol, and State 36 (citing 71 F. 
+Supp. 3d at 94). “In contrast,” Relator argues, “the Amended Complaint alleges numerous times 
+that Protocol’s self-certification contained the false representation that it was both a small 
+business and a WOSB,” such as the August 2011 statement by Protocol’s Tracy Dudek assuring 
+“ConServe that Protocol was registered in the government database as a self-certified small 
+business.” Id. (citing Am. Compl. ¶¶ 179, 186–88). 
+But for Protocol and for all of the subcontractor defendants, PCA Integrity’s analysis 
+speeds right past the operative legal principle: the need to plead, with particularity, the 
+
+23 Moreover, as the Court suggested previously and discusses with respect to the public 
+disclosure bar infra Part IV.E, the specific timing is even more important here because of 
+intervening changes in the underlying substantive law. Without clarity about the alleged dates of 
+the conduct, Defendants are left without the ability to discern which legal standards govern 
+Relator’s allegations. Cf. Si II, 71 F. Supp. 3d at 85 (quoting McCready, 251 F. Supp. 2d at 116) 
+(noting that Rule 9(b)’s application in FCA suits “ensure[s] that defendants have adequate notice 
+of the charges against them to prepare a defense”). 
+circumstances surrounding false claims that the Defendant made or caused to be made to the 
+government. Relator repeatedly insists that it has provided what Rule 9(b) demands, reiterating 
+versions of the theory that this Court “should ‘hesitate to dismiss’” its “complaint under Rule 
+9(b)” if it “is satisfied (1) that the defendant has been made aware of the particular circumstances 
+for which she will have to prepare a defense at trial, and (2) that plaintiff has substantial 
+prediscovery evidence of those facts.” Opp’n to ConServe, Protocol, and State 7 (quoting Kane, 
+798 F. Supp. 2d at 193); see id. at 6–8; Opp’n to Alorica/GRSI, Uniquity, and PRC 15 n.6 
+(“[T]his Circuit has made clear that . . . [the relator] is not required ‘to plead representative 
+samples of the claims actually submitted to the government.’” (quoting Heath, 791 F.3d at 126)). 
+But Relator is mistaken: information about the particular circumstances at issue is lacking here. 
+Consider Protocol once more, by way of example. PCA Integrity never explains, let alone with 
+any particularity, how the 2011 statement, the 2014 certification, or any other alleged self-
+certification meant that either Protocol or any other subcontractor defendant “knowingly 
+present[ed], or cause[d] to be presented, a false or fraudulent claim for payment or approval,” in 
+contravention of 31 U.S.C. § 3729(a)(1)(A) (emphasis added). If, as explained above, PCA 
+Integrity has failed to indicate which, if any, of the contractor defendants’ claims for payment 
+were false, it has likewise failed to show how the subcontractor defendants caused false claims to 
+be presented by the contractor defendants (PCA Integrity does not seem to allege that the 
+subcontractor defendants themselves submitted any claims for payment to ED). 
+Nor does PCA Integrity explain, with particularity, how the alleged self-certifications 
+indicate that the subcontractor defendants “knowingly ma[de], use[d], or cause[d] to be made or 
+used, a false record or statement material to a false or fraudulent claim,” in violation of 31 U.S.C. 
+§ 3729(a)(1)(B). On the Court’s best read of the sprawling amended complaint and subsequent 
+filings, Relator’s theory appears to be that each of the subcontractors made fraudulent self-
+certifications because the subcontractors knew at the time of the self-certifications that they did 
+not comply with the controlling size rules for small businesses, yet represented that they did. 
+See, e.g., Am. Compl. ¶¶ 133 (discussing Protocol’s “false misrepresentations” that it was an 
+eligible small business), 184–89 (discussing Protocol’s self-certifications that it was a small 
+business despite its relationship with State). But the pages that all parties fill addressing possible 
+affiliation are a sideshow in this context.24 The salient and antecedent Rule 9(b) point is that 
+Relator has not discussed the purported self-certifications themselves with adequate particularity, 
+especially when it comes to specifying the timing of each (which matters all the more because 
+the underlying NCAIS size threshold changed over time). What information did each self-
+certification contain, and which aspects of it, specifically, were false? And how did the 
+subcontractors’ self-certifications relate to the claims for payment made by the contractors to 
+ED? Once again, Relator does not specify. Nor does PCA Integrity identify, beyond mentioning 
+
+24 The Court does not imply that the substantial ink spilled by Relator and Defendants 
+alike in addressing affiliation is unimportant in the final disposition of the suit. However, at this 
+juncture, it is not necessary to address these points because there is an even more basic problem: 
+the lack of required specificity concerning the allegedly fraudulent circumstances under which 
+the affiliation arguments arise. By way of analogy, if one seeks to determine whether or not a 
+description of the sun as dim has enough particularity to conclude that it refers to dawn and not 
+dusk, then it would be premature to engage in a fact-intensive inquiry to determine whether 5:00 
+and 8:45 AM are both early morning hours. Here, the Court finds there to be a lack of 
+particularity concerning the first issue: whether the facts allege, to the degree required by the 
+applicable pleading standard, enough about the basic conditions to discern whether it is dawn or 
+dusk. For the reasons articulated at length in the body of this memorandum opinion, Relator has 
+not done so. PCA Integrity does not substantiate its claims with concrete, factual allegations that 
+establish organization-wide actions taken to execute the alleged fraud within each defendant 
+entity, ideally connecting these allegations to one or two examples of a claim that the defendant 
+submitted, stated, or caused to be submitted or stated. See Heath, 791 F.3d at 126 (finding 
+pleading adequate where plaintiff did not identify details about specific payments, but did 
+“provide[] factual specificity concerning the type of fraud, how it was implemented, and the 
+training materials used, all of which [wa]s then corroborated by the concrete example of . . . [a] 
+Detroit audit documenting the very type of overbilling that follows the complaint’s pattern”). 
+Until this pleading requirement is satisfied, the Court reserves judgment concerning affiliation. 
+self-certifications and making vague references to the prime contractors’ associated “requests for 
+payment,” id. ¶ 193, any other allegedly problematic claims on which its implied false 
+certification theory rests, not to mention any indication of “substantial prediscovery evidence” of 
+facts, Kane, 798 F. Supp. 2d at 193, to substantiate any such allegations. 
+The lack of adequate factual allegations to satisfy Rule 9(b), moreover, do not end there. 
+By way of further illustration, consider Edgewater. For this subcontractor, Relator again relies 
+on the same conclusory legal assertions to back up its factual allegations, without even 
+attempting to connect the dots between the facts in the pleading and the alleged false claims. See 
+Opp’n to Pioneer, Edgewater, and Bass 28–29. These bare conclusory statements do not suffice 
+to establish how Edgewater made “claims under a contract while ‘withh[olding] information 
+about its noncompliance with material contractual requirements.’” Morsell, 130 F. Supp. 3d at 
+119 (quoting SAIC, 626 F.3d at 1269). Accordingly, without more specification regarding each 
+of the alleged self-certifications, when it was made, what discrete issue or issues each 
+problematic self-certification misrepresented, and what relationship such alleged 
+misrepresentation had to the claims for payment submitted by the contractor defendants, Relator 
+has not discharged its pleading burden for Protocol, Edgewater, or Uniquity. 
+Versions of these same issues recur, moreover, for the allegedly-affiliated defendants. 
+For example, consider Bass. Relator states a number of factual allegations—but not one of them 
+clarifies how, on PCA Integrity’s theory, Bass made claims to the government at all, or how it 
+caused Pioneer to submit false claims for payment to ED. As Bass puts the point, “Relator has 
+not identified a single false claim, nor any particular false invoice, nor any particular false 
+amount,” nor “the date on which any supposed false claim was submitted to the U.S. 
+government, who it was submitted by, or who caused it to be submitted.” Bass Mot. 6. This 
+omission is fatal to Relator’s allegations. And it recurs for every one of the allegedly-affiliated 
+defendants. Under this Circuit’s controlling law, an “‘implied false certification’ occurs ‘[w]hen 
+. . . a defendant makes representations in submitting a claim but omits its violations of statutory, 
+regulatory, or contractual requirements.” McBride, 848 F.3d at 1031 (alteration in original) 
+(emphasis added) (quoting Universal Health Services, 136 S. Ct. at 1999); see also Comstor, 308 
+F. Supp. 3d at 79. Without any facts alleging how any allegedly-affiliated defendant submitted 
+a claim or caused such a claim to be submitted, Relator has not established a plausible claim for 
+relief as required by Rule 12(b)(6) or Rule 9(b).25 
+2. Failure to Plead Facts Sufficient to Meet the FCA’s Materiality Standard 
+Relator’s claim also falls short because the pleading does not establish the FCA’s 
+requirement of materiality with the particularity that Rule 9(b) demands.26 See Universal Health 
+Services, 136 S. Ct. at 2004 n.6. In approaching this issue, the Court bears in mind the need to 
+police the materiality requirement “rigorously.” McBride, 848 F.3d at 1031 (quoting SAIC, 626 
+
+25 Given these glaring deficiencies and the lack of required detail concerning materiality, 
+which the Court discusses next, the Court need not consider Defendants’ arguments that Relator 
+does not make sufficiently clear “who” is behind the alleged fraud to conclude that PCA 
+Integrity has not stated, with particularity, its claims for relief. That said, should Relator file an 
+amended complaint, it should take care to specify how each entity institutionalized a unified 
+scheme in which “corporate levers were pulled,” Heath, 791 F.3d at 125, to perpetrate the 
+alleged fraudulent conduct. This specificity should detail both (1) which individuals took action 
+within each distinct corporate entity, and how these actions relate to the particular allegations of 
+fraud, and (2) which factual allegations relate to which charges against which Defendant(s), 
+rather than incorporating all facts by reference with respect to all Defendants. 
+26 As the Court discusses, the parties rely extensively on Universal Health Services, 136 
+S. Ct. 1989, in raising materiality arguments. In Universal Health Services, the Supreme Court 
+assumed that the post-FERA version of the law applied, notwithstanding the fact that some of the 
+claims at issue were submitted before the 2009 amendment to the FCA. Id. at 1998 n.1. In 
+McBride, this Circuit addressed claims brought under the pre-FERA version of the FCA and 
+assumed, as the parties had done, that the same standard articulated in Universal Health Services 
+applied to the dispute at hand. 848 F.3d at 1031 n.5. Here, as in McBride, the parties do not 
+argue that the Universal Health Services standard does not apply to any disputed conduct. Thus, 
+the Court assumes that the materiality requirements are the same under either the pre- and post-
+FERA versions of the statute. 
+F.3d at 1271); Universal Health Services, 136 S. Ct. at 2002 (quoting SAIC, 626 F.3d at 1270) 
+(emphasizing, particularly in the context of implied certification theories of liability, the need for 
+“strict enforcement of the Act’s materiality requirements”). For the forthcoming reasons, the 
+deficiencies concerning materiality present another reason to dismiss Relator’s claims. Because 
+of the fact-bound nature of the demanding materiality inquiry, cf. Universal Health Services, 136 
+S. Ct. at 2004 n.6, the Court’s discussion focuses on two Defendants, Uniquity and PRC. That 
+said, the discussion of these parties should not be taken as a sign that the pleading passes muster 
+with respect to the other Defendants. To the contrary, the issues discussed apply more generally, 
+too, and the pleading falters on materiality grounds for all Defendants. 
+a. Defendant Uniquity 
+The parties clash over the proper application of the Supreme Court’s Universal Health 
+Services precedent, with each contending that it should clearly prevail on a proper application of 
+controlling law. The Universal Health Services Court affirmed that “the implied false 
+certification theory can be a basis for liability . . . when the defendant submits a claim for 
+payment that makes specific representations about the goods or services provided, but knowingly 
+fails to disclose the defendant’s noncompliance with a statutory, regulatory, or contractual 
+requirement[] [and] . . . the omission renders those representations misleading.” 136 S. Ct. at 
+1995. It further clarified that whether the legal requirements at issue were “expressly designated 
+as conditions of payment” is not dispositive in any consideration of materiality. Id. at 1996. 
+Rather, under the “demanding” materiality standard, “proof of materiality can include, but is not 
+necessarily limited to, evidence that the defendant knows that the Government consistently 
+refuses to pay claims in the mine run of cases based on noncompliance with the particular 
+statutory, regulatory, or contractual requirement.” Id. at 2003. Extrapolating from this principle, 
+the converse applies with equal force: the government’s payment of “a particular claim in full 
+despite its actual knowledge that certain requirements were violated” provides “very strong 
+evidence that those requirements are not material,” as does regular payment of “a particular type 
+of claim in full despite actual knowledge that certain requirements were violated,” without 
+signaling any “change in position.” Id. at 2003–04. 
+Relying heavily on this precedent, Uniquity argues that PCA Integrity has failed to “plead 
+that the false self-certification” representing its size, which it most recently submitted in 2013, 
+Am. Compl. ¶ 230,27 “was material to the government’s decision to make payments under the 
+[ED] subcontract.” Def. Uniquity’s Mem. P. & A. Supporting Mot. Dismiss (“Uniquity Mem.”) 
+14, ECF No. 89-1. More specifically, Uniquity asserts that Relator has failed to (1) plead “any 
+express provision as a condition of payment;” id.; (2) establish that the government declines to 
+pay claims for a self-certification violation of the type alleged, id. at 15; (3) say anything about 
+“[w]hether the . . . [government] paid Uniquity despite knowing” the alleged facts, id. at 16; or 
+(4) indicate any change in government position during the nearly four years that the action has 
+been pending, id. at 17. 
+Relator, unsurprisingly, sees materiality rather differently. See, e.g., Opp’n to 
+Alorica/GRSI, Uniquity, and PRC 17–25. At the outset, PCA Integrity stresses that the 
+materiality inquiry asks “whether the conduct has ‘a natural tendency to influence, or [is] capable 
+of influencing, the payment or receipt of money or property,” id. at 17 (quoting Universal Health 
+Services, 136 S. Ct. at 2002). This standard, Relator asserts, is “far lower than but-for causation, 
+
+27 The Court takes the factual allegations in the amended complaint to be true and thus 
+accepts the statement that Uniquity, at a minimum, submitted an annual self-certification in 
+2013. Am. Compl. ¶ 230. However, because Relator refers to “self-certifications,” id. ¶ 231, 
+without stating the years of these submissions, the Court is left uncertain as to whether Relator 
+alleges self-certifications in other years. 
+or even a preponderance of the evidence that the government’s decision to pay would be 
+different.” Id. at 18. After recounting the Universal Health Services factors and noting that a 
+court is to consider whether “the requirements at issue go to ‘the very essence of the bargain’” 
+along with the other enumerated factors as part of a “holistic approach to determining 
+materiality,” PCA Integrity argues that all of the factors cut in its favor. Id. (first quoting 
+Universal Health Services, 136 S. Ct. at 2003 n.5, then quoting Comstor, 308 F. Supp. 3d at 85). 
+Relator builds up this holistic case in several parts. First, Relator highlights the factual 
+allegation “that the contracts at issue state that a . . . subcontractor’s failure to comply in good 
+faith with a subcontracting plan . . . constitutes a ‘material breach of the contract.” Id. at 18–19 
+(quoting Am. Compl. ¶ 80). Second, Relator points to the further factual allegation “that, in 
+2018, ED canceled the procurement at issue, ‘in part because it had learned of Defendants’ 
+widespread small business fraud that had tainted its original task orders.’” Id. at 19 (quoting 
+Am. Compl. ¶ 62). Third, Relator contends that these “small-business subcontracting 
+requirements went to the heart of the bargain” because compliance with them “was the sole 
+factor in determining whether Defendants were entitled to incentive payments” and the 
+subcontracting plans “are material parts of the contracts at issue.” Id. Finally, Relator 
+distinguishes its suit from those that have assessed government knowledge by disputing that the 
+government “has ever had actual knowledge of Defendants’ wrongdoing,” as opposed to “mere 
+allegations of wrongdoing.” Id. at 19, 22–23. Relator adds, moreover, that the government’s 
+decision not to intervene is “irrelevant” to the materiality inquiry. Id. at 22. 
+Despite Relator’s multiple pages of arguments, Defendants have the upper hand in the 
+materiality debate. The basic problem is that, yet again, Relator fails to provide factual 
+allegations to substantiate what, precisely, about the alleged conduct of the prime contractor and 
+subcontractor is “material” in the sense contemplated by the FCA. Even taking the factual 
+allegations in Relator’s pleading to be true, and even accepting that a subcontracting plan by a 
+prime contractor (such as WAM) that is never described in any detail implicates a subcontractor 
+(such as Uniquity) in some fashion, it remains unclear how a “material breach of” the 
+subcontracting plan that was incorporated into ED’s contract with the prime contractor, see 
+Opp’n to Alorica/GRSI, Uniquity, and PRC 18–19, amounts to a condition of payment for the 
+subcontractor. Relator does not connect these dots, nor does it explain with any specificity how 
+the subcontractor self-certifications were a “misrepresentation” that was “material” to ED’s 
+“course of action.” Universal Health Services, 136 S. Ct. at 2001. Instead, PCA Integrity 
+reasserts the same theory of liability, devoid of factual particulars: it is not claiming that the 
+subcontractor is “subject to liability merely for violating any statutory or regulatory provision,” 
+but rather “alleg[ing] that Defendants fraudulently induced the government to enter into contracts 
+based on their misrepresentations regarding the subcontractor’s size, and that Defendants falsely 
+certified that they had complied with certain contractual and legal requirements.”28 Opp’n to 
+Alorica/GRSI, Uniquity, and PRC 23–24. Without more, PCA Integrity’s claims amount to little 
+more than the sort of “[t]hreadbare recitals of the elements of a cause of action, supported by 
+mere conclusory statements,” that are insufficient to survive a motion to dismiss. Iqbal, 556 U.S. 
+at 678. 
+Additionally, Relator does not allege that the government “consistently refuses to pay 
+claims in the mine run of cases based on noncompliance with the particular statutory, regulatory, 
+or contractual requirement.” Universal Health Services, 136 S. Ct. at 2003. There are no factual 
+
+28 Relator’s use of “Defendants,” rather than targeted reference to facts and claims that 
+involve Defendant Uniquity, underscores the issue. Relator does not clarify, here or elsewhere, 
+how the fraudulent inducement argument that its pleading applied to the prime contractor 
+defendants would be salient with respect to the other categories of defendants. 
+allegations from which to draw the conclusion that the government has declined to pay this 
+category of claim after evidence of noncompliance, nor is there any indication that any specific 
+claims caused to be submitted by Uniquity or by any other subcontractor defendant were not paid 
+in full despite alleged noncompliance with an (unspecified) express or implicit legal requirement 
+imposed on WAM or on any other contractor defendant.29 Rather than present such factual 
+allegations, PCA Integrity appears to contend that such factual substantiation does not exist here 
+because the government did not ever possess “actual knowledge of Defendants’ wrongdoing.” 
+Opp’n to Alorica/GRSI, Uniquity, and PRC 22. In other words, on the Court’s best read of 
+Relator’s argument, PCA Integrity asserts that it could not possibly provide factual allegations 
+that the government has not paid “claims in the mine run of cases based on noncompliance,” 
+Universal Health Services, 136 S. Ct. at 2003, because the government would have needed to 
+actually have known about Defendants’ wrongdoing, and here, the government only had “mere 
+allegations” of noncompliance. Id. (“[M]ere awareness of allegations concerning noncompliance 
+. . . is different from knowledge of actual noncompliance.” (quoting Universal Health Servs. v. 
+Escobar, 842 F.3d 103, 112 (1st Cir. 2016) (emphasis removed) (on remand from Supreme 
+Court))). Putting to the side the fact that Relator does not cite a single in-circuit case to support 
+this “actual knowledge” standard, see id. at 22–23, PCA Integrity’s actual knowledge argument 
+
+29 In addressing this point, the Court notes that Uniquity’s briefings refer to the Small 
+Business Association and not to ED or to the government more generally. Relator raises a valid 
+point by pushing back on Uniquity’s reliance on the Small Business Association’s relevance 
+here; as PCA Integrity rightly observes, “ED, not the SBA, issued the task orders at issue and 
+paid Defendants,” making it the relevant contracting agency. Opp’n to Alorica/GRSI, Uniquity, 
+and PRC 25. But even without taking any of Uniquity’s arguments concerning the Small 
+Business Association into account, Relator fails to provide any factual allegations to suggest that 
+ED “consistently refuses to pay claims in the mine run of cases based on noncompliance with the 
+particular statutory, regulatory, or contractual requirement.” Universal Health Services, 136 S. 
+Ct. at 2003. Combined with the other gaps identified here, this lack of substantiating facts means 
+that Relator does not establish the materiality required to make out a claim for relief. 
+betrays a subtle skewing of Universal Health Services’s directives. The point is not that the 
+government necessarily needed to have actual knowledge of alleged wrongdoing, but rather that 
+factual allegations indicating that “‘the Government pays [or refuses to pay] a particular claim in 
+full despite its actual knowledge that certain requirements were violated,’ or ‘regularly pays [or 
+refuses to pay] a particular type of claim in full despite actual knowledge that certain 
+requirements were violated,’” can speak to “the materiality of ‘the particular statutory, 
+regulatory, or contractual requirement’ underlying the relator’s claims.” Comstor, 308 F. Supp. 
+3d at 87 (quoting Universal Health Services, 136 S. Ct. at 2003–04). These considerations are 
+part of the holistic analysis. Rather than provide factual allegations as part of this holistic 
+analysis, though, Relator invokes its “actual knowledge” argument—which, as the Court just 
+discussed, falls flat. 
+Thus, the bottom line is that Relator has not provided particularized factual allegations 
+regarding the indicia of materiality. The issues include, but are not limited to, the lack of 
+specific support regarding the government’s non-payment of similar claims and the lack of 
+clarity concerning what Uniquity’s “express condition of payment” is in the first instance. Even 
+taking as true Relator’s allegation that ED cancelled contracts in 2018 based in part on the “taint” 
+of the type of conduct alleged here, this stand-alone, bald allegation does not provide factual 
+support to clarify what acts or omissions by Uniquity were likely to have led the government to 
+refuse to pay Uniquity (or WAM) under the original ED contract. Accordingly, Relator has 
+failed to provide enough to establish materiality under the FCA’s demanding standard for this 
+element of a claim for relief. 
+b. Defendant PRC 
+By way of further illustration, substantially the same is true for allegedly-affiliated 
+defendant PRC (and for all of the other allegedly-affiliated defendants, as this Court noted 
+previously). PRC raises a series of discrete points to argue that Relator’s pleading lacks the 
+requisite factual allegations to establish materiality. PRC argues, specifically, that Relator fails 
+to provide any factual allegations to establish (1) how “Uniquity’s misrepresented self-
+certifications resulted in monies paid that the government would not have paid had the 
+misrepresentations been known,” Def. PRC’s Mem. P. & A. Supporting Mot. Dismiss (“PRC 
+Mem.”) 33 (citing Am. Compl. ¶¶ 231–32), ECF No. 79-1; (2) why the government would have 
+cared about the alleged misrepresentation so long as the collections were performed, given that 
+the contracted services at issue were “performance based,” id. (quoting Am. Compl. ¶ 53); (3) 
+that “Uniquity was the only small business concern subcontracted by [WAM] to provide 
+services,” such that WAM violated anything in its subcontracting terms,” or that WAM was even 
+contractually bound to contract with any small businesses at all, id. at 34; and (4) that “Uniquity 
+would not have received the subcontract were it not a small business concern,” id. Rather than 
+directly engage with any of these contentions, Relator once more offers conclusory statements 
+that these assertions are not appropriate considerations for a materiality analysis at the motion to 
+dismiss stage. See Opp’n to Alorica/GRSI, Uniquity, and PRC 24 (“To the extent these 
+arguments are relevant, they go to the issue of damages, not materiality.”); id. (“This contention 
+merely disputes the allegations set forth in the Amended Complaint, which is inappropriate on a 
+motion to dismiss.”). 
+But Relator’s attempt to write off these allegations as unsuitable at this procedural stage 
+is contrary to controlling law. The materiality inquiry is not merely suitable for disposition at 
+this stage; it is in fact a required part of the Court’s analysis of whether Relator has stated a claim 
+for relief under the FCA. Universal Health Services, 136 S. Ct. at 2004 n.6 (“False Claims Act 
+plaintiffs must also plead their claims with plausibility and particularity under Federal Rules of 
+Civil Procedure 8 and 9(b) by, for instance, pleading facts to support allegations of materiality.”). 
+Despite Relator’s contentions, the issue facing the Court is not whether the specific factual 
+allegations are true. Rather, what this Court must determine is whether there are any factual 
+allegations sufficient to suggest that the alleged misrepresentation was material in the sense that 
+it would have affected the government’s decision to pay PRC (or WAM). As discussed 
+previously, Relator has not provided sufficient factual allegations, and PCA Integrity’s 
+conclusory assertion that the bare pleading suffices to establish materiality is unavailing. 
+In addition, the pleading also fails to provide factual allegations that speak to the final 
+Universal Health Services factor: whether the government “regularly pays a particular type of 
+claim in full despite actual knowledge that certain requirements were violated.” 136 S. Ct. at 
+2003–04. In fact, the filings before the Court suggest that this factor cuts against Relator. As 
+PCA points out, the Small Business Administration has stated in the Federal Register that, out of 
+137 firms that misrepresented themselves as “being small for purposes of federal procurement 
+opportunities,” it was “unaware of any firms being penalized” under the relevant statute—15 
+U.S.C. § 645(d)—for this “fraudulent[] misrepresentati[on].” PRC Mem. 34–35 (quoting 80 FR 
+7533-01, 735 (2015)) (emphasis removed). As PRC explains, citing to Relator’s pleading, the 
+clearest basis for Relator’s allegations concerning “the illegality and seriousness of submitting 
+false certifications is premised upon 15 U.S.C. § 645.” PRC Reply Supporting Mot. Dismiss 11, 
+ECF No. 107 (citing Am. Compl. ¶¶ 79, 122, 123, 229). Logically, if the government has not 
+penalized firms for violations of this requirement, then it follows that it paid the firms despite 
+their fraudulent misrepresentations and did not consider these misrepresentations material. See 
+PRC Mem. 35. PCA Integrity never responds to this point at all, instead contending that the very 
+invocation of the Small Business Administration is a red herring. Opp’n to Alorica/GRSI, 
+Uniquity, and PRC 25. 
+The Court disagrees with Relator’s stance and finds this reference to the Federal Register 
+illuminating.30 It seems unlikely that the government lacked actual knowledge of fraudulent 
+misrepresentations in all 137 of the instances that the Small Business Administration references. 
+And if the government has regularly proceeded in normal business relations with companies that 
+made misrepresentations under the same statutory provision that Relator invokes here to 
+establish the liability of the subcontractor and allegedly-affiliated defendants, then there is no 
+reason to believe that it would have modified its business relations with PRC (or the other 
+Defendants) under that same provision. In fact, there is no evidence that ED has done anything 
+with respect to the allegations in this case since they were first raised in 2015.31 Thus, because 
+Relator has failed to address this point or to provide other factual allegations that specifically 
+pertain to either Defendant PRC or to any of the other Defendants, it has failed to establish 
+materiality here. 
+Given this failure to establish materiality and the pleading deficiencies identified 
+previously, the Court concludes that Relator has not made out a claim for relief that satisfies 
+
+30 The Court takes judicial notice of the Federal Register as a publicly-available 
+document. See Fed. R. Evid. 201(b). 
+31 Although Relator correctly indicates that there are many reasons that the Department of 
+Justice may or may not decide to pursue a qui tam suit, the allegations raised herein were 
+investigated, in part, by the Department of Education Office of General Counsel (a fact of which 
+Relator’s counsel is well aware, given his intimate involvement in the government’s 
+investigation). There is no indication that ED has taken any action, contractually, 
+administratively, or otherwise, as a result of the investigation. 
+Rule 12(b)(6) and Rule 9(b) for any of the Defendants with respect to its presentment and false 
+statement claims (Count I and Count II).32 
+D. Reverse False Claim 
+As previously mentioned, in addition to its presentment and false statement claims, 
+Relator alleges that the named Defendants, as well as the John Doe Defendants, violated another 
+provision of the False Claims Act: the “reverse” false claims provision, codified as amended at 
+31 U.S.C. § 3729(a)(1)(G). Drawing on all the factual allegations in its pleading, Relator 
+contends that “Defendants knowingly avoided or decreased their obligation to pay or transmit 
+money to the government.” Am. Compl. ¶ 337. PCA Integrity alleges that, “[s]pecifically, 
+Defendants: (i) made, used, or caused to be made or used, records or statements to conceal, 
+avoid, or decrease obligations to the United States; (ii) the records or statements were in fact 
+false; and (iii) it knew the records or statements were false.”33 Id. According to Relator, because 
+“the Amended Complaint specifically alleges facts that identify Defendants’ obligation to pay 
+various penalties arising from both federal and SBA regulations,” Opp’n to ConServe, Protocol, 
+and State 41; Opp’n to Pioneer, Edgewater, and Bass 35; Opp’n to Alorica/GRSI, Uniquity, and 
+PRC 42, and because the expanded definition of “obligation” under the post-FERA amendments 
+to the reverse claims provision sweeps in Defendants’ conduct, Opp’n to ConServe, Protocol, 
+and State 42; Opp’n to Pioneer, Edgewater, and Bass 35; Opp’n to Alorica/GRSI, Uniquity, and 
+
+32 Again, because of the fact-bound nature of the demanding materiality inquiry, cf. 
+Universal Health Services, 136 S. Ct. at 2004 n.6, the Court’s analysis has focused on Uniquity 
+and PRC to highlight concrete examples of the materiality deficiencies that plague Relator’s 
+pleading without filling pages with additional extremely similar descriptions of problems. 
+33 The Court is uncertain as to the antecedent for “it” in this sentence, since the preceding 
+noun is “Defendants” and Relator does not indicate which facts pertain to which Defendant(s) in 
+support of this claim. 
+PRC 42, Defendants are also liable under this provision of the FCA.34 The core point is that, 
+under this theory of liability, Defendants have an “obligation to pay the government” that “arises 
+from contractual, statutory, and regulatory requirements,” Opp’n to ConServe, Protocol, and 
+State 41; Opp’n to Pioneer, Edgewater, and Bass 34; Opp’n to Alorica/GRSI, Uniquity, and PRC 
+41, even if those obligations involve the same alleged misrepresentations and/or other fraudulent 
+conduct that Relator alleges amount to violations of the 31 U.S.C. § 3729(a)(1)(A) and (B). 
+Defendants argue that, notwithstanding PCA’s purported specificity, Relator has failed to 
+allege any facts that support the elements of this claim. The crux of Defendants’ argument is that 
+the same conduct that creates liability under the other provisions of the FCA cannot also create 
+an actionable obligation under the reverse false claims provision. See ConServe Mem. 42 
+(“Relator has failed to identify any specific obligation by ConServe to pay the government.”); 
+Protocol Mem. 30 (“The Amended Complaint [f]ails [t]o [a]llege [a]ny [o]bligation to [p]ay the 
+[g]overnment in [s]upport of its [t]hreadbare [r]everse FCA [c]laim.”); State Mem. 32 (arguing 
+that Relator has failed “to state, with particularity or otherwise, any facts that would impose 
+liability for a reverse false claim”); Pioneer Mem. 35 (“Relator alleges no facts indicating that 
+Pioneer had a payment obligation to the U.S. Government, let alone that Pioneer somehow 
+fraudulently avoided such an obligation.”); Edgewater Mem. 20 (noting lack of factual 
+
+34 Relator’s Count IV contends that, to the extent wrongdoing occurred prior to May 20, 
+2009, th[e] Amended Complaint should be deemed to include violations of the “pre-FERA FCA, 
+e.g., 31 U.S.C. § 3729(a)(7) (2006).” Am. Compl. 86 n.11. However, Relator’s opposition 
+offers no arguments whatsoever to explain how the alleged facts are actionable under the pre-
+FERA version of the reverse false claims provision, nor does Relator at any point challenge the 
+fact that Defendants appear to address the post-FERA version of this provision. See, e.g., 
+Alorica/GRSI Mem. 23 (explicitly referencing only post-FERA version of claim). Thus, 
+following the parties’ lead in their briefings, the Court assumes arguendo that only the post-
+FERA version of the statute is salient in considering the alleged conduct. In any event, because 
+this amended provision sweeps in more conduct, if the allegations fail under this standard, they 
+would also fall short under the earlier standard. 
+allegations concerning Edgewater and stating that “money obtained by the defendants 
+fraudulently,” in violation of another FCA provision, cannot form basis of obligation for reverse 
+false claim action); Bass Mem. 13 (“[T]here is no allegation that Bass owed money to the 
+government.”); Alorica/GRSI Mem. 23 (“The [r]everse FCA [c]laim [l]acks [r]equired 
+[p]articularity.”); PRC Mem. 9 (“Relator offers no facts supporting a § 3729(a)(1)(G) claim, i.e. 
+Count IV (the ‘reverse false claim’).”). For the following reasons, the Court grants Defendants’ 
+motions to dismiss this claim. 
+A reverse false claim is one that “results in no payment to the government when a 
+payment is obligated.” Hoyte v. Am. Nat’l Red Cross, 518 F.3d 61, 63 n.1 (D.C. Cir. 2008) 
+(quoting United States ex rel. Bain v. Ga. Gulf Corp., 386 F.3d 648, 653 (5th Cir. 2004)). The 
+key issue here, and in many FCA suits under this provision, is what constitutes an “obligation.” 
+As previously noted, the post-FERA version of the reverse false claims action expands its reach 
+by, inter alia, adding an explicit definition of the term “to address what Congress saw as the 
+overly narrow interpretation of the word ‘obligation’ that some courts had adopted,” Si II, 71 F. 
+Supp. 3d at 89 (citing S. Rep. No. 111-10, at 13–15). The FCA, as amended, defines obligation 
+as “an established duty, whether or not fixed, arising from an express or implied contractual, 
+grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from 
+statute or regulation, or from the retention of any overpayment.” 31 U.S.C. § 3729(b)(3). 
+Here, Defendants’ arguments appear at first glance to be about a lack of specificity in 
+Relator’s pleading. Digging deeper, however, the contention that Relator does not present any 
+specific obligation that amounts to an established duty to make a payment to the government 
+stems from a more fundamental underlying premise: the same alleged misrepresentations 
+(alleged material breach of the subcontracting plan, incorporated as material terms of contracts 
+with ED, and alleged false or misleading self-certifications in violation of controlling statutes 
+and regulations) cannot be the source of an actionable obligation under the statute. There is no 
+binding precedent addressing whether alleged breaches of contractual obligations such as those 
+at issue here give rise to post-FERA reverse false claim liability.35 However, the Court looks for 
+guidance to the dispositions of a number of district courts in this circuit, all of which have 
+distinguished between conduct giving rise to obligations that are actionable under this provision 
+and the concealment of information that may be separately actionable under to the FCA’s 
+presentment and false claim provisions. These courts have “determined that [a] reverse false 
+claim may not rest . . . on the argument ‘that an obligation arose out of [the d]efendants’ 
+concealment of their allegedly fraudulent activity,’ because ‘by this logic, just about any 
+traditional false statement or presentment action would give rise to a reverse false claim action; 
+after all, presumably any false statement actionable under sections 3729(a)(1)(A) or 
+3729(a)(1)(B) could theoretically trigger an obligation to repay the fraudulently obtained 
+money.’” United States ex rel. Riedel v. Bos. Heart Diagnostics Corp., 332 F. Supp. 3d 48, 82–
+83 (D.D.C. 2018) (quoting United States ex rel. Groat v. Bos. Heart Diagnostics Corp., 255 F. 
+Supp. 3d 13, 32 (D.D.C. 2017), amended on reconsideration in part, 296 F. Supp. 3d 155 
+(D.D.C. 2017)); see also United States ex rel. Scollick v. Narula, 215 F. Supp. 3d 26, 41 (D.D.C. 
+2016); Si II, 71 F. Supp. 3d at 97; United States ex rel. Scott v. Pac. Architects & Engineers 
+(PAE), Inc., 270 F. Supp. 3d 146, 155 (D.D.C. 2017); United States v. Newman, No. CV 16-1169 
+(CKK), 2017 WL 3575848, at *9 (D.D.C. Aug. 17, 2017). The Court finds these constructions, 
+
+35 As the Landis court noted in construing the pre-FERA reverse false claims action, 
+“[t]he D.C. Circuit has not addressed whether an alleged breach of contract constitutes an 
+‘obligation’ to pay money to the government under the FCA reverse false claims provision.” 51 
+F. Supp. 3d at 56 (citing Hoyte, 518 F.3d at 69 n.6). The Circuit has not addressed this issue 
+post-FERA, either. 
+which are grounded in the logical interaction between different FCA causes of action, 
+compelling. Relator’s brief mentions no contradictory authority, nor does PCA Integrity in fact 
+cite to any legal authority in support of its contrary position. 
+What the Court is left with is the plain text of the amended complaint and Relator’s 
+conclusory legal assertions. This is not enough. Even construed in the light most favorable to it, 
+PCA Integrity’s pleading contains no factual allegations of specific obligations owed by 
+Defendants that are distinct from the same allegations of concealment involved in the other 
+claims. Relator’s opposing argument conflates two issues: whether an alleged breach of 
+contractual agreements and alleged misrepresentations in self-certifications might create 
+statutory or regulatory penalties, and whether there is an independent obligation to pay the 
+government. See Opp’n to ConServe, Protocol, and State 42; Opp’n to Pioneer, Edgewater, and 
+Bass 35; Opp’n to Alorica/GRSI, Uniquity, and PRC 42 (alleging that Defendants have a clear 
+“obligation to pay various penalties arising from both federal statute and SBA regulations”). 
+Apart from these allegations that penalties for statutory and regulatory violations are owed, no 
+other affirmative obligation to pay the government is indicated. Nor does Relator offer any 
+indication that the government has already assessed any penalties. Without more, however, there 
+is not enough to establish that Defendants have an obligation for an unassessed, contingent 
+regulatory penalty, even under the more expansive post-FERA FCA. Accord United States ex 
+rel. Simoneaux v. E.I. DuPont De Nemours & Co., 843 F.3d 1033, 1039 (5th Cir. 2016) 
+(“[U]nassessed regulatory penalties are not obligations under the FCA. . . . [W]here, as in this 
+case, a regulatory penalty has not been assessed and the government has initiated no proceeding 
+to assess it, there is no established duty to pay.”); United States ex rel. Kasowitz Benson Torres 
+LLP v. BASF Corp., 285 F. Supp. 3d 44, 53 (D.D.C. 2017) (“An unassessed, contingent penalty 
+is not an FCA ‘obligation’ subject to suit under the reverse false claims provision.”), aff’d, 929 
+F.3d 721 (D.C. Cir. 2019); cf. United States ex rel. Petras v. Simparel, Inc., 857 F.3d 497, 505 
+(3d Cir. 2017) (concluding that the term “obligation” under the post-FERA FCA 
+“does not include a duty that is dependent on a future discretionary act”). 
+The situation at hand is easily distinguishable, moreover from cases that have found a 
+plausible claim for reverse false claim liability. For instance, in Morsell, this Court was able to 
+specify a particular obligation such as the defendant’s “knowing[] fail[ure] to adjust the 
+Contract’s pricing terms [for pricing with the government] as required by the Price Reduction 
+Clause.” 130 F. Supp. 3d at 125. Unlike the company in Morsell, which was contractually 
+bound to follow controlling regulations by “notify[ing] the Government of any price reduction as 
+soon as possible, but not later than 15 calendar days after its effective date” and “modifying the 
+contract to reflect any price reduction which becomes applicable,” id. at 114 (internal quotation 
+marks and citations removed), Relator states no contractual or regulatory obligation that involves 
+a legally-required price reduction. 
+Accordingly, on the facts alleged, Relator has failed to plead the elements required to 
+make out a reverse false claim for any of the Defendants.36 
+E. Conspiracy Claim 
+The remaining count in PCA Integrity’s pleading, Count III, brings a conspiracy charge, 
+again incorporating by reference all facts in the amended complaint and alleging that 
+“Defendants knowingly conspired, and may still be conspiring . . . to commit acts in violation of 
+
+36 Moreover, even if the Court accepted Relator’s theory and concluded that the same 
+predicate concealment that allegedly creates liability under other statutory provisions was itself 
+enough to give rise to possible liability here, these claims themselves suffer from the deficiencies 
+identified previously, all of which would recur with equal force in this context. 
+31 U.S.C. §§ 3729(a)(1) & (a)(2); 31 U.S.C. §§ 3729(a)(1)(A) & (a)(1)(B).”37 Am. Compl. ¶ 
+334. For the reasons set forth below, Relator fails to make out a claim for relief on this count. 
+First, civil conspiracy fundamentals provide grounds for dismissing this action. Although 
+the FCA does not define a conspiracy, courts have routinely applied civil conspiracy principles 
+to FCA conspiracy actions. See, e.g., United States v. Toyobo Co., 811 F. Supp. 2d 37, 50 
+(D.D.C. 2011); Westrick, 685 F. Supp. 2d at 140; United States ex rel. Durcholz v. FKW Inc.,189 
+F.3d 542, 545 n.3 (7th Cir. 1999) (citing United States v. Murphy, 937 F.2d 1032, 1039 (6th Cir. 
+1991)). For claims of civil conspiracy, there can be no liability for a conspiracy unless there is 
+an independently actionable ground for liability, Si II, 71 F. Supp. 3d at 98, whether that sounds 
+in tort law, see Halberstam, 705 F.2d at 477 (underlying tortious act is required to give rise to 
+civil conspiracy liability), or in the text of a statute, see Amin, 26 F. Supp. 2d at 165 (no 
+conspiracy where alleged activities consisted of entirely lawful pursuits). Because FCA liability 
+attaches to “the claim for payment,” Totten II, 286 F.3d at 551, there can by definition be no 
+ground for FCA liability unless Relator establishes the submission of an actionably false claim. 
+For the reasons detailed above, Relator has not pled facts that suffice to establish an underlying 
+false claim in this suit. Thus, Relator cannot raise a stand-alone conspiracy claim. 
+Moreover, as Defendants argue, the factual allegations in the pleading do not clear Rule 
+9(b)’s heightened pleading standard. See, e.g., ConServe Mem. 4, 11 (challenging nebulous, 
+imprecise nature of pleading and failure to identify any specific agreement involving ConServe); 
+State Mem. 34–35 (attacking complaint’s failure to provide any facts that indicate a specific 
+agreement between State and “any other Defendant to submit false claims or false statements to 
+
+37 Thus, to make the implicit, explicit, Count III alleges a conspiracy to violate both the 
+pre- and post-FERA versions of the FCA’s presentment and false statement provisions, but does 
+not allege a conspiracy to violate the FCA’s reverse false claims provision. 
+the government”); Pioneer Mem. 34 (“The Amended Complaint does not specify who were the 
+members of the alleged conspiracy” or “any facts as to the time, place, or nature of an alleged 
+conspiratorial agreement.”); Edgewater Mem. 20 (“[T]here is no identification of a single factual 
+averment that Edgewater actually entered into any . . . agreement [to further the alleged fraud] 
+with any of the other 10 defendants.”); Bass Mot. 12 (“Relator does not specify any facts as to 
+the time, place or nature of an alleged conspiratorial agreement.”); Alorica/GRSI Mem. 22 
+(contending that conspiracy count lacks any suggestion that WAM joined any agreement, “much 
+less the specific details (time, place, content, and the individuals involved) required by Rule 
+9(b)”); PRC Mem. 8 (“The ‘who, what, where, when’ is not clearly stated as required by the 
+pleading standard.”). This standard applies with equal force to an FCA conspiracy claim. 
+United States ex rel. Grubbs v. Kanneganti, 565 F.3d 180, 193 (5th Cir. 2009) (discussing FC 
+Inv. Group LC v. IFX Markets, Ltd., 529 F.3d 1087, 1097 (D.C. Cir. 2008), which applied, in 
+context of jurisdictional analysis, Rule 9(b) pleading requirements to RICO conspiracy action); 
+Toyobo, 811 F. Supp. 2d at 51 (applying Rule 9(b) to FCA conspiracy claim). To see why, 
+consider the third element of this claim, which requires Relator to establish that “‘one or more 
+conspirators knowingly committed one or more overt acts in furtherance of the object of the 
+conspiracy.’” Si II, 71 F. Supp. 3d at 89 (quoting Miller, 608 F.3d at 899). 
+Here, assuming arguendo that Relator alleges three discrete conspiracies, each of which 
+involves the identified prime contractor, subcontractor, and allegedly-affiliated third party within 
+each of the three groups, Relator’s complaint contains insufficient particularity with respect to 
+each of the conspiracies. Apart from vague references to a “shared” “conspiratorial objective to 
+deceive” the U.S. about Defendants’ and co-conspirators’ “affiliated relationships with one 
+another, and with other parties,” Am Compl. ¶ 300, which occurred “from at least 2011 to the 
+present,” id. ¶ 302, Relator provides no factual allegations that indicate what the “overt acts” 
+were, when they occurred, or how they were “knowingly committed . . . in furtherance of the 
+object of the conspiracy.” Si II, 71 F. Supp. 3d at 89 (quoting Miller, 608 F.3d at 899). What, 
+specifically, did each of the parties purportedly agree to do, and when did they make this 
+agreement (e.g., how there could be an agreement to fraudulently induce a contract when the 
+alleged co-conspirator did not yet exist)? When and how, specifically, did at least one co-
+conspirator knowingly commit at least one overt act in furtherance of this agreement? Relator 
+never says. But without saying more, with particularity, PCA Integrity has failed to discharge its 
+pleading burden. Thus, the Court dismisses this count. 
+F. The Public Disclosure Bar 
+One final substantive issue remains: whether Relator may pursue this qui tam action, or 
+whether, as Defendants argue, the FCA’s public disclosure bar coupled with the inability to 
+confirm Relator’s claimed “original source” status makes the action improper. See ConServe 
+Mem. 39–42; Protocol Mem. 32–33; State Mem. 36–38; Pioneer Mot. 32–33. Relator asserts 
+that the public disclosure bar is inapplicable here for two reasons: First, Defendants have failed 
+to establish that there has been a public disclosure of the allegations underlying the complaint in 
+the manner that the FCA and this Circuit’s law require. Opp’n to ConServe, Protocol, State 46–
+47; Opp’n to Pioneer, Edgewater, and Bass 25. Second, according to Relator, even if the 
+material had been publicly disclosed, PCA Integrity qualifies as an original source of the 
+information and the bar does not apply. Opp’n to ConServe, Protocol, State 48–49; Opp’n to 
+Pioneer, Edgewater, Bass 26–27. For the following reasons, the Court declines to dismiss the 
+suit on public disclosure bar grounds.38 
+Under this Circuit’s controlling law, there has been a public disclosure in the FCA 
+context if the essential elements of the allegation of fraud are revealed, “from which readers or 
+listeners may infer . . . the conclusion that fraud has been committed.” Springfield Terminal, 14 
+F.3d at 654. Where there has been such a public disclosure, this statutory bar “prevents suits by 
+those other than an ‘original source’” if “the government already has enough information to 
+
+38 Without ignoring the 2010 amendments that made the FCA’s public disclosure bar 
+non-jurisdictional, the Court assumes arguendo that the public disclosure bar is jurisdictional as 
+it applies to this law suit. Before the relevant amendment, the public disclosure bar was 
+considered jurisdictional based on the plain text of the statute. See 31 U.S.C. § 3730(e)(4)(A) 
+(2009) (“No court shall have jurisdiction over an action under this section based upon the public 
+disclosure of allegations or transactions.”); see also United States ex rel. Shea v. Verizon 
+Commc’ns, Inc. (Shea I), 160 F. Supp. 3d 16, 24–25 (D.D.C. 2015), aff’d sub nom. United States 
+ex rel. Shea v. Cellco P’ship (Shea II), 863 F.3d 923 (D.C. Cir. 2017) (quoting 31 U.S.C. § 
+3730(e)(4)(A); U.S. ex rel. Oliver v. Philip Morris USA Inc. (Oliver), 763 F.3d 36, 38 n.2 (D.C. 
+Cir. 2014)). The post-amendment statutory language, in notable contrast, eliminates this 
+jurisdictional language. See 31 U.S.C. § 3730(e)(4)(A) (2010) (“The court shall dismiss an 
+action or claim under this section, unless opposed by the Government, if substantially the same 
+allegations or transactions as alleged in the action or claim were publicly disclosed.”). “Thus, 
+when the amended version of § 3730(e)(4)(A) applies, public disclosure does not deprive the 
+Court of subject matter jurisdiction, but merely deprives the plaintiff of his claim.” Shea I, 160 
+F. Supp. 3d at 24 (citing Heath, 791 F.3d at 120; Avocados Plus Inc. v. Veneman, 370 F.3d 1243, 
+1249 (D.C. Cir. 2004)). Notwithstanding some signals that the “amendments do not apply to 
+pending suits filed before their enactment,” Oliver, 763 F.3d at 38 n.2, at least one district court 
+has engaged in a detailed analysis of retroactivity principles and concluded that “it is the date of 
+Defendants’ allegedly fraudulent conduct—not the date when litigation is filed—that governs 
+which” version of the public disclosure bar a court is to apply, Shea I, 160 F. Supp. 3d at 24 
+(citing United States ex rel. Atkinson v. Pa. Shipbuilding Co., 473 F.3d 506, 512–13 (D.C. Cir. 
+2007); United States ex rel. Lujan v. Hughes Aircraft Co., 162 F.3d 1027, 1031 (9th Cir. 1998)). 
+Here, as noted previously, there is a great deal of ambiguity concerning the alleged timing of 
+certain critical events. In the face of this ambiguity, the Court assumes without deciding that the 
+amendment refers to the date of the alleged conduct, making the public disclosure bar 
+jurisdictional for at least some of the allegations in this suit. In any event, if this is not the proper 
+construction, then, because the suit was filed after the operative date of the 2010 amendments on 
+March 20, 2010, the public disclosure bar is non-jurisdictional; if so, then it is an element of the 
+cause of action, and there are independent non-jurisdictional grounds on which to dismiss 
+Relator’s claims. 
+investigate the case” and to decide whether or not to prosecute, or “the information could at least 
+have alerted law-enforcement authorities to the likelihood of wrongdoing.” Oliver, 826 F.3d at 
+472; see also Staples, 773 F.3d at 88 (quoting Springfield Terminal, 14 F.3d at 654–55). To 
+qualify as an original source, the plaintiff-relator must either (1) “ha[ve] voluntarily disclosed to 
+the Government the information on which allegations or transactions in a claim are based,” prior 
+to a “public disclosure” as defined by the statute, or (2) “ha[ve] knowledge that is independent of 
+and materially adds to the publicly disclosed allegations or transactions” that have been 
+“voluntarily provided the information to the Government before filing an action” under the 
+FCA’s qui tam provision. 31 U.S.C. § 3730(e)(4)(B). 
+Here, Defendants contend both that the public disclosure bar applies, and that Relator 
+cannot properly claim original source status. On Defendants’ account, the public disclosure bar 
+applies because the Small Business Administration was on notice of a potential affiliation 
+between, at a minimum, the parties in the ConServe, Protocol, and State cluster several years 
+before Relator filed this suit. See ConServe Mem. 39–41; Protocol Mem. 32; State Mem. 37. 
+Assuming without deciding that this notice amounts to a public disclosure of the same issues 
+presented here, the Court nonetheless finds it premature to dismiss Relator’s claims on the basis 
+that PCA Integrity lacks original source status.39 Defendants contend that Relator cannot 
+
+39 It bears repeating that the Court reserves judgment on the question of whether there 
+was a public disclosure in this case. This Circuit’s controlling law, as previously mentioned, sets 
+forth a clear test for public disclosure: “if X + Y = Z, Z represents the allegation of fraud and X 
+and Y represent its essential elements. In order to disclose the fraudulent transaction publicly, 
+the combination of X and Y must be revealed, from which readers or listeners may infer Z, i.e., 
+the conclusion that fraud has been committed.” Springfield Terminal, 14 F.3d at 654 (emphasis 
+in original). Thus, “a qui tam action cannot be sustained where both elements of the fraudulent 
+transaction—X and Y —are already public, even if the relator ‘comes forward with additional 
+evidence incriminating the defendant.’” Staples, 773 F.3d at 86 (quoting Springfield Terminal, 
+14 F.3d at 655). Based only on the facts alleged in Relator’s pleading, the Court is not certain 
+possibly be an original source “because it was not formed as a legal entity until May 20, 2015—
+two years after the public disclosure to the [Small Business Administration].” ConServe Mem. 
+41. But taking the facts in the complaint to be true, as the Court must in deciding a 12(b)(6) 
+motion to dismiss, Defendants’ argument falls flat. The uncontroverted facts indicate that 
+Relator consists of “participants in the PCA initiative” with “direct knowledge of the conduct 
+alleged.” Compl. ¶ 29. Defendants do not present any further factual assertions or legal 
+argumentation to explain why the Court should discredit PCA Integrity’s claims that it 
+“conducted an independent investigation to uncover false claims.” Id. On the record before the 
+Court, Relator may have voluntarily provided the government with information “independent 
+of,” and which “materially add[ed] to[,] the publicly disclosed allegations or transactions” before 
+filing the instant qui tam action, 31 U.S.C. § 3730(e)(4)(B). Because such conduct could qualify 
+PCA Integrity for original source status, and because Defendants do not present a compelling 
+reason that this statutory provision does not cover Relator’s conduct here, the Court declines to 
+dismiss the suit on public disclosure bar grounds. Instead, the Court resolves the issues before it 
+on the non-jurisdictional issue of failure to establish a claim for relief as required by Rules 
+12(b)(6) and 9(b)40 and grants Defendants’ motions to dismiss Relator’s claims for the reasons 
+previously explained.41 
+
+whether “the combination of X and Y” was revealed, thereby creating a public disclosure prior to 
+Relator’s alleged presentation of information to the government. 
+40 Again, the Court reserves judgment on whether the public disclosure bar is 
+jurisdictional in this suit given considerable ambiguity concerning the dates of operative events. 
+The Court need not confirm jurisdiction to rule on other grounds because the “requirement to 
+confirm jurisdiction at the outset controls ‘only when the existence of Article III jurisdiction is in 
+doubt,’ such that the court may leave an issue of statutory—as opposed to Article III—
+jurisdiction undecided while proceeding to consider a non[-]jurisdictional ground.” Shea I, 748 
+F.3d at 346 (Srinivansan, J., concurring) (emphasis in original) (quoting Chalabi v. Hashemite 
+Kingdom of Jordan, 543 F.3d 725, 728 (D.C. Cir. 2008)). And when it comes to the FCA, even 
+G. Dismissal Without Prejudice 
+One procedural matter remains: whether dismissal of Relator’s claims should be with or 
+without prejudice. Defendants ConServe, Protocol, State, Pioneer, Edgewater, Bass, and 
+Alorica/GRSI seek dismissal with prejudice. See ConServe Mem. 19; Protocol Mem. 38; State 
+Mem. 40; Edgewater Proposed Order 1, ECF No. 87-1; Bass Proposed Order 1, ECF No. 85-1; 
+Alorica/GRSI Mem. 43. Relator seeks leave to amend any pleading deficiencies. Opp’n to 
+ConServe, Protocol, and State 55; Opp’n to Pioneer, Edgewater, and Bass 35; Opp’n to 
+GRSI/Alorica, Uniquity, and PRC 42. For the following reasons, the Court will dismiss the 
+claims without prejudice.42 
+
+the earlier version of “the public-disclosure bar at most established a statutory jurisdictional 
+limitation, not an Article III limitation.” Id. 
+In addition, until such time, if ever, that Relator amends its pleading to clarify where and 
+when the alleged conduct giving rise to liability occurred, the Court reserves judgment 
+concerning personal jurisdiction, which ConServe, Protocol, and State challenge, and venue, 
+which Protocol and State challenge, pursuant to Federal Rules of Civil Procedure 12(b)(2) and 
+12(b)(3), respectively. Defendants may reassert their original arguments in response to any 
+future pleading. However, if Relator decides to amend its complaint, it should note that the 
+Court believes that the allegations of personal jurisdiction are thin. 
+41 One final matter remains pending: the two motions for judicial notice by ConServe, 
+ECF No. 92, and Relator, ECF No. 98 respectively. ConServe filed an unopposed motion for the 
+Court to take judicial notice of a decisions by the Small Business Administration, Relator’s date 
+of formation, and information concerning Protocol’s certifications on sam.gov. See ECF No. 92. 
+Relator requests that the Court consider certification statements filed by Defendant Uniquity 
+between 2013–2015, ECF No. 98, which Defendant Uniquity contests on the grounds that the 
+allegations against it lodged in the amended complaint end in 2013, ECF No. 108. Because the 
+Court resolves the issues in the manner previously detailed, these motions are denied as moot. 
+Relator may include allegations concerning these matters in an amended complaint and 
+Defendants may re-raise the same arguments for dismissal, to the extent applicable, in any future 
+response to any such amended complaint. See Si I, No. CIV.A. 09-2388 KBJ, 2013 WL 
+4478953, at *2 (D.D.C. Aug. 21, 2013) (permitting defendants to re-present same arguments 
+after finding that relator’s complaint did not satisfy Rule 9(b) pleading standard). 
+42 Defendant Protocol has sought dismissal without prejudice on an additional ground not 
+previously discussed: improper service of process. Protocol Mem. 36–37 (alleging untimely 
+service in violation of Federal Rules of Civil Procedure Rule 4(m) and 12(b)(5) and seeking 
+In this case, the Court dismisses Relator’s FCA claims due to the failure to satisfy 
+pleading standards. “Ordinarily, a plaintiff may overcome the failure to satisfy pleading 
+standards by amending her complaint.” Shea I, 160 F. Supp. 3d at 31 (citing Firestone v. 
+Firestone, 76 F.3d 1205, 1209 (D.C. Cir. 1996)). More specifically, under this Circuit’s 
+controlling law, “failure to plead fraud with particularity”—the basis on which this Court grants 
+Defendants’ motions—“ does not support a dismissal with prejudice. To the contrary, leave to 
+amend is ‘almost always’ allowed to cure deficiencies in pleading fraud.” Firestone, 76 F.3d at 
+1209 (quoting Luce v. Edelstein, 802 F.2d 49, 56 (2d Cir. 1986)). Only if the trial court 
+“determines that ‘the allegation of other facts consistent with the challenged pleading could not 
+possibly cure the deficiency’” is dismissal with prejudice appropriate. Id. (quoting Jarrell v. 
+United States Postal Serv., 753 F.2d 1088, 1091 (D.C. Cir. 1985)). Here, because the allegation 
+of further facts might cure the identified deficiencies (although the Court has its doubts, given 
+the length of the investigation and Relator’s counsel’s central role in the investigation), the Court 
+sees no reason to deviate from the general rule. Thus, it grants the motions to dismiss without 
+prejudice and grants Relator leave to amend its complaint. 
+V. CONCLUSION 
+For the foregoing reasons, the Court GRANTS the parties’ joint motion to dismiss claims 
+against Defendant West Corporation (ECF No. 77); GRANTS Defendants’ motions to dismiss 
+(ECF Nos. 79, 81, 85, 86, 87, 88, 89, 91, and 93); DENIES AS MOOT Defendant ConServe’s 
+motion for judicial notice (ECF No. 92); and DENIES AS MOOT Relator PCA Integrity’s 
+motion for judicial notice (ECF No. 98). Relator may, within thirty days of this opinion, file an 
+
+dismissal without prejudice). Because the delay was short and Relator’s briefs suggest good 
+faith efforts to serve process, the Court declines to grant dismissal on this ground. 
+amended complaint. An order consistent with this Memorandum Opinion is separately and 
+contemporaneously issued. 
+Dated: February 11, 2020 RUDOLPH CONTRERAS 
+ United States District Judge

@@ -1,0 +1,38 @@
+{
+ "finra_awc": {
+  "pdfplumber": {
+   "sec_per_doc": 1.77,
+   "chars": 72185,
+   "hard_wrap_pct": 39.3,
+   "mean_line": 63.6,
+   "hyphen_splits": 1,
+   "errors": 0
+  },
+  "pypdf": {
+   "sec_per_doc": 0.49,
+   "chars": 72758,
+   "hard_wrap_pct": 39.1,
+   "mean_line": 60.4,
+   "hyphen_splits": 1,
+   "errors": 0
+  }
+ },
+ "court_opinions": {
+  "pdfplumber": {
+   "sec_per_doc": 1.32,
+   "chars": 52305,
+   "hard_wrap_pct": 47.6,
+   "mean_line": 62.0,
+   "hyphen_splits": 4,
+   "errors": 0
+  },
+  "pypdf": {
+   "sec_per_doc": 0.39,
+   "chars": 54271,
+   "hard_wrap_pct": 53.0,
+   "mean_line": 63.8,
+   "hyphen_splits": 2,
+   "errors": 0
+  }
+ }
+}

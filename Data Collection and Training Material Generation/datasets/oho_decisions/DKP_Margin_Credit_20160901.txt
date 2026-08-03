@@ -1,0 +1,1377 @@
+Margin Credit and Stock Return Predictability
+Prachi Deuskar, Nitin Kumar, and Jeramia Allan Poland ∗
+September 1, 2016
+Abstract
+Margin credit, defined as the excess debt capacity of investors buying securities on the
+margin, is a very strong predictor of aggregate stock returns. It outperforms other
+forecasting variables proposed in the literature, in-sample as well as out-of-sample. Its
+out-of-sample R2, 7.45% at the monthly horizon and 35.68% at the annual horizon,
+is more than twice as large as that of the next best predictor. It produces a Sharpe
+Ratio of 1.42 over recessions and 0.96 over expansions and overall annualized Certainty
+Equivalent Return gain of 9.5%, all considerably larger than those for the other pre-
+dictors. Further, margin credit predicts market crashes and avoids substantial parts
+of the stock market downturns around 2001 and 2008. Margin credit predicts future
+returns because it contains information about future discount rates as well as future
+cash flows.
+∗All authors are at the Indian School of Business. Prachi Deuskar can be reached
+at prachi deuskar@isb.edu, Nitin Kumar at nitin kumar@isb.edu, and Jeramia Allan Poland at
+jeramia poland@isb.edu. We thank Viral Acharya, Shashwat Alok, Bhagwan Chowdhry, Sisir Debnath,
+Ravi Jagannathan, Tarun Jain, Sanjay Kallapur, John Leahy, Debraj Ray, Krishnamurthy Subramanian, K
+R Subramanyam, Jayanthi Sunder, Shyam Sunder, Suresh Sundaresan and the participants in the Indian
+School of Business brown bag and the 2016 ISB Econ-Finance Research Workshop for helpful comments.
+Any remaining errors are ours alone. Copyright c⃝2016 by Prachi Deuskar, Nitin Kumar, and Jeramia Allan
+Poland. All rights reserved.
+1 Introduction
+Formal equity premium prediction is at least as old as sliced bread. 1 Thousand of investors
+move millions of shares worth billions of dollars daily on formal or informal predictions of
+future returns. However, making a successful return prediction is not as easy as eating
+a sandwich. Only a subset of these investors are sophisticated enough to make a good
+prediction.
+Academic literature has proposed a host of signals for future returns over time. Unfortu-
+nately, a comprehensive investigation of most popular of these variables by Welch and Goyal
+(2008) reveals that none of them outperform simple historical average of equity premium or
+can be used to make money. These variables – dividend price ratio, book to market ratio,
+volatility, various interest rate spreads among others – try to extract information from the
+prices, returns and valuation ratios of diﬀerent financial assets. However, Huang, Jiang, Tu,
+and Zhou (2015) and Rapach, Ringgenberg, and Zhou (2016) have taken a diﬀerent track
+recently. They develop much stronger and more actionable predictors by extracting infor-
+mation about beliefs of subsets of investors. Motivated by this, we extract information from
+investors who establish leveraged long positions using margin debt. These margin investors
+are likely to have strong beliefs since they are willing to lever up.
+We construct a measure from the excess debt capacityof investors that use margin debt
+to establish long positions. This excess debt capacity – we call it margin credit – results from
+these investors choosing not to reinvesttheir gains from the levered long positions (details
+in Section 2). Over our sample period of 31 years from 1984 to 2014, we find that a higher
+margin credit predicts lower future market returns. We compare margin credit with other
+popular predictors and find that margin credit is the strongest predictor to date of future
+market returns.
+A rule by the Financial Industry Regulatory Agency (FINRA) requires the brokers to
+1”The Magazine of Wall Street” published Dow’s ”Scientific Stock Speculation” in 1920 while Otto
+Fredrick Rowedder completed the first machine capable of slicing and packaging a loaf of bread in July
+of 1927.
+report monthly aggregate margin debt used by investors to take long positions and aggregate
+credit in such margin accounts. A credit in the margin account is typically posted when a
+levered long position appreciates in value and the investor decides not to reinvest the gain.
+Reinvesting the gains made from levered long positions requires further borrowing from the
+broker. Hence, a decision not to reinvestthe gain results in excess debt capacity. This is a
+“hold” signal coming from winning investors. That is, the investors who are ex-post correct
+about their past beliefs now have pessimistic view about future returns. We thus expect an
+inverse relationship between margin credit and future returns.
+We test this hypothesis using the monthly series of the aggregate margin debt and margin
+credit published by the New York Stock Exchange (NYSE) and the FINRA. We construct
+two new predictors: one based on margin debt and the other based on margin credit. The
+monthly values of margin debt and margin credit are scaled by the GDP to make them
+comparable across time. Each measure displays a strong and statistically significant upward
+trend over the period 1984 to 2014 most likely due to the expansion of the equity market,
+deregulation of margin purchasing and easing of access to credit. 2 We remove this uninfor-
+mative increase by detrending the monthly ratios of margin debt to GDP and margin credit
+to GDP. Our two new predictors MD, based on margin debt, and MC, based on margin
+credit, are formed by standardizing the detrended series.
+MD, quite popular among the practitioners and the financial press, is a strong negative
+predictor of the aggregate market return in-sample. But its performance out-of-sample is
+weak. However MC, largely ignored until now, is a significant predictor of market returns.
+Consistent with our hypothesis of an inverse relationship between margin credit and future
+returns, we find that a one standard-deviation increase in MC predicts that the next month’s
+market return would be lower by 1.1 percentage point. MC generates an in-sample R2 value
+of 6.25% for next month’s returns which increases to 27.29% at the annual horizon, numbers
+typically at least twice as large as the next best predictor. MC performs strongly out-
+of-sample as well, generating an R2 of 7.45% at monthly frequency, which rises to more
+2Until January of 1974 the US Government through the Federal Reserve Board actively managed the
+margin requirement, amount of equity needed to take a margin position.
+than 35% at annual frequency, again producing substantially better performance than other
+predictors. At most horizons, not only is MC the best performer, it also encompasses all the
+information contained in the other predictors.
+We also examine how asset allocation strategies based on MC perform. We provide
+the key results here. The details are in Section 5. A market timing strategy based on
+MC, for a mean-variance investor, has substantially larger Sharpe Ratio at 1.0 than that
+of strategies based on previous predictors. Over the out-of-sample period, it produces an
+annualized Certainty Equivalent Return (CER) gain of 9.5% compared to strategy based on
+the historical average return. Over NBER recessions and expansions, it generates a Sharpe
+Ratio of 1.42 and 0.96, respectively. Figure 3 shows the cumulative log returns of this
+strategy and a simple S&P 500 buy-and-hold strategy from 1994 to 2014.
+The high performance of an MC-based asset allocation strategy in our sample comes
+from avoidance of substantial parts of two large downturns, the dotcom bust of early 2000s
+and the 2008-9 financial crisis. In particular, a MC-based strategy predicts crashes in the
+near future. Figure 4 shows the returns of MC-based strategy during the 12 worst and best
+months of S&P 500. While the strategy misses only 4 of the best 12 S&P 500 months,
+it avoids 7 out of 12 worst monthly crashes. In fact, during those 7 months, the strategy
+allocates negative weight to the S&P 500 and positive weight on T-bills, generating high
+returns when market crashes.
+While the MC-based strategy that takes a short position in the S&P 500 can be easily
+implemented using index futures, we also consider a long-only asset allocation strategy that
+invests 100% in the S&P 500 or 100% in the risk free asset. This strategy can be implemented
+even by small investors who do not trade in the S&P 500 futures market. We find that this
+long-only strategy also out-performs the simple buy-and-hold strategy by a large margin.
+It generates a Sharpe Ratio of 0.96 over recessions, compared to -0.81 for the buy-and-hold
+strategy. Over expansions as well the Sharpe of 0.95 of this strategy is larger than 0.79 of
+the buy-and-hold strategy. Figure 5 plots the cumulative log returns of long-only strategy
+based on margin credit.
+Two questions arise. First, who are these margin long investors? And second, why does
+MC predicts future returns? Not much is known about composition of margin long investors.
+However, we can look at behavior of hedge funds, the market participants well-known for
+their use of leverage, for some clues as to why margin credit may information about the
+future returns. Chen and Liang (2007) find evidence that market timing hedge funds do
+time the market particularly during bear and volatile markets. 3 Ang, Gorovyy, and van
+Inwegen (2011) find that hedge funds reduced their leverage in mid-2007 just prior to the
+financial crisis. They also find that hedge funds reduce their leverage when the risk of the
+assets goes up. Agarwal, Ruenzi, and Weigert (2016) find that before the 2008 crisis, hedge
+funds reduced their exposure to tail risk by changing composition of their stock and option
+portfolio. Liu and Mello (2011) build a theoretical model to understand why hedge funds
+might increase their allocation to cash substantially before a crisis. They point to risk of
+runs by investors of hedge funds as a reason. Indeed, Ben-David, Franzoni, and Moussawi
+(2012) find that hedge funds substantially reduced their holdings of stocks during the 2007-
+8 crisis due to redemptions and pressure from their lenders. Such conservative behavior
+by hedge funds in response to greater risk would push up risk premium i.e. the discount
+rate. On the other hand, hedge funds, being sophisticated investors could posses superior
+information about the future cash flows. For example, Brunnermeier and Nagel (2004)
+find that hedge funds successfully anticipated price movements of technology stocks during
+the Nasdaq bubble and sold their positions prior to the crash. Indeed, Dai and Sundaresan
+(2010) theoretically model optimal leverage choice by hedge funds and show that, the optimal
+leverage, among other things, depends upon the Sharpe Ratio of the assets. Hedge funds
+optimally cut back the leverage if their estimate of the Sharpe Ratio declines – either due
+to increase in estimate of risk i.e. discount rate or decrease in estimate of return i.e. cash
+flows. To the extent that margin investors have similar beliefs and trading strategies as hedge
+funds, ability of MC to predict future returns could come from the discount rate channel or
+the cash flow channel.
+3The evidence on timing ability of hedge funds is mixed. While Chen and Liang (2007) find support for
+the timing ability, Griﬃn and Xu (2009) do not.
+We next investigate the channel through which MC predicts future returns. Using the
+log-linearized return identity in Campbell and Shiller (1988) and following the approach in
+Huang, Jiang, Tu, and Zhou (2015), we examine if MC predicts discount rate and cash flow
+proxies. Our evidence shows that MC’s predictive power flows from both the cash flow and
+discount rate channels.
+Our paper contributes to the long literature on return predictability. In a seminal paper,
+Fama (1970) reviews early work and casts the evidence in the framework of market eﬃciency.
+The work in 1970s and 1980s saw many predictors being examined, with the dividend-price
+ratio (examined by Campbell and Shiller (1988) among many others) being one of the most
+popular variables. A sequel by Fama (1991) reviews the later work. The literature has
+continued to explore newer macroeconomic and financial market variables (see Welch and
+Goyal (2008) and Rapach and Zhou (2013)). In this strand of literature, we extend recent
+work that focuses on a subset of investors to successfully predict returns. Huang, Jiang, Tu,
+and Zhou (2015) show that an index based on Baker and Wurgler (2006) investor sentiment
+proxies predicts lower future returns. Investor sentiment is likely to reflect the beliefs of
+unsophisticated investors and accordingly acts as a contrarian predictor. Kruttli, Patton,
+and Ramadorai (2015) show that aggregate illiquidity of hedge fund portfolios is a significant
+predictor of a large number of international equity indices including the U.S. index. Rapach,
+Ringgenberg, and Zhou (2016) show that an index based on aggregate positions of the short
+investors is a strong, negative predictor of S&P 500 returns through forecasts of lower future
+cash flows. The results suggest that short sellers are sophisticated investors whose actions
+contain useful information. Above studies suggest that for predicting equity premium it is
+more fruitful to extract information about beliefs of the right subset of investors. Similar
+to the above studies, we find that conservative behavior by levered investors indicates lower
+future market returns, thus linking the literature on hedge fund behavior (cited above) to
+the return predictability literature.
+Our paper also contributes to the literature that examines impact of margin conditions
+and leverage ratios of financial market participants to asset prices. Rappoport and White
+(1994) find that prior to the 1929 crash, interest rate on margin loans as well as margin
+requirements increased, indicating an increased expectation of the crash. Garleanu and Ped-
+ersen (2011) study, theoretically and empirically, the implications for diﬀerential margin
+requirements across assets. He and Krishnamurthy (2013) theoretically model asset pric-
+ing dynamics when the financial intermediaries are capital-constrained. Rytchkov (2014)
+presents an analysis of risk-free rate, risk-premium and volatilities in a general equilibrium
+model with endogenously changing margin constraints. He, Kelly, and Manela (2016) find
+that capital ratio of primary dealers is a cross-sectionally priced factor for many assets.
+While this literature focuses on the impact of margin requirements or capital constraints, we
+empirically show that voluntary reduction in leverage by margin investors has information
+about future returns.
+Understanding the nature of our new predictors requires understanding the formalities
+of margin trading and levered accounting. So we turn to it next.
+2 Understanding margin credit
+In this section, we illustrate how actions of investors lead to changes in margin debt and
+how margin credit is generated.
+2.1. Purchasing on margin
+An investor wishing to take a long position in a stock can use 100% of her own funds to take
+the position or borrow part of the funds from her broker. When she chooses the latter, she
+must open a “margin” account with the broker. The purchased securities act as a collateral
+for the loan. As per Federal Reserve Board Regulation T (Reg T), in general, an investor can
+borrow up to 50% of the value of the stock, subject to the rules of her brokerage house which
+can be more stringent. The amount of investor’s own funds is called margin. The fraction
+required to be financed by investor’s equity at the time of establishing the position – which is
+1 minus the maximum borrowing limit – is called the “initial margin”. In addition, Financial
+Industry Regulatory Authority (FINRA) and the exchanges have rules about “maintenance
+margin”, a fraction of the value of the securities, generally 25%, below which the investor’s
+equity must not fall. If the equity falls below the maintenance margin due to a drop in price,
+the investor will receive a margin call to deposit additional funds into the margin account.
+On the other hand, if due to favorable price movements the investors’ equity becomes higher
+than the initial margin required, the investor will get a credit in her margin account which
+she can withdraw without closing the position. We call this credit “margin credit”. To
+clarify the accounting and the statutory rules regarding margin debt and credit, we work
+through an extended example below.
+2.2. Margin accounting
+Consider, investor P who wants to buy 10 shares of Apple at USD 100 each. She opens
+a margin account with broker B, who has a margin requirement of 60% and maintenance
+margin of 25%. P will need to invest 60% of the value of the position using her own money
+and can borrow remaining 40% from B. When the position is established the numbers look
+as follows:
+Situation Shares Price Position Value Margin Debt Equity Margin Credit
+0 10 100 1000 400 600 0
+Now suppose the price falls to USD 50 per share. The 25% maintenance margin is now
+binding.
+Situation Shares Price Position Value Margin Debt Equity Margin Credit
+1 10 50 500 400 100 0
+In this case, P’s equity (Position Value - Margin Debt) is only 20% of the position value,
+a fraction lower than the maintenance margin. So P will receive a margin call for USD 25
+and will have to deposit additional money in the margin account.
+Now, consider a diﬀerent situation where price increases to 250 instead of dropping to
+50. This will result in margin credit.
+Situation Shares Price Position Value Margin Debt Equity Margin Credit
+2 10 250 2500 400 2100 600
+With the position value of 2500 and margin debt only 400, the equity is 84% of the value
+of the position, higher than the margin requirement of 60%. This excess 24% of the position
+value i.e. 600 is reflected as margin credit. The formula for margin credit is thus
+Margin Credit = (Position Value) * (1 - Margin Requirement) - Margin Debt.
+(1 - Margin Requirement) is the maximum debt the investor can take as a fraction of
+the position value. Hence, (Position Value) * (1 - Margin Requirement) gives the total debt
+capacity of the investor. Once we subtract the debt already taken, we get margin credit
+which is nothing but excess debt capacity.
+The investor can choose to withdraw the balance of margin credit, or use it to increase
+the position value or keep it as margin credit balance. If withdrawn, the margin account
+numbers will look as follows:
+Situation Shares Price Position Value Margin Debt Equity Margin Credit
+3 10 250 2500 1000 1500 0
+Note that margin credit is part of equity. So if margin credit is withdrawn, equity drops
+by the amount of margin credit is withdrawn and since position value doesn’t change, margin
+debt goes up. In the above example, after margin credit is withdrawn, margin credit drops
+to 0 and margin debt increases by 600.
+P can choose to use the margin credit to take additional position in Apple. The margin
+credit of 600 will act as 60% equity for the additional position and P can supplement it with
+additional loan of 400 to support a position of 1000 or 4 additional shares.
+Situation Shares Price Position Value Margin Debt Equity Margin Credit
+4 14 250 3500 1400 2100 0
+Now the margin debt stands at 1400, an initial loan of 400, withdrawn margin credit of
+600 and the additional loan of 400 to buy 4 more shares.
+Can we extract any information about future performance of Apple stock from margin
+debt and margin credit balances? We next turn to this question.
+2.3. Information in margin debt and margin credit
+An investor would want to lever up a long position using margin debt when she is bullish
+about the stock. So higher values of margin debt would indicate more positive beliefs about
+future returns. However, margin debt levels are imperfect proxy of the investor’s belief. For
+example, notice that from Situation 2 to 3, margin debt increased on withdrawal of margin
+credit even though P did not take additional long position in Apple. Further, there are
+additional reasons why margin debt may be a noisy signal.
+Consider Situation 1 above. In this case, P’s position lost value and P received a margin
+call. If P cannot pay the margin call, the position will have to be closed and margin debt
+and position value become 0. In case of such forced deleveraging, margin debt balance
+drops after the fall in price, and hence is not useful as a predictive signal for future price
+movements. Moreover, forced selling to close the long positions may lead to even more price
+drops and potentially, a spiral of margin calls, forced deleveraging, forced selling and further
+price drops. In fact, many market participants believe that that high levels of margin debt
+predict fall, not rise, in the market index. For example, an article on a popular blog site
+http: //www.zerohedge.com/ asserts4
+“What is important to remember is that margin debt fuels major market reversions as
+4http: //www.zerohedge.com/news/2016 −03 −15/margin−debt−flashes −red−fed −cometh.
+margin calls lead to increased selling pressure to meet required settlements. Unfortunately,
+since margin debt is a function of portfolio collateral, when the collateral is reduced it
+requires more forced selling to meet margin requirements. If the market declines further,
+the problem becomes quickly exacerbated.... The danger of high levels of margin debt, as
+we have currently, is that the right catalyst could ignite a selling panic.... The issue is not
+whether margin debt will matter, it is just when. ”
+Further, margin debt balances, aggregated across investors, cannot distinguish between
+investors with superior and inferior information about future returns. Thus, if the popula-
+tion buying on the margin is dominated by investors with incorrect beliefs, high levels of
+margin debt, would indicate lower future returns. As we discuss below, margin credit is
+less susceptible to this particular drawback of margin debt because it focuses on winning
+investors who were correct about their past beliefs.
+While margin debt could be a “buy” or “sell” signal (although quite noisy), margin credit
+appears to be “hold” signal. Greater the margin credit balance, greater is the signal that
+investors have chosennot to reinvest, indicating a lukewarm belief about future returns. Thus
+we would expect a negative relationship between margin credit and future returns. Moreover,
+margin credit only results from appreciation of value of long positions indicating that the
+investors with margin credit have been correct in the past. This focus on winning investors
+potentially allows margin credit to extract beliefs of relatively sophisticated investors.
+However, margin credit is not a perfect signal either. If investors choose to withdraw
+margin credit as in Situation 3, margin credit balance drops without corresponding improve-
+ment in the belief about future returns. Further, margin credit is not the strongest signal
+of investor pessimism. If investors strongly believe that the market will drop, they would
+close their leveraged long position and take a short position. This is consistent with Rapach,
+Ringgenberg, and Zhou (2016) who find that aggregate short interest is a “sell” signal. Thus,
+it is matter of empirical investigation how well margin debt and margin credit balances work
+as predictive signals about aggregate stock returns.
+3 Data
+We construct scaled margin debt and scaled margin credit from monthly data on the value
+borrowed by all investors with NYSE member organizations and the amount held by the
+same investors which could be withdrawn. 5 The data are end of month values and FINRA
+rule 4521 requires that these numbers be reported for only investor accounts used to take
+long positions on margin. That is, these numbers represent diﬀerent information than is
+contained in the monthly reporting on short trading. 6 The data is available at the NYSE
+and FINRA websites with a two month delay. 7 To account for the two month reporting
+delay, we use margin debt and credit numbers that are two months old to avoid look-ahead
+bias. For example, we use the June 1995 numbers for August 1995.
+The raw margin statistics numbers are reported in millions of dollars. We scale these
+values so they are relative to the size of the economy by dividing by nominal GDP. We
+pull the history of all GDP announcements from the Federal Reserve Bank of Philadelphia
+website (https://www.philadelphiafed.org/). This provides the numbers announced in each
+5NYSE Rules Chapter 1.2.1.17 rule 2 defines ”member organization” as a registered broker or dealer that
+is a member of the Financial Industry Regulatory Authority, Inc. (”FINRA”) or another registered securities
+exchange.
+6Rule 4521(d) requires that a member must only include free credit balances in cash and securities margin
+accounts in the report. Balances in short accounts and in special memorandum accounts (see Regulation T
+of the Board of Governors of the Federal Reserve System) are not considered free credit balances.
+7Updated margin debt and credit numbers are available from the NYSE at
+http://www.nyxdata.com/nysedata/asp/factbook/viewer edition.asp?mode=tables&key=50&category=8.
+FINRA makes available the same numbers at http://www.finra.org/investors/margin-statistics.
+quarter since 1965 which includes numbers for every quarter since 1947. So, for example the
+announcement in Q1 1995 would include numbers for each quarter since 1947 up to the first
+announced numbers for Q4 1994 while the announcement in Q1 1996 would include numbers
+from 1947 upto Q4 1995 and the numbers for Q4 1994 would be in the fourth revision.
+For the purposes of in-sample testing we take the values announced in Q4 2015 which
+have the fourth, usually final, revisions for the numbers through Q4 2014. For out of sample
+testing, the GDP numbers that are available to investors at that time of making a prediction
+are used to avoid any look-ahead bias. So for making a prediction in August 1997, we use
+the numbers available in the Q2 1997 announcement. The GDP numbers used are further
+lagged by taking the Q1 1997 GDP value from Q2 1997 announcement. This last adjustment
+is done because there seems to be the largest change in value from the first to second revision
+in GDP announcements.
+The GDP numbers provided are in real 2009 dollars. To eliminate the look ahead bias
+that would be introduced by dividing MC, a nominal value, by real 2009 GDP dollars,
+we convert the numbers to the nominal values before dividing. This gives us the ratio that
+investors would have had seen when dividing nominal MC by nominal GDP in a given month.
+Margin statistics are available from January 1959. However revisions to Reg T in June
+1983 make post-1983 margin credit incomparable to pre-1983 margin credit. 8 To insure
+comparability of data across time we begin our sample in 1984, using the margin statistics
+available as of December 1983.9
+Our focus is on the prediction of excess returns to a value-weighted portfolio. Consistent
+with existing literature we measure this excess return as the log of the return to the S&P 500
+8See the NYSE margin statistics website for details.
+9Due to reporting lag the margin statistics are the value reported for October 1983 which are made
+available in December 1983.
+minus the log of the return to a one month Treasury bill.10 We compare the predictive ability
+of margin credit and margin debt to the 14 monthly predictors of Welch and Goyal (2008), the
+mean prediction of those 14 variables (Rapach, Strauss, and Zhou (2010)), the modified mean
+prediction using the strictest modification proposed by Campbell and Thompson (2008),
+market capitalization to GDP, the so called “Buﬀett Valuation Indicator”, and the short
+interest index measure of Rapach, Ringgenberg, and Zhou (2016).11 Data on the 14 monthly
+variables of Welch and Goyal (2008) is available from Amit Goyal’s website this includes:
+•Log dividend-price ratio (DP): log of the ratio of the 12-month moving sum of dividends
+paid on the S&P500 index and the S&P 500 index.
+•Log dividend yield (DY): log of the ration of the 12-month moving sum of dividends
+paid and the previous month’s S&P 500 index.
+•Log earnings-price ratio (EP): log of the ratio of the 12-month moving sum of earnings
+on the S&P 500 index and the S&P 500 index.
+•Log dividend-payout ratio (DE): log of the ratio of the 12-month moving sum of divi-
+dends and the 12-month moving sum of earnings.
+•Excess stock return volatility (RVOL): computed using the 12-month moving standard
+deviation estimator.
+•Book-to-market ratio (BM): book-to-market value ratio for the Dow Jones Industrial
+Average.
+10These data are available from Amit Goyal’s website: http://www.hec.unil.ch/agoyal/
+11In addition to the popularity of Buﬀett Valuation Indicator, we include this measure to demonstrate
+that the performance of margin credit scaled by GDP is not induced by a valuation eﬀect coming from the
+ratio of market capitalization to GDP.
+•Net equity expansion (NTIS): ratio of the 12-month moving sum of net equity issues
+by NYSE-listed stocks to the total end-of-year market capitalization of NYSE stocks.
+•Treasury bill rate (TBL): interest rate on a three-month Treasury bill traded on the
+secondary market.
+•Long-term yield (LTY): long-term government bond yield.
+•Long-term return (LTR): return on long-term government bonds.
+•Term spread (TMS): long-term yield minus the Treasury bill rate.
+•Default yield spread (DFY): diﬀerence between Moodys BAA- and AAA-rated corpo-
+rate bond yields.
+•Default return spread (DFR): long-term corporate bond return minus the long-term
+government bond return.
+•Inflation (INFL): calculated from one month lagged Consumer Price Index (CPI) for
+all urban consumers
+We scale market capitalization numbers from the Center for Research in Security Prices
+(CRSP) by GDP. This is available monthly through the end of 2015 and from this we
+construct:
+•Market Capitalization to GDP (CAP/GDP): the ratio of the monthly CRSP total
+market capitalization to quarterly GDP number.
+Rapach makes available the monthly equally-weighted short interest (EWSI) data on his
+website.12 These numbers are available through the end of 2014. Because EWSI ends in
+12http://sites.slu.edu/rapachde/home/research
+2014, we end our data in December of 2014. 13 From EWSI we calculate:
+•Short Interest Index (SII): the residual values from the detrending of the log of the
+monthly equally-weighted short interest (EWSI).
+Huang, Jiang, Tu, and Zhou (2015) construct a sentiment index from the 6 proxies from
+Baker and Wurgler (2006) based on the partial least square approach. The data for this
+variable is available from Zhou’s webpage.14 We call this variable SI PLS.15
+Rapach, Ringgenberg, and Zhou (2016) detrend the log of EWSI by regressing it against
+a time variable, due to evidence of a significant linear trend. We suspect the presence of a
+deterministic trend in our primary variable of interest, the ratio of margin credit to GDP,
+for the same reason which Rapach, Ringgenberg, and Zhou (2016) cite for the rising trend in
+equally-weighted short interest. They highlight the expansion of the equity lending market
+along with the increase in the number of hedge funds and size of assets managed by hedge
+funds. This expands the portfolios against which margin debt can be raised and by which
+margin credit is generated, but is uninformative in regards to the expectations of margin
+long investors. Statistical tests for the presence of a significant deterministic trend, tests
+of the significance of βc and βd, are subject to size and power distortions depending on the
+sample size and the estimated auto-correlation in the sample. (See Harvey, Leybourne, and
+Taylor (2007) and Perron and Yabu (2009).) Perron and Yabu (2009) show that their trend
+test is at least as eﬃcient and powerful as any other in our sample size, 373 months, and
+given the naive estimate of the auto-correlation which, for example, is above 0.95 for margin
+credit. We find that margin credit to GDP shows a deterministic trend at the 1% level in
+13Due to the substantial performance of SII shown in Rapach, Ringgenberg, and Zhou (2016), we also
+extend back from 1983 to 1973 the monthly data available for EWSI and construct SII 1973 using all of the
+data made available on Rapach’s website.
+14http: //apps.olin.wustl.edu/faculty/zhou/SentimentIndices Dec2014.xls
+15Similar to SII 1973, we also use SI PLS 1965 where we use all of the data available for SI PLS.
+the Perron-Yabu test with a t-statistic of 3.36. Indeed, Ng and Perron (2001) unit root test
+rejects unit root in Margin Credit to GDP against the alternative of trend stationary at
+10% (statistic: -2.58, critical value: -2.57). Kwiatkowski, Phillips, Schmidt, and Shin (1992)
+(KPSS) unit root test rejects the unit root against the alternative of trend stationarity at
+5% (statistic: 0.1614, critical value: 0.146). We thus detrend the ratios of margin credit
+and margin debt to GDP by the same regression method as Rapach, Ringgenberg, and Zhou
+(2016). We run the following regressions,
+MarginCreditt
+GDPt
+= αc + βct+ ut
+MarginDebtt
+GDPt
+= αd + βdt+ vt
+The residuals from these regressions ut and vt are our predictors, MC and MD, respectively.
+For robustness, we test MC and MD for non-stationarity which is rejected by the augmented
+Dickey-Fuller, Ng-Perron, and the KPSS tests.
+Removing the uninformative increases from MC and MD leaves us with economically
+relevant measures of the debt level and excess debt capacity held by margin long investors.
+As with SII, these measures are standardized with mean zero and standard deviation 1 as are
+all other predictors for comparability. For out-of-sample tests, MC and MD are computed
+recursively using only the data available up to time t to avoid look-ahead bias.
+3.1. Summary statistics
+Over the period January 1984 to December 2014, as shown in Table 1, margin debt has a
+mean value of $153.08 billion and a mean MD/GDP ratio of 1.36%. Margin credit has a
+mean level of $73.10 billion and a mean MC/GDP ratio of 0.58%. All of the highest 10
+values of the ratio of margin credit to GDP occur in 2008 with the peak, 2.6%, occurring
+in October of 2008. Figure 1 shows that margin credit to GDP remains low through the
+1980s and 1990s with the exception of a spike in 1987. It shows a large increase in late 2000
+before the “Dotcom Bubble” burst of 2001 and again before the 2008 financial crisis. This
+behavior is similar to that for SII and as such we expect margin credit to GDP and SII to
+be correlated.
+Table 2 displays Pearson correlation statistics for the 14 Goyal and Welch variables, the
+Buﬀett Valuation Indicator, SII, SIPLS, MC and MD. Indeed MC and SII are correlated with
+coeﬃcient of 0.58 indicating that margin long investors are holding cash buﬀers at the same
+time that heavy short trading occurs. This coeﬃcient is even higher than the correlation of
+MC with MD giving some early indication that the changes in MC are not simply mechanical
+movements related to changes in margin debt. Additionally, MC is largely unrelated to the
+Buﬀett Valuation Indicator which in turn is not highly related to next month returns. MC
+is positively correlated with SI PLS with coeﬃcient of 0.34. So margin investors are also
+being conservative when investor sentiment is high. MC also shows the largest magnitude
+of correlation – -0.25 –with next months returns, an early indication of predictive power of
+MC.
+4 Return predictability tests
+4.1 In-sample tests
+Following the literature, we estimate a predictive regression of the following form:
+rt:t+H = α+ βxt + ϵt:t+H, (1)
+where rt:t+H is the average monthly S&P 500 log excess return for month t+ 1 to month
+t+H, and xt the predictor variable which part of investors’ information set at time t. We test
+for return predictability at monthly, quarterly, semi-annual and annual frequency by setting
+value of H to 1, 3, 6 and 12. For H >1, returns on the RHS of Equation (1) overlap and
+OLS t-statistics are overstated. To deal with this problem we follow the approach in Britten-
+Jones, Neuberger, and Nolte (2011)). They show that regression of overlapping observations
+of N-period return on a set of X variables can, instead, be estimated using a transformed,
+equivalent representation of regression of one-period return on aggregation of N lags of the
+X variables. They also show that their methodology retains the asymptotic validity of
+conventional inference procedure and has better properties in finite sample compared to the
+use of standard heteroskedasticity and autocorrelation-adjusted robust t-statistics correct
+for overlapping observations.
+Table 3 reports the coeﬃcients, t-statistics and R2 for 14 popular predictors examined by
+Welch and Goyal (2008), the Buﬀett indicator, SII, SII PLS, and our variables MD and MC
+for the sample period 1984 to 2014. Following Inoue and Kilian (2005), we use a one-sided
+test for the statistical significance of β based on its theoretically expected sign. Following
+Huang, Jiang, Tu, and Zhou (2015) and Rapach, Ringgenberg, and Zhou (2016), we base
+our inference on empirical p-values calculated using a wild bootstrap procedure to address
+the issues of regressor persistence and correlation between regressor innovations and excess
+returns (see Stambaugh (1999)). 16 For ease of comparison across diﬀerent regressors, we
+scale all RHS variables so that they all have a unit standard deviation.
+Table 3 shows that out of the 14 Goyal and Welch variables, DP and DY have the
+best performance, with significant in-sample βs at all horizons and R2 higher than the rest,
+0.70%-0.80% at monthly horizons, rising to more than 10% at annual frequency. Consistent
+with evidence in Huang, Jiang, Tu, and Zhou (2015) and Rapach, Ringgenberg, and Zhou
+(2016), SI PLS and SII are even more impressive with larger beta coeﬃcients and higher R2
+at all horizons. β for MD has the expected negative sign, as argued in Section 2. The ability
+of MD to predict returns in-sample matches that of SII in terms of magnitude of β and R2,
+even surpassing it occasionally, as it generates significantly larger R2 at annual frequency of
+around 25% compared to around 17% for SII.
+The variable that stands out in Table 3 is MC. At all horizons, theβfor MC substantially
+bigger. MC also has the largest R2, often more than double the corresponding numbers for
+the next best predictors, SII and MD. Standards of predictive return regressions established
+in Campbell and Thompson (2008) suggest that a monthly R2 as low as 0.5% in a predictive
+regression is economically significant. The monthly R2 of MC is over 6%. The economic
+significance of β for MC of around 1.1 is also large. A one standard deviation higher value
+of MC predicts a market return lower by 1.1%, or 25% of standard deviation in monthly
+return.
+16The p-values based on the wild bootstrap procedure accounts for the issues raised in Stambaugh (1999).
+However, we also explicitly correct the bias in estimated β using a procedure in Stambaugh (1999). The
+results are very similar as those reported in Table 3. The bias-corrected coeﬃcients are available from the
+authors upon request.
+Even though in-sample performance of MC is quite impressive, Bossaerts and Hillion
+(1999), Goyal and Welch (2003), and Welch and Goyal (2008) show that in-sample per-
+formance does not always translate into out-of-sample return predictability. So next, we
+examine out-of-sample performance of MC.
+4.2 Out-of-sample tests
+Our results so far suggest robust in-sample predictability of aggregate stock returns by
+margin credit. However, as Bossaerts and Hillion (1999) and Goyal and Welch (2003, 2008)
+show that many robust in-sample predictors do no exhibit out-of-sample predictability. In
+this section, we first show that margin credit is a robust out-of-sample return predictor. We
+then use forecast encompassing tests to compare the information content of return prediction
+by margin credit with that of other predictors.
+Following Welch and Goyal (2008), we generate an equity premium prediction for t+ 1
+by a predictor x at time t,
+ˆrt+1 = ˆαt + ˆβtxt (2)
+where ˆαt and ˆβt are estimated with information available only until time t. That is, we
+estimate ˆαt and ˆβt by regressing {rs+1}t−1
+s=1 on a constant and {x}t−1
+s=1. We follow an expanding
+window approach so that for the next period t+2, ˆrt+2 is estimated as ˆαt+1 + ˆβt+1xt+1, where
+ˆαt+1 and ˆβt+1 by regressing {rs+1}t
+s=1 on a constant and {x}t
+s=1. We follow this process for
+all subsequent months.
+We consider all the predictors covered in the in-sample tests and two new combinations of
+the Goyal and Welch variables. Timmermann (2006) and Rapach, Strauss, and Zhou (2010)
+show that a simple combination of individual forecasts significantly improves predictability.
+Thus, we also consider a equally-weighted combination of 14 individual forecasts from Goyal
+and Welch variables. We call this forecast, GW MEAN. In a related work to improve fore-
+casts, Campbell and Thompson (2008) recommend economically motivated sign restrictions
+on ˆβt and ˆrt+1. Specifically, the strictest recommend setting ˆ rt+1 = 0, if ˆrt+1 turns out to
+be negative is used. We call the equally-weighted combination of individual forecasts with
+Campbell and Thompson (2008) restriction GW MEAN CT.
+As in Welch and Goyal (2008), Rapach, Strauss, and Zhou (2010), Rapach and Zhou
+(2013), Kelly and Pruitt (2013), Huang, Jiang, Tu, and Zhou (2015), Rapach, Ringgenberg,
+and Zhou (2016) among others, we divide the total sample (1984:01 - 2014:12) in to initial
+training period ( t = q months) and the remaining period ( t = q+ 1,q + 2,..,T ) for out-of-
+sample forecast evaluation. We use the data for the first 10 years from January 1984 through
+December 1993 for the first out-of-sample prediction for January 1994 ( t= q+ 1). We then
+generate the subsequent periods’ predictions as outlined above.
+We use the R2
+OS statistic (Campbell and Thompson (2008)) to evaluate out-of-sample
+predictions. R2
+OS is defined as
+R2
+OS = 1 −MSFEx
+MSFEh
+(3)
+where MSFEx is the mean squared forecast error when the variable x is used to generate
+out-of-sample predictions. MSFEh is mean squared forecast error when the historical mean,
+¯r, is used to generate out-of-sample predictions. Specifically, we define MSFEx as
+MSFEx = 1
+T −q
+T−1∑
+t=q
+(rt+1 −ˆrt+1)2 (4)
+Similarly, MSFEh is defined as,
+MSFEh = 1
+T −q
+T−1∑
+t=q
+(rt+1 −¯rt+1)2 (5)
+where ¯r is the historical mean of log excess returns. We obtain ¯r as
+¯rt+1 = 1
+t
+t∑
+s=1
+rt (6)
+R2
+OS measures proportional reduction in MSFE when variable x is used to forecast
+equity premium relative to historical average. An R2
+OS > 0 suggests that MSFE based
+on variable x is less than that based on historical mean. As in Rapach, Strauss, and Zhou
+(2010) and Rapach, Ringgenberg, and Zhou (2016), among others, we evaluate the statistical
+significance of R2
+OS using Clark and West (2007) statistic. This statistic is also known as
+the MSFE −adjustedstatistic and it follows the standard normal distribution.17 MSFE −
+adjustedstatistic tests the null hypothesis that H0 : R2
+OS ≤0 against HA : R2
+OS >0.
+Table 4 presents the out-of-sample results. At the monthly horizon of H=1, none of the
+14 macroeconomic predictors considered in Welch and Goyal (2008) produce positive R2
+OS.
+GWMEAN and GWMEANCT are also negative. Consistent with Rapach, Ringgenberg,
+and Zhou (2016), we find that short interest ( SII) generates positive and statistically sig-
+nificant R2
+OS of 1.16%. Short interest generates an even higher R2
+OS of 2.17% when we start
+the training period in 1973 ( SII 1973). SI PLS also has large and significant R2
+OS in our
+sample period at 2.5%-3.0%. MD does poorly with a negative R2
+OS. While SII and SI PLS
+beat the historical benchmark in MSFE terms, it is MC which exhibits the highest R2
+OS of
+17The Diebold and Mariano (1995) and West (1996) statistic has a nonstandard distribution for forecast
+comparison across nested models. The historical benchmark model is a nested model that corresponds to
+ˆβt = 0.
+7.45% statistically significant at 1% level. MC also generates highest R2
+OS at the quarterly,
+semi-annual and annual horizons.
+Table 5 examines the out-of-sample performance of the two halves of our sample as well
+as during NBER contractions and expansions. MC has positive R2
+OS and beats almost all
+predictors in all four subsamples. Only EP and SI PLS 1965 have larger R2
+OS than MC
+during 1994-2004, and only SI PLS 1965 during NBER expansions.
+We further assess the cumulative diﬀerence in squared forecast error ( CDSFE ) graphi-
+cally (see, for instance, Welch and Goyal (2008), Rapach, Strauss, and Zhou (2010), Rapach
+and Zhou (2013)). CDSFE is obtained over the out-of-sample period starting from t= q+1
+to t= τ as
+CDSFEτ =
+τ∑
+t=q
+(rt+1 −¯rt+1)2 −
+τ∑
+t=q
+(rt+1 −ˆrt+1)2 (7)
+Recall that the initial training period is from t = 1 to t = q, so that the first out-of-
+sample prediction starts at t = q+ 1. Figure 2 shows the time-series plot of CDSFE over
+January 1994 to December 2014 for six variables: MC, MD, SII, SI PLS, GW MEAN,
+and GW MEAN CT. A positive CDSFE indicates that the predictive model based on a
+variable outperforms historical benchmark in terms of MSFE . For large part of the out-of-
+sample period MC outperforms the historical mean. MC especially bests the historical mean
+during and around recessions. During uncertainty high risk-version, margin credit is very
+useful in asset allocation decisions. This is consistent with the evidence in other studies, such
+as Huang, Jiang, Tu, and Zhou (2015) that out-of-sample predictability is more significant
+around recessions. Performance of SII and SI PLS also improves during recessions. The
+GW combination forecasts and MD do not outperform the historical mean. Overall, based
+on R2
+OS and CDSFE , MC exhibits robust out-of-sample predictability.
+4.3 Forecast encompassing tests
+Our in-sample and out-of-sample results suggest that MC predicts stock returns better than
+all predictors used in the literature. We now examine statistically the explanation for these
+results based on forecast encompassing tests (Chong and Hendry (1986) and Fair and Shiller
+(1990)). Forecast encompassing tests compare the information content of return forecasts of
+a common dependent variable across predictive regressions of diﬀerent independent variables
+(see for instance, Rapach, Strauss, and Zhou (2010), Rapach and Zhou (2013), and Rapach,
+Ringgenberg, and Zhou (2016)).
+We form an optimal forecast as a convex combination of two forecasts for month t+ 1 as
+ˆr∗
+t+1 = (1 −λ)ˆr1,t+1 + λˆr2,t+1, (8)
+where ˆr1,t+1 is the forecast based on the first variable, ˆr2,t+1 is the forecast based on the second
+variable, and 0 ≤λ ≤1. If λ = 0, it suggests that the forecast ˆ r1,t+1 encompasses ˆr2,t+1.
+In other words, the second variable does not have any information beyond the information
+contained in the first variable to predict excess market returns. However, ifλ> 0, it suggests
+that the forecast ˆr1,t+1 does not encompasses ˆr2,t+1 and both variable 1 and 2 have some
+information not contained in the other that is useful to predict excess returns. We test the
+null hypothesis that H0 : λ= 0 against the alternative that it is greater than zeroHA : λ> 0.
+The statistical significance is based on the Harvey, Leybourne, and Newbold (1998) statistic.
+We report combinations over monthly ( H = 1), quarterly ( H = 3), semi-annual ( H = 6)
+and annual horizons (H = 12).
+The values in 6 represent the λ’s for the predictors in the columns against the predictors
+along the rows. The first predictor variable, generating ˆr1,t+1 is in column 1, while the second
+predictor variable changes across the remaining columns. Focusing on monthly prediction
+combinations (H = 1), the column under MC has large positive and statistically significant
+λ’s with values of either 1 or very close to 1. In other words, predictions based on MC
+encompass the predictions based on all other variables. These include MD, GW MEAN,
+SII, SII 1973, SI PLS, and SI PLS 1965. Focusing on the last row, we find that none of
+the predictions based on other variables have λ’s significantly diﬀerent from 0. Thus, none of
+the other variables seem to provide additional information not already contained in MC. We
+find similar evidence at longer horizon predictions.18 Margin credit has superior information
+in comparison to other predictors for future excess market returns.
+5 Asset allocation
+Our out-of-sample results based R2
+OS show that margin credit is a robust predictor of stock
+returns which encompasses the information available in all other predictors with power.
+This should allow an investor to profit more from a strategy based on MC than based on
+any other predictor. As in Kandel and Stambaugh (1996), Campbell and Thompson (2008),
+Ferreira and Santa-Clara (2011), and Rapach, Ringgenberg, and Zhou (2016), among others,
+we consider a mean-variance investor who allocates money optimally, at the end of month
+t, between a risky asset , the S&P500 index, and a risk-free asset based on out-of-sample
+prediction of excess return. The investor re-balances portfolio at the monthly frequency.
+We compute the certainty equivalent return (CER) gain and Sharpe Ratio for strategies
+using each predictor. Specifically, at the end of month t, the investor optimally allocates the
+18λ’s for quarterly ( H = 3), semi-annual (H = 6) and annual horizons ( H = 12) are not reported but are
+available from the authors upon request.
+following weight to equities during the month t+ 1:
+wt = 1
+γ
+ˆrt+1
+ˆσ2
+t+1
+(9)
+where γ is the risk-aversion coeﬃcient, ˆrt+1 is the out-of-sample forecast of the simple excess
+return, and ˆσ2
+t+1 is the variance forecast. We follow Campbell and Thompson (2008) and
+estimate ˆσ2
+t+1 using monthly returns over a 10 year moving window. As in Rapach, Ringgen-
+berg, and Zhou (2016), we restrict wt to lie between -0.5 and 1.5 and consider γ = 3. This
+investor realizes an average utility of
+ˆνx = ˆµx −1
+2γˆσ2
+x (10)
+where ˆνx and ˆσ2
+x are the mean and variance over the out-of-sample period for the return of
+the portfolio formed using ˆrt+1 and ˆσ2
+t+1. If however, the investor allocates money based on
+the historical mean, she optimally allocates
+wt = 1
+γ
+¯rt+1
+ˆσ2
+t+1
+(11)
+to equities during the month t+ 1 and realizes an average utility of
+ˆνh = ˆµh −1
+2γˆσ2
+h (12)
+where ˆµh and ˆσ2
+h are the mean and variance over the out-of-sample period for the return of
+the portfolio formed using ¯rt+1 and ˆσ2
+t+1. The CER gain is given by the diﬀerence between νx
+and νh. We multiply it by 12 to annualize the CER. The annualized CER can be interpreted
+as the management fee that an investor will be willing to pay to have access to the equity
+premium forecasts based on the predictor x instead of historical mean.
+Table 7 shows that, consistent with out-of-sample predictability,SII, SI PLS, MC gen-
+erate strong CER gains. Out of these predictors, margin credit generates highest annualized
+CER gains of 9.55%. The second highest CER gain is generated by SI PLS around 7%-
+7.5%. Thus margin credit outperforms the next best predictor by more than 2 percentage
+points p.a. Margin credit also outperforms all other strategies in terms of Sharpe ratio. It
+generates the highest Sharpe ratio of 1.0 nearly doubling the Sharpe ratio of the buy and
+hold market return.
+Table 7 shows results over diﬀerent subsamples as well as over NBER recessions and
+expansion periods. During both the subsamples, 1994:01 to 2004:12 and 2005:01 to 2014:12,
+margin credit outperforms other predictors both in terms of Sharpe ratio as well as CER
+gains. We find similar results over NBER business cycles. The performance is particularly
+spectacular during recessions. Out of the very few predictors that generate positive Sharpe
+ratio, MC is the best with Sharpe ratio of 1.42, more than 6 times the Sharpe ratio for the
+next best predictor. MC also performs the best with the highest CER gain, 50% more that
+of SI PLS, the next best predictor. This is consistent with the earlier evidence in Figure 2
+that shows that margin credit outperforms historical mean dramatically during recessions.
+While the strategy for the mean-variance investor, that allows for shorting the S&P 500
+can be easily implemented using S&P 500 futures, we also consider a long only strategy that
+even retail investors can implement. Table 8 shows out-of-sample performance statistics for
+a long only investor that invests either 100% in the equity market or 100% in the risk-free
+asset. The investments weights are determined by the prediction of one month ahead excess
+log return to the S&P 500. The investment weight is 1 in S&P 500, when the prediction is
+positive and 0 otherwise. Buy and hold corresponds to the investor passively holding the
+market portfolio.
+We find that using this very simple switching strategy between the equities and risk-free
+asset, a long only investor realizes the highest Sharpe Ratio utilizing the predictions based
+on margin credit. Over the full out-of-sample from 1994:01 to 2014:12, the investor realizes
+a Sharpe Ratio of 0.92. SI PLS 1965 does almost as well with 0.90. Both have CER gains
+of around 5% p.a. Over the subsamples and as well as NBER business cycles, MC and
+SI PLS 1965 continues to be the two best predictors, consistently generating higher Sharpe
+ratios and CER gains than the other predictors.
+6 Economic channels
+A fundamental relationship in finance is that the value of a stock is the discounted present
+value of the future expected cash flows. Thus, stock return for any period can result from
+change in the discount rate or change in the expectations of the cash flows or both. Then
+a variable that predicts lower stock market return must either predict an increase in the
+discount rate or a decrease in cash flow expectations or both.
+We have seen so far that MC predicts aggregate stock market return with a negative
+sign. If its predictive ability comes from the discount rate channel, MC must predict an
+increase in the discount rate. This is plausible. A higher value of MC means the investors
+are choosing not to reinvest in the stock market and holding cash instead - a reduction in the
+eﬀective leverage. Ang, Gorovyy, and van Inwegen (2011) find that hedge funds’ leverage
+decreased in mid-2007 prior to the financial crisis. They show that hedge fund reduce their
+leverage in response to increased riskiness of the assets - a strategy consistent with hedge
+funds targeting a particular risk profile. They reduce their exposure if the risk goes up. The
+evidence in Agarwal, Ruenzi, and Weigert (2016) shows that before the 2008 crisis, hedge
+funds reduced their exposure to tail risk. Margin investors could also be following a similar
+strategy. This withdrawal from risky assets by investors who are usually willing to bear
+risk means the overall risk-bearing capacity of the market goes down, pushing up the risk
+premium and the discount rate.
+Liu and Mello (2011) also report that, just prior to the 2008 market crash, hedge funds
+reduced their risky investments and increased their allocation to cash. To explain such a
+phenomenon, they present a model where hedge funds act conservatively when faced with a
+risk of run by their investors. Consistent with this notion, Ben-David, Franzoni, and Mous-
+sawi (2012) find that reduction in hedge funds’ stock holdings during the 2007-8 crisis was
+primarily due to redemptions and pressure from their lenders. If the margin long investors
+are managing money on behalf of others, they may face trade-oﬀs similar to the hedge funds.
+They may, thus, act conservatively when anticipating greater redemption risk and hold more
+money as margin credit rather than reinvesting it. This conservative behavior when faced
+with greater risk also results in higher risk premium and consequently a higher discount rate.
+Note that for the above arguments to hold, the margin investors do not need to be the
+marginal investors. They simply need to act on the basis of anticipated behavior of the
+marginal investors for their actions to predict the discount rate.
+On the other hand, predictive power of MC could also come from the cash flow channel.
+Brunnermeier and Nagel (2004) find supportive evidence by showing that hedge funds suc-
+cessfully timed price movements of technology stocks during the Nasdaq bubble. Theoretical
+model in Dai and Sundaresan (2010) shows that hedge funds’ optimal leverage depends upon
+Sharpe ratio of the assets. If Sharpe ratio goes down, either due to lower expected return –
+cash flow channel – or higher standard deviation – discount rate channel. Thus, conserva-
+tiveness on the part of margin investors could also reflect superior information about future
+cash flows that has not been incorporated in the prices. The argument here is similar as in
+the case of aggregate short interest. Rapach, Ringgenberg, and Zhou (2016) provide evidence
+that that ability of SII to predict aggregate returns comes about because short investors are
+better informed about future cash flows. As we argue in Section 2, margin credit, as opposed
+to margin debt, allows us to focus on winning investors which are likely to be sophisticated
+investors. So it is possible that they pull back from reinvesting their gains when they expect
+the future cash flows to be low. Then, the ability of MC to predict future returns would
+come via the cash flow channel.
+We use the approach in Huang, Jiang, Tu, and Zhou (2015) to investigate whether the
+discount rate channel or the cash flow channel or both play a role in the predictive ability
+of MC.
+Campbell and Shiller (1988) log-linearize the stock return and give the following approx-
+imate identity:
+Rt+1 = k+ DGt+1 −ρD/Pt+1 + D/Pt. (13)
+Here Rt+1 is the aggregate stock market return from tto t+1. DGt+1 is the log aggregate
+dividend-growth rate from from tto t+ 1. D/Pt is the log aggregate dividend price ratio at
+time t. k and ρ are constants.
+Based on the above equation, controlling for information already available in D/Pt, MC
+predicting Rt+1 means it must forecast either D/Pt + 1 or DGt+1 or both. Arguments in
+Cochrane (2008) and Cochrane (2011) suggest that the variation in dividend-price ratio
+is mainly due to changes in the discount rate. Dividend growth captures the changes in
+cash flows. Thus, Equation 13 formalizes the cash flow channel and discount rate channel
+dichotomy. MC’s ability to predict the aggregate dividend-price ratio, our proxy of the
+discount rate, would point to the discount rate channel. If it predicts aggregate dividend
+growth rate, the channel would be cash flow predictability.
+Following Huang, Jiang, Tu, and Zhou (2015), we run the following regressions,
+Yt+1 = α+ βMCt + ψDPt + ηt+1, Y = Ret,DP,DG,EG,GDPG. (14)
+Here, Retis the log excess return on the S&P 500 index (including dividends). DP is the
+the log of 12-month dividend to price ratio for the S&P 500. DG and EG are the growth rates
+of log aggregate dividends and log aggregate earnings respectively. GDPG is the growth rate
+of log real GDP. DP, DG and EG are constructed from the data provided by Robert Shiller
+on his website.19 In addition to the dividend growth, we use aggregate earnings growth rate
+and real GDP growth rate as alternative measures of changes in cash flows. We run the
+regressions in (14) at quarterly and annual frequency. Quarterly observations allow us to use
+the information available at finer frequency. However, to avoid influence of strong seasonal
+patterns, particularly in DG and EG, we run the regressions also at annual frequency.
+Further, to use the information available monthly and yet retain the annual growth
+rates to avoid the seasonality issue, we also run the regressions (except Y = GDPG)20 at
+monthly frequency, with returns and growth rates measured as monthly averages over annual
+19http://www.econ.yale.edu/ shiller/data.htm
+20GDP numbers only change quarterly preventing a monthly calculation of GDP growth.
+overlapping periods. These specifications are similar to the ones in our in-sample analysis
+with H = 12 We again follow the methodology suggested in Britten-Jones, Neuberger, and
+Nolte (2011) to transform the regression of overlapping observations ofY on Xto a regression
+of monthly, non-overlapping observations of Y on the aggregation of lags of the X.21
+Table 9 presents the results. For all frequencies, calculate Newey-West t-statistics, and
+report the statistical significance based on wild boot-strapped p-values. First row in each
+panel reports univariate regression of Rett+1 on MCt. Consistent with our in-sample results
+discussed in Section 2, MC has predictive power at all frequencies. The second row in each
+panel shows results for Equation (14) for Y = Ret - specification in Row 1 with DP added
+as a control. We see that the coeﬃcient β in Row 2 has magnitude and significance very
+similar that in Row 1. Thus MC retains its ability to predict return even after controlling
+for DP. This is not surprising given the results in Table 6 on forecast encompassing tests.
+There we find that for quarterly, semi-annual and annual frequencies, forecasts based on DP
+do not provide any additional information over and above the forecasts based on MC.
+Rows 3 onward in the panels in Table 9 present results of our investigations of the
+economic channels. In all the panels, β for DP is positive and statistically significant. This
+result is consistent with MC predicting the returns via the discount rate channel. It predicts
+a lower return because it predicts a higher value of DP i.e. a higher discount rate.
+We also find support for the cash flow channel. In all the panels, the coeﬃcients for
+DG, EG and GDPG are negative and statistically significant. Thus, MC also captures
+information about future cash flows. It predicts a lower return partly because it predicts
+lower cash flow growth. This result is similar to those of Huang, Jiang, Tu, and Zhou (2015)
+21Diﬀerences arise from allowing more observations in the tests here. While the in-sample transformed
+regressions are restricted to drop end of sample observations as the overlapping in-sample specifications do.
+and Rapach, Ringgenberg, and Zhou (2016) that SI PLS and SII predict return via the cash
+flow channel. From the forecast encompassing tests (Section 4.3), we know that at quarterly,
+semi-annual and annual frequencies, MC contains all the information in SII and SI PLS that
+is relevant for forecasting returns. Thus, it is reasonable that, just like SII and SI PLS, it
+contains the information about future cash flows. Overall, both the discount rate channel
+and cash flow channel information contribute to MC’s very strong ability to predict future
+returns.
+7 Conclusion
+Our study finds that margin credit, excess debt capacity of investors buying on the margin,
+is a powerful predictor of future excess market returns. After taking out a statistically
+significant trend, a one standard deviation higher margin credit predicts that future return
+would be lower by 70 to 110 basis points per month. Over a period from 1984 to 2014, MC
+produces R2 for an in-sample predictive regression ranging from 6% at monthly horizons to
+27% at annual horizons. These numbers are often more than twice as large as the R2 of the
+best predictors, old and new, previously suggested in the literature. In the out-of-sample
+tests over a period from 1994 to 2014, MC again outperforms other predictive variables by
+large margins. Moreover, once we consider the information in MC, the other predictors don’t
+provide any additional information relevant for forecasting. A trading strategy based on MC
+generates 9.5% annualized CER gains, relative to a strategy based on the historical equity
+premium.
+Substantial predictive power of MC is partly due to its ability to successfully predict and
+hence avoid substantial parts of the market downturns of the early 2000s and 2008. Out of
+the 12 worst months for S&P 500 in our sample, an MC-based strategy generated positive
+returns during 7 months by shorting the market.
+Large values of MC result from the levered long investors’ decision not to reinvest their
+gains. This conservatism may be a sign that they expect risk and hence discount rate to be
+higher or future cash flows to be lower. We find the ability of MC to predict future returns
+comes via both discount rate and cash flow channels.
+Our study extends a recent strand of return predictability literature that strives to ex-
+tract information from the beliefs and actions of a subset of investors. We show that the
+information extracted from the actions of winning, levered long investors has substantial
+information about future cash flows as well as discount rates. Timing the market based on
+this information produces large gains for the investors.
+References
+Agarwal, Vikas, Stefan Ruenzi, and Florian Weigert, 2016, Tail Risk in Hedge Funds: A
+Unique View from Portfolio Holdings, Journal of Financial Economicsp. Forthcoming.
+Ang, Andrew, Sergiy Gorovyy, and Gregory B. van Inwegen, 2011, Hedge fund leverage,
+Journal of Financial Economics102, 102–126.
+Baker, Malcolm, and Jeﬀrey Wurgler, 2006, Investor sentiment and the cross-section of stock
+returns, Journal of Finance61, 1645–1680.
+Ben-David, Itzhak, Francesco Franzoni, and Rabih Moussawi, 2012, Hedge fund stock trading
+in the financial crisis of 20072009, Review of Financial Studies25, 1–54.
+Bossaerts, Peter, and Pierre Hillion, 1999, Implementing statistical criteria to select return
+forecasting models: what do we learn?, Review of Financial Studies12, 405–428.
+Britten-Jones, Mark, Anthony Neuberger, and Ingmar Nolte, 2011, Improved inference in
+regression with overlapping observations, Journal of Business Finance and Accounting38,
+657–683.
+Brunnermeier, Markus K., and Stefan Nagel, 2004, Hedge funds and the technology bubble,
+Journal of Finance59, 2013–2040.
+Campbell, John Y., and Robert J. Shiller, 1988, The dividend-price ratio and expectations
+of future dividends and discount factors, Review of Financial Studies1, 195–228.
+Campbell, John Y., and Samuel B. Thompson, 2008, Predicting excess stock returns out
+of sample: Can anything beat the historical average?, Review of Financial Studies 21,
+1509–1531.
+Chen, Yong, and Bing Liang, 2007, Do market timing hedge funds time the market?,Journal
+of Financial and Quantitative Analysis42, 827–856.
+Chong, Yock Y, and David F Hendry, 1986, Econometric evaluation of linear macro-economic
+models, Review of Economic Studies53, 671–690.
+Clark, Todd E, and Kenneth D West, 2007, Approximately normal tests for equal predictive
+accuracy in nested models, Journal of econometrics138, 291–311.
+Cochrane, John H., 2008, The dog that did not bark: A defense of return predictability,
+Review of Financial Studies21, 1533–1575.
+, 2011, Presidential address: Discount rates, Journal of Finance66, 1047–1108.
+Dai, John, and Suresh Sundaresan, 2010, Risk management framework for hedge funds: Role
+of funding and redemption options on leverage, Columbia University Working Paper.
+Diebold, Francis X, and Robert S Mariano, 1995, Comparing predictive accuracy, Journal
+of Business & Economic Statistics13, 253–263.
+Fair, Ray C, and Robert J Shiller, 1990, Comparing information in forecasts from econometric
+models, American Economic Review3, 375–389.
+Fama, Eugene F., 1970, Eﬃcient capital markets: A review of theory and empirical work,
+Journal of Finance25, 383–417.
+, 1991, Eﬃcient capital markets: II, Journal of Finance46, 1575–1617.
+Ferreira, Miguel A, and Pedro Santa-Clara, 2011, Forecasting stock market returns: The
+sum of the parts is more than the whole, Journal of Financial Economics100, 514–537.
+Garleanu, Nicolae, and Lasse Heje Pedersen, 2011, Margin-based asset pricing and deviations
+from the law of one price, Review of Financial Studies24, 1980–2022.
+Goyal, Amit, and Ivo Welch, 2003, Predicting the equity premium with dividend ratios,
+Management Science 49, 639–654.
+Griﬃn, John M., and Jin Xu, 2009, How smart are the smart guys? a unique view from
+hedge fund stock holdings, Review of Financial Studies22, 2531–2570.
+Harvey, David I, Stephen J Leybourne, and Paul Newbold, 1998, Tests for forecast encom-
+passing, Journal of Business & Economic Statistics16, 254–259.
+Harvey, David I., Stephen J. Leybourne, and A. M Robert Taylor, 2007, A simple, robust
+and powerful test of the trend hypothesis, Journal of Econometrics141, 1302–1330.
+He, Zhiguo, Bryan Kelly, and Asaf Manela, 2016, Intermediary Asset Pricing: New Evidence
+From Many Asset Classes, .
+He, Zhiguo, and Arvind Krishnamurthy, 2013, Intermediary Asset Pricing, American Eco-
+nomic Review 103, 732–770.
+Huang, Dashan, Fuwei Jiang, Jun Tu, and Guofu Zhou, 2015, Investor sentiment aligned: A
+powerful predictor of stock returns, Review of Financial Studies28, 791–837.
+Inoue, Atsushi, and Lutz Kilian, 2005, In-sample or out-of-sample tests of predictability:
+Which one should we use?, Econometric Reviews23, 371–402.
+Kandel, Shmuel, and Robert F Stambaugh, 1996, On the predictability of stock returns: An
+asset-allocation perspective, Journal of Finance51, 385–424.
+Kelly, Bryan, and Seth Pruitt, 2013, Market expectations in the cross-section of present
+values, The Journal of Finance68, 1721–1756.
+Kruttli, Mathias S., Andrew J. Patton, and Tarun Ramadorai, 2015, The impact of hedge
+funds on asset markets, Review of Asset Pricing Studies5, 185–226.
+Kwiatkowski, Denis, Peter C.B. Phillips, Peter Schmidt, and Yongcheol Shin, 1992, Test-
+ing the null hypothesis of stationarity against the alternative of a unit root, Journal of
+Econometrics 54, 159 – 178.
+Liu, Xuewen, and Antonio S. Mello, 2011, The fragile capital structure of hedge funds and
+the limits to arbitrage, Journal of Financial Economics102, 491–506.
+Ng, Serena, and Pierre Perron, 2001, Lag Length Selection and the Construction of Unit
+Root Tests with Good Size and Power, Econometrica 69, 1519–1554.
+Perron, Pierre, and Tomoyoshi Yabu, 2009, Estimating deterministic trends with an inte-
+grated or stationary noise component, Journal of Econometrics151, 56–69.
+Rapach, David, and Guofu Zhou, 2013, Forecasting stock returns, in Graham Elliott, and Al-
+lan Timmermann, ed.: Handbook of Economic Forecasting, vol. 2A . pp. 327–383 (Elsevier
+B.V.).
+Rapach, David E., Matthew C. Ringgenberg, and Guofu Zhou, 2016, Short interest and
+aggregate stock returns, Journal of Financial Economics, Forthcoming.
+Rapach, David E., Jack K. Strauss, and Guofu Zhou, 2010, Out-of-sample equity premium
+prediction: Combination forecasts and links to the real economy, Review of Financial
+Studies 23, 821–862.
+Rappoport, Peter, and Eugene N White, 1994, Was the Crash of 1929 Expected?, American
+Economic Review 84, 271–281.
+Rytchkov, Oleg, 2014, Asset Pricing with Dynamic Margin Constraints, Journal of Finance
+69, 405–452.
+Stambaugh, Robert F., 1999, Predictive regressions, Journal of Financial Economics 54,
+375–421.
+Timmermann, Allan, 2006, Forecast combinations, in Handbook of Economic Forecasting,
+vol. 1 . pp. 135–196 (Elsevier).
+Welch, Ivo, and Amit Goyal, 2008, A comprehensive look at the empirical performance of
+equity premium prediction, Review of Financial Studies21, 1455–1508.
+West, Kenneth D, 1996, Asymptotic inference about predictive ability, Econometrica 4,
+1067–1084.
+Figure 1: Margin credit: 1983-2014
+This figure plots growth of (a) margin credit/GDP, and (b) detrended margin credit/GDP.
+The shaded vertical regions show NBER dates recessions.
+0.005
+0.010
+0.015
+0.020
+0.025
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+MC/GDP(%)
+Margin Credit Scaled By GDP
+0.000
+0.005
+0.010
+0.015
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+MC/GDP(%)
+Detrended Margin Credit Scaled By GDP
+Figure 2: Cumulative diﬀerence in squared forecast error: 1994-01 to 2014-12
+This figure plots cumulative diﬀerence in squared forecast errors for the historical average benchmark and out-of-sample forecasts based on individual
+predictors. The individual predictors are margin credit ( MC), margin debt ( MD), short interest index in Rapach, Ringgenberg, and Zhou (2016) ( SII),
+investor sentiment aligned in Huang, Jiang, Tu, and Zhou (2015) ( SI PLS), an equally-weighted combination of forecasts based on Goyal and Welch 14
+predictors (GW MEAN), and modified mean as suggested in Campbell and Thompson (2008) ( GW MEANCT ). The shaded regions correspond to NBER
+recessions.
+GW MEAN GW MEAN CT
+SII SI_PLS
+MD MC
+0.00
+0.01
+0.02
+0.03
+0.00
+0.01
+0.02
+0.03
+0.00
+0.01
+0.02
+0.03
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014
+Figure 3: Cumulative returns to $1: mean-variance investor
+This figure plots cumulative returns (sum of logs) for an out-of-sample strategy for a mean-
+variance investor that invests in S&P500 and T-bills with weights that lie in the interval
+[-0.5,1.5].
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014
+Cummulative Log Return
+Strategy
+MC
+BUY AND HOLD
+Log Returns to $1
+Figure 4: Worst and best months: mean-variance investor
+This figure shows returns in worst and best months for an out-of-sample strategy for a mean-
+variance investor that invests in S&P500 and T-bills with weights that lie in the interval
+[-0.5,1.5].
+−20
+−10
+Oct−08 Aug−98 Sep−02 Feb−09 Feb−01 Sep−08 Jun−08 Jan−09 Sep−01 May−10 Nov−00 Jul−02
+Month
+Return
+Strategy
+SP500
+MC
+(a) Lowest S&P500 return months
+−5
+Nov−96 Apr−01 Nov−01 Oct−98 Jul−97 Apr−03 Mar−09 Oct−02 Sep−10 Apr−09 Mar−00 Oct−11
+Month
+Return
+Strategy
+SP500
+MC
+(b) Highest S&P500 return months
+Figure 5: Cumulative Returns to $1: long only investor
+This figure plots cumulative returns (sum of logs) for an out-of-sample strategy for a long
+only investor that invests in S&P500 or T-bills.
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014
+Cummulative Log Return
+Strategy
+MC
+BUY AND HOLD
+Log Returns to $1
+Figure 6: Worst and best months: long only investor
+This figure shows returns in worst and best months for an out-of-sample strategy for a long
+only investor that invests in S&P500 or T-bills.
+−15
+−10
+−5
+Oct−08 Aug−98 Sep−02 Feb−09 Feb−01 Sep−08 Jun−08 Jan−09 Sep−01 May−10 Nov−00 Jul−02
+Month
+Return
+Strategy
+SP500
+MC
+(a) Lowest S&P500 return months
+Nov−96 Apr−01 Nov−01 Oct−98 Jul−97 Apr−03 Mar−09 Oct−02 Sep−10 Apr−09 Mar−00 Oct−11
+Month
+Return
+Strategy
+SP500
+MC
+(b) Highest S&P500 return months
+TABLE 1: Summary statistics
+The table displays summary statistics for 14 predictor variables from Goyal and Welch (2008) and aggregate
+short interest. DP is the log dividend-price ratio, DY is the log dividend yield, EP is the log earnings-price
+ratio, DE is the log dividend-payout ratio, RVOL is the volatility of excess stock returns, BM is the book-to-
+market value ratio for the Dow Jones Industrial Average, NTIS is net equity expansion, TBL is the interest
+rate on a three-month Treasury bill, LTY is the long-term government bond yield, LTR is the return on
+long-term government bonds, TMS is the long-term government bond yield minus the Treasury bill rate,
+DFY is the diﬀerence between Moody’s BAA- and AAA-rated corporate bond yields, DFR is the long-term
+corporate bond return minus the long-term government bond return, and INFL is inflation calculated from
+the CPI for all urban consumers. EWSI, constructed by Rapach, Ringgenberg, and Zhou (2016), is the
+equal-weighted mean across all firms of the number of shares held short in a given firm normalized by each
+firm’s shares outstanding. The data for raw short interest and shares outstanding are from Compustat and
+CRSP, respectively. EWSI includes all publicly listed stocks on U.S. exchanges, ADRs, ETFs, and REITs,
+after excluding assets with a stock price below $5 per share and assets that are below the fifth percentile
+breakpoint of NYSE market capitalization. SII is the detrended log of EWSI, constructed by removing a
+linear trend from the log of EWSI; SII is standardized to have a standard deviation of one. SI PLS is the
+sentiment index created by Huang, Jiang, Tu, and Zhou (2015) based on the partial least square approach
+from the 6 sentiment proxies from Baker and Wurgler (2006). MCAP/GDP is the ratio of the CRSP total
+market capitalization to GDP. Margin Debit is the total amount borrowed by investors with margin accounts
+at NYSE member organizations used to take margin long positions, in millions of dollars. Margin credit is the
+total amount available for withdrawal held by investors in margin accounts at NYSE member organizations,
+in millions of dollars. MD/GDP and MC/GDP are the ratios of margin debt and margin credit to GDP
+respectively. The sample period is from 1984:01 to 2014:12.
+Statistic N Mean St. Dev. Min Max
+DP 372 −3.80 0.36 −4.52 −3.02
+DY 372 −3.79 0.36 −4.53 −3.02
+EP 372 −3.01 0.41 −4.84 −2.22
+DE 372 −0.79 0.40 −1.24 1.38
+RVOL 372 0.15 0.05 0.05 0.32
+B/M 372 0.34 0.14 0.12 0.80
+NTIS 372 0.01 0.02 −0.06 0.05
+TBL 372 3.85 2.70 0.01 10.47
+LTY 372 6.30 2.35 2.06 13.81
+LTR 372 0.83 3.01 −11.24 14.43
+TMS 372 2.45 1.27 −0.41 4.55
+DFY 372 1.01 0.40 0.55 3.38
+DFR 372 −0.02 1.57 −9.75 7.37
+INFL 372 0.23 0.26 −1.77 1.38
+EWSI 372 2.79 1.93 0.45 8.92
+SI PLS 372 −0.24 0.77 −1.18 3.03
+MCAP/GDP 372 101.75 35.54 45.61 184.90
+Margin Debt ($M) 372 153,078.60 117,861.30 21,790 465,720
+Margin Credit ($M) 372 73,103.74 74,052.88 1,670 385,850
+MD/GDP (%) 372 1.36 0.61 0.49 2.84
+MC/GDP (%) 372 0.58 0.47 0.04 2.57
+TABLE 2: Correlations
+The table displays Pearson correlation coeﬃcients for 14 predictor variables from Goyal and Welch (2008), the short interest index (SII), the sentiment index
+based on a partial least squares approach (SI PLS), and the de-trended ratios of margin debt and margin credit to GDP. See the notes to Table 1 for the
+variable definitions and sample description.
+MCAP
+DP DY EP DE RVOL B/M NTIS TBL LTY LTR TMS DFY DFR INFL SII SI PLS /GDP MD MC RET t+1
+DP 1.00
+DY 0.99 1.00
+EP 0.46 0.46 1.00
+DE 0.43 0.42 -0.60 1.00
+RVOL -0.10 -0.09 -0.50 0.42 1.00
+B/M 0.87 0.86 0.62 0.15 -0.14 1.00
+NTIS -0.22 -0.22 -0.12 -0.08 -0.10 -0.25 1.00
+TBL 0.46 0.47 0.45 -0.04 -0.17 0.45 -0.10 1.00
+LTY 0.67 0.67 0.42 0.17 -0.08 0.64 0.02 0.88 1.00
+LTR 0.08 0.08 0.08 -0.01 -0.02 0.10 -0.05 0.07 0.01 1.00
+TMS 0.25 0.24 -0.18 0.40 0.21 0.23 0.25 -0.49 -0.03 -0.13 1.00
+DFY 0.40 0.39 -0.25 0.61 0.41 0.39 -0.54 -0.10 0.04 0.04 0.29 1.00
+DFR 0.00 0.03 -0.14 0.14 0.14 -0.01 0.03 -0.05 0.01 -0.52 0.13 0.10 1.00
+INFL 0.11 0.11 0.22 -0.12 -0.10 0.13 0.00 0.27 0.25 -0.04 -0.10 -0.22 -0.11 1.00
+SII -0.01 -0.02 -0.12 0.11 -0.06 -0.10 -0.36 0.06 -0.01 -0.02 -0.16 0.16 -0.07 0.15 1.00
+SI PLS -0.14 -0.16 -0.19 0.07 0.15 -0.07 0.00 0.24 0.23 0.03 -0.07 0.16 -0.04 -0.07 -0.15 1.00
+MCAP/GDP -0.90 -0.90 -0.37 -0.42 0.00 -0.72 0.03 -0.50 -0.72 -0.04 -0.27 -0.24 -0.06 -0.15 -0.02 0.20 1.00
+MD -0.40 -0.41 0.05 -0.40 -0.04 -0.21 -0.11 0.25 0.04 0.04 -0.45 -0.24 -0.15 0.04 -0.16 0.49 0.54 1.00
+MC 0.04 0.01 -0.10 0.13 0.03 0.07 -0.56 0.07 0.08 -0.02 0.01 0.45 -0.15 0.06 0.58 0.34 0.11 0.22 1.00
+RETt+1 0.09 0.09 0.07 0.00 0.04 0.06 0.03 0.00 -0.01 0.04 -0.01 -0.04 0.09 0.05 -0.13 -0.16 -0.09 -0.12 -0.25 1.00
+TABLE 3: In-sample predictive regressions
+In-sample predictive regression estimation results, 1984:01-2014:12. The table reports the ordinary least squares estimate of β and R 2 statistic for the
+predictive regression model (-) indicates that we take the negative of the predictor variable. See the notes for Table 1 for the variable definitions and sample
+description. Each predictor variable is standardized to have a standard deviation of one. Variables with expected negative betas are denoted with (-) all
+other variables are expected to have positive beta. Reported t-statistics are heteroskedasticity and auto-correlation robust for testing H 0 : b = 0 against H A
+: b > 0 for variables with positive expected beta and H A : b < 0 for variables with negative expected beta; ∗, ∗∗ and ∗∗∗ indicate significance at the 10%,
+5%, and 1% levels, respectively, according to wild bootstrapped p -values.
+β t-stat R 2(%)
+H=1 H=3 H=6 H=12 H=1 H=3 H=6 H=12 H=1 H=3 H=6 H=12
+DP(+) 0.372 ∗∗ 0.401∗∗ 0.426∗∗∗ 0.441∗∗ 1.614 1.913 2.14 2.275 0.713 2.352 5.166 10.909
+DY(+) 0.404 ∗∗ 0.408∗∗ 0.428∗∗∗ 0.445∗∗∗ 1.806 1.964 2.153 2.269 0.838 2.438 5.224 11.09
+EP(+) 0.318 ∗ 0.265∗ 0.236 0.251 0.988 0.81 0.72 0.924 0.521 1.03 1.587 3.53
+DE(+) 0.011 0.091 0.143 0.142 0.033 0.323 0.593 0.842 0.001 0.12 0.583 1.124
+RVOL(+) 0.176 0.132 0.09 0.041 0.854 0.695 0.482 0.273 0.159 0.255 0.228 0.094
+B/M(+) 0.267 0.326 ∗∗ 0.38∗∗ 0.39∗∗ 1.213 1.614 1.91 2.023 0.366 1.563 4.115 8.572
+NTIS(-) 0.131 0.236 0.263 0.248 0.442 0.763 0.765 0.795 0.088 0.815 1.969 3.448
+TBL(-) -0.036 -0.013 -0.013 -0.042 -0.151 -0.036 -0.005 -0.07 0.007 0.002 0.005 0.092
+LTY(+) -0.066 -0.02 0.019 0.091 -0.273 -0.069 0.141 0.573 0.022 0.006 0.01 0.435
+LTR(+) 0.189 0.062 0.149 ∗∗ 0.088∗∗ 0.814 0.377 1.532 2.009 0.184 0.057 0.626 0.427
+TMS(+) -0.045 -0.01 0.062 0.244 ∗ -0.203 -0.047 0.262 1.267 0.01 0.001 0.108 3.328
+DFY(+) -0.164 -0.082 0.085 0.148 -0.442 -0.217 0.296 0.752 0.139 0.098 0.205 1.207
+DFR(+) 0.398 ∗∗ 0.164∗∗ 0.13∗∗ 0.078∗ 1.026 0.843 1.037 0.696 0.815 0.394 0.48 0.335
+INFL(-) 0.207 -0.042 -0.184 ∗ -0.211∗∗ 0.697 -0.156 -1.404 -1.716 0.219 0.026 0.959 2.478
+SII(-) -0.577 ∗∗∗ -0.65∗∗∗ -0.674∗∗∗ -0.577∗∗ -2.38 -2.471 -2.297 -1.811 1.689 6.013 12.24 16.63
+SI PLS(-) -0.718 ∗∗∗ -0.619∗∗∗ -0.485∗∗ -0.385∗∗ -2.923 -3.02 -2.624 -2.084 2.649 5.612 6.686 8.207
+MCAP/GDP(-) -0.39 ∗∗ -0.413∗∗∗ -0.448∗∗∗ -0.504∗∗∗ -1.72 -1.928 -2.116 -2.228 0.775 2.443 5.485 13.285
+MD(-) -0.513 ∗∗ -0.572∗∗ -0.624∗∗∗ -0.683∗∗∗ -2.215 -2.79 -3.239 -3.477 1.347 4.744 10.849 24.908
+MC(-) -1.106 ∗∗∗ -1.047∗∗∗ -1.015∗∗∗ -0.715∗∗∗ -3.608 -4.147 -4.178 -2.392 6.25 15.808 28.447 27.288
+TABLE 4: Out-of-sample predictability
+This table shows out-of-sample R2 (R2
+OS) at monthly, quarterly, half-yearly and annual horizons in second
+through fifth columns. Statistical significance is based on the Clark and West (2007) statistic for testing the
+null hypothesis that H0 : R2
+OS ≤0 against HA : R2
+OS >0. *, **, and *** indicate significance levels at 10%,
+5%, and 1%, respectively. The out-of-sample period is 1994-01 to 2014-12.
+R2
+OS(%) t-stat
+H=1 H=3 H=6 H=12 H=1 H=3 H=6 H=12
+DP -1.33 -3.189 -5.07 -15.847 -0.384 -0.169 -0.225 -1.917
+DY -1.197 -2.236 -3.887 -13.768 -0.232 0.030 -0.041 -1.732
+EP -1.022 -6.387 -14.074 -16.838 0.351 0.023 -0.330 -0.259
+DE -2.001 -7.832 -12.347 -11.558 -0.268 -1.072 -1.988 -1.045
+RVOL -0.229 -1.129 -2.521 -6.192 -0.394 -1.607 -2.063 -2.246
+B/M -0.441 -0.601 -0.784 -7.095 -0.320 0.214 0.401 -1.566
+NTIS -1.078 -2.667 -5.645 -5.595 -0.944 -1.279 -2.607 -2.736
+TBL -0.856 -3.197 -6.595 -9.707 -0.597 -1.040 -1.893 -4.030
+LTY -0.779 -2.419 -5.119 -13.409 -0.719 -1.222 -1.790 -3.206
+LTR -0.374 -1.312 -0.879 -1.767 -0.437 -0.360 0.304 -0.760
+TMS -0.53 -2.018 -4.022 -3.074 -0.828 -1.643 -2.489 -0.536
+DFY -1.725 -7.465 -13.257 -8.726 -0.127 -0.776 -2.381 -4.393
+DFR -2.302 -2.431 -1.914 -3.261 -0.117 -1.116 -0.655 -1.971
+INFL -0.754 -2.301 -0.272 -0.721 -0.885 -1.389 0.027 0.086
+GW MEAN -0.444 -1.886 -3.386 -5.058 -0.396 -1.150 -2.022 -4.368
+GW MEAN CT -0.271 -0.523 -1.274 -3.911 -0.686 -0.486 -0.814 -1.731
+SII 1.16 ∗∗∗ 4.552∗∗∗ 6.58∗∗∗ 3.924∗∗∗ 2.280 3.684 4.479 3.763
+SII 1973 2.17 ∗∗∗ 7.725∗∗∗ 13.202∗∗∗ 17.371∗∗∗ 2.820 4.111 4.944 5.736
+SI PLS 2.768 ∗∗∗ 6.169∗∗∗ 5.424∗∗∗ -5.418 2.300 2.992 2.925 -0.486
+SI PLS 1965 2.953 ∗∗∗ 6.673∗∗∗ 8.907∗∗∗ 10.629∗∗∗ 3.034 3.900 4.400 4.483
+MCAP/GDP -2.096 -3.274 -6.55 -20.7 -0.456 0.136 0.143 -1.384
+MD -0.461 1.607 ∗ 4.392∗∗∗ 5.293∗∗∗ 0.420 1.619 2.390 2.772
+MC 7.447 ∗∗∗ 19.316∗∗∗ 35.006∗∗∗ 35.676∗∗∗ 2.515 3.322 3.862 4.670
+TABLE 5: Out-of-sample predictability: Subsamples
+This table shows out-of-sample R2 (R2
+OS) at monthly horizon for diﬀerent subsamples and over NBER
+contractions and expansions. Statistical significance is based on the Clark and West (2007) statistic for
+testing the null hypothesis that H0 : R2
+OS ≤0 against HA : R2
+OS > 0. *, **, and *** indicate significance
+levels at 10%, 5%, and 1%, respectively.
+1994-2004 2005-2014 Contractions Expansions
+R2
+OS(%) t-stat R2
+OS(%) t-stat R2
+OS(%) t-stat R2
+OS(%) t-stat
+DP -2.522 -0.580 0.067 0.316 0.359 0.300 -1.97 -0.632
+DY -2.648 -0.620 0.505 0.742 1.235 0.747 -2.119 -0.708
+EP 1.786 1.232 -4.312 -0.171 -3.57 0.114 -0.055 0.570
+DE -0.547 0.072 -3.704 -0.297 -5.019 -0.193 -0.856 -0.302
+RVOL -0.472 -0.893 0.056 0.332 -0.518 -1.381 -0.12 0.044
+B/M -1.08 -0.704 0.308 0.746 0.886 1.011 -0.944 -0.967
+NTIS -0.746 -0.467 -1.468 -0.827 -1.017 -0.323 -1.102 -1.085
+TBL -0.778 -0.775 -0.949 -0.292 0.838 0.398 -1.499 -1.637
+LTY -0.924 -0.634 -0.61 -0.385 0.552 0.374 -1.284 -1.247
+LTR -0.504 -0.699 -0.223 -0.023 -0.312 -0.213 -0.398 -0.382
+TMS -0.707 -0.632 -0.321 -0.598 0.075 0.149 -0.759 -0.948
+DFY -1.406 -1.523 -2.098 0.070 -2.061 0.206 -1.597 -2.195
+DFR -2.474 -0.723 -2.1 0.130 -4.586 -0.123 -1.436 -0.011
+INFL -0.583 -0.567 -0.954 -0.680 -1.371 -0.683 -0.519 -0.579
+GW MEAN -0.497 -0.708 -0.381 -0.141 -0.072 0.071 -0.585 -1.223
+GW MEAN CT -0.486 -0.926 -0.018 -0.005 0.415 0.653 -0.531 -1.418
+SII -0.487 0.154 3.09 ∗∗∗ 2.651 2.213 1.264 0.761 ∗∗ 1.940
+SII 1973 -0.007 0.512 4.725 ∗∗∗ 2.936 3.9 ∗ 1.520 1.529 ∗∗∗ 2.439
+SI PLS 1.51 1.184 4.242 ∗∗∗ 2.194 4.352 1.240 2.167 ∗∗ 1.850
+SI PLS 1965 2.312 ∗∗ 1.708 3.705 ∗∗∗ 2.845 2.611 1.101 3.079 ∗∗∗ 2.764
+MCAP/GDP -4.034 -0.940 0.175 0.715 2.777 ∗∗ 1.751 -3.944 -1.263
+MD -2.058 -0.938 1.411 1.218 0.735 0.421 -0.914 0.216
+MC 1.654 1.260 14.235 ∗∗∗ 2.228 20.218 ∗∗ 1.843 2.605 ∗∗∗ 2.344
+TABLE 6: Forecast encompassing tests
+This table shows estimated weights ( λ) on a convex combination of two forecasts ˆ r1,t+1 and ˆr2,t+1 for
+month t+ 1. ˆr1,t+1 prediction is based on the prediction by the variable in column 1, while the ˆ r2,t+1
+prediction is based on the prediction by the variable in rows. The convex combination is formed by ˆ r∗
+t+1 =
+(1 −λ)ˆr1,t+1 + λˆr2,t+1. The statistical significance is based on the Harvey, Leybourne, and Newbold (1998)
+statistic for testing the null hypothesis that the weight on the row predictor based forecast is equal to zero
+(H0 : λ = 0) against the alternative that it is greater than zero ( HA : λ >0); ∗ , ∗∗, and ∗∗∗ indicate
+significance at the 10%, 5%, and 1% levels, respectively. We report combination over monthly horizon
+(H = 1). The sample period for forecast combination is 1994:01 to 2014:12.
+λ values for ˆr∗
+t+1 = (1 −λ)ˆr1,t+1 + λˆr2,t+1
+ˆr2,t+1
+H=1
+ˆr1,t+1 MC MD SII SI PLS GW MEAN
+HIST MEAN 1 ∗∗∗ 0.269 0.845 ∗∗∗ 1∗∗∗ 0
+DP 1 ∗∗∗ 0.795∗∗ 0.914∗∗∗ 1∗∗∗ 1∗
+DY 1 ∗∗∗ 0.752∗ 0.889∗∗∗ 1∗∗∗ 1
+EP 1 ∗∗∗ 0.567 0.795 ∗ 1∗∗ 0.682
+DE 1 ∗∗∗ 0.763 1 ∗∗ 1∗∗∗ 1
+RVOL 1 ∗∗∗ 0.359 0.898 ∗∗∗ 1∗∗∗ 0
+B/M 1 ∗∗∗ 0.49 0.884 ∗∗∗ 1∗∗∗ 0.492
+NTIS 1 ∗∗∗ 0.742 0.96 ∗∗∗ 1∗∗∗ 1∗
+TBL 1 ∗∗∗ 0.607 0.983 ∗∗∗ 1∗∗∗ 1
+LTY 1 ∗∗∗ 0.595 1 ∗∗∗ 1∗∗∗ 1
+LTR 1 ∗∗∗ 0.464 0.896 ∗∗∗ 1∗∗∗ 0.388
+TMS 1 ∗∗∗ 0.525 0.992 ∗∗∗ 1∗∗∗ 0.751
+DFY 1 ∗∗∗ 0.74 0.912 ∗∗∗ 1∗∗∗ 1
+DFR 1 ∗∗∗ 0.867 1 ∗∗ 1∗∗∗ 0.996
+INFL 1 ∗∗∗ 0.619 0.976 ∗∗∗ 1∗∗∗ 1
+GW MEAN 1 ∗∗∗ 0.493 0.917 ∗∗∗ 1∗∗∗
+GW MEAN CT 1 ∗∗∗ 0.408 0.904 ∗∗∗ 1∗∗∗ 0
+SII 1 ∗∗∗ 0.237 0.846 ∗∗ 0.083
+SII 1973 1 ∗∗∗ 0 0 0.63 ∗ 0
+SI PLS 0.912 ∗∗∗ 0 0.154 0
+SI PLS 1965 0.883 ∗∗∗ 0 0.144 0.134 0
+MCAP/GDP 1 ∗∗∗ 1∗∗∗ 0.884∗∗∗ 1∗∗∗ 1∗∗∗
+MD 1 ∗∗∗ 0.763∗∗∗ 1∗∗∗ 0.507
+MC 0 0 0.088 0
+TABLE 7: Performance statistics for a mean-variance investor
+The table reports the annualized certainty equivalent return (CER) gain (in percent) for a mean-variance investor with relative risk aversion coeﬃcient of
+three who allocates between equities and risk-free bills using a predictive regression to forecast excess return based on the predictor variable in the first
+column relative to the prevailing mean benchmark forecast. The equity weight is constrained to lie between -0.5 and 1.5. Buy and hold corresponds to the
+investor passively holding the market portfolio.
+1994:01 - 2014:12 1994:01 - 2004:12 2005:01 - 2014:12 NBER Contraction NBER Expansion
+Ex Ret SD Sharpe CER Sharpe CER Sharpe CER Sharpe CER Sharpe CER
+HIST MEAN 8.109 18.465 0.439 0.000 0.466 0.000 0.413 0.000 -0.921 0.000 0.686 0.000
+DP 8.396 18.873 0.445 0.055 0.491 0.453 0.389 -0.377 -1.038 -1.982 0.700 0.320
+DY 4.535 15.552 0.292 -2.067 0.230 -3.343 0.367 -0.678 -0.760 2.965 0.545 -2.715
+EP 7.134 17.924 0.398 -0.686 0.450 -0.328 0.333 -1.065 -1.169 -1.812 0.659 -0.520
+DE 8.639 18.004 0.480 0.778 0.520 1.169 0.440 0.360 -0.974 5.972 0.695 0.169
+RVOL 6.675 18.179 0.367 -1.278 0.416 -0.985 0.304 -1.597 -1.254 -5.992 0.649 -0.669
+B/M 8.430 19.061 0.442 -0.017 0.496 0.533 0.374 -0.614 -0.957 -3.203 0.704 0.372
+NTIS 5.894 17.850 0.330 -1.880 0.428 -0.414 0.204 -3.482 -1.296 -12.811 0.669 -0.513
+TBL 5.822 16.369 0.356 -1.207 0.409 -1.030 0.297 -1.379 -0.963 8.088 0.558 -2.322
+LTY 8.121 18.839 0.431 -0.203 0.493 0.438 0.350 -0.891 -1.122 -2.297 0.686 0.081
+LTR 6.737 17.542 0.384 -0.863 0.263 -3.295 0.528 1.790 -0.749 3.125 0.614 -1.374
+TMS 7.759 16.247 0.478 0.792 0.547 1.852 0.389 -0.346 -1.221 3.019 0.746 0.557
+DFY 5.883 17.360 0.339 -1.625 0.325 -2.772 0.385 -0.374 -0.853 7.584 0.527 -2.741
+DFR 7.187 17.750 0.405 -0.538 0.446 -0.207 0.353 -0.900 -0.759 7.841 0.597 -1.561
+INFL 7.888 18.793 0.420 -0.408 0.462 -0.033 0.366 -0.823 -0.856 -4.178 0.690 0.025
+GW MEAN 8.054 17.399 0.463 0.513 0.485 0.452 0.463 0.589 -1.203 2.588 0.710 0.299
+GW MEAN CT 7.875 18.145 0.434 -0.064 0.482 0.365 0.376 -0.526 -1.060 -1.785 0.699 0.162
+SII 10.471 18.790 0.557 2.193 0.477 0.393 0.663 4.143 -0.854 7.371 0.765 1.582
+SII 1973 11.271 16.866 0.668 4.033 0.464 0.380 0.933 8.040 0.155 32.078 0.729 0.669
+SI PLS 14.606 16.829 0.868 7.380 0.753 5.709 1.038 9.198 0.220 34.099 0.932 4.185
+SI PLS 1965 13.814 15.657 0.882 7.159 0.766 5.574 1.041 8.887 0.198 34.113 0.947 3.940
+MCAP/GDP 3.006 14.420 0.208 -3.088 0.148 -4.934 0.327 -1.067 -0.548 16.268 0.344 -5.436
+MD 7.936 19.026 0.417 -0.470 0.381 -1.390 0.458 0.513 -0.626 1.408 0.642 -0.750
+MC 16.739 16.783 0.997 9.546 0.787 6.020 1.246 13.416 1.422 51.405 0.956 4.586
+BUY AND HOLD 7.632 14.913 0.512 1.312 0.529 1.481 0.490 1.119 -0.809 7.245 0.791 0.583
+TABLE 8: Performance statistics for a long-only investor
+This table reports the annualized Sharpe ratio for a long only investor who allocates between equities and risk-free bills. The investments weights are
+determined by the prediction of one month ahead excess log return to the SP500. The investment weight is 1 in SP500, when the prediction is positive and
+0 otherwise. Buy and hold corresponds to the investor passively holding the market portfolio. Panel A shows the values for the full out-of-sample period
+1994:01 to 2014:12 and two sub-periods. Panel B shows reports results for the NBER contraction and expansion periods covered by the out-of-sample period.
+1994:01 - 2014:12 1994:01 - 2004:12 2005:01 - 2014:12 NBER Contraction NBER Expansion
+Ex Ret SD Sharpe CER Sharpe CER Sharpe CER Sharpe CER Sharpe CER
+HIST MEAN 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+DP 5.998 14.561 0.412 -1.354 0.339 -2.595 0.490 0.000 -0.809 0.000 0.676 -1.533
+DY 5.916 14.559 0.406 -1.436 0.329 -2.750 0.490 0.000 -0.847 -0.695 0.676 -1.533
+EP 7.928 12.549 0.632 1.909 0.740 3.103 0.508 0.633 -0.736 15.217 0.835 0.317
+DE 7.327 14.133 0.518 0.258 0.529 0.000 0.506 0.552 -1.003 5.559 0.767 -0.343
+RVOL 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+B/M 7.211 14.745 0.489 -0.291 0.487 -0.559 0.490 0.000 -0.809 0.000 0.768 -0.330
+NTIS 7.791 14.106 0.552 0.745 0.548 0.331 0.558 1.206 -0.996 5.658 0.807 0.194
+TBL 5.726 13.741 0.417 -1.083 0.462 -0.921 0.360 -1.241 -1.003 5.559 0.655 -1.860
+LTY 7.599 14.356 0.529 0.375 0.529 0.000 0.529 0.792 -0.991 3.814 0.791 0.000
+LTR 7.543 14.849 0.508 -0.042 0.529 0.000 0.482 -0.086 -0.939 -1.960 0.808 0.218
+TMS 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+DFY 6.936 13.959 0.497 -0.004 0.490 -0.505 0.506 0.552 -1.003 5.559 0.745 -0.641
+DFR 5.943 13.614 0.437 -0.762 0.411 -1.660 0.474 0.231 -1.148 3.959 0.698 -1.284
+INFL 7.566 14.668 0.516 0.117 0.529 0.000 0.498 0.249 -0.785 3.201 0.772 -0.255
+GW MEAN 6.946 14.448 0.481 -0.351 0.529 0.000 0.421 -0.722 -1.331 -2.418 0.791 0.000
+GW MEAN CT 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+SII 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+SII 1973 8.626 13.893 0.621 1.740 0.511 -0.285 0.775 3.963 -0.071 22.751 0.730 -0.823
+SI PLS 10.003 12.799 0.781 3.851 0.681 2.385 0.911 5.464 0.118 28.850 0.866 0.833
+SI PLS 1965 11.263 12.570 0.896 5.243 0.882 4.976 0.910 5.548 0.118 28.850 0.998 2.393
+MCAP/GDP 5.162 14.485 0.356 -2.145 0.339 -2.595 0.374 -1.656 -0.809 0.000 0.609 -2.426
+MD 6.676 14.708 0.454 -0.806 0.515 -0.164 0.383 -1.499 -0.809 0.000 0.725 -0.912
+MC 10.912 11.903 0.917 5.301 0.846 4.261 0.991 6.450 0.180 29.975 1.014 2.324
+BUY AND HOLD 7.632 14.913 0.512 0.000 0.529 0.000 0.490 0.000 -0.809 0.000 0.791 0.000
+TABLE 9: Forecasting discount rates and cash flows with margin credit
+This table reports in-sample estimation results for the bivariate predictive regressions where DP is the log of
+the 12 month dividend paid to SP500 price ratio DG log 12 month dividend growth rate, EG log 12 month
+earnings growth rate and GDPG is the annual log real GDP growth rate. DP, EG, and DG are constructed
+from the data provide by Schiller. We report the regression slopes, Newey-West t -statistics, as well as
+R2’s. ∗ ,∗, and ∗∗∗ indicate significance at the 10%, 5%, and 1% levels, respectively, based on one-sided wild
+bootstrapped p -values. The sample period is over 19842014.
+Panel A : Non-overlapping Quarterly Regressions (1984-2014)
+MC DP
+β t -stat ψ t -stat R 2(%)
+Rett+1 -0.031∗∗∗ -5.699 0.210
+Rett+1 -0.032∗∗∗ -5.928 0.012 ∗∗∗ 2.103 0.238
+DP 0.079 ∗∗∗ 5.065 0.962 ∗∗∗ 59.509 0.968
+DG -0.18 ∗∗ -2.076 -0.025 -0.279 0.036
+EG -0.55 ∗∗∗ -7.564 0.019 0.257 0.323
+GDPG -0.455 ∗∗∗ -5.857 0.093 1.165 0.225
+Panel B : Non-overlapping Annual Regressions (1984-2014)
+MC DP
+β t -stat ψ t -stat R 2(%)
+Rett+1 -0.115∗∗∗ -4.277 0.379
+Rett+1 -0.131∗∗∗ -4.957 0.047 ∗∗ 2.590 0.495
+DP 0.285 ∗∗ 3.326 0.827 ∗∗∗ 11.580 0.848
+DG -0.358 ∗∗ -1.690 -0.075 -0.426 0.104
+EG -0.493 ∗∗ -2.436 0.206 1.255 0.198
+GDPG -0.612 ∗∗ -3.229 0.170 1.008 0.279
+Panel C : Overlapping Annual Regressions (1984-2014)
+MC DP
+β t -stat ψ t -stat R 2(%)
+Rett+1 -0.007∗∗∗ -2.392 NA 0.273
+Rett+1 -0.009∗∗∗ -3.426 -0.001 -0.498 0.033
+DP 0.27 ∗∗∗ 25.583 1.043 ∗∗∗ 98.889 0.965
+DG -0.176 ∗∗∗ -3.139 0.003 0.036 0.031
+EG -0.598 ∗∗∗ -12.905 -0.037 -0.815 0.342

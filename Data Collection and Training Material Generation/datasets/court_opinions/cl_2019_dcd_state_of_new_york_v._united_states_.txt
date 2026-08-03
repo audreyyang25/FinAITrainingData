@@ -1,0 +1,1105 @@
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+
+STATE OF NEW YORK, et al. 
+
+ Plaintiffs, 
+
+ v. 
+
+ Civil Action No. 18-1747 (JDB) 
+UNITED STATES DEPARTMENT OF 
+LABOR, et al. 
+
+ Defendants. 
+
+MEMORANDUM OPINION 
+ Eleven states and the District of Columbia have sued the Department of Labor (“DOL”),1 
+alleging that its final rule interpreting the definition of “employer” in the Employee Retirement 
+Income Security Act of 1974 (“ERISA”), 88 Stat. 829, 29 U.S.C. § 1001 et seq., is unlawful under 
+the Administrative Procedure Act (“APA”), 5 U.S.C. § 706. DOL’s interpretation of the term 
+“employer,” found at Definition of “Employer” Under Section 3(5) of ERISA —Association 
+Health Plans, 83 Fed. Reg. 28,912 (June 21, 2018) (hereinafter “Final Rule”) (codified at 29 C.F.R. 
+pt. 2510), A.R. at 1–53,
+ 2 impacts the treatment of certain healthcare plans under both ERISA and 
+the Patient Protection and Affordable Care Act (“ACA”), Pub. L. No. 111- 148, 124 Stat. 119 
+(2010).3 The States charge that DOL’s Final Rule stretches the definition of “employer” beyond 
+what ERISA’s text and purpose will bear. For the reasons that follow, the Court agrees. 
+
+1 The named defendants in this case are DOL, R. Alexander Acosta in his official capacity as Secretary of 
+Labor, and the United States of America. This opinion will collectively refer to defendants as “DOL.” 
+2 Citations to “A.R.” refer to the administrative record. See Joint Appendix [ECF Nos. 74-1, 74-2, 74-3, 74-
+4, 74-5, 74-6, 74-7, 74-8]. 
+3 For the purposes of this opinion, the term “ACA” refers not only to the original enactment of the Patient 
+Protection and Affordable Care Act but also to subsequent amending legislation, including the Health Care and 
+Education Reconciliation Act, Pub. L. No. 111 -152, 124 Stat. 1029 (2010), and the Protecting Affordable Coverage 
+for Employees Act, Pub. L. No. 114-60, 129 Stat. 543 (2015). 
+
+ ERISA governs employee benefit plans arising from employment relationships. It provides 
+that some employer associations acting “in the interest of” employer members are sufficiently 
+employer-like to fall within the statute ’s scope. Health plans offered by these associations may 
+qualify as single ERISA plans, a designation that confers regulatory advantages under the ACA. 
+For decades, DOL has interpreted these provisions narrowly so as to allow only so-called “bona 
+fide associations” with close economic and representational ties to their employer members to 
+qualify as “employers” under the statute. 
+ In 2018, DOL abruptly reversed course, issuing the Final Rule challenged in this case. The 
+Final Rule allows virtually any association of disparate employers connected by geographic 
+proximity to qualify as single ERISA plans. These associations no longer have to be viable apart 
+from offering an association health plan (“AHP”) and may form solely for the purpose of creating 
+an AHP. In addition, the Final Rule brings sole proprietors without any employees within ERISA’s 
+scope by counting them as both “employers” and “employees.” Because the ACA defines terms 
+key to its implementation—including “employer” and “employee”—according to the definition of 
+these terms in ERISA, the Final Rule expands AHPs in a way that allows small businesses and 
+some individuals to avoid the healthcare market requirements imposed by the ACA. 
+ The Final Rule is clearly an end -run around the ACA. Indeed, as the President directed, 
+and the Secretary of Labor confirmed, the Final Rule was designed to expand access to AHPs in 
+order to avoid the most stringent requirements of the ACA . Exec. Order 13,813, 82 Fed. Reg. 
+48,385 (Oct. 12, 2017), A.R. 6970; Final Rule, 83 Fed. Reg. at 28,912 (citing Executive Order) ; 
+see also Alexander Acosta, A Health Fix for Mom and Pop Shops, Wall St. J., June 18, 2018. But 
+equally important for the analysis that follows, the Final Rule does violence to ERISA. The Final 
+Rule scraps ERISA’s careful statutory scheme and its focus on employee benefit plans arising from 
+
+employment relationships. It purports to extend ERISA to cover what are essentially commercial 
+insurance transactions between unrelated parties. In short, the Final Rul e exceeds the statutory 
+authority delegated by Congress in ERISA. For the reasons that follow, the Final Rule’s provisions 
+defining “employer” to include associations of disparate employers and expanding membership in 
+these associations to include working owners without employees are unlawful and must be set 
+aside. 
+BACKGROUND 
+ Statutory schemes created by ERISA and the ACA shape the content and context of the 
+Final Rule. First, therefore, it will help to describe relevant parts of ERISA and the ACA, explain 
+the structure and function of the Final Rule, and set the stage for the provisions challenged in this 
+case. 
+I. ERISA AND THE ACA 
+ ERISA is the key statute at issue in this case. It regulates employee benefit plans, including 
+welfare plans and pension plans, arising out of employment relationships. Congress enacted 
+ERISA in 1974 “following almost a decade of study[]” of employment benefits and pension 
+systems and after making “detailed findings which recited, in part, ‘that the continued well-being 
+and security of millions of employees and their dependents are directly affected by [employee 
+benefit] plans.’” Nachman Corp. v. Pension Benefit Guarantee Corp., 446 U.S. 359, 361–62 
+(1980) (quoting 29 U.S.C. §1001(a)). ERISA states that its purpose is to address the “growth in 
+size, scope, and numbers of employee benefit plans” across the country and to protect “the interests 
+of participants in employee benefit plans and their beneficiaries.” 29 U.S.C. § 1001(a)–(b). 
+ The ACA is a statutory scheme that regulates health insurance markets more broadly. The 
+ACA, among other things, establishes standards that apply differently to individual, small-group, 
+and large- group health insurance markets. Congress targeted the individual and small -group 
+
+healthcare markets for special heightened protections. Individual and small-group healthcare plans 
+are required by the ACA to provide ten essential health benefits to insured individuals. 42 U.S.C. 
+§§ 300gg-6, 18022(a). Large -group market participants f ace a choice: They may decline to 
+provide these essential health benefits and instead pay a tax —the so -called “employer shared 
+responsibility payment.” I.R.C. § 4980H, 26 U.S.C. § 4980H. Congress differentiated small 
+employers from large employers —for th e purpose of placing them in small- or large -group 
+markets—by the number of employees these employers employed. See 42 U.S.C. § 300gg -
+91(e)(2). 
+ The ACA absorbs key ERISA definitions into the ACA statutory scheme. Under ERISA, 
+an employer is “any person acting directly as an employer, or indirectly in the interest of an 
+employer, in relation to an employee benefit plan; and includes a group or association of employers 
+acting for an employer in such capacity.” ERISA § 3(5), 29 U.S.C. § 1002(5). An employee under 
+ERISA is simply “any individual employed by an employer.” ERISA § 3(6), 29 U.S.C. § 1002(6). 
+The statutory definitions of “employer” and “employee” in ERISA have remained unchanged since 
+ERISA’s enactment in 1974. 
+ Congress codified many of the ACA’s key provisions in the Public Health Service Act 
+(“PHS Act”), 42 U.S.C. § 201 et seq. At the time that Congress passed the ACA, the PHS Act 
+already defined the term “employer” as having “the meaning given such term under [ERISA 
+§ 3(5)], except that such term shall include only employers of two or more employees,” and defined 
+“employee” as having the meaning given to the same term under ERISA § 3(6) without exception. 
+42 U.S.C. §§ 300gg -91(d)(5)–(6).
+4 Congress preserved these definitions of “employer” and 
+
+4 Congress initially crafted these definitions of employer and employee in the PHS Act through the enactment 
+of the Health Insurance Portability and Accountability Act ( “HIPAA”), Pub. L. No. 104 -191, 110 Stat. 1936, 1974 
+(1996). 
+
+“employee” when it passed the ACA, and thus ERISA’s definitions of those terms were 
+incorporated into the ACA’s statutory scheme. 
+II. ASSOCIATION HEALTH PLANS AND THE FINAL RULE 
+ AHPs are group health plans offered through an association of employers , such as an 
+industry group. DOL has always permitted some AHPs meeting stringent criteria to qualify as a 
+single ERISA employee benefit plan , as if the plan was sponsored by a single employer for its 
+employees. 
+ Under DOL’s longstanding sub- regulatory guidance, only so- called “bona fide 
+associations” could sponsor an AHP under ERISA. Bona fide associations had to display certain 
+employer-like characteristics, because “the Department’s regulation of employ ee benefit plans 
+[was] focused on employment-based arrangements, as contemplated by ERISA, rather than merely 
+commercial insurance-type arrangements that lack the requisite connection to the employment 
+relationship.” Final Rule, 83 Fed. Reg. at 28,914. The “overall structure” of ERISA “contemplates 
+employment-based benefit arrangements,” and since these AHPs qualify as ERISA plans, they had 
+to fit within an employment context, notwithstanding the fact that they were sponsored by 
+employer associations rather than directly by single employers. Id. at 28,913. 
+ Of most relevance to the issues raised in this case, DOL ’s sub -regulatory guidance 
+analyzed bona fide associations based on three criteria: “(1) Whether the group or association 
+[was] a bona fide organization with business/organizational purposes and functions unrelated to 
+the provision of benefits; (2) whether the employers share [d] some commonality and genuine 
+organizational relationship unrelated to the provision of benefits; and (3) whether the employers 
+that participate[d] in a benefit program, either directly or indirectly, exercise[d] control over the 
+program, both in form and substance.” Id. at 28,914. This opinion will refer to these three criteria 
+as requirements for purpose, commonality of interest, and control, respectively. 
+
+ Passage of the ACA raised the regulatory stakes. The majority of AHPs—which were not 
+sponsored by associations qualifying under DOL’s bona fide association test —were “treated as 
+the mechanism by which each individual employer obtains benefits and administrative services for 
+its own separate plan .” Id. (citing CMS Ins. Standards Bulletin, “Application of Individual and 
+Group Market Requirements under Title XXVII of the Public Health Service Act when Insurance 
+Coverage Is Sold to, or through, Associations,” Sept. 1, 2011, at 1–3, A.R. at 2211–13). In other 
+words, the fact that the insurance came from an AHP did not matter for purposes of determining 
+which ACA market standard applied. A small employer purchasing coverage through an AHP had 
+to meet the ACA’s requirements for small employers, individuals purchasing coverage through an 
+AHP had to meet the ACA’s individual market requirements, and so on. Id. Most AHPs providing 
+coverage to individuals and small groups, then, had to satisfy the ACA’s essential health benefits 
+requirement. However, in the “rare instances” in which AHPs were sponsored by associations 
+meeting DOL’s bona fide association criteria, the “association coverage [would be] consider ed a 
+single group health plan,” and the number of total employees of all employer members would be 
+counted to determine whether small or large group rules applied. CMS Ins. Standards Bulletin at 
+3, A.R. at 2213. If a bona fide association served as “empl oyer” of “an average of at least 51 
+employees” over the past year, then the bona fide association would qualify as a “large employer,” 
+and its AHP would be subject to “large group market” rules. 42 U.S.C. § 300gg -91(e)(2)–(3).
+Hence, AHPs sponsored by t hese bona fide associations avoid the more comprehensive 
+requirements for healthcare coverage in the individual and small group markets. 
+
+5 States have the option to expand the definition of small employers to cover employers of up to 100 
+employees, and at least four states have done so. Protecting Affordable Coverage for Employees Act § 2(b), 129 Stat. 
+543, 543 (amending PHS Act § 2791(e)(7) and 42 U.S.C. § 18024(b)(3)); Ctrs. for Medicare & Medicaid Servs., 
+Market Rating Reforms: State Specific Variations , https://www.cms.gov/cciio/programs-and-initiatives/health-
+insurance-market-reforms/state-rating.html (last updated June 2, 2017). For these states, the same rules apply to large 
+employers, except that these employers must have 101 employees to qualify. 
+
+ The Final Rule loosens the requirements for associations to qualify as ERISA-covered 
+“bona fide associations,” thereby allowing the AHPs they sponsor to qualify as single ERISA plans 
+and avoid the ACA’s individual and small-group market requirements. President Trump prompted 
+DOL to undertake this change. In October 2017, President Trump issued an Executive Order titled 
+“Promoting Healthcare Choice and Competition Across the United States,” which directed DOL 
+to “[e]xpand[] access to AHPs” by “allow[ing] more small businesses to avoid many of the 
+[ACA’s] costly requirements.” Exec. Order 13,813, 82 Fed. Reg. at 48,385; see also Final Rule, 
+83 Fed. Reg. at 28,912 (citing Executive Order). More specifically, the Executive Order suggested 
+that DOL “expand[] the conditions that satisfy the commonality -of-interest requirements” in 
+DOL’s then-existing guidance and “cons ider ways to promote AHP formation on the basis of 
+common geography or industry.” Exec. Order 13,813, 82 Fed. Reg. at 48,386. 
+ DOL did as instructed. In June 2018, DOL promulgated the Final Rule, which significantly 
+relaxed two of the three key criteria for qualifying as a bona fide association: the commonality of 
+interest and purpose requirement s. See Final Rule, 83 Fed. Reg. at 28,912. Associations can 
+satisfy the new “commonality of interest” test if their members are either in the same trad e or 
+business or in the same geographic area (the same state or same metropolitan area, even if that area 
+includes multiple states). 29 C.F.R. § 2510.3-5(c). Before the Final Rule, “geography, alone, was 
+not sufficient to establish commonality.” Final Rule, 83 Fed. Reg. at 28,928 n.40. The Final Rule 
+also allows an association to qualify as a “bona fide association” even if its primary purpose is “to 
+offer and provide health coverage to its employer members and their employees” so long as it has 
+“at least one substantial business purpose” unrelated to the provision of health care. 29 C.F.R. § 
+2510.3-5(b)(1). This represents a “departure from” DOL’s prior guidance, which required that 
+
+associations be viable organizations even without providing an AHP. Final Rule, 83 Fed. Reg. at 
+28,917. 
+ The Final Rule also adds an entirely new provision allow ing working owners ( i.e., sole 
+proprietors) without any common-law employees to “qualify as both an employer and employee” 
+for two key ERISA purposes. 29 C.F.R. § 2510.3-5(d). First, working owners may join bona fide 
+associations of employers, including for purposes of “the requirement . . . that each employer 
+member of the group or association participating in the group health plan must be a person acting 
+directly as an employer of one or more employees who are participants covered under the plan.” 
+Id. Second, working owners qualify as both employer and employee for purposes of satisfying the 
+requirement that AHPs —as ERISA health benefit plans —may only offer h ealth coverage “to 
+employer members through the association” for qualifying employees and beneficiaries. Id. The 
+effect of this provision is that working owners with no employees may join these newly expanded 
+bona fide associations and receive health benefits through the association’s AHP, a single ERISA 
+employee benefit plan. Under DOL’s prior guidance, “ working owners without common law 
+employees were not permitted to participate” in an AHP. Final Rule, 83 Fed. Reg. at 28,928 n.40. 
+ Although the Final Rule primarily interprets ERISA, the preamble to the Final Rule 
+describes at least one other important implication of this new interpretation under the ACA. The 
+preamble notes that the definition of the Final Rule “will apply solely for purposes of Title I of 
+ERISA and for determining whether health insurance coverage of the AHP is regulated by the . . . 
+PHS Act . . . provisions that apply to the individual, small group, or large group market, and not, 
+for example, the purposes of taxation under the Internal Revenue Code.” Id. at 28,915. In other 
+words, DOL indicates that the Final Rule permits AHPs to qualify as large employers under the 
+ACA yet avoid the choice that other large employers must make between providing essential health 
+
+benefits or paying a shared responsibility payment. Under the Final Rule, AHPs avoid both ACA 
+requirements for essential health benefits as described in the PHS Act and the employer shared 
+responsibility payment under portions of the ACA codified in the Internal Revenue Code.6 
+ The Final Rule applied to fully-insured AHPs in September 2018 and to not-fully-insured 
+existing AHPs in January 2019; it will apply to newly created AHPs beginning in April 2019. 29 
+C.F.R. § 2510.3-5(f). 
+III. PROCEDURAL HISTORY 
+ Eleven States and the District of Columbia sued DOL over the Final Rule, raising claims 
+under section 706 of the APA. Compl. [ECF No. 1]. The States allege that the Final Rule’s bona 
+fide association test and working owner provision are “not in accordance with law” under ERISA 
+and the ACA, that the Final Rule does not “carry out” Congress’s intent in enacting ERISA, and 
+that the Final Rule is arbitrary and capricious. Id. ¶¶ 108–45. The States moved for summary 
+judgment. Pls.’ Mem. of Law in Supp. of M ot. for Summ. J. (“Pls.’ Mot.”) [ECF No. 31- 17]. 
+DOL moved to dismiss the complaint on jurisdictional grounds for lack of standing and cross -
+moved in the alternative for summary judgment. Mem. of P. & A. in Supp. of Defs.’ Mot. to 
+Dismiss, or, in the Alt., for Summ. J. (“Defs.’ Mot.”) [ECF No. 47 -1]. The parties have fully 
+briefed their positions on the motion to dismiss and on the motions for summary judgment, and 
+the Court heard argument on the motions on January 24, 2019. The issues presented are now ripe 
+for the Court’s consideration. 
+
+6 In a provision of the ACA codified in the Internal Revenue Code’s section on employer shared responsibility 
+payments, Congress provided that “[a]ny term used in this section which is also used in the Patient Protection and 
+Affordable Care Act shall have the same meaning as when used in such Act.” 26 U.S.C. § 4980H(c)(6). This section 
+of the Internal Revenue Code includes repeated references to “employers,” including key provisions that require 
+certain large employers to pay a tax. To the extent that the Final Rule purports to require that the agency’s 
+interpretation of “employer” apply only to ERISA and portions of the ACA integrated in the PHS Act —but not to 
+portions of the ACA integrated in the Internal Revenue Code —this outcome appears to be foreclosed by statutory 
+language to the contrary. Compare id. with 42 U.S.C. § 300gg-91(d)(6). 
+
+LEGAL STANDARD 
+ A court must “hold unlawful and set aside agency action . . . found to be . . . arbitrary, 
+capricious, an abuse of discretion, or otherwise not in accordance with law” or “in excess of 
+statutory jurisdiction, authority, or limitations, or short of statutory right.” 5 U.S.C. § 706(2)(A), 
+(C). “[W]hen a party seeks review of agency action under the APA, the district judge sits as an 
+appellate tribunal.” Am. Bioscience, Inc. v. Thompson, 269 F.3d 1077, 1083 (D.C. Cir. 2001). 
+“The ‘entire case' on review is a question of law ,” id., and summary judgment is the proper 
+mechanism for review, Ctr. For Food Safety v. Salazar, 898 F. Supp. 2d 130, 138 (D.D.C. 2012). 
+ANALYSIS 
+ The Court first considers the issue of standing raised in DOL’s motion to dismiss. Finding 
+that the States have standing to challenge the Final Rule, this opinion then considers the merits of 
+the States’ challenges to the Final Rule. 
+I. STANDING 
+ As a threshold matter, DOL urges dismissal of all claims on jurisdictional grounds. DOL 
+argues that the States do not have standing to sue because they have not suffered a legally 
+cognizable injury. DOL explains that “[t]he Final Rule applies to AHPs and not to s tates; it does 
+not command any state to take, or refrain from taking, any action.” Defs.’ Mot. at 14. The States 
+respond that they have several different forms of injury , each of which confers standing. Pls.’ 
+Mem. of P. & A. in Opp’n to Defs.’ Mot. (“Pl.’s Opp’n”) [ECF No. 54-1] at 2–15. 
+“Standing is a structural, constitutional restraint on the subject matter jurisdiction of the 
+federal judiciary.” Air Alliance Houston v. EPA , 906 F.3d 1049, 1057 (D.C. Cir. 2018). “To 
+establish Article III standing, an injury must be ‘concrete, particularized, and actual or imminent; 
+fairly traceable to the challenged action; and redressable by a favorable ruling.’” Clapper v. 
+Amnesty Int’l U.S.A., 568 U.S. 398, 409 (2013) (quoting Monsanto Co. v. Geertson Seed Farms, 
+
+561 U.S. 139, 149 (2010)). A court “presume[s] that federal courts lack jurisdiction ‘unless ‘the 
+contrary appears affirmatively from the record.’” Renne v. Geary , 501 U.S. 312, 316 (1991) 
+(quoting Bender v. Williamsport Area School Dist., 475 U.S. 534, 546 (1986)). “[T]he presence 
+of one party with standing is sufficient to satisfy Article III’s case -or-controversy requirement.” 
+Rumsfeld v. Forum for Acad. & Inst. Rights, Inc., 547 U.S. 47, 52 n.2 (2006). 
+“Since they are not mere pleading requirements but rather an indi spensable part of the 
+plaintiff’s case, each element must be supported in the same way as any other matter on which the 
+plaintiff bears the burden of proof, i.e. , with the manner and degree of evidence required at the 
+successive stages of the litigation.” Lujan v. Defs. of Wildlife, 504 U.S. 555, 561 (1992). At the 
+summary judgment stage, a plaintiff must set forth by affidavit or other evidence specific facts 
+necessary to support standing. Swanson Grp. Mfg., LLC v. Jewell, 790 F.3d 235, 240 (D.C. Cir. 
+2015). 
+ First, although the parties agree that the Final Rule does not directly preempt state law, the 
+States allege harm to their sovereign interests in making and enforcing a legal code. They express 
+concern that the Final Rule sets the stage for possible future preemption—more specifically, that 
+DOL might “enact future regulations to preempt State insurance laws as to AHPs . . . if States go 
+‘too far’ in regulating them.” Compl. ¶ 101 (citing Final Rule, 83 Fed. Reg. at 28,937). 
+The Court 
+agrees that States have sovereign interests in “the exercise of sovereign power over individuals 
+and entities within the relevant jurisdiction,” which can be articulated as “the power to create and 
+enforce a legal code.” Alfred L. Snapp & Son, Inc. v. Puerto Rico (“Snapp”), 458 U.S. 592, 601 
+(1982). The D.C. Circuit accordingly has recognized federal preemption of state law as a concrete 
+injury that can give rise to standing. See Alaska v. U.S. Dep’t of Transp., 868 F.2d 441, 444 (D.C. 
+Cir. 1989) (recognizing s tate standing to sue the Department of Transportation where its 
+
+regulations on airline pricing preempted state consumer protection laws). But the problem here is 
+that the Final Rule does not preempt or otherwise constrain state law. 
+ The preamble to the Final Rule expresses DOL’s intention to leave AHPs to regulation by 
+the states. For fully-insured AHPs, the Final Rule 
+provides that State laws that regulate the maintenance of specified contribution 
+and reserve levels (and that enforce those standards) may apply, and State 
+insurance laws are generally saved from preemption when applied to health 
+insurance issuers that sell policies to AHPs and when applied to insurance policies 
+that AHPs purchase to provide benefits . . . [, and] it is the view of [DOL] that 
+ERISA section 514(b)(6) clearly enables States to subject AHPs to licensing, 
+registration, certification, financial reporting, examination, audit and any other 
+requirement of State insurance law necessary to ensure compliance with the State 
+insurance reserves, contributions and funding obligations. 
+
+Final Rule, 83 Fed. Reg. at 28,936. For AHPs that are not fully insured, “section 514(b)(6)(A)(ii) 
+of ERISA [provides that] any State law that regulates insurance may apply to the AHP to the extent 
+that such State law is ‘not inconsistent’ with ERISA.” Id. 
+The States point to no law that will be 
+preempted, instead alleging that DOL might “enact future regulations to preempt State insurance 
+laws as to AHPs . . . if States go ‘too far’ in regulating them,” and that “no statement in the Final 
+Rule disclaim[s DOL’s] intent” to pree mpt other non-insurance state laws. Compl. ¶ 101 (citing 
+Final Rule, 83 Fed. Reg. at 28,937). The Court finds that the possibility of future preemption is 
+too speculative—and the concern about a possibility of preemption of unidentified non-insurance 
+laws is too nebulous—to constitute an injury-in-fact. See Clapper, 568 U.S. at 401; Whitmore v. 
+Arkansas, 495 U.S. 149, 158 (1990). Hence, the States do not have standing based on the possible 
+future preemption of state law. 
+ The States next allege harm to their quasi-sovereign interests based on their “responsibility 
+to protect the health, safety and welfare of their citizens.” Compl. ¶ 2. They predict that the Final 
+Rule will harm state insurance markets “in States where state law does not duplicate ACA 
+
+requirements for individual and small group plans” because the Final Rule will allow healthier 
+individuals to “leave the traditional market in states without sufficiently protective state laws.” Id. 
+¶ 104. 7 These healthier individuals alle gedly will leave individual and small -group insurance 
+markets for AHPs, which are predicted to be less expensive but also less comprehensive. This in 
+turn will allegedly cause insurance premiums in the individual and small -group markets to rise, 
+potentially pricing consumers out of coverage and/or pushing insurers out of these markets. Id.
+ ¶¶ 
+104–05. The States express particular concern about employees earning less than four -hundred 
+percent of the federal poverty level and working for small employers, because if these small 
+employers were to offer insurance through an AHP —even if that insurance did not cover the 
+employee’s full insurance needs —the employee could lose eligibility for premium tax credits 
+under the ACA and thereby be priced out of a plan in the individual market offering all essential 
+health benefits. Id. ¶ 106; Pls.’ Opp’n at 10 n.10. 
+ A state may have standing to sue under the doctrine of parens patriae when a state 
+“express[es] a quasi -sovereign interest,” including “in the health and well -being—both physical 
+and economic—of its residents in general.” Snapp, 458 U.S. at 607. And here the States have 
+raised such interests. But because a s tate cannot claim superior sovereignty to the federal 
+government, a state “does not have standing as parens patriae to bring an action against the Federal 
+Government.” Id. at 609 n.16 (citing Massachusetts v. Mellon, 262 U.S. 447, 485–86 (1923)); see 
+also Pennsylvania v. Kleppe, 533 F.2d 668, 677 (D.C. Cir. 1976) (explaining that “the state can 
+not have a quasi-sovereign interest because the matter falls within the sovereignty of the Federal 
+Government”). Here, the States’ general responsibility for their citizens’ health and welfare —
+including the threat of increased premiums, loss of insurance cove rage, or loss of tax credits —
+
+7 Plaintiff New York notes that its state laws are sufficiently protective “to prevent these harms.” Id. at ¶ 104 
+n.49. 
+
+cannot directly support State standing because the underlying harms would be suffered by the 
+States’ citizens. Any theory of standing on this ground would derive from the State’s status as 
+parens patriae, which is not available to States in a suit against the federal government. See Snapp, 
+458 U.S. at 609 n.16; Mellon, 262 U.S. at 485–486. The States accordingly do not have standing 
+on this ground. 
+ The States also allege that the Final Rule will cause them three forms of p roprietary or 
+economic harm. First, t hey predict a rise in “uncompensated care costs” because an “individual 
+who formerly had access to coverage through the [ACA] marketplace will now be underinsured or 
+uninsured due to the Final Rule,” in which case the States “will . . . become responsible for 
+providing care to individuals who cannot afford coverage or who are underinsured.” Compl. ¶ 106. 
+Second, five States—New Jersey, Delaware, California, Washington, and Massachusetts—allege 
+that under the Final Rule they will lose “tax revenue or administrative fees paid to state agencies 
+for small group and individual plans obtained on a state insurance exchange. ” Id. ¶ 102; Tr. of 
+Jan. 24, 2019, Mot. Hr’g (“Tr.”) [ECF No. 77] at 31:20–23. T hird, three States allege that the 
+Final Rule will cause “a substantially increased regulatory burden on the States” as they 
+“substantially ramp up enforcement against a new type of plan[] or face a wave of fraud and abuse 
+similar to what occurred under [multiple employer welfa re arrangements (“MEWAs”)] in past 
+decades.” Compl. ¶ 103. The preamble to the Final Rule acknowledges that DOL “anticipates 
+that the increased flexibility afforded AHPs under this rule will introduce increased opportunities 
+for mismanagement or abuse, i n turn increasing oversight demands on the Department and State 
+regulators.” Final Rule, 83 Fed. Reg. at 28,953. At least two of these alleged economic injuries—
+
+loss of tax revenues and increased regulatory burden —are sufficiently concrete, imminent, and 
+direct to support standing for the States.8 
+ Lost tax revenues may serve as a cognizable injury-in-fact for standing purposes where an 
+action caused “a direct injury in the form of specific tax revenues,” Wyoming v. Oklahoma, 502 
+U.S. 437, 448 (1992), and the state articulates a “fairly direct link between the state’s status as a 
+collector and recipient of revenues and the legislative or administrative action being challenged,” 
+Kleppe, 533 F.2d at 672. A s tate must provide evidence of a “specific loss of tax revenues,” not 
+merely point to a source of revenue that might be affected by a federal policy or program. 
+Wyoming v. U.S. Dep’t of Interior, 674 F.3d 1220, 1234–35 (10th Cir. 2012). 
+ Here, the States have met their burden to show a “fairly direct link” between the Final 
+Rule’s intended expansion of self -insured AHPs and a decrease in specific tax revenues. See 
+Kleppe, 533 F.2d at 672; Wyoming, 502 U.S. at 448. Unlike in the case of fully-insured AHPs, in 
+which associations purchase insurance fro m insurance companies, an association sponsoring a 
+self-funded AHP assume s the risk for all claims and pays benefits directly . The Final Rule’s 
+expansion of self-funded AHPs will decrease state tax revenues because th e affected States will 
+not collect premium taxes when individuals select coverage through a self-insured AHP. 
+ The States have provided evidence that at least New Jersey, Delaware, and Washington 
+stand to lose specific tax revenues under the Final Rule. 9 For example, Marlene Ca ride, 
+Commissioner of the New Jersey Department of Banking and Insurance, has attested that health 
+insurance companies in New Jersey pay one percent of group insurance premiums and two percent 
+
+8 For the third theory of economic harm—increased costs of uncompensated care—the record contains little 
+concrete evidence of harm. Because the Court finds standing on the other tw o economic theories that the States 
+present, it is unnecessary to decide whether uncompensated care costs might also confer standing. 
+9 The States represented to the Court at the January 24, 2019, motions hearing that California and 
+Massachusetts also stood to lose tax revenue under the Final Rule, but the record does not contain sufficient 
+information to reach a conclusion about those States. See Tr. 31:20–23. 
+
+of individual premiums to the State, and health maintenance organizations pay a corporate business 
+tax and a two -percent assessment on premiums. Decl. of Marlene Caride in Supp. of Pls.’ Mot. 
+(“Caride Decl.”) [ECF No. 31- 2] ¶ 15. Any person currently insured in the traditional market in 
+New Jersey who moves to a sel f-insured AHP or an out -of-state insured AHP will cause a 
+corresponding decrease in tax revenues paid to New Jersey. Id. Declarations from representatives 
+of Delaware and Washington similarly demonstrate that the Final Rule will decrease their tax 
+revenues.10 The preamble to the Final Rule also corroborates the States’ anticipated loss of 
+premium taxes. In fact, avoidance of premium taxes is a feature of the Final Rule: self -insured 
+AHPs can provide less costly insurance coverage in part because they “may avoid the potentially 
+significant cost” of state requirements, including payment of “premium taxes.” Final Rule , 83 
+Fed. Reg. at 24,943. Hence, the Final Rule’s intended expansion of self-insured AHPs will cause 
+a direct loss of premium tax revenues and related revenues from fees in at least three States. If the 
+Final Rule is invalidated, these tax revenues are likely to be restored. Accordingly, the States have 
+demonstrated an injury-in-fact that is caused by the Final Rule and is redressable, and hence they 
+have standing to challenge the Final Rule as it relates to self -insured AHPs. See Rumsfeld, 547 
+U.S. at 52 n.2. 
+
+10 Delaware Insurance Commissioner Trinidad Navarro has attested that insurance companies in Delaware 
+“pay an annual premium tax based on their net premium income,” and “[a]n increase in self -insured AHPs, made 
+possible through the Final Rule, will result in a decrease in insurance companies’ premium income an d, therefore, a 
+decrease in the amount of premium tax collected by the State.” Decl. of Trinidad Navarro, Del. Ins. Comm’ner, in 
+Supp. of Pls.’ Mot. (“Navarro Decl.”) [ECF No. 31-9] ¶ 10. 
+Pam MacEwan, chief executive officer of the Washington Health Ben efit Exchange (“WAHBE”), has 
+attested that any decrease in the number of enrollees on the state exchange “will lower WAHBE’s revenues” because 
+insurance carriers pay a two-percent premium tax plus “a flat per-member per-month assessment for enrollees on the 
+Exchange.” Decl. of Pam MacEwan in Supp. of Pls.’ Mot. [ECF No. 31 -7] ¶ 16. 
+ “[A]ny decline in enrollment will 
+reduce the Exchange revenue” in Washington, which is also used “to support the Exchange’s costs for enrolling 
+Medicaid applicants” and thereb y will require expenditure of “additional state general fund dollars to replace those 
+premium tax funds.” Id. ¶ 17. 
+
+ The States’ direct regulatory costs also support standing. “Monetary expenditures to 
+mitigate and recover from harms that could have been prevented absent [an agency action] are 
+precisely the kind of ‘pocketbook’ injury” that constitute an injury to a proprietary interest for 
+standing purposes. Air Alliance Houston, 906 F.3d at 1059–60. Such an injury must be direct and 
+concrete, not speculative or attenuated. Clapper, 568 U.S. at 409. 
+ Here, the States have standing based on the Final Rule’s direct imposition of an increased 
+regulatory burden on them. Several state regulators have attested that they have already incurred 
+costs in hiring staff and designating staff time to regulation and enforcement of state and federal 
+laws because of the Final Rule. For example, i n Delaware, state regulators have already begun 
+expending regulatory resources to answer “multiple inquiries” about “the formation and licensing 
+requirements of AHPs” under the Final Rule. Navarro Decl. ¶ 7.
+11 New York has also already 
+incurred costs due to the Final Rule.12 
+ Invalidation of the Final Rule would not restore monies already expended, but it would halt 
+the need for future s tate expenditures. For example, i n the months ahead, Delaware anticipates 
+using “additional State resources for the policing of, and enforcement actions taken against, AHPs” 
+as well as a “35% increase in work for current . . . staff related to the licensing, oversight and 
+enforcement actions for AHP s.” Navarro Decl. ¶ 11. Similarly, New Jersey will “expend 
+additional resources and monies to enforce applicable state laws against . . . AHPs that are 
+fraudulent and/or underfunded” and will “hire additional employees and devote additional funding 
+
+11The Delaware Department of Insurance has also “already had to reassign and reprioritize assignments in 
+order to prepare” for full implementation of the Final Rule and anticipates the need to “hire additional staff, including 
+at least one full -time position and several part -time positions, to ensure that AHPs comply with applicable state and 
+federal laws and regulations.” Id. ¶ 11. 
+12 New York has “devoted staff time to analyzing the AHP Rule” for associations inside and outside of the 
+State and “advise[d] insurers and other licensees of New York requirements.” Decl. of Maria T. Vullo in Supp. of 
+Pls.’ Mot. (“Vullo Decl.”) [ECF No. 31-13] ¶ 18. New York has also “already . . . taken action to prevent a potential 
+influx of plans that purport to be authorized by the AHP Rule and ERISA but would violate New York” laws and 
+regulations. Id. ¶ 17. 
+
+to ensure that AHPs are not improperly and impermissibly marketed” in the state. Caride Decl. ¶¶ 
+10, 12. Massachusetts, Pennsylvania, New York, Maryland, Oregon, and the District of Columbia 
+have also described future costs that will be incurred due to the role their regulators will play in 
+the ongoing implementation and enforcement of the Final Rule. 13 Finally, the States anticipate 
+incurring expenses for consumer education initiatives. For example, Delaware intends to employ 
+a “media campaign” at a cost of “tens of thousands of dollars” and “a minimum of 100 hours” of 
+staff time, all of which the state “would not have incurred if not for the Final Rule.” Navarro Decl. 
+¶ 12.
+ It is notable that these regulatory expenditures are not merely incidental to the federal 
+agency action. See Arpaio v. Obama, 27 F. Supp. 3d 185, 202–03 (D.D.C. 2014), aff’d, 797 F.3d 
+11, 20 (D.C. Cir. 2015), cert. denied 136 S. Ct. 900 (2016) (concluding that injuries related to a 
+purported regulatory burden did not confer standing where the alleged injury was largely 
+speculative and based on attenuated predictions of future illegal third-party conduct). In fact, the 
+Final Rule expressly “depends on state insurance regulators for oversight and enforcement to, 
+among other things, prevent fraud, abuse, incompetence and mismanagement, and avoid unpaid 
+health claims.” Final Rule, 83 Fed. Reg. at 28,960. DOL expressly anticipated that the Final Rule 
+would increase “oversight demands on . . . State regulators.” Id. at 28,953. And i n setting the 
+Final Rule’s staggered applicability dates, DOL considered the time needed for States to adopt 
+
+13 Massachusetts will “incur new costs . . . , such as additional staff time dedicated to enforcement [of state 
+insurance standards].” Decl. of Audrey Morse Gasteier (“Gasteier Decl.”) [ECF No. 31-4] ¶ 8. Pennsylvania expects 
+to “expend significant efforts to investigate consumer complaints.” Dec l. of Christopher R. Monahan [ECF No. 31-
+8] ¶ 36. New York will expend “significant staff time, expenses for current and additional staff, diversion of staff 
+from other priorities, budgetary planning, and travel and other expenses for investigative and vi sitorial activities” 
+because of the Final Rule. Vullo Decl. ¶ 20. See also Decl. of Patricia F. O’Connor in Supp. of Pls.’ Mot. [ECF No. 
+31-10] ¶ 13 (describing costs to be incurred and resources to be mobilized for regulation and enforcement in 
+Maryland); Decl. of Andrew Stolfi [ECF No. 11] ¶¶ 9 –10 (same for Oregon); Decl. of Stephen C. Taylor in Supp. of 
+Pls.’ Mot. [ECF No. 12] ¶ 16 (same for District of Columbia). 
+14 Massachusetts also anticipates incurring costs to distribute educational materials to consumers. Gasteier 
+Decl. ¶ 8. 
+
+“new AHP -specific legislation and/or modification of existing regulations and enforcement 
+programs.” Id.; see also Notice of Legislation 1 [ECF No. 72] (noting that the District of Columbia 
+Council enacted emergency legislation in response to the Final Rule). State regulators are a 
+central, essential piece of the Final Rule’s enforcement scheme. T he economic harm due to this 
+increased regulatory responsibility constitutes an injury -in-fact that is caused by the Final Rule 
+and redressable by its invalidation. See Air Alliance Houston, 906 F.3d at 1059–60. Hence, this 
+increased regulatory burden confers standing on the States to challenge the Final Rule. 
+II. CHALLENGES TO THE FINAL RULE 
+ The States challenge multiple dimensions of the Final Rule under section 706 of the APA, 
+arguing that the Final Rule’s bona fide association and working owner provisions conflict with the 
+text and purpose of both the ACA and ERISA and exceed DOL’s statutory authority. The States 
+also maintain that the Final Rule is arbitrary and capricious under the APA. DOL disagrees with 
+the contention that this case has anything to do with the ACA and urges the Court to consider the 
+Final Rule narrowly as an interpretation of ERISA. Defs.’ Mot. at 1–2; Tr. at 65:16–18 (“[T]his 
+is a case about ERISA[.]”). Because Congress granted DOL statutory authority to interpret 
+ERISA, DOL argues that the Court should defer to DOL’s reasonable interpretation under the 
+narrow judicial review permitted under the APA. Defs.’ Mot. at 3, 25–26, 33, 44, 48. 
+ The Court agrees that this case is fundamentally one about ERISA and that DOL’s 
+interpretation of ERISA should normally receive deference to the extent that interpretation is 
+reasonable. However, the Court concludes that DOL has failed to reasonably interpret the statute. 
+The Final Rule’s bona fide association standard fails to establish meaningful limits on the types of 
+associations that may qualify to sponsor an ERISA plan, thereby violating Congress’s intent that 
+only an employer association acting “in the interest of” its members fall s within ERISA’s scope. 
+The Final Rule’s working owner provision similarly exceeds ERISA’s scope because it seeks to 
+
+extend ERISA’s coverage to plans arising outside of any employment relationship. For the reasons 
+that follow, then, the Court concludes that the se provisions of the Final Rule exceed DOL’s 
+authority and must be set aside. 
+A. The Chevron Framework Applies to DOL’s Interpretation of ERISA 
+ As a threshold matter, the Court agrees that the deferential standard announced in Chevron 
+v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984), applies to DOL’s interpretation 
+of “employer” in ERISA . C ourts generally apply the two- step Chevron framework when 
+reviewing an agency’s construction of a statute that it administers . See id. at 842. Under that 
+framework, courts first determine whether the statute is ambiguous, because if “ Congress has 
+directly spoken to the precise question at issue [and] . . . the intent of Congress is clear, that is the 
+end of the matter.” Id. If the statute is ambiguous, however, then the court considers whether the 
+agency’s interpretation is reasonable—that is, “ whether the agency’s answer is based on a 
+permissible construction of the statute.” Id. at 843. Such interpretive regulations are “binding in 
+the courts unless procedurally defective, arbitrary or capricious in substance, or manifestly 
+contrary to the statute”—even if “the agency’s chosen regulation seems unwise.” United States v. 
+Mead Corp., 533 U.S. 218, 227, 229 (2001). 
+ Here, Congress tasked DOL with administering ERISA. 29 U.S.C. § 1135 (delegating 
+authority to the Secretary of Labor to “prescribe such regulations as he finds necessary or 
+appropriate to carry out the provisions of [ERISA]”); see also Black & Decker Disability Plan v. 
+Nord, 538 U.S. 822, 831 (2003) (deferring to a DOL interpretation of an ERISA provision). 
+ERISA’s definition of “employer” is ambiguous. DOL noted the statut e’s ambiguity in its 
+preamble to the Final Rule, see Final Rule , 83 Fed. Reg. at 28,914, and this conclusion is 
+corroborated by other courts that have considered the issue , see Matincheck v. John Alden Life 
+Ins. Co., 93 F.3d 96, 100 (3d Cir. 1996) (finding ERISA statutory definitions of employer and 
+
+employee ambiguous); Dodd v. John Hancock Mut. Life Ins. Co., 688 F. Supp. 564, 569 (E.D. 
+Cal. 1988) (finding ambiguity in ERISA terms employer, employee, and person). Because 
+Congress delegated authority to DOL to interpret this ambiguous statute, the Chevron framework 
+applies, and the question before the Court is therefore whether DOL’s interpretation is reasonable. 
+B. DOL’s Regulatory Interpretation of ERISA Is Not Reasonable 
+ DOL’s Final Rule does not reasonably interpret ERISA. ERISA regulates benefits in the 
+context of employment relationships . DOL acknowledges as much in the preamble to the Final 
+Rule, explaining that the agency’s authority under the statute is constrained because “ERISA 
+section 3(5) does not broadly extend to arrangements established to provide benefits outside the 
+employment context and without regard to the members’ status as employers.” Final Rule, 83 Fed. 
+Reg. at 28,916. Because the Final Rule stretc hes the definitions of “employer” beyond what the 
+statute can bear, the Final Rule is unlawful under the APA. 
+i. ERISA Is Limited to Employee Benefit Plans Arising from Employment 
+Relationships 
+ The text and purpose of ERISA limit its scope to benefit plans arising from employment 
+relationships. This is not a situation in which a court must divine congressional intent from 
+legislative history and presidential signing statements; rather, Congress inscribed its findings and 
+declaration of policy on the face of the statute. Congress enacted ERISA “following almost a 
+decade of study[]” of employment benefits and pension systems. Nachman Corp., 446 U.S. at 361. 
+By its text, ERISA addresses the “growth in size, scope, and numbers of employee benefit plans” 
+across the country and aims to protect “the interests of participants in employee benefit plans and 
+their beneficiaries.” 29 U.S.C. § 1001(a) –(b). Congress expressed its interest in regulating 
+“employee benefit plans” because these plans, among other things, implicate interstate commerce 
+and directly affect “the continued well -being and security of millions of employees and their 
+
+dependents” as well as “the stability of employment and industrial relations.” Id. More 
+specifically, ERISA remedies “lack of employee information and adequate safeguards concerning 
+. . . operation” of employee benefit plans through disclosure requirements, as well as plans’ failure 
+to pay promised benefits by setting minimum standards and “providing . . . appropriate remedies, 
+sanctions, and ready access to the Federal courts.” Id. §§ 1001(a)–(b). In short, ERISA concerns 
+benefit plans arising from employment relationships and accordingly regulates only those plans. 
+Notably absent from ERISA’s statement of policy is any expression of an intent to expand citizen 
+access to healthcare benefits outside of an employment relationship or to directly regulate 
+commercial healthcare insurance providers. Congress does regulate in these areas, but it does so 
+through other statutory schemes—including the ACA. 
+ ERISA’s concern with benefits arising from employment relationships is further evinced 
+by its “lexicographic topography”—that is, its definitions section. See MDPhysicians & Assocs., 
+Inc. v. State Bd. of Ins., 957 F.2d 178, 182 (5th Cir. 1992). ERISA’s fundamental unit of analysis 
+is the “employee benefit plan,” which may take the form of an “employ ee welfare benefit plan,” 
+an “employee pension benefit plan,” or both. ERISA §§ 3(1)–(3); 29 U.S.C. §§ 1002(1)–(3). An 
+employee welfare benefit plan is a “plan, fund, or program . . . established or maintained by an 
+employer or by an employee organization, or by both, to the extent that such plan, fund, or program 
+was established or is maintained for the purpose of providing for its participants or their 
+beneficiaries.” Id. §§ 3(1); 29 U.S.C. § 1002(1). A benefit plan “participant” includes “any 
+employee or former employee of an employer, or any member or former member of an employee 
+organization.” Id. § 3(7); 29 U.S.C. § 1002(7). And an “employee” is “any individual employed 
+by an employer.” Id. § 3(6); 29 U.S.C. § 1002(6). These definitions have been further refined 
+through DOL regulations. See 29 C.F.R. §§ 2510.3–1, 3–2, 3–3. But the broad contours of the 
+
+statutory text make clear that Congress intended that only benefit plans arising from employment 
+relationships would fall within ERISA’s scope. If Congress had intended ERISA to regulate 
+ordinary commercial insurance relationships existing outside of the employment context, one 
+would not expect it to have framed ERISA’s scope in terms of employee benefit plans, created or 
+maintained by employers or employee organizations for the benefit of current and former 
+employees and their beneficiaries. See ERISA § 3; 29 U.S.C. § 1002. 
+ii. ERISA Extends the Definition of Employer Only to Associations Acting 
+in the Interest of Employers 
+ ERISA authorizes some employer associations to qualify as “employers” for the purpose 
+of sponsoring an employee benefit plan, so long as the “group or association of employers” acts 
+“in the interest of an employer.” ERISA § 3(5), 29 U.S.C. § 1002(5) (emphasis added). This 
+congressional mandate forms the core of the dispute in this case. The Final Rule is lawful only to 
+the extent that it carries out Congress’s intent to limit associations qualifying as employers to those 
+acting “in the interest of” an employer. This provision leaves open to agency interpretation the 
+precise contours of who might fit within this definition . But the statutory text is not infinitely 
+elastic. 
+ The phrase “in the interest of an employer” distinguishes employer associations that stand 
+in the shoes of an “employer” for the purpose of sponsoring an ERISA plan from every other 
+employer association. The D.C. Circuit has warned that Congress did not intend for “every . . . 
+agent who discharges some responsibility in regard to a corporation’s employee benefit plan” to 
+be “swept within the definition” of “employer” under ERISA. Int’l Bhd. of Painters & Allied 
+Trades Union v. George A. Kracher, Inc., 856 F.2d 1546, 1548 (D.C. Cir. 1988). T he legislative 
+history of ERISA makes clear that entrepreneurial ventures selling insurance for a profit to 
+unrelated groups are unequivocally outside of ERISA’s scope. Wayne Chem., Inc. v. Columbus 
+
+Agency Serv. Corp., 567 F.2d 692, 699 (7th Cir. 1977); MDPhysicians , 957 F.2d at 183–84; 
+Gruber v. Hubbard Bert Karle Weber, Inc., 159 F.3d 780, 786 (3d Cir. 1998) ; see also Activity 
+Report of the House Committee on Education and Labor, H.R. Rep. No. 1785, 94th Cong., 2d 
+Sess. at 48 (1977) (noting that the committee does “not believe that the statute and legislative 
+history [of ERISA would] support the inclusion of what amount [] to commercial products within 
+the umbrella of the definition [of an ERISA plan under section 3(3), 29 U.S.C. § 1002(3)]” ). 
+Relatedly, because ERISA plans arise from the special relationship between employers and 
+employees, a plan is not an ERISA plan unless the entity providing benefits and the individuals 
+receiving the benefits demonstrate the “economic or representation[al]” ties or protective “nexus” 
+that characterizes an employment relationship. Wis. Educ. Ass’n Ins. Trust v. Iowa State Bd. of 
+Pub. Instruction (“WEAIT”), 804 F.2d 1059, 1063 (8th Cir. 1986) ; MDPhysicians, 957 F.2d at 
+186. 
+iii. The Final Rule’s Expansive Test for Bona Fide Associations Is Not 
+Reasonable 
+ The Final Rule’s bona fide associations provision is not reasonable because it unlawfully 
+expands ERISA’s scope . The Final Rule adopted the same three overall criteria15 that DOL 
+previously employed for determining which associations are “bona fide” and thus act in the interest 
+of an employer for the purpose of establishing an AHP : purpose, commonality of interest, and 
+control. However, the Final Rule departs significantly from DOL’s prior sub-regulatory guidance 
+in the way it measures these criteria. This is the heart of the States’ challenge to the Final Rule. 
+
+15 The Final Rule also imposes additional requirements on bona fide associations, including requirements for 
+an organizational structure and nondiscrimination. 29 C.F.R. §§ 2510.3 -5(b)(3), (7). The Final Rule clarified 
+eligibility to participate in an AHP and prohibited commercial health insurers from running AHPs. Id. §§ 2510.3-
+5(b)(6), (8). Plaintiffs do not challenge these additional requirements imposed on AHPs, and the Court will not address 
+these requirements further because they are collateral to the three main requirements under the Final Rule. 
+
+ These three criteria form the primary basis for DOL’s examination of which associations 
+qualify as ERISA “employers,” and they must be viewed holistically to determine whether in sum 
+they limit bona fide associations to those contemplated by Congress in ERISA. The analysis that 
+follows describes each criteri on individually, then considers whether together they place 
+reasonable constraints on the types of associations that act “in the interest of” employers under 
+ERISA. 
+a. Purpose Test 
+ The purpose test allows an association to sponsor an AHP so long as the association has 
+“at least one substantial business purpose” unrelated to the provision of health care , even if its 
+primary purpose is “to offer and provide health coverage to its employer members and their 
+employees.” 29 C.F.R. § 2510.3-5(b)(1). The rule does not define “substantial business purpose,” 
+but it creates a safe harbor “if the group or association would be a viable entity in the absence of 
+sponsoring an employee benefit plan.” Id. The preamble to the Final Rule provides examples of 
+“substantial business purpose [s],” including “convening conferences or offering classes or 
+educational materials on business issues of interest to the association members,” acting “as a 
+standard-setting organization that establishes business standards or practices,” or engaging “in 
+public relations activities such as advertising, education, and publishing on business issues of 
+interest to association members unrelated to sponsorship of an AHP.” Final Rule, 83 Fed. Reg. at 
+28,918. 
+ The problem with the purpose test as DOL now interprets it is that it fails to set meaningful 
+limits on the character and activities of an association. The Final Rule permits associations to form 
+for the primary purpose of establishing an AHP, and hence the only limitation imposed by the 
+purpose test is its undefined “substantial business purpose” requirement. The possible scope of 
+qualifying substantial business purposes ranges from the resource intensive—e.g., setting business 
+
+standards and practices—to the de minimis—e.g., publishing a newsletter on business issues. Of 
+course, t he latter is something that most associations already do and thus is not a defining 
+characteristic of a subset of organizations that would fall within ERISA’s scope. 
+ The Final Rule’s “safe harbor” provision reveals how flimsy the purpose test really is. The 
+safe harbor provision specifies that an association that “would be a viable entity in the absence of 
+sponsoring an employee benefit plan” will satisfy the purpose test. 29 C.F.R. § 2510.3- 5(b)(1). 
+This phrasing suggests, however, that at least some associations would still meet the purpose test 
+even if they were outside of this safe harbor —that is, not viable but for sponsoring an AHP. 
+Sponsoring an AHP, then, may serve not only as the “primary purpose” of an association under 
+the first part of the purpose test—sponsoring an AHP may serve as its only real purpose. The 
+“substantial business purpose” test , then, is only an ex post facto, perfunctory requirement —
+merely a box to check —that virtually any association may fulfill on the side and thereby qualify 
+to sponsor an AHP under the Final Rule. This business purpose does not, in fact, need to be 
+“substantial” in the ordinary sense of that term, because it need not make the association viable in 
+the absence of the association’s AHP. This requirement therefore is more aptly called the “other 
+business task” test. It sets such a low bar that virtually no association could fail to meet it. Indeed, 
+it is likely that nearly every employer association that exists today already satisfies the Final Rule’s 
+substantial business purpose requirement. 
+ In short, the Final Rule’s purpose test provides no meaningful limit on the associations that 
+would qualify as “bona fide” ERISA “employers.” It does no work towards narrowing extant 
+associations to only those that act “in the interest of” employers . Alt hough it desc ribes its 
+requirement in terms of a “substantial business purpose,” this requirement gives way under the 
+slightest pressure. 
+
+b. Commonality of Interest Test 
+ To form an association sponsoring an AHP under the Final Rule, employers also must 
+display a “commonality of interest.” 29 C.F.R. § 2510.3- 5(b)(5). This requirement may be met 
+through two alternative routes : employers must either share a common “trade, industry, line of 
+business, or profession,” or else each employer must have “a principal place of busi ness in the 
+same region that does not exceed the boundaries of a single State or a metropolitan area (even if 
+the metropolitan area includes more than one State).” 29 C.F.R. § 2510.3- 5(c)(1). The States 
+object to the latter , which deems employers to be u nited in interest solely because of common 
+geographical location. 
+ The commonality of interest test is arguably the most important of the three criteria because 
+it most directly relates to the core concern of the statute: employers’ interests . Before an 
+association can act “in the interest of” an employer member, that interest must be defined. But 
+common geography does not necessarily correlate with any common interest. The Final Rule 
+thereby permits unrelated employers in multiple, unrelated industries to associate and be deemed 
+to act “in the interest of” the employer members, notwithstanding the fact that the interests of these 
+employer members may be very different or even conflicting. 
+ DOL does not provide a rationale that would connect geography and common employer 
+interest. The preamble to the Final Rule explains the desired effect of the geography requirement, 
+which is that this requirement will “provide employer groups and associations with important 
+flexibility and allow more employers to join together to secure lower cost healthcare coverage for 
+themselves and their employees through AHPs.” Final Rule , 83 Fed. Reg. at 28,924. In other 
+words, the geography requirement is desirable because it lowers barriers to AHP formation. In 
+this way, the Final Rule responds to the President ’s direction to “consider ways to promote AHP 
+formation on the basis of common geography.” Id. at 28,912; see also Exec. Order 13,813, 82 
+
+Fed. Reg. at 48,386. However, the preamble to the Final Rule fails to explain how geography 
+furthers the statutory requirement that associations act in the interest of employers or why 
+employers with a place of business in a state would be expected to share common interests. See 
+id. at 28,923–26; see also Definition of “Employer” Under Section 3(5) of ERISA —Association 
+Health Plans, Proposed Rule, 83 Fed. Reg. 614 (Jan. 5, 2018) [A.R. at 6947–69]. 
+ There is nothing intrinsic in common geography that would generate the types of economic 
+or reputational ties that courts have deemed essential for a plan to be covered by ERISA. Hence, 
+courts interpreting ERISA’s requirement s have declined to extend ERISA’s protections and 
+privileges to organizations based simply on geographic proximity . For example, in both 
+MDPhysicians and WEAIT, the plans at issue were geographically focused (in the Texas 
+panhandle and in Iowa, respectively), yet both courts concluded that the plans fell outside of 
+ERISA’s scope. See MDPhysicians, 957 F.2d at 180; WEAIT, 804 F.2d at 1060. ERISA imposes 
+a common interest requirement, not merely a something -in-common requirement. Accordingly , 
+courts have “consistently rejected the contention that heterogenous businesses that share nothing 
+more than a common size and a high regard for the ‘ entrepreneurial spirit ’” satisfy ERISA’s 
+commonality of interest requirement. Gruber, 159 F.3d at 788. Geography, similarly, is not a 
+logical proxy for common interest, and substituting shared geography for the statutory requirement 
+of common interest improperly expands ERISA’s scope.
+ DOL’s decision to select geography as a proxy for common interest is more perplexing 
+when one considers other designators of commonality that DOL rejected. These rejected 
+characteristics included “ownership characteristics (e.g., an association of owners who are women, 
+
+16 DOL could certainly craft a bona fide association rule t aking geography into account. The problem with 
+the rule is not that any consideration of geography is categorically impermissible, but rather that geography alone does 
+not logically predict a commonality of interest. 
+
+minorities, or veterans), business models or structures (such as businesses owned by ESO Ps, 
+franchises, or not-for-profits), size of business (e.g., small businesses), [and] shared religious and 
+moral convictions.” Final Rule, 83 Fed. Reg. at 28,926. DOL noted some commenters’ belief that 
+“employers within these relationships often share unique bonds, interests, needs, and regulatory 
+schemes, and may have significantly more commonality of interest than those in the same industry 
+or region due to these shared traits.” Id. But DOL rejected these characteristics because “a test 
+that would tre at all nationwide franchises, all nationwide small businesses, or all nationwide 
+minority-owned businesses[] as having a common employment -based nexus —no matter the 
+differences in their products, services, regions, or lines of work—would not be sufficient to 
+establish commonality of interest for a national group or association and AHP because it would be 
+impossible to define or limit . . . and, in the Department’s view, would eviscerate the genuine 
+commonality of interest required under ERISA.” Id. 
+ The same concerns that animated DOL’s decision to reject these other designators of 
+commonality apply with equal force to DOL’s geography test. Take, for example, an association 
+composed of employers with principal places of business in California. The assoc iation could 
+form for the primary purpose of creating an AHP, so long as participating employer members 
+elected directors and the association published a quarterly newsletter on business issues of interest 
+to California -based businesses. The employer memb ers (of varying sizes) might include a 
+restaurateur in Oakland, a physicians practice group in the Hollywood Hills, an almond farmer in 
+the Central Valley, an importer in Long Beach, a technology company headquartered in San Diego 
+but doing business primar ily in New York, and a Fresno fast -food franchise. These employers 
+share no “unique bonds, interests, needs, [or] regulatory schemes” and exhibit a wide range of 
+“differences in their products, services, regions, [and] lines of work.” See id. They would be no 
+
+more or less united in interest if their principal places of business happened to be in various states. 
+The Court concludes, therefore, that the geography standard under the Final Rule fails to account 
+in any way for employers’ commonality of inter est. T his standard effectively eviscerates the 
+genuine commonality of interest required under ERISA, thereby expanding the scope of the statute 
+beyond what ERISA intended. 
+ Because the geography test does not, in fact, ensure that associations qualifying to sponsor 
+AHPs under the Final Rule share a “ commonality of interest,” it creates no meaningful limit on 
+these associations. In other words, the geography test does no work to focus the Final Rule on the 
+types of associations that Congress intended ERISA to cover. 
+c. Control Test 
+ The third criterion under the Final Rule that serves to constrain which associations may 
+sponsor AHPs is the control test,17 which requires simply that “[t]he functions and activities of the 
+group or association are controlled by its employer members, and the group’ s or association ’s 
+employer members that participate in the group health plan control the plan.” 29 C.F.R. § 2510.3-
+5(b)(4). This employer member “[c] ontrol must be present both in form and in substance .” Id. 
+“Whether the requisite control exists is determined under a facts and circumstances test.” Final 
+Rule, 83 Fed. Reg. at 28,919. DOL will deem employer members to have control where , for 
+example, they can nominate, elect, and remove directors and approve or veto material amendments 
+
+17 DOL contends that the Final Rule’s less stringent standards for commonality of interest and purpose are 
+balanced by “new nondiscrimination requirements.” Defs.’ Mot. at 2. This nondiscrimination requirement “prevent[s] 
+associations from charging employer members different premium rates based on the health status of their employees” 
+and “reflects the Department’s reasonable efforts to supply the criteria necessary to elucidate the definition of Section 
+3(5) in a manner that is consistent with the statute and ERISA’s objective of encouraging the creation of employment 
+benefit plans.” Id. at 28. This nondiscrimination provision still “permit[s] employment-based distinctions to be used 
+within an AHP, provided that such distinctions are not directed at individual participants or beneficiaries based on any 
+health factor.” Final Rule, 83 Fed. Reg. at 28,923 n.31. 
+But this nondiscrimination provision does not constrain which associations qualify under the Final Rule —it 
+only limits how qualifying associations may structure their premiums in an AHP. Because this requirement does not 
+serve to limit which associations qualify as ERISA “employers,” it does not weigh in the Court’s analysis in this case. 
+
+to the AHP. Id. at 28,920. Employer members are not required to “manage the day-to-day affairs 
+of the group or association or the plan.” Id. 
+ The control test “largely duplicate[s] the conditions in the Department’s pre -rule 
+guidance.” Id. at 28,919. DOL has observed that “the control test is necessary to satisfy the 
+statutory requirement in ERISA section 3(5) that the group or association must act ‘in the interest 
+of’ the employer members in relation to the employ ee benefit plan in order to qualify as an 
+employer.” Id. at 28,919, 28,955. 
+ The control test limits the types of associations that qualify as employers under the Final 
+Rule by ensuring that employer members direct the actions and decisions of the associa tion with 
+respect to the AHP. The control test alone, however, does not mean that employer members are 
+united in interest, but rather only that the employer members can steer the association’s decision -
+making when working in concert. Courts have concluded—and this Court agrees—that the control 
+test complements and supplements the commonality of interest test but cannot replace it. For 
+example, the Third Circuit has held that “to qualify as an ‘ employer’ for ERISA purposes, an 
+employer group or association must satisfy both the commonality of interest and control 
+requirements.”18 Gruber, 159 F.3d at 787 (emphasis added); see also MDPhysicians, 957 F.2d at 
+186 (determining that the subject plan was not an ERISA plan because it failed to meet both the 
+commonality of interest and control requirements). 
+ In other words, t he control test is only meaningful if employer members’ interests are 
+already aligned. If employer members have opposed interests, the control test does nothing to 
+
+18 The Third Circuit in Gruber also distinguished the legal bases of the two tests. It noted that the 
+commonality of interest requirement derived from the text of ERISA itself , as distilled through DOL advisor y 
+opinions, while the control requirement derived solely from DOL guidance, which the court found worthy of deference 
+as “a reasonable means of ensuring that the administrators of multi -employer welfare benefit plans in fact act ‘in the 
+interest of’ their employer members.” See 159 F.3d at 787–88. 
+
+resolve those differences. For example, in the case of an association whose employer members 
+display widely disparate interests, the existence of indicia of control such as election of officers 
+and voting on plan amendments would make it more likely that the association might fur ther the 
+interests of some—perhaps those that are most powerful or most numerous—but not all employers 
+in the organization. 
+* * * 
+ The Final Rule is a lawful interpretation of ERISA only so long as it limits the “bona fide 
+associations” that may qualify as employers to those acting “in the interest of ” their employer 
+members, as mandated by ERISA’s text. See ERISA § 3(5); 29 U.S.C. § 1002(5). Here, the three 
+criteria that limit association membership fall short of ERISA’s statutory requirements. The Final 
+Rule’s purpose test sets no meaningful limitation on associations because its requirements are 
+largely cursory, describing activities in which an association must participate but not meaningfully 
+addressing whether the association’s activities align with or further employer members’ interests. 
+So, too, the geography pathway for meeting the commonality of interest requirement does little to 
+ensure that the association will act in its employer members’ interests because shared geography 
+does not refle ct any common interest. T he purpose and commonality of interest criteria —even 
+when combined—fail to establish an interest -based bond between associations and employer 
+members, which in turn undermines the effectiveness of the control test : disparate emplo yers 
+pursuing their own varied interests through an association’s AHP —even if the employers exert a 
+modicum of control over the organization—simply do not come within ERISA’s statutory scheme. 
+ The three criteria set by the Final Rule for qualification as a “bona fide association,” then, 
+even acting in combination, ultimately fail to respect the statutory limitations set by Congress 
+because the Final Rule does not functionally constrain bona fide associations to those acting “in 
+the interest of” employers. The Final Rule would permit a group of employers with no common 
+
+characteristic other than presence in the same state to qualify as a single employer under ERISA 
+so long as that group had an election -based officer structure and some modest business-related 
+side project. Yet as summarized in WEAIT, ERISA is premised on the idea that employers and 
+employees are connected by an employment nexus: “[a]n employee depends on his employe r,” 
+and vice versa. WEAIT, 804 F.2d at 1063. This nexus is reproduced at the level of associations 
+and their employer members. Yet there is no reason to believe that the employee of an employer 
+joining such a loosely defined association under the Final Rule would have real ties to that 
+association or that any associational bonds would provide inherent limits on the activities of the 
+association with respect to its employer members or their employees . The Final Rule allows 
+groups that closely resemble entrepreneurial, profit -driven commercial insur ance providers to 
+qualify for ERISA’s protections —an outcome that longstanding interpretations of ERISA have 
+explicitly forbidden. See Gruber, 159 F.3d at 786; MDPhysicians, 957 F.2d at 183–84; Wayne 
+Chem., 567 F.2d at 699; Activity Report of the House C ommittee on Education and Labor, H.R. 
+Rep. No. 1785, 94th Cong., 2d Sess. at 48–49 (1977). Allowing such associations to sponsor AHPs 
+under ERISA “ twist[s] the language of the statute and defeat [s] the purposes of Congress ,” and 
+therefore conflicts with DOL’s authority under ERISA. See MDPhysicians, 957 F.2d at 185. For 
+these reasons, the bona fide association provision of the Final Rule unlawfully expands ERISA’s 
+scope and conflicts with ERISA’s text. Hence, it is not a reasonable interpretation of ERISA and 
+must be set aside. 
+iv. The Final Rule’s Expansion of “Employer” to Include Working Owners 
+without Employees Is Not Reasonable 
+ The Final Rule’s expansion of the definition of employer to include working owners 
+without employees is also contrary to the text of ERISA. The Final Rule allows “[a] working 
+owner of a trade or business without common law employees [to] qualify as both an employer and 
+
+as an employee of the trade or business” for several key purposes. 29 C.F.R. § 2510.3- 5(e)(1). 
+These working owners without employees qualify as both “employer members ” of bona fide 
+associations and as their own “employees,” thereby qualifying them to join bona fide associations 
+and participate in the asso ciation’s AHP. Id. §§ 2510.3-5(b), (e). The Final Rule specifies that 
+working owners with no employees satisfy the condition for bona fide associations that “[e]ach 
+employer member [participating in an AHP] is a person acting directly as an employer of a t least 
+one employee who is a participant covered under the plan.” Id. § 2510.3-5(e). Working owners 
+without employees, per the Final Rule, may also receive benefits from the AHPs of bona fide 
+associations notwithstanding the provision that these AHPs may provide health coverage for only 
+current and former “employee[s] of a current employer member” or that employee’s beneficiaries. 
+Id. § 2510.3-5(b)(6)(i). 
+ The States note that for ERISA’s more -than-forty-year history, working owners without 
+employees have been ineligible to join associations under ERISA. Pls.’ Mot. at 2. This is more 
+than a consequence of agency policy, they argue—it is because ERISA cannot accommodate such 
+an interpretation. Id. at 28–30. DOL counters that the definition of “employer” is ambiguous and 
+that nothing in the statute or precedent conclusively forecloses the agency’s interpretation. Defs.’ 
+Mot. at 44–47. DOL acknowledges that ERISA would not apply “to a plan that the working owner 
+is providing to himself” outside of membership in an association, because DOL acknowledges that 
+a working owner’s plan covering only himself “falls outside the scope of ERISA.” Tr. at 73:17–
+74:10. However, DOL contends that membership in an association transforms a working owner 
+with no employees into both an employer and employee under ERISA, thereby bringing that 
+working owner without employees within the scope of the statute and the Final Rule. Id. at 74:11–
+76:22. More specifically, DOL argues that two sole proprietors without employees may band 
+
+together in an association, and this two-member association may then sponsor an ERISA plan for 
+the two working owners’ benefit. Id. at 76:1–22. 
+ A working owner without employees is plainly beyond ERISA’s scope when he establishes 
+a benefit plan for himself . The Court concludes that a working owner’s membership in an 
+association does not bring him within ERIS A. And the contention that two working owners 
+without employees, neither of whom is within ERISA’s scope alone , could associate with one 
+another and thereby come within the statute’s reach is absurd. Congress did not intend for working 
+owners without employees to be included within ERISA—either as individuals or when joined in 
+an employer association . ERISA clearly contemplates regulation of benefits arising from 
+employment relationships. The Final Rule’s attempt to bring sole proprietors with no employees 
+into ERISA’s fold stretches the statute too far. 
+ As a practical matter, o ne does not have an employment relationship with oneself. 
+Notwithstanding the broad sweep of ERISA’s definition of employer, a sole proprietor neither acts 
+“directly as an employer” or “indirectly in the interest of an employer” —i.e., of himself. See 
+ERISA § 3(5); 29 U.S.C. § 1002(5). There is no indication that Congress crafted the statute with 
+the intent of sweeping working owners without employees —who employ no one —within 
+ERISA’s scope through the statutory definition of “employer.” 
+ The statutory conflict is even clearer when one consider s the statute’s definition of 
+“employee.” Unlike the more expansive definition of “employer,” the definition of “employee” 
+under ERISA is limited: simply an “individual employed by an employer.” ERISA § 3(6); 29 
+U.S.C. § 1002(6). T he text of the statute clearly anticipates a relationship between two parties. 
+Congress constructed the definition of “employee” with a transitive verb (to employ), whic h 
+necessarily describes a relationship between a subject and object —employer and employee. If 
+
+such a relationship were not intended, then Congress could have defined “employee” as simply a 
+“working individual.” But it did not. 
+ Further, the Supreme Court has read ERISA’s definition of “employee” to “incorporate 
+traditional agency law criteria for identifying master-servant relationships,” Nationwide Mut. Ins. 
+Co. v. Darden, 503 U.S. 318, 319 (1992) , and “[t]he traditional agency criteria can be applied 
+logically only in situations involving relationships between two different persons, i.e. , those who 
+employ persons and those who are so employed,” In re Watson, 161 F.3d 593, 597 (9th Cir. 1998). 
+It is unreasonable to say that Congress drafted the statute with the intent to regulate a person’s 
+internally conflicted relationship with himself. That would threaten to turn ERISA into an exercise 
+in psychoanalysis. 
+ Supreme Court precedent also supports finding that a working owner without employees 
+falls outside ERISA. In Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, 541 U.S. 
+1 (2004), the Supreme C ourt held that “[u]nder ERISA, a working owner may have dual 
+status, i.e., he can be an employee entitled to participate in a plan and, at the same time, the 
+employer (or owner or member of the employer) who established the plan.” 541 U.S. at 16. DOL 
+argues that this sentence in Yates at least opens the door for any sole proprietor—with or without 
+employees—to qualify as dual -status employee and employer under ERISA. Defs.’ Mot. at 45–
+47. But DOL’s reading emphasizes a single sentence and ignores the rest of the opinion. The 
+Supreme Court emphasized that Yates’s plan had always included “at least one person other than 
+Yates or his wife.” Id. at 8. The opinion clarified that “[i]f the plan covers one or more employees 
+other than the business owner and his or her spouse, the working owner may participate on equal 
+terms with other plan participants.” Id. at 6 (emphasis added). The presence of employees, then, 
+is a condition precedent to the creation of an ERISA plan because without employees there is no 
+
+employment relationship to give rise to an employee benefit plan. But o nce such a plan exists, a 
+working owner may participate alongside his or her employees. As the Supreme Court explained: 
+“Plans that cover only sole owners or partners and their spouses . . . fall outside [ERISA] Title I’s 
+domain,” but “[p]lans covering working owners and their nonowner employees . . . fall entirely 
+within ERISA’s compass.” Id. at 21.19 Put differently, “if a benefit covers only working owners, 
+it is not covered by [ERISA] Title I .” Yates, 541 U.S. at 21 n.6. Alt hough the Supreme Court 
+holding in Yates does not directly address working owners without employees, the fact that the 
+opinion carefully distingui shed between working owners with and without employees and their 
+relative places within and beyond ERISA’s scope further confirms this Court’s conclusion that 
+ERISA does not cover working owners without employees. 
+ It is notable that DOL makes no attempt to directly categorize working owners without 
+employees as ERISA “employers”; rather, the Final Rule only categorizes them as employers when 
+they join associations. DOL attempts this strategic move because longstanding interpretations of 
+ERISA make clear that a working owner without employees is not an ERISA “employer” directly 
+and cannot create an ERISA plan for himself. See Tr. at 73:17–74:10 (DOL acknowledging that 
+such a plan cannot fall under ERISA); Yates, 541 U.S. at 21 n.6 (listing cases holding that a plan 
+covering a working owner without employees does not qualify as an ERISA plan). But if a 
+
+19 In Yates, the Supreme Court examined both the text of ERISA and DOL’s regulations interpreting the 
+definition of “employee benefit plan,” which prohibited employee benefit plans from including any plan coveri ng 
+working owners without employees. 541 U.S. at 21 (citing 29 C.F.R. § 2510.3- 3(b)–(c)). However, the Supreme 
+Court emphasized that plans covering working owners without employees fall outside of ERISA—not just outside of 
+DOL regulations interpreting ERISA. Thus, even after DOL changed its regulations, the Court reads Yates as stating 
+that working owners without employees remain beyond ERISA’s scope. 
+The Supreme Court also noted (Yates, 541 U.S. at 21 n.6) general agreement among circuit courts that s ole 
+proprietors without employees were generally excluded from ERISA’s reach. See Slamen v. Paul Revere Life Ins. 
+Co., 166 F.3d 1102, 1104 (11th Cir. 1999) (“[I]n order to establish an ERISA employee welfare benefit plan, the plan 
+must provide benefits to at least one employee, not including an employee who is also the owner of the business in 
+question.”); In re Watson, 161 F.3d at 597 (holding that sole shareholder is not participant in plan that covered only 
+him); Schwartz v. Gordon, 761 F.2d 864, 868 (2d Cir. 1985) (holding that ERISA excludes plans “in which there are 
+no employees and for which the fiduciary protections afforded by” ERISA are inapplicable). 
+
+working owner without employees cannot qualify as an “employer” in his own right, an association 
+of such working owners is not truly an employer association—at most, it is an association of 
+working owners without employees. An association offering benefits to a sole proprietor without 
+employees most closely resembles an “entrepreneurial venture,” and the relationship between 
+association and workin g owner is most “similar to the relationship between a private insurance 
+company . . . and the beneficiaries of a group insurance plan.” WEAIT , 804 F.2d at 1063. It is 
+unreasonable to think that Congress i magined that its definition of an association act ing “in the 
+interest of” employers would extend to cover these individuals, who do not otherwise qualify as 
+employer or employee. See ERISA § 3(5); 29 U.S.C. § 1002(5). 
+ Adding a working owner without employees to an association, then, does not change his 
+status under ERISA —it cannot transform a sole proprietor without employees into either an 
+“employer” or “employee” under the statute. But adding such a working owner to an association 
+that otherwise could qualify as “bona fide” does change the status of that association. As illustrated 
+by cases like WEAIT , an ERISA plan must be established or maintained to provide benefits to 
+employees or former employees (or, in the case of an employee organization, its members) plus 
+their beneficiaries, but never to unrelated third parties. See WEAIT, 804 F.2d at 1063 (analyzing 
+ERISA § 3(1), 29 U.S.C. § 1002(1)). If an otherwise qualifying association provides benefits to 
+such a working owner without employees through its AHP, it has severed the economic and 
+representational ties that bind its “employer” members together because the working owner 
+without employees would be a non-employer member. See id. By offering benefits to unaffiliated 
+individuals through its AHP, the association would not qualify as an ERISA “employer ,” and its 
+AHP would not qualify as a single ERISA plan. 
+
+ The Final Rule ’s expansion of the definition of employer to include working owners 
+without employees also does not further ERISA’s purposes. For example, allowing individuals 
+without employees to join ERISA plans does not serve “as an incentive to the creation of plans 
+that will benefit employer and nonowner employee alike.” Yates, 541 U.S. at 17–18. Further, the 
+Final Rule does not address any of Congress’s concerns about nondisclosure, insolvency, or abuse 
+in employee benefit plans as laid out in ERISA’s statement of purpose. See 29 U.S.C. § 1001. As 
+the Second Circuit has explained, “[a] self-employed individual[,] . . . unlike a worker employed 
+by another, has complete control over the amount, investment and form of the fund created by him 
+. . . .” Schwartz , 761 F.2d at 868. Accordingly, ERISA’s “remedial scheme . . . for workers 
+employed by others [is] not necessary for the protection of self -employed persons, and Congress 
+accordingly has not changed the definition of ‘ employee’ in that Title to include self -employed 
+persons.” Id. 
+ In short, the Final Rule’s expansion of the term “employer” under ERISA to include 
+working owners without employees (when organized in an association) is unreasonable because it 
+is contrary to ERISA’s text and purpose . DOL’s interpretation does not “interpret” ERISA, it 
+rewrites it, obliterating the statute’s references to “employers,” employees “employed by” those 
+employers, and plans “established or maintained by an employer . . . for the purpose of providing 
+for” those employees. It is also unsupported by case law interpreting ERISA from the Supreme 
+Court and other courts. For these reasons, the Court concludes that the working owner provision 
+of the Final Rule is contrary to ERISA and must be set aside. 
+C. DOL’s Unreasonable Regulatory Interpretation of ERISA Creates 
+Absurd Results Under the ACA 
+ Finally, the Final Rule creates absurd results under the ACA . Th is conflict further 
+highlights that DOL’s regulatory interpretation of “employer” under ERISA is unreasonable. 
+
+ As noted above, the ACA defines “employer” and “employee” generally based on how 
+those terms are defined in ERISA. The ACA’s definition of “employee” is the same as under 
+ERISA: it is simply an “individual employed by an employer ,” 42 U.S.C. § 300gg -91(d)(5), 29 
+U.S.C. § 1002(6), which the Supreme Court has held to “incorporate traditional agency law criteria 
+for identifying master -servant relationships ,” Darden, 503 U.S. at 319. However, the ACA ’s 
+definition of “employer” adopts ERISA’s definition of “employer” with a critical exception: “such 
+term shall include only employers of two or more employees.” 42 U.S.C. § 300gg-91(d)(6). Under 
+the ACA, then, an “employer” must have two or more “employee s,” and, under Darden, one 
+expects these individuals to be cognizable as such under the common law. See Darden, 503 U.S. 
+at 319. 
+ DOL contends that an ERISA “bona fide association ” comprised solely of two working 
+owners without employees would qualify as both an “employer” and “employee” under the ACA. 
+See Final Rule , 83 Fed. Reg. at 28,940–41. DOL’s explanation for how these self -employed 
+individuals fit inside ACA’s definition of employer is a magic trick. First, DOL asks the Court to 
+imagine each working owner without employees wearing two hats : an employer hat and an 
+employee hat. Tr. at 75:4–15. When two working owners without employees associate, they keep 
+their employer hats , but the association also gains an employer hat . Id. at 75:16–25. The 
+association counts as an employer under the ACA because the two working owners without 
+employees also wear their employee hats, and therefore the association is an “employer[] of two 
+or more employees.” Id. at 76:1–11; 42 U.S.C. § 300gg -91(6). N ote that the working owners 
+without employees must hang on to their employer hats as well, because otherwise the association 
+would not qualify as an employer under ERISA, which requires the association to act in the interest 
+of its employer members. ERISA § 3(5); 29 U.S.C. § 1002(5). As DOL explained, this analysis 
+
+“squares everything regarding working owners into one very neat package,” and the association 
+qualifies as an employer under the ACA “as long as the association has at least two individuals to 
+whom it is providing benefits, be it individuals, be it small companies, it doesn’t matter.” Tr. at 
+76:10–17. 
+ This lo gic is clever but ultimately not persuasive . When one counts the employees 
+employed by two self -employed persons without employees, the sum is zero. DOL’s feat of 
+prestidigitation transforms two individuals, neither of whom works for the other, into a total of 
+three employers and two employees. This interpretation strains the ERISA definition of 
+“employee,” which contemplates an individual “employed by” another . It doubly strains the 
+ACA’s express limit of employers to “employers of two or more employees,” which contemplates 
+two individuals employed by another. An association of two working owners without employees 
+has no employers or employees—DOL’s explanation is pure legerdemain. 
+ The absurdity of DOL’s interpretation is compounded when one considers an association 
+of fifty-one working owners without employees. Counting the number of employees employed by 
+fifty-one working owners without employees, the Court again reaches a sum of zero. Yet under 
+DOL’s explanation, this group of fifty-one associated individuals, none of whom employ anyone, 
+counts fifty-two employers (counting the association “employer”) and fifty-one employees. This 
+association would qualify not only as an ACA “employer,” but as a “large employer” free from 
+the ACA’s individual and small-group market requirements. See 42 U.S.C. § 300gg-91(e)(2)–(3). 
+The Court cannot believe that Congress crafted the ACA, with its careful statutory scheme 
+distinguishing rules that apply to individuals, small employers, and large employers, with the intent 
+that fifty -one distinct individuals employing no others could exempt themselves from the 
+
+individual market’s requirements by loosely affiliating through a so-called “bona fide association” 
+without real employment ties. 
+ DOL’s explanation of how the Final Rule operates under the ACA relies on a tortured 
+reading of the ACA’s statutory text that undermines the market structure that Congress so carefully 
+crafted. DOL’s regulatory interpretation sows discord among the Final Rule, ERISA, and the 
+ACA, which serves as further evidence that the Final Rule unreasonably interprets ERISA and 
+fails to carry out congressional intent. 
+CONCLUSION 
+ Upon consideration of the parties’ positions, as argued orally and in their briefs, as well as 
+the administrative record, the relevant statutes, legal precedent, and the entire record herein, the 
+Court concludes that the bona fide association and working owner provisions of the Final Rule , 
+codified at 29 C.F.R. §§ 2510.3-5(b), (c) and (e), are unreasonable interpretations of ERISA. The 
+Final Rule was intended and designed to end run the requirements of the ACA, but it does so only 
+by ignoring the language and purpose of both ERISA and the ACA. DOL unreasonably expands 
+the definition of “employers” to include groups without any real commonality of interest and to 
+bring working owners without employees within ERISA’s scope despite Congress’s clear intent 
+that ERISA cover benefits arising out of employment relationships. Accordingly, these provisions 
+are unlawful and must be set aside, pursuant to this Court’s authority under the APA, 5 U.S.C. 
+§ 706. The Final Rule’s bona fide association and working owner provisions are therefore vacated. 
+ The Final Rule includes a severability provision. Under it, if a provision is found entirely 
+invalid then “the provision shall be severable from [the Final Rule] and shall not affect the 
+remainder thereof.” 29 C.F.R. § 2510.3-5(g). In light of this provision, the Court remands the 
+Final Rule to the agency for consideration in the first instance of how the severability provision 
+affects the remaining portions of the Final Rule. 
+
+ A separate order will issue on this date. 
+
+ /s/ 
+ JOHN D. BATES 
+ United States District Judge 
+Dated: March 28, 2019

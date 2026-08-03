@@ -1,0 +1,1351 @@
+FOR PUBLICATION
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+THE DEPOT, INC.; UNION CLUB
+BAR, INC.; TRAIL HEAD, INC.,
+Plaintiffs-Appellants,
+v.
+CARING FOR MONTANANS, INC.,
+FKA Blue Cross Blue Shield of
+Montana, Inc.; HEALTH CARE
+SERVICES CORPORATION,
+Defendants-Appellees.
+No. 17-35597
+D.C. No.
+9:16-cv-00074-DLC
+OPINION
+Appeal from the United States District Court
+for the District of Montana
+Dana L. Christensen, Chief Judge, Presiding
+Argued and Submitted December 7, 2018
+Seattle, Washington
+Filed February 6, 2019
+Before: William A. Fletcher and Jay S. Bybee, Circuit
+Judges, and Larry A. Burns,* District Judge.
+Opinion by Judge Bybee
+* The Honorable Larry A. Burns, United States District Judge for the
+Southern District of California, sitting by designation.
+THE DEPOT V. CARING FOR MONTANANS2
+SUMMARY**
+Employee Retirement Income Security Act
+The panel affirmed in part and reversed in part the district
+court’s dismissal of an action brought under ERISA and
+Montana state law against health insurance companies and
+remanded for further proceedings.
+The companies marketed health insurance plans, branded
+“Chamber Choices,” to members of the Montana Chamber of
+Commerce. Three small employers, Chamber members that
+provided their employees with healthcare coverage under
+Chamber Choices plans, alleged misrepresentations in the
+marketing of the plans.
+Affirming the district court’s dismissal of the ERISA
+claims, the panel held that plaintiffs failed to state a claim for
+breach of fiduciary duty under 29 U.S.C. § 1132(a)(2) in
+defendants’ alleged charging of excessive premiums. The
+panel held that, in secretly charging excessive premiums,
+defendants did not act as fiduciaries of the plans because they
+did not exercise discretion over plan management or control
+over plan assets. Plaintiffs also failed to state a claim for
+equitable relief under § 1132(a)(3) for prohibited transactions
+in imposing unreasonable charges for kickbacks and
+unrequested benefits because plaintiffs’ requested relief of
+restitution or disgorgement was not equitable in nature.
+** This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+THE DEPOT V. CARING FOR MONTANANS 3
+The panel reversed the dismissal of plaintiffs’ state-law
+claims, based on defendants’ alleged misrepresentations that
+the premiums charged reflected the actual medical premium
+amount. The panel held that ERISA did not expressly
+preempt the state-law claims because the claims did not have
+a reference to or an impermissible connection with an ERISA
+plan, and therefore did not “relate to” an ERISA plan. The
+state-law claims also were not conflict-preempted by ERISA. 
+The panel nonetheless agreed with the district court that
+plaintiffs’ allegations did not state with particularity the
+circumstances of the alleged fraud, as required by Federal
+Rule of Civil Procedure 9(b). The panel therefore reversed
+the dismissal with prejudice of the state-law claims so that
+plaintiffs could amend their complaint to state the fraud
+allegations with greater particularity. The panel noted,
+however, that the district court was also free on remand to
+decline to exercise supplemental jurisdiction over the state-
+law claims.
+COUNSEL
+Kenneth J. Halpern (argued), Rachana A. Pathak, Dana
+Berkowitz, and Peter K. Stris, Stris & Maher LLP, Los
+Angeles, California; John Morrison, Morrison Sherwood
+Wilson & Deola PLLP, Helena, Montana; for Plaintiffs-
+Appellants.
+Anthony F. Shelley (argued) and Theresa Gee, Miller &
+Chevalier Chartered, Washington, D.C.; Michael David
+McLean and Stefan T. Wall, Wall McLean & Gallagher,
+PLLC, Helena, Montana; for Defendant-Appellee Caring for
+Montanans, Inc.
+THE DEPOT V. CARING FOR MONTANANS4
+Stanley T. Kaleczyc (argued), M. Christy S. McCann, and
+Kimberly A. Beatty, Browning Kaleczyz Berry & Hoven
+P.C., Helena, Montana, for Defendant-Appellee Health Care
+Services Corporation.
+OPINION
+BYBEE, Circuit Judge:
+Plaintiffs are three small employers in Montana who are
+members of the Montana Chamber of Commerce. 
+Defendants are health insurance companies that marketed
+fully insured health insurance plans to the Chamber’s
+members branded “Chamber Choices.” From 2006 until
+2014, plaintiffs provided their employees with healthcare
+coverage under Chamber Choices plans, and did so based on
+defendants’ representations that the monthly premiums would
+reflect only the cost of providing benefits. But according to
+plaintiffs, these representations were false—defendants
+padded the premiums with hidden surcharges, which they
+used to pay kickbacks to the Chamber and to buy
+unauthorized insurance products.
+Upon learning of these surcharges, plaintiffs filed suit
+against defendants, asserting two claims under the Employee
+Retirement Income Security Act of 1974 (“ERISA”),
+29 U.S.C. § 1001 et seq., as well as several state-law claims
+based on defendants’ misrepresentations. The district court
+dismissed all of the claims, concluding that plaintiffs failed
+to state actionable claims under ERISA while at the same
+time concluding that plaintiffs’ state-law claims are
+preempted by ERISA. We affirm the district court’s
+THE DEPOT V. CARING FOR MONTANANS 5
+dismissal of plaintiffs’ ERISA claims, reverse the dismissal
+of plaintiffs’ state-law claims, and remand.
+I. BACKGROUND
+A. Factual Background
+Plaintiffs are three small businesses operating in
+Montana.1 The Depot, Inc. is a steakhouse; Union Club Bar,
+Inc. is a bar; and Trail Head, Inc. is a sporting goods retailer. 
+During the period relevant to this lawsuit, plaintiffs were
+members of the Montana Chamber of Commerce. Blue Cross
+Blue Shield of Montana (“BCBSMT”)—an insurance
+company that is now known as Caring for Montanans, Inc.
+(“CFM”)—marketed “fully-insured” group health insurance
+plans to the Chamber’s employer-members known as
+“Chamber Choices.” Health Care Service Corp. (“HCSC”)
+purchased the health insurance business of BCBSMT in July
+2013 and marketed the Chamber Choices plans thereafter.
+From 2006 to 2014, plaintiffs enrolled in Chamber
+Choices plans and paid monthly premiums to defendants in
+exchange for health insurance coverage for their employees. 
+Coverage for plaintiffs’ employees hinged on plaintiffs
+paying the required monthly premiums. According to
+plaintiffs, “[i]n the course of marketing Chamber Choices,”
+defendants represented that the premiums would be equal to
+the “actual medical premium”—i.e., “the cost of providing
+insurance benefits to covered individuals plus administrative
+1 Because this case comes to us on review of a motion to dismiss, we
+accept as true the factual allegations in the operative complaint. See
+Askins v. U.S. Dep’t of Homeland Sec., 899 F.3d 1035, 1038 (9th Cir.
+2018).
+THE DEPOT V. CARING FOR MONTANANS6
+costs” and “[not] for any purpose other than to pay for the
+purchased health insurance coverage.” Plaintiffs accordingly
+relied on that representation in choosing to participate.
+All parties agree that each Chamber Choices plan
+constituted an “employee welfare benefit plan” subject to
+ERISA. 29 U.S.C. § 1002(1); see Fossen v. Blue Cross &
+Blue Shield of Mont., Inc., 660 F.3d 1102, 1109–10 (9th Cir.
+2011). According to the Member Guide for one of the
+Chamber Choices plans2—which provides a summary of
+benefits available to covered employees for the relevant
+year—the employers (i.e., plaintiffs), not BCBSMT, were the
+named “plan administrator[s]” and fiduciaries under ERISA. 
+Defendants, however, performed most of the claim
+management and administration duties. Plaintiffs’ role was
+limited to deducting monthly premiums from their
+employees’ wages to send to defendants for coverage and
+notifying defendants if an employee lost eligibility for
+coverage. The Member Guide also purported to allow
+defendants to make changes to the terms of the policy in the
+following modification provision:
+[BCBSMT] may make administrative changes
+or changes in dues, terms or Benefits in the
+Group Plan by giving written notice to the
+Group and/or purchasing pool member at least
+60 days in advance of the effective date of the
+changes. Dues may not be increased more
+2 Plaintiffs incorporated the Member Guide by reference in their
+complaint. See Santomenno v. Transamerica Life Ins. Co., 883 F.3d 833,
+836 n.2 (9th Cir. 2018). According to plaintiffs, the Member Guide is
+representative of the Chamber Choices plans.
+THE DEPOT V. CARING FOR MONTANANS 7
+than once during a 12-month period, except as
+allowed by Montana law.
+The requirement that enrollees receive 60 days’ advance
+notice of modifications is consistent with federal and state
+laws governing group health plans, including plans not
+subject to ERISA. See 29 C.F.R. § 2590.715-2715(b)
+(requiring 60 days’ advance notice of “any material
+modification . . . in any of the terms of the plan or coverage”);
+Mont. Code Ann. § 33-22-107(3)(a) (requiring 60 days’
+advance notice of “a change in rates or a change in terms or
+benefits”).
+Plaintiffs allege that, while they subscribed to Chamber
+Choices plans, defendants unlawfully padded the premiums
+with two surcharges without plaintiffs’ knowledge or consent. 
+First, from 2006 to 2014, defendants secretly embedded a
+surcharge into the premiums, which they used to pay
+kickbacks to the Chamber. These kickbacks were designed
+to persuade the Chamber to continue to market defendants’
+plans to its members. Second, from 2008 to 2014, defendants
+secretly embedded an additional surcharge into the premiums
+that defendants used to purchase “additional insurance
+products that [plaintiffs] did not request or authorize.” 
+Plaintiffs further allege that defendants took efforts to conceal
+these surcharges. Beginning in 2009, defendants began
+“channeling the kickbacks to the Chamber through an
+insurance agent and channeling a share of the [surcharges]
+into a ‘rate stabilization’ account.” And beginning in 2012,
+defendants began “making cryptic notations that itemized
+certain charges on the bills” in an effort to “reduce [their]
+own legal risk.”
+THE DEPOT V. CARING FOR MONTANANS8
+In February 2014, the Montana Commissioner of
+Securities and Insurance fined BCBSMT $250,000 for illegal
+insurance practices under Montana law, including billing in
+excess of the actual medical premium and paying kickbacks
+to the Chamber. See Mont. Code Ann. §§ 33-18-208, 33-18-
+212. After the Commissioner’s findings were publicly
+released in March 2014, a group of Chamber Choices
+participants filed a class action suit against defendants in state
+court alleging claims of breach of fiduciary duty, breach of
+contract, unfair and deceptive trade practices, and unjust
+enrichment. Mark Ibsen, Inc. v. Caring for Montanans, Inc.,
+371 P.3d 446, 448 (Mont. 2016). After defendants
+unsuccessfully tried to remove the case to federal court, the
+state trial court dismissed the lawsuit, finding that the
+plaintiffs’ claims were based on statutory violations and that
+the relevant state statute did not provide a private right of
+action. Id. at 448–49. The Montana Supreme Court affirmed. 
+Id. at 455.
+B. Procedural History
+Plaintiffs filed this lawsuit in federal court in June 2016. 
+In their original complaint, plaintiffs raised two ERISA
+claims: a breach of fiduciary duty claim under 29 U.S.C.
+§ 1132(a)(2), and a prohibited interested-party transaction
+claim under 29 U.S.C. § 1132(a)(3). Plaintiffs also raised
+state-law claims for breach of contract, breach of fiduciary
+duty, breach of the implied covenant of good faith and fair
+dealing, negligent misrepresentation, unjust enrichment, and
+unfair trade practices under the Montana Unfair Trade
+Practices and Consumer Protection Act, Mont. Code Ann.
+§ 30-14-101 et seq.
+THE DEPOT V. CARING FOR MONTANANS 9
+The district court dismissed the original complaint
+without prejudice. The court concluded that defendants did
+not satisfy ERISA’s definition of a “fiduciary” for purposes
+of the breach of fiduciary duty claim, and that plaintiffs
+were not seeking “appropriate equitable relief” as required
+for the prohibited transaction claim. The court also
+concluded that plaintiffs’ state-law claims were preempted
+by ERISA because they constituted “alternative enforcement
+mechanisms” to the prohibited transaction claim.
+Plaintiffs filed their amended complaint in March 2017. 
+As before, plaintiffs assert two claims under ERISA: a breach
+of fiduciary duty claim under 29 U.S.C. § 1132(a)(2), and a
+prohibited transaction claim under 29 U.S.C. § 1132(a)(3). 
+Plaintiffs also assert state-law claims for fraudulent
+inducement, constructive fraud, negligent misrepresentation,
+unjust enrichment, and unfair trade practices. The district
+court dismissed all of the claims, this time with prejudice. 
+The court concluded that plaintiffs failed to remedy the
+defects in their ERISA claims and that plaintiffs’ state-law
+claims (including the new fraud claims) were still preempted
+by ERISA. The court also concluded that plaintiffs’
+allegations of fraud do not satisfy the heightened pleading
+requirements under Federal Rule of Civil Procedure 9(b). 
+Plaintiffs timely appealed, and we have jurisdiction pursuant
+to 28 U.S.C. § 1291.
+II. STANDARD OF REVIEW
+On appeal, plaintiffs challenge the district court’s
+dismissal of their ERISA claims as well as the dismissal of
+their state-law claims. We review de novo a district court’s
+order granting a motion to dismiss for failure to state a claim
+under Federal Rule of Civil Procedure 12(b)(6). Santomenno
+THE DEPOT V. CARING FOR MONTANANS10
+v. Transamerica Life Ins. Co., 883 F.3d 833, 836 (9th Cir.
+2018). To survive a motion to dismiss, the complaint “must
+contain sufficient factual matter, accepted as true, to ‘state a
+claim to relief that is plausible on its face.’” Ashcroft v.
+Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 570 (2007)). We will thus “affirm
+a dismissal for failure to state a claim where there is no
+cognizable legal theory or an absence of sufficient facts
+alleged to support a cognizable legal theory.” Interpipe
+Contracting, Inc. v. Becerra, 898 F.3d 879, 886 (9th Cir.
+2018) (quoting L.A. Lakers, Inc. v. Fed. Ins. Co., 869 F.3d
+795, 800 (9th Cir. 2017)). And although “we accept as true
+all factual allegations,” we do not “accept as true allegations
+that are conclusory.” In re NVIDIA Corp. Sec. Litig.,
+768 F.3d 1046, 1051 (9th Cir. 2014). Nor do we consider
+factual assertions made for the first time on appeal, as “our
+review is limited to the contents of the complaint.” Allen v.
+City of Beverly Hills, 911 F.2d 367, 372 (9th Cir. 1990); see
+Amgen Inc. v. Harris, 136 S. Ct. 758, 760 (2016) (per
+curiam).
+We also review de novo a dismissal for failure to satisfy
+Federal Rule of Civil Procedure 9(b), which requires a party
+alleging fraud to “state with particularity the circumstances
+constituting fraud.” WPP Luxembourg Gamma Three Sarl v.
+Spot Runner, Inc., 655 F.3d 1039, 1047 (9th Cir. 2011)
+(quoting Fed. R. Civ. P. 9(b)).
+III. ERISA CLAIMS
+We begin with plaintiffs’ claims under ERISA. 
+“Congress enacted ERISA to ‘protect the interests of
+participants in employee benefit plans and their beneficiaries’
+by setting out substantive regulatory requirements for
+THE DEPOT V. CARING FOR MONTANANS 11
+employee benefit plans” and “an integrated system of
+procedures for enforcement.” Aetna Health Inc. v. Davila,
+542 U.S. 200, 208 (2004) (internal alterations omitted) (first
+quoting 29 U.S.C. § 1001(b); then quoting Mass. Mut. Life
+Ins. Co. v. Russell, 473 U.S. 134, 147 (1985)). Relevant here,
+ERISA’s enforcement scheme provides a cause of action
+against plan fiduciaries for breach of their fiduciary duties,
+29 U.S.C. § 1132(a)(2), and a cause of action to remedy plan
+or ERISA violations—including prohibited interested-party
+transactions—with “appropriate equitable relief,” id.
+§ 1132(a)(3). Plaintiffs bring claims against defendants under
+both provisions. We address each in turn.
+A. Breach of Fiduciary Duty Claim
+Plaintiffs claim that, by collecting and concealing the
+premium surcharges, defendants breached their fiduciary
+duties—including a duty “to act ‘solely in the interest of the
+participants and beneficiaries,’” Varity Corp. v. Howe,
+516 U.S. 489, 506 (1996) (quoting 29 U.S.C. § 1104(a)(1))—
+and are thus liable under 29 U.S.C. § 1132(a)(2).3 But to
+breach a fiduciary duty, one must be a fiduciary. And here,
+defendants were not acting as fiduciaries when taking the
+action subject to plaintiffs’ complaint. We thus affirm the
+district court’s dismissal of plaintiffs’ breach of fiduciary
+duty claim.
+3 Under § 1132(a)(2), a plan participant, beneficiary, or fiduciary may
+bring “[a] civil action . . . for appropriate relief under [§ 1109].” 
+Section 1109 imposes personal liability upon “[a]ny person who is a
+fiduciary with respect to a plan who breaches any of the responsibilities,
+obligations, or duties imposed upon fiduciaries by [ERISA].” 29 U.S.C.
+§ 1109(a).
+THE DEPOT V. CARING FOR MONTANANS12
+There are two types of fiduciaries under ERISA. First, a
+party that is designated “in the plan instrument” as a fiduciary
+is a “named fiduciary.” 29 U.S.C. § 1102(a)(2). Second,
+ERISA provides the following definition of what is
+sometimes referred to as a “functional” fiduciary:
+[A] person is a fiduciary with respect to a plan
+to the extent (i) he exercises any discretionary
+authority or discretionary control respecting
+management of such plan or exercises any
+authority or control respecting management or
+disposition of its assets, (ii) he renders
+investment advice for a fee or other
+compensation, direct or indirect, with respect
+to any moneys or other property of such plan,
+or has any authority or responsibility to do so,
+or (iii) he has any discretionary authority or
+discretionary responsibility in the
+administration of such plan.
+Id. § 1002(21)(A); Santomenno, 883 F.3d at 837. Because a
+person4 is a fiduciary under this provision only “to the extent”
+the person engages in the listed conduct, a person may be a
+fiduciary with respect to some actions but not others. Pegram
+v. Herdrich, 530 U.S. 211, 225–26 (2000) (quoting 29 U.S.C.
+§ 1002(21)(A)); see Acosta v. Brain, 910 F.3d 502, 519 (9th
+Cir. 2018) (“[W]e must distinguish between a fiduciary
+‘acting in connection with its fiduciary responsibilities’ with
+regard to the plan, as opposed to the same individual or entity
+‘acting in its corporate capacity.’ Only the former triggers
+fiduciary status; the latter does not.” (internal citation
+4 ERISA’s definition of “person” includes “corporation[s]” and other
+“association[s].” 29 U.S.C. § 1002(9).
+THE DEPOT V. CARING FOR MONTANANS 13
+omitted)). The central question is “whether that person was
+acting as a fiduciary (that is, was performing a fiduciary
+function) when taking the action subject to complaint.” 
+Pegram, 530 U.S. at 226.
+Plaintiffs claim that defendants were acting as fiduciaries
+when charging excessive premiums based on the functions
+described in subparagraph (i)—exercising discretion over
+plan management and exercising authority over plan assets.5 
+These provisions are distinct and therefore must be analyzed
+separately. See IT Corp. v. Gen. Am. Life Ins. Co., 107 F.3d
+1415, 1421 (9th Cir. 1997).
+1. Discretion over Plan Management
+Plaintiffs first argue that, in secretly charging excessive
+premiums, defendants “exercise[d] . . . discretionary authority
+or discretionary control respecting [plan] management.” 
+29 U.S.C. § 1002(21)(A)(i). We disagree. Insurance
+companies do not normally exercise discretion over plan
+management when they negotiate at arm’s length to set rates
+or collect premiums. That is because these negotiations occur
+before the agreement is executed, at which point the insurer
+has no relationship to the plan and thus no discretion over its
+management.
+5 Plaintiffs do not argue that defendants acted as fiduciaries under
+29 U.S.C. § 1002(21)(A)(iii), which provides that a person is a fiduciary
+to the extent it “has any discretionary authority or discretionary
+responsibility in the administration of [the] plan.” Insurers generally act
+in a fiduciary capacity under this “plan administration” provision when
+making a discretionary determination about whether a claimant is entitled
+to benefits. See King v. Blue Cross & Blue Shield of Ill., 871 F.3d 730,
+745–46 (9th Cir. 2017).
+THE DEPOT V. CARING FOR MONTANANS14
+We addressed a similar issue in Santomenno, holding that
+a service provider—i.e., a company that managed a self-
+funded ERISA plan as a third-party administrator—“is not an
+ERISA fiduciary when negotiating its compensation with a
+prospective customer.” 883 F.3d at 837. The service
+provider in that case performed several functions for
+retirement plans, including the selection of various potential
+investments, and its compensation was set as a fixed
+percentage of the assets managed. Id. at 835–36. We
+explained that “[a] service provider is plainly not involved in
+plan management when negotiating its prospective fees”; to
+the contrary, “at that stage ‘discretionary control over plan
+management lies with the trustee, who decides whether to
+agree to the service provider’s terms.’” Id. at 838 (internal
+alterations omitted) (quoting Santomenno ex rel. John
+Hancock Tr. v. John Hancock Life Ins. Co. (U.S.A.), 768 F.3d
+284, 293 (3d Cir. 2014) (“John Hancock”)). In other words,
+“‘a service provider owes no fiduciary duty with respect to
+the negotiation of its fee compensation’ because ‘nothing
+prevent[s] the trustees from rejecting the provider’s product
+and selecting another service provider; the choice [i]s
+theirs.’” Id. (internal alterations omitted) (quoting John
+Hancock, 768 F.3d at 295). And after the contract is
+executed, the “service provider cannot be held liable for
+merely accepting previously bargained-for fixed
+compensation” because “the plan administrator act[s] as ‘a
+fiduciary only for purposes of administering the plan, not for
+purposes of negotiating or collecting its compensation.’” Id.
+at 840 (citations omitted).
+The reasoning in Santomenno applies equally to rate-
+setting by insurance companies. Premium rates, like fixed
+compensation fees, are generally negotiated in “an arm’s
+length bargain presumably governed by competition in the
+THE DEPOT V. CARING FOR MONTANANS 15
+marketplace,” Schulist v. Blue Cross of Iowa, 717 F.2d 1127,
+1132 (7th Cir. 1983), which means that the insurance
+company is “free to negotiate its [rates] with an eye to its
+profits,” Srein v. Soft Drink Workers Union, Local 812, 93
+F.3d 1088, 1096 (2d Cir. 1996). Because the potential
+purchaser of the insurance policy remains free to “reject[ ] the
+[insurer’s] product and select[ ] another,” the insurance
+company “is plainly not involved in plan management when
+negotiating” premium rates. Santomenno, 883 F.3d at 838
+(quoting John Hancock, 768 F.3d at 295); see also Cotton v.
+Mass. Mut. Life Ins. Co., 402 F.3d 1267, 1278–79 (11th Cir.
+2005) (“Simply urging the purchase of its products does not
+make an insurance company an ERISA fiduciary with respect
+to those products.” (citation omitted)).
+That reasoning forecloses plaintiffs’ claim here. Plaintiffs
+concede that the terms of the insurance agreements in this
+case—including the premium amounts—were negotiated at
+arm’s length. The agreements were thus “‘presumably
+governed by competition in the marketplace’ that specified
+the premium rates.” Seaway Food Town, Inc. v. Med. Mut. of
+Ohio, 347 F.3d 610, 618 (6th Cir. 2003) (quoting Schulist,
+717 F.2d at 1132). And the alleged misconduct in this
+case—misrepresenting that the monthly premiums reflected
+only the actual medical premium—occurred when the
+policies were being marketed. Indeed, plaintiffs allege that
+defendants made these misrepresentations in an effort to
+“induce [p]laintiffs to buy coverage through Chamber
+Choices.” Although plaintiffs may not have known about the
+surcharges when deciding to subscribe to Chamber Choices
+plans, the premium amounts were fully disclosed, and
+plaintiffs always remained free to walk away and select
+THE DEPOT V. CARING FOR MONTANANS16
+another insurance company.6 Defendants exercised no
+discretionary control over the plan’s management at that
+point.
+Although plaintiffs agree that insurance companies do not
+ordinarily act as fiduciaries when negotiating premium rates,
+they claim that this is not an ordinary case. Rather, according
+to plaintiffs, defendants possessed an ability to exercise
+discretion over the plan by virtue of the modification
+provision in the Member Guide:
+[BCBSMT] may make administrative changes
+or changes in dues, terms or Benefits in the
+Group Plan by giving written notice to the
+Group and/or purchasing pool member at least
+60 days in advance of the effective date of the
+changes. Dues may not be increased more
+than once during a 12-month period, except as
+allowed by Montana law.
+Plaintiffs argue that this provision granted defendants an
+unfair “ability to unilaterally amend plan terms” upon “mere
+notice to the beneficiaries” and therefore “subjected [them] to
+ERISA fiduciary duties.”
+Generally, a “company does not act in a fiduciary
+capacity when deciding to amend . . . a welfare benefits
+6 Plaintiffs contend that, because the surcharges were concealed, the
+premiums were not “definitively calculable and nondiscretionary
+compensation . . . clearly set forth in a contract with the fiduciary-
+employer.” Santomenno, 883 F.3d at 841. But the premiums were fully
+disclosed and negotiated; the fact that defendants did not disclose the
+composition of the premiums (or how they were spending them) does not
+mean that defendants exercised discretion in setting them.
+THE DEPOT V. CARING FOR MONTANANS 17
+plan.” Curtiss-Wright Corp. v. Schoonejongen, 514 U.S. 73,
+78 (1995) (citation omitted). Setting that aside, the mere
+existence of a discretionary ability is insufficient to bestow
+fiduciary status if that discretion was not “exercise[d].” 
+29 U.S.C. § 1002(21)(A)(i). Even assuming plaintiffs’
+contention that the modification provision granted defendants
+the ability to unilaterally amend plan terms, plaintiffs do not
+adequately allege that defendants ever exercised that
+discretion, let alone “when taking the action subject to
+complaint.” Pegram, 530 U.S. at 226. Indeed, plaintiffs
+concede that defendants “initially imposed the surcharges in
+an arms-length negotiation”—i.e., before the modification
+provision was effective.7 Thus, even if defendants may have
+become fiduciaries “at some point after entering into the
+contracts, [they] plainly held no such status prior to the
+execution of the contracts” when the premium amounts were
+negotiated. Santomenno, 883 F.3d at 839 (internal alterations
+omitted) (quoting F.H. Krear & Co. v. Nineteen Named Trs.,
+810 F.2d 1250, 1259 (2d Cir. 1987)).
+We made this point in Santomenno. There, the plaintiffs
+argued that the service provider “was a fiduciary when
+7 Plaintiffs point to an allegation in the complaint that defendants
+“‘imposed and increased’ the non-premium surcharges ‘without providing
+the notice required by contract.’” That conclusory allegation does not
+indicate that defendants exercised discretion under the modification
+provision. Nor would such an allegation be plausible, because plaintiffs’
+theory is that the modification provision granted defendants discretion to
+increase premiums, not “non-premium surcharges.” And if, as plaintiffs
+allege, they “had no way to know” that defendants were embedding
+surcharges into the premium amounts, any alleged increases would have
+had to occur before the premium amounts were agreed to. Otherwise, a
+mid-year increase in surcharges would have led to a mid-year increase in
+premiums, a fact that is not alleged in the complaint and that would have
+been quite obvious to plaintiffs had it occurred.
+THE DEPOT V. CARING FOR MONTANANS18
+selecting the investment options because it retaine[d] the right
+to delete or substitute the funds the employer ha[d] selected
+for the Plan.” Id. at 839 n.5. We disagreed, observing that
+the plaintiffs failed to “allege that [the service provider] ever
+exercised its discretion.” Id. We also noted that the service
+provider could “only alter investment options upon six
+months’ notice,” and that the contract “allow[ed] the
+employer opportunity to terminate the contract if displeased
+with any change.” Id. Similarly, we rejected the plaintiffs’
+reliance on a contractual provision that allowed the service
+provider “to change [its fees] upon advance written notice,”
+explaining that the “plaintiffs have not alleged that [the
+service provider] ever changed its fees; indeed, if it did, the
+employer is free under the [contract] to find another
+provider.” Id. at 839 n.4; see id. at 841 n.8 (similar). The
+bottom line is that a party is a fiduciary only to the extent the
+party actually exercises the alleged discretionary control or
+authority over plan management.
+Seeking to overcome this conclusion, plaintiffs argue that
+defendants did exercise discretion after the contracts were
+executed by virtue of their “decision to continue charging
+inflated amounts, when [they] held complete and unilateral
+authority to eliminate those overcharges.” This
+argument—which condemns defendants for failing to
+exercise discretion under the very provision that plaintiffs
+denounce as unfair—is unpersuasive. In this context, a
+failure to exercise discretion does not amount to an exercise
+of discretion within the meaning of § 1002(21)(A)(i). See
+Santomenno, 883 F.3d at 839 n.5. Once defendants agreed to
+enter into a contract with plaintiffs, defendants may have
+acquired fiduciary status with respect to some plan functions,
+see, e.g., King v. Blue Cross & Blue Shield of Ill., 871 F.3d
+730, 745–46 (9th Cir. 2017), but any fiduciary status
+THE DEPOT V. CARING FOR MONTANANS 19
+defendants may have acquired did not compel defendants to
+renegotiate the premium rates they had just agreed to accept. 
+Rather, defendants were “merely accepting previously
+bargained-for” premiums, and the bargaining itself did not
+give rise to fiduciary status. Santomenno, 883 F.3d at 840
+(citation omitted).8 Thus, in allegedly charging and collecting
+excessive premiums—which is “the action subject to
+complaint,” Pegram, 530 U.S. at 226—defendants were not
+exercising discretionary authority over plan management.
+2. Control over Plan Assets
+Plaintiffs separately argue that defendants acted as
+fiduciaries because they “exercise[d] . . . authority or control
+respecting management or disposition of [plan] assets.” 
+29 U.S.C. § 1002(21)(A)(i). Plaintiffs contend that the
+premiums they paid to defendants for insurance coverage
+were “plan assets” and that defendants were subject to
+fiduciary obligations when using them. But plaintiffs’
+premise is flawed. Premiums paid to an insurance company
+in return for coverage under a fully insured insurance policy
+are not “plan assets.”
+8 Defendants’ failure to exercise discretion also sets this case apart
+from the cases cited by plaintiffs in which an insurer actually exercised
+discretion that had been granted in the contract. See, e.g., Ed Miniat, Inc.
+v. Globe Life Ins. Grp., Inc., 805 F.2d 732, 734, 737–38 (7th Cir. 1986)
+(insurer “unilaterally and without justification announced . . . an
+abandonment of existing policy holders, by reducing the rate of return paid
+on account . . . and increasing premium rates to the maximum allowed by
+the policy”); Chi. Bd. Options Exch., Inc. v. Conn. Gen. Life Ins. Co.,
+713 F.2d 254, 255, 259–60 (7th Cir. 1983) (insurer “exercis[ed]” its
+discretion to make a “unilateral amendment [to] an annuity contract” from
+which the plaintiffs could not withdraw). Here, the premiums charged
+were based not on defendants’ discretion but instead on arm’s-length
+negotiations.
+THE DEPOT V. CARING FOR MONTANANS20
+ERISA defines “plan assets” to mean “plan assets as
+defined by such regulations as the Secretary [of Labor] may
+prescribe.” Id. § 1002(42). Although the Secretary has not
+prescribed a comprehensive regulation defining “plan
+assets,”9 several circuits have followed the “consistent[ ]”
+position of “[t]he Department of Labor . . . that ‘the assets of
+a plan generally are to be identified on the basis of ordinary
+notions of property rights under non-ERISA law.’” Gordon
+v. CIGNA Corp., 890 F.3d 463, 472 (4th Cir. 2018) (citing
+U.S. Dep’t of Labor, Advisory Op. No. 93-14A, 1993 WL
+188473, at *4 (May 5, 1993)); accord Merrimon v. Unum Life
+Ins. Co. of Am., 758 F.3d 46, 56 (1st Cir. 2014); Hi-Lex
+Controls, Inc. v. Blue Cross Blue Shield of Mich., 751 F.3d
+740, 745 (6th Cir. 2014); Tussey v. ABB, Inc., 746 F.3d 327,
+339 (8th Cir. 2014); Edmonson v. Lincoln Nat. Life Ins. Co.,
+725 F.3d 406, 427 (3d Cir. 2013); Faber v. Metro. Life Ins.
+Co., 648 F.3d 98, 105–06 (2d Cir. 2011); In re Luna,
+406 F.3d 1192, 1199 (10th Cir. 2005). We agree with this
+weight of authority; absent applicable regulatory guidance,
+plan “assets” under 29 U.S.C. § 1002(A)(21)(i) are to be
+identified based on ordinary notions of property rights.10
+9 A Department of Labor regulation defines “assets of the plan” to
+“include amounts . . . that a participant or beneficiary pays to an employer,
+or amounts that a participant has withheld from his wages by an employer,
+for contribution . . . to the plan, as of the earliest date on which such
+contributions . . . can reasonably be segregated from the employer’s
+general assets.” 29 C.F.R. § 2510.3-102(a)(1). As explained below, this
+regulation is inapplicable here because the “amounts” plaintiffs seek to
+recover are not amounts that were “pa[id] to an employer” by plan
+participants but instead amounts paid by an employer to an insurance
+company.
+10 Although we have adopted a “functional definition of what
+constitutes an ‘asset of the plan’ for purposes of [29 U.S.C. § 1106],”
+Kayes v. Pac. Lumber Co., 51 F.3d 1449, 1466–67 (9th Cir. 1995) (citing
+THE DEPOT V. CARING FOR MONTANANS 21
+Applying that principle here, we conclude that neither
+plaintiffs nor their employees had a property interest in the
+premium payments once they were paid to defendants. 
+Plaintiffs paid the premiums to defendants in exchange for a
+contractual right to receive a particular service—healthcare
+coverage under a Chamber Choices plan. The premiums
+were monthly fees that defendants collected as revenue for
+providing that service. Upon paying the premiums, plaintiffs
+had no “beneficial ownership interest” in them. Hi-Lex
+Controls, 751 F.3d at 745 (quoting U.S. Dep’t of Labor,
+Advisory Op. No. 92-24A, 1992 WL 337539, at *2 (Nov. 6,
+1992)). Instead, defendants were simply indebted to plaintiffs
+to provide the agreed-upon coverage. Cf. Grupo Mexicano de
+Desarrollo, S.A. v. All. Bond Fund, Inc., 527 U.S. 308,
+319–20 (1999) (“[A] general creditor . . . ha[s] no cognizable
+interest, either at law or in equity, in the property of his
+debtor, and therefore [may] not interfere with the debtor’s use
+of that property.”).
+Plaintiffs try to equate the premiums paid to defendants
+with “participant contributions” made into a self-funded plan,
+which are generally deemed to be plan assets. Acosta v. Pac.
+Enters., 950 F.2d 611, 620 & n.7 (9th Cir. 1991); see
+29 C.F.R. § 2510.3-102(a)(1); Advisory Op. No. 92-24A,
+1992 WL 337539, at *2. But plaintiffs elide the distinction
+between a self-funded plan and a fully insured plan. Under
+a “self-funded” plan, the insurance company “acts only as a
+third-party administrator; the employer is responsible for
+paying claims [out of the employees’ contributions] and
+bearing the financial risk.” N. Cypress Med. Ctr. Operating
+Acosta v. Pac. Enters., 950 F.2d 611, 620 (9th Cir. 1991)), that definition
+assumes fiduciary status and is thus not helpful in determining whether a
+party is in fact a fiduciary under 29 U.S.C. § 1002(A)(21)(i).
+THE DEPOT V. CARING FOR MONTANANS22
+Co., Ltd. v. Aetna Life Ins. Co., 898 F.3d 461, 468 (5th Cir.
+2018); see Gobeille v. Liberty Mut. Ins. Co., 136 S. Ct. 936,
+941–42 (2016). Premiums paid under a self-funded plan are
+therefore contributions from employees earmarked and held
+in trust by the employer for the employees’ later benefit. See
+Gordon, 890 F.3d at 472; Hi-Lex Controls, 751 F.3d at 747. 
+These employer-held contributions are therefore assets of the
+plan. See 29 C.F.R. § 2510.3-102(a)(1) (defining “assets of
+the plan” to include amounts “that a participant or beneficiary
+pays to an employer . . . [or] that a participant has withheld
+from his wages by an employer” (emphasis added)); Advisory
+Op. No. 92-24A, 1992 WL 337539, at *2 (describing
+“participant contributions” in the context of “plans whose
+benefits are paid as needed solely from the general assets of
+the employer maintaining the plan”).
+This case, however, does not involve a self-funded plan. 
+Instead, as plaintiffs allege, all of the plans sold by
+defendants were “fully-insured health insurance policies.” 
+Under a “fully insured” plan, the insurance company “acts as
+a direct insurer; it guarantees a fixed monthly premium for
+12 months and bears the financial risk of paying claims.” N.
+Cypress Med. Ctr., 898 F.3d at 468. Premiums paid under a
+fully insured plan are not held in trust; rather, they are “fixed
+fee[s]” paid in exchange for the insurance company
+“assum[ing] the financial risk of providing the benefits
+promised.” Pegram, 530 U.S. at 218–19. And as explained
+above, once defendants collected those fees, neither plaintiffs
+nor their employees maintained any sort of property interest
+in them. Accordingly, defendants did not exercise control
+THE DEPOT V. CARING FOR MONTANANS 23
+over plan assets when charging or spending the allegedly
+excessive premiums.11
+Because defendants were not exercising a fiduciary
+function when taking “the action subject to complaint,”
+Pegram, 530 U.S. at 226, we affirm the district court’s
+dismissal of plaintiffs’ breach of fiduciary duty claim under
+29 U.S.C. § 1132(a)(2).
+B. Prohibited Transaction Claim
+Next, we consider plaintiffs’ prohibited transaction claim,
+for which they purport to seek “appropriate equitable relief”
+under 29 U.S.C. § 1132(a)(3). We conclude that the relief
+plaintiffs seek is not equitable and accordingly affirm the
+district court’s dismissal of plaintiffs’ prohibited transaction
+claim.
+Under ERISA’s prohibited transaction provisions, “[a]
+fiduciary with respect to a plan shall not cause the plan to
+engage in a transaction” with “a party in interest” for the
+“furnishing of . . . services” if “more than reasonable
+compensation is paid therefor.” 29 U.S.C. §§ 1106(a)(1)(C),
+11 In light of our holding, we express no opinion on the district court’s
+conclusion that the premium payments were not plan assets pursuant to
+ERISA’s “guaranteed benefit policy” provision, 29 U.S.C. § 1101(b)(2).
+THE DEPOT V. CARING FOR MONTANANS24
+1108(b)(2).12 ERISA provides a cause of action for
+remedying prohibited transactions:
+A civil action may be brought . . . by a
+participant, beneficiary, or fiduciary (A) to
+enjoin any act or practice which violates any
+provision of [ERISA Title I] or the terms of
+the plan, or (B) to obtain other appropriate
+equitable relief (i) to redress such violations
+or (ii) to enforce any provisions of [ERISA
+Title I] or the terms of the plan.
+Id. § 1132(a)(3). Because § 1132(a)(3) “makes no mention
+at all of which parties may be proper defendants,” a party in
+interest—including a non-fiduciary third party—may be sued
+under this provision for its participation in a prohibited
+transaction. Harris Tr. & Sav. Bank v. Salomon Smith
+Barney, Inc., 530 U.S. 238, 246, 249–51 (2000); see
+Landwehr v. DuPree, 72 F.3d 726, 734 (9th Cir. 1995). And
+even though the plan fiduciary is the one who “cause[d] the
+plan to engage in [the prohibited] transaction,” 29 U.S.C.
+§ 1106(a)(1), the “culpable fiduciary” may still bring suit
+against “the arguably less culpable” party in interest because
+“the purpose of the action is to recover money or other
+12 The text of these sections creates the prohibited transaction as
+follows: “Except as provided in section 1108 . . . [a] fiduciary with respect
+to a plan shall not cause the plan to engage in a transaction, if he knows
+or should know that such transaction constitutes a direct or indirect . . .
+furnishing of . . . services . . . between the plan and a party in interest.” 
+29 U.S.C. § 1106(a)(1)(C). “The prohibitions provided in section 1106 of
+this title shall not apply to . . . [c]ontracting or making reasonable
+arrangements with a party in interest for . . . services necessary for the
+establishment or operation of the plan, if no more than reasonable
+compensation is paid therefor.” Id. § 1108(b)(2).
+THE DEPOT V. CARING FOR MONTANANS 25
+property for the [plan beneficiaries],” Harris Tr., 530 U.S. at
+252 (quoting Restatement (Second) of Trusts § 294 cmt. c, at
+70 (1957)).13 Thus, a plan fiduciary may (1) seek an
+injunction or “other appropriate equitable relief” (2) against
+a “party in interest” (3) for participating in a transaction for
+services for which “more than reasonable compensation is
+paid.”
+The parties and the district court all agree that the second
+and third components are satisfied in this case. Each
+defendant is a “party in interest”—which ERISA defines as
+“a person providing services to [a] plan,” 29 U.S.C.
+§ 1002(14)(B)—because they provide underwriting and
+claim-adjudication services to the plans. And the alleged
+conduct in this case—imposing unreasonable charges for
+kickbacks and unrequested benefits—is arguably a prohibited
+transaction for “services” between plan fiduciaries (plaintiffs)
+and parties in interest (defendants) for which “more than
+reasonable compensation is paid.” Id. §§ 1106(a)(1)(C),
+1108(b)(2). Because an injunction is not at issue here, the
+only dispute is whether plaintiffs are seeking “appropriate
+equitable relief” under § 1132(a)(3).
+13 In Harris Trust, the fiduciaries of a pension plan sued Salomon
+Smith Barney (“Salomon”), a firm that provided broker-dealer and trading
+services to the plan. 530 U.S. at 242. While the plan was receiving these
+services, the plan also purchased worthless investments from Salomon at
+the direction of an investment manager that exercised “discretion over a
+portion of the plan’s assets” and was therefore also a plan fiduciary. Id.
+at 242–43. The remaining fiduciaries sued Salomon under § 1132(a)(3)
+as a non-fiduciary party in interest, contending that the investment
+manager, acting as a fiduciary, caused the plan to engage in a prohibited
+transaction between the plan and a party in interest for the sale of property
+in exchange for plan assets. Id. at 243 (citing 29 U.S.C. § 1106(a)(1)(A),
+(D)).
+THE DEPOT V. CARING FOR MONTANANS26
+In a series of decisions, the Supreme Court has explained
+that the phrase “appropriate equitable relief” in § 1132(a)(3)
+“is limited to those categories of relief that were typically
+available in equity during the days of the divided bench
+(meaning, the period before 1938 when courts of law and
+equity were separate).” Montanile v. Bd. of Trs. of Nat’l
+Elevator Indus. Health Benefit Plan, 136 S. Ct. 651, 657
+(2016) (internal quotation marks omitted); see US Airways,
+Inc. v. McCutchen, 569 U.S. 88, 94–95 (2013); Sereboff v.
+Mid Atl. Med. Servs., Inc., 547 U.S. 356, 361–62 (2006);
+Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S.
+204, 210 (2002); Mertens v. Hewitt Assocs., 508 U.S. 248,
+256 (1993). As a result, a plaintiff may not use § 1132(a)(3)
+to seek any “form of legal relief,” such as “money damages.” 
+Great-West, 534 U.S. at 210 (internal alteration omitted)
+(quoting Mertens, 508 U.S. at 255). To qualify as “equitable
+relief,” both “(1) the basis for the plaintiff’s claim and (2) the
+nature of the underlying remedies sought” must be equitable
+rather than legal. Montanile, 136 S. Ct. at 657 (internal
+alterations omitted) (quoting Sereboff, 547 U.S. at 363).
+Even if we assume that the basis for plaintiffs’ claim in
+this case is equitable,14 the nature of the underlying remedies
+sought by plaintiffs in their complaint is not equitable. 
+Plaintiffs seek a judgment to obtain money from defendants,
+and “[a]lmost invariably suits seeking . . . to compel the
+defendant to pay a sum of money to the plaintiff are suits for
+14 Although we are skeptical that the basis for plaintiffs’ claim is
+equitable, defendants did not dispute that issue in the district court and
+raise it for the first time on appeal. We thus do not address that question
+and instead apply our “‘general rule’ against entertaining arguments on
+appeal that were not presented or developed before the district court.” 
+Richards v. Ernst & Young, LLP, 744 F.3d 1072, 1075 (9th Cir. 2013)
+(citation omitted).
+THE DEPOT V. CARING FOR MONTANANS 27
+‘money damages’”—the “classic form of legal relief.” 
+Great-West, 534 U.S. at 210 (citation and internal alteration
+omitted). Although plaintiffs attempt to characterize the
+relief they seek as equitable by labeling it “restitution” and
+“disgorgement,” we must “look to the ‘substance of the
+remedy sought rather than the label placed on that remedy.’” 
+Mathews v. Chevron Corp., 362 F.3d 1172, 1185 (9th Cir.
+2004) (citation and internal alteration omitted). We conclude
+that, notwithstanding the labels, plaintiffs’ requested relief is
+not equitable in nature.
+1. Restitution
+The restitution plaintiffs seek is not equitable. The
+Supreme Court has drawn a “fine distinction between
+restitution at law and restitution in equity.” Great-West,
+534 U.S. at 214. A plaintiff seeks “restitution at law” when
+the plaintiff cannot “assert title or right to possession of
+particular property” but instead seeks to “impose personal
+liability on the defendant” as a means of “recovering money
+to pay for some benefit the defendant . . . received from [the
+plaintiff].” Id. at 213–14 (quoting 1 Dan B. Dobbs, Law of
+Remedies § 4.2(1), at 571 (2d ed. 1993) (“Dobbs”)). By
+contrast, a plaintiff seeks “restitution in equity, ordinarily in
+the form of a constructive trust or an equitable lien, where
+money or property identified as belonging in good conscience
+to the plaintiff [can] clearly be traced to particular funds or
+property in the defendant’s possession.” Id. at 213 (citing 1
+Dobbs § 4.3(1), at 587–88); see 2 Dobbs § 6.1(3), at 12–13.
+The Court has illustrated this distinction in several cases
+involving ERISA plans claiming entitlement to a settlement
+fund obtained by plan beneficiaries. In Great-West, the Court
+concluded that the plan was seeking legal restitution because
+THE DEPOT V. CARING FOR MONTANANS28
+the specifically identified fund was not in the defendants’
+possession. 534 U.S. at 214. By contrast, in Sereboff, the
+Court concluded that the plan was seeking equitable
+restitution because the plan “sought ‘specifically identifiable’
+funds that were ‘within the possession and control’” of the
+defendants—not recovery from the defendants’ “assets
+generally.” 547 U.S. at 362–63 (citation omitted). And in
+Montanile, the Court faced the problem of a fund that,
+although specifically identified at one time, had been
+dissipated by the defendant on nontraceable items, leaving the
+plan to seek recovery “out of the defendant’s general assets.” 
+136 S. Ct. at 658. Observing the rule that equitable restitution
+must seek to recover “specifically identified funds that
+remain in the defendant’s possession or . . . traceable items
+that the defendant purchased with the funds (e.g., identifiable
+property like a car),” the Court held that seeking recovery out
+of “the defendant’s general assets” due to dissipation of the
+funds “on nontraceable items (like food or travel)” amounts
+to “a legal remedy, not an equitable one.” Id.
+In this case, the district court concluded that the nature of
+the remedy sought by plaintiffs is not equitable, reasoning
+that, under Montanile, “a party cannot recover in equity
+unless the funds have been maintained in a segregated
+account.” Montanile, however, concerned dissipation and
+tracing, not segregation. The Court noted this distinction in
+dicta, observing that at least in some instances, if a defendant
+“commingl[es] a specifically identified fund . . . with a
+different fund,” the “commingling allow[s] the plaintiff to
+recover the amount of the lien from the entire pot of money.” 
+Montanile, 136 S. Ct. at 661. And as plaintiffs point out, we
+have, in another context, permitted recovery out of
+commingled funds under the “lowest intermediate balance”
+doctrine, which “evolved from equitable principles of trusts”:
+THE DEPOT V. CARING FOR MONTANANS 29
+“Where a wrongdoer mingles another’s
+money with his own, from which commingled
+account withdrawals are from time to time
+made, there is a presumption of law that the
+sums first withdrawn were moneys of the
+tortfeasor.” . . . If the amount on deposit is
+depleted below the amount of the trust,
+however, the amount withdrawn is treated as
+lost, and subsequent deposits do not replenish
+the trust. Thus, the beneficiary is entitled to
+the lowest intermediate balance between the
+date of the commingling and the date of
+payment.
+In re R & T Roofing Structures & Commercial Framing, Inc.,
+887 F.2d 981, 987 (9th Cir. 1989) (internal alterations
+omitted) (quoting Republic Supply Co. v. Richfield Oil Co.,
+79 F.2d 375, 378 (9th Cir. 1935)); see also Schuyler v.
+Littlefield, 232 U.S. 707, 710 (1914) (“[W]here one has
+deposited trust funds in his individual bank account, and the
+mingled fund is at any time wholly depleted, the trust fund is
+thereby dissipated, and cannot be treated as reappearing in
+sums subsequently deposited to the credit of the same
+account.”). Thus, plaintiffs argue, when a specific fund is
+commingled with other funds in a general account, restitution
+is available out of the general account as long as the general
+account balance does not dip below the amount of the
+wrongfully held money.
+We need not decide whether this proposition is correct
+because, even assuming it is, “the facts and allegations
+supporting that proposition [do not] appear in [plaintiffs’]
+complaint.” Amgen, 136 S. Ct. at 760. First, plaintiffs have
+not identified a “specific fund” to which they are entitled. As
+THE DEPOT V. CARING FOR MONTANANS30
+Montanile explains, “[e]quitable remedies ‘are, as a general
+rule, directed against some specific thing,’” not “a sum of
+money generally.” 136 S. Ct. at 658 (citation omitted). 
+Plaintiffs, however, seek to recover not a specific thing but
+instead some unidentified portion of the many premium
+payments that exceeded “reasonable compensation.” The
+premium surcharges plaintiffs seek to recover “never existed
+as a distinct object or fund”; rather, they reflect “a specific
+amount of money encompassed within a particular
+fund”—the total premiums paid to defendants. Bilyeu v.
+Morgan Stanley Long Term Disability Plan, 683 F.3d 1083,
+1093 (9th Cir. 2012). And even if the amount of the
+overcharges is measurable or otherwise identifiable, “[i]t is
+the fund, not its size, that must be identifiable.” Cent. States,
+Se. & Sw. Areas Health & Welfare Fund v. First Agency, Inc.,
+756 F.3d 954, 960 (6th Cir. 2014); see Bilyeu, 683 F.3d at
+1093 (distinguishing between a specific “amount of money”
+and a specific “fund”). Indeed, a judgment in plaintiffs’ favor
+would have no connection to any particular fund whatsoever. 
+Defendants would simply be required to pay a certain amount
+of money, and they could “satisfy that obligation by dipping
+into any pot” they like. First Agency, 756 F.3d at 960. That
+is restitution at law, not equity.
+Second, the complaint never mentions the existence of a
+general account in which the ill-gotten funds (i.e., the
+premium surcharges) were commingled, such that the product
+of those funds would be traceable. Again, Montanile is clear:
+“[W]here a person wrongfully disposed of the property of
+another but the property cannot be traced into any product,
+the other cannot enforce a constructive trust or lien upon any
+part of the wrongdoer’s property.” 136 S. Ct. at 659
+(emphasis and internal alterations omitted) (quoting
+Restatement of Restitution § 215(1), at 866 (1936)); see also
+THE DEPOT V. CARING FOR MONTANANS 31
+George G. Bogert et al., The Law of Trusts and Trustees
+§ 921 (2d rev. ed. 1995) (“Bogert”) (explaining that
+restitution of “trust property or its product” is generally
+unavailable “where the proof of the beneficiary-claimant
+merely shows the receipt of trust property by the defendant
+and makes no case as to its subsequent history or its existence
+among the present assets of the defendant”).
+Nor do plaintiffs allege that defendants’ account balance
+remained above the surcharge amounts for purposes of their
+“lowest intermediate balance” theory. Indeed, a
+“consequence of the lowest balance rule is that, unless there
+is evidence to show the amount of the low balance, the
+plaintiff may recover nothing at all, on the view that without
+such evidence, the plaintiff’s funds have not been identified
+in the account.” 2 Dobbs § 6.1(4), at 22. Here, the gravamen
+of plaintiffs’ complaint is that defendants spent the
+surcharges on kickbacks and unwanted insurance products. 
+That leaves plaintiffs to simply declare in their briefs that it
+is “almost inconceivable” that defendants did not place the
+surcharges into a general account before spending them, and
+that the general account still exists today such that the
+surcharges would be traceable. But as the complaint itself
+explains, BCBSMT has substantially reorganized, changed its
+name to CFM, sold its health insurance business, and at some
+point has donated or will donate its assets to public charity. 
+Thus, even if defendants placed surcharges collected between
+2006 and 2014 into a general account, we certainly find it at
+least “conceivable” that the account no longer exists. 
+Because “our review is limited to the contents of the
+complaint,” Allen, 911 F.2d at 372, we decline to entertain
+plaintiffs’ unpleaded theory on appeal.
+THE DEPOT V. CARING FOR MONTANANS32
+2. Disgorgement
+Plaintiffs also purport to seek disgorgement, which they
+define as a money judgment equivalent in value to ill-gotten
+assets that were dissipated on non-traceable items. This
+characterization of disgorgement—which runs headlong into
+Montanile’s refusal to permit recovery of assets that have
+been dissipated “on nontraceable items,” 136 S. Ct. at
+658—is unavailing.
+“Disgorgement” is simply a form of “[r]estitution
+measured by the defendant’s wrongful gain” rather than by
+the plaintiff’s loss, and is often described as “an ‘accounting
+for profits.’” Restatement (Third) of Restitution and Unjust
+Enrichment § 51 cmt. a, at 204 (2011); see Edmonson,
+725 F.3d at 419 (“[D]isgorgement and accounting for profits
+are essentially the same remedy.”); 1 Dobbs § 4.3(5), at 610
+(“[A]ccounting for profits . . . forces the [defendant] to
+disgorge gains received from improper use of the plaintiff’s
+property or entitlements.”). And as the Supreme Court
+explained in Great-West, “an accounting for profits” is an
+additional remedy—available when the plaintiff “is entitled
+to a constructive trust on particular property held by the
+defendant”—that allows the plaintiff to “recover profits
+produced by the defendant’s use of that property, even if [the
+plaintiff] cannot identify a particular res containing the profits
+sought to be recovered.” 534 U.S. at 214 n.2 (citing 1 Dobbs
+§§ 4.3(1), 4.3(5), at 588, 608). That is also how the Court
+described “disgorgement” in Harris Trust—a remedy
+available to recover the “proceeds” from disposing of
+particular property as well as “profits derived” from the illicit
+use of that property. 530 U.S. at 250. Given the absence of
+THE DEPOT V. CARING FOR MONTANANS 33
+any particular property in this case, plaintiffs’ request for
+disgorgement is not equitable in nature.15
+Plaintiffs try to erase this particularity requirement by
+citing several trust law treatises that explain that trust
+beneficiaries could sue a third-party transferee in a court of
+equity to obtain a “money judgment” when the ill-gotten
+assets cannot be traced. See, e.g., Bogert § 868; 4 Austin
+Wakeman Scott & William Franklin Fratcher, The Law of
+Trusts §§ 291.1, 291.2, at 78–79 (4th ed. 1989); Restatement
+(Second) of Trusts § 291 cmt. e, at 59. Indeed, plaintiffs
+proclaim, courts of equity had “exclusive jurisdiction” in this
+context, and an “exclusively equitable remedy is, by
+definition, a typically equitable remedy.” But the Supreme
+Court rejected this reasoning in Mertens, explaining that
+although “courts of equity had exclusive jurisdiction over
+virtually all actions by beneficiaries for breach of
+trust”—including actions for monetary relief “against third
+persons who knowingly participated in the trustee’s
+breach”—many of those actions sought what were in effect
+“‘legal remedies’ granted by an equity court.” 508 U.S. at
+15 Under traditional rules of equity, an accounting for profits may be
+available in the absence of a constructive trust over specifically
+identifiable property if the defendant owed a fiduciary duty to the plaintiff
+and breached that duty. See Parke v. First Reliance Standard Life Ins.
+Co., 368 F.3d 999, 1008–09 (8th Cir. 2004); cf. CIGNA Corp. v. Amara,
+563 U.S. 421, 441–42 (2011) (describing a “surcharge,” which is an
+equitable remedy “in the form of monetary ‘compensation’ for a loss
+resulting from a trustee’s breach of duty, or to prevent the trustee’s unjust
+enrichment” (citation omitted)). But fiduciary status is “[t]he important
+ingredient.” 1 Dobbs § 4.3(5), at 611 n.16; see CIGNA, 563 U.S. at 442
+(“[T]he fact that the defendant . . . is analogous to a trustee makes a
+critical difference.”). And for purposes of plaintiffs’ prohibited
+transaction claim, defendants are not fiduciaries but instead non-fiduciary
+third parties.
+THE DEPOT V. CARING FOR MONTANANS34
+256. The phrase “equitable relief” in ERISA does not mean
+“whatever relief a common-law court of equity could
+provide.” Id. at 257. Rather, it means relief that was
+“typically available in equity (such as injunction, mandamus,
+and restitution, but not compensatory damages).” Id. at 256. 
+And as explained above, equitable restitution (including its
+disgorgement variant) generally requires specifically
+identifiable property or its traceable proceeds.
+Plaintiffs also point to Harris Trust, but nothing in Harris
+Trust alters that conclusion. As the Court explained in that
+case, beneficiaries can recover in equity from a third-party
+transferee only because “equity impresse[d] a constructive
+trust on the property” upon its transfer. Harris Tr., 530 U.S.
+at 250 (quoting Moore v. Crawford, 130 U.S. 122, 128
+(1889)). And a “constructive trust . . . may be imposed only
+where the plaintiff’s funds are themselves located and
+identified or where they are traced into other funds or
+property.” 2 Dobbs § 6.1(3), at 12–13 (footnotes omitted). 
+Indeed, “the nature of the relief” that the Court “described in
+Harris Trust [was] a claim to specific property (or its
+proceeds) held by the defendant.” Great-West, 534 U.S. at
+215 (emphasis added). Because plaintiffs have not identified
+any specific property from which proceeds or profits derived,
+they cannot recover the derivative remedy of disgorgement.
+In sum, plaintiffs are not seeking “appropriate equitable
+relief” under 29 U.S.C. § 1132(a)(3). We thus affirm the
+district court’s dismissal of plaintiffs’ prohibited transaction
+claim.
+THE DEPOT V. CARING FOR MONTANANS 35
+IV. STATE-LAW CLAIMS
+We now turn to plaintiffs’ claims under state law for
+fraudulent inducement, constructive fraud, negligent
+misrepresentation, unjust enrichment, and unfair trade
+practices under the Montana Consumer Protection Act. Each
+of these claims is based on defendants’ alleged
+misrepresentations to plaintiffs that the premiums charged
+reflected the actual medical premium amount. See generally
+Morrow v. Bank of Am., N.A., 324 P.3d 1167, 1180–85
+(Mont. 2014) (describing the elements of fraud, constructive
+fraud, negligent misrepresentation, and unfair trade
+practices). The district court dismissed these claims after
+concluding that they are preempted by ERISA and that
+plaintiffs’ fraud allegations are not pled with sufficient
+particularity for purposes of Federal Rule of Civil Procedure
+9(b). Plaintiffs challenge both conclusions.
+A. Preemption
+“[T]wo strands of ERISA preemption” are relevant here:
+(1) “express” preemption under 29 U.S.C. § 1144(a); and
+(2) “conflict” preemption based on 29 U.S.C. § 1132(a). 
+Paulsen v. CNF Inc., 559 F.3d 1061, 1081 (9th Cir. 2009)
+(citation omitted). Addressing each strand, we conclude that
+ERISA does not preempt plaintiffs’ state-law claims.
+1. Express Preemption
+ERISA expressly preempts “any and all State laws insofar
+as they may now or hereafter relate to any employee benefit
+plan.” 29 U.S.C. § 1144(a). The text of this provision—and
+in particular, the phrase “relate to”—is broad. So broad, in
+fact, that the Supreme Court has rejected an “‘uncritical
+THE DEPOT V. CARING FOR MONTANANS36
+literalism’ in applying” it given its potentially never-ending
+reach. Gobeille, 136 S. Ct. at 943 (quoting N.Y. State
+Conference of Blue Cross & Blue Shield Plans v. Travelers
+Ins. Co., 514 U.S. 645, 656 (1995)). To provide some
+“workable standards” for determining the scope of § 1144(a),
+the Court has identified “two categories” of state-law claims
+that “relate to” an ERISA plan—claims that have a “reference
+to” an ERISA plan, and claims that have “an impermissible
+‘connection with’” an ERISA plan. Id. (citations omitted);
+see Or. Teamster Emp’rs Tr. v. Hillsboro Garbage Disposal,
+Inc., 800 F.3d 1151, 1155 (9th Cir. 2015) (“A [state] law
+claim ‘relates to’ an ERISA plan ‘if it has a connection with
+or reference to such a plan.’” (citation omitted)). These two
+categories operate separately. See Cal. Div. of Labor
+Standards Enf’t v. Dillingham Constr., N.A., Inc., 519 U.S.
+316, 324–25 (1997).
+We first address the “reference to” category. A state-law
+claim has a “‘reference to’ an ERISA plan” if it “is premised
+on the existence of an ERISA plan” or if “the existence of the
+plan is essential to the claim’s survival.” Hillsboro Garbage,
+800 F.3d at 1155–56 (quoting Providence Health Plan v.
+McDowell, 385 F.3d 1168, 1172 (9th Cir. 2004)). In this
+case, plaintiffs’ state-law claims are not premised or
+dependent on the existence of an ERISA plan. Indeed, as
+explained above, the alleged misrepresentations occurred
+prior to any plan’s existence. We thus have little difficulty
+concluding that plaintiffs’ state-law claims do not have an
+impermissible “reference to” an ERISA plan.
+We reach the same conclusion with respect to the
+“connection with” prong. A claim has “an impermissible
+‘connection with’” an ERISA plan if it “‘governs a central
+matter of plan administration’ or ‘interferes with nationally
+THE DEPOT V. CARING FOR MONTANANS 37
+uniform plan administration,’” Gobeille, 136 S. Ct. at 943
+(internal alteration omitted) (quoting Egelhoff v. Egelhoff,
+532 U.S. 141, 148 (2001)), or if it “bears on an ERISA-
+regulated relationship,” Hillsboro Garbage, 800 F.3d at 1155
+(quoting Paulsen, 559 F.3d at 1082). We look to “the
+objectives of the ERISA statute as a guide,” bearing in mind
+a “‘starting presumption that Congress d[id] not intend to
+supplant’ . . . state laws regulating a subject of traditional
+state power” unless that power amounts to “a direct
+regulation of a fundamental ERISA function.” Gobeille,
+136 S. Ct. at 943, 946 (quoting Travelers, 514 U.S. at 654).
+Preventing “sellers of goods and services, including
+benefit plans, from misrepresenting the contents of their
+wares” is certainly an area of traditional state regulation that
+“is ‘quite remote from the areas with which ERISA is
+expressly concerned—reporting, disclosure, fiduciary
+responsibility, and the like.’” Wilson v. Zoellner, 114 F.3d
+713, 720 (8th Cir. 1997) (quoting Dillingham, 519 U.S. at
+330); see Nat’l Sec. Sys., Inc. v. Iola, 700 F.3d 65, 84–85 (3d
+Cir. 2012) (collecting cases holding that ERISA does not
+expressly preempt state-law claims against an insurer “who
+makes fraudulent or misleading statements to induce
+participation in an ERISA plan”). Moreover, plaintiffs’ state-
+law claims do not “bear[ ] on an ERISA-regulated
+relationship.” Rutledge v. Seyfarth, Shaw, Fairweather &
+Geraldson, 201 F.3d 1212, 1219 (9th Cir. 2000), amended,
+208 F.3d 1170 (9th Cir. 2000), abrogated in part on other
+grounds by Davila, 542 U.S. 200. Although plaintiffs’
+prohibited transaction claim involves an ERISA-regulated
+relationship (the relationship between a fiduciary and a party
+in interest), that relationship is unrelated to plaintiffs’ state-
+law claims, which focus on the misrepresentations made by
+defendants while they were operating “just like any other
+THE DEPOT V. CARING FOR MONTANANS38
+commercial entity.” Paulsen, 559 F.3d at 1083 (citation
+omitted).
+Defendants argue that our decision in Rutledge compels
+a contrary conclusion. In Rutledge, we concluded that
+ERISA preempted a plan participant’s state-law claims
+against a law firm that allegedly overcharged the plan for
+legal services. 201 F.3d at 1222. We explained that “a core
+factor leading to the conclusion that a state law claim is
+preempted is that the claim bears on an ERISA-regulated
+relationship,” id. at 1219, and one such “ERISA-governed
+relationship” is the relationship between plan participants and
+parties in interest “in the respect [t]here at issue—excessive
+fees,” id. at 1221–22 & n.12. We thus held that “state-law
+claims against a non-fiduciary for prohibited transactions
+‘relate to the administration of a plan covered by ERISA,’”
+and that the allegation of excessive fees in that case was a
+“prohibited transaction governed by ERISA.” Id. at 1221–22
+(quoting Concha v. London, 62 F.3d 1493, 1504 (9th Cir.
+1995)).
+This case differs from Rutledge, however, because
+plaintiffs’ state-law claims are premised on defendants’
+misrepresentations in negotiations, not prohibited
+transactions. Indeed, plaintiffs’ state-law claims could
+succeed even if the premiums that defendants charged
+constituted “reasonable compensation” under ERISA,
+29 U.S.C. § 1108(b)(2), because the claims allege that
+defendants misrepresented the composition of the premiums
+in a way that induced plaintiffs to subscribe to Chamber
+Choices plans. The actual amount of the premiums—and
+whether that amount was “reasonable compensation” under
+ERISA—is irrelevant to plaintiffs’ state-law claims. And the
+misrepresentations occurred, at least initially, before plaintiffs
+THE DEPOT V. CARING FOR MONTANANS 39
+ever agreed to subscribe to a plan. The claims thus do not
+“bear[ ] on an ERISA-regulated relationship,” Rutledge,
+201 F.3d at 1219, because no such relationship existed when
+the misrepresentations were made. Plaintiffs’ state-law
+claims are accordingly not expressly preempted by ERISA.
+2. Conflict Preemption
+In addition to its express preemption provision, ERISA
+articulates “a comprehensive civil enforcement scheme” in
+29 U.S.C. § 1132(a) that is designed “to provide a uniform
+regulatory regime over employee benefit plans.” Davila,
+542 U.S. at 208 (quoting Pilot Life Ins. Co. v. Dedeaux, 481
+U.S. 41, 54 (1987)).16 As a result, “any state-law cause of
+action that duplicates, supplements, or supplants the ERISA
+civil enforcement remedy conflicts with the clear
+congressional intent to make the ERISA remedy exclusive”
+and is therefore barred by conflict preemption. Id. at 209. 
+Conflict preemption can bar a state-law claim “even if the
+elements of the state cause of action [do] not precisely
+duplicate the elements of an ERISA claim,” id. at 216, but a
+state-law claim is not preempted if it reflects an “attempt to
+remedy [a] violation of a legal duty independent of ERISA,”
+id. at 214. State-law claims “are based on ‘other independent
+legal duties’” when they “are in no way based on an
+obligation under an ERISA plan” and “would exist whether
+or not an ERISA plan existed.” Marin Gen. Hosp. v. Modesto
+16 The “possible claims” under 29 U.S.C. § 1132(a) are “(1) an action
+to recover benefits due under the plan; (2) an action for breach of fiduciary
+duties; and (3) a suit to enjoin violations of ERISA or the [p]lan, or to
+obtain other equitable relief” to redress ERISA or plan violations. Bast v.
+Prudential Ins. Co. of Am., 150 F.3d 1003, 1008 (9th Cir. 1998) (internal
+citations omitted).
+THE DEPOT V. CARING FOR MONTANANS40
+& Empire Traction Co., 581 F.3d 941, 950 (9th Cir. 2009)
+(internal alteration omitted) (quoting Davila, 542 U.S. at
+210).
+In this case, the duties implicated in plaintiffs’ state-law
+claims do not derive from ERISA; indeed, ERISA does not
+purport to govern negotiations between insurance companies
+and employers. Each of the state-law claims arises from
+defendants’ misrepresentations and the effect they had on
+plaintiffs’ decisions to subscribe to Chamber Choices plans. 
+The legal duties at issue in these state-law claims are
+independent of the duties imposed by ERISA and would exist
+regardless of whether an ERISA plan existed. See Cotton,
+402 F.3d at 1290 (finding no conflict preemption where the
+plaintiffs sought “damages based on fraud in the sale of
+insurance policies”). Put in the terms used by the district
+court, plaintiffs’ state-law claims are not “alternative
+enforcement mechanisms” to ERISA claims because ERISA
+does not have an enforcement mechanism that regulates
+misrepresentations by insurance companies. Plaintiffs’ state-
+law claims are thus not barred by either express or conflict
+preemption.
+B. Rule 9(b) Particularity
+Finally, we turn to the district court’s conclusion that
+plaintiffs “have not met the heightened pleading standard
+required under Federal Rule of Civil Procedure 9(b) as to
+their allegations of fraud.” Rule 9(b)’s particularity
+THE DEPOT V. CARING FOR MONTANANS 41
+requirement applies to plaintiffs’ claims of fraudulent
+inducement and constructive fraud.17
+Under Rule 9(b), a party “alleging fraud or mistake . . .
+must state with particularity the circumstances constituting
+fraud or mistake.” Fed. R. Civ. P. 9(b). To satisfy Rule
+9(b)’s particularity requirement, the complaint must include
+“an account of the ‘time, place, and specific content of the
+false representations as well as the identities of the parties to
+the misrepresentations.’” Swartz v. KPMG LLP, 476 F.3d
+756, 764 (9th Cir. 2007) (per curiam) (quoting Edwards v.
+Marin Park, Inc., 356 F.3d 1058, 1066 (9th Cir. 2004)). In
+other words, the pleading “must ‘identify the who, what,
+when, where, and how of the misconduct charged, as well as
+what is false or misleading about the purportedly fraudulent
+statement, and why it is false.’” Salameh v. Tarsadia Hotel,
+726 F.3d 1124, 1133 (9th Cir. 2013) (quoting United States
+ex rel. Cafasso v. Gen. Dynamics C4 Sys., Inc., 637 F.3d
+1047, 1055 (9th Cir. 2011)).
+17 We disagree with plaintiffs’ assertion that Rule 9(b) does not apply
+to their constructive fraud claim because Montana’s version of the rule
+would not apply in state court. Rule 9(b)’s particularity requirement “is
+a federally imposed rule” that applies “irrespective of whether the
+substantive law at issue is state or federal.” Kearns v. Ford Motor Co.,
+567 F.3d 1120, 1125 (9th Cir. 2009) (quoting Vess v. Ciba-Geigy Corp.
+USA, 317 F.3d 1097, 1102–03 (9th Cir. 2003)); see id. (rejecting the
+argument “that Rule 9(b) does not apply to California’s consumer
+protection statutes because California courts have not applied Rule 9(b)
+[to those statutes]”). State law is relevant only “to determine whether the
+elements of fraud have been pled sufficiently to state a cause of action.” 
+Id. (quoting Vess, 317 F.3d at 1103). And because plaintiffs rely on a
+“unified course of fraudulent conduct” as the basis of the constructive
+fraud claim, the claim is at a minimum “grounded in fraud” and therefore
+“must satisfy the particularity requirement of Rule 9(b).” Vess, 317 F.3d
+at 1103–04.
+THE DEPOT V. CARING FOR MONTANANS42
+The complaint in this case alleges that defendants
+misrepresented the basis of the premiums they charged. But
+the complaint lacks sufficient detail with respect to the
+“who,” “when,” “where,” or “how.” Plaintiffs vaguely allege
+that defendants made these misrepresentations “[i]n the
+course of marketing” the plans to plaintiffs over a period of
+eight years—from 2006 to 2014. Plaintiffs do not allege the
+details of these misrepresentations, such as when defendants
+made them, where or how defendants made them, to whom
+they were made, or the specific contents of the
+misrepresentations.18 See Concha, 62 F.3d at 1503 (“Rule
+9(b) . . . requires that plaintiffs specifically plead those facts
+surrounding alleged acts of fraud to which they can
+reasonably be expected to have access.”). We therefore agree
+with the district court that plaintiffs’ allegations do not state
+with particularity the circumstances of the alleged fraud.
+Nevertheless, because we reverse the district court’s
+conclusion that plaintiffs’ state-law claims are preempted, we
+reverse the district court’s dismissal with prejudice of the
+state-law claims so that plaintiffs may amend their complaint
+to state the fraud allegations with greater particularity. See
+United States ex rel. Swoben v. United Healthcare Ins. Co.,
+848 F.3d 1161, 1167 (9th Cir. 2016). We note, however, that
+because we affirm the dismissal of plaintiffs’ ERISA claims,
+the district court is also free on remand to decline to exercise
+supplemental jurisdiction over the state-law claims and allow
+plaintiffs to bring them in state court. See Sanford v.
+18 Defendants also argue that the complaint impermissibly lumps
+together HCSC and CFM as “BCBSMT.” This argument lacks merit. 
+The complaint specifically explains that “BCBSMT” refers to CFM for
+conduct occurring before July 2013, and to HCSC for conduct occurring
+after July 2013.
+THE DEPOT V. CARING FOR MONTANANS 43
+MemberWorks, Inc., 625 F.3d 550, 561 (9th Cir. 2010)
+(discussing supplemental jurisdiction under 28 U.S.C.
+§ 1367(c)(3)).
+V. CONCLUSION
+“[R]educed to the size of a pea, this case is really about
+claims of fraud and misrepresentation in the sale of some
+[health] insurance policies.” Cotton, 402 F.3d at 1279. 
+ERISA does not regulate such conduct, which means that
+plaintiffs’ ERISA claims, and defendants’ ERISA preemption
+defense, fail. We accordingly AFFIRM the district court’s
+judgment with respect to plaintiffs’ ERISA claims,
+REVERSE the district court’s judgment with respect to
+plaintiffs’ state-law claims, and REMAND for further
+proceedings consistent with this opinion. Each party shall
+bear its own costs on appeal.
+AFFIRMED IN PART, REVERSED IN PART, and
+REMANDED.

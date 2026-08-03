@@ -1,0 +1,999 @@
+FOR PUBLICATION 
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+WINSTON R. ANDERSON; 
+CHRISTOPHER M. SULYMA, and all 
+others similarly situated, 
+
+ Plaintiffs-Appellants, 
+
+ v. 
+
+INTEL CORPORATION 
+INVESTMENT POLICY 
+COMMITTEE; INTEL RETIREMENT 
+PLANS ADMINISTRATIVE 
+COMMITTEE; FINANCE 
+COMMITTEE OF THE INTEL 
+CORPORATION BOARD OF 
+DIRECTORS; CHRISTOPHER C. 
+GECZY; RAVI JACOB; DAVID S. 
+POTTRUCK; ARVIND SODHANI; 
+RICHARD TAYLOR; TERRA 
+CASTALDI; RONALD D. DICKEL; 
+TIFFANY DOON SILVA; TAMI 
+GRAHAM; CARY KLAFTER; 
+STUART ODELL; CHARLENE 
+BARSHEFSKY; SUSAN L. DECKER; 
+JOHN J. DONAHOE; REED HUNDT; 
+JAMES D. PLUMMER; FRANK D. 
+YEARY; STACY SMITH; ROBERT H. 
+SWAN; TODD UNDERWOOD; 
+
+ No. 22-16268 
+
+D.C. Nos. 
+3:19-cv-04618-
+VC 
+3:15-cv-04977-
+VC 
+5:16-cv-00522-
+LHK 
+
+OPINION 
+2 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+GEORGE S. DAVIS, 
+
+ Defendants-Appellees. 
+
+Appeal from the United States District Court 
+for the Northern District of California 
+Vince Chhabria, District Judge, Presiding 
+
+Argued and Submitted October 5, 2023 
+Honolulu, Hawaii 
+
+Filed May 22, 2025 
+
+Before: Marsha S. Berzon; Eric D. Miller; and Lawrence 
+VanDyke, Circuit Judges 
+
+Opinion by Judge Miller; 
+Concurrence by Judge Berzon 
+
+SUMMARY* 
+
+ERISA / Fiduciary Duty 
+
+The panel affirmed the district court’s dismissal of 
+Winston R. Anderson’s putative class action under the 
+Employee Retirement Income Security Act alleging that the 
+trustees of Intel Corporation’s proprietary retirement funds 
+breached their fiduciary duty of prudence and duty of 
+loyalty. 
+
+* This summary constitutes no part of the opinion of the court. It has 
+been prepared by court staff for the convenience of the reader. 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 3 
+Anderson alleged that the trustees breached their duty of 
+prudence by investing some of the funds’ assets in hedge 
+funds and private equity funds. He alleged that they 
+breached their duty of loyalty by steering retirement funds to 
+companies in which Intel ’s venture -capital arm, Intel 
+Capital, had already invested. 
+The panel held that Anderson did not state a claim for 
+breach of ERISA’s duty of prudence. Because prudence is 
+evaluated prospectively, based on the methods the 
+fiduciaries employed, rather than retrospectively, based on 
+the results they achieved, it is not enough for a plaintiff 
+simply to allege that the fiduciaries could have obtained 
+better results. Instead, a plaintiff must provide some further 
+factual enhancement. When a plaintiff relies on a theory that 
+a prudent fiduciary in like circumstances would have 
+selected a different fund, the plaintiff must provide a sound 
+basis for comparison. The panel concluded that Anderson 
+did not plausibly allege that Intel’s funds underperformed 
+other funds with comparable aims. Anderson failed to state 
+a claim for breach of the duty of prudence because he made 
+only general arguments about the riskiness and costliness of 
+hedge funds and private equity funds without providing 
+factual allegations sufficient to support the claim that the 
+investments that were actually made were ill -suited to the 
+Intel funds. 
+The panel held that Anderson failed to state a claim that 
+Intel’s fiduciaries breached their duty of loyalty because he 
+did not plausibly allege a real conflict of interest, rather than 
+the mere potential for a conflict of interest. 
+Concurring in full in the majority opinion, Judge Berzon 
+wrote separately to clarify the role of comparisons and 
+circumstantial allegations in duty -of-prudence claims. She 
+4 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+wrote that comparison is not a pleading requirement, and 
+ERISA does not require pleading an empirical comparator—
+in the form of a “meaningful benchmark” alternative 
+investment or otherwise —to state a claim. The ultimate 
+question, absent direct allegations about the fiduciary’s 
+investment methods, is not how other plans were managed 
+or what other investments were available, but whether the 
+facts alleged —comparative or not —lead to the plausible 
+inference that the actual process used by the defendant 
+fiduciary was flawed. With appropriate evidence, Anderson 
+could have stated a claim by pleading a true benchmark 
+comparison, by providing other circumstantial allegations 
+that plausibly suggested imprudence, or by directly showing 
+that the specific investments the Intel fiduciaries selected or 
+the general methodologies they used were imprudent. 
+
+COUNSEL 
+Matthew W.H. Wessler (argued), Gupta Wessler LLP, 
+Washington, D.C.; Neil K. Sawhney and Jessica Garland, 
+Gupta Wessler LLP, San Francisco, California; R. Joseph 
+Barton, The Barton Firm LLP, Washington, D.C.; Joseph 
+Creitz, Creitz & Serebin LLP, San Francis co, California; 
+Michael L. Murphy and Gregory Y. Porter, Bailey & Glasser 
+LLP, Washington, D.C.; for Plaintiffs-Appellants. 
+Juli A. Lund (argued), Daniel F. Katz, and David S. Kurtzer-
+Ellenbogen, Williams & Connolly LLP, Washington, D.C.; 
+Scott P. Cooper and Jennifer L. Roche, Proskauer Rose LLP, 
+Los Angeles, California; Myron D. Rumeld, Proskauer Rose 
+LLP, New York, New York; for Defendants-Appellees. 
+Jaime Santos, Goodwin Procter LLP, Washington, D.C.; 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 5 
+Jordan Bock, Goodwin Procter LLP, Boston, Massachusetts; 
+Tara S. Morrissey and Jordan L. Von Bokern, U.S. Chamber 
+Litigation Center, Washington, D.C.; for Amicus Curiae the 
+Chamber of Commerce of the United States of America. 
+
+OPINION 
+MILLER, Circuit Judge: 
+Winston R. Anderson brought this putative class action 
+under the Employee Retirement Income Security Act of 
+1974 (ERISA), Pub. L. No. 93-406, 88 Stat. 829 (29 U.S.C. 
+§ 1001 et seq.), against the trustees of Intel Corporation’s 
+proprietary retirement funds. He alleged that the trustees 
+breached their duty of prudence by investing some of the 
+funds’ assets in hedge funds and private equity funds. He 
+also alleged that they breached their duty of loyalty by 
+steering retirement funds to companies in which Intel’s 
+venture-capital arm, Intel Capital, had already invested. The 
+district court dismissed Anderson’s claims, concluding that 
+he had not plausibly allege d a breach of either the duty of 
+prudence or the duty of loyalty. We affirm. 
+I 
+From 2000 to 2015, Anderson was an Intel employee 
+who participated in Intel’s employee retirement plans, 
+including the Intel 401(k) Savings Plan and the Intel 
+Retirement Contribution Plan. Both plans are “employee 
+pension benefit plans” subject to ERISA. 29 U.S.C. 
+§ 1002(2)(A). 
+ERISA requires that private pension plan assets “be held 
+in trust.” 29 U.S.C. § 1103(a). To that end, it imposes certain 
+6 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+fiduciary duties on a plan’s trustees , two of which are 
+relevant here. First, the trustees have a duty of prudence: 
+They must act “with the care, skill, prudence, and diligence 
+under the circumstances then prevailing that a prudent man 
+acting in a like capacity and familiar with such matters 
+would use in the conduct of an enterprise of a like character 
+and with like aims.” Id. § 1104(a)(1)(B). Second, they have 
+a duty of loyalty: They must “discharge [their] duties with 
+respect to a plan solely in the interest of the participants and 
+beneficiaries.” Id. § 1104(a)(1). 
+Participants in Intel’s plans may choose to invest their 
+accounts in one or more customized funds managed by the 
+plans’ trustees. Those funds include target-date funds, which 
+hold a mix of asset classes including stocks, bonds, and cash 
+equivalents that are adjusted to become more conservative 
+as the fund approaches the target retirement date, and global 
+diversified funds, which invest in a variety of assets, 
+including domestic and international equit y funds , bonds, 
+and short-term investments. 
+In response to the 2008 market crash and the ensuing 
+recession, Intel redesigned its funds so that they included not 
+just stocks and bonds but also hedge funds and private equity 
+funds. A hedge fund is a privately organized pooled 
+investment vehicle that engages in active trading of various 
+assets, often including securities and commodity futures and 
+options contracts . A private equity f und acquires and 
+manages companies with the goal of improving them to earn 
+a profit when the companies are sold again. Intel told 
+participants that its new strategy was aimed at decreasing 
+volatility and reducing the risk of large losses during a 
+market downturn. It also disclosed the price that participants 
+would pay for this risk mitigation : Because of their broad 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 7 
+diversification, the funds would not compare favorably with 
+equity-heavy funds during bull markets. 
+In 2019, Anderson brought this action in the Northern 
+District of California against the managers of the plans. See 
+29 U.S.C. § 1109(a) (making ERISA plan fiduciaries 
+personally liable for any losses to the plan resulting from a 
+breach of fiduciary duty) ; id. § 1132(a)(2) (permitting plan 
+participants to bring a civil action for relief under section 
+1109). He alleged that they had breached their duty of 
+prudence because their large allocations to hedge funds and 
+private equity funds had “drastically depart ed from 
+prevailing standards of professional asset managers .” He 
+also alleged that they had breached their duty of loyalty by 
+improperly favoring investments that benefited Intel 
+Capital—Intel’s venture capital arm —at the expense of the 
+plan participants. (He also asserted several additional claims, 
+but because the parties agree that those claims are derivative 
+of the claims based on breach of fiduciary duty, we do not 
+separately discuss them.) Anderson asked the district court 
+to certify a class consisting of all plan participants whose 
+accounts were invested in the target-date funds or global 
+diversified funds after October 2009. The case was 
+subsequently consolidated with a case brought by 
+Christopher Sulyma, another former Intel employee. 
+The district court dismissed the complaint for failure to 
+state a claim. The court rejected the duty-of-prudence claim 
+because Anderson had not alleged facts sufficient to support 
+the allegation that the funds suffered from poor performance 
+compared to peer funds . T o make such an allegation 
+plausible, the court reasoned, Anderson would need to 
+provide “a meaningful benchmark against which to compare 
+the Intel Funds,” but he had “failed to allege facts that would 
+demonstrate that [his] chosen ‘comparable funds’” were 
+8 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+indeed meaningful benchmarks . As to the duty -of-loyalty 
+claim, the court held that Anderson’s allegations were 
+“devoid of plausible allegations that could show a conflict of 
+interest or self-dealing.” 
+The district court granted leave to amend. In the 
+amended complaint —the operative pleading here —
+Anderson again asserted claims based on breach of the duty 
+of prudence and the duty of loyalty. The amended complaint 
+detailed how the f unds underperformed allegedly 
+comparable alternatives, including published indices like the 
+S&P 500 and Morningstar categories of peer-group funds. It 
+also alleged “that hedge funds and private equity pose 
+challenges and risks beyond those posed by ‘traditional 
+investments’ such as mutual funds” and “do not increase 
+diversification of asset classes.” It included further detail on 
+how the fiduciaries’ investment decisions had benefited Intel 
+and Intel Capital. 
+The district court again dismissed , this time with 
+prejudice. The court concluded that Anderson still had not 
+identified a “meaningful benchmark” against which to 
+compare the performance of Intel’s funds. The court 
+explained that “simply labeling funds as comparable or as in 
+the same category as the Intel [target -date funds] and Intel 
+[global diversified funds] is insufficient to establish that 
+those funds are meaningful benchmarks.” The court also 
+stated that, although Anderson had added more detail to his 
+duty-of-loyalty allegations, the allegations were “much the 
+same as” those of the first complaint and were insufficient to 
+support the claim that the fiduciaries had engaged in self -
+dealing. 
+Anderson appeals. We review de novo the district court’s 
+dismissal of a complaint for failure to state a claim. Wells 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 9 
+Fargo Bank, N.A. v. Mahogany Meadows Ave. Tr., 979 F.3d 
+1209, 1213 (9th Cir. 2020). “To survive a motion to dismiss, 
+a complaint must contain sufficient factual matter, accepted 
+as true, to ‘state a claim to relief that is plausible on its face.’” 
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. 
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)). 
+II 
+We begin with Anderson’s claim that the plan trustees 
+breached their duty of prudence. Anderson contends that the 
+trustees acted imprudently both by initially allocating some 
+of the plans’ assets to hedge funds and private equity funds 
+and by failing to adjust that allocation as it became clear that 
+hedge funds and private equity funds were producing lower 
+returns than those available from more traditional assets like 
+stocks and bonds. We agree with the district court that 
+Anderson has not stated an imprudence claim under ERISA. 
+ERISA requires plan trustees to act with the “care, skill, 
+prudence, and diligence under the circumstances then 
+prevailing that a prudent man acting in a like capacity and 
+familiar with such matters would use in the conduct of an 
+enterprise of a like character and with like aims.” 29 U.S.C. 
+§ 1104(a)(1)(B); see also 29 C.F.R. § 2550.404a -1(b)(1). 
+“At times, the circumstances facing an ERISA fiduciary will 
+implicate difficult tradeoffs, and courts must give due regard 
+to the range of reasonable judgments a fiduciary may make 
+based on her experience and expertise.” Hughes v. 
+Northwestern Univ., 595 U.S. 170, 177 (2022). 
+ERISA “requires prudence, not prescience.” Debruyne v. 
+Equitable Life Assurance Soc’y of the U.S., 920 F.2d 457, 
+465 (7th Cir. 1990) (quoting DeBruyne v. Equitable Life 
+Assurance Soc’y of the U.S., 720 F. Supp. 1342, 1349 (N.D. 
+Ill. 1989)). We therefore assess “a fiduciary’s actions based 
+10 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+upon information available to the fiduciary at the time of 
+each investment decision and not from the vantage point of 
+hindsight.” PBGC ex rel. St. Vincent Catholic Med. C trs. 
+Ret. Plan v. Morgan Stanley Inv. Mgmt. Inc., 712 F.3d 705, 
+716 (2d Cir. 2013) (quoting In re Citigroup ERISA Litig. , 
+662 F.3d 128, 140 (2d Cir. 2011)); accord In re Unisys Sav. 
+Plan Litig., 74 F.3d 420, 434 (3d Cir. 1996) (explaining that 
+the inquiry turns on “a fiduciary’s conduct in arriving at an 
+investment decision, not on its results”). Specifically, we ask 
+“whether the individual trustees, at the time they engaged in 
+the challenged transactions, employed the appropriate 
+methods to investigate the merits of the investment and to 
+structure the investment.” Wright v. Oregon Metallurgical 
+Corp., 360 F.3d 1090, 1097 (9th Cir. 2004) (quoting 
+Donovan v. Mazzola, 716 F.2d 1226, 1232 (9th Cir. 1983)). 
+Because we evaluate prudence prospectively, based on 
+the methods the fiduciaries employed, rather than 
+retrospectively, based on the results they achieved, it is not 
+enough for a plaintiff simply to allege that the fiduciaries 
+could have obtained better result s—whether higher returns, 
+lower risks, or reduced costs —by choosing different 
+investments. Instead, a plaintiff must provide “some further 
+factual enhancement ” to take the claim across “the line 
+between possibility and plausibility.” Twombly, 550 U.S. at 
+557. 
+There are a “myriad of circumstances that could violate 
+the [prudence] standard.” In re Syncor ERISA Litig., 516 
+F.3d 1095, 1102 (9th Cir. 2008). For example, a plaintiff can 
+plead a breach of the duty of prudence by alleging facts that 
+would directly show that the fiduciaries employed unsound 
+methods in making their investment decisions. See, e.g., 
+Appvion, Inc. Ret. Sav. & Emp. Stock Ownership Plan ex rel. 
+Lyon v. Buth, 99 F.4th 928, 946 (7th Cir. 2024) (trustees of 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 11 
+employee stock ownership plan purchased stock in reliance 
+on appraiser’s valuation but “were careless in failing to 
+scrutinize [the appraiser’s] valuation methods”); Stegemann 
+v. Gannett Co., Inc., 970 F.3d 465, 476 (4th Cir. 2020) 
+(trustees of retirement fund allegedly did not monitor a stock 
+fund even though “two years elapsed” during which they 
+“received risk warnings from auditors”). 
+Alternatively, a plaintiff can make “circumstantial 
+factual allegations” from which the court “may reasonably 
+‘infer from what is alleged that the process was flawed.’” St. 
+Vincent, 712 F.3d at 718 (quoting Braden v. Wal -Mart 
+Stores, Inc., 588 F.3d 585, 596 (8th Cir. 2009)). When an 
+ERISA plaintiff attempts to do so by relying on a theory that 
+“‘a prudent fiduciary in like circumstances’ would have 
+selected a different fund based on the cost or performance of 
+the selected fund,” that plaintiff “must provide a sound basis 
+for comparison.” Meiners v. Wells Fargo & Co., 898 F.3d 
+820, 822 (8th Cir. 2018) (quoting St. Vincent, 712 F.3d at 
+720); accord Matney v. Barrick Gold of N. Am., 80 F.4th 
+1136, 1149 (10th Cir. 2023) (“A court cannot reasonably 
+draw an inference of imprudence simply from the allegation 
+that a cost disparity exists; rather, the complaint must state 
+facts to show the funds or services being compared are, 
+indeed, comparable.”) ; Albert v. Oshkosh Corp. , 47 F.4th 
+570, 581–82 (7th Cir. 2022) (“The fact that actively 
+managed funds charge higher fees than passively managed 
+funds is ordinarily not enough to state a claim because such 
+funds may also provide higher returns,” so a plaintiff must 
+offer “more detailed allegations providing a ‘sound basis for 
+comparison.’” (quoting Meiners, 898 F.3d at 822)); Smith v. 
+CommonSpirit Health, 37 F.4th 1160, 1166 (6th Cir. 2022) 
+(“[P]ointing to an alternative course of action, say another 
+fund the plan might have invested in, will often be necessary 
+12 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+to show a fund acted imprudently . . . .”) . In other words , 
+when a plaintiff alleges imprudence based on a fiduciary’s 
+decision to make one investment rather than an alternative, 
+“[t]he key to nudging an inference of imprudence from 
+possible to plausible is providing ‘a sound basis for 
+comparison—a meaningful benchmark’ —not just alleging 
+that ‘costs are too high, or returns are too low.’” Matousek v. 
+MidAmerican Energy Co., 51 F.4th 274, 278 (8th Cir. 2022) 
+(quoting Davis v. Washington Univ. in St. Louis , 960 F.3d 
+478, 484 (8th Cir. 2020)). 
+The need for a relevant comparator with similar 
+objectives—not just a better -performing plan or 
+investment—is implicit in ERISA’s text. By making the 
+standard of care that of a hypothetical prudent person “acting 
+in a like capacity . . . in the conduct of an enterprise of a like 
+character and with like aims ,” the statute makes clear that 
+the goals of the plan matter. T he Department of Labor 
+regulations implementing ERISA do the same. Those 
+regulations provide that the duty of prudence is satisfied if 
+the fi duciary has made a determination that a chosen 
+investment “is reasonably designed, as part of the 
+portfolio . . . , to further the purposes of the plan, taking into 
+consideration the risk of loss and the opportunity for 
+gain . . . compared to the opportunity for gain . . . associated 
+with reasonably available alternatives with similar risks .” 
+29 C.F.R. § 2550.404a-1(b)(2)(i) (emphasis added). 
+Anderson has made no direct allegation about Intel’s 
+investment-selection methods , and he attempts to show a 
+breach of the duty of prudence only through the 
+circumstantial route. Specifically, he argues that the decision 
+to invest in hedge funds and private equity funds caused 
+Intel’s funds to underperform other funds and to incur higher 
+fees. But t he district court correctly determined that 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 13 
+Anderson did not plausibly allege that Intel’s funds 
+underperformed other funds with comparable aims. 
+Intel clearly disclosed the aims of its funds. Disclosures 
+for the global diversified funds explained Intel’s risk-
+mitigation objective, noting that assets were allocated to 
+“provide greater downside protection in faltering markets, 
+with the tradeoff being slight underperformance in rallying 
+ones, as has been the case in the current bull market.” 
+Disclosures for the target -date funds similarly made clear 
+that the goal was to “reduce investment risk by investing in 
+assets whose returns are less correlated to equity markets.” 
+Notably, Intel developed its own customized 
+benchmarks, made up of a “composite of the underlying 
+. . . benchmarks” for each asset class in cluded in the Intel 
+funds, which it disclosed to plan participants and 
+beneficiaries. Intel explained that the benchmarks had “the 
+same asset allocation as the Fund’s target asset allocation 
+and use[d] index returns to represent the performance of the 
+asset classes.” But r ather than presenting a comparison to 
+Intel’s composite benchmarks or to available funds with 
+similar risk-mitigation strategies and objectives, Anderson 
+sought to compare Intel’s funds to equity-heavy retail funds 
+that pursued different objectives—typically revenue 
+generation. As the district court observed , “simply labeling 
+funds as ‘comparable’ or ‘a peer’ is insufficient to establish 
+that those funds are meaningful benchmarks against which 
+to compare the performance of the Intel funds.” Anderson’s 
+putative comparators were not truly comparable because 
+they had “different aims, different risks, and diffe rent 
+potential rewards.” Davis, 960 F.3d at 485. 
+Anderson emphasizes that the duty of prudence is 
+“derived from the common law of trusts ,” Tibble v. Edison 
+14 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+Int’l, 575 U.S. 523, 528 (2015) (quoting Central States, Se. 
+& Sw. Areas Pension Fund v. Central Transp., Inc., 472 U.S. 
+559, 570 (1985) ), a nd that “[n]o fixed formula exists for 
+determining whether a trustee has met the standard of care,” 
+George G. Bogert, The Law of Trusts & Trustees § 541 (3d 
+ed. 2019). He also insists that the “appropriate inquiry will 
+be context specific.” Hughes, 595 U.S. at 177 (quoting Fifth 
+Third Bancorp v. Dudenhoeffer, 573 U.S. 409, 425 (2014)). 
+That is true as far as it goes: As we have already explained, 
+a plaintiff does not necessarily need to identify comparable 
+funds or investments ; he might , for example, make direct 
+allegations of a breach of ERISA’s duty of prudence. We do 
+not hold that a plaintiff must always identify a compa rator 
+when relying on circumstantial allegations of a breach of the 
+duty of prudence. But to the extent a plaintiff asks a court to 
+infer that a fiduciary used improper methods based on the 
+performance of the investments , as Anderson in part does 
+here, he must compare that performance to funds or 
+investments that are meaningfully similar. Meiners, 898 
+F.3d at 822. 
+The same reasoning holds for Anderson’s allegations 
+that investors in the Intel-created plans incurred higher fees. 
+As with the performance allegations, the fact that different 
+kinds of funds with distinct objectives and approaches 
+carried different fees does not by itself demonstrate 
+imprudence. Anderson’s comparison to off -the-shelf funds 
+that did not seek to mitigate risk to the same degree as Intel’s 
+funds is not enough to show that the Intel funds’ fees were 
+excessive to the point of imprudence. 
+Anderson argues that there are “no meaningful 
+comparators for the fiduciaries’ decisio n” because Intel’s 
+approach “was unusual, if not unparalleled.” That argument 
+conflates the risk-mitigation objective of the Intel funds with 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 15 
+the allocation decisions made to implement that objective. 
+Anderson’s complaint suggests that what he is really 
+challenging is the former: He alleges that “in pursuing a 
+purported risk-mitigation strategy, the Intel Fu nds gave up 
+the long-term benefit of investing in equity, which delivers 
+superior returns.” But a s the district court noted, “ERISA 
+fiduciaries are not required to adopt a riskier strategy simply 
+because that strategy may increase returns.” To the contrary, 
+courts have routinely rejected claim s that an ERISA 
+fiduciary can violate the duty of prudence by seeking to 
+minimize risk. See Pizarro v. Home Depot, Inc., 111 F.4th 
+1165, 1181 (11th Cir. 2024) (“Home Depot offered the 
+stable value fund because it was conservative, advertised it 
+as conservative, and benchmarked it against a conservative 
+metric. Because the fund met the expectations set for it, the 
+plaintiffs’ breach -of-fiduciary-duty claim relyi ng on 
+comparisons to other, more aggressive benchmarks 
+fail[s].”); Ellis v. Fidelity Mgmt. Tr. Co., 883 F.3d 1, 10 (1st 
+Cir. 2018) (rejecting an argument “that a plan fiduciary’s 
+choice of benchmark, where such a benchmark is fully 
+disclosed to participants, can be imprudent by virtue of being 
+too conservative”). 
+Anderson insists that he is challeng ing the 
+implementation of the risk -minimization strategy, as 
+opposed to the strategy itself . In that respect, h is argument 
+appears to rest on the proposition that the fiduciaries’ 
+allocation strategy was imprudent because hedge funds and 
+private equity funds are inherently so risky that no prudent 
+investor with the same aims would have invested in them, or 
+at least not in the proportions the fiduciaries selected . As 
+Anderson puts it, Intel should have been aware of 
+“contemporaneous reports of poor hedge -fund returns, the 
+16 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+exorbitant expenses of hedge funds and private equity, and 
+[their] well-recognized risks.” 
+Anderson’s per se challenge to hedge funds and private 
+equity investments overlooks that “the prudence of each 
+investment is not assessed in isolation but, rather, as the 
+investment relates to the portfolio as a whole.” St. Vincent , 
+712 F.3d at 717; see also California Ironworkers Field 
+Pension Tr. v. Loomis Sayles & Co., 259 F.3d 1036, 1043 
+(9th Cir. 2001). ERISA requires that a fiduciary “diversify[] 
+the investments of the plan so as to minimize the risk of large 
+losses.” 29 U.S.C. § 1104(a)(1)(C). And the Department of 
+Labor’s regulations contemplate that a fiduciary should act 
+as a prudent investment manager following the principles of 
+modern portfolio theory, which recognizes that while the 
+individual riskiness of a particular investment cannot be 
+eliminated, it can be managed through the diversification of 
+investment assets. See 29 C.F.R. § 2550.404a-1(b)(1)(i)–
+(ii); see also DiFelice v. U.S. Airways, Inc., 497 F.3d 410, 
+423 (4th Cir. 2007) (“[M]odern portfolio theory has been 
+adopted by the investment community and, for the purposes 
+of ERISA, by the Department of Labor.” (citing 29 C.F.R. 
+§ 2550.404a-1)); Laborers Nat’l Pension Fund. v. Northern 
+Trust Quantitative Advisors, Inc. , 173 F.3d 313, 322 (5th 
+Cir. 1999) (“Since 1979, investment managers have been 
+held to the standard of prudence of the modern portfolio 
+theory by the Secretary’s regulations.” (citing 29 C.F.R. 
+§ 2550.404a-1)). Indeed, in some cases, “an investment in a 
+risky security as part of a diversified portfolio is . . . an 
+appropriate means to increase return while minimizing risk.” 
+DiFelice , 497 F.3d at 423. Thus, generalized attacks on 
+hedge funds and private equity funds as a category have been 
+rejected both by courts, see, e.g., St. Vincent , 712 F.3d at 
+723, and by the Department of Labor, which has opined that 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 17 
+“a fiduciary may properly select an asset allocation fund 
+with a private equity component as a designated investment 
+alternative for a participant directed individual account 
+plan,” Letter to Jon W. Breyfogle from Louis Campagna, 
+Chief, Division of Fiduciary Interpretations, Office 
+of Regulations and Interpretations , Employee 
+Benefits Security Administration , United States 
+Department of Labor ( June 3, 2020), available a t 
+https://www.dol.gov/agencies/ebsa/about -ebsa/our -
+activities/resource- center/information -letters/06 -03-2020. 
+It is possible that a plaintiff could make out an 
+imprudence claim by alleging that a plan invested much 
+more in a particularly risky class of assets than did other, 
+comparable plans, even if investing in that asset class is not 
+per se imprudent in smaller amounts . Cf. California 
+Ironworkers, 259 F.3d at 1045 (holding it sufficient to allege 
+that a fiduciary allocated nearly one third of a plan to a 
+“highly risky investment[]” and the same fiduciary allocated 
+only five percent and seven percent of its other plans to that 
+same investment). But Anderson has not plausibly alleged 
+that Intel’s specific investments were imprudent at the scale 
+it made them. Although Intel identified the hedge funds and 
+private equity funds in which it invested , Anderson has not 
+alleged that th ose investments were particularly risky , 
+individually or in the aggregate . Notably, the complaint 
+suggests that the fiduciaries’ choices had their intended 
+effects. For example, one chart in the complaint shows that 
+hedge funds (albeit a composite index rather than the 
+specific funds the Intel fiduciaries selected) underperformed 
+the global stock market in “up” months, but overperformed 
+in “down” months —precisely the tradeoff Intel had 
+disclosed. 
+18 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+Nor does Anderson’s “risk- adjusted” analysis suffice . 
+He alleges that the Intel funds had a greater “risk per unit of 
+return” than did other target-date funds. But an ERISA 
+plaintiff cannot make incomparable funds comparable 
+simply by using a ratio. The “risk-adjusted” analysis does 
+not allege that any funds with comparable risk profiles and 
+greater returns actually existed ; it only speculates that if a 
+fund with a comparable risk profile had followed the trend 
+of other, presumably riskier, funds, it would have generated 
+higher returns than the Intel funds did. 
+Finally, Anderson emphasizes the liberal pleading 
+standards of Federal Rule of Civil Procedure 8, arguing that 
+the district court impermissibly “parsed” his chosen 
+comparators, and improperly engaged in factfinding. But 
+Anderson’s complaint explained that “there are considerable 
+differences among [target-date funds] offered by different 
+providers, even among [target-date funds] with the same 
+target date, ” so it was appropriate for the district court to 
+consider those differences carefully. Furthermore, the 
+district court had to assess the similarities and differences 
+between Anderson’s chosen comparators and the Intel funds 
+so that it could determine whether they were appropriate 
+comparators in the first place. See Davis, 960 F.3d at 485 
+(“Comparing apples and oranges is not a way to show that 
+one is better or worse than the other.”). 
+Such analysis—even at the pleading stage —is 
+appropriate in ERISA cases. To be sure, plaintiffs “typically 
+lack extensive information regarding the fiduciary’s 
+‘methods and actual knowledge’ because those details ‘tend 
+to be in the sole possession of [that fiduciary]. ’” Meiners, 
+898 F.3d at 822 (alteration in original) (quoting St. Vincent, 
+712 F.3d at 719). And a court cannot reasonably demand that 
+plaintiffs plead “facts which tend systemically to be in the 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 19 
+sole possession of defendants.” Braden, 588 F.3d at 598. But 
+ERISA requires plan administrators to make extensive 
+disclosures to participants, including a summary plan 
+description and an annual report with audited financial 
+statements. 29 U.S.C. §§ 1022, 1023. Those disclosures give 
+prospective plaintiffs “ the opportunity to find out how the 
+fiduciary invested the plan’s assets.” St. Vincent, 712 F.3d at 
+720. An ERISA plaintiff can “use the data about the selected 
+funds and some circumstantial allegations about methods to 
+show that ‘a prudent fiduciary in like circumstances would 
+have acted differently.’” Meiners, 898 F.3d at 822 (quoting 
+St. Vincent , 712 F.3d at 720); see also 29 U.S.C. 
+§ 1104(a)(1)(B). 
+Anderson has not made such a showing. He has had 
+access to detailed information about the Intel funds —
+including the identities of the hedge funds and private equity 
+funds in which they invested—and therefore has been well 
+positioned to find appropriate comparators or to explain why 
+these specific investments are so inherently risky, 
+individually or in the aggregate, that selecting them was 
+imprudent. Nevertheless, he makes only general arguments 
+about the riskiness and costliness of hedge funds and private 
+equity funds without providing factual allegations sufficient 
+to support the claim that the investments that were actually 
+made were ill -suited to the Intel funds. The district court 
+therefore correctly held that he failed to state a claim for 
+breach of ERISA’s duty of prudence. 
+III 
+Anderson also claims that Intel’s fiduciaries breached 
+their duty of loyalty. They did so, he says, by giving hedge 
+funds and private equity funds more capital to invest in 
+companies and startups in which Intel Capital had already 
+20 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+invested, so as to benefit Intel Capital by reducing the risk of 
+its investments. The district court dismissed th at claim, 
+explaining that an ERISA plaintiff asserting a breach of the 
+duty of loyalty must “plausibly allege a real conflict of 
+interest, rather than the mere potential for a conflict of 
+interest.” We agree. 
+ERISA imposes a duty of loyalty on plan fiduciaries : A 
+fiduciary must administer plan assets “solely in the interest 
+of the participants and beneficiaries .” 29 U.S.C. 
+§ 1104(a)(1); see also id. § 1106(b)(1) (“A fiduciary with 
+respect to a plan shall not deal with the assets of the plan in 
+his own interest or for his own account.”); Pegram v. 
+Herdrich, 530 U.S. 211, 225 (2011). Like the duty of 
+prudence, ERISA’s duty of loyalty finds its source in the 
+common law of trusts. See Central States , 472 U.S. at 570. 
+The Supreme Court has explained , however, that “the 
+analogy between ERISA fiduciary and common law trustee” 
+is imperfect because unlike a trustee at common law, “the 
+trustee under ERISA may wear different hats ,” and “a 
+fiduciary may have financial interests adverse to 
+beneficiaries.” Pegram, 530 U.S. at 225. For example, 
+employers “can be ERISA fiduciaries and still take actions 
+to the disadvantage of employee beneficiaries , when acting 
+as employers (e.g., firing an employee for reasons unrelated 
+to the ERISA plan).” Id. 
+The statute requires that fiduciaries “wear the fiduciary 
+hat when making fiduciary decisions.” Pegram, 530 U.S. at 
+225; see Hughes Aircraft Co. v. Jacobson, 525 U.S. 432, 
+443–44 ( 1999). But it does not prohibit “the mere act of 
+becoming a trustee with conflicting interests.” Friend v. 
+Sanwa Bank California, 35 F.3d 466, 469 (9th Cir. 1994) ; 
+see id. (“ERISA does not expressly prohibit a trustee from 
+having dual loyalties.”) . Thus, “the potential for a conflict, 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 21 
+without more, is not synonymous with a plausible claim of 
+fiduciary disloyalty.” Kopp v. Klein, 894 F.3d 214, 222 (5th 
+Cir. 2018); accord Donovan v. Bierwirth, 680 F.2d 263, 271 
+(2d Cir. 1982) ( explaining that corporate officers who also 
+serve as trustees of the company’s retirement plans “do not 
+violate their duties as trustees by taking action 
+which . . . they reasonably conclude best to promote the 
+interests of participants and beneficiaries simply because it 
+incidentally benefits the corporation”). 
+Anderson insists that the Intel fiduciaries’ investment in 
+certain hedge funds and private equity funds “had the 
+potential to benefit” Intel Capital “by allowing Intel Capital 
+to invest in technology startups more effectively and with 
+reduced risk.” But as the district court observed, nowhere in 
+the complaint did Anderson allege that the Intel fiduciaries 
+had any influence over any investment firm’s decision “to 
+invest in one of the startups in which Intel [had already] 
+invested.” And the mere fact that mem bers of senior 
+management at Intel Capital also served as members of 
+Intel’s Investment Policy Committee does not, on its own, 
+support an inference that such individuals acted disloyally 
+while discharging their fiduciary duties. 
+All Anderson presented was the potential for conflicts of 
+interest, with nothing more. The district court was correct to 
+hold that Anderson did not adequately plead a claim of 
+breach of the duty of loyalty. 
+AFFIRMED. 
+
+22 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+BERZON, Circuit Judge, concurring: 
+
+I concur in full in the majority opinion. I write separately 
+to clarify the role of comparisons and circumstantial 
+allegations in duty-of-prudence claims. 
+Comparison is not a pleading requirement for a breach 
+of fiduciary claim. ERISA’s fiduciary provisions do define 
+the legal standard of conduct using comparisons. But the 
+statute does not require pleading an empirical comparator—
+in the form of a “meaningful benchmark” alternative 
+investment or otherwise—to state a claim. There is a crucial 
+difference between (a) comparisons that define the standard 
+of conduct with (b) comparisons that can, but need not, be 
+pleaded to show that the standard has been violated. I 
+address these two different uses of comparisons in ERISA 
+imprudence claims in turn. 
+A. 
+ERISA requires that a fiduciary “discharge” her duties 
+“with the care, skill, prudence, and diligence under the 
+circumstances then prevailing that a prudent man acting in a 
+like capacity and familiar with such matters would use in the 
+conduct of an enterpr ise of a like character and with like 
+aims.” 29 U.S.C. § 1104(a)(1). Duty- of-prudence claims 
+thus require, by definition, a legal comparison between the 
+defendant fiduciary and the hypothetical “prudent man.” 
+Crucially, this invited comparison is not a factual 
+requirement, and so does not require pleading any facts 
+about the “prudent man.” Instead, the comparison is a way 
+of defining the applicable legal standard. The “prudent man” 
+is an imaginary archetype, like the “reasonable person” in 
+negligence law or the “bad man” imagined by Justice 
+Holmes. See Oliver Wendell Holmes, The Path of the Law , 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 23 
+10 Harv. L. Rev. 457 (1897). 1 As the “prudent man” is not 
+real, a plaintiff cannot plead facts that empirically 
+demonstrate how a “prudent man” would have acted. 
+Instead, the “prudent man” personifies the ideal of prudence 
+and emphasizes that perfection is not required; only what is 
+humanly attainable is expected. A plaintiff need only 
+provide evidence from which a factfinder can determine that 
+the investment process did not meet this standard. 
+The upshot is that although ERISA’s standard of prudent 
+conduct is defined by comparison, a plaintiff need not plead 
+facts about a “prudent man”—or his investment decisions—
+to establish a comparator and so show that the comparative 
+legal standard has been violated.
+B. 
+Even though comparative allegations are not required to 
+state an ERISA imprudence claim, they can be useful —
+indeed, they are often the best way for a plaintiff to plead 
+such a claim at the outset of a case. The reason is simple: 
+
+1 In this essay, Holmes distinguishes between morality and law by 
+arguing that even a hypothetical “bad man” who “cares nothing for an 
+ethical rule” will nevertheless want to “avoid being made to pay money, 
+and will want to keep out of jail if he can.” 10 Harv. L. Rev. at 459. 
+2 Labor Department regulations specify that a fiduciary satisfies her duty 
+of prudence if she has “determine[ed] . . . that [a] particular investment 
+or investment course of action is reasonably designed . . . to further the 
+purposes of the plan, taking int o consideration the risk of loss and the 
+opportunity for gain . . . associated with the investment or investment 
+course of action compared to the opportunity for gain . . . associated with 
+reasonably available alternatives with similar risks.” 29 CFR 
+§ 2550.404a-1(b) (emphasis added). This regulation requires the 
+fiduciary to make a comparison and to evaluate the relative costs and 
+benefits of different investments. It does not set forth a pleading 
+requirement for plaintiffs alleging that the fiduciary breached her duty. 
+24 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+ERISA’s duty of prudence is a standard of conduct rather 
+than results. But plaintiffs generally will know only the 
+outcome of a fiduciary’s decisions —which investments 
+were selected, for example, and how those investments 
+performed. They typically will not know details about the 
+process by which these decisions were made—which other 
+options were considered, or how and why cert ain 
+investments were selected over alternatives. “ERISA 
+plaintiffs generally lack the inside information necessary to 
+make out their claims in detail unless and until discovery 
+commences.” Braden v. Wal -Mart Stores, Inc., 588 F.3d 
+585, 598 (8th Cir. 2009). 
+As a result, a plaintiff is not “required to describe directly 
+the ways in which [defendants] breached their fiduciary 
+duties,” Braden, 588 F.3d at 595; “a claim . . . may still 
+survive a motion to dismiss if the court, based on 
+circumstantial factual allegations, may reasonably ‘infer 
+from what is alleged that the process was flawed,’” Pension 
+Ben. Guar. Corp. ex rel. St. Vincent Catholic Med. Ctrs. Ret. 
+Plan v. Morgan Stanley Inv. Mgmt. Inc., 712 F.3d 705, 718 
+(2d Cir. 2013) (alterations omitted) (quoting Braden, 588 
+F.3d at 596). Consequentially, plaintiffs often plead a claim 
+using allegations that do not directly describe the fiduciary’s 
+decision-making process but support the inference that the 
+methods used were unwise.
+
+3 The permission to state a claim with indirect allegations that support an 
+inference of liability is not some special carveout for ERISA imprudence 
+claims. It is an application of Federal Rule of Civil Procedure 8, under 
+which a complaint need only include “factual content that allows the 
+court to draw the reasonable inference that the defendant is liable for the 
+misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 25 
+But of course, as with any other kind of claim, indirect 
+allegations are not the only way to state a claim. The 
+straightforward approach is to plead facts that directly show 
+that the fiduciary’s methods, processes, or objectives were 
+imprudent. For example , if a plaintiff learned that a plan 
+manager chose investments by writing the ticker symbol for 
+each publicly traded U.S. company on a bingo ball and then 
+drawing ten to invest in at random, the plaintiff could almost 
+certainly plead a duty- of-prudence claim attacking this 
+process simply by recounting these facts. A court could 
+determine as a matter of law that no prudent investor would 
+select investments entirely at random. 
+Also, unlike some other rules and statutes, ERISA does 
+not impose a heightened pleading standard for imprudence 
+or any other claims. Cf. Fed. R. Civ. P. 9(b) (particularity 
+standard for allegations of fraud); 15 U.S.C. § 78u- 4(b)(2) 
+(particularity standard for state -of-mind allegations 
+supporting private class action securities claims). So, as with 
+any other claim not required to be pleaded with special 
+particularity, the question is simply whether the plaintiff has 
+adequately pleaded facts, direct or circu mstantial, showing 
+that he is entitled to relief. 
+C. 
+What sort of indirect facts are sufficient to support an 
+inference that a fiduciary breached the duty of prudence? 
+There are a “myriad of circumstances that could violate the 
+[prudent man] standard,” In re Syncor ERISA Litig., 516 
+F.3d 1095, 1102 (9th Cir. 2008), so there is no fixed formula 
+for the facts from which we might infer imprudence, nor is 
+there a specific requirement to plead a particular kind of 
+indirect allegation to support such an inference. As the 
+majority notes, though, bare allegations tha t “costs are too 
+26 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+high, or returns are too low” are not enough to suggest that 
+the investment process was flawed. See Maj. Op. at 12 
+(quoting Matousek v. MidAmerican Energy Co., 51 F.4th 
+274, 278 (8th Cir. 2022)). With these principles in mind, I 
+address several kinds of indirect allegations that can support 
+an inference of imprudence, although the list is of course not 
+exhaustive. 
+I first note that, although many cases in which plaintiffs 
+have pleaded imprudence with indirect facts involve 
+comparative allegations, comparisons are not the only form 
+of indirect allegation that could support a claim. For 
+example, imagine a plaintiff wh o had no idea how a 
+fiduciary selected investments but knew that the fiduciary 
+had allocated a significant portion of the plan’s assets to a 
+new type of security backed entirely by lottery tickets. The 
+inherent risk of that category of investment might be 
+sufficient, even without any details about how the fiduciary 
+selected it or any comparison to other investments or other 
+plans, to support a claim of imprudence—and that would be 
+so even if, against all odds, the plan purchased a winning 
+ticket. 
+A common way of pleading imprudence with indirect 
+allegations is to provide comparisons that support an 
+inference that a fiduciary’s methods were imprudent. One 
+category of comparison is the “meaningful benchmark” 
+comparison, championed by the district court and the 
+majority opinion. This kind of comparison is one between 
+individual investments that were actually available to the 
+fiduciary. The “meaningful benchmark” language originated 
+in Meiners v. Wells Fargo & Co., 898 F.3d 820, 822 (8th Cir. 
+2018). Meiners, in turn, coined the phrase in reference to the 
+Eighth Circuit’s earlier decision in Braden v. Wal -Mart 
+Stores. Id. 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 27 
+Braden involved an ERISA -covered employee 
+retirement plan that allowed individual participants to direct 
+how their assets were invested by selecting from a menu of 
+investment options selected by the plan’s fiduciary. 588 F.3d 
+at 589. The plaintiff alleged that t he plan was large enough 
+that it had the ability to offer as choices on this menu of 
+investment options either retail- class or institutional shares 
+of the same mutual funds. 588 F.3d at 590. Retail shares 
+“charge[d] significantly higher fees than institutional shares 
+for the same return on investment,” and the complaint 
+included “specific allegations about the relative cost of 
+institutional and retail shares in the funds.” Id. at 595 & n.5. 
+Based on the allegation that the plan’s managers chose to 
+make available the higher -cost version of an otherwise 
+identical investment, the Eight Circuit concluded that it was 
+reasonable to infer that the process by which the plan was 
+managed was flawed. Id. at 596; see also Meiners, 898 F.3d 
+at 822. 
+Notably, in Braden, the allegation was not just that 
+“cheaper alternative investments exist in the marketplace.” 
+588 F.3d at 596 n.7. Braden emphasized that such 
+allegations would be insufficient. Id. Instead, Braden alleged 
+that the plan managers had the option to choose between two 
+different classes of shares in the same mutual funds, with the 
+only difference being that one class of shares had higher fees 
+than the other. Id. at 595–96. An investor need not peer into 
+a crystal ball to discern, even at the outset, that selecting the 
+more expensive of the two share classes will lead to lower 
+returns. Because the only difference between the available 
+investments was their varying costs, the allegations in 
+Braden were sufficient to suggest that opting for the more 
+expensive option was imprudent at the time the decision was 
+made, not just in retrospect. Id. at 596. 
+28 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+These kinds of “benchmark” comparisons to individual 
+real-world investment options are useful in “an investment -
+by-investment challenge” —a theory of breach based on a 
+fiduciary’s failure to “remove imprudent investment 
+options” when there exist better spec ific alternatives. Davis 
+v. Wash. Univ. in St. Louis , 960 F.3d 478, 484 (8th Cir. 
+2020). But investment -versus-investment benchmarks are 
+just one way of providing comparative allegations that could 
+show imprudence. 
+A plaintiff might also support an inference of 
+imprudence by providing a plan- level comparison rather 
+than an individual investment -level comparison. For 
+example, in California Ironworkers Field Pension Trust v. 
+Loomis, Sayles & Co., plaintiffs asserted that an investment 
+manager breached ERISA’s duty of prudence in managing 
+an ERISA-covered employee benefit plan that had adopted 
+“conservative investment guidelines,” seeking to “achieve 
+decent returns with minimum market risk.” No. CV964036, 
+1999 WL 1457226 at *3, *6. (C.D. Cal. Mar. 26, 1999). The 
+manager invested nearly a third of the plan’s assets in a form 
+of mortgage-backed security called an “inverse floater.” Id. 
+On appeal, we affirmed the district court’s conclusion that 
+the manager breached the duty of prudence by investing so 
+high a proportion of the plan’s assets in this single form of 
+security, which we noted “could be highly risky.” California 
+Ironworkers Field Pension Tr. v. Loomis Sayles & Co., 259 
+F.3d 1036, 1045 (9th Cir. 2001). 
+In concluding that it was imprudent to allocate nearly a 
+third of the plan’s assets to this one, risky kind of asset, we 
+emphasized (as had the district court) that two other 
+employee benefit plans managed by the same fiduciary had 
+allocated much smaller percentages—less than 10%—to the 
+same risky inverse floaters. 259 F.3d 1036, 1045; 1999 WL 
+ ANDERSON V. INTEL CORP. INV. POLICY COMM. 29 
+1457226 at *3. In other words, we inferred imprudence 
+based in part on a plan- versus-plan comparison rather than 
+an investment-versus-investment comparison. 
+In California Ironworkers, we compared plans managed 
+by the same fiduciary and evaluated their varying allocations 
+to risky assets. But there is no reason this logic could not 
+extend to plans managed by different fiduciaries as well. For 
+example, if a plaintiff showed that a fiduc iary allocated a 
+third of a plan to one kind of risky asset and asserted that 
+several other plans with comparable aims but different 
+managers each allocated much smaller percentages to that 
+same asset, those allegations might similarly support an 
+inference of imprudence. And the inference might be 
+stronger still if the plaintiff analyzed the entire market and 
+alleged that no comparable plan adopted a similar 
+allocation—a plan-versus-aggregate comparison rather than 
+a plan-versus-plan comparison. 
+Either way, though, such a comparison operates 
+somewhat differently than an investment benchmark 
+comparison. A benchmark investment comparison between 
+two otherwise-identical investments that differ on only one 
+characteristic, like fee amount, can suggest that the fiduciary 
+who selected the worse of the two options acted imprudently. 
+A plan -by-plan or aggregate comparison, by contrast, can 
+suggest imprudence by demonstrating that the fiduciary’s 
+actions were an outlier. Deviation alone may not be enough 
+to suggest imprudence, but coupled with some reason why 
+the fiduciary should have known at the time the decision was 
+made that the aberrant allocation or investment decision 
+would be imprudent, divergence could suggest that the 
+fiduciary’s conduct fell short of the prudent person standard. 
+Thus, in California Ironworkers , we looked not only to the 
+fact that the one plan’s allocation to risky inverse floaters far 
+30 ANDERSON V. INTEL CORP. INV. POLICY COMM. 
+exceeded two similar plans’ allocations, but also to the non-
+comparative facts “that inverse floaters could be highly risky 
+investments” and “that the [plan] had very conservative 
+investment guidelines.” 259 F.3d at 1045. 
+The foregoing discussion is not exhaustive. My point, 
+instead, is that any set of allegations which, taken as true and 
+viewed in the plaintiff’s favor, plausibly support an 
+inference that a fiduciary acted imprudently is sufficient at 
+the pleading stage. The ultimate question, absent direct 
+allegations about the fiduciary’s investment methods, is not 
+how other plans were managed or what other investments 
+were available, but whether the facts alleged —comparative 
+or not—lead to the plausible inference that the actual process 
+used by the defendant fiduciary was flawed. 
+* * * 
+With appropriate evidence, Anderson could state a claim 
+by pleading a true benchmark comparison, by providing 
+other circumstantial allegations that plausibly suggested 
+imprudence, or by directly showing that the specific 
+investments the Intel fiduciaries s elected or the general 
+methodologies they used were imprudent. But I agree with 
+the majority opinion’s conclusion that Anderson has failed 
+to plead facts that support his claim either directly or 
+inferentially, and so concur in full in the majority opinion.

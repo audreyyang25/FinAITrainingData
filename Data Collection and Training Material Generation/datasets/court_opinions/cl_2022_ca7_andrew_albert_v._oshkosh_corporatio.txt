@@ -1,0 +1,944 @@
+In the 
+United States Court of Appeals 
+For the Seventh Circuit 
+____________________ 
+No. 21‐2789 
+ANDREW ALBERT, 
+Plaintiff‐Appellant, 
+v. 
+OSHKOSH CORPORATION, et al., 
+Defendants‐Appellees. 
+____________________ 
+Appeal from the United States District Court for the 
+Eastern District of Wisconsin. 
+No. 1:20‐cv‐00901 —  William C. Griesbach, Judge. 
+____________________ 
+ARGUED JUNE 2, 2022 —  DECIDED AUGUST 29, 2022 
+____________________ 
+Before EASTERBROOK, ST. EVE, and JACKSON‐AKIWUMI, 
+Circuit Judges. 
+ST. EVE, Circuit Judge. Andrew Albert claims that his for‐
+mer employer, a subsidiary of Oshkosh Corporation, violated 
+the Employee Retirement Income Security Act by mismanag‐
+ing its retirement plan. Albert alleges, among other things, 
+that Defendants breached their fiduciary duties by authoriz‐
+ing the Plan to pay unreasonably high fees for recordkeeping 
+and administration, failing to ad
+equately review the Plan’s 
+2  No. 21‐2789 
+investment portfolio to ensure that each investment option 
+was prudent, and unreasonably maintaining investment ad‐
+visors and consultants for the Plan despite the availability of 
+similar service providers with lower costs or better perfor‐
+mance histories. 
+The district court granted Defendants’ motion to dismiss 
+the  complaint  and  denied  Albert’s  motion  to  reconsider. 
+While this appeal was pending, th
+e Supreme Court issued its 
+opinion in Hughes v. Northwestern University, 142 S. Ct. 737 
+(2022), vacating our decision in Divane v. Northwestern Univer‐
+sity, 953 F.3d 980 (7th Cir. 2020), and remanding for reevalua‐
+tion of the operative complaint. Th e district court cited Divane 
+repeatedly in its opinion, albeit not for the proposition that 
+the Supreme Court rejected in Hughes. As explained below, 
+we affirm the dismissal of all claims for failure to state a claim. 
+I. Background 
+A. Statutory Context 
+The Employee Retirement Income Security Act of 1974 
+(“ERISA”), 29 U.S.C. § 1001 et seq., provides a variety of rem‐
+edies to en
+sure that employees receive benefits they earned 
+through employer‐provided benefit plans. Id. § 1132. Of rele‐
+vance  here,  ERISA  provides  a  private  right  of  action  for 
+breach of a fiduciary duty. Id. § 1132(a)(2). Plan participants 
+and beneficiaries may seek monetary relief from a plan fidu‐
+ciary for failing to pr
+operly oversee a benefits plan. Id. § 1109; 
+see also id. § 1002(7), (8), (21). The duty of prudence requires a 
+plan fiduciary to discharge its duties “with the care, skill, pru‐
+dence, and diligence un der the circumstances then prevailing 
+that a prudent man acting in a like capacity and familiar with 
+such matters would use ....” Id. § 1104(a)(1)(B). The duty of 
+No. 21‐2789  3 
+loyalty requires a plan fiduciary to “discharge his duties with 
+respect to a plan solely in the interest of the participants and 
+beneficiaries.” Id. § 1104(a)(1). 
+In a defined contribution plan like Albert’s, “participants’ 
+retirement benefits are limited to the value of their own indi‐
+vidual investment accounts, which is deter mined by the mar‐
+ket performance of employee and employer contributions, 
+less expenses.” Tibble v. Edison Int’l, 575 U.S. 523, 525 (2015); 
+see 29 U.S.C. § 1002(34).1 Defined contribution plans often pay 
+a variety of fees in exchange for services that third parties per‐
+form.2 Investment‐management fees, for example, compen‐
+sate a fund, such as a mutual fund or index fund, for design‐
+ing and maintaining the fund’s investment portfolio. Typi‐
+cally, investment‐management fees are calculated as a per‐
+centage of the money a plan participant invests in a particular 
+fund, which is known as an expense ratio. “Expense ratios 
+tend to be higher for funds that are actively managed accord‐
+ing to the funds’ investment strategies, and lower for funds 
+that passively track the makeup of a standardized index, such 
+as the S&P 500.” Hughes, 142 S. Ct
+. at 740. Recordkeeping fees 
+compensate recordkeepers who “track the balances of indi‐
+vidual accounts, provi
+de regular account statements, and of‐
+fer informational and accessibility services to participants.” 
+
+1 By contrast, in a defined benefit plan, “retirees receive a fixed pay‐
+ment each month, and the payments do not fluctuate with the value of the 
+plan or because of the plan fiduciaries’ good or bad investment decisions.” 
+Thole v. U. S. Bank N.A, 140 S. Ct. 1615, 1618 (2020); see 29 U. S.C.  § 1002(35). 
+2 Our sister circuit has observed, “just as compounding can dramati‐
+cally increase the value of a mutual‐fund investment over time, so the 
+costs of that investment can dramatically eat into that investment over 
+time.” Smith v. CommonSpirit Health, 37 F.4th 1160, 1163 (6th Cir. 2022). 
+4  No. 21‐2789 
+Id. Recordkeeping fees are assessed either as a flat fee per par‐
+ticipant or via an expense ratio. 
+Sometimes, a portion of the investment‐management fees 
+collected through an expense ratio goes to the recordkeeper. 
+This is known as “revenue sharing.” We have explained that 
+“expense ratios and revenue‐sh aring payments [generally] 
+move in tandem: the higher a given share class’s expense ra‐
+tio, the more the fund pays [the recordkeeper] in revenue 
+sharing.” Leimkuehler v. Am. United Life Ins. Co., 713 F.3d 905, 
+909 (7th Cir. 2013). A “share class” refers to groups of inves‐
+tors who invest in the same investment option. A “retail” 
+share class pays the same fees as the general public, while an 
+“institutio
+nal” share class pays a discounted rate. 
+In Hughes, the Supreme Court vacated our decision in Di‐
+vane, which dismissed an ERISA complaint alleging misman‐
+agement of a defined contribution plan for failure to state a 
+claim. The plaintiffs alleged, amo
+ng other things, that the plan 
+sponsor “breached its fiduciary duties by providing invest‐
+ment options that were too numerous, too expensive, or un‐
+derperforming.” Divane, 953 F.3d at 991. We held that this 
+claim failed as a matter of law becau se the inclusion of low‐
+cost investment options in the plan mitigated concerns that 
+other investment options were imprudent. Id. (“[The availa‐
+bility of] the types of funds plaintiffs wanted ... eliminat[ed] 
+any claim that plan participants were forced to stomach an 
+unappetizing menu.”). The Supreme Court rejected this por‐
+tion of our analysis because “[
+s]uch a categorical rule is incon‐
+sistent with the context‐specific inquiry that ERISA requires 
+and fails to take into account respondents’ duty to monitor all 
+plan investments and remove any imprudent ones.” Hughes, 
+142 S. Ct. at 740 (citing Tibble, 575 U.S. at 530). In Tibble, the 
+No. 21‐2789  5 
+Court similarly explained that “[a] plaintiff may allege that a 
+fiduciary  breached  the  duty  of  prudence  by  failing  to 
+properly monitor investments and remove imprudent ones.” 
+Tibble, 575 U.S. at 530. That is so even when participants 
+choose their own investments in a defined contribution plan. 
+Id. at 529–30. 
+These principles mea
+nt that the categorical rule we ap‐
+plied in Divane was improper. Hughes, 142 S. Ct. at 742. The 
+Court therefore vacated and remanded for us to reconsider 
+whether the plaintiffs had plausibly alleged a violation of the 
+duty  of  prudence  in  light  of  Tibble,  Bell  Atlantic  Co rp.  v. 
+Twombly, 550 U.S. 544 (2007), and Ashcroft v. Iqbal, 556 U.S. 662 
+(2009). The Court noted, however, that “the circumstances 
+facing an ERISA fiduciary will implicate difficult tradeoffs, 
+and courts must give due regard to the range of reasonable 
+judgments a fiduciary may make based on her experience and 
+expertise.” Hughes, 142 S. Ct. at 742. The case is still pe
+nding 
+before this court on remand. 
+Several of the questions presented in this appeal concern 
+the ramifications of Hughes. According to Defendants, Hughes 
+“did not radically reinvent this area of law or upend years of 
+precedent”; it simply reinforced that “ERIS
+A does not allow 
+the soundness of investments A, B, and C to excuse the un‐
+soundness of investments D, E, and F.” Plaintiff, meanwhile, 
+contends that Hughes renders reliance on any aspect of Divane 
+improper. 
+B. Facts 
+Andrew Albert worked for a subsidiary of Oshkosh Co r‐
+poration from January 2018 to April 2020. Oshkosh Corpora‐
+tion  is  a  company  based  in  Oshkosh,  Wisconsin  that 
+6  No. 21‐2789 
+manufactures specialty vehicles and trucks. Oshkosh Corpo‐
+ration is the plan sponsor of the Oshkosh Corporation and Af‐
+filiates Tax Deferred Investment Plan (“the Plan”). The plan 
+administrator is the Administrative Committee, which over‐
+sees the day‐to‐day administration and operation of the Plan. 
+Oshkosh selected Fidelity Manag ement Trust Company (“Fi‐
+delity”) as the Plan’s recordkeeper and Strategic Advisors, 
+Inc. (“SAI”) as the Plan’s investment advisor. SAI is a subsid‐
+iary of Fidelity, but neither SAI nor Fidelity are defendants 
+here. According to Albert, the Plan has about $1.1 billion in 
+assets and over 12,000 participants. 
+Albert filed this suit individually and as a representative 
+of a putativ
+e class of Plan participants and beneficiaries. As a 
+former  employee,  he  participated  in  the  Plan,  but  the 
+amended complaint does not specify which investment op‐
+tions he holds in his individual account. The main thrust of 
+his  complaint  is  tha t   Oshkosh  Corporation,  the  Oshkosh 
+Board of Directors, the Plan’s Administrative Committee, and 
+unknown officers and employees (collectively, “Oshkosh”) 
+breached their fiduciary duties under ERISA from June 15, 
+2014, through the date of judgment. At least twenty‐nine of 
+the Plan’s investment options charge excessive fees because 
+Oshkosh allegedly failed to engage in a prudent decision‐
+making process. 
+Albert brings nine counts against Oshkosh, which can be 
+sorted into three buc
+kets: recordkeeping fees (Count I), in‐
+vestment‐management fees (Count II), and ancillary claims 
+(Count III to IX). Count III alleges that Oshkosh breached its 
+fiduciary duty by paying too much to SAI in the form of in‐
+vestment‐adv
+isor fees. While Counts I to III allege breaches of 
+the duties of prudence and loyalty, only Count III is arguably 
+No. 21‐2789  7 
+relevant to a breach of the duty of loyalty, as explained below. 
+Counts IV to VI mirror Counts I to III but allege that Oshkosh 
+failed to monitor other fiduciaries with respect to the Plan’s 
+fees. Counts VII to IX allege that payment of each category of 
+fees am
+ounted to a prohibited transaction in violation of 29 
+U.S.C. § 1106(a)(1)(C). Albert also alleges that Oshkosh failed 
+to properly disclose these fees, but this claim is not tied to a 
+specific count. 
+C. Procedural History 
+On September 2, 2021, the district court granted Oshkosh’s 
+motion to dismiss the complaint. At no poin t did the court 
+rely on the categorical rule the Supreme Court rejected in 
+Hughes. First, the district court dismissed Count I (breach of 
+fiduciary duty for excessive recordkeeping fees) because Al‐
+bert’s allegations—that  nine purportedly comparable plans 
+paid less for recordkeeping—did  not plausibly “suggest[] that 
+the fee charged by Fidelity [was] exce ssive in relation to the 
+services provided.” Albert v. Oshkosh Corp., No. 20‐C‐901, 2021 
+WL 3932029, at *5 (E.D. Wis. Sept. 2, 2021). The district court 
+dismissed Count II (breach of fiduciary duty for excessive in‐
+vestment‐management fees), which it divided into two cate‐
+gories: share‐class allegations and hig
+h‐cost fund allegations. 
+As to the first category, “Plaintiff’s preference for different 
+share classes of certain investments is not enough to state a 
+plausible claim for breach of fiduciary duty.” Id. at *6. The dis‐
+trict court noted that the Seventh Circuit “has not addressed 
+imprudence based on a net investment expense to retirement 
+plans th
+eory,” but this lack of guidance was “primarily be‐
+cause it is a novel concept created by Plaintiff.” Id. As to the 
+second category, “[t]he fact that the Plan offered certain ac‐
+tively managed options does not establish that Defendants 
+8  No. 21‐2789 
+acted imprudently.” Id. at *7. Count III (breach of fiduciary 
+duty for excessive investment‐advisor fees) failed to state a 
+claim because Albert “does not allege that a lower‐cost alter‐
+native would provide comparable services.” Id. at *7. 
+Counts I to III also failed to state duty of loyalty claims 
+becaus
+e plaintiffs “must do more than recast allegations of 
+purported breaches of fiduciary duty as disloyal acts.” Id. at 
+*7. Counts IV to VI (breach of the duty to monitor) failed be‐
+cause they were derivative of Albert’s fiduciary duty claims. 
+Id. Counts VII to IX (prohibited transactions) failed be cause 
+they were based on circular reasoning—that  “an entity which 
+becomes a party in interest by providing services to the Plan[] 
+has engaged in a prohibited transaction simply because the 
+Plan[] [has] paid for those services.” Id. at *8 (quoting Sacer‐
+dote v. N.Y. Univ., No. 16‐cv‐6284, 2017 WL 3701482, at *13 
+(S.D.N.Y. Aug. 25, 2017)). Finally, Albert failed to state a claim 
+for failure to disclose because fiduciaries need not disclose de‐
+tailed information about revenue sharing. Id. at *7 (citing 
+Hecker v. Deere & Co., 556 F.3d 575, 586 (7th Cir. 2009)). 
+On July 2, 2021, before the entry of final judgment, the Su‐
+preme Court granted certiorari in Hughes. On Septem
+ber 30, 
+2021, Albert filed a Rule 59(e) motion to vacate the judgment 
+and stay proceedings pending a decision in Hughes. The dis‐
+trict court denied the motion, in large part because Alb ert did 
+not seek a stay until after the entry of final judgment. Albert 
+timely appealed. 
+II. Discussion 
+This court reviews de novo the district court’s dismissal of 
+the amended complaint for failure to state a claim. Larson v. 
+United Healthcare Ins. Co., 723 F.3d 905, 910 (7th Cir. 2013). In 
+No. 21‐2789  9 
+putative ERISA class actions, Rule 12(b)(6) motions are an 
+“important mechanism for weeding out meritless claims.” 
+Fifth Third Bancorp v. Dudenhoeffer, 573 U.S. 409, 425 (2014) (cit‐
+ing Iqbal, 556 U.S. at 677–680; Twombly, 550 U.S. at 554–563). 
+Courts apply a “careful, context‐sensitive scrutiny of a com‐
+plaint’s all
+egations” to “divide the plausible sheep from the 
+meritless goats.” Dudenhoeffer, 573 U.S. at 425. Because “the 
+circumstances facing an ERISA fiduciary will implicate diffi‐
+cult tradeoffs, [] courts must give due regard to the range of 
+reasonable judgments a fiduciary may make based on her ex‐
+perience and expertise.” Hughes, 142 S. Ct. at 742. We ma
+y “af‐
+firm on any ground that the record supports and that appellee 
+has not waived.” Larson, 723 F.3d at 917. 
+A. Standing 
+Before turning to the merits, we have “an independent ob‐
+ligation to assure that standing exists.” Pavlock v. Holco mb, 35 
+F.4th 581, 588 (7th Cir. 2022) (quoting Summers v. Earth Island 
+Inst., 555 U.S. 488, 499 (2009)). Article III limits federal courts’ 
+jurisdiction to “cases” and “controversies.” U.S. Const. art. III, 
+§ 2. The “irreducible constitutional minimum” of standing re‐
+quires that the plaintiff has “(1) suffered an injury in fact, 
+(2) that is fairly traceable to the challenged co
+nduct of the de‐
+fendant, and (3) that is likely to be redressed by a favorable 
+judicial decision.” Spokeo, Inc. v. Robins, 578 U.S. 330, 338 
+(2016). In TransUnion LLC v. Ramirez, 141 S. Ct. 2190 (2021), 
+the Supreme Court reiterated that “standing is no
+t dispensed 
+in gross; rather, plaintiffs must demonstrate standing for each 
+claim that they press and for each form of relief that they 
+seek.” Id. at 2208. 
+Oshkosh argues that Albert lacks standing to bring ERISA 
+claims challenging investment options he never held in his 
+10  No. 21‐2789 
+own investment account. In doing so, Oshkosh raises a factual 
+challenge to standing. Apex Digital, Inc. v. Sears, Roebuck & Co., 
+572 F.3d 440, 444 (7th Cir. 2009). (“[A] factual challenge lies 
+where the complaint is formally sufficient but the contention 
+is that there is in fact no subje ct matter jurisdiction.”) (internal 
+quotation marks omitted). When considering a factual chal‐
+lenge to jurisdiction, courts “may properly look beyond the 
+jurisdictional allegations of the complaint and view whatever 
+evidence  has  been  submitted  on  the  issue  to  determine 
+whether in fact subject matter jurisdiction exists.” Id. (internal 
+quotation marks omitted). 
+There is no serious dispute that Albert has standing with 
+respect to the following claims, which seemingly affect all 
+participants in th
+e Plan: excessive recordkeeping fees, exces‐
+sive investment‐advisor fees, breach of the duty of loyalty, 
+failure to monitor, prohibited transactions, and breach of the 
+duty to disclose. See Boley v. Un iversal Health Servs., Inc., 36 
+F.4th 124, 131–33 (3d Cir. 2022) (holding that plaintiffs had 
+standing for recordkeeping, investment‐selection, and fail‐
+ure‐to‐monitor claims because a common course of conduct 
+affected all plan participants).3 Instead, Oshkosh objects to Al‐
+bert’s standing with respect to funds not in his own invest‐
+ment account. We agree that Albert’s claim for excessive in‐
+vestment‐management fees is more complicated because each 
+
+3 In Boley, plan participants alleged three breaches of fiduciary duty, 
+two of which echo Albert’s complaint: (1) failing to monitor and reduce 
+excessive recordkeeping fees; and (2) failing to use a “prudent investment 
+evaluation process,” resulting in a needlessly expensive menu of invest‐
+ment options. Id. at 131. The plaintiffs’ thi rd theory, offering a needlessly 
+expensive suite of funds (the Fidelity Freedom Funds), does not align 
+closely with Albert’s complaint. 
+No. 21‐2789  11 
+investment option charges a different expense ratio. If Albert 
+did not personally invest in a fund with an imprudent ex‐
+pense ratio, then it is difficult to see how he suffered an injury 
+in fact. Similarly, if Albert invested solely in passively man‐
+aged index funds, then excessive fees for the Plan’s ac tively 
+managed funds would not harm him.4 
+The amended complaint does not specify which invest‐
+ment options Albert actually holds, but an uncontested decla‐
+ration from an Oshkosh benefits analyst makes clear that he 
+invested in at least some actively managed funds.5 That is suf‐
+ficient at this juncture to conclude Albert has standing for his 
+investment‐management fee claims. See Boley, 36 F.4th at 133 
+(recognizing that defendants’ “concerns regarding the repre‐
+sentation of absent class members might implicate class certi‐
+fication or damages but are distinct from the requirements of 
+Article III”)
+. To be sure, the existence of standing at the plead‐
+ing stage does not absolve ERISA plaintiffs of their continuing 
+obligation to “maintain their personal interest in the dispute 
+
+4 The Supreme Court’s decision in Thole does not shed much light on 
+standing for participants in defined contribution plans. Thole held that 
+participants in a defined benefit plan lacked standing to pursue claims for 
+breach of fiduciary duty because retirees enrolled in such plans receive a 
+fixed amount of money per month, no ma tter how the plan itself is man‐
+aged. 140 S. Ct. at 1619. The Court explained that the difference between 
+defined contribution plans and defined benefit plans was of “decisive im‐
+portance” to the Article III analysis. Id. at 1618; see also Ortiz v. Am. Airlines, 
+Inc., 5 F. 4th  622, 629 n.9 (5th Cir. 2021) (declining to extend Thole to defined 
+contribution plans). 
+5 According to the declaration, Albert invested in thirteen of the Plan’s 
+investment options. Twelve of those thirteen investment options appear 
+in the amended complaint. Based on the expense ratios alleged in the com‐
+plaint, eleven of those funds are actively managed. 
+12  No. 21‐2789 
+at all stages of litigation.” TransUnion, 141 S. Ct. at 2208. Infor‐
+mation revealed during discovery could very well change the 
+standing analysis. Furthermore, “there may be some situa‐
+tions where typicality for an ERISA class would not be satis‐
+fied unless the class representative invested in each of the 
+challenged funds.” Boley, 36 F.4th at 136. 
+B. Duty of Prudence Claims 
+29 U.S.C. § 1104(a)(1)(B) requires plan fiduciaries to act 
+prudently when managing an emp
+loyee benefit plan. That be‐
+ing said, “ERISA does not require fiduciaries of an [individual 
+account plan] to act as personal investment advisers to pla n 
+participants.” White v. Marshall & Ilsley Corp., 714 F.3d 980, 994 
+(7th Cir. 2013), abrogated on other grounds by Dudenhoeffer, 573 
+U.S. 409. And “the ultimate outcome of an investment is not 
+proof of imprudence.” Divane, 953 F.3d at 992, vacated and re‐
+manded on other groun ds  sub nom. Hughes, 142 S. Ct. 737 (quot‐
+ing DeBruyne v. Equitable Life Assurance Soc’y of the U.S., 920 
+F.2d 457, 465 (7th Cir. 1990)). 
+To state a breach of the duty of prudence under ERISA, a 
+plaintiff must plead “(1) that the defendant is a plan fiduciary; 
+(2) that the defendant breached its fiduciary duty; and (3) that 
+the breach resulted in harm to the plaintiff.” Allen v. GreatBanc 
+Tr. Co., 835 F.3d 670, 678 (7th Cir. 2016). Oshkosh does no
+t 
+dispute that the named Defendants are plan fiduciaries under 
+29 U.S.C. § 1002(21) or that higher fees may ha ve harmed plan 
+participants in some sense. Instead, Oshkosh argues that there 
+was no breach because the allegations, taken as true, do not 
+show that it acted imprudently. 
+No. 21‐2789  13 
+1. Recordkeeping Fees (Count I) 
+Albert’s first duty of prudence claim is that the Plan paid 
+Fidelity excessive recordkeeping fees by “fail[ing] to regu‐
+larly solicit quotes and/or competitive bids.” For support, Al‐
+bert compares publicly available data for the Plan with nine 
+other plans that are supposedly prudent when it comes to 
+recordkeeping fees. (ERISA and th
+e Internal Revenue Code 
+require the annual submission of Form 5500s for employee 
+benefit plans.) These comparator plans have similar numbers 
+of participants (between around 10,000 and 16,000) and total 
+assets (between $355 million and $2.1 billion) as the Plan. Be‐
+tween 2014 and 2018, the comparator plans paid an av
+erage 
+annual recordkeeping fee of $32 to $45 per plan participant. 
+By contrast, during the same period, the Oshkosh Plan paid 
+an average annual recordkeeping fee of $87 per participant. 
+Based on this data, Albert argues that “a prudent Plan Fidu‐
+ciary would have paid on average an effect
+ive annual [record‐
+keeping] fee of around $40 per participant, if not lower.” 
+Oshkosh responds that the amended complaint is devoid 
+of allegations as to the quality or type of recordkeeping ser‐
+vices the comparator plans provided. This court has repeat‐
+edly emphasized that the cheapest investment option is not 
+necessarily  the  one  a  prudent  fiduciary  would  select
+.  See 
+Loomis v. Exelon Corp., 658 F.3d 667, 670 (7th Cir. 2011) (noting 
+that “nothing in ERISA requires every fiduciary to scour the 
+market to find and offer the cheapest possible fund (which 
+might, of course, be p lagued by other problems)”) (quoting 
+Hecker, 556 F.3d at 586). Defendants argue the same logic ap‐
+plies to recordkeeping fees, meaning that Albert cannot pro‐
+ceed to discovery solely on the basis that the Plan paid higher 
+14  No. 21‐2789 
+recordkeeping fees than a potentially random assortment of 
+nine other plans from around the country. 
+In Divane, we rejected the notion that a failure to regularly 
+solicit  quotes  or  competitive  bids  from  service  providers 
+breaches the duty of prudence. See Divane, 953 F.3d at 990–91 
+(holding th at  defendant “was not required to search for a 
+recordkeeper willing to take $35 per year per participant as 
+plaintiffs would have liked” (citing Hecker, 556 F.3d at 586)), 
+vacated on other grounds by Hughes, 142 S. Ct. 737. The parties 
+dispute whether the line of cases we relied upon in Divane—
+namely, He
+cker and Loomis—are  also under a cloud of suspi‐
+cion post‐Hughes. 
+Albert overstates the significance of Hughes on this point. 
+Hughes did not hold that fiduciaries are required to regularly 
+solicit bids from service providers. Nor did it suggest that the 
+reasoning in Hecker and Loomis no longer stands.6 Hughes 
+merely rejected this court’s assumption that the availability of 
+a mix of high‐cost and low‐cost investment options in a plan 
+insulated fiduciaries from liability. Hughes, 142 S. Ct. at 742 
+(“The Seventh Circuit erred in relying on the participants’ ul‐
+timate choice over their investments to excuse allegedly im‐
+prudent decisions by respondents.”); see also Dean v. Nat
+’l 
+Prod. Workers Union Severance Tr. Plan, ___ F.4th ___, No. 21‐
+
+6 The Sixth Circuit distinguished Hecker and Loomis with respect to a 
+claim Albert does not raise here: that plan fiduciaries should have offered 
+institutional share classes instead of retail share classes of certain invest‐
+ment options. Forman v. TriHealth, Inc., 40 F.4th 443, 452 (6th Cir. 2022) 
+(noting that Hughes “rejec ted  a bright line rule, derived from Hecker and 
+Loomis, that a broad menu of funds could itself defeat an imprudence 
+claim premised on one particular offering that performed poorly or had 
+high fees”). 
+No. 21‐2789  15 
+1872, 2022 WL 3355075, at *7 n.4 (7th Cir. Aug. 15, 2022). Alt‐
+hough Hughes is still pending on remand in this court, the 
+Sixth Circuit recently held that an ERISA plaintiff failed to 
+state a duty of prudence claim where the complaint “failed to 
+allege that the [recordkeeping] fees were excessive relative to 
+the services rendered.” Smith v. CommonSpirit Hea
+lth, 37 F.4th 
+1160, 1169 (6th Cir. 2022) (internal quotation marks omitted). 
+The Smith court did not consider Hughes to have any bearing 
+on the analysis of such claims, and neither do we. See also For‐
+man v. TriHealth, Inc., 40 F.4th 443, 449 (6t h Cir. 2022) (con‐
+cluding plaintiffs failed to state a claim as to “overall plan 
+fees” where “the employees never alleged that these fees were 
+high in relation to the services that the plan provided”). 
+Although the district court repeatedly cited Divane in its 
+discussion of Albert’s recordkeeping claim, we affir
+m the dis‐
+missal of Count I. That claim fails under our precedent that 
+Hughes  left  untouched.  In  so  holding,  we  emphasize  that 
+recordkeeping claims in a future case could survive the “con‐
+text‐sensitive scrutiny of a complaint’s allegations” courts 
+perform on a motion to dismiss. Dudenhoeffe r, 573 U.S. at 425. 
+Albert’s complaint simply does not provide “the kind of con‐
+text that could move this claim from possibility to plausibil‐
+ity” under Twombly and Iqbal. Smith, 37 F.4th at 1169. 
+2. Investment‐Management Fees (Count II) 
+Next, Albert alleges that Oshkosh breached its duty of 
+prudence by paying unreasonably hig
+h fees to Fidelity for in‐
+vestment management. Recall that the Plan selected Fidelity 
+as both its recordkeeper and its investment‐management pro‐
+vider. As the Plan’s recordkeeper, Fidelity received direct and 
+indirect compensation. Indirect compensation refers to reve‐
+nue‐sharing arrangements in which some of the money raised 
+16  No. 21‐2789 
+via expense ratios for investment‐management fees is shared 
+with the recordkeeper. If the recordkeeper does not use all of 
+the fees it collects through expense ratios, some of that money 
+can be returned to participants’ individual investment ac‐
+counts. 
+As with his recordkeeping claims, Albert compares the in‐
+vestment‐manageme
+nt fees that the Plan paid to the fees that 
+nine allegedly comparable and prudent plans paid. Albert 
+claims that the key indication of whether investment fees are 
+prudent is the “Net Investment Expense to Retirement Plans.” 
+Albert defines this concept as “the share class that gives plan 
+participants access to portfolio managers at the lowest net fee 
+for the services of the portfolio m
+anager.” Under this theory, 
+“[w]hen two identical service options are readily available ... 
+a prudent Plan Fiduciary ensures that the least expensive of 
+those options is selected.” Albert further alleges that if Osh‐
+kosh had ch osen  investment options that Albert believes are 
+prudent alternatives, “the Plan’s Participants would have [] 
+received virtually identical portfolio management services at 
+a lower cost.” 
+The problem is that the Form 5500 on which Albert relies 
+does not require plans to disclose precisely where money 
+from revenue sharing goes. Some revenue sharing proceed s 
+go to the recordkeeper in the form of profits, and some go 
+back to the investor, but there is not necessarily a one‐to‐one 
+correlation such that revenue sharing always redounds to in‐
+vestors’ benefit. Albert’s “net investment expense to retire‐
+ment plans theory” assumes that there is such a correlation; if 
+that assumption is wrong, then si
+mply subtracting revenue 
+sharing from the investment‐management expense ratio does 
+No. 21‐2789  17 
+not equal the net fee that plan participants actually pay for 
+investment management. 
+Complicating matters further, Count II encompasses two 
+different duty of prudence theories. First, Albert claims that 
+the Plan should have offered higher‐cost share classes of cer‐
+tain mutual funds because the “net expense” of those funds 
+would be l
+ower in light of revenue sharing. This is the inverse 
+of what ERISA plaintiffs typically argue—that  a plan should 
+have offered cheaper institutional share classes instead of 
+more expensive retail share classes. Second, Albert claims that 
+the Plan should not offer certain actively managed funds be‐
+cause those funds are more expensive than passively man‐
+aged funds. 
+a. Net‐Expense Theory 
+We agree with Oshkosh that the amended complaint does 
+not allege sufficient fa
+cts to make this novel theory plausible. 
+We have not found, and Albert does not cite, any court deci‐
+sions crediting this theory. While a prudent fiduciary might 
+consider such a metric
+, no court has said that ERISA requires 
+a fiduciary to choose investment options on this basis. Cf. 
+Loomis, 658 F.3d at 670 (“[N]othing in ERISA requires every 
+fiduciary to scour the market to find and offer the cheapest 
+possible fund (which might, of cou rse, be plagued by other 
+problems).”) (quoting Hecker, 556 F.3d at 586). We see no rea‐
+son to impose such a requirement here. See Hughes, 142 S. Ct. 
+at 742 (“[T]he circumstances facing an ERISA fiduciary will 
+implicate difficult tradeoffs, and courts must give due regard 
+to the range of reasonable judgments a fiduciary may make 
+based on her experience and expertise.”). 
+18  No. 21‐2789 
+b. Actively Managed Funds Theory 
+Albert’s second theory is more common: that some of the 
+Plan’s actively managed funds were too expensive. The fact 
+that actively managed funds charge higher fees than pas‐
+sively managed funds is ordinarily not enough to state a claim 
+because  such  funds  may  also  provide  hi gher  returns.  See 
+Smith, 37 F.4th at 1165 (“We know of no case that says a plan 
+fiduciary violates its duty of prudence by offering actively 
+managed funds to its employees as opposed to offering only 
+passively managed funds.”); Davis v. Washington Univ. in St. 
+Louis, 960 F.3d 478, 484 (8th Cir. 2020) (“[A] complaint ca nnot 
+simply make a bare allegation that costs are too high, or re‐
+turns are too low. ... Rather, it ‘must provide a sound basis for 
+comparison—a  meaningful benchmark.’”) (quoting Meiners v. 
+Wells Fargo & Co., 898 F.3d 820, 822 (8th Cir. 2018)). 
+Once again, the Sixth Circuit’s de
+cision in Smith reinforces 
+that Hughes does not require a radically different approach to 
+claims alleging excessive investment‐management fees. The 
+Smith court held that an ERISA plaintiff failed to state a duty 
+of prudence claim where the plan merely “offer[ed] actively 
+managed funds in its mix of inv estment options.” Smith, 37 
+F.4th at 1165. In fact, “denying employees the option of ac‐
+tively managed funds, especially for those eager to undertake 
+more or less risk, [could] itself be imprudent.” Id. Albert’s al‐
+legations are similarly threadbare: that “Defendants failed to 
+consider materially similar and less expensive alternatives to 
+the Plan’s investment options.” In th
+e absence of more de‐
+tailed allegations providing a “sound basis for comparison,” 
+Meiners, 898 F.3d at 822, we affirm the dismissal of Count II 
+under this theory as well. 
+No. 21‐2789  19 
+3. Investment‐Advisor Fees (Count III) 
+Albert alleges that the fees the Plan paid to SAI (alternately 
+called “service provider fees” or “investment‐advisor fees”) 
+were excessive and therefore imprudent. According to Albert, 
+“the fee rate paid to SAI was over 50 basis points for services 
+that add no additional value compared to other alternative 
+services available to plan participants.” SAI’s service
+s “pro‐
+vided virtually no value to some Participants and a negative 
+value to other Participants compared to other similar services 
+and options available in the Plan, e.g., the Fidelity Freedom 
+Funds.” Other than this brief reference to Fidelity Fre edom 
+Funds, Albert does not explain why the fees SAI charged were 
+excessive and unreasonable in comparison to other service 
+providers. Instead, he alleges upon information and belief 
+that the Plan’s fiduciaries “did not solicit competitive bids 
+from  other  service  providers  similar  to  SAI  or  evaluate 
+whether other service providers could prov ide the same or 
+superior benefits and services ostensibly provided by SAI, at 
+a lower cost to Plan Participants.” 
+This claim is particularly thin because Albert does not pro‐
+vide any basis for comparison between the fees paid to SAI 
+and fees paid to other service providers. See Davis, 960 F.3d at 
+484 (“[A] complaint …  ‘must provide a sound basis for com‐
+parison—a  meaningful benchmark.’”) (q
+uoting Meiners, 898 
+F.3d at 822); Smith, 37 F.4th at 1169 (complaint failed to state 
+a claim in the absence of allegations that “fees were excessive 
+relative to the services rendered”). Without more, Albe rt has 
+failed to state a duty of prudence claim as to the fees the Plan 
+paid to SAI. 
+20  No. 21‐2789 
+C. Duty of Loyalty Claims 
+Counts I, II, and III also purport to encompass breaches of 
+the duty of loyalty. To recap, the duty of loyalty requires a 
+plan fiduciary to “discharge his duties with respect to a plan 
+solely in the interest of the participants and beneficiaries,” 
+with “the exclusive purpose” of “prov
+iding benefits to partic‐
+ipants and their beneficiaries” and “defraying reasonable ex‐
+penses of administering the plan.” 29 U.S.C. § 1104(a)(1)(A). 
+Albert argues that the facts supporting his duty of prudence 
+claims  are  technically  not  identical  to  his  duty  of  loyalty 
+claims; the latter hinge on allegati ons relating to the Plan’s use 
+of SAI, a subsidiary of Fidelity, as the Plan’s investment advi‐
+sor. Nonetheless, because only Count III involves SAI, Al‐
+bert’s duty of loyalty claim is more accurately limited to that 
+count. 
+Albert alleges upon information and belief that “Fidelity 
+urged Defendants to se lect  SAI” as the Plan’s investment ad‐
+visor, thereby enabling “Fidelity to obtain additional revenue 
+from SAI services delivered with a very high profit margin.” 
+Albert again contends that SAI’s services provided little to no 
+value (or even a negative value), and he faults Defendants for 
+failing to solicit bids from other service providers. We agree 
+with Oshkosh that these allegations are insufficient to state a 
+claim for breach of the duty of loyalty. 
+First, it is h
+ard to see why Oshkosh violated its duty of loy‐
+alty when Fidelity encouraged the Plan to use SAI as its in‐
+vestment advisor. Albert does no t allege, for example, that Fi‐
+delity gave Oshkosh kickbacks in exchange for selecting SAI. 
+Cf. Braden v. Wal–Mart Stores, Inc., 588 F.3d 585, 590 (8th Cir. 
+2009) (complaint survived motion to dismiss where plaintiff 
+alleged that “revenue sharing payments were not reasonable 
+No. 21‐2789  21 
+compensation for services rendered by Merrill Lynch, but ra‐
+ther were kickbacks paid by the mutual fund companies in 
+exchange for inclusion of their funds in the Plan”). In other 
+words, there are no allegations that Oshkosh engaged in self‐
+dealing at the expense of the Plan. See Forman, 40 F.4th at 450 
+(plaintiffs failed to state duty of loy
+alty claim where no alle‐
+gations suggested “the fiduciary’s operative motive was to 
+further its own interests”). 
+Second, to the extent that there is anything untoward about 
+a company encouraging a customer to use its subsidiary’s ser‐
+vices, Fidelity is neit her a named defendant nor a fiduciary.7 
+What  matters  is  whether  Oshkosh  discharged  its  duties 
+“solely in the interest of the [Plan’s] participants and benefi‐
+ciaries.” 29 U.S.C. § 1104(a)(1)(A); see also Loomis, 658 F.3d at 
+671 (“Plaintiffs do not contend that the funds that Exelon [the 
+plan administrator] selected had any control over it, or it over 
+them; there is no reason to thi
+nk that Exelon chose these funds 
+to enrich itself at participants’ expense.”); Hecker, 556 F.3d at 
+586 (“As for the allegation that [the plan administrator] im‐
+properly limited the investment options to Fidelity mutual 
+funds, we find no statute or regulation prohibiting a fiduciary 
+from select
+ing funds from one management company.”). 
+Third, Albert has not identified any comparator invest‐
+ment advisors. Without allegations suggesting that the fees 
+SAI  charged  are  unreasonable  in  light  of  available 
+
+7 As explained below, Fidelity and SAI may be “parties in interest” 
+within the meaning of 29 U.S.C. § 1002(14), but that does not mean they 
+owe fiduciary duties to plan participants and beneficiaries. 
+22  No. 21‐2789 
+alternatives, Albert has failed to state a claim for breach of the 
+duty of loyalty.8 
+D. Duty to Monitor Claims 
+Counts IV, V, and VI allege that Oshkosh breached its 
+duty to monitor other fiduciaries with respect to record‐keep‐
+ing fees, investment‐management fees, and service‐provider 
+fees, respectively. Albert concedes that his duty to monitor 
+claims rise or fall with his duty of prudence and duty of loy‐
+alty claims. See, e.g., Rogers v. Baxter Int’l Inc., 710 F. Supp. 2d 
+722, 740 (N.D. Ill. 2010) (noting that “several [district] courts 
+have held th
+at a failure to monitor claim is derivative in na‐
+ture and must be premised [on] an underlying breach of fidu‐
+ciary duty”
+). Because we affirm the dismissal of Albert’s fidu‐
+ciary duty claims, these claims fail as well. 
+E. Prohibited Transaction Claims 
+Counts VII, VIII, and IX allege that Oshkosh engaged in 
+prohibited transactions with Fidelity and SAI by paying ex‐
+cessive fees for Plan services. ERISA expressly prohibits cer‐
+tain kin
+ds of transactions between a plan and a “party in in‐
+terest.” 29 U.S.C. § 1106(a)(1). This provision “supplements 
+the fiduciary’s general duty of loyalty ... by categorically bar‐
+ring certain transactions deemed likely to injure the pension 
+
+8 Albert relies on an out‐of‐circuit district court decision allowing sim‐
+ilar allegations to survive a motion to dismiss. See Henderson v. Emory 
+Univ., 252 F. Supp. 3d 1344, 1356 (N.D. Ga. 2017) (“Whether the Plans’ fi‐
+duciaries intended to benefit TIAA, Fidelity, and Vanguard is an issue that 
+can be b
+etter determined at the motion for summary judgment stage.”). 
+But that language comes from the court’s discussion of the plaintiff’s pro‐
+hibited‐transaction claims. The court’s discussion of the duty of loyalty is 
+cursory (only two sentences) and unpersuasive. See id. at 1357. 
+No. 21‐2789  23 
+plan.” Harris Tr. & Sav. Bank v. Salomon Smith Barney, Inc., 530 
+U.S. 238, 241–42 (2000) (internal quotation marks omitted). 
+The statute provides: 
+A fiduciary with respect to a plan shall not cause the 
+plan to engage in a transaction, if he knows or should 
+know that such transaction consti tutes a direct or indi‐
+rect—  
+(A) sale or exchange, or leasing, of any property be‐
+tween the plan and a party in interest; 
+(B) lending of money or other extension of credit be‐
+tween the plan and a party in interest; 
+(C) furnishing of goods, services, or facilities betw een the 
+plan and a party in interest; 
+(D) transfer to, or use by or for the benefit of a party in 
+interest, of any assets of the plan; or 
+(E) acquisition, on behalf of the plan, of any employer 
+security or employer real property in violation of sec‐
+tion 1107(a) of this titl
+e. 
+29 U.S.C. § 1106(a)(1) (emphasis added). In turn, ERISA de‐
+fines a “party in interest” of an employee benefit plan as: 
+(A) any fiduciary (including, but not limited to, any ad‐
+ministrator, oﬃcer, trustee, or custodian), counsel, or 
+employee of such employee benefit plan; 
+(B) a person providing services to such plan; [or
+] 
+(C) an employer any of whose employees are covered 
+by such plan; 
+... 
+29 U.S.C. § 1002(14) (emphasis added). 
+24  No. 21‐2789 
+Under a literal reading of §§ 1002(14)(B) and 1106(a)(1)(C), 
+ERISA  would  prohibit  payments  by  a  plan  to  an  entity 
+providing services for the plan, such as Fidelity and SAI. Sev‐
+eral courts have declined to read ERISA that way because it 
+would prohibit fiduciaries from paying third parties to per‐
+form essential services in support of a plan. See Sweda v. Univ. 
+of Pa., 923 F.3d 320, 337 (3d Cir. 2019) (“
+Reading § 1106(a)(1) 
+as a per se rule barring all transactions between a plan and 
+party in interest would miss the balance that Congress struck 
+in ERISA, becaus e it would expose fiduciaries to liability for 
+every  transaction  whereby  services  are  rendered  to  the 
+plan.”); Sellers v. Anthem Life Ins. Co., 316 F. Supp. 3d 25, 34 
+(D.D.C. 2018) (“Subsections (A) through (D) [of § 1106(a)(1)] 
+cannot be read to categorically prohibit the very transactions 
+that cause a person to obt ain the status of a party in interest.”); 
+Sacerdote, 2017 WL 3701482, at *13 (“[I]t is circular to suggest 
+that an entity which becomes a party in interest by providing 
+services to the Plans has engaged in a prohibited transaction 
+simply because the Plans have paid for those services. ”), va‐
+cated on other grounds by 9 F.4th 95 (2d Cir. 2021). 
+Albert’s interpretation is also inconsistent with the pur‐
+pose of the statute as a whole. See, e.g., 29 U.S.C. § 1001(a) 
+(“[T]he continued well‐being and security of millions of em‐
+ployees and their dependents are directly affected by these 
+plans,” and “it is therefore desi
+rable in the interests of em‐
+ployees and their beneficiaries ... that minimum standards be 
+provided assuring the equitable character of such plans and 
+their financial soundness.”). As the Supreme Court recog‐
+nized  in  Lockheed  Corp.  v.  Spink,  517  U.S.  882  (1996), 
+§ 1106(a)(1)  prohibi
+ts  transactions  that  “generally  involve 
+uses of plan assets that are potentially harmful to the plan.” 
+Id. at 893. It would be nonsensical to read § 1106(a)(1) to 
+No. 21‐2789  25 
+prohibit transactions for services that are essential for defined 
+contribution plans, such as recordkeeping and administrative 
+services. See id. at 895 (“When [§ 1106(a)(1)(D)] is read in the 
+context of the other prohibited transaction provisions, it be‐
+comes clear that the payment of benefits in exchange for the 
+performance of some conditio
+n by the employee is not a 
+‘transaction’ within the meaning of [§ 1106(a)(1)(D)].”). 
+Albert insists that payments by the Plan to Fidelity and 
+SAI were nonetheless “prohibited transactions.” For support, 
+Albert points to language in this court’s decision in Allen v. 
+GreatBanc Trust Co., 835 F.3d 670 (7th Cir. 2016). In Allen, par‐
+ticipants in an employee stock ownership plan allege
+d that 
+the plan’s trustee engaged in prohibited transactions by pur‐
+chasing stock from the employer (and plan sponsor) and issu‐
+ing a loan to the plan to fund the stock purchase. The em‐
+ployer’s stock price later plummeted, and plan participants 
+perversely had to pay interest on the loan to their own em‐
+ployer. Id. at 673–74. The court conclu
+ded that both transac‐
+tions  “are  indisputably  prohibited  transactions  within  the 
+meaning of [§ 1106].”9 Id. at 675. The court’s more important 
+holding, however, was that the exemptions for prohibited‐
+transaction claims outlined in § 1108 are affirmative defenses 
+that a plaintiff need not anticipate in a complaint. Id. at 676. 
+Albert points to Allen for the broad proposition that a 
+plaintiff can state a prohibited‐transaction claim mere ly by 
+
+9 The court seems to have reasoned that the employer, as a plan spon‐
+sor, was a party in interest under § 1002(14)(C). When the trustee, acting 
+as a fiduciary, directed the plan to purchase the employer’s stock, that was 
+a “prohibited transaction” under § 1106(a)(1)(A). Similarly, when the em‐
+ployer (via it s  shareholders) lent money to the plan to purchase its own 
+stock, that was a “prohibited transaction” under § 1106(a)(1)(B). 
+26  No. 21‐2789 
+identifying a “party in interest” under § 1002(14) and alleging 
+that the party in interest engaged in one of the transactions 
+listed in § 1106(a)(1). The Third Circuit seems to have read Al‐
+len this way and expressly declined to follow it. See Sweda, 923 
+F.3d at 326–27. By contrast, Oshkosh suggests that the Allen 
+court simp
+ly did not confront the circularity problem dis‐
+cussed above because the transactions at issue did not trans‐
+form the defendants into parties in interest. We agree that the 
+transactions in Allen looked like self‐dealing, unlike routine 
+payments for plan services. See Swe da, 923 F.3d at 336 (“[T]he 
+transactions the Seventh Circuit scrutinized in Allen were a far 
+cry from the ordinary service arrangements at issue here.”). 
+Albert’s argument that he need not anticipate affirmative 
+defenses at the pleading stage is a red herring. While it is true 
+that “an ERISA plaintiff need not plead the absen ce of exemp‐
+tions to prohibited transactions,” Allen, 835 F.3d at 676, Osh‐
+kosh is not asserting an affirmative defense under § 1108.10 In‐
+stead,  Oshkosh  is  arguing  that  a  literal  reading  of 
+§§ 1002(14)(B) and 1106(a)(1)(C) would lead to absurd results 
+that are inconsistent with ERISA’s statutory purpose. If rou‐
+tine payments by plan fiduciaries to third parties in exchange 
+for plan services are prohibited, that would seem to put plan 
+participants and beneficiaries in a worse position: Employee 
+benefit plans would no longer be able to outsource tasks like 
+recordkeeping,  inves
+tment  management,  or  investment 
+
+10 Albert suggests that Oshkosh would invoke § 1108(b)(2)(A) (“Con‐
+tracting or making reasonable arrangements with a party in interest for ... 
+services necessary for the establishment or operation of the plan, if no 
+more than reasonable compensation is paid therefor.”). 
+No. 21‐2789  27 
+advising, which in all likelihood would result in lower returns 
+for employees and higher costs for plan administration. 
+In short, the district court properly dismissed Albert’s pro‐
+hibited transactions claims for failure to state a claim. 
+F. Duty to Disclose Claim 
+Finally, Albert alleges that Oshkosh failed to disclose fees 
+that are charged to participants and specifically the method 
+of calculating revenue‐sharing fees. Albert relies primarily on 
+a Department of Labor regulation, which states in relevant 
+part: 
+When the documents and instruments go
+verning an 
+individual account plan ... provide for the allocation of 
+investment responsibilities to participants or benefi‐
+ciaries, the plan administrator ... must take steps to en‐
+sure, consistent with [the fiduciary duties of loy
+alty 
+and prudence], that such participants and beneficiar‐
+ies, on a regular and periodic basis, are made aware of 
+their rights and responsibilities with respect to the in‐
+vestment of assets held in, or contributed to, their ac‐
+counts and are provided suﬃcient informat
+ion regarding 
+the plan, including fees and expenses, and regarding des‐
+ignated investment alternatives, including fees and ex‐
+penses attendant thereto, to make informed decisions with 
+regard to the management of their individual accounts. 
+29 C.F.R. § 2550.404a‐5(a) (e
+mphases added). 
+As an initial matter, the Department of Labor regulation 
+does not clearly require the kinds of disclosures Albert claims 
+Oshkosh should have made. Albert’s argument is also hard to 
+square with this court’s decision in Hecker. There, we held that 
+plaintiffs had failed to state a bre ach of fiduciary duty claim 
+28  No. 21‐2789 
+on the basis of either a revenue‐sharing agreement or the fail‐
+ure to disclose information about that agreement. Hecker, 556 
+F.3d at 585. The court explained that the plan administrator 
+acted appropriately by disclosing the total fees for funds of‐
+fered in the plan and directing participants to fund prospec‐
+tuses for more information. “The total fee
+, not the internal, 
+post‐collection distribution of the fee, is the critical figure for 
+someone interested in the cost of including a certain invest‐
+ment in her portfolio and the net value of that investment.” 
+Id. at 586. Because info rmation about how fees are distributed 
+internally was “not material” to a participant’s decision‐mak‐
+ing process, the failure to disclose such information was “not 
+a breach of [] fiduciary duty.” Id. 
+Albert argues that Hecker is no longer good law in light of 
+the Supreme Court’s decision in Hughes. We agree wit h Osh‐
+kosh that this reading of Hughes is untenable; that decision 
+had nothing to do with the duty to disclose. Moreover, the 
+amended complaint does not identify any additional breaches 
+of the duty to disclose beyond revenue sharing.11 The district 
+court properly dismissed Albert’s duty to disclose claim. 
+III. Conclusion 
+For the foregoing reasons, the district court’s judgment is 
+AFFIRMED. 
+
+11 Albert’s reliance on Baird v. BlackRock Institutional Trust Co. is un‐
+persuasive because that case is nonprecedential, out of circuit, and did not 
+discuss revenue sharing at all. 403 F. Supp. 3d 765, 781–82 (N.D. Cal. 2019).

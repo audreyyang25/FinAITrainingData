@@ -1,0 +1,1084 @@
+21-88-cv (L) 
+Cunningham v. Cornell University 
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+August Term 2022 
+
+(Argued: October 19, 2022 Decided: November 14, 2023) 
+
+Nos. 21-88-cv; 21-96-cv; 21-114-cv 
+
+–––––––––––––––––––––––––––––––––––– 
+
+CASEY CUNNINGHAM, CHARLES E. LANCE, STANLEY T. MARCUS, LYDIA PETTIS, AND 
+JOY VERONNEAU, individually and as representatives of a class of participants 
+and beneficiaries on behalf of the Cornell University Retirement Plan for the 
+Employees of the Endowed Colleges at Ithaca and the Cornell University Tax 
+Deferred Annuity Plan 
+
+Plaintiffs-Appellants-Cross-Appellees, 
+
+-v.- 
+
+CORNELL UNIVERSITY, THE RETIREMENT PLAN OVERSIGHT COMMITTEE, MARY G. 
+OPPERMAN, AND CAPFINANCIAL PARTNERS, LLC D/B/A CAPTRUST FINANCIAL 
+ADVISORS 
+
+Defendants-Appellees-Cross-Appellants.∗ 
+–––––––––––––––––––––––––––––––––––– 
+
+Before: LIVINGSTON, Chief Judge, and KEARSE and PARK, Circuit Judges. 
+
+The plaintiff- appellant class participates in “403(b)” retirement plans 
+administered by Cornell University (“Cornell”). Plaintiffs brought this suit 
+
+∗ The Clerk of Court is respectfully directed to amend the caption accordingly. 
+
+against Cornell and its appointed fiduciaries alleging a number of breaches of their 
+fiduciary duties under the Employee Retirement Income Security Act of 1974 
+(“ERISA”). Following motion practice in the United States District Court for the 
+Southern District of New York (Castel, J.), plaintiffs appeal from entry of judgment 
+in defendants’ favor on all but one claim , which was settled by the parties. On 
+appeal, plaintiffs challenge: (1) the dismissal of their claim that Cornell entered 
+into a “prohibited t ransaction,” pursuant to 29 U.S.C. § 1106(a)(1)(C), by paying 
+the plans’ recordkeepers unreasonable compensation, (2) the “parsing” of a single 
+count alleging a breach of fiduciary duty into separate sub-claims at the motion to 
+dismiss stage, (3) the award of summary judgment against plaintiffs for failure to 
+show loss on their claim that defendants breached their duty of prudence by 
+failing to monitor and control recordkeeping costs, and (4) the award of summary 
+judgment to defendants on plaintiffs’ claims that Cornell breached its duty of 
+prudence by failing to remove underperforming investment options and by 
+offering higher-cost retail share classes of mutual funds, rather than lower -cost 
+institutional shares. Because we agree with the ultimate dispositi on of each of 
+these claims, we AFFIRM the district court’s judgment. 
+Defendants-appellees conditionally cross-appeal, in the event that the 
+judgment is not affirmed, to challenge the district court’s ruling that plaintiffs were 
+entitled to a jury trial rather than a bench trial. As the judgment is affirmed, we 
+dismiss the cross-appeals as moot. 
+
+F
+OR PLAINTIFFS-APPELLANTS- SEAN E. SOYARS (Jerome J. Schlichter, 
+CROSS-APPELLEES: Heather Lea, and Joel D. Rohlf, on the brief ), 
+Schlichter Bogard & Denton LLP, St. Louis, 
+MO. 
+
+FOR DEFENDANTS-APPELLEES- MICHAEL A. SCODRO (Nancy G. Ross, 
+CROSS-APPELLANTS: Samuel P. Myler, and Jed W. Glickstein, on 
+the brief), Mayer Brown LLP, Chicago, IL; 
+Michelle N. Webster, on the brief, Mayer 
+Brown LLP, Washington, DC , for Cornell 
+University, The Retirement Plan Oversight 
+Committee, and Mary G. Opperman. 
+
+ CAROLINE A. WONG (Eric S. Mattson, Joseph 
+R. Dosch, and Meredith R. Aska McBride, on 
+the brief), Sidley Austin LLP, Chicago, IL, for 
+CapFinancial Partners, LLC. 
+
+ Jaime A. Santos and William M. Jay, 
+Goodwin Procter LLP, Washington, DC; 
+James O. Fleckner and Alison V. Douglass, 
+Goodwin Procter LLP, Boston, MA; 
+Stephanie A. Maloney, U.S. Chamber 
+Litigation Center, Washington, DC , for 
+Chamber of Commerce of the United States of 
+America and American Benefits Council, amici 
+curiae in support of Defendants -Appellees-
+Cross-Appellants. 
+
+DEBRA ANN LIVINGSTON, Chief Judge: 
+This case is one of a number of similar actions filed in federal courts across 
+the country alleging that university pension plans, known as “403(b) plans,” have 
+been impr operly managed in violation of the Employee Retirement Income 
+Security Act of 1974 (“ERISA”), as amended, 29 U.S.C. § 1001 et seq. Plaintiffs -
+Appellants-Cross-Appellees Casey Cunningham, Charles E. Lance, Stanley T. 
+Marcus, Lydia Pettis, and Joy Veronneau (“Plaintiffs”) are participants in and 
+beneficiaries of the Cornell University Retirement Plan for Employees of the 
+Endowed Colleges at Ithaca (“Retirement Plan”) or the Cornell University Tax 
+Deferred Annuity Plan (“TDA Plan”) (together, the “Plans”). 
+
+Plaintiffs, individually and as representatives of a class of beneficiaries to 
+the Plans, brought this action in the Southern District of New York (Castel, J.) 
+against Cornell University (“Cornell”) and its appointed fiduciaries (together, 
+“Defendants”), alleging that they, among other things, failed to employ adequate 
+processes for monitoring the Plans in violation of 29 U.S.C. § 1104, resulting in the 
+retention of underperforming investment options and the payment of excessive 
+fees, and engaged in transac tions prohibited under 29 U.S.C. § 1106. Following 
+motion practice, t he district court dismissed or granted summary judgment to 
+Defendants on all but one of Plaintiffs’ claims. After a settlement was reached on 
+the remaining claim, the district court entered judgment on December 22, 2020. 
+Plaintiffs challenge the district court’s award of summary judgment on two 
+counts alleging that Defendants breached their duty of prudence. In addition, 
+Plaintiffs argue that the district court erred in dismissing one of their prohibited 
+transactions claims for failure to state a claim and in parsing one of their claims for 
+a breach of the duty of prudence at the motion-to-dismiss stage. Should the case 
+be remanded to the district court, Plaintiffs also argue that the end date of the class 
+period should be vacated . Defendants conditionally cross-appeal, in the event 
+
+that the judgment is not affirmed, from the district court’s denial of their motion 
+to strike the jury demand. 
+We conclude that the district court correctly dismissed Plaintiffs’ prohibited 
+transactions claim and certain duty -of-prudence allegations for failure to state a 
+claim and did not err in granting partial summary judgment to Defendants on the 
+remaining duty -of-prudence claims . In so doing, we hold as a matter of first 
+impression that to state a claim for a prohibited transaction pursuant 29 U.S.C. 
+§ 1106(a)(1)(C), it is not enough to allege that a fiduciary caused the plan to 
+compensate a service provider for its services; rather, the complaint must plausibly 
+allege that the services were unnecessary or involved unreasonable compensation, 
+see id. § 1108(b)(2)(A), thus supporting an inference of disloyalty. Because we 
+affirm the district court’s judgment, we do not reach the issues related to the end 
+date of the class period, and we dismiss Defendants’ conditional cross-appeals as 
+moot. 
+BACKGROUND 
+I. Factual Background 
+Plaintiffs represent a class of current and former Cornell employees who 
+participated in Cornell’s two retirement plans, the Retirement Plan and the TDA 
+
+Plan, from August 17, 2010 to August 17, 2016 (the “class period”). As of 2016, 
+the Retirement Plan had over 19,000 participants and nearly $2 billion in net assets 
+and the TDA Plan had over 11,000 participants and $1.34 billion in net assets. 
+Both Plans are defined-contribution savings plans that are tax-deferred under 26 
+U.S.C. § 403(b), which applies to certain tax-exempt organizations. In a defined -
+contribution plan (of which the more familiar “401(k)” plans are another type) 
+participants maintain individ ual investment accounts, the value of which “is 
+determined by the market performance of employee and employer contributions, 
+less expenses.” Tibble v. Edison Int’l , 575 U.S. 523, 525 (2015); see 29 U.S.C. 
+§ 1002(34).
+1 The administrators of defined -contribution plans are responsible for 
+choosing a menu of investment options, and plan participants then choose their 
+investments from that menu. 
+A. Administration of the Plans 
+Cornell University is the named administrator for the Plans. Cornell 
+delegated administrative responsibilities to Mary G. Opperman, Cornell 
+University’s Vice President for Human Resources, who in turn delegated certain 
+
+1 Participants’ accounts in the Retirement Plan are funded by a combination of 
+employer and participant contributions, while the TDA Plan is funded entirely by 
+employee contributions. 
+
+responsibilities to Paul Bursic, Senior Director of Benefits Services and 
+Administration (the “Benefits Department”), and employees under his direction. 
+Opperman chaired the Retirement Plan Oversight Committee (“RPOC,” and, 
+together with Opperman and Cornell, the “Cornell Defendants”). The RPOC 
+was established in 2010, in response to Internal Revenue Service regulations, to 
+oversee the Plans. In 2011, the RPOC issued a Request for Proposal for a third -
+party consultant to assist the RPOC with selecting investment options and 
+recordkeeping. A fter reviewing bids, the RPOC selected CapFinancial Partners, 
+LLC Financial Advisors (“CAPTRUST”) as the Plans’ investment advisor and plan 
+administration consultant. As part of its agreement with Cornell, CAPTRUST 
+agreed to serve as a fiduciary under ERISA with regard to the selection of mutual 
+funds available to the Plans. 
+B. Recordkeeping Fees and Investment Options 
+In any defined -contribution plan, participants incur certain fees and 
+expenses. Two kinds of fees are at issue in this case: investment management 
+fees and recordkeeping fees. Investment management fees are charged by the 
+investment providers and are associated with the services of buying, selling, and 
+managing investments. Investment fees are typically expressed as an “ expense 
+
+ratio,” that is, a percentage of the assets under management . For mutual funds, 
+some providers offer different share classes of the same fund: a “retail” share class 
+available to all investors at one expense ratio and “institutional” share classes with 
+lower expense ratios available only to investors that satisfy cer tain minimum 
+investment amounts—typically institutional investors. 
+Recordkeeping fees cover necessary administrative expenses such as 
+tracking account balances and providing regular account statements. 
+Recordkeeping fees are charged either as a flat fee, with each fund participant 
+paying a set amount, or by “revenue sharing,” in which the fund pays the 
+recordkeeper a set portion of the fund’s expense ra tio. Recordkeeping services 
+may be provided by the investment providers themselves or by third parties. 
+Throughout the class period, Cornell retained two investment providers who also 
+both served as the Plans’ recordkeepers: Teachers Insurance and Annuity 
+Association of America -College Retirement Equities Fund (“ TIAA-CREF” or 
+“TIAA”) and Fidelity Investments Inc. (“Fidelity”). Both TIAA and Fidelity 
+received recordkeeping fees through a revenue sharing model. 
+The Plans offered approximately 300 investment options throughout the 
+class period, including fixed annuities (in which the investment returns a 
+
+contractually specified minimum interest rate), variable annuities (in which the 
+investment returns a variable interest rate), and mutual funds. 
+II. Procedural History 
+Plaintiffs filed their Corrected Amended Complaint (the “ Complaint”) on 
+February 24, 2017, and named as defendants Cornell, the RPOC, Opperman, and 
+CAPTRUST. The Complaint allege d that Defendants violated their fiduciary 
+duties under ERISA by failing to monitor and control the recordkeeping fees paid 
+to TIAA and Fidelity , by failing to review the fees and performances associated 
+with the Plans’ investment options , and by entering into certain prohibited 
+transactions. 
+A. The Alleged ERISA Violations 
+ERISA imposes various duties on fiduciaries, two of which are relevant here. 
+The first is the duty of loyalty, which requires that the fiduciary act “solely in the 
+interest of the participants and beneficiaries . . . for the exclusive purpose of . . . 
+providing benefits to participants and their beneficiaries [] and . . . defraying 
+reasonable expenses of administering the plan.” 29 U.S.C. § 1104(a)(1)(A)(i)–(ii). 
+The second is the duty of prudence, which requires that the fiduciary act “with the 
+care, skill, prudence, and diligence under the circumstances then prevailing that a 
+
+prudent man acting in a like capacity and familiar with such matters would use in 
+the conduct of an enterprise of a like character and with like aims.” Id. 
+§ 1104(a)(1)(B); see also Pension Benefit Guar. Corp. ex rel. St. Vincent Cath. Med. Ctrs. 
+Ret. Plan v. Morgan Stanley Inv. Mgmt. Inc. (“PBGC”), 712 F.3d 705, 715–17 (2d Cir. 
+2013) (discussing the “prudent man” standard of care). 
+Another section of ERISA, 29 U.S.C. § 1106, “codif[ies],” Lowen v. Tower Asset 
+Mgmt., Inc., 829 F.2d 1209, 1213 (2d Cir. 1987) , and “supplements the fiduciary’s 
+general duty of loyalty to the plan’s beneficiaries, [29 U.S.C. § 1104(a)(1)], by 
+categorically barring certain transactions deemed ‘likely to injure the [retirement] 
+plan,’” Harris Trust & Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238, 241–
+42 (2000) (citation omitted). These barred transactions are known as “ prohibited 
+transactions.” 29 U.S.C. § 1106. Though “[t]he standard s for fiduciary conduct 
+in §§ 1104 and 1106 may overlap,” breaching one of these provisions “does not 
+necessarily” imply that the other has been violated as well. Sweda v. Univ. of Pa., 
+923 F.3d 320, 327 (3d Cir. 2019). 
+The Complaint allege d that Cornell and its appointed fiduciaries violated 
+their duties of prudence and loyalty under ERISA by: (1) offering certain 
+products—namely, the CREF Stock Account and Money Market Account, as well 
+
+as the TIAA Traditional Annuity (“Count I”); (2) failing to monitor and control 
+recordkeeping fees (“Count III”); and (3) failing to monitor and offer appropriate 
+investment options (“Count V”). Plaintiffs also brought prohibited transactions 
+claims on each of these three theories (“Counts II, IV, and VI,” respectively). And 
+in Count VII, Plaintiffs brought a claim premised on Cornell’s and Opperman’s 
+general failure to monitor the appointed fiduciaries.2 
+As noted by the district court, Count V spans a number of allegations that 
+Defendants breached their fiduciary duty, specifically that they breached by: 
+(1) continuing to offer the CREF Stock Account and TIAA Real Estate 
+Account despite their high fees and poor performance; 
+(2) selecting and retaining investment options, including actively 
+managed funds, with high fees and poor performance relative to 
+other investment options that were readily available to the Plans; 
+(3) selecting and retaining high- cost retail [class shares of ] mutual 
+funds instead of materially identical lower [-]cost institutional 
+mutual funds [(i.e., the “share-class claim”)]; 
+(4) selecting and retaining investment options with unnecessary 
+layers of fees; 
+(5) failing to consolidate the Plans’ investment options into a “core 
+lineup,” depriving the Plans of their ability to qualify for lower 
+cost share classes of certain investments and causing confusion 
+among plan participants; [and] 
+
+2 Plaintiffs’ failure to monitor claim is the seventh claim for relief though it is 
+incorrectly labeled in the Complaint as “Count VIII.” 
+
+(6) failing to monitor any of the Plans’ options until October 1, 2014, 
+and monitoring only “core” investment options after that date. 
+Cunningham v. Cornell Univ ., No. 16 -CV-6525 (PKC), 2017 WL 4358769, at *6 
+(S.D.N.Y. Sept. 29, 2017).3 
+B. Defendants’ Motion to Dismiss 
+On September 29, 2017, the district court granted Defendants’ motion to 
+dismiss in part as to several claims, but it held that Plaintiffs plausibly alleged that 
+Defendants failed to monitor recordkeeping fees and underperforming funds . 
+The court dismissed the duty of loyalty claims in Counts I, III, and V, as well as 
+the duty of prudence claim in Count I. The court also dismissed the prohibited 
+transactions claims in Counts II, IV, and VI. In addition, the court dismissed 
+Count III as to CAPTRUST. Withi n Count V, the district court found that certain 
+allegations encompassed by the count (allegations 4, 5, and 6, as identified above) 
+failed plausibly to allege a breach of the duty of prudence and accordingly 
+dismissed them. This left within Count V only the claim premised on the 
+
+3 Citations in the form “A. ___,” “S.A. ___,” and “D.J.A. ___” are to Appellants’ 
+Appendix, Appellants’ Special Appendix, and Defendants -Appellees-Cross-Appellants’ 
+Appendix, respectively. 
+
+retention of certain investment s (allegations 1 and 2) and the share -class claim 
+(allegation 3). 
+Thus, at that stage, the surviving claims were the duty of prudence claim in 
+Count III as to the Cornell Defendants, the duty of prudence claim in Count V as 
+to both the Cornell Defendants and CAPTRUST, and the duty to monitor claim in 
+Count VII as to Cornell and Opperman. With regard to Count VII, the district 
+court noted, however, that “the duty to monitor claim is only as broad as the 
+surviving prudence claims and is otherwise dismissed.” S. A. 77. 
+C. Defendants’ Motion for Summary Judgment 
+On September 27, 2019, the district court granted summary judgment for 
+Defendants on nearly all the remaining claims. On the duty of prudence claim in 
+Count III, relating to the recordkeeping fees, the district court found that material 
+issues of fact remained as to whether the Cornell Defendants breached their duty 
+of prudence. However, because Plaintiffs did not present evidence of loss and 
+abandoned any request for equitable relief , the district court granted summary 
+judgment to the Cornell Defendants on Count III. 
+On the duty of prudence claim in Count V, the district court awarded 
+summary judgment to the Cornell Defendants and CAPTRUST for the retention-
+
+of-certain-investments claim. The court also awarded summary judgment to 
+CAPTRUST on the share-class claim in its entirety and to Cornell on the share-
+class claim with the exception of Plaintiffs’ claim that Cornell breached the duty 
+of prudence by failing to swap out the retail TIAA-CREF Lifecycle target date 
+funds for their identical institutional share-class funds. By awarding summary 
+judgment to Defendants on most of Counts III and V, the district court also 
+disposed of what remained of Count VII, which the district court had deemed to 
+be derivative of the other claims. Thus, following the district court’s summary 
+judgment decision, all that remained was the duty of prudence claim against 
+Cornell relating to the failure to adopt a lower-cost share class of the TIAA-CREF 
+Lifecycle target date funds. 
+On December 22, 2020, the district court approved the parties’ settlement of 
+that remaining portion of the case. This appeal followed. 
+DISCUSSION 
+On appeal, Plaintiffs contend that the district court erred in granting in part 
+both Defendants’ motion to dismiss and Defendants’ motion for summary 
+judgment. Regarding the dismissed claims, Plaintiffs argue that Count IV of the 
+
+Complaint stated a plausible claim that Cornell 4 caused the Plans to enter into 
+prohibited transactions involving the Plans’ recordkeepers, and that the district 
+court erred in dismissing portions of Count V. 5 In addition, Plaintiffs challenge 
+the district court’s grant of summary judgment to Defendants on Counts III and 
+V. In particular, as to Count III, Plaintiffs argue that the district court erred in 
+holding that Plaintiffs had the burden of proving loss resulting from the alleged 
+fiduciary breach. We first address the dismissed claims, and then turn to the 
+district court’s grant of partial summary judgment. 
+I. Dismissed Claims 
+We review a district court’s grant of a motion to dismiss under Federal Rule 
+of Civil Procedure 12(b)(6) de novo. Bacon v. Phelps , 961 F.3d 533, 540 (2d Cir. 2020). 
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter, 
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft 
+v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly , 550 U.S. 544, 
+
+4 Throughout their briefs, the parties refer to “Cornell” without distinguishing 
+between Cornell University as an individual party and the collective “Cornell 
+Defendants.” Because the distinction does not affect our analysis, we do the same 
+except where explicitly noted. 
+5 Plaintiffs do not appeal the dismissal of Counts I, II, VI, and VII. Accordingly, 
+we do not address these claims. 
+
+570 (2007)). “A claim has facial plausibility when the plaintiff pleads factual 
+content that allows the court to draw the reasonable inference that the defendant 
+is liable for the misconduct alleged.” Id. 
+Plaintiffs contend on appeal that the district court erred in dismissing the ir 
+prohibited transactions claim for failure to state a claim and in parsing Count V by 
+dismissing certain allegations that Defendants breached their duty of prudence. 
+We address each of Plaintiffs’ claims in turn. 
+A. Dismissal of Prohibited Transactions Claim (Count IV) 
+Plaintiffs challenge the district court’s dismissal of their allegation, in Count 
+IV, that Cornell violated 29 U.S.C. § 1106(a)(1)(C) by causing the Plans to engage 
+in prohibited transactions with its recordkeepers, TIAA -CREF and Fidelity. 
+Section 1106, entitled “Prohibited Transactions,” consists of three provisions 
+restricting the set of transactions in which plan fiduciaries may engage, two of 
+which are relevant here: § 1106(b) “codifie[s]” certain core tenets of the duty of 
+loyalty “by prohibiting [a p lan’s fiduciary from engaging in] transactions tainted 
+by a conflict of interest and thus highly susceptible to self- dealing,” Lowen, 829 
+F.2d at 1213, while § 1106(a) “supplements the fiduciary’s general duty of 
+
+loyalty . . . by categorically barring certain transactions” involving a “party in 
+interest,” Harris Trust, 530 U.S. at 241–42 (quoting 29 U.S.C. § 1106(a)). 
+Plaintiffs’ claim is premised on this supplementary provision, § 1106(a), 
+entitled “[t]ransactions between plan and party in interest,” which provides, in 
+relevant part: 
+Except as provided in section 1108 of this title: 
+(1) A fiduciary with respect to a plan shall not cause the plan to 
+engage in a transaction, if he knows or should know that such 
+transaction constitutes a direct or indirect— 
+(A) sale or exchange, or leasing, of any property between the 
+plan and a party in interest; 
+(B) lending of money or other extension of credit between 
+the plan and a party in interest; 
+(C) furnishing of goods, services, or facilities between the plan and 
+a party in interest; 
+(D) transfer to, or use by or for the benefit of a party in 
+interest, of any assets of the plan; or 
+(E) acquisition, on behalf of the plan, of any employer 
+security or employer real property in violation of section 
+1107(a) of this title. 
+29 U.S.C. § 1106(a)(1) (emphasis added). In turn, ERISA defines a “party in 
+interest” of an employee benefit plan to include “a person providing services to 
+such plan.” Id. § 1002(14)(B). 
+
+ Section 1108, which, as reflected above, is expressly referenced in the text of 
+§ 1106(a), then provides certain “[e]xemptions from prohibited transactions,” 
+including, as relevant here, § 1108(b)(2)(A), which permits “[c]ontracting or 
+making reasonable arrangements with a party in interest for office space, or legal, 
+accounting, or other services necessary for the establishment or operation of the 
+plan, if no more than reasonable compensation is paid therefor.” Id. 
+§ 1108(b)(2)(A). 
+Reading § 1106(a)(1)(C) in isolation of the exemptions in § 1108, ERISA 
+would appear to prohibit payments by a plan to any entity providing it with any 
+services. Invoking the precept that “[a] statute should be interpreted in a way 
+that avoids absurd results,” United States v. Venturella , 391 F.3d 120, 126 (2d Cir. 
+2004) (quoting United States v. Dauray, 215 F.3d 257, 264 (2d Cir. 2000)), “[s]everal 
+courts,” including the Third, Tenth, and Seventh Circuits, “have declined to read 
+ERISA [in this manner] bec ause it would prohibit fiduciaries from paying third 
+parties to perform essential services in support of a plan,” including 
+“recordkeeping and administrative services,” Albert v. Oshkosh Corp., 47 F.4th 570, 
+584–85 (7th Cir. 2022). The courts to follow this tact have adopted different 
+means of narrowing the statute. The Third Circuit, in Sweda v. University of 
+
+Pennsylvania, read the provision to require allegation of “an element of intent to 
+benefit a party in interest.” 923 F.3d at 338. The Tenth Circuit, in Ramos v. 
+Banner Health, limited the statute’s apparent scope by holding that “some prior 
+relationship must exist between the fiduciary and the service provider to make the 
+provider a party in interest under § 1106.” 1 F.4th 769, 787 (10th Cir. 2021). And 
+the Seventh Circuit, in Albert , held that, to state a claim, the allege d transaction 
+must “look[] like self-dealing,” as opposed to “routine payments for plan services.” 
+47 F.4th at 585. 
+Two circuits, on the other hand, have embraced the expansive reading of the 
+statute that these other circuits have rejected as absurd. See Braden v. Wal -Mart 
+Stores, Inc., 588 F.3d 585, 601 (8th Cir. 2009) ; Bugielski v. AT&T Servs., Inc., No. 21-
+56196, 2023 WL 4986499, at *9 –10 (9th Cir. Aug. 4, 2023) . In Braden, the Eighth 
+Circuit held that the plaintiffs had stated a claim under § 1106(a)(1)(C) by alleging 
+that a plan sponsor caused the plan to enter into an agreement with a party in 
+interest in which it received “undisclosed amounts of revenue sharing payments 
+in exchange for services rendered to the [p]lan.” 588 F.3d at 601. Notably, in 
+reaching this conclusion, the court rejected the defendant’s argument that 
+§ 1106(a)(1)(C) should be read to require an allegation that the compensation paid 
+
+was unreasonable, explaining that the exemption for “reasonable compensation” 
+paid for “necessary” services, reflected in § 1108(b)(2)(A) is an affirmative defense 
+that need not be addressed in order for a complaint to survive a motion to dismiss. 
+Id. Though acknowledging that this would require “ERISA fiduciaries . . . to 
+defend the reasonableness of every service provider transaction,” the court 
+reasoned that this result was justified by the language of the statute and traditional 
+principles of trust la w. Id. at 601–02.6 Similarly, in Bugielski, the Ninth Circuit 
+embraced what it characterized as a “literal reading” of § 1106(a)(1)(C), though—
+because the appeal arose from a grant of summary judgment —it did so without 
+addressing whether the § 1108 exemptions are treated as affirmative defenses at 
+the pleading stage. 2023 WL 4986499, at *10 (quoting Albert, 47 F.4th at 584). 
+Following reasoning similar to that embraced by the Third, Tenth, and 
+Seventh Circuits, the district court here declined to read § 1106(a)(1)(C) 
+expansively and instead concluded that to state a claim under this provision a 
+complaint must allege that the challenged transaction involved “self- dealing or 
+
+6 The Seventh Circuit, in Allen v. GreatBanc Tr. Co., 835 F.3d 670, 676 (7th Cir. 2016), 
+later joined the Eighth Circuit in treating the § 1108 exemptions as affirmative defenses 
+to § 1106(a), though, as discussed above, the court’s subsequent opinion in Albert 
+narrowed the scope of § 1106(a) to avoid what it characterized as the “absurd results” of 
+this reading, 47 F.4th at 585. 
+
+disloyal conduct.” Cunningham, 2017 WL 4358769, at *10 (internal quotation 
+marks omitted). Holding that Plaintiffs’ C omplaint failed to make such 
+allegations adequately, the district court dismissed the prohibited transaction 
+claims, including Count IV. On appeal, Plaintiffs urge this Court to reject the 
+district court’s interpretation of the statute and instead adopt the Eighth and Ninth 
+Circuits’ more expansive reading.7 
+We agree —but only in part. While we agree that the language of 
+§ 1106(a)(1) cannot be read to demand explicit allegations of “self- dealing or 
+disloyal conduct,” we do not agree with the Eighth Circuit that, at the pleadings 
+stage, the § 1108 exemptions should be understood merely as affirmative defenses 
+to the conduct proscribed in § 1106(a). To the contrary, we conclude that at least 
+some of those exemptions— particularly, the exemption for reasonable and 
+necessary transactions codified by § 1108(b)(2)(A)—are incorporated into 
+§ 1106(a)’s prohibitions. And, accordingly, we hold that to plead a violation of 
+
+7 In support of their argument, Plaintiffs cite the preamble of a regulation not 
+implicated here which broadly summarizes the structure of §§ 1106 and 1108. See 
+Reasonable Contract or Arrangement Under Section 408(b)(2) —Fee Disclosure, 77 Fed. 
+Reg. 5632, 5632 (Feb. 3, 2012). Because this prefatory text does not, in our view, bear on 
+the issue of what conduct is prohibited by § 1106(a)(1)(C), we need not address what, if 
+any, deference ought to be accorded to the agency’s interpretation. In any case, to the 
+extent this regulatory language is relevant, it supports our conclusion that § 1106(a)(1)(C) 
+does not require explicit allegations of self-dealing. 
+
+§ 1106(a)(1)(C), a complaint must plausibly allege that a fiduciary has caused the 
+plan to engage in a transaction that constitutes the “furnishing of . . . services . . . 
+between the plan and a party in interest” where that transaction was unnecessary or 
+involved unreasonable compensation. 29 U.S.C. §§ 1106(a)(1)(C), 1108(b)(2)(A). 
+Our reading flows directly from the text and structure of the statute. The 
+text of § 1106(a) begins with the carveout: “Except as provided in section 1108 of 
+this title . . . .” 29 U.S.C. § 1106(a). Thus, the exemptions set out in § 1108—
+including, most pertinently, the exemption for “reasonable compensation” paid 
+for “necessary” services, § 1108(b)(2)(A)—are incorporated directly into 
+§ 1106(a)’s definition of prohibited transactions. This is in contrast to the 
+language of § 1106(b), governing “[t]ransactions between plan and fiduciary,” 
+which makes no direct reference to the § 1108 exemptions in setting out the scope 
+of the transactions it prohibits. See id. § 1106(b). Thus, while § 1106(a) explicitly 
+incorporates the § 1108 exemptions, that those exemptions also extend to § 1106(b), 
+to the extent they do, is signaled only by the text of § 1108. See id. § 1108(b) (“[T]he 
+prohibitions provided in section 1106 of this title shall not apply to any of the 
+following transactions . . . .”); see also Mendez v. Barr, 960 F.3d 80, 87 (2d Cir. 2020) 
+(“[W]hen Congress uses certain language in one part of the statute and different 
+
+language in another, the court assumes different meanings were intended.” 
+(internal quotation marks omitted)). 
+This difference is significant in light of the “familiar principle[s]” that guide 
+our interpretation of statutory text. Meacham v. Knolls Atomic Power Lab’y, 554 U.S. 
+84, 91 (2008). Typically, when a statute is drafted “with exemptions laid out apart 
+from the prohibitions,” the exemptions are understood to serve as defenses that 
+must be raised affirmatively by the defendant. Id. However, that presumption 
+does not apply when the exemptions are incorporated directly into the text of the 
+relevant provision. See United States v. Vuitch , 402 U.S. 62, 70 (1971) (“[W]hen an 
+exception is incorporated in the enacting clause of a statute, the burden is on the 
+prosecution to plead and prove that the defendant is not within the exception.”); 
+see also Roth v. CitiMortgage Inc., 756 F.3d 178, 183 (2d Cir. 2014) (holding that a 
+plaintiff alleging a violation of the Fair Debt Collection Practices Act must plead 
+that an exception to the definition of a debt collector does not apply). Thus, the 
+fact that Congress drafted § 1106(a)—but not § 1106(b)—to reference the § 1108 
+exemptions supports the view that the burden of raising those exemptions lies, at 
+least in part, with the plaintiff. 
+
+Further support for this view arises from the role the exceptions play in 
+articulating the nature of the prohibited conduct. Typically, when “a statutory 
+prohibition is broad and an exception is quite narrow, it is more probable that the 
+exception constitutes an affirmative defense.” United States v. Durrani , 835 F.2d 
+410, 421 (2d Cir. 1987). However, when “the exception [is] not narrow,” such that 
+it can be “presumed in most cases” that the exemption will ultimately remove the 
+challenged conduct from the prohibition’s scope, the logical inference cuts in the 
+opposite direction. United States v. Carey , 929 F.3d 1092, 1103 (9th Cir. 2019). In 
+such cases, the exception is so “integral . . . to the offense” that it is “part of the 
+offense’s ‘ingredients.’” Id. at 1101. As the Supreme Court articulated in the 
+criminal context long ago, “[w]here a statute defining an offense contains an 
+exception,” the pleadings must allege that the conduct at issue does not fall within 
+the exception whenever the exception “is so incorporated with the language 
+defining the offense that the ingredients of the offense cannot be accura tely and 
+clearly described if the exception is omitted.” United States v. Cook , 84 U.S. (17 
+Wall.) 168, 173 (1872). In other words, when one cannot articulate what the 
+statute seeks to prohibit without reference to the exception, then the exception 
+
+should be understood as part of the definition of the prohibited conduct—and thus 
+its inapplicability must be pled. 
+In our view, this is such a statute. Section § 1106(a) seeks to prohibit 
+transactions that “involve uses of plan assets that are potentially harmful to the 
+plan.” Lockheed Corp. v. Spink , 517 U.S. 882, 893 (1996). And yet, when read in 
+isolation from its exemptions, § 1106(a) would encompass a vast array of routine 
+transactions the prohibition of which cannot be consistent with that statutory 
+purpose.
+8 To the contrary, if all payments by plan fiduciaries to third parties in 
+exchange for plan services were presumptively prohibited, then the plan would 
+be severely compromised: “Employee benefit plans would no longer be able to 
+outsource tasks like recordkeeping, investment management, or investment 
+
+8 Relatedly, when read in such an expansive manner, § 1106(a) would pull within 
+its scope various transactions that would not ultimately be deemed prohibited once the 
+exemptions are considered, thus creating tension with the section’s heading: “Prohibited 
+Transactions.” See 29. U.S.C. § 1106. As the Supreme Court recently remarked, “[t]he 
+title of a statute and the heading of a section” have “long [been] considered” to be “tools 
+available for the resolution of a doubt about the meaning of a statute.” Dubin v. United 
+States, 143 S. Ct. 1557, 1567 (2023) (internal quotation marks omitted). Reliance on a 
+section heading is particularly appropriate where, as is the case here, the text of the 
+heading was enacted along with the statutory text, see ERISA, Pub. L. 93- 406, § 406, 88 
+Stat. 829, 879 (codified as 29. U.S.C. § 1106), as opposed to added later during the 
+codification process, see Daniel B. Listwa, Comment, Uncovering the Codifier’s Canon: How 
+Codification Informs Interpretation , 127 Y
+ALE L.J. 464, 475–76 (2017) (explaining this 
+distinction). 
+
+advising, which in all likelihood would result in lower returns for employees and 
+higher costs for plan administration.” Albert, 47 F.4th at 586. 9 Such a result 
+would be inconsistent with the Supreme Court’s “recogni[tion] that ERISA 
+represents a careful balancing” intended to “induce[] employers to offer benefits 
+by assuring a predictable set of liabilities.” Conkright v. Frommert, 559 U.S. 506, 
+517 (2010) (internal quotation marks omitted). 
+The broad scope of § 1106(a) thus places greater weight on the § 1108 
+exemptions, in particular § 1108(b)(2)(A), to limit the scope of the statute’s 
+prohibitions to only those transactions that actually present a risk of harm to the 
+plan and raise the sort of concerns implicated by the duty of loyalty —the duty 
+§ 1106(a) has been held to “supplement[].” Harris Trust, 530 U.S. at 241–42. This 
+is because, while it is true that a fee “so disproportionately large that it bears no 
+reasonable relationship to the services rendered” raises an inference that it was not 
+“the product of arm’s length bargaining,” Jones v. Harris Assocs. L.P., 559 U.S. 335, 
+
+9 A prohibition on such outsourcing would also create tension with other 
+provisions in ERISA. For example, under § 1104(a)(1)(A), a fiduciary must discharge his 
+duties solely in the interests of the participants and their beneficiaries and for the 
+exclusive purpose of “providing benefits to participants and their beneficiaries” and 
+“defraying reasonable expenses of adm inistering the plan,” thus seemingly 
+contemplating that there would be expenses associated with plan administration. 29 
+U.S.C. § 1104(a)(1)(A). 
+
+346 (2010) (discussing an analogous provision of the Investment Company Act of 
+1940, 15 U.S.C. § 80a-35(b)), the same cannot be said of routine payments made to 
+service providers. Cf. In re Walt Disney Co. Derivative Litig., 907 A.2d 693, 748–49 
+(Del. Ch. 2005) (explaining that an inference of “bad faith”—and thus of breach of 
+the duty of loyalty —is permissible when the transaction is one in which “no 
+business person of ordinary, sound judgment could conclude that the corporation 
+has received adequate consideration”), aff’d, 906 A.2d 27 (Del. 2006). By contrast, 
+§ 1106(b) on its face is restricted only to transactions carrying indicia of a conflict 
+of interest —and, as already noted, does not directly incorporate the § 1108 
+exemptions. See 29 U.S.C. § 1106(b). 
+Put simply, when read on its own, § 1106(a)—and in particular, 
+§ 1106(a)(1)(C), which addresses the “furnishing of goods, services, or facilities 
+between the plan and a party in interest” —is missing an “ingredient[] of the 
+offense.” Cook , 84 U.S. (17 Wall.) at 173. That ingredient is the exemption for 
+“reasonable compensation” paid for “necessary” services, reflected in 
+§ 1108(b)(2)(A). It is only by incorporating that exemption into the prohibition 
+set out in § 1106(a)(1)(C), and thus limiting its reach to unnecessary or 
+
+unreasonable compensation, that the offensive conduct the statute discourages can 
+“be accurately and clearly described.” Cook, 84 U.S. (17 Wall.) at 174. 
+In reaching this decision, we leave undisturbed our prior decisions holding 
+that it is ultimately the defendant fiduciary that bears the burden of persuasion 
+with regard to the applicability of the § 1108 exemptions. See Lowen, 829 F.2d at 
+1215 (“We believe that a fiduciary charged with a violation of Section 406(b)(3) . . . 
+must prove by a preponderance of the evidence that the transaction in question 
+fell within an exemption.”); Henry v. Champlain Enters ., Inc., 445 F.3d 610, 61 8–19 
+(2d Cir. 2006) (“Unde r ERISA, the fiduciary bears the burden of proving by a 
+preponderance of the evidence that the [p lan] received ‘adequate consideration’ 
+[pursuant to 29 U.S.C. § 1108(e)] for its purchase of company stock” where the 
+seller was a “party in interest.”) 
+As we explained in Lowen, when construing ERISA’s provisions, we look to 
+“common law rules regarding trustees” for guidance, and, under such rules, it is 
+typically the fiduciary —with better access to “information concerning the 
+transaction in question” and thus “in the best position to demonstrate the absence 
+of self-dealing”—who ultimately bears the burden of proving the fairness of the 
+transaction. 829 F.2d at 1215; see also Marshall v. Snyder, 572 F.2d 894, 900 (2d Cir. 
+
+1978) (“The settled law is that in such situations the burden of proof is always on 
+the party to the self-dealing transaction to justify its fairness.”). But, “[i]n the law 
+of trusts,” before the burden shifts to the defendant, it falls on the “beneficiar ies 
+[to] establish[] their prima facie case by demonstrating the trustees’ breach of 
+fiduciary duty.” N.Y. State Teamsters Council Health & Hosp. Fund v. Est. of 
+DePerno, 18 F.3d 179, 182 (2d Cir. 1994). In the present case, where Congress has 
+“supplement[ed] the fiduciary’s general duty of loyalty” with enumerated 
+prohibitions on certain types of transactions, Harris Trust , 530 U.S. at 241– 42, it 
+follows that while the fiduciary retains the ultimate burden of proving the 
+appropriateness of the transaction pursuant to § 1108(b)(2)(A), it falls on the 
+plaintiff in the first instance to allege —and, at the summary judgment stage, to 
+produce evidence of—facts calling into question the fiduciary’s loyalty by 
+challenging the necessity of the transaction or the r easonableness of the 
+compensation provided.
+Turning to the allegations of Count IV, Plaintiffs allege simply that 
+“[b]ecause TIAA and Fidelity are service providers and hence ‘part[ies] in interest,’ 
+
+10 Accordingly, this case presents an example of the fact that, particularly with 
+regard to statutory regimes where the “exceptions . . . are numerous,” “[t]he burden[] of 
+proof will not always follow the burden of pleading.” 2 M CCORMICK ON EVID. § 337 (8th 
+ed.). 
+
+their ‘furnishing of’ recordkeeping and administrative services to the Plans is a 
+prohibited transaction unless Cornell proves an exemption.” Appellants’ Br. at 
+61 (quoting 29 U.S.C. §§ 1106(a)(1), 1108(b)(2)(A)). But, as we have explained, it 
+falls on Plaintiffs—not Cornell—to allege in the first instance that the transactions 
+were unnecessary or that the compensation was unreasonable. Plaintiffs have 
+done neither. 
+Our conclusion is unchanged when we look —as Plaintiffs ask us to do in 
+the alternative —beyond the allegations of Count IV and to those of Count III, 
+which asserts a claim that Cornell breached the duty of prudence by allowing the 
+Plans to pay unreasonable administrative fees. While Plaintiffs have alleged 
+several forms of procedural deficiencies with regard to recordkeeping, their 
+complaint does not plausibly allege that the compensation was itself unreasonable. 
+For example, Plaintiffs claim that Cornell failed to seek bids from other 
+recordkeepers and neglected to monit or the amount of revenue sharing received 
+by TIAA -CREF and Fidelity. Such process -oriented allegations may well be 
+sufficient to state claim for a breach of the duty of prudence, as the district court 
+here found, but they cannot sustain a claim pursuant t o § 1106(a)(1)(C) and 
+§ 1108(b)(2)(A). 
+
+Closer, yet still insufficient, are Plaintiffs ’ allegations that the Plans paid 
+substantially more than what the C omplaint identifie d as a “reasonable 
+recordkeeping fee.” A. 111. According to the C omplaint, “a reasonable 
+recordkeeping fee for the Plans would have been $1,050,000 in the aggregate for 
+both Plans combined,” calculated using “a flat fee based on $35 per participant.” 
+Id. The Plans allegedly paid many times more than that: Plaintiffs alleged that 
+“the Retirement Plan paid between $2.9 and $ 3.4 million (or approximately $115 
+to $183 per participant) per year from 2010 to 2014” and “the TDA Plan paid 
+between $1.8 and $2.2 million (or approximately $145 to $200 per participant) per 
+year from 2010 to 2014.” A. 111 –12. But it is not enough to allege that the fees 
+were higher than some theoretical alternative service. Whether fees are excessive 
+or not is relative “to the services rendered,” Jones, 559 U.S. at 346 , and it is not 
+unreasonable to pay more for superior services. Yet, here, Plaintiffs have failed 
+to allege any facts going to the relative quality of the recordkeeping services 
+provided, let alone facts that would suggest the fees were “so disproportionately 
+large” that they “could not have been the product of arm’s -length bargaining.” 
+Id. Consequently, we affirm the district court’s dismissal of Count IV. 
+
+B. “Parsing” of Count V 
+Plaintiffs also argue that the district court improperly parsed Count V at the 
+motion-to-dismiss stage by separately addressing each of the six categories of 
+allegations made in connection with the count and holding that only two —those 
+relating to the retention of certain high-cost investment options and those relating 
+to the share-class claim—succeeded in stating claims, while dismissing the others. 
+When a “complaint relies on circumstantial factual allegations to show a breach of 
+fiduciary duties under E RISA,” the question on a motion to dismiss is whether 
+those particular allegations “give rise to a ‘reasonable inference’ that the defendant 
+committed the alleged misconduct.” PBGC, 712 F.3d at 718–19 (quoting Iqbal, 556 
+U.S. at 678) (emphasis omitted). This evaluation “requires assessing ‘the 
+allegations of the complaint as a whole’” and drawing all “reasonable inference[s]” 
+in the plaintiff’s favor. Id. at 719 (quoting Matrixx Initiatives Inc. v. Siracusano, 563 
+U.S. 27, 47 (2011)). Where, as here, a plaintiff’s claim of breach depends on a 
+fiduciary’s process in managing a plan, a court may appropriately find that the 
+
+allegations “considered as a whole” state a claim for relief even if no single 
+allegation “directly addresses the process.” Braden, 588 F.3d at 596. 
+But the imperative that a court consider the complaint “as a whole” does not 
+mean that in all cases the entirety of any particular count must stand or fall as one. 
+Far from it. Under the Federal Rules of Civil Procedure, “a plaintiff may plead 
+two or more s tatements of a claim, even within the same count, regardless of 
+consistency.” Henry v. Daytop Vill., Inc. , 42 F.3d 89, 95 (2d Cir. 1994) (citing Fed. 
+R. Civ. P. 8(e)(2) (1987) (current version at Fed. R. Civ. P. 8(d)(2))); see Fed. R. Civ. 
+P. 8(d)(2) (“A party may set out 2 or more statements of a claim or defense 
+alternatively or hypothetically, either in a single count or defense or in separate 
+ones.”). Thus, in a single count, a plaintiff may plead multiple —sometimes 
+contradictory—theories of liability. Whe n that is the case, it is incumbent on the 
+court to address each theory on its own merit, separating out as necessary the 
+allegations underlying the various claims. See, e.g. , Rinehart v. Lehman Bros. 
+Holdings Inc., 817 F.3d 56, 66 –67 (2d Cir. 20 16) (noting that “[p]laintiffs allege in 
+Count II” two different “theor[ies]” of imprudence and assessing each theory 
+separately). That is precisely what the district court did in this case when it 
+assessed individually each of the categories of allegations included in Count V to 
+
+determine whether any supported an inference that there were flaws in 
+Defendants’ processes that could, in turn, give rise to a cause of action for fiduciary 
+breach. 
+In challenging the district court’s evaluation, Plaintiffs misunderstand the 
+limited nature of the district court’s dismissal order. Central to Plaintiffs’ 
+contention of error is their argument that by dismissing the allegations relating to 
+Cornell’s alle ged failure to streamline the investment menus and to engage in 
+adequate monitoring (the fifth and sixth categories of allegations in Count V, 
+respectively), the district court precluded consideration of relevant pieces of 
+“circumstantial evidence supporting the overall claim in Count V that Defendants 
+had a flawed investment-review process.” Appellants’ Br. at 23. But that is not 
+what the district court did. The district court’s summary judgment decision, as 
+well as its Rule 37 order denying Defendants’ motion to exclude evidence 
+purportedly unrelated to the non -dismissed allegations , made clear that the 
+court’s determination at the motion- to-dismiss stage was essentially limited to 
+rejecting claims that breaches of “a procedural duty ” could support a claim for 
+relief even in the absence of allegations of harm resulting to the plan and its 
+participants. Cunningham v. Cornell Univ ., No. 16 -CV-6525 (PKC), 2019 WL 
+
+4735876, at *11 (S.D.N.Y. Sept. 27, 2019) (quoting In re SunEdison, Inc. ERISA Litig., 
+331 F. Supp. 3d 101, 114 (S.D.N.Y. 2018), aff’d sub nom. O’Day v. Chatila, 774 F. App’x 
+708 (2d Cir. 2019)); see also Cunningham, 2017 WL 4358769, at *6 (“[W]hile plaintiffs 
+claim that the Plans offered too many options to participants, they do not allege 
+that any plan participant was actually harmed by defendants’ failure to reduce the 
+number of options available.”). 
+Significantly, the district court did not preclude Plaintiffs from relying on 
+evidence related to those alleged procedural errors to support its theory of breach 
+and loss premised on the retention of imprudent investment options. To the 
+contrary, in ruling on summary judgment, the district court extensively discussed 
+the evidence of Defendants’ putative deficiencies in monitoring the Plans’ options 
+and their retention of numerous investment options in addressing whether 
+Defendants had acted imprudently in not removing various underperforming 
+funds. Cunningham , 2019 WL 4735876, at *11–16. In this context, it is clear that 
+the district court’s decision on the motion to dismiss was not an improper 
+“parsing” of Count V, but rather a refining of it so as to identify clearly the theories 
+upon which Plaintiffs had stated a claim. We accordingly find no merit in 
+
+Plaintiffs’ objections to the district court’s evaluation of Count V at the motion-to-
+dismiss stage. 
+II. Grant of Summary Judgment 
+“We review a grant of summary judgment de novo and may affirm on any 
+basis that finds support in the record.” Tolbert v. Smith, 790 F.3d 427, 434 (2d Cir. 
+2015) (internal citations omitted). Summary judgment is appropriate “only when 
+no genuine issue of material fact exists and the movant is entitled to judgment as 
+a matter of law.” Riegel v. Medtronic, Inc., 451 F.3d 104, 108 (2d Cir. 2006) , aff'd, 
+552 U.S. 312 (2008) ; see also Fed. R. Civ. P. 56(a). A fact is material if it “might 
+affect the outcome of the suit under the governing law.” Anderson v. Liberty Lobby, 
+Inc., 477 U.S. 242, 248 (1986). An issue of material fact is “genuine” if “the 
+evidence is such that a reasonable jury could return a verdict for the nonmoving 
+party.” Id. In determining whether summary judgment is appropriate , we 
+must “construe the facts in the light most favorable to the non- moving party and 
+must resolve all ambiguities and draw all reasonable inferences against the 
+movant.” Aulicino v. N.Y.C . Dep’t of Homeless Servs. , 580 F.3d 73, 79– 80 (2d Cir. 
+2009) (internal quotation marks omitted). 
+
+Plaintiffs contend on appeal that the district court erred in granting 
+summary judgment to Defendants on the duty of prudence claim in Count III, 
+premised on recordkeeping fees, and those duty of prudence claims in Count V 
+that survived the motion to dismiss, premised on the retention of 
+underperforming investment options and on the failure to transition to lower-cost 
+institutional shares.11 We address each of Plaintiffs’ claims in turn. 
+A. Recordkeeping Fees Claim (Count III) 
+Plaintiffs argue that the district court erred in awarding summary judgment 
+to the Cornell Defendants on Plaintiffs’ claim that they breached their duty of 
+prudence by failing to monitor and control the recordkeeping fees paid to TIAA 
+and Fidelity. In par ticular, Plaintiffs argue that the Cornell Defendants acted 
+imprudently by failing (1) to determine whether the amount of revenue sharing 
+with the recordkeepers was competitive or reasonable; (2) to solicit bids from 
+competing recordkeepers on a flat fee or per participant basis; and (3) to engage in 
+a reasoned decision-making process to determine whether the Plans should move 
+to a single recordkeeper. The district court concluded that genuine issues of 
+
+11 As discussed supra, the district court granted only partial summary judgment 
+on Count V. 
+
+material fact remained with respect to whether the Cornell Defendants breached 
+the duty of prudence, but nevertheless granted summary judgment in favor of the 
+Cornell Defendants because Plaintiffs failed to establish that any breach resulted 
+in loss. Cunningham, 2019 WL 4735876, at *5–7. Because we agree that Plaintiffs 
+failed to meet their burden as to loss, we affirm.12 
+ To obtain damages for a fiduciary breach pursuant to 29 U.S.C. § 1104(a), it 
+is not enough to show that the defendant’s conduct failed to meet the high 
+standard erected by the duty of prudence; the plaintiff must also prove that a “loss 
+resulted from that failure.” Silverman v. Mut. Benefit Life Ins. Co., 138 F.3d 98, 104 
+(2d Cir. 1998); see 29 U.S.C. § 1109(a) (“Any person who is a fiduciary . . . shall be 
+personally liable to make good to [the] plan any losses to the plan resulting from 
+[a] breach.”). “Losses are measured by the difference between the plan’s actual 
+performance and how the plan would have performed if the funds had been 
+[operated] like other funds being [properly operated] during the same period.” 
+Trs. of Upstate N.Y. Eng’rs Pension Fund v. Ivy Asset Mgmt., 843 F.3d 561, 567 (2d Cir. 
+2016) (internal quotation marks and citation omitted). However, in recognition 
+
+12 Having concluded that Plaintiffs did not meet their burden regarding loss, we 
+do not address the district court’s determination that genuine issues of material fact 
+precluded summary judgment on whether the Cornell Defendants breached the duty of 
+prudence. 
+
+of the “superior access to information” the fiduciary commonly has , when a 
+plaintiff alleges excessive fees , we do not require that the plaintiff prove that the 
+“alternative fee range s” established by the plaintiff are “the only plausible or 
+prudent ones.” Sacerdote v. New York Univ., 9 F.4th 95, 113 (2d Cir. 2021) (citation 
+omitted). Instead, once the plaintiff has “prove[n] that the charged fees were 
+imprudent,” in the sense that the charges were the result of the fiduciary’s 
+imprudent actions, and “shown a prudent alternative,” “the burden under ERISA 
+shifts to the defendant[] to disprove any portion of potential damages by showing 
+that the loss was not caused by the breach of fiduciary duty”—that is, by showing 
+that some or all of the loss would have still occurred had “the fiduciary . . . not 
+breached its duty.” Id.13 
+ On appeal, Plaintiffs contend that, having advocated a genuine dispute 
+regarding the Cornell Defendants’ breach of duty, they need only “show an 
+expenditure for recordkeeping fees” to “establish a genuine dispute regarding 
+
+13 Though some of our sister circuits have described this burden -shifting regime 
+in terms of the distinction between the elements of “loss” and “causation,” see, e.g. , 
+Brotherston v. Putnam Invs., LLC , 907 F.3d 17, 33 (1st Cir. 2018) , we have generally 
+refrained from doing so because of the confusion such terminology may generate in cases 
+concerning one fiduciary’s liability for losses relating to another fiduciary’s actions, see 
+Silverman, 138 F.3d at 106 (Jacobs, J., with Meskill, J., concurring) (noting that requiring 
+the plaintiff to prove causation served as a check on the “broadly sweeping liability” of a 
+new fiduciary for plan losses caused by a prior fiduciary’s breaches). 
+
+loss.” Appellants ’ Br. at 51. Mere proof that “the Plans paid TIAA and Fidelity 
+recordkeeping fees (though the exact amount is disputed)” is all Plaintiffs argue 
+they must show to make out their prima facie claim. Id. This misunderstands 
+our precedent. While it is true that Defendants ultimately bear the burden of 
+proof as to the objective reasonableness of improvidently paid fees, Plaintiffs must 
+do more than establish only that some payment was made; they must also show, 
+at a minimum, that there was a “prudent alternative” to the allegedly imprudent 
+fees paid. Sacerdote, 9 F.4th at 113. That is, Plaintiffs must provide evidence of 
+a “suitable benchmark[]” against which loss could be measured. Brotherston v. 
+Putnam Invs., LLC, 907 F.3d 17, 34 (1st Cir. 2018). This they have not done. 
+ At the summary judgment stage, Plaintiffs sought to establish loss primarily 
+through the testimony of two putative experts on the subject of the market for 
+contribution plan recordkeeping, Al Otto and Ty Minnich. Both declared that, in 
+their “experience,” a reasonable recordkeeping rate for the Plans would have been 
+$35 to $40 per participant. Cunningham, 2019 WL 4735876, at *9–10. But neither 
+offered any cognizable methodology in support of their conclusions, instead 
+simply referencing their knowledge of the relevant industry and a few examples 
+of other university plans that paid lower fees, though without explaining how 
+
+these putative comparators were selected. Given these deficiencies, the district 
+court did not abuse its discretion in excluding Otto’s and Minnich’s testimony on 
+the recordkeeping fees. See In re Pfizer Inc. Sec. Litig., 819 F.3d 642, 665 (2d Cir. 
+2016) (“If the opinion is based on data, a methodology, or studies that are simply 
+inadequate to support the conclusions reached, Daubert [v. Me rrell Dow 
+Pharmaceuticals, Inc., 509 U.S. 579 (1993)] and Rule 702 [of the Federal Rules of 
+Evidence] mandate the exc lusion of that unreliable opinion testimony.” (internal 
+quotation marks omitted)). 
+ After the exclusion of Plaintiffs’ expert testimony, what remains are 
+numerical data from TIAA and CAPTRUST —scattered numbers of plan 
+participants, assets, and recordkeeping fees for certain plans —which are 
+insufficient standing alone to show loss. In pa rticular, Plaintiffs cite (1) TIAA’s 
+pricing data showing the Plans paid fees higher than the 25th percentile of TIAA’s 
+“200 largest clients,” A. 2167 , 2301–02, and (2) CAPTRUST’s data identifying a 
+handful of plans with over 10,000 participants that paid lower recordkeeping fees 
+than the Plans based on certain measures, A. 2303, 2496. But a district court is not 
+required to “scour the record” to find losses. CILP Assocs., L.P. v. PriceWaterhouse 
+Coopers LLP, 735 F.3d 114, 125 (2d Cir. 2013) (internal quotation marks omitted). 
+
+And, as the district court explained, absent admissible “expert testimony opining 
+on why [these data are] based upon relevant comparators or would lead a 
+reasonable juror to conclude that Cornell could have achieved lower fees,” 
+Cunningham, 2019 WL 4735876, at *6 , such data are not enough, on their own, to 
+establish a “prudent alternative” fee , Sacerdote, 9 F.4th at 113, or otherwise prove 
+loss. 
+ Accordingly, having concluded that Plaintiffs’ evidence was insufficient to 
+demonstrate a genuine dispute of material fact as to whether the Plans suffered 
+loss, we affirm the award of summary judgment to the Cornell Defendants on 
+Count III.14 
+B. Retention of Certain Investment Options Claim (Count V) 
+Next, Plaintiffs challenge the district court’s grant of summary judgment to 
+Defendants on the claim, found in Count V, that Cornell and CAPTRUST 
+
+14 In the alternative, Plaintiffs argue that it was improper for the district court to 
+grant summary judgment on Count III based on the failure to show loss because, in 
+addition to seeking damages, Plaintiffs sought equitable relief, including reformation of 
+the Plans to require bids for recordkeeping. See Brock v. Robbins, 830 F.2d 640, 647 (7th 
+Cir. 1987). However, as the district court noted, Plaintiffs failed to make this argument 
+below and thus can be inferred to have abandoned it. See Jackson v. Fed. Express, 766 F.3d 
+189, 198 (2d Cir. 2014) (“[A] court may . . . infer from a party ’s partial opposition that 
+relevant claims or defenses that are not defended have been abandoned”); Katel Ltd. Liab. 
+Co. v. AT & T Corp., 607 F.3d 60, 68 (2d Cir. 2010) (“An argument raised for the first time 
+on appeal is typically forfeited.”). 
+
+employed a flawed process in reviewing the set of investment options made 
+available through the Plans and, as a result, failed to remove underperforming 
+options. Plaintiffs ’ theory of liability separates the class period into two parts, 
+with the dividing line being July 2013, when CAPTRUST presented the RPOC with 
+a quantitative assessment of the Plans’ investment options. 
+As to the pre -July 2013 period, Plaintiffs argue that Cornell lacked a 
+sufficient process for reviewing the performance of the investment options, 
+instead relying on the “opinions of conflicted non -fiduciary third parties (TIAA 
+and Fidelity) as to whether their proprietary investments complied with ERISA.” 
+Appellants’ Br. at 33. As to the post -July 2013 period, Plaintiffs largely take issue 
+with what they characterize as a five-year delay on the part of the RPOC to act on 
+CAPTRUST’s identification of underperforming funds . They also argue that 
+CAPTRUST breached its duties by “fail[ing] to review the Plans’ investment s for 
+the first 19 months of its tenure” and then conducting a review that “was of 
+generally lower quality than its work for other clients.” Id. at 34–35. Because 
+we conclude that a review of the record fails to reveal sufficient evidence for a 
+rational trier of fact to find in Plaintiffs’ favor on any of these theor ies, we affirm 
+the district court’s grant of summary judgment to Defendants on this claim. 
+
+To establish a breach of the duty of prudence, a plaintiff must, as discussed 
+above, show that the fiduciary’s conduct fell below the “[p]rudent man standard 
+of care.” 29 U.S.C. § 1104(a). An ERISA fiduciary acts imprudently “by failing 
+to properly monitor investments and remove imprudent ones.” Tibble, 575 U.S. 
+at 530. Accordingly, “plan fiduciaries are required to conduct their own 
+independent evaluation to determine which investments may be prudently 
+included in the plan’s menu of options” and they must “remove [any] imprudent 
+investment from the plan within a reasonable time.” Hughes v. Nw. Univ., 142 S. 
+Ct. 737, 742 (2022). 
+That said, “[b]ecause the content of the duty of prudence turns on ‘the 
+circumstances . . . prevailing’ at the time the fiduciary acts, the appropriate inquiry 
+will necessarily be context specific.” Fifth Third Bancorp v. Dudenhoeffer, 573 U.S. 
+409, 425 (2014) (quoting 29 U.S.C. § 1104(a)(1)(B)). Moreover, “[a]t times, the 
+circumstances facing an ERISA fiduciary will implicate difficult tradeoffs, and 
+courts must give due regard to the range of reasonable judgments a fiduciary may 
+make based on her experience and expertise.” Hughes, 142 S. Ct. at 742. So, 
+when we ask “whether a fiduciary employed the appropriate methods to 
+investigate and determine the merits of a particular investment,” we do so “based 
+
+upon information available to the fiduciary at the time of each investment decision 
+and not from the vantage point of hindsight.” PBGC, 712 F.3d at 716 (internal 
+quotation marks and citations omitted). 
+Given this context-sensitive inquiry, we conclude that no reasonable trier of 
+fact could determine that Cornell’s process was flawed such that Cornell violated 
+its duty of prudence. Turning first to the pre -July 2013 period, Plaintiffs have 
+failed to put forward any evidence suggesting that Cornell’s process for evaluating 
+the performance of its investment line-up fell below the then-prevailing fiduciary 
+standard. While Cornell’s oversight did improve with time, it had processes to 
+review the Plan’s inves tment options at all points during the class period. As 
+Paul Bursic , the Senior Director of the Benefits Department , testified, Cornell’s 
+Benefits Department regularly “received and reviewed detailed performance and 
+investment disclosures for all the plans’ investment options”—prior to the RPOC’s 
+formation—which were prepared by TIAA and Fidelity and included 
+“performance benchmarking information.” D.J.A. 283. In addition to 
+distributing these disclosures to plan participants, id., the Benefits Departmen t 
+used them to identify “potential problems,” such as “funds that may be in 
+trouble,” D.J.A. 194. Though Bursic acknowledged that this level of monitoring 
+
+may fall below the expectations for plan fiduciaries today, he testified that it was 
+consistent with then- prevailing standards, see D.J.A. 193—a point that Plaintiffs’ 
+evidence does not refute.15 
+After the Internal Revenue Service updated its regulations on 403(b) plans, 
+Cornell formed the RPOC for the purpose of enhancing oversight of the plans. 
+Cornell then engaged CAPTRUST as an outside consultant and launched a multi-
+year process focused on redesigning and streamlining the investment menu. The 
+process, unsurprisingly, took time to implement. Initially, there was a “set -up 
+period” during which Cornell “continued to do [its] work as [it] had for years 
+before through the Benefits [Department] ,” while also developing an Investment 
+Policy Statement (“IPS”) with CAPTRUST to guide the evaluation of investment 
+options going forward. A. 1007, 1056–60. Once the IPS was approved in late 
+2012, Cornell initiated a much more systematized and in -depth review of the 
+investment options, beginning in earnest with CAPTRUST ’s presentation of its 
+performance analysis in July 2013. 
+
+15 Indeed, though we do not rely on it, we observe that the fact that Plaintiffs ’ 
+counsel have brought claims premised on similar purported process failures against 
+numerous other university plan fiduciaries, see Petition for Writ of Certiorari at 8, Hughes, 
+142 S. Ct. 737 (No. 19-1401) (noting that the actions against various university 403(b) plans 
+have all involved “substantively identical” allegations) , tends to undermine the 
+argument that such processes fell below the then-prevailing fiduciary standard. 
+
+In this context, Cornell considered not only CAPTRUST’s bottom -line 
+recommendations, but also the quantitative and qualitative criteria described in 
+the IPS, the availability of options among peer institutions, and the popularity of 
+options among plan participants in developing a revised menu of investment 
+options. With regard to the post-July 2013 period, Plaintiffs accuse Cornell of 
+merely “passively accept[ing]” CAPTRUST’s proposal without engaging more 
+deeply in the monitoring process. Appellants’ Br. at 37. But, as the district court 
+explained, such an accusation is inconsistent with the record . The undisputed 
+evidence shows that the RPOC engaged critically with CAPTRUST’s presentation, 
+asking questions and, at times, expressing concerns about CAPTRUST’s 
+methodologies for evaluating particular investments. 
+Cornell’s review of the Plans ultimately led to the rollout of a new 
+investment menu beginning in 2017. Plaintiffs argue that this delay in removing 
+the underperforming investment options fell below the fiduciary standard. But, 
+given ERISA’s command to evaluate a fiduciary’s actions “based upon 
+information available to the fiduciary at the time of” the decision, PBGC, 712 F.3d 
+at 716, we conclude there is no genuine dispute at to whether Cornell acted to 
+streamline the investment menu “within a reasonable time,” Hughes, 142 S. Ct. at 
+
+742. As Plaintiffs acknowledge, the delay in rolling out the streamlined 
+investment menu was largely due to the time the RPOC took to assess the risk of 
+disruption to participants associated with a drastic change to the investment line-
+up and to ensure that alternative investment options would still remain available 
+to participants. 
+Though Plaintiffs dismiss these concerns as “nonpecuniary goals” that an 
+ERISA fiduciary should not be permitted to rely on, Appellants ’ Reply Br. at 24, 
+we disagree. “ An ERISA defined [-]contribution plan is designed to offer 
+participants meaningful choices about how to invest their retirement savings.” 
+Renfro v. Unisys Corp., 671 F.3d 314, 327 (3d Cir. 2011). Accordingly, in the context 
+of a defined -contribution plan, one “component of the duty of prudence” is “a 
+fiduciary’s obligation to assemble a div erse menu of options” for participants. 
+Hughes, 142 S. Ct. at 741–42. It is thus consistent with the fiduciary’s duty to take 
+steps to ensure that participants’ ability to make selections among “a broad range 
+of investment alternatives,” 29 C.F.R. § 2550.404c-(b)(3)(i), is not merely illusory. 
+We also conclude that no reasonable jur y could find that CAPTRUST was 
+imprudent in its conduct. Plaintiffs’ allegations of delayed and deficient 
+performance do not find support in the record. As discussed above, upon 
+
+retention, CAPTRUST began working with Cornell to develop its process for 
+reviewing investment-option performance, helping to create and then effectuate 
+the IPS. Plaintiffs offer no evidence that it carried out these tasks in a subpar way, 
+instead merely pointing out differences in the amount of detail between 
+CAPTRUST’s July 2013 presentation and an analysis provided to a different 
+university. But Plaintiffs offer no reason to assign to this difference the 
+significance they suggest. Accordingly, we affirm the district court’s award of 
+summary judgment to Defendants on this claim. 
+C. Share Class Claim (Count V) 
+Finally, Plaintiffs argue that the district court erred in awarding partial 
+summary judgment to the Cornell Defendants on the share-class claim. With 
+regard to this claim, the district court concluded that issues of material fact 
+precluded summary judgment as to whether Cornell violated its fiduciary duty by 
+failing to swap out the higher -cost retail shares offered through the Plans for 
+lower-cost, but otherwise identical, institutional shares. Nevertheless, the 
+district court held that for all the funds other than one in particular —the TIAA-
+CREF Lifecycle fund —Plaintiffs had not come forward with evidence that the 
+funds in question met the eligibility threshold for the lower-cost share classes, thus 
+
+precluding any finding of loss attributable to Cornell’s purported deficiencies. 
+Accordingly, the court granted summary judgment to the Cornell Defendants 
+except with regard to the Lifecycle fund. On appeal, Plaintiffs challenge the 
+district court’s conclusions regarding loss. In opposition, Cornell Defendants, in 
+addition to defending the district court’s loss holding , urge us to affirm on the 
+alternative ground that Plaintiffs’ evidence was insufficient to create a genuine 
+issue as to whether Cornell a cted imprudently. Because we agree that Plaintiff s 
+failed to produce evidence of imprudence, we affirm. 
+In its summary judgment decision, the district court explained that Plaintiffs 
+had presented evidence that, although TIAA began offering identical institutional 
+share classes for its mutual funds to certain defined contribution plans in 2009, 
+Cornell did not transition any of its funds to institutional shares with TIAA until 
+early 2012. The district court held that this was sufficient evidence of imprudence, 
+relying on its determination that “[t]he re is no evidence in the form of affidavits 
+or otherwise th at anyone at Cornell attempted to transition to the institutional 
+share class funds before February 22, 2012.” Cunningham, 2019 WL 4735876, at 
+*17. But this analysis overlooked that Cornell did, in fact, present evidence that 
+it had tried to effectuate such a transition but was rebuffed. 
+
+Specifically, according to his deposition testimony, prior to 2011, Bursic had 
+“lobbied the president of TIAA” on numerous occasions to allow Cornell’s Plans 
+to transition to institutional shares, arguing that it was not appropriate for large 
+plans like Cornell’s to be paying the same fees as the much less sizable plans 
+associated with small liberal arts colleges like nearby Ithaca College. D.J.A. 189. 
+Bursic testified that although TIAA “very clearly and very firmly” denied the 
+requests, he continued to “tr[y] very hard” to push for this change, even as Fidelity 
+began to permit Cornell to transition to lower -cost share classes in 2010. D.J. A. 
+130, 136, 189 –90. These efforts remained unsuccessful until 2012, when 
+CAPTRUST became involved and helped Cornell negotiate a new contract with 
+TIAA that capped the total revenue TIAA could collect from the Plans and had 
+TIAA refund excess revenue to the Plans.
+
+16 Additionally, though it was undisputed that TIAA began offering institutional 
+share classes for its mutual funds in 2009 and that some non- Cornell 403(b) clients 
+transitioned to using those share classes around that time, Plaintiffs did not identify any 
+evidence supporting its contention that TIAA would have then considered the Plans to 
+be eligible categorically for these types of shares. In particular, although Plaintiffs’ Local 
+Rule 56.1 statement asserted that all defined contribution plans were eligible for 
+institutional share classes if they had over $2 million invested in most of the funds, the 
+record evidence cited therein does not support this claim. See A. 954–60, 2303, 2377–78. 
+On appeal, Plaintiffs have identified no alternative support for this proposition and, in 
+any case, “[a] court is permitted to rely solely upon Local Rule 56.1 statements [and the 
+materials cited therein] in deciding motions for summary judgment” and may do so “to 
+the exclusion of other facts in the record.” Tompkins v. Metro-N. Commuter R.R. Co., 983 
+
+Given this evidence, a reasonable finder of fact could not conclude that 
+Cornell could have forced, or should have tried harder to force, TIAA to offer the 
+Plans the lower -cost share funds at an earlier date. Accordingly, we affirm the 
+grant of summary judgment for Defendants on this claim. 
+CONCLUSION 
+We have considered all of Plaintiffs’ contentions on appeal and have found 
+in them no basis for reversal. For the foregoing reasons , we AFFIRM the 
+judgment of the district court. 17 Defendants’ conditional cross -appeals are 
+dismissed as moot. 
+
+F.3d 74, 81 n.26 (2d Cir. 2020). 
+17 Because we do not remand any claims to the district court, Plaintiffs’ arguments 
+regarding the class period end date and Defendants’ appeal of the district court’s denial 
+of Cornell’s motion to strike Plaintiffs’ jury demand are moot.

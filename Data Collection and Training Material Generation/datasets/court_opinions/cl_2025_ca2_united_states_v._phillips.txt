@@ -1,0 +1,1378 @@
+24-1908-cr 
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+August Term, 2024 
+(Argued: April 2, 2025 Decided: September 3, 2025) 
+Docket No. 24-1908-cr 
+
+UNITED STATES OF AMERICA, 
+Appellee, 
+ v. 
+NEIL PHILLIPS, 
+Defendant–Appellant. 
+
+Before: S ACK, BIANCO, AND MERRIAM, Circuit Judges. 
+Defendant-Appellant Neil Phillips appeals from a conviction for 
+commodities fraud. Phillips, a U.K. citizen and former hedge fund manager, was 
+confident that the South African rand would strengthen against the United States 
+dollar after the results of a South African election. Based on that prediction, he 
+purchased a one-touch barrier option on behalf of his hedge fund that would pay 
+out $20 million if, at any point before the option’s expiration date, the rand-to-
+dollar exchange rate dropped below 12.50 rand to 1 dollar. About a week before 
+the option’s expiration date, Phillips, while in South Africa, instructed a banker 
+in Singapore to sell dollars to buy rand until the exchange rate dropped below 
+the 12.50 needed to trigger the option; the banker obliged, and Phillips’s hedge 
+fund was paid the $20 million. The government indicted Phillips in the Southern 
+District of New York for commodities fraud in violation of the Commodity 
+Exchange Act (“CEA”), which regulates derivative financial instruments such as 
+the one-touch barrier option, based on a theory that Phillips traded with the 
+intent to deceive the counterparty to the option into paying out the $20 million. 
+
+After Phillips was convicted following a jury trial, he moved for acquittal or new 
+trial. The district court (Lewis J. Liman, Judge) denied Phillips’s motion. 
+On appeal, Phillips contends that the district court erred by (1) failing to 
+instruct the jury on the proper standard for whether Phillips’s foreign conduct 
+had a “direct and significant connection with activities in, or eﬀect on, commerce 
+of the United States,” as required for the United States to have extraterritorial 
+jurisdiction under the CEA, 7 U.S.C. § 2(i)(1); (2) concluding that there was 
+suﬃcient evidence of such a connection; (3) failing to properly instruct the jury 
+on Phillips’s intent; (4) failing to require the jury to find that Phillips created an 
+artificial price in the dollar-rand exchange market; (5) concluding that there was 
+suﬃcient evidence that Phillips’s fraud was material to a counterparty to the 
+option; and (6) convicting Phillips even though his case presented multiple issues 
+of first impression, in violation of his due process rights. We conclude that 
+Phillips failed to meet his burden to show that the district court’s 
+extraterritoriality instruction was erroneous and that there was suﬃcient 
+evidence that his conduct had a “direct and significant connection with activities 
+in . . . [U.S.] commerce” because the two financial institutions who had 
+obligations to pay out the option were based in the United States—the sort of 
+connection that, based on the language and context around the enactment of the 
+Dodd-Frank amendments to the CEA, Congress intended to regulate. We also 
+conclude that Phillips failed to meet his burden to show that the district court 
+erred regarding its instruction on intent, its decision not to include an instruction 
+requiring proof of an artificial price, and its conclusion that there was suﬃcient 
+evidence that Phillips’s fraud would have been material to a reasonable investor. 
+Finally, we conclude that Phillips had fair notice that his conduct was unlawful, 
+and his due process rights therefore were not violated. Accordingly, the district 
+court’s judgment is AFFIRMED. 
+
+F
+OR APPELLEE: THOMAS S. BURNETT, 
+Assistant United States Attorney (Andrew 
+M. Thomas, Nathan Rehn, Assistant United 
+States Attorneys, on the brief), for Jay 
+Clayton, United States Attorney for the 
+Southern District of New York, New York, 
+NY; 
+
+FOR DEFENDANT-APPELLANT: SEAN HECKER 
+(Jenna M. Dabbs, David Gopstein, Trevor 
+W. Morrison, Anne R. Yearwood, on the 
+briefs), Hecker Fink LLP, New York, NY, for 
+Defendant-Appellant Neil Phillips. 
+
+SACK, Circuit Judge: 
+Neil Phillips, a former hedge fund manager, appeals from his conviction 
+for commodities fraud based on his conduct related to a foreign-exchange 
+derivative. See United States v. Phillips, No. 22-cr-138, 2024 WL 1300269 (S.D.N.Y. 
+Mar. 27, 2024). On appeal, he challenges the district court’s conclusion that the 
+Commodity Exchange Act (“CEA”) applied extraterritorially to his foreign 
+conduct, the court’s instructions to the jury on the elements of commodities 
+fraud, the suﬃciency of the evidence that his fraud would have been material to 
+a reasonable investor, and the court’s conclusion that his conviction did not 
+violate his right to due process. 
+For the reasons set forth below, we AFFIRM the district court’s judgment. 
+BACKGROUND 
+A. Glen Point Capital’s One-Touch Barrier Option 
+Phillips, a citizen of the United Kingdom, was the co-founder and co-Chief 
+Investment Oﬃcer of a U.K.-based hedge fund, Glen Point Capital. He and his 
+
+hedge fund operated in the foreign-exchange market, the global market for 
+trading national currencies. The most basic trade in the foreign-exchange market 
+is a “spot” trade, which is simply trading one currency for another—for example, 
+selling South African rand to buy U.S. dollars. The relative value of one currency 
+to another on the spot market—for example, how many rand it costs to buy one 
+dollar—is the “exchange rate” between the two currencies. See In re Foreign Exch. 
+Benchmark Rates Antitrust Litig., 74 F. Supp. 3d 581, 586–87 (S.D.N.Y. 2015); 
+Exchange Rate, Black’s Law Dictionary (12th ed. 2024). A litany of derivative 
+financial instruments based on exchange rates are also traded in global financial 
+markets. See, e.g., Dennis v. JPMorgan Chase & Co., 343 F. Supp. 3d 122, 142–43 
+(S.D.N.Y. 2018). 
+Phillips purchased one such derivative instrument on behalf of Glen Point 
+Capital in October 2017. At the time, one U.S. dollar was worth about 14 rand. 
+Phillips was confident that in December 2017, Cyril Ramaphosa would be elected 
+the new leader of South Africa’s ruling party, and if so, the rand would 
+strengthen against the dollar. Based on that prediction, Phillips purchased an 
+option that would pay out if, at some point between October 30, 2017, and 
+January 2, 2018, the exchange rate dropped below 12.50 rand to 1 dollar. This 
+
+type of option is called a “one-touch barrier option”—if 1 dollar were worth less 
+than 12.50 rand (the “barrier”) at any moment (“one touch”) during that period, 
+the option would be triggered. Phillips’s bet was a long shot: Glen Point Capital 
+paid only about $2 million for the one-touch barrier option, but it would receive 
+$20 million if the option were triggered. 
+The option that Glen Point Capital purchased was the product of a series 
+of transactions. The London oﬃce of Morgan Stanley International—a 
+subsidiary of Morgan Stanley, a financial company headquartered in the United 
+States—wrote and sold the option to a United Kingdom-based broker, JB Drax 
+Honoré (“JB Drax”), through JB Drax’s account at the Royal Bank of Scotland 
+(“RBS”), a U.K.-based bank. Glen Point Capital purchased the option through its 
+broker, the London branch of JPMorgan, a bank headquartered in the United 
+States. JPMorgan, functioning as the intermediary between Glen Point Capital 
+and RBS, entered into an identical oﬀsetting option with RBS. JPMorgan, as Glen 
+Point Capital’s prime broker, also guaranteed that it would pay $20 million to 
+Glen Point Capital if the option triggered. 
+JB Drax keeps the counterparties anonymous when it brokers a trade. As a 
+result, Glen Point Capital was unaware that Morgan Stanley International was on 
+
+the other side of the option. After writing and selling the option to JB Drax, 
+Morgan Stanley International also entered into an identical oﬀsetting option with 
+a diﬀerent, U.S.-based Morgan Stanley legal entity—Morgan Stanley Capital 
+Services (“Morgan Stanley Capital”). 
+The upshot of this series of transactions was that Morgan Stanley Capital 
+Services—rather than Morgan Stanley International—was the counterparty that 
+ultimately bore the risk of paying out $20 million if Glen Point Capital’s option 
+were triggered. And, whether or not RBS had first fulfilled its obligation to pay 
+JPMorgan the $20 million from Morgan Stanley Capital, JPMorgan would be 
+obliged to pay Glen Point Capital $20 million. 
+B. Phillips’s Trades Trigger the Option 
+Phillips almost nailed his bet. On December 18, 2017, as Phillips predicted, 
+Cyril Ramaphosa was elected party leader. That day, the value of the rand 
+soared, moving the exchange rate as low as 1 dollar to 12.52 rand—a whisker 
+from 12.50 but not quite enough to trigger the option. The rate soon went back 
+up to around 12.80 and fluctuated between 12.70 to 12.90 for the next couple of 
+days. 
+
+ Then Phillips decided to take matters into his own hands. On December 
+20, he told one of his employees, Phil Costa, that Costa might need “to start 
+fucking around in Dollar-Rand” to “lower” the exchange rate. Supp. App’x at 
+205–06. Phillips acknowledged that the option would not expire for a couple 
+more weeks, but that “it’d be really nice if we could get it done.” Supp. App’x at 
+206. So, Phillips told Costa that if the exchange rate hit 12.55, they should “lash it 
+through [12.50] tonight.” Supp. App’x at 206. But the rate never dropped to 
+12.55, and Costa did not act. Over the next several days, the rate continued to 
+hover above the 12.50 threshold. 
+ Around the Christmas holiday, Phillips tried again. He was in South 
+Africa at the time. On December 26, around 2:00 a.m. local time—midnight in 
+the United Kingdom, and still Christmas Day in the United States—Phillips 
+logged onto Bloomberg’s online trading platform. Because of the holiday and 
+the late hour, American and European markets were closed; with only Asian 
+markets open, the foreign-exchange market was far less liquid than usual, as 
+Phillips acknowledged on a phone call with Costa. Supp. App’x at 209 
+(“[T]here’s no liquidity now in dollar-rand because it’s Boxing Day.”). On 
+Bloomberg, Phillips directed a banker in Singapore working on behalf of a 
+
+Japanese bank to begin selling dollars for rand. Just as Phillips had instructed 
+Costa several days earlier, he told the banker that his “aim” was to “trade thru” 
+the 12.50 barrier. Supp. App’x at 524. Phillips specifically asked the banker to 
+“giv[e] bids,” Supp. App’x at 521, which meant he was willing to sell dollars to 
+buy rand at whatever price was being bid in the market without trying to get the 
+best price. This was uncommon behavior for Phillips; a trader who worked 
+under Phillips at Glen Point Capital would later testify that Phillips had never 
+told him to “give bids.” App’x at 1081–82. 
+ Phillips started by instructing the banker to sell $25 million dollars for 
+rand. That inched the exchange rate down from around 12.58 to 12.5675. He told 
+the banker to sell another $50 million. The price inched down further, but not 
+enough. He told the banker to sell another $200 million—again, not enough. So 
+he told the banker to sell in as many batches of $100 million as would be needed 
+to “get it thru” 12.50. Supp. App’x at 527–30. Ultimately, in less than an hour, 
+Phillips sold $725 million dollars for around 9 billion rand before the exchange 
+rate finally dropped to 12.499.
+1 Phillips immediately told the banker to “stop” 
+
+1 Of course, for Phillips to buy that much rand, someone had to be selling it. One of 
+those sellers was Morgan Stanley, which was selling to hedge its exposure to Phillips’s 
+option triggering. 
+
+selling and get him “pro[o]f of the print,” so that Phillips could verify that the 
+exchange rate had dipped below 12.50 and cash in on the option. Supp. App’x at 
+529. 
+Mission accomplished—except now Glen Point Capital was holding nearly 
+9 billion in rand that Phillips did not want. On the morning of December 26, a 
+few hours after completing the trades that triggered the option, Phillips told 
+Costa that “at some point we[’re] going to have to start buying this shit back,” 
+that is, selling rand to buy dollars. Supp. App’x at 209. But because the 
+exchange rate had quickly rebounded to 12.545 after Phillips stopped his 
+overnight trading, Glen Point Capital would be selling most of its rand at a loss. 
+So, Phillips told Costa to wait and see “[i]f [the exchange rate] starts coming 
+down” before selling, but that he did not “want to put any pressure on it.” Supp. 
+App’x at 210. 
+ Two days later, on December 28, the exchange rate had dropped to 
+12.2678, which meant Phillips could sell oﬀ the rand at a profit—but before doing 
+so, he saw another opportunity. In addition to the option at 12.50, Glen Point 
+Capital was holding another one-touch barrier option at 12.25. With that option 
+so close to triggering, Phillips told Costa: “[W]e might need to do a job on it.” 
+
+Supp. App’x at 212. A couple of hours later, Costa instructed a trader to sell up 
+to $100 million dollars for rand to “just hit the bids.” Supp. App’x at 214–19. The 
+exchange rate dipped below 12.25 after the trader had sold $35 million. Phillips 
+told Costa to stop because “[w]e thru”—that is, through the threshold to trigger 
+the option. Supp. App’x at 389. A few hours after this second one-touch barrier 
+option was triggered, Phillips told Costa to sell oﬀ most of the several billion in 
+rand that the fund had purchased on December 26 and 28. 
+C. Procedural History 
+In March 2022, a grand jury in the Southern District of New York indicted 
+Phillips for commodities fraud and conspiracy to commit commodities fraud 
+based on his conduct related to the one-touch barrier option.2 He was arrested 
+while on a family vacation in Spain and spent a month in a maximum-security 
+Spanish prison, where he was physically assaulted multiple times. He was 
+eventually extradited to the United Kingdom and then signed a waiver of 
+extradition to the United States. After his arraignment in the United States, he 
+posted bond and returned to the United Kingdom. 
+
+2 Phillips was also indicted for wire fraud and conspiracy to commit wire fraud. 
+However, the government did not elect to try those charges at trial. 
+
+The case went to a jury trial. Before trial, Phillips filed proposed jury 
+instructions, which included, as relevant here, an instruction about whether the 
+CEA reached his conduct, which primarily occurred abroad; an instruction on 
+the proper standard to prove his intent to deceive; and an instruction informing 
+the jury that it could not convict him of commodities fraud without proof that his 
+trading caused an artificial dollar-rand exchange rate. The district court declined 
+to adopt these instructions proposed by Phillips in its ultimate jury charge. 
+At trial, the government presented fourteen witnesses. Most were not 
+directly involved in the trades but instead spoke generally about the global 
+commodities market, regulatory requirements for commodities traders, and the 
+types of trades that Phillips executed. The government also introduced 
+transcripts of phone calls and records of online chats in which Phillips and his 
+subordinates at Glen Point Capital instructed bankers to make the trades at issue. 
+At the close of the government’s case, Phillips moved for acquittal; the 
+court reserved decision. Phillips then put on his own expert witness, who 
+testified that Phillips could have been buying rand not to influence the dollar-
+rand exchange rate, but to gain additional exposure to further strengthening of 
+the rand that the fund would lose if the one-touch barrier option was triggered—
+
+a strategy referred to as “replacing delta.” App’x at 1920–33. This testimony 
+conflicted with testimony from one of the government’s experts, who testified 
+that Phillips’s trading was inconsistent with a strategy to replace delta, not to 
+mention the phone calls and online chats in which Phillips said he was buying 
+rand to trigger the option. 
+The jury convicted Phillips of one count of commodities fraud and 
+acquitted him of the conspiracy count. Phillips moved for acquittal again and, in 
+the alternative, for a new trial. In support of his motion for acquittal, he argued 
+that the jury instruction on whether the CEA gave the United States jurisdiction 
+over his foreign conduct was erroneous and that, even if the jury instruction 
+correctly stated the law, there was insuﬃcient evidence of extraterritorial 
+jurisdiction. He also argued that there was insuﬃcient evidence that he had 
+fraudulent intent or that his fraud was material to Morgan Stanley Capital, the 
+ultimate counterparty to the option. In support of his motion for a new trial, 
+Phillips argued, among other things, that allowing the verdict to stand would 
+cause manifest injustice because he lacked adequate notice that his actions were 
+unlawful. 
+
+The district court (Lewis J. Liman, Judge) denied Phillips’s post-trial 
+motions. See Phillips, 2024 WL 1300269, at *33. The court sentenced Phillips to 
+time served, two years of supervised release, and a $1 million fine. Although the 
+court had calculated a 78-to-97-month guidelines range, it varied substantially 
+downward in light of the time Phillips spent in harsh conditions in the Spanish 
+prison and because the recommended sentencing enhancements based on the 
+calculated loss of $18 million overstated the seriousness of Phillips’s oﬀense. 
+DISCUSSION 
+On appeal, Phillips raises six issues with his conviction: (1) whether the 
+district court properly instructed the jury on the standard for whether Phillips’s 
+conduct was directly and significantly connected to activities in United States 
+commerce, as required to determine whether the United States had jurisdiction 
+over Phillips’s activities under the CEA; (2) whether, even if that standard was 
+correct, the court erred by determining that it was met here when Phillips’s 
+conduct took place abroad; (3) whether the court properly instructed the jury on 
+Phillips’s intent to deceive; (4) whether the court erred by not requiring the jury 
+to find that Phillips created an artificial price in the dollar-rand exchange market; 
+(5) whether there was suﬃcient evidence that Phillips’s fraud was material to a 
+counterparty to the option; and (6) whether Phillips’s due process rights were 
+
+violated by lack of fair notice that his conduct was unlawful. We discuss the 
+CEA’s framework for regulating financial instruments like the one-touch barrier 
+option before addressing Phillips’s arguments. 
+I. Swaps Regulation under the CEA and Dodd-Frank Act 
+The Commodity Exchange Act, as administered by the Commodity 
+Futures Trading Commission (CFTC), regulates trades of derivatives in 
+commodities. See generally 7 U.S.C. §§ 1–27f. Derivatives, such as futures and 
+options, are contracts that derive their value from the underlying commodities, 
+Inv. Co. Inst. v. CFTC, 720 F.3d 370, 372 (D.C. Cir. 2013); commodities, as defined 
+by the CEA, include everything from corn to copper to currencies, see 7 U.S.C. 
+§ 1a(9).3 Trades in commodity derivatives must be made on exchanges 
+designated and regulated by the CFTC. 7 U.S.C. §§ 2, 6. In contrast, the CEA 
+gives the CFTC relatively limited jurisdiction over “‘spot’ transactions 
+
+3 The CEA’s definition of “commodity” enumerates a long list of agricultural products, 
+which for several decades were the only goods covered under the CEA. See Salomon 
+Forex, Inc. v. Tauber, 8 F.3d 966, 970–72 (4th Cir. 1993). The CEA’s definition of 
+“commodity” was later expanded to include “all other goods and articles, except 
+onions . . . and motion picture box oﬃce receipts.” 7 U.S.C. § 1a(9); see Salomon Forex, 8 
+F.3d at 971–72. That catch-all language has been applied to metals, currencies, and 
+much more. See, e.g., Loeb Indus., Inc. v. Sumitomo Corp., 306 F.3d 469, 477 (2d Cir. 2002) 
+(copper); CFTC v. Am. Bd. of Trade, Inc., 803 F.2d 1242, 1248–49 (2d Cir. 1986) 
+(currencies). 
+
+(transactions for the immediate sale and delivery of a commodity) [and] ‘cash 
+forward’ transactions (in which the commodity is presently sold but delivery is, 
+by agreement, delayed or deferred).” Salomon Forex, Inc. v. Tauber, 8 F.3d 966, 970 
+(4th Cir. 1993). That diﬀerential treatment is by design. The CEA was enacted 
+during the Great Depression4 in response to concerns about “manipulation, 
+speculation, and other abuses that could arise” from trading derivatives; spot 
+and forward transactions were seen as posing less market risk than derivatives. 
+Id. at 970–71; see also Lynn A. Stout, Derivatives and the Legal Origin of the 2008 
+Credit Crisis, 1 Harv. Bus. L. Rev. 1, 27–29 (2011) (explaining how “speculative 
+trading in derivatives . . . can magnify shocks in underlying markets and amplify 
+them into risks that are many times larger than the underlying market itself”). 
+For many years, however, the CFTC lacked authority under the CEA to 
+regulate a form of derivative called a “swap.” Rena S. Miller, Cong. Rsch. Serv., 
+R48451, Introduction to Derivatives and the Commodity Futures Trading Commission 
+3–4 (2025). Contrary to futures and traditional options, which contemplate 
+delivery of or performance related to a commodity at some future time, swaps 
+are “pure financial instrument[s] . . . based on the diﬀerence between two 
+
+4 See Commodity Exchange Act, ch. 545, 49 Stat. 1491 (1936). 
+
+fluctuating values.” Hershey v. Energy Transfer Partners, L.P., 610 F.3d 239, 243 
+(5th Cir. 2010). An example of a swap is the type of one-touch barrier option at 
+issue here: The parties entered into a contract based on their expectations about 
+the relative value of dollars to rand. 
+Trading in swaps exploded in the early 2000s leading up to the 2008 
+financial crisis. Miller, supra, at 2. When that crisis occurred, many saw the 
+previous lack of regulation in swaps as a contributing cause. See id. at 3; Fin. 
+Crisis Inquiry Comm’n, The Financial Crisis Inquiry Report: Final Report of the 
+National Commission on the Causes of the Financial and Economic Crisis in the United 
+States at xxiv–xxv (2011), https://perma.cc/rsb2-vz2z (concluding that 
+unregulated swaps “contributed significantly” to the 2008 financial crisis, 
+including being at the “center of the storm” when the housing bubble burst). 
+In response, Congress passed the Dodd-Frank Wall Street Reform and 
+Consumer Protection Act (the “Dodd-Frank Act” or the “ Act”). Pub. L. 111-203, 
+124 Stat. 1376 (2010). The Act’s goal was to “promote the financial stability of the 
+United States by improving accountability and transparency in the financial 
+system.” Id. at 1376. Among other sweeping regulatory changes, the Act 
+brought much of the swaps market within the CFTC’s purview for the first time. 
+
+See id. § 722, 124 Stat. at 1672 (amending 7 U.S.C. § 2(a)(1)(A) to extend CFTC 
+jurisdiction to swaps). It defined “swap” broadly to encompass “any agreement, 
+contract, or transaction . . . that provides for any purchase, sale, payment, or 
+delivery (other than a dividend on an equity security) that is dependent on the 
+occurrence, nonoccurrence, or the extent of the occurrence of an event or 
+contingency associated with a potential financial, economic, or commercial 
+consequence.” Id. § 721, 124 Stat. at 1666 (amending 7 U.S.C. § 1(a)(47)).
+5 The 
+Act requires “swap dealers” and “major swap participants” to register with the 
+CFTC, centralizes risk management of certain swaps, and imposes extensive 
+reporting requirements on swap market participants. See Sec. Indus. & Fin. Mkts. 
+Ass’n v. CFTC, 67 F. Supp. 3d 373, 387 (D.D.C. 2014) (summarizing various 
+requirements added by the Dodd-Frank Act). The Act also amended the CEA to 
+prohibit not only price manipulation, but also fraudulent behavior related to 
+commodity derivatives and the underlying commodities more broadly. Pub. L. 
+111-203 § 753, 124 Stat. at 1750 (amending 7 U.S.C. § 9(1)); see, e.g., CFTC v. 
+McDonnell, 287 F. Supp. 3d 213, 217 (E.D.N.Y. 2018) (recognizing that “the 
+amendments to the CEA under the Dodd-Frank Act permit the CFTC to exercise 
+
+5 There is no dispute that the one-touch barrier option at issue here is a “swap” under 
+this definition. 
+
+its jurisdiction over fraud that does not directly involve the sale of futures or 
+derivative contracts”). 
+Relevant here, however, the CEA still expressly excludes much of the 
+foreign-exchange spot market from direct regulation by the CFTC. See 7 U.S.C. 
+§ 2(c)(1)(A). In other words, Phillips’s spot market sales of dollars to buy rand 
+were not subject to CEA regulation. But swaps based on the foreign-exchange 
+market, like the one-touch barrier option, are regulated by the CEA after the 
+Dodd-Frank amendments. 
+In short, the Dodd-Frank amendments to the CEA corralled what had been 
+a Wild West of swaps trading, imposing extensive registration and reporting 
+requirements and civil and criminal penalties for conduct such as fraud, 
+manipulation, and false reporting. 
+II. Extraterritorial Application of the CEA to Phillips’s Conduct 
+Swaps’ “contributions to the 2008 financial crisis were not limited to swaps 
+executed on U.S. soil between U.S. counterparties.” Sec. Indus. & Fin. Mkts. Ass’n, 
+67 F. Supp. 3d at 386. Instead, “[t]he swaps market is truly global.” Id. (citation 
+omitted). Against that backdrop, the Dodd-Frank Act applied the CEA’s 
+regulation of swaps not only to domestic conduct, but also to any activities 
+outside the United States that “have a direct and significant connection with 
+
+activities in, or eﬀect on, commerce of the United States.” 7 U.S.C. § 2(i)(1). 
+Whether that extraterritoriality provision extends to Phillips’s conduct is the crux 
+of Phillips’s appeal. 
+Phillips contends that the district court erred in two ways in its rulings 
+about whether the CEA gave the government jurisdiction over his conduct. First, 
+he argues that the district court improperly charged the jury on the 
+extraterritorial reach of the CEA because its instruction misinterpreted the 
+standard set by 7 U.S.C. § 2(i)(1). He also argues that, even if the jury instruction 
+correctly stated the legal standard, there was insuﬃcient evidence that his 
+conduct had a direct and significant connection with activities in U.S. commerce. 
+A. Extraterritoriality Doctrine 
+“Congress has the authority to enforce its laws beyond the territorial 
+boundaries of the United States.” EEOC v. Arabian Am. Oil Co., 499 U.S. 244, 248 
+(1991) (superseded by statute on other grounds). “Whether Congress has in fact 
+exercised that authority,” however, “is a matter of statutory construction.” Id. 
+Because regulation of foreign conduct can cause “clashes between our laws and 
+those of other nations which could result in international discord,” id., we 
+presume that statutes apply only to domestic conduct unless Congress evinces a 
+
+clear intent for the statute to reach foreign conduct, Morrison v. Nat’l Austl. Bank 
+Ltd., 561 U.S. 247, 265 (2010). Such intent is most obvious, of course, when 
+Congress expressly states that a statute applies to foreign conduct. See RJR 
+Nabisco, Inc. v. Eur. Cmty., 579 U.S. 325, 340 (2016). 
+Congress did just that in the Dodd-Frank amendments to the CEA. By the 
+CEA’s own terms, its regulation of swaps extends to “activities outside the 
+United States” that have a “direct and significant connection with activities in, or 
+eﬀect on, commerce of the United States.” 7 U.S.C. § 2(i)(1); see Prime Int’l 
+Trading, Ltd. v. BP P.L.C., 937 F.3d 94, 103 (2d Cir. 2019) (recognizing that § 2(i) 
+“contains, on its face, a clear statement of extraterritorial application” (quotation 
+marks and citation omitted)). But even “when a statute provides for some 
+extraterritorial application, the presumption against extraterritoriality operates to 
+limit that provision to its terms.” Morrison, 561 U.S. at 265. 
+B. Jury Instruction on the CEA’s Standard for Extraterritorial 
+Jurisdiction 
+As the district court acknowledged, “there is a paucity of precedent 
+interpreting Section 2(i)(1).” Phillips, 2024 WL 1300269, at *11; see Gina-Gail S. 
+Fletcher, Foreign Corruption as Market Manipulation, 2020 U. Chi. L. Rev. Online 
+15, 23 (2020) (“To date, the CEA’s manipulation and fraud provisions have not 
+
+been extended extraterritorially . . . .”). This is only the second case of which we 
+are aware that addresses the extent of foreign conduct covered by § 2(i)(1), and 
+the first appeal to do so.6 So, beyond the statute’s plain language, the district 
+court was left to draft the jury instruction interpreting § 2(i)(1) on a mostly blank 
+slate. 
+The court’s instruction explained that the government must “prove beyond 
+a reasonable doubt” that “an activity of the defendant . . . outside the United 
+States related to the barrier option contract had a direct and significant connection 
+with activities in commerce of the United States.” App’x at 1563–64 (emphasis 
+added). That emphasized language comes directly from the CEA’s 
+extraterritoriality provision, 7 U.S.C. § 2(i)(1). The instruction explained that a 
+connection is “direct” only if “the activity outside the United States directly and 
+immediately aﬀected activity in commerce of the United States without deviation 
+or interruption,” and that “[a]n indirect or attenuated connection to commercial 
+
+6 The first case was CFTC v. Gorman, No. 21-cv-870 (VM), 2023 WL 2632111 (S.D.N.Y. 
+Mar. 24, 2023), in which the district court summarily concluded that the defendant’s 
+misstatements to a Japanese counterparty lacked a “direct or significant connection with 
+activities in, or eﬀect on, commerce of the United States,” id. at *10–11 (quoting 7 U.S.C. 
+§ 2(i)(1)). Also, in Prime International Trading v. BP P.L.C., 937 F.3d 94 (2d Cir. 2019), a 
+civil plaintiﬀ argued that § 2(i)(1) applied to the defendant’s activities abroad, but we 
+did not reach the issue because the plaintiﬀ had failed to raise that argument in the 
+district court, id. at 103–04. 
+
+activity that occurs in the United States is not suﬃcient to satisfy this element of 
+the test.” App’x at 1564. The instruction then explained that a connection is 
+“significant” only if it is “meaningful or consequential”: 
+For activity outside the United States to have a significant 
+connection with activity in commerce of the United 
+States, the relationship between the activity outside the 
+United States to the commercial activity in the United 
+States must be of importance. It is not suﬃcient if the 
+relationship between the conduct outside the United 
+States and that inside the United States is random, 
+fortuitous, attenuated or merely incidental. The conduct 
+in the United States must be integral rather than 
+ancillary. 
+App’x at 1564–65. 
+C. Phillips’s Challenges to the Extraterritoriality Instruction 
+Phillips argues that the court’s instruction misinterpreted 7 U.S.C. § 2(i)(1) 
+in two ways. First, Phillips contends that conduct in the swaps market has a 
+“direct and significant connection with activities in . . . [U.S.] commerce” under 
+§ 2(i)(1) only when the conduct “pose[s] a systemic risk to the U.S. financial 
+system.” Appellant’s Br. at 28. Second, Phillips claims that the court should 
+have clarified that the jury must find that Phillips’s foreign trading activities 
+were significant to activities in U.S. commerce—not that the activities in U.S. 
+
+commerce have some significance to Phillips’s foreign trading activities—for 
+§ 2(i)(1) to apply. 
+i. Legal Standard and Standard of Review 
+“A jury instruction is erroneous if it misleads the jury as to the correct legal 
+standard or does not adequately inform the jury on the law.” United States v. 
+Zheng, 113 F.4th 280, 298 (2d Cir. 2024) (quotation marks and citation omitted). 
+Phillips bears the burden to show that “his requested instruction accurately 
+represented the law in every respect and that, viewing as a whole the charge 
+actually given, he was prejudiced.” Id. (quotation marks and citation omitted). 
+The parties dispute the applicable standard of review for Phillips’s 
+challenges to the extraterritoriality instruction. Phillips says that we should 
+review de novo the district court’s interpretation of § 2(i)(1) as reflected in its 
+instruction. See, e.g., United States v. Applins, 637 F.3d 59, 72 (2d Cir. 2011) 
+(explaining that challenges to jury instructions are reviewed de novo). The 
+government counters that Phillips forfeited all challenges to the jury instruction 
+on extraterritoriality because he did not renew his objections after the court 
+rejected his preferred instruction, and that we should therefore review for plain 
+
+error. See, e.g., United States v. Hunt, 82 F.4th 129, 138 (2d Cir. 2023) (explaining 
+that unpreserved objections to jury instructions are reviewed for plain error). 
+Phillips preserved his argument that the instruction should have defined 
+“significant” to require proof of systemic risk. When a party objects and explains 
+his objection, he need not keep objecting to preserve an issue for appeal if “it was 
+evident in the circumstances that renewal of the objection would be futile 
+because the court had clearly manifested its intention to reject the objection.” 
+United States v. Grote, 961 F.3d 105, 115 (2d Cir. 2020). That is what happened 
+here. Phillips oﬀered his own instruction on extraterritoriality that would have 
+required proof that Phillips’s “activities related to the swap . . . pose[d] a 
+systemic risk to the United States financial system in order for them to have a 
+direct and significant connection with activities in, or eﬀect on, commerce of the 
+United States,” App’x at 305–06. The court orally expressed skepticism about 
+Phillips’s instruction but did not immediately reject it. Phillips then oﬀered a 
+written and oral explanation for his position. When the court circulated a 
+proposed charge on the morning of jury selection, it recognized that the parties 
+had “made objections [to the jury instructions] before.” App’x at 583. Under 
+these circumstances, even though Phillips did not renew his objection after the 
+
+court’s final extraterritoriality instruction lacked the language he had proposed, 
+any further objection “would have been a mere formality[] with no reasonable 
+likelihood of convincing the court to change its mind” because Phillips had 
+already “argued [his] position to the district judge, who rejected it.” Thornley v. 
+Penton Publ’g, Inc., 104 F.3d 26, 30 (2d Cir. 1997); see also Girden v. Sandals Int’l, 262 
+F.3d 195, 202 (2d Cir. 2001) (“[A] failure to object after a charge is given is 
+excused where . . . a party makes its position clear . . . and the trial judge is not 
+persuaded.”). 
+Conversely, Phillips failed to preserve his argument that the court’s 
+instruction should have clarified that, to satisfy § 2(i)(1)’s “significant 
+connection” requirement, the jury must find that Phillips’s swap-related activities 
+were “integral rather than ancillary” to activities in U.S. commerce, App’x at 
+1565, not that some U.S. commercial activities were integral to Phillips’s swap-
+related activities. Phillips never presented this argument before the district court 
+by way of either his proposed jury instruction or an objection at the charge 
+conference after reviewing the district court’s intended charge. The district court 
+lacked notice of Phillips’s argument, so the argument is forfeited and plain error 
+review applies. See United States v. Vilar, 729 F.3d 62, 88 (2d Cir. 2013) (explaining 
+
+that when a defendant “fails to make a specific and timely objection to a district 
+court’s jury charge,” plain error review applies). Under plain error review, we 
+may reverse only when “(1) there is an error; (2) the error is clear or obvious, 
+rather than subject to reasonable dispute; (3) the error aﬀected the appellant’s 
+substantial rights; and (4) the error seriously aﬀects the fairness, integrity or 
+public reputation of judicial proceedings.” United States v. Miller, 954 F.3d 551, 
+557–58 (2d Cir. 2020) (quotation marks and citation omitted). 
+ii. Meaning of “Significant” in § 2(i)(1) 
+Again, the CEA’s jurisdiction extends to foreign activities that “have a 
+direct and significant connection with activities in, or eﬀect on, commerce of the 
+United States.” 7 U.S.C. § 2(i)(1). Phillips theorizes that because the word 
+“significant” modifies both “connection with activities in” and “eﬀect on” 
+“commerce of the United States,” and it would take a lot for a fraudulent 
+commodity trade to have a “significant . . . eﬀect on” the entire system of U.S. 
+commerce, it should also take a lot—as Phillips puts it, a “systemic risk” to the 
+U.S. economy—for a “connection with activities in the United States” to be 
+“significant.” Appellant’s Br. at 32–36. 
+
+Phillips’s proposed instruction is divorced from the plain meaning of 
+§ 2(i)(1). First, the ordinary meaning of the word “significant” is expansive; it is 
+not limited to magnitudes as large as “systemic.” See, e.g., Black’s Law 
+Dictionary (12th ed. 2024) (defining “significant” as “[o]f special importance; 
+momentous, as distinguished from insignificant”). The ordinary meaning is not 
+altered by the context of § 2(i)(1). § 2(i)(1) is disjunctive: it covers activities that 
+have a “direct and significant connection with activities in . . . [U.S.] commerce” 
+or a “direct and significant . . . eﬀect on [U.S.] commerce.” Phillips’s eﬀorts to 
+trigger the one-touch barrier option may have lacked a significant eﬀect on U.S. 
+commerce writ large; he committed a $20 million fraud in a multi-trillion-dollar 
+industry. But contrary to Phillips’s interpretation, that does not mean his 
+activities lacked a significant connection with activities in U.S. commerce. 
+Congress’s choice of wording suggests that it intended to regulate commodities 
+trading abroad that has a direct and significant connection with commercial 
+activities occurring in the United States, but when there is no such connection, to 
+regulate only trading with a direct and significant eﬀect on the U.S. economy. In 
+other words, Congress set a far higher bar for the government to clear before it 
+may regulate conduct that lacks direct and important ties to the United States. 
+
+Phillips’s interpretation would collapse the distinction such that “significant 
+connection” and “significant eﬀect” mean essentially the same thing—a systemic 
+risk to U.S. commerce—despite Congress’s decision to use two diﬀerent words in 
+disjunctive clauses. See Pulsifer v. United States, 601 U.S. 124, 149 (2024) (“In a 
+given statute, the same term usually has the same meaning and diﬀerent terms 
+usually have diﬀerent meanings.”). 
+Language in other provisions of the CEA further undercuts Phillips’s 
+preferred instruction. When Congress wants to limit the CEA’s reach to 
+“systemically important” activities, it says so: Another section of the CEA 
+requires an entity to register as a “major swap participant” if it is “systemically 
+important or can significantly impact the financial system of the United States.” 
+7 U.S.C. § 1a(33). When a statute “use[s] one term”—significant—“in one place, 
+and a materially diﬀerent term”—systemically important—“in another, the 
+presumption is that the diﬀerent term denotes a diﬀerent idea.” Sw. Airlines Co. 
+v. Saxon, 596 U.S. 450, 458 (2022) (quoting Antonin Scalia & Bryan A. Garner, 
+Reading Law: The Interpretation of Legal Texts 170 (2012)). Congress could have 
+limited the CEA’s jurisdictional scope to activities that are “systemically 
+important to the financial system of the United States,” but it chose not to. 
+
+Phillips has failed to show that his requested instruction accurately represents 
+the law. See Zheng, 113 F.4th at 298. 
+Unlike Phillips’s proposed instruction, the district court’s instruction was 
+consistent with § 2(i)(1). The instruction informed the jury that the government 
+could “meet its burden” for an extraterritorial application of the CEA “by 
+proving that an activity of the defendant . . . outside the United States related to 
+the barrier option contract had a direct and significant connection with activities 
+in commerce of the United States,” App’x at 1564—the exact standard stated in 
+§ 2(i)(1). The instruction explained that a connection is “direct” only if it 
+“directly and immediately aﬀected activity in [U.S.] commerce . . . without 
+deviation or interruption,” and “significant” only if “meaningful or 
+consequential” and “of importance” to “commercial activity in the United 
+States.” App’x at 1564. These definitions are consistent with the typical 
+meanings of “direct” and “significant.” See, e.g., Black’s Law Dictionary (12th ed. 
+2024) (defining “direct” as “[f]ree from extraneous influence; immediate” and 
+“significant” as “[o]f special importance; momentous, as distinguished from 
+insignificant”). 
+
+The court’s interpretation of § 2(i)(1) as reflected in the jury instruction is 
+also consistent with customary principles of international law. Courts presume 
+that Congress drafts statutes so as not to conflict with international law unless 
+the statute’s text or broader context suggests otherwise. See United States v. 
+Aluminum Co. of Am., 148 F.2d 416, 443 (2d Cir. 1945) (L. Hand, J.) (explaining 
+that courts interpret statutory language in light of “the limitations customarily 
+observed by nations upon the exercise of their powers”). Here, international law 
+treatises suggest that nations customarily regulate foreign conduct when “there 
+is a genuine connection between the subject of the regulation and the state 
+seeking to regulate,” such as “conduct . . . being committed . . . against its 
+nationals.” Restatement (Fourth) of Foreign Relations Law § 407 & cmt. c.; see 
+also Restatement (Third) of Foreign Relations Law § 403(2) & cmt. h (1987) 
+(noting that nations customarily regulate foreign activities such as commodities 
+trading that “has [a] substantial, direct, and foreseeable eﬀect upon or in the 
+[country]” and when there are “connections, such as nationality, residence, or 
+economic activity . . . between that state and those whom the regulation is 
+designed to protect” (emphasis added)); F. Hoﬀmann-La Roche Ltd. v. Empagran 
+S.A., 542 U.S. 155, 164 (2004) (deriving international law principles from the 
+
+Restatement (Third) of Foreign Relations Law when interpreting a statute’s 
+meaning). For example, the European Union prohibits fraud and manipulation 
+related to “financial instruments . . . the price or value of which depends on or 
+has an eﬀect on the price or value of a financial instrument” listed or traded on 
+EU markets even for “actions and omissions” that occur outside the EU. Reg. EU 
+No. 596/2014, art. 2, 2014 O.J. (L 173) 1, 17. 
+The district court’s instruction regarding § 2(i) properly “limit[ed] that 
+provision to its terms.” Morrison, 561 U.S. at 265. Phillips has failed to meet his 
+burden of showing that his proposed instruction was right and the district 
+court’s instruction was wrong. See Zheng, 113 F.4th at 298; United States v. 
+Jimenez, 96 F.4th 317, 322 (2d Cir. 2024) (holding that the defendant “fail[ed] to 
+meet his burden of establishing error because the district court’s jury 
+instruction . . . was a correct statement of the law”). 
+iii. “Significant” to Whom? 
+As explained above, unlike for his challenge about systemic risk, Phillips 
+forfeited his argument that the instruction on extraterritoriality should have 
+more clearly defined “significant connection” to mean that the connection must 
+be important to U.S. commercial activities, not just to Phillips’s foreign swaps 
+
+activities. Plain error review therefore applies. See Vilar, 729 F.3d at 88. To 
+establish plain error, Phillips must demonstrate, among other things, that the 
+alleged error was “clear or obvious, rather than subject to reasonable dispute,” 
+and that there is “a reasonable probability that the jury would not have convicted 
+him absent the error.” United States v. Marcus, 628 F.3d 36, 42 (2d Cir. 2010) 
+(quotation marks and citation omitted). 
+Phillips cannot show that the alleged error is clear or obvious because the 
+district court’s jury instructions as a whole demonstrate that the connection must 
+be significant and important to activities in U.S. commerce. See United States v. 
+Sabhnani, 599 F.3d 215, 237 (2d Cir. 2010) (“We emphatically do not review a jury 
+charge on the basis of excerpts taken out of context, but in its entirety.” 
+(quotation marks and citation omitted)). Phillips focuses only on the portion of 
+the district court’s jury instruction stating that the “[t]he conduct in the United 
+States must be integral rather than ancillary,” App’x at 1564–65, which he 
+contends “does not clearly identify to whom or to what the conduct must be 
+‘integral,’” Appellant’s Br. at 39 n.11. However, he ignores the context in which 
+that instruction was given. The district court first instructed the jury that it must 
+find that Phillips’s activities related to the one-touch barrier option must have “a 
+
+direct and significant connection with activities in commerce of the United 
+States.” App’x at 1564 (emphasis added). It then immediately explained that a 
+connection is “direct” “if the activity outside the United States directly and 
+immediately aﬀected activity in commerce of the United States without deviation or 
+interruption.” App’x at 1564 (emphasis added). With that context, the district 
+court then explained that “significant” means “meaningful,” “consequential,” “of 
+importance,” and “integral.” App’x at 1564–65. Because the district court 
+already made clear that the “direct” prong of the conjunctive test is measured by 
+its eﬀect on U.S. commercial activities, a reasonable juror would surely 
+understand that the “significant” prong of that test does the same. In addition, 
+the alleged error could not be plain because the district court’s interpretation of 7 
+U.S.C. § 2(i)(1) was an issue of first impression and not contrary to its plain text. 
+See United States v. Weintraub, 273 F.3d 139, 152 (2d Cir. 2001) (explaining that a 
+reviewing court “typically will not find [plain] error where the operative legal 
+question is unsettled” (quotation marks and citation omitted)). Accordingly, we 
+cannot conclude that the extraterritoriality instructions as a whole were clearly or 
+obviously erroneous. 
+
+Moreover, even if the district court had more specifically stated that 
+significance must be determined from the perspective of U.S. commercial 
+activities, there is not “a reasonable probability that the jury would not have 
+convicted him absent the error.” Marcus, 628 F.3d at 42 (quotation marks and 
+citation omitted). As discussed below, there was suﬃcient evidence for the jury 
+to conclude that Phillips’s foreign swap activities were of significance to 
+commercial activities in the United States. 
+D. Suﬃciency of the Evidence that the Court Had Extraterritorial 
+Jurisdiction under the CEA 
+Phillips next asserts that, even if the court’s instruction correctly described 
+the CEA’s extraterritorial reach, the evidence at trial was insuﬃcient to support a 
+finding that his conduct had “a direct and significant connection with activities 
+in . . . [U.S.] commerce” under § 2(i)(1). For this suﬃciency challenge, we must 
+aﬃrm “if, viewing all the evidence in the light most favorable to the prosecution, 
+. . . any rational trier of fact could have found . . . beyond a reasonable doubt” 
+that Phillips’s conduct had a direct and significant connection with activities in 
+U.S. commerce. United States v. Middlemiss, 217 F.3d 112, 117 (2d Cir. 2000) 
+(quotation marks and citation omitted); see also Applins, 637 F.3d at 76 (noting that 
+because “we must credit every inference that could have been drawn in the 
+
+government’s favor,” a defendant bringing a suﬃciency challenge “bears a heavy 
+burden” (quotation marks and citation omitted)). 
+In its opinion on Phillips’s post-trial motions, the district court concluded 
+that the connection was direct and significant. The court first rejected as 
+insuﬃcient several purported “connections” alleged by the government: that 
+some of the trades matched on servers located in the United States, that copies of 
+Phillips’s Bloomberg chats were saved onto servers located in the United States, 
+that the payout of the option was ultimately transferred to a Glen Point Capital 
+account in New York after several intervening steps, and that Glen Point 
+Capital’s American clients received some of that paid-out money in New York. 
+See Phillips, 2024 WL 1300269, at *14–15 (explaining that these “incidental and 
+insubstantial ties to the United States” could not meet, individually or 
+collectively, the § 2(i)(1) standard). But the court concluded that the jury could 
+have found that two connections to “activities in . . . [U.S.] commerce” were 
+“direct and significant”: (1) JPMorgan, Glen Point Capital’s prime broker that 
+facilitated the sale of the option, is a U.S. financial institution and (2) Morgan 
+Stanley Capital, the substantive counterparty to the option, is also a U.S. financial 
+institution. Id. at *16–17. We agree. 
+
+i. Evidence of a Direct Connection 
+A rational jury could have found that Phillips’s conduct related to the one-
+touch barrier option was directly connected to activities in U.S. commerce based 
+on the conduct’s relationship with JPMorgan. Phillips, on behalf of Glen Point 
+Capital, purchased the option directly from its broker, JPMorgan. To be sure, 
+Phillips purchased the option through JPMorgan’s London branch, but a branch 
+of a bank is not typically considered a separate legal entity from the parent bank. 
+See Bayerische Landesbank, N.Y. Branch v. Aladdin Cap. Mgmt. LLC, 692 F.3d 42, 51 
+(2d Cir. 2012). Even setting that aside, though, Glen Point Capital entered into its 
+contract to purchase the option with “JPMorgan Chase Bank, N.A.,” which the 
+contract expressly noted is a U.S. bank. Supp. App’x at 653–57 (contract terms 
+detailing the “Transaction entered into between JPMorgan Chase Bank, 
+N.A. . . . and Glen Point Capital” and noting that JP Morgan Chase Bank, N.A. is 
+organized “under the laws of USA” with its main oﬃce in “Columbus, Ohio”). A 
+jury could rationally find that manipulation related to an agreement entered into 
+with a U.S. bank is directly connected to activities in U.S. commerce under 
+§ 2(i)(1). 
+
+There was also suﬃcient evidence, drawing all inferences in favor of the 
+government as we are required to do, to allow the jury to find a direct connection 
+with Morgan Stanley Capital, another U.S. financial institution. As the district 
+court properly instructed the jury, a connection is “direct” if “the activity outside 
+the United States directly and immediately aﬀected activity in commerce of the 
+United States without deviation or interruption.” App’x at 1564; see also Atlantica 
+Holdings, Inc. v. Sovereign Wealth Fund Samruk-Kazyna JSC, 813 F.3d 98, 108 (2d 
+Cir. 2016) (interpreting a “direct eﬀect” in the Foreign Sovereign Immunities 
+Act’s extraterritoriality provision as one that “follow[s] as an immediate 
+consequence of the defendant’s activity” (citation modified)). Morgan Stanley 
+Capital was required to pay $20 million as an immediate consequence of 
+Phillips’s actions that triggered the option. 
+Phillips claims the connection to Morgan Stanley Capital was indirect 
+because it occurred only through a series of transactions and Glen Point Capital 
+lacked a contractual relationship with Morgan Stanley Capital. But even though 
+Glen Point Capital purchased the option through a broker, the relationship 
+between a defendant and a fraud victim is usually not rendered indirect just 
+because a broker facilitated the transaction. See Atlantica Holdings, 813 F.3d at 
+
+103, 113–14 (holding that the defendant’s misrepresentations about the value of 
+securities had a “direct eﬀect” on the securities’ buyers in the United States even 
+though the securities were bought through a broker). And, although Phillips 
+could not have known that Morgan Stanley Capital was on the other side of the 
+option because JB Drax shielded the counterparties’ identities, a connection 
+“need not be foreseeable to be direct.” Id. at 115. There was suﬃcient evidence 
+for a rational jury to find that the connection was direct. 
+ii. Evidence of a Significant Connection 
+A rational jury could also have concluded that these direct connections 
+between Phillips’s trading and activities in U.S. commerce were “significant” to 
+those U.S. commercial activities under 7 U.S.C. § 2(i)(1). As further discussed in 
+the next section, the evidence at trial showed that Phillips manipulated the 
+dollar-rand exchange rate to defraud the counterparty to the one-touch barrier 
+option out of $20 million. The ultimate counterparty forced to pay the $20 
+million was Morgan Stanley Capital. If Morgan Stanley Capital had not paid the 
+option, JPMorgan would have been on the hook as Glen Point Capital’s prime 
+broker. Because the actual and potential victims of Phillips’s manipulative 
+scheme were U.S. financial institutions, a rational jury could have found that the 
+
+connection between Phillips’s conduct and activities in U.S. commerce was “of 
+importance” and “integral.” App’x at 1564–65 (jury instructions on the meaning 
+of “significant” in 7 U.S.C. § 2(i)(1)). 
+Our conclusion that the victim of fraud being a U.S. financial institution 
+can render the connection between foreign activity and U.S. commerce 
+“significant” is consistent with the purposes of the Dodd-Frank amendments and 
+customary international law. The Dodd-Frank Act’s stated goal was to “improve 
+accountability and transparency in the financial system.” Pub. L. 111-203, 124 
+Stat. at 1376. In support of that goal, Congress amended the CEA to “augment 
+the [CFTC’s] existing authority to prohibit fraud and manipulation.” Prohibition 
+on the Employment, or Attempted Employment, of Manipulative and Deceptive Devices 
+and Prohibition on Price Manipulation, 76 Fed. Reg. 41398, 41401 (July 14, 2011) 
+(CFTC explaining amendments to 7 U.S.C. § 9(1)); see also 7 U.S.C. § 5(b) (stating 
+as a purpose of the CEA to “deter and prevent price manipulation or any other 
+disruptions to market integrity” and “to ensure the financial integrity of all 
+transactions subject to this chapter”). Congress added an extraterritoriality 
+provision that would apply those expanded anti-fraud protections to at least 
+some foreign conduct. See 7 U.S.C. § 2(i). And it is entirely within the bounds of 
+
+customary international law for such an extraterritoriality provision to regulate 
+“conduct . . . being committed . . . against [a country’s] nationals.” Restatement 
+(Fourth) of Foreign Relations Law § 407 & cmt. c. See also Restatement (Third) of 
+Foreign Relations Law § 403 & cmt. h (noting that nations customarily regulate 
+foreign activities such as commodities trading when there are “connections, such 
+as nationality, residence, or economic activity . . . between that state and those 
+whom the regulation is designed to protect”). As the district court put it, 
+“Phillips acted to defraud the ultimate counterparty to [the one-touch barrier 
+option], whoever that may be, but the United States does not share his 
+indiﬀerence to his victim’s identity.” Phillips, 2024 WL 1300269, at *17. 
+ Phillips cautions that finding a direct and significant connection here sends 
+us careening down a slippery slope in which every swap purchased by a non-U.S 
+entity that uses a U.S. bank as its broker or has a U.S. entity as its ultimate 
+counterparty “necessarily creates a direct and significant connection to U.S. 
+commercial activities under Section 2(i).” Appellant’s Br. at 51–52. Direct, 
+perhaps. But significance depends on context. A run-of-the-mill swap between a 
+foreign and U.S. entity may not in all circumstances be “significant” to activities 
+in U.S. commerce under the CEA. However, a reasonable juror may well 
+
+understand the $20 million amount at issue in this case to be of significance to the 
+U.S. financial institutions’ commercial activities. Although Phillips points out 
+that certain registration and reporting requirements under the CEA do not kick 
+in unless a swaps trader is trading billions of dollars in swaps, none of those 
+cited provisions use the word “significant,” and Phillips advances no arguments 
+as to why the extraterritoriality provision and the substantive provisions in the 
+CEA (and the CFTC’s regulations interpreting those provisions) must be 
+coextensive. See 7 U.S.C. § 1a(49)(D) (defining “swap dealer” to exclude entities 
+that “engage in a de minimis quantity of swap dealing”); id. § 6s (imposing 
+registration and reporting requirements on “swap dealers”); 17 C.F.R. § 1.3 
+(setting the de minimis exception for certain requirements at $8 billion daily 
+average exposure from swaps trades). In short, just because the CEA does not 
+concern itself with all foreign swap activities in which a broker or ultimate 
+counterparty is a U.S. entity does not mean that it is unconcerned with this 
+connection. 
+Phillips submits that if Congress intended for the CEA’s extraterritorial 
+reach to turn on whether a U.S. entity was a victim of a crime, it would have 
+worded § 2(i)(1) diﬀerently. In support, he points to statutes that expressly apply 
+
+extraterritorially when a U.S. citizen is harmed. See, e.g., 18 U.S.C. § 37(b)(2) 
+(criminalizing violence at airports abroad when the victim is a U.S. national). We 
+disagree. That the CEA covers any swaps-related conduct that has a “direct and 
+significant connection with activities in . . . [U.S.] commerce” suggests that the 
+statute is meant to cover a broader range of activities than just those in which a 
+U.S. entity is harmed. Harm to a U.S. entity is a relevant factor in whether the 
+connection is significant, but not the only consideration. Indeed, that Congress 
+drafted a broad extraterritoriality provision makes sense in light of the swaps 
+market’s global nature and the context in which the Dodd-Frank amendments 
+were enacted: Foreign swaps, including swaps engaged in by foreign 
+subsidiaries of U.S. financial services companies, were considered a driving 
+factor in the 2008 financial crisis. See Sec. Indus. & Fin. Mkts. Ass’n, 67 F. Supp. 3d 
+at 386. 
+On a diﬀerent tack, Phillips argues that the connection to Morgan Stanley 
+Capital was “random,” “attenuated,” and “incidental”—which, according to the 
+jury instructions’ own terms, would mean that the connection was not 
+“significant,” App’x at 1564–65. He asserts that because U.K-based Morgan 
+Stanley International sold the option that Glen Point Capital purchased through 
+
+JPMorgan, and a separate U.S.-based Morgan Stanley entity only took on the risk 
+of the one-touch barrier option because it chose to enter an oﬀsetting option with 
+Morgan Stanley International as part of Morgan Stanley’s risk management 
+policy, the connection between Phillips’s trading and activities in U.S. commerce 
+was necessarily “attenuated.” Appellant’s Br. at 44–45. 
+But, as a witness from Morgan Stanley testified at trial, such arrangements 
+are “standard practice in the business.” App’x at 988. U.S.-based financial 
+services companies often “operate in global swaps markets not only as direct 
+counterparties, but also through relationships with their foreign branches, 
+aﬃliates, and subsidiaries.” Sec. Indus. & Fin. Mkts. Ass’n, 67 F. Supp. 3d at 386. 
+These risk-shifting operations “are an integral part of the swap because they 
+assuage counterparty concerns that the foreign aﬃliate or subsidiary will be 
+unable to meet its swap obligations.” Id. (quotation marks and citation omitted). 
+And, again, the risks created by these sorts of relationships were widely 
+considered a cause of the 2008 financial crisis. Id. When Congress responded to 
+that crisis by bringing swaps under the CEA’s purview through the Dodd-Frank 
+Act, we can assume it knew that this is how swaps typically work. It is unlikely 
+that Congress intended for the meaning of a “significant connection” to U.S. 
+
+commerce in § 2(i)(1) to turn on whether the foreign conduct was connected to a 
+U.S. company – as opposed to a subsidiary of a U.S. company – when the risks to 
+U.S. commerce are the same either way based on standard industry practice. 
+Nor was the jury required to conclude that the relationship was 
+insignificant merely because Phillips was unaware that Morgan Stanley Capital 
+was the true counterparty to the option. Section 2(i)(1) focuses on whether 
+Phillips’s “activities outside the United States” had a “significant connection with 
+activities in . . . [U.S.] commerce.” The connection between Phillips’s intentional 
+fraudulent activity abroad and his victim’s activities in U.S. commerce is no less 
+“integral” or “important” because Phillips was unaware of the connection. “[W]e 
+have repeatedly refused to find knowledge of the jurisdictional fact to be an 
+essential element in prosecutions under various criminal statutes requiring, for 
+instance, that the criminal acts aﬀect interstate or foreign commerce” unless “the 
+statute itself requires knowledge of the jurisdictional element.” United States v. 
+Epskamp, 832 F.3d 154, 167 (2d Cir. 2016) (citation modified) (collecting cases). 
+Just as in statutes in which the “element of interstate transportation is merely a 
+jurisdictional element, for which proof of the fact of transportation is proof 
+enough,” without an “additional requirement of knowledge,” United States v. 
+
+Eisenberg, 596 F.2d 522, 526 (2d Cir. 1979), proof of a direct and significant 
+connection with activities in U.S. commerce is proof enough under 7 U.S.C. 
+§ 2(i)(1). 
+In sum, there was suﬃcient evidence for a rational jury to find beyond a 
+reasonable doubt that Phillips’s actions related to the one-touch barrier option 
+had a direct and significant connection with activities in U.S. commerce.7 
+III. Commodities Fraud under the CEA 
+ Having concluded that Phillips’s actions fell within U.S. jurisdiction, we 
+turn to the substantive elements of commodities fraud. Phillips was convicted of 
+commodities fraud in violation of 7 U.S.C. §§ 9(1) and 13(a)(5) and 17 C.F.R. 
+§ 180.1. Section 9(1) prohibits the “use or employ[ment]” of “any manipulative 
+or deceptive device or contrivance” “in connection with any swap” in violation 
+of CFTC regulations. Section 13(a)(5) provides that any such fraudulent scheme 
+is a felony if done “willfully to violate” the CEA or any CFTC regulations 
+promulgated thereunder. The CFTC regulation under which Phillips was 
+
+7 Because we conclude that there was suﬃcient evidence that the CEA applied 
+extraterritorially to Phillips’s conduct, we need not and do not address the 
+government’s alternative argument that there was suﬃcient evidence that Phillips’s 
+conduct occurred domestically in the United States. See Gov’t Br. at 47–51; Phillips, 2024 
+WL 1300269, at *3–10 (rejecting the government’s argument). 
+
+charged, 17 C.F.R. § 180.1(a)(1), makes it “unlawful for any person, directly or 
+indirectly, in connection with any swap, . . . to intentionally or recklessly . . . [u]se 
+or employ . . . any manipulative device, scheme, or artifice to defraud.” 
+ So, the three elements for liability under those statutory and regulatory 
+provisions are (1) misrepresentation or deception, (2) materiality, and (3) 
+scienter. CFTC v. S. Tr. Metals, Inc., 894 F.3d 1313, 1325 (11th Cir. 2018). 
+Applying those elements here, the district court charged the jury that it must find 
+the following beyond a reasonable doubt to convict Phillips of felony 
+commodities fraud: “(1) that Phillips employed a manipulative device, scheme, 
+or artifice to defraud; (2) that the scheme, untrue statement, act, practice, or 
+course of conduct was in connection with a swap, in that it would be material to 
+a decision by a counterparty to the swap; and (3) that Phillps acted knowingly, 
+willfully, and with an intent to defraud and, in particular, with an intent to 
+defraud a counterparty to the One Touch Option.” Phillips, 2024 WL 1300269, at 
+*18 (summarizing elements charged to the jury); see also App’x at 1549–50 (jury 
+charge explaining the elements). 
+On appeal, Phillips raises three issues related to the elements of 
+commodities fraud. 
+
+A. Jury Instruction on Phillips’s Manipulative Intent 
+Phillips first challenges the jury instruction on whether he had the 
+requisite manipulative intent to satisfy the first element of commodities fraud. 
+We review the legal standard stated in the jury instruction de novo.8 See Applins, 
+637 F.3d at 72. 
+The government’s theory of commodities fraud in this case turned on 
+trades Phillips made on the open foreign-exchange market—selling several 
+hundred million dollars to buy around 9 billion rand. When trades in 
+commodities or securities are made on an open market, it is often diﬃcult to 
+distinguish lawful trading from fraudulent or manipulative trading. For 
+example, “short selling [stocks]—even in high volumes—is not, by itself, 
+manipulative . . . . To be actionable as a manipulative act, short selling must be 
+willfully combined with something more to create a false impression of how 
+market participants value a security.” ATSI Comms., Inc. v. Shaar Fund, Ltd., 493 
+F.3d 87, 101 (2d Cir. 2007). That something more is fraudulent intent. “In some 
+
+8 Once again, the government argues that Phillips forfeited any challenge to the jury 
+instruction on intent, so we should therefore review for plain error. We disagree; 
+Phillips consistently argued that the district court should adopt a “sole intent” 
+instruction, see App’x at 302, 333, 361, 383, 485–90, which the district court declined to 
+do in fashioning its own jury charge. Under the circumstances apparent in the record, 
+any further objection would have been futile, see Grote, 961 F.3d at 115. 
+
+cases,” such as Phillips’s, the intent to deceive or manipulate “is the only factor 
+that distinguishes legitimate trading from improper manipulation.” Set Cap. LLC 
+v. Credit Suisse Grp. AG, 996 F.3d 64, 77 (2d Cir. 2021) (quotation marks and 
+citation omitted). 
+To that end, the court instructed the jury that “an act is manipulative if it is 
+designed to deceive or defraud others by sending a false pricing signal to the 
+market,” but a transaction is not manipulative “when the market is fully aware of 
+the terms of and purposes behind a transaction.” App’x at 1550. The instruction 
+went on to explain: 
+What matters is whether the defendant has an intent to 
+inject a false price signal into the market or to mislead 
+others by artificially aﬀecting the price. The question you 
+should ask is whether the defendant acted with the intent 
+to deceive or defraud others by sending a false pricing 
+signal into the market. If there are two purposes for a 
+transaction, one of which is legitimate, and if the 
+transaction would have been done at the same time and 
+in the same manner for the legitimate purpose, it is not 
+manipulative even if the defendant also had an intent to 
+deceive or to send a false price signal into the market. On 
+the other hand, if the transaction would not have been 
+done at the same time and in the same manner, except 
+for the intent to mislead, then t he transaction is 
+manipulative. 
+App’x at 1551. Applying those principles to Phillips’s case, the court instructed 
+the jury: “[I]f but for an intent to deceive, [Phillips] would not have conducted 
+
+the transactions in the dollar-rand foreign exchange spot market at the times and 
+in the amounts he did, then those transactions were manipulative.” App’x at 
+1551–52. The court then reiterated that it would “not [be] suﬃcient that the 
+defendant knew his transactions would aﬀect the dollar-rand exchange rate; 
+instead, he must have made those transactions for the purpose of aﬀecting the 
+exchange rate and defrauding a counterparty to the barrier option contract.” 
+App’x at 1553–54. Finally, the court explained that a defendant does “not act 
+willfully or with intent to defraud if he honestly believes that his actions were 
+proper,” and that the government bore the burden of proving Phillips’s 
+fraudulent intent beyond a reasonable doubt. App’x at 1554. 
+ Phillips bristles at the court’s invocation of a but-for causation standard. 
+He argues that a “but-for” standard—whether Phillips would have traded in the 
+same manner but for his intent to deceive—is too relaxed a causation standard to 
+support a criminal conviction. He contends that the court should have instead 
+required the jury to find that Phillips’s sole intent was to deceive the counterparty 
+to the option. In Phillips’s view, that matters because he intended not only to 
+manipulate the dollar-rand exchange rate, but also to “replace delta”—that is, to 
+
+gain additional exposure to any further strengthening of the rand that the fund 
+would otherwise lose once the option was triggered. 
+We find Phillips’s arguments unpersuasive. For one, he cherry-picks parts 
+of the court’s instruction to suggest that it set too relaxed an intent standard. See 
+Jones v. United States, 527 U.S. 373, 391 (1999) (“[I]nstructions must be evaluated 
+not in isolation but in the context of the entire charge.”). Phillips ignores the 
+limiting role of the court’s separate scienter charge, which made clear that the 
+government bore the burden of proving beyond a reasonable doubt “that the 
+defendant acted knowingly, willfully, and with an intent to defraud.” App’x at 
+1549. The court explained that to act willfully means to act “with a purpose to 
+disobey or disregard the law.” App’x at 1553. And, as to the intent to defraud, 
+the court explained that Phillips “must have made th[e] transactions for the 
+purpose of aﬀecting the exchange rate and defrauding a counterparty to the 
+barrier option contract.” App’x at 1554. Taken as a whole, the court’s instruction 
+charged the jury with an intent standard virtually indistinguishable from the 
+sole-intent standard Phillips requested. United States v. Banki, 685 F.3d 99, 105 
+(2d Cir. 2012) (“If the substance of a defendant’s request is given by the court in 
+
+its own language, the defendant has no cause to complain.” (quoting United 
+States v. Han, 230 F.3d 560, 565 (2d Cir. 2000))).9 
+In any event, Phillips’s challenge fails because his proposed sole-intent 
+instruction is inaccurate. The intent element for specific intent crimes, such as 
+commodities fraud, can usually be satisfied even if the defendant has multiple 
+reasons for taking an action, so long as one reason is the intent to deceive. See 
+United States v. Technodyne LLC, 753 F.3d 368, 385 (2d Cir. 2014) (collecting cases). 
+Instead, “when Congress has meant to impose a sole-intent limitation, it has 
+done so expressly.” Id. (citing 18 U.S.C. § 227(a), which prohibits certain 
+government oﬃcials from influencing private entities’ employment decisions 
+“with the intent to influence[] solely on the basis of partisan political aﬃliation”). 
+The statutes and regulation under which Phillips was convicted make no 
+mention of sole intent. And we are unaware of any case in which a court has 
+
+9 At oral argument, Phillips insisted that the instruction’s reference to but-for causation would 
+sweep in “agreed-upon legitimate trading” that his proposed sole-intent instruction would not 
+reach. Oral Argument at 32:38–33:53. He oﬀered the example of iceberg orders, in which a 
+trader disguises the true amount of demand or supply by making a series of small trades rather 
+than one large trade. But even if one purpose of the typical iceberg order is to obfuscate the 
+trader’s true intentions, the court’s instructions as a whole make clear that such “agreed-upon 
+legitimate trading” would not be criminal in the absence of fraudulent intent and willfulness, 
+that is, a purpose to disobey the law. See United States v. Vorley, No. 10CR00035 (JJT), 2021 WL 
+1057903, at *6 (N.D. Ill. Mar. 18, 2021) (describing legitimate, non-manipulative purpose for 
+iceberg orders). An iceberg order, like any other open-market transaction, is criminal only in 
+light of aﬃrmative evidence of fraudulent intent and willfulness beyond a reasonable doubt. 
+
+applied a sole-intent standard for commodities or securities fraud. The district 
+court therefore did not err to the extent that its instruction did not require proof 
+of sole intent. 
+Phillips’s remaining arguments on the intent instruction fare no better. 
+First, he suggests that by instructing the jury that “if the transaction would not 
+have been done at the same time and in the same manner, except for the intent to 
+mislead, then the transaction is manipulative,” App’x at 1551, the court 
+impermissibly “‘creat[ed] a mandatory presumption that shifted to the defendant 
+the burden of persuasion on the crucial element of intent’” by “encourag[ing] the 
+jury” to “find manipulative intent if Phillips traded at particular times and 
+amounts,” Appellant’s Br. at 55 (quoting Francis v. Franklin, 471 U.S. 307, 325 
+(1985)). For one, that portion of the instruction does not say that the jury must 
+find Phillips guilty if he traded at certain times in certain amounts, nor does it 
+say anything about the burden of persuasion. Conversely, in Francis, the 
+Supreme Court held that the defendant’s due process rights were violated by an 
+instruction that directed the jury to “presume” that a defendant of sound mind 
+and discretion “intend[s] the natural and probable consequences of his acts but 
+the presumption may be rebutted.” 471 U.S. at 315 (quoting jury instruction). 
+
+That instruction, unlike the district court’s here, erroneously suggested that the 
+defendant bore the burden to rebut a presumption of intent when the 
+government in fact bore the burden to prove intent beyond a reasonable doubt. 
+Id. at 315–25. And here, just a few lines after the language Phillips challenges, the 
+court’s instruction made clear that “[t]he burden is on the government to prove 
+fraudulent intent and thus a lack of good faith, beyond a reasonable doubt.” 
+App’x at 1554; see Jones, 527 U.S. at 391 (explaining that “instructions must be 
+evaluated not in isolation but in the context of the entire charge”). 
+Phillips also contends that the court’s instruction on intent “improperly 
+invited the jury to determine [his] motive for trading, rather than his intent.” 
+Appellant’s Br. at 56. To be sure, motive and intent are distinct concepts. See 
+United States v. Harvey, 653 F.3d 388, 396 (6th Cir. 2011) (“Motive is what prompts 
+a person to act . . . . Intent refers only to the state of mind with which the 
+particular act is done.” (quotation marks and citation omitted)). But motive can 
+be probative of criminal intent. See United States v. Landesman, 17 F.4th 298, 323 
+(2d Cir. 2021). And, once again, the court explained throughout its instruction on 
+intent that it was Phillips’s willful intent to deceive, not merely any nefarious 
+
+motive for trading, that the jury must find beyond a reasonable doubt. See App’x 
+at 1552–54; see also Jones, 527 U.S. at 391. 
+Finally, Phillips suggests that the district court’s instruction cannot have 
+stated the correct standard because, if it allowed the jury to find that he intended 
+to deceive Morgan Stanley through his trades, then it just as easily could have 
+supported a finding that Morgan Stanley intended to deceive him through its 
+trades. Phillips grounds that argument in the evidence that, at the same time 
+that he was selling dollars to buy rand to drop the exchange rate, Morgan Stanley 
+was selling rand to buy dollars—quite likely much of the rand that Phillips 
+bought. But Phillips has not suggested that such conduct was willful in that 
+Morgan Stanley acted with “a purpose to disobey or disregard the law.” App’x 
+at 1553. And in any event, his argument is a non sequitur. Even if one could find 
+that Morgan Stanley’s conduct was culpable according to the intent instruction, it 
+would not matter for our analysis because Phillips was on trial, not Morgan 
+Stanley. See United States v. Shapiro, 29 F. App’x 33, 35 (2d Cir. 2002) (summary 
+order) (“It is no defense to a criminal charge to say that one’s victim is also a 
+criminal.”); see also Wayte v. United States, 470 U.S. 598, 607–08 (1985) (explaining 
+that we may not second guess the government’s broad discretion over whom and 
+
+whether to prosecute, so long as the government has probable cause that the 
+accused committed an oﬀense and does not base its decision on constitutionally 
+impermissible factors). 
+In short, Phillips once again fails to meet his burden to show that “his 
+requested instruction accurately represented the law in every respect and that, 
+viewing as a whole the charge actually given, he was prejudiced.” Zheng, 113 
+F.4th at 298 (quotation marks and citation omitted).
+
+10 Phillips does not challenge the suﬃciency of the evidence of his intent to deceive—only the 
+legal standard the court applied. That is no surprise, because there was ample evidence that he 
+acted with intent to deceive the counterparty to the one-touch barrier option by manipulating 
+the exchange rate. Witness testimony and phone and chat records showed that Phillips traded 
+with the intent to trigger the 12.50 and then 12.25 one-touch barrier options, bolstered by the 
+fact that he dumped the billions in rand he had purchased soon after the second option 
+triggered. See, e.g., Supp. App’x at 205–06 (Phillips suggesting to a colleague that they “start 
+fucking around in Dollar-Rand” to “lower” the exchange rate), 209 (Phillips telling a colleague 
+that “at some point we[’re] going to have to start buying this shit back,” that is, selling dollars to 
+buy rand), 521–25 (Phillips telling a banker that his “aim” was to “trade thru 50” and instructing 
+the banker to “give bids”). A government witness also testified that Phillips’s trades were 
+inconsistent with a strategy of “replacing delta.” Supp. App’x at 80–108; see United States v. 
+Coscia, 866 F.3d 782, 798 (7th Cir. 2017) (noting that the defendant’s trading patterns were 
+“highly unusual” compared to “those of legitimate traders,” which “support[ed] the jury’s 
+conclusion of fraudulent intent”). Phillips presented his theory of innocence—that he was 
+actually trading for the legitimate purpose of “replacing delta”—and we can assume the jury 
+rejected it. See Phillips, 2024 WL 1300269, at *22 (“The Jury readily could have found that 
+Phillips’s sole objective was to move the exchange rate, and not to acquire a particular position 
+in [rand].”); United States v. Willis, 14 F.4th 170, 182 (2d Cir. 2021) (holding that “the jury was not 
+required to accept [the defendant’s] alternative explanation of innocence” when there was 
+evidence to convict beyond a reasonable doubt). 
+
+B. Lack of Jury Instruction on Phillips’s Creation of an Artificial 
+Price 
+Phillips next contends that the district court’s recitation of the elements of 
+commodities fraud was incomplete. According to Phillips, the jury should also 
+have been instructed that it could not convict him of commodities fraud without 
+proof that his trading created an artificial dollar-rand exchange rate. Once again, 
+we review this challenge to the jury instructions de novo.11 See Applins, 637 F.3d at 
+72. 
+Phillips’s theory is that, even though he was convicted of a scheme to 
+defraud in violation of 17 C.F.R. § 180.1 instead of price manipulation under 17 
+C.F.R. § 180.2, his scheme involved open-market manipulation—manipulation by 
+using otherwise lawful transactions on an open market to unlawfully influence 
+the market or market participants. See App’x at 1550 (instructing the jury that 
+“the defendant is accused of employing a manipulative device, scheme, or 
+artifice to defraud” and that “[m]anipulation refers to intentional or willful 
+conduct designed to deceive or defraud by controlling or artificially aﬀecting 
+
+11 The government once again argues that we should review for plain error. We disagree. 
+Phillips proposed the artificial price instruction to the district court, the court rejected it, and 
+any further objection would have been unlikely to change the court’s position. See Grote, 961 
+F.3d at 115 (holding that once the district court makes clear its position on an objection, further 
+objections are unnecessary to preserve an issue for appellate review). 
+
+some type of price, in this case, the dollar-rand exchange rate”). According to 
+Phillips, the court therefore should have required the government to prove the 
+traditional elements of open-market manipulation. Those elements are: “(1) [the 
+defendant] possessed an ability to influence market prices; (2) an artificial price 
+existed; (3) [the defendant] caused the artificial prices; and (4) [the defendant] 
+specifically intended to cause the artificial price.” In re Amaranth Nat. Gas 
+Commodities Litig., 730 F.3d 170, 173 (2d Cir. 2013) (quotation marks and citation 
+omitted). 
+Phillips’s proposed instruction fails to grapple with how the Dodd-Frank 
+amendments expanded the CEA’s anti-fraud measures. Amaranth involved a 
+previous version of the CEA that was in eﬀect before the Dodd-Frank Act 
+amended 7 U.S.C. § 9(1) and before the CFTC promulgated 17 C.F.R. § 180.1. See 
+Amaranth, 730 F.3d at 173 n.1 (acknowledging that the Dodd-Frank amendments 
+did not apply). The Dodd-Frank amendments made it “unlawful for any person, 
+directly or indirectly, to use or employ . . . in connection with any swap . . . any 
+manipulative or deceptive device or contrivance, in contravention of [CFTC] 
+rules and regulations.” 7 U.S.C. § 9(1) (2010). Before the Dodd-Frank Act, there 
+was no such provision, so the government’s only option would have been a 
+
+market-manipulation theory. See 7 U.S.C. § 9 (2000) (making it unlawful to 
+“manipulat[e] or attempt[] to manipulate . . . the market price of any commodity, 
+in interstate commerce, or for future delivery on or subject to the rules of any 
+registered entity”). We presume Congress added the new language for a reason. 
+See United States v. Dai, 99 F.4th 136, 139 (2d Cir. 2024). 
+The reason seems to be that Congress, consistent with the Dodd-Frank 
+Act’s purposes, intended to cover a broader swath of fraudulent and 
+manipulative activity in swaps markets. See 76 Fed. Reg. at 41401 (CFTC 
+recognizing that Congress intended, by amending § 9(1), to “augment the 
+[CFTC’s] existing authority to prohibit fraud and manipulation”). That intent is 
+apparent from Congress’s choice to model the new § 9(1) on the Securities 
+Exchange Act’s § 10(b). Compare 7 U.S.C. § 9(1) (“It shall be unlawful for any 
+person . . . to use or employ, or attempt to use or employ, in connection with any 
+swap . . . any manipulative or deceptive device or contrivance, in contravention 
+of [CFTC] rules and regulations . . . .”), with 15 U.S.C. § 78j(b) (“It shall be 
+unlawful for any person . . . [t]o use or employ, in connection with the purchase 
+or sale of any security . . . or any securities-based swap agreement any 
+manipulative or deceptive device or contrivance in contravention of [SEC] rules 
+
+and regulations . . . .”).12 See also 76 Fed. Reg. at 41399 (July 14, 2011) (CFTC 
+noting that 7 U.S.C. § 9(1) is “virtually identical” to 15 U.S.C. § 78j(b)). 
+“Traditionally, courts have looked to the securities laws when called upon 
+to interpret similar provisions of the CEA.” Loginovskaya v. Batratchenko, 764 F.3d 
+266, 272 (2d Cir. 2014) (quoting Saxe v. E.F. Hutton & Co., 789 F.2d 105, 109 (2d 
+Cir. 1986)). Looking to § 10(b) of the Securities Exchange Act and the 
+corresponding regulations, we have held that creation of an artificial price is not 
+an element of an anti-fraud or anti-manipulation claim so long as the defendant 
+had fraudulent or manipulative intent. See Set Capital, 996 F.3d at 77–78 
+(concluding that the plaintiﬀ in a private civil action for securities fraud plausibly 
+alleged a “manipulative act” despite an absence of allegations that the 
+defendant’s trades artificially aﬀected the security’s price); see also SEC v. Vali 
+Mgmt. Partners, 2022 WL 2155094, at *2 (2d Cir. June 15, 2022) (summary order) 
+(rejecting defendants’ argument that SEC’s manipulation theory of liability 
+required proof of an artificial price). Other circuits have held the same. See Koch 
+
+12 The corresponding CFTC regulations authorized by § 9(1) were likewise modeled on the 
+SEC regulations authorized by § 10(b) of the Securities Exchange Act. Compare 17 C.F.R. 
+§ 180.1(a)(1) (“It shall be unlawful for any person . . . in connection with any swap . . . to [u]se or 
+employ, or attempt to use or employ, any manipulative device, scheme, or artifice to 
+defraud . . . .”), with 17 C.F.R. § 240.10b-5(a) (“It shall be unlawful for any person . . . [t]o employ 
+any device, scheme, or artifice to defraud . . . in connection with the purchase or sale of any 
+security.”). 
+
+v. SEC, 793 F.3d 147, 153–54 (D.C. Cir. 2015) (“[I]ntent—not success—is all that 
+must accompany manipulative conduct to prove a violation of the Exchange Act 
+and its implementing regulations.”); GFL Advantage Fund, Ltd. v. Colkitt, 272 F.3d 
+189, 206 (3d Cir. 2001) (holding that § 10(b) of the Securities Exchange Act does 
+not require proof that the “allegedly unlawful activities had an eﬀect on the price 
+of the stock”); Chemetron Corp. v. Bus. Funds, Inc., 718 F.2d 725, 728 (5th Cir. 1983) 
+(same). 
+We see no reason to interpret the CEA’s language diﬀerently from nearly 
+identical language in the Securities Exchange Act. As the CFTC recognized when 
+promulgating Rule 180.1—under which Phillips was convicted—“a violation of 
+[17 C.F.R. § 180.1] may exist in the absence of any market or price eﬀect.” 76 Fed. 
+Reg. at 41401. 
+That conclusion is buttressed by reading 7 U.S.C. § 9 in full. Another 
+subsection, § 9(3), provides: “In addition to the prohibition in [§ 9(1)], it shall be 
+unlawful for any person, directly or indirectly, to manipulate or attempt to 
+manipulate the price of any swap . . . .” That subsection, unlike § 9(1), does not 
+require proof of fraudulent intent. Instead, it preserves the prohibition against 
+manipulation that lacks fraudulent intent from the pre-Dodd-Frank version of 
+
+§ 9—but only when the defendant’s actions in fact created an artificial price, as 
+determined by the four elements set out in Amaranth. See Amaranth, 730 F.3d at 
+173 n.1 (noting that interpretation of CFTC Rule 180.2, which uses language 
+identical to § 9(3),13 “‘will be guided’ by existing law on commodities 
+manipulation” (quoting 76 Fed. Reg. at 41407)). Under § 9(3), if the government 
+can prove the Amaranth elements, it can still punish, for example, manipulation 
+“based on the abuse of market power, rather than fraud.” CFTC v. Parnon Energy 
+Inc., 875 F. Supp. 2d 233, 244–46 (S.D.N.Y. 2012). But here, because the 
+government pursued its case based on § 9(1) rather than § 9(3), it did not need to 
+prove artificial price so long as it proved fraudulent intent. 
+Based on the language of the CEA and corresponding regulations, the 
+context surrounding their enactment, and our interpretation of analogous 
+provisions in the Securities Exchange Act, we conclude that Phillips has not met 
+his burden to show that his proposed instruction requiring proof of an artificial 
+price accurately represented the law. See Zheng, 113 F.4th at 298. 
+
+13 See 17 C.F.R. § 180.2 (“It shall be unlawful for any person . . . to manipulate or attempt to 
+manipulate the price of any swap . . . .”). 
+
+C. Materiality of Phillips’s Misrepresentation 
+Phillips next asserts that the evidence at trial was insuﬃcient to prove 
+beyond a reasonable doubt that his deception was material to the victims of his 
+fraud. His suﬃciency challenge fails if any rational jury could have found 
+beyond a reasonable doubt that his conduct was material to the victims. See 
+Middlemiss, 217 F.3d at 117. A “misrepresentation is material if it is capable ‘of 
+influencing the intended victim,’” United States v. Johnson, 945 F.3d 606, 614 (2d 
+Cir. 2019) (quoting Neder v. United States, 527 U.S. 1, 24 (1999)), or “important in 
+making an investment decision,” Vilar, 729 F.3d at 89. The standard is whether a 
+reasonable investor would have been influenced by the misrepresentation, not 
+whether the targets of the misrepresentation—here, Morgan Stanley Capital and 
+JPMorgan—were in fact influenced. See United States v. Litvak, 889 F.3d 56, 66 (2d 
+Cir. 2018) (explaining that “materiality is judged according to an objective 
+standard” (quoting Amgen Inc. v. Conn. Ret. Plans & Tr. Funds, 568 U.S. 455, 459 
+(2013))); see also Vilar, 729 F.3d at 89 (noting that a showing of materiality requires 
+that the misrepresentation be “important” in decision-making, but does not 
+require a showing of “actual reliance”). 
+There was suﬃcient evidence for a rational jury to find beyond a 
+reasonable doubt that Phillips’s eﬀorts to manipulate the dollar-rand exchange 
+
+rate would have been material to a reasonable financial institution in deciding 
+whether to pay out the one-touch barrier option. Witnesses employed by both 
+Morgan Stanley and JPMorgan testified that if their company knew a 
+counterparty to their option was trading with the intent to trigger the option, 
+they might not pay out the option. See App’x at 976–77 (Morgan Stanley banker 
+testifying that it “would be important to know” if a “counterparty engaged in 
+trading that was intentionally designed to trigger” a barrier option); App’x at 
+1368–69 (JPMorgan banker testifying that it is “important to . . . know that a 
+counterparty engaged in trading that was intentionally designed to trigger a 
+barrier event” and that such knowledge “would be an important factor” in 
+JPMorgan’s “willingness . . . to pay” out the option). Phillips counters that these 
+witnesses were not actually involved in the transactions in question. But that is 
+irrelevant because materiality is an objective standard. See Litvak, 889 F.3d at 66. 
+* * * 
+We have yet to address a point that Phillips raises throughout his 
+challenges on the elements of commodities fraud, and elsewhere in his briefs: 
+that because the government’s theory of fraud was based on his trades in the 
+foreign-exchange spot market, his prosecution and conviction were somehow an 
+
+impermissible backdoor attempt to defy Congress’s decision not to directly 
+regulate that market, 7 U.S.C. § 2(c)(1)(A). We find his stance to be meritless. 
+Recall that, under 17 C.F.R. § 180.1(a)(1), it is “unlawful for any person, 
+directly or indirectly, in connection with any swap, . . . to intentionally or 
+recklessly . . . [u]se or employ . . . any manipulative device, scheme, or artifice to 
+defraud.” Nothing in the text of the CEA or corresponding CFTC regulations 
+suggests that trades made in the foreign-exchange spot market cannot constitute 
+a “manipulative device, scheme, or artifice” used for the purpose of defrauding a 
+counterparty to a foreign-exchange swap. It is enough that the CEA regulates 
+swaps, the one-touch barrier option is a swap, and there was suﬃcient evidence 
+for the jury to conclude beyond a reasonable doubt that Phillips’s trades were a 
+“manipulative device, scheme, or artifice” intended to defraud the counterparty 
+to the option. 
+In sum, the district court did not err regarding any of Phillips’s challenges 
+as to the elements of commodities fraud. 
+IV. Due Process and Fair Notice 
+Finally, Phillips argues that, even if the district court got the law right at 
+every step, his conviction violated his due process rights because he lacked fair 
+notice that the CEA’s anti-fraud provisions applied to his conduct related to the 
+
+one-touch barrier option. Phillips suggests that he lacked notice of the legal 
+standard on each issue discussed above, but he focuses on the application of the 
+CEA’s extraterritoriality provision to his conduct. Phillips is correct that, at the 
+time of his actions, no court had addressed whether conduct like his involved a 
+“direct and significant connection with activities in . . . [U.S.] commerce” under 7 
+U.S.C. § 2(i)(1); as the district court acknowledged, this was a “first of its kind” 
+prosecution under § 2(i)(1), App’x at 2336, with a “paucity of precedent” 
+interpreting the statute, Phillips, 2024 WL 1300269, at *11. We review the factual 
+determinations related to Phillips’s due process claims for “clear error” but 
+review the “ultimate determination of whether due process has been violated” de 
+novo. Epskamp, 832 F.3d at 160 (quotation marks and citation omitted). 
+The Fifth Amendment’s Due Process Clause requires that a criminal statute 
+“give a person of ordinary intelligence fair notice that his contemplated conduct 
+is forbidden by the statute.” United States v. Harriss, 347 U.S. 612, 617 (1954). 
+This “requires only that the law . . . not lull the potential defendant into a false 
+sense of security, giving him no reason even to suspect that his conduct might be 
+within [the] scope” of criminal law. Rubin v. Garvin, 544 F.3d 461, 469 (2d Cir. 
+2008) (citation modified). Under this standard, due process is not “violated 
+
+simply because the issue is a matter of first impression.” Ponnapula v. Spitzer, 297 
+F.3d 172, 183 (2d Cir. 2002). Even for issues of first impression, a defendant has 
+fair notice so long as the applicable statutes “made it reasonably clear at the 
+relevant time that the defendant’s conduct was criminal.” United States v. Lanier, 
+520 U.S. 259, 267 (1997). 
+Extraterritorial application of a statute also does not necessarily vitiate fair 
+notice. When Congress “expressly intends for a statute to apply 
+extraterritorially,” as it did in the CEA, “the burden is a heavy one for a 
+defendant seeking to show that extraterritorial application of the statute violates 
+due process.” Epskamp, 832 F.3d at 168 (citation modified). Fair notice “does not 
+require that . . . defendants understand that they could be subject to criminal 
+prosecution in the United States so long as they would reasonably understand that 
+their conduct was criminal and would subject them to prosecution somewhere.” 
+Id. at 169 (emphasis in original) (quoting United States v. Al Kassar, 660 F.3d 108, 
+119 (2d Cir. 2011)). 
+A jury instruction that requires the government to prove scienter can 
+mitigate concerns that a defendant lacked fair notice. See Rubin, 544 F.3d at 467-
+69. Here, the district court instructed the jury that it must find beyond a 
+
+reasonable doubt that Phillips was “aware that what he was doing . . . was 
+unlawful.” App’x at 1553. Such an instruction was a prerequisite for a felony 
+conviction under 7 U.S.C. § 13(a)(5), which requires proof of a “willful[]” 
+violation of the CEA or its corresponding regulations and specifies that a person 
+may not be convicted if he “proves that he had no knowledge of such rule or 
+regulation.” 
+There was suﬃcient evidence for the jury to find that Phillips knew his 
+actions were unlawful. It was presented with evidence that Glen Point Capital’s 
+policies prohibited fraud and market manipulation, and that Phillips and Glen 
+Point Capital were licensed commodities traders in the United States subject to 
+training about the CEA. See Phillips, 2024 WL 1300269, at *32 (summarizing 
+evidence on Phillips’s knowledge about commodities fraud, including that 
+Phillips passed an examination as part of becoming a registered commodities 
+trader in the U.S. that covered the CEA’s fraud and manipulation provisions). It 
+would be disingenuous to contend that Phillips, a registered U.S. commodities 
+trader and sophisticated market participant, had “no reason even to suspect” that 
+his deceptive trading “might be within [the] scope” of the CEA, as would be 
+required to prove a due process violation. Rubin, 544 F.3d at 469. Instead, the 
+
+jury found that he knowingly violated the CEA and that he acted with the intent 
+to defraud the counterparty to the one-touch barrier option, whoever and 
+wherever that counterparty may be. 
+The evidence shows that Phillips, at minimum, should have known that 
+his actions constituted commodities fraud in the United States. When he took 
+those actions, he accepted the risk that he might be subject to prosecution in the 
+United States. Phillips’s prosecution and conviction therefore did not violate his 
+right to due process. 
+CONCLUSION 
+We have considered Phillips’s remaining arguments and conclude that 
+they lack merit. For the foregoing reasons, we AFFIRM the judgment of the 
+district court.

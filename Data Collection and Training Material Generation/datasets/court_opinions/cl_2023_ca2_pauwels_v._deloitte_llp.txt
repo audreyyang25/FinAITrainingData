@@ -1,0 +1,899 @@
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+August Term, 2022 
+(Argued: September 27, 2022 Decided: October 6, 2023) 
+Docket No. 22-21-cv 
+
+ANDRE PAUWELS, 
+Plaintiff-Appellant, 
+v. 
+DELOITTE LLP, DELOITTE TAX LLP, DELOITTE USA LLP, BANK OF NEW YORK 
+MELLON CORPORATION, LLP, THE BANK OF NEW YORK MELLON, 
+Defendants-Appellees. 
+
+Before: JACOBS, SACK, AND ROBINSON, Circuit Judges. 
+In 2009, defendants-appellees Bank of New York Mellon Corporation, LLP 
+and its subsidiary, The Bank of New York Mellon (collectively, “BNYM”) 
+retained plaintiff-appellee Andre Pauwels as an independent contractor to work 
+on an investment valuation project. BNYM and Pauwels continued to work 
+together in the following years on a deal-by-deal basis. In 2014, to facilitate his 
+work for BNYM, Pauwels developed the so-called Pauwels Model, a bespoke 
+valuation tool that he used to evaluate BNYM’s potential energy-sector 
+investments and to monitor existing ones. At various times between 2014 and 
+the end of his working relationship with BNYM in 2018, Pauwels shared 
+spreadsheets derived from the Pauwels Model with various employees and 
+executives at BNYM. 
+In 2016, BNYM retained defendants-appellees Deloitte LLP, Deloitte Tax 
+LLP, and Deloitte USA LLP (collectively, “Deloitte”) to take over the work that 
+Pauwels had been performing for BNYM. In 2018, Pauwels learned that BNYM 
+had shared his spreadsheets with Deloitte without his consent. Pauwels alleges 
+that Deloitte used the spreadsheets to reverse engineer the Pauwels Model and 
+was using the model to conduct the services it provided to BNYM. After 
+Pauwels confronted BNYM about its alleged unauthorized disclosure to Deloitte, 
+BNYM terminated its relationship with Pauwels. 
+
+Pauwels then brought suit against BNYM and Deloitte in the United States 
+District Court for the Southern District of New York alleging, inter alia, that the 
+Pauwels Model embodied a trade secret that they misappropriated. Pauwels 
+also raised several other claims arising under New York law. 
+BNYM and Deloitte moved to dismiss all of Pauwels’s claims. The district 
+court (Abrams, J.) granted the motion and entered a final judgment dismissing 
+the claims. Pauwels now appeals. 
+For the reasons set forth below, we 
+REVERSE AND REMAND the district court’s judgment insofar as it 
+dismissed Pauwels’s unjust enrichment claim. We AFFIRM the remainder of the 
+judgment. 
+Judge Jacobs concurs in part and dissents in part in a separate opinion. 
+
+JOSHUA I. SCHILLER, Boies Schiller Flexner 
+LLP, New York, NY, for Plaintiff-Appellant; 
+
+JOHN F. HARTMANN, Kirkland & Ellis LLP, 
+Chicago, IL; (John P. Del Monaco, Kirkland 
+& Ellis LLP, New York, NY; Matthew D. 
+Rowan, Kirkland & Ellis LLP, Washington, 
+DC, on the brief), for Defendants-Appellees 
+Deloitte LLP, Deloitte Tax LLP, and 
+Deloitte USA LLP; 
+
+M
+ICHAEL L. BANKS, Morgan, Lewis & 
+Bockius LLP, Philadelphia, PA (Keri L. 
+Engelman, Morgan, Lewis & Bockius LLP, 
+Boston, MA; Catherine L. Eschbach, 
+Morgan, Lewis & Bockius, Houston, TX, on 
+the brief), for Defendants-Appellees Bank of 
+New York Mellon Corporation and The 
+Bank of New York Mellon. 
+
+SACK, Circuit Judge: 
+In 2009, defendants-appellees Bank of New York Mellon Corporation, LLP 
+and its subsidiary, The Bank of New York Mellon (collectively, “BNYM”) 
+retained plaintiff-appellee Andre Pauwels as an independent contractor to work 
+on an investment valuation project. BNYM and Pauwels continued to work 
+together in the following years on a deal-by-deal basis. In 2014, to facilitate his 
+work for BNYM, Pauwels developed the so-called Pauwels Model, a bespoke 
+valuation tool that he used to evaluate BNYM’s potential energy-sector 
+investments and to monitor existing ones. At various times between 2014 and 
+the end of his working relationship with BNYM in 2018, Pauwels shared 
+spreadsheets derived from the Pauwels Model with various employees and 
+executives at BNYM. 
+In 2016, BNYM retained defendants-appellees Deloitte LLP, Deloitte Tax 
+LLP, and Deloitte USA LLP (collectively, “Deloitte”) to take over the work that 
+Pauwels had been performing for BNYM. In 2018, Pauwels learned that BNYM 
+had shared his spreadsheets with Deloitte without his consent. Pauwels alleges 
+that Deloitte used the spreadsheets to reverse engineer the Pauwels Model and 
+was using the model to conduct the services it provided to BNYM. After 
+
+Pauwels confronted BNYM about its alleged unauthorized disclosure to Deloitte, 
+BNYM terminated its relationship with Pauwels. 
+Pauwels then brought suit against BNYM and Deloitte in the United States 
+District Court for the Southern District of New York alleging, inter alia, that the 
+Pauwels Model embodied a trade secret that they misappropriated. Pauwels 
+also raised several other claims arising under New York law. 
+BNYM and Deloitte moved to dismiss all of Pauwels’s claims. The district 
+court (Abrams, J.) granted the motion and entered a final judgment dismissing 
+the claims. Pauwels now appeals. 
+For the reasons set forth below, we REVERSE AND REMAND the district 
+court’s judgment insofar as it dismissed Pauwels’s unjust enrichment claim and 
+AFFIRM the remainder of the judgment. 
+BACKGROUND 
+We review de novo a district court’s grant of a motion to dismiss pursuant 
+to Federal Rule of Civil Procedure 12(b)(6). Cornelio v. Connecticut, 32 F.4th 160, 
+168 (2d Cir. 2022). To survive a motion to dismiss, a complaint must contain 
+sufficient factual matter, accepted as true, to “state a claim to relief that is 
+plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007). 
+
+A claim has facial plausibility when the plaintiff pleads factual 
+content that allows the court to draw the reasonable inference that 
+the defendant is liable for the misconduct alleged. The plausibility 
+standard is not akin to a probability requirement, but it asks for 
+more than a sheer possibility that a defendant has acted 
+unlawfully. Where a complaint pleads facts that are merely 
+consistent with a defendant's liability, it stops short of the line 
+between possibility and plausibility of entitlement to relief. 
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citations and internal quotation marks 
+omitted). 
+We may affirm a district court’s grant of a motion to dismiss “on any basis 
+supported by the record,” Dane v. UnitedHealthcare Ins. Co., 974 F.3d 183, 188 (2d 
+Cir. 2020) (citation omitted), “including grounds upon which the district court 
+did not rely,” Leon v. Murphy, 988 F.2d 303, 308 (2d Cir. 1993). 
+Pauwels’s allegations, and other relevant undisputed facts, are as follows: 
+I. The Pauwels Model 
+Pauwels, a “citizen of Belgium, residing in London, United Kingdom,” Jt. 
+App’x 45 ¶ 5, describes himself as having “years of experience and expertise in 
+evaluating complex financial transactions,” id. at 48 ¶ 21. In 2009, Kevin 
+Peterson, a BNYM executive, approached Pauwels with an offer to work with 
+BNYM as an “independent advisor” to help BNYM analyze potential 
+investments. Id. at 46 ¶ 14. Pauwels began providing his services to BNYM in 
+
+April 2009 on a deal-by-deal basis. At no point relevant to this litigation did 
+BNYM and Pauwels enter into a written contract that governed the parties’ 
+working relationship. 
+In March 2014, BNYM engaged Pauwels to evaluate a potential investment 
+in the alternative energy sector. As part of his work on the project, Pauwels 
+developed the so-called “Pauwels Model,” a “proprietary model to value 
+BNYM’s proposed energy sector investments.” Jt. App’x 48 ¶ 21. “The Pauwels 
+Model served as both a direct valuation tool for Pauwels and as a means to check 
+spreadsheets and proposals sent to BNYM by investment sponsors and 
+arrangers.” Id. “In short, the Pauwels Model is an interconnected system of 
+formulas and equations . . . . The Pauwels Model was integrated into and 
+implemented in Excel spreadsheets (‘Pauwels Model Spreadsheets’) . . . .” Id. at 
+51 ¶ 33. The Pauwels Model Spreadsheets had a distinctive structure, layout, 
+and design, and included formulas and a calculation sequencing structure. 
+After Pauwels completed the March 2014 project, the scope of his work for 
+BNYM expanded. Pauwels used the Pauwels Model to, among other things, 
+analyze more than twenty potential energy-sector investments and to monitor 
+BNYM’s existing investments. 
+
+II. Pauwels’s Disclosure of the Pauwels Model Spreadsheets to 
+BNYM 
+Pauwels would typically send only the top-line outputs generated by the 
+Pauwels Model to his points of contact at BNYM. These figures, importantly, 
+were abbreviated. They did not disclose the “entire system of formulas and 
+computations from the Pauwels Model.” Jt. App’x 51 ¶ 31. 
+However, unlike the top-line figures Pauwels typically sent to BNYM, 
+Pauwels considered the Pauwels Model Spreadsheets to be confidential and 
+proprietary, in part because the Pauwels Model Spreadsheets could be, and 
+indeed ultimately were, used to reverse engineer the Pauwels Model and thereby 
+disclose the model to persons who otherwise would not have access to it. 
+At various times over the course of their working relationship, Pauwels 
+sent Pauwels Model Spreadsheets to BNYM “when it was necessary to illustrate 
+the basis for his expert advice and its implications.” Jt. App’x 52 ¶ 35. 
+Specifically, Pauwels sent Pauwels Model Spreadsheets to (1) Peterson, the 
+BNYM executive who had hired him; (2) Martin Ruckel, a manager in BNYM’s 
+tax accounting department; (3) an unnamed individual who replaced Ruckel in 
+December 2017; (4) Reza Sarmasti, a managing director in charge of BNYM’s tax 
+accounting department; and (5) Laura Hegedus, a managing director in charge of 
+
+BNYM’s wind-energy investments. Although Pauwels did not send Pauwels 
+Model Spreadsheets to anyone else at BNYM, he acknowledges that up to one 
+hundred people could work on any single energy transaction. 
+Pauwels alleges that he established “firm limits on who inside and outside 
+of BNYM could receive (or even see) the Pauwels Model Spreadsheets.” Jt. 
+App’x 53 ¶ 37. Pauwels “included his initials—AP—in most of the Pauwels 
+Model Spreadsheets that he shared with BNYM.” Id. at 54 ¶ 39. However, these 
+spreadsheets did not contain any other indication that Pauwels considered them 
+to be confidential or to contain trade secret information. Moreover, Pauwels 
+neither encrypted nor password-protect the materials that he sent to BNYM. 
+In November 2014, Pauwels had a conversation with Sarmasti and 
+Hegedus in which Pauwels said that he considered the Pauwels Model and the 
+Pauwels Model Spreadsheets to be proprietary and confidential. Pauwels alleges 
+that “Sarmasti and Hegedus agreed and confirmed, on behalf of BNYM, that the 
+Pauwels Model and Pauwels Model Spreadsheets were confidential and 
+proprietary and that they would not be shared outside of BNYM.” Jt. App’x 53 ¶ 
+38. However, Pauwels and BNYM never entered into a written confidentiality or 
+non-disclosure agreement regarding the model or the spreadsheets. Instead, 
+
+Pauwels relied on his oral agreement with Sarmasti and Hegedus regarding the 
+model and spreadsheets’ confidentiality and trusted that BNYM—including 
+Kevin Peterson, whom he regarded as a friend—would not betray his trust and 
+instead would keep the materials confidential. 
+On two occasions—first in November 2014 and then in December 2016—
+BNYM personnel, including Hegedus and Sarmasti, requested Pauwels’s 
+permission to share the Pauwels Model Spreadsheets with third parties to 
+facilitate various transactions. Both times, Pauwels refused. BNYM complied 
+with Pauwels’s wishes. 
+III. BNYM Retains Deloitte 
+In the spring of 2016, BNYM informed Pauwels that it had retained 
+Deloitte to conduct a review and audit of BNYM’s procedures for analyzing 
+wind-energy investments. Around this time, Pauwels joined four calls with 
+Deloitte, during which Deloitte was made aware of the Pauwels Model’s 
+existence. At no point during those calls did Pauwels authorize the disclosure of 
+the Pauwels Model Spreadsheets to Deloitte. 
+Pauwels alleges that contrary to what BNYM disclosed to him at the time, 
+BNYM brought in Deloitte to replace Pauwels. As part of this process, Deloitte 
+seconded one of its employees to BNYM’s tax department. BNYM provided the 
+
+Deloitte employee with “the Pauwels Model and the Pauwels Model 
+Spreadsheets.” Jt. App’x 57 ¶ 47. He “was tasked with duplicating and 
+understanding the” model. Id. 
+Later in 2016, BNYM told Pauwels that he should stop tracking and 
+monitoring BNYM’s existing energy sector investments because BNYM had 
+engaged an outside consulting firm to take over those responsibilities. But as of 
+early 2017, Pauwels continued to model new alternative energy investments for 
+BNYM. And in March 2017, he was invited to participate in a conference call 
+with Deloitte to discuss some of BNYM’s investments. At this time, though, 
+Pauwels was unaware that BNYM had already given “the Pauwels Model 
+Spreadsheets for [BNYM’s] 2014, 2015 and 2016 investments to Deloitte (11 
+spreadsheets, covering 18 windfarm investments).” Jt. App’x 59 ¶ 56. He 
+refused to participate in the call, nevertheless emailing Sarmasti explaining that 
+he considered Deloitte to be his competitor, that he had developed the Pauwels 
+Model himself, and that expected Deloitte to do the same. 
+On March 10, 2017, Pauwels spoke with Sarmasti and told him: “I hope 
+they [Deloitte] are not using my spreadsheets.” Jt. App’x 59 ¶ 55. In response, 
+“Sarmasti falsely assured Pauwels that Deloitte had its own software and was 
+
+not using the” spreadsheets. Id. at 59 ¶ 55. Sarmasti allegedly lied to Pauwels 
+because BNYM needed him to conduct work on ongoing projects and because 
+Sarmasti knew that if he told Pauwels the truth—that BNYM had already given 
+Deloitte the spreadsheets—he would refuse to do further work for BNYM. 
+Throughout 2017 and the beginning of 2018, Pauwels continued to work 
+with BNYM to model and analyze new investments, believing that Deloitte was 
+using its own software. Then, on April 12, 2018, a BNYM employee sent Pauwels 
+a Deloitte spreadsheet that revealed that Deloitte was not using its own software, 
+but instead had copied the Pauwels Model using the Pauwels Model 
+Spreadsheets. 
+In early May 2018, Pauwels confronted Sarmasti and Peterson about 
+Deloitte’s use of the Pauwels Model. Sarmasti admitted to Pauwels that BNYM 
+had disclosed the Pauwels Model Spreadsheets to Deloitte. On May 15, 2018, 
+BNYM terminated its relationship with Pauwels. 
+IV. The Current Lawsuit 
+On March 14, 2019, Pauwels initiated this action against BNYM and 
+Deloitte in the United States District Court for the Southern District of New York, 
+advancing claims of, inter alia, trade secret misappropriation, unfair competition, 
+and unjust enrichment. Pauwels also brought claims of fraud and negligent 
+
+misrepresentation against BNYM only. The district court’s jurisdiction was 
+based on diversity of citizenship. 
+BNYM and Deloitte moved to dismiss all of Pauwels’s claims. The district 
+court granted the motion in its entirety and dismissed the complaint without 
+prejudice. After Pauwels filed his second amended complaint (“SAC”), BNYM 
+and Deloitte again moved to dismiss all his claims. The district court granted the 
+motion in relevant part and entered a judgment dismissing Pauwels’s claims 
+with prejudice.1 Pauwels appeals. 
+DISCUSSION 
+I. Trade Secret Misappropriation 
+Pauwels alleges that the Pauwels Model is a trade secret that BNYM and 
+Deloitte misappropriated in violation of New York law. To state a claim for 
+trade secret misappropriation under New York law, a plaintiff must adequately 
+allege “(1) that it possessed a trade secret, and (2) that the defendants used that 
+trade secret in breach of an agreement, confidential relationship or duty, or as a 
+result of discovery by improper means.” Faiveley Transp. Malmo AB v. Wabtec 
+Corp., 559 F.3d 110, 117 (2d Cir. 2009) (citation omitted). Because we conclude 
+
+1 Pauwels also brought a claim against BNYM alleging it that had failed to pay one of his invoices. The 
+district court denied BNYM’s motion to dismiss this claim. After the parties settled this claim, the district 
+court entered its final judgment. 
+
+that the district court correctly determined that Pauwels failed to plausibly allege 
+that the Pauwels Model was a trade secret and that either BNYM or Deloitte 
+misappropriated it, we affirm the dismissal of these claims. 
+A. 
+Under New York law, the first element of trade secret misappropriation—
+possession of a trade secret—is generally evaluated with reference to six factors, 
+including, critically, “the extent of measures taken by [the plaintiff] to guard the 
+secrecy of the information.” Ashland Mgmt. v. Janien, 82 N.Y.2d 395, 407 (1993) 
+(citation omitted).2 “[A] trade secret must first of all be secret . . . .” Schroeder v. 
+Pinterest Inc., 17 N.Y.S.3d 678, 691 (1st Dep’t 2015) (alteration in original) (citation 
+omitted); see also Lehman v. Dow Jones & Co., Inc., 783 F.2d 285, 298 (2d Cir. 1986) 
+(“[T]he most important consideration remains whether the information was a 
+secret.”). Accordingly, in order to successfully state a claim for trade secret 
+misappropriation, “courts require that the [plaintiff-]possessor of a trade secret 
+
+2 The full list of factors is as follows: 
+(1) the extent to which the information is known outside of the business; (2) the extent to 
+which it is known by employees and others involved in the business; (3) the extent of 
+measures taken by the business to guard the secrecy of the information; (4) the value of the 
+information to the business and its competitors; (5) the amount of effort or money 
+expended by the business in developing the information; (6) the ease or difficulty with 
+which the information could be properly acquired or duplicated by others. 
+Ashland Mgmt. Inc., 82 N.Y.2d at 407 (alterations adopted) (citation omitted). 
+
+take reasonable measures to protect its secrecy.” Defiance Button Mach. Co. v. C & 
+C Metal Prods. Corp., 759 F.2d 1053, 1063 (2d Cir. 1985) (citation omitted). And 
+“[a]bsent such measures,” the information “will cease to be a trade secret and 
+will lose the protections of trade secret law.” Id. 
+In arguing that he took sufficient steps to keep the Pauwels Model secret, 
+Pauwels asserts that 1) he sent the Pauwels Model Spreadsheets only to a core 
+group of individuals at BNYM, and only when necessary to illustrate the basis 
+for his advice; 2) two of the BNYM employees with whom he shared the 
+spreadsheets orally agreed to keep them and the model secret; 3) in many 
+instances, he placed his initials on the spreadsheets that he provided to BNYM; 
+and 4) on two occasions, when he refused BNYM’s request to share the 
+spreadsheets with third parties, BNYM complied. Construing the allegations in 
+the SAC in the light most favorable to Pauwels, as we must, we nonetheless find 
+these arguments unpersuasive. 
+First, although Sarmasti and Hegedus orally agreed that the “Pauwels 
+Model and Pauwels Model Spreadsheets were confidential and proprietary and 
+that they would not be shared outside of BNYM,” Jt. App’x 53 ¶ 38, Pauwels 
+alleges that he sent the Pauwels Model Spreadsheets to three other individuals at 
+
+BNYM from whom he did not receive any similar assurances, id. at 52 ¶ 35. This 
+severely undercuts Pauwels’s assertion that he took reasonable measures to 
+safeguard the secrecy of the Pauwels Model and the spreadsheets. See, e.g., 
+Ruckelshaus v. Monsanto Co., 467 U.S. 986, 1002 (1984) (“If an individual discloses 
+his trade secret to others who are under no obligation to protect the 
+confidentiality of the information, or otherwise publicly discloses the trade 
+secret, his property right is extinguished.”); Defiance Button, 759 F.2d at 1063 
+(“[T]he owner is entitled to such protection only as long as he maintains the 
+[alleged trade secret] in secrecy; upon disclosure, even if inadvertent or 
+accidental, the information ceases to be a trade secret and will no longer be 
+protected.”). 
+Second, Pauwels’s allegations relating to Sarmasti and Hegedus’s oral 
+agreement depict at most an informal understanding among them. Pauwels 
+does not adequately allege facts to support the inference that these individuals 
+had the authority to bind all of BNYM to a non-disclosure agreement and he 
+acknowledges that this agreement was not reflected in writing. He also does not 
+plausibly allege concrete facts concerning the scope of this alleged promise, 
+including any steps required of BNYM to ensure compliance. In any event, the 
+
+alleged agreement was an inadequate measure to safeguard the secrecy of the 
+model or spreadsheets because the agreement did not prevent Sarmasti or 
+Hegedus from circulating those materials throughout the entirety of BNYM, 
+including to individuals from whom Pauwels received no such promises. Jt. 
+App’x 53 ¶ 38 (“Pauwels explained that he would not share [the model or 
+spreadsheets with] anyone outside BNYM at all . . . . Sarmasti and Hegedus 
+agreed and confirmed, on behalf of BNYM, that the Pauwels Model and Pauwels 
+Model Spreadsheets were confidential and proprietary and that they would not 
+be shared outside of BNYM.” (emphases added)); see Ruckelshaus, 467 U.S. at 1002; 
+cf. Integrated Cash Mgmt. Servs., Inc. v. Digital Transactions, Inc., 920 F.2d 171, 174 
+(2d Cir. 1990) (concluding that a party took sufficient measures to protect secrecy 
+of its product architecture where, among other things, it required employees to 
+sign non-disclosure agreements). 
+Third, the SAC is devoid of allegations that Pauwels password protected, 
+encrypted, or expressly labeled the Pauwels Model Spreadsheets—from which 
+the Pauwels Model could be and ultimately was reverse engineered—as 
+“confidential.” Cf. Turret Labs USA, Inc. v. CargoSprint, LLC, No. 21-952, 2022 WL 
+701161, at *3 (2d Cir. Mar. 9, 2022) (summary order) (“reasonable measures” to 
+
+safeguard a trade secret include “encrypt[ing] [the alleged trade secret] and 
+require[ing] licensees to agree to confidentiality.” (quoting InteliClear, LLC v. ETC 
+Glob. Holdings, Inc., 978 F.3d 653, 660 (9th Cir. 2020)). Instead, Pauwels contends 
+that his placement of his initials on some of the Pauwels Model Spreadsheets was 
+a sufficient measure to protect the secrecy of the alleged trade secret. But even if 
+placing initials on spreadsheets is an appropriate way to protect their 
+confidentiality, Pauwels’s argument fails inasmuch as he concedes that he 
+sometimes sent Pauwels Model Spreadsheets that did not include his initials to 
+BNYM personnel. See, e.g., Universal Processing LLV v. Weile Zhuang, No. 17-cv-
+10210, 2018 WL 4684115, at *3 (S.D.N.Y. Sept. 28, 2018) (concluding that the 
+plaintiff failed to take reasonable measures to safeguard the secrecy of an alleged 
+trade secret, even where the plaintiff used “passwords, security timeouts and 
+confidentiality policies and non-disclosure agreements,” in part because the 
+defendant had access to files with the alleged trade secret that “were not 
+encrypted”); Broker Genius, Inc. v. Zalta, 280 F. Supp. 3d 495, 521 (S.D.N.Y. 2017) 
+(software was not a trade secret in part because the plaintiff did not “mark its 
+training materials, emails about the software’s functionalities, or the software 
+itself with confidentiality legends.”). 
+
+Finally, in light of the foregoing, Pauwels’s refusal to share the Pauwels 
+Model Spreadsheets with third parties on two occasions is insufficient to render 
+the Pauwels Model a secret because he disclosed the spreadsheets to individuals 
+at BNYM who were not obligated to keep his materials secret and because his 
+agreement with Sarmasti and Hegedus allowed them to do so the same. 
+In sum, because we agree with the district court that Pauwels failed to 
+adequately plead the existence of a trade secret, Pauwels’s trade secret claims 
+fail. 
+B. 
+We also agree with the district court that Pauwels failed to adequately 
+plead that either BNYM or Deloitte misappropriated the Pauwels Model, which 
+independently supports dismissal of his claims. As noted, under New York law, 
+a defendant misappropriates a trade secret by using it “in breach of an 
+agreement, confidential relationship or duty, or as a result of discovery by 
+improper means.” Faiveley, 559 F.3d at 117 (citation omitted). 
+i. BNYM 
+
+Pauwels alleges that he was in a fiduciary-like relationship of trust and 
+confidence with BNYM and that BNYM breached that relationship by sharing 
+the Pauwels Model Spreadsheets with Deloitte. 
+“[A] fiduciary relationship arises between two persons when one of them 
+is under a duty to act for or to give guidance for the benefit of another upon 
+matters within the scope of the relation.” Oddo Asset Mgmt. v. Barclays Bank PLC, 
+19 N.Y.3d 584, 592-93 (2012) (citation and internal quotation marks omitted). 
+“In New York, ‘a conventional business relationship, without more, is 
+insufficient to create a fiduciary relationship. Rather, a plaintiff must show 
+special circumstances that transformed the parties’ business relationship into a 
+fiduciary one.’” Big Vision Priv. Ltd. v. E.I. DuPont De Nemours & Co., 1 F. Supp. 
+3d 224, 273 n.57 (S.D.N.Y. 2014) (alteration adopted) (quoting Legend Autorama, 
+Ltd. v. Audi of Am., Inc., 954 N.Y.S.2d 141, 144 (2d Dep’t 2012)), aff’d sub nom. Big 
+Vision Priv. Ltd. v. E.I. du Pont de Nemours & Co., 610 F. App’x 69 (2d Cir. 2015) 
+(summary order); In re Mid-Island Hosp., Inc., 276 F.3d 123, 130 (2d Cir. 2002) 
+(“When parties deal at arm[‘]s length in a commercial transaction, no relation of 
+confidence or trust sufficient to find the existence of a fiduciary relationship will 
+arise absent extraordinary circumstances.” (alteration adopted) (citation 
+
+omitted)). Moreover, “employment relationships,” without more, “do not create 
+fiduciary relationships.” Rather v. CBS Corp., 886 N.Y.S.2d 121, 125 (1st Dep’t 
+2009) (concluding that employer did not owe an employee fiduciary duties 
+notwithstanding the employee’s “four-decade history” with the employer); 
+Freedman v. Pearlman, 706 N.Y.S.2d 405, 409 (1st Dep’t 2000) (allegations that an 
+employee trusted the defendant “as his employer to treat him fairly . . . does not 
+give rise to a fiduciary duty”). 
+Special circumstances giving rise to a fiduciary duty may be present where 
+the party that relied on the relationship “reposed confidence in [the other party] 
+and reasonably relied on the other’s superior expertise or knowledge.” Wiener v. 
+Lazard Freres & Co., 672 N.Y.S.2d 8, 14 (1st Dep’t 1998); see, e.g., L. Magarian & Co. 
+v. Timberland Co., 665 N.Y.S.2d 413, 414 (1st Dep’t 1997) (special circumstances 
+include “control by one party of the other for the good of the other or creation of 
+an agency relationship” (citations omitted)); Kern v. Robert Currie Assocs., 632 
+N.Y.S.2d 75, 76 (1st Dep’t 1995) (allegations that the plaintiffs “relied on 
+defendants’ expert advice [and] entrusted them with their money” supported the 
+existence of a fiduciary duty in the context of a commercial relationship). 
+However, the “mere communication of confidential information [is not] 
+
+sufficient in and of itself to create a fiduciary relationship” between two parties. 
+Wiener, 672 N.Y.S.2d at 14. 
+Pauwels argues that he had a years-long relationship with BNYM that 
+pre-dated his creation of the Pauwels Model during which “BNYM had always 
+respected the proprietary nature of his [previous] models and spreadsheets . . . 
+and had always complied with his direction to keep them confidential.” 
+Appellant’s Br. at 18 (quoting Jt. App’x 54 ¶ 40). According to Pauwels, the 
+parties’ successful historic working relationship reflects special or exceptional 
+circumstances that imposed a duty on BNYM to act as a fiduciary to Pauwels. 
+We disagree. Pauwels does not allege anything to suggest that BNYM was 
+required to act on his behalf, exercised control over him, or that Pauwels sought 
+or relied upon BNYM’s expert advice or knowledge with respect to matters 
+within the scope of their relationship. The non-conclusory allegations in the SAC 
+demonstrate that Pauwels’s relationship with BNYM was no more than a 
+standard business relationship of mutual economic benefit, comparable to an 
+employer-employee relationship negotiated at arm’s length. See, e.g., Jt. App’x 47 
+¶ 17 (Pauwels “worked as an independent advisor, providing BNYM with 
+outside expertise and analysis; he was compensated for his services based on 
+
+invoices that he would periodically submit to BNYM for processing”). 
+Accordingly, under these circumstances, Pauwels’s “subjective claims of 
+reliance” on his relationship with BNYM are inadequate to transform a standard 
+business relationship into something more. See SNS Bank, N.V. v. Citibank, N.A., 
+777 N.Y.S.2d 62, 65 (1st Dep’t 2004) (citation omitted). 
+In sum, the SAC does not adequately allege that BNYM misappropriated 
+the Pauwels Model because Pauwels failed to plead BNYM owed him any 
+fiduciary-like duties. 
+ii. Deloitte 
+Pauwels argues that Deloitte misappropriated the Pauwels Model by 
+obtaining it through “improper means.”3 “Improper means” include “fraudulent 
+misrepresentations to induce disclosure, tapping of telephone wires, 
+eavesdropping or other espionage. . . . In general they are means which fall 
+below the generally accepted standards of commercial morality and reasonable 
+conduct.” Restatement (First) of Torts § 757 cmt. f (Am. L. Inst. 1939). 
+
+3 The parties have not cited, and we are not aware of, any case in which a New York court has defined 
+“improper means” under New York law. “New York courts have, however, looked to the Restatement of 
+Torts in defining the various elements of the [trade secret misappropriation] cause of action. 
+Accordingly, the Restatement is an appropriate source of guidance here.” Balance Point Divorce Funding, 
+LLC v. Scrantom, 978 F. Supp. 2d 341, 353-54 (S.D.N.Y. 2013) (citations omitted). 
+
+Pauwels contends that Deloitte “requested the Pauwels Model [from 
+BNYM] with the intent to use it with full knowledge of the Model’s proprietary 
+and confidential nature,” Appellant’s Br. at 21, and that this conduct fell “below 
+the generally accepted standards of commercial morality and reasonable 
+conduct,” id. (citation omitted). But even assuming that this conduct constitutes 
+“improper means,” the argument finds no factual support in the SAC. To the 
+contrary, the SAC repeatedly alleges that BNYM “gave” the spreadsheets to 
+Deloitte, and that Deloitte “accepted” them. See, e.g., Jt. App’x 67 ¶¶ 80-81 
+(BNYM “gave to Deloitte the Pauwels Model Spreadsheets for use and 
+duplication” and Deloitte “accepted the Pauwels Model Spreadsheets”); id. at 68 
+¶¶ 89-90 (same). Pauwels does not allege that Deloitte “requested” the model or 
+spreadsheets at any time. Therefore, the facts alleged in the SAC establish that 
+BNYM chose, on its own, to give the Pauwels Model Spreadsheets to Deloitte as 
+part of an ordinary business arrangement, which forecloses Pauwels’s argument 
+that Deloitte used improper means to obtain the spreadsheets or model. 
+Schroeder, 17 N.Y.S.3d at 691 (an allegation that a party—here, BNYM—gave an 
+alleged trade secret to a defendant—here, Deloitte—without more, was 
+
+insufficient to give rise to an inference that the defendant used improper means 
+to obtain the alleged trade secret). 
+* * * 
+The district court correctly determined that Pauwels failed to plausibly 
+allege that the Pauwels Model was a trade secret or that BNYM or Deloitte 
+misappropriated it. We therefore affirm the district court’s dismissal of 
+Pauwels’s trade secret misappropriation claims against BNYM and Deloitte. 
+II. Unfair Competition 
+Pauwels brought a claim for unfair competition under New York law 
+against BNYM and Deloitte, alleging that irrespective of whether the Pauwels 
+Model was a trade secret, BNYM and Deloitte misappropriated his labor, skills, 
+and expenditures by using the Pauwels Model. The district court concluded that 
+these claims should be dismissed for the same reasons that Pauwels’s claims for 
+trade secret misappropriation failed. We agree. 
+ “The essence of an unfair competition claim under New York law is that 
+the defendant misappropriated the fruit of plaintiff’s labors and expenditures by 
+obtaining access to plaintiff's business idea either through fraud or deception, or 
+an abuse of a fiduciary or confidential relationship.” Telecom Int’l Am., Ltd. v. AT 
+& T Corp., 280 F.3d 175, 197 (2d Cir. 2001) (citation omitted). “Under New York 
+
+law, where an unfair competition claim and a misappropriation claim arise from 
+the same factual predicate . . . the two claims generally rise or fall together.” 
+Faiveley Transp. USA, Inc. v. Wabtec Corp., 758 F. Supp. 2d 211, 221 (S.D.N.Y. 2010) 
+(citation and internal quotation marks omitted) (collecting cases). 
+Here, Pauwels’s unfair competition and trade secret misappropriation 
+claims arise from the same factual predicate—that BNYM gave Deloitte the 
+Pauwels Model Spreadsheets in breach of BNYM’s fiduciary and confidential 
+duties to Pauwels and that Deloitte accessed the spreadsheets through improper 
+means. But, for the reasons explained above, BNYM did not owe Pauwels any 
+fiduciary-like duties. And BNYM did not “obtain[] access to [the Pauwels 
+Model] either through fraud or deception,” Telecom, 280 F.3d at 197, because 
+Pauwels freely sent the spreadsheets to BNYM personnel, including to those 
+from whom he did not have any promise that they would keep the spreadsheets 
+confidential. Likewise, as discussed above, Deloitte did not obtain the Pauwels 
+Model through fraud or deception—to the contrary, BNYM chose to give 
+Deloitte the Pauwels Model Spreadsheets as part of an ordinary business 
+arrangement. 
+
+We therefore affirm the district court’s dismissal of Pauwels’s unfair 
+competition claim against BNYM and Deloitte. 
+III. Unjust Enrichment 
+Pauwels brought a claim for unjust enrichment against BNYM and 
+Deloitte, alleging that they unjustly enriched themselves at his expense through 
+their use of the Pauwels Model. Pauwels alleges that “BNYM paid for Pauwels’ 
+advice and expertise, not for his models,” Jt. App’x 47 ¶ 16, but despite this, 
+BNYM took the Pauwels Model Spreadsheets and gave them to Deloitte “to use 
+and copy,” id. at 72 ¶ 109. According to Pauwels, this conduct enriched BNYM 
+by enabling them to “avoid[] the time and expense of paying Deloitte to develop 
+their own model . . . which would have taken more time and been more 
+expensive than just copying the Pauwels Model.” Id. at 72 ¶ 109; see also id. at 73 
+¶ 112 (alleging that BNYM “paid Pauwels for his analysis and advice” and that 
+BNYM knew that the Pauwels Model Spreadsheets “represented [Pauwels’s] 
+proprietary property and was only being shared in confidence to help illustrate 
+Pauwels’ expert advice”). Pauwels further alleges that, by using and duplicating 
+the Pauwels Model, Deloitte was enriched by “(a) being able to perform—and be 
+compensated for—the monitoring work that Pauwels had previously performed 
+for BNYM and (b) acquiring a fully developed financial model for BNYM’s 
+
+wind-energy investments without the time and expense of developing one for 
+themselves.” Id. at 73 ¶ 115. 
+The district court determined that Pauwels’s unjust enrichment claims 
+should be dismissed because they were duplicative of his claims of trade secret 
+misappropriation. We disagree. 
+ “The basic elements of an unjust enrichment claim in New York require 
+proof that (1) defendant was enriched, (2) at plaintiff’s expense, and (3) equity 
+and good conscience militate against permitting defendant to retain what 
+plaintiff is seeking to recover.” Briarpatch Ltd., L.P v. Phoenix Pictures, Inc., 373 
+F.3d 296, 306 (2d Cir. 2004). 
+The district court erred by concluding that Pauwels’s unjust enrichment 
+claim should be dismissed as “duplicative of his misappropriation of trade 
+secrets claims.” Pauwels v. Bank of N.Y. Mellon Corp., No. 19-cv-2313, 2021 WL 
+1164501, at *7 (S.D.N.Y. Mar. 26, 2021). In so holding, the district court relied on 
+inapposite caselaw that explained that “where an unfair competition [not unjust 
+enrichment] claim and a misappropriation claim arise from the same factual 
+predicate . . . the two claims generally rise or fall together.” Id. (emphasis added) 
+(quoting Faiveley, 758 F. Supp. 2d at 221). 
+
+As illustrated above, that unfair competition and trade secret 
+misappropriation claims typically rise or fall together follows from the fact that 
+the two causes of action share the common element of misappropriation. 
+Compare, e.g., Telecom, 280 F.3d at 197 (“The essence of an unfair competition 
+claim under New York law is that the defendant misappropriated the fruit of 
+plaintiff’s labors and expenditures . . . .” (emphasis added) (citation omitted)), 
+with Faiveley, 559 F.3d at 117 (“To succeed on a claim for the misappropriation of 
+trade secrets under New York law, a party must demonstrate . . . that the 
+defendants used that trade secret in breach of an agreement, confidential 
+relationship or duty, or as a result of discovery by improper means.” (citation 
+omitted)). Accordingly, if a plaintiff cannot adequately allege that a defendant 
+misappropriated the plaintiff’s property or trade secret, the plaintiff cannot state 
+a claim for either unfair competition or trade secret misappropriation. 
+By contrast, however, misappropriation is not an element of a claim for 
+unjust enrichment under New York law. See Briarpatch Ltd., 373 F.3d at 306. 
+Therefore, a plaintiff’s claim for unjust enrichment does not necessarily rise or 
+fall with a claim of trade secret misappropriation. 
+
+Here, the crux of Pauwels’s unjust enrichment claim is that BNYM 
+compensated him solely for his expert consultation but BNYM took more than 
+what it bargained for when it shared the Pauwels Model Spreadsheets with 
+Deloitte in order to have them reverse engineer the Pauwels Model. Because this 
+theory of liability is distinct from those underpinning Pauwels’s claim for trade 
+secret misappropriation, we conclude that Pauwels’s claim for unjust enrichment 
+should not have been dismissed as duplicative of his claim for trade secret 
+misappropriation. 
+i. BNYM 
+BNYM argues that we should nevertheless affirm the district court’s 
+dismissal of Pauwels’s claim for unjust enrichment because the claim is 
+precluded by a valid and enforceable contract between Pauwels and BNYM.4 
+Pauwels does not dispute that he entered into a valid and enforceable oral or 
+implied-in-fact contract with BNYM to provide consulting services to BNYM. He 
+contends, however, that because the contract did not contemplate Pauwels 
+
+4 Although BNYM did not raise this argument in its appellee’s brief, after oral argument, we ordered the 
+parties to submit supplemental briefing on the following question: “Did a valid and enforceable contract 
+exist between Pauwels and BNYM? If so, what is the impact of that contract on Pauwels's unjust 
+enrichment claim? See Clark-Fitzpatrick, Inc. v. Long Island R.R. Co., 521 N.Y.S.2d 653, 656 (1987).” Docket 
+No. 79. In its supplemental brief, BNYM argued that a valid and enforceable contract exists and that the 
+existence of that contract bars recovery on Pauwels’s unjust enrichment claim. 
+
+selling his underlying intellectual property to BNYM, the contract does not 
+preclude his claim for unjust enrichment. We agree. 
+Under New York law, “the existence of a valid and enforceable written 
+contract governing a particular subject matter ordinarily precludes recovery in 
+quasi contract for events arising out of the same subject matter.” 
+Clark-Fitzpatrick, 521 N.Y.S.2d at 656; accord Beth Israel Med. Ctr. v. Horizon Blue 
+Cross & Blue Shield of N.J., Inc., 448 F.3d 573, 587 (2d Cir. 2006) (explaining that 
+this rule applies to written, oral, and implied-in-fact contracts). “If, however, 
+there is a bona fide dispute as to the existence of a contract or whether the scope 
+of an existing contract covers the disagreement between the parties, a party will 
+not be required to elect his or her remedies and may proceed on both quasi 
+contract and breach of contract theories.” M/A-Com, Inc. v. State, 910 N.Y.S.2d 
+246, 247 (3d Dep’t 2010). 
+BNYM contends that it entered into an oral or implied contract with 
+Pauwels pursuant to which it engaged him “to develop spreadsheets and deliver 
+them to BNYM” and committed to pay Pauwels “for the services rendered and 
+the spreadsheets that were delivered.” BNYM Supp. Br. at 1; see also id. at 3 (“[A] 
+contract existed limited solely to an agreement to pay Mr. Pauwels for the 
+
+spreadsheets . . . .”). Therefore, according to BNYM, because this contract 
+provides that BNYM would pay Pauwels for the Pauwels Model Spreadsheets, it 
+addresses the same subject matter of, and therefore precludes, Pauwels’s unjust 
+enrichment claim. 
+BNYM’s argument fails. BNYM’s contention that it entered into a contract 
+pursuant to which it agreed to pay Pauwels for the Pauwels Model Spreadsheets 
+and the right to obtain the Pauwels Model therefrom is contradicted by the 
+well-pleaded allegations in the SAC that “BNYM paid for Pauwels’ advice and 
+expertise, not for his models.” Jt. App’x 47 ¶ 16 (emphasis added). Taking these 
+allegations in the SAC as true, as of course we must at this stage in the litigation, 
+we conclude that the contract entered into by Pauwels and BNYM did not 
+address the sale or transfer of Pauwels’ underlying intellectual property to 
+BNYM, as opposed to his advice that he derived from using the Pauwels Model. 
+Indeed, BNYM acknowledges that it has a different position than Pauwels does 
+as to the subject matter that the contract governed and concedes that the “dispute 
+that gave rise to this litigation” is “whether the arrangement prevented BNYM 
+from using the spreadsheets or sharing them with Deloitte. In other words, the 
+issue was the scope of the contract, not whether a contract existed.” BNYM Supp. 
+
+Br. at 3 (emphasis added). Because, as BNYM concedes, there is a bona fide 
+dispute as to whether the contract governed the subject matter underlying 
+Pauwels’s claim for unjust enrichment, we conclude that the existence of the 
+contract does not preclude the unjust enrichment claim against BNYM at this, the 
+motion-to-dismiss stage.
+5 See M/A-Com, Inc., 910 N.Y.S.2d at 247. 
+We further conclude that Pauwels adequately pleaded a claim for unjust 
+enrichment against BNYM. Pauwels alleged that BNYM paid him strictly for his 
+consulting services, only to then use the Pauwels Model Spreadsheets for its own 
+benefit by sharing them with Deloitte. In other words, BNYM financially 
+benefitted from its use of the Pauwels Model Spreadsheets and model even 
+though it failed to compensate Pauwels for BNYM’s (or Deloitte’s) unfettered use 
+of those materials. These allegations are sufficient to state a claim for unjust 
+enrichment. See, e.g., Nakamura v. Fujii, 677 N.Y.S.2d 113, 116 (1st Dep’t 1998) 
+(“To state a cause of action for unjust enrichment, a plaintiff must allege that it 
+conferred a benefit upon the defendant, and that the defendant will obtain such 
+benefit without adequately compensating plaintiff therefor.”); Alpert v. M.R. Beal 
+
+5 We respectfully disagree with the dissent’s view that “it cannot plausibly be said that the dispute over 
+BNYM’s use of the spreadsheets is separate from the ‘subject matter’ of the contract.” Dissent at 3. 
+Drawing all reasonable inference in favor of plaintiff Pauwels, the scope of the contract, the majority 
+concludes that Pauwels is entitled to proceed to discovery on his theory that the use of his spreadsheets 
+fell outside the scope of his contract with BNYM. 
+
+& Co., 79 N.Y.S.3d 142, 143 (1st Dep’t 2018) (elements of unjust enrichment were 
+met when the plaintiff, an employee of the defendant-employer, “rebuilt a 
+[department of the firm], and . . . brought significant new clients to the firm, for 
+which [the plaintiff] received no incentive compensation”). 
+For these reasons, we reverse the district court’s dismissal of Pauwels’s 
+claim for unjust enrichment against BNYM and remand to the district court for 
+further proceedings consistent with this opinion. 
+ii. Deloitte 
+Although the district court erred by dismissing Pauwels’s unjust 
+enrichment claim against Deloitte as duplicative of his trade secret 
+misappropriation claim, we nevertheless conclude that Pauwels failed to state a 
+claim against Deloitte for a different reason. See Dane, 974 F.3d at 188. 
+Under New York law, a “plaintiff cannot succeed on an unjust enrichment 
+claim unless it has a sufficiently close relationship with the other party.” Ga. 
+Malone & Co, Inc. v. Rieder, 19 N.Y.3d 511, 516 (2012). “[W]hile a plaintiff need 
+not be in privity with the defendant to state a claim for unjust enrichment, there 
+must exist a relationship or connection between the parties that is not too 
+attenuated.” Id. (citation and quotation marks omitted). 
+
+The allegations in the SAC reflect only minimal contacts between Pauwels 
+and Deloitte, including a handful of phone calls in spring of 2016. There are no 
+non-conclusory allegations that Deloitte was aware of the specific nature of the 
+arrangement between BNYM and Pauwels with respect to who had the right to 
+use the Pauwels Model or the spreadsheets. And even if Deloitte knew that it 
+was Pauwels who had developed the model, “mere knowledge that another 
+entity [here, Pauwels] created [the allegedly proprietary information] is 
+insufficient to support a claim for unjust enrichment.” Ga. Malone, 19 N.Y.3d at 
+517. At bottom, Pauwels’s claim for unjust enrichment against Deloitte “falls 
+short of stating facts establishing a sufficient relationship to impose potential 
+liability against that party.” Id. at 519. 
+We therefore affirm the district court’s dismissal of Pauwels’s claim for 
+unjust enrichment against Deloitte. 
+IV. Fraud 
+Pauwels brought a claim for fraud against BNYM only, alleging that 
+BNYM defrauded him when, during a phone call on March 10, 2017, Sarmasti 
+assured him that Deloitte was not using the Pauwels Model Spreadsheets. 
+Pauwels contends that when Sarmasti made this statement, he knew that Deloitte 
+was in fact using the spreadsheets and that Sarmasti made this misrepresentation 
+
+with fraudulent intent. The district court dismissed this claim, concluding that 
+Pauwels failed to adequately allege that Sarmasti knew that Deloitte was using 
+the Pauwels Model Spreadsheets and that Sarmasti acted with scienter. We need 
+not address whether Pauwels adequately pleaded knowledge or scienter because 
+the SAC does not plausibly allege that Pauwels suffered any damages from the 
+alleged fraud. 
+“To state a claim for fraud under New York law, a plaintiff must allege (1) 
+a material misrepresentation or omission of fact; (2) which the defendant knew to 
+be false; (3) which the defendant made with the intent to defraud; (4) upon which 
+the plaintiff reasonably relied; and (5) which caused injury to the plaintiff.” Fin. 
+Guar. Ins. Co. v. Putnam Advisory Co., LLC, 783 F.3d 395, 402 (2d Cir. 2015). 
+Failure to adequately plead damages is fatal to a claim of fraud. Sw. Invs. Grp., 
+LLC v. JH Portfolio Debt Equities, LLC, 93 N.Y.S.3d 775, 777 (4th Dep’t 2019). 
+In the SAC, Pauwels alleged that he suffered damages because Sarmasti’s 
+misrepresentation caused him to “refrain[] from taking any action that would 
+have mitigated the damage resulting from BNYM and Deloitte stealing his 
+Pauwels Model, including terminating his relationship with BNYM, refusing to 
+do any further work for the bank, and/or potentially commencing legal 
+
+proceedings.” Jt. App’x 70 ¶ 98. These allegations are inadequate to state a claim 
+for fraud under New York law. 
+First, we do not think it plausible that Pauwels suffered any cognizable 
+injury by failing to refuse to do further work or terminate his relationship with 
+BNYM sometime before their relationship ultimately dissolved in May 2018. 
+BNYM compensated Pauwels for the services that he rendered through the end 
+of their working relationship.6 We therefore cannot see how Sarmasti’s alleged 
+misrepresentation caused Pauwels—who was being paid for his work after 
+March 2017—to suffer any damages by continuing to perform that work.7 
+Second, Pauwels’s theory that he suffered damages because, but for the 
+alleged fraud, he would have commenced legal proceedings against BNYM at 
+some earlier time, is foreclosed by New York law. RKA Film Fin. LLC v. 
+Kavanaugh, 99 N.Y.S.3d 267, 270 (1st Dep’t 2019) (“To the extent plaintiff claims 
+that these defendants’ misrepresentations caused it to abstain from taking legal 
+
+6 Although Pauwels alleged in the SAC that BNYM failed to pay one of his invoices, as noted above, the 
+parties settled that dispute before this appeal. 
+7 Furthermore, when given an opportunity to discuss Pauwels’s fraud claim at oral argument, Pauwels’s 
+counsel was unable to persuasively explain how the allegations in the SAC satisfied the element of 
+damages. See generally Oral Arg. R. at 27:30-31:04. 
+
+action, plaintiff has not demonstrated that it sustained damages as a result of 
+such forbearance, an essential element of its claim [of fraud].”). 
+Following oral argument, we ordered the parties to submit supplemental 
+briefing on the question of whether Pauwels adequately alleged fraud damages. 
+In that submission, Pauwels appeared to abandon the damages theories 
+previously articulated in the SAC. Instead, he argued that, but for Sarmasti’s 
+alleged misrepresentation, he would not have continued sharing Pauwels Model 
+Spreadsheets with BNYM between March 2017 and April 2018 and that, by 
+continuing to send those materials to BNYM, Pauwels suffered fraud damages. 
+This argument fails because, even if it were supported by the allegations in 
+the SAC,8 we find it to be implausible. Pauwels had already sent eleven Pauwels 
+Model Spreadsheets to several individuals at BNYM before Sarmasti made the 
+alleged misrepresentation to Pauwels in March 2017. Even granting that 
+Pauwels would have stopped sending additional spreadsheets to BNYM after 
+March 2017 if Sarmasti did not lie to him as alleged, it would have been far too 
+
+8 Although we address this novel theory of damages on the merits, we note that it was first articulated by 
+Pauwels in his supplemental submission. It was not included in the SAC and is not supported by the 
+factual allegations therein. Because Pauwels cannot add new factual allegations to the SAC in his 
+supplemental appellant’s brief, we would reject this theory of damages even if it were viable. Gamma 
+Traders - I LLC v. Merrill Lynch Commodities, Inc., 41 F.4th 71, 80 (2d Cir. 2022) (“[T]he law is clear that a 
+party may not amend pleadings through a brief.” (citation and internal quotation marks omitted)). 
+
+late because BNYM already possessed spreadsheets which Deloitte was able to 
+use to copy the Pauwels Model. 
+In sum, we conclude that Pauwels failed to plead that BNYM’s alleged 
+fraud caused him to suffer any cognizable damages. We therefore affirm the 
+district court’s dismissal of this claim. 
+V. Negligent Misrepresentation 
+Pauwels brought a claim for negligent misrepresentation against BNYM 
+arising from the same alleged March 2017 misrepresentation that underpinned 
+his claim for fraud. Pauwels’s theory of damages in support of his claim for 
+negligent misrepresentation is identical to the theory of fraud damages that he 
+advanced in the SAC. 
+However, for the reasons explained above with respect to the allegations 
+of fraud, Pauwels’s failed to adequately plead that Sarmasti’s alleged 
+misrepresentation caused him to suffer any cognizable injury. For this reason, 
+we affirm the district court’s dismissal of the claim for negligent 
+misrepresentation against BNYM. See, e.g., Anschutz Corp. v. Merrill Lynch & Co., 
+690 F.3d 98, 114 (2d Cir. 2012) (to state a claim for negligent misrepresentation 
+under New York law, the plaintiff must allege, inter alia, that the plaintiff 
+reasonably relied on the misrepresentation “to his or her detriment” (citation 
+
+omitted)); White v. Guarente, 43 N.Y.2d 356, 362-63 (1977) (“[A] negligent 
+statement may be the basis for recovery of damages, where there is a carelessness 
+in imparting words upon which others were expecting to rely and upon which 
+they did act or failed to act to their damage . . . .”); Pappas v. Harrow Stores, Inc., 
+528 N.Y.S.2d 404, 407 (2d Dep’t 1988) (“As with all negligence actions, the 
+[negligent misrepresentation] on which the plaintiff relies must be a proximate 
+cause of the injury for which he or she seeks recovery.”). 
+CONCLUSION 
+We have considered the parties’ remaining arguments on appeal and 
+conclude that they are without merit. For the reasons set forth above, we 
+REVERSE the district court’s judgment insofar as it dismissed Pauwels’s claim 
+for unjust enrichment and REMAND the case for further proceedings consistent 
+with this opinion with respect to that issue. We AFFIRM the district court’s 
+judgment in all other respects. 
+DENNIS JACOBS, Circuit Judge, dissenting in part: 
+When Bank of New York Mellon (“BNYM”) retained Andre Pauwels to 
+advise on the value of potential wind farm investments, Pauwels came up with 
+valuations using a technique he developed for the project (the “Pauwels Model,” 
+so-called by Mr. Pauwels). When BNYM sought support for the numbers, 
+Pauwels gave his client the spreadsheets he used. And when BNYM hired a new 
+consultant to value new wind farm investments, BNYM continued to use the 
+same valuation materials. 
+Pauwels admits he provided his valuations pursuant to a valid contract. 
+He performed the contract, he got paid, and he does not allege any breach. 
+Instead, he has sued for misappropriation of trade secrets, unfair competition, 
+fraud, negligent misrepresentation, and unjust enrichment.1 We unanimously 
+conclude that Pauwels’ valuation technique was no trade secret, and that he has 
+no claim based on unfair competition, fraud, or negligent misrepresentation. 
+And we further conclude that Pauwels “freely” shared his work product with 
+BNYM. Maj. Op. at 26. Yet the majority preserves his claim of supposed unjust 
+enrichment because BNYM continued to value wind farm investments in the 
+
+1 The claim against the accounting firm retained by BNYM was dismissed, and 
+no appeal is taken from the dismissal. 
+
+same way, without Pauwels. Except as to the unjust enrichment claim, I 
+subscribe to the majority opinion. I respectfully dissent in part because, in my 
+view, the unjust enrichment claim likewise fails. 
+
+The highest court of New York holds that the “existence of a valid and 
+enforceable contract governing a particular subject matter ordinarily precludes 
+recovery in quasi contract for events arising out of the same subject matter.” 
+Clark-Fitzpatrick, Inc. v. Long Island R.R. Co., 70 N.Y.2d 382, 388, 516 N.E.2d 
+190, 193, 521 N.Y.S.2d 653, 656 (1987); accord Beth Israel Med. Ctr. v. Horizon 
+Blue Cross & Blue Shield of N.J., Inc., 448 F.3d 573, 587 (2d Cir. 2006) (explaining 
+that this rule applies to written, oral, and implied-in-fact contracts). This 
+“reflects the fundamental proposition that ‘[a] valid contract defines the 
+obligations of the parties as to matters within its scope, displacing to that extent 
+any inquiry into unjust enrichment.’” Frio Energy Partners, LLC v. Fin. Tech. 
+Leverage, LLC, No. 22-cv-9766 (LJL), 2023 WL 4211035, at *7 (S.D.N.Y. June 27, 
+2023) (quoting 30 Williston on Contracts § 77:124 (4th ed. 2023)). It is 
+“impermissible … to seek damages in an action sounding in quasi contract where 
+the suing party has fully performed on a valid written agreement, the existence 
+
+of which is undisputed, and the scope of which clearly covers the dispute 
+between the parties.” Clark-Fitzpatrick, 70 N.Y.2d at 389, 516 N.E.2d at 193, 521 
+N.Y.S.2d at 656. Because the Pauwels Model and spreadsheets were integral to 
+the service contract Pauwels performed for BNYM, use of those materials was 
+within the scope of the contractual arrangement, and Clark-Fitzpatrick mandates 
+the dismissal entered by the district court. 
+The valuation technique was integral to the services and so to the contract. 
+Pauwels concedes that the models were specifically created “[t]o help facilitate 
+his work [for BNYM] on certain kinds of investments[.]” J.A. 47 ¶ 16. And he 
+further concedes that he shared his spreadsheets with BNYM when it was 
+“necessary to better illustrate [a] point for the bank” and “to better explain his 
+advice and opinions.” Id. As the majority concludes, the Pauwels Model was 
+not a trade secret. It was the tool with which Pauwels generated the advice that 
+BNYM paid for by contract. And without access to supporting materials, BNYM 
+could not fully understand the valuations, and certainly could not rely on them. 
+The majority’s distinction between Pauwels’ advice and his methodology is 
+therefore illusory: it cannot plausibly be said that the dispute over BNYM’s use 
+of the spreadsheets is separate from the “subject matter” of the contract. 
+
+The case on which the majority relies, M/A-Com, Inc. v. State, 910 N.Y.S.2d 
+246 (3d Dep’t 2010), gives no support. The majority cites wording in M/A-Com 
+acknowledging that a party “may proceed on both quasi contract and breach of 
+contract theories” if “there is a bona fide dispute as to . . . whether the scope of an 
+existing contract covers the disagreement between the parties.” Id. at 247. The 
+majority sees that there is “disagreement” over contractual “scope” and finds it 
+“bona fide.” But that describes virtually every contract dispute and would 
+swallow Clark-Fitzpatrick whole. M/A-Com does not revise or discount the 
+holding of Clark-Fitzpatrick. It could not: Clark-Fitzpatrick was decided by the 
+New York Court of Appeals--which is the highest court of the State, whereas the 
+Third Department is not. 
+M/A-Com does not assist the majority because M/A-Com is the very 
+template of a case in which the subject matter of a contract is in question. The 
+case involved a contract to create a statewide wireless network for New York, 
+beginning in two western New York counties. Id. at 246–47. Mid-project, the 
+parties signed a “change order,” whereby the contractor agreed to update a 
+different communications system in New York City while continuing to work on 
+the other network in western New York. Id. at 247. When the State terminated 
+
+the contract early, the contractor sued for breach and unjust enrichment based on 
+the work done pursuant to the change order. However, the change order was 
+not included in the record. Because this separate and critical writing was 
+missing, the court could not “determine whether the contract covers the work on 
+the [New York City] system.” Id. Given the “bona fide dispute” as to whether a 
+contract for one project covered a different project hundreds of miles away, the 
+contractor “would be permitted to proceed on alternative theories” of recovery. 
+Id. 
+Tools and work product are routinely created in the course of performing 
+a contract for services: memos, techniques, blueprints, presentations, recipes, 
+models, designs, spreadsheets, and so on. These are integral to the service, and 
+would in the ordinary course go unmentioned in a contract. A chef who leaves a 
+restaurant cannot prevent the restaurant from using the menu and recipes she 
+created for it just because there is no contract term to the contrary. As the 
+majority itself observes, if Pauwels wished to keep the Pauwels Model 
+proprietary, he could have said so in the contract; that is what contracts are for. 
+If BNYM took or got more than the contract allowed, the claim would be 
+one for breach. Pauwels chose not to assert a claim for breach; and he cannot 
+
+rely on unjust enrichment as a substitute. See Corsello v. Verizon New York, 
+Inc., 18 N.Y.3d 777, 790, 967 N.E.2d 1177, 1185, 944 N.Y.S.2d 732, 740 (2012) (“An 
+unjust enrichment claim is not available where it simply duplicates, or replaces, a 
+conventional contract or tort claim.”).
