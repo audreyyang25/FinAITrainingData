@@ -1,0 +1,3623 @@
+IN THE SUPREME COURT OF THE STATE OF DELAWARE
+
+
+GREGORY A. HOLIFIELD              §
+and GH BLUE HOLDINGS, LLC,        §
+                                  §                No. 407, 2022
+      Defendants Below,           §
+      Appellants/Cross-Appellees, §
+                                  §
+                                  §                Court Below: Court of Chancery
+      v.                          §                of the State of Delaware
+                                  §
+                                  §
+XRI INVESTMENT HOLDINGS LLC, §                     I.D. No. 2021-0619
+                                  §
+      Plaintiff Below,            §
+      Appellee/Cross-Appellant.   §
+
+
+                                 Submitted: June 28, 2023
+                                 Decided: September 7, 2023
+
+Before SEITZ, Chief Justice; VALIHURA, TRAYNOR, GRIFFITHS, Justices; and
+NEWELL, Chief Judge,1 constituting the Court en Banc.
+
+Upon appeal from the Court of Chancery of the State of Delaware. AFFIRMED in part,
+REVERSED in part, and REMANDED.
+
+Michael W. McDermott, Esquire (argued), Richard I. G. Jones, Jr., Esquire, David B.
+Anthony, Esquire, Zachary J. Schnapp, Esquire, Harry W. Shenton, IV, Esquire, BERGER
+HARRIS LLP, Wilmington, Delaware for Defendants Below, Appellants/Cross-Appellees.
+
+A. Thompson Bayliss, Esquire (argued), Eric A. Veres, Esquire, ABRAMS & BAYLISS
+LLP, Wilmington, Delaware. Of Counsel: Robert N. Hochman, Esquire, SIDLEY
+AUSTIN LLP, Chicago, Illinois, Margaret Hope Allen, Esquire, Angela C. Zambrano,
+Esquire, Yolanda Cornejo Garcia, Esquire, SIDLEY AUSTIN LLP, Dallas, Texas, Robin
+Wechkin, Esquire, SIDLEY AUSTIN LLP, Issaquah, Washington, for Plaintiff Below,
+Appellee/Cross-Appellant.
+
+
+1
+ Chief Judge Newell is sitting by designation under Del. Const. art. IV, § 12 and Supreme Court
+Rules 2(a) and 4(a), to complete the quorum.
+VALIHURA, Justice:
+
+       Defendants-below, appellants, cross-appellees, Gregory Holifield (“Holifield”) and
+
+GH Blue Holdings, LLC (“Blue”), appeal the Court of Chancery’s September 19, 2022
+
+memorandum opinion in favor of plaintiff-below, appellee, cross-appellant, XRI
+
+Investment Holdings LLC (“XRI”). The issue in this litigation is whether Holifield validly
+
+transferred his limited liability membership units in XRI to Blue on June 6, 2018. The
+
+resolution of that predicate issue bears on the ultimate dispute between the parties not being
+
+adjudicated here, namely, whether XRI validly delivered to Holifield a strict foreclosure
+
+notice purporting to foreclose on the XRI membership units, or whether such notice was
+
+incorrectly delivered to him because Blue was, in fact, the owner of the units following the
+
+transfer.
+
+       Following a one-day trial, the Court of Chancery determined that the transfer of the
+
+units from Holifield to Blue was invalid because it was not a permitted transfer under XRI’s
+
+limited liability company agreement, which provides that noncompliant transfers of XRI
+
+interests are “void.” The trial court, in interpreting this Court’s holding in CompoSecure,
+
+L.L.C. v. CardUX, LLC,2 held that the use of the word “void” in XRI’s LLC agreement
+
+rendered the transfer incurably void, such that affirmative defenses did not apply. Despite
+
+
+
+2
+  CompoSecure, L.L.C. v. CardUX, LLC (CompoSecure II), 206 A.3d 807, 816 (Del. 2018). There
+are four decisions in the CompoSecure family. CompoSecure II affirmed in part and reversed in
+part the Court of Chancery’s decision in CompoSecure, L.L.C. v. CardUX, LLC (CompoSecure I),
+2018 WL 660178 (Del. Ch. Feb. 1, 2018), and remanded the case for further proceedings. The
+trial court issued its report on remand in CompoSecure, L.L.C. v. CardUX, LLC (CompoSecure
+III), 2019 WL 2371954 (Del. Ch. June 5, 2019). This Court affirmed CompoSecure III in
+CompoSecure, L.L.C. v. CardUX, LLC (CompoSecure IV), 213 A.3d 1204 (Del. 2019).
+
+                                              2
+this holding, the trial court, in dicta, further found that XRI had acquiesced in the transfer.
+
+In doing so, the Court of Chancery, in dicta in its 154-page opinion, detailing the division
+
+between law and equity from the time of medieval England, concluded that this Court
+
+should reconsider its ruling in CompoSecure II which allows parties to an LLC agreement
+
+to contract for incurable voidness. The trial court urged us to adopt a rule wherein only
+
+acts that violate the laws of the State, as sovereign, are incurably void.3
+
+       Holifield adopts the Vice Chancellor’s suggestion on appeal, urging this Court to:
+
+(i) overrule CompoSecure II and instead reserve incurable voidness for acts that violate
+
+limits imposed by the State; (ii) hold that the trial court erred in applying CompoSecure II
+
+to the contractual language here; (iii) require more specific and emphatic language, such
+
+as “null and void ab initio,” as opposed to “shall be void,” before finding that parties have
+
+contracted for incurable voidness; or (iv) hold that incurable voidness does not extend to
+
+the affirmative defense of acquiescence.
+
+       XRI contests each of Holifield’s arguments and raises certain others on cross-
+
+appeal. It argues that: (i) the trial court erred by dismissing XRI’s claim for breach of
+
+contract damages related to an action filed against XRI in Texas; and (ii) the trial court
+
+erred by dismissing XRI’s claim for recoupment of legal expenses advanced to Holifield
+
+under XRI’s LLC agreement. XRI asks this Court to remand the case to the trial court and
+
+
+3
+ We note that the Vice Chancellor emphasizes that he “is not suggesting that the reasoning in
+CompoSecure II is wrong,” and that, “[t]o the contrary, the contractual analysis conducted in
+CompoSecure II is one possible approach that emphasizes the text of an agreement, and the
+analysis follows straightforward contractarian principles.” Chancery Opinion, 283 A.3d at 646–
+47. Instead, the Vice Chancellor’s discussion represents his “suggestion regarding a preferable
+approach.” Id. at 647.
+
+                                              3
+to instruct the trial court to determine whether Holifield acted willfully or with gross
+
+negligence in breaching the LLC agreement.
+
+       For the reasons set forth below, we AFFIRM the Court of Chancery’s judgment with
+
+respect to the Blue Transfer (defined below) and we REVERSE the Court of Chancery’s
+
+judgment insofar as it precludes XRI’s recovery for breach of contract damages and
+
+recoupment of legal expenses advanced to Holifield. We hold that the trial court’s finding
+
+of acquiescence as to only one of the alleged breaches does not bar either remedy and we
+
+REMAND for the trial court to make further determinations consistent with this opinion.
+
+              I.    RELEVANT FACTS AND PROCEDURAL BACKGROUND4
+
+    A. Holifield and Gabriel Form XRI in 2013
+
+       XRI is a full-cycle water recycling and midstream infrastructure company servicing
+
+the energy exploration and production industry.               Holifield and Matthew Gabriel
+
+(“Gabriel”) founded XRI’s predecessor entity in 2013 to explore business uses for non-
+
+potable water sources in the oil and gas industry. It was one of approximately a dozen
+
+business entities formed by the two men to explore business opportunities in various
+
+sectors.5
+
+
+
+
+4
+ Unless otherwise noted, facts are taken from the Court of Chancery’s memorandum opinion. See
+XRI Investment Hldgs. LLC v. Holifield, 283 A.3d 581, 589–610 (Del. Ch. 2022) (hereinafter,
+“Chancery Opinion”).
+5
+  Id. Holifield, a scientist, computer engineer, and military veteran, brought technological,
+scientific, and defense industry expertise to the partnership, while Gabriel, a transactional lawyer
+and businessman, brought transactional and financial expertise.
+
+                                                 4
+          Holifield and Gabriel formed Entia, LLC (“Entia”) to provide management services
+
+and personnel to the operating entities they formed together.6 Entia’s sole purpose is to
+
+provide management and personnel services; the entity has never owned any interest in the
+
+operating businesses. Instead, Holifield and Gabriel owned the interests personally.
+
+Holifield controlled Entia and Gabriel owned a minority stake in Entia.
+
+      B. Holifield and Gabriel Sell a Controlling Interest in XRI to Morgan Stanley in 2016
+
+          Three years after forming XRI’s predecessor, in August 2016, Gabriel and Holifield
+
+sold a controlling interest in the entity to funds affiliated with Morgan Stanley (the
+
+“Morgan Stanley Sale”). Out of that sale emerged XRI in its current incarnation as a
+
+manager-managed Delaware limited liability company whose internal affairs are governed
+
+by a limited liability company agreement (the “LLC Agreement”).
+
+          The LLC Agreement designated two classes of membership interests — “Class A
+
+Units,” which Morgan Stanley received as the sole “Class A Member,” and “Class B
+
+Units,” which Holifield and Gabriel received as two of the three “Class B Members.”7
+
+Holifield’s Class B Units are the units underlying the parties’ dispute (the “Disputed
+
+Units”). The LLC Agreement also provided that the entity be managed by a five-member
+
+board of directors (the “XRI Board”). As the sole Class A Member, Morgan Stanley had
+
+the right to designate three board members. It designated Logan Burt (“Burt”), Mark Bye,
+
+
+
+6
+    Id. at 594. At the height of its operations, Entia had approximately 265 employees.
+7
+  App. to Opening Br. at A0137 (LLC Agreement Schedule A). The third Class B member, who
+held significantly fewer units than either Holifield or Gabriel, was not a member of XRI at the
+time of this litigation. See Chancery Opinion, 283 A.3d at 610 (“Morgan Stanley and Gabriel are
+the only other members of XRI.”).
+
+                                                  5
+and John Moon. As Class B Members, Holifield and Gabriel had the right to designate the
+
+remaining two board members. They designated themselves.
+
+         Importantly, the LLC Agreement also contains a provision that prohibits members
+
+from transferring their member interests (the “No Transfer Provision”).8 Although the
+
+provision generally prohibits transfers, it provides an exception for transfers to a “Permitted
+
+Transferee.” A Permitted Transferee is defined in the LLC Agreement to include any entity
+
+owned solely by the transferring member (the “Permitted Transferee Exception”).9
+
+However, to qualify for the exception, the transfer must be made for no consideration. If
+
+any transfer violates the No Transfer Provision, and does not qualify under the Permitted
+
+Transferee Exception, the transfer is “void” under the LLC Agreement (the “Contractual
+
+Voidness Provision”).10
+
+         As part of the consideration for a controlling interest in XRI, XRI extended a loan
+
+to Entia (the “XRI Loan”). The XRI Loan, documented by a secured promissory note
+
+executed by Entia in favor of XRI (the “XRI Note”), contemplated a single balloon
+
+payment of $10,611,356.88, plus accrued interest, due on August 8, 2020. Holifield
+
+executed a personal guaranty in favor of XRI and secured both the XRI Note and the
+
+personal guaranty with the Disputed Units, as documented by a Unit Pledge Agreement.
+
+Accordingly, XRI filed a UCC-1 financing statement with the State of Florida on August
+
+8, 2016, identifying Holifield as the debtor, XRI as the secured party, and the Disputed
+
+
+8
+    Chancery Opinion, 283 A.3d at 589; App. to Opening Br. at A0104 (LLC Agreement § 8.01(a)).
+9
+    App. to Opening Br. at A0059–60 (LLC Agreement § 1.01).
+10
+     Id. at A106 (LLC Agreement § 8.03).
+
+                                               6
+Units as collateral. Thus, if Entia failed to repay the XRI Loan, XRI could levy on the
+
+Disputed Units.
+
+       In turn, Holifield and Gabriel used a portion of the proceeds of the Morgan Stanley
+
+Sale to repay a $5 million loan XRI had taken out in 2015. That loan was from Penta
+
+Mezzanine Fund, a fund managed by a private investment firm founded and managed by
+
+Seth Ellis (“Ellis”). The repayment of the loan resulted in an impressive return for Ellis
+
+and his fund, and cemented a strong professional relationship among Ellis, Gabriel, and
+
+Holifield.
+
+       After the closing of the Morgan Stanley Sale, Gabriel became CEO of XRI. This
+
+arrangement reflected Gabriel’s substantial time commitment to the entity in the years
+
+leading up to the transaction. Meanwhile, Holifield managed the other portfolio companies
+
+he owned with Gabriel, including Entia.
+
+   C. The Efforts to Raise Capital for Entia in 2018
+
+       In 2018, Holifield and Gabriel began working on ways to raise additional capital
+
+through Entia to provide funding to some of the operating businesses that they co-owned.
+
+Holifield wanted to raise $3.5 million through Entia but did not have the liquidity to raise
+
+the capital personally. Thus, he looked for external funding. As an initial step, Gabriel
+
+assigned all of his interest in Entia to Holifield for a nominal sum. According to Gabriel,
+
+he did so because he believed Entia to be in financial distress and that it would be easier
+
+for Holifield to raise capital if Holifield were the sole owner of Entia.
+
+       In addition to assigning his interest in Entia to Holifield, Gabriel helped Holifield
+
+explore how to use the Disputed Units to raise capital. The two men considered three
+
+                                              7
+potential sources of funding: Morgan Stanley, Gabriel himself, and Ellis. After Gabriel
+
+and Holifield each failed to reach an agreement with Morgan Stanley for it to purchase
+
+some or all of the Disputed Units,11 Gabriel explored the possibility of taking out a $2.5
+
+million loan to purchase 2,502 of the Disputed Units himself, but abandoned this option
+
+when John Moon, a Morgan Stanley XRI Board representative, was “cool to the idea.”12
+
+Thus, Holifield turned again to Ellis.
+
+           After Holifield contacted Ellis about the possibility of a loan to Entia, Ellis broached
+
+the topic with Gabriel, and the two discussed the potential loan at a May 8, 2018 meeting.
+
+At that meeting, Ellis asked Gabriel about Holifield’s financial status. Gabriel told Ellis
+
+that Holifield had “got[ten] ahead of himself” financially and that “he needed this loan to
+
+help . . . get these other entities up and running.”13 The trial court credited Ellis’s testimony
+
+that Ellis understood that Holifield had valuable assets and that Holifield “just needed to
+
+get himself in order.”14 Moreover, it credited Ellis’s testimony that he had the impression
+
+that Gabriel “wanted [him] to help [Holifield] and help Entia.”15
+
+           The next day, Gabriel sent Holifield a detailed spreadsheet showing, among other
+
+things, a capitalization table, Holifield’s $20 million capital account and the XRI Loan,
+
+
+
+11
+  That effort entailed Gabriel reaching out to two of the Morgan Stanley board representatives —
+Burt and Moon, with whom he had a stronger relationship than did Holifield — about the
+possibility of Morgan Stanley purchasing some or all of the Disputed Units. Gabriel then advised
+Holifield on how to approach Burt.
+12
+     Chancery Opinion, 283 A.3d at 596.
+13
+     Id.
+14
+     Id.
+15
+     Id.
+
+                                                  8
+and a model of potential exit scenarios with the associated waterfall of proceeds at
+
+valuations of XRI ranging from $250 million to $600 million. Importantly, the spreadsheet
+
+showed that the Disputed Units would generate enough revenue in a sale to support both
+
+the XRI Loan and an additional loan, like the one contemplated by Ellis.16 The Court of
+
+Chancery found that, “[b]ased on the context and subject matter of the spreadsheet, it is
+
+clear that Gabriel sent the spreadsheet to Holifield to help him secure a loan from Ellis.”17
+
+At this point in time, neither Gabriel nor Holifield had raised with the Morgan Stanley
+
+representatives on the XRI Board the topic of encumbering the Disputed Units in a loan
+
+transaction.
+
+          Thereafter, Ellis and Holifield moved forward with the loan, which would be
+
+extended to Entia from Assurance Mezzanine Fund III, one of the funds Ellis managed
+
+(respectively, the “Assurance Loan” and “Assurance”). Holifield knew that Ellis viewed
+
+the Disputed Units as an important source of collateral and wanted some form of security
+
+in them. However, this time there was a problem: “Holifield also knew that the Disputed
+
+Units already provided security for the XRI Loan and that Morgan Stanley would reject
+
+any transaction structure that impaired XRI’s rights.”18 Accordingly, as the trial court
+
+found, “Gabriel and Holifield brainstormed ways to structure a loan so that the arrangement
+
+
+
+
+16
+     Chancery Opinion, 283 A.3d at 596.
+17
+     Id. at 596–97.
+18
+     Id. at 597.
+
+                                             9
+would be acceptable to Morgan Stanley while providing some degree of protection to
+
+Assurance.”19
+
+           The initial plan was for Assurance to receive a pledge of the Disputed Units that
+
+would be junior to the pledge securing the XRI Loan.                   But Holifield’s proposed
+
+arrangement was not acceptable to Morgan Stanley. On May 21, 2018, Holifield called
+
+Burt — one of the Morgan Stanley XRI Board representatives — with the understanding
+
+that Gabriel had already previewed the concept of the Assurance Loan to him. The LLC
+
+Agreement provided that any pledge of the Disputed Units required XRI Board approval,
+
+and so Holifield asked Burt to have the XRI Board approve Assurance’s receipt of a
+
+second-position pledge, junior to the rights of XRI. After the call, Burt forwarded to the
+
+other Morgan Stanley XRI Board representatives materials Holifield sent him, including a
+
+draft pledge agreement, noting that “[a]ny pledge of these securities would require XRI
+
+board approval.”20
+
+           The Vice Chancellor’s factual findings suggest that this was the first time that
+
+Morgan Stanley was informed of the possibility of a loan to Entia that involved
+
+encumbering the Disputed Units. Only a few days passed before Burt informed Holifield
+
+that the proposal was unlikely to receive XRI Board approval.21 However, he assured
+
+Holifield that Morgan Stanley’s goal was not to interfere with his efforts to raise capital
+
+
+19
+     Id.
+20
+     Id.
+21
+  Id. at 597, 616 (finding that the proposal for Assurance to have a second-position security interest
+in the Disputed Units “was no longer available after Morgan Stanley refused to approve the
+pledge.”).
+
+                                                 10
+for Entia. The trial court credited Holifield’s testimony that he believed that Gabriel and
+
+Morgan Stanley “were genuinely trying to think through [the situation] to try to figure out
+
+how to make something happen.”22
+
+           Holifield then asked Burt if Morgan Stanley would support a loan if he “could set
+
+something up where [they] completely isolated the loan . . . without affecting the interest,
+
+pledging the interest directly.”23 Burt told Holifield that as long as he kept the arrangement
+
+“on [his] side of the ledger,” then Morgan Stanley “didn’t care.”24 The court found that,
+
+“Holifield reasonably understood Burt to be saying that ‘effectively, as long as [Holifield]
+
+could set up a structure in which there was no direct pledge of the units themselves, and
+
+[Holifield] kept all of the risk that was associated with that on [his] side, on the Entia side,
+
+then that would be satisfactory.’”25
+
+      D. The Structure of the Assurance Loan
+
+           After Holifield brainstormed with Gabriel, Assurance, and his lawyers about a
+
+structure that would keep the transaction “on his side of the ledger,” Holifield concluded
+
+that the only structure that would work was one wherein Holifield would borrow the
+
+amount personally. This meant that Assurance would not receive any interest in the
+
+Disputed Units directly but would instead become a general creditor of Holifield. Under
+
+
+
+22
+     Id. at 597.
+23
+     Id.
+24
+     Id.
+25
+  Id. The trial court credited Holifield’s testimony about his recollection of conversations with
+Burt, in part because Morgan Stanley’s stance on the topic “makes sense from a business
+perspective.” Id. at 597–98.
+
+                                               11
+that arrangement, Assurance would not receive any rights in the Disputed Units per se, but
+
+if a sale of the units resulted in Holifield receiving money, then Assurance would have a
+
+right to that money once it reached Holifield’s pocket. Gabriel and Holifield concluded
+
+that although “the structure would work under the LLC Agreement,” it was unlikely that
+
+Assurance would be comfortable with that arrangement. Thus, the question for Holifield
+
+was whether there was a way to elevate Assurance’s claim to the proceeds from a sale of
+
+the Disputed Units above the claims of Holifield’s other general creditors, while still
+
+maintaining Assurance’s status as an unsecured general creditor so as not to threaten XRI’s
+
+rights in the Disputed Units.
+
+       Holifield’s lawyers came up with a complex transaction structure intended to
+
+resolve this key question. Under their proposal, Holifield would transfer the Disputed
+
+Units to a special purpose vehicle (“SPV”), which would then assign all of its rights to the
+
+proceeds it received from a sale of the Disputed Units to Entia. Assurance would extend
+
+the Assurance Loan to Entia, secured by an all-assets pledge at the Entia level. As a
+
+backstop, Holifield and the SPV would guarantee the repayment of the Assurance Loan.
+
+Under that structure, the proceeds from a sale of the Disputed Units would first repay XRI
+
+in satisfaction of the XRI Note, and the remainder would be transferred to Entia to repay
+
+the Assurance Loan.26 In other words, XRI would continue to be the sole creditor with any
+
+security interest, let alone a perfected security interest, in the Disputed Units, while
+
+
+
+
+26
+  Id. at 599–600. This concept was laid out in a May 24, 2018 email from Holifield’s counsel to
+Assurance’s counsel. Id. at 600.
+
+                                              12
+Assurance would gain a priority in Entia’s rights to any net proceeds from a sale of the
+
+Disputed Units after full payment of the XRI Loan.27
+
+           The first step of the transaction, the transfer of the Disputed Units to a SPV, would
+
+not, in Holifield’s view, require XRI Board consent under the LLC Agreement. The Court
+
+of Chancery found that Holifield and his lawyers understood the transfer of the Disputed
+
+Units to be a Permitted Transfer under the LLC Agreement, which entitled Holifield to
+
+transfer the Disputed Units to a wholly-owned affiliate for purposes of estate planning,
+
+without needing XRI Board consent to do so.28 As discussed below, the Court of Chancery
+
+further found that, although the transfer of the Disputed Units in a SPV enhanced
+
+Holifield’s ability to engage in estate planning, “[i]t is clear . . . that the specific impetus
+
+for placing the Disputed Units in an SPV was to facilitate the Assurance Loan.”29 This is
+
+because Holifield had not planned to transfer the Disputed Units to an SPV separate and
+
+apart from the Assurance Loan, and he never created any formal estate plan. The court
+
+found that through this structure, “Holifield and his counsel believed that they would keep
+
+the transaction on Holifield’s ‘side of the ledger,’ just as Morgan Stanley wanted.” 30
+
+
+
+
+27
+   In other words, relative to Holifield’s other general creditors, Assurance would have priority in
+any net proceeds from the sale of the Disputed Units, after full payment of the XRI loan. And
+relative to XRI, Assurance would remain a junior creditor, and its claim would be unsecured.
+28
+  The LLC Agreement still required Holifield to send material contracts relating to a Permitted
+Transfer, including the LLC agreement for Blue, to the XRI Board. Id. at 601.
+29
+     Id. at 600.
+30
+     Id.
+
+                                                13
+      E. The Blue Transfer and the Assurance Loan Close on June 6, 201831
+
+         Only “[a]fter coming up with the structure” did Holifield inform Gabriel that he
+
+planned to obtain additional capital from Assurance.32 Holifield also informed Gabriel that
+
+he planned to transfer his Disputed Units to Blue (the “Blue Transfer”).               Holifield
+
+subsequently explained to Burt that he was making the transfer “for estate planning
+
+purposes and that he planned to exercise rights available to him under the documents
+
+without a request for board approval.”33 However, in connection with any Permitted
+
+Transfer, the LLC Agreement required that both the transferring member and the Permitted
+
+Transferee “execute documentation reasonably acceptable to the [XRI] Board
+
+documenting such Transfer, which may include provisions giving rights of approval with
+
+respect to amendments of the governing documents and material contracts (to the extent
+
+relating to the relevant Units or other Company Interests) of the Permitted Transferee to
+
+the Company.”34 The LLC agreement for Blue was a “material contract” that Holifield
+
+would have to provide to XRI in connection with a Permitted Transfer.
+
+         Holifield and his advisors carefully considered what language to include in the LLC
+
+agreement for Blue. Given that Holifield told Burt that he was making the Blue Transfer
+
+for estate planning purposes, not to secure a loan for Entia, the key question was whether
+
+
+31
+  A visual representation of the Blue Transfer and Assurance Loan transaction can be found in
+Exhibit A herein.
+32
+     Chancery Opinion, 283 A.3d at 600.
+33
+  Id. XRI points to this fact as supporting the conclusion that Holifield acted willfully or with
+gross negligence under the LLC Agreement in effectuating the Blue Transfer, a key issue on cross
+appeal. Answering Br. at 14, 16, 17 n.2, 30 n.3, 56, 58.
+34
+     Chancery Opinion, 283 A.3d at 601; App. to Opening Br. at A105 (LLC Agreement § 8.01(e)).
+
+                                               14
+the agreement should include language documenting that Entia was entitled to receive the
+
+net proceeds from a sale of the Disputed Units, after satisfaction of the XRI Loan.
+
+According to the trial court, Holifield’s counsels’ concern was that if such language were
+
+included, it would cause Morgan Stanley and XRI to slow down the process with questions
+
+on issues that ultimately did not concern them. Accordingly, Holifield and his advisors
+
+decided not to include language in the Blue LLC agreement indicating that Entia would
+
+receive the net proceeds of a sale of the Disputed Units because, in their view, the
+
+transaction did not affect XRI’s rights in the units. On May 29, 2018, Holifield’s counsel
+
+sent an email to Assurance’s counsel, copying Ellis, Holifield, and other members of the
+
+deal team, explaining this conclusion. She wrote:
+
+      As a practical matter, XRI will only send on the net proceeds to the SPV (i.e.,
+      they will keep the $10mm+ to repay their own loan), so there’s no real
+      waterfall, only a repayment of the Assurance loan. But if we flag this in the
+      Operating Agreement that Morgan Stanley and XRI have to approve i/c/w
+      the transfer of the equity into the SPV, then we may be inviting trouble with
+      Morgan Stanley. Remember they said, as long as you keep it on your side of
+      the ledger, [Holifield], we don’t care what you do. So we’d rather not have
+      any mention of the loan or the repayment in the docs that Morgan Stanley
+      approves. Assurance will have a first and exclusive lien on the Entia assets.
+      Any problem with the Operating Agreement providing that the proceeds go
+      to Entia? [Morgan Stanley] would have no problem with that and then we
+      keep them out of our loan arrangements, which has been the goal from Day
+      1.35
+
+      The Court of Chancery rejected XRI’s contention that the foregoing email is
+
+evidence that Holifield and his advisors defrauded XRI by withholding information about
+
+
+
+35
+  Id. (emphasis in original); App. to Opening Br. at A0159 (Email from Jackie Camp to Craig
+Lee, CC Gregory Holifield, Seth Ellis, David Jakubs, and counsel, SPV Operating Agreement,
+May 29, 2018) (emphasis added).
+
+                                            15
+the structure of the Assurance Loan. Instead, it found “that Holifield and his counsel
+
+believed—reasonably and in good faith—that they had created a mechanism that did not
+
+affect XRI’s side of the ledger[,]” that “Morgan Stanley did not want XRI to be involved
+
+in Holifield’s efforts to raise capital[,]” and therefore Holifield and his advisors made a
+
+reasonable and good faith decision not to disclose information regarding the structure of
+
+the Assurance Loan.36
+
+         On May 30, 2018, Holifield’s counsel sent Holifield an email37 that would later be
+
+circulated to Burt and XRI’s lawyers.38 That email attached a set of proposed documents
+
+that would effectuate the transfer of the Disputed Units from Holifield to Blue while
+
+preserving XRI’s rights as a secured creditor. Those documents were:
+
+         1) The formation documents for [Blue].
+         2) The Contribution and Assumption Agreement wherein [Holifield]
+            transfer[s] [his] XRI interests to [Blue] and, as a condition to that transfer,
+            [Blue] agree[s] to assume the obligations of a Member of XRI, guaranty
+            [sic] the Entia loan and pledge the XRI stock to secure that guaranty.
+         3) The [Blue] Guaranty and a redline to [the] existing Guaranty of the Entia
+            loan.
+         4) The [Blue] Pledge Agreement and a redline to [the] existing pledge in
+            support of the Entia loan.39
+         As noted, none of the documents contained language that Entia would be entitled to
+
+the net proceeds of the sale of the Disputed Units, after satisfaction of the XRI Note.
+
+
+36
+     Chancery Opinion, 283 A.3d at 601.
+37
+  App. to Opening Br. at A0160–61 (Email from Gregory Holifield to Matthew Gabriel, CC David
+Jakubs and counsel, Transfer of XRI Interests to new SPV, May 30, 2018).
+38
+  Id. at A162–63 (Email from Logan Burt to Matthew Gabriel, Transfer of XRI Interests to new
+SPV, May 31, 2018).
+39
+     Chancery Opinion, 283 A.3d at 602.
+
+                                                16
+Moreover, the email communicated Holifield’s counsels’ belief that “the transfer of the
+
+[Disputed Units] to [Holifield’s] new SPV is a transfer to a Permitted Transferee under
+
+Section 8.0l(a)(iii) and the definition of Permitted Transferee in the XRI LLC Agreement,
+
+and therefore requires no XRI or Morgan Stanley consent.”40 In the email, Holifield’s
+
+counsel informed him that the email could “be forwarded as is to Matt Gabriel” and was
+
+designed “to make it as easy as possible for XRI to expeditiously clear [the transaction].”41
+
+Thus, Holifield forwarded it to Gabriel, who then forwarded it to Burt with the comment
+
+that it seemed “well thought through by counsel.”42 Burt then forwarded the emails to
+
+XRI’s lawyers and asked to set up a telephone conference to discuss the documents.
+
+           A few days later, on June 5, 2018, after conferring with XRI’s Board and counsel,
+
+Gabriel signed off on the transaction.         He wrote to Holifield that based on “the
+
+understanding that the transfer that you are proposing is indeed a Permitted Transfer, then
+
+the consent of [the] Board is not required. Please be advised though that the board consent
+
+requirements set forth in the [LLC Agreement] with respect to subsequent Transfers . . .
+
+will remain in effect.”43 Further, he wrote that it made sense “to limit the documents that
+
+XRI is signing to those for which XRI’s signature is strictly required.”44 With this goal in
+
+mind, Gabriel asked Holifield to modify the documents:
+
+
+40
+     Id.
+41
+     Id.
+42
+     Id.
+43
+  Id. (emphasis added); App. to Opening Br. at A0164–65 (Email from Matthew Gabriel to
+Gregory Holifield, Transfer of XRI interests to new SPV, June 5, 2018).
+44
+     Chancery Opinion, 283 A.3d at 602.
+
+                                               17
+           I would kindly request that you please deliver executed copies of the
+           contribution, assignment and assumption agreement (with a provision giving
+           XRI third party beneficiary status), the new guaranty (removing the signature
+           block for XRI), the new pledge (which I will countersign on XRI’s behalf as
+           an acknowledgement of receipt), as well as a new financing statement to be
+           filed. Please also confirm when you deliver these documents that your
+           personal guaranty remains in force.45
+
+           Holifield forwarded this request on to his lawyer, who advised him in an email that
+
+“it’s ok to sign the 3 XRI docs and get [Gabriel] to countersign the Pledge Agreement.
+
+They’re all dated tomorrow but there’s no real uncertainty about closing Assurance and
+
+even if it fell through you’d still have an SPV structure which is preferable to you
+
+personally.”46 The next day, Holifield forwarded the email from his lawyer, along with
+
+updated drafts of each document and a signed copy of the Unit Pledge Agreement under
+
+which Blue pledged its ownership interest in the Disputed Units as security for the XRI
+
+Loan (the “Blue Pledge”), to Gabriel. The forwarded email included the full email from
+
+Holifield’s lawyer, including the statement that “there’s no real uncertainty about closing
+
+Assurance.”47 The trial court found that this demonstrated that neither Holifield nor his
+
+counsel was trying to hide the Assurance Loan from XRI. However, the trial court also
+
+found that Holifield and his counsel did not disclose the full details of the Assurance Loan:
+
+the Blue LLC Agreement did not provide that Blue was required to pay excess proceeds
+
+from a sale of the Disputed Units to Entia, and Holifield and his counsel did not send the
+
+full set of transaction documents to Gabriel or the XRI Board.
+
+
+45
+     Id.
+46
+     Id.
+47
+     Id. at 603.
+
+                                                18
+       On June 6, 2018, Holifield and Assurance effected the interlinked series of
+
+transactions resulting in the Blue Transfer and the Assurance Loan through nine
+
+documents:
+
+       (1) Note Purchase Agreement—the contract establishing the terms of the
+       lending arrangement between Entia and Assurance.
+
+       (2) Assurance-Entia Note—the note reflecting Assurance’s $3.5 million loan
+       to Entia.
+
+       (3) Entia Security Agreement—the agreement securing the Assurance-Entia
+       Note with all of Entia’s assets as collateral.
+
+       (4) Assurance-Holifield Guaranty—a guaranty by Holifield in favor of
+       Assurance for the Assurance-Entia Note.
+
+       (5) Assurance-Blue Guaranty—a guaranty by Blue in favor of Assurance for
+       the Assurance-Entia Note.
+
+       (6) Assurance Side Letter—a letter from Assurance to Blue imposing
+       additional restrictions on Blue’s use of the XRI Units and giving Assurance
+       the right to any proceeds from a sale of the Disputed Units, if and when
+       received by Blue (the “Side Letter”).
+
+       (7) Contribution, Assignment and Assumption Agreement—an agreement
+       purportedly transferring XRI Units from Holifield to Blue.
+
+       (8) XRI Guaranty–Blue—a guaranty agreement by Blue in connection with
+       the $10.6 million XRI Loan, which Holifield had previously guaranteed
+       personally.
+
+       (9) Blue Pledge Agreement—an agreement in which Blue pledged the XRI
+       Units as security for the $10.6 million XRI Loan.
+
+It is undisputed that Holifield provided copies of only the last three documents, in addition
+
+to a UCC-1 Financing Statement identifying Blue as the debtor rather than Holifield, to
+
+XRI in June 2018. Again, none of these documents contained a key detail of the Assurance
+
+Loan, namely, that Assurance had the right to receive any net proceeds that Blue, Entia, or
+
+                                             19
+Holifield received in the event of a sale of the Disputed Units, after satisfaction of the XRI
+
+Note. Instead, that information was contained in the first six documents, particularly the
+
+Side Letter. The trial court credited Holifield’s testimony that the idea to give Assurance
+
+the right to net proceeds, and not a security interest in the Disputed Units themselves,
+
+“came out of the exchanges with [Gabriel].”48
+
+          In the same June 6, 2018 email in which Holifield sent the three Blue Transfer
+
+documents, Holifield wrote: “I confirm that my personal guarantee remains in force.
+
+Please provide the countersigned copy of the pledge agreement at your earliest
+
+convenience.”49 In all, the Blue Transfer documents ensured that XRI retained all of its
+
+rights with respect to the Disputed Units, despite the transfer to Blue. Thereafter, Gabriel
+
+countersigned the Blue Pledge on behalf of XRI, the only document that XRI executed.
+
+The Blue Pledge made the Disputed Units available to XRI as collateral for the XRI Note.
+
+Blue did not make a similar pledge to Assurance in connection with the Assurance Loan.
+
+      F. XRI Learns of the Assurance Loan in April 2019
+
+          Less than a year later, Entia needed additional capital. In early 2019, Entia received
+
+two bridge loans from Assurance, without changing the structure of the Assurance Loan.
+
+Still, in March 2019, Entia needed yet more capital and Holifield reached out to Gabriel
+
+inquiring whether XRI might purchase some of his units. Again, Gabriel directed Holifield
+
+to Morgan Stanley.
+
+
+
+48
+     Chancery Opinion, 283 A.3d at 604.
+49
+     Id. at 603.
+
+                                                20
+           On March 7, 2019, Holifield sent to Gabriel a draft email he intended to send to Burt
+
+about his desire to sell his equity in XRI. Gabriel suggested a number of edits, including
+
+striking the following sentence: “In conversation about where things stand for me,
+
+[Gabriel] mentioned there has been recent interest in Morgan Stanley deploying additional
+
+capital.”50 He explained to Holifield: “[i]f it is no difference to you, I would appreciate it
+
+if I was left out by name.”51 The trial court noted that this email “provides direct evidence
+
+of Gabriel trying to distance himself from Holifield to preserve his relationship with
+
+Morgan Stanley.”52
+
+           Discussions with Burt regarding the sale of Holifield’s equity in XRI were
+
+unproductive — as in 2018, the two could not agree on terms. As a result, Gabriel again
+
+considered purchasing some of Holifield’s units himself, but his assets were insufficiently
+
+liquid. Holifield suggested that Assurance could loan Gabriel the money in a structure
+
+similar to that of the Assurance Loan. This is the point in time when Gabriel became
+
+concerned that the Blue Transfer and the Assurance Loan violated the LLC Agreement,
+
+and he told Holifield that he intended to inform the XRI Board of those concerns. At that
+
+point, Gabriel “had not received any specific information in the form of paperwork to be
+
+able to form an opinion.”53
+
+
+
+
+50
+     Chancery Opinion, 283 A.3d at 605.
+51
+     Id.
+52
+     Id.
+53
+     Id.
+
+                                                21
+           The trial court found “that Gabriel wanted to be on Morgan Stanley’s good side,
+
+worried about his personal involvement in facilitating the Assurance Loan, and concluded
+
+that his own interests were best served by being the one who provided the information to
+
+Morgan Stanley.”54 Between March 22 and April 1, 2019, Gabriel sent XRI’s outside
+
+counsel the emails he received in May and June 2018 from Holifield and Assurance
+
+regarding the formation of Blue and the Blue Transfer. Shortly thereafter, on April 12,
+
+2019, XRI’s lawyers sent Holifield a letter asserting that the Blue Transfer “may be
+
+violative of Section 8.01 of the LLC Agreement, and therefore may be void and constitute
+
+breach of such agreement.”55 They also requested all documentation relating to the
+
+Assurance Loan and the Blue Transfer.
+
+           Thus, “[n]either Holifield nor his counsel provided the Assurance Loan Documents
+
+to XRI, until April 2019 when XRI requested them,” nearly a year after the Assurance Loan
+
+closed.56 Because the Blue LLC agreement omitted the detail that Blue would pay to Entia
+
+the proceeds of the Disputed Units, after satisfaction of the XRI Note, this is the point at
+
+which XRI possessed documents that indicated that the Disputed Units were potentially
+
+encumbered under the terms of the LLC Agreement.57 Notably, the Vice Chancellor did
+
+
+54
+     Id. at 606.
+55
+     Id.
+56
+     Id. at 604.
+57
+   See Chancery Opinion, 283 A.3d at 627–28 (stating that “Gabriel admittedly did not have access
+at that time [June 2018] to all of the Assurance Loan Documents, but he understood the structure
+of the Assurance Loan and had assisted Holifield in coming up with the idea,” and that,
+“[a]ssuming for the sake of argument that Gabriel’s knowledge was not enough, in April 2019,
+Gabriel, XRI’s lawyers, and the Board gained full knowledge of the Assurance Loan, including all
+of the Assurance Loan Documents.”).
+
+                                               22
+not determine whether the Assurance Loan constituted a breach of a different provision of
+
+the LLC Agreement prohibiting encumbrances on membership interests (the “No
+
+Encumbrance Provision”),58 or whether XRI had acquiesced in a breach of the No
+
+Encumbrance Provision.
+
+           However, the Vice Chancellor rejected XRI’s view that Holifield and his counsel
+
+deliberately hid the documents from XRI because they knew that the documents violated
+
+the LLC Agreement. Instead, the court found:
+
+           that Holifield and his counsel believed—reasonably and in good faith—that
+           they had created a mechanism that did not affect XRI’s rights and did not
+           require XRI’s approval. Equally important, based on Burt’s comment to
+           Holifield about keeping any transaction on his side of the ledger and
+           Gabriel’s comment about XRI not wanting to sign any documents that XRI
+           was not required to approve, they believed—reasonably and in good faith—
+           that Morgan Stanley did not want XRI to be involved in any capital-raising
+           efforts by Holifield, unless its approval was contractually required. Holifield
+           and his counsel made a good faith decision not to provide documents to XRI
+           that they believed XRI did not want or need to see.59
+
+           In making this finding, the trial court relied on certain of Gabriel’s actions following
+
+the closing of the Assurance Loan. The trial court looked to the fact that, on June 13, 2018,
+
+Ellis sent Gabriel an email stating “[w]e closed on [Holifield’s] loan as you know,” 60 and
+
+
+58
+     The No Encumbrance Provision provides:
+           Notwithstanding the foregoing or any other provision of this Agreement, no
+           Member shall pledge, borrow against, collateralize, otherwise encumber or allow
+           any Liens to exist on any of the Units or Company Interests except (x) with the
+           written consent of the Board or (y) in connection with a pledge of Units to the
+           Company as collateral to secure such Member’s obligations under a promissory
+           note or guarantee of indebtedness to the Company approved by the Board.
+App. to Opening Br. at A0104 (LLC Agreement § 8.01(a)).
+59
+     Chancery Opinion, 283 A.3d at 604.
+60
+     Id.
+
+                                                  23
+in response, Gabriel did nothing. He did not ask follow-up questions or ask for documents.
+
+Nor did he inform Burt, the XRI Board, or XRI’s counsel that the Assurance Loan had
+
+closed.61
+
+       Moreover, the trial court found that, over the months following the transaction,
+
+Gabriel emphasized his role in securing the Assurance Loan to convince Holifield to restore
+
+the equity interest in Entia that he had sold to Holifield for a nominal value. On August
+
+24, 2018, after a series of discussions, Gabriel sent the following email to Holifield:
+
+       As you know, I sent an email on April 6th proposing the assignment of my
+       ownership interest in certain companies to you. As my cover email to the
+       assignment suggested, I was doing this with the intent of giving you more
+       flexibility to raise additional funds—as it appeared it was necessary for the
+       long-term survivability of the broader set of entities. At the time, you were
+       specifically looking at a capital raise / debt from a group out of New York—
+       the terms of which were not completely transparent . . .. In the end, however,
+       with my assistance, you were able to move in a different direction and pull
+       in capital from a different source on more appropriate terms. As we have
+       since discussed by phone multiple times, neither of us in the end believes
+       assigning my interest is the appropriate course of action and our mutual intent
+       [is] to ignore and rescind any prior assignment and continue with our
+       partnerships as previously conducted. Please confirm this is how you see it
+       as well.62
+As a result, Gabriel recouped his interests in Entia and its portfolio companies.
+
+       Holifield testified that he was surprised by the April 12 letter from XRI’s counsel
+
+requesting the Assurance Loan documents because he was under the impression that
+
+Gabriel had been involved in the transaction, that XRI and Morgan Stanley knew about the
+
+
+
+61
+  Instead, the court found that “Gabriel was already in the loop about the Assurance Loan and
+understood what was going on.” Id.
+62
+  Id. at 604–05; App. to Opening Br. at A0382 (Email from Matthew Gabriel to Gregory Holifield,
+Previous Assignment Discussions, Aug. 24, 2018).
+
+                                              24
+transaction, and that he had effectuated Morgan Stanley’s wishes by keeping the
+
+transaction on his side of the ledger. In any event, Holifield and his counsel sent the
+
+requested documents to XRI’s lawyers, representing in an email that the Blue Transfer
+
+complied with the LLC Agreement. After reviewing the Assurance Loan documents
+
+between April 18 and May 6, 2019, XRI’s lawyers formed “a strong opinion” that the
+
+Assurance Loan was “a violation” of the LLC Agreement.63 Accordingly, on May 6, 2019,
+
+they informed Holifield that XRI was continuing “to review the situation to determine the
+
+extent to which Mr. Holifield has breached his ongoing obligations” and was renewing its
+
+reservation of its rights,64 which XRI initially asserted in June 2018.65 The Court of
+
+Chancery discounted both of XRI’s reservation of rights letters as “stock language.”66
+
+
+63
+     Id. at 606.
+64
+     Id. The letter reserving XRI’s rights stated:
+          The Company continues to review the situation to determine the extent to which
+          Mr. Holifield has breached his ongoing obligations. The foregoing is not intended
+          to be a complete statement of the facts or circumstances giving rise to the
+          Company’s rights, claims and position in this matter, all of which are expressly
+          reserved, including, but not limited to, the Company’s right to redeem the Class B
+          Units, foreclose on the Secured Promissory Note in favor of the Company, seek
+          additional information under Section 4.01 of the Unit Pledge Agreement among
+          Entia, LLC as Borrower in favor of the Company as Secured Lender, seek specific
+          performance of Mr. Holifield’s obligations and/or an injunction to prevent any
+          unlawful conduct, as well as damages and attorneys’ fees, and any other rights to
+          which the Company may be entitled, whether under any contract, at law, or at
+          equity.
+App. to Opening Br. at A0389 (Letter from Margaret Hope Allen, Sidley Austin LLP, to Monica
+J. Washington Rothbaum and Gregory A. Holifield, Entia LLC (May 6, 2019)).
+65
+  Chancery Opinion, 283 A.3d at 628 n. 28; App. to Opening Br. at A0176 (Letter from Matt
+Gabriel to Greg Holifield (June 5, 2018)) (“XRI expressly reserves all of its rights under the XRI
+LLC Agreement, including if the proposed Permitted Transferee is not a Permitted Transferee or
+ceases to be a Permitted Transferee.”).
+66
+  Chancery Opinion, 283 A.3d at 628. Specifically, the Vice Chancellor found that “[o]n the facts
+presented, XRI’s Glomar responses do not outweigh the evidence of acquiescence. XRI sent
+                                                     25
+         XRI did not take any further action for eighteen months. The trial court rejected as
+
+incredible Gabriel’s explanation for this delay, that XRI’s review “stayed in a
+
+nonconclusive state” for the next eighteen months. Instead, the Court of Chancery found
+
+that: “In reality, Morgan Stanley decided that the matter was not worth pursuing.” 67 It
+
+noted that Burt candidly conceded: “[W]e had made a business judgment that it wasn’t
+
+worth the hassle and legal expense to clarify a position that the company didn’t need to
+
+clarify.”68 It was not until after Holifield defaulted on the XRI Loan, later in 2020, that
+
+XRI asserted that the Blue Transfer was void.
+
+     G. Entia Defaults on the XRI Loan in August 2020
+
+         Meanwhile, Entia continued to struggle financially.           Even after receiving an
+
+additional $472,081.94 loan from Assurance, by the end of 2019, Entia was unable to pay
+
+its debts as they came due and at least seven lawsuits had been filed against the entity and
+
+Holifield for unpaid debts. The XRI Loan was scheduled to mature on August 8, 2020.
+
+Concerned about Entia’s ability to pay its debt on that date, Burt and Holifield discussed a
+
+possible restructuring or refinancing of the XRI Loan. However, talks broke down after
+
+Burt expressed his view that if Entia and Holifield defaulted, XRI could levy on the
+
+
+
+
+letters containing stock language, while at the same time doing nothing in the face of Holifield's
+clear position that the Blue Transfer was valid.” Id.
+67
+     Id. at 606.
+68
+  Id. (citing Burt Trial Test. at 54:17–20). However, we note that Burt further testified that the
+reason XRI waited until October 2020 to express its determination that the Blue Transfer was
+invalid was because “it was the first time that there was kind of a catalyst or a reason to take a
+position on it. Prior to that time, if it was impermissible, it was voided.” App. to Opening Br. at
+A0637 (Burt Trial Test. at 54:14–17).
+
+                                                26
+Disputed Units. Holifield disagreed with this view, making clear to Burt that XRI could
+
+not take the units without paying him a fair market price.
+
+         Holifield defaulted on the XRI Loan when it came due on August 8, 2020. On
+
+August 12, XRI lawyers sent Holifield a letter via email notifying him of the default.
+
+Relevant to the subsequent notice of foreclosure, the physical address that appeared in the
+
+letter was the address for notice found in the XRI Note — a building in Lake Mary, Florida.
+
+That building was previously owned by Gabriel and Holifield and was used as Entia’s
+
+headquarters. As Gabriel knew, they had sold the building and Entia had vacated it eight
+
+months earlier in January 2020.
+
+         Having received the letter via email, Holifield responded with the address for his
+
+home in Eustis, Florida, and Entia’s office in Sanford, Florida. Moreover, in his response,
+
+Holifield protested XRI’s effort to foreclose on the units without taking commercially
+
+reasonable steps. Specifically, he responded:
+
+         Based on recent financial performance of XRI Investment Holdings LLC, it
+         is clear that the value of the [Disputed Units] far exceeds the amount of
+         secured debt. Accordingly, I am writing to request your cooperation in a
+         reasonable marketing and sale process so that the actual value of the
+         [Disputed Units] can be realized. Please contact me at your earliest convince
+         [sic] so that we may discuss the terms of a forbearance so that a marketing
+         and sale process can be undertaken as soon as possible.69
+
+         The letter referenced the UCC and stated: “To the extent that you seek to exercise
+
+remedies and dispose of [the Disputed Units], I expect that you will comply with all
+
+applicable requirements of the Uniform Commercial Code, including the requirement to
+
+
+
+69
+     Chancery Opinion, 283 A.3d at 607.
+
+                                              27
+conduct such sale in a commercially reasonable manner.”70 XRI did not respond to
+
+Holifield’s letter. At trial, Gabriel testified that a sale process would be damaging to XRI
+
+and accordingly, XRI did not view a sale process as reasonable or viable.
+
+      H. XRI Purports to Engage in a Strict Foreclosure in October 2020
+
+           In October 2020, the XRI Board—minus Holifield—decided that the Blue Transfer
+
+was invalid and that XRI would engage in a strict foreclosure of the Disputed Units. There
+
+are no contemporaneous documents memorializing this decision, and Holifield was not
+
+informed of the XRI Board’s decision, despite still being an XRI Board member.
+
+           Under Section 9-620 of the Uniform Commercial Code (UCC), a strict foreclosure
+
+is a consensual transaction, effectuated through an agreement reached between the secured
+
+creditor and the debtor after a default.71 However, the UCC deems a non-consumer debtor,
+
+such as Holifield, to have consented to a strict foreclosure if the secured creditor makes an
+
+unconditional proposal to the debtor to accept the collateral in full satisfaction of the loan
+
+and the debtor fails to respond within 20 days after the proposal is sent.
+
+           On October 16, 2020, XRI made a proposal to Holifield to accept the Disputed Units
+
+in full satisfaction of the XRI Note.72 It did so through a letter sent by Federal Express to
+
+
+
+70
+     Id.
+71
+  XRI argued below that New York law governed the strict foreclosure. Accordingly, the Vice
+Chancellor’s summary of UCC § 9-620 is based on New York’s version of the UCC. Id. at 591
+n.1.
+72
+  As the Vice Chancellor found, “[t]o the extent XRI can defend the strict foreclosure, then
+Morgan Stanley and Gabriel capture proportionate shares of any excess value through their
+ownership interests in XRI,” and “[t]heir gain, of course, comes at Holifield’s expense.” Id. at
+610.
+
+                                               28
+Holifield at the defunct Lake Mary address. Unlike the August 12 letter notifying Holifield
+
+of the default, XRI did not send a copy of the proposal to Holifield via email. It did not
+
+attempt to provide Holifield with notice at any other address, including either of the
+
+addresses that Holifield had provided in his response to the August 12 default letter.
+
+           At the time, Holifield was in San Diego, California, and accordingly, never received
+
+the Federal Express letter. He did not sign the delivery confirmation.73 In any event, as
+
+Gabriel knew, and as noted earlier, the building in Lake Mary had been sold in early 2020
+
+and was unoccupied on October 16.
+
+           On November 30, 2020, XRI sent another letter to Holifield. This time, XRI sent a
+
+copy via email. The letter notified Holifield that because he “did not timely object or
+
+respond” to the October 16 proposal, XRI had accepted the Disputed Units in satisfaction
+
+of the XRI Note. The same day, XRI sent a letter to Holifield removing him from the XRI
+
+Board. It sent the removal letter to Holifield via email, copying his counsel, and sent it to
+
+his correct home address.
+
+           Holifield responded two weeks later, on December 15, 2020. On behalf of Blue,
+
+Holifield objected to the strict foreclosure as being “invalid and void.”74 This was because
+
+Blue owned the Disputed Units, not Holifield, and Blue had not received a proposal, nor
+
+agreed to a proposal. Holifield further explained that he had never received the October
+
+
+
+
+73
+  The delivery confirmation has the handwritten letters C19, which under FedEx’s policies means
+the package was not signed due to Covid-19. Id. at 608.
+74
+     Id.
+
+                                                29
+16 proposal because XRI deliberately sent it to a defunct address and failed to send it to
+
+him via email, as it had done in the past.
+
+        Three days later, on December 18, XRI responded to Holifield’s objection via email.
+
+In this letter, XRI definitively asserted for the first time that the Blue Transfer was invalid.
+
+Thus, in XRI’s view, Holifield remained the owner of the Disputed Units at the time XRI
+
+sent the proposal, and therefore, the proposal had been validly delivered. This meant that
+
+the strict foreclosure was valid and had resulted in XRI owning the Disputed Units, the
+
+elimination of Holifield’s Class B membership interest, and the zeroing out of Holifield’s
+
+capital account, which had a positive balance of $20 million.
+
+     I. The Resulting Litigation
+
+        Seven months after the purported strict foreclosure, on June 18, 2021, Assurance
+
+filed suit in Texas state court, seeking a declaratory judgment that the foreclosure was
+
+invalid.75 XRI responded by filing the underlying action in the Court of Chancery on July
+
+19, 2021, seeking a declaration that the Blue Transfer was void from the outset. Such a
+
+declaration would allow XRI to return to court in Texas and argue that they had properly
+
+proceeded against Holifield because he had always owned the Disputed Units as a matter
+
+of law.76
+
+
+
+
+75
+  Assurance Mezzanine Fund III, L.P. v. XRI Inv. Hldgs. LLC, No. 2021- 36737 (269th Dist. Ct.
+Harris Cnty., Tex. June 18, 2020); App. to Answering Br. at B0629–48 (Texas Action Original
+Petition).
+76
+  On October 27, 2021, XRI amended its complaint to drop Assurance from the lawsuit and add
+Blue as a defendant. Chancery Opinion, 283 A.3d at 609.
+
+                                              30
+          The Court of Chancery declined Holifield’s motion to stay the action in favor of the
+
+Texas Action, and the matter proceeded to a one-day trial on June 15, 2022. After the
+
+conclusion of the trial, XRI and Assurance settled the Texas Action. Nevertheless,
+
+Holifield and XRI insisted that a determination of who owns the Disputed Units was critical
+
+and would affect any future litigation over the validity of the strict foreclosure.77 The Vice
+
+Chancellor issued his memorandum opinion in favor of XRI on September 19, 2022. This
+
+Court heard oral argument on June 28, 2023.
+
+      J. The Trial Court’s Decision
+
+          In its September 19 memorandum opinion, the Court of Chancery found that the
+
+Blue Transfer did not meet the Permitted Transferee Exception found in Section 8.01 of
+
+the LLC Agreement. This is because, in the trial court’s view, Holifield failed to prove
+
+that Blue met one of the requirements for a Permitted Transferee as of June 6, 2018. That
+
+requirement was that the transfer to Blue be made “without consideration.”78 Because the
+
+Blue Transfer was made to induce Assurance to make the Assurance Loan to Entia, the
+
+trial court found that the transfer was made for consideration.79 Accordingly, the Blue
+
+
+77
+   The trial court found that the record supported Holifield’s testimony that “the value of the
+Disputed Units was $40 to $50 million, net of approximately $12.3 million in principal and interest
+that he owed on the XRI Note.” Id. at 610.
+78
+  Id. at 614. Finding that the Blue Transfer was made for consideration, the trial court did not
+determine whether the Blue Transfer met a third requirement, which the court referred to as the
+“Exclusive Authority Requirement.”
+79
+     Id. Specifically, the court found that:
+
+          Holifield failed to prove that the Blue Transfer complies with the second
+          requirement, namely that the Blue Transfer was “made without consideration” (the
+          “Without Consideration Requirement”). He failed to make the necessary showing
+          because XRI proved that the Blue Transfer must be considered as part of the
+                                                31
+Transfer was required to be approved by the XRI Board, and because it never was, it was
+
+invalid. The implication for the parties’ underlying dispute is that the strict foreclosure
+
+notice sent by XRI was properly delivered to Holifield, and not Blue, as the owner of the
+
+Disputed Units.
+
+          In concluding that the Blue Transfer violated the No Transfer Provision, the trial
+
+court declined to reach another issue raised by XRI: whether the Blue Transfer violated
+
+the No Encumbrance Provision — another provision in Section 8.01 of the LLC Agreement
+
+that prohibits members from placing any form of encumbrance on their member interests.
+
+The Vice Chancellor did not reach this “close” question because any breach of the No
+
+Encumbrance Provision would be “cumulative.”80
+
+          At trial, Holifield asserted the equitable defense of acquiescence — arguing that
+
+XRI acquiesced in the Blue Transfer and therefore, its claim of breach was barred under
+
+the court’s equitable principles. The Court of Chancery found that Holifield had proved
+
+the elements of that equitable defense. In other words, XRI participated in and acquiesced
+
+in the Blue Transfer, and, at all times, Holifield, reasonably and in good faith, believed that
+
+the Blue Transfer was valid and had been approved by XRI. Accordingly, but for our
+
+statement regarding contractual incurable voidness in CompoSecure II,81 the Court of
+
+
+
+
+          Assurance Loan under the step-transaction doctrine, meaning that the Assurance
+          Loan provided consideration for the Blue Transfer.
+Id.
+80
+     Id. at 610.
+81
+     206 A.3d at 816–17.
+
+                                               32
+Chancery would have found that the doctrine of acquiescence applied, XRI’s claim to relief
+
+was barred, and that the Blue Transfer was valid.
+
+          In response to Holifield’s acquiescence defense, XRI argued that: (1) “a court of
+
+equity cannot consider equitable defenses when the plaintiff has asserted a claim at law,”
+
+and (2) under CompoSecure II, when parties to an LLC Agreement use the word “void” to
+
+specify the consequences of breach, then they have agreed that the noncompliant act is void
+
+ab initio. The Court of Chancery rejected XRI’s first argument as to why the court could
+
+not consider acquiescence as a defense,82 but accepted the second argument.83
+
+          The trial court found that:
+
+          [u]nder the reasoning of [CompoSecure II], if parties to a contract specify
+          that a noncompliant act is “void,” then the act is void ab initio with all of the
+          consequences attendant to that status under the common law. Pertinent to
+          this litigation, that means a party may not deploy equitable defenses such as
+          waiver, estoppel, acquiescence, or unclean hands to defeat the claim of
+          breach and defend the contractually noncompliant act. In short, the act is
+          incurably void.84
+
+In other words, the Court of Chancery interpreted our decision in CompoSecure II to mean
+
+that “when an agreement states that a noncompliant act is ‘void,’ then the plain language
+
+of that provision trumps the common law and requires that a court deem the act void ab
+
+
+
+82
+  The trial court expressed its view that “whether a party can raise an equitable defense in response
+to a legal claim depends on the equitable defense.” Chancery Opinion, 283 A.3d at 629. The Vice
+Chancellor concluded that “Delaware decisions recognize the availability of acquiescence to
+claims at law.” Id. at 641. This conclusion is not challenged on appeal.
+83
+   Id. at 622 (“Holifield proved at trial that acquiescence applies, making it necessary to reach
+XRI’s legal arguments. XRI’s first contention is misguided, but its second contention finds
+support in CompoSecure II, a binding Delaware Supreme Court precedent. The Blue Transfer is
+therefore incurably void, and acquiescence cannot save it.”).
+84
+     Id. at 641–42.
+
+                                                 33
+initio.”85 The trial court further noted that the Court of Chancery recently expressed the
+
+same view in Southpaw Credit Opportunity Master Fund, L.P. v. Roma Rest. Hldgs. Inc.86
+
+(a case pre-dating CompoSecure II) and in Absalom Absalom Tr. v. Saint Gervais LLC.87
+
+          Although the trial court agreed that it was bound by our holding in CompoSecure II,
+
+it found the outcome to be “uncomfortable” and “inequitable.” And after it expressed the
+
+view that our decision was not wrong, but rather, was “one possible approach,” it proposed
+
+a different and “preferable” approach, in lengthy dictum:88
+
+          Under that different approach, the consequence of incurable voidness would
+          be reserved for acts that violate limitations that the state has imposed, in its
+          capacity as sovereign, on the actions that parties can legitimately take. When
+          parties have gone outside the boundaries that the state has set, it makes sense
+          that the state would treat the impermissible act as if it never occurred. But
+          just as parties cannot agree contractually to other remedies that only the state
+          can impose, such as criminal sanctions, parties would not be able to agree
+          contractually to an outcome of incurable voidness. No matter what words
+          the parties used in a contract, the noncompliant act would be voidable, not
+          void. A court still could determine that the act was invalid, but parties would
+          be able to raise equitable defenses to defeat that result. Parties could not use
+          the word “void” to contract out of equity.89
+
+
+
+
+85
+     Id. at 644.
+86
+  2018 WL 658734, at *2 (Del. Ch. Feb. 1, 2018) (holding that a transfer of a member interest in
+an LLC was incurably void when made without the prior written unanimous consent of the
+managers, because the LLC agreement stated that any noncompliant transfer was “null and void”).
+87
+   2019 WL 2655787, at *1 (Del. Ch. June 27, 2019) (holding that, under CompoSecure II, the
+transferring member could not invoke the equitable defense of laches, waiver, equitable estoppel,
+ratification, and acquiescence to defeat the claim of breach).
+88
+   Id. at 647 (“The discussion of an alternative direction is admittedly dictum. It represents one
+trial judge’s suggestion regarding a preferable approach.”).
+89
+     Id. at 645–46.
+
+                                                34
+        The Vice Chancellor’s approach is based on the following considerations: (1)
+
+authorities that pre-dated CompoSecure II;90 (2) the limited instances in which courts
+
+historically have deemed acts void ab initio91 and the significant consequences of
+
+determining that an act is void ab initio;92 (3) contractual principles under which parties
+
+generally cannot constrain the remedial flexibility of a court or insulate their agreement
+
+from the effects of their subsequent conduct; (4) the lack of consistency in how courts,
+
+legislators, and parties have used the term “void” and similar terms (i.e., void, void ab
+
+initio, voidable, invalid, ineffective, without effect); and (5) the Delaware Constitution’s
+
+guarantee of a court to administer the remedies and principles of equity. The Vice
+
+Chancellor’s dictum forms the basis of Holifield’s appeal.93
+
+
+
+90
+  Id. at 648–50. The trial court discussed the following cases, which this opinion addresses below:
+Eureka VIII LLC v. Niagara Falls Hldgs. LLC, 899 A.2d 95 (Del. Ch. 2006); Genger v. TR Invs.,
+LLC, 26 A.3d 180 (Del. 2011); Paul v. Chromalytics Corp., 343 A.2d 622 (Del. Super. 1975).
+91
+  The Court of Chancery observed that “[t]hose instances involve situations where the parties
+exceeded the bounds of the authority conferred by the state, not where they breached a private
+contractual agreement.” Chancery Opinion, 283 A.3d at 646.
+92
+  Id. at 651–58. The Vice Chancellor grouped these together as considerations based on the law
+governing voidness. He stated:
+        A second set of considerations takes into account two takeaways from the law
+        governing voidness. The first is that courts have limited the situations in which an
+        act will be declared incurably void as a result of violations of positive law or
+        fundamental public policy; in other words, limitations imposed by the state in its
+        capacity as sovereign. The second is that the consequences of determining an act
+        “void ab initio” are inflexible, far-reaching, and often harsh.
+Id. at 651.
+93
+  The Vice Chancellor also identified a statement he had made in a previous decision, that he now
+considers to be incorrect. The statement, made in Klaassen v. Allegro Dev. Corp., is:
+“[T]raditionally, when a board took action in contravention of a mandatory bylaw, the board action
+was treated as void.” (Klaassen I) 2013 WL 5739680, at *19 (Del. Ch. Oct. 11, 2013), aff’d,
+(Klaassen II), 106 A.3d 1035 (Del. 2014).
+
+                                                35
+   K. Contentions on Appeal
+
+          1. Holifield’s Contentions
+
+       Holifield sets forth two contentions on appeal. Each concerns the trial court’s
+
+interpretation and application of this Court’s decision in CompoSecure II. Holifield does
+
+not challenge the Court of Chancery’s finding that, under the plain language of Section
+
+8.01 of the LLC Agreement, the Blue Transfer is invalid. Instead, he argues that the Court
+
+of Chancery should have been free to consider Holifield’s acquiescence defense and, given
+
+the court’s finding that Holifield proved the elements of acquiescence, rule in his favor.
+
+       First, Holifield urges this Court to either distinguish or overturn certain aspects of
+
+CompoSecure II. Specifically, Holifield advocates for the rule proposed by the Vice
+
+Chancellor: that the principle of incurable voidness recognized in CompoSecure II ought
+
+to be reserved for illegitimate acts that violate limits imposed by the state, as sovereign.
+
+He argues that, despite the Delaware Limited Liability Company Act (the “LLCA”) and
+
+the deference Delaware courts give to private ordering in LLCs, Delaware courts retain an
+
+inherent measure of authority and oversight in Delaware contract relations — one that is
+
+supplemented by principles of law and equity — and one that trumps even the maximized
+
+outer bounds of contractual freedom. Ultimately, Holifield argues that equity must prevail,
+
+and parties should not be rewarded for acting inequitably.
+
+       In the alternative, Holifield argues that, even if this Court upholds CompoSecure II,
+
+it should find that Absalom went too far in stating that CompoSecure II’s “logic extends to
+
+
+
+
+                                             36
+other equitable defenses,” beyond ratification, the defense at issue in CompoSecure II.94
+
+Thus, even if stare decisis supports upholding CompoSecure II, as XRI argues, the doctrine
+
+does not support the extension of CompoSecure II that the Court of Chancery adopted in
+
+Absalom.
+
+         Second, Holifield argues that the trial court erred by applying the principle of
+
+incurable voidness announced in CompoSecure II to the contractual language at issue in
+
+this case — “shall be void.” Instead, Holifield argues, the trial court should have required
+
+a more specific and emphatic contract language formulation — as in CompoSecure II
+
+(“void and of no force or effect whatsoever”), Absalom (“null and void”), and Southpaw
+
+(“null and void ab initio”). Specifically, Holifield suggests this Court require the phrase,
+
+“null and void ab initio,” to be used to signify contractually specified incurable voidness
+
+so that the doctrine could be consistently and predictably applied.95
+
+             2. XRI’s Contentions
+
+         XRI sets forth five arguments in response to Holifield’s urging that this Court
+
+overrule CompoSecure II. First, XRI argues that CompoSecure II and Absalom are a
+
+straightforward application of the strong contractarian policies embedded in Delaware law
+
+generally, and in Delaware LLC law particularly.                Moreover, XRI contends that
+
+
+94
+     Opening Br. at 24 (quoting Absalom, 2019 WL 2655787, at *4).
+95
+    Id. at 40–41. Holifield argues that the word “void” on its own does not clearly and
+unambiguously provide for incurable voidness. In a footnote in his opening brief and in the body
+of his reply brief, Holifield notes that “it is now settled in this court that the removal of default
+fiduciary duties through an LLC agreement must be accomplished with clear and unambiguous
+language,” and suggests we require the same clarity where parties contract for incurable voidness.
+Opening Br. at 40. Because Holifield did not raise the argument in the body of his opening brief,
+it is waived. Supr. Ct. R. 14(b)(vi)(3).
+
+                                                 37
+enforcement of incurable voidness here aligns with the Delaware policy that members of
+
+an LLC be able to pick their partners and prevent strangers from gaining a stake in the
+
+enterprise.
+
+       Second, XRI notes that the General Assembly adopted Section 18-106(e) of the
+
+LLCA in 2021 to address CompoSecure II and Absalom, but that the amendment does not
+
+apply to a breach committed by an LLC’s members or provide the Court of Chancery with
+
+authority to validate void acts. XRI argues that, by letting CompoSecure II stand in relevant
+
+respect, the legislature has given parties to an LLC agreement the power to determine
+
+which of the LLC’s or its members’ breaching acts are void, and this Court should not
+
+second-guess that decision.
+
+       Third, XRI emphasizes that neither the trial court nor Holifield give “urgent
+
+reasons” or demonstrate a “clear manifestation of error” as is required to overrule
+
+precedent.96   Further, XRI contends that none of the factors counseling overruling
+
+precedent are in play here — no decision of this Court conflicts with CompoSecure II,
+
+CompoSecure II is only five years old, the case articulates a straightforward rule, and the
+
+General Assembly has provided a narrow avenue around the contractual voidness
+
+provisions for one party (the LLC) through one remedy (ratification).
+
+       Fourth, XRI asserts that this case is a poor vehicle for reconsidering CompoSecure
+
+II because this case is only a prelude to another lawsuit, one that has yet to be filed.
+
+Therefore, there is no equity to be championed in this case. Even if there were, XRI
+
+
+96
+  Answering Br. at 40 (quoting Seinfeld v. Verizon Commc’ns, Inc., 909 A.2d 117, 124 (Del.
+2006)).
+
+                                             38
+contends, the equities weighed stronger in CompoSecure II itself. And despite this, this
+
+Court there held that the parties’ agreement provided for incurable voidness. Finally, XRI
+
+contends that Delaware recognizes that equity is not a tool for avoiding contractual
+
+commitments, and it should not be used as such in this case.
+
+        In response to Holifield’s second argument on appeal — that Delaware courts
+
+should require additional, emphatic language, before finding that a provision renders a
+
+noncompliant act incurably void — XRI argues that the argument is waived because no
+
+one in the proceedings before the Court of Chancery, or this Court, has argued that the
+
+word “void” in the LLC Agreement is ambiguous.
+
+     L. XRI’s Cross-Appeal
+
+           1. XRI’s Cross-Appeal Contentions
+
+        On cross-appeal, XRI claims that the trial court erred in dismissing XRI’s breach of
+
+contract claim seeking to recover (1) amounts it expended in litigating against Assurance
+
+in the Texas Action, and (2) amounts advanced to Holifield as an LLC member. The trial
+
+court dismissed the claim for damages because it found that XRI failed to preserve it, and
+
+because the finding of acquiescence would bar XRI’s recovery as to both amounts. On
+
+cross-appeal, XRI argues that XRI raised each issue in the operative complaint97 and in
+
+
+
+97
+  App. to Answering Br. at B0005 (First Amended Verified Complaint ¶ 13) (“XRI also seeks
+damages against Holifield resulting from his breach of the express terms of the XRI Company
+Agreement.”), B0026 (First Amended Verified Complaint ¶ 113) (“As a proximate result of
+Holifield’s breach, XRI has incurred damages in an amount to be determined at trial.”), B0029
+(First Amended Verified Complaint, Prayer for Relief (iii)) (requesting an order awarding
+damages, prejudgment interest, and costs, including attorneys’ fees incurred in bringing this
+action).
+
+                                             39
+post-trial briefing and argument,98 that its failure to present evidence of the amount of
+
+damages cannot be faulted because at that point, the Texas Action was ongoing and
+
+Holifield was continuing to incur legal expenses in this case, and that Holifield has never
+
+argued that XRI waived the claim. Further, XRI contends that the trial court’s ruling that
+
+XRI’s acquiescence bars recovery is erroneous and contravenes CompoSecure II.
+
+       As to the recoupment of Holifield’s legal fees, under the LLC Agreement a judicial
+
+finding of “gross negligence or willful breach” entitles XRI to recoupment.99 The trial
+
+court did not address this standard, and XRI argues that the trial court’s acquiescence
+
+finding is not a substitute. Instead, XRI contends that the trial court’s finding that Holifield
+
+misrepresented to XRI that he was making the Blue Transfer “for estate planning purposes”
+
+while knowing that the real impetus for the transfer was to facilitate the Assurance Loan,
+
+constitutes a willful breach of the No Transfer Provision.
+
+       XRI further argues that Holifield willfully breached the No Encumbrance Provision
+
+and his confidentiality obligations under the LLC Agreement.100
+
+
+98
+  Id. at B0205–06 (Plaintiff’s Post-Trial Brief at ¶ V.B.) (seeking relief in the form of damages
+“equal to the costs of defending and resolving the Texas Action” and “the sums advanced to
+Holifield”); B0276 (Post-Trial Oral Argument Transcript at 69) (seeking damages for Texas
+Action and recoupment of expenses advanced to Holifield).
+99
+   App. to Opening Br. at A0090 (LLC Agreement § 4.07(a)), A0093–94 (LLC Agreement §
+5.04(a)).
+100
+    XRI argues that in order to obtain one of the bridge loans, Holifield improperly provided
+Assurance with XRI documents, including a board package and financial statements and
+projections, all of which violated the confidentiality provision in the LLC Agreement. Unlike the
+argument regarding breach of the No Encumbrance Provision, XRI did not plead an independent
+confidentiality breach in its complaint or at trial, and, accordingly, the trial court did not make
+factual findings related to the issue. See, e.g., App. to Answering Br. at B0269 (Transcript of Post-
+Trial Oral Argument at 62:2–5, dated July 8, 2022) (“We have not pled an independent
+confidentiality breach, but we think that this is further evidence of Mr. Holifield’s state of mind
+                                                 40
+       XRI urges this court to, at a minimum, remand the case to the trial court to
+
+determine: (1) the amount of breach of contract damages to which XRI is entitled for its
+
+expenditures in the Texas Action, and (2) whether, under the terms of XRI’s LLC
+
+Agreement, Holifield acted willfully or with gross negligence in breaching the agreement.
+
+          2. Holifield’s Response on Cross-Appeal
+
+       In response to XRI’s cross-appeal arguments, Holifield asserts that the trial court
+
+properly determined that XRI is entitled to neither a damages award nor recoupment of its
+
+legal expenses. First, Holifield contends that XRI’s proffered reason for not providing an
+
+amount of damages to the trial court is insufficient. The Texas Action was settled six days
+
+after trial concluded in this litigation, on June 21, 2022, and yet XRI did not communicate
+
+a number in any post-trial briefing. Second, Holifield argues that the trial court’s factual
+
+findings underpinning its acquiescence finding are entitled to deference and support a
+
+finding that any recovery to XRI is barred. Moreover, the trial court repeatedly found that
+
+Holifield acted reasonably and in good faith, a finding entitled to deference, that precludes
+
+a finding that Holifield acted willfully or with gross negligence in breaching the agreement.
+
+                       II.   SCOPE AND STANDARD OF REVIEW
+
+       “We review questions of law and contractual interpretation, including the
+
+interpretation of LLC agreements, de novo.”101 “Since the parties do not challenge the
+
+
+
+
+with respect to the breach of the company agreement.”). We, likewise, do not consider the
+confidentiality issue on appeal.
+101
+  CompoSecure II, 206 A.3d at 816 (citing Osborn ex rel. Osborn v. Kemp, 991 A.2d 1153, 1158
+(Del. 2010)).
+
+                                             41
+relevant factual findings on appeal, the issues before us involve legal questions or issues
+
+of contractual interpretation, which we review de novo.”102 With respect to whether a party
+
+has preserved an issue on appeal, we will independently examine “the record below.”103
+
+                                    III.   ANALYSIS
+
+      A. CompoSecure II Was Correctly Decided, And We Decline to Modify It Beyond the
+         General Assembly’s Statutory Amendment
+
+              1. CompoSecure II
+
+            The CompoSecure litigation involved a sales agreement entered into by
+
+CompoSecure, L.L.C. (“CompoSecure”) and CardUX, LLC (“CardUX”) (“the Sales
+
+Agreement”). CompoSecure is a manufacturer of metal payment cards. It formed CardUX
+
+to promote sales of CompoSecure’s metal cards by convincing brand partners (e.g.,
+
+Amazon) to demand metal cards from their partnering banks. The Sales Agreement
+
+memorialized the relationship between the two entities. It provided that CardUX was
+
+entitled to a 15 percent commission on sales to a list of “Approved Prospects” without
+
+requiring CardUX to establish any connection between its efforts and a sale to earn a
+
+commission. This provision created situations in which either side might receive a
+
+windfall, as CompoSecure also would not have to pay a commission for any sale to a non-
+
+Approved Prospect, even if CardUX’s efforts contributed to the sale. After the parties
+
+entered into the Sales Agreement, CompoSecure finalized a highly profitable order with
+
+Amazon, without the aid of CardUX. In fact, despite CardUX’s “help in steering the
+
+
+102
+      Id.
+103
+      Id. at 810.
+
+                                            42
+business to Bank of America,” “Amazon had already agreed to a partnership with Chase
+
+by the time CardUX met with Amazon representatives.”104 However, despite its lack of
+
+involvement in securing the Amazon deal, under the Sales Agreement CardUX was entitled
+
+to a commission.
+
+          Seeking to extricate itself from the obligation to pay CardUX, CompoSecure argued
+
+that the Sales Agreement violated a provision in its LLC agreement. That provision, the
+
+“Restricted Activities Provision,” provided that certain company activities required
+
+CompoSecure board and investor approval. Importantly, the LLC agreement further
+
+provided that “any action taken in contravention of [those requirements] shall be void and
+
+of no force or effect whatsoever.”105
+
+          This Court found that if the Sales Agreement qualified as a Restricted Activity, then
+
+under the plain language of the Restricted Activity Provision, the Sales Agreement was
+
+void and therefore, incapable of ratification. Specifically, this Court stated:
+
+      We agree that, if the Restricted Activities Provision were to apply, the plain
+      language of the provision would render the Sales Agreement void, and therefore
+      incapable of being ratified. The common law rule is that void acts are ultra vires
+      and generally cannot be ratified, but voidable acts are acts falling within the
+      power of a corporation, though not properly authorized, and are subject to
+      equitable defenses. Ordinarily, the Sales Agreement would be voidable for
+      failure to comply with the Restricted Activities Provision. But, given the plain
+      language of the Restricted Activities Provision—“void and of no force or effect
+      whatsoever”—its application would trump the common law rule and render the
+      Sales Agreement void and incapable of being ratified.106
+
+104
+      Id. at 815.
+105
+      Id. at 814 (emphasis added).
+106
+   Id. at 816–17 (internal footnotes omitted) (emphasis added). On remand, the trial court found
+that the Restricted Activities Provision did not apply. CompoSecure III, 2019 WL 2371954.
+Thereafter, we affirmed. CompoSecure IV, 213 A.3d 1204.
+
+                                               43
+          For the reasons set forth below, we decline Holifield’s and the Court of Chancery’s
+
+request that we reconsider this decision.
+
+              2. LLCs are Primarily “Creatures of Contract”
+
+          This Court’s holding in CompoSecure II is grounded in the notion that LLCs are
+
+“creatures of contract.”107 This oft-repeated phrase flows from the Delaware General
+
+Assembly’s policy judgment regarding freedom of contract in the LLC context, as evinced
+
+in the LLCA. The LLCA provides “[i]t is the policy of this chapter to give the maximum
+
+effect to the principle of freedom of contract and to the enforceability of limited liability
+
+company agreements.”108 Thus, this Court has observed that the approach of the LLCA is
+
+“to provide members with broad discretion in drafting the [limited liability company
+
+agreement] and to furnish default provisions when the members’ agreement is silent.”109
+
+          Accordingly, the LLCA allows parties to an LLC agreement contractual freedoms
+
+not available in the corporate context. For one, as Holifield, Gabriel, and Morgan Stanley
+
+did in the LLC Agreement,110 parties to an LLC agreement may contractually disclaim
+
+fiduciary duties of members and managers, so long as they do so clearly and
+
+
+107
+    See, e.g., El Paso Pipeline GP Co., L.L.C. v. Brinckerhoff, 152 A.3d 1248, 1259–60 (Del. 2016)
+(citing Norton v. K-Sea Transp. Partners L.P., 67 A.3d 354, 360 (Del. 2013)); Kuroda v. SPJS
+Hldgs., L.L.C., 971 A.2d 872, 880 (Del. Ch. 2009) (“Limited liability companies are creatures of
+contract, and the parties have broad discretion to use an LLC agreement to define the character of
+the company and the rights and obligations of its members.”).
+108
+      6 Del. C. § 18-1101(b).
+109
+      Elf Atochem N. Am., Inc. v. Jaffari, 727 A.2d 286, 291 (Del. 1999).
+110
+   App. to Opening Br. at A0090 (LLC Agreement § 4.07(a)) (disclaimer of fiduciary duties of
+representatives); Id. at A0091 (LLC Agreement § 4.07(d)) (disclaimer of fiduciary duties of
+members).
+
+                                                  44
+unambiguously.111 Another example is the pronouncement in Section 18-306 and Section
+
+18-502(c) of the LLCA, that an LLC agreement may specify remedies for breach of the
+
+agreement by a member, or a manager, including equitable remedies, such as specific
+
+performance.112
+
+          Accordingly, this Court has observed, most recently in Boardwalk Pipeline
+
+Partners, LP v. Bandera Master Fund LP in the context of Delaware limited
+
+partnerships,113 that “the doctrine of caveat emptor . . . is fitting” in the alternative entity
+
+context.114 This is because investors in alternative entities willingly invest in such entities,
+
+despite the fact that the entities have “fewer protections . . . than those provided under
+
+corporate fiduciary duty principles.”115 Thus, we have warned that investors in alternative
+
+entities must read the entity’s constituent documents carefully to understand their rights,
+
+
+
+
+111
+   6 Del. C. § 18-1101(c), (e); see, e.g., CelestialRX Invs., LLC v. Krivulka, 2017 WL 416990, at
+*16 (observing that “[t]he LLC Act is explicitly contractarian,” and that “in the context of
+construing LLC agreements, this Court has recognized that ‘[a]lthough fiduciary duties may be
+disclaimed, agreements' drafters must do so clearly, and should not be incentivized to obfuscate or
+surprise investors by ambiguously stripping away the protections investors would ordinarily
+receive.’”) (quoting Ross Hldg. & Mgmt. Co. v. Advance Realty Grp., LLC, 2014 WL 4374261, at
+*15 (Del. Ch. Sept. 4, 2014))).
+112
+      6 Del C. § 18-306, 18-502(c).
+113
+    The observations regarding Delaware limited partnerships are applicable to Delaware limited
+liability companies. See Jaffari, 727 A.2d at 290 (“The Delaware Act has been modeled on the
+popular Delaware LP Act. In fact, its architecture and much of its wording is almost identical to
+that of the Delaware LP Act. Under the Act, a member of an LLC is treated much like a limited
+partner under the LP Act. The policy of freedom of contract underlies both the Act and the LP
+Act.”) (internal citations omitted).
+114
+  288 A.3d 1083, 1110 (Del. 2022) (quoting Sonet v. Timber Co., L.P., 722 A.2d 319, 323 (Del.
+Ch. 1998)).
+115
+      Id. (quoting Norton, 67 A.3d at 368).
+
+                                                45
+and the limitations on their rights.116 Members of alternative entities “must appreciate that
+
+‘with the benefits of investing in alternative entities often comes the limitation of looking
+
+to the contract as the exclusive source of protective rights.’”117 In other words, particularly
+
+in the alternative entity context, equity will not save a bad contract.118
+
+          The approach Delaware courts take in a dispute over the internal affairs of an LLC
+
+flow from these well-established principles of alternative entity law, which are explicitly
+
+stated in the LLCA.119 As the Court of Chancery put it in In re Coinmint, a case cited by
+
+both Holifield and the trial court, that approach is as follows:
+
+          The first step when analyzing a case involving the internal affairs of an LLC
+          is . . . to examine the LLC agreement to determine whether it addresses the
+          issue. If the agreement covers the issue, the agreement controls unless it
+          violates one of the [LLCA]’s mandatory provisions. If the agreement is
+          silent, then the Court must look to the [LLCA] to see if one of its default
+          provisions apply. If neither the agreement nor the [LLCA] addresses the
+          matter, the rules of law and equity shall govern.120
+
+
+
+116
+      See id.; Dieckman v. Regency GP LP, 155 A.3d 358, 366 (Del. 2017).
+117
+   Dieckman, 155 A.3d at 366 (quoting The Haynes Fam. Tr. v. Kinder Morgan G.P., Inc., 135
+A.3d 76, 2016 WL 912184, at *2 (Del. Mar. 10, 2016) (TABLE)).
+118
+   See, e.g., Oxbow Carbon & Minerals Hldgs., Inc. v. Crestview-Oxbow Acquisition, LLC, 202
+A.3d 482, 508 (Del. 2019) (“[T]he implied covenant [of good faith] should not be used as
+‘an equitable remedy for rebalancing economic interests’—particularly where, as here, the parties
+are sophisticated business persons or entities.”) (first quoting Nemec v. Shrader, 991 A.2d 1120,
+1128 (Del. 2010); then quoting West Willow-Bay Ct., LLC v. Robino-Bay Ct. Plaza, LLC, 2007
+WL 3317551, at *9 (Del. Ch. Nov. 2, 2007)); see also Nemec, 991 A.2d at 1126 (“Parties have a
+right to enter into good and bad contracts, the law enforces both.”).
+119
+   6 Del. C. § 18–1101(b) provides “[i]t is the policy of this chapter to give the maximum effect
+to the principle of freedom of contract and to the enforceability of limited liability company
+agreements,” while § 18–1104 provides “[i]n any case not provided for in this chapter, the rules of
+law and equity, including the rules of law and equity relating to fiduciary duties and the law
+merchant, shall govern.”
+120
+      In re Coinmint, LLC, 261 A.3d 867, 900–01 (Del. Ch. 2021) (internal citations omitted).
+
+                                                 46
+          Accordingly, “[w]hen analyzing an LLC agreement, a court applies the same
+
+principles that are used when construing and interpreting other contracts.” 121 Those
+
+principles are well-established:122
+
+          When interpreting a contract, Delaware courts read the agreement as a whole
+          and enforce the plain meaning of clear and unambiguous language.
+          Contracts will be interpreted to give each provision and term effect and not
+          render any terms meaningless or illusory. When a contract is clear and
+          unambiguous, the court will give effect to the plain meaning of the contract’s
+          terms and provisions. Language is ambiguous if it is susceptible to more
+          than one reasonable interpretation. An interpretation is unreasonable if it
+          produces an absurd result or a result that no reasonable person would have
+          accepted when entering the contract. The parties’ steadfast disagreement
+          over interpretation will not, alone, render the contract ambiguous.123
+
+Moreover, “[i]f a writing is plain and clear on its face, i.e., its language conveys an
+
+unmistakable meaning, the writing itself is the sole source for gaining an understanding of
+
+intent.”124
+
+              3. Freedom of Contract in LLC Agreements Extends to Contractually Specified
+                 Incurable Voidness
+
+          Holifield acknowledges that Delaware is a contractarian state, particularly when it
+
+comes to construing LLC agreements. Yet, he argues that there are limits to private
+
+ordering and that Delaware courts retain an inherent measure of authority and equitable
+
+
+
+
+121
+  Absalom, 2019 WL 2655787, at *2 (quoting Godden v. Franco, 2018 WL 3998431, at *8 (Del.
+Ch. Aug. 21, 2018)).
+122
+   See, e.g., Manti Hldgs., LLC v. Authentix Acquisition Co., Inc., 261 A.3d 1199, 1208 (Del.
+2021).
+123
+      Id. (internal quotations omitted) (internal footnotes omitted).
+124
+      City Investing Co. Liquidating Tr. v. Cont’l Cas. Co., 624 A.2d 1191, 1198 (Del. 1993).
+                                                    47
+power with respect to limited liability companies. We agree. 125 However, Holifield has
+
+not persuaded us that, regardless of the words chosen, equity can always override the plain
+
+language of an LLC agreement with respect to incurable voidness. His argument that there
+
+are no words that can provide for incurable voidness does not follow from the LLCA. Nor
+
+is it compelled by the caselaw Holifield cites to support his claim.
+
+       The only case cited by Holifield on this point126 involving an LLC, In re Coinmint,
+
+reinforces that Delaware LLC’s are “creatures of contract.”127 The closest the Court of
+
+Chancery comes in that case to supporting Holifield’s position is stating the non-
+
+controversial notion that: “As an enabling statute, ‘[t]he Act is replete with fundamental
+
+provisions made subject to modification in the [a]greement,’ and therefore ‘leaves latitude
+
+for substantial private ordering,’ provided that statutory and judicially imposed parameters
+
+are honored.”128 But the court goes on to affirm its understanding that the drafters of LLC
+
+operating agreements are free to contractually agree that a noncompliant act can be void.129
+
+
+
+125
+   For example, it is well-established that parties to an LLC agreement cannot waive the implied
+covenant of good faith and fair dealing. 6 Del. C. § 18-1101(c).
+126
+    Opening Br. at 32 (“The throughline of Pepsi-Cola, Paul, Coinmint, and Totta is the recognition
+that Delaware courts retain an inherent measure of authority and oversight in Delaware contract
+relations—one that is supplemented by principles of law and equity—and one that endures even
+at the maximized outer bounds of contractual freedom.”).
+127
+   In re Coinmint, LLC, 261 A.3d at 889. This means, in the trial court’s words in In re Coinmint,
+that, per the LLCA, “contractual arrangements will be given effect to the fullest permissible extent”
+and “the limited liability company agreement serves as the primary source of rules governing the
+‘affairs of the limited liability company and the conduct of its business.” Id. at 889–90 (internal
+quotations omitted).
+128
+   Id. at 889 (first citing Jaffari, 727 A.2d at 291; then citing Salzberg v. Sciabacucchi, 227 A.3d
+102, 116 (Del. 2020)).
+129
+   Id. at 891 (“Drafters of operating agreements are also free to use their flexibility in contracting
+to agree that failure to follow certain procedures means an otherwise voidable action is void.
+                                                 48
+It does not suggest that this Court drew the line incorrectly with respect to such parameters
+
+in CompoSecure II.
+
+            The remaining cases cited by Holifield on this point do not concern LLCs, and thus,
+
+do not compel the result he advocates.130 In Totta v. CCSB Fin. Corp.,131 for example, the
+
+Court of Chancery determined whether a corporation’s bylaw, which purported to give the
+
+corporation’s board conclusive and binding power to interpret a voting provision, which
+
+limited the voting power of certain stockholders, foreclosed judicial review and the Court
+
+of Chancery’s application of equitable principles to the board’s application of the voting
+
+limitation.132 It did not involve an LLC, an LLC agreement, or a contractual voidness
+
+provision. With respect to the “conclusive and binding” bylaw provision, the Court of
+
+Chancery concluded that such a provision in a corporation’s bylaw was invalid because it
+
+would mean “a corporate charter may alter the directors’ fiduciary obligations and the
+
+attendant equitable standards a court will apply enforcing those obligations.” 133 In other
+
+
+
+
+‘[T]he contractual imposition of voidness trumps the common law.’”) (first citing CompoSecure
+II, 206 A.3d at 817; then citing Absalom, 2019 WL 2655787, at *6)).
+130
+      Paul v. Chromalytics Corp. is addressed infra at [59]. Paul, 343 A.2d at 626.
+In Pepsi-Cola Bottling Co. of Asbury Park v. Pepsico, Inc., this Court held that the parties to a
+bottling and distributorship agreement had waived a contractual integration clause by making and
+accepting oral modifications to the contract over the course of several decades. 297 A.2d 28, 33–
+34 (Del. 1972). Pepsi-Cola, like Paul, did not involve an LLC, a transfer restriction in an operating
+agreement, or a contractual voidness provision. Accordingly, Pepsi-Cola does not consider the
+strong freedom of contract principles that animate Delaware LLC law.
+131
+   2022 WL 1751741 (Del. Ch. May 31, 2022), aff’d, 2023 WL 4628822, at *15 (Del. July 19,
+2023).
+132
+      Id. at *14.
+133
+      Id.
+
+                                                 49
+words, it “would treat a corporate charter like the constitutive agreement that governs an
+
+alternative entity.”134 This, in the Court of Chancery’s view, “contravene[d] fundamental
+
+principles of Delaware corporate law.”135
+
+            The Totta trial court then discussed the differences between Delaware corporations
+
+and alternative entities:
+
+            The sharp contrast between the extent to which fiduciary duties can be
+            eliminated through private ordering in the alternative entity context versus in
+            the corporate context is one of the defining features that distinguishes
+            alternative entities from corporations. Delaware decisions have cited this
+            contrast. Commentators have called attention to it repeatedly. Yet even
+            alternative entities retain mandatory features and contain domains where
+            equity continues to apply. The lesson is the same: The General Assembly
+            can displace equity, but only when it does so expressly.136
+
+The trial court and Holifield point to the final sentences of the foregoing excerpt as support
+
+for their contention. But the Totta trial court’s noted mandatory features of alternative
+
+entities — i.e., the requirement to file a certificate of incorporation with the Secretary of
+
+State — and core attributes only a sovereign can endow — i.e., separate legal existence,
+
+potentially perpetual life, and limited liability for its members137 — do not suggest that this
+
+Court’s decision in CompoSecure II invaded the domain where equity continues to
+
+apply.138 Moreover, they do not suggest that the LLCA’s policy of giving maximum effect
+
+
+
+134
+      Id.
+135
+      Id.
+136
+      Id. at *17.
+137
+      Id. at *17 n. 193.
+138
+    In his memorandum opinion, the Vice Chancellor suggests there are constitutional
+considerations at play. Holifield does not raise this argument in his opening brief, and,
+accordingly, it is waived. Supr. Ct. R. 14(b)(vi)(A)(3).
+
+                                                  50
+to freedom of contract must necessarily yield at the doorstep of a clear and unambiguous
+
+provision providing for incurable voidness.
+
+          On appeal, this Court affirmed the Court of Chancery’s decision in Totta.139 We
+
+agreed with the trial court that the challenged corporate charter provision “cannot exculpate
+
+fiduciaries from breach of duty of loyalty claims because it is contrary to the laws of this
+
+State and its public policy.”140 And like the Court of Chancery, we highlighted the
+
+differences between Delaware corporations and Delaware alternative entities.                   We
+
+explained that, unlike Sections 18-1101(c), (e) of the LLCA, Section 102(b)(7) of the
+
+Delaware General Corporation Law “expressly prohibits” corporate directors from
+
+exculpating themselves from a breach of the duty of loyalty.141 Further:
+
+          Exculpation is also inconsistent with the public policy of this State to hold
+          fiduciaries accountable for breaches of the duty of loyalty. As the Court of
+          Chancery observed in Sutherland, the option to alter or eliminate fiduciary
+          duties, if desired, resides in the land of alternative entities, not through a
+          Delaware corporation formed under the DGCL.142
+
+
+
+
+139
+      CCSB Fin. Corp. v. Totta, 2023 WL 4628822, at *15 (Del. July 19, 2023).
+140
+      Id. at *8.
+141
+      Id. at *10.
+142
+   Id. (quoting Sutherland v. Sutherland, 2009 WL 857468 (Del. Ch. 2009)). In Sutherland, the
+Court of Chancery confronted a similar corporate bylaw provision. The court reached the same
+conclusion as we did in Totta. It held: “While such a provision is permissible under the Delaware
+Limited Liability Company Act and the Delaware Revised Uniform Limited Partnership Act,
+where freedom of contract is the guiding and overriding principle, it is expressly forbidden by the
+DGCL.” Sutherland, 2009 WL 857468, at *4. See also McMullin v. Beran, 765 A.2d 910, 926
+(Del. 2000) (observing that exculpatory “provisions cannot provide protection for directors who
+breach their duty of loyalty.”).
+
+                                                51
+In the “land of alternative entities,” parties to constituent documents are given greater
+
+leeway in private ordering through contract. Nothing in Delaware law or public policy
+
+prohibits parties to an LLC agreement from contracting for incurable voidness.
+
+          4. The Legislative Response to CompoSecure II and Absalom Counsels
+             Adherence to the Rule in CompoSecure II
+
+      As stated, the Delaware approach to disputes involving the internal affairs of an
+
+LLC is first to examine the LLC agreement, then to examine the default rules of the LLCA,
+
+and then the rules of law and equity. Because the LLC agreement in CompoSecure II
+
+addressed the Sales Agreement, this Court applied the plain language of the LLC
+
+agreement and did not need to look for an applicable default rule in the LLCA or to apply
+
+the rules of equity. The General Assembly responded by amending the LLCA: After this
+
+Court’s decision in CompoSecure II, and the Court of Chancery’s decision in Absalom, the
+
+General Assembly adopted Section 18-106(e) of the LLCA in 2021. In doing so, it
+
+expressly noted:
+
+      New subsection (e) is intended to provide a rule different from the rule
+      applied in Composecure, L.L.C. v. Cardux, LLC, 206 A.3d 807 (Del. 2018),
+      and Absalom Absalom Trust v. Saint Gervais LLC, 2019 WL 2655787 (Del.
+      Ch. June 27, 2019), that acts or transactions determined to be void generally
+      may not be ratified.143
+
+      Under the new provision, an LLC may ratify an act that is void because approvals
+
+required by the LLC’s operating agreement were not obtained, or waive the approval
+
+requirements, via its “members, managers or other persons whose approval would be
+
+
+
+143
+     Del. S.B. 114 syn., 151st Gen Assem., 83 Del. Laws ch. 61, § 1 (2021),
+https://legis.delaware.gov/BillDetail?LegislationId=58603.
+
+                                           52
+required under the limited liability company agreement.”144 In other words, the amendment
+
+would have allowed the LLC members to ratify the Sales Agreement in CompoSecure II.
+
+However, the provision is limited to ratification of the LLC’s own breaching acts. It does
+
+not apply to acts of LLC members, such as the acts at issue in Absalom and in this case.
+
+          Thus, the General Assembly has addressed the specific issue of contractual
+
+voidness, and it did not go as far as the Vice Chancellor suggests this Court should.145 We
+
+decline to extend the General Assembly’s amendment judicially, after the General
+
+Assembly did not do so legislatively.
+
+
+
+
+144
+      6 Del. C. § 18-106(e). The new section provides, in relevant part:
+          (e) Any act or transaction that may be taken by or in respect of a limited liability
+          company under this chapter or a limited liability company agreement, but that is
+          void or voidable when taken, may be ratified (or the failure to comply with any
+          requirements of the limited liability company agreement making such act or
+          transaction void or voidable may be waived) by the members, managers or other
+          persons whose approval would be required under the limited liability company
+          agreement:
+              (1) For such act or transaction to be validly taken; or
+              (2) To amend the limited liability company agreement in a manner that would
+              permit such act or transaction to be validly taken, in each case at the time of
+              such ratification or waiver;
+          provided, that if the void or voidable act or transaction was the issuance or
+          assignment of any limited liability company interests, the limited liability company
+          interests purportedly issued or assigned shall be deemed not to have been issued or
+          assigned for purposes of determining whether the void or voidable act or transaction
+          was ratified or waived pursuant to this subsection. Any act or transaction ratified,
+          or with respect to which the failure to comply with any requirements of the limited
+          liability company agreement is waived, pursuant to this subsection shall be deemed
+          validly taken at the time of such act or transaction . . . .
+145
+   Chancery Opinion, 283 A.3d at 657 n. 83 (“The statutory amendment is a half-loaf in that it
+gives those in control of the LLC a route to fixing defective acts that otherwise would be incurably
+void, but it does not provide a means of relief for other parties.”).
+
+                                                   53
+               5. Finally, the Brookfield         Guideposts         Counsel   Against   Overruling
+                  CompoSecure
+
+            When asked to reexamine this Court’s precedent, we consider our doctrine of stare
+
+decisis. As this Court recently observed in Brookfield Asset Mgmt., Inc. v. Rosson, “the
+
+development of and adherence to precedent is an essential feature of common law systems,
+
+and as such, precedent should not be lightly cast aside.”146 Further, “[w]hen re-examining
+
+a question of law in a prior case, the essential danger is that parties have acted in reliance
+
+on the answer that this Court previously gave.”147 “Mere disagreement with the reasoning
+
+and outcome of a prior case, even strong disagreement, cannot be adequate justification for
+
+departing from precedent or stare decisis would have no meaning.”148 “Under the doctrine
+
+of stare decisis, settled law is overruled only ‘for urgent reasons and upon clear
+
+manifestation of error.’”149 Holifield has not demonstrated that any of the “guideposts”
+
+considered by Delaware and the federal courts “to measure and weigh these reliance
+
+interests” counsel in favor of overruling or modifying CompoSecure II.
+
+                  a. The Nature of the Reliance Interests
+
+            One consideration in determining whether a prior decision is immutable is the
+
+“nature of any reliance interests in the decision,” including “the ‘antiquity’ of the
+
+precedent,” which we will “accord[] importance.” 150 Settled law is overruled only for
+
+
+146
+      261 A.3d 1251, 1278 (Del. 2021).
+147
+      Id. (citing State v. Barnes, 116 A.3d 883, 891 (Del. 2015)).
+148
+      Id.
+149
+      Id. at 1278 (citing Seinfeld v. Verizon Commc’ns, Inc., 909 A.2d 117, 124 (Del. 2006)).
+150
+      Id. at 1278–79 (citing Gamble v. United States, 139 S. Ct. 1960, 1969 (2019).
+
+                                                   54
+urgent reasons and upon clear manifestation of error.151 As noted above, even the Vice
+
+Chancellor, in offering a “preferred” approach, maintains that CompoSecure II was not
+
+wrongly decided. Because we agree, and because settled law is overruled only for urgent
+
+reasons and upon clear manifestation of error,” there is no “clear manifestation of error”
+
+here.
+
+          As for the “antiquity” of the precedent, CompoSecure II is only five years old. And
+
+notwithstanding the Vice Chancellor’s scholarly “whirlwind historical tour” of the law-
+
+equity divide from the time of medieval England, that discussion, including the Vice
+
+Chancellor’s rethinking of his own views expressed in Klassen, suggests, if anything, that
+
+the subject of “voidness” has been a vacillating area of law for centuries marked by shifting
+
+changes in both case law and legislatively.152
+
+          The three authorities cited by Holifield and the Vice Chancellor do not, in our view,
+
+undermine our holding in CompoSecure II. Moreover, only one of them — Eureka VIII
+
+LLC v. Niagara Falls Hldgs. LLC,153 — concerns a Delaware LLC.
+
+          In Eureka VIII LLC, the Court of Chancery, writing before this Court’s decision in
+
+CompoSecure II, was asked to determine whether an LLC member violated a transfer
+
+restriction contained in the operative LLC agreement when it indirectly transferred its LLC
+
+
+
+151
+      Id. (citing Seinfeld, 909 A.2d at 124).
+152
+    This observation is not a criticism. We acknowledge that we have undertaken such re-
+examinations and have reversed ourselves on a number of occasions. See, e.g., Horizon Services
+v. Henry, ___ A.3d ___, ___, 2023 WL 5659812 (Del. 2023); Brookfield, 261 A.3d at 1280;
+Sherman v. State Dep’t of Pub. Safety, 190 A.3d 148 (Del. 2018).
+153
+      889 A.2d 95 (Del. Ch. June 6, 2006).
+
+                                                55
+interests to a creditor without the written consent of the LLC. 154 The transfer restriction
+
+provided that any noncompliant transfer “shall be void ab initio.”155 In a motion for
+
+summary judgment, the defendant argued that the LLC had orally communicated that
+
+consent was not required, and had therefore modified or waived the transfer restriction.156
+
+The Vice Chancellor expressly did not decide “whether a contractual provision requiring
+
+written modifications or waivers can itself be modified by the oral statements or conduct
+
+of a party,” and the Vice Chancellor did not come to a conclusion on that issue because
+
+other grounds, not relevant to this case, existed to find that the defendant had breached the
+
+operative agreement.157 The Court of Chancery rejected a laches defense raised by the
+
+defendant, but the court found that it did not raise a triable issue of fact that precluded
+
+summary judgment. To the extent the defendant raised other equitable defenses, the court
+
+declined to address them due to their “lack of force.”158 Thus, the Court of Chancery did
+
+not, in the end, directly confront the issue or elevate equitable defenses over the contractual
+
+voidness provision.
+
+
+
+
+154
+      Id. at 97.
+155
+      Id. at 100.
+156
+      Id. at 108.
+157
+    Id. at 109. See id. at 109–110 (observing that “[t]he law has long struggled with the question
+of whether a contractual provision requiring written modifications or waivers can itself be
+modified by the oral statements or conduct of a party,” and that “[the court] do[es] not venture
+further into this thicket because it is not necessary,” since “[t]wo other grounds exist to demonstrate
+that Holdings violated the LLC Agreement” as a result of the challenged transfer).
+158
+      Id. at 113, n.38.
+
+                                                  56
+          Holifield, like the Court of Chancery, next relies on Genger v. TR Invs., LLC.159
+
+Although Genger analyzed the equitable defense of ratification in a claim that a stockholder
+
+transferred shares in a Delaware entity in contravention of a transfer restriction, Genger is
+
+inapposite. On appeal, this Court affirmed the Court of Chancery’s judgment that an LLC
+
+(referred to therein as the Trump Group) did not ratify the appellant’s transfer of his stock
+
+in a Delaware corporation, which had violated a transfer restriction in the operative
+
+stockholders’ agreement.160 This Court held that “[a]t no point did the Trump Group ratify
+
+the 2004 Transfers, either expressly or by implication. To the contrary, at all times the
+
+Trump Group acted consistently with their position that the 2004 Transfers were void.”161
+
+The question of whether equitable defenses trump a contractual voidness provision was not
+
+directly before this Court, and accordingly, this Court did not address it. Moreover, the
+
+transfer was a transfer of shares of a Delaware corporation, not membership interests in an
+
+LLC, and the transfer restriction was in a stockholders’ agreement, not the constituent
+
+document of an LLC.162
+
+
+159
+      26 A.3d 180 (Del. 2011).
+160
+      Id. at 195–96.
+161
+      Id. at 196.
+162
+   The trial court appears to read the Court of Chancery’s decision in Genger as having found at
+least a partial ratification of the non-compliant transfer. See Chancery Opinion, 283 A.3d at 649.
+However, we read the Court of Chancery’s decision in Genger as having rejected the defenses of
+laches, acquiescence and ratification entirely due to defendant’s failure to satisfy the burden of
+proof. See, e.g., TR Invs., LLC v. Genger, 2010 WL 2901704, at *17 (finding that “the Trump
+Group received a benefit when it purchased the Sagi Shares from the Sagi Trust and TPR, but that
+benefit is not an indication of the Trump Group’s ratification of the 2004 Transfers”); id. at *18
+(noting that at all times the Trump Group took the position that the 2004 transfers were void and
+that “the Trump Group did not ratify the 2004 Transfers”). Thus, there was no need to address
+the question of whether those equitable defenses could prevail in the fact of the contractual
+voidness provision. The Vice Chancellor, here, raises the logical point that the court would not
+                                               57
+            Finally, as does the Court of Chancery, Holifield points to Paul v. Chromalytics
+
+Corp.163 As noted above, Paul involved an anti-assignment provision in an agreement to
+
+purchase assets in a corporation, not in an operating agreement governing a Delaware
+
+LLC.164 Moreover, the interests being transferred were an assignment of rights and title to
+
+a promissory note.165 But most importantly, the Paul court enforced the anti-assignment
+
+provision against the plaintiff, who was the assignee of the promissory note. 166 Rejecting
+
+the plaintiff’s contention that the defendant had waived the anti-assignment provision, the
+
+court held that because plaintiff received the rights and title to the promissory note in a
+
+contractually void transaction, he lacked standing to sue the counterparty to the note.167
+
+The court further noted that although the plaintiff did not have standing to sue the
+
+counterparty to the note, he did have standing to sue the assignor of the note.168 That would
+
+be comparable to permitting Blue to pursue a claim against Holifield. It has no bearing on
+
+Holifield’s dispute with XRI.
+
+
+
+have considered those defenses if they were not at least a legal possibility. Nevertheless, the
+specific issue of whether the defenses were even available does not appear to have been raised,
+and neither the Court of Chancery, nor this Court addressed it in Genger. Further, we affirmed the
+Court of Chancery’s rejection of the ratification defense on both factual and legal grounds. See
+Genger, 26 A.3d at 196 (holding that “[a]t no point did the Trump Group ratify the 2004 Transfers,
+either expressly or by implication[,]” that “[t]o the contrary, at all times the Trump Group acted
+consistently with their positions that the 2004 Transfers were void[,]” and that “Genger’s
+ratification claim, therefore, fails on factual and legal grounds.”).
+163
+      343 A.2d 622 (Del. Super. Ct. 1975).
+164
+      Id. at 624.
+165
+      Id.
+166
+      Id. at 626.
+167
+      Id.
+168
+      Id.
+
+                                               58
+          In sum, these three pre-CompoSecure II cases do not persuade us that we should
+
+overrule CompoSecure II.
+
+                     b. Area of the Law the Precedent Addresses
+
+          “The area of law the precedent addresses is likewise a consideration, since some
+
+subjects are more apt to induce reliance than others.”169 In “cases involving property and
+
+contract rights[,]” “considerations favoring stare decisis are ‘at their acme.’”170         As
+
+mentioned above, contractual “voidness” has been a thorny area of the law for a very long
+
+time. Both parties and courts have been imprecise in their use of the word “void.” 171 “A
+
+range of authorities suggests that parties, courts, and legislators do not regard the term
+
+‘void’ as having a settled meaning of ‘void ab initio.’”172 For example, in 2014, this Court
+
+overruled several cases that had used the word “void,” noting that “[r]egrettably, in writing
+
+those opinions, the authors may have been less than precise in their use of the terms ‘void’
+
+and ‘voidable’”173 despite “the well-established distinction between void and voidable
+
+corporate actions.”174
+
+          In addition, the consequences of a void act are severe. At least prior to the General
+
+Assembly’s enactment of Sections 204 and 205 of the DGCL, a void act could essentially
+
+be unfixable in the corporate context. “Void acts create serious difficulties because of a
+
+
+169
+      Brookfield, 261 A.3d at 1279.
+170
+      Kimble v. Marvel Ent., LLC, 576 U.S. 446, 457 (2015).
+171
+      Chancery Opinion, 283 A.3d at 663 n. 98 (collecting cases).
+172
+      Id. at 663.
+173
+      Klaassen II, 106 A.3d at 1047.
+174
+      Id. at 1046.
+
+                                                 59
+‘domino effect’ in which one defective corporate act can infect subsequent acts.” 175 In
+
+2014, the General Assembly enacted Sections 204 and 205 of the DGCL. Those sections
+
+were designed to provide mechanisms for a corporation to unilaterally ratify defective
+
+corporate acts or seek relief from the Court of Chancery to validate any corporate act under
+
+certain circumstances.176 The new sections gave corporations multiple avenues to remedy
+
+certain transactions including stock and option issuances, for example, that under prior case
+
+law, might otherwise have been void and incapable of ratification as a result of
+
+noncompliance with governing law or the corporation’s own organizational documents.177
+
+They also provided a means of ratifying other corporate acts that may not have been
+
+properly authorized in the first instance. Section 205 (upon application by specified
+
+
+
+175
+   Chancery Opinion, 283 A.3d at 654 (citing C. Stephen Bigler & John Mark Zeberkiewicz,
+Restoring Equity: Delaware’s Legislative Cure for Defects in Stock Issuances and Other
+Corporate Acts, 69 Bus. Law. 393, 402 (2014) and Olson v. EV3, Inc., 2011 WL 704409, at *11
+(Del. Ch. Feb. 21, 2011)).
+176
+    See Del. H.B. 127 syn., 147th Gen Assem., 79 Del. Laws ch. 72, § 5 (2014),
+https://legis.delaware.gov/BillDetail?LegislationId=22641 (hereinafter, “Synopsis”).
+177
+      As noted in the Synopsis to House Bill 127, Section 204 was:
+          “intended to overturn the holdings in case law, such as STARR Surgical Co. v.
+          Waggoner, 588 A.2d 1130 (Del. 1991) and Blades v. Wisehart, 2010 WL 4638603
+          (Del. Ch. Nov. 17, 2010), that corporate acts or transactions and stock found to be
+          ‘void’ due to a failure to comply with the applicable provisions of the General
+          Corporation Law or the corporation’s organizational documents may not be ratified
+          or otherwise validated on equitable grounds. The term ‘defective corporate act’ is
+          intended to include all corporate acts and transactions, including elections or
+          appointments of directors, purportedly taken that were within the power granted to
+          a corporation under this title but are subsequently determined not to have been
+          effected in accordance with the applicable provisions of the General Corporation
+          Law, the corporation’s certificate of incorporation or bylaws , or any plan or other
+          agreement to which the corporation is a party, where the failure to comply with
+          such provisions, documents or instruments would render such act void or voidable.
+Synopsis at ¶ 1.
+
+                                                  60
+interested parties), gave corporations the ability to seek a determination of the validity of
+
+acts that were not susceptible to being cured under Section 204.            Accordingly, we
+
+acknowledge that recent legislative efforts, by providing equitable solutions to otherwise
+
+incurable defects, have moved in the direction of trying to ameliorate the harsh
+
+consequences of defective corporate acts.
+
+       With regard to “void” provisions in private contracts, as opposed to acts that are
+
+void because they exceed powers granted by the state or because they contravene a
+
+corporate charter, for example, we do not pretend that there is no tension between the role
+
+of equity in Delaware law and the principle of freedom of contract in the alternative entity
+
+sphere. But as we most recently reiterated in Totta, there is much greater room for
+
+contractual flexibility in the alternative entity arena. Moreover, CompoSecure II addressed
+
+a contract provision that embodied the “voidness” concept in irrefutably unmistakable
+
+terms — “void and of no force and effect whatsoever.” Failure to give effect to that
+
+unmistakably clear language used in the alternative entity context allows courts to simply
+
+rewrite the contract. Such a result would negatively impinge on the goal of achieving
+
+predictability in contracts and undermine the important principle of freedom of contract
+
+legislatively embodied in the alternative entity statutes.
+
+   c. Clarity and Administrability
+
+       The third guidepost concerns the clarity and administrability of the challenged
+
+precedent. As we said in Brookfield:
+
+       [c]larity and administrability also relate to reliance interests, since reliance
+       can only be created by a ruling which is amenable to consistent, stable, and
+       thus predictable application. Thus, a “traditional justification for overruling
+
+                                              61
+          a prior case is that a precedent may be a positive detriment to coherence and
+          consistency in the law, either because of inherent confusion created by an
+          unworkable decision, or because the decision poses a direct obstacle to the
+          realization of important objectives embodied in other laws.”178
+
+          CompoSecure II articulates a straightforward rule of contractually specified
+
+incurable voidness in the alternative entity context, a rule that Delaware’s trial courts have
+
+followed since CompoSecure II was decided.179 Additionally, as discussed, the General
+
+Assembly in 2021 amended Section 18-106, providing a narrow way around contractual
+
+voidness provisions for one party, the LLC, through one remedy, ratification. With this
+
+amendment, the General Assembly implicitly approved of the remainder of the holding.180
+
+      d. Institutional Considerations
+
+          Finally, we stated in Brookfield that “[b]ounded up with reliance interests are
+
+institutional considerations of the Court.”181 In this regard, we observed that “[p]recedent
+
+should not be overturned by narrow majorities and very recent precedent should not lightly
+
+
+
+178
+   Brookfield, 261 A.3d at 1279 (quoting Patterson v. McLean Credit Union, 491 U.S. 164, 173
+(1989), superseded by statute as stated in CBOCS West, Inc. v. Humphries, 553 U.S. 442 (2008)).
+179
+    See Absalom, 2019 WL 2655787, at * 4 (“under CompoSecure [II], Absalom cannot rely on
+equitable defenses to validate its status as a member,” because using the word “void” in the LLC
+Agreement renders a noncompliant assignment “invulnerable to equitable defenses.”); see also In
+re Coinmint, LLC, 261 A.3d at 891 (“[d]rafters of operating agreements are also free to use their
+flexibility in contracting to agree that failure to follow certain procedures means an otherwise
+voidable action is void.”).
+180
+    Cf. Brookfield, 261 A.3d at 1278 n. 144 (noting that prior decisions of this Court interpreting
+statutes “gain approving harmony from ensuing legislative silence”) (citing Nationwide Prop. &
+Cas. Ins. Co. v. Irizarry, 2020 WL 525667, at *4 (Del. Super. Ct. Jan. 31, 2020), aff’d, 238 A.3d
+191 (Del. Aug. 2020)); State v. Barnes, 116 A.3d 883, 892 (Del. 2015) (“[W]hen the prior judicial
+interpretation was subject to being overturned by the operation of the legislative process and was
+not overturned, the justification for departing from stare decisis is even more tenuous.”) (quoting
+Harvey v. City of Newark, 2010 WL 4240625, at *7 (Del. Ch. Oct. 20, 2010)).
+181
+      Brookfield, 261 A.3d at 1279.
+
+                                                62
+be overturned when the only change is the composition of the court, because society must
+
+be able to ‘presume that bedrock principles are founded in the law rather than in the
+
+proclivities of individuals.’”182 Apart from the General Assembly’s amendment to Section
+
+18-106, the only thing that has changed in the mere five years since we decided
+
+CompoSecure II is the composition of this Court. Accordingly, we are not inclined to
+
+overrule CompoSecure II, or modify it, beyond the General Assembly’s statutory
+
+amendment.
+
+      B. The Plain Language of the LLC Agreement Provides that Noncompliant Transfers
+         are Incurably Void
+
+         Because we uphold this Court’s core holding in CompoSecure II — that parties to
+
+an LLC agreement may provide that an act that does not comply with the LLC agreement
+
+is incurably void — we address whether the specific language in the Contractual Voidness
+
+Provision provides for that outcome with respect to noncompliant transfers of XRI
+
+membership interests.
+
+      1. The Plain Language of the LLC Agreement Must be Unambiguous, but Magic
+         Words are Not Required
+
+         Below, the Court of Chancery stated the following about CompoSecure II: “Under
+
+the reasoning of [CompoSecure II], if parties to a contract specify that a noncompliant act
+
+is ‘void,’ then the act is void ab initio with all of the consequences attendant to that status
+
+
+
+
+182
+   Id. at 1279–80 (internal footnotes omitted) (quoting Vasquez v. Hillery, 474 U.S. 254, 265–66
+(1986)).
+
+                                              63
+under the common law.”183 Holifield argues that the language in the LLC Agreement —
+
+“shall be void” — is insufficient to demonstrate incurable voidness.
+
+          As noted above, Holifield did not raise this point below and the trial court did not
+
+discuss whether the Contractual Voidness Provision is ambiguous. At oral argument before
+
+this Court, both sides agreed that neither side contended that the provision was
+
+ambiguous.184 Accordingly, the argument is waived.185 However, we do address our
+
+concern that the Court of Chancery’s opinion suggests, in several places, that CompoSecure
+
+II holds that the mere use of the word “void” renders a noncompliant act incurably void.186
+
+
+
+
+183
+   Chancery Opinion, 283 A.3d at 641–42. The Court of Chancery read CompoSecure II the same
+way in Absalom. Absalom, 2019 WL 2655787, at *3 (“In CompoSecure, the Delaware Supreme
+Court recently held that by using the word ‘void’ in an LLC agreement, the parties to the agreement
+adopted the common law rule and foreclosed the application of equitable defenses.”).
+184
+   See, e.g., Oral Argument at 5:56– 6:27, Holifield, et al. v. XRI Investment Hldgs. LLC, 407,
+2022, available at https://livestream.com/accounts/5969852/events/10842489/videos/236684626
+[hereinafter Oral Argument at __]. The following exchange occurred:
+          THE COURT: Just so we’re clear, no party argued in the proceedings below that
+          Section 8.03 was ambiguous. That’s the provision that contains the void
+          language…
+          HOLIFIELD’S COUNSEL: That’s correct, Your Honor. And I would submit, just
+          to be clear, I think my friends . . . say that it is unambiguous. So they did maintain
+          that, at least at some point in their briefing.
+185
+      Supr. Ct. R. 8.
+186
+    See, e.g., Chancery Opinion, 283 A.3d at 592 (“That decision reasons that when parties to an
+LLC agreement use the word ‘void’ to describe the consequence of a noncompliant act, they have
+specified that the act is void ab initio, with all of the implications that the term carries at common
+law.”); id. (“[u]nder CompoSecure II, equity cannot serve that purpose [of ameliorating harsh
+results] if the parties have chosen to use the word ‘void’ to describe the consequence of contractual
+noncompliance.”); id. at 644 (“[t]he CompoSecure II decision thus held that when an agreement
+states that a noncompliant act is ‘void,’ then the plain language of that provision trumps the
+common law and requires that a court deem the act void ab initio.”).
+
+                                                   64
+         First, CompoSecure II did not hold, or even suggest, that in every case that parties
+
+use the word “void,” a noncompliant act will be incurably void. Instead, we stated that the
+
+plain language of an LLC agreement — there “void and of no force or effect whatsoever”
+
+— provided for that result in that case. Although the use of the word “void” in a provision
+
+could provide for incurable voidness unambiguously — as is the case here — it could also
+
+be ambiguous.187 Thus, our decision in CompoSecure II does not mean any use of the word
+
+“void” in a contract renders the noncompliant act incurably void. Courts will apply our
+
+well-established principles of contract interpretation to determine the meaning in the given
+
+context of the instrument. Here, the use of the word “void,” the language prohibiting XRI
+
+from recording a noncompliant transfer on its books, and the language prohibiting XRI
+
+from recognizing a transferee of a noncompliant transfer as the owner of units, in addition
+
+to the contractual context, clearly demonstrated an intent by the parties to render a
+
+noncompliant transfer incurably void.
+
+         Second, Holifield argues that this Court should require more emphatic and specific
+
+language, such as the language used in CompoSecure II (“void and of no force or effect
+
+whatsoever”), Absalom (“null and void”),188 and Southpaw (“null and void ab initio”).189
+
+Specifically, he suggests this Court adopt the phrase “null and void ab initio” as a
+
+
+187
+   Given the “less than precise . . . use of the terms ‘void’ and ‘voidable’” by authors of opinions,
+see Klaassen II, 106 A.3d at 1047, and litigants alike, see Chancery Opinion, 283 A.3d at 663 n.
+98 (collecting cases), a contract that solely employs the word “void” may be ambiguous.
+188
+   Absalom, 2019 WL 2655787, at *5. (“In light of the Supreme Court’s holding in CompoSecure,
+the plain language of ‘null and void’ reflects a specific intent to override the common law and
+cause the transfer to be void.”).
+189
+      Southpaw was decided before CompoSecure II.
+
+                                                 65
+contractual language formulation that clearly and emphatically specifies incurable
+
+voidness.
+
+       Although we reject Holifield’s request to require talismanic magic words to contract
+
+for incurable voidness in LLC agreements, words can matter.190 Holifield is correct, as
+
+noted above, that in CompoSecure II this Court was presented with emphatic language of
+
+incurable voidness — “void and of no force and effect whatsoever.”191 Black’s Law
+
+Dictionary defines “void” as being “of no legal effect; to null.”192 “Whatsoever” means
+
+“used after a negative phrase to add emphasis to the idea that is being expressed.”193
+
+
+190
+   Weinberg v. Waystar, Inc., 294 A.3d 1039 (Del. 2023) (construing the word “and” in a stock
+option agreement).
+191
+     In litigating this case, the parties referred to the language in Absalom — “null and void” —
+and the language in Southpaw — “void ab initio” — as “void-plus” language. If “void” is regular,
+and “void ab initio” is void-plus, as the parties here suggest, then the agreement at issue in
+CompoSecure II was powered by the higher octane “void premium” language. In recognizing
+these language variations, we acknowledge that parties in other cases have used the term “void”
+imprecisely and there could be ambiguity in a given situation where parties argue they have
+contracted for incurable voidness.
+192
+   Void, Black’s Law Dictionary (11th ed. 2019). Further, “[t]he distinction between void and
+voidable is often of great practical importance. Whenever technical accuracy is required, void can
+be properly applied only to those provisions that are of no effect whatsoever — those that are an
+absolute nullity.” Id.
+193
+                       Whatsoever,                    Cambridge                     Dictionary,
+https://dictionary.cambridge.org/dictionary/english/whatsoever;   see     also     Whatsoever,
+Britannica.com, Britannica Dictionary, (“of any kind or amount at all”),
+https://www.britannica.com/dictionary/whatsoever. Holifield agreed at oral argument that the
+language in CompoSecure II was clear and referred to the language as “void plus” language. The
+following exchange occurred:
+       THE COURT: So, I’m trying to understand what you’re arguing. Are you arguing
+       that even though the contract might say “void ab initio” or whatever the magic
+       language is to express that its void ab initio that equity always has jurisdiction to
+       review that provision regardless of what the parties contracted for?
+       HOLIFIELD’S COUNSEL: First, I would submit that if the matter is brought in
+       the Court of Chancery, that that inherent remedial discretion exists, it’s a baseline
+       domain. But to the point of the language formulation, CompoSecure, and we
+                                                66
+However, parties need not employ this exact language, or Holifield’s suggested phrase, to
+
+evince their intent to render a noncompliant act incurably void. The Contractual Voidness
+
+Provision in this case is clear and unambiguous, and no party has argued to the contrary.
+
+      2. The Language of the Contractual Voidness Provision Here is Unambiguous
+
+          The plain language of the LLC Agreement provides that noncompliant transfers,
+
+like the Blue Transfer, are incurably void. Section 8 of the LLC Agreement governs
+
+transfers of XRI interests and admission of members. The No Transfer Provision —
+
+Section 8.01(a) — broadly prohibits transfers, except those consented to by the XRI Board
+
+or otherwise falling under an exception delineated therein, including a transfer to a
+
+Permitted Transferee. Class A Members (i.e., Morgan Stanley) are permitted greater
+
+leeway in transferring their interests than are Class B Members (i.e., Holifield).194 The
+
+Contractual Voidness Provision — Section 8.03 — states, in its entirety:
+
+          Transfers In Violation of Agreement. Any Transfer or attempted Transfer
+          in violation of this Article VIII shall be void, and none of the Company or
+          any of its respective Subsidiaries shall record such purported Transfer on its
+          books or treat any purported Transferee as the owner of such Units.195
+
+
+
+          submit thoughtfully, considered the term “void and of no further force and effect
+          whatsoever.” We would call that “void plus” language. And that that’s the kind of
+          language that would be necessary to signify intent to, to specify intent, to make it
+          void ab initio.
+Oral Argument at 18:13–19:22. We note that at oral argument before this Court, counsel for
+CardUX agreed that the voidness language at issue there meant incurably void.
+194
+   App. to Opening Br. at A0104 (LLC Agreement § 8.01(a)) (“Unless expressly contemplated by
+another provision of this Agreement, no Member may Transfer any of its Units or other Company
+Interests except, . . . (v) in the case of a Class A member, to any Person or group of Persons so
+long as such Class A Member complies with Sections 8.04 [Member Co-Sale Obligation] and 8.05
+[Right of First Refusal ], if applicable.”).
+195
+      Id. at A106 (LLC Agreement § 8.03).
+
+                                                  67
+The Contractual Voidness Provision not only states that noncompliant transfers “shall be
+
+void,” but prohibits XRI from acknowledging such a transfer with the “shall not” language
+
+following the voidness language.             That language prohibits XRI from recording a
+
+noncompliant transfer and treating the Transferee as the owner of such Units and supports
+
+a plain language reading that a noncompliant transfer is incurably void.
+
+      3. The Context of the Contractual Voidness Provision
+
+         Further, the plain language of the Contractual Voidness Provision is buttressed by
+
+the context in which it sits: a transfer restriction in a private, closely held LLC, with
+
+sophisticated members. Delaware courts recognize the important policy of picking your
+
+partner, particularly in a closely held LLC.196 In discussing judicial interpretations of
+
+
+
+
+196
+    See, e.g., Achaian, Inc. v. Leemon Family LLC, 25 A.3d 800, 804 n.14 (Del. Ch. 2011).
+Discussing Sections §§ 18-702, 18-704(a), and 18-301 concerning the assignment of a limited
+liability company interest and the assignee’s possible, subsequent admission as a member of the
+LLC, the Court of Chancery observed:
+         The second reason [the first being tax-related] for the default rules in the Act
+         regarding the transferability of interests may rest on the notion that one generally
+         is entitled to select his own business associates in a closely held enterprise, like an
+         LLC. E.g., 68 C.J.S. Partnership § 1 (2011) (“A ‘partnership’ has been defined as
+         a contractual relationship or a voluntary association of two or more competent
+         persons to place their money, effects, labor, and skill or some or all of them in
+         lawful commerce or business . . ..”) (emphasis added); 46 AM.JUR.2D § 1 (2011)
+         (“[A] joint venture is an association of persons with the intent . . . to engage in and
+         carry out a single business venture for joint profit.”).
+Id. (emphasis in original). See also 3 JAMES D. COX & THOMAS LEE HAZEN, TREATISE ON THE
+LAW OF CORPORATIONS § 14:9 (3d. 2022) (“In closely held corporations, on the other hand, the
+participants usually do not want shares to be freely transferable. For similar reasons, LLC members
+and partners in many partnership ventures may opt to enter in to restrictions of transferability.”);
+Stephen L. Sepinuck, Protecting the “Pick-Your-Partner” Principle, 4 Transactional Law. 1
+(2014) (“In creating or restructuring a business as a closely held LLC, the members often wish to
+restrict themselves and each other from transferring a membership interest without the consent of
+the other owners.”).
+
+                                                   68
+Sections §§ 18-702(b)(3) and 18-304 of the LLCA, the Court of Chancery in Milford Power
+
+Co., LLC v. PDC Milford Power, LLC, noted the observation that:
+
+          Delaware’s default law specifically distinguished between those aspects of
+          an LLC Agreement that should not be freely transferable because substitute
+          performance should not be imposed on the other members absent their
+          express consent (i.e., the managerial powers and duties) and those aspects
+          that should be freely transferable (i.e., the passive right to share in profits and
+          losses). This distinction, like those made by federal law, recognizes that it is
+          far more tolerable to have to suffer a new passive co-investor one did not
+          choose than to endure a new co-manager without consent.197
+
+          This is particularly true where one party — here, Morgan Stanley — is contributing
+
+financing, while the other party — Holifield — is contributing skills necessary for the
+
+operation of the business. As a closely-held entity, XRI had a strong interest in controlling
+
+its ownership. It makes sense that the members to such an LLC would contract for voidness
+
+of a noncompliant transfer of LLC interests, particularly where Holifield’s LLC interests
+
+secured the XRI Loan, i.e., the consideration paid by Morgan Stanley for its investment in
+
+the venture.
+
+          The plain language and the context of the Contractual Voidness Provision indicate
+
+that the parties unambiguously provided for a noncompliant transfer to be incurably void.
+
+Accordingly, we AFFIRM the judgment of the Court of Chancery that the plain language
+
+of the LLC Agreement provides that the Blue Transfer is incurably void.
+
+      C. Cross-Appeal
+
+          XRI appeals the trial court’s order rejecting its claims for breach of contract
+
+damages and recoupment of legal expenses advanced to Holifield under the LLC
+
+
+197
+      866 A.2d 738, 760 (Del. Ch. 2004).
+
+                                                  69
+Agreement. For the reasons set forth below, we find that XRI is entitled to recover breach
+
+of contract damages and that additional proceedings are needed to determine whether XRI
+
+is entitled to recoup legal expenses advanced to Holifield under the LLC Agreement.
+
+              1. XRI Preserved Its Claims for Damages and Recoupment
+
+          The trial court rejected the parties’ jointly submitted proposed stipulation and partial
+
+final judgment under Rule 54(b) that would have expressly preserved XRI’s breach of
+
+contract damages claim and its recoupment claim because it found that XRI raised both
+
+arguments only as “oh by the way” arguments in its post-trial brief,198 and, as to the
+
+damages claim, “XRI never specified a damages figure.”199 After an examination of the
+
+record below, we disagree that XRI did not preserve the issue. XRI noted the issue in its
+
+operative complaint200 and in post-trial briefing and argument.201 Moreover, for his part,
+
+Holifield stipulated, in the parties’ proposed partial order and judgment, that both issues
+
+were preserved pending the outcome of any appeal.202 Further, on appeal, Holifield
+
+
+
+
+198
+      App. to Answering Br. at B0346 (Final Order and Judgment ¶ 8(a), (b)).
+199
+      Id. (Final Order and Judgment ¶ 8(b)).
+200
+    Id. at B0005 (First Amended Verified Complaint ¶ 13) (“XRI also seeks damages against
+Holifield resulting from his breach of the express terms of the XRI Company Agreement.”), B0026
+(First Amended Verified Complaint ¶ 113) (“As a proximate result of Holifield’s breach, XRI has
+incurred damages in an amount to be determined at trial.”), B0029 (First Amended Verified
+Complaint, Prayer for Relief (iii)) (requesting an order awarding damages, prejudgment interest,
+and costs, including attorneys’ fees incurred in bringing this action).
+201
+   Id. at B0205–06 (Plaintiff’s Post-Trial Brief at ¶ V.B.) (seeking relief in the form of damages
+“equal to the costs of defending and resolving the Texas Action” and “the sums advanced to
+Holifield”); B0276 (Post-Trial Oral Argument Transcript at 69) (seeking damages for Texas
+Action and recoupment of expenses advanced to Holifield).
+202
+      Id. at B0341 ([Proposed] Partial Final Judgment Pursuant to Rule 54(B) at ¶¶ 6, 8)).
+
+                                                  70
+concedes that XRI did in fact raise each issue below.203 We now turn to the Court of
+
+Chancery’s conclusion that its finding of acquiescence precludes each type of relief sought
+
+by XRI on cross-appeal.
+
+      2. The Court of Chancery’s Dictum Finding of Acquiescence Does Not Preclude
+         Recovery of Breach of Contract Damages or Recoupment of Legal Expenses
+
+          In addition to finding that XRI failed to preserve both its damages and recoupment
+
+claims, the Court of Chancery held that XRI’s “knowing participation in the [Blue
+
+Transfer] would preclude any relief” as to both claims.204 Although Holifield is correct in
+
+stating that this Court reviews an award of damages for an abuse of discretion, “our review
+
+of embedded legal issues is de novo.”205 The trial court’s application of CompoSecure II
+
+to a claim for breach of contract damages is an embedded legal issue, as is the question of
+
+whether the trial court’s finding of acquiescence precludes a finding that Holifield acted
+
+within the contractual standard required for recoupment.
+
+
+
+
+203
+    Appellant’s Reply Br. at 39 (“XRI raised the issue, but did not specify any damages in
+connection with trial . . ..”); id. at 42 (“XRI raised the issue but failed to preserve it in connection
+with trial . . ..”). The fact that XRI did not specify a damages figure in connection with trial, while
+it continued to incur damages, does not preclude recovery. XRI could not have specified an
+amount of damages, let alone attempted to prove such damages at trial, because the Texas Action
+did not settle until days after trial concluded. Trial concluded on June 15, 2022. XRI and
+Assurance settled the Texas Action on June 21, 2022. XRI submitted its post-trial brief on July 1,
+2022.
+204
+      App. to Answering Br. at B0346 (Final Order and Judgment ¶ 8(a), (b)).
+205
+   Siga Techs., Inc. v. PharmAthene, Inc., 132 A.3d 1108, 1139–40 (Del. 2015) (Valihura, J.,
+concurring in part and dissenting in part) (citing Schock v. Nash, 732 A.2d 217, 232 (Del. 1999)
+(“Whether or not an equitable remedy exists or is applied using the correct standards is an issue of
+law and reviewed de novo.”)).
+
+                                                  71
+             a. Breach of Contract Damages
+
+         Following CompoSecure II, the Court of Chancery found that Holifield breached
+
+the LLC Agreement206 and awarded declaratory relief, despite its finding of acquiescence.
+
+The rationale for awarding declaratory relief — that Holifield breached the LLC
+
+Agreement — applies equally to an award of damages.207 XRI argues that Holifield’s
+
+breach of the No Transfer Provision resulted in damages arising out of the Texas Action.
+
+XRI explains that after Holifield defaulted on the Assurance Loan, Assurance sued XRI in
+
+Texas, asserting an interest in the Disputed Units. Specifically, Assurance alleged, in part,
+
+that XRI’s attempt to strictly foreclose on the Disputed Units ran afoul of the UCC because
+
+“XRI did not provide notice to either GH Blue and Assurance, both of which are required
+
+to be notified under the [UCC]” because “both had a claim to an interest in the XRI shares
+
+and/or the proceeds thereof.”208
+
+         Assurance also sought to force a commercial sale of the Disputed Units. 209 XRI
+
+contends that if the district court in Texas had ordered a sale, bidders likely would have
+
+
+
+206
+    Chancery Opinion, 283 A.3d at 668 (“Under the Contractual Voidness Provision and the
+reasoning of CompoSecure II, the Blue Transfer is void ab initio. The Blue Transfer is therefore
+incurably void, and Holifield cannot defeat the claim of breach or the relief XRI seeks by invoking
+the doctrine of acquiescence.”).
+207
+      See LLC Agreement § 11.04.
+208
+    App. to Answering Br. at B0639 (Texas Action Original Petition ¶ 43(c)); see also id. at B721
+(Assurance’s Responses and Objections to XRI’s Requests for Admissions (Texas Action), dated
+Nov. 1, 2021) (responding to a request for admission “that Assurance does not have a right to sell,
+liquidate, foreclose, or transfer the XRI Class B Units in 2018 or 2019,” by stating “Assurance
+admits that it has certain rights and claims to the XRI Class B Units by virtue of various documents
+it has signed with Entia, Holifield, and GH Blue”).
+209
+   Id. at B0640 (Texas Action Original Petition ¶ 45) (“Assurance is left with no choice but to file
+this lawsuit to have the Court declare that the Class B shares of XRI stock are still in GH Blue’s
+                                                72
+included XRI’s competitors, a risk that the LLC Agreement sought to prevent through its
+
+transfer restriction provisions. XRI alleges it expended considerable funds defending that
+
+litigation and resolving the Texas Action through a settlement agreement. On remand, the
+
+trial court, in the exercise of its discretion, should consider the amount of damages to which
+
+XRI is entitled for its expenditures in the Texas Action resulting from Holifield’s breach
+
+of contract.
+
+               b. Recoupment of Legal Fees
+
+            Under the LLC Agreement, XRI is entitled to recoup amounts it advanced to
+
+Holifield upon “a final and non-appealable judgment entered by a court of competent
+
+jurisdiction determining that such act or omission constituted gross negligence or willful
+
+breach of [the LLC] Agreement.”210 Such conduct is deemed “Disabling Conduct.”211 The
+
+Court of Chancery did not decide whether Holifield willfully breached or acted with gross
+
+negligence when he effectuated the Blue Transfer, the conclusion required by the parties’
+
+contract. Instead, the trial court ruled that “the factual findings in the Opinion regarding
+
+XRI’s knowing participation in the Blue Transfer preclude any relief under section
+
+
+
+
+possession, or, alternatively, void any transfer of the shares to XRI and force a commercially
+reasonably sale, as the UCC requires.”).
+210
+    App. to Opening Br. at A0090 (LLC Agreement § 4.07(a)), A0093-94 (LLC Agreement
+§ 5.04(a)).
+211
+      Id.
+
+                                             73
+8.01(a).”212 Holifield contends that with these factual findings, the court, in effect, found
+
+that Holifield believed “reasonably and in good faith” that XRI consented to the transfer.213
+
+          Even if on remand the Vice Chancellor concludes that Holifield’s actions in
+
+breaching the No Transfer Provision did not amount to Disabling Conduct, XRI also
+
+alleges that Holifield willfully breached, or at least was grossly negligent in breaching, the
+
+No Encumbrance Provision. Because XRI could recoup expenses for a willful or grossly
+
+negligent breach of the No Encumbrance Provision, the trial court, on remand, should
+
+determine whether the No Encumbrance Provision was breached, and if so, whether his
+
+conduct constituted Disabling Conduct.
+
+          As a final observation, although the Court of Chancery found the result in favor of
+
+XRI to be “disquieting,” from our standpoint, the facts as found reflect conduct on both
+
+sides of the “v” that is disquieting.214 For example, if Holifield truly believed that his
+
+Assurance Loan structure was completely on “his side of the ledger,” and if it were so clear
+
+to him that the No Encumbrance Provision could not be extended to the types of rights that
+
+a general creditor would have without breaching the No Encumbrance Provision, why
+
+would he go to such lengths to withhold the details of the loan? And why would he
+
+represent that the transfer was for estate planning purposes when that was not the case?
+
+
+
+
+212
+      App. to Answering Br. at B0346 (Final Order and Judgment ¶ 8(a), (b)).
+213
+      Chancery Opinion, 283 A.3d at 590, 604.
+214
+   XRI’s conduct in sending a legal notice to a defunct address might fall into this category as
+does Holifield’s illusory estate planning, for example.
+
+                                                74
+          It could be that Holifield simply did not wish to bother the Morgan Stanley XRI
+
+representatives with the matter, as the Vice Chancellor found. Or it could be that after
+
+receiving Morgan Stanley’s clear message following their rejection of his second-position
+
+pledge idea, Holifield feared that the Assurance Loan was actually too close to the middle
+
+“of the ledger,” or would invite “trouble with Morgan Stanley” by encroaching on XRI’s
+
+“side of the ledger.” The litigation and settlement with Assurance in Texas suggests that
+
+the arrangement actually did present a close question, as the Vice Chancellor recognized.215
+
+Gabriel may have figured it all out, as the Vice Chancellor concluded, but it also appears
+
+that Gabriel was trying to secure from Holifield restoration of his equity interest in Entia
+
+(which Gabriel had transferred to Holifield for one dollar in April 2018).216
+
+          Further, it is unclear to us how XRI actually benefitted from this transfer, given its
+
+perfected security interest in the Disputed Units and the resulting Texas Litigation. And
+
+as for its delay after receiving the documents in April 2019, it seems reasonable that, having
+
+reserved its rights, XRI would not take action until after Holifield defaulted in 2020. The
+
+bottom line is that based on the record as we view it, the questionable conduct is not tilting
+
+so heavily in either side’s favor, and we are not convinced that the result in XRI’s favor is
+
+“disquieting” and “inequitable.”
+
+
+
+
+215
+    For example, in the proceedings below, Holifield distinguished between a right attached to the
+Disputed Units themselves, versus a right attached to a share of the proceeds from any distribution
+generated by a sale of the Disputed Units after the proceeds reach Holifield’s pocket. This is likely
+a thorny and “close” question as noted by the Vice Chancellor. See Protech Mins., Inc. v. Dugout
+Team, LLC, 284 A.3d 369, 377 (Del. 2022).
+216
+      Chancery Opinion, 283 A.3d at 604.
+
+                                                 75
+       However, the factual record speaks for itself and the findings have not been
+
+challenged in this appeal. Nor are we suggesting, by these comments, that they are clearly
+
+erroneous, particularly as some of them are based upon credibility determinations. But the
+
+factual and legal determinations are incomplete. The parties should have an opportunity
+
+to address the breach, damages, and recoupment issues on remand.217 We leave to the Vice
+
+Chancellor’s discretion as to whether and how the record might need to be supplemented.
+
+       Accordingly, we REVERSE the Court of Chancery’s judgment that XRI’s claim for
+
+damages and recoupment of legal expenses are waived and REMAND for the trial court to
+
+determine: (1) whether Holifield’s conduct in breaching the No Transfer Provision rose to
+
+the level of Disabling Conduct; (2) the amount of damages XRI is entitled to recover for
+
+Holifield’s breach of the LLC Agreement; (3) whether Holifield breached the No
+
+Encumbrance Provision; and (4) if Holifield breached the No Encumbrance Provision,
+
+whether his conduct was Disabling Conduct under the LLC Agreement. In the event of a
+
+finding of a breach of the LLC Agreement in a manner that constitutes Disabling Conduct,
+
+the court should order recoupment of the legal fees advanced to Holifield under the LLC
+
+Agreement in an amount within the court’s discretion.
+
+
+
+
+217
+    See Coster v. UIP Cos., 255 A.3d 952, 964 (Del. 2021) (this Court identified facts found by the
+Court of Chancery supporting the conclusion that the board had acted inequitably, we recognized
+that the court also had found facts “inconsistent with this conclusion,” and accordingly, we directed
+that “the court should have an opportunity to review all of its factual findings in any manner it sees
+fit in light of its new focus”).
+
+                                                 76
+                                  IV.   CONCLUSION
+
+      The judgment of the Court of Chancery that the Blue Transfer is void is
+
+AFFIRMED. The judgment of the Court of Chancery that XRI’s claims for breach of
+
+contract damages and recoupment of legal expenses were not preserved pending appeal,
+
+and that the finding of acquiescence precludes relief in both cases, is REVERSED. The
+
+case is remanded for further proceedings consistent with this opinion.
+
+
+
+
+                                            77
+                                                                      V.        Exhibit A
+
+                                                           The Blue Transfer & Assurance Loan
+
+
+                                        Transfer of Disputed Units2                   GH Blue Holdings, LLC
+               Holifield
+                                                                                            (“Blue”)
+
+       100% owner
+
+
+         Entia, LLC (“Entia”)
+                                                                                                                                XRI Secured by Disputed
+                                                                                                                                         Units
+
+
+
+
+                                                                                        Disputed Units (18,346 Class B Units)
+  Assurance Loan to                                                                                                                       //
+        Entia                                                                                                                   Blue Pledge of Disputed
+          //                                                                                                                             Units
+  Assurance Secured
+ by All Assets Pledge
+       of Entia
+
+                                                                                                                                                 NH XRI Investments LLC
+                                                                                                                                                   (“Morgan Stanley”)
+
+Assurance Mezzanine Fund III ,
+      L.P. (“Assurance”)
+       Fund managed by Ellis
+
+
+
+                                                                             XRI Investment Holdings LLC (“XRI”)
+                                                                                       46,000 Class A Units
+                                                                         25,480 Class B Units (including the Disputed Units)
+                                                                                        7,895 Class C Units3
+
+
+   1
+     Orange arrows indicate loan and security relationships. Blue arrows indicate ownership interests.
+   2
+     The dispute in this litigation is whether this transfer of Disputed Units from Holifield to Blue is valid.
+   3
+     Class C units are “management units” held by “management members.” They are not at issue in this litigation.
+   4
+     All entities are Delaware entities.
+
+
+
+
+                                                                                78

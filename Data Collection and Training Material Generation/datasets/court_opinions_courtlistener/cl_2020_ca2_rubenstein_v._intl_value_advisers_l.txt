@@ -1,0 +1,933 @@
+19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+
+ 1                                                  In the
+ 2                         United States Court of Appeals
+ 3                                      For the Second Circuit
+ 4
+ 5
+ 6                                             August Term 2019
+ 7
+ 8                                               No. 19-560-cv
+ 9
+10
+11                                             AARON RUBENSTEIN,
+12                                                                 Plaintiff-Appellant,
+13
+14                                                    v.
+15
+16          INTERNATIONAL VALUE ADVISERS, LLC, CHARLES DE VAULX, CHARLES DE
+17                                  LARDEMELLE,
+18                                                       Defendants-Appellees,
+19
+20       ADTALEM GLOBAL EDUCATION SERVICES (F/K/A DEVRY EDUCATION GROUP, INC.),
+21                                                       Nominal Defendant-
+22                                                       Appellee,
+23
+24                               JOHN DOE, AN UNIDENTIFIED IVA CLIENT,
+25                                                                Defendant. †
+26
+27
+28
+29                           Appeal from the United States District Court
+30                              for the Southern District of New York
+31                                          No. 18-cv-81,
+32                          Paul A. Engelmayer, District Judge, Presiding.
+33                         (Argued October 23, 2019; Decided May 20, 2020)
+34
+
+     †   The Clerk of Court is directed to modify the caption to conform to the above.
+                                                       1
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1
+ 2
+ 3   Before:          KEARSE, PARKER, and SULLIVAN, Circuit Judges.
+ 4
+ 5          Plaintiff-Appellant Aaron Rubenstein appeals from an order of the United
+ 6   States District Court for the Southern District of New York (Engelmayer, J.)
+ 7   dismissing his complaint under Section 16(b) of the Securities Exchange Act for
+ 8   failure to state a claim. We hold that an investment management agreement
+ 9   delegating discretionary investment authority to an investment advisor is not an
+10   agreement to trade in the securities of an issuer and, therefore, is not a
+11   standalone basis for membership in an insider group. Moreover, we hold that
+12   such an investment advisor’s client does not become an insider group member
+13   simply because the advisor has filed a Schedule 13D or deputized a director on
+14   an issuer’s board. Consequently, clients who have not entered an issuer-specific
+15   trading agreement are not liable for disgorgement of short-swing profits solely
+16   by virtue of their investment advisor’s insider status.
+17
+18           AFFIRMED.
+19
+20                                             MIRIAM TAUBER (David Lopez, Law
+21                                             Office of David Lopez, Southampton,
+22                                             NY, on the brief), Miriam Tauber Law
+23                                             PLLC, New York, NY, for Plaintiff-
+24                                             Appellant.
+25
+26                                             DENNIS HENRY TRACEY, III (Robin Muir,
+27                                             on the brief), Hogan Lovells US LLP,
+28                                             New York, NY, for Defendants-Appellees.
+29
+30                                             SUSAN SALTZSTEIN, Skadden, Arps,
+31                                             Slate, Meagher & Flom LLP, New York,
+32                                             NY, for Nominal Defendant-Appellee.
+33
+
+
+
+
+                                               2
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   BARRINGTON D. PARKER, Circuit Judge:
+
+ 2           Plaintiff-Appellant Aaron Rubenstein appeals from an order of the United
+
+ 3   States District Court for the Southern District of New York (Engelmayer, J.)
+
+ 4   dismissing, under Rule 12(b)(6), his complaint alleging violations of Section 16(b)
+
+ 5   of the Securities Exchange Act of 1934 (the “‘34 Act”). The issue presented is
+
+ 6   whether a client of an investment advisor became a member of a Section 13(d)
+
+ 7   group with his investment advisor and the advisor’s other clients merely because
+
+ 8   he and the other clients had delegated discretionary investment authority to the
+
+ 9   advisor and the advisor had purchased for the client’s account shares of the same
+
+10   issuer that was the subject of the advisor’s Schedule 13D filing. We agree with
+
+11   the court below that the client did not thereby become a member of a group and
+
+12   that the client was not obliged to disgorge his short-swing profits. Accordingly,
+
+13   we affirm the order of the district court.
+
+14           To prevent insiders of a securities issuer from trading on material non-
+
+15   public information, Section 16(b) of the Securities Exchange Act of 1934 imposes
+
+16   strict liability on certain insiders of an issuer, requiring them to disgorge to the
+
+17   issuer any profits they realize from short-swing trading in the issuer’s securities.
+
+18   As defined by Section 16(b), short-swing trading is “any purchase and sale, or
+
+
+
+                                                  3
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   any sale and purchase, of any equity security of such issuer . . . within any period
+
+ 2   of less than six months . . . irrespective of any intention on the part of [the
+
+ 3   insider].” 15 U.S.C. § 78p(b). Among the insiders subject to the rule are directors
+
+ 4   and officers of the issuer, as well as “[e]very person who is directly or indirectly
+
+ 5   the beneficial owner of more than 10 percent of any class of any equity security”
+
+ 6   of the issuer. Id. 1 Section 16(b) is known as the “short-swing profit rule.”
+
+ 7           In addition to requiring individual statutory insiders to disgorge short-
+
+ 8   swing profits, the ’34 Act provides for “group” liability. Section 13(d)(3) provides
+
+ 9   that “[w]hen two or more persons act as a . . . group for the purpose of acquiring,
+
+10   holding, or disposing of securities of an issuer,” the group shall be deemed a
+
+
+
+
+     1 The definition of “beneficial owner” under the statute is somewhat involved.
+     First, Section 13(d) defines a “beneficial owner” as “any person who . . . has or
+     shares: (1) Voting power which includes the power to vote, or to direct the voting
+     of, [a] security; and/or, (2) Investment power which includes the power to
+     dispose, or to direct the disposition of, [a] security.” 17 C.F.R. § 240.13d-3(a).
+     With certain exceptions, this definition is employed to determine who qualifies
+     as a statutory insider subject to the short-swing profit rule. Id. § 240.16a-1(a)(1).
+     Next, Section 16(b) narrows the class of transactions subject to the rule by
+     defining “beneficial owner” as “any person who, directly or indirectly . . . has or
+     shares a direct or indirect pecuniary interest in the equity securities.” Id. §
+     240.16a-1(a)(2). A pecuniary interest is an “opportunity, directly or indirectly, to
+     profit or share in any profit derived from a transaction in the subject securities,”
+     id. § 240.16a-1(a)(2)(i), and may include a “performance-related fee, other than an
+     asset-based fee, received by . . . [an] investment manager,” id. § 240.16a-
+     1(a)(2)(ii)(C).
+                                                4
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   ”person” subject to Section 16(b). Id. § 78m(d)(3). 2 A group is formed “[w]hen
+
+ 2   two or more persons agree to act together for the purpose of acquiring, holding,
+
+ 3   voting or disposing of equity securities of an issuer.” 17 C.F.R. § 240.13d-5(b)(1).
+
+ 4   The group is then “deemed to have acquired beneficial ownership . . . of all
+
+ 5   equity securities of that issuer beneficially owned by any [group members].” Id.
+
+ 6   Consequently, if members of a group collectively hold more than 10% of any
+
+ 7   class of equity securities of an issuer, each member of the group is subject to the
+
+ 8   short-swing profit rule. See id. § 240.16a-1(a)(3). The dispositive issue on this
+
+ 9   appeal is whether John Doe, an anonymous defendant, became a member of such
+
+10   a group.
+
+11           Defendant International Value Advisers (“IVA”) is an investment advisor
+
+12   registered under Section 203 of the Investment Advisers Act of 1940. Defendants
+
+13   Charles de Vaulx and Charles de Lardemelle are the managing members of IVA,
+
+14   as well as portfolio managers for IVA-managed funds and separately managed
+
+15   client accounts. Rubenstein holds shares in AdTalem Global Education Services,
+
+16   formerly known as DeVry Education Group (“DeVry”). The “John Doe”
+
+17   defendant is the owner of a brokerage trading account managed by IVA, and
+
+
+     2 See also 17 C.F.R. § 240.16a-1(a)(1) (applying the preceding definition, drawn
+     from Section 13(d), for purposes of Section 16(b) liability).
+                                               5
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   IVA exercises discretionary authority over that account. That account holds
+
+ 2   shares of DeVry selected and purchased for it by IVA acting as its investment
+
+ 3   manager. Although that account does not hold more than 10% of DeVry shares,
+
+ 4   John Doe, the IVA defendants, and IVA’s other clients collectively owned 19.5%
+
+ 5   of DeVry’s outstanding common stock.
+
+ 6           Between June and December 2016, the IVA defendants reported on
+
+ 7   ownership reports filed under Section 13(d) and Section 16(a) of the ’34 Act that
+
+ 8   they beneficially owned, through their voting and investment power over their
+
+ 9   advisee-clients, more than 10% of DeVry’s outstanding common stock.
+
+10   Specifically, at various times in 2016, the IVA defendants filed Schedule 13Ds
+
+11   with the SEC indicating that, in accumulating their position in DeVry, they had
+
+12   formed a “control purpose” with respect to DeVry and that they sought the
+
+13   appointment of IVA’s managing partner to the DeVry board to represent the
+
+14   investment interests of IVA and its clients who held DeVry shares.
+
+15           No one disputes that, at this point, the IVA defendants were subject to
+
+16   Section 16(b)’s short-swing profit rule. In July 2016, IVA, as investment manager
+
+17   for John Doe’s account, purchased 31,847 shares of DeVry and within six months
+
+18   sold DeVry shares at a profit. If John Doe were a member of a group with the
+
+
+
+                                               6
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   IVA defendants and their other clients, he would have been a statutory insider
+
+ 2   subject to the short-swing profit rule because the IVA defendants were insiders
+
+ 3   and their clients collectively owned more than 10% of DeVry common stock. If
+
+ 4   not, he would not have been subject to the rule. Accordingly, what the parties
+
+ 5   contest is whether John Doe was a member of an insider group with IVA and its
+
+ 6   clients and consequently obligated to return the short-swing profits.
+
+ 7           Rubenstein sued, alleging that John Doe was a member of a group with the
+
+ 8   IVA defendants and IVA’s other clients. He contended that John Doe’s
+
+ 9   investment management agreement with IVA qualified as an agreement to trade
+
+10   in the securities of an issuer under Section 13(d). He further theorized that the
+
+11   IVA defendants’ filing of a Schedule 13D automatically caused John Doe to
+
+12   become a member of a group by “silent acquiescence.” In other words,
+
+13   Rubenstein alleged that the filing of the Schedule 13D put an owner of DeVry
+
+14   shares in a managed account (such as John Doe) on notice of the IVA defendants’
+
+15   control purpose and that the owner thereby “agreed” to become part of the
+
+16   group by failing to terminate the IVA defendants’ control of the managed
+
+17   account.
+
+
+
+
+                                               7
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1           Defendants moved to dismiss the complaint and the district court granted
+
+ 2   the motion. The court observed that the touchstone of a group under Section
+
+ 3   13(d) is that its members combined in furtherance of a common objective. The
+
+ 4   court held that the complaint did not plausibly allege a common objective
+
+ 5   between the IVA defendants, who had a control purpose, and John Doe, whose
+
+ 6   DeVry shares had been purchased for his account on a discretionary basis by his
+
+ 7   investment manager. In other words, the court held that Rubenstein had not
+
+ 8   plausibly pled the existence of a Section 13(d) agreement. Rubenstein v. Int’l Value
+
+ 9   Advisers, LLC, 363 F. Supp. 3d 379, 394-95 (S.D.N.Y. 2019).
+
+10            The court further concluded that the applicable Section 13(d) rule, in
+
+11   addition to requiring an agreement, required its members to have acted together
+
+12   for the purpose of acquiring not just any security but the securities of “an issuer,”
+
+13   meaning a particular issuer. Because the complaint did not plausibly allege that
+
+14   this had occurred, the court determined that John Doe did not become a member
+
+15   of a 13(d) group and could not be required to return his DeVry profits. Id. at 392.
+
+16           This appeal followed. “We review a district court’s grant of a motion to
+
+17   dismiss under Rule 12(b)(6) de novo.” Edwards v. Sequoia Fund, Inc., 938 F.3d 8, 12
+
+
+
+
+                                                8
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   (2d Cir. 2019); see also Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009); Bell Atl. Corp. v.
+
+ 2   Twombly, 550 U.S. 544, 555-56 (2007).
+
+ 3                                             DISCUSSION
+
+ 4           Resolution of this appeal turns on whether John Doe was a member of an
+
+ 5   insider group. We hold that he was not. Our holding follows from the text and
+
+ 6   structure of the ’34 Act and its implementing regulations, as well as the
+
+ 7   legislative purpose behind the short-swing profit rule. Moreover, we are
+
+ 8   unmoved by Rubenstein’s arguments to the contrary, which are based either on a
+
+ 9   misunderstanding of certain regulatory exemptions or on erroneous legal
+
+10   positions.
+
+11                                                 I.
+
+12           A Section 13(d) group is formed “[w]hen two or more persons agree to act
+
+13   together for the purpose of acquiring, holding, voting or disposing of equity
+
+14   securities of an issuer.” 17 C.F.R. § 240.13d-5(b)(1). The group is then deemed to
+
+15   have acquired beneficial ownership of all equity securities of that issuer
+
+16   beneficially owned by any group members. If the group’s collective holdings
+
+17   exceed 10% of any class of the issuer’s outstanding equity securities, then each
+
+18   group member is subject to the short-swing profit rule. See id. § 240.16a-1(a)(3).
+
+
+
+                                                   9
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1           Rubenstein does not allege that any defendants are liable for short-swing
+
+ 2   profits except John Doe, who realized the profits in an account managed for him
+
+ 3   by IVA. It is not disputed that the other defendants were statutory insiders who
+
+ 4   would have been obligated to return short-swing profits had they realized them.
+
+ 5   They were required to file, and did file, Schedule 13Ds.
+
+ 6           Rubenstein relies principally on the theory that IVA’s clients became
+
+ 7   members of a group with their investment advisor and its other clients when
+
+ 8   they signed investment management agreements delegating discretionary
+
+ 9   trading authority to IVA. We do not agree. Rubenstein’s theory is incompatible
+
+10   with the text of the ’34 Act and its implementing regulations. Both provide that a
+
+11   group is formed when multiple individuals agree to act together “for the
+
+12   purpose of acquiring, holding, or disposing of securities of an issuer.” 15 U.S.C. §
+
+13   78m(d)(3) (emphasis added); see also 17 C.F.R. § 240.13d-5(b)(1). The regulations
+
+14   then deem the group members “to have acquired beneficial ownership . . . of all
+
+15   equity securities of that issuer beneficially owned by any [group members].” 17
+
+16   C.F.R. § 240.13d-5(b)(1) (emphasis added).
+
+17            We straightforwardly conclude that these provisions impose liability only
+
+18   when insiders enter an agreement, as defined in 17 C.F.R. § 13d-5(b)(1), to trade
+
+
+
+                                               10
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   the securities of a particular issuer. In American Standard, Inc. v. Crane Co., we said
+
+ 2   that because Section 16(b) “speaks of ‘such issuer’ in the singular,” there is “no
+
+ 3   room for a grammatical construction that would convert the singular into a
+
+ 4   plural.” 510 F.2d 1043, 1058 (2d Cir. 1974); see also Roth v. Jennings, 489 F.3d 499,
+
+ 5   510-12 (2d Cir. 2007); Morales v. Quintel Entm’t, Inc., 249 F.3d 115, 125-26 (2d Cir.
+
+ 6   2001); Morales v. Freund, 163 F.3d 763, 767 (2d Cir. 1999).
+
+ 7           Rubenstein does not allege the existence of any such agreement. He admits
+
+ 8   that the only agreement between the IVA defendants and John Doe is an
+
+ 9   investment management agreement under which John Doe gave the IVA
+
+10   defendants discretionary authority to trade securities in his account and agreed
+
+11   to pay them a fee for these services. Neither DeVry nor any other issuer was
+
+12   identified as one whose stock IVA might purchase for John Doe’s account. In
+
+13   addition, the investment management agreement did not address whether, or to
+
+14   what extent, the IVA defendants might purchase or sell the same securities for
+
+15   the other accounts they managed; nor did the investment management
+
+16   agreement touch on the subject of whether the IVA defendants might seek to
+
+17   influence or control an issuer whose shares might be in an account they
+
+18   managed. Consequently, Rubenstein is simply wrong when he contends that the
+
+
+
+                                               11
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   investment management agreement constituted an “agreement” to trade in
+
+ 2   DeVry securities under Section 13(d) and 17 C.F.R. § 240.13d-5(b)(1).
+
+ 3           An investment advisory client does not form a group with its investment
+
+ 4   advisor by merely entering into an investment advisory relationship. Nor does
+
+ 5   an investor become a member of a group solely because his or her advisor caused
+
+ 6   other (or all) of its clients to invest in securities of the same issuer. And
+
+ 7   Rubenstein points us to nothing else that might constitute an “agreement” or
+
+ 8   demonstrate a “common objective” to trade in the securities of “an issuer.”
+
+ 9                                              II.
+
+10           In addition to its incompatibility with the text of the statutes and rules,
+
+11   Rubenstein’s interpretation does not serve the purpose of the statute, which is
+
+12   designed to “prevent a group of persons who seek to pool their voting or other
+
+13   interests in the securities of an issuer from evading the provisions of the statute
+
+14   because no one individual owns more than 10 percent of the securities.” H.R.
+
+15   Rep. No. 90-1711 (1968), as reprinted in 1968 U.S.C.C.A.N. 2811, 2818; see also
+
+16   Quintel, 249 F.3d at 123 (“[T]he purpose of the provision was to prevent evasion
+
+17   of the disclosure requirement.”). Rubenstein has never alleged that IVA’s clients
+
+18   sought to pool their shares to evade the requirements of the statute. See generally
+
+
+
+                                                12
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   Magma Power Co. v. Dow Chem. Co., 136 F.3d 316, 320 (2d Cir. 1998) (holding that
+
+ 2   courts should evaluate short-swing transactions pragmatically to determine
+
+ 3   whether they serve as a “vehicle for the evil which Congress sought to prevent”
+
+ 4   (quoting Kern Cty. Land Co. v. Occidental Petroleum Corp., 411 U.S. 582, 594
+
+ 5   (1973))).
+
+ 6           Nonetheless, Rubenstein offers a variety of policy arguments in support of
+
+ 7   his position, none of which persuades us. For example, he contends that our
+
+ 8   holding will facilitate illicit insider trading. Section 16(b) is designed to prevent
+
+ 9   abuse of inside information by prohibiting a narrow class of trades that Congress
+
+10   viewed as particularly likely to be based on such information. Rubenstein voices
+
+11   the concern that our holding will enable investment managers to evade Section
+
+12   16(b) and to abuse inside information by trading in client funds rather than their
+
+13   own funds because client funds may not be subject to disgorgement. He argues
+
+14   that if clients are not members of a group with their advisor, then their advisor
+
+15   will be able to trade its clients’ shares using inside information and to earn
+
+16   profits from those trades.
+
+17           Because of the strict liability imposed by Section 16(b), the Supreme Court
+
+18   has cautioned against exceeding the “narrowly drawn limits” on the class of
+
+
+
+                                               13
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   corporate insiders who may be subject to the statute. Gollust v. Mendell, 501 U.S.
+
+ 2   115, 122 (1991) (quoting Foremost-McKesson, Inc. v. Provident Sec. Co., 423 U.S. 232,
+
+ 3   251 (1976)); accord Reliance Elec. Co. v. Emerson Elec. Co., 404 U.S. 418, 427 (1972).
+
+ 4   Accordingly, we may not expand the boundaries of the statute merely to address
+
+ 5   Rubenstein’s concerns.
+
+ 6           In any case, Congress has chosen to address Rubenstein’s concerns in other
+
+ 7   ways. Exempting certain client profits from Section 16(b) does not insulate
+
+ 8   investment advisors from liability under the more general anti-fraud provisions
+
+ 9   of the ‘34 Act: Section 10(b) and Rule 10b-5. If IVA had improperly used inside
+
+10   information to trade in its clients’ accounts, it could be subject to Rule 10b-5,
+
+11   regardless of whether its clients were part of an insider group. Section 16(b)
+
+12   addresses only a narrow class of potential insider trading. By contrast, Rule 10b-5
+
+13   addresses a broader sphere, including the insider trading that Rubenstein asks
+
+14   Section 16(b) to police. Trading that passes muster under Section 16(b) may not
+
+15   do so under Rule 10b-5. Rubenstein’s fear that our holding will offer a safe
+
+16   harbor to investment managers engaged in insider trading is consequently
+
+17   unwarranted. Suffice it to say that his complaint contains no allegations that Rule
+
+
+
+
+                                                14
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   10b-5 has been violated, and that provision plays no part in our resolution of this
+
+ 2   case.
+
+ 3           Rubenstein next complains that our holding will undermine Section 13(d)’s
+
+ 4   disclosure requirement. 3 Section 13(d) requires persons who are the beneficial
+
+ 5   owners of more than 5% of a company’s shares to file a disclosure statement with
+
+ 6   the SEC. 15 U.S.C. § 78m(d). The requirement is designed to alert investors when
+
+ 7   shareholders acquire potentially controlling interests in corporations. Rubenstein
+
+ 8   argues that our holding will enable investment advisors to exercise control over
+
+ 9   companies without disclosing their interests if they distribute shares among their
+
+10   clients’ accounts such that the advisors’ own holdings never reach the 5%
+
+11   threshold.
+
+12           However, this argument overlooks the fact that investment advisors may
+
+13   qualify as beneficial owners of shares in their clients’ accounts, for purposes of
+
+14   Section 13(d), regardless of whether they form an insider group with their clients.
+
+15   When their clients’ holdings in a security collectively reach the 5% threshold, the
+
+16   advisors may be subject to Section 13(d)’s reporting requirements. This is
+
+17   because Rule 13d-3 defines beneficial ownership not by pecuniary interest in a
+
+
+     3The definition of “group” that applies in Section 16(b) cases is drawn from
+     Section 13(d).
+                                               15
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   security but rather by reference to the power to vote or dispose of that security.
+
+ 2   17 C.F.R. § 240.13d-3(a). 4 Consequently, investment advisors who trade their
+
+ 3   clients’ shares are deemed beneficial owners of those shares, and their clients’
+
+ 4   holdings count toward their own beneficial ownership of a security, under
+
+ 5   Section 13(d). Advisors who purchase a sufficient quantity of a security in their
+
+ 6   clients’ managed accounts will become subject to Section 13(d)’s disclosure
+
+ 7   requirement even if they do not form an insider group with their clients. Indeed,
+
+ 8   this is one reason why IVA filed a Schedule 13D disclosing its insider status with
+
+ 9   respect to DeVry. Consequently, Rubenstein’s concern is misplaced, and his
+
+10   policy arguments do not persuade us that IVA formed an insider group with its
+
+11   clients.
+
+12                                             III.
+
+13           Seeking to expand the scope of group liability, Rubenstein points us to
+
+14   Rule 16a-1’s exemption of certain registered investment advisors (“RIAs”) from
+
+15   the short-swing profit rule. 5 This exemption applies to enumerated “institutions
+
+
+     4 As discussed above, Section 16(b) adopts a second definition of beneficial
+     ownership to narrow the class of transactions subject to the short-swing profit
+     rule. The Section 16(b) definition does refer to pecuniary interest in a security,
+     but that definition does not apply to Section 13(d)’s disclosure requirement.
+     5 The SEC adopted this exemption “to avoid undue interference with the day-to-
+
+     day business of banks, brokers, dealers, investment advisers and other specified
+                                               16
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   or persons” who hold securities “for the benefit of third parties or in customer or
+
+ 2   fiduciary accounts in the ordinary course of business,” provided that the shares
+
+ 3   are acquired “without the purpose or effect of changing or influencing control of
+
+ 4   the issuer or [evading reporting requirements].” 17 C.F.R. § 240.16a-1(a)(1).
+
+ 5   When a covered institution or person satisfies these requirements, it does not
+
+ 6   qualify as the beneficial owner of its customers’ securities for the purpose of the
+
+ 7   short-swing profit rule’s 10% ownership threshold (i.e., its customers’ holdings
+
+ 8   do not count toward its own holdings). 6
+
+ 9           Rubenstein argues that because IVA does not qualify for the RIA
+
+10   exemption, given its control purpose with respect to DeVry, its clients must be
+
+
+     institutional fiduciaries and custodians.” Ownership Reports and Trading by
+     Officers, Directors and Principal Security Holders, Exchange Act Release No.
+     27148, 54 Fed. Reg. 35667 (Aug. 29, 1989).
+     6 Above, we emphasized that a client’s holdings generally count toward its
+
+     investment manager’s beneficial ownership of a security for purposes of Section
+     13(d). Rule 16a-1’s RIA exemption applies only to Section 16—which employs a
+     second definition of beneficial ownership and does not affect our analysis of
+     Section 13(d). Additionally, the RIA exemption applies “[s]olely for purposes of
+     determining whether a person is a beneficial owner of more than ten percent of
+     any class of equity securities.” 17 C.F.R. § 240.16a-1(a)(1). Once a person is
+     deemed the beneficial owner of more than 10%, then the RIA exemption is no
+     longer relevant. For this reason, an advisor who satisfies the RIA exemption but
+     independently qualifies as a statutory insider (e.g., holds more than 10% of a
+     class of securities in its own account or has deputized a director on an issuer’s
+     board) may be required to disgorge its performance-related fees. See id. § 240.16a-
+     1(a)(2)(ii)(C).
+                                               17
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   liable as a group. Through this argument, he attempts to turn an exemption that
+
+ 2   may provide advisors a safe harbor into a rule that advisors must satisfy. In
+
+ 3   making this attempt, he misses the mark because it is the liability of an IVA
+
+ 4   client, rather than IVA itself, that is at issue. The RIA exemption excludes certain
+
+ 5   RIAs from the definition of “beneficial owner”; it does not affect persons who are
+
+ 6   not RIAs (e.g., their clients). Even more importantly, the exemption makes no
+
+ 7   reference to group agreements. Whether IVA satisfied the RIA exemption or was
+
+ 8   a beneficial owner of the securities in question has no bearing on the question of
+
+ 9   whether it and its clients entered an agreement that would subject it to group
+
+10   liability.
+
+11           The structure of the statute and rules confirms the independence of the
+
+12   RIA exemption from the definition of a group. “Group” is defined in Section
+
+13   13(d) of the ’34 Act, and this definition is applied to Section 16(b) by Rule 16a-1.
+
+14   The RIA exemption, however, applies “solely to Section 16 of the Act.” 17 C.F.R.
+
+15   § 240.16a-1. Accordingly, it filters certain persons who are subject to Section 13(d)
+
+16   out of the pool of persons subject to Section 16(b); it does not expand the class of
+
+17   persons treated as group members under Section 13(d). In a group liability case,
+
+18   if a court determines that a Section 13(d) group has not been formed, the RIA
+
+
+
+                                               18
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   exemption issue falls by the wayside. In other words, if a group liability
+
+ 2   defendant has not entered an issuer-specific trading agreement, a court need not
+
+ 3   ask whether his investment advisor satisfies the RIA exemption.
+
+ 4           In pursuit of this argument, Rubenstein directs us to Egghead.com, Inc. v.
+
+ 5   Brookhaven Capital Management Co., in which we held that investment advisors
+
+ 6   are not deemed beneficial owners of their clients’ shares, for purposes of Section
+
+ 7   16(b), when they satisfy the RIA exemption. 340 F.3d 79, 84 (2d Cir. 2003). This
+
+ 8   straightforward rule does not change our result. This case turns on the criteria for
+
+ 9   group agreement, not on whether IVA was a beneficial owner of its clients’
+
+10   securities. Moreover, Egghead says nothing about liability when an advisor does
+
+11   not meet the RIA exemption.
+
+12           Simply put, the RIA exemption is a separate component of the short-swing
+
+13   profit rule that is not relevant to this case. When an investment advisor and its
+
+14   clients have not entered an agreement to acquire, hold, vote, or dispose of the
+
+15   securities of a particular issuer, they do not qualify as an insider group. This
+
+16   result is not changed by the RIA exemption.
+
+
+
+
+                                               19
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1                                             IV.
+
+ 2            In the absence of any agreement to trade in the securities of an issuer,
+
+ 3   Rubenstein argues for a theory of implied agreement. IVA was a statutory
+
+ 4   insider that filed a Schedule 13D with the SEC disclosing its status. Rubenstein
+
+ 5   contends that by silently acquiescing in their advisor’s trading for their benefit
+
+ 6   after the advisor filed that form, IVA’s clients implicitly agreed to trade in the
+
+ 7   securities of DeVry as members of the insider group.
+
+ 8           We find no support for this theory in the relevant statutes or regulations.
+
+ 9   Rubenstein would have us treat all investors as though they were conscious of
+
+10   the securities held by their advisors’ other clients and would mandate that they
+
+11   tailor their investment decisions to those other clients’ trades. He would further
+
+12   require them to monitor their advisors’ activity on various corporate boards and
+
+13   to assess whether their advisors may have adopted a control purpose with
+
+14   respect to particular issuers. Such requirements are impracticable ones that are
+
+15   not contemplated by the securities laws. Section 16(b) is not designed to threaten
+
+16   liability based on the trades of other investors to whom a defendant’s only
+
+17   connection is sharing an investment advisor.
+
+
+
+
+                                                20
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1           Rubenstein claims that these difficulties can be avoided if investment
+
+ 2   advisors adopt compliance procedures that prevent short-swing trading.
+
+ 3   However, Rubenstein seeks to hold advisors’ clients liable, and those clients may
+
+ 4   have no control over their advisor’s compliance procedures. Rubenstein’s
+
+ 5   proposed theory of liability would demand that clients, who may be
+
+ 6   unsophisticated individual investors, adopt procedures for monitoring the
+
+ 7   investments of their advisors’ other clients. Rubenstein would hold a retiree on
+
+ 8   the beach in Florida liable when he fails to conduct an ongoing analysis of his
+
+ 9   IRA manager’s trading in other clients’ accounts. We decline to go down this
+
+10   road.
+
+11                                               V.
+
+12           Rubenstein’s final theory of liability, raised for the first time on appeal, is
+
+13   that IVA acted as an agent and director by deputization for its clients. We see no
+
+14   merit in this theory. To be sure, there is some support in our precedent for the
+
+15   theory that a statutory insider may not escape liability by merely delegating
+
+16   investment responsibility to an agent. See, e.g., Huppe v. WPCS Int’l Inc., 670 F.3d
+
+17   214, 221-22 (2d Cir. 2012). That is, an insider principal cannot shed its insider
+
+18   status by transferring trading authority to a non-insider agent. For example, the
+
+
+
+                                                 21
+     19-560-cv
+     Rubenstein v. Int’l Value Advisers, LLC
+
+ 1   owner of 10% of the outstanding shares of a security may not delegate authority
+
+ 2   over 5% to an agent and thereby claim to be a 5% shareholder who is not subject
+
+ 3   to Section 16(b). No authority, however, suggests that a non-insider principal
+
+ 4   may unknowingly inherit the insider status of its agent.
+
+ 5           Rubenstein also points us to a “director by deputization” theory, under
+
+ 6   which an investor becomes a statutory insider when it deputizes an individual to
+
+ 7   serve as its representative on an issuer’s board of directors. See generally Blau v.
+
+ 8   Lehman, 368 U.S. 403, 408-10 (1962); Roth ex rel. Beacon Power Corp. v. Perseus,
+
+ 9   L.L.C., 522 F.3d 242, 246 (2d Cir. 2008). IVA argues that, under this theory, IVA’s
+
+10   clients were insiders because they hired IVA as their investment advisor and IVA
+
+11   then appointed a director to DeVry’s board. Although this appointment may
+
+12   have rendered IVA a statutory insider, it did not render its clients insiders. IVA’s
+
+13   clients did not deputize anyone as a director. It is unlikely that most of these
+
+14   clients were even aware that their advisor had deputized a director on the DeVry
+
+15   board. And even if some clients were so aware, there is no indication that they
+
+16   agreed to the deputization. In any event, we conclude that further discussion of
+
+17   these theories is not appropriate because they were not raised in the court below.
+
+
+
+
+                                               22
+    19-560-cv
+    Rubenstein v. Int’l Value Advisers, LLC
+
+1           In sum, group liability under Sections 13(d) and 16(b) requires that group
+
+2   members “agree to act together for the purpose of acquiring, holding, voting or
+
+3   disposing of equity securities of an issuer.” 17 C.F.R. § 240.13d-5(b)(1); see also 15
+
+4   U.S.C. § 78m(d)(3). Because Rubenstein’s interpretation would read the
+
+5   requirements of agreement and issuer-specificity out of the statute, we reject it.
+
+6                                             CONCLUSION
+
+7           For the foregoing reasons, the order of the district court is AFFIRMED.
+
+
+
+
+                                                  23

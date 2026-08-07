@@ -1,0 +1,824 @@
+(Slip Opinion)              OCTOBER TERM, 2024                                       1
+
+                                       Syllabus
+
+         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+       being done in connection with this case, at the time the opinion is issued.
+       The syllabus constitutes no part of the opinion of the Court but has been
+       prepared by the Reporter of Decisions for the convenience of the reader.
+       See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+                                       Syllabus
+
+CUNNINGHAM ET AL. v. CORNELL UNIVERSITY ET AL.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                 THE SECOND CIRCUIT
+
+    No. 23–1007. Argued January 22, 2025—Decided April 17, 2025
+The Employee Retirement Income Security Act of 1974 (ERISA) prohib-
+  its plan fiduciaries from causing a plan to engage in certain transac-
+  tions with parties in interest. 29 U. S. C. §1106. A separate provision,
+  §1108(b)(2)(A), exempts from these prohibitions any transaction that
+  involves “[c]ontracting or making reasonable arrangements with a
+  party in interest for office space, or legal, accounting, or other services
+  necessary for the establishment or operation of the plan, if no more
+  than reasonable compensation is paid therefor.” The question pre-
+  sented is whether, to state a claim under §1106, a plaintiff must plead
+  that §1108(b)(2)(A) does not apply to an alleged prohibited transaction.
+     Petitioners represent a class of current and former Cornell Univer-
+  sity employees who participated in two defined-contribution retire-
+  ment plans from 2010 to 2016. In 2017, they sued Cornell and other
+  plan fiduciaries for allegedly causing the plans to engage in prohibited
+  transactions for recordkeeping services with the Teachers Insurance
+  and Annuity Association of America-College Retirement Equities
+  Fund and Fidelity Investments Inc., in violation of §1106(a)(1)(C). Pe-
+  titioners claimed the plans paid these service providers substantially
+  more than reasonable recordkeeping fees. The District Court dis-
+  missed the prohibited-transaction claim, and the Second Circuit af-
+  firmed. The Second Circuit held that §1108(b)(2)(A) is incorporated
+  into §1106(a)’s prohibitions, requiring plaintiffs to plead that a trans-
+  action was “unnecessary or involved unreasonable compensation” to
+  survive a motion to dismiss. 86 F. 4th 961, 975.
+Held: To state a claim under §1106(a)(1)(C), a plaintiff need only plausi-
+ bly allege the elements contained in that provision itself, without ad-
+ dressing potential §1108 exemptions. Pp. 6–15.
+2                   CUNNINGHAM v. CORNELL UNIV.
+
+                                    Syllabus
+
+        (a) Section 1106(a)(1)(C) contains three elements: It prohibits fidu-
+    ciaries from (1) “caus[ing a] plan to engage in a transaction” (2) that
+    the fiduciary “knows or should know . . . constitutes a direct or indirect
+    . . . furnishing of goods, services, or facilities” (3) “between the plan and
+    a party in interest.” Its bar is categorical and does not remove from its
+    scope transactions that were necessary or involved reasonable compen-
+    sation. The exemptions in §1108 do not impose additional pleading
+    requirements for §1106(a)(1) claims. When a statute has “exemptions
+    laid out apart from the prohibitions,” and the exemptions “expressly
+    refe[r] to the prohibited conduct as such,” the exemptions ordinarily
+    constitute “affirmative defense[s]” that are “entirely the responsibility
+    of the party raising” them. Meacham v. Knolls Atomic Power Labora-
+    tory, 554 U. S. 84, 91, 95. Like the exemptions at issue in Meacham,
+    the §1108 exemptions are structured as affirmative defenses that must
+    be pleaded and proved by defendants who seek to benefit from them.
+    Pp. 6–8.
+        (b) Respondents’ contrary arguments are unpersuasive. First, the
+    “[e]xcept as provided in section 1108” language in §1106(a) does not
+    incorporate §1108 exemptions as elements of §1106(a) violations. That
+    reading ignores that Congress wrote the §1108 exemptions “in the or-
+    thodox format of an affirmative defense” separate from the prohibi-
+    tions. Meacham, 554 U. S., at 102. The headings of the sections, “Pro-
+    hibited transactions” for §1106 and “Exemptions from prohibited
+    transactions” for §1108, confirm this understanding. Respondents also
+    fail to explain why some but not all §1108 exemptions should be
+    treated as elements of §1106(a) claims. Yet requiring plaintiffs to
+    plead and disprove all potentially relevant §1108 exemptions would be
+    impractical, given that there are 21 statutory exemptions and hun-
+    dreds of regulatory exemptions. Pp. 9–12.
+        (c) Respondents’ reliance on United States v. Cook, 17 Wall. 168, is
+    misplaced. Cook established “a rule of criminal pleading” based on
+    constitutional considerations not present in the civil context. United
+    States v. Reese, 92 U. S. 214, 232. Even in criminal cases, it remains
+    settled that “ ‘an indictment or other pleading . . . need not negative
+    the matter of an exception made by a proviso or other distinct clause.’ ”
+    Dixon v. United States, 548 U. S. 1, 13. Pp. 12–13.
+        (d) Finally, respondents’ practical concerns about meritless litiga-
+    tion cannot overcome the statutory text and structure. District courts
+    have various tools at their disposal to screen out meritless claims, in-
+    cluding requiring plaintiffs to file a reply addressing exemptions under
+    Federal Rule of Civil Procedure 7(a), dismissing claims that fail to
+    identify a concrete injury under Article III, limiting discovery, impos-
+    ing Rule 11 sanctions, and ordering cost shifting under §1132(g)(1).
+    Pp. 13–15.
+                    Cite as: 604 U. S. ____ (2025)                 3
+
+                              Syllabus
+
+86 F. 4th 961, reversed and remanded.
+
+   SOTOMAYOR, J., delivered the opinion for a unanimous Court. ALITO,
+J., filed a concurring opinion, in which THOMAS and KAVANAUGH, JJ.,
+joined.
+                        Cite as: 604 U. S. ____ (2025)                              1
+
+                             Opinion of the Court
+
+     NOTICE: This opinion is subject to formal revision before publication in the
+     United States Reports. Readers are requested to notify the Reporter of
+     Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+     pio@supremecourt.gov, of any typographical or other formal errors.
+
+
+SUPREME COURT OF THE UNITED STATES
+                                   _________________
+
+                                   No. 23–1007
+                                   _________________
+
+
+     CASEY CUNNINGHAM, ET AL., PETITIONERS
+         v. CORNELL UNIVERSITY, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SECOND CIRCUIT
+                                 [April 17, 2025]
+
+   JUSTICE SOTOMAYOR delivered the opinion of the Court.
+   The Employee Retirement Income Security Act of 1974
+(ERISA), 88 Stat. 829, as amended, 29 U. S. C. §1001
+et seq., prohibits ERISA plan fiduciaries from causing a
+plan to enter into certain transactions with parties in inter-
+est. §1106. A separate part of the statute, §1108(b)(2)(A),
+exempts from §1106’s prohibitions any transaction that in-
+volves “[c]ontracting or making reasonable arrangements
+with a party in interest for office space, or legal, accounting,
+or other services necessary for the establishment or opera-
+tion of the plan, if no more than reasonable compensation
+is paid therefor.” The question presented is whether, to
+state a claim under §1106, a plaintiff must plead that
+§1108(b)(2)(A) does not apply to an alleged transaction be-
+tween a plan and a party in interest. The answer is no. The
+Court holds that §1108 sets out affirmative defenses, so it
+is defendant fiduciaries who bear the burden of pleading
+and proving that a §1108 exemption applies to an otherwise
+prohibited transaction under §1106.
+2              CUNNINGHAM v. CORNELL UNIV.
+
+                      Opinion of the Court
+
+                                I
+                               A
+   Congress enacted ERISA to “protect . . . the interests of
+participants in employee benefit plans and their beneficiar-
+ies.” §1001(b). It did so by “establishing standards of con-
+duct, responsibility, and obligation for fiduciaries of em-
+ployee benefit plans, and by providing for appropriate
+remedies, sanctions, and ready access to the Federal
+courts.” Ibid. To that end, every ERISA plan must have at
+least one named fiduciary with authority to control and
+manage the operation and administration of the plan. See
+§1102(a)(1); see also §1002(21)(A) (“[A] person is a fiduciary
+with respect to a plan to the extent . . . he exercises any dis-
+cretionary authority or discretionary control respecting
+management of such plan or exercises any authority or con-
+trol respecting management or disposition of its assets”).
+   ERISA subjects plan fiduciaries to certain fiduciary du-
+ties derived from the common law of trusts. See §1104(a);
+Central States, Southeast & Southwest Areas Pension Fund
+v. Central Transport, Inc., 472 U. S. 559, 570 (1985). One
+is the duty of loyalty, which requires plan fiduciaries to act
+“solely in the interest of the [plan’s] participants and bene-
+ficiaries.” §1104(a)(1)(A). Among other things, the duty of
+loyalty requires the fiduciary to “deal fairly and honestly
+with beneficiaries,” Varity Corp. v. Howe, 516 U. S. 489, 506
+(1996) (citing G. Bogert & G. Bogert, Law of Trusts and
+Trustees §543, pp. 218–219 (rev. 2d ed. 1992)), so as “to en-
+sure that a plan receives all funds to which it is entitled,”
+Central Transport, 472 U. S., at 571.
+   Section 1106 “supplements the fiduciary’s general duty of
+loyalty to the plan’s beneficiaries . . . by categorically bar-
+ring certain transactions deemed ‘likely to injure the pen-
+sion plan.’ ” Harris Trust and Sav. Bank v. Salomon Smith
+Barney Inc., 530 U. S. 238, 241–242 (2000) (quoting Com-
+missioner v. Keystone Consol. Industries, Inc., 508 U. S.
+152, 160 (1993)). Specifically, §1106(a)(1) states that,
+                      Cite as: 604 U. S. ____ (2025)                     3
+
+                          Opinion of the Court
+
+“[e]xcept as provided in section 1108,” a fiduciary “shall not
+cause the plan to engage” in certain transactions with a
+“party in interest.”1 The Act, in turn, defines “ ‘party in in-
+terest’ ” to include various plan insiders, including the
+plan’s administrator, sponsor, and its officers, as well as en-
+tities “providing services to [the] plan.” §1002(14). This
+case concerns the prohibited transaction set out in
+§1106(a)(1)(C), which bars a fiduciary from “caus[ing] the
+plan to engage in a transaction, if he knows or should know
+that such transaction constitutes a direct or indirect . . . fur-
+nishing of goods, services, or facilities between the plan and
+a party in interest.”
+   Section 1108 separately enumerates 21 exemptions to
+those prohibited transactions. Relevant here is
+§1108(b)(2)(A), which exempts from §1106(a)(1)(C) any
+transaction that involves “[c]ontracting or making reasona-
+ble arrangements with a party in interest for office space,
+or legal, accounting, or other services necessary for the es-
+tablishment or operation of the plan, if no more than rea-
+sonable compensation is paid therefor.” §1108(b)(2)(A).
+                             B
+  Respondent Cornell University is the named administra-
+tor for two defined-contribution retirement plans.2 Cornell
+employees maintain individual investment accounts within
+those plans, the value of which “is determined by the mar-
+ket performance of employee and employer contributions,
+less expenses.” Tibble v. Edison Int’l, 575 U. S. 523, 525
+(2015). Those expenses include fees paid to service provid-
+ers.
+
+——————
+  1 Section 1106 also prohibits certain transactions between plans and
+
+the fiduciaries who manage them. See §1106(b).
+  2 The facts that follow are from petitioners’ operative complaint. Be-
+
+cause this case comes to the Court on review of respondents’ motion to
+dismiss that complaint, the Court accepts petitioners’ allegations as true.
+See Hughes v. Northwestern Univ., 595 U. S. 170, 173 (2022).
+4             CUNNINGHAM v. CORNELL UNIV.
+
+                     Opinion of the Court
+
+   In 2011, Cornell retained the Teachers Insurance and An-
+nuity Association of America-College Retirement Equities
+Fund (TIAA) and Fidelity Investments Inc. (Fidelity).
+TIAA and Fidelity offered investment options to plan par-
+ticipants and served as recordkeepers for the retirement
+plans by tracking account balances and providing account
+statements. Cornell compensated TIAA and Fidelity with
+fees from a set portion of plan assets.
+   Petitioners represent a class of current and former Cor-
+nell employees who participated in the plans from 2010 to
+2016. In 2017, they sued Cornell and other plan fiduciaries
+alleging, as relevant here, that respondents violated
+§1106(a)(1)(C) by causing the plans to engage in prohibited
+transactions for recordkeeping services. “[B]ecause TIAA
+and Fidelity are service providers and hence parties in in-
+terest,” petitioners argued, “their furnishing of recordkeep-
+ing and administrative services to the [p]lans is a prohib-
+ited transaction unless Cornell proves an exemption.” 86 F.
+4th 961, 978 (CA2 2023) (internal quotation marks and al-
+terations omitted). The plans, according to petitioners, also
+paid TIAA and Fidelity more than a reasonable recordkeep-
+ing fee. A reasonable fee (petitioners allege) would be ap-
+proximately $35 per participant per year, but instead the
+plans paid between $115 to $183 per participant for one
+plan and $145 to $200 per participant for the other. Ibid.
+   Respondents moved to dismiss the prohibited-transaction
+claim, and the District Court granted their motion. The
+court held that a plaintiff, in addition to pleading the pro-
+hibited-transaction       elements      contained      within
+§1106(a)(1)(C), must also allege “some evidence of self-deal-
+ing or other disloyal conduct.” 2017 WL 4358769, *10
+(SDNY, Sept. 29, 2017). Finding that petitioners failed to
+do so, the District Court dismissed their §1106(a)(1)(C)
+claim.
+   The Second Circuit affirmed, but did so on a different
+                     Cite as: 604 U. S. ____ (2025)                     5
+
+                          Opinion of the Court
+
+ground. It concluded that “the language of §1106(a)(1) can-
+not be read to demand explicit allegations of ‘self-dealing or
+disloyal conduct.’ ” 86 F. 4th, at 975. The Court of Appeals
+further observed, however, that §1106(a)(1)(C), if read “in
+isolation,” “would appear to prohibit payments by a plan to
+any entity providing it with any services.” Id., at 973.
+Other Courts of Appeals determined that such a reading
+would lead to “ ‘absurd results,’ ” the Second Circuit noted,
+because it would seemingly “ ‘prohibit fiduciaries from pay-
+ing third parties to perform essential services in support of
+a plan.’ ” Ibid.
+   Thus, to limit the reach of §1106(a)(1)(C), the Second Cir-
+cuit held the exemptions to §1106(a)’s prohibited transac-
+tions contained in §1108 imposed additional pleading re-
+quirements. The §1108 exemptions, the court reasoned,
+cannot “be understood merely as affirmative defenses to the
+conduct proscribed in §1106(a).” Id., at 975. Rather, in the
+Second Circuit’s view, “at least some of those exemptions—
+particularly, the exemption for reasonable and necessary
+transactions codified by §1108(b)(2)(A)—are incorporated
+into §1106(a)’s prohibitions,” meaning a plaintiff must af-
+firmatively plead them to survive a motion to dismiss. Ibid.
+In other words, a plaintiff alleging a prohibited transaction
+under §1106(a)(1)(C) must also allege “that [the] transac-
+tion was unnecessary or involved unreasonable compensa-
+tion.” Id., at 975 (emphasis deleted) (citing §§1106(a)(1)(C),
+1108(b)(2)(A)). Concluding that petitioners had not done so,
+the Court of Appeals affirmed the dismissal of their
+§1106(a)(1)(C) claim.3 In reaching that conclusion, the Sec-
+ond Circuit split from the Eighth Circuit, which has held
+——————
+  3 Although petitioners alleged that respondents paid more than a “rea-
+
+sonable” fee for TIAA and Fidelity’s recordkeeping services, see supra, at
+4, the Second Circuit rejected that allegation as insufficient, reasoning
+that “it is not enough to allege that the fees were higher than some the-
+oretical alternative service.” 86 F. 4th, at 978. Whether respondents
+paid an unreasonable fee, the court explained, turned on the nature of
+6                 CUNNINGHAM v. CORNELL UNIV.
+
+                           Opinion of the Court
+
+that no additional pleading requirements beyond
+§1106(a)(1) apply to prohibited-transaction claims. See
+Braden v. Wal-Mart Stores, Inc., 588 F. 3d 585, 600–602
+(CA8 2009).
+   This Court granted certiorari to decide whether a plain-
+tiff can state a claim for relief by simply alleging that a plan
+fiduciary engaged in a transaction proscribed by
+§1106(a)(1)(C), or whether a plaintiff must plead allega-
+tions that disprove the applicability of the §1108(b)(2)(A)
+exemption. 603 U. S. ___ (2024). The Court concludes that
+plaintiffs need do no more than plead a violation of
+§1106(a)(1)(C), and we therefore reverse.
+                                II
+    Section 1106(a)(1)(C) contains three elements. It prohib-
+its fiduciaries from (1) “caus[ing a] plan to engage in a
+transaction” (2) that the fiduciary “knows or should know
+. . . constitutes a direct or indirect . . . furnishing of goods,
+services, or facilities” (3) “between the plan and a party in
+interest.” Section 1106(a)(1)(C)’s bar is categorical: Any
+transaction that satisfies its three elements is presump-
+tively unlawful. Nothing in that section removes from its
+categorical bar transactions that were necessary for the
+plan or involved reasonable compensation. Accordingly,
+under §1106(a)(1)(C), plaintiffs need only plausibly allege
+each of those elements of a prohibited-transaction claim.
+    The exemptions set forth in a different part of the statute,
+§1108, do not impose additional pleading requirements to
+make out a §1106(a)(1) claim. See §1106(a) (prohibiting
+——————
+the services TIAA and Fidelity provided, as “it is not unreasonable to pay
+more for superior services.” Ibid. The Court of Appeals thus affirmed
+the dismissal of petitioners’ §1106(a)(1)(C) claim because (in its view) pe-
+titioners “failed to allege any facts going to the relative quality of the
+recordkeeping services provided, let alone facts that would suggest the
+fees were ‘so disproportionately large’ that they ‘could not have been the
+product of arm’s-length bargaining.’ ” Id., at 978–979 (quoting Jones v.
+Harris Associates L. P., 559 U. S. 335, 346 (2010)).
+                  Cite as: 604 U. S. ____ (2025)              7
+
+                      Opinion of the Court
+
+certain transactions between the plan and a party in inter-
+est “[e]xcept as provided in section 1108”). There is a well-
+settled “general rule of statutory construction that the bur-
+den of proving justification or exemption under a special ex-
+ception to the prohibitions of a statute generally rests on
+one who claims its benefits.” FTC v. Morton Salt Co., 334
+U. S. 37, 44–45 (1948). In particular, when a statute has
+“exemptions laid out apart from the prohibitions,” and the
+exemptions “expressly refe[r] to the prohibited conduct as
+such,” the exemptions ordinarily constitute “affirmative de-
+fense[s]” that are “entirely the responsibility of the party
+raising” them. Meacham v. Knolls Atomic Power Labora-
+tory, 554 U. S. 84, 91, 95 (2008). That describes exactly how
+ERISA is structured: The exemptions to §1106(a) prohib-
+ited transactions are enumerated separately in §1108, and
+§1108 recognizes that the substantive “prohibitions” are
+“provided in section 1106” of the statute. §1108(b).
+   This Court’s decision in Meacham is instructive. At issue
+there were the Age Discrimination in Employment Act’s
+general prohibitions on age discrimination, §§623(a)–(c),
+(e), which “are subject to a separate provision, §623(f ),
+[that] creat[es] exemptions for employer practices ‘other-
+wise prohibited under subsectio[n] (a), (b), (c), or (e).’ ” 554
+U. S., at 91. Like §1108(b)(2)(A), the §621(f ) exemption in
+Meacham shielded defendants from liability if the chal-
+lenged conduct was “reasonable.” Compare §1108(b)(2)(A)
+with §623(f )(1). Given Congress’s structural choice to place
+the prohibited conduct and the relevant exemptions in dif-
+ferent statutory provisions, this Court deemed it “no sur-
+prise” that the exemptions presented “ ‘affirmative de-
+fenses.’ ” Id., at 91. Accordingly, Meacham held that the
+ADEA assigned to defendants both the burden to “produce
+evidence raising the defense” of reasonableness and the
+burden to “persuade the factfinder of its merit.” Id., at 87.
+   The same is true of ERISA. Like the exemptions at issue
+8                 CUNNINGHAM v. CORNELL UNIV.
+
+                           Opinion of the Court
+
+in Meacham, the §1108 exemptions are “writ[ten] in the or-
+thodox format of an affirmative defense.” Id., at 102. Un-
+derstood as affirmative defenses, the §1108 exemptions
+must be pleaded and proved by the defendant who seeks to
+benefit from them. See Taylor v. Sturgell, 553 U. S. 880,
+907 (2008) (“Ordinarily, it is incumbent on the defendant to
+plead and prove [an affirmative] defense”). A plaintiff need
+only allege the three elements within §1106(a)(1)(C), not-
+withstanding the potential applicability of a §1108 exemp-
+tion, because an “affirmative defense” is “not something the
+plaintiff must anticipate and negate in her pleading.” Perry
+v. Merit Systems Protection Bd., 582 U. S. 420, 435, n. 9
+(2017); see also Fed. Rule Civ. Proc. 8(c) (requiring defend-
+ants, “[i]n responding to a pleading,” to “affirmatively state
+any . . . affirmative defense”).
+   Of course, a plaintiff will not prevail by simply pleading,
+and later proving, the §1106(a) elements. If a defendant
+establishes that a §1108 exemption applies, the
+§1106(a)(1)(C) claim will ultimately fail. As relevant here,
+this means that if respondents establish that a transaction
+prohibited under §1106(a)(1)(C) was for “services necessary
+for the . . . operation of the plan” and “no more than reason-
+able compensation [was] paid therefor,” §1108(b)(2), they
+cannot be held liable for causing the plan to enter into the
+transaction. At the pleading stage, however, it suffices for
+a plaintiff plausibly to allege the three elements set forth in
+§1106(a)(1)(C).4
+——————
+    4 In some circumstances, principles from the common law of trusts can
+
+help inform this Court’s interpretation of ERISA. See Varity Corp. v.
+Howe, 516 U. S. 489, 496 (1996); accord, LaRue v. DeWolff, Boberg & As-
+sociates, Inc., 552 U. S. 248, 254, n. 4 (2008) (“[T]he common law of trusts
+. . . informs our interpretation of ERISA’s fiduciary duties”). Here, those
+principles would have been consistent with the Court’s holding, insofar
+as trustees were “under a duty to the beneficiary not to delegate to others
+the doing of acts which the trustee can reasonably be required personally
+to perform.” Restatement (Second) of Trusts §171, p. 373 (1957) (boldface
+deleted). A trustee could nonetheless delegate certain duties to an
+                      Cite as: 604 U. S. ____ (2025)                       9
+
+                           Opinion of the Court
+
+                              III
+                               A
+   Against this backdrop, respondents nevertheless insist
+that §1106(a)(1)(C) is best read to incorporate as an element
+the exception set out in §1108(b)(2)(A) and that ERISA
+plaintiffs must therefore plead and prove the exemption’s
+inapplicability. To support that construction, they high-
+light that §1106(a) begins by stating that its prohibitions
+apply “[e]xcept as provided in section 1108.” That proviso,
+they contend, shows that §1106(a)(1)(C) and §1108(b)(2)(A)
+together define a prohibited transaction, such that plain-
+tiffs bear the burden of pleading and proving the elements
+in both provisions.
+   This alternative reading of the statute suffers from sev-
+eral flaws. For one, it ignores that Congress wrote the
+§1108 exemptions “in the orthodox format of an affirmative
+defense,” with the exemptions “laid out apart” from the pro-
+hibitions in separate statutory provisions. Meacham, 554
+U. S., at 91, 102. As discussed above, supra, at 6–8, that
+——————
+agency only upon a showing that “the agent’s employment was neces-
+sary, that the trustee entered into a reasonable contract of employment
+with the agent, and that the agent rendered services to the trust.” A.
+Hess, G. Bogert, & G. Bogert, Law of Trusts and Trustees §555, p. 54 (3d
+ed. 2024). Critically, the common law of trusts “placed the burden
+squarely on the trustee” to make that showing. Ibid. The Court’s opinion
+does not rest on the common law of trusts, however. First, ERISA plans
+are sufficiently complex so that a question would arise as to whether fi-
+duciaries can perform all necessary tasks themselves without plans in-
+curring greater costs. Second, ERISA allows fiduciaries to delegate cer-
+tain duties, see, e.g., 29 U. S. C. §1105(c) (describing a mechanism “for
+named fiduciaries to designate persons other than named fiduciaries to
+carry out fiduciary responsibilities”), and requires engaging the services
+of outside third parties in certain contexts, see, e.g., §1023(a)(3) (provid-
+ing that an administrator of a plan “shall engage . . . an independent
+qualified public accountant” to conduct examinations of financial state-
+ments and records). Third, the text and structure of ERISA establish
+that fiduciaries bear the burden of pleading and proving §1108’s exemp-
+tions.
+10             CUNNINGHAM v. CORNELL UNIV.
+
+                      Opinion of the Court
+
+structural decision forecloses respondents’ argument.
+   If there were any remaining doubt, the headings of §1106
+and §1108 confirm that it is the former, on its own, that
+defines the offense. See Yates v. United States, 574 U. S.
+528, 540 (2015) (plurality opinion) (“ ‘[T]he title of a statute
+and the heading of a section are tools available for the res-
+olution of a doubt about the meaning of a statute’ ”). Section
+1106’s heading is plain: “Prohibited transactions.” (Boldface
+deleted.) Section 1108, meanwhile, reads: “Exemptions
+from prohibited transactions.” (Boldface deleted.) That
+Congress chose to label §1108 as “exemptions” suggests
+that, even if §1108(b)(2)(A) were best understood as an ele-
+ment of a §1106(a)(1)(C) claim (and not an affirmative de-
+fense), the statute should still be read to place on ERISA
+defendants the burden of proving the exemption’s applica-
+bility. That is because this Court has held that “the burden
+of persuasion as to certain elements of a plaintiff ’s claim
+may be shifted to defendants, when such elements can
+fairly be characterized as affirmative defenses or exemp-
+tions.” Schaffer v. Weast, 546 U. S. 49, 57 (2005) (emphasis
+added).
+   Structural considerations also weigh against respond-
+ents’ reading of §1106(a)(1)(C) and §1108(b)(2)(A). Re-
+spondents’ interpretation of the “except as provided” lan-
+guage would imply that all of the §1108 exemptions are
+incorporated as elements of every §1106(a) violation. After
+all, each of the exemptions is set forth in §1108, and the
+“[e]xcept as provided in section 1108” language applies to
+§1106(a) in its entirety. §1106(a); cf. Cyan, Inc. v. Beaver
+County Employees Retirement Fund, 583 U. S. 416, 428
+(2018) (rejecting an interpretation that “cherry pick[ed]
+from the material covered by the statutory cross-reference,”
+since “the except clause points to ‘section 77p’ as a whole—
+not to paragraph 77p(f )(2)”). Respondents fail to offer a
+principled basis for treating some, but not all, of the §1108
+                  Cite as: 604 U. S. ____ (2025)            11
+
+                      Opinion of the Court
+
+exemptions as elements incorporated into §1106(a)’s prohi-
+bitions. Yet Congress intended for §1106(a) to create “per se
+prohibitions on transacting with a party in interest.” Har-
+ris Trust, 530 U. S., at 252; see id., at 241–242. Incorporat-
+ing all 21 §1108 exemptions as elements into the otherwise
+straightforward prohibitions in §1106(a) would plainly
+frustrate Congress’s intent to create a “categorica[l]” bar.
+Keystone, 508 U. S., at 160.
+   Indeed, because §1106(a), by its terms, sets out per se pro-
+hibitions, it would make little sense to put the onus on
+plaintiffs to plead and disprove any potentially relevant
+separate §1108 exemptions. That burden, moreover, would
+not be limited to those statutory exemptions: Beyond the 21
+exemptions enumerated in §1108, the Secretary of Labor
+has promulgated hundreds of regulatory exemptions pursu-
+ant to §1108. See §1108(a) (authorizing the Secretary to
+“grant a conditional or unconditional exemption of any fi-
+duciary or transaction, or class of fiduciaries or transac-
+tions, from all or part of the restrictions imposed by sec-
+tio[n] 1106”); see also Brief for United States as Amicus
+Curiae 3, and n. 1. When statutory exceptions “are numer-
+ous,” “fairness usually requires that the adversary give no-
+tice of the particular exception upon which it relies and
+therefore that it bear the burden of pleading.” 2 R. Mostel-
+ler et al., McCormick on Evidence §337, p. 699 (8th ed.
+2020); cf. NLRB v. Kentucky River Community Care, Inc.,
+532 U. S. 706, 711 (2001). That Congress enumerated 21
+separate exceptions and then authorized the Secretary to
+add additional classes of exempted transactions thereto
+only heightens the fairness concern, as respondents’ pro-
+posed approach would require plaintiffs to plead and dis-
+pute myriad exceptions before knowing which of them the
+defendant will seek to invoke. That would be especially il-
+logical here, where several of the §1108 exemptions turn on
+facts one would expect to be in the fiduciary’s possession.
+See, e.g., §1108(b)(16) (exempting transactions involving
+12             CUNNINGHAM v. CORNELL UNIV.
+
+                      Opinion of the Court
+
+the purchase or sale of securities or other property between
+a plan and a party in interest, provided the transaction oc-
+curred over certain approved platforms and complied with
+applicable rules of the Securities and Exchange Commis-
+sion, the price and compensation reflect an arm’s-length
+transaction, and the plan fiduciary received notice of the
+execution of such transaction through the approved plat-
+form, among other criteria); §1108(b)(19) (exempting cer-
+tain prohibited “cross-trading” transactions based on the
+satisfaction of nine separate conditions related to a plan
+manager’s dealings and receipt of information from an in-
+vestment manager).
+                               B
+   Respondents’ argument from precedent is similarly una-
+vailing. Respondents rely on this Court’s decision in United
+States v. Cook, 17 Wall. 168 (1872), to support their con-
+struction of §1108(b)(2)(A) as an additional element of a
+§1106(a)(1)(C) claim. Cook held that, “[w]here a statute de-
+fining an offence contains an exception,” the pleadings must
+allege that the prohibited conduct does not fall within the
+exception whenever the exception “is so incorporated with
+the language defining the offence that the ingredients of the
+offence cannot be accurately and clearly described if the ex-
+ception is omitted.” Id., at 173. In respondents’ telling,
+§1106(a)(1)(C) is the kind of statute the Court contemplated
+in Cook. Respondents aver that it is routine for service pro-
+viders to “perform many necessary and valuable functions
+for plan participants and fiduciaries,” such as “offer[ing] in-
+vestment funds and platforms, investment assistance, and
+recordkeeping services,” as well as “perform[ing] critical ac-
+counting and legal functions.” Brief for Respondents 11.
+Many of those transactions are legal, respondents main-
+tain, even though they fall within the scope of
+§1106(a)(1)(C), because they are “reasonable arrange-
+ments” that are “necessary for the . . . operation of the plan”
+                  Cite as: 604 U. S. ____ (2025)             13
+
+                      Opinion of the Court
+
+and      involve     “reasonable     compensation”        under
+§1108(b)(2)(A). Thus, in respondents’ view, §1108(b)(2)(A)
+is a missing “ingredien[t]” “incorporated with the language”
+of a §1106(a)(1)(C) violation, for the lawfulness of these
+transactions will often turn on their necessity and reasona-
+bleness. Cook, 17 Wall., at 173.
+    Respondents ignore, however, that this Court has said
+Cook created “a rule of criminal pleading” for indictments
+intended to ensure that defendants have fair notice “of
+every fact which is legally essential to the punishment to be
+inflicted.” United States v. Reese, 92 U. S. 214, 232 (1876)
+(emphasis added). Indeed, Cook “construed” the “constitu-
+tional right ‘to be informed of the nature and cause of ’ ” a
+criminal accusation. United States v. Cruikshank, 92 U. S.
+542, 557–558 (1876). Hence, it rested on constitutional con-
+siderations not present in the civil context. Moreover, the
+Court has applied the Cook rule narrowly, such as when an
+exception to a criminal offense is contained within the same
+sentence of the provision defining the offense. See, e.g.,
+United States v. Britton, 107 U. S. 655, 669–670 (1883);
+United States v. Vuitch, 402 U. S. 62, 67–68, 70 (1971).
+Even in the criminal context, it remains a “ ‘settled rule’ ”
+“ ‘that an indictment or other pleading . . . need not negative
+the matter of an exception made by a proviso or other dis-
+tinct clause.’ ” Dixon v. United States, 548 U. S. 1, 13 (2006).
+Cook is thus of no help to respondents.
+                               C
+   Lastly, respondents contend that there will be an ava-
+lanche of meritless litigation if disproving the applicability
+of §1108(b)(2)(A) is not treated as a required element of
+pleading §1106(a)(1)(C) violations. ERISA plans, after all,
+often have thousands of participants and hold millions of
+dollars in assets. The “realities of modern trust administra-
+tion,” respondents attest, therefore require fiduciaries to
+transact with service providers. Brief for Respondents 47;
+14             CUNNINGHAM v. CORNELL UNIV.
+
+                      Opinion of the Court
+
+see also Law of Trusts and Trustees §555, at 48 (“[E]xpect-
+ing a trustee to personally perform every single act neces-
+sary to execute a modern trust not only is unreasonable but
+may not even be the best way to assure efficient and knowl-
+edgable administration of the trust”). To the extent such
+transactions fall within the scope of §1106(a)(1)(C), re-
+spondents argue, most would be lawful in light of
+§1108(b)(2)(A)’s exemption for “necessary” and “reasonable”
+transactions. Yet if plaintiffs must plead only that a trans-
+action barred by §1106(a)(1)(C)’s plain text occurred, re-
+spondents argue, plaintiffs could too easily get past the mo-
+tion-to-dismiss stage and subject defendants to costly and
+time-intensive discovery. Such meritless litigation, re-
+spondents claim, would harm the administration of plans
+and force plan fiduciaries and sponsors to bear most of the
+associated costs.
+   These are serious concerns but they cannot overcome the
+statutory text and structure. Here, Congress “set the bal-
+ance” in “creating [an] exemption and writing it in the or-
+thodox format of an affirmative defense,” so the Court must
+“read it the way Congress wrote it.” Meacham, 554 U. S.,
+at 101–102.
+   To the extent future plaintiffs do bring barebones
+§1106(a)(1)(C) suits, district courts can use existing tools at
+their disposal to screen out meritless claims before discov-
+ery. For instance, if a fiduciary believes an exemption ap-
+plies to bar a plaintiff ’s suit and files an answer showing as
+much, Federal Rule of Civil Procedure 7 empowers district
+courts to “insist that the plaintiff ” file a reply “ ‘put[ting]
+forward specific, nonconclusory factual allegations’ ” show-
+ing the exemption does not apply. Crawford-El v. Britton,
+523 U. S. 574, 598 (1998); cf. Cole v. Carson, 935 F. 3d 444,
+446 (CA5 2019) (“[C]ourts have developed procedures and
+pretrial practices, including . . . a reply to an answer under
+Rule 7(a) on order of the district court, particularized to ad-
+dress the defense of immunity”). Lower courts may then
+                  Cite as: 604 U. S. ____ (2025)            15
+
+                      Opinion of the Court
+
+dismiss the suits of those plaintiffs who cannot plausibly do
+so. District courts must also, consistent with Article III
+standing, dismiss suits that allege a prohibited transaction
+occurred but fail to identify an injury. Cf. Thole v. U. S.
+Bank N. A., 590 U. S. 538, 544 (2020) (explaining that “ ‘Ar-
+ticle III standing requires a concrete injury even in the con-
+text of a statutory violation’ ” and affirming the dismissal of
+an ERISA claim because “plaintiffs . . . failed to plausibly
+and clearly allege a concrete injury” (quoting Spokeo, Inc. v.
+Robins, 578 U. S. 330, 341 (2016)). For §1106(a)(1)(C)
+claims that do proceed past the motion to dismiss stage,
+moreover, district courts retain discretionary authority to
+expedite or limit discovery as necessary to mitigate unnec-
+essary costs. Additionally, in cases where an exemption ob-
+viously applies, and a plaintiff and his counsel lack a good-
+faith basis to believe otherwise, Rule 11 may permit a dis-
+trict court to impose sanctions against them. Lastly, it
+bears mention that ERISA itself gives district courts an ad-
+ditional tool to ward off meritless litigation: cost shifting.
+See §1132(g)(1) (“[T]he court in its discretion may allow a
+reasonable attorney’s fee and costs of action to either
+party”). District courts therefore have available a variety
+of means to address the concerns raised by respondents and
+the court below.
+                         *    *     *
+  The Court today holds that plaintiffs seeking to state a
+§1106(a)(1)(C) claim must plausibly allege that a plan fidu-
+ciary engaged in a transaction proscribed therein, no more,
+no less. Plaintiffs are not required to plead and prove that
+the myriad §1108 exemptions pose no barrier to ultimate
+relief. The judgment of the Second Circuit is reversed, and
+the case is remanded for further proceedings consistent
+with this opinion.
+                                             It is so ordered.
+                     Cite as: 604 U. S. ____ (2025)                   1
+
+                         ALITO, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+                             _________________
+
+                             No. 23–1007
+                             _________________
+
+
+      CASEY CUNNINGHAM, ET AL., PETITIONERS
+          v. CORNELL UNIVERSITY, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SECOND CIRCUIT
+                            [April 17, 2025]
+
+   JUSTICE ALITO, with whom JUSTICE THOMAS and
+JUSTICE KAVANAUGH join, concurring.
+   I join all of the opinion of the Court for the simple reason
+that 29 U. S. C. §1108 sets out affirmative defenses, and it
+is black letter law that a plaintiff need not plead affirmative
+defenses.1 See Fed. Rule Civ. Proc. 8(c); Taylor v. Sturgell,
+553 U. S. 880, 907 (2008). Here, as the Court points out,
+§1108 sets out a long list of affirmative defenses, and it
+would make no sense to require a complaint to anticipate
+and attempt to refute all the affirmative defenses that a de-
+fendant might raise.
+   Unfortunately, this straightforward application of estab-
+lished rules has the potential to cause—and, indeed, I expect
+it will cause—untoward practical results. The administra-
+tor of an ERISA plan like the one at issue will almost al-
+ways find it necessary to employ outside firms to provide
+services that the plan needs. When it does so, these outside
+firms become “ ‘part[ies] in interest’ ” under the terms of
+ERISA, see §1002(14)(B), and as a result, their provision of
+——————
+  1 The decision does not rely on the common law of trusts. As the Court
+
+points out, the Employee Retirement Income Security Act of 1974
+(ERISA) departs in important ways from that body of case law; ERISA
+plans like Cornell’s are vastly different from garden variety common law
+trusts; and in my judgment, reliance here on the common law of trusts
+would be unhelpful and, indeed, misleading.
+2             CUNNINGHAM v. CORNELL UNIV.
+
+                      ALITO, J., concurring
+
+services to the plan is unlawful under §1106 unless one of
+the exemptions in §1108 applies. The upshot is that all that
+a plaintiff must do in order to file a complaint that will get
+by a motion to dismiss under Federal Rule of Civil Proce-
+dure 12(b)(6) is to allege that the administrator did some-
+thing that, as a practical matter, it is bound to do.
+  In this case, for example, Cornell set up a plan under
+which employees could invest in the Teachers Insurance
+and Annuity Association of America-College Retirement
+Equities Fund and Fidelity funds, and then those compa-
+nies provided the recordkeeping services for their own
+funds, as they customarily do. There is nothing nefarious
+about any of that. Yet under our decision that is all that a
+plaintiff must plead to survive a motion to dismiss. And, in
+modern civil litigation, getting by a motion to dismiss is of-
+ten the whole ball game because of the cost of discovery.
+Defendants facing those costs often calculate that it is effi-
+cient to settle a case even though they are convinced that
+they would win if the litigation continued. See J. Beisner,
+Discovering a Better Way: The Need for Effective Civil Lit-
+igation Reform, 60 Duke L. J. 547, 550 (2010); see also Dura
+Pharmaceuticals, Inc. v. Broudo, 544 U. S. 336, 347 (2005);
+Chubb, Excessive Litigation Over Excessive Plan Fees
+in 2023, pp. 2–3 (Apr. 2023), https://www.chubb.com/
+content/dam/chubb-sites/chubb-com/us-en/business-insurance/
+fiduciary-liability/pdfs/excessive-litigation-over-excessive-
+plan-fees-infographic.pdf (noting that the number of exces-
+sive plan fee cases that settle has increased six-fold since
+2016 and that these cases can “cost more to defend than to
+settle”). When that happens in a case like the one now be-
+fore us, the few plan participants named as plaintiffs and
+their attorneys get a windfall, and a cost that the adminis-
+trator incurs may be passed on to the other plan partici-
+pants.
+  With a realistic appreciation of this dynamic, the Second
+Circuit tried to formulate a rule that would weed out plainly
+                    Cite as: 604 U. S. ____ (2025)         3
+
+                        ALITO, J., concurring
+
+unmeritorious suits at the pleading stage. The court at-
+tempted to achieve an admirable goal, but established
+pleading rules do not allow that workaround.
+   In Part III–C of its opinion, the Court sets out some al-
+ternative safeguards. Perhaps the most promising of these
+is the suggestion, offered by the Solicitor General, that a
+district court may insist that a plaintiff file a reply to an
+answer that raises one of the §1108 exemptions as an af-
+firmative defense.2 Ante, at 17. It does not appear that this
+is a commonly used procedure, but the Court has endorsed
+its use in the past. See Crawford-El v. Britton, 523 U. S.
+574, 598 (1998). District courts should strongly consider
+utilizing this option—and employing the other safeguards
+that the Court describes—to achieve “the prompt disposi-
+tion of insubstantial claims.” Id., at 597. Whether these
+measures will be used in a way that adequately addresses
+the problem that results from our current pleading rules re-
+mains to be seen.
+
+
+
+
+——————
+ 2 See Brief for United States as Amicus Curiae 30–31.

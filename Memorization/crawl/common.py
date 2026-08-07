@@ -15,7 +15,7 @@ CONTACT = os.environ.get("CRAWL_CONTACT", "").strip()
 USER_AGENT = f"FinAITrainingData research crawler ({CONTACT})" if CONTACT else "FinAITrainingData research crawler"
 
 # Per-host minimum seconds between requests. Deliberately conservative.
-HOST_DELAY = {"www.sec.gov": 0.5, "www.finra.org": 1.5, "www.courtlistener.com": 1.0, "_default": 1.5}
+HOST_DELAY = {"www.sec.gov": 0.5, "www.finra.org": 1.5, "www.courtlistener.com": 3.0, "_default": 1.5}
 
 
 class RateLimiter:
@@ -40,14 +40,21 @@ _limiter = RateLimiter()
 def make_session() -> requests.Session:
     s = requests.Session()
     s.headers.update({"User-Agent": USER_AGENT, "Accept-Encoding": "gzip, deflate"})
+    # respect_retry_after_header is deliberately off: a 429 carrying a large Retry-After
+    # will otherwise park the process for however long the server asks, with no ceiling.
+    # An earlier run hung for ~12h that way. Backoff is capped instead.
     retry = Retry(total=3, backoff_factor=1.5, status_forcelist=[429, 500, 502, 503, 504],
-                  allowed_methods=["GET"], respect_retry_after_header=True)
+                  allowed_methods=["GET"], respect_retry_after_header=False)
+    try:
+        retry.backoff_max = 30       # urllib3 >= 2
+    except Exception:
+        pass
     s.mount("https://", HTTPAdapter(max_retries=retry, pool_maxsize=4))
     s.mount("http://", HTTPAdapter(max_retries=retry, pool_maxsize=4))
     return s
 
 
-def fetch(session: requests.Session, url: str, *, timeout: int = 45, headers: dict | None = None):
+def fetch(session: requests.Session, url: str, *, timeout=(10, 60), headers: dict | None = None):
     """Return the response, or None on transport failure. Non-2xx responses are returned as-is."""
     _limiter.wait(url)
     try:

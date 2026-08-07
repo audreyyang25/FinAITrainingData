@@ -1,0 +1,1348 @@
+     IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+ASHOK MAYYA,                                     )
+                                                 )
+                         Plaintiff,              )
+                                                 )
+                  v.                             ) C.A. No. 2023-0382-NAC
+                                                 )
+EDWARD LEE, MATTHEW DURGIN,
+                                                 )
+JAEWOO HWANG, RONALD WASINGER,
+                                                 )
+ADAM SEXTON, CHRIS JO, BYEONG HEON
+                                                 )
+YOO, DAMON PARK, YONG SUNG PARK,
+                                                 )
+ZENITH ELECTRONICS, LLC, LG
+                                                 )
+ELECTRONICS, INC.,
+                                                 )
+                         Defendants,             )
+                                                 )
+                   and                           )
+                                                 )
+ALPHONSO INC.,                                   )
+                                                 )
+                         Nominal Defendant.      )
+                            MEMORANDUM OPINION
+
+                           Date Submitted: June 17, 2026
+                            Date Decided: July 27, 2026
+
+Bradley R. Aronstam, R. Garrett Rice, & Holly E. Newell, Ross Aronstam & Mortiz
+LLP, Wilmington, Delaware; Brian M. Burnovski, Nikolaus J. Williams, Allison
+Siesser & Zachary A. Zaremba, Davis Polk & Wardwell LLP, New York, New York;
+Counsel for Plaintiff.
+
+William M. Lafferty, Ryan D. Stottmann, Lauren K. Neal, Alec F. Hoeschel, & Phillip
+Reytan, Morris, Nichols, Arsht & Tunnell LLP, Wilmington, Delaware; Counsel for
+Defendants.
+
+Atif Khawaja, Haley S. Stern, & Mike Rusie, Kirkland & Ellis LLP, New York, New
+York; Counsel for Defendants LG Electronics, Inc. and Zenith Electronics LLC.
+
+Eric Leon & Nathan Taylor, Latham & Watkins LLP, New York, New York; Counsel
+for Defendants Edward Lee, Matthew Durgin, Jaewoo Hwang, Ronald Wasinger,
+Adam Sexton, Chris Jo, Byeong Heon Yoo, Damon Park, and Yong Sung Park.
+
+Cook, V.C.
+       In 2020, a major electronics company acquired a controlling stake in a tech
+
+startup in the digital advertising space. As part of that investment, the startup’s
+
+now-minority stockholders secured certain rights regarding the company’s
+
+management and their ability to sell their stock.        The parties effectuated the
+
+investment via a series of contracts with broad arbitration provisions. Since then,
+
+the minority stockholders have clashed with the new controller and its affiliated
+
+directors regarding the startup’s management, and the bargained-for liquidity rights.
+
+       That dispute led to this action, which (1) seeks to determine the validity of a
+
+written consent removing directors and (2) asserts various derivative breach of
+
+fiduciary duty claims. Having resolved the dispute over the written consent, the next
+
+step is to consider the fiduciary duty claims. Before addressing the merits, the Court
+
+must determine where those fiduciary duty claims should be heard. Defendants seek
+
+to arbitrate Plaintiff’s claims under the initial investment agreements. Yet, the Court
+
+concludes that, because 8 Del. C. § 122(18) was enacted after this action commenced
+
+and thus does not apply, the corporation lacked authority to agree in advance to
+
+litigate the plaintiff’s fiduciary duty claims exclusively outside of Delaware. Namely,
+
+under the law applicable to this case, the startup could not agree via contract to route
+
+Mayya’s fiduciary duty claims to arbitration. Thus, Defendants’ motion to compel
+
+arbitration is denied. Separately, the Court concludes that Plaintiff made a prima
+
+facie showing that the investing company implicitly consented to the Court’s personal
+
+jurisdiction in this case.
+
+
+
+
+                                           2
+                                   I.   BACKGROUND
+
+A. Factual Background
+
+        Nominal Defendant Alphonso Inc. (“Alphonso”) provides technology for smart
+
+TVs to help advertisers reach consumers and measure the impact of their ad
+
+campaigns. 1 Alphonso’s charter has a forum selection clause (“Charter Forum
+
+Selection Clause”) that reads in part:
+
+        Unless [Alphonso] consents in writing to the selection of an alternative
+        forum, the Court of Chancery in the State of Delaware shall be the sole
+        and exclusive forum for any stockholder . . . to bring (i) any derivative
+        action . . . on behalf of [Alphonso], (ii) any action asserting a claim of
+        breach of fiduciary duty owed by any director [or] officer . . . to
+        [Alphonso] or [Alphonso’s] stockholders, . . . or (iv) any action asserting
+        a claim against [Alphonso], its directors [or] officers [] [] governed by the
+        internal affairs doctrine[.] 2
+
+Plaintiff Ashok Mayya has been an Alphonso stockholder since 2013 and beneficially
+
+owns 21,563 shares of its common stock. 3
+
+        Defendant Zenith Electronics, LLC (“Zenith”) is a Delaware limited liability
+
+company, wholly owned by non-party LG Electronics U.S.A., Inc. (“LG US”), which is
+
+an indirect, wholly owned subsidiary of Defendant LG Electronics, Inc. (“LGE”). 4
+
+Zenith owns 59.5% of Alphonso’s common stock on a fully diluted basis and is the
+
+company’s controlling stockholder. 5 As alleged, “all decisions related to Alphonso are
+
+
+
+
+1 Dkt. 347 (“SAC”) ¶ 36.   Citations to “Dkt. ____” refer to the docket in this matter.
+2 Dkt. 280 (“MTC Opening Br.”), Ex. B (“Alphonso Charter”) Art. XII.
+
+3 SAC ¶ 11. That figure includes stock held by Mayya Consulting LLC, an entity controlled
+
+by Mayya and his wife. Id.
+4 Id. ¶¶ 16-17.   LGE is a major electronics and TV manufacturer. Id. ¶ 37.
+5 Id. ¶ 16.
+
+
+
+                                                3
+controlled by executives at LGE, which is Alphonso’s ultimate controller.” 6
+
+Defendants Chris Jo, Edward Lee, Jaewoo Hwang, Ronald Wasinger, Matthew
+
+Durgin, Damon Park, Byeong Heon Yoo, and Yong Sung Park (collectively, “Director
+
+Defendants”) served as Zenith-appointed members of Alphonso’s board of directors
+
+(“Board”). 7 Defendant Adam Sexton was Alphonso’s interim CEO from late 2022 to
+
+early 2023. 8
+
+        In 2020, LGE sought to revitalize its struggling internal “connected TV
+
+advertising technology” business by acquiring a controlling stake in Alphonso
+
+through Zenith (“Investment”). 9 Zenith purchased the stock needed to secure control
+
+over Alphonso from (1) Alphonso itself, (2) Alphonso executives, and (3) Alphonso’s
+
+Series A investors. 10 Zenith effectuated its purchase of stock from Alphonso’s Series
+
+
+
+
+6 Id. ¶¶ 16-17 (“LGE and its senior leadership team . . . make and have made all material
+
+decisions for, and exercise and have exercised control over, Zenith in respect of its controlling
+equity stake in Alphonso. Zenith acts as LGE’s agent with respect to all matters relating to
+Alphonso. As a result, LGE is the ultimate controlling stockholder of Alphonso.”).
+7 Id. ¶¶ 18-25.  In addition to serving on the Board, the Director Defendants held various
+executive roles at LGE, LG US, and Alphonso. Id. ¶¶ 18 (Jo “was a senior vice president at
+LGE and was head of the Platform business in LGE’s Home Entertainment division . . . which
+is responsible for overseeing Alphonso.”), 19 (“Lee was [] a Senior Director for LG webOS Ad
+Business Development at LGE.”), 20 (“Hwang was [] the Executive Director and CFO at LG
+US.”), 21 (“Wasinger was the Vice President and General Counsel at LG US.”), 22 (“Durgin
+was the Senior Director for North American Smart TV Partnerships at LG US.”), 23 (Damon
+“Park has [] served as the Global Manager for Global Advertisement Business and LG
+Channels at LGE.”), 24 (“Yoo also served as Executive Director and CFO at LG US.”), 25
+(Yong Sung “Park also served at Legal Counsel at LGE and Alphonso.”).
+8 Id. ¶¶ 72-74, 79-80.
+
+9 Id. ¶ 37.
+
+10 Dkt. 362 (“Supp. Opening Br.”), Exs. A-C.
+
+
+
+                                               4
+A investors in a Series A Agreement. 11 The Series A Agreement contains an
+
+arbitration clause (“Series A Arbitration Clause”) that reads, in part:
+
+         Any controversy, claim or question of interpretation in dispute between
+         [Zenith], on one hand, and any Seller or [Alphonso] on the other hand . . .
+         arising out of or relating to this Agreement, any document contemplated
+         by this Agreement or the transactions contemplated herein (including
+         as to arbitrability hereunder), shall be settled by final and binding
+         arbitration in New York, New York under the then-effective rules of the
+         International Chamber of Commerce (“ICC”)[.] 12
+
+As part of the Investment, “LGE oversaw the amendment of Alphonso’s charter,”
+
+(“Charter Amendment”). 13 LGE proposed and drafted the Charter Amendment,
+
+which did not alter the Charter Forum Selection Clause. 14 Alphonso’s adoption of the
+
+Charter Amendment was a condition to LGE’s Investment. 15
+
+         As an Alphonso Series A investor, Mayya was invited to sell stock to Zenith as
+
+part of the Investment. 16 On December 3, 2020, the Series A holders received an
+
+email disclosing that “LG Electronics . . . through its subsidiary, Zenith . . . will
+
+acquire a majority of the shares of Alphonso.” 17 That email stated that “[a]n element
+
+of that transaction is the opportunity for each Series A holder to sell 100% of their
+
+shares to Zenith.” 18 The email also provided the “high level terms of Zenith’s
+
+
+
+11 Id., Ex. A (“Series A Agreement”).
+
+12 Id. § 9.9(a).
+
+13 SAC ¶ 44.
+
+14 See Dkt. 312 (“MTD Opp’n”), Ex. 1 at 1.
+
+15 Id., Ex. 2 at 1-2.
+
+16 See Dkt. 373 (“Supp. Reply Br.”), Ex. H.
+
+17 Id.
+
+18 Id.
+
+
+
+                                              5
+purchase of Series A shares” and “the latest drafts of the transaction documents,”
+
+including the “Restated Charter.” 19 Ultimately, Mayya sold 25,830 shares to Zenith
+
+and signed the Series A Agreement as a “Seller.” 20
+
+         In connection with the Investment, “certain significant minority stockholders
+
+of [Alphonso]” (“Key Holders”), Alphonso, and Zenith entered into a stockholders’
+
+agreement, dated December 23, 2020 (“SHA”). 21 Mayya is not a Key Holder or a party
+
+to the SHA. 22 The SHA contains an arbitration clause materially identical to the
+
+Series A Arbitration Clause (“SHA Arbitration Clause”). 23 In the SHA “the Key
+
+Holders secured certain rights intended to protect minority stockholders’ interest in
+
+[Alphonso].” 24 Several of those rights are central to the parties’ dispute. 25 First, the
+
+SHA allows the minority stockholders to “demand that Alphonso go public” beginning
+
+in 2024. 26 If no IPO occurs after such a demand, Alphonso must “conduct annual
+
+
+
+
+19 Id.
+
+20 Id.; Series A Agreement at Signature Pages.
+
+21 SAC ¶¶ 3, 38; see SAC, Ex. 1 (“SHA”). Several of the Key Holders “are founders and/or were
+
+executives of Alphonso until their termination on December 16, 2022.” SAC ¶¶ 14-15. That
+group includes Ashsh Chordia, Lampros Kalampoukas, and Ravi Sarma, who served as
+plaintiffs in this action before Mayya intervened and substituted in as plaintiff. See Dkt. 344;
+Dkt. 345.
+22 See SHA, Ex. B (listing the Key Holders).
+
+23 Id. § 13.4(a) (“[A]ny controversy, claim or question of interpretation in dispute between any
+
+of the Parties . . . arising out of or relating to this Agreement, any document contemplated by
+this Agreement or the transactions contemplated herein (including as to arbitrability
+hereunder), shall be settled by final and binding arbitration in New York, New York under
+the then-effective rules of the International Chamber of Commerce (“ICC”)[.]”).
+24 SAC ¶¶ 3, 38.
+
+25 See, e.g., SAC ¶¶ 135-56.
+
+26 Id. ¶ 39.
+
+
+
+                                               6
+tender offers to purchase at least one third of the total minority-held shares and
+
+options in existence at the time of [the] [I]nvestment, at fair market value, in each of
+
+2024, 2025, and 2026.” 27 Second, the SHA allows the Key Holders to appoint three
+
+members of the Board, while LGE appoints the remaining four Board members. 28
+
+Third, the SHA allows the Key Holders to veto certain governance decisions, as “the
+
+affirmative vote or consent of at least one [Key Holder appointed] Director is
+
+necessary to (i) approve any related-party transaction with Zenith or its affiliates; (ii)
+
+approve any postponements of the IPO beyond December 2025; (iii) modify or
+
+postpone the tender offer schedule; and (iv) determine fair market value for the
+
+tender offers.” 29 Fourth, so long as some Key Holders are working at Alphonso, a
+
+majority of the employee Key Holders must consent to amend or terminate the SHA. 30
+
+       In the two years following the Investment, Alphonso’s business grew
+
+significantly. 31 On April 26, 2021, Alphonso and LGE entered into an agreement
+
+under which LGE sold ad inventory to Alphonso (“Inventory Agreement”). 32 The
+
+parties determined the Inventory Agreement’s pricing term via a “comprehensive
+
+transfer pricing study,” which Mayya alleges LGE improperly influenced for its
+
+
+
+
+27 Id.; see SHA § 11.
+
+28 SAC ¶ 40; see SHA §§ 10.1, 10.2.
+
+29 SAC ¶ 41; see SHA § 10.5(d).
+
+30 SAC ¶ 42; see SHA §§ 13.1(b), 13.8.
+
+31 SAC ¶¶ 45-47.
+
+32 Id. ¶ 48; SAC, Ex. 2; Ex. 3.
+
+
+
+                                            7
+benefit. 33 Unsatisfied with the results of the pricing study, LGE sought to renegotiate
+
+and raise the prices Alphonso paid for ad inventory based on “a host of shifting,
+
+pretextual rationales[.]” 34 Mayya insists LGE’s true goal “was to stop moving money
+
+(profits) from LGE’s shareholders to Alphonso and to instead shift value back to LGE”
+
+because “LG[E] had abandoned its prior commitment to an Alphonso IPO[.]” 35 The
+
+Key Holders working at Alphonso resisted any change to the Inventory Agreement’s
+
+pricing. 36
+
+        The pricing conflict prompted Defendants to explore ways they could
+
+“eliminate minority protections in the [SHA] and seize complete control of
+
+Alphonso.” 37 Defendants developed a plan “which entailed firing the Key Holders
+
+[working at Alphonso], [] removing the [Key Holder appointed] Directors, and []
+
+terminating the [SHA] altogether – with the goal of eliminating minority liquidity
+
+rights.” 38 Defendants would then appoint new, loyal, Alphonso management to
+
+approve an LGE-favorable “pricing amendment to the Inventory Agreement.” 39 That
+
+
+
+
+33 SAC ¶¶ 49-51.     For example, Mayya alleges that “LG went so far as to pressure KPMG
+directly to revise its original transfer pricing analysis[.]” Id. ¶ 54.
+34 Id. ¶¶ 52-55.
+
+35 Id. ¶ 56.
+
+36 Id. ¶ 57.As alleged, this prompted LGE to breach the Inventory Agreement’s exclusivity
+provision and enter into agreements to sell its ad inventory to third parties. Id. ¶¶ 58-59.
+37 Id. ¶¶ 60-65.
+
+38 Id. ¶¶ 66-71.
+
+39 Id. ¶ 66.
+
+
+
+                                             8
+plan, nicknamed “Project Wall-E,” necessitated hiring an LGE-loyal CEO, Adam
+
+Sexton, to fire Key Holders the Board lacked the authority to terminate. 40
+
+        On December 16, 2022, Defendants executed Project Wall-E. 41 First, the LGE-
+
+affiliated directors caused the Board to fire most of the Key Holder Alphonso
+
+employees and name Sexton interim CEO. 42 Sexton then fired the remaining Key
+
+Holder employees. 43 LGE then “caused [] Zenith to execute a written consent . . .
+
+purporting to amend [Alphonso’s] Bylaws” and remove the Key Holder appointed
+
+directors on the Board (“December Consent”). 44
+
+        Rather than terminate the SHA, “Defendants, on behalf of Zenith, sent each of
+
+the [t]erminated Key Holders an offer to buy their shares in Alphonso for $16.64 per
+
+share.” 45     The Key Holders rejected that offer because of the “substantially
+
+undervalued price” and a desire to not “leave all other minority stockholders with
+
+illiquid stock that LG[E] could then attempt to purchase at an even cheaper price.” 46
+
+Although Defendants did not terminate the SHA, they “continued efforts to transfer
+
+value from Alphonso [] [] by amending the Inventory Agreement,” refusing to take
+
+Alphonso public, and improperly conducting the scheduled tender offers. 47 This
+
+
+40 Id. ¶¶ 68, 71-72.
+
+41 Id. ¶ 73.
+
+42 Id. ¶¶ 73-74.
+
+43 Id. ¶¶ 74, 81. “Sexton himself was fired shortly after he was hired because of significant
+
+personal issues that interfered with his ability to perform the role of interim CEO.” Id. ¶ 80.
+44 Id. ¶ 75; see id. ¶¶ 76-79 (alleging the reasons for that removal “were patently pretextual.”).
+
+45 Id. ¶¶ 82-85.
+
+46 Id. ¶ 86.
+
+47 Id. ¶¶ 91-123.
+
+
+
+                                                9
+action challenges those efforts as well as Defendants’ actions concerning Project Wall-
+
+E and the Inventory Agreement. 48
+
+B. Procedural History
+
+       A group of Key Holders, including those fired as part of Project Wall-E,
+
+initiated this action on March 30, 2023. 49 The initial complaint included (1) a claim
+
+under § 225 of the Delaware General Corporation Law (“DGCL”) to determine the
+
+Board’s composition and declare the December Consent invalid; and (2) a breach of
+
+fiduciary duty claim. 50 The Court granted the then-Plaintiffs’ unopposed motion to
+
+expedite the § 225 claim, 51 and held a two-day trial on September 20-21, 2023. 52 On
+
+January 4, 2024, following briefing and argument, the Court issued a post-trial
+
+memorandum opinion declaring the December Consent’s removal of the Key Holder
+
+designated directors invalid. 53 The then-Defendants unsuccessfully appealed the
+
+Court’s ruling on the § 225 claim to the Delaware Supreme Court. 54
+
+       Thereafter, a subset of the original Plaintiffs – Ashish Chordia, Lampros
+
+Kalampoukas, and Ravi Sarma – filed an amended complaint. 55 The amended
+
+complaint (1) removed all other prior-Plaintiffs; (2) added LGE, Yoo, Damon Park,
+
+
+
+48 Id. ¶¶ 135-65.
+
+49 See Dkt. 1 (“Compl.”).
+
+50 Id. ¶¶ 82-96.
+
+51 See Dkt. 30; Dkt. 46.
+
+52 See Dkt. 178; Dkt. 179.
+
+53 See Dkt. 206.
+
+54 See Dkt. 267.
+
+55 See Dkt. 273.
+
+
+
+                                          10
+and Yong Sung Park as Defendants; and (3) alleged a new breach of fiduciary duty
+
+claim against LGE and Zenith as well as an aiding and abetting claim against LGE
+
+and Jo. 56 Defendants moved to compel arbitration under the SHA Arbitration Clause
+
+(“MTC”) 57 and LGE moved to dismiss for lack of personal jurisdiction (“MTD,”
+
+together with the MTC, “Motions”). 58 On March 10, 2026, the Court held oral
+
+argument on the Motions. 59 At oral argument, the Court indicated to Plaintiff’s
+
+counsel that overcoming the MTC could be difficult. 60
+
+         Eight days after oral argument, Chordia, Kalampoukas, and Sarma moved to
+
+withdraw as Plaintiffs. 61 On the same day, Mayya, represented by the same counsel,
+
+filed a motion to intervene as plaintiff pursuant to Court of Chancery Rule 24. 62 On
+
+March 26, the Court granted both motions. 63 Four days later, Mayya filed the
+
+operative second amended complaint. 64 Defendants renewed the Motions, 65 and the
+
+Court ordered supplemental briefing “on how [] Mayya’s [] substitution affects the
+
+
+
+
+56 See id.
+
+57 See MTC Opening Br.
+
+58 See Dkt. 277.
+
+59 See Dkt. 341 (“OA Tr.”).
+
+60 Seeid. at 54-67, 72-87. See also Dkt. 342 ¶ 2 (“After the hearing . . . Plaintiffs . . .
+acknowledg[ed] the likelihood that Defendants may succeed on their Motion to Compel
+Arbitration.”).
+61 See Dkt. 338.
+
+62 See Dkt. 340.
+
+63 See Dkt. 344; Dkt. 345.
+
+64 See SAC.
+
+65 See Dkt. 353; Dkt. 354.
+
+
+
+                                            11
+parties’ prior arguments[.]” 66 After the parties completed supplemental briefing, the
+
+Court took the matter under advisement. 67
+
+                           II.   STANDARD OF DECISION
+
+         A motion to dismiss “in favor of arbitration challenges the forum in which the
+
+suit was filed, and the proper motion for disputing forum invokes rule 12(b)(3)[.]” 68
+
+On a Rule 12(b)(3) motion, the court can “consider extrinsic evidence from the
+
+outset.” 69 When evaluating such a motion, “the well-settled rule is that the court
+
+should give effect to the terms of private agreements to resolve disputes in the chosen
+
+forum out of respect for the parties’ contractual designation.” 70 Thus, consistent with
+
+Delaware’s contractarian nature 71 and public policy in favor of arbitration, 72 “court[s]
+
+can–and generally will–enforce [an] arbitration agreement.” 73 That being said,
+
+although “contractual arbitration clauses are generally interpreted broadly,” 74 a
+
+
+
+
+66 Dkt. 358.
+
+67 See Dkt. 366 (“Supp. Opp’n Br.”); Dkt. 373 (“Supp. Reply Br.”).
+
+68 E.g., Ghandi-Kapoor v. Hone Capital LLC, 307 A.3d 328, 343 (Del. Ch. 2023).
+
+69 Centene Corp. v. Accellion, Inc., 2022 WL 898206, at *5 (Del. Ch. Mar. 28, 2022).
+
+70 Masimo Corp. v. Kiani, 2026 WL 1080396, at *5 (Del. Ch. Apr. 21, 2026) (internal quotation
+
+marks omitted).
+71 See, e.g., Thompson St. Cap. Partners IV, L.P. v. Sonova U. S. Hearing Instruments, LLC,
+
+340 A.3d 1151, 1165-66 (Del. 2025) (“Delaware is a contractarian state that holds parties’
+freedom of contract in high regard.” (citations omitted)).
+72 SeeJames & Jackson, LLC v. Willie Gary, LLC, 906 A.2d 76, 78 (Del. 2006) (citation
+omitted).
+73 Ghandi-Kapoor, 307 A.3d at 334.
+
+74 NAMA Hldgs., LLC v. Related World Mkt. Ctr., LLC, 922 A.2d 417, 430 (Del. Ch. 2007).
+
+
+
+                                             12
+party “cannot be required to submit to arbitration any dispute which [it] has not
+
+agreed [] to submit.” 75
+
+         Court of Chancery Rule 12(b)(2) governs motions to dismiss for lack of personal
+
+jurisdiction. 76 The plaintiff “bears the burden of showing a basis for a trial court’s
+
+exercise of jurisdiction over a nonresident defendant.” 77 If the court has not held an
+
+evidentiary hearing, “the plaintiff’s burden is a relatively light one.” 78 In that
+
+circumstance, “[t]he plaintiff must only make a prima facie showing that the exercise
+
+of personal jurisdiction is appropriate and the record is construed in the light most
+
+favorable to the plaintiff.” 79 In ruling on a Rule 12(b)(2) motion, “the court may
+
+consider the pleadings, affidavits, and any discovery of record.” 80
+
+                                       III.   ANALYSIS
+
+         The Court first addresses Defendants’ motion to compel arbitration, before
+
+addressing LGE’s motion to dismiss for lack of personal jurisdiction.
+
+A. Mayya’s Claims are Not Subject to Arbitration
+
+         Defendants’ MTC contends that Mayya’s claims are subject to arbitration for
+
+three independent reasons. 81 First, Defendants argue that the Series A Arbitration
+
+
+
+75 Willie Gary, LLC, 906 A.2d at 78.
+
+76 Ct. Ch. R. 12(b)(2).
+
+77 AeroGlobal Capital Management, LLC v. Cirrus Industries, Inc., 871 A.2d 428, 437 (Del.
+
+2005).
+78 Sciannella v. AstraZeneca UK Limited, 2024 WL 3327765, at *13 (July 8, 2024), aff’d, 340
+
+A.3d 544 (Del. 2025) (TABLE)
+79 Id. (internal quotation marks omitted).
+
+80 Id.
+
+81 See Supp. Opening Br. at 9-21.
+
+
+
+                                               13
+Clause requires arbitrating Mayya’s claims. 82 Second, Defendants assert that the
+
+SHA Arbitration Clause mandates arbitration – despite the fact that Mayya is not a
+
+party to the SHA – because he is suing derivatively on behalf of Alphonso, a
+
+signatory. 83    Third, Defendants argue that Mayya is equitably estopped from
+
+disavowing the SHA Arbitration Clause. 84 Defendants also insist that the parties
+
+“delegate[d] questions of arbitrability to the arbitrator.” 85 Mayya rejects Defendants’
+
+three arguments in favor of arbitration and maintains that “this Court must decide
+
+the question of arbitrability.” 86
+
+       When evaluating a motion to compel arbitration, the ultimate question is
+
+whether the parties assigned the at-issue dispute to arbitration (i.e., the arbitrability
+
+question). 87 Determining arbitrability requires answering a threshold question –
+
+“who [] decide[s] whether the parties [] agreed to submit the [] issue to arbitration.”88
+
+To answer that question, the Court “asks whether the parties have agreed to have an
+
+arbitrator decide the arbitrability question.” 89           Delaware courts refer to that
+
+threshold inquiry as the “delegation question.” 90
+
+
+
+
+82 See id. at 9-13.
+
+83 See id. at 13-17.
+
+84 See id. at 17-21.
+
+85 Id. at 10-11 (“That agreement to delegate arbitrability is dispositive.”).
+
+86 See Supp. Opp’n Br. at 4-21.
+
+87 See Fairstead Cap. Mgmt. LLC v. Blodgett, 288 A.3d 729, 749-51 (Del. Ch. 2023).
+
+88 Id. at 751-56 (internal quotation marks omitted).
+
+89 Id. at 748 (citations omitted).
+
+90 E.g., id. at 748-49, 756-58.
+
+
+
+                                               14
+         The United States Supreme Court’s decision in Henry Schein, Inc. v. Archer &
+
+White Sales, Inc. clarified how courts must address the delegation question. 91 The
+
+High Court reiterated that “parties [can] agree by contract that an arbitrator, rather
+
+than a court, will resolve threshold arbitrability questions as well as underlying
+
+merits disputes.” 92 Such contracts constitute “‘an additional, antecedent agreement
+
+the party seeking arbitration asks the [] court to enforce[.]’” 93 Relying on the Federal
+
+Arbitration Act’s requirement that courts “interpret contracts as written,” the Court
+
+held that “[w]hen the parties’ contract delegates the arbitrability question to an
+
+arbitrator, a court may not override the contract.” 94            Accordingly, “[i]n those
+
+circumstances, a court possesses no power to decide the arbitrability issue. That is
+
+true even if the court thinks that the argument that the arbitration agreement
+
+applies to a particular dispute is wholly groundless.” 95
+
+         Delaware law recognizes that “[b]ecause arbitration is a matter of contract, ‘a
+
+party cannot be required to submit to arbitration any dispute which he has not agreed
+
+
+91 586 U.S. 63 (2019).
+
+92 Id. at 65.
+
+
+     at 68 (quoting Rent–A–Center, West, Inc. v. Jackson, 561 U.S. 63, 70 (2010) (edits
+93 Id.
+
+added)).
+94 Id. at 68.
+
+95 Id. at 68.In so holding, the Court rejected “the ‘wholly groundless’ exception” under which
+some courts “determined that the court rather than an arbitrator should decide the threshold
+arbitrability question if, under the contract, the argument for arbitration is wholly
+groundless.” Id. Citing this Court’s pre-Schein decision in Feeley v. NHAOCG, LLC, Mayya
+argues that “the lack of any connection between [his] fiduciary duty claims and the Series A
+Agreement precludes delegating the question of arbitrability” because, in Mayya’s view, the
+argument for arbitrability is frivolous. Supp. MTC. Opp’n at 20 (citing 62 A.3d 649, 656 (Del.
+Ch. 2012)). That argument is no longer available after Schein. See Blodgett, 288 A.3d at 758
+(“Even if the court were to view the arguments for arbitrability as wholly frivolous, they
+would still be for the arbitrator to decide.”).
+
+                                             15
+so to submit.’” 96 Post-Schein, this Court has repeatedly held “that a court must
+
+enforce a delegation agreement even if [the] court thought the argument for
+
+arbitrability was wholly groundless.” 97 As Vice Chancellor Zurn explained in In re
+
+Neworld Energy Holdings, LLC, “under the familiar Willie Gary test, if the relevant
+
+agreement presents clear and unmistakable evidence that the parties intended to
+
+delegate issues of substantive arbitrability to an arbitrator, ‘a court possesses no
+
+power to decide the arbitrability issue.’” 98
+
+        Thus, the Court will enforce agreements to empower an arbitrator to decide
+
+arbitrability. Yet, under this paradigm the Court “must address issues of contract
+
+formation before deferring to an arbitrator[.]” 99 It is axiomatic that contracts must
+
+“comply with the law, and Delaware law does not permit a court to enforce a contract
+
+prohibited by law.” 100 Thus, there can be no agreement to arbitrate fiduciary duty
+
+claims where the contracting corporation lacked authority to agree in advance to
+
+
+
+
+96 Blodgett, 288 A.3d at 749 (quoting Howsam v. Dean Witter Reynolds, Inc., 537 U.S. 79, 123
+
+(2002)).
+97 E.g., id. at 753.
+
+98 Inre Neworld Energy Hldgs., LLC, 2023 WL 5529689, at *1 (Del. Ch. Aug. 24, 2023)
+(quoting Schein, 586 U.S. at 78-79).
+99 BuzzFeed Media Enterprise, Inc. v. Anderson, 2024 WL 2187054, at *13 (Del. Ch. May 15,
+
+2024) (internal quotation marks omitted) (“The first issue before a court in an action to
+compel arbitration is whether an agreement to arbitrate exists.”); see Granite Rock Co. v. Int’l
+Bhd. of Teamsters, 561 U.S. 287, 296 (2010) (“It is . . . well settled that where the dispute at
+issue concerns contract formation, the dispute is generally for courts to decide.”)
+100 AB Stable VIII LLC v. Maps Hotels and Resorts One LLC, 2020 WL 7024929, at *80 (Del.
+
+Ch. Nov. 30, 2020).
+
+                                              16
+arbitration as the exclusive forum for resolving fiduciary duty claims. 101 Here,
+
+Defendants seek to compel arbitration of Mayya’s fiduciary duty claims. Thus, the
+
+Court must first consider whether Alphonso had the power to agree in advance to an
+
+arbitration clause that covers Mayya’s fiduciary duty claims in the Series A
+
+Agreement or SHA.
+
+       This Court recently discussed a corporation’s ability to route fiduciary duty
+
+claims outside of Delaware. 102       The Court recognized that before our General
+
+Assembly enacted DGCL § 122(18), Delaware law “st[oo]d for the proposition that
+
+[corporate] fiduciary duty claims are status-based and arise independent of a contract,
+
+[so] a contractual forum selection clause cannot route them outside Delaware.” 103
+
+The pre-122(18) regime was rooted in the Delaware Supreme Court’s Parfi Holding
+
+AB v. Mirror Image Internet, Inc. ruling, 104 as discussed in this Court’s Harris v.
+
+Harris decision. 105 Under that regime, “‘[i]f corporations wish[ed] to route internal
+
+affairs claims to a particular forum, then they c[ould] adopt charter or bylaw
+
+provisions designed to achieve that result. A provision in a contract [would] not do
+
+the trick.’” 106   “Section 122(18) takes a different approach” by “authoriz[ing]
+
+stockholder agreements that route internal affairs claims related thereto exclusively
+
+
+101 See Moelis & Company v. West Palm Beach Firefighters’ Pension Fund, -- A.3d --, 2026 WL
+
+184868, at *6-7 (Del. 2026) (defining “ultra vires” acts as those “beyond the corporation’s
+power to take.”).
+102 Masimo Corporation v. Kiani, 2026 WL 1080396 (Del. Ch. Apr. 21, 2026).
+
+103 Masimo, 2026 WL 1080396, at *7.
+
+104 817 A.2d 149 (Del. 2002).
+
+105 2023 WL 193078, at *24 (Del. Ch. Jan. 16, 2023)
+
+106 Masimo, 2026 WL 1080396, at *8 (quoting Harris, 2023 WL 193078, at *24 (edits added)).
+
+
+
+                                            17
+to a non-Delaware forum.” 107 Thus, a corporation can agree in advance to resolve
+
+fiduciary duty claims via arbitration, so long as it does so via an agreement covered
+
+by § 122(18). 108
+
+        Accordingly, if § 122(18) applies, there is no question that Alphonso could enter
+
+into a stockholder agreement that sends its internal affairs claims to arbitration. Yet,
+
+the Senate Bill that enacted § 122(18):
+
+        bec[a]me effective on August 1, 2024, and . . . appl[ies] to all contracts
+        made by a corporation, [and] all agreements, instruments or documents
+        approved by the board of directors . . . in each case whether or not the
+        contracts, agreements, instruments, [or] documents . . . are made,
+        approved or entered into on or before such date, except that . . . this Act
+        shall not apply to or affect any civil action or proceeding completed or
+        pending on or before such date. 109
+
+This action began on March 30, 2023, over a year before § 122(18) became effective. 110
+
+Thus, § 122(18) and Masimo do not apply. Instead, the pre-122(18) standard controls.
+
+
+107 Id. at *9.
+
+108 See Nat’l Indus. Grp. (Holding) v. Carlyle Inv. Mgmt. L.L.C., 67 A.3d 373, 384 n.41 (Del.
+
+2013) (“[A]n arbitration clause ‘is, in effect, a specialized kind of forum-selection clause.’”
+(quoting Scherk v. Alberto-Culver Co., 417 U.S. 506, 519 (1974))). Indeed, Defendants
+acknowledge this in their briefing. See Supp. Opp’n Br. at 10 (although disputing whether
+non-signatories are bound, acknowledging that “Section 122(18) allows Alphonso to agree in
+a stockholders’ agreement with certain stockholders that any derivative claims must be
+arbitrated (as an exception to Section 115’s general prohibition against doing so)”).
+109 Del. S.B. 313, § 6 152d Gen. Assem. (2024) (emphasis added).
+
+110 The Court recognizes that since this action commenced the complaint has been amended
+
+and the parties have changed significantly, including the recent withdrawal of the prior
+plaintiffs and substitution of an entirely new plaintiff, Mayya. Yet, the bill enacting § 122(18)
+speaks in terms of civil actions pending, not the specific parties thereto or the claims or
+allegations therein. Generally, the substitution of a new plaintiff where “the causes of action
+are the same as those in the original complaint,” does not change the filing date. McCarthy
+v. Fifer, 2018 WL 5840520, at *2-3 (Del. Super. Nov. 7, 2018); see Choice Hotels Intern., Inc.
+v. Columbus-Hunt Park DR. BNK Investors, L.L.C., 2009 WL 3335332, at *6 (Del. Ch. Oct.
+15, 2009). Here, there is no dispute that Mayya’s core allegations and fiduciary duty claims
+have been present in this litigation from the outset. Compare Compl. ¶¶ 87-96, with SAC ¶¶
+
+
+                                               18
+As discussed, under that standard a corporation lacks the power to route internal
+
+affairs claims to a particular forum via a forum selection clause in a contract.
+
+       Accordingly, Alphonso could not agree in advance to arbitrate Mayya’s
+
+fiduciary duty claims in the Series A Agreement. To be clear, that conclusion does
+
+not arise from a finding that Defendants’ arguments for arbitration are wholly
+
+groundless or frivolous. Indeed, the Court need not consider the Series A Arbitration
+
+Clause’s text to reach its result. Instead, the Court concludes that there is no valid
+
+agreement to arbitrate Mayya’s claims because, under this case’s unique facts,
+
+Alphonso lacked authority to route Mayya’s fiduciary duty claims outside of Delaware
+
+in a contract like the Series A Agreement. Where a corporation is powerless to agree
+
+in advance to assign certain claims to arbitration, it necessarily follows that there
+
+can be no advance agreement to arbitrate those claims. 111          Restated, it does not
+
+matter how broadly or narrowly the parties drafted the Series A Arbitration Clause;
+
+it cannot capture Mayya’s claims as a matter of law. Accordingly, the Court must
+
+decide the arbitrability dispute even though the Series A Arbitration Clause
+
+otherwise empowers the arbitrator to resolve such disputes.
+
+       Given the above analysis, resolving the parties’ arbitrability dispute is
+
+straightforward. Under the pre-122(18) regime that applies here, corporations like
+
+Alphonso could only agree in advance to resolve fiduciary duty claims in a particular
+
+
+
+
+139-65. Thus, what controls is this action’s filing date, not when Mayya substituted as
+Plaintiff.
+111 See Gandhi-Kapoor, 307 A.3d at 335 (“[W]ithout an agreement to arbitrate, the arbitrator
+
+has no power.”).
+
+                                            19
+forum via a § 115-compliant charter or bylaw provision; “[a] provision in a contract
+
+does not do the trick. 112 Accordingly, despite their otherwise broad language, the
+
+SHA Arbitration Clause and Series A Arbitration Clause cannot capture Mayya’s
+
+fiduciary duty claims as a matter of law. 113 Instead, the Charter Forum Selection
+
+Clause controls and requires that this Court resolve Mayya’s claims. 114 Defendants’
+
+motion to compel arbitration is denied.
+
+B. Mayya Made a Prima Facie Showing that LGE Implicitly Consented to
+   This Court’s Personal Jurisdiction
+
+          Independent of the MTC, LGE moved to dismiss Mayya’s claims against it for
+
+lack of personal jurisdiction. Courts “apply a two-prong test in evaluating whether a
+
+plaintiff has met its burden to establish personal jurisdiction over a non-resident
+
+defendant.” 115 First, the Court determines “whether Delaware’s long arm statute,
+
+10 Del. C. § 3104(c), is applicable.” 116 Second, the Court decides “whether subjecting
+
+the nonresident defendant to jurisdiction would violate due process.” 117
+
+
+
+
+112 Harris, 2023 WL 193078, at *24; see Masimo, 2026 WL 1080396 at *8 (citing Parfi, 817
+
+A.2d at 155-60).
+113 Because the Court concludes that the SHA Arbitration Clause cannot cover Mayya’s
+fiduciary duty claims, it need not resolve the parties’ arguments concerning whether Mayya
+is bound by the SHA Arbitration Clause.
+114 See Alphonso Charter Art. XII (“[T]he Court of Chancery in the State of Delaware shall be
+
+the sole and exclusive forum for any stockholder . . . to bring (i) any derivative action . . . on
+behalf of [Alphonso], (ii) any action asserting a claim of breach of fiduciary duty owed by any
+director [or] officer . . . to [Alphonso] or [Alphonso’s] stockholders, . . . or (iv) any action
+asserting a claim against [Alphonso], its directors [or] officers [] [] governed by the internal
+affairs doctrine[.]”).
+115 Sciannella, 2024 WL 3327765, at *13.
+
+116 Matthew v. Fläkt Woods Group SA, 56 A.3d 1023, 1027 (Del. 2012).
+
+117 Id.
+
+
+
+                                               20
+        Mayya argues that LGE is subject to the Court’s personal jurisdiction for three
+
+independent reasons. 118 First, Mayya argues “LGE implicitly consented to personal
+
+jurisdiction . . . when it caused Alphonso to adopt and maintain the [Charter] Forum
+
+Selection Clause[.]” 119       Second, Mayya invokes “the conspiracy theory of
+
+jurisdiction.” 120 Finally, Mayya contends that “LGE is also subject to personal
+
+jurisdiction under the agency theory of jurisdiction.” 121 Because the Court concludes
+
+that Mayya made a prima facie showing that LGE implicitly consented to this Court’s
+
+personal jurisdiction, this decision does not address his alternative arguments.
+
+        It is well-established that “[p]arties may consent to personal jurisdiction in
+
+Delaware by contract[.]” 122 Where such consent exists, “a minimum contacts analysis
+
+is not required” for the Court to exercise personal jurisdiction. 123 “Consent to
+
+personal jurisdiction is often express, but it can also be implied.” 124 When “a party
+
+agrees to litigate in a forum, the party is considered to have implicitly consented to
+
+personal jurisdiction in that forum.” 125          In certain circumstances, a controller
+
+
+118 See MTD Opp’n at 9-23.
+
+119 Id. at 9-15.
+
+120 Id. at 15-21.
+
+121 Id. at 21-23.
+
+122 Sciannella, 2024 WL 3327765, at *13
+
+123 Capital Group Companies, Inc. v. Armour, 2004 WL 2521295, at *2 (Del. Ch. Oct. 29,
+
+2004); see Nat’l Indus. Gp. (Hldg.) v. Carlyle Inv. Mgmt. L.L.C., 67 A.3d 373, 381 (Del. 2013).
+124 In re Pilgrim’s Pride Corporation Derivative Litigation, 2019 WL 1224556, at *11 (Del. Ch.
+
+Mar. 15, 2019).
+125 In re Carvana Co. Stockholders Litigation, 2022 WL 3923826, at *2 (Del. Ch. Aug. 31,
+
+2022); see Pilgrim’s Pride, 2019 WL 1224556, at *12 (“Delaware courts have applied
+principles of implied consent to hold that when parties specify an exclusive forum for disputes,
+they implicitly agree to the existence of personal jurisdiction in that forum.” (citations
+
+
+                                              21
+“implicitly consent[s] to personal jurisdiction in Delaware by causing [a] [subsidiary]
+
+to adopt” a Delaware forum selection provision in its governing documents. 126
+
+Precedent identifies “two categories” of facts that “evidence [a controller’s] implicit
+
+consent.” 127
+
+          The first category considers whether “the intent of the forum selection
+
+provision was to funnel claims for breach of fiduciary duty against the controller into
+
+the Delaware courts.” 128 Facts that evidence that intent include (1) if the forum
+
+selection clause “cover[s] actions for breach of fiduciary duty owed by any stockholder
+
+of the corporation”; 129 and (2) the time and circumstances surrounding the forum
+
+selection provision’s adoption or maintenance. 130 For example, where a board of
+
+directors approves a forum selection clause contemporaneously with a transaction,
+
+“[i]t is reasonable to infer that the [b]oard . . . intend[ed] that it would apply to any
+
+Delaware law claims that a stockholder plaintiff might bring challenging the
+
+
+
+
+omitted)). That is true, despite “the obvious points that personal jurisdiction and forum-
+selection are different things and that a bylaw can address one but not the other.” Pilgrim’s
+Pride, 2019 WL 1224556, at *14.
+126 Sciannella, 2024 WL 3327765, at *14; see Pilgrim’s Pride, 2019 WL 1224556, at *1, 13-14;
+
+Carvana, 2022 WL 3923826, at *5-6.
+127 Carvana, 2022 WL 3923826, at *4 (citing Pilgrim’s Pride, 2019 WL 1224556, at *13-14).
+
+128 Id.
+
+129 Id. (“Only controlling stockholders owe fiduciary obligations under Delaware law.”); see
+
+Pilgrim’s Pride, 2019 WL 1224556, at *13.
+130 See Pilgrim’s Pride, 2019 WL 1224556, at *13; Carvana, 2022 WL 3923826, at *4.
+
+
+
+                                             22
+[transaction].” 131 That is true even if the controller did not foresee the specific
+
+circumstances “that would give rise to the claims against him.” 132
+
+        The second category considers the controller’s “influence over the process by
+
+which the [forum selection] provision was adopted” or maintained. 133 “Because the
+
+court’s authority to exercise personal jurisdiction based on a forum selection clause is
+
+based on the defendant’s consent, this second category of factors [is] critical to the
+
+court’s analysis.” 134 That the controller “was not involved directly in [the] adoption”
+
+is not dispositive. 135 Instead, it is sufficient that “a majority of the board was
+
+beholden to [the controller],” which “possess[es] hard, mathematical control” via its
+
+voting power. 136
+
+        Taken together, these considerations demonstrate Mayya carried his burden
+
+of making a prima facie showing that LGE implicitly consented to this Court’s
+
+personal jurisdiction via the Charter Forum Selection Clause. There is no dispute
+
+that “LGE negotiated [the Charter Amendment] in tandem with the [SHA].” 137 LGE
+
+and Alphonso’s pre-Investment communications show (1) LGE proposed and drafted
+
+the Charter Amendment; and (2) adopting the Charter Amendment was a condition
+
+
+
+
+131 Pilgrim’s Pride, 2019 WL 1224556, at *13.
+
+132 Carvana, 2022 WL 3923826, at *5.
+
+133 Id. at *4.
+
+134 Id. (“[I]f [the controller] lacked any ability to direct or reverse the result of the board’s
+
+process, then [the controller] could not be said to have implicitly consented to that result.”).
+135 Id. (citing Pilgrim’s Pride, 2019 WL 1224556, at *13).
+
+136 Id. at *4, *6; see Pilgrim’s Pride, 2019 WL 1224556, at *13-14.
+
+137 Dkt. 324 (“MTD Reply”) at 15; see MTD Opp’n at 4.
+
+
+
+                                               23
+for LGE’s Investment. 138 After the Investment, Zenith, LGE’s wholly owned, indirect
+
+subsidiary, owned 59.5% of Alphonso’s stock, making it the “controlling
+
+stockholder.” 139 As alleged, “Zenith acts as LGE’s agent with respect to all matters
+
+relating to Alphonso.” 140 The SHA also entitles Zenith to appoint a majority of
+
+Alphonso’s Board. 141      “At all relevant times since [the] [I]nvestment,” Zenith’s
+
+appointed directors “are, or were at the time of their service on the Board (i)
+
+employees of LGE or LG US, and (ii) controlled by LGE.” 142 LGE does not dispute
+
+that it “could have acted to remove or modify the [Charter] Forum Selection Clause . . .
+
+if it did not want actions of this type to be brought in Delaware.” 143 That LGE did
+
+not suggests LGE implicitly consented to its terms. Accordingly, viewing the record
+
+in the light most favorable to Plaintiff, the Court concludes that Mayya has made a
+
+prima facie showing that LGE implicitly consented to the Court’s personal
+
+jurisdiction.
+
+        It is true, as LGE argues, that this case is factually distinct in certain ways
+
+from prior cases that found implicit consent to jurisdiction. 144 For one, the Charter
+
+
+138 MTD Opp’n, Ex. 1 at 1; Ex. 2 at 1-2.
+
+139 SAC ¶ 16.
+
+140 Id. ¶ 17.
+
+141 SAC ¶ 40; see SHA §§ 10.1, 10.2.
+
+142 SAC ¶ 17; see id. ¶¶ 18-25.
+
+143 MTD Opp’n at 13-14 (citing Carvana, 2022 WL 3923826, at *4-5; Pilgrim’s Pride, 2019 WL
+
+1224556, at *13); see MTD Reply at 3-7 (not disputing LGE could have caused Alphonso to
+amend its charter to remove the Charter Forum Selection Clause).
+144 See Dkt. 278 (“MTD Opening”) at 14-16; MTD Reply at 3-7.      LGE attempts to differentiate
+the cases Mayya cites in support of its implicit consent argument. See MTD Reply at 5-7.
+Those efforts fall flat. That the Pilgrim’s Pride decision “is limited to the facts of th[e] case”
+
+
+                                               24
+Forum Selection Clause does not explicitly cover fiduciary duty claims asserted
+
+against Alphonso’s stockholders. 145 Yet, that fact does not preclude finding that LGE
+
+implicitly consented to the Court’s personal jurisdiction. 146 It is also true that LGE
+
+did not cause Alphonso to adopt the Charter Forum Selection Clause in the first
+
+instance. As discussed, however, Alphonso had the ability to, and did, require an
+
+amendment to Alphonso’s charter, such that it could logically also have required
+
+removal of the Charter Amendment if it so demanded. Accordingly, it is not clear
+
+that causing Alphonso to maintain the Charter Forum Selection Clause is
+
+meaningfully distinct from causing its adoption in the first instance. 147
+
+
+
+is unpersuasive given that this Court has subsequently applied its reasoning to conclude that
+a party implicitly consented to personal jurisdiction in Delaware. Pilgrim’s Pride, 2019 WL
+1224556, at *15; see, e.g., Kormos v. Playtika Hldg. UK II Ltd., C.A. No. 2023-0396-SG (Del.
+Ch. Jan. 18, 2024) (TRANSCRIPT); Carvana, 2022 WL 3923826, at *6 (“The limiting
+language of Pilgrim’s Pride does not affect the outcome of this decision.”). LGE’s attempts to
+differentiate Carvana fail for similar reasons. LGE asserts the fact “that that this Court
+looked to other corporate agreements . . . strongly supports the argument that the Court
+should look to the Stockholders’ Agreement here.” MTD Reply at 7 (“the controller caused the
+company to not only re-adopt a Delaware forum-selection clause in its charter, but also in a
+new concurrently executed LLC Agreement.”). Perhaps, but for the reasons discussed,
+looking to the SHA does not change the outcome.
+145 Alphonso Charter Art. XII.
+
+146 For example, in Sciannella v. AstraZeneca UK Limited the Court held there was a prima
+
+facie case that a controller implicitly consented to jurisdiction via a forum provision that
+captured the same claims as the Charter Forum Selection Clause. 2024 WL 3327765, at *6
+(“[T]he [forum provision] designates this court as the ‘sole and exclusive forum’ for ‘any action
+or proceeding asserting a claim of breach of fiduciary duty owed by any current or former
+director, officer, or other employee of the Corporation, to the Corporation or the Corporation’s
+stockholders.’”); see Alphonso Charter Art. XI (“[T]he Court of Chancery in the State of
+Delaware shall be the sole and exclusive forum for any stockholder (including a beneficial
+owner) to bring . . . any action asserting a claim of breach of fiduciary duty owed by any
+director, officer or other employee of the Corporation to the Corporation or the Corporation’s
+stockholders.”).
+147 Indeed, this Court has previously held that some amount of factual distinction from prior
+
+cases does not preclude holding that a controller implicitly consented to personal jurisdiction
+
+
+                                               25
+       Last, LGE points to the SHA Arbitration Clause and Series A Arbitration
+
+Clause as, themselves, evidence against implicit consent to personal jurisdiction.
+
+LGE explains that “if Alphonso consents to a non-Delaware forum in writing, the
+
+Charter[] [F]orum [S]election [C]lause does not apply.” 148 Yet, for the reasons already
+
+discussed, the arbitration clauses do not—indeed, cannot—capture Mayya’s claims as
+
+a matter of law. At all relevant times through when this action commenced, Delaware
+
+law prohibited corporations from routing internal affairs claims to a particular forum
+
+in contracts like the SHA or Series A Agreement. 149 Instead, corporations could
+
+“adopt a charter or bylaw provision” under DGCL § 115 to “route internal affairs
+
+claims to a particular forum.” 150 Indeed, case law suggests that in the implicit
+
+consent context “[i]t is fair to infer the [the controller] knew of the purpose of [charter]
+
+forum selection provisions” when the controller caused the at-issue corporation to
+
+adopt or maintain them. 151 Therefore, although the SHA Arbitration Clause and
+
+
+in Delaware. See Carvana, 2022 WL 3923826, at *5 (“It is true . . . that Pilgrim’s Pride is
+distinguishable,” but “[t]his distinction is inconsequential.”); Sciannella, 2024 WL 3327765,
+at *14-15 (similar).
+148 MTD  Opening at 14-15 (citing Alphonso’s Charter Art. XII (“Unless the Corporation
+consents in writing to the selection of an alternative forum . . . .”)).
+149 See Harris, 2023 WL 193078, at *24.
+
+150 Id. (citing 8 Del. C. § 115; Salzberg v. Sciabacucchi, 227 A.3d 102, 114 (Del. 2020)).
+
+151 Carvana, 2022 WL 3923826, at *5.        That conclusion is rooted in “the purpose of forum
+selection provisions in corporate charters and bylaws.” Id. Those provisions are “[e]xpressly
+permitted by Section 115 of the [DGCL] . . . [and] intended to corral internal affairs cases so
+they can be heard in the Delaware courts.” Id. This Court has repeatedly discussed “the
+benefits of ‘channeling internal affairs cases into the courts of the state of incorporation,’ []
+includ[ing] ‘bringing order to what the boards of defendant corporations say they perceive to
+be [the] chaotic filing of duplicative and inefficient derivative and corporate suits against . . .
+directors and . . . corporations.’” Id. (quoting Boilermakers Local 154 Retirement Fund v.
+Chevron Corp., 73 A.3d 934, 952 (Del. Ch. 2013) (alternations accepted)). See also Salzberg,
+227 A.3d at 117 (holding that DGCL § 115 was “intended, in part, to codify Boilermakers.”).
+
+                                                26
+Series A Arbitration Clause may attenuate Mayya’s argument that LGE in fact
+
+implicitly consented to personal jurisdiction, they do not compel granting the MTD at
+
+this time. Instead, “construing the record in the light most favorable to [Mayya,]” the
+
+Court concludes he “satisfied his minimum burden” to make “a prima facie showing
+
+that [LGE] implicitly consented to personal jurisdiction in Delaware[.]” 152 LGE’s
+
+motion to dismiss for lack of personal jurisdiction is denied.
+
+                                 IV.   CONCLUSION
+
+      For the foregoing reasons, the Court denies Defendants’ motion to compel
+
+arbitration and LGE’s motion to dismiss.
+
+
+
+
+152 Sciannella, 2024 WL 3327765, at *14-15.
+
+
+
+                                              27
+

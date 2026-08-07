@@ -1,0 +1,1015 @@
+                FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+UNITED STATES OF AMERICA,                 No. 23-2200
+                                            D.C. No.
+           Plaintiff - Appellee,
+                                         2:21-cr-00485-
+ v.
+                                             DSF-1
+                                        Central District of
+MARK RIDLEY-THOMAS,
+                                           California,
+                                          Los Angeles
+           Defendant - Appellant.
+                                            OPINION
+
+      Appeal from the United States District Court
+         for the Central District of California
+       Dale S. Fischer, District Judge, Presiding
+
+       Argued and Submitted November 21, 2024
+                 Pasadena, California
+
+                 Filed August 3, 2026
+
+ Before: Johnnie B. Rawlinson, Morgan B. Christen, and
+         Anthony D. Johnstone, Circuit Judges.
+2                     USA V. RIDLEY-THOMAS
+
+
+                          SUMMARY*
+
+                         Criminal Law
+    The panel affirmed Mark Ridley-Thomas’s convictions
+for one count of conspiracy in violation of 18 U.S.C. § 371,
+one count of bribery concerning programs receiving federal
+funds in violation of 18 U.S.C. § 666(a)(1)(B), and five
+counts of honest services mail and wire fraud in violation of
+18 U.S.C. §§ 1341, 1343, 1346, and 2(b).
+    Ridley-Thomas is a former Supervisor on the Los
+Angeles County Board of Supervisors. The convictions
+were based on a scheme in which Marilyn Flynn, the then-
+Dean of the School of Social Work at the University of
+Southern California (USC), facilitated a $100,000 donation
+of university funds to the nonprofit that employed Ridley-
+Thomas’s son Sebastian in exchange for Ridley-Thomas
+voting in favor of a “telehealth contract” between the County
+and USC.
+    The panel held that the district court did not err in
+denying Ridley-Thomas’s motion for judgment of acquittal
+for his honest service fraud convictions. The service of
+funneling $100,000 from Ridley-Thomas to USC to United
+Ways for Sebastian’s benefit was a “thing of value”
+sufficient to support the § 1346 convictions. Ridley-
+Thomas’s argument that “perceived reputational benefit”
+cannot be a “thing of value” misstates the Government’s
+theory. Section 1346 contains neither a requirement that a
+public official derive some type of “personal enrichment”
+nor a requirement that each participant in the scheme
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+                    USA V. RIDLEY-THOMAS                     3
+
+
+personally benefit. The Government was not required to
+present direct evidence of Ridley-Thomas’s constituents’
+approval or disapproval of his actions to support a conviction
+for honest services fraud, and the evidence presented at trial
+was sufficient evidence to support a finding of materiality.
+    The panel held that the district court did not err in
+denying Ridley-Thomas’s motion for judgment of acquittal
+for his bribery conviction. The funneling scheme was a
+“thing of value” sufficient to support a violation of
+§ 666(a)(1)(B), and sufficient evidence supports a finding
+that the transaction involved “anything of value of $5,000 or
+more.”
+    The panel concluded that the district court committed no
+error instructional error, rejecting Ridley-Scott’s contentions
+concerning intent to deceive, conflation of gratuities and
+bribery, quid pro quo, and “lawful ingratiation.”
+   Because the honest services fraud and federal bribery
+convictions were predicated on legally valid objects, the
+panel affirmed the related conspiracy conviction.
+    Ridley-Thomas contended that a combination of race
+and gender improperly animated the Government’s use of
+peremptory strikes on the only two Black female prospective
+jurors. The panel declined to extend Batson v. Kentucky, 476
+U.S. 79 (1986), to intersectional considerations,
+and concluded that the district court did not clearly err in
+rejecting Ridley-Thomas’s challenges to the strikes.
+4                  USA V. RIDLEY-THOMAS
+
+
+                       COUNSEL
+Lindsey G. Dotson (argued), Thomas F. Rybarczyk, Michael
+J. Morse, and Elana S. Artson, Assistant United States
+Attorneys; Bram M. Alden and Mack E. Jenkins, Assistant
+United States Attorneys, Chiefs, Criminal Appeals Section;
+E. Martin Estrada, United States Attorney; Office of the
+United States Attorney, United States Department of Justice,
+Los Angeles, California; for Plaintiff-Appellee.
+Alyssa D. Bell (argued), Michael V. Schafler, and Neil S.
+Jahss, Cohen Williams LLP, Los Angeles, California;
+Daralyn J. Durie and Galia Amram, Morrison & Foerster
+LLP, San Francisco, California; Paul J. Watford, Wilson
+Sonsini Goodrich & Rosati, Los Angeles, California; Erwin
+Chemerinsky, University of California Berkeley School of
+Law, Berkeley, California; for Defendant-Appellant.
+Nadia A. Sarkis, Mira Hashmall, and Louis R. Miller, Miller
+Barondess LLP, Los Angeles, California, for Amici Curiae
+Former California Officials.
+Houston Goddard, Goddard Pope PLLC, Nashville,
+Tennessee; Miles Pope, Goddard Pope PLLC, Boise, Idaho;
+Margaret A. Farrand, Deputy Federal Public Defender;
+Cuauhtémoc Ortega, Federal Public Defender; Office of the
+Federal Public Defender, Los Angeles, California; for Amici
+Curiae Ninth Circuit Federal Public and Community
+Defenders.
+S. Stan Chiueh, Elizabeth Bierut, Dania Bardavid, and
+Caroline McHugh, Friedman Kaplan Seiler Adelman &
+Robbins LLP, New York, New York; Robert S. Chang, Fred
+T. Korematsu Center for Law and Equality, Seattle
+University School of Law, Seattle, Washington; for Amici
+                    USA V. RIDLEY-THOMAS                    5
+
+
+Curiae Black Law Professors and Historians and Justice
+Centers.
+
+
+
+                      PER CURIAM
+
+PER CURIAM:
+
+    Mark Ridley-Thomas (Ridley-Thomas), a former
+Supervisor on the Los Angeles County Board of Supervisors
+(Board of Supervisors), appeals his convictions for one
+count of conspiracy in violation of 18 U.S.C. § 371, one
+count of bribery concerning programs receiving federal
+funds in violation of 18 U.S.C. § 666(a)(1)(B), and five
+counts of honest services mail and wire fraud in violation of
+18 U.S.C. §§ 1341, 1343, 1346, and 2(b). The convictions
+stemmed from charges related to a quid pro quo scheme
+between Ridley-Thomas and Marilyn Flynn (Flynn), the
+then-Dean of the School of Social Work at the University of
+Southern California (USC), for the benefit of Ridley-
+Thomas’s son Sebastian. Of the Government’s honest
+services fraud and bribery quid pro quo theories, the jury
+rejected all but one: that Flynn facilitated a $100,000
+donation of university funds to the nonprofit that employed
+Sebastian in exchange for Ridley-Thomas voting in favor of
+a “telehealth contract” between the County and USC. For
+the reasons discussed below, we affirm the convictions.
+I. BACKGROUND
+    Ridley-Thomas served on the Board of Supervisors from
+2008 to 2020. The five-member Board of Supervisors
+performs executive, legislative, and quasi-judicial duties for
+Los Angeles County, and controls the County’s $30+ billion
+6                  USA V. RIDLEY-THOMAS
+
+
+budget. Ridley-Thomas served as chair of the Board of
+Supervisors from December 2012 through December 2013,
+and December 2016 through December 2017. During this
+time, he supported several contracts by which USC’s School
+of Social Work provided services for County constituents.
+    Ridley-Thomas’s son Sebastian served as a member of
+the California State Assembly from 2013 to 2017. When
+Sebastian resigned from the Assembly, he was the subject of
+two non-public sexual harassment complaints for conduct
+that allegedly occurred in 2016 and 2017.
+    The Government’s evidence at trial showed that Ridley-
+Thomas helped Sebastian arrange educational and
+professional opportunities in the months leading up to and
+following his resignation from the Assembly. Ridley-
+Thomas turned to Flynn to create a landing spot for
+Sebastian. At the time, Flynn was looking to correct a
+multimillion-dollar budget deficit at USC’s School of Social
+Work by securing lucrative County contracts, which she saw
+as the school’s fiscal lifeline.
+    In May 2017, Ridley-Thomas emailed Flynn, requesting
+to speak on the phone. Two days later, Sebastian emailed
+Flynn about setting up a meeting, and the following week,
+Ridley-Thomas emailed Flynn, “We’re overdue for a lunch.
+Lots to catch up on.” An article about Sebastian was linked
+to the email.
+    Emails that Flynn exchanged with her colleagues at USC
+and with Sebastian show that Sebastian was anxious to
+pursue graduate-level studies at USC’s School of Social
+Work and School of Public Policy. And USC became
+interested in admitting him. The University did not offer the
+program Sebastian was interested in pursuing, but Flynn
+represented that she would coordinate with Jack Knott, Dean
+                    USA V. RIDLEY-THOMAS                     7
+
+
+of the USC School of Public Policy, to develop a joint degree
+program for him. On May 26, 2017, Flynn emailed
+Sebastian updating him on her efforts to secure his
+admission to a joint master’s degree program with a full-
+tuition scholarship, and on June 5, 2017, Flynn emailed
+Mark Todd, an employee in the USC Provost’s office, about
+a joint degree offer to Sebastian. Her email stated, “[w]e will
+offer a full scholarship between the two schools.” Flynn
+noted that the agreement was for a “full scholarship for our
+funds.”
+    Ridley-Thomas and Flynn stayed in close contact during
+the ensuing months. On June 23, 2017, Ridley-Thomas met
+with Flynn in her office at USC. During that meeting, they
+discussed various USC programs that involved existing and
+anticipated contracts between USC’s School of Social Work
+and the County. Flynn memorialized the topics discussed
+during this meeting in a letter addressed to Ridley-Thomas
+dated July 23, 2017, which Flynn directed a subordinate to
+hand-deliver directly to Ridley-Thomas’s office. The letter
+referred to three proposals for expanding USC’s work with
+the County, two of which Flynn described as “blocked” or
+“stalled.”
+    The first was a partnership between USC and the
+“Vermont Street Reentry Center,” a facility run by the
+County, with USC providing social work services. The
+second was a proposed training center for the County
+Probation Department, “Probation University,” with USC
+providing training for the Probation Department employees.
+The third was for a renewed, expanded contract from the
+County for the provision of “telehealth” mental health
+counseling services (Telehealth) to a broader spectrum of
+clients, referred by the County, including veterans. USC’s
+existing Telehealth program had called for the provision of
+8                   USA V. RIDLEY-THOMAS
+
+
+services in return for County funding, but the program was
+operating at a deficit, with USC losing approximately $1
+million per year. Flynn planned to increase the financial
+viability of the Telehealth program by expanding the number
+of clients the program could serve. The expansion would
+require an amended contract, subject to approval by the
+Board of Supervisors.
+    Ridley-Thomas began promoting these matters before
+the Board of Supervisors in mid-2017. First was the
+Vermont Street Reentry Center. On July 30, 2017, after
+seeing that the Board of Supervisors was considering an
+agenda item involving the Vermont Street Reentry Center,
+Flynn emailed a colleague that “I talked with [Ridley-
+Thomas] about this, and I am very happy to see that he was
+as good as his word.” A little over a week after receiving the
+hand-delivered letter from Flynn, Ridley-Thomas co-
+sponsored and voted in favor of an agenda item before the
+Board of Supervisors involving the Vermont Street Reentry
+Center.
+    Next was Probation University. On October 12, 2017,
+after seeing an agenda item involving the “Probation
+University” program pending before the Board of
+Supervisors and co-sponsored by Ridley-Thomas, Flynn
+emailed a colleague “I am holding my breath . . . [Ridley-
+Thomas] is really trying to deliver here.”
+   Around the same time, in October 2017, Sebastian spoke
+with Dean Knott and expressed an interest in teaching a class
+at USC’s Public Policy School while simultaneously
+pursuing a master’s degree.
+    By letter dated November 28, 2017, Sebastian was
+formally notified that the California State Assembly had
+launched an investigation based on a “complaint concerning
+                   USA V. RIDLEY-THOMAS                    9
+
+
+[Sebastian’s] alleged conduct.” The same letter informed
+Sebastian that an independent attorney investigator would
+schedule a meeting with him, and that the Assembly Rules
+Committee would determine next steps after the conclusion
+of the investigation. One week later, on December 5, 2017,
+Sebastian emailed Dean Knott stating that “Practitioner-In-
+Residence” was a preferable title for his professorship, and
+emails that Flynn exchanged with colleagues at USC
+confirmed Sebastian and Flynn contemplated a salary of
+$25,000 from the School of Social Work and a matching
+amount from the School of Public Policy. Ridley-Thomas
+was copied on Sebastian’s email to Knott at the School of
+Public Policy. Knott responded on December 9 that, until
+his meeting with Sebastian that week, he understood that
+Sebastian would be working as a full-time member of the
+state legislature, giving guest lectures or meeting with
+students on a voluntary basis, for which the School of Public
+Policy sometimes paid an honorarium. Dean Knott informed
+Sebastian that it would not be possible to arrange an
+employment contract before the holidays to accommodate a
+January start date. Sebastian forwarded this email to Ridley-
+Thomas that same day.
+    On December 14, 2017, Flynn sent an email flagged as
+“HIGHLY IMPORTANT – VAC enrollment of Sebastian
+Ridley-Thomas.” The message asked colleagues at the
+School of Social Work to expedite the admissions process
+for Sebastian. Subsequent emails confirm a plan to grant a
+full scholarship for Sebastian, as well as the Dean’s
+Leadership Award, despite his failure to complete his
+application or provide undergraduate transcripts.
+    Also on December 14, 2017, Ridley-Thomas twice
+called John Sherin, director of the Los Angeles County
+Department of Mental Health (DMH), whose support was
+10                  USA V. RIDLEY-THOMAS
+
+
+needed to advance the Telehealth amendment before the
+Board of Supervisors. Ridley-Thomas emailed Flynn later
+that day with the subject line “John Sherin,” stating that
+“He’s ready to go.”
+     Within an hour of receiving Ridley-Thomas’s email
+about Sherin, Flynn emailed several of her colleagues about
+Sebastian’s enrollment in the joint degree master’s program
+and his full-tuition scholarship, requesting that his
+application be given “highest priority.” The next day, Flynn
+emailed Dean Knott at the School of Public Policy, and
+stated, “in the interests of showing [Ridley-Thomas] that we
+can deliver, it would be provident to get [Sebastian’s] offer
+letter out before the holidays.” But by email dated
+December 16, 2017, Flynn notified Sebastian that it would
+not be possible to deliver an offer letter before winter break.
+    With Sebastian’s resignation from the Assembly
+imminent, Ridley-Thomas inquired about a position for
+Sebastian with the African American Civic Engagement
+Project (AACEP), a non-profit organization affiliated with
+Community Partners. AACEP’s financial position was poor
+at that time, and on December 7, 2017, Ridley-Thomas
+donated $100,000 from his campaign committee to the
+organization. The President and CEO of Community
+Partners, Paul Vandeventer, expressed general support for
+Sebastian’s qualifications, but concern about the use of
+“campaign funds” to “hire [Ridley-Thomas’s] son,”
+nepotism, and being “seen as doing special favors for special
+people.” On December 26, 2017, Sebastian resigned from
+the California State Assembly, citing deteriorating health.
+On January 9, 2018, USC offered Sebastian a full tuition
+scholarship to its School of Social Work.
+                   USA V. RIDLEY-THOMAS                   11
+
+
+    By the end of January 2018, Community Partners had
+returned the $100,000 payment to Ridley-Thomas and
+Sebastian started his own nonprofit, the Policy, Research &
+Practice Initiative (PRPI). PRPI needed a fiscal sponsor, and
+Ridley-Thomas contacted Peter Manzo, President and CEO
+of California United Ways (United Ways). A fiscal
+sponsorship agreement between United Ways and PRPI was
+approved on March 9, 2018, and signed by Sebastian.
+Sebastian prepared and submitted a budget to United Ways
+that proposed a $75,000 salary for himself and $67,200 for
+an associate director. Sebastian shared these draft budgets
+with his father. It was incumbent on PRPI to raise the
+necessary funds to support the proposed budget.
+    On February 16, 2018, USC offered Sebastian a faculty
+appointment at the School of Public Policy. On February 23,
+Flynn emailed Ridley-Thomas about the Telehealth contract
+amendment that was on the Board of Supervisors’ agenda
+for the following week. Flynn’s email outlined several of
+her desired amendments to the contract. Ridley-Thomas
+responded to Flynn’s email with “Your wish is my
+command.” Though Sebastian had no connection to the
+Telehealth amendment, Ridley-Thomas copied him on this
+email.
+    By the beginning of April 2018, the Telehealth
+amendment was not yet approved by the Board of
+Supervisors, and emails between Flynn and her colleagues
+on April 1 revealed that Flynn was of the view that the
+School of Social Work was approaching a critical point in
+attempting to get the Telehealth amendment approved. Flynn
+wrote that a better strategy was needed “for ensuring that we
+don’t lose this very important opportunity.” On April 20,
+2018, Ridley-Thomas contacted Flynn by phone, and a series
+12                  USA V. RIDLEY-THOMAS
+
+
+of phone calls ensued among Ridley-Thomas, Flynn, and
+John Sherin between April 22 and April 23.
+    On April 26, Ridley-Thomas and Flynn met in person.
+Flynn’s USC lobbying activity report listed a meeting with
+Ridley-Thomas “to discuss a gift agreement.” Shortly after
+that meeting, Flynn told USC Executive Vice Dean John
+Clapp that “we’re going to get the Telehealth contract,”
+adding that she “had to do a little favor to get it.”
+    Ridley-Thomas donated $100,000 from his Committee
+for a Better L.A. to the USC School of Social Work on May
+2, 2018. A letter accompanying the donation stated, “these
+funds can be used at your discretion in order to best facilitate
+the impressive policy and practical work of the School and
+its impact in the community.” USC formally thanked
+Ridley-Thomas for the donation and deposited the check.
+Despite his statement that the funds were to be used at USC’s
+discretion, Ridley-Thomas sent an email to Flynn the day
+after he made the donation stating: “[a]t this point it is
+necessary to act with dispatch” to facilitate the hiring of
+PRPI’s assistant director, which should happen “in a timely
+manner—no later than May 15th.” Sebastian was copied on
+this email to Flynn.
+     Flynn acted swiftly to meet Ridley-Thomas’s requested
+May 15 deadline. Within about fifteen minutes, she sent a
+message to a program administrator, flagged as “URGENT.”
+It read, “I will explain later, but it is urgent that we issue a
+sponsorship to United Way of California for $100,000 and
+that it be received by May 15 if at all possible.” The
+administrator relayed that there were not sufficient funds in
+the account over which she had control, and the funds would
+have to come from an account at the “main office.” Flynn
+began communicating with others within the administration
+                    USA V. RIDLEY-THOMAS                     13
+
+
+to facilitate the transfer. In doing so, she made several
+misrepresentations to colleagues at USC regarding the
+forthcoming $100,000 payment from USC to United Ways
+for PRPI. For instance, she represented that United Ways
+was a vendor providing services to USC. She also
+represented that United Ways intended to use the $100,000
+payment for a survey, and concealed that the money would
+be used in part to pay a third party’s salary. The use of
+university funds to pay a third party’s salary directly violated
+USC policy. In the end, one week after USC received the
+$100,000 payment from Ridley-Thomas, USC issued a
+$100,000 check to United Ways.
+    On July 31, 2018, Ridley-Thomas voted in favor of the
+amended Telehealth contract, which included every
+expanded provision Flynn had requested.            After a
+whistleblower raised concerns about the $100,000 payment
+to United Ways, USC opened an internal investigation that
+resulted in USC returning Ridley-Thomas’s $100,000
+donation. USC also terminated Sebastian’s professorship
+and scholarship, and made criminal referrals to the United
+States Attorney and to the Federal Bureau of Investigation.
+    Ridley-Thomas and Flynn were subsequently charged
+with one count of conspiracy in violation of 18 U.S.C. § 371.
+Ridley-Thomas was also charged with one count of bribery
+concerning programs receiving federal funds in violation of
+18 U.S.C. § 666(a)(1)(B), and Flynn was charged with one
+count of bribery in violation of 18 U.S.C. § 666(a)(2). Both
+Ridley-Thomas and Flynn were charged with seventeen
+counts of honest services mail and wire fraud in violation of
+18 U.S.C. §§ 1341, 1343, 1346, and 2(b). The indictment
+alleged that Ridley-Thomas engaged in a quid pro quo
+bribery scheme with Flynn. The Government charged
+Ridley-Thomas with seeking four benefits from Flynn and
+14                  USA V. RIDLEY-THOMAS
+
+
+USC for Sebastian: (1) admission to a USC master’s degree
+program; (2) a full-tuition scholarship for the master’s
+program; (3) a paid professorship at USC; and (4) Flynn’s
+assistance in funneling a $100,000 payment from USC to a
+fiscal sponsor to benefit a nonprofit organization and
+Sebastian. In return, Ridley-Thomas agreed to vote in favor
+of and influence others to act in favor of County contracts
+that benefitted USC.
+    Following a sixteen-day trial the jury convicted Ridley-
+Thomas of one count each of conspiracy, federal program
+bribery, and honest services mail fraud, and four counts of
+honest services wire fraud. These convictions were based on
+Flynn’s assistance in funneling the $100,000 payment from
+Ridley-Thomas’s campaign fund to PRPI. The jury
+acquitted Ridley-Thomas on the remaining honest services
+fraud counts based on Sebastian’s admission, scholarship, or
+professorship at USC. Ridley-Thomas filed a timely
+appeal.1
+II. STANDARDS OF REVIEW
+    “We review de novo whether the Government’s theory
+of fraud at trial was legally valid.” United States v.
+Milheiser, 98 F.4th 935, 941 (9th Cir. 2024) (citation
+omitted). “We review the formulation of jury instructions
+for abuse of discretion, but review de novo whether those
+instructions correctly state the elements of the offense and
+adequately cover the defendant’s theory of the case. . . .”
+United States v. Koziol, 993 F.3d 1160, 1179 (9th Cir. 2021)
+(citation and internal quotation marks omitted). “[W]e
+review the district court’s ruling on a Batson challenge for
+
+1
+  Flynn entered a guilty plea. She was sentenced to three years’
+probation and ordered to pay a fine in the amount of $150,000.
+                    USA V. RIDLEY-THOMAS                    15
+
+
+clear error. . . .” United States v. Hernandez-Garcia, 44
+F.4th 1157, 1163 (9th Cir. 2022), as amended (citation
+omitted).
+III. DISCUSSION
+    Ridley-Thomas challenges the Government’s theory of
+honest services fraud under 18 U.S.C. § 1346 and federal
+programs bribery under 18 U.S.C. § 666(a)(1)(B). He
+argues that the Government relied on a legally invalid “thing
+of value” as an element of both honest services fraud and
+bribery. According to Ridley-Thomas, § 1346 criminalizes
+only traditional bribery and kickback schemes, and the
+“secret funneling” scheme on which the Government relied
+as one of the quids—the transfer of $100,000 from Ridley-
+Thomas’s ballot committee through USC to United Ways
+and PRPI for Sebastian’s benefit—does not fit within this
+traditional paradigm of criminal bribery schemes. Ridley-
+Thomas also contends that this funneling scheme cannot
+constitute a “thing of value” under § 666(a)(1)(B). We
+disagree.
+   A. Honest Services Fraud
+    The honest services fraud statute criminalizes any
+“scheme or artifice to deprive another of the intangible right
+of honest services.” 18 U.S.C. § 1346. As interpreted by
+this Court, “[u]nder 18 U.S.C. § 1346, an official is guilty of
+honest-services fraud if he accepts something of value in
+exchange for an official act.” United States v. Renzi, 769
+F.3d 731, 744 (9th Cir. 2014) (citations omitted). Thus,
+“[s]ection 1346 honest services convictions on a bribery
+theory . . . require at least an implied quid pro quo.” United
+States v. Garrido, 713 F.3d 985, 997 (9th Cir. 2013) (citation
+and footnote reference omitted).
+16                  USA V. RIDLEY-THOMAS
+
+
+    In Skilling v. United States, 561 U.S. 358, 368 (2010),
+the United States Supreme Court limited § 1346 to
+encompass only “bribery and kickback schemes,” as
+developed in the “core” cases decided “pre-McNally [v.
+United States, 483 U.S. 350 (1987)],” which the Supreme
+Court described as “fraudulent schemes to deprive another
+of honest services through bribes or kickbacks supplied by a
+third party who had not been deceived.” Id. at 404. The
+Supreme Court expounded that the honest services fraud
+statute “draws content not only from the pre-McNally case
+law, but also from federal statutes proscribing—and
+defining—similar crimes,” including 18 U.S.C. §§ 201(b)
+(bribery of a public official), 666(a)(2) (federal programs
+bribery), and 41 U.S.C. § 52(2) (defining “kickback”). Id. at
+412.
+    Jurors were instructed that to convict Ridley-Thomas of
+honest services mail fraud, the Government was required to
+prove that he “devised or knowingly participated in a scheme
+or plan to deprive the residents of the County of Los Angeles
+of their right of honest services;” and that “[t]he scheme or
+plan consisted of a bribe in exchange for at least one official
+act by [Ridley-Thomas].”
+    Ridley-Thomas contends that this theory of honest
+services fraud was legally invalid because perceived
+reputational benefits cannot constitute a “thing of value”
+under Skilling. Additionally, he asserts that the Government
+failed to prove that he engaged in deception that was material
+to the residents of Los Angeles County. We consider each
+of these challenges in turn.
+     1. Thing of Value
+   When, as here, an honest services fraud conviction is
+based on bribery, we often look to 18 U.S.C. § 201(b) for
+                    USA V. RIDLEY-THOMAS                     17
+
+
+guidance. See, e.g., United States v. Shen Zhen New World
+I, LLC, 115 F.4th 1167, 1176–77 (9th Cir. 2024). Section
+201(b)(2) provides for punishment of a public official who
+“directly or indirectly, corruptly demands, seeks, receives,
+accepts, or agrees to receive or accept anything of value
+personally or for any other person or entity, in return for: (A)
+being influenced in the performance of any official act. . . .”
+18 U.S.C. § 201(b)(2).
+    In Renzi, we noted that the phrase “thing of value is
+defined broadly to include the value which the defendant
+subjectively attaches to the items received.” See 769 F.3d at
+744 (citation and internal quotation marks omitted). There,
+a United States Congressman was convicted of honest
+services fraud for accepting a $200,000 early repayment of
+a large private debt in exchange for using his influence to
+move a bill through Congress. See id. We reasoned that the
+payment had subjective value to Renzi “because it was a
+$200,000 payment,” and “because it was the early repayment
+of a large private debt.” Id. In affirming Renzi’s conviction,
+we concluded that repayment of the debt “clouded [Renzi’s]
+judgment in performing his official duties and deprived his
+constituents of the honest services of their elected
+representative.” Id.
+    Although admittedly not the usual bribery scheme
+involving the transfer of money to a public official, the
+transfer of $100,000 from Ridley-Thomas to USC to United
+Ways for Sebastian’s benefit constitutes a “thing of value”
+under our precedent.        The Government’s evidence
+established that Ridley-Thomas subjectively valued the
+ability to transfer $100,000 from his campaign fund to
+United Ways, specifically to a program that would benefit
+Sebastian by providing him with employment after he
+resigned from the legislature. The evidence showed that
+18                   USA V. RIDLEY-THOMAS
+
+
+Ridley-Thomas was aware of the ethics inquiry that
+coincided with Sebastian’s resignation, and that he valued
+the ability to indirectly transfer funds for Sebastian’s benefit,
+swiftly, while concealing the source of the funds. Ridley-
+Thomas argues strenuously that he broke no campaign
+finance laws by making this payment, and that because he
+could have made the donation directly, the funneling service
+provided by USC cannot constitute a “thing of value.” But
+this argument overlooks the Government’s evidence
+showing that Ridley-Thomas attempted to send a payment
+directly from his campaign fund to another non-profit where
+Sebastian hoped to be employed, and the funds were
+returned because the non-profit director was concerned
+about “nepotism and being seen as doing special favors for
+special people.”        Thus, contrary to Ridley-Thomas’s
+contention that he could have made the payment directly
+himself, the Government’s evidence showed that Ridley-
+Thomas needed a third-party intermediary to effectuate the
+transfer. Flynn supplied that service.
+    Ridley-Thomas contends that the Government’s theory
+of bribery was predicated on his desire to avoid the nepotistic
+optics that had hampered his previous attempt to provide
+$100,000 to AACEP through Community Partners. Ridley-
+Thomas maintains that “perceived reputational benefit”
+cannot be a “thing of value” under Skilling because no pre-
+McNally bribery or kickback case has recognized a similar
+“thing of value.” This argument misstates the Government’s
+theory regarding the alleged “thing of value.” The
+Government explicitly alleged in the indictment that the
+transfer of $100,000 was one of the quids in the quid pro quo
+scheme between Ridley-Thomas and Flynn, and it
+maintained this argument throughout trial. The district court
+instructed the jury that “a thing of value does not have to be
+                     USA V. RIDLEY-THOMAS                      19
+
+
+tangible,” and that the Government alleged the “thing of
+value” to include one or more of: Sebastian’s admission,
+scholarship, professorship, or “[a] $100,000 payment from
+USC to the United Ways of California.” The Government’s
+consistent argument of a quid pro quo bribery scheme fits
+within Skilling’s articulation of honest services fraud cases
+that are consistent with the pre-McNally core of bribery and
+kickback schemes. See Skilling, 561 U.S. at 368; see also
+Renzi, 769 F.3d at 744.
+    Ridley-Thomas insists that a public official must derive
+some type of “personal enrichment” to commit honest
+services fraud. But § 1346 contains no such requirement,
+and we have held that “private gain is not an element of
+honest services fraud.” United States v. Inzunza, 638 F.3d
+1006, 1018 (9th Cir. 2011), as amended; see also United
+States v. Spano, 421 F.3d 599, 603 (7th Cir. 2005)
+(concluding that “[a] participant in a scheme to defraud is
+guilty even if he is an altruist and all the benefits of the fraud
+accrue to other participants”).
+    Nor is there a requirement that each participant in the
+scheme personally benefit. Although the benefit of the
+$100,000 transfer accrued most directly to Sebastian, this
+benefit is a sufficient “thing of value” to support a conviction
+for honest services fraud. See 18 U.S.C. § 666(a)(1)(B)
+(proscribing the corrupt solicitation or demanding by a
+public official “for the benefit of any person”) (emphasis
+added). Ridley-Thomas’s request for Flynn’s assistance
+occurred while the Telehealth amendment hung in the
+balance, awaiting approval from the Board of Supervisors.
+Flynn’s assistance with the $100,000 cash transfer through
+USC for Sebastian’s benefit was an impermissible string
+attached to Ridley-Thomas’s support of the Telehealth
+amendment. As in Renzi, this arrangement “clouded
+20                  USA V. RIDLEY-THOMAS
+
+
+[Ridley-Thomas’s] judgment in performing his official
+duties and deprived [Los Angeles County residents] of the
+honest services of their elected representative.” 769 F.3d at
+744.
+     2. Materiality of the Deception
+    Ridley-Thomas contends that the Government failed to
+present sufficient evidence of materiality. Stated differently,
+Ridley-Thomas emphasizes the lack of evidence that his
+“constituents would have wanted or expected him to disclose
+the source of the donation to PRPI or Flynn’s role in
+facilitating it.” We reject this argument.
+    In reviewing sufficiency of the evidence, “we view the
+evidence in the light most favorable to the prosecution and
+ask whether any rational trier of fact could have found the
+essential elements of the crime beyond a reasonable doubt.”
+United States v. Grovo, 826 F.3d 1207, 1213-14 (9th Cir.
+2016) (citation omitted).
+    “[A] breach of a fiduciary duty is an element of honest
+services fraud” under 18 U.S.C. § 1346. United States v.
+Milovanic, 678 F.3d 713, 722 (9th Cir. 2012), as amended
+(en banc) (citation omitted). To commit a breach of
+fiduciary duty sufficient for an honest services fraud
+conviction, the proven dishonesty must be material,
+naturally tending to lead or capable of leading a reasonable
+decisionmaker subjected to the dishonesty to “change its
+conduct.” Id. at 727 (citation omitted). At a minimum, a
+rational trier of fact could have determined that had the other
+County Supervisors been aware of the scheme, one or more
+of them would have changed their vote (conduct) on the
+Telehealth amendment. See id.; see also Percoco v. United
+States, 598 U.S. 319, 329-30 (2023) (explaining that a
+government agent owes a fiduciary duty to the “government”
+                    USA V. RIDLEY-THOMAS                     21
+
+
+as well as to “the public.”); Garrido, 713 F.3d at 992 (noting
+that “a public official acts as trustee for the citizens and the
+State and thus owes the normal fiduciary duties of a trustee,
+e.g., honesty and loyalty to them.”) (citation and alterations
+omitted). The Government was not required to present direct
+evidence of Ridley-Thomas’s constituents’ approval or
+disapproval of his actions. See Milovanovic, 678 F.3d at
+727. Rather, the Government was only required to establish
+“honest services fraud committed against the public.” Id.
+Viewed in the light most favorable to the Government, a
+“rational trier of fact could have found the essential elements
+of [honest services fraud] beyond a reasonable doubt.”
+Grovo, 826 F.3d at 1213-14 (citation omitted). Thus, the
+evidence presented at trial was sufficient to support a finding
+of materiality. See id.
+    The district court did not err in denying Ridley-Thomas’s
+motion for judgment of acquittal for his honest services
+fraud conviction.
+   B. Federal Program Bribery
+   As with the honest services fraud convictions, Ridley-
+Thomas contends that the acceptance of perceived
+reputational benefits is not a “thing of value” under 18
+U.S.C. § 666(a)(1)(B).
+   Section 666 provides for punishment of:
+
+       Whoever . . . being an agent of an
+       organization, or of a State, local, or Indian
+       tribal government, or any agency thereof . . .
+       corruptly solicits or demands for the benefit
+       of any person, or accepts or agrees to accept,
+       anything of value from any person, intending
+       to be influenced or rewarded in connection
+22                  USA V. RIDLEY-THOMAS
+
+
+       with any business, transaction, or series of
+       transactions    of    such     organization,
+       government, or agency involving any thing of
+       value of $5,000 or more.
+       18 U.S.C. § 666(a)(1)(B).
+
+    Ridley-Thomas asserts that under Skilling, the phrase
+“thing of value” should be construed the same in § 1346 and
+in § 666. The Supreme Court has noted the similarities
+between federal programs bribery under § 666(a) and similar
+criminal statutes. See Skilling, 561 U.S. at 412-13. As
+mentioned, Skilling recognized that the honest services fraud
+statute    “draws      content . . . from   federal    statutes
+proscribing—and defining—similar crimes,” such as 18
+U.S.C. §§ 666(a)(2) and 201(b). Id. at 412. And, as
+discussed, we have held that “thing of value” in § 1346
+includes the objective value and “the value which the
+defendant subjectively attaches to the items received.”
+Renzi, 769 F.3d at 744 (citation omitted). Similarly, the
+Supreme Court has held that “anything of value” under § 666
+includes “all transfers of personal property or other valuable
+consideration in exchange for the influence or reward.”
+Salinas v. United States, 522 U.S. 52, 57 (1997) (emphasis
+added). The transfer, therefore, of $100,000 from Ridley-
+Thomas’s ballot committee through USC to United Ways for
+the benefit of Sebastian’s nonprofit constitutes an “anything
+of value” sufficient to support Ridley-Thomas’s conviction
+for violating § 666(a)(1)(B). See, e.g., United States v.
+Turchin, 21 F.4th 1192, 1203 (9th Cir. 2022) (holding that
+cash was a “thing of value” under § 666); United States v.
+Townsend, 630 F.3d 1003, 1011 (11th Cir. 2011)
+(recognizing that “intangibles . . . are things of value” and
+                    USA V. RIDLEY-THOMAS                    23
+
+
+collecting cases from the Third, Fifth, Seventh, and Eighth
+Circuits holding the same).
+    Sufficient evidence also supports a finding that the
+transaction involved “anything of value of $5,000 or more.”
+At trial, the Government provided evidence that the
+Telehealth amendment exceeded $5,000 because the
+amendment maintained funding for the contract at $530,323.
+The Government’s evidence that the value of the Telehealth
+amendment is more than $5,000 was sufficient for the jury
+to conclude that the bribe related to a transaction of more
+than $5,000. Thus, the district court did not err in denying
+Ridley-Thomas’s motion for judgment of acquittal for his
+bribery conviction.
+   C. Jury Instruction Challenges
+    Ridley-Thomas asserts four challenges to the jury
+instructions. First, he contends that although honest services
+fraud requires the intent to both deceive and cheat, the
+district court instructed only on the intent to cheat. Next, he
+argues that the instructions for both honest services fraud
+and federal program bribery allowed the Government to
+improperly present a “monetization” theory that conflated
+gratuities and bribes. Third, he maintains that the district
+court failed to instruct the jury that federal program bribery
+requires proof of a quid pro quo. Finally, he asserts that the
+instructions failed to distinguish bribery from lawful
+ingratiation.
+    “A defendant is not entitled to any particular form of
+instruction, nor is he entitled to an instruction that merely
+duplicates what the jury has already been told.” Shen Zhen,
+115 F.4th at 1180 (citation omitted). “[We] are required to
+review the jury instructions as a whole . . .” United States v.
+Kincaid-Chauncey, 556 F.3d 923, 946 (9th Cir. 2009)
+24                  USA V. RIDLEY-THOMAS
+
+
+(citation omitted), abrogated on other grounds by Skilling,
+561 U.S. at 409-10. We consider each challenge in turn.
+     1. Intent Instruction For Honest Services Fraud
+    The district court instructed the jury that honest services
+fraud requires the Government to prove that:
+
+        1. Defendant devised or knowingly
+           participated in a scheme or plan to
+           deprive the residents of the County of Los
+           Angeles of their right of honest services;
+        2. The scheme or plan consisted of a bribe
+           in exchange for at least one official act by
+           defendant, with all of you agreeing as to
+           which act. . . .
+        4. Defendant acted with the intent to
+           defraud by depriving the residents of the
+           County of their right of honest services.
+
+    Ridley-Thomas argues that the instruction on honest
+services fraud required the jury to find an intent to “cheat”
+the residents of the County out of his honest services, but
+omitted the requirement that the jury find an intent to
+“deceive” his constituents in doing so.
+    In the context of traditional wire fraud, the jury must be
+instructed on defendant’s intent “to deceive and cheat,”
+rather than an intent “to deceive or cheat.” United States v.
+Miller, 953 F.3d 1095, 1101 (9th Cir. 2020) (emphases in the
+original). That is to say, a jury must find the defendant’s
+intent “to deprive the victim of money or property by means
+of deception.” Id. at 1103. Here, the district court used the
+Ninth’s Circuit model instruction. See Ninth Circuit Model
+Criminal Jury Instructions 15.34 (2022). The instruction
+                     USA V. RIDLEY-THOMAS                     25
+
+
+incorporated the element of deceptive intent by requiring the
+jury to find that Ridley-Thomas “acted with the intent to
+defraud,” which constitutes a “reference[] to the specific
+intent to defraud the public.” Kincaid-Chauncey, 556 F.3d
+at 945-46. Because the word “defraud” was included in the
+instruction, to convict Ridley-Thomas of honest services
+fraud, the jury was required to find that Ridley-Thomas had
+the requisite intent to deceive the residents of the County.
+See Defraud, Black’s Law Dictionary (12th ed. 2024) (“To
+cause injury or loss to (a person or organization) by deceit;
+to trick (a person or organization)”). The jury heard
+considerable evidence regarding the lengths Ridley-Thomas
+went to in order to conceal that $100,000 of his campaign
+funds were used to provide employment for Sebastian, and
+that the funneling of this payment was accomplished with
+Flynn’s assistance at a time when County contracts with
+USC worth millions of dollars hung in the balance.
+    Accordingly, the district court did not abuse its
+discretion in rejecting Ridley-Thomas’s proposed honest
+services fraud instruction. See Kincaid-Chauncey, 556 F.3d
+at 946; see also Shen Zhen, 115 F.4th at 1180 (“A defendant
+is not entitled . . . to an instruction that merely duplicates
+what the jury has already been told”) (citation omitted).
+    2. Gratuities Instruction
+    Ridley-Thomas maintains that the failure to instruct the
+jury that a gratuity is not a bribe permitted the jury to convict
+him of honest services fraud and federal program bribery
+under a legally invalid “monetization” theory that
+improperly conflated gratuities and bribes. We are not
+persuaded. The district court instructed the jury that it must
+find that the “scheme or plan consisted of a bribe in exchange
+for at least one official act by defendant.” This instruction
+26                  USA V. RIDLEY-THOMAS
+
+
+directed the jury to find quid pro quo bribery as an element
+of honest services fraud. See Shen Zhen, 115 F.4th at 1176
+(explaining that “[w]hen based on bribery, conviction for
+honest-services fraud requires proof of the bribe-giver’s
+intent to enter a quid pro quo”). So the jury was required to
+find that Ridley-Thomas engaged in a bribery scheme before
+convicting him of honest services fraud. Notably, no
+credible evidence was presented that the transfer of funds
+was intended as a gratuity. Rather, the undisputed evidence
+was that the $100,000 was transferred for Sebastian’s benefit
+and that Ridley-Thomas reached out to make the
+arrangements for Sebastian well before he cast his votes. On
+this record, the district court did not abuse its discretion in
+rejecting Ridley-Thomas’s proposed gratuity instruction.
+See id.
+     3. Quid Pro Quo Instruction for Federal Programs
+        Bribery (§ 666(a))
+    Ridley-Thomas challenges the district court’s denial of
+his request for a jury instruction that the Government was
+required to prove a quid pro quo to obtain a conviction for
+federal program bribery in violation of § 666(a). During this
+appeal, the Supreme Court held in Snyder v. United States,
+603 U.S. 1 (2024), that § 666 “is a bribery statute and not a
+gratuities statute,” such that “payments made to an official
+after an official act as a token of appreciation” are not
+covered by the statute. Id. at 5, 10 (emphasis in the original).
+And a bribe requires “a quid pro quo.” United States v. Sun-
+Diamond Growers of Calif., 526 U.S. 398, 404 (1999).
+    The district court’s instruction included the essential
+elements of a quid pro quo. See United States v. Ford, 435
+F.3d 204, 213 (2d Cir. 2006) (explaining that “[b]roken into
+its essential pertinent parts,” § 666(a) requires that “the
+                    USA V. RIDLEY-THOMAS                    27
+
+
+recipient must have accepted the thing of value while
+intending to be influenced”) (internal quotation marks
+omitted). The jury also convicted Ridley-Thomas on five
+counts of honest services fraud, which specifically required
+the jury to find a quid pro quo. The jury’s guilty verdict on
+the charge of honest services fraud confirms beyond a
+reasonable doubt that any error in the district court’s
+instruction on this count resulted in no harm. See United
+States v. Wilkes, 662 F.3d 524, 544 (9th Cir. 2011); see also
+Shen Zhen, 115 F.4th at 1179 (noting that § 666 “does not
+require a jury to find a specific quid pro quo”) (citation and
+alteration omitted).
+   4. “Lawful Ingratiation” Instruction
+    Ridley-Thomas asserts that the district court failed to
+instruct that goodwill gifts provided to a public official,
+including those given to curry favor or with the hope of
+future benefit, are not bribes under § 666, but rather, “lawful
+ingratiation.” He maintains that an instruction was required
+to guide the jury in distinguishing between genuine
+corruption and an elected official responding to lawful
+lobbying efforts. We conclude that no such instruction was
+necessary on the facts of this case. See Shen Zhen, 115 F.4th
+at 1181 (characterizing a proposed instruction on “the
+difference between unlawful bribery and lawful
+ingratiation” as “unnecessary”) (internal quotation marks
+omitted). Jurors were instructed that to find Ridley-Thomas
+guilty of federal program bribery, they must find that he
+“acted corruptly, that is, intending to be influenced or
+rewarded in connection with any business, transaction, or
+series of transactions of [Los Angeles] County.” The
+Government’s evidence established a sequence of events
+demonstrating Ridley-Thomas’s intent to be influenced in
+connection with government business well before USC’s
+28                   USA V. RIDLEY-THOMAS
+
+
+funneling services were used. Ridley-Thomas “was not
+entitled to further instruction on ingratiation that merely
+duplicated what the jury had already been told.” Id.
+(citation, alteration, and internal quotation marks omitted).
+    In sum, we conclude that there was no instructional error
+by the district court for either honest services fraud or federal
+program bribery.
+     D. Conspiracy
+    Ridley-Thomas’s conspiracy conviction necessarily
+rises and falls with his convictions for honest services fraud
+and federal programs bribery. See United States v. Gonzalez,
+906 F.3d 784, 790 (9th Cir. 2018) (concluding that for a
+conspiracy conviction, “reversal is required only if one of
+the objects of the conspiracy is legally deficient”) (emphasis
+in the original).       Ridley-Thomas contends that the
+conspiracy charge lacked a legally valid object, thereby
+rendering his convictions legally infirm. But because the
+honest services fraud and federal bribery convictions were
+predicated on legally valid objects, we affirm the related
+conspiracy conviction. See id.
+     E. Batson Challenges
+     Ridley-Thomas contends that the Government violated
+Batson v. Kentucky, 476 U.S. 79 (1986), by exercising its
+peremptory strikes to exclude the only two Black female
+jurors in the venire and offering pretextual justifications for
+its discriminatory intent. Generally, “we review the district
+court’s ruling on a Batson challenge for clear error” but
+“review de novo whether the district court properly applied
+Batson.” Hernandez-Garcia, 44 F.4th at 1163 (citations
+omitted).
+                     USA V. RIDLEY-THOMAS                     29
+
+
+    Ridley-Thomas contends that a combination of race and
+gender improperly animated the Government’s use of
+peremptory strikes on the two Black female prospective
+jurors. However, neither the Supreme Court nor this court
+has recognized a Batson claim based on intersectional
+considerations, a point that Ridley-Thomas concedes. See
+Nguyen v. Frauenheim, 45 F.4th 1094, 1099-1101 (9th Cir.
+2022). We decline to do so today. To the extent that Ridley-
+Thomas’s challenges are race-based, the district court did
+not clearly err. See Hernandez-Garcia, 44 F.4th at 1163.
+The Government used its first peremptory strike on a Black
+female prospective juror. Although “[t]he Constitution
+forbids striking even a single prospective juror for a
+discriminatory purpose,” Flowers v. Mississippi, 588 U.S.
+284, 303 (2019), “generally striking only one prospective
+juror who belongs to a protected group is not enough to draw
+an inference without other evidence.” Nguyen, 45 F.4th at
+1101 (citation omitted). The district court concluded that, at
+that point, the “totality of the circumstances” did not support
+an inference of discriminatory intent. Id.
+IV. CONCLUSION
+    The service of funneling $100,000 from Ridley-Thomas
+to USC to United Ways for Sebastian’s benefit was a “thing
+of value” sufficient to support Ridley-Thomas’s convictions
+for both honest services fraud in violation of 18 U.S.C.
+§ 1346 and federal program bribery in violation of
+§ 666(a)(1)(B).       The Government presented sufficient
+evidence of intent and materiality, and the district court did
+not err in its jury instructions for either honest services fraud
+or federal program bribery. Because we affirm Ridley-
+Thomas’s convictions for honest services fraud and federal
+program bribery, we also affirm the conspiracy conviction.
+Finally, we decline to extend Batson to intersectional
+30                 USA V. RIDLEY-THOMAS
+
+
+challenges, and conclude that the district court did not
+clearly err in rejecting Ridley-Thomas’s Batson challenges.
+     AFFIRMED.
+

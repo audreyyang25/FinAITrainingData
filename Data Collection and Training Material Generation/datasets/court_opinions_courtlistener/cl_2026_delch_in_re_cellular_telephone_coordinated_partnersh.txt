@@ -1,0 +1,2551 @@
+     IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+IN RE 2022 CELLULAR
+TELEPHONE COORDINATED               COORDINATED C.A. No. 2022-1078-JTL
+PARTNERSHIP LITIGATION
+
+      THIS FILING APPLIES TO COORDINATED C.A. No. 2022-1087-JTL
+
+       MEMORANDUM OPINION DENYING MOTION TO DISMISS
+                  NEWLY ADDED CLAIMS
+
+                        Date Submitted: April 14, 2026
+                         Date Decided: July 31, 2026
+
+Norman M. Monhait, Jessica Zeldin, REID COLLINS & TSAI LLP, Wilmington,
+Delaware; William T. Reid, IV, Gregory S. Schwegmann, Emma Culotta, REID
+COLLINS & TSAI LLP, Austin, Texas; Rachel S. Fleishman, Marc Dworsky, REID
+COLLINS & TSAI LLP, New York, New York; Michael Pullara, David Siegel,
+MICHAEL PULLARA LAW FIRM, Houston, Texas; Attorneys for Plaintiffs.
+
+Michael A. Barlow, Veronica B. Bartholomew, QUINN EMANUEL URQUHART &
+SULLIVAN, LLP, Wilmington, Delaware; Michael B. Carlinsky, Adam M. Abensohn,
+George T. Phillips, QUINN EMANUEL URQUHART & SULLIVAN, LLP, New York,
+New York; Attorneys for Defendants.
+
+John L. Reed, Peter H. Kyle, Daniel P. Klusman, Michael A. Carbonara, Jr., DLA
+PIPER LLP (US), Wilmington, Delaware; Attorneys for Nominal Defendants.
+
+LASTER, V.C.
+      A Delaware limited partnership provided wireless service in rural Oklahoma.
+
+Through affiliates, AT&T, Inc. held limited partnership interests in the partnership
+
+and served as its general partner. Two other business entities were its only other
+
+limited partners. In this lawsuit, the two limited partners contend that AT&T and its
+
+affiliates failed to properly allocate revenue and expenses to the partnership,
+
+depriving the partnership of millions of dollars of profit and the limited partners of
+
+the resulting distributions.1
+
+      After the court denied AT&T’s initial motion to dismiss, the plaintiffs amended
+
+their complaint to assert two new legal theories (the “New Expense Claims”). One
+
+contends that AT&T breached the partnership agreement by charging the
+
+partnership for interconnect service at greater than cost (the “Interconnect Claim”).
+
+The other contends that AT&T breached the partnership agreement by causing the
+
+partnership to lease spectrum from AT&T at greater than cost (the “Spectrum
+
+Claim”).
+
+      AT&T moved to dismiss the New Expense Claims as untimely. That motion is
+
+denied. The New Expense Claims can challenge transactions effectuated within three
+
+years of the filing of the operative complaint. For the Interconnect Claim, that means
+
+reaching back to 2019, and for the Spectrum Claim, that means reaching back to
+
+2022. It is possible that the plaintiffs can reach back further because equitable tolling
+
+
+
+
+      1 While   important for many purposes, the distinctions among the entities
+through which AT&T acted are not significant for purposes of this motion. For
+simplicity, this decision refers solely to AT&T.
+inferably applies, but it is also possible that the plaintiffs were on inquiry notice and
+
+are unable to invoke equitable tolling. The answer to the tolling issue depends on
+
+factual determinations that the court cannot make at the pleading stage. The motion
+
+to dismiss on timeliness grounds is therefore denied.
+
+      AT&T also moved to dismiss the New Expense Claims on the merits to the
+
+extent they asserted claims for breach of contract. That motion is denied as well.
+
+                         I.     FACTUAL BACKGROUND
+
+      The facts are drawn from the operative complaint, documents integral to the
+
+complaint or incorporated by reference, and documents subject to judicial notice.2 At
+
+this procedural stage, the court must credit the complaint’s well-pled allegations and
+
+draw all reasonable inferences in the plaintiffs’ favor.
+
+
+
+
+      2   The operative complaint is the Second Amended Verified Derivative
+Complaint in Civil Action 2022-1087-JTL (the “Cherokee Action”). There are actually
+eleven Second Amended Verified Derivative Complaints and three Second Amended
+Verified Derivative and Direct Complaints, one for each of the fourteen actions
+coordinated for pre-trial purposes under this caption. See Dkts. 135–136, 141–152.
+Each action relates to a different partnership. The parties have sought to brief all of
+the issues involving all of the partnerships all at once, but the partnership
+agreements differ, the factual allegations differ, and sometimes the governing law
+differs. Trying to address everything all at once generates confusion and heightens
+the risk of error. This decision resolves the motion to dismiss in the Cherokee Action.
+The court will enter targeted orders or, if necessary, decisions addressing the other
+actions.
+
+      References and citations to the “complaint” mean the currently operative
+complaint in the Cherokee Action. Dkt. 148. Citations in the form “OB __,” “AB __,”
+and “RB ___” refer to the parties’ opening, answering and reply briefs, respectively.
+See Dkts. 183, 200, 208. Citations in the form “Ex. ___ at ___” refer to exhibits the
+defendants submitted in support of their motion to dismiss. Page references cite
+internal pagination whenever possible.
+
+                                           2
+A.    Spectrum Licenses
+
+      Cellular telephones send and receive communications using frequencies on the
+
+electromagnetic spectrum. The Federal Communications Commission (“FCC”)
+
+regulates who can use portions of spectrum and for what purposes.
+
+      In 1981, the FCC allocated spectrum for cellular telephones. The agency
+
+established 734 geographic markets called Cellular Market Areas or “CMAs.” The
+
+FCC made two blocks of spectrum available in each CMA: one through a “Block A”
+
+license and the other through a “Block B” license.
+
+      The FCC generally awarded Block A licenses by lottery. Investors formed
+
+groups, called settlement associations, to increase their chances of winning. Like
+
+employees who form an office pool to buy lottery tickets with an agreement to split
+
+any winnings, the members of a settlement association agreed that if one of them won
+
+the license, then the winning member would contribute it to a partnership in which
+
+all of the members would participate. Under the standard agreement, the winning
+
+member would receive at least a 50.01% interest in the partnership with other
+
+members sharing the balance. The resulting partnerships typically affiliated with a
+
+national cellular telephone carrier so they could be part of a larger network.
+
+      The FCC awarded the Block B license differently. It went to the incumbent
+
+landline carrier in each CMA. If multiple carriers served a CMA, then the Block B
+
+license went to an entity that the incumbent carriers owned jointly.
+
+
+
+
+                                          3
+B.    The Partnership
+
+      AT&T, Cherokee Telephone Company, and Chickasaw Telephone Company
+
+were the incumbent carriers in a CMA in rural Oklahoma.3 In 1989, they formed the
+
+Oklahoma RSA 9 Limited Partnership (the “Partnership”) to own the Block B license
+
+for that CMA.
+
+      When the parties formed the Partnership, they entered into a partnership
+
+agreement to govern its affairs (the “Partnership Agreement”). 4 The Partnership
+
+Agreement designated AT&T as the General Partner.5 AT&T owned a 63.2% interest
+
+in the Partnership, while Cherokee owned a 20% interest and Chickasaw owned a
+
+16.8% interest.
+
+      The purpose of the Partnership was to “fund, establish and provide Cellular
+
+Service,” initially in the area covered by its license but with the possibility of
+
+expanding “to include other areas.”6 The Partnership Agreement defined “Cellular
+
+Service” broadly as:
+
+      Any and all services authorized by the FCC under Part 22 of its cellular
+      rules, as amended from time to time, as promulgated under the Cellular
+      Radio Decisions, and/or provided pursuant to the terms of this
+
+
+      3  At the time, the corporation now known as AT&T was known as
+Southwestern Bell Corporation. In 2004, Southwestern Bell merged with what was
+then AT&T and changed its name to AT&T. The entity is the same. For simplicity,
+this decision refers to AT&T.
+
+      4 Ex. 1 (cited as “PA”).
+
+
+      5 It was actually an affiliate, but as noted, the distinction between AT&T and
+
+its affiliates are not important for purposes of this decision.
+
+      6 PA § 1.3.
+
+
+
+                                            4
+      Agreement. Such cellular service may include, but is not limited to, both
+      wholesale and retail distribution of such authorized service. The
+      Partners acknowledge that the Partnership may also engage in other
+      ancillary activities which the General Partner in good faith determines
+      to be in the best interests of the Partnership.7
+
+Demonstrating that the Partnership intended to provide cellular service as part of a
+
+wider network, the Partnership Agreement made the General Partner responsible for
+
+“obtaining interconnection with the landline network, for operating and maintaining
+
+the Cellular Service system, and for marketing Cellular Service.”8
+
+      The General Partner’s responsibilities included providing “management and
+
+accounting services to the Partnership consisting of, but not limited to, maintaining
+
+books of record, … preparing accounting reports (in accordance with generally
+
+accepted accounting principles …), and other records and reports” (the “Services
+
+Provision”). 9 The same provision authorized the General Partner to provide “as
+
+necessary, certain other services necessary for the Partnership to carry on and
+
+expand its activities and functions, including but not limited to, real estate
+
+management, advertising, legal, office personnel management, engineering,
+
+marketing and the like.”10
+
+
+
+
+      7 Id. § 2.4.
+
+
+      8 Id. § 4.1.
+
+
+      9 Id.
+
+
+      10 Id.
+
+
+
+                                         5
+      Next, the Partnership Agreement addressed payment for the General
+
+Partner’s services:
+
+      [T]he General Partner shall be reimbursed by the Partnership monthly
+      for any reasonable and necessary expenses incurred by the General
+      Partner on behalf of the Partnership in providing, and preparing to
+      provide, Cellular Service plus reasonable and necessary administrative
+      and general overhead expenses, including, but not limited to, marketing,
+      maintenance, message charges, facilities, engineering, legal, accounting
+      and audit fees, development and implementation of billing procedures,
+      expenses of preparing tax returns and reports, taxes, travel, office rent,
+      telephone, salaries …, and any and all other business expenses incurred
+      by the General Partner on behalf of the Partnership in connection with
+      the provision of Cellular Service.11
+
+The same provision specified that “[t]he General Partner shall not be entitled to any
+
+profit in rendering such services to the Partnership” (the “No-Profit Requirement”).12
+
+To drive that point home, the provision emphasized that the partners intended
+
+instead for the General Partner to receive “its proportionate allocated share of income
+
+and losses.”13
+
+      The Partnership Agreement separately authorized the General Partner to buy
+
+or lease assets from the General Partner or its affiliates and, if warranted, hold assets
+
+as the Partnership’s nominee (the “Asset Provision”). The same provision required
+
+that any transactions be “upon terms and conditions reasonably comparable to those
+
+
+
+
+      11 Id. § 4.2.
+
+
+      12 Id.
+
+
+      13 Id.
+
+
+
+                                           6
+which the Partnership could obtain at arm’s length from unaffiliated parties” (the
+
+“Arm’s-Length Requirement”).14
+
+      Another section of the Partnership Agreement identified a list of actions that
+
+the Partnership had the express power to take. The list included the power “[t]o enter
+
+into, perform and carry out contracts and agreements of every kind necessary or
+
+incidental to the accomplishment of the Partnership’s purposes, including, without
+
+limitation, contracts and agreements with the General Partner and Affiliates of the
+
+General Partner.” 15 The next section identified a list of actions that the General
+
+Partner had the express power to take on the Partnership’s behalf, including “to
+
+establish interconnection and switching arrangements with other cellular carriers in
+
+areas adjoining the RSA and elsewhere upon such terms as the General Partner
+
+deems necessary or appropriate and in the best interest of the Partnership.”16
+
+      A final section, titled “Conflict of Interest,” revisited the subject of interested
+
+transactions (the “Affiliate-Transaction Provision”). It stated:
+
+      The General Partner and its Affiliates shall have the right to contract
+      or otherwise deal with the Partnership for the sale or lease of real or
+      personal property, the rendition of services and other purposes, and to
+      receive payments and fees from the Partnership in connection
+      therewith, provided that the terms and conditions of such transactions
+      are comparable to, or not substantially less favorable than, similar
+      arms’-length transactions between the General Partner or its Affiliates
+      and unrelated third parties. The Partners recognize that the General
+      Partner may have conflicting duties to its many Affiliates including
+
+
+      14 Id. § 4.3.
+
+
+      15 Id. § 7.1.
+
+
+      16 Id. § 7.2.
+
+
+
+                                           7
+      without limitation in transactions between two of its Affiliates. In the
+      absence of gross negligence or willful misconduct, the General Partner's
+      resolution of such conflict of interest shall not constitute a breach of this
+      Agreement or any other agreement contemplated herein.17
+
+The Affiliate-Transaction Provision thus nominally required arm’s-length terms, but
+
+stated that a breach would not exist “[i]n the absence of gross negligence or willful
+
+misconduct” (the “Conduct Standard”).
+
+C.    NPA-NXX Accounting
+
+      Starting in the 1980s, the wireless industry tracked subscribers and usage
+
+using the “NPA-NXX” system, a shorthand term for the area code and next three
+
+digits of the subscriber’s phone number. For example, in the phone number 999-555-
+
+1234, the NPA-NXX is 999-555. Adding the last four digits yields a block of 10,000
+
+possible phone numbers, ranging from 999-555-0000 to 999-555-9999.
+
+      Wireless carriers assigned NPA-NXX blocks based on geography. AT&T
+
+assigned blocks of NPA-NXX numbers to particular market-level entities, like the
+
+Partnership, that served specific geographic areas.
+
+      When signing up with a carrier, a customer received a ten-digit telephone
+
+number from the NPA-NXX block that corresponded to the customer’s principal place
+
+of use. Wireless carriers used the ten-digit telephone numbers to track subscribers
+
+and non-subscribers using their networks. They charged roaming fees when a
+
+customer used a cellular telephone outside the customer’s principal place of use.
+
+
+
+
+      17 Id. § 7.5.
+
+
+
+                                           8
+      AT&T used the NPA-NXX system to allocate revenue and expenses to market-
+
+level entities like the Partnership. The allocated items included:
+
+•     Monthly recurring revenue attributable to the Partnership’s subscribers;
+
+•     Outcollect roaming revenue attributable to non-subscribers roaming in the
+      Partnership’s geographic area;
+
+•     Incollect roaming expense attributable to the Partnership’s subscribers
+      roaming outside the Partnership’s geographic area; and
+
+•     Other expenses attributable to operating AT&T’s national network.
+
+      For approximately two decades, two factors worked in combination to cause
+
+the NPA-NXX system to generate reasonably accurate allocations. First, a subscriber
+
+who wanted to change cellular carriers had to give up their old number and get a new
+
+one. The new number would correspond to the customer’s new principal place of use.
+
+Second, a subscriber who moved to a new geographic area without changing their
+
+principal place of use or securing a new number with an NPA-NXX assigned to that
+
+area would incur roaming charges, giving the subscriber a financial incentive to
+
+change numbers or update their principal place of use.
+
+      But as technology evolved, three developments caused the NPA-NXX system
+
+to become less and less accurate. The first was number portability, mandated by the
+
+Telecommunications Act of 1996 and effective starting in 2003. After number
+
+portability, a subscriber who moved out of the Partnership’s geographic area could
+
+keep a telephone number associated with an NPA-NXX block issued to the
+
+Partnership, even though the subscriber was no longer a Partnership customer or
+
+using the Partnership’s assets. Conversely, a subscriber who became a Partnership
+
+
+
+                                          9
+customer could keep a telephone number associated with a different NPA-NXX block,
+
+even though the subscriber was now using the Partnership’s assets. The NPA-NXX
+
+system did not reflect those changes. Under AT&T’s allocation system, the
+
+Partnership continued to receive revenue and incur expenses for subscribers with
+
+affiliated-NPA-NXX numbers who moved out of the Partnership’s area, while never
+
+receiving revenue or incurring expenses for subscribers with unaffiliated-NPA-NXX
+
+numbers who moved into the Partnership’s area. The exception was roaming, because
+
+AT&T would treat a subscriber with an NPA-NXX number affiliated with the
+
+Partnership as roaming whenever outside the Partnership’s area, even if the
+
+subscriber had moved. Likewise, AT&T would treat a subscriber with an NPA-NXX
+
+number affiliated with a different geographic area as roaming whenever in the
+
+Partnership’s area, even if the subscriber had now lived there.
+
+      The second development was the emergence of national rate plans that allowed
+
+subscribers to use their phones anywhere in the United States without incurring
+
+roaming charges. A subscriber who moved therefore no longer had a financial
+
+incentive to secure a telephone number with an NPA-NXX number associated with
+
+their principal place of use. Yet despite eliminating roaming for subscribers, AT&T
+
+continued to impose roaming charges internally. The Partnership therefore had to
+
+pay roaming charges for any affiliated-NPX-NXX numbers used outside the
+
+Partnership’s geographic area, even if the subscriber had moved. Likewise, other
+
+market-level entities had to pay roaming charges to the Partnership for any NPA-
+
+
+
+
+                                         10
+NXX numbers associated with other geographic areas when they were used in the
+
+Partnership’s area.
+
+      The first two developments broke the link between NPA-NXX and principal
+
+place of use. The third development was AT&T’s expansion into non-traditional
+
+wireless businesses, which broke the link between traditional cellular telephone use
+
+and a fair allocation of revenue and expenses. AT&T found ways to use its national
+
+network to host new types of devices and provide new products, such as geolocation
+
+services, communication with products through the Internet of Things, and the
+
+collection and sale of Big Data. AT&T even sold handset insurance. Those businesses
+
+generated revenue because of AT&T’s ability to supply a national network. But even
+
+though entities like the Partnership were part of the network, AT&T did not allocate
+
+any portion of the profit to the market-level entities. The same was true for subscriber
+
+data. When collecting and selling subscriber data, AT&T commingled data from all
+
+of its subscribers without allocating any portion of the profits to market-level entities
+
+like the Partnership for their share of AT&T’s subscribers.18
+
+
+
+
+      18 For example, in spring 2009, AT&T announced that it was working with
+
+major corporate partners to develop new applications for devices that would transmit
+data without a cellular telephone. AT&T contracted to supply those applications on a
+national basis. Under the resulting contracts, AT&T committed the Partnership to
+provide services for the devices for the new customers. Yet AT&T did not allocate a
+share of the value from the business to market-level entities like the Partnership.
+AT&T simply paid the Partnership and other market-level entities the same fee that
+it paid a competitor when an AT&T device pinged on that competitor’s network.
+AT&T did not share any of the value associated with its network as a whole, even
+though market-level entities like the Partnership were essential parts of the network.
+
+                                           11
+      Collectively, these developments rendered the NPA-NXX accounting system
+
+both unreliable and unfair. The NPA-NXX accounting method used individual
+
+subscriber counts and usage to allocate revenue and most expenses to market-level
+
+entities like the Partnership, but NPA-NXX accounting became so unreliable that
+
+AT&T could not provide basic information about its subscribers, such as:
+
+•     The number of subscribers who resided in any specific partnership’s
+      geographic area but used another partnership’s NPA-NXX numbers;
+
+•     The number of subscribers who resided outside any specific partnership’s
+      geographic area but used an NPA-NXX number assigned to that partnership;
+
+•     The number of subscribers who had moved to a different geographic area,
+      changed their billing address and principal place of use to an address in that
+      geographic area, yet continued to use another partnership’s NPA-NXX
+      number; or
+
+•     The number of subscribers who resided in a geographic area different from the
+      one that issued their NPA-NXX number.
+
+The allocations that the NPA-NXX system generated became arbitrary.
+
+D.    The Better But Never-Implemented Allocation Method
+
+      By 2005, AT&T recognized that changing technological and market conditions
+
+necessitated new accounting methods. Around that time, AT&T entered into
+
+Management and Network Sharing Agreements (the “Sharing Agreements”) with a
+
+number of its market-level affiliates. AT&T drafted the Sharing Agreements and
+
+backdated them to be effective as of January 1, 2003.
+
+      The Sharing Agreements established new methods for allocating expenses.
+
+They identified interconnect expense as an “Out-of-Pocket Expense” that AT&T
+
+
+
+
+                                        12
+charged at cost.19 They also provided for spectrum lease expense to be charged at cost.
+
+And they addressed roaming by establishing that subscribers could roam on AT&T’s
+
+network “without any direct charges.”20
+
+      AT&T’s decision to enter into the Sharing Agreements supports a pleading
+
+stage inference that AT&T recognized that its NPA-NXX-based system for allocating
+
+revenue and expenses was unfair. The Sharing Agreements also recognized that
+
+conditions could continue to change and authorized AT&T to revise its accounting
+
+procedures from time to time “provided that any new methodology fairly accounts for
+
+the revenues and expenses of Owner’s Business.”21
+
+      AT&T never entered into a Sharing Agreement with the Partnership. AT&T
+
+also never adopted the methods identified in the Sharing Agreements for allocating
+
+revenue and expenses to the Partnership. Instead, AT&T continued to use the NPA-
+
+NXX methodology.
+
+      By continuing to use the NPA-NXX methodology for the Partnership, AT&T
+
+accounted for its revenue and expenses to the Partnership as if it were an
+
+independent, stand-alone entity whose business had not progressed beyond providing
+
+
+
+
+      19 Compl. ¶ 54.
+
+
+      20 Id. ¶ 53.
+
+
+      21 Compl. Ex. 1 § VI(A); see also id. § VI(B) (“Manager may change the way it
+
+calculates the specified rate from time to time in order to adapt to changing market
+and technological conditions, provided that the rate is always calculated in a way that
+the cost Owner pays is in proportion to the benefit Owner’s Business receives from
+the Shared Network relative to the benefit Manager’s Business receives.”).
+
+                                          13
+voice and basic data services to a limited group of subscribers in a specific geographic
+
+area. For its own purposes, by contrast, AT&T managed the Partnership’s assets as
+
+if an integrated part of its national network. Operationally, AT&T treated the
+
+Partnership’s assets as if they were part of AT&T’s national footprint.
+
+      AT&T’s continued use of the NPA-NXX accounting method reduced the
+
+Partnership’s profits by limiting the revenue attributable to the Partnership’s assets.
+
+As a result, the Partnership generated lower profits and smaller annual distributions
+
+than it would have if AT&T used fair methods like those in the Sharing Agreements
+
+to allocate revenue.
+
+E.    The Issues Giving Rise To The New Expense Claims
+
+      Despite not updating its accounting methods, AT&T did allocate some types of
+
+new expenses to the Partnership. One was interconnect expense. The other involved
+
+spectrum leasing. Those expenses form the basis for the New Expense Claims.
+
+      Interconnect expense recognizes that after a cellular telephone sends a radio
+
+signal to a tower, the signal moves through AT&T’s national network to its
+
+destination by passing through a series of switches. AT&T entered into contracts with
+
+its landline market-level entities to provide interconnect service free of charge to all
+
+AT&T cellular sites in their regions.
+
+      AT&T did not include its cellular market-level entities in those contracts.
+
+Instead, AT&T billed its cellular market-level entities at its standard interconnect
+
+rates, which were above AT&T’s cost and reflected the amounts that AT&T would
+
+charge a third-party carrier that used a portion of AT&T’s network. AT&T then
+
+aggregated the total interconnect expense for its cellular market-level entities and
+                                          14
+allocated a portion to the Partnership. As a result, the Partnership paid AT&T as if
+
+the Partnership were a third-party carrier, rather than part of AT&T’s network.
+
+AT&T also never removed “dead circuits” from its accounting system, forcing the
+
+Partnership to pay for wires that no longer carried data.
+
+      AT&T also allocated spectrum expense to the Partnership. Under an
+
+agreement dated September 8, 2015 (the “Spectrum Lease”), AT&T caused the
+
+Partnership to lease spectrum from AT&T at rates above AT&T’s cost. Over time,
+
+AT&T added additional spectrum to the Spectrum Lease and increased the fees it
+
+charged to the Partnership.
+
+F.    In re Cellular Telephone Partnership Litigation
+
+      In 2010 and 2011, former minority partners in thirteen cellular partnerships
+
+sued AT&T. After a decade-long litigation culminating in a five-day trial, the court
+
+issued two post-trial opinions. One addressed the plaintiffs’ claims for breach of
+
+contract (the “Contract Decision”). 22 The other addressed the plaintiffs’ breach of
+
+fiduciary duty claims (the “Fiduciary Duty Decision”).23
+
+      The plaintiffs allege that they learned how AT&T managed the Partnership by
+
+reading the Contract and Fiduciary Duty Decisions. The plaintiffs allege that they
+
+did not previously know how AT&T allocated revenue and expenses.
+
+
+
+
+      22 In re Cellular Tel. P’ship Litig., 2021 WL 4438046 (Del. Ch. Sept. 28, 2021).
+
+
+      23 In re Cellular Tel. P’ship Litig., 2022 WL 698112 (Del. Ch. Mar. 9, 2022).
+
+
+
+                                         15
+G.    This Litigation
+
+      On November 28, 2022, the plaintiffs sued AT&T Inc. and five of its affiliates.
+
+The plaintiffs filed the currently operative complaint that added the New Expense
+
+Claims on October 27, 2025. The Interconnect Claim asserts that AT&T breached the
+
+Partnership Agreement by overcharging the Partnership for interconnect service.
+
+The Spectrum Claim contends that AT&T overcharged the Partnership under the
+
+Spectrum Lease. The plaintiffs’ earlier complaint had not specifically identified those
+
+expenses or called out the sections in the Partnership Agreement that AT&T
+
+allegedly breached by charging them. Aspects of the New Expense Claims appear in
+
+Counts I, III, IV, V, VI, and VII of the complaint.
+
+                             II.    LEGAL ANALYSIS
+
+      AT&T has moved to dismiss the New Expense Claims under Rule 12(b)(6).
+
+When considering that type of motion, “a trial court should accept all well-pleaded
+
+factual allegations in the Complaint as true, accept even vague allegations in the
+
+Complaint as ‘well-pleaded’ if they provide the defendant notice of the claim, [and]
+
+draw all reasonable inferences in favor of the plaintiff.”24 The court should “deny the
+
+motion unless the plaintiff could not recover under any reasonably conceivable set of
+
+circumstances susceptible of proof.”25 Delaware’s “governing ‘conceivability’ standard
+
+
+
+
+      24 Cent. Mortg. Co. v. Morgan Stanley Mortg. Cap. Hldgs. LLC, 27 A.3d 531,
+
+536 (Del. 2011).
+
+      25 Id.
+
+
+
+                                          16
+is more akin to ‘possibility,’ while the federal ‘plausibility’ standard falls somewhere
+
+beyond mere ‘possibility’ but short of ‘probability.’”26
+
+A.    The Timeliness Defense
+
+      AT&T argues that the New Expense Claims are untimely. For a court to grant
+
+a Rule 12(b)(6) motion on timeliness grounds, the complaint’s allegations must
+
+establish that the claim was filed too late.27 When evaluating whether a complaint’s
+
+allegations support a timeliness defense, a court “must draw the same plaintiff-
+
+friendly inferences required in a 12(b)(6) analysis.”28 When reviewing a timeliness
+
+defense, the “court effectively assumes the validity of the claims, then applies
+
+timeliness principles.”29
+
+      1.     Statute Of Limitations Versus Laches
+
+      The Court of Chancery uses two conceptual frameworks to analyze timeliness:
+
+the statute of limitations and laches. 30 Court of Chancery decisions traditionally
+
+analyze at the outset which framework should be used.
+
+
+
+
+      26 Id. at 537 n.13.
+
+
+      27 Lebanon Cty. Emps.’ Ret. Fund v. Collis, 287 A.3d 1160, 1193 (Del. Ch. 2022)
+
+(citing Kahn v. Seaboard Corp., 625 A.2d 269, 277 (Del. Ch. 1993)).
+
+      28 State ex rel. Brady v. Pettinaro Enters., 870 A.2d 513, 524–25 (Del. Ch. 2005).
+
+
+      29 Collis, 287 A.3d at 1193.
+
+
+      30 See Whittington v. Dragon Gp., L.L.C., 991 A.2d 1, 7 (Del. 2009) (“Both the
+
+doctrine of laches and statutes of limitations function as time bars to lawsuits.”).
+
+                                            17
+      A statute of limitations presumptively bars claims that a plaintiff does not file
+
+within a statutorily specified period.31 Laches, by contrast, is theoretically a more
+
+flexible doctrine because it places the burden on the defendant to make two fact-based
+
+showings: (i) establishing that the plaintiff delayed unreasonably in bringing a known
+
+claim, and (ii) demonstrating prejudice caused by the delay. 32 But Delaware law
+
+treats delay beyond the analogous statutory limitations period as presumptively
+
+unreasonable for purposes of laches.33 Moreover, in Moelis, the justices extended that
+
+
+
+      31 Kraft v. WisdomTree Invs., Inc., 145 A.3d 969, 974–75 (Del. Ch. 2016).
+
+
+      32 Levey v. Brownstone Asset Mgmt., LP, 76 A.3d 764, 769 (Del. 2013).
+
+
+      33 Moelis & Co. v. W. Palm Beach Firefighters’ Pension Fund, --- A.3d ---, ---,
+
+2026 WL 184868, at *15 (Del. Jan. 20, 2026) (“[T]he plaintiff has presumptively
+delayed unreasonably in bringing its claim against Moelis by filing it well outside the
+analogous limitations period.”); accord Levey, 76 A.3d at 769 (“A filing after the
+expiration of the analogous limitations period is presumptively an unreasonable
+delay for purposes of laches.”). Before Moelis, trial court decisions had asserted that
+delaying beyond the analogous limitations period presumptively caused prejudice,
+but the Delaware Supreme Court had not yet adopted that rule nor applied it to a
+case where none of the facts were in dispute. Tracing the trial court line of authority
+ends in a Chancery Court decision from 2013 in which the court stated without
+citation that “[a]fter the statute of limitations has run, defendants are entitled to
+repose and are exposed to prejudice as a matter of law by a suit by a late-filing
+plaintiff who had a fair opportunity to file within the limitations period.” In re Sirius
+XM S’holder Litig., 2013 WL 5411268, at *4 (Del. Ch. Sept. 27, 2013). For an equitable
+claim to which laches traditionally applied, that reasoning is circular. Digging further
+leads to a Chancery Court decision stating, “[i]n the absence of unusual or mitigating
+circumstances, where the analogous statute of limitations at law period has run, a
+plaintiff is barred from bringing suit without the necessity of the court engaging in a
+traditional laches analysis.” Albert v. Alex. Brown Mgmt. Servs., Inc., 2005 WL
+1594085, at *12 (Del. Ch. June 29, 2005). The court cited two decisions to support
+that statement; both applied laches to legal claims seeking money damages, which
+presented a narrower situation. See U.S. Cellular Inv. Co. of Allentown v. Bell Atl.
+Mobile Sys., Inc., 677 A.2d 497, 502 (Del. 1996) (breach of contract); Atlantis Plastics
+Corp. v. Sammons, 558 A.2d 1062, 1064 (Del. Ch. 1989) (fraud).
+
+                                           18
+presumption to hold that delay beyond the analogous limitations period
+
+presumptively prejudices the defendant, even in a case that did not require any
+
+factual development and could be decided as a matter of law.34 The court hastened to
+
+add that “[t]his is not to say that the presumption that an action is barred by laches
+
+if it is filed after the analogous statute of limitations has elapsed is irrebuttable,” but
+
+the exceptions it cited were (i) a line of cases allowing a court to set aside the statute
+
+of limitations for “unusual conditions or extraordinary circumstances” and (ii) tolling
+
+doctrines, which apply equally to the statute of limitations.35 At present, therefore,
+
+the principal difference between the timeliness doctrines is that laches can bar a
+
+claim brought within the limitations period if there are reasons it should have been
+
+brought sooner.36
+
+
+
+
+      34 Moelis,  2026 WL 184868, at *15 (“Although the defendant raising an
+affirmative defense bears the burden of satisfying each element of that defense, it
+does not follow that, to invoke the doctrine of laches, a defendant must in all cases
+show that its defense of the claim at issue would be hampered by loss of evidence,
+faded memories, or some substantive change in the situation of the parties or
+property at issue.”) (citations omitted).
+
+      35 Id.  at *16 (citations omitted). Even equitable tolling is not limited to
+equitable claims; it can be invoked to toll a statute of limitations for claims at law as
+well. See, e.g., Tamirie v. Servis One, Inc., 2026 WL 1832404, at *3 (Del. Super. Ct.
+June 23, 2026) (analyzing whether equitable tolling applied to breach of contract
+claim); Stoltz Mgmt. of Del., Inc. v. Entrata, Inc., 2026 WL 252662, at *5 (Del. Super.
+Ct. Jan. 30, 2026) (same); Jeter v. RevolutionWear, Inc., 2016 WL 3947951, at *10–11
+(Del. Ch. July 19, 2016) (applying equitable tolling to fraudulent inducement claim).
+
+      36 See Moelis, 2026 WL 184868, at *16 n.104 (stressing that laches “may dictate
+
+that the Court of Chancery bar a presumptively timely lawsuit filed within the
+analogous limitations period”).
+
+                                            19
+      This case involves plaintiffs suing after the analogous statutory period. There
+
+is thus little to be gained by deciding between the statute of limitations and laches.
+
+But the court will follow custom and conduct the analysis anyway.
+
+      “If a plaintiff brings a legal claim seeking legal relief in the Court of Chancery,
+
+the statute of limitations (and its tolling doctrines) logically should apply strictly and
+
+laches should not apply.”37 If a plaintiff brings an equitable claim seeking equitable
+
+relief, “the doctrine of laches applies and any applicable statute of limitations would
+
+apply only by analogy,” but “the Court tends to afford great weight to the analogous
+
+statutory period … and may bar a claim without further laches analysis.”38 “When an
+
+equitable claim seeks legal relief or a legal claim seeks equitable relief, the Court also
+
+will apply the statute of limitations by analogy, but with at least as much and perhaps
+
+more presumptive force.”39
+
+      The New Expense Claims assert breaches of the Partnership Agreement and
+
+breaches of AT&T’s fiduciary duties. The natural remedy for each is an award of
+
+money damages. The laches analysis therefore tracks the statute of limitations
+
+analysis. For this case, the resulting inquiry has four steps: (1) identifying the
+
+limitations period; (2) applying an accrual method; (3) identifying the operative
+
+
+
+
+      37 Kraft, 145 A.3d at 983.
+
+
+      38 Id.
+
+
+      39 Id.
+
+
+
+                                           20
+complaint for purposes of assessing when the claim was asserted, and (4) evaluating
+
+any tolling doctrines.
+
+      2.     The Limitations Period
+
+      The first step is to determine the analogous statute of limitations. Delaware’s
+
+general statute of limitations states:
+
+      No action to recover damages for trespass, no action to regain possession
+      of personal chattels, no action to recover damages for the detention of
+      personal chattels, no action to recover a debt not evidenced by a record
+      or by an instrument under seal, no action based on a detailed statement
+      of the mutual demands in the nature of debit and credit between parties
+      arising out of contractual or fiduciary relations, no action based on a
+      promise, no action based on a statute, and no action to recover damages
+      caused by an injury unaccompanied with force or resulting indirectly
+      from the act of the defendant shall be brought after the expiration of 3
+      years from the accruing of the cause of such action; subject, however, to
+      the provisions of §§ 8108-8110, 8119 and 8127 of this title.40
+
+The plaintiffs have framed the New Expense Claims as (i) breaches of fiduciary duty
+
+(Counts I and III), (ii) aiding and abetting breaches of fiduciary duty (Count IV); (iii)
+
+unjust enrichment (Count V), (iv) breaches of contract (Count VI), and (v) tortious
+
+
+
+
+      40 10 Del. C. § 8106(a).
+
+
+
+                                           21
+interference with contract (Count VII).41 A three-year statute of limitations governs
+
+each claim.42
+
+      3.        Accrual
+
+      The second step is to determine when the claims accrued.43 That date matters
+
+because the statute of limitations begins to run from claim accrual.44
+
+      Delaware is an occurrence-rule jurisdiction, meaning that a cause of action
+
+accrues when the wrongful act occurs, even if the plaintiff does not know about the
+
+event or the possible cause of action.45 “The ‘wrongful act’ is a general concept that
+
+varies depending on the nature of the claim at issue. For breach of contract claims,
+
+
+
+
+      41 The plaintiffs have not framed Count II as a New Expense Claim. That count
+
+asserts a breach of fiduciary duty against the general partner for failing to monitor
+the Partnership’s business and ensure that AT&T appropriately allocated revenue
+and expenses to the Partnership. That claim does not hinge on the rates AT&T
+charged the Partnership for interconnect service or caused the Partnership to pay for
+spectrum.
+
+      42 See Garfield v. Allen, 277 A.3d 296, 318 (Del. Ch. 2022) (“The statute of
+
+limitations is three years for a claim for breach of fiduciary duty, a claim for breach
+of contract, and a claim for unjust enrichment.”); Dubroff v. Wren Hldgs., LLC, 2011
+WL 5137175, at *12 (Del. Ch. Oct. 28, 2011) (“Under Delaware law, claims for breach
+of fiduciary duty, aiding and abetting a breach of fiduciary duty, and unjust
+enrichment … are generally addressed with reference to a three-year statute of
+limitations.”) (citation omitted); WaveDivision Hldgs., LLC v. Highland Cap. Mgmt.
+L.P., 2011 WL 5314507, at *9 (Del. Ch. Nov. 2, 2011) (“In Delaware, claims for tortious
+interference with contractual relations are governed by the three year statute of
+limitations.”) (citing 10 Del. C. § 8106), aff’d, 49 A.3d 1168 (Del. 2012).
+
+      43 See US Cellular, 677 A.2d at 503.
+
+
+      44 See Collis, 287 A.3d at 1195.
+
+
+      45 ISN Software Corp. v. Richards, Layton & Finger, P.A., 226 A.3d 727, 732
+
+(Del. 2020).
+
+                                          22
+the wrongful act is the breach, and the cause of action accrues at the time of breach.
+
+For tort claims, the wrongful act is a tortious act causing injury, and the cause of
+
+action accrues at the time of injury. Where the claim is one for indemnification or
+
+contribution for damages paid to a third party, a cause of action accrues only after
+
+the party seeking indemnification has made payment to the third party.”46 For a tort
+
+claim to accrue, a plaintiff does not need to be able to plead quantifiable damages.47
+
+It is enough that there has been an injury, however slight, to the plaintiff’s legal
+
+rights.48
+
+       The plaintiff does not have to know it was injured or to have suffered
+
+quantifiable damages for the claim to accrue, even if pleading a justiciable claim
+
+would require a concrete injury and quantifiable damages.49 If a plaintiff does not sue
+
+within the limitations period measured from when the claim accrued, then the claim
+
+is untimely unless a tolling doctrine applies.
+
+
+
+
+       46 Certainteed Corp. v. Celotex Corp., 2005 WL 217032, at *7 (Del. Ch. Jan. 24,
+
+2005) (citations omitted).
+
+       47 See ISN Software, 226 A.3d at 733 n.23.
+
+
+       48 See Kaufman v. C.L. McCabe & Sons, Inc., 603 A.2d 831, 834 (Del. 1992).
+
+
+       49 See ISN Software, 226 A.3d at 733 (“Under the Delaware occurrence rule,
+
+injury is distinct from damages. The statute of limitations can start to run before any
+‘actual or substantial damages’ occur.”) (citation omitted).
+
+                                          23
+      Delaware courts use three methods to determine when a claim accrues: the
+
+discrete act method, the continuing wrong method, and the separate accrual
+
+method.50 Each deals with a different type of injury.
+
+      The discrete act method applies when a party suffers injury starting at a
+
+distinct point in time and the wrong is effectively complete as of that date, even if it
+
+has ongoing effects or implications. To apply that method, “the court starts from when
+
+[the act occurred], counts forward to determine when the limitations period would
+
+end, and checks whether the plaintiff filed suit within the limitations period.”51
+
+      The continuing wrong method applies when the conduct giving rise to the claim
+
+persists over time. The wrongful act “is not complete, and the limitations period does
+
+not begin to run, until the continuing wrong ceases.”52 A claim is rarely untimely
+
+under this accrual method, because “[i]f any portion of the wrongful act occurs within
+
+the limitations period, then the plaintiff can seek to impose liability and recover
+
+damages for the entire period covered by the continuing wrong.”53
+
+      Like the continuing wrong method, the separate accrual method applies when
+
+the conduct giving rise to the claim continues for a period of time. But under the
+
+separate accrual method, the conduct involves a series of interconnected, recurring
+
+
+
+
+      50 See Collis, 287 A.3d at 1178.
+
+
+      51 Id.
+
+
+      52 Id.
+
+
+      53 Id.
+
+
+
+                                          24
+acts, like photons in a beam of light or pearls on a string. Under the separate accrual
+
+method, a timeliness doctrine can limit how far back the plaintiff can go to challenge
+
+wrongful conduct. “[T]he court determines when the plaintiff filed suit, looks back
+
+from that point over the length of the limitations period, and checks whether
+
+actionable conduct took place within that period.”54
+
+      The parties agree that the separate accrual method applies to the Interconnect
+
+Claim. The presumptive actionable period for the Interconnect Claim therefore began
+
+three years before the filing of the operative pleading, unless a tolling doctrine would
+
+enable the plaintiffs to reach back further. The parties dispute whether the operative
+
+pleading is the current complaint, filed on October 27, 2025, or whether the claim
+
+relates back to the original complaint, filed on November 28, 2022. If the former, then
+
+the plaintiffs can challenge interconnect expense going back to October 28, 2022. If
+
+the latter, then the plaintiffs can challenge interconnect expense going back to
+
+November 29, 2019. In each case, a tolling doctrine could push back that date.
+
+      The parties dispute the correct accrual method for the Spectrum Claim. AT&T
+
+argues for the discrete act method, theorizing that the Spectrum Claim challenges a
+
+single decision to cause the Partnership to lease spectrum from AT&T, memorialized
+
+in the Spectrum Lease executed in 2015. The plaintiffs respond that the Spectrum
+
+Lease did not involve a single decision, because the contract gave AT&T discretion to
+
+
+
+
+      54 Id. at 1179.
+
+
+
+                                          25
+add spectrum to the lease and adjust the fees and charges that the Partnership paid.
+
+As a result, the plaintiffs argue for applying the separate accrual method.
+
+      Each side is partially right. Under Delaware law, the act of entering into a
+
+contract is an event that calls for applying the discrete act method.55 The plaintiffs
+
+contend that the Spectrum Lease violated the No-Profit Requirement because it
+
+called for the Partnership to pay an arm’s-length rate.56 Any claim that charging an
+
+arm’s-length rate for spectrum breached the Partnership Agreement or constituted a
+
+breach of fiduciary duty accrued in 2015. The plaintiffs did not sue until November
+
+28, 2022. The plaintiffs did not specifically assert the Spectrum Claim until October
+
+27, 2025. Absent tolling, any challenge to the Spectrum Lease is untimely.
+
+      Likewise, any challenge to AT&T charging the rates that it established in 2015
+
+for the spectrum it leased to the Partnership accrued in 2015 under the discrete act
+
+method. Performance under the contract is treated as a natural consequence flowing
+
+from the original wrongful act of entering into the contract.57 The fact that AT&T
+
+
+
+      55 Moelis, 2026 WL 184868, at *10–11 (contract allegedly voidable under 8 Del.
+
+C. § 141(e)); Seaboard, 625 A.2d at 271 (contract challenged as breach of fiduciary
+duty).
+
+      56 Ex. 17 § 3.1 (“The Partnership shall pay to [AT&T] the annual charge in
+
+equal monthly installments as set forth opposite each Overlap License listed on
+Exhibit B attached hereto (collectively ‘Monthly Charges’), such Monthly Charge
+being an arm’s-length rate based upon an independent expert’s valuation of the
+Overlap Licenses, as such value may be adjusted by the Licensee and agreed to by
+the Parties in the event the Partnership Market is not identical to the geographic
+coverage of the Overlap License.”).
+
+      57 Tchrs.’Ret. Sys. of La. v. Aidinoff, 900 A.2d 654, 666 (Del. Ch. 2006);
+Seaboard, 625 A.2d at 271.
+
+                                         26
+continued to charge those rates for that spectrum does not give rise to new wrongful
+
+acts that could generate additional claims. Any challenge to that spectrum and those
+
+rights accrued in 2015 and is untimely.
+
+      But the plaintiffs also challenge AT&T’s subsequent decisions to add spectrum
+
+to the Spectrum Lease and to increase the amounts that the Partnership paid. The
+
+Spectrum Lease allowed AT&T to do both.58 AT&T did not take those actions in 2015,
+
+nor did AT&T implement them as the straightforward consequence of carrying out
+
+the contract. To the extent those decisions were wrongful acts, they were new
+
+wrongful acts and gave rise to new claims that accrued when AT&T acted.59
+
+
+
+      58 Ex. 17 § 2.2 (“From time to time during the term of this Agreement, [AT&T]
+
+may obtain additional FCC licenses that overlap the Partnership Market (the
+‘Additional Overlap Licenses’). To the extent that [AT&T] determines in its sole
+discretion to deploy such Additional Overlap Licenses in the Partnership Market,
+Exhibit B shall be updated from time to time to reflect the deployment of such licenses
+and the related charges payable by the Partnership with respect to such Additional
+Overlap License. Upon such inclusion, references herein to Overlap Licenses will also
+include any such Additional Overlap Licenses.”); id. § 3.1 (providing that charges
+“may be adjusted by [AT&T] and agreed to by the Parties”).
+
+      59 Aidinoff,   900 A.2d at 666 (treating decision not to exercise contractual
+termination right as wrongful act distinct from original decision to enter into contract
+for purposes of claim accrual and statute of limitations); see Dweck v. Nasser, 2012
+WL 161590, at *22 (Del. Ch. Jan. 18, 2012) (“Like the defendants in Aidinoff, Nasser
+could have discontinued the RAJN payments at any time. Each payment represented
+a discrete decision to perpetuate an unfair course of conduct. Each payment is
+therefore evaluated separately for laches. That doctrine bars any challenge to
+payments made more than three years before Dweck filed her complaint. Challenges
+to later payments are not time-barred.”); Sutherland v. Sutherland, 2010 WL
+1838968, at *5 n.19 (Del. Ch. May 3, 2010) (agreeing that when a contract permitted
+a fiduciary to bill amounts to the company, “the statute of limitations would not begin
+to run until a Choctaw overage was charged to Dardanelle’s account. It would then
+accrue upon, and for, each payment.”) (citation omitted). The court in Coca-Cola
+rejected this line of reasoning, relying on Seaboard. See In re Coca-Cola Enters., Inc.,
+
+
+                                          27
+      For purposes of accrual analysis, therefore, the separate accrual method
+
+applies to spectrum that AT&T added or changes in the fees it charged. But when
+
+advancing any challenges to the addition of new spectrum or adjustments to rates,
+
+the plaintiffs must litigate in a world in which, because of timeliness principles, they
+
+can no longer challenge the contract that allowed AT&T to add spectrum to the lease
+
+or make those adjustments.60 Given that reality, the plaintiffs are likely limited to
+
+challenging whether AT&T’s actions complied with the terms of the contract.
+
+      As with the Interconnect Claim, the separate accrual method applies to the
+
+Spectrum Claim. The presumptive actionable period therefore began three years
+
+before the filing of the operative pleading. The parties dispute whether the operative
+
+pleading is the current complaint, filed on October 27, 2025, which would allow the
+
+plaintiffs to challenge spectrum charges going back to October 28, 2022, or the
+
+original complaint, filed on November 28, 2022, which would allow the plaintiffs to
+
+challenge spectrum charges going back to November 29, 2019. In each case, a tolling
+
+doctrine could push back that date.
+
+      4.     Determining The Operative Complaint
+
+      Under the separate accrual method, the plaintiffs can challenge events that
+
+occurred within a look-back period equal in length to the statute of limitations
+
+
+
+
+2007 WL 3122370, at *6 n.45 (Del. Ch. Oct. 17, 2007), aff’d sub nom. Int’l Bhd.
+Teamsters v. Coca-Cola Co., 954 A.2d 910 (Del. 2008) (TABLE). Seaboard, however,
+did not involve the exercise of discretionary rights; it simply involved ongoing
+management fees charged under a contract. See Seaboard, 625 A.2d at 271.
+
+      60 See Hokanson v. Petty, 2008 WL 5169633, at *5–6 (Del. Ch. Dec. 10, 2008).
+
+
+
+                                          28
+measured from when they asserted their claims. When a plaintiff asserts a new claim
+
+in a later pleading, the look-back period runs from the later pleading unless the newly
+
+asserted claim related back to an earlier pleading.
+
+       Court of Chancery Rule 15(c) governs when an amendment relates back to the
+
+original complaint’s filing date.61 It states:
+
+       Relation Back of Amendments. An amendment to a pleading relates
+       back to the date of the original pleading when:
+
+       (1) the law that provides the applicable statute of limitations allows
+       relation back;
+
+       (2) the amendment asserts a claim or defense that arose out of the
+       conduct, transaction, or occurrence set out—or attempted to be set out—
+       in the original pleading; or
+
+       (3) the amendment changes the party or the naming of the party against
+       whom a claim is asserted, if Rule 15(c)(2) is satisfied and, within 120
+       days of the filing of the complaint, or such additional time the Court
+       allows for good cause shown, the party to be brought in by amendment:
+
+             (A) has received such notice of the institution of the action that
+       the party will not be prejudiced in maintaining a defense on the merits;
+       and
+
+             (B) knew or should have known that, but for a mistake concerning
+       the identify of the proper party, the action would have been brought
+       against the party.62
+
+The plaintiffs rely on Rule 15(c)(2).
+
+       This court has explained that “[t]he relation back doctrine is grounded in
+
+equity, and its purpose is to ‘ameliorate the harsh result of the strict application of
+
+
+
+       61 Ct. Ch. R. 15(c).
+
+
+       62 Id.
+
+
+
+                                            29
+the statute of limitations’ when the defendant should have had notice of the claims.”63
+
+“[I]f [a] plaintiff attempts to allege an entirely different transaction by amendment,
+
+Rule 15(c) [] will not authorize relation back.”64 “[A] separate independent violation
+
+of the same contract provision does not ‘arise’ out of the same conduct, transaction or
+
+occurrence as did the first, unrelated violation.”65 Nor does a “general principle” that
+
+serves as the theme of an original complaint act as “the same as a legal claim” for
+
+purposes of asserting a later pleading. 66 A court will also evaluate whether the
+
+opposing party will be “unduly surprised or prejudiced.”67
+
+      Interpretations of the analogous federal rule serve as persuasive authority for
+
+Rule 15(c). A leading treatise explains that the federal analogue
+
+      is based on the notion that once litigation involving particular conduct
+      or a given transaction or occurrence has been instituted, the parties are
+      not entitled to the protection of the statute of limitations against the
+      later assertion by amendment of … claims that arise out of the same
+      conduct, transaction, or occurrence as set forth in the original
+      pleading.68
+
+
+      63 Cent. Mortg. Co. v. Morgan Stanley Mortg. Cap. Hldgs. LLC, 2012 WL
+4503731, at *3 (Del. Ch. Oct. 1, 2012).
+
+      64 Cent. Mortg. Co. v. Morgan Stanley Mortg. Cap. Hldgs., 2012 WL 3201139,
+
+at *17 (Del. Ch. Aug. 7, 2012) (citation omitted).
+
+      65 Id. at *18.
+
+
+      66 Quadrant Structured Prods. Co., Ltd. v. Vertin, 2015 WL 6157759, at *21
+
+(Del. Ch. Oct. 20, 2015), aff’d, 151 A.3d 447 (Del. 2016) (TABLE).
+
+      67 Buttonwood Tree Value P’rs, L.P. v. R.L. Polk & Co., Inc., 2023 WL 9053173,
+
+at *10 (Del. Ch. Dec. 29, 2023).
+
+      68 6A Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure
+
+§ 1496 (3d ed. 2010), Westlaw (database updated Apr. 2026).
+
+                                          30
+Amendments that “merely correct technical deficiencies or expand or modify the facts
+
+alleged in the earlier pleading” or that “do no more than restate the original claim
+
+with greater particularity or amplify the details of the transaction alleged in the
+
+preceding pleading” relate back under Rule 15(c).69 “Amendments that go beyond the
+
+mere correction or factual modification of the original pleading and significantly alter
+
+the claim or defense alleged in that pleading are treated more cautiously.”70
+
+      When determining whether an amendment will relate back, a court evaluates
+
+whether the two pleadings arise from “a common core of operative facts.”71 A court
+
+also gives weight to whether the amendment will “have a substantial impact on the
+
+merits of the case and may require the opposing party to prepare the case a second
+
+time.”72 When considering that burden, the court will take into account whether “the
+
+opposing party has been put on notice regarding the claim or defense raised by the
+
+amended pleading.” 73 If the amended pleading makes changes that are “so
+
+substantial that it cannot be said that defendant was given adequate notice of the
+
+conduct, transaction, or occurrence that forms the basis of the new claim or defense,
+
+
+
+
+      69 Id. § 1497.
+
+
+      70 Id.
+
+
+      71 Id.
+
+
+      72 Id.
+
+
+      73 Id. (collecting cases).
+
+
+
+                                          31
+then the amendment will not relate back.”74 When assessing notice, a court should
+
+consider whether, based on the record in the litigation as a whole, a reasonably
+
+prudent person “ought to have been able to anticipate or should have expected that
+
+the character of the originally pleaded claim might be altered or that other aspects of
+
+the conduct, transaction, or occurrence set forth in the original pleading might be
+
+called into question.”75
+
+      Under those principles, the Interconnect Claim relates back, but the Spectrum
+
+Claim does not. The plaintiffs’ original complaint asserted that AT&T allocated
+
+revenue and expenses unfairly using the NPA-NXX methodology despite knowing
+
+that the methodology was unfair and despite developing superior methodologies in
+
+the Sharing Agreements. The Interconnect Claim simply calls out another specific
+
+type of expense that AT&T allocated unfairly using the NPA-NXX methodology.
+
+AT&T knew the categories of revenue and expenses that it allocated using the NPA-
+
+NXX methodology, and a reasonable litigant in AT&T’s position should have
+
+anticipated that the litigation could put at issue any and all of those categories. By
+
+adding the Interconnect Claim, the plaintiffs supplied additional detail about a
+
+category of misallocated expense.
+
+      The Spectrum Claim does not relate back. That claim rested on a new
+
+agreement—the Spectrum Lease—and amounts AT&T charged under it. The
+
+
+
+
+      74 Id.
+
+
+      75 Id.
+
+
+
+                                          32
+Spectrum Claim asserts that AT&T’s conduct under the Spectrum Lease violated the
+
+No-Profit Requirement, which the original complaint had not identified. A party in
+
+AT&T’s position would not have anticipated a challenge to the Spectrum Lease.
+
+      The plaintiffs argue broadly that their original compliant challenged “AT&T’s
+
+failure to implement a fair accounting scheme in breach of its contractual and
+
+fiduciary duties.”76 As a practical matter, however, that expansive framing claims
+
+that AT&T should have been on notice that every one of its interactions with the
+
+Partnership were subject to challenge. That is too broad. AT&T had reason to know
+
+that its NPA-NXX allocations were at issue. AT&T did not have reason to anticipate
+
+a challenge to the Spectrum Lease or the amounts charged under it.
+
+      The plaintiffs further argue that the Spectrum Claim can relate back because
+
+AT&T cannot show that it was unduly surprised or prejudiced. The test under Rule
+
+15(c) is whether the amended pleading arises out of a common nucleus of operative
+
+fact. Even if it does, a court can take into account whether the amendment will impose
+
+surprise or prejudice. If so, then the court may exercise its discretion to deny the
+
+amendment. The assessment of surprise and prejudice dovetails with the question of
+
+notice, because a party that had or should have been on notice is less likely to be able
+
+to claim surprise or prejudice, and vice versa. The analysis in this case never reaches
+
+that later step, because the Spectrum Claim does not arise out of a common nucleus
+
+of operative fact with the NPA-NXX allegations in the original complaint.
+
+
+
+
+      76 AB at 11.
+
+
+
+                                          33
+      The Interconnect Claim therefore relates back to the original complaint filed
+
+on November 28, 2022. Absent tolling, the plaintiffs can challenge the allocations of
+
+interconnect expense dating back to November 29, 2019.
+
+      The Spectrum Claim does not. It was not introduced until October 27, 2025.
+
+Absent tolling, the plaintiffs can challenge the addition of new spectrum to the
+
+Spectrum Lease or changes to the charges under that agreement dating back to
+
+October 28, 2022.
+
+      5.     Tolling
+
+      The final issue is tolling. The plaintiffs rely on equitable tolling and fraudulent
+
+concealment in an effort to reach back further in time to challenge earlier
+
+transactions. It is reasonably conceivable that equitable tolling could apply, but it is
+
+also possible that the plaintiffs were on inquiry notice for the New Expense Claims.
+
+The court cannot resolve the pivotal facts at the pleading stage. Because the doctrine
+
+of fraudulent concealment is less favorable to the plaintiffs than the doctrine of
+
+equitable tolling, this decision does not reach it.
+
+             a.     Equitable Tolling
+
+      “[T]he doctrine of equitable tolling stops the statute from running while a
+
+plaintiff has reasonably relied upon the competence and good faith of a fiduciary.” 77
+
+“The obvious purpose of the equitable tolling doctrine is to ensure that fiduciaries
+
+cannot use their own success at concealing their misconduct as a method of
+
+
+
+
+      77 In re Tyson Foods, Inc., 919 A.2d 563, 585 (Del. Ch. 2007).
+
+
+
+                                           34
+immunizing themselves from accountability for their wrongdoing.”78 In the corporate
+
+context, “a stockholder is entitled to rely on the good faith of directors such that a
+
+claim for breach of fiduciary duty would not arise until the stockholder had actual
+
+knowledge of the wrong or was placed on inquiry notice.”79 “Since trust and good faith
+
+are the essence of this relationship, it would be corrosive and contradictory for the
+
+law to punish reasonable reliance on that good faith by applying the statute of
+
+limitations woodenly or automatically to alleged self-interested violations of trust.”80
+
+Those principles apply by analogy to the relationship between limited partners and
+
+the general partner of a limited partnership.
+
+      The plaintiffs allege that AT&T and the Partnership entered into the Spectrum
+
+Lease in September 2015. They point out the same AT&T employee signed the
+
+agreement for both AT&T and the Partnership. They also allege that AT&T never
+
+provided the plaintiffs with a copy. They further contend that Eric Wages, the AT&T
+
+employee in charge of interacting with the Partnership, never told the partners that
+
+AT&T was charging for spectrum above cost. Instead, they assert generally that he
+
+told them AT&T was charging for spectrum at cost, despite knowing otherwise.
+
+      Even without the asserted misrepresentation, AT&T’s silence about the nature
+
+of the transactions under the Spectrum Lease is sufficient to support an inference of
+
+
+
+      78 In re Am. Int’l Gp., 965 A.2d 793, 813 (Del. Ch. 2009), aff’d sub nom. Tchrs.’
+
+Ret. Sys. of La. v. PricewaterhouseCoopers LLP, 11 A.3d 228 (Del. 2011) (TABLE).
+
+      79 Collis, 287 A.3d at 1218.
+
+
+      80 Seaboard, 625 A.2d at 275.
+
+
+
+                                          35
+equitable tolling. The plaintiffs were entitled to rely on AT&T’s good faith until put
+
+on notice otherwise.
+
+       The analysis is similar for the Interconnect Claim. The plaintiffs allege that
+
+AT&T never informed the plaintiffs that it was charging them more than cost. In fact,
+
+the plaintiffs point to the Partnership’s financial statements for the years 2010 and
+
+2011, where AT&T stated that interconnect service was “charged to the Partnership
+
+at [AT&T’s] cost and are allocated primarily based on end of period subscribers.” 81
+
+AT&T responds that the same financial statements disclosed that AT&T allocated
+
+interconnect services based on a “proportionate share of minutes of use and data
+
+activity,”82 but that statement was not sufficiently clear to defeat equitable tolling.
+
+The plaintiffs were entitled to rely on AT&T’s good faith.
+
+              b.     Fraudulent Concealment
+
+       The doctrine of fraudulent concealment is narrower than the doctrine of
+
+equitable tolling. The latter applies where a beneficiary can rely on the good faith of
+
+its fiduciary. The former does not require a fiduciary relationship and allows a court
+
+to disregard the statute of limitations “‘when a defendant has fraudulently concealed
+
+from a plaintiff the facts necessary to put [the plaintiff] on notice of the truth.’” 83 The
+
+plaintiff “must allege an affirmative act of ‘actual artifice’ by the defendant that either
+
+
+
+       81 AB at 45 (quoting Ex. 18 Note 5).
+
+
+       82 OB at 38 (quoting Ex. 18 at 17).
+
+
+       83 LGM Hldgs., LLC v. Schurder, 340 A.3d 1134, 1146 (Del. 2025) (quoting
+
+Tyson Foods, 919 A.2d at 585) (alteration in original).
+
+                                             36
+prevented the plaintiff from gaining knowledge of material facts or led the plaintiff
+
+away from the truth.”84 “The rationale for this doctrine is to disallow a defendant
+
+from taking advantage of his own wrong in preventing a plaintiff from [filing] a timely
+
+suit in the courts.”85
+
+       Because fraudulent concealment requires actual artifice and scienter, it
+
+requires that a plaintiff make a greater showing than required for equitable tolling.
+
+This decision has already held that equitable tolling inferably applies. This decision
+
+therefore need not consider whether fraudulent concealment also applies.
+
+               c.    Inquiry Notice
+
+       Under Delaware law, inquiry notice universally limits tolling doctrines. 86 A
+
+plaintiff cannot invoke tolling doctrines beyond the point when the plaintiff “was
+
+objectively aware, or should have been aware, of facts giving rise to the wrong.”87
+
+“Even where a defendant uses every fraudulent device at its disposal to mislead a
+
+victim or obfuscate the trust, no sanctuary from the statute will be offered to the
+
+
+
+
+       84 Tysons Foods, 919 A.2d at 585 (citing Ewing v. Beck, 520 A.2d 653, 667 (Del.
+
+1987)).
+
+       85 Allen v. Layton, 235 A.2d 261, 265 (Del. Super. Ct. 1967), aff’d, 246 A.2d 794
+
+(Del. 1968).
+
+       86 See Collis, 287 A.3d at 1212.
+
+
+       87 Tyson Foods, 919 A.2d at 585.
+
+
+
+                                          37
+dilatory plaintiff who was not or should not have been fooled.”88 In other words, even
+
+though equitable tolling inferably applies, inquiry notice could cut off that doctrine.
+
+      “Inquiry notice does not require full knowledge of the material facts; rather,
+
+plaintiffs are on inquiry notice when they have sufficient knowledge to raise their
+
+suspicions to the point where persons of ordinary intelligence and prudence would
+
+commence an investigation that, if pursued would lead to the discovery of the
+
+injury.”89 “Once the plaintiff is aware of the injury, or should have discovered it in the
+
+exercise of reasonable diligence, then the period for bringing a claim starts to run.”90
+
+      AT&T argues that the plaintiffs were on inquiry notice for purposes of the
+
+Interconnect Claim because AT&T “indisputably spelled out for the Partnership[],
+
+starting with the 2010-11 financial statements (sent in 2013), that is was using the
+
+exact methodology for assigning interconnect expenses Plaintiffs now belatedly
+
+complain about more than ten years later.”91
+
+      That is an exaggeration. The “Related-Party Transactions” section of the
+
+Partnership’s 2010–2011 financial statements stated:
+
+      [AT&T] provides services to the Partnership, which includes network
+      interconnection and switching …. Such services are charged to the
+
+
+      88 Id.
+
+
+      89 Ontario Provincial Council of Carpenters’ Pension Tr. Fund v. Walton, 294
+
+A.3d 65, 96 (Del. Ch. 2023) (quoting Pomeranz v. Museum P’rs, L.P., 2005 WL 217039,
+at *3 (Del. Ch. Jan. 24, 2005)).
+
+      90 Id. (citing In re Dean Witter P’ship Litig., 1998 WL 442456, at *6 (Del. Ch.
+
+July 17, 1998), aff’d, 725 A.2d 441 (Del. 1999) (TABLE)).
+
+      91 OB at 37–38.
+
+
+
+                                           38
+      Partnership at [AT&T’s] cost and are allocated primarily based on end
+      of period subscribers, network usage, gross customer additions and
+      customer service call volumes.92
+
+The financial statements also disclosed that “[e]ffective January 1, 2011, [AT&T]
+
+began allocating interconnect costs to the Partnership based on the Partnership’s
+
+proportionate share of minutes of use and data activity on [AT&T’s] national network,
+
+to more closely align the costs recorded with the Partnership’s use of [AT&T’s]
+
+national network.”93
+
+      Those disclosures speak of charging interconnect expense at cost. AT&T did
+
+not clearly disclose the method it was using to charge the Partnership for interconnect
+
+service. The 2010–2011 financial statements are not sufficiently clear to establish at
+
+the pleading stage that the plaintiffs were on inquiry notice for the Interconnect
+
+Claim.
+
+      The same is true for the Spectrum Claim. AT&T argues that Plaintiffs had
+
+notice of the Spectrum Claim through “detailed disclosures in financial statements
+
+provided to the Partners when the challenged practices began.”94 AT&T relies on the
+
+2014–2015 financials for the Partnership, which stated:
+
+      [AT&T] holds certain FCC licenses that are used by the Partnership to
+      provide wireless communications services. Prior to July 2015, [AT&T]
+      did not charge the Partnership for use of these licenses. In July 2015,
+      AT&T began charging the Partnership for certain licenses owned by
+      [AT&T] or its affiliates.
+
+
+      92 Ex. 18 Note 5.
+
+
+      93 Id. at 17.
+
+
+      94 OB at 40.
+
+
+
+                                          39
+                                       *   *    *
+
+      Spectrum Use Service Agreements. On September 8, 2015, the
+      Partnership entered into a series of agreements with multiple AT&T
+      affiliates with an effective date of July 1, 2015 for the exclusive use of
+      multiple FCC spectrum licenses owned by AT&T some of which were
+      previously being used by the Partnership. The agreements have an
+      initial term of 20 years and renew automatically for 20 years.95
+
+That disclosure merely informed the plaintiffs of the existence of the Spectrum Lease.
+
+It did not make the plaintiffs “objectively aware” that AT&T charged for spectrum at
+
+rates above AT&T’s cost.96
+
+      The 2014–2015 financial statements also stated that “[t]he Partnership’s 2015
+
+statement of operations reflects $2,383 of cost of services related to these
+
+agreements.” 97 That disclosure again did not state whether the amount reflected
+
+AT&T’s cost. More disclosure was required to prevent the plaintiffs from being able
+
+to rely on AT&T’s good faith.
+
+      AT&T last argues that the Contract Decision, the Fiduciary Duty Decision, and
+
+litigation pending in the United States District Court for Southern District of Texas
+
+should have put the plaintiffs on notice of their claims.
+
+      AT&T contends that the Contract Decision and Fiduciary Duty Decision gave
+
+the plaintiffs “reason to be ‘suspicious’ specifically with respect to AT&T’s spectrum
+
+
+
+
+      95 OB at 40–41 (quoting Ex. 23 at 12, 22).
+
+
+      96 Tyson Foods, 919 A.2d at 585.
+
+
+      97 Ex. 23 at 22.
+
+
+
+                                           40
+and interconnect accounting.”98 AT&T also claims that the VTX litigation put the
+
+plaintiffs on notice because the complaint there “alleged that AT&T’s 2015
+
+disclosures of the spectrum leases revealed that those leases were ‘one-sided’ and that
+
+AT&T was overcharging the Partnerships.” 99 AT&T also argues that a summary
+
+judgment motion in that case, filed publicly in 2022, included a detailed description
+
+of the spectrum leases and alleged that they “represented the execution of AT&T’s
+
+plan to systematically retain valuable assets for itself while forcing the Partnerships
+
+to bear the economic burden of those assets.’”100 AT&T points to two decisions from
+
+the United States District Court for the Southern District of New York as support for
+
+its argument that the VTX litigation was enough to put the plaintiffs on notice.101
+
+      Crediting AT&T’s argument would amount to requiring the plaintiffs to
+
+monitor litigation nationwide, including reviewing public filings, then act on the
+
+information they contained, lest they lose the ability to sue. That gets the analysis
+
+backwards. The plaintiffs were entitled to rely on AT&T’s good faith as a fiduciary
+
+until they came across information sufficient to put them on inquiry notice. Discovery
+
+
+
+
+      98 OB at 44.
+
+
+      99 Id. at 42.
+
+
+      100 Id. at 42–43 (citation omitted).
+
+
+      101 Id. at 43 (citing Weiss v. La Suisse, Societe D’Assurances Sur La Vie, 381
+
+F.Supp. 2d 334, 339 (S.D.N.Y. 2005) and Korwek v. Hunt, 646 F.Supp. 953, 958
+(S.D.N.Y. 1986), aff’d, 827 F.2d 874 (2d Cir. 1987)).
+
+                                             41
+may show that the plaintiffs knew about and considered prior litigation filings. At
+
+this stage of the case, the court cannot make that determination.
+
+      6.     Summarizing The Timeliness Analysis
+
+      The New Expense Claims are subject to the separate accrual method. The
+
+plaintiffs can use the Interconnect Claim to challenge expenses beginning on
+
+November 29, 2019. The plaintiffs can use the Spectrum Claim to challenge expenses
+
+beginning on October 28, 2022. Equitable tolling may push those dates back further,
+
+but no earlier than the point when the plaintiffs were on inquiry notice. Those
+
+determinations cannot be made at the pleading stage.
+
+B.    The Merits Defense
+
+      AT&T separately argues that the New Expense Claims fail to state claims for
+
+breach of contract. To the extent the complaint asserts that AT&T breached the
+
+Partnership Agreement by causing the Partnership to contract with an affiliate, that
+
+claim fails as a matter of law. Otherwise, the complaint pleads actionable breaches
+
+of the Partnership Agreement.
+
+      1.     The Governing Law
+
+      Delaware law governs the Partnership Agreement.102 The elements of a claim
+
+for breach of contract under Delaware law are “(i) a contractual obligation, (ii) a
+
+breach of that obligation by the defendant, and (iii) a casually related injury that
+
+
+
+
+      102 See Ex. 1 § 19.6.
+
+
+
+                                         42
+warrants a remedy, such as damages or in an appropriate case, specific
+
+performance.”103
+
+      No one disputes that the Partnership Agreement is a valid contract. Whether
+
+the complaint’s allegations state a claim against AT&T for breach presents questions
+
+of contract interpretation.
+
+      Under Delaware law, the role of a court when interpreting a contract is “to
+
+effectuate the parties’ intent.”104 Absent ambiguity, the court “will give priority to the
+
+parties’ intentions as reflected in the four corners of the agreement, construing the
+
+agreement as a whole and giving effect to all its provisions.” 105 “Unless there is
+
+ambiguity, Delaware courts interpret contract terms according to their plain,
+
+ordinary meaning.” 106 “Contract language is not ambiguous merely because the
+
+
+
+
+      103 AB Stable VIII LLC v. Maps Hotels & Resorts One LLC, 2020 WL 7024929,
+
+at *47 (Del. Ch. Nov. 30, 2020), aff’d, 268 A.3d 198 (Del. 2021); cf. Seaboard, 625 A.2d
+at 271 (“Any such wrong occurred at the time that enforceable legal rights against
+Seaboard were created. Suit could have been brought immediately thereafter to
+rescind the contract and for nominal damages which are traditionally available in
+contract actions. Complete and adequate relief, if justified, could be shaped
+immediately or at any point thereafter.”).
+
+      104 Lorillard Tobacco Co. v. Am. Legacy Found., 903 A.2d 728, 739 (Del. 2006);
+
+accord Exelon Generation Acqs., LLC v. Deere & Co., 176 A.3d 1262, 1267 (Del. 2017)
+(observing that when interpreting contracts, the court “should focus on the parties’
+shared expectations at the time they contracted.”).
+
+      105 In re Viking Pump, Inc., 148 A.3d 633, 648 (Del. 2016) (internal quotation
+
+marks omitted).
+
+      106 Alta Berkeley VI C.V. v. Omneon, Inc., 41 A.3d 381, 385 (Del. 2012); accord
+
+Terrell v. Kiromic Biopharma, Inc., 338 A.3d 1272, 1276 (Del. 2025) (“When the
+contract is clear and unambiguous, [the court] will give effect to the plain-meaning of
+
+
+                                           43
+parties dispute what it means.”107 “To be ambiguous, a disputed contract term must
+
+be fairly or reasonably susceptible to more than one meaning.”108 “Delaware courts
+
+will not destroy or twist [contract] language under the guise of construing it.”109 “If a
+
+writing is plain and clear on its face, i.e., its language conveys an unmistakable
+
+meaning, the writing itself is the sole source for gaining an understanding of
+
+intent.”110
+
+       “In upholding the intentions of the parties, a court must construe the
+
+agreement as a whole, giving effect to all provisions therein.” 111 The Delaware
+
+Supreme Court has also instructed that “[t]he basic business relationship between
+
+parties must be understood to give sensible life to any contract.” 112 A reasonable
+
+
+
+
+the contract’s terms and provisions unless it appears the parties intended a special
+meaning.”) (internal quotation marks omitted).
+
+       107 Alta Berkeley, 41 A.3d at 385; accord Manti Hldgs., LLC v. Authentix Acq.
+
+Co., Inc., 261 A.3d 1199, 1208 (Del. 2021) (“The parties’ steadfast disagreement over
+interpretation will not, alone, render the contract ambiguous.”) (internal quotation
+marks omitted).
+
+       108 Alta Berkeley, 41 A.3d at 385; see Rhone-Poulenc Basic Chems. Co. v. Am.
+
+Motorists Ins. Co., 616 A.2d 1192, 1195–96 (Del. 1992).
+
+       109 Rhone-Poulenc, 616 A.2d at 1195.
+
+
+       110 City Investing Co. Liquidating Tr. v. Cont’l Cas. Co., 624 A.2d 1191, 1198
+
+(Del. 1993).
+
+       111 E.I. du Pont de Nemours & Co., Inc. v. Shell Oil Co., 498 A.2d 1108, 1113
+
+(Del. 1985).
+
+       112 Chi. Bridge & Iron Co. N.V. v. Westinghouse Elec. Co. LLC, 166 A.3d 912,
+
+927 (Del. 2017).
+
+                                           44
+reading therefore must be “situated in the commercial context between the
+
+parties.”113 But this principle cannot be used to override the plain language of the
+
+agreement. “While [Delaware courts] have recognized that contracts should be ‘read
+
+in full and situated in the commercial context between the parties,’ the background
+
+facts cannot be used to alter the language chosen by the parties within the four
+
+corners of their agreement.”114
+
+      When ruling on a Rule 12(b)(6) motion, a court cannot resolve contractual
+
+ambiguity.115 Dismissal is proper “only if the defendants’ interpretation is the only
+
+reasonable construction as a matter of law.” 116 “If the Plaintiff has offered a
+
+reasonable construction of the contract, and that construction supports the claims
+
+
+
+
+      113 Id. at 926–27.
+
+
+      114 Town of Cheswold v. Cent. Del. Bus. Park, 188 A.3d 810, 820 (Del. 2018)
+
+(quoting Chi. Bridge, 166 A.3d at 926–27).
+
+      115 Schurder, 340 A.3d at 1143–44 (“When interpreting a contract on a motion
+
+to dismiss, the trial court cannot choose between two differing reasonable
+interpretations of ambiguous provisions.”) (internal quotation marks omitted); accord
+Vanderbilt Income & Growth Assocs., L.L.C. v. Arvida/JMB Managers, Inc., 691 A.2d
+609, 613 (Del. 1996) (“On a motion to dismiss for failure to state a claim, a trial court
+cannot choose between two differing reasonable interpretations of ambiguous
+documents.”).
+
+      116 VLIW Tech., LLC v. Hewlett-Packard Co., 840 A.2d 606, 615 (Del. 2003)
+
+(emphasis in original); accord Caspian Alpha Long Credit Fund, L.P. v. GS Mezzanine
+P’rs 2006, L.P., 93 A.3d 1203, 1205 (Del. 2014).
+
+                                           45
+asserted in the complaint, then the Court must deny the motion to dismiss even if the
+
+defendant’s construction is also reasonable.”117
+
+      2.        The Claim For Breach Of The No-Profit Requirement
+
+      The complaint alleges that AT&T breached the No-Profit Requirement by
+
+providing interconnect and spectrum management services for more than AT&T’s
+
+cost. That theory states a claim on which relief can be granted. At a minimum, the
+
+plaintiffs have offered one reasonable reading of the Partnership Agreement.
+
+      The Partnership Agreement mandates that the General Partner provide
+
+“management and accounting services to the Partnership consisting of, but not
+
+limited to, maintaining books of record, … preparing accounting reports (in
+
+accordance with generally accepted accounting principles …), and other records or
+
+reports.”118 Under the same section, the General Partner may provide “certain other
+
+services necessary for the Partnership to carry on and expand its activities and
+
+functions, including but not limited to, real estate management, advertising, legal,
+
+office personnel management, engineering, marketing and the like.” 119 As to the
+
+services contemplated by the Services Provision, the General Partner “shall be
+
+
+
+
+      117 Cont’l Auto. Sys., Inc. v. Nokia Corp., 2023 WL 1370523, at *19 (Del. Ch.
+
+Jan. 31, 2023) (internal quotation marks omitted); accord Anschutz Corp. v. Brown
+Robin Cap., LLC, 2020 WL 3096744, at *9 (Del. Ch. June 11, 2020) (“If the plaintiff
+has proffered a reasonable construction that supports its allegations of breach,
+dismissal must be denied.”).
+
+      118 PA § 4.1.
+
+
+      119 Id.
+
+
+
+                                          46
+reimbursed by the Partnership monthly for any reasonable and necessary expenses
+
+… plus reasonable and necessary administrative and general overhead expenses,
+
+including but not limited to, marketing, maintenance, message charges, facilities,
+
+engineering, legal, accounting and audit fees, development and implementation of
+
+billing procedures, expenses of preparing tax returns and reports, taxes, travel, office
+
+rent, telephone, salaries …, and any and all other business expenses incurred by the
+
+General Partner in connection with the provision of Cellular Service.” 120 That
+
+provision contains the No-Profit Requirement, which specifies that “[t]he General
+
+Partner shall not be entitled to any profit in rendering such services to the
+
+Partnership.”121
+
+      AT&T points to other provisions in the Partnership Agreement. The Asset
+
+Provision addresses the assets needed to provide Cellular Service and authorizes
+
+AT&T to cause the Partnership “to purchase, lease or otherwise acquire and hold …
+
+such real and personal property, equipment, software and other assets required to
+
+provide Cellular Service,” including by transacting with AT&T. 122 It contains the
+
+Arm’s-Length Requirement and specifies that “use of such assets may be provided to
+
+
+
+
+      120 Id. § 4.2.
+
+
+      121 Id.
+
+
+      122 Id. § 4.3.
+
+
+
+                                          47
+the Partnership upon terms and conditions reasonably comparable to those which the
+
+Partnership could obtain at arm’s-length from unaffiliated parties.”123
+
+      Finally, the Affiliate-Transaction Provision sweeps broadly and allows AT&T
+
+to cause the Partnership to enter into transactions with affiliates. It contains the
+
+loosest standard, requiring only that “the terms and conditions of such transactions
+
+are comparable to, or not substantially less favorable than, similar arms’-length
+
+transactions between the General Partner or its Affiliate and unrelated third parties”
+
+and that AT&T has not been grossly negligent or engaged in willful misconduct when
+
+setting the terms. 124 That standard turns on the process AT&T followed and its
+
+intent.
+
+      The Services Provision, the Asset Provision, and the Affiliate-Transaction
+
+Provision thus address a different type of interested-party transaction. The Affiliate-
+
+Transaction Provision is the most general and inferably applies to all affiliate
+
+transactions. The Asset Provision applies to the purchase, lease, or acquisition of
+
+assets required to provide Cellular Service.
+
+      Each of the provisions implicates a different contractual standard. The
+
+Affiliate-Transaction Provision implicates the Conduct Standard. The Asset
+
+Provision implicates the Arm’s-Length Requirement. The Services Provision
+
+implicates the No-Profit Requirement.
+
+
+
+
+      123 Id.
+
+
+      124 Id. § 7.5.
+
+
+
+                                          48
+      Under one version of the New Expense Claims, the plaintiffs contend that
+
+AT&T breached the No-Profit Requirement by failing to charge for interconnect and
+
+spectrum management services at cost. At the pleading stage, it is not possible to
+
+determine definitively which provision applies to the interconnect and spectrum
+
+charges. At a minimum, they are subject to the Affiliate-Transaction Provision. It
+
+seems most likely that they are subject to the Asset Provision. The plaintiffs seek to
+
+characterize them as services subject to the Services Provision. While nothing
+
+compels that interpretation, it is reasonably conceivable.
+
+      AT&T interprets the Partnership Agreement differently. According to AT&T,
+
+the different provisions do not apply based on transaction type but rather based on
+
+what entity serves as the counterparty or service provider. AT&T maintains that if
+
+the AT&T affiliate that serves as the General Partner is the counterparty or service
+
+provider, then the Services Provision applies with the No-Profit Requirement. AT&T
+
+maintains that if a different AT&T entity serves as the counterparty or service
+
+provider, than either the Asset Provision and the Arm’s-Length Requirement apply,
+
+or the Affiliate-Transaction Provision and the Conduct Standard apply.
+
+      AT&T offers no means of distinguishing between the latter two provisions and
+
+treats the standards as equivalent, even though they impose different tests. The
+
+Conduct Standard contemplates terms “not substantially less favorable than” arm’s-
+
+length transactions, a more flexible standard than the straightforward arm’s-length
+
+standard in the Arm’s-Length Requirement. The Conduct Standard also does not
+
+follow the Arm’s-Length Requirement in looking at the terms the Partnership could
+
+
+
+                                         49
+obtain from unaffiliated third parties; it rather examines “arms’-length transactions
+
+between the General Partner or its Affiliate and unrelated third parties,” a
+
+potentially different test. Last, the Conduct Standard is not breached by non-arm’s-
+
+length terms. It can only be breached if AT&T engaged in gross negligence or willful
+
+misconduct. By treating the standards as if they were the same, AT&T seems to have
+
+come up with a reading designed to defeat the plaintiffs’ specific claim, rather than
+
+attempting to read the Partnership Agreement as a whole. That makes AT&T’s
+
+interpretation less persuasive.
+
+      AT&T has offered one reasonable reading, but not the only one. At the pleading
+
+stage, the court cannot reasonably infer that the AT&T affiliate that served as the
+
+General Partner would be providing all of the services itself, or even any of the
+
+services. One reasonable and plaintiff-friendly inference is that AT&T did not set up
+
+its subsidiaries as self-sufficient units that could provide management and support
+
+services independently. It is reasonably conceivable that AT&T instead created the
+
+affiliate that served as the General Partner for purposes of asset partitioning and
+
+liability protection and not because it was a standalone entity that could supply all
+
+of the services the Partnership needed. It is reasonably conceivable that the No-Profit
+
+Requirement applied to services that AT&T provided more broadly.
+
+      Based on a cold read, it seems more likely that the Partnership Agreement
+
+sought to categorize affiliate transactions by type rather than by the AT&T affiliate
+
+serving as counterparty or service provider. AT&T’s entity-based approach would
+
+provide little protection for the Partnership and the plaintiffs, because corporate
+
+
+
+                                          50
+structure is malleable. AT&T could move the capability to provide particular services
+
+into and out of particular affiliates directly or by contract and evade the reading
+
+AT&T now offers.
+
+      At this point of the case, the court cannot conclude that AT&T’s reading is the
+
+only reasonable one. AT&T appears to have drafted an ambiguous contract and must
+
+now live with the results. Extrinsic evidence may make clear how the competing
+
+provisions operate or what services fall into which bucket.
+
+      3.        The Claim For Breach Of Section 4.4
+
+      The plaintiffs separately argue that Section 4.4 of the Partnership Agreement
+
+required the General Partner “to transfer all licenses necessary to provide Cellular
+
+Service to the Partnership” and that the General Partner failed to do so. 125 The
+
+plaintiffs contend that AT&T “acquired spectrum licenses in its own name and caused
+
+the Partnerships to enter into ‘services agreements’ to pay for use of that
+
+spectrum.”126 That theory states a claim on which relief could be granted.
+
+      Section 4.4 states that “[t]he General Partner shall, on behalf of the
+
+Partnership and consistent with Section 13.1, (a) cause to be transferred to the
+
+Partnership’s name all licenses, permits or other regulatory approvals necessary to
+
+provide Cellular Service.”127 This is another ambiguous provision. The most likely
+
+
+
+
+      125 AB at 28.
+
+
+      126 Id.
+
+
+      127 PA § 4.4.
+
+
+
+                                         51
+reading is that it requires the Partnership to hold in its name the licenses, permits
+
+and regulatory approvals necessary to provide Cellular Service in the CMAs where it
+
+operated. But because the definition of Cellular Service is broad, and because the
+
+Partnership’s business could expand to other geographic areas, the scope of this
+
+provision could potentially expand.
+
+      Assuming the more constrained reading, the Spectrum Lease recites that
+
+AT&T obtained spectrum used to provide Cellular Service in the geographic area
+
+where the Partnership operated.128 Those recitals evidence—even confess—a breach
+
+of Section 4.4.
+
+      AT&T objects that the plaintiffs have not expressly identified Section 4.4 in
+
+their complaint, but that is not necessary. The complaint put AT&T fairly on notice
+
+that the plaintiffs are challenging the Spectrum Lease. From a timeliness
+
+perspective, absent tolling, the plaintiffs are presumptively barred from challenging
+
+the original terms of the Spectrum Lease. But if equitable tolling applies, or to the
+
+extent AT&T has added spectrum to the Spectrum Lease within the look-back period,
+
+then the plaintiffs have stated a claim for breach of Section 4.4 of the Partnership
+
+Agreement.
+
+
+
+
+      128 Ex. 17 at 1 (“[AT&T] holds various wireless telecommunications licenses, as
+
+more particularly described on Exhibit B hereto (the ‘Overlap Licenses’), authorizing
+it to provide wireless telecommunications services in the Partnership Market”); id.
+(“the Parties desire to enter into this Agreement to document the deployment of the
+Overlap Licenses in the Partnership Market and implement a mechanism by which
+the Partnership can compensate [AT&T] for the economic benefits the Partnership
+derives from the Overlap Licenses”).
+
+                                         52
+      At some point, the parties will have to deal with the ambiguity created by the
+
+Asset Provision. That section allows AT&T to “acquire and hold in the name of the
+
+Partnership … such real and personal property, equipment, software and other assets
+
+required to provide Cellular Service.”129 A license to use spectrum is a type of asset,
+
+so arguably AT&T could hold it for the Partnership’s benefit. It seems more likely
+
+that Section 4.4 operates as a more specific provision addressing licenses and
+
+therefore controls in lieu of the Asset Provision. All that can be said at this stage is
+
+that a breach of this provision is reasonably conceivable. The claim is not subject to
+
+pleading-stage dismissal.
+
+                                III.   CONCLUSION
+
+      The motion to dismiss is denied. That said, the parties must proceed in
+
+accordance with the rulings in this decision.
+
+
+
+
+      129 PA § 4.3.
+
+
+
+                                          53
+

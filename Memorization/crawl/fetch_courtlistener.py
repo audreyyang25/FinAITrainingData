@@ -44,14 +44,26 @@ def headers() -> dict:
     return {"Authorization": f"Token {tok}"} if tok else {}
 
 
+BUDGET = {"used": 0, "max": None}
+
+
+class OutOfBudget(Exception):
+    pass
+
+
 def get(session, url):
+    if BUDGET["max"] is not None and BUDGET["used"] >= BUDGET["max"]:
+        raise OutOfBudget(f"request budget {BUDGET['max']} exhausted")
+    BUDGET["used"] += 1
     r = common.fetch(session, url, headers=headers())
     if isinstance(r, Exception):
         return None, f"transport: {type(r).__name__}"
     if r.status_code == 401:
         return None, "401 unauthorized (check COURTLISTENER_TOKEN)"
     if r.status_code == 429:
-        return None, "429 rate limited"
+        ra = r.headers.get("Retry-After", "?")
+        raise OutOfBudget(f"429 daily quota exhausted; resets in {ra}s "
+                          f"({int(ra)//3600}h)" if str(ra).isdigit() else "429 rate limited")
     if r.status_code != 200:
         return None, f"http {r.status_code}"
     try:
@@ -119,6 +131,8 @@ def search_plan(rec) -> list[dict]:
         if k not in seen:
             seen.add(k)
             uniq.append(p)
+    if globals().get("DOCKET_ONLY") and rec.get("docket"):
+        return uniq[:1]
     return uniq
 
 
@@ -279,12 +293,18 @@ def main():
     ap.add_argument("--limit", type=int)
     ap.add_argument("--force", action="store_true", help="refetch even if output exists")
     ap.add_argument("--only-original-40", action="store_true")
+    ap.add_argument("--max-requests", type=int, default=230,
+                    help="stop before exhausting CourtListener's 250/day quota")
+    ap.add_argument("--docket-only", action="store_true",
+                    help="only try the docket query (2 requests/case) - cheapest mode")
     args = ap.parse_args()
 
     if not os.environ.get("COURTLISTENER_TOKEN"):
         print("! COURTLISTENER_TOKEN unset - anonymous access is rate-limited hard.\n"
               "  Get one at https://www.courtlistener.com/profile/api/\n")
 
+    BUDGET["max"] = args.max_requests
+    globals()["DOCKET_ONLY"] = args.docket_only
     man = json.load(open(MANIFEST))
     cases = man["court_opinions"]["cases"]
     if args.only_original_40:
@@ -308,7 +328,13 @@ def main():
             verdicts["skipped"] += 1
             continue
 
-        best, err, url = resolve(session, rec)
+        try:
+            best, err, url = resolve(session, rec)
+        except OutOfBudget as e:
+            print(f"\n  STOPPING: {e}")
+            print(f"  {verdicts.get('exact',0)+verdicts.get('match',0)} fetched this run; "
+                  f"rerun later to resume (existing output is skipped).")
+            break
         if not best:
             verdicts["failed"] += 1
             problems.append((cid, err, rec.get("docket"), rec.get("caption")))
@@ -349,7 +375,8 @@ def main():
                     "date_agreement": da, "cluster": best.get("cluster"),
                     "chars": len(best["text"])})
 
-    print(f"\n{'PROBE' if args.probe else 'DONE'}  {dict(verdicts)}   {time.time()-t0:.0f}s")
+    print(f"\n{'PROBE' if args.probe else 'DONE'}  {dict(verdicts)}   {time.time()-t0:.0f}s"
+          f"   requests used: {BUDGET['used']}/{BUDGET['max']}")
     if problems:
         print(f"\n{len(problems)} needing review:")
         for cid, why, dk, got in problems[:25]:
