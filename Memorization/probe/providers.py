@@ -57,6 +57,8 @@ def _client():
 # silently turn a memorization probe into a search benchmark, and the results
 # would look like strong recall.
 def _assert_no_web_search(model: str) -> None:
+    """Guards the *default*. Retrieval is opt-in via call(web_search=True), which
+    the outcome judge uses deliberately; nothing measuring recall may enable it."""
     if ":online" in model or model.endswith("/online"):
         raise ValueError(
             f"refusing to run {model!r}: the ':online' suffix enables OpenRouter web "
@@ -65,7 +67,8 @@ def _assert_no_web_search(model: str) -> None:
 
 
 def call(model: str, system: str, user: str, max_tokens: int = 1024,
-         temperature: float | None = 0.0, reasoning: dict | None = None) -> Result:
+         temperature: float | None = 0.0, reasoning: dict | None = None,
+         web_search: bool = False) -> Result:
     """`reasoning` maps to OpenRouter's unified reasoning control.
 
     Minimize it for a recall probe. Test-time deliberation lets a model
@@ -74,7 +77,10 @@ def call(model: str, system: str, user: str, max_tokens: int = 1024,
     makes models incomparable: unequal reasoning budgets across arms is a
     confound in its own right.
     """
-    _assert_no_web_search(model)
+    # Opt-in only, and never for a recall probe: retrieval would turn this into a
+    # search benchmark and the results would read as strong memorization.
+    if not web_search:
+        _assert_no_web_search(model)
     t0 = time.time()
     try:
         client = _client()
@@ -91,6 +97,10 @@ def call(model: str, system: str, user: str, max_tokens: int = 1024,
         body["temperature"] = temperature
     if reasoning is not None:
         body["reasoning"] = reasoning
+    if web_search:
+        # OpenRouter-specific field. The OpenAI SDK validates top-level kwargs and
+        # rejects unknown ones, so vendor extensions must ride in extra_body.
+        body["extra_body"] = {"plugins": [{"id": "web"}]}
 
     dropped = False
     for attempt in (1, 2):

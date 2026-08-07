@@ -1,0 +1,225 @@
+case_id,model,model_cutoff,arm,date_filed,caption,court_level,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,served_by,ts
+cl_2015_ca9_northstar_financial_advisors_v._sch,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2015-04-28,Northstar Financial Advisors v. Schwab Investments,circuit,UNKNOWN,0,stop,,0,2.55,244,5,Google,2026-08-07T10:02:17
+cl_2017_iowa_amended_september_5_2017_state_of_i,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2017-06-23,"Amended September 5, 2017 State of Iowa v. Eddie Tipton",state,"I do not have specific knowledge of this Iowa state court case from 2017. 
+
+UNKNOWN",0,stop,,0,2.71,247,24,Google,2026-08-07T10:02:17
+cl_2017_pa_villani_v._seibert_appeal_of_seiber,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2017-04-26,Villani v. Seibert Appeal of: Seibert,state,"I do not have specific knowledge of the case Villani v. Seibert from the Pennsylvania courts decided on April 26, 2017.
+
+UNKNOWN",0,stop,,0,3.04,234,38,Google,2026-08-07T10:02:17
+cl_2014_ca9_john_loos_v._immersion_corporation,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2014-09-11,John Loos v. Immersion Corporation,circuit,"I do not have specific knowledge of the case John Loos v. Immersion Corporation from the Ninth Circuit decided on September 11, 2014.
+
+UNKNOWN",0,stop,,0,3.34,240,40,Google,2026-08-07T10:02:18
+cl_2015_ca9_steve_harris_v._amgen_inc.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2015-05-26,"Steve Harris v. Amgen, Inc.",circuit,"I do not have specific knowledge of the outcome and reasoning in Steve Harris v. Amgen, Inc., 10-56014 (9th Cir. 2015).
+
+UNKNOWN",0,stop,,0,3.49,240,45,Google,2026-08-07T10:02:18
+cl_2018_ca9_united_states_v._jonathan_turner,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2018-07-27,United States v. Jonathan Turner,circuit,UNKNOWN,0,stop,,0,2.07,236,5,Google,2026-08-07T10:02:19
+cl_2018_ca9_jaclyn_santomenno_v._transamerica_l,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2018-02-23,Jaclyn Santomenno v. Transamerica Life Ins. Co.,circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.63,249,15,Google,2026-08-07T10:02:19
+cl_2018_illappct_vt_investment_corp._v._west_columbi,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2018-08-24,V&T Investment Corp. v. West Columbia Condominium Ass'n,state,UNKNOWN,0,stop,,0,2.16,238,5,Google,2026-08-07T10:02:20
+cl_2018_ca9_ussec_v._e._andrew_schooler,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2018-09-26,Ussec v. E. Andrew Schooler,circuit,"I do not have specific knowledge of a case titled ""Ussec v. E. Andrew Schooler"" from the Ninth Circuit decided on September 26, 2018 (Docket No. 16-55167).
+
+UNKNOWN",0,stop,,0,3.3,242,57,Google,2026-08-07T10:02:21
+cl_2019_ca9_ussec_v._hui_feng,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-08-23,Ussec v. Hui Feng,circuit,UNKNOWN,0,stop,,0,2.05,240,5,Google,2026-08-07T10:02:22
+cl_2015_ca5_state_of_texas_v._usa,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2015-11-25,State of Texas v. USA,circuit,"This case involved Texas's challenge to the Obama administration's DAPA (Deferred Action for Parents of Americans) immigration program.
+
+1. THE OUTCOME — The Fifth Circuit AFFIRMED the district court's preliminary injunction blocking implementation of DAPA. Texas prevailed.
+
+2. THE REASONING — The court held that Texas had standing to sue based on the costs it would incur from issuing driver's licenses to DAPA beneficiaries. On the merits, the court found that DAPA was a substantive rule that required notice-and-comment rulemaking under the Administrative Procedure Act, which the administration had failed to conduct. The court also found that DAPA exceeded the executive's enforcement discretion because it granted affirmative benefits (work authorization and lawful presence) beyond mere forbearance from removal.",0,stop,,0,8.1,235,179,Google,2026-08-07T10:02:22
+cl_2019_ca3_jennifer_sweda_v._university_of_pen,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-05-02,Jennifer Sweda v. University of Pennsylvania,circuit,"I do not have specific knowledge of the case Jennifer Sweda v. University of Pennsylvania, Third Circuit, decided May 2, 2019.
+
+UNKNOWN",0,stop,,0,3.35,238,37,Google,2026-08-07T10:02:22
+cl_2019_ca9_alexander_acosta_v._city_national_c,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-04-23,Alexander Acosta v. City National Corporation,circuit,"I do not have specific knowledge of the outcome and reasoning in Alexander Acosta v. City National Corporation (9th Cir. 2019). 
+
+UNKNOWN",0,stop,,0,3.04,239,39,Google,2026-08-07T10:02:22
+cl_2014_ca2_sec_v._contorinis,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2014-02-18,SEC v. Contorinis,circuit,"OUTCOME: Affirmed in part, vacated in part, and remanded. The Second Circuit affirmed Contorinis's insider trading conviction but vacated the forfeiture order and remanded for recalculation.
+
+REASONING: The court held that for criminal forfeiture in insider trading cases, the defendant must forfeit only the profits he personally received, not the total profits gained by his employer or fund. The court found that Contorinis, who traded on inside information for his employer's fund but received only his regular salary and bonus (not a percentage of the trading profits), should not have to forfeit the full $7.2 million in profits the fund made. The forfeiture statute requires a nexus between the property forfeited and the defendant's personal gain from the offense.",0,stop,,0,8.38,226,173,Google,2026-08-07T10:02:23
+cl_2014_ca2_city_of_pontiac_v._ubs_ag,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2014-05-06,City of Pontiac v. UBS AG,circuit,"OUTCOME: Affirmed - the district court's dismissal was upheld, with UBS AG prevailing.
+
+REASONING: The Second Circuit held that the City of Pontiac lacked statutory standing to bring securities fraud claims under Sections 10(b) and 20(a) of the Securities Exchange Act because it purchased its UBS shares in the aftermarket, not in the IPO itself. The court applied the bright-line rule from NECA-IBEW Health & Welfare Fund v. Goldman Sachs that only those who purchase securities in the offering itself have standing to sue under Section 11 of the Securities Act, and extended similar reasoning to the Exchange Act claims. The city could not establish the required tracing of its shares to the allegedly fraudulent offering documents since it bought shares in secondary market transactions.",0,stop,,0,8.9,229,178,Google,2026-08-07T10:02:23
+cl_2019_calctapp_j.b.b._investment_partners_v._fair,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-07-02,J.B.B. Investment Partners v. Fair,state,UNKNOWN,0,stop,,0,2.06,231,5,Google,2026-08-07T10:02:24
+cl_2018_cadc_phh_corporation_v._cfpb,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2018-01-31,PHH Corp. v. Consumer Financial Protection Bureau,circuit,"THE OUTCOME: The D.C. Circuit sitting en banc reversed the panel decision and upheld the CFPB's structure as constitutional. PHH Corp. lost on the constitutional challenge.
+
+THE REASONING: The en banc court held that the CFPB's single-director structure, with a director removable only for cause, did not violate the separation of powers. The court reasoned that independent agencies with for-cause removal protection have been accepted since Humphrey's Executor, and the fact that the CFPB is headed by a single director rather than a multi-member commission did not create a constitutional problem. The court found no constitutional requirement that independent agencies must be headed by multi-member bodies.",0,stop,,0,6.85,242,156,Google,2026-08-07T10:02:24
+cl_2019_dcd_taylor_v._federal_aviation_administ,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-08-09,Taylor v. Federal Aviation Administration,district,UNKNOWN,0,stop,,0,2.31,241,5,Google,2026-08-07T10:02:25
+cl_2020_ca11_united_states_v._gerti_muho,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-10-22,United States v. Gerti Muho,circuit,UNKNOWN,0,stop,,0,2.18,241,5,Google,2026-08-07T10:02:25
+cl_2019_dcd_state_of_new_york_v._united_states_,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-03-28,State of New York v. United States Department of Labor,district,"I do not have specific knowledge of this case from the D.D.C. in 2019.
+
+UNKNOWN",0,stop,,0,2.8,244,28,Google,2026-08-07T10:02:25
+cl_2020_ca2_abm_indus._groups_llc_v._intl_union,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-07-29,"ABM Indus. Groups, LLC v. Int'l Union of Operating Eng'rs",circuit,"I do not have specific knowledge of this case. 
+
+UNKNOWN",0,stop,,0,2.55,250,17,Google,2026-08-07T10:02:26
+cl_2020_ca2_gonnella_v._securities_and_exchange,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-04-02,Gonnella v. Securities and Exchange Commission,circuit,"I do not have specific knowledge of the case Gonnella v. Securities and Exchange Commission, Second Circuit, decided April 2, 2020.
+
+UNKNOWN",0,stop,,0,3.1,239,38,Google,2026-08-07T10:02:27
+cl_2020_ca2_xy_planning_network_llc_v._sec,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-06-26,"XY Planning Network, LLC v. SEC",circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.82,238,15,Google,2026-08-07T10:02:28
+cl_2020_ca3_jeffrey_norman_v._david_elkin,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-05-29,Jeffrey Norman v. David Elkin,circuit,UNKNOWN,0,stop,,0,2.5,237,5,Google,2026-08-07T10:02:28
+cl_2020_ca3_jaroslawicz_v._mt_bank_corp,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-06-18,Jaroslawicz v. M&T Bank Corp,circuit,"I do not have specific knowledge of the Jaroslawicz v. M&T Bank Corp case from the Third Circuit decided on June 18, 2020.
+
+UNKNOWN",0,stop,,0,2.88,231,41,Google,2026-08-07T10:02:28
+cl_2020_ca3_united_states_v._steven_fishoff,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-01-30,United States v. Steven Fishoff,circuit,UNKNOWN,0,stop,,0,2.16,237,5,Google,2026-08-07T10:02:28
+cl_2020_ca2_united_states_v._kosinski,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-09-22,United States v. Kosinski,circuit,"I do not have specific knowledge of United States v. Kosinski from the Second Circuit decided on September 22, 2020. 
+
+UNKNOWN",0,stop,,0,3.48,236,35,Google,2026-08-07T10:02:28
+cl_2019_cadc_the_robare_group_ltd._v._sec,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-04-30,"The Robare Group, LTD. v. SEC",circuit,"OUTCOME: The D.C. Circuit vacated the SEC's order and remanded the case. The Robare Group prevailed.
+
+REASONING: The court found that the SEC had violated the Administrative Procedure Act by failing to provide adequate notice and opportunity to comment on its interpretation of Form ADV disclosure requirements. Specifically, the SEC had sanctioned Robare for inadequate disclosures about conflicts of interest related to revenue-sharing arrangements, but the court determined that the SEC's interpretation of what needed to be disclosed was not fairly implied from the Form ADV instructions and prior guidance. The court held that the SEC could not impose sanctions based on disclosure obligations that were not clearly established at the time of the alleged violations.",0,stop,,0,6.61,245,153,Google,2026-08-07T10:02:28
+cl_2019_cadc_donald_trump_v._mazars_usa_llp,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2019-10-11,"Donald Trump v. Mazars USA, LLP",circuit,"OUTCOME: The D.C. Circuit affirmed the district court's denial of Trump's motion to quash the House Oversight Committee's subpoena to Mazars for Trump's financial records. The House Committee prevailed.
+
+REASONING: The court held that the Committee's subpoena served a valid legislative purpose. The court applied the standard that Congress has broad investigative powers when pursuing a legitimate legislative objective, and found that the Committee's stated purposes - including potential legislation on government ethics, conflicts of interest, and presidential financial disclosure requirements - were legitimate legislative aims. The court rejected Trump's argument that the subpoena lacked a legislative purpose and was instead an impermissible law enforcement action, finding that courts must not look to the motives of individual legislators and that the potential for legislation was sufficient to support the subpoena's validity.",0,stop,,0,8.83,243,179,Google,2026-08-07T10:02:29
+cl_2020_dcd_broidy_capital_management_llc_v._mu,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-03-31,Broidy Capital Management LLC v. Muzin,district,UNKNOWN,0,stop,,0,2.03,234,5,Google,2026-08-07T10:02:30
+cl_2020_dcd_district_of_columbia_v._u.s._depart,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-03-13,District of Columbia v. U.S. Department of Agriculture,district,UNKNOWN,0,stop,,0,2.2,244,5,Google,2026-08-07T10:02:30
+cl_2020_dcd_ghadami_v._united_states_department,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-03-19,Ghadami v. United States Department of Homeland Security,district,UNKNOWN,0,stop,,0,2.42,246,5,Google,2026-08-07T10:02:30
+cl_2020_ca9_tamara_moore_v._mars_petcare_us_inc,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-07-28,"Tamara Moore v. Mars Petcare US, Inc.",circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.77,244,15,Google,2026-08-07T10:02:30
+cl_2020_ca6_nancy_goodman_v._j.p._morgan_invest,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-03-30,Nancy Goodman v. J.P. Morgan Investment Mgmt.,circuit,"I do not have specific knowledge of Nancy Goodman v. J.P. Morgan Investment Management from the Sixth Circuit (2020). 
+
+UNKNOWN",0,stop,,0,2.99,246,36,Google,2026-08-07T10:02:30
+cl_2020_ca9_dimitri_shivkov_v._artex_risk_solut,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-09-09,"Dimitri Shivkov v. Artex Risk Solutions, Inc.",circuit,"I do not have specific knowledge of this case. 
+
+UNKNOWN",0,stop,,0,3.14,247,17,Google,2026-08-07T10:02:31
+cl_2020_dcd_pca_integrity_associates_llp_v._nco,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-02-11,"Pca Integrity Associates, LLP v. Nco Financial Systems Inc",district,UNKNOWN,0,stop,,0,2.5,246,5,Google,2026-08-07T10:02:31
+cl_2020_dcd_united_states_v._harmon,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2020-12-24,United States v. Harmon,district,UNKNOWN,0,stop,,0,2.09,239,5,Google,2026-08-07T10:02:31
+cl_2021_ca2_donna_browe_v._ctc_corp.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-09-29,Donna Browe v. CTC Corp.,circuit,UNKNOWN,0,stop,,0,2.05,230,5,Google,2026-08-07T10:02:32
+cl_2021_ca2_united_states_v._reichberg,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-07-15,United States v. Reichberg,circuit,UNKNOWN,0,stop,,0,2.09,236,5,Google,2026-08-07T10:02:33
+cl_2021_ca9_state_of_rhode_island_v._alphabet_i,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-06-16,"State of Rhode Island v. Alphabet, Inc.",circuit,UNKNOWN,0,stop,,0,1.81,241,5,Google,2026-08-07T10:02:33
+cl_2021_ca2_set_capital_llc_v._credit_suisse_gr,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-04-27,Set Capital LLC v. Credit Suisse Group AG,circuit,"I do not have specific knowledge of Set Capital LLC v. Credit Suisse Group AG from the Second Circuit in 2021.
+
+UNKNOWN",0,stop,,0,3.1,240,33,Google,2026-08-07T10:02:34
+cl_2021_delch_john_joseph_smith_iv_v._thomas_m._s,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-04-23,"John Joseph Smith, IV v. Thomas M. Scott",state,UNKNOWN,0,stop,,0,2.13,246,5,Google,2026-08-07T10:02:34
+cl_2021_ca2_people_of_the_state_of_new_york_v._,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-03-10,People of the State of New York v. Griepp,circuit,"I do not have specific knowledge of People of the State of New York v. Griepp from the Second Circuit decided on March 10, 2021.
+
+UNKNOWN",0,stop,,0,4.16,242,40,Google,2026-08-07T10:02:34
+cl_2021_ca9_united_states_v._benjamin_koziol,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-04-13,United States v. Benjamin Koziol,circuit,"I do not have specific knowledge of United States v. Benjamin Koziol from the Ninth Circuit decided on April 13, 2021.
+
+UNKNOWN",0,stop,,0,3.01,238,36,Google,2026-08-07T10:02:34
+cl_2021_ncbizct_aym_techs._llc_v._scopia_cap._mgmt.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-03-31,"Aym Techs., LLC v. Scopia Cap. Mgmt. Lp, 2021 Ncbc 20b",state,UNKNOWN,0,stop,,0,2.21,254,5,Google,2026-08-07T10:02:35
+cl_2021_delch_lone_pine_resources_lp_v._william_s,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-06-07,"Lone Pine Resources, LP v. William S. Dickey",state,"I do not have specific knowledge of this Delaware Chancery Court case from 2021. 
+
+UNKNOWN",0,stop,,0,2.8,249,26,Google,2026-08-07T10:02:36
+cl_2021_ohioctapp_vesper_v._otterbein_lebanon,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-12-27,Vesper v. Otterbein Lebanon,state,UNKNOWN,0,stop,,0,2.04,241,5,Google,2026-08-07T10:02:36
+cl_2021_txctapp14_booster_fuels_inc._v._fuel_husky_ll,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-11-04,"Booster Fuels, Inc. v. Fuel Husky, LLC D/B/A Instafuel",state,UNKNOWN,0,stop,,0,2.01,248,5,Google,2026-08-07T10:02:36
+cl_2022_ca2_cantero_v._bank_of_am._n.a.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-09-15,"Cantero v. Bank of Am., N.A.",circuit,"I do not have specific knowledge of this Second Circuit case from 2022. 
+
+UNKNOWN",0,stop,,0,3.06,246,23,Google,2026-08-07T10:02:37
+cl_2022_ca2_exxon_mobil_v._healey,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-03-15,Exxon Mobil v. Healey,circuit,"I do not have specific knowledge of an Exxon Mobil v. Healey case decided by the Second Circuit on March 15, 2022 with docket number 18-1170.
+
+UNKNOWN",0,stop,,0,3.29,241,51,Google,2026-08-07T10:02:38
+cl_2022_ca7_andrew_albert_v._oshkosh_corporatio,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-08-29,Andrew Albert v. Oshkosh Corporation,circuit,UNKNOWN,0,stop,,0,2.49,230,5,Google,2026-08-07T10:02:38
+cl_2021_ca2_in_re_tribune_co._fraudulent_conv._,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-08-20,In Re: Tribune Co. Fraudulent Conv. Litig.,circuit,"I need to be careful here as I'm not certain about the specific details of this case.
+
+From what I recall:
+
+1. THE OUTCOME — The Second Circuit affirmed the district court's dismissal of certain fraudulent conveyance claims.
+
+2. THE REASONING — The court held that the safe harbor provision in Section 546(e) of the Bankruptcy Code barred state law constructive fraudulent transfer claims brought by individual creditors against shareholders who received payouts in the Tribune leveraged buyout. The court reasoned that because the payments were made through financial intermediaries in connection with a securities contract, they fell within the statutory safe harbor that protects such transfers from avoidance.
+
+However, I'm not entirely certain about all the specific details of this ruling, particularly regarding which specific claims were dismissed versus any that may have been allowed to proceed.",0,stop,,0,8.55,244,183,Google,2026-08-07T10:02:39
+cl_2022_ca7_diane_burke_v._the_boeing_company,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-08-01,Diane Burke v. The Boeing Company,circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.7,238,15,Google,2026-08-07T10:02:39
+cl_2022_ca2_haley_v._tiaa,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-12-01,Haley v. TIAA,circuit,"I do not have specific knowledge of a case called ""Haley v. TIAA"" decided by the Second Circuit on December 1, 2022 (Docket No. 21-805).
+
+UNKNOWN",0,stop,,0,3.56,236,51,Google,2026-08-07T10:02:39
+cl_2021_ca2_sacerdote_v._new_york_university,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2021-08-16,Sacerdote v. New York University,circuit,"OUTCOME: Affirmed. The district court's dismissal of the ERISA breach of fiduciary duty claims was upheld, with NYU prevailing.
+
+REASONING: The Second Circuit held that the plaintiffs failed to plausibly allege that NYU breached its fiduciary duties in managing its retirement plans. The court found that offering a wide array of investment options (including both actively and passively managed funds) and retaining recordkeepers through a revenue-sharing arrangement were not imprudent per se. The court emphasized that fiduciaries are not required to pick the cheapest possible investment options, and that the existence of cheaper alternatives alone does not establish a breach of the duty of prudence. The plaintiffs' allegations amounted to disagreements with NYU's investment strategy rather than showing an imprudent process.",0,stop,,0,8.68,238,179,Google,2026-08-07T10:02:39
+cl_2022_ca7_walter_dean_v._national_production_,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-08-15,Walter Dean v. National Production Workers Un,circuit,UNKNOWN,0,stop,,0,2.12,238,5,Google,2026-08-07T10:02:40
+cl_2022_dcd_eig_energy_fund_xiv_l.p._v._petrole,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-08-08,"Eig Energy Fund Xiv, L.P. v. Petroleo Brasileiro S.A",district,UNKNOWN,0,stop,,0,1.85,256,5,Google,2026-08-07T10:02:40
+cl_2022_ca9_lenai_mull_v._motion_picture_indust,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-07-25,Lenai Mull v. Motion Picture Industry Health,circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.54,242,15,Google,2026-08-07T10:02:40
+cl_2022_dcd_united_states_v._garcia,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-07-22,United States v. Garcia,district,UNKNOWN,0,stop,,0,1.91,238,5,Google,2026-08-07T10:02:40
+cl_2022_delch_xri_investment_holdings_llc_v._holi,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-09-13,XRI Investment Holdings LLC v. Holifield,state,"I do not have specific knowledge of this Delaware Chancery Court case from 2022. 
+
+UNKNOWN",0,stop,,0,2.66,247,26,Google,2026-08-07T10:02:41
+cl_2023_ca2_cunningham_v._cornell_university,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-11-14,Cunningham v. Cornell University,circuit,UNKNOWN,0,stop,,0,2.12,226,5,Google,2026-08-07T10:02:42
+cl_2022_delch_metro_storage_international_llc_v._,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-05-04,Metro Storage International LLC v. Harron,state,"I do not have specific knowledge of Metro Storage International LLC v. Harron from the Delaware Chancery Court decided on May 4, 2022. 
+
+UNKNOWN",0,stop,,0,3.27,245,40,Google,2026-08-07T10:02:42
+cl_2023_ca2_ark._tchr._ret._sys._v._goldman_sac,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-08-10,"Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.",circuit,"I do not have specific knowledge of this Second Circuit case from 2023. 
+
+UNKNOWN",0,stop,,0,2.8,253,23,Google,2026-08-07T10:02:42
+cl_2023_ca2_in_re_nine_west_lbo_sec._litig.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-11-27,In Re: Nine West LBO SEC. Litig.,circuit,"I do not have specific knowledge of this Second Circuit case from November 2023. 
+
+UNKNOWN",0,stop,,0,2.64,242,24,Google,2026-08-07T10:02:43
+cl_2022_ca2_united_states_v._blaszczak,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2022-12-27,United States v. Blaszczak,circuit,"OUTCOME: Reversed and remanded. The defendants' convictions were overturned.
+
+REASONING: The Second Circuit held that confidential government information about upcoming CMS (Centers for Medicare & Medicaid Services) regulatory decisions did not constitute ""property"" for purposes of the wire fraud statute. The court reasoned that the confidential regulatory information at issue was not a traditional property interest that could be the object of fraud under the Supreme Court's narrowing interpretation of the wire fraud statute, particularly following the Court's decision in Kelly v. United States. The government's interest in keeping pre-decisional regulatory information confidential did not create a property right that could support a wire fraud conviction.",0,stop,,0,7.3,255,145,Google,2026-08-07T10:02:43
+cl_2023_ca2_kirschner_v._jp_morgan_chase_bank_n,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-08-24,"Kirschner v. JP Morgan Chase Bank, N.A.",circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.68,244,15,Google,2026-08-07T10:02:43
+cl_2023_ca2_new_england_carpenters_guaranteed_a,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-08-23,New England Carpenters Guaranteed Annuity and Pension Funds v. AmTrust,circuit,"I do not have specific knowledge of this case. 
+
+UNKNOWN",0,stop,,0,2.69,251,17,Google,2026-08-07T10:02:43
+cl_2023_ca2_pauwels_v._deloitte_llp,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-10-06,Pauwels v. Deloitte LLP,circuit,UNKNOWN,0,stop,,0,2.05,231,5,Google,2026-08-07T10:02:43
+cl_2023_ca3_marlow_henry_v._wilmington_trust_na,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-06-30,Marlow Henry v. Wilmington Trust NA,circuit,"I do not have specific knowledge of the case Marlow Henry v. Wilmington Trust NA from the Third Circuit decided on June 30, 2023.
+
+UNKNOWN",0,stop,,0,2.65,240,40,Google,2026-08-07T10:02:44
+cl_2023_ca9_julie_su_v._brian_bowers,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-10-25,Julie Su v. Brian Bowers,circuit,UNKNOWN,0,stop,,0,2.09,238,5,Google,2026-08-07T10:02:45
+cl_2023_ca4_benjamin_reetz_v._aon_hewitt_invest,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-07-17,"Benjamin Reetz v. Aon Hewitt Investment Consulting, Inc.",circuit,"I do not have specific knowledge of Benjamin Reetz v. Aon Hewitt Investment Consulting, Inc., Fourth Circuit, decided July 17, 2023.
+
+UNKNOWN",0,stop,,0,3.16,247,43,Google,2026-08-07T10:02:45
+cl_2023_dcd_freeman_v._herring_networks_inc.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-08-30,"Freeman v. Herring Networks, Inc.",district,UNKNOWN,0,stop,,0,2.03,243,5,Google,2026-08-07T10:02:45
+cl_2023_ca9_amalgamated_bank_v._facebook_inc.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-10-18,"Amalgamated Bank v. Facebook, Inc.",circuit,I do not have specific knowledge of this case. UNKNOWN,0,stop,,0,2.64,241,15,Google,2026-08-07T10:02:45
+cl_2023_ca4_sec_v._christopher_clark,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-02-23,SEC v. Christopher Clark,circuit,UNKNOWN,0,stop,,0,3.5,234,5,Google,2026-08-07T10:02:45
+cl_2023_del_holifield_v._xri_investment_holding,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-09-07,Holifield v. XRI Investment Holdings LLC,state,UNKNOWN,0,stop,,0,2.18,229,5,Google,2026-08-07T10:02:45
+cl_2024_ca2_new_england_carpenters_guaranteed_a,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-10-31,New England Carpenters Guaranteed Annuity and Pension Funds v. AmTrust,circuit,UNKNOWN,0,stop,,0,1.82,251,5,Google,2026-08-07T10:02:47
+cl_2024_ca2_peterson_v._bank_markazi,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-11-13,Peterson v. Bank Markazi,circuit,UNKNOWN,0,stop,,0,1.77,235,5,Google,2026-08-07T10:02:47
+cl_2023_delch_smash_franchise_partners_llc_v._kan,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-07-14,"Smash Franchise Partners, LLC v. Kanda Holdings, Inc.",state,"I do not have specific knowledge of this Delaware Chancery Court case from 2023. 
+
+UNKNOWN",0,stop,,0,2.61,253,26,Google,2026-08-07T10:02:47
+cl_2023_dcd_attias_v._carefirst_inc.,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2023-09-13,"Attias v. Carefirst, Inc.",district,"I do not have specific knowledge of the outcome and reasoning in Attias v. Carefirst, Inc., D.D.C. (2023).
+
+UNKNOWN",0,stop,,0,4.02,246,40,Google,2026-08-07T10:02:47
+cl_2024_ca2_packer_v._raging_capital_management,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-06-24,"Packer v. Raging Capital Management, LLC",circuit,UNKNOWN,0,stop,,0,2.05,240,5,Google,2026-08-07T10:02:47
+cl_2024_ca2_sec_v._rashid,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-03-13,SEC v. Rashid,circuit,UNKNOWN,0,stop,,0,2.01,235,5,Google,2026-08-07T10:02:47
+cl_2024_ca3_sec_v._dale_chappell,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,SEC v. Dale Chappell,circuit,UNKNOWN,0,stop,,0,1.84,237,5,Google,2026-08-07T10:02:47
+cl_2024_ca2_trustees_of_the_nysnapp_v._white_oa,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-05-21,Trustees of the NYSNAPP v. White Oak Glob. Adv.,circuit,UNKNOWN,0,stop,,0,2.19,248,5,Google,2026-08-07T10:02:48
+cl_2024_ca9_julie_su_v._brian_bowers,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,Julie Su v. Brian Bowers,circuit,UNKNOWN,0,stop,,0,2.1,238,5,Google,2026-08-07T10:02:49
+cl_2024_ca9_renaldo_white_v._symetra_assigned_b,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,Renaldo White v. Symetra Assigned Benefits Service Company,circuit,UNKNOWN,0,stop,,0,1.99,245,5,Google,2026-08-07T10:02:49
+cl_2024_dcd_akhmetshin_v._browder,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,Akhmetshin v. Browder,district,UNKNOWN,0,stop,,0,2.01,243,5,Google,2026-08-07T10:02:49
+cl_2024_dcd_securities_and_exchange_commission_,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,Securities and Exchange Commission v. Binance Holdings Limited,district,UNKNOWN,0,stop,,0,2.11,244,5,Google,2026-08-07T10:02:49
+cl_2024_cadc_an_opinion_was_released_in_case_24-,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,"An opinion was released in case 24-1113, TikTok Inc. v. Merrick Garland",circuit,UNKNOWN,0,stop,,0,2.37,258,5,Google,2026-08-07T10:02:49
+cl_2024_dcd_battineni_v._mayorkas,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,Battineni v. Mayorkas,district,UNKNOWN,0,stop,,0,2.4,242,5,Google,2026-08-07T10:02:49
+cl_2024_dcd_united_states_v._michel,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,United States v. Michel,district,UNKNOWN,0,stop,,0,2.3,237,5,Google,2026-08-07T10:02:50
+cl_2024_delch_be_capital_management_fund_lp_v._fu,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,BE Capital Management Fund LP v. Fund.com Inc.,state,UNKNOWN,0,stop,,0,2.05,245,5,Google,2026-08-07T10:02:50
+cl_2024_ohioctapp_state_v._thayer,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,State v. Thayer,state,UNKNOWN,0,stop,,0,1.92,237,5,Google,2026-08-07T10:02:51
+cl_2025_ca1_securities_and_exchange_commission_,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,"Securities and Exchange Commission v. Commonwealth Equity Services, LLC",circuit,UNKNOWN,0,stop,,0,1.71,241,5,Google,2026-08-07T10:02:51
+cl_2025_ca11_united_states_v._ephren_taylor_ii,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,"United States v. Ephren Taylor, II",circuit,UNKNOWN,0,stop,,0,2.19,241,5,Google,2026-08-07T10:02:51
+cl_2025_ca2_collins_v._ne._grocery_llc,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,"Collins v. Ne. Grocery, LLC",circuit,UNKNOWN,0,stop,,0,2.03,238,5,Google,2026-08-07T10:02:51
+cl_2025_ca2_in_re_shanda_games_ltd._sec._litig.,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,In Re Shanda Games Ltd. SEC. Litig.,circuit,UNKNOWN,0,stop,,0,2.08,243,5,Google,2026-08-07T10:02:52
+cl_2025_ca2_united_states_v._phillips,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,United States v. Phillips,circuit,UNKNOWN,0,stop,,0,2.1,234,5,Google,2026-08-07T10:02:52
+cl_2025_ca2_natl_rifle_assn_of_am._v._vullo,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,Nat'l Rifle Ass'n of Am. v. Vullo,circuit,UNKNOWN,0,stop,,0,2.16,247,5,Google,2026-08-07T10:02:52
+cl_2024_delch_kuramo_capital_management_llc_v._la,anthropic/claude-opus-4,2025-01-31,pre_cutoff,2024-07-01,"Kuramo Capital Management, LLC v. Larry Seruma",state,"I do not have specific knowledge of this Delaware Chancery Court case from 2024. 
+
+UNKNOWN",0,stop,,0,3.22,250,26,Google,2026-08-07T10:02:52
+cl_2025_ca3_nra_group_llc_v._nicole_durenleau,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,NRA Group LLC v. Nicole Durenleau,circuit,UNKNOWN,0,stop,,0,2.03,240,5,Google,2026-08-07T10:02:53
+cl_2025_cadc_robert_goodrich_v._bank_of_america_,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,Robert Goodrich v. Bank of America N.A.,circuit,UNKNOWN,0,stop,,0,1.65,245,5,Google,2026-08-07T10:02:53
+cl_2025_ca9_winston_anderson_v._intel_corporati,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,Winston Anderson v. Intel Corporation Investment Policy Committee,circuit,UNKNOWN,0,stop,,0,2.01,239,5,Google,2026-08-07T10:02:53
+cl_2025_scotus_cunningham_v._cornell_univ.,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,Cunningham v. Cornell Univ.,supreme,UNKNOWN,0,stop,,0,1.77,239,5,Google,2026-08-07T10:02:53
+cl_2025_ca9_united_states_v._rice,anthropic/claude-opus-4,2025-01-31,post_cutoff,2025-07-01,United States v. Rice,circuit,UNKNOWN,0,stop,,0,2.37,235,5,Google,2026-08-07T10:02:53
+cl_2026_ca11_u.s._securities_and_exchange_commis,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-01,"U.S. Securities and Exchange Commission v. Spartan Securities Group, LTD",circuit,UNKNOWN,0,stop,,0,1.96,250,5,Google,2026-08-07T10:02:54
+cl_2026_dcd_securities_and_exchange_commission_v_wisdom_ca,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-08-03,Securities and Exchange Commission v. Wisdom Capital Management Group Ltd,district,UNKNOWN,0,stop,,0,2.1,246,5,Google,2026-08-07T10:02:54
+cl_2026_ca9_united_states_v_ridley_thomas,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-08-03,United States v. Ridley-Thomas,circuit,UNKNOWN,0,stop,,0,2.05,238,5,Google,2026-08-07T10:02:54
+cl_2026_cal_l_a_county_employees_retirement_association_v_,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-08-03,L.A. County Employees Retirement Association v. County of L.A.,state,UNKNOWN,0,stop,,0,1.92,244,5,Google,2026-08-07T10:02:55
+cl_2026_ca10_scottsdale_capital_advisors_v_ussec,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-31,Scottsdale Capital Advisors v. USSEC,circuit,UNKNOWN,0,stop,,0,1.91,243,5,Google,2026-08-07T10:02:55
+cl_2026_delch_gregory_j_mccray_v_fdh_holdings_llc_fdh_infras,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-08-03,"Gregory J. McCray v. FDH Holdings, LLC, FDH Infrastructure Group, Julian Mashand John Robinson",state,UNKNOWN,0,stop,,0,2.15,265,5,Google,2026-08-07T10:02:55
+cl_2026_delch_in_re_cellular_telephone_coordinated_partnersh,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-31,In re Cellular Telephone Coordinated Partnership Litigation,state,UNKNOWN,0,stop,,0,4.4,255,5,Google,2026-08-07T10:02:58
+cl_2026_ca8_united_healthcare_services_inc_v_amerisourcebe,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-31,"United HealthCare Services, Inc. v. AmerisourceBergen Corporation",circuit,UNKNOWN,0,stop,,0,4.87,248,5,Google,2026-08-07T10:02:58
+cl_2026_delch_hka_global_llc_v_christopher_beirise,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-08-03,HKA Global LLC v. Christopher Beirise,state,UNKNOWN,0,stop,,0,5.36,245,5,Google,2026-08-07T10:02:58
+cl_2026_ca4_vapor_technology_association_v_mckinley_wooten,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,"Vapor Technology Association v. McKinley Wooten, Jr.",circuit,UNKNOWN,0,stop,,0,4.12,244,5,Google,2026-08-07T10:02:58
+cl_2026_ncbizct_gaston_cap_llc_v_kellar,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,"Gaston Cap., LLC v. Kellar",state,UNKNOWN,0,stop,,0,3.31,245,5,Google,2026-08-07T10:02:58
+cl_2026_dcd_in_re_non_party_deposition_subpoena,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-31,In Re Non-Party Deposition Subpoena,district,UNKNOWN,0,stop,,0,4.59,247,5,Google,2026-08-07T10:02:58
+cl_2026_illappct_marchi_v_centrust_bank,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,Marchi v. Centrust Bank,state,UNKNOWN,0,stop,,0,2.91,241,5,Google,2026-08-07T10:02:58
+cl_2026_ariz_doe_v_the_corporation,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,DOE v. THE CORPORATION,state,UNKNOWN,0,stop,,0,3.07,239,5,Google,2026-08-07T10:02:58
+cl_2026_delch_samvit_ramadurgam_v_destiny_xyz_inc,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-23,Samvit Ramadurgam v. Destiny XYZ Inc.,state,UNKNOWN,0,stop,,0,1.74,257,5,Google,2026-08-07T10:03:00
+cl_2026_ca9_pover_v_the_capital_group_companies_inc,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,"Pover v. the Capital Group Companies, Inc.",circuit,UNKNOWN,0,stop,,0,1.77,241,5,Google,2026-08-07T10:03:00
+cl_2026_dcd_koneru_v_securities_and_exchange_commission,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-29,Koneru v. Securities and Exchange Commission,district,UNKNOWN,0,stop,,0,1.91,243,5,Google,2026-08-07T10:03:00
+cl_2026_ncbizct_blue_v_efincia_constr_llc,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-30,"Blue v. Efincia Constr., LLC",state,UNKNOWN,0,stop,,0,2.04,245,5,Google,2026-08-07T10:03:00
+cl_2026_delch_ashok_mayya_v_edward_lee,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-27,Ashok Mayya v. Edward Lee,state,UNKNOWN,0,stop,,0,2.15,249,5,Google,2026-08-07T10:03:00
+cl_2026_ca2_united_states_v_greebel,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-29,United States v. Greebel,circuit,UNKNOWN,0,stop,,0,2.17,237,5,Google,2026-08-07T10:03:00
+cl_2026_cadc_fairholme_funds_inc_v_fhfa,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-24,"Fairholme Funds, Inc v. FHFA",circuit,UNKNOWN,0,stop,,0,2.39,243,5,Google,2026-08-07T10:03:01
+cl_2026_kanctapp_in_re_max_hacker_family_trust,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-24,In re Max Hacker Family Trust,state,UNKNOWN,0,stop,,0,2.81,236,5,Google,2026-08-07T10:03:01
+cl_2026_ca11_luis_manuel_rodriguez_v_imperial_brands_plc,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-23,"Luis Manuel Rodriguez v. Imperial Brands, PLC.",circuit,UNKNOWN,0,stop,,0,1.88,241,5,Google,2026-08-07T10:03:02
+cl_2026_ca3_in_re_avandia_marketing_v,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-21,In re: Avandia Marketing v.,circuit,UNKNOWN,0,stop,,0,1.88,239,5,Google,2026-08-07T10:03:02
+cl_2026_ncbizct_highlights_healthcare_llc_v_abell,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-23,"Highlights Healthcare, LLC v. Abell",state,UNKNOWN,0,stop,,0,2.19,244,5,Google,2026-08-07T10:03:02
+cl_2026_delch_calm_v_taylor,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-17,Calm v. Taylor,state,UNKNOWN,0,stop,,0,1.82,245,5,Google,2026-08-07T10:03:02
+cl_2026_ca4_in_re_the_boeing_company,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-20,In re: The Boeing Company,circuit,UNKNOWN,0,stop,,0,2.11,235,5,Google,2026-08-07T10:03:03
+cl_2026_cadc_thrivent_financial_for_lutherans_v_sec,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-21,Thrivent Financial for Lutherans v. SEC,circuit,UNKNOWN,0,stop,,0,2.67,240,5,Google,2026-08-07T10:03:03
+cl_2026_ca2_hayden_v_koons,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-21,Hayden v. Koons,circuit,UNKNOWN,0,stop,,0,2.79,236,5,Google,2026-08-07T10:03:03
+cl_2026_md_nathanson_v_tortoise_capital_advisors,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-14,Nathanson v. Tortoise Capital Advisors,state,UNKNOWN,0,stop,,0,2.1,239,5,Google,2026-08-07T10:03:03
+cl_2026_ca4_dmarcian_inc_v_dmarc_advisor_bv_11394608,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-10,"Dmarcian, Inc. v. DMARC Advisor BV",circuit,UNKNOWN,0,stop,,0,1.65,246,5,Google,2026-08-07T10:03:04
+cl_2026_ca4_dmarcian_inc_v_dmarc_advisor_bv,anthropic/claude-opus-4,2025-01-31,post_cutoff,2026-07-10,"Dmarcian, Inc. v. DMARC Advisor BV",circuit,UNKNOWN,0,stop,,0,2.91,246,5,Google,2026-08-07T10:03:05

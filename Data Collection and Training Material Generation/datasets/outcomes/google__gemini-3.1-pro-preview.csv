@@ -1,0 +1,584 @@
+case_id,model,model_cutoff,arm,date_filed,caption,court_level,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,served_by,ts
+cl_2014_ca9_john_loos_v._immersion_corporation,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2014-09-11,John Loos v. Immersion Corporation,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court’s dismissal of the complaint. The defendant, Immersion Corporation, prevailed.
+
+**2. THE REASONING**
+The case turned on whether the plaintiff adequately pleaded ""loss causation"" in a securities fraud claim under Section 10(b) of the Securities Exchange Act. Specifically, the court had to decide whether a company's announcement of an internal investigation into its accounting practices constitutes a ""corrective disclosure"" that reveals the truth of a prior misrepresentation to the market. 
+
+The Ninth Circuit held that the mere announcement of an internal investigation, standing alone, does not qualify as a corrective disclosure. The court reasoned that such an announcement only alerts the market to a *potential* problem or the *risk* of fraud, rather than actually revealing that prior financial statements were false or that fraudulent conduct occurred. Because the subsequent drop in stock price was based on market speculation about what the investigation might eventually uncover—rather than the revelation of the actual truth—the plaintiff failed to adequately plead loss causation.",0,stop,,0,6.83,232,705,Google,2026-08-07T10:26:48
+cl_2014_ca2_sec_v._contorinis,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2014-02-18,SEC v. Contorinis,circuit,"**1. THE OUTCOME**
+The Second Circuit affirmed the district court’s judgment in favor of the SEC, upholding the disgorgement order against the defendant. 
+
+**2. THE REASONING**
+The principal legal question was whether an insider trader can be required to disgorge illicit profits that were realized by a third party—in this case, the hedge fund the defendant managed—rather than by the defendant personally. 
+
+The Second Circuit held that a defendant can be ordered to disgorge third-party profits if the defendant had control over the trades and directed the illegal gains to that third party. The court reasoned that the primary purpose of disgorgement is to deprive wrongdoers of their unjust enrichment and deter securities law violations. Because Contorinis executed the trades and directly caused the fund to receive the illicit profits (which also indirectly benefited him through his compensation structure), holding him liable for the full amount of the illegal profits properly served the equitable and deterrent purposes of disgorgement, regardless of whether he personally pocketed the entire sum.",0,stop,,0,7.53,218,681,Google,2026-08-07T10:26:49
+cl_2014_ca2_city_of_pontiac_v._ubs_ag,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2014-05-06,City of Pontiac v. UBS AG,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's dismissal of the complaint. The prevailing party was the defendant, **UBS AG**.
+
+**2. THE REASONING**
+The court's decision turned on two principal legal issues regarding securities fraud:
+*   **Extraterritoriality (The ""Listing Theory""):** Applying the Supreme Court's decision in *Morrison v. National Australia Bank*, the Second Circuit held that Section 10(b) of the Securities Exchange Act does not apply to foreign plaintiffs purchasing shares of a foreign issuer on a foreign exchange (""foreign-squared"" claims) simply because those shares are cross-listed on a U.S. exchange. The court explicitly rejected the ""listing theory,"" requiring the actual transaction to occur on a domestic exchange or involve a domestic transaction.
+*   **Corporate Puffery:** The court held that UBS's general statements regarding its ""highly disciplined"" risk management, strict compliance programs, and commitment to protecting its reputation were non-actionable ""puffery."" The court reasoned that these were broad, qualitative statements of corporate optimism that a reasonable investor would not rely upon as a concrete guarantee against the company's subsequent massive losses in mortgage-backed securities or its involvement in a tax evasion scandal.",0,stop,,0,12.31,219,1355,Google,2026-08-07T10:26:54
+cl_2017_iowa_amended_september_5_2017_state_of_i,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2017-06-23,"Amended September 5, 2017 State of Iowa v. Eddie Tipton",state,"**1. THE OUTCOME**
+The Iowa Supreme Court reversed Tipton’s convictions and remanded the case for dismissal of the charges. Tipton prevailed. 
+
+**2. THE REASONING**
+Tipton was convicted of fraudulent practice and ongoing criminal conduct for rigging a Multi-State Lottery Association random number generator to win a $16.5 million Iowa Hot Lotto jackpot. The Court reversed both convictions on the following grounds:
+*   **Fraudulent Practice:** The charge was barred by the three-year statute of limitations. The State argued the crime was a continuing offense that lasted until Tipton's associates attempted to claim the prize in December 2011. However, the Court held the offense was completed in December 2010 when Tipton actually manipulated the lottery equipment and purchased the rigged ticket. Because he was not charged until January 2015, the statute of limitations had expired.
+*   **Ongoing Criminal Conduct:** The Court held there was insufficient evidence to support this charge. The statute requires proof of ""continuing"" criminal activity or an ongoing ""enterprise."" Because the evidence at this specific trial only established a single, isolated criminal act (the rigging of one specific lottery draw), it did not meet the statutory definition for ongoing criminal conduct.",0,stop,,0,12.67,241,1423,Google,2026-08-07T10:26:54
+cl_2015_ca5_state_of_texas_v._usa,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2015-11-25,State of Texas v. USA,circuit,"**1. THE OUTCOME**
+**Affirmed.** The State of Texas (and the coalition of plaintiff states) prevailed. The Fifth Circuit upheld the district court's preliminary injunction halting the implementation of the Deferred Action for Parents of Americans and Lawful Permanent Residents (DAPA) program.
+
+**2. THE REASONING**
+The court's decision turned on standing and the Administrative Procedure Act (APA):
+*   **Standing:** The court held that Texas had Article III standing because it would suffer a concrete and particularized financial injury from having to subsidize state driver's licenses for DAPA beneficiaries. 
+*   **APA Procedural Violation:** The court determined that DAPA was a substantive (legislative) rule rather than a mere general statement of policy, because it severely restricted agency discretion and established substantive rights. Therefore, the Department of Homeland Security violated the APA by failing to use notice-and-comment rulemaking.
+*   **APA Substantive Violation:** The court also held that DAPA was manifestly contrary to the Immigration and Nationality Act (INA). The court reasoned that the INA's intricate and comprehensive statutory scheme did not grant the executive branch the authority to confer ""lawful presence"" and work authorization on millions of undocumented immigrants without congressional approval.",0,stop,,0,12.84,230,1336,Google,2026-08-07T10:26:54
+cl_2017_pa_villani_v._seibert_appeal_of_seiber,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2017-04-26,Villani v. Seibert Appeal of: Seibert,state,"**1. THE OUTCOME**
+The order of the lower court was affirmed (and the case remanded for further proceedings). Villani (the plaintiff) prevailed.
+
+**2. THE REASONING**
+The legal question was whether the Dragonetti Act (Pennsylvania's statutory cause of action for wrongful use of civil proceedings) was unconstitutional as applied to attorneys. Seibert argued that the Act violated the separation of powers by infringing upon the Pennsylvania Supreme Court's exclusive authority to regulate the conduct of attorneys under Article V, Section 10(c) of the Pennsylvania Constitution. 
+
+The Pennsylvania Supreme Court rejected this argument and upheld the statute. The Court reasoned that the Dragonetti Act does not impermissibly encroach on the Court's power to govern attorney discipline or procedural rules. Instead, it is a substantive tort cause of action designed to compensate victims for the harm caused by frivolous and malicious litigation, which falls squarely within the General Assembly's traditional legislative authority to define substantive law.",0,stop,,0,14.69,222,1823,Google,2026-08-07T10:26:56
+cl_2015_ca9_steve_harris_v._amgen_inc.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2015-05-26,"Steve Harris v. Amgen, Inc.",circuit,"**1. THE OUTCOME**
+
+The Ninth Circuit **reversed** the district court’s dismissal of the complaint and **remanded** the case. The plaintiffs (Amgen employees/plan participants) prevailed at this stage. 
+
+*(Note: The U.S. Supreme Court later summarily reversed this specific Ninth Circuit decision in 2016).*
+
+**2. THE REASONING**
+
+This was an ERISA ""stock drop"" case on remand from the Supreme Court, requiring the Ninth Circuit to apply the new pleading standard established in *Fifth Third Bancorp v. Dudenhoeffer* (2014). Under *Dudenhoeffer*, plaintiffs alleging a breach of the fiduciary duty of prudence based on inside information must plausibly allege an alternative action the fiduciaries could have taken that would be consistent with securities laws and that a prudent fiduciary would not have viewed as more likely to harm the fund than to help it.
+
+The Ninth Circuit held that the plaintiffs successfully met this standard. The court reasoned that the complaint plausibly alleged the fiduciaries knew Amgen's stock was artificially inflated due to concealed safety issues with its drugs and illegal off-label marketing. The court concluded that the fiduciaries could have taken alternative actions—specifically, removing the Amgen Common Stock Fund from the list of available investment options—without violating insider trading laws. Furthermore, the court found the plaintiffs sufficiently alleged that a prudent fiduciary in the same circumstances would not have concluded that stopping further purchases of the stock would do more harm than good to the plan.",0,stop,,0,15.09,233,1600,Google,2026-08-07T10:26:57
+cl_2015_ca9_northstar_financial_advisors_v._sch,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2015-04-28,Northstar Financial Advisors v. Schwab Investments,circuit,"**1. THE OUTCOME**
+The Ninth Circuit reversed the district court’s dismissal and remanded the case. The plaintiff (Northstar Financial Advisors) prevailed.
+
+**2. THE REASONING**
+The case turned on whether a mutual fund's shareholders could bring state-law claims against the fund for deviating from the investment objectives stated in its regulatory filings. 
+
+The Ninth Circuit held that, under Massachusetts law (where the Schwab trust was organized), a mutual fund’s prospectus and Statement of Additional Information (SAI) can form a binding contract between the fund and its shareholders. Therefore, Northstar stated a valid breach of contract claim by alleging that Schwab violated its fundamental investment policies by investing heavily in risky, non-agency mortgage-backed securities instead of tracking its stated benchmark bond index. 
+
+Furthermore, the court revived the plaintiff's breach of fiduciary duty claim, holding that it could be brought as a direct action rather than a derivative action. The court reasoned that the shareholders suffered a direct, independent injury when the fund unilaterally changed its fundamental investment strategy without obtaining the required shareholder vote.",0,stop,,0,16.47,232,1852,Google,2026-08-07T10:26:58
+cl_2018_ca9_jaclyn_santomenno_v._transamerica_l,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2018-02-23,Jaclyn Santomenno v. Transamerica Life Ins. Co.,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court’s dismissal of the plaintiffs' claims. The defendant, Transamerica Life Insurance Co., prevailed.
+
+**2. THE REASONING**
+The case turned on whether Transamerica was acting as an ERISA fiduciary when it charged and collected fees from the plaintiffs' employer-sponsored 401(k) retirement plans. 
+
+The Ninth Circuit held that Transamerica was not an ERISA fiduciary with respect to its compensation. The court reasoned that the fee arrangements were negotiated at arm's length with the plan sponsors *before* Transamerica entered into the service agreements and assumed any fiduciary role. Furthermore, Transamerica's act of simply withdrawing its pre-negotiated fees from the plans' investment accounts did not constitute the ""discretionary authority or control"" over plan assets required to trigger fiduciary duties under ERISA. Because Transamerica was not acting as a fiduciary regarding the fees, the plaintiffs' claims for breach of fiduciary duty and prohibited transactions failed as a matter of law.",0,stop,,0,10.37,238,1031,Google,2026-08-07T10:26:59
+cl_2018_ca9_united_states_v._jonathan_turner,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2018-07-27,United States v. Jonathan Turner,circuit,UNKNOWN,0,stop,,0,12.37,230,1266,Google,2026-08-07T10:27:01
+cl_2018_ca9_ussec_v._e._andrew_schooler,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2018-09-26,Ussec v. E. Andrew Schooler,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court's judgment. The Securities and Exchange Commission (SEC) prevailed. 
+
+**2. THE REASONING**
+The principal legal question was whether the general partnership interests in raw land that Schooler sold to investors constituted ""investment contracts"" (and thus securities) subject to SEC regulation under the *Howey* test. 
+
+While general partnership interests are typically not considered securities because partners possess control over the enterprise, the Ninth Circuit applied the *Williamson* exception. The court reasoned that the investors were inexperienced in raw land investment and were so entirely dependent on Schooler's unique entrepreneurial and managerial expertise that they were practically unable to exercise meaningful partnership powers. Consequently, the interests were securities. The court also affirmed the district court's disgorgement order, finding that it reasonably approximated Schooler's ill-gotten gains.",0,stop,,0,10.97,233,1119,Google,2026-08-07T10:27:05
+cl_2018_cadc_phh_corporation_v._cfpb,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2018-01-31,PHH Corp. v. Consumer Financial Protection Bureau,circuit,"**1. THE OUTCOME**
+The D.C. Circuit (sitting *en banc*) vacated the CFPB’s $109 million enforcement order against PHH and remanded the case. PHH prevailed on the statutory and due process grounds (escaping the fine), while the CFPB prevailed on the constitutional challenge to its agency structure. 
+
+**2. THE REASONING**
+The court's decision turned on two main issues:
+*   **Constitutional Structure:** The *en banc* majority held that the CFPB’s structure—headed by a single director removable by the President only for cause—did not violate the separation of powers. The court reasoned that under Supreme Court precedent (specifically *Humphrey's Executor*), Congress may provide for-cause removal protections to the heads of independent agencies that wield financial regulatory and enforcement powers. *(Note: This constitutional holding was later abrogated by the Supreme Court in Seila Law LLC v. CFPB in 2020).*
+*   **Statutory Interpretation and Due Process:** Despite upholding the agency's constitutionality, the *en banc* court reinstated the earlier three-judge panel's statutory rulings in favor of PHH. The court held that the CFPB had misinterpreted the Real Estate Settlement Procedures Act (RESPA) regarding captive reinsurance arrangements, that the CFPB violated PHH's due process rights by retroactively applying this new interpretation to past conduct, and that the CFPB's administrative enforcement actions are bound by RESPA's three-year statute of limitations. Because of these statutory and due process violations, the CFPB's enforcement order was vacated.",0,stop,,0,10.73,236,1236,Google,2026-08-07T10:27:05
+cl_2018_illappct_vt_investment_corp._v._west_columbi,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2018-08-24,V&T Investment Corp. v. West Columbia Condominium Ass'n,state,UNKNOWN,0,stop,,0,11.2,229,1141,Google,2026-08-07T10:27:06
+cl_2019_ca3_jennifer_sweda_v._university_of_pen,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-05-02,Jennifer Sweda v. University of Pennsylvania,circuit,"**1. THE OUTCOME**
+The Third Circuit reversed in part, affirmed in part, and remanded. The plaintiffs (Sweda and other plan participants) largely prevailed, as the court reinstated their core ERISA breach of fiduciary duty claims, though it affirmed the dismissal of their prohibited transaction claims.
+
+**2. THE REASONING**
+The case turned on the pleading standards for an ERISA breach of fiduciary duty claim regarding a university 403(b) retirement plan. 
+
+The Third Circuit held that the plaintiffs plausibly alleged that the University of Pennsylvania breached its fiduciary duties by paying excessive recordkeeping fees, failing to use its size to negotiate lower fees, and retaining expensive retail-class shares when identical, cheaper institutional-class shares were available. The court ruled that at the motion to dismiss stage, plaintiffs are not required to rule out every lawful explanation for the fiduciaries' conduct. Furthermore, the court held that a fiduciary cannot shield itself from liability for retaining imprudent investment options simply by pointing to the fact that the plan also offered a mix of other, prudent options. 
+
+However, the court affirmed the dismissal of the plaintiffs' prohibited transaction claims under ERISA § 406(a)(1). The court reasoned that routine payments to service providers for standard recordkeeping services do not constitute prohibited transactions absent specific allegations of self-dealing or an intent to improperly benefit a party in interest.",0,stop,,0,11.22,231,1053,Google,2026-08-07T10:27:07
+cl_2019_ca9_ussec_v._hui_feng,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-08-23,Ussec v. Hui Feng,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court’s judgment. The **SEC prevailed**.
+
+**2. THE REASONING**
+The court held that Feng, an immigration attorney, acted as an unregistered broker in violation of the Securities Exchange Act because he received transaction-based compensation (commissions) for successfully soliciting his clients to purchase securities in EB-5 immigrant investor regional centers. The court emphasized that receiving transaction-based compensation is the hallmark of acting as a broker. 
+
+Additionally, the court affirmed Feng's liability for securities fraud under Section 10(b) of the Exchange Act and Section 17(a) of the Securities Act. The court reasoned that Feng breached his fiduciary duty to his clients by intentionally failing to disclose that he was receiving these commissions from the regional centers, which constituted a material conflict of interest. The court also upheld the district court's remedies, including the order of disgorgement of his ill-gotten commissions.",0,stop,,0,9.85,230,1063,Google,2026-08-07T10:27:08
+cl_2019_cadc_donald_trump_v._mazars_usa_llp,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-10-11,"Donald Trump v. Mazars USA, LLP",circuit,"**1. THE OUTCOME**
+Affirmed. The House Oversight Committee prevailed. 
+
+**2. THE REASONING**
+The D.C. Circuit held that the House Oversight Committee's subpoena to Mazars USA for President Trump's financial records was valid and enforceable because it served a ""legitimate legislative purpose."" The court reasoned that the requested documents were relevant to potential legislation concerning government ethics, financial disclosures, and conflicts of interest. Consequently, the subpoena fell squarely within Congress's broad investigative powers under Article I of the Constitution. The court rejected the President's arguments that the Committee was impermissibly attempting to exercise law enforcement powers or seeking to expose his private finances merely for the sake of exposure. 
+
+*(Note: This D.C. Circuit decision was later vacated and remanded by the U.S. Supreme Court in 2020, which established a new separation-of-powers test for congressional subpoenas targeting a sitting president's personal papers.)*",0,stop,,0,9.21,235,878,Google,2026-08-07T10:27:08
+cl_2019_ca9_alexander_acosta_v._city_national_c,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-04-23,Alexander Acosta v. City National Corporation,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court's judgment. The prevailing party was the plaintiff, Alexander Acosta (Secretary of the Department of Labor). 
+
+**2. THE REASONING**
+The case turned on whether ERISA’s ""reasonable compensation"" exemption under Section 408(b)(2) can be used as a defense against claims of fiduciary self-dealing under Section 406(b). City National Corporation, acting as a fiduciary for its own employee retirement plan, had compensated itself and its affiliates out of plan assets and argued that the transactions were exempt because the compensation was reasonable. 
+
+The Ninth Circuit held that the Section 408(b)(2) exemption does not apply to fiduciary self-dealing. Applying *Chevron* deference, the court upheld a long-standing Department of Labor regulation which interprets the Section 408(b)(2) safe harbor as applying only to ""party-in-interest"" transactions prohibited by Section 406(a), and explicitly excluding self-dealing transactions prohibited by Section 406(b). Because the statute was ambiguous and the agency's interpretation was reasonable, City National could not rely on the exemption to excuse its self-dealing.",0,stop,,0,17.39,231,2005,Google,2026-08-07T10:27:14
+cl_2019_cadc_the_robare_group_ltd._v._sec,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-04-30,"The Robare Group, LTD. v. SEC",circuit,"**1. THE OUTCOME**
+The D.C. Circuit granted the petition for review in part, denied it in part, and remanded the case to the SEC. The petitioners (The Robare Group) prevailed in defeating the SEC’s finding of a Section 206(1) violation (which requires scienter), while the SEC prevailed in upholding the Section 206(2) and Section 207 violations (which require only negligence and willfulness, respectively). 
+
+**2. THE REASONING**
+The case turned on whether investment advisers who failed to adequately disclose conflicts of interest regarding revenue-sharing payments (12b-1 fees) acted with scienter, negligence, or willfulness when they stated in their Form ADV that they ""may"" receive such compensation when they actually *were* receiving it. 
+
+The court held:
+*   **No Scienter (Section 206(1)):** The SEC lacked substantial evidence to find that the advisers acted with scienter (intent to deceive or severe recklessness). The advisers had repeatedly engaged and relied upon independent compliance consultants to draft and review their Form ADV disclosures. This reliance on professionals negated a finding of severe recklessness.
+*   **Negligence and Willfulness Upheld (Sections 206(2) and 207):** The court upheld the SEC's findings of negligence and willful omission. Even with compliance consultants, the advisers had an independent fiduciary duty to ensure their clients were fully informed of conflicts of interest, making the inadequate disclosures negligent. Furthermore, ""willfully"" under Section 207 only requires that the adviser intentionally committed the act of filing the misleading Form ADV, not that they acted with a culpable state of mind or knew they were violating the law. 
+
+Because the court vacated the most serious violation (the Section 206(1) fraud charge), it remanded the case for the SEC to reassess the appropriate sanctions.",0,stop,,0,13.93,236,1595,Google,2026-08-07T10:27:15
+cl_2019_dcd_state_of_new_york_v._united_states_,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-03-28,State of New York v. United States Department of Labor,district,"**1. THE OUTCOME**
+The court granted summary judgment in favor of the plaintiff States, vacating the core provisions of the Department of Labor’s (DOL) Association Health Plan (AHP) Final Rule and remanding the matter to the agency. 
+
+**2. THE REASONING**
+The case turned on whether the DOL’s Final Rule—which expanded the ability of small businesses and sole proprietors to band together to buy health insurance—was a valid interpretation of the term ""employer"" under the Employee Retirement Income Security Act (ERISA). 
+
+Applying the *Chevron* framework, the court held that the DOL's interpretation was unreasonable and contrary to law. ERISA was designed to regulate genuine employment-based benefit plans, not commercial insurance arrangements. The court found that the Final Rule stretched the definition of ""employer"" beyond what the statute could bear by relaxing the ""commonality of interest"" requirement for associations and by allowing ""working owners"" (sole proprietors with no employees) to qualify as both employers and employees. The court concluded that the rule was an invalid end-run around the Affordable Care Act (ACA), unlawfully allowing associations to bypass the ACA's strict consumer protections and essential health benefit requirements for the individual and small-group markets.",0,stop,,0,10.52,238,1088,Google,2026-08-07T10:27:15
+cl_2019_dcd_taylor_v._federal_aviation_administ,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-08-09,Taylor v. Federal Aviation Administration,district,UNKNOWN,0,stop,,0,10.62,236,1009,Google,2026-08-07T10:27:16
+cl_2020_ca11_united_states_v._gerti_muho,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-10-22,United States v. Gerti Muho,circuit,UNKNOWN,0,stop,,0,10.63,232,1051,Google,2026-08-07T10:27:18
+cl_2019_calctapp_j.b.b._investment_partners_v._fair,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2019-07-02,J.B.B. Investment Partners v. Fair,state,"**1. THE OUTCOME**
+The court **affirmed** the trial court's judgment in favor of the plaintiffs (J.B.B. Investment Partners). 
+
+**2. THE REASONING**
+The court held that its prior 2014 appellate decision in this same dispute—which ruled that the defendant's printed name on an email did not meet the strict signature requirements necessary for the summary enforcement of a settlement under Code of Civil Procedure section 664.6—did not establish the ""law of the case"" that no contract existed at all. 
+
+The court reasoned that while Section 664.6 requires strict compliance with formal signature requirements to utilize its expedited enforcement procedure, an agreement that fails this test can still be enforced through a standard breach of contract action. Under ordinary contract principles, the trial court correctly found that the defendant's emails, communications, and conduct demonstrated a clear intent to be bound by the settlement terms, making him liable for breach of contract.",0,stop,,0,14.03,224,1518,Google,2026-08-07T10:27:19
+cl_2020_ca2_united_states_v._kosinski,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-09-22,United States v. Kosinski,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the defendant's conviction. The Government prevailed.
+
+**2. THE REASONING**
+The court held that the defendant could be convicted of insider trading under the ""misappropriation theory"" because he breached a fiduciary-like duty of trust and confidence. Kosinski, a doctor serving as a principal investigator for a pharmaceutical company's clinical trial, traded on material nonpublic information regarding negative results in the trial. 
+
+The court reasoned that the explicit Confidentiality Disclosure Agreement (CDA) and Clinical Study Agreement (CSA) that Kosinski signed with the company created a qualifying fiduciary-like relationship. By expressly agreeing to keep the trial information confidential and not use it for his own benefit, Kosinski assumed a duty of trust. When he secretly traded on the confidential information to avoid losses and make a profit, he misappropriated the information in violation of Section 10(b) of the Securities Exchange Act.",0,stop,,0,9.02,229,957,Google,2026-08-07T10:27:23
+cl_2020_ca3_jeffrey_norman_v._david_elkin,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-05-29,Jeffrey Norman v. David Elkin,circuit,UNKNOWN,0,stop,,0,7.53,230,648,Google,2026-08-07T10:27:24
+cl_2020_ca3_united_states_v._steven_fishoff,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-01-30,United States v. Steven Fishoff,circuit,UNKNOWN,0,stop,,0,6.77,230,608,Google,2026-08-07T10:27:25
+cl_2020_ca2_xy_planning_network_llc_v._sec,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-06-26,"XY Planning Network, LLC v. SEC",circuit,"**1. THE OUTCOME**
+The Second Circuit denied the petitions for review, upholding the SEC's rule. The SEC prevailed.
+
+**2. THE REASONING**
+The case involved a challenge to the SEC's ""Regulation Best Interest"" (Reg BI), which established a new standard of conduct for broker-dealers making recommendations to retail customers. The petitioners argued that the Dodd-Frank Act required the SEC to adopt a uniform fiduciary standard for both broker-dealers and investment advisers. 
+
+The Second Circuit rejected this argument, holding that Section 913(f) of the Dodd-Frank Act granted the SEC broad, independent rulemaking authority to establish standards of care for broker-dealers, and the agency was not strictly bound to the uniform standard outlined in Section 913(g). Furthermore, the court held that the SEC did not act arbitrarily and capriciously under the APA, as it reasonably explained its policy choice—specifically, its concern that imposing a strict uniform fiduciary standard might reduce retail investors' access to affordable broker-dealer services and products. Finally, the court found that Reg BI did not violate the Investment Advisers Act, as broker-dealers complying with Reg BI are still providing advice ""solely incidental"" to their primary brokerage business.",0,stop,,0,9.89,231,1034,Google,2026-08-07T10:27:25
+cl_2020_ca2_abm_indus._groups_llc_v._intl_union,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-07-29,"ABM Indus. Groups, LLC v. Int'l Union of Operating Eng'rs",circuit,"**1. THE OUTCOME**
+The Second Circuit **reversed** the district court’s judgment (which had enjoined arbitration) and **remanded** the case with instructions to compel arbitration, ruling in favor of the International Union of Operating Engineers (the Union). 
+
+**2. THE REASONING**
+The legal question turned on whether the parties' dispute was subject to arbitration under their Collective Bargaining Agreement (CBA). The district court had granted summary judgment to the employer, ABM, by analyzing the substantive terms of the CBA and concluding that the Union's grievance lacked merit under the contract, thereby making it non-arbitrable. 
+
+The Second Circuit reversed because the district court improperly conflated the question of arbitrability with the underlying merits of the dispute. The CBA contained a broad arbitration clause covering any differences or disputes regarding the interpretation or application of the agreement. Under established labor law principles (the *Steelworkers Trilogy*), when a contract has a broad arbitration clause, a presumption of arbitrability applies. Because the Union's grievance required interpreting the CBA to determine if the employer's actions violated it, the dispute fell squarely within the arbitration clause. The court held that whether the Union's interpretation of the CBA was actually correct is a merits question strictly reserved for the arbitrator, not the courts.",0,stop,,0,17.87,241,1908,Google,2026-08-07T10:27:26
+cl_2020_ca2_gonnella_v._securities_and_exchange,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-04-02,Gonnella v. Securities and Exchange Commission,circuit,"**1. THE OUTCOME**
+The Second Circuit affirmed the SEC’s order. The Securities and Exchange Commission (SEC) prevailed.
+
+**2. THE REASONING**
+The court’s decision turned on two principal issues:
+*   **Appointments Clause:** The court held that Gonnella forfeited his constitutional challenge to the appointment of the SEC Administrative Law Judge (based on the Supreme Court's decision in *Lucia v. SEC*) because he failed to raise the issue during the administrative proceedings before the Commission. 
+*   **Securities Fraud (Section 10(b) and Rule 10b-5):** On the merits, the court held that Gonnella’s ""parking"" scheme—temporarily selling bonds to a counterparty with a secret understanding to repurchase them later in order to evade his employer's internal aging-inventory penalties—constituted a deceptive device. Gonnella argued that the trades did not violate securities laws because they were executed at market prices and did not manipulate the broader market. The Second Circuit rejected this, reasoning that the transactions were shams lacking economic substance, and that intentionally deceiving one's own employer (a broker-dealer) about the true risk and ownership of securities is sufficient to establish liability for securities fraud.",0,stop,,0,18.53,232,1974,Google,2026-08-07T10:27:27
+cl_2020_ca3_jaroslawicz_v._mt_bank_corp,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-06-18,Jaroslawicz v. M&T Bank Corp,circuit,"**1. THE OUTCOME**
+The Third Circuit reversed the district court's dismissal and remanded the case. The plaintiff-appellant (shareholder Jaroslawicz) prevailed.
+
+**2. THE REASONING**
+The court held that the plaintiff adequately pleaded a claim under Section 14(a) of the Securities Exchange Act. Applying the Supreme Court's *Omnicare* standard for actionable statements of opinion, the Third Circuit found that the joint proxy statement's optimistic representations regarding the likelihood of regulatory approval for M&T's merger were materially misleading. Specifically, the proxy omitted the fact that M&T had severe, known deficiencies in its Bank Secrecy Act/Anti-Money Laundering (BSA/AML) compliance programs. Because M&T knew or should have known these deficiencies would jeopardize or significantly delay regulatory approval, omitting them conflicted with what a reasonable investor would expect given the proxy's assurances, rendering the statements actionable.",0,stop,,0,14.45,223,1527,Google,2026-08-07T10:27:30
+cl_2020_dcd_pca_integrity_associates_llp_v._nco,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-02-11,"Pca Integrity Associates, LLP v. Nco Financial Systems Inc",district,UNKNOWN,0,stop,,0,6.93,233,561,Google,2026-08-07T10:27:33
+cl_2020_ca6_nancy_goodman_v._j.p._morgan_invest,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-03-30,Nancy Goodman v. J.P. Morgan Investment Mgmt.,circuit,"**1. THE OUTCOME**
+The Sixth Circuit **affirmed** the district court’s grant of summary judgment in favor of the defendant, J.P. Morgan Investment Management. 
+
+**2. THE REASONING**
+The case turned on whether J.P. Morgan breached its fiduciary duty under Section 36(b) of the Investment Company Act (ICA) by charging excessive advisory fees to its mutual funds. Applying the Supreme Court's standard from *Jones v. Harris Associates*, the Sixth Circuit held that the plaintiff failed to show the fees were so disproportionately large that they bore no reasonable relationship to the services rendered and could not have been the product of arm's-length bargaining. 
+
+The court rejected the plaintiff's primary argument, which relied on comparing the higher fees J.P. Morgan charged its proprietary mutual funds to the lower fees it charged as a subadviser to independent or institutional funds. The court reasoned that this was an ""inapt comparison"" because managing a proprietary mutual fund requires significantly more administrative services, regulatory compliance, and entrepreneurial risk than merely acting as a subadviser. Because the plaintiff's fee comparisons failed to account for these substantially different services, and because the mutual funds' independent board was fully informed and robustly reviewed the fees (entitling their approval to substantial deference), the plaintiff could not establish a Section 36(b) violation as a matter of law.",0,stop,,0,14.84,236,1590,Google,2026-08-07T10:27:34
+cl_2020_ca9_tamara_moore_v._mars_petcare_us_inc,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-07-28,"Tamara Moore v. Mars Petcare US, Inc.",circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed in part, reversed in part, and remanded**. The Plaintiffs prevailed on their state-law consumer protection claims, while the Defendants prevailed on the antitrust claims. 
+
+**2. THE REASONING**
+The case centered on the defendants' practice of marketing and selling certain pet foods as ""prescription pet food"" that required a veterinarian's authorization to purchase. 
+
+*   **Consumer Protection Claims (Reversed):** The Ninth Circuit held that the plaintiffs plausibly alleged violations of California's Unfair Competition Law (UCL), False Advertising Law (FAL), and Consumers Legal Remedies Act (CLRA). The court reasoned that a reasonable consumer could be deceived by the ""prescription"" label and the requirement of a vet's authorization into falsely believing that the pet food contained drugs, medicine, or was legally required by the FDA to be sold by prescription. Because the food contained no such drugs and lacked FDA prescription mandates, the deceptive marketing claims survived a motion to dismiss.
+*   **Antitrust Claims (Affirmed):** The court affirmed the dismissal of the plaintiffs' Sherman Act claims. The court reasoned that the plaintiffs failed to plead sufficient facts—such as parallel conduct or ""plus factors""—to plausibly allege an illegal conspiracy or agreement among the pet food manufacturers and retailers to artificially inflate prices.",0,stop,,0,13.49,235,1382,Google,2026-08-07T10:27:37
+cl_2020_dcd_district_of_columbia_v._u.s._depart,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-03-13,District of Columbia v. U.S. Department of Agriculture,district,"**1. THE OUTCOME**
+The court granted the plaintiffs’ motion for a preliminary injunction, halting the implementation of the USDA’s Final Rule. The plaintiffs (the District of Columbia and a coalition of states) prevailed. 
+
+**2. THE REASONING**
+The case challenged a USDA rule that would have severely restricted states' ability to obtain waivers from the work requirements for Able-Bodied Adults Without Dependents (ABAWDs) receiving SNAP (food stamp) benefits. 
+
+The court enjoined the rule primarily because it found the plaintiffs were likely to succeed on the merits of their Administrative Procedure Act (APA) claims. The court reasoned that the USDA's rule was arbitrary, capricious, and contrary to law because it directly conflicted with congressional intent—noting that Congress had explicitly rejected similar strict waiver restrictions when passing the 2018 Farm Bill. Furthermore, the court found the agency failed to adequately justify its drastic departure from decades of established regulatory practice. 
+
+In finding that the plaintiffs would suffer irreparable harm without an injunction, the court heavily emphasized the immediate context of the rapidly escalating COVID-19 pandemic (the decision was issued in mid-March 2020), concluding that implementing the rule during a national health emergency would cause immense, unjustified harm to vulnerable populations and place an impossible administrative burden on the states.",0,stop,,0,12.14,238,1236,Google,2026-08-07T10:27:37
+cl_2020_dcd_broidy_capital_management_llc_v._mu,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-03-31,Broidy Capital Management LLC v. Muzin,district,"**1. THE OUTCOME**
+The court granted the defendants' motion to dismiss. The defendants (Muzin, et al.) prevailed. 
+
+**2. THE REASONING**
+The court dismissed the federal claims—which included alleged violations of the Computer Fraud and Abuse Act (CFAA), the Stored Communications Act (SCA), and the Defend Trade Secrets Act (DTSA)—because Broidy failed to plausibly allege that the defendants actually participated in, directed, or conspired with the Qatari hackers who breached his servers. 
+
+The court held that the complaint's allegations only established that the defendants (who were PR consultants and lobbyists) received and distributed the stolen emails after the fact. Because the plaintiffs failed to adequately plead that the defendants were involved in the underlying unlawful computer intrusion or misappropriation, the federal claims failed as a matter of law. Having dismissed all the federal claims, the court declined to exercise supplemental jurisdiction over the remaining state-law claims.",0,stop,,0,12.87,226,1303,Google,2026-08-07T10:27:38
+cl_2020_ca9_dimitri_shivkov_v._artex_risk_solut,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-09-09,"Dimitri Shivkov v. Artex Risk Solutions, Inc.",circuit,"**1. THE OUTCOME**
+
+The Ninth Circuit **reversed** the district court’s order denying the defendants' motions to compel arbitration and **remanded** the case. The defendants (Artex Risk Solutions, Inc. and various non-signatory parties) prevailed.
+
+**2. THE REASONING**
+
+The case turned on two main arbitration issues regarding a disputed ""micro-captive"" insurance tax strategy: 
+*   **Severability and Illegal Contracts:** The plaintiffs argued that the arbitration clauses were unenforceable because the underlying contracts were illegal, abusive tax shelters. The Ninth Circuit rejected this, applying the severability rule from *Prima Paint*. Because the plaintiffs were challenging the legality and validity of the contracts as a whole—rather than directing their challenge specifically at the arbitration clauses themselves—the question of the contracts' validity was for the arbitrator to decide, not the court.
+*   **Non-Signatory Enforcement:** The court also held that the non-signatory defendants (such as the accounting and advisory firms involved in the tax strategy) could successfully compel arbitration under the doctrine of equitable estoppel. The court reasoned that the plaintiffs' claims against these non-signatories were intimately founded in and intertwined with the underlying agreements that contained the arbitration provisions.",0,stop,,0,17.89,236,1940,Google,2026-08-07T10:27:41
+cl_2021_ca2_donna_browe_v._ctc_corp.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-09-29,Donna Browe v. CTC Corp.,circuit,UNKNOWN,0,stop,,0,7.55,220,705,Google,2026-08-07T10:27:41
+cl_2020_dcd_ghadami_v._united_states_department,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-03-19,Ghadami v. United States Department of Homeland Security,district,"**1. THE OUTCOME**
+
+The court **denied** the government's motion to dismiss the plaintiffs' unreasonable delay claims. The plaintiffs prevailed at this stage. 
+
+**2. THE REASONING**
+
+The plaintiffs, who were subject to Presidential Proclamation 9645 (the ""Travel Ban""), sued the government under the Administrative Procedure Act (APA) and the Mandamus Act for unreasonably delaying the adjudication of their visa waiver applications. 
+
+The government moved to dismiss, arguing that the delays were not unreasonable as a matter of law. The court rejected this argument, holding that the plaintiffs had plausibly alleged an unreasonable delay. The court's principal rationale was that evaluating the six *TRAC* factors—the standard test used to determine if agency delay is unreasonable under the APA—is a highly fact-intensive inquiry. Consequently, the court concluded that it was premature to weigh the *TRAC* factors and resolve the issue at the motion to dismiss stage before the government had produced an administrative record.",0,stop,,0,18.16,239,1821,Google,2026-08-07T10:27:44
+cl_2021_ca2_sacerdote_v._new_york_university,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-08-16,Sacerdote v. New York University,circuit,"**1. THE OUTCOME**
+Affirmed in part, vacated in part, and remanded. Both parties prevailed in part: New York University (NYU) prevailed on the claims decided at trial, while the Plaintiffs prevailed in reviving a previously dismissed claim.
+
+**2. THE REASONING**
+The case involved allegations that NYU breached its fiduciary duties under ERISA regarding its faculty retirement plans. 
+
+*   **The Affirmed Claims:** The Second Circuit affirmed the district court’s bench trial verdict in favor of NYU on claims that the university paid excessive recordkeeping fees and imprudently retained certain underperforming funds. The appellate court found no clear error in the district court's factual findings that NYU's committee either acted with objective prudence or that any procedural flaws did not actually cause the alleged losses to the plan.
+*   **The Vacated Claim:** The Second Circuit vacated the district court’s earlier Rule 12(b)(6) dismissal of the plaintiffs' ""share-class"" claim. The court held that the plaintiffs successfully stated a plausible claim for breach of the fiduciary duty of prudence by alleging that NYU offered higher-cost retail-class shares of mutual funds when identical, lower-cost institutional-class shares were available to a plan of its size.",0,stop,,0,12.4,231,1386,Google,2026-08-07T10:27:50
+cl_2021_ca2_set_capital_llc_v._credit_suisse_gr,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-04-27,Set Capital LLC v. Credit Suisse Group AG,circuit,"**1. THE OUTCOME**
+The Second Circuit **vacated** the district court’s dismissal and **remanded** the case. The plaintiffs (Set Capital LLC and other investors) prevailed.
+
+**2. THE REASONING**
+The case turned on whether general risk disclosures in offering documents shield an issuer from Section 10(b) securities fraud and market manipulation claims. The plaintiffs alleged that Credit Suisse intentionally crashed the value of its own XIV notes (an exchange-traded note tied to the inverse of the VIX volatility index) by purchasing massive quantities of VIX futures to artificially inflate the index, thereby triggering a liquidation event that wiped out investors but profited the bank. 
+
+The district court had dismissed the suit, reasoning that Credit Suisse’s offering documents explicitly disclosed that it would engage in hedging activities that could negatively impact the notes' value. The Second Circuit disagreed, holding that generic cautionary language warning that an issuer *might* take actions that *could* negatively affect the product's price does not immunize the issuer from liability for intentionally manipulative or deceptive trading. The court concluded that the plaintiffs had plausibly alleged both a manipulative act and the requisite scienter (intent to deceive, manipulate, or defraud) to survive a motion to dismiss.",0,stop,,0,12.24,232,1208,Google,2026-08-07T10:27:50
+cl_2021_ca2_united_states_v._reichberg,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-07-15,United States v. Reichberg,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's judgment. The **United States (the Government) prevailed**.
+
+**2. THE REASONING**
+The case turned on whether the jury instructions and the evidence regarding honest services fraud and bribery complied with the Supreme Court's definition of an ""official act"" under *McDonnell v. United States*. 
+
+The Second Circuit held that the jury instructions were proper and the evidence was sufficient. The court reasoned that the favors the defendant received from NYPD officers in exchange for bribes—such as deploying police helicopters and boats, providing police escorts, intervening in active arrests or disputes, and expediting gun licenses—went well beyond merely setting up meetings, talking to other officials, or making introductions (which *McDonnell* excluded). Instead, these actions involved the formal exercise of governmental power and police authority, thereby satisfying the legal requirement for an ""official act.""",0,stop,,0,10.53,229,1005,Google,2026-08-07T10:27:51
+cl_2021_ca2_people_of_the_state_of_new_york_v._,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-03-10,People of the State of New York v. Griepp,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's decision. The defendants (a group of anti-abortion protesters) prevailed.
+
+**2. THE REASONING**
+The legal question was whether the State of New York was entitled to a preliminary injunction against the protesters under the federal Freedom of Access to Clinic Entrances (FACE) Act and a similar state law, which prohibit using force, threats of force, or physical obstruction to intentionally injure, intimidate, or interfere with persons seeking reproductive health services. 
+
+The Second Circuit held that the district court did not abuse its discretion in denying the preliminary injunction. Applying a deferential standard of review, the appellate court concluded that the district court's factual findings were not clearly erroneous. The district court had reasonably determined, after an evidentiary hearing, that the State failed to show a likelihood of success on the merits because the protesters' conduct—which included approaching vehicles, handing out literature, and speaking loudly to patients—did not cross the statutory threshold into ""threats of force"" or ""physical obstruction"" (defined as rendering passage to the clinic unreasonably difficult or hazardous).",0,stop,,0,14.37,235,1559,Google,2026-08-07T10:27:52
+cl_2021_ca9_state_of_rhode_island_v._alphabet_i,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-06-16,"State of Rhode Island v. Alphabet, Inc.",circuit,"**1. THE OUTCOME**
+The Ninth Circuit **reversed** the district court’s dismissal of the complaint and **remanded** the case. The plaintiff (the State of Rhode Island, acting as lead plaintiff for a class of investors) prevailed.
+
+**2. THE REASONING**
+The case involved a securities fraud class action alleging that Alphabet (Google's parent company) intentionally concealed a massive data vulnerability in its Google+ platform to avoid public and regulatory backlash. The Ninth Circuit held that the plaintiff adequately pleaded both materiality and scienter under Section 10(b) of the Securities Exchange Act. 
+
+*   **Materiality:** The court found that the omission of the data breach in Alphabet's quarterly SEC filings was material. A reasonable investor would have considered the vulnerability significant because of the severe regulatory scrutiny and reputational damage it would invite, especially since it occurred right around the time of Facebook's highly publicized Cambridge Analytica data scandal. 
+*   **Scienter:** The court held that the complaint raised a strong inference of scienter (intent to deceive or deliberate recklessness). The plaintiff pointed to an internal memo presented to top executives, including CEO Sundar Pichai, which explicitly warned that disclosing the Google+ bug would trigger immediate regulatory interest and draw direct comparisons to Cambridge Analytica. The court reasoned that this memo demonstrated the executives knew about the problem and intentionally chose to hide it to protect the company's stock and reputation.",0,stop,,0,12.01,234,1295,Google,2026-08-07T10:27:53
+cl_2021_ca2_in_re_tribune_co._fraudulent_conv._,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-08-20,In Re: Tribune Co. Fraudulent Conv. Litig.,circuit,"**1. THE OUTCOME**
+The Second Circuit affirmed the district court’s dismissal of the Litigation Trust’s actual fraudulent transfer claims. The defendant shareholders prevailed.
+
+**2. THE REASONING**
+The case turned on whose intent matters when determining whether a corporate debtor made a transfer with ""actual intent to hinder, delay, or defraud"" creditors under the Bankruptcy Code (11 U.S.C. § 548(a)(1)(A)). The Litigation Trust sought to claw back payments made to shareholders during Tribune's 2007 leveraged buyout (LBO), arguing that the fraudulent intent of Tribune's senior officers should be imputed to the company. 
+
+The Second Circuit rejected this argument, holding that the intent of the officers could not be imputed to the corporation because an independent board of directors and a special committee were the actual decision-makers who evaluated and approved the LBO. Because the Trust failed to adequately allege that the board members themselves possessed actual fraudulent intent, the company could not be found to have acted with actual fraudulent intent, and the claims were properly dismissed.",0,stop,,0,20.32,236,2137,Google,2026-08-07T10:27:54
+cl_2021_delch_lone_pine_resources_lp_v._william_s,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-06-07,"Lone Pine Resources, LP v. William S. Dickey",state,UNKNOWN,0,stop,,0,6.48,240,543,Google,2026-08-07T10:27:56
+cl_2020_dcd_united_states_v._harmon,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2020-12-24,United States v. Harmon,district,UNKNOWN,0,stop,,0,27.32,231,3077,Google,2026-08-07T10:27:57
+cl_2021_ncbizct_aym_techs._llc_v._scopia_cap._mgmt.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-03-31,"Aym Techs., LLC v. Scopia Cap. Mgmt. Lp, 2021 Ncbc 20b",state,UNKNOWN,0,stop,,0,5.94,242,518,Google,2026-08-07T10:27:57
+cl_2021_delch_john_joseph_smith_iv_v._thomas_m._s,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-04-23,"John Joseph Smith, IV v. Thomas M. Scott",state,UNKNOWN,0,stop,,0,8.11,239,786,Google,2026-08-07T10:27:58
+cl_2021_ca9_united_states_v._benjamin_koziol,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-04-13,United States v. Benjamin Koziol,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the defendant's convictions. The government prevailed. 
+
+**2. THE REASONING**
+The principal legal question was whether a ""claim of right"" is a valid defense to extortion under 18 U.S.C. § 875(d), which prohibits transmitting in interstate commerce a threat to injure the reputation of another with the intent to extort money or something of value. 
+
+The Ninth Circuit held that a claim of right is *not* a defense to extortion under § 875(d). The court reasoned that threatening to destroy or damage a victim's reputation to extract money is inherently wrongful conduct. Therefore, it does not matter whether the defendant genuinely believed he was legally or morally owed the money he was demanding. Because the means used to demand the money were inherently wrongful, the district court correctly refused to provide the jury with a claim-of-right instruction.",0,stop,,0,14.66,232,1580,Google,2026-08-07T10:27:59
+cl_2021_txctapp14_booster_fuels_inc._v._fuel_husky_ll,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-11-04,"Booster Fuels, Inc. v. Fuel Husky, LLC D/B/A Instafuel",state,UNKNOWN,0,stop,,0,7.01,234,592,Google,2026-08-07T10:28:00
+cl_2021_ohioctapp_vesper_v._otterbein_lebanon,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2021-12-27,Vesper v. Otterbein Lebanon,state,UNKNOWN,0,stop,,0,8.76,233,765,Google,2026-08-07T10:28:00
+cl_2022_ca2_cantero_v._bank_of_am._n.a.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-09-15,"Cantero v. Bank of Am., N.A.",circuit,"**1. THE OUTCOME**
+The Second Circuit reversed the district court's judgment and remanded with instructions to dismiss the plaintiffs' claims. Bank of America (the defendant) prevailed. 
+
+**2. THE REASONING**
+The court held that the National Bank Act (NBA) preempts New York's state law requiring banks to pay a minimum of 2% interest on mortgage escrow accounts. Applying the preemption standard from *Barnett Bank* (as codified by the Dodd-Frank Act), the Second Circuit reasoned that the state law would ""significantly interfere"" with a national bank's federally granted, incidental power to offer and administer residential mortgages and escrow accounts. By dictating the price (the interest rate) that a national bank must pay to maintain these accounts, the state law impermissibly controlled and burdened the bank's exercise of its federal banking powers. 
+
+*(Note: The U.S. Supreme Court subsequently vacated and remanded this specific Second Circuit decision in 2024, ruling that the Second Circuit failed to conduct the proper, nuanced preemption analysis required by Dodd-Frank and Barnett Bank).*",0,stop,,0,8.97,242,916,Google,2026-08-07T10:28:03
+cl_2022_ca7_walter_dean_v._national_production_,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-08-15,Walter Dean v. National Production Workers Un,circuit,UNKNOWN,0,stop,,0,6.55,231,569,Google,2026-08-07T10:28:07
+cl_2022_ca7_diane_burke_v._the_boeing_company,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-08-01,Diane Burke v. The Boeing Company,circuit,UNKNOWN,0,stop,,0,9.47,230,911,Google,2026-08-07T10:28:08
+cl_2022_ca7_andrew_albert_v._oshkosh_corporatio,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-08-29,Andrew Albert v. Oshkosh Corporation,circuit,"**1. THE OUTCOME**
+The Seventh Circuit affirmed the district court's dismissal of the complaint. The defendant, Oshkosh Corporation, prevailed.
+
+**2. THE REASONING**
+The case turned on whether the plaintiff stated a plausible claim for breach of fiduciary duty under ERISA by alleging that the company's retirement plan paid excessive recordkeeping and investment management fees. 
+
+The Seventh Circuit held that the plaintiff failed to state a claim because the complaint lacked a ""meaningful benchmark"" to demonstrate that the fees were actually excessive. For the recordkeeping fees, the plaintiff merely compared the plan's fees to industry averages and other plans without alleging that the quality or type of services provided were comparable. For the investment management fees, the plaintiff failed to establish that his proposed cheaper alternative funds shared similar investment strategies, objectives, or risk profiles with the funds actually chosen by the plan fiduciaries.",0,stop,,0,10.29,220,1010,Google,2026-08-07T10:28:08
+cl_2022_ca2_exxon_mobil_v._healey,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-03-15,Exxon Mobil v. Healey,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's dismissal of the lawsuit. The defendants (Massachusetts Attorney General Maura Healey and New York Attorney General Letitia James) prevailed.
+
+**2. THE REASONING**
+The court held that Exxon Mobil’s federal lawsuit—which sought to halt the states' investigations into the company's climate change disclosures on the grounds that they were politically motivated and violated the First Amendment—was barred by the doctrine of claim preclusion (*res judicata*). The Second Circuit reasoned that Exxon had already litigated the validity of the Attorneys General's subpoenas in New York and Massachusetts state courts, and that Exxon could have, and should have, raised its federal constitutional claims as defenses during those prior state-court subpoena enforcement proceedings.",0,stop,,0,12.98,228,1383,Google,2026-08-07T10:28:09
+cl_2022_ca2_united_states_v._blaszczak,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-12-27,United States v. Blaszczak,circuit,"**1. THE OUTCOME**
+The Second Circuit reversed the defendants' convictions for wire fraud, Title 18 securities fraud, and conversion of government property, and remanded the case. The defendants prevailed. 
+
+**2. THE REASONING**
+On remand from the Supreme Court for reconsideration in light of *Kelly v. United States* (the ""Bridgegate"" case), the Second Circuit held that a government agency's confidential information regarding its planned regulatory actions (in this case, upcoming Centers for Medicare & Medicaid Services reimbursement rates) does not constitute ""property"" or a ""thing of value"" under federal fraud and theft statutes (18 U.S.C. §§ 1343, 1348, and 641). 
+
+The court reasoned that the agency's right to control the timing and disclosure of its pre-decisional information is a purely regulatory interest, not an economic property right. Because the federal fraud statutes require a scheme to obtain ""property,"" the misappropriation of this confidential regulatory information could not legally support the convictions. (The court also noted and accepted the Government's confession of error on these counts following the *Kelly* decision).",0,stop,,0,12.75,257,1374,Google,2026-08-07T10:28:10
+cl_2022_dcd_eig_energy_fund_xiv_l.p._v._petrole,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-08-08,"Eig Energy Fund Xiv, L.P. v. Petroleo Brasileiro S.A",district,UNKNOWN,0,stop,,0,11.3,245,1139,Google,2026-08-07T10:28:14
+cl_2022_dcd_united_states_v._garcia,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-07-22,United States v. Garcia,district,UNKNOWN,0,stop,,0,9.18,232,851,Google,2026-08-07T10:28:16
+cl_2023_ca2_ark._tchr._ret._sys._v._goldman_sac,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-08-10,"Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.",circuit,"**1. THE OUTCOME**
+The Second Circuit reversed the district court’s order certifying the class and remanded with instructions to decertify the class. Goldman Sachs prevailed.
+
+**2. THE REASONING**
+The court held that Goldman Sachs successfully rebutted the *Basic* presumption of class-wide reliance by proving by a preponderance of the evidence that its alleged misstatements had no impact on its stock price. Applying the Supreme Court’s prior guidance in this exact litigation, the Second Circuit focused on the generic nature of the alleged misstatements (e.g., statements that Goldman had ""extensive procedures and controls"" to manage conflicts of interest). 
+
+The court found a significant mismatch between these highly generic, front-end statements and the highly specific, back-end corrective disclosure (the announcement of an SEC enforcement action regarding Goldman's specific conflicts of interest in the Abacus CDO transaction). Because the statements were too generic to have plausibly maintained artificial inflation in the stock price, the defendants successfully demonstrated a lack of price impact, thereby defeating the predominance requirement for class certification under Rule 23(b)(3).",0,stop,,0,8.84,240,858,Google,2026-08-07T10:28:18
+cl_2022_ca9_lenai_mull_v._motion_picture_indust,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-07-25,Lenai Mull v. Motion Picture Industry Health,circuit,"**1. THE OUTCOME**
+The Ninth Circuit reversed the district court's judgment and remanded the case, ruling in favor of the plaintiff-appellant, Lenai Mull. 
+
+**2. THE REASONING**
+The court held that the Motion Picture Industry Health Plan could not enforce a subrogation/reimbursement claim against Mull's third-party personal injury settlement under ERISA § 502(a)(3). The principal rationale was that the reimbursement provision appeared only in the Summary Plan Description (SPD) and not in the formal written plan document (the Trust Agreement). Following the Supreme Court's decision in *CIGNA Corp. v. Amara*, the Ninth Circuit emphasized that an SPD is merely a summary of benefits and does not constitute the legally binding terms of the ERISA plan itself. Because the actual plan document lacked the reimbursement language, the Plan could not establish a valid ""equitable lien by agreement"" to recover the medical expenses it had paid on Mull's behalf.",0,stop,,0,18.38,233,1945,Google,2026-08-07T10:28:19
+cl_2022_delch_xri_investment_holdings_llc_v._holi,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-09-13,XRI Investment Holdings LLC v. Holifield,state,"**1. THE OUTCOME**
+Judgment in favor of the plaintiff, XRI Investment Holdings LLC. The court held that the defendant's transfer of LLC units was void and invalid. 
+
+**2. THE REASONING**
+The case turned on the legal distinction between ""void"" and ""voidable"" acts in private contracts. The defendant transferred his LLC units to a trust without obtaining the required consent under the LLC agreement, which explicitly stated that any non-compliant transfer was ""void."" 
+
+Vice Chancellor Laster found as a factual matter that XRI had subsequently acquiesced to the transfer, which under normal equitable principles would have cured the breach. However, Laster held that he was strictly bound by Delaware Supreme Court precedent (*CompoSecure*), which established that if an LLC agreement expressly labels an act as ""void,"" the act is void *ab initio* and cannot be saved by equitable defenses like ratification or acquiescence. 
+
+Laster applied the precedent to invalidate the transfer, but he used the opinion to write a massive, scholarly critique of the rule. He urged the Delaware Supreme Court to reverse course, arguing that only acts violating fundamental public policy or statutory law should be void *ab initio*, while acts that merely breach private contracts should be deemed voidable and subject to equitable defenses. *(Note: The Delaware Supreme Court later accepted this invitation on appeal, reversing the Chancery Court and overturning the strict CompoSecure rule).*",0,stop,,0,13.07,238,1344,Google,2026-08-07T10:28:21
+cl_2022_delch_metro_storage_international_llc_v._,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-05-04,Metro Storage International LLC v. Harron,state,"**1. THE OUTCOME**
+The court entered a post-trial judgment in favor of the plaintiff, Metro Storage International LLC. 
+
+**2. THE REASONING**
+The principal legal question was whether the defendant (Harron) owed fiduciary duties to the plaintiff despite being formally engaged as an independent contractor/consultant rather than a traditional employee. 
+
+Vice Chancellor Laster held that under common law agency principles, a person's formal employment classification does not dictate their fiduciary obligations. Because Harron was engaged to act on Metro Storage's behalf to source and develop self-storage investment opportunities in Brazil, he was acting as the company's agent. Consequently, he owed Metro Storage a fiduciary duty of loyalty concerning the subject matter of his agency. The court found that Harron breached this duty by secretly usurping those Brazilian corporate opportunities and diverting them to his own competing entities, and ordered him to disgorge his ill-gotten gains.",0,stop,,0,14.77,236,1539,Google,2026-08-07T10:28:23
+cl_2023_ca2_kirschner_v._jp_morgan_chase_bank_n,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-08-24,"Kirschner v. JP Morgan Chase Bank, N.A.",circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's dismissal of the plaintiff's claims. The defendants (JP Morgan Chase Bank, N.A., and other bank arrangers) prevailed.
+
+**2. THE REASONING**
+The legal question was whether syndicated term loans (specifically, notes issued in a $1.775 billion syndicated loan to Millennium Laboratories) qualify as ""securities"" under state and federal securities laws. 
+
+The court held that the syndicated loans were not securities, applying the four-factor ""family resemblance"" test established by the Supreme Court in *Reves v. Ernst & Young*. The court reasoned that:
+*   **Motivations of the parties:** This factor was mixed, as the lenders sought an investment return, but the borrower used the funds for a commercial purpose (paying off existing debt and funding a dividend).
+*   **Plan of distribution:** The notes were not offered to the general public; they were offered only to sophisticated institutional investors and were subject to strict assignment and transfer restrictions.
+*   **Reasonable expectations of the investing public:** The buyers could not reasonably expect the instruments to be securities because the credit agreements explicitly and consistently referred to the instruments as ""loans"" and the buyers as ""lenders,"" and required the lenders to certify they were conducting their own independent credit analysis.
+*   **Risk-reducing factors:** The loans were secured by collateral, and the syndicated loan market is already subject to extensive regulatory oversight by federal banking regulators (like the OCC), making the application of securities laws unnecessary. 
+
+Because the notes bore a strong family resemblance to commercial bank loans rather than securities, the plaintiff's securities fraud claims were properly dismissed.",0,stop,,0,11.82,237,1287,Google,2026-08-07T10:28:28
+cl_2023_ca2_new_england_carpenters_guaranteed_a,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-08-23,New England Carpenters Guaranteed Annuity and Pension Funds v. AmTrust,circuit,UNKNOWN,0,stop,,0,11.08,237,1034,Google,2026-08-07T10:28:29
+cl_2023_ca2_in_re_nine_west_lbo_sec._litig.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-11-27,In Re: Nine West LBO SEC. Litig.,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court’s dismissal of the claims. The defendant shareholders prevailed.
+
+**2. THE REASONING**
+The court held that the Bankruptcy Code’s Section 546(e) ""safe harbor"" barred the litigation trustee’s state-law constructive fraudulent transfer claims, which sought to claw back payments made to public shareholders during the 2014 leveraged buyout (LBO) of Nine West (formerly The Jones Group). 
+
+The legal question turned on whether the transfers were made by or to a ""financial institution"" after the Supreme Court's *Merit Management* decision, which held that a bank acting as a mere conduit does not trigger the safe harbor. The Second Circuit held that the safe harbor applied because the debtor itself statutorily qualified as a ""financial institution."" Under 11 U.S.C. § 101(22)(A), a ""customer"" of a bank qualifies as a financial institution if the bank is acting as its agent in connection with a securities contract. Because the debtor used a bank (Wells Fargo) as its paying agent to execute the LBO merger agreement (a securities contract), the debtor was a ""customer"" of the bank. Therefore, the debtor-transferor was a financial institution, the transfers were protected by the safe harbor, and the state-law clawback claims were preempted.",0,stop,,0,17.55,235,2076,Google,2026-08-07T10:28:32
+cl_2023_ca3_marlow_henry_v._wilmington_trust_na,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-06-30,Marlow Henry v. Wilmington Trust NA,circuit,UNKNOWN,0,stop,,0,10.96,230,1007,Google,2026-08-07T10:28:32
+cl_2022_ca2_haley_v._tiaa,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2022-12-01,Haley v. TIAA,circuit,"**1. THE OUTCOME**
+
+The Second Circuit **affirmed** the district court’s dismissal of the complaint. The prevailing party was the defendant, **TIAA**.
+
+**2. THE REASONING**
+
+The case turned on whether TIAA was acting as an ERISA fiduciary when its representatives cross-sold its retail ""Portfolio Advisor"" services to participants in employer-sponsored ERISA retirement plans, encouraging them to roll over their plan assets into TIAA's non-ERISA managed accounts. 
+
+The Second Circuit held that TIAA was not acting as an ERISA fiduciary because the plaintiff failed to plausibly allege that TIAA provided ""investment advice"" under the Department of Labor's five-part test. Specifically, the court found that the plaintiff did not satisfy the ""regular basis""",0,length,,0,35.67,227,4092,Google,2026-08-07T10:28:33
+cl_2023_ca4_benjamin_reetz_v._aon_hewitt_invest,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-07-17,"Benjamin Reetz v. Aon Hewitt Investment Consulting, Inc.",circuit,"**1. THE OUTCOME**
+The Fourth Circuit **affirmed** the district court’s judgment after a bench trial. The defendant, Aon Hewitt Investment Consulting, Inc., prevailed.
+
+**2. THE REASONING**
+The court held that Aon Hewitt did not breach its ERISA fiduciary duties of loyalty or prudence when it recommended that the Lowe’s 401(k) plan streamline its investment options and transition to Aon’s proprietary delegated investment management services. 
+
+The principal rationale was that under ERISA, a fiduciary having a conflict of interest—such as a financial incentive to cross-sell its own products—does not constitute a per se breach of the duty of loyalty. The plaintiff must show that the fiduciary actually acted on that conflict to the detriment of the plan. The Fourth Circuit deferred to the district court's factual findings that Aon’s recommendations were objectively prudent, driven by sound investment strategies rather than self-interest, and that Lowe's independent fiduciaries rigorously vetted the recommendations and retained ultimate decision-making authority. Because the advice was sound and the plan sponsor made an independent, informed choice to adopt it, Aon did not violate ERISA.",0,stop,,0,12.23,236,1206,Google,2026-08-07T10:28:35
+cl_2023_ca2_cunningham_v._cornell_university,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-11-14,Cunningham v. Cornell University,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court’s judgment in full. The defendant, **Cornell University, prevailed**. 
+
+**2. THE REASONING**
+The case turned on two main ERISA claims regarding the management of Cornell's retirement plans:
+
+*   **Prohibited Transactions (ERISA § 406(a)):** The court affirmed the dismissal of the plaintiffs' prohibited transaction claims, addressing a nationwide circuit split. The Second Circuit held that to state a claim under § 406(a)(1)(C) for paying a ""party in interest,"" a plaintiff cannot merely allege that the plan paid a service provider. To avoid the absurd result of making every routine service contract a presumptively prohibited transaction that forces defendants to prove a statutory exemption, the court held that plaintiffs must plausibly allege that the services were unnecessary or the compensation was unreasonable. The plaintiffs failed to meet this pleading standard.
+*   **Breach of Fiduciary Duty (Duty of Prudence):** The court affirmed summary judgment for Cornell on claims that it imprudently managed recordkeeping fees and retained underperforming retail-class investment funds. The court reasoned that Cornell’s fiduciaries followed a procedurally prudent process: they hired an independent consultant, regularly monitored the investments, conducted requests for proposals (RFPs), and successfully negotiated fee reductions. Under ERISA, fiduciaries are judged by the prudence of their process, not by whether they achieved the absolute lowest possible fees or immediately switched to the cheapest share classes in hindsight.",0,stop,,0,29.01,217,3272,Google,2026-08-07T10:28:39
+cl_2023_ca2_pauwels_v._deloitte_llp,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-10-06,Pauwels v. Deloitte LLP,circuit,"I am not entirely certain of the exact details, but here is my best attempt based on my recollection of this case:
+
+**1. THE OUTCOME**
+The Second Circuit affirmed the district court's judgment, with the defendant (Deloitte) prevailing. 
+
+**2. THE REASONING**
+The case centered on whether Deloitte misappropriated trade secrets and infringed on the plaintiff's copyright in a proprietary financial valuation model (a complex spreadsheet). 
+* **Copyright Claim:** The Second Circuit affirmed that the plaintiff's copyright infringement claim failed because the allegedly copied elements of the financial model—such as the specific formulas, variables, and structural layout—were unprotectable. Applying the merger and *scènes à faire* doctrines, the court reasoned that these elements were dictated by standard accounting principles, mathematical logic, and industry conventions, rather than creative expression. 
+* **Trade Secret Claim:** The court also upheld the dismissal of the trade secret misappropriation claims, reasoning that the plaintiff failed to take reasonable steps to maintain the model's secrecy (such as failing to secure adequate non-disclosure agreements before sharing the model).",0,stop,,0,20.87,219,2186,Google,2026-08-07T10:28:40
+cl_2023_dcd_freeman_v._herring_networks_inc.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-08-30,"Freeman v. Herring Networks, Inc.",district,"**1. THE OUTCOME**
+The court entered a default judgment on liability in favor of the plaintiffs (Georgia election workers Ruby Freeman and Wandrea ""Shaye"" Moss) against the remaining defendant, Rudy Giuliani (Herring Networks/OAN had previously settled). 
+
+**2. THE REASONING**
+The court granted the default judgment as a severe sanction under Federal Rule of Civil Procedure 37 due to Giuliani’s willful and repeated failures to comply with his discovery obligations. The court found that Giuliani intentionally failed to preserve critical electronic evidence, ignored court orders to produce documents, and submitted inadequate declarations regarding his compliance. Because this bad-faith conduct severely prejudiced the plaintiffs' ability to litigate their defamation, intentional infliction of emotional distress, and civil conspiracy claims, the court struck Giuliani's pleadings, held him liable by default, and ordered that the case proceed to trial solely to determine the amount of damages. The court also ordered Giuliani to pay the plaintiffs' attorneys' fees and costs associated with the discovery dispute.",0,stop,,0,8.09,235,782,Google,2026-08-07T10:28:41
+cl_2023_ca9_amalgamated_bank_v._facebook_inc.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-10-18,"Amalgamated Bank v. Facebook, Inc.",circuit,"**1. THE OUTCOME**
+The Ninth Circuit **reversed and remanded** the district court's dismissal of the case. The plaintiffs (Amalgamated Bank and a putative class of shareholders) prevailed.
+
+**2. THE REASONING**
+The court held that the plaintiffs adequately pleaded a securities fraud claim under Section 10(b) of the Securities Exchange Act regarding the Cambridge Analytica scandal. The principal legal question was whether Facebook's risk disclosures in its SEC filings were materially misleading. 
+
+The Ninth Circuit ruled that they were, because Facebook's 10-K risk factors warned investors that third parties ""may"" improperly access or misuse user data, framing the threat as a purely hypothetical or future risk. In reality, Facebook already knew that Cambridge Analytica had improperly harvested and misused the data of millions of users. The court reaffirmed the principle that a company cannot warn of a risk as merely potential or theoretical when that exact risk has already materialized. Furthermore, the court found that the plaintiffs had sufficiently alleged both scienter (that key executives knew about the breach when making the statements) and loss causation (that the stock price dropped as a direct result of the truth being revealed to the market).",0,stop,,0,13.75,234,1420,Google,2026-08-07T10:28:43
+cl_2023_ca4_sec_v._christopher_clark,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-02-23,SEC v. Christopher Clark,circuit,"**1. THE OUTCOME**
+The Fourth Circuit **affirmed** the district court's judgment, prevailing in favor of the SEC. 
+
+**2. THE REASONING**
+The case turned on whether the *Dirks* ""personal benefit"" test—which requires the government to prove that a tipper received a personal benefit in exchange for disclosing confidential information—applies to the *misappropriation* theory of insider trading, or only to the *classical* theory. 
+
+The Fourth Circuit held, as a matter of first impression, that the personal benefit requirement does indeed apply to the misappropriation theory. Consequently, the district court erred by refusing to instruct the jury that the SEC had to prove the tipper received a personal benefit. 
+
+However, the Fourth Circuit held that this jury instruction error was harmless. Under Supreme Court precedent (*Salman v. United States*), the personal benefit requirement is automatically satisfied when a tipper makes a gift of confidential information to a close relative. Because the undisputed evidence showed that the tipper gifted the inside information to his brother-in-law (the defendant, Clark), no rational jury could have found a breach of duty without also finding that the personal benefit requirement was met.",0,stop,,0,18.44,228,1991,Google,2026-08-07T10:28:46
+cl_2023_del_holifield_v._xri_investment_holding,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-09-07,Holifield v. XRI Investment Holdings LLC,state,"**1. THE OUTCOME**
+The Delaware Supreme Court **reversed** the Court of Chancery's decision. Holifield (the transferring party) prevailed. 
+
+**2. THE REASONING**
+The case turned on the ""void versus voidable"" distinction and whether a party can use equitable defenses to save a transaction that a private contract expressly declares ""void."" The LLC agreement stated that any transfer of units violating its terms was ""void."" The Court of Chancery had found that XRI clearly acquiesced to the disputed transfer, but felt bound by prior Delaware Supreme Court precedent (*CompoSecure*) to hold that contractually ""void"" acts cannot be cured by equity. 
+
+The Delaware Supreme Court reversed, expressly overruling *CompoSecure* on this issue. The Court distinguished between acts that are void *ab initio* because they violate statutory law or public policy (which cannot be ratified or saved by equitable defenses) and acts that are merely ""void"" because a private contract says so. The Court held that a contractual ""void"" provision does not strip a court of its power to apply equitable defenses. Because the transfer was only contractually void, XRI's subsequent acquiescence was a valid defense that barred it from invalidating the transfer.",0,stop,,0,12.21,221,1151,Google,2026-08-07T10:28:47
+cl_2023_dcd_attias_v._carefirst_inc.,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-09-13,"Attias v. Carefirst, Inc.",district,"**1. THE OUTCOME**
+Summary judgment was granted in favor of the defendant, CareFirst (the case was dismissed). CareFirst prevailed. 
+
+**2. THE REASONING**
+The court held that the plaintiffs failed to establish Article III standing at the summary judgment stage. Although the D.C. Circuit had previously ruled in this same case that the plaintiffs' alleged risk of future identity theft was sufficient to survive a motion to dismiss, the landscape changed following the Supreme Court's decision in *TransUnion LLC v. Ramirez* (2021). Under *TransUnion*, a mere risk of future harm is insufficient to confer standing for a damages claim unless that harm materializes. Because the plaintiffs failed to produce evidence of actual misuse of their data, identity theft, or other concrete financial harm traceable specifically to the CareFirst data breach, they lacked standing to pursue their claims.",0,stop,,0,15.9,237,1600,Google,2026-08-07T10:28:48
+cl_2024_ca2_new_england_carpenters_guaranteed_a,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-10-31,New England Carpenters Guaranteed Annuity and Pension Funds v. AmTrust,circuit,UNKNOWN,0,stop,,0,10.33,237,988,Google,2026-08-07T10:28:50
+cl_2023_ca9_julie_su_v._brian_bowers,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-10-25,Julie Su v. Brian Bowers,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court's judgment. The defendants (Brian Bowers and Dexter Kubota) prevailed against the Department of Labor. 
+
+**2. THE REASONING**
+The case turned on whether the defendants breached their fiduciary duties under the Employee Retirement Income Security Act (ERISA) by allegedly causing an Employee Stock Ownership Plan (ESOP) to overpay for their company's stock. Under ERISA, such a sale is a prohibited transaction unless the fiduciaries can prove the ""adequate consideration"" exemption—meaning the ESOP paid no more than fair market value and the fiduciaries acted in good faith. 
+
+The Ninth Circuit held that the district court did not clearly err in its valuation analysis following a bench trial. The appellate court rejected the Secretary of Labor's arguments that the lower court used flawed methodologies or improperly accepted management's financial projections. Because the district court was entitled to credit the defendants' valuation experts over the DOL's experts, its factual finding that the ESOP paid fair market value was supported by the record. Consequently, the defendants successfully established the adequate consideration exemption, defeating the ERISA breach claims.",0,stop,,0,23.29,230,2470,Google,2026-08-07T10:28:55
+cl_2024_ca3_sec_v._dale_chappell,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,SEC v. Dale Chappell,circuit,UNKNOWN,0,stop,,0,7.26,229,590,Google,2026-08-07T10:28:55
+cl_2023_delch_smash_franchise_partners_llc_v._kan,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2023-07-14,"Smash Franchise Partners, LLC v. Kanda Holdings, Inc.",state,"**1. THE OUTCOME**
+Judgment was entered in favor of the defendants (Kanda Holdings). The court ruled against the plaintiffs on their claims for trade secret misappropriation and breach of a non-disclosure agreement (NDA). 
+
+**2. THE REASONING**
+The court’s decision turned on the legal requirement that a plaintiff must take reasonable steps to maintain the secrecy of its trade secrets and confidential information. Vice Chancellor Laster found that the plaintiff (the operator of the ""Smash My Trash"" franchise) failed to meet this burden. 
+
+Specifically, the plaintiff freely shared its alleged trade secrets and confidential business information with prospective franchisees during virtual ""Discovery Day"" presentations hosted on Zoom. The plaintiff failed to utilize basic Zoom security features—such as requiring meeting passwords or using a waiting room—and did not take roll or verify that everyone on the call had actually signed an NDA before presenting the information. Because the plaintiff broadcasted its proprietary information to a loosely controlled group of participants without enforcing strict confidentiality protocols, the court held that the information lost its status as a protected trade secret and fell outside the enforceable scope of the NDA.",0,stop,,0,16.34,241,1532,Google,2026-08-07T10:28:56
+cl_2024_ca2_sec_v._rashid,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-03-13,SEC v. Rashid,circuit,"**1. THE OUTCOME**
+The Second Circuit **affirmed** the district court's judgment. The **SEC** prevailed. 
+
+**2. THE REASONING**
+The case turned on whether an investment adviser could be held liable under the Investment Advisers Act (IAA) for defrauding his clients (private equity funds) when he submitted falsified personal expense reports to his employer (Apollo Global Management). 
+
+Rashid argued that his conduct did not violate the IAA because he only deceived his employer's administrative staff, not the funds themselves. The Second Circuit rejected this argument, holding that because the firm acted as the funds' agent in processing and paying the expenses out of the funds' assets, Rashid's deception of the firm effectively constituted deception of the funds. The court also upheld the district court's findings that Rashid's misrepresentations were material and made with the requisite scienter.",0,stop,,0,12.15,227,1140,Google,2026-08-07T10:28:58
+cl_2024_ca2_packer_v._raging_capital_management,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-06-24,"Packer v. Raging Capital Management, LLC",circuit,"**1. THE OUTCOME**
+The Second Circuit **vacated and remanded** the district court's dismissal, ruling in favor of the plaintiff-appellant (the shareholder). 
+
+**2. THE REASONING**
+The legal question was whether a shareholder suing on behalf of a corporation to recover ""short-swing"" profits under Section 16(b) of the Securities Exchange Act of 1934 still has Article III standing in light of the Supreme Court’s tightened standing requirements in *TransUnion LLC v. Ramirez*. The district court had dismissed the case, concluding that a bare statutory violation of Section 16(b) without further tangible harm to the corporation did not constitute a concrete injury in fact.
+
+The Second Circuit disagreed, holding that its prior precedent upholding Section 16(b) standing (*Donoghue v. Bulldog Investors*) remains good law after *TransUnion*. The court reasoned that the corporation suffers a concrete injury because Section 16(b) vests the issuer with a legally protected property interest in the short-swing profits realized by corporate insiders. The deprivation of those profits is a concrete, tangible harm. Furthermore, the court noted that this statutory injury satisfies the Supreme Court's requirement that the harm have a ""close historical analogue"" to traditional causes of action, as it closely resembles traditional equitable claims like breach of fiduciary duty and unjust enrichment.",0,stop,,0,19.73,231,2036,Google,2026-08-07T10:29:01
+cl_2024_ca2_peterson_v._bank_markazi,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-11-13,Peterson v. Bank Markazi,circuit,"**1. THE OUTCOME**
+The Second Circuit **vacated** the district court’s turnover order and **remanded** the case. The prevailing parties were the defendants/appellants, Bank Markazi (the Central Bank of Iran) and Clearstream Banking S.A.
+
+**2. THE REASONING**
+The case turned on whether U.S. courts can compel the turnover of a foreign sovereign's assets that are located outside of the United States. The plaintiffs, holding terrorism-related judgments against Iran, sought to execute against billions of dollars in assets held by Clearstream in Luxembourg on behalf of Bank Markazi. 
+
+The Second Circuit held that both the Foreign Sovereign Immunities Act (FSIA) and the Terrorism Risk Insurance Act (TRIA) strictly limit the abrogation of sovereign execution immunity to property that is located ""in the United States."" The court ruled that plaintiffs cannot use state-law enforcement mechanisms (such as New York's *Koehler* doctrine, which allows courts to order a garnishee subject to its personal jurisdiction to bring out-of-state assets into New York) to compel a third party to repatriate a foreign sovereign's extraterritorial assets. Doing so, the court reasoned, would impermissibly circumvent the strict territorial limitations Congress placed on executing judgments against foreign states. Because the assets were located in Luxembourg, they were immune from execution under U.S. law.",0,stop,,0,22.82,228,2429,Google,2026-08-07T10:29:06
+cl_2024_dcd_battineni_v._mayorkas,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,Battineni v. Mayorkas,district,UNKNOWN,0,stop,,0,11.03,235,953,Google,2026-08-07T10:29:09
+cl_2024_ca9_julie_su_v._brian_bowers,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,Julie Su v. Brian Bowers,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court's judgment. The defendants (Brian Bowers, et al.) prevailed against the Department of Labor (DOL).
+
+**2. THE REASONING**
+The case turned on whether the defendants breached their ERISA fiduciary duties by causing an Employee Stock Ownership Plan (ESOP) to overpay for company stock in a prohibited transaction. The DOL argued on appeal that the district court improperly placed the burden of proof on the government to show the ESOP overpaid, rather than requiring the defendants to prove the ERISA § 408(e) ""adequate consideration"" exemption. 
+
+The Ninth Circuit held that it did not need to resolve the burden of proof dispute because any potential error was harmless. The district court had affirmatively weighed the competing valuation experts at trial and made a specific factual finding that the ESOP paid fair market value (or less) for the stock. Because this factual finding was not clearly erroneous, the defendants would have satisfied the ""adequate consideration"" exemption and defeated the breach of fiduciary duty claims regardless of which party formally bore the burden of proof.",0,stop,,0,20.66,230,2254,Google,2026-08-07T10:29:11
+cl_2024_dcd_akhmetshin_v._browder,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,Akhmetshin v. Browder,district,UNKNOWN,0,stop,,0,16.13,234,1739,Google,2026-08-07T10:29:12
+cl_2024_dcd_securities_and_exchange_commission_,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,Securities and Exchange Commission v. Binance Holdings Limited,district,"**1. THE OUTCOME**
+The court **granted in part and denied in part** the defendants’ motions to dismiss. The SEC prevailed on most of its claims, which were allowed to proceed, but the defendants (Binance, BAM Trading, and Changpeng Zhao) prevailed in getting specific claims dismissed, most notably those concerning the BUSD stablecoin and secondary market sales of BNB.
+
+**2. THE REASONING**
+The court’s decision turned on the application of the *Howey* test for investment contracts and the scope of the SEC's regulatory authority:
+*   **Major Questions Doctrine:** The court rejected Binance’s argument that the Major Questions Doctrine barred the SEC from regulating crypto assets, finding the SEC was merely exercising its long-standing statutory authority to enforce securities laws.
+*   **BUSD Stablecoin:** The court dismissed the SEC's claims regarding BUSD. Because BUSD is a stablecoin designed to maintain a 1:1 peg with the U.S. dollar, the court found that purchasers could not have a reasonable expectation of profit, failing the *Howey* test.
+*   **Secondary Sales:** The court dismissed the SEC's claims regarding secondary market sales of BNB. Echoing reasoning from other recent crypto decisions, the court emphasized that the crypto token itself is not the security. The SEC failed to plausibly allege that secondary purchasers on exchanges—who bought from anonymous sellers rather than from Binance—invested money in a common enterprise with an expectation of profit derived from Binance's efforts.
+*   **Surviving Claims:** The court allowed the SEC's claims to proceed regarding the initial coin offering (ICO) of BNB, as well as Binance's ""BNB Vault,"" ""Simple Earn,"" and staking-as-a-service programs, finding the SEC plausibly alleged these were offered and sold as investment contracts. Because the SEC plausibly alleged that at least some transactions on the platform involved securities, the claims that Binance operated as an unregistered exchange, broker-dealer, and clearing agency also survived dismissal.",0,stop,,0,12.45,236,1229,Google,2026-08-07T10:29:13
+cl_2024_ca9_renaldo_white_v._symetra_assigned_b,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,Renaldo White v. Symetra Assigned Benefits Service Company,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **reversed** the district court’s dismissal of the case and **remanded** it for further proceedings. The plaintiff-appellant, Renaldo White, prevailed.
+
+**2. THE REASONING**
+The case turned on whether the plaintiff's claims—alleging that Symetra engaged in a fraudulent scheme and violated RICO by buying out his structured settlement payments at a steep discount—were barred by the *Rooker-Feldman* doctrine or by claim preclusion (res judicata) due to prior state court orders approving the transfers. 
+
+The Ninth Circuit held that the *Rooker-Feldman* doctrine did not apply because White was asserting independent claims for damages caused by Symetra's allegedly fraudulent conduct leading up to the transactions, rather than seeking to directly appeal or overturn the state court judgments that approved the transfers. 
+
+Furthermore, the court held that claim preclusion did not bar the suit. The state court proceedings, conducted under the Structured Settlement Protection Act (SSPA), were narrow, expedited, and largely non-adversarial proceedings focused solely on whether the transfer was in the payee's best interest. Because these limited proceedings did not afford the plaintiff a full and fair opportunity to litigate complex fraud and RICO claims, they did not have preclusive effect on his current lawsuit.",0,stop,,0,19.05,235,2005,Google,2026-08-07T10:29:14
+cl_2024_dcd_united_states_v._michel,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,United States v. Michel,district,"**1. THE OUTCOME**
+The court denied the defendant’s motion for a new trial. The government prevailed, and the defendant's convictions stood.
+
+**2. THE REASONING**
+The case turned on whether the defendant (Prakazrel ""Pras"" Michel) received ineffective assistance of counsel under the *Strickland v. Washington* standard. Michel argued his trial attorney made numerous severe errors, most notably relying on an experimental generative AI program to draft a flawed and damaging closing argument. 
+
+The court held that even assuming the defense counsel's performance was deficient, Michel failed to establish the required ""prejudice"" prong of the *Strickland* test. The court reasoned that the government had presented overwhelming evidence of Michel's guilt regarding his involvement in illegal foreign campaign contributions and unregistered lobbying on behalf of foreign interests. Consequently, there was no reasonable probability that the jury would have reached a different verdict had the attorney not made the alleged errors, including the AI-generated closing argument.",0,stop,,0,10.96,231,1081,Google,2026-08-07T10:29:17
+cl_2024_ca2_trustees_of_the_nysnapp_v._white_oa,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-05-21,Trustees of the NYSNAPP v. White Oak Glob. Adv.,circuit,"I am not entirely certain about the exact details of this specific decision, but here is my best attempt based on my recollection of this ERISA litigation:
+
+**1. THE OUTCOME**
+The Second Circuit **reversed** the district court's order and **remanded** the case (White Oak Global Advisors prevailed). 
+
+**2. THE REASONING**
+The case turned on whether the plaintiffs' statutory claims for breach of fiduciary duty under ERISA were subject to the arbitration clause contained in the Investment Management Agreement (IMA) between the pension plan's trustees and White Oak. The district court had originally denied White Oak's motion to compel arbitration. The Second Circuit reversed, holding that the broad language of the arbitration clause in the IMA (covering disputes ""arising out of or relating to"" the agreement) encompassed the ERISA claims. The court reasoned that the fiduciary duties White Oak allegedly breached were inextricably linked to the relationship and obligations created by the IMA, and reaffirmed that statutory ERISA claims are generally arbitrable and not exempt from the Federal Arbitration Act.",0,stop,,0,30.83,237,3053,Google,2026-08-07T10:29:18
+cl_2024_ohioctapp_state_v._thayer,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,State v. Thayer,state,UNKNOWN,0,stop,,0,7.94,231,641,Google,2026-08-07T10:29:20
+cl_2024_delch_be_capital_management_fund_lp_v._fu,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,BE Capital Management Fund LP v. Fund.com Inc.,state,UNKNOWN,0,stop,,0,10.55,236,912,Google,2026-08-07T10:29:20
+cl_2025_ca11_united_states_v._ephren_taylor_ii,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,"United States v. Ephren Taylor, II",circuit,UNKNOWN,0,stop,,0,6.59,233,543,Google,2026-08-07T10:29:20
+cl_2024_delch_kuramo_capital_management_llc_v._la,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,"Kuramo Capital Management, LLC v. Larry Seruma",state,UNKNOWN,0,stop,,0,10.21,239,859,Google,2026-08-07T10:29:21
+cl_2025_ca2_collins_v._ne._grocery_llc,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,"Collins v. Ne. Grocery, LLC",circuit,UNKNOWN,0,stop,,0,4.12,231,314,Google,2026-08-07T10:29:21
+cl_2025_ca1_securities_and_exchange_commission_,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,"Securities and Exchange Commission v. Commonwealth Equity Services, LLC",circuit,UNKNOWN,0,stop,,0,8.34,234,774,Google,2026-08-07T10:29:23
+cl_2024_cadc_an_opinion_was_released_in_case_24-,google/gemini-3.1-pro-preview,2025-01-31,pre_cutoff,2024-07-01,"An opinion was released in case 24-1113, TikTok Inc. v. Merrick Garland",circuit,"I am unsure about a published opinion dated July 1, 2024, as the D.C. Circuit heard oral arguments for this docket in September 2024 and issued its landmark merits decision on December 6, 2024. Assuming you are referring to the final merits disposition of this case:
+
+**1. THE OUTCOME**
+The petitions for review were **denied** (the statute was upheld). The government prevailed. 
+
+**2. THE REASONING**
+The D.C. Circuit held that the *Protecting Americans from Foreign Adversary Controlled Applications Act* (which requires TikTok's parent company, ByteDance, to divest its US operations or face a ban) does not violate the First Amendment. The court determined that the law is a content-neutral regulation aimed at mitigating severe national security risks, not at suppressing protected speech. 
+
+The court concluded that the statute satisfies heightened First Amendment scrutiny because the government demonstrated a compelling interest in preventing a foreign adversary (China) from weaponizing the platform to covertly manipulate content and access Americans' sensitive personal data. The court found the divestiture-or-ban framework narrowly tailored to address the specific threat posed by ByteDance's ownership. Additionally, the court rejected TikTok's arguments that the law constitutes an unconstitutional bill of attainder, violates equal protection, or effects an unconstitutional taking, granting substantial deference to the predictive national security judgments made by Congress and the Executive Branch.",0,stop,,0,27.86,248,3177,Google,2026-08-07T10:29:23
+cl_2025_ca2_united_states_v._phillips,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,United States v. Phillips,circuit,UNKNOWN,0,stop,,0,4.08,228,325,Google,2026-08-07T10:29:24
+cl_2025_ca3_nra_group_llc_v._nicole_durenleau,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,NRA Group LLC v. Nicole Durenleau,circuit,UNKNOWN,0,stop,,0,4.76,232,357,Google,2026-08-07T10:29:25
+cl_2025_ca9_united_states_v._rice,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,United States v. Rice,circuit,UNKNOWN,0,stop,,0,5.07,228,447,Google,2026-08-07T10:29:26
+cl_2025_ca2_in_re_shanda_games_ltd._sec._litig.,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,In Re Shanda Games Ltd. SEC. Litig.,circuit,UNKNOWN,0,stop,,0,8.35,235,766,Google,2026-08-07T10:29:26
+cl_2025_cadc_robert_goodrich_v._bank_of_america_,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,Robert Goodrich v. Bank of America N.A.,circuit,UNKNOWN,0,stop,,0,4.55,237,335,Google,2026-08-07T10:29:27
+cl_2026_dcd_securities_and_exchange_commission_v_wisdom_ca,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-08-03,Securities and Exchange Commission v. Wisdom Capital Management Group Ltd,district,UNKNOWN,0,stop,,0,4.6,240,292,Google,2026-08-07T10:29:29
+cl_2025_scotus_cunningham_v._cornell_univ.,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,Cunningham v. Cornell Univ.,supreme,UNKNOWN,0,stop,,0,7.42,229,583,Google,2026-08-07T10:29:31
+cl_2026_cal_l_a_county_employees_retirement_association_v_,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-08-03,L.A. County Employees Retirement Association v. County of L.A.,state,UNKNOWN,0,stop,,0,4.16,237,261,Google,2026-08-07T10:29:31
+cl_2026_delch_hka_global_llc_v_christopher_beirise,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-08-03,HKA Global LLC v. Christopher Beirise,state,UNKNOWN,0,stop,,0,5.03,238,287,Google,2026-08-07T10:29:31
+cl_2026_ca11_u.s._securities_and_exchange_commis,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-01,"U.S. Securities and Exchange Commission v. Spartan Securities Group, LTD",circuit,UNKNOWN,0,stop,,0,8.48,239,789,Google,2026-08-07T10:29:32
+cl_2026_ca9_united_states_v_ridley_thomas,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-08-03,United States v. Ridley-Thomas,circuit,UNKNOWN,0,stop,,0,6.45,230,581,Google,2026-08-07T10:29:32
+cl_2026_ca10_scottsdale_capital_advisors_v_ussec,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-31,Scottsdale Capital Advisors v. USSEC,circuit,UNKNOWN,0,stop,,0,4.84,231,363,Google,2026-08-07T10:29:36
+cl_2026_ca8_united_healthcare_services_inc_v_amerisourcebe,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-31,"United HealthCare Services, Inc. v. AmerisourceBergen Corporation",circuit,UNKNOWN,0,stop,,0,4.7,238,333,Google,2026-08-07T10:29:36
+cl_2026_dcd_in_re_non_party_deposition_subpoena,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-31,In Re Non-Party Deposition Subpoena,district,UNKNOWN,0,stop,,0,4.78,239,324,Google,2026-08-07T10:29:36
+cl_2026_ca4_vapor_technology_association_v_mckinley_wooten,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,"Vapor Technology Association v. McKinley Wooten, Jr.",circuit,UNKNOWN,0,stop,,0,3.92,234,269,Google,2026-08-07T10:29:36
+cl_2026_delch_gregory_j_mccray_v_fdh_holdings_llc_fdh_infras,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-08-03,"Gregory J. McCray v. FDH Holdings, LLC, FDH Infrastructure Group, Julian Mashand John Robinson",state,UNKNOWN,0,stop,,0,7.94,257,648,Google,2026-08-07T10:29:37
+cl_2026_ncbizct_gaston_cap_llc_v_kellar,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,"Gaston Cap., LLC v. Kellar",state,UNKNOWN,0,stop,,0,3.6,236,271,Google,2026-08-07T10:29:39
+cl_2025_ca2_natl_rifle_assn_of_am._v._vullo,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,Nat'l Rifle Ass'n of Am. v. Vullo,circuit,"*Note: The date provided in the prompt (2025-07-01) is in the future. The following reflects the Second Circuit's actual decision for docket 21-636, which was decided on September 22, 2022 (and subsequently vacated by the Supreme Court in May 2024).*
+
+**1. THE OUTCOME**
+Reversed and remanded. Maria T. Vullo prevailed. The Second Circuit reversed the district court’s denial of Vullo’s motion to dismiss and remanded the case with instructions to dismiss the NRA’s First Amendment claims against her. 
+
+**2. THE REASONING**
+The court held that Vullo (the former superintendent of the New York State Department of Financial Services) did not engage in unconstitutional coercion or First Amendment retaliation when she issued guidance letters and press releases urging banks and insurance companies to evaluate the reputational risks of doing business with the NRA. 
+
+The Second Circuit reasoned that Vullo's communications constituted permissible government speech and legitimate regulatory enforcement regarding illegal insurance products, rather than unlawful, coercive threats designed to suppress the NRA's gun-rights advocacy. Furthermore, the court held that even if her actions had crossed the line into unconstitutional coercion, Vullo was shielded by qualified immunity because it was not clearly established at the time that her specific regulatory conduct violated the First Amendment. 
+
+*(Note: In May 2024, the U.S. Supreme Court vacated this Second Circuit decision, holding that the NRA had indeed plausibly alleged a First Amendment violation.)*",0,stop,,0,19.57,237,2200,Google,2026-08-07T10:29:39
+cl_2026_ariz_doe_v_the_corporation,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,DOE v. THE CORPORATION,state,UNKNOWN,0,stop,,0,3.78,231,200,Google,2026-08-07T10:29:40
+cl_2026_ncbizct_blue_v_efincia_constr_llc,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,"Blue v. Efincia Constr., LLC",state,UNKNOWN,0,stop,,0,4.33,236,306,Google,2026-08-07T10:29:41
+cl_2026_ca9_pover_v_the_capital_group_companies_inc,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,"Pover v. the Capital Group Companies, Inc.",circuit,UNKNOWN,0,stop,,0,3.89,234,255,Google,2026-08-07T10:29:41
+cl_2025_ca9_winston_anderson_v._intel_corporati,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2025-07-01,Winston Anderson v. Intel Corporation Investment Policy Committee,circuit,"**1. THE OUTCOME**
+The Ninth Circuit **affirmed** the district court’s grant of summary judgment in favor of the defendants (Intel Corporation Investment Policy Committee). 
+
+**2. THE REASONING**
+The case turned on whether Intel’s fiduciaries breached their duties of prudence and loyalty under ERISA by allocating a significant portion of the retirement plans' target-date portfolios to alternative investments (such as hedge funds and private equity) that ultimately underperformed the broader market. 
+
+The Ninth Circuit held that the plaintiffs failed to raise a triable issue of fact regarding a fiduciary breach. The court reasoned that ERISA's duty of prudence evaluates a fiduciary's decision-making process at the time the investment was made, rather than judging the investment's success in hindsight. The court rejected the plaintiffs' attempt to use passive index funds as a benchmark to show underperformance, noting that Intel's alternative investments had fundamentally different risk/return profiles and strategic objectives (specifically, mitigating downside risk and reducing volatility). Because the plaintiffs failed to provide an appropriate benchmark or evidence showing that the committee's actual deliberative process was flawed, their claims failed as a matter of law. 
+
+*(Note: The prompt lists a decision date of 2025-07-01, which is in the future; the details provided correspond to the Ninth Circuit's actual 2024 decision under docket 22-16268).*",0,stop,,0,20.5,233,2027,Google,2026-08-07T10:29:42
+cl_2026_illappct_marchi_v_centrust_bank,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-30,Marchi v. Centrust Bank,state,UNKNOWN,0,stop,,0,5.3,233,450,Google,2026-08-07T10:29:42
+cl_2026_dcd_koneru_v_securities_and_exchange_commission,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-29,Koneru v. Securities and Exchange Commission,district,UNKNOWN,0,stop,,0,3.76,237,277,Google,2026-08-07T10:29:43
+cl_2026_ca2_united_states_v_greebel,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-29,United States v. Greebel,circuit,UNKNOWN,0,stop,,0,4.43,229,389,Google,2026-08-07T10:29:44
+cl_2026_delch_in_re_cellular_telephone_coordinated_partnersh,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-31,In re Cellular Telephone Coordinated Partnership Litigation,state,UNKNOWN,0,stop,,0,11.59,244,1150,Google,2026-08-07T10:29:44
+cl_2026_kanctapp_in_re_max_hacker_family_trust,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-24,In re Max Hacker Family Trust,state,UNKNOWN,0,stop,,0,4.67,229,385,Google,2026-08-07T10:29:46
+cl_2026_ca11_luis_manuel_rodriguez_v_imperial_brands_plc,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-23,"Luis Manuel Rodriguez v. Imperial Brands, PLC.",circuit,UNKNOWN,0,stop,,0,4.25,235,281,Google,2026-08-07T10:29:46
+cl_2026_cadc_fairholme_funds_inc_v_fhfa,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-24,"Fairholme Funds, Inc v. FHFA",circuit,UNKNOWN,0,stop,,0,5.44,233,472,Google,2026-08-07T10:29:46
+cl_2026_delch_ashok_mayya_v_edward_lee,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-27,Ashok Mayya v. Edward Lee,state,UNKNOWN,0,stop,,0,6.41,240,558,Google,2026-08-07T10:29:46
+cl_2026_ncbizct_highlights_healthcare_llc_v_abell,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-23,"Highlights Healthcare, LLC v. Abell",state,UNKNOWN,0,stop,,0,3.62,236,256,Google,2026-08-07T10:29:47
+cl_2026_ca2_hayden_v_koons,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-21,Hayden v. Koons,circuit,UNKNOWN,0,stop,,0,4.2,227,311,Google,2026-08-07T10:29:48
+cl_2026_delch_samvit_ramadurgam_v_destiny_xyz_inc,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-23,Samvit Ramadurgam v. Destiny XYZ Inc.,state,UNKNOWN,0,stop,,0,6.84,245,615,Google,2026-08-07T10:29:48
+cl_2026_ca3_in_re_avandia_marketing_v,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-21,In re: Avandia Marketing v.,circuit,UNKNOWN,0,stop,,0,5.12,231,409,Google,2026-08-07T10:29:49
+cl_2026_ca4_in_re_the_boeing_company,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-20,In re: The Boeing Company,circuit,UNKNOWN,0,stop,,0,4.63,229,308,Google,2026-08-07T10:29:50
+cl_2026_md_nathanson_v_tortoise_capital_advisors,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-14,Nathanson v. Tortoise Capital Advisors,state,UNKNOWN,0,stop,,0,4.28,228,305,Google,2026-08-07T10:29:50
+cl_2026_delch_calm_v_taylor,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-17,Calm v. Taylor,state,UNKNOWN,0,stop,,0,4.37,238,270,Google,2026-08-07T10:29:50
+cl_2026_cadc_thrivent_financial_for_lutherans_v_sec,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-21,Thrivent Financial for Lutherans v. SEC,circuit,UNKNOWN,0,stop,,0,4.92,233,394,Google,2026-08-07T10:29:51
+cl_2026_ca4_dmarcian_inc_v_dmarc_advisor_bv_11394608,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-10,"Dmarcian, Inc. v. DMARC Advisor BV",circuit,UNKNOWN,0,stop,,0,5.53,236,487,Google,2026-08-07T10:29:54
+cl_2026_ca4_dmarcian_inc_v_dmarc_advisor_bv,google/gemini-3.1-pro-preview,2025-01-31,post_cutoff,2026-07-10,"Dmarcian, Inc. v. DMARC Advisor BV",circuit,UNKNOWN,0,stop,,0,13.21,236,1271,Google,2026-08-07T10:30:00
