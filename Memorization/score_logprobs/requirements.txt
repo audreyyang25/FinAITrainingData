@@ -1,0 +1,6 @@
+# Pinned loosely: any recent transformers works, but offset_mapping on the fast
+# tokenizers is required for the suffix alignment.
+torch>=2.1
+transformers>=4.44
+accelerate>=0.30
+matplotlib>=3.7
