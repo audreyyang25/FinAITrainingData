@@ -536,14 +536,12 @@ python Memorization/crawl/fetch_courtlistener.py
 python Memorization/qa/build_questions.py --v2
 python Memorization/control/build_controls.py --text ...
 
-# probe (per model)
+# probe (per model, court + controls). One prompt only: the answer is compulsory
+# and the model reports recognition separately in a RECALL: yes|no line.
 python Memorization/probe/run_probe.py --model <m> --cutoff <date> --workers 8 \
   --qa datasets/court_opinions_qa_v2.csv
-
-# forced-attempt arm
-python Memorization/probe/run_probe.py --model <m> --cutoff <date> --force-attempt \
-  --only-unknown-from datasets/predictions/<m>.csv --out datasets/predictions/FORCED__<m>.csv
-python Memorization/probe/merge_forced.py --base ... --forced ... --out ...
+python Memorization/probe/run_probe.py --model <m> --cutoff <date> --workers 8 \
+  --qa datasets/controls_qa.csv
 
 # scoring
 python Memorization/qa/score_answers.py --null                  # floor
@@ -552,7 +550,6 @@ python Memorization/qa/classify_nonanswers.py --csv datasets/nonanswer_taxonomy.
 
 # figures
 python Memorization/viz/make_comparison.py --scores-dir datasets/scores_v2
-python Memorization/viz/make_forced_figure.py
 ```
 
 Score directories: `scores/` is the original (superseded — pre-bugfix),

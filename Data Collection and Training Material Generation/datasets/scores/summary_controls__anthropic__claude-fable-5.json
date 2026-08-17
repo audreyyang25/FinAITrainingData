@@ -1,0 +1,169 @@
+{
+ "generated": "2026-08-13T11:04:49",
+ "model": "anthropic/claude-fable-5",
+ "model_cutoff": "2026-01-31",
+ "n_scored": 202,
+ "unknown_rate": 0.0099,
+ "by_question": [
+  {
+   "qid": "Q07",
+   "n": 18,
+   "exact": 0.278,
+   "prefix_tok": 8.9,
+   "longest_run": 9.1,
+   "rouge_l": 0.388,
+   "token_f1": 0.391,
+   "char_ratio": 0.393,
+   "gold_tok": 32.6
+  },
+  {
+   "qid": "Q08",
+   "n": 18,
+   "exact": 0.333,
+   "prefix_tok": 8.2,
+   "longest_run": 8.2,
+   "rouge_l": 0.44,
+   "token_f1": 0.44,
+   "char_ratio": 0.444,
+   "gold_tok": 19.6
+  },
+  {
+   "qid": "Q09",
+   "n": 18,
+   "exact": 0.389,
+   "prefix_tok": 10.4,
+   "longest_run": 10.4,
+   "rouge_l": 0.389,
+   "token_f1": 0.389,
+   "char_ratio": 0.389,
+   "gold_tok": 25.1
+  },
+  {
+   "qid": "Q10",
+   "n": 18,
+   "exact": 0.333,
+   "prefix_tok": 6.6,
+   "longest_run": 6.7,
+   "rouge_l": 0.367,
+   "token_f1": 0.387,
+   "char_ratio": 0.379,
+   "gold_tok": 25.3
+  },
+  {
+   "qid": "Q11",
+   "n": 18,
+   "exact": 0.167,
+   "prefix_tok": 3.8,
+   "longest_run": 3.8,
+   "rouge_l": 0.312,
+   "token_f1": 0.312,
+   "char_ratio": 0.317,
+   "gold_tok": 23.1
+  },
+  {
+   "qid": "Q12",
+   "n": 18,
+   "exact": 0.444,
+   "prefix_tok": 10.7,
+   "longest_run": 10.7,
+   "rouge_l": 0.444,
+   "token_f1": 0.444,
+   "char_ratio": 0.444,
+   "gold_tok": 24.6
+  },
+  {
+   "qid": "Q13",
+   "n": 18,
+   "exact": 0.444,
+   "prefix_tok": 11,
+   "longest_run": 11,
+   "rouge_l": 0.552,
+   "token_f1": 0.552,
+   "char_ratio": 0.555,
+   "gold_tok": 28.3
+  },
+  {
+   "qid": "Q21",
+   "n": 19,
+   "exact": 0,
+   "prefix_tok": 4.2,
+   "longest_run": 4.2,
+   "rouge_l": 0.218,
+   "token_f1": 0.237,
+   "char_ratio": 0.232,
+   "gold_tok": 20.4
+  },
+  {
+   "qid": "Q22",
+   "n": 19,
+   "exact": 0,
+   "prefix_tok": 8.6,
+   "longest_run": 8.6,
+   "rouge_l": 0.363,
+   "token_f1": 0.363,
+   "char_ratio": 0.358,
+   "gold_tok": 20.4
+  },
+  {
+   "qid": "Q23",
+   "n": 19,
+   "exact": 0,
+   "prefix_tok": 6.3,
+   "longest_run": 6.3,
+   "rouge_l": 0.268,
+   "token_f1": 0.268,
+   "char_ratio": 0.273,
+   "gold_tok": 20.4
+  },
+  {
+   "qid": "Q24",
+   "n": 19,
+   "exact": 0,
+   "prefix_tok": 7.4,
+   "longest_run": 7.4,
+   "rouge_l": 0.313,
+   "token_f1": 0.313,
+   "char_ratio": 0.314,
+   "gold_tok": 20.4
+  }
+ ],
+ "by_tier": [
+  {
+   "tier": "D",
+   "n": 202,
+   "exact": 0.213,
+   "prefix_tok": 7.8,
+   "longest_run": 7.8,
+   "rouge_l": 0.367,
+   "token_f1": 0.371,
+   "char_ratio": 0.371,
+   "gold_tok": 23.6
+  }
+ ],
+ "by_arm": [
+  {
+   "arm": "pre_cutoff",
+   "n": 202,
+   "exact": 0.213,
+   "prefix_tok": 7.8,
+   "longest_run": 7.8,
+   "rouge_l": 0.367,
+   "token_f1": 0.371,
+   "char_ratio": 0.371,
+   "gold_tok": 23.6
+  }
+ ],
+ "by_jurisdiction": [
+  {
+   "jurisdiction": "control",
+   "n": 202,
+   "exact": 0.213,
+   "prefix_tok": 7.8,
+   "longest_run": 7.8,
+   "rouge_l": 0.367,
+   "token_f1": 0.371,
+   "char_ratio": 0.371,
+   "gold_tok": 23.6
+  }
+ ]
+}

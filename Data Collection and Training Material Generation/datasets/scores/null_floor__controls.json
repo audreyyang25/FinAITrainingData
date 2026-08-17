@@ -1,0 +1,138 @@
+{
+ "generated": "2026-08-13T15:18:21",
+ "n_gold_answers": 202,
+ "pooled": {
+  "none": "all",
+  "n": 396,
+  "exact": 0,
+  "prefix_tok": 0.0,
+  "longest_run": 1.0,
+  "rouge_l": 0.08,
+  "token_f1": 0.103,
+  "char_ratio": 0.245,
+  "gold_tok": 23.1
+ },
+ "by_question": [
+  {
+   "qid": "Q07",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1.1,
+   "rouge_l": 0.095,
+   "token_f1": 0.131,
+   "char_ratio": 0.244,
+   "gold_tok": 29.5
+  },
+  {
+   "qid": "Q08",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.057,
+   "token_f1": 0.071,
+   "char_ratio": 0.23,
+   "gold_tok": 19
+  },
+  {
+   "qid": "Q09",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.096,
+   "token_f1": 0.124,
+   "char_ratio": 0.228,
+   "gold_tok": 24.4
+  },
+  {
+   "qid": "Q10",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.8,
+   "rouge_l": 0.064,
+   "token_f1": 0.088,
+   "char_ratio": 0.257,
+   "gold_tok": 24.5
+  },
+  {
+   "qid": "Q11",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.069,
+   "token_f1": 0.085,
+   "char_ratio": 0.233,
+   "gold_tok": 20.1
+  },
+  {
+   "qid": "Q12",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.074,
+   "token_f1": 0.107,
+   "char_ratio": 0.242,
+   "gold_tok": 24.8
+  },
+  {
+   "qid": "Q13",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 1.1,
+   "rouge_l": 0.109,
+   "token_f1": 0.142,
+   "char_ratio": 0.259,
+   "gold_tok": 30.4
+  },
+  {
+   "qid": "Q21",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 1.0,
+   "rouge_l": 0.083,
+   "token_f1": 0.096,
+   "char_ratio": 0.254,
+   "gold_tok": 20.4
+  },
+  {
+   "qid": "Q22",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 0.9,
+   "rouge_l": 0.073,
+   "token_f1": 0.087,
+   "char_ratio": 0.237,
+   "gold_tok": 20.6
+  },
+  {
+   "qid": "Q23",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 0.9,
+   "rouge_l": 0.082,
+   "token_f1": 0.106,
+   "char_ratio": 0.256,
+   "gold_tok": 20.3
+  },
+  {
+   "qid": "Q24",
+   "n": 36,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 1,
+   "rouge_l": 0.082,
+   "token_f1": 0.099,
+   "char_ratio": 0.257,
+   "gold_tok": 20.4
+  }
+ ]
+}

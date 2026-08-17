@@ -8,6 +8,18 @@ silently use the wrong one.
 
 Cutoffs for the three newer models were supplied by the author; the three
 originals carry over from the memorization probe.
+
+Llama 3.1 70B is the open-weight comparison, and it is not an arbitrary one:
+Cooper et al. name it as substantially memorizing The Great Gatsby, which is
+why Gatsby is the positive control in build_controls.py. Running it points the
+harness back at the model the replicated result came from.
+
+Two things follow from its 2023-12 cutoff, both worth remembering before
+comparing it to the others:
+  * Its post-cutoff arm is the largest in the suite (42 of 106 federal cases
+    against 18-31 for the frontier models), so its floor is the best estimated.
+  * Its pre-cutoff arm is therefore a DIFFERENT case mix, so a pre/post delta
+    for Llama is not like-for-like with a pre/post delta for, say, Fable 5.
 """
 from __future__ import annotations
 
@@ -19,6 +31,8 @@ TARGETS = [
     ("openai/gpt-5.6-sol",            "GPT-5.6 Sol",    "2026-02-28"),
     ("anthropic/claude-fable-5",      "Claude Fable 5", "2026-01-31"),
     ("google/gemini-3.1-pro-preview", "Gemini 3.1 Pro", "2025-01-31"),
+    # Open-weight. Confirmed by the author as 2023-12.
+    ("meta-llama/llama-3.1-70b-instruct", "Llama 3.1 70B", "2023-12-31"),
 ]
 
 CUTOFF = {m: c for m, _, c in TARGETS}

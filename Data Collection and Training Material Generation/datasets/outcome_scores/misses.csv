@@ -1,0 +1,68 @@
+case_id,caption,date_filed,court_level,n_models_missed,n_models_graded,mean_outcome_all_models,actual,models
+cl_2023_dcd_attias_v._carefirst_inc.,"Attias v. Carefirst, Inc.",2023-09-13,district,5,5,0.15,mixed,Claude Fable 5; GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2023_delch_smash_franchise_partners_llc_v._kan,"Smash Franchise Partners, LLC v. Kanda Holdings, Inc.",2023-07-14,state,5,5,0.2,mixed,Claude Fable 5; GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2022_dcd_united_states_v._garcia,United States v. Garcia,2022-07-22,district,4,4,0.062,other,Claude Fable 5; GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2024_ca9_julie_su_v._brian_bowers,Julie Su v. Brian Bowers,2024-07-01,circuit,4,4,0.125,mixed,Claude Fable 5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2024_ca2_trustees_of_the_nysnapp_v._white_oa,Trustees of the NYSNAPP v. White Oak Glob. Adv.,2024-05-21,circuit,4,5,0.15,mixed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2017_iowa_amended_september_5_2017_state_of_i,"Amended September 5, 2017 State of Iowa v. Eddie Tipton",2017-06-23,state,4,5,0.25,mixed,Claude Fable 5; GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2017_pa_villani_v._seibert_appeal_of_seiber,Villani v. Seibert Appeal of: Seibert,2017-04-26,state,4,5,0.3,reversed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2020_ca9_dimitri_shivkov_v._artex_risk_solut,"Dimitri Shivkov v. Artex Risk Solutions, Inc.",2020-09-09,circuit,4,5,0.35,affirmed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2022_ca7_walter_dean_v._national_production_,Walter Dean v. National Production Workers Un,2022-08-15,circuit,3,3,0.0,mixed,Claude Fable 5; GPT-5; Gemini 2.5 Pro
+cl_2020_ca3_jeffrey_norman_v._david_elkin,Jeffrey Norman v. David Elkin,2020-05-29,circuit,3,3,0.083,mixed,Claude Fable 5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2024_ca2_packer_v._raging_capital_management,"Packer v. Raging Capital Management, LLC",2024-06-24,circuit,3,4,0.188,reversed,Claude Fable 5; GPT-5; GPT-5.6 Sol
+cl_2023_ca9_julie_su_v._brian_bowers,Julie Su v. Brian Bowers,2023-10-25,circuit,3,4,0.25,,Claude Fable 5; GPT-5.6 Sol; Gemini 3.1 Pro
+cl_2024_ca2_peterson_v._bank_markazi,Peterson v. Bank Markazi,2024-11-13,circuit,3,4,0.25,mixed,Claude Fable 5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2021_txctapp14_booster_fuels_inc._v._fuel_husky_ll,"Booster Fuels, Inc. v. Fuel Husky, LLC D/B/A Instafuel",2021-11-04,state,3,4,0.25,affirmed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2024_ca2_sec_v._rashid,SEC v. Rashid,2024-03-13,circuit,3,4,0.25,reversed,GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2023_ca2_in_re_nine_west_lbo_sec._litig.,In Re: Nine West LBO SEC. Litig.,2023-11-27,circuit,3,5,0.3,mixed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2023_del_holifield_v._xri_investment_holding,Holifield v. XRI Investment Holdings LLC,2023-09-07,state,3,5,0.3,mixed,GPT-5; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2022_delch_metro_storage_international_llc_v._,Metro Storage International LLC v. Harron,2022-05-04,state,3,5,0.38,other,Claude Fable 5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2020_ca2_abm_indus._groups_llc_v._intl_union,"ABM Indus. Groups, LLC v. Int'l Union of Operating Eng'rs",2020-07-29,circuit,3,5,0.4,reversed,Claude Fable 5; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2020_dcd_broidy_capital_management_llc_v._mu,Broidy Capital Management LLC v. Muzin,2020-03-31,district,3,5,0.4,mixed,GPT-5; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2020_dcd_ghadami_v._united_states_department,Ghadami v. United States Department of Homeland Security,2020-03-19,district,3,5,0.4,dismissed,GPT-5.6 Sol; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2022_ca2_haley_v._tiaa,Haley v. TIAA,2022-12-01,circuit,3,5,0.45,vacated,GPT-5; Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2023_ca4_benjamin_reetz_v._aon_hewitt_invest,"Benjamin Reetz v. Aon Hewitt Investment Consulting, Inc.",2023-07-17,circuit,3,5,0.45,affirmed,GPT-5; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2021_ca2_sacerdote_v._new_york_university,Sacerdote v. New York University,2021-08-16,circuit,3,6,0.5,mixed,Claude Opus 4; GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2021_delch_lone_pine_resources_lp_v._william_s,"Lone Pine Resources, LP v. William S. Dickey",2021-06-07,state,2,2,0.0,mixed,Claude Fable 5; Gemini 2.5 Pro
+cl_2024_dcd_battineni_v._mayorkas,Battineni v. Mayorkas,2024-07-01,district,2,2,0.0,mixed,Claude Fable 5; GPT-5.6 Sol
+cl_2021_ncbizct_aym_techs._llc_v._scopia_cap._mgmt.,"Aym Techs., LLC v. Scopia Cap. Mgmt. Lp, 2021 Ncbc 20b",2021-03-31,state,2,2,0.125,other,Claude Fable 5; Gemini 2.5 Pro
+cl_2022_dcd_eig_energy_fund_xiv_l.p._v._petrole,"Eig Energy Fund Xiv, L.P. v. Petroleo Brasileiro S.A",2022-08-08,district,2,4,0.25,mixed,GPT-5; Gemini 2.5 Pro
+cl_2019_ca9_alexander_acosta_v._city_national_c,Alexander Acosta v. City National Corporation,2019-04-23,circuit,2,5,0.35,mixed,GPT-5.6 Sol; Gemini 2.5 Pro
+cl_2021_ca2_in_re_tribune_co._fraudulent_conv._,In Re: Tribune Co. Fraudulent Conv. Litig.,2021-08-20,circuit,2,6,0.417,mixed,Claude Opus 4; Gemini 2.5 Pro
+cl_2019_calctapp_j.b.b._investment_partners_v._fair,J.B.B. Investment Partners v. Fair,2019-07-02,state,2,5,0.44,affirmed,GPT-5; Gemini 2.5 Pro
+cl_2022_ca9_lenai_mull_v._motion_picture_indust,Lenai Mull v. Motion Picture Industry Health,2022-07-25,circuit,2,3,0.5,reversed,Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2023_ca9_amalgamated_bank_v._facebook_inc.,"Amalgamated Bank v. Facebook, Inc.",2023-10-18,circuit,2,5,0.5,mixed,GPT-5; Gemini 2.5 Pro
+cl_2023_ca4_sec_v._christopher_clark,SEC v. Christopher Clark,2023-02-23,circuit,2,4,0.562,reversed,Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2021_ca2_people_of_the_state_of_new_york_v._,People of the State of New York v. Griepp,2021-03-10,circuit,2,5,0.6,mixed,Gemini 2.5 Pro; Gemini 3.1 Pro
+cl_2021_ca9_state_of_rhode_island_v._alphabet_i,"State of Rhode Island v. Alphabet, Inc.",2021-06-16,circuit,2,5,0.6,mixed,GPT-5; Gemini 2.5 Pro
+cl_2023_ca3_marlow_henry_v._wilmington_trust_na,Marlow Henry v. Wilmington Trust NA,2023-06-30,circuit,2,4,0.625,affirmed,GPT-5; Gemini 2.5 Pro
+cl_2025_ca2_in_re_shanda_games_ltd._sec._litig.,In Re Shanda Games Ltd. SEC. Litig.,2025-07-01,circuit,1,1,0.0,mixed,Claude Fable 5
+cl_2018_ca9_united_states_v._jonathan_turner,United States v. Jonathan Turner,2018-07-27,circuit,1,1,0.0,affirmed,Gemini 2.5 Pro
+cl_2021_delch_john_joseph_smith_iv_v._thomas_m._s,"John Joseph Smith, IV v. Thomas M. Scott",2021-04-23,state,1,1,0.0,mixed,Gemini 2.5 Pro
+cl_2020_dcd_pca_integrity_associates_llp_v._nco,"Pca Integrity Associates, LLP v. Nco Financial Systems Inc",2020-02-11,district,1,2,0.25,dismissed,Claude Fable 5
+cl_2024_delch_be_capital_management_fund_lp_v._fu,BE Capital Management Fund LP v. Fund.com Inc.,2024-07-01,state,1,2,0.25,,Gemini 2.5 Pro
+cl_2024_dcd_akhmetshin_v._browder,Akhmetshin v. Browder,2024-07-01,district,1,3,0.333,dismissed,Gemini 2.5 Pro
+cl_2022_ca7_diane_burke_v._the_boeing_company,Diane Burke v. The Boeing Company,2022-08-01,circuit,1,2,0.375,affirmed,Claude Fable 5
+cl_2021_ca9_united_states_v._benjamin_koziol,United States v. Benjamin Koziol,2021-04-13,circuit,1,3,0.417,mixed,Gemini 2.5 Pro
+cl_2024_ca2_new_england_carpenters_guaranteed_a,New England Carpenters Guaranteed Annuity and Pension Funds v. AmTrust,2024-10-31,circuit,1,3,0.417,mixed,GPT-5.6 Sol
+cl_2021_ca2_set_capital_llc_v._credit_suisse_gr,Set Capital LLC v. Credit Suisse Group AG,2021-04-27,circuit,1,4,0.438,mixed,Gemini 2.5 Pro
+cl_2023_ca2_pauwels_v._deloitte_llp,Pauwels v. Deloitte LLP,2023-10-06,circuit,1,5,0.5,mixed,Gemini 2.5 Pro
+cl_2024_ca3_sec_v._dale_chappell,SEC v. Dale Chappell,2024-07-01,circuit,1,2,0.5,affirmed,Gemini 2.5 Pro
+cl_2025_ca2_natl_rifle_assn_of_am._v._vullo,Nat'l Rifle Ass'n of Am. v. Vullo,2025-07-01,circuit,1,2,0.5,reversed,GPT-5.6 Sol
+cl_2018_ca9_jaclyn_santomenno_v._transamerica_l,Jaclyn Santomenno v. Transamerica Life Ins. Co.,2018-02-23,circuit,1,5,0.55,reversed,Gemini 2.5 Pro
+cl_2021_ca2_donna_browe_v._ctc_corp.,Donna Browe v. CTC Corp.,2021-09-29,circuit,1,2,0.55,mixed,Gemini 2.5 Pro
+cl_2020_dcd_united_states_v._harmon,United States v. Harmon,2020-12-24,district,1,4,0.562,other,GPT-5.6 Sol
+cl_2020_ca3_jaroslawicz_v._mt_bank_corp,Jaroslawicz v. M&T Bank Corp,2020-06-18,circuit,1,5,0.62,mixed,GPT-5
+cl_2024_ca9_renaldo_white_v._symetra_assigned_b,Renaldo White v. Symetra Assigned Benefits Service Company,2024-07-01,circuit,1,2,0.625,reversed,Gemini 3.1 Pro
+cl_2024_delch_kuramo_capital_management_llc_v._la,"Kuramo Capital Management, LLC v. Larry Seruma",2024-07-01,state,1,3,0.667,mixed,Gemini 2.5 Pro
+cl_2024_cadc_an_opinion_was_released_in_case_24-,"An opinion was released in case 24-1113, TikTok Inc. v. Merrick Garland",2024-07-01,circuit,1,3,0.667,other,GPT-5.6 Sol
+cl_2019_cadc_the_robare_group_ltd._v._sec,"The Robare Group, LTD. v. SEC",2019-04-30,circuit,1,6,0.692,mixed,GPT-5
+cl_2014_ca9_john_loos_v._immersion_corporation,John Loos v. Immersion Corporation,2014-09-11,circuit,1,5,0.7,affirmed,Gemini 2.5 Pro
+cl_2019_ca9_ussec_v._hui_feng,Ussec v. Hui Feng,2019-08-23,circuit,1,5,0.7,affirmed,Gemini 2.5 Pro
+cl_2022_ca2_cantero_v._bank_of_am._n.a.,"Cantero v. Bank of Am., N.A.",2022-09-15,circuit,1,5,0.74,reversed,Gemini 2.5 Pro
+cl_2020_ca6_nancy_goodman_v._j.p._morgan_invest,Nancy Goodman v. J.P. Morgan Investment Mgmt.,2020-03-30,circuit,1,4,0.75,affirmed,Gemini 2.5 Pro
+cl_2021_ca2_united_states_v._reichberg,United States v. Reichberg,2021-07-15,circuit,1,5,0.75,affirmed,GPT-5
+cl_2023_ca2_ark._tchr._ret._sys._v._goldman_sac,"Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.",2023-08-10,circuit,1,5,0.78,reversed,Gemini 2.5 Pro
+cl_2015_ca9_steve_harris_v._amgen_inc.,"Steve Harris v. Amgen, Inc.",2015-05-26,circuit,1,5,0.8,reversed,Gemini 2.5 Pro
+cl_2024_dcd_united_states_v._michel,United States v. Michel,2024-07-01,district,1,5,0.8,,GPT-5
+cl_2014_ca2_sec_v._contorinis,SEC v. Contorinis,2014-02-18,circuit,1,6,0.875,affirmed,Claude Opus 4

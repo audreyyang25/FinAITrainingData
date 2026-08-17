@@ -1,0 +1,312 @@
+case_id,qid,arm,jurisdiction,court_level,tier,model,model_cutoff,served_by,recall,raw,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,ts
+constitution_ch01,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: The terminals were Model 33 Teletypes, printing uppercase only; if we wanted emphasis we used underscores or overstrikes, and names like print, getc, and putc were written PRINT, GETC, PUTC. Later we changed to mixed case, but the old style persisted in habits and code.
+SOURCE: inferred","The terminals were Model 33 Teletypes, printing uppercase only; if we wanted emphasis we used underscores or overstrikes, and names like print, getc, and putc were written PRINT, GETC, PUTC. Later we changed to mixed case, but the old style persisted in habits and code.",0,stop,,0,31.57,382,1938,2026-08-12T17:11:14
+constitution_ch01,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+SOURCE: recalled","Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0,stop,,0,11.13,381,642,2026-08-12T17:10:54
+constitution_ch01,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+SOURCE: recalled","Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.",0,stop,,0,10.86,381,816,2026-08-12T17:10:53
+constitution_ch01,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: they shall be divided as equally as may be into three Classes.
+SOURCE: recalled",they shall be divided as equally as may be into three Classes.,0,stop,,0,8.83,382,499,2026-08-12T17:10:51
+constitution_ch01,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+SOURCE: recalled",shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.,0,stop,,0,19.01,382,1255,2026-08-12T17:11:01
+constitution_ch01,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
+SOURCE: recalled","Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.",0,stop,,0,7.91,382,498,2026-08-12T17:10:50
+constitution_ch01,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+SOURCE: recalled","to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.",0,stop,,0,12.78,382,990,2026-08-12T17:10:55
+constitution_ch01,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class",0,stop,,0,24.93,381,1926,2026-08-12T17:11:07
+constitution_ch01,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year;
+SOURCE: recalled",The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year;,0,stop,,0,30.24,387,2199,2026-08-12T17:11:13
+constitution_ch01,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,31.55,401,2390,2026-08-12T17:11:14
+constitution_ch01,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,34.26,429,2588,2026-08-12T17:11:17
+constitution_ch02,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+SOURCE: recalled","their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.",0,stop,,0,19.84,386,1613,2026-08-12T17:11:02
+constitution_ch02,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: but the Senate may propose or concur with Amendments as on other Bills.
+SOURCE: recalled",but the Senate may propose or concur with Amendments as on other Bills.,0,stop,,0,5.2,381,401,2026-08-12T17:10:56
+constitution_ch02,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+SOURCE: recalled","pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.",0,stop,,0,19.54,383,1510,2026-08-12T17:11:11
+constitution_ch02,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+SOURCE: recalled","Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.",0,stop,,0,15.96,381,1399,2026-08-12T17:11:10
+constitution_ch02,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: to the Census or Enumeration herein before directed to be taken.
+SOURCE: recalled",to the Census or Enumeration herein before directed to be taken.,0,stop,,0,10.62,386,559,2026-08-12T17:11:05
+constitution_ch02,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+SOURCE: recalled",Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.,0,stop,,0,8.96,383,778,2026-08-12T17:11:05
+constitution_ch02,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
+SOURCE: recalled","of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.",0,stop,,0,14.6,385,1292,2026-08-12T17:11:11
+constitution_ch02,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall",0,stop,,0,26.14,381,2097,2026-08-12T17:11:28
+constitution_ch02,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,70.06,388,4096,2026-08-12T17:12:13
+constitution_ch02,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to
+SOURCE: recalled",Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to,0,stop,,0,23.9,402,1958,2026-08-12T17:11:29
+constitution_ch02,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to
+SOURCE: recalled",Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to,0,stop,,0,28.93,438,2148,2026-08-12T17:11:34
+constitution_ch03,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+SOURCE: recalled","Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.",0,stop,,0,25.15,383,2090,2026-08-12T17:11:33
+constitution_ch03,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate;
+SOURCE: recalled","and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate;",0,stop,,0,19.89,381,1714,2026-08-12T17:11:30
+constitution_ch03,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: the Representation from each State having one Vote; a Quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice;
+SOURCE: recalled","the Representation from each State having one Vote; a Quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice;",0,stop,,0,41.98,383,3331,2026-08-12T17:11:53
+constitution_ch03,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: the Senate shall chuse from them by Ballot the Vice-President.
+SOURCE: recalled",the Senate shall chuse from them by Ballot the Vice-President.,0,stop,,0,37.08,381,2834,2026-08-12T17:11:49
+constitution_ch03,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
+SOURCE: recalled","United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.",0,stop,,0,22.1,382,1762,2026-08-12T17:11:35
+constitution_ch03,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+SOURCE: recalled","happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.",0,stop,,0,9.16,382,727,2026-08-12T17:11:24
+constitution_ch03,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+SOURCE: recalled","supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",0,stop,,0,10.35,382,646,2026-08-12T17:11:25
+constitution_ch03,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period",0,stop,,0,46.22,381,3563,2026-08-12T17:12:03
+constitution_ch03,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during",0,stop,,0,21.98,390,1673,2026-08-12T17:11:46
+constitution_ch03,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during",0,stop,,0,19.98,402,1907,2026-08-12T17:11:45
+constitution_ch03,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during",0,stop,,0,23.98,432,1919,2026-08-12T17:11:52
+gatsby_ch01,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: a reserved way, and I understood that he meant a great deal more than that.
+SOURCE: recalled","a reserved way, and I understood that he meant a great deal more than that.",0,stop,,0,7.17,385,525,2026-08-12T17:11:37
+gatsby_ch01,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: now seemed like the ragged edge of the universe — so I decided to go East and learn the bond business.
+SOURCE: recalled",now seemed like the ragged edge of the universe — so I decided to go East and learn the bond business.,0,stop,,0,24.31,384,1562,2026-08-12T17:11:55
+gatsby_ch01,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.
+SOURCE: recalled",though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.,0,stop,,0,27.41,387,1632,2026-08-12T17:12:01
+gatsby_ch01,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: bound into the house by French windows at either end.
+SOURCE: recalled",bound into the house by French windows at either end.,0,stop,,0,12.79,387,794,2026-08-12T17:11:47
+gatsby_ch01,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,76.83,386,4096,2026-08-12T17:12:53
+gatsby_ch01,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: if they had ever intended to leave each other. They weren't happy, and neither of them had touched the chicken or the ale—and yet they weren't unhappy either; there was an unmistakable air
+SOURCE: inferred","if they had ever intended to leave each other. They weren't happy, and neither of them had touched the chicken or the ale—and yet they weren't unhappy either; there was an unmistakable air",0,stop,,0,65.88,384,3352,2026-08-12T17:12:43
+gatsby_ch01,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: was confused and a little disgusted as I drove away.
+SOURCE: recalled",was confused and a little disgusted as I drove away.,0,stop,,0,39.91,386,1946,2026-08-12T17:12:25
+gatsby_ch01,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: Her host looked at her incredulously. “You are!” he demanded. She nodded slightly. “No thanks,” she added. The telephone rang inside.
+SOURCE: inferred","Her host looked at her incredulously. “You are!” he demanded. She nodded slightly. “No thanks,” she added. The telephone rang inside.",0,stop,,0,58.1,385,2825,2026-08-12T17:12:44
+gatsby_ch01,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: She looked at us with a cool, insolent smile and, with a quick, deft movement, rejected hers. ""No, thanks,"" she added.
+SOURCE: inferred","She looked at us with a cool, insolent smile and, with a quick, deft movement, rejected hers. ""No, thanks,"" she added.",0,stop,,0,50.8,391,2821,2026-08-12T17:12:38
+gatsby_ch01,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,67.79,407,4096,2026-08-12T17:12:57
+gatsby_ch01,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,70.25,437,4096,2026-08-12T17:13:03
+gatsby_ch02,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.
+SOURCE: recalled","drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.",0,stop,,0,31.29,384,1396,2026-08-12T17:12:25
+gatsby_ch02,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: facet or gleam of beauty, but there was an immediately perceptible vitality about her, as if the nerves of her body were continually smouldering.
+SOURCE: recalled","facet or gleam of beauty, but there was an immediately perceptible vitality about her, as if the nerves of her body were continually smouldering.",0,stop,,0,47.0,390,2383,2026-08-12T17:12:42
+gatsby_ch02,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,78.96,384,4096,2026-08-12T17:13:20
+gatsby_ch02,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: swept into the kitchen, implying that a dozen chefs awaited her orders.
+SOURCE: recalled","swept into the kitchen, implying that a dozen chefs awaited her orders.",0,stop,,0,32.19,387,1937,2026-08-12T17:12:36
+gatsby_ch02,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,85.01,383,4096,2026-08-12T17:13:38
+gatsby_ch02,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
+SOURCE: recalled","and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0,stop,,0,18.16,385,1022,2026-08-12T17:12:43
+gatsby_ch02,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: when Jordan Baker came out of the dressing-room and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.
+SOURCE: recalled","when Jordan Baker came out of the dressing-room and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.",0,stop,,0,25.4,383,1431,2026-08-12T17:12:51
+gatsby_ch02,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,114.92,383,4096,2026-08-12T17:14:31
+gatsby_ch02,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,82.49,394,4096,2026-08-12T17:14:01
+gatsby_ch02,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,94.63,411,4096,2026-08-12T17:14:17
+gatsby_ch02,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: ""Who is Gatsby anyhow?"" asked one of the girls. ""Some big bootlegger,"" said another. ""One time he killed a man—""
+SOURCE: inferred","""Who is Gatsby anyhow?"" asked one of the girls. ""Some big bootlegger,"" said another. ""One time he killed a man—""",0,stop,,0,62.93,444,3593,2026-08-12T17:13:46
+gatsby_ch03,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping to the corners — and a great number of single girls dancing individualistically — or relieving the orchestra for a moment of the burden of the banjo.
+SOURCE: recalled","pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping to the corners — and a great number of single girls dancing individualistically — or relieving the orchestra for a moment of the burden of the banjo.",0,stop,,0,31.75,384,2340,2026-08-12T17:13:16
+gatsby_ch03,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: drift coolly out of nowhere and buy a palace on Long Island Sound.
+SOURCE: recalled",drift coolly out of nowhere and buy a palace on Long Island Sound.,0,stop,,0,26.7,385,1480,2026-08-12T17:13:12
+gatsby_ch03,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: the library opened and Gatsby and Jordan Baker came out together.
+SOURCE: recalled",the library opened and Gatsby and Jordan Baker came out together.,0,stop,,0,76.34,383,3206,2026-08-12T17:14:08
+gatsby_ch03,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,124.09,386,4096,2026-08-12T17:14:57
+gatsby_ch03,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: and there was laughter, and a thin wail of horns under the dimming stars.
+SOURCE: inferred","and there was laughter, and a thin wail of horns under the dimming stars.",0,stop,,0,93.29,384,3407,2026-08-12T17:14:31
+gatsby_ch03,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: Blackbuck, who always gathered in a corner and flipped up their noses at anyone who came near
+SOURCE: inferred","Blackbuck, who always gathered in a corner and flipped up their noses at anyone who came near",0,stop,,0,52.38,387,2956,2026-08-12T17:13:56
+gatsby_ch03,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,103.29,383,4096,2026-08-12T17:14:55
+gatsby_ch03,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,105.61,383,4096,2026-08-12T17:15:02
+gatsby_ch03,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I took dinner usually at the Yale Club and then went upstairs to the library to work or read for a while.
+SOURCE: inferred",I took dinner usually at the Yale Club and then went upstairs to the library to work or read for a while.,0,stop,,0,67.69,389,3363,2026-08-12T17:14:28
+gatsby_ch03,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: I wasn't actually in love, but I felt a sort of tender curiosity. The bored, haughty face that she turned
+SOURCE: recalled","I wasn't actually in love, but I felt a sort of tender curiosity. The bored, haughty face that she turned",0,stop,,0,63.78,402,3358,2026-08-12T17:14:42
+gatsby_ch03,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,93.89,429,4096,2026-08-12T17:15:20
+gatsby_ch04,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: for the first time, in its first wild promise of all the mystery and the beauty in the world.
+SOURCE: recalled","for the first time, in its first wild promise of all the mystery and the beauty in the world.",0,stop,,0,19.78,384,1249,2026-08-12T17:14:16
+gatsby_ch04,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: day long the telephone rang in her house and men came by in automobiles with bouquets of flowers and invitations until long after midnight.
+SOURCE: inferred",day long the telephone rang in her house and men came by in automobiles with bouquets of flowers and invitations until long after midnight.,0,stop,,0,54.87,386,3008,2026-08-12T17:14:57
+gatsby_ch04,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: thought I'd never seen a girl so mad about her husband.
+SOURCE: recalled",thought I'd never seen a girl so mad about her husband.,0,stop,,0,31.54,384,1622,2026-08-12T17:14:40
+gatsby_ch04,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,85.36,384,4096,2026-08-12T17:15:42
+gatsby_ch04,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,105.36,385,4096,2026-08-12T17:16:03
+gatsby_ch04,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,88.75,383,4096,2026-08-12T17:15:57
+gatsby_ch04,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,113.13,385,4096,2026-08-12T17:16:24
+gatsby_ch04,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,122.17,383,4096,2026-08-12T17:16:34
+gatsby_ch04,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,96.96,390,4096,2026-08-12T17:16:17
+gatsby_ch04,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,95.69,405,4096,2026-08-12T17:16:18
+gatsby_ch04,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,87.0,435,4096,2026-08-12T17:16:23
+gatsby_ch05,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.
+SOURCE: inferred","I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.",0,stop,,0,50.42,389,2672,2026-08-12T17:15:47
+gatsby_ch05,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: few minutes accompanied by an embarrassed, slightly worn young man with shell-rimmed glasses and scanty blond hair.
+SOURCE: inferred","few minutes accompanied by an embarrassed, slightly worn young man with shell-rimmed glasses and scanty blond hair.",0,stop,,0,27.02,386,1687,2026-08-12T17:15:24
+gatsby_ch05,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: afternoon in a torn green jersey and a pair of canvas pants. But it was already Jay Gatsby who borrowed a row-boat, pulled out to the Tuolomee and informed Cody that a wind might catch him and break him up in half an hour.
+SOURCE: recalled","afternoon in a torn green jersey and a pair of canvas pants. But it was already Jay Gatsby who borrowed a row-boat, pulled out to the Tuolomee and informed Cody that a wind might catch him and break him up in half an hour.",0,stop,,0,44.29,385,2864,2026-08-12T17:15:46
+gatsby_ch05,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: railed deck, that yacht represented all the beauty and glamour in the world.
+SOURCE: recalled","railed deck, that yacht represented all the beauty and glamour in the world.",0,stop,,0,47.03,386,1645,2026-08-12T17:16:08
+gatsby_ch05,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,128.5,383,4096,2026-08-12T17:17:33
+gatsby_ch05,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: a way contralto voices have, and each change spilled a little of her warm human magic out into the air.
+SOURCE: inferred","a way contralto voices have, and each change spilled a little of her warm human magic out into the air.",0,stop,,0,84.85,386,4048,2026-08-12T17:17:07
+gatsby_ch05,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,130.09,383,4096,2026-08-12T17:17:57
+gatsby_ch05,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,131.85,385,4096,2026-08-12T17:17:59
+gatsby_ch05,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,78.79,392,4096,2026-08-12T17:17:16
+gatsby_ch05,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,104.0,406,4096,2026-08-12T17:17:47
+gatsby_ch05,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,96.21,443,4096,2026-08-12T17:17:44
+gatsby_ch06,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: whose head upon the shoulder it was, I couldn't have guessed. The prolonged and tumultuous argument that ended by herding us all into the Plaza Hotel would, at another time, have seemed purposeless and absurd — it was, to me, anyway.
+SOURCE: inferred","whose head upon the shoulder it was, I couldn't have guessed. The prolonged and tumultuous argument that ended by herding us all into the Plaza Hotel would, at another time, have seemed purposeless and absurd — it was, to me, anyway.",0,stop,,0,71.66,383,3865,2026-08-12T17:17:29
+gatsby_ch06,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,80.08,385,4096,2026-08-12T17:17:39
+gatsby_ch06,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: parallel discovery less than an hour before—and it occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well.
+SOURCE: recalled","parallel discovery less than an hour before—and it occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well.",0,stop,,0,19.88,384,1238,2026-08-12T17:16:43
+gatsby_ch06,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,149.77,389,4096,2026-08-12T17:18:54
+gatsby_ch06,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,105.43,383,4096,2026-08-12T17:18:20
+gatsby_ch06,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
+SOURCE: inferred","so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.",0,stop,,0,56.02,383,2885,2026-08-12T17:17:39
+gatsby_ch06,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: he sat on a chair in the doorway and stared at the people and the cars that passed along the road.
+SOURCE: recalled",he sat on a chair in the doorway and stared at the people and the cars that passed along the road.,0,stop,,0,26.52,385,1613,2026-08-12T17:17:34
+gatsby_ch06,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,106.58,384,4096,2026-08-12T17:19:03
+gatsby_ch06,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: We drove to the Plaza in two cars. The room was large and stifling, and, though it was already late
+SOURCE: inferred","We drove to the Plaza in two cars. The room was large and stifling, and, though it was already late",0,stop,,0,54.35,392,2623,2026-08-12T17:18:24
+gatsby_ch06,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: Everybody agreed, and we decided on the Plaza; presently we were driving toward town through the hot, bright afternoon, irritable, silent.
+SOURCE: inferred","Everybody agreed, and we decided on the Plaza; presently we were driving toward town through the hot, bright afternoon, irritable, silent.",0,stop,,0,73.06,405,3235,2026-08-12T17:18:47
+gatsby_ch06,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: Each of us said over and over that it was a “crazy idea”—we all talked at once to a baffled clerk
+SOURCE: inferred",Each of us said over and over that it was a “crazy idea”—we all talked at once to a baffled clerk,0,stop,,0,55.87,431,3214,2026-08-12T17:18:30
+gatsby_ch07,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
+SOURCE: recalled","open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.",0,stop,,0,64.35,385,3263,2026-08-12T17:18:43
+gatsby_ch07,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: leaned toward him, whispering, ""I've got my wife locked in up there,"" he said.
+SOURCE: inferred","leaned toward him, whispering, ""I've got my wife locked in up there,"" he said.",0,stop,,0,77.9,387,3418,2026-08-12T17:18:58
+gatsby_ch07,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,88.78,385,4096,2026-08-12T17:19:14
+gatsby_ch07,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,99.45,384,4096,2026-08-12T17:19:27
+gatsby_ch07,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.
+SOURCE: inferred","and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.",0,stop,,0,41.53,385,2218,2026-08-12T17:18:39
+gatsby_ch07,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,92.7,384,4096,2026-08-12T17:19:33
+gatsby_ch07,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: till he came back with a policeman, and then he made coffee and stayed with Wilson till dawn.
+SOURCE: inferred","till he came back with a policeman, and then he made coffee and stayed with Wilson till dawn.",0,stop,,0,59.75,384,3533,2026-08-12T17:19:20
+gatsby_ch07,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,104.77,383,4096,2026-08-12T17:20:09
+gatsby_ch07,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,96.56,391,4096,2026-08-12T17:20:07
+gatsby_ch07,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: But he knew that he was in Daisy's house by a colossal accident. However glorious might be his future as
+SOURCE: inferred",But he knew that he was in Daisy's house by a colossal accident. However glorious might be his future as,0,stop,,0,60.8,403,3540,2026-08-12T17:19:40
+gatsby_ch07,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: He took what he could get, ravenously and unscrupulously—eventually he took Daisy one still October night, took her because he
+SOURCE: recalled","He took what he could get, ravenously and unscrupulously—eventually he took Daisy one still October night, took her because he",0,stop,,0,48.34,431,3483,2026-08-12T17:19:32
+gatsby_ch08,Q07,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,79.37,383,4096,2026-08-12T17:20:06
+gatsby_ch08,Q08,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,79.88,386,4096,2026-08-12T17:20:14
+gatsby_ch08,Q09,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,84.96,384,4096,2026-08-12T17:20:23
+gatsby_ch08,Q10,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: crowd of curiosity seekers and reporters to the door of my house.
+SOURCE: inferred",crowd of curiosity seekers and reporters to the door of my house.,0,stop,,0,66.81,383,3944,2026-08-12T17:20:11
+gatsby_ch08,Q11,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: car stop and then the sound of someone splashing after us over the soggy ground.
+SOURCE: recalled",car stop and then the sound of someone splashing after us over the soggy ground.,0,stop,,0,20.63,383,982,2026-08-12T17:19:35
+gatsby_ch08,Q12,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,104.17,383,4096,2026-08-12T17:21:04
+gatsby_ch08,Q13,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: ends of the earth and didn't know that the party was over.
+SOURCE: recalled",ends of the earth and didn't know that the party was over.,0,stop,,0,38.68,383,2442,2026-08-12T17:20:06
+gatsby_ch08,Q21,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,114.04,384,4096,2026-08-12T17:21:27
+gatsby_ch08,Q22,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,100.31,390,4096,2026-08-12T17:21:13
+gatsby_ch08,Q23,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford
+SOURCE: inferred","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford",0,stop,,0,37.6,411,2415,2026-08-12T17:20:13
+gatsby_ch08,Q24,positive,control,positive,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man; and when he told me he was an Oggsford
+SOURCE: inferred","I saw right away he was a fine-appearing, gentlemanly young man; and when he told me he was an Oggsford",0,stop,,0,53.36,440,4035,2026-08-12T17:20:33
+gatsby_shuf_ch01,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: I never saw this great-uncle, but I'm supposed to look like him—with special reference to the rather hard-boiled painting that hangs in my father's office.
+SOURCE: recalled","I never saw this great-uncle, but I'm supposed to look like him—with special reference to the rather hard-boiled painting that hangs in my father's office.",0,stop,,0,48.21,395,3417,2026-08-12T17:20:55
+gatsby_shuf_ch01,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,71.84,390,4096,2026-08-12T17:21:19
+gatsby_shuf_ch01,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,101.78,392,4096,2026-08-12T17:21:49
+gatsby_shuf_ch01,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: ""Why, no,"" I answered, rather surprised by his tone. ""Well, it's a fine book, and everybody ought to read it. The idea is if we don't look out the white race will be—will be utterly submerged.""
+SOURCE: recalled","""Why, no,"" I answered, rather surprised by his tone. ""Well, it's a fine book, and everybody ought to read it. The idea is if we don't look out the white race will be—will be utterly submerged.""",0,stop,,0,43.67,393,2946,2026-08-12T17:20:53
+gatsby_shuf_ch01,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,75.5,391,4096,2026-08-12T17:21:26
+gatsby_shuf_ch01,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: and his nerves were raw on the edge of the ash-heaps; at the garages the men stared, dull-eyed, while Michaelis tried to make him sit down.
+SOURCE: inferred","and his nerves were raw on the edge of the ash-heaps; at the garages the men stared, dull-eyed, while Michaelis tried to make him sit down.",0,stop,,0,37.02,388,2297,2026-08-12T17:20:50
+gatsby_shuf_ch01,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,80.0,392,4096,2026-08-12T17:21:35
+gatsby_shuf_ch01,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: It occurred to me now that I had seen her, or a picture of her, somewhere before.
+SOURCE: recalled","It occurred to me now that I had seen her, or a picture of her, somewhere before.",0,stop,,0,59.05,390,3563,2026-08-12T17:21:22
+gatsby_shuf_ch01,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,103.45,396,4096,2026-08-12T17:22:17
+gatsby_shuf_ch01,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: Sorry, I can’t provide that, but I can offer a brief summary of the requested passage instead.
+SOURCE: inferred","Sorry, I can’t provide that, but I can offer a brief summary of the requested passage instead.",0,stop,,0,10.5,413,651,2026-08-12T17:21:01
+gatsby_shuf_ch01,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,92.28,444,4096,2026-08-12T17:22:26
+gatsby_shuf_ch02,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,106.39,390,4096,2026-08-12T17:22:41
+gatsby_shuf_ch02,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,96.55,400,4096,2026-08-12T17:22:38
+gatsby_shuf_ch02,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,73.25,417,4096,2026-08-12T17:22:18
+gatsby_shuf_ch02,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: ""You were crazy about him for a while,"" said Catherine. ""Crazy about him!"" cried Myrtle incredulously. ""Who said I was crazy about him?""
+SOURCE: inferred","""You were crazy about him for a while,"" said Catherine. ""Crazy about him!"" cried Myrtle incredulously. ""Who said I was crazy about him?""",0,stop,,0,54.36,451,3675,2026-08-12T17:22:08
+gatsby_shuf_ch03,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,66.69,391,4096,2026-08-12T17:22:26
+gatsby_shuf_ch03,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,77.98,390,4096,2026-08-12T17:22:41
+gatsby_shuf_ch03,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,64.54,391,4096,2026-08-12T17:22:31
+gatsby_shuf_ch03,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,75.25,392,4096,2026-08-12T17:22:42
+gatsby_shuf_ch03,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,83.18,391,4096,2026-08-12T17:22:58
+gatsby_shuf_ch03,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: And as if all of a sudden I knew what it meant, I saw him as he must have been, alone with his dream, reaching out for it and losing it, helpless against the vast, indifferent night.
+SOURCE: inferred","And as if all of a sudden I knew what it meant, I saw him as he must have been, alone with his dream, reaching out for it and losing it, helpless against the vast, indifferent night.",0,stop,,0,66.13,390,3918,2026-08-12T17:22:56
+gatsby_shuf_ch03,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,70.41,390,4096,2026-08-12T17:23:19
+gatsby_shuf_ch03,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: He stretched out his arms toward the dark water in a curious way, and, far as I was from him,
+SOURCE: inferred","He stretched out his arms toward the dark water in a curious way, and, far as I was from him,",0,stop,,0,31.29,388,2289,2026-08-12T17:22:49
+gatsby_shuf_ch03,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,113.91,397,4096,2026-08-12T17:24:12
+gatsby_shuf_ch03,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,87.96,412,4096,2026-08-12T17:23:54
+gatsby_shuf_ch03,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,72.39,446,4096,2026-08-12T17:23:38
+gatsby_shuf_ch04,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: little mouth, policeman card white from wallet, Right you are, tipped cap, know Mr. Gatsby, yes sir, O.K., next time recognize you, excuse me, commissioner Christmas card every year, did him a favor once, old sport, car sped toward the city under the sunlight through the girders flicker.
+SOURCE: inferred","little mouth, policeman card white from wallet, Right you are, tipped cap, know Mr. Gatsby, yes sir, O.K., next time recognize you, excuse me, commissioner Christmas card every year, did him a favor once, old sport, car sped toward the city under the sunlight through the girders flicker.",0,stop,,0,42.07,395,2988,2026-08-12T17:23:14
+gatsby_shuf_ch04,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: the old Metropole,"" said Mr. Wolfshiem. ""Rosy Rosenthal was shot there that night.
+SOURCE: inferred","the old Metropole,"" said Mr. Wolfshiem. ""Rosy Rosenthal was shot there that night.",0,stop,,0,41.48,397,2773,2026-08-12T17:23:20
+gatsby_shuf_ch04,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: midnight the hilarity had increased. A celebrated tenor had sung in Italian, and a notorious contralto had sung in jazz, and between the numbers people were doing 'stunts' all over the garden, while happy, vacuous bursts of laughter rose toward the summer sky.
+SOURCE: recalled","midnight the hilarity had increased. A celebrated tenor had sung in Italian, and a notorious contralto had sung in jazz, and between the numbers people were doing 'stunts' all over the garden, while happy, vacuous bursts of laughter rose toward the summer sky.",0,stop,,0,46.71,388,3347,2026-08-12T17:23:28
+gatsby_shuf_ch04,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,121.54,389,4096,2026-08-12T17:24:43
+gatsby_shuf_ch04,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: ""Let's go to Coney Island, old sport,"" I said. ""It's too hot this summer. Let's take my car."" Jordan Baker, looking right at me, only smiled faintly and turned away. ""No,"" she said at last, ""let's go to town instead—Daisy wants company.""
+SOURCE: inferred","""Let's go to Coney Island, old sport,"" I said. ""It's too hot this summer. Let's take my car."" Jordan Baker, looking right at me, only smiled faintly and turned away. ""No,"" she said at last, ""let's go to town instead—Daisy wants company.""",0,stop,,0,60.41,393,3675,2026-08-12T17:23:43
+gatsby_shuf_ch04,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,88.9,391,4096,2026-08-12T17:24:18
+gatsby_shuf_ch04,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,79.29,388,4096,2026-08-12T17:24:15
+gatsby_shuf_ch04,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I heard in the din, and it was then that the car lashed past us at the corner and vanished
+SOURCE: inferred","I heard in the din, and it was then that the car lashed past us at the corner and vanished",0,stop,,0,25.94,389,1806,2026-08-12T17:23:25
+gatsby_shuf_ch04,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I heard it from a man who knew, of course, and immediately the orchestra broke into a new dance, scattering
+SOURCE: inferred","I heard it from a man who knew, of course, and immediately the orchestra broke into a new dance, scattering",0,stop,,0,31.79,397,2166,2026-08-12T17:23:46
+gatsby_shuf_ch04,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,67.99,412,4096,2026-08-12T17:24:27
+gatsby_shuf_ch04,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,62.95,437,4096,2026-08-12T17:24:23
+gatsby_shuf_ch05,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,69.9,390,4096,2026-08-12T17:24:35
+gatsby_shuf_ch05,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,73.46,392,4096,2026-08-12T17:24:41
+gatsby_shuf_ch05,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,75.61,389,4096,2026-08-12T17:24:55
+gatsby_shuf_ch05,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,97.11,388,4096,2026-08-12T17:25:21
+gatsby_shuf_ch05,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,97.1,392,4096,2026-08-12T17:25:23
+gatsby_shuf_ch05,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,80.84,388,4096,2026-08-12T17:25:15
+gatsby_shuf_ch05,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,86.53,391,4096,2026-08-12T17:25:39
+gatsby_shuf_ch05,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: We've met before, muttered Gatsby, looking at Daisy with tense, polite curiosity, not remembering my presence until I coughed faintly.
+SOURCE: inferred","We've met before, muttered Gatsby, looking at Daisy with tense, polite curiosity, not remembering my presence until I coughed faintly.",0,stop,,0,37.48,389,2617,2026-08-12T17:24:53
+gatsby_shuf_ch05,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,63.55,397,4096,2026-08-12T17:25:22
+gatsby_shuf_ch05,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,65.01,413,4096,2026-08-12T17:25:28
+gatsby_shuf_ch05,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,63.43,445,4096,2026-08-12T17:25:31
+gatsby_shuf_ch06,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,69.67,391,4096,2026-08-12T17:25:45
+gatsby_shuf_ch06,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,61.85,0,0,2026-08-12T17:25:44
+gatsby_shuf_ch06,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,90.97,394,4096,2026-08-12T17:26:15
+gatsby_shuf_ch06,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,"ANSWER: and we carried him into the house, out of the heat, and he stayed three weeks until Daddy told him he had","and we carried him into the house, out of the heat, and he stayed three weeks until Daddy told him he had",0,length,,0,56.69,395,4096,2026-08-12T17:25:50
+gatsby_shuf_ch06,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: ""Oh, you want too much!"" she cried to Gatsby. ""I love you now—isn't that enough? I can't help what's past."" She began to sob helplessly. ""I did love him once—but I loved you too.""
+SOURCE: recalled","""Oh, you want too much!"" she cried to Gatsby. ""I love you now—isn't that enough? I can't help what's past."" She began to sob helplessly. ""I did love him once—but I loved you too.""",0,stop,,0,29.91,391,2307,2026-08-12T17:25:25
+gatsby_shuf_ch06,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,93.69,390,4096,2026-08-12T17:26:49
+gatsby_shuf_ch06,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,99.12,390,4096,2026-08-12T17:27:00
+gatsby_shuf_ch06,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I examined it, then slipped it back into his hand; his lips parted slightly. “Excuse me,” he said, almost apologetically.
+SOURCE: inferred","I examined it, then slipped it back into his hand; his lips parted slightly. “Excuse me,” he said, almost apologetically.",0,stop,,0,57.43,390,3234,2026-08-12T17:26:20
+gatsby_shuf_ch06,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: We all sat up, listening; then Tom went out, shutting the door. Daisy leaned forward with a fluttering laugh softly.
+SOURCE: inferred","We all sat up, listening; then Tom went out, shutting the door. Daisy leaned forward with a fluttering laugh softly.",0,stop,,0,39.09,399,2323,2026-08-12T17:26:03
+gatsby_shuf_ch06,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,75.9,419,4096,2026-08-12T17:26:41
+gatsby_shuf_ch06,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,95.26,449,4096,2026-08-12T17:27:04
+gatsby_shuf_ch07,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: ""Whenever you feel like criticizing any one,"" he told me, ""just remember that all the people in this world haven't had the advantages that you've had.""
+SOURCE: recalled","""Whenever you feel like criticizing any one,"" he told me, ""just remember that all the people in this world haven't had the advantages that you've had.""",0,stop,,0,43.56,389,3046,2026-08-12T17:26:15
+gatsby_shuf_ch07,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: Making a short deft movement, Tom Buchanan broke her nose with his open hand. Then there were bloody towels upon the bathroom floor, and women's voices scolding, and high over the confusion a long broken wail of pain.
+SOURCE: recalled","Making a short deft movement, Tom Buchanan broke her nose with his open hand. Then there were bloody towels upon the bathroom floor, and women's voices scolding, and high over the confusion a long broken wail of pain.",0,stop,,0,64.13,389,4077,2026-08-12T17:26:44
+gatsby_shuf_ch07,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,79.37,392,4096,2026-08-12T17:27:03
+gatsby_shuf_ch07,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,75.74,392,4096,2026-08-12T17:27:01
+gatsby_shuf_ch07,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: and three lamps were burning; the window shades were drawn tight.
+SOURCE: inferred",and three lamps were burning; the window shades were drawn tight.,0,stop,,0,52.04,390,3326,2026-08-12T17:26:43
+gatsby_shuf_ch07,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,73.25,392,4096,2026-08-12T17:27:17
+gatsby_shuf_ch07,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I see now that this has been a story of the West, after all—Tom and Gatsby, Daisy and Jordan and I, were all Westerners, and perhaps we possessed some deficiency in common which made us subtly unadaptable to Eastern life.
+SOURCE: inferred","I see now that this has been a story of the West, after all—Tom and Gatsby, Daisy and Jordan and I, were all Westerners, and perhaps we possessed some deficiency in common which made us subtly unadaptable to Eastern life.",0,stop,,0,50.73,389,3256,2026-08-12T17:27:06
+gatsby_shuf_ch07,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: So we beat on, boats against the current, borne back ceaselessly into the past.
+SOURCE: inferred","So we beat on, boats against the current, borne back ceaselessly into the past.",0,stop,,0,26.98,390,1956,2026-08-12T17:26:42
+gatsby_shuf_ch07,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: In my younger and more vulnerable years my father gave me some advice that I've been turning over in my
+SOURCE: recalled",In my younger and more vulnerable years my father gave me some advice that I've been turning over in my,0,stop,,0,37.54,399,2921,2026-08-12T17:26:58
+gatsby_shuf_ch07,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: He had one of those rare smiles with a quality of eternal reassurance in it, that you may come across
+SOURCE: inferred","He had one of those rare smiles with a quality of eternal reassurance in it, that you may come across",0,stop,,0,28.61,411,2403,2026-08-12T17:27:10
+gatsby_shuf_ch07,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,93.3,440,4096,2026-08-12T17:28:16
+gatsby_shuf_ch08,Q07,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,71.22,394,4096,2026-08-12T17:27:54
+gatsby_shuf_ch08,Q08,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,98.36,388,4096,2026-08-12T17:28:23
+gatsby_shuf_ch08,Q09,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,82.15,394,4096,2026-08-12T17:28:12
+gatsby_shuf_ch08,Q10,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,74.04,391,4096,2026-08-12T17:28:12
+gatsby_shuf_ch08,Q11,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,108.28,390,4096,2026-08-12T17:28:49
+gatsby_shuf_ch08,Q12,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: the smoke brittle leaves of was in the, Sound the fog-horn groaning, night all through lay I awake and at dawn went back West Egg home to; lawn the was wet and blue under morning air
+SOURCE: inferred","the smoke brittle leaves of was in the, Sound the fog-horn groaning, night all through lay I awake and at dawn went back West Egg home to; lawn the was wet and blue under morning air",0,stop,,0,34.93,389,2288,2026-08-12T17:27:36
+gatsby_shuf_ch08,Q13,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: He was frowning and holding his hand up to the glare, peering into the lighted windows as if he could draw her to the sill; then he turned away and walked slowly down toward the beach.
+SOURCE: inferred","He was frowning and holding his hand up to the glare, peering into the lighted windows as if he could draw her to the sill; then he turned away and walked slowly down toward the beach.",0,stop,,0,50.24,390,2948,2026-08-12T17:27:54
+gatsby_shuf_ch08,Q21,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I saw nothing. We started out into the hot white road toward city, silent and watchful, speaking not at all.
+SOURCE: inferred","I saw nothing. We started out into the hot white road toward city, silent and watchful, speaking not at all.",0,stop,,0,46.54,390,3142,2026-08-12T17:27:51
+gatsby_shuf_ch08,Q22,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,inferred,"ANSWER: I raised my eyes. ""Oh,"" I inquired, ""start out now? I saw nothing."" He was quiet a while, then spoke.
+SOURCE: inferred","I raised my eyes. ""Oh,"" I inquired, ""start out now? I saw nothing."" He was quiet a while, then spoke.",0,stop,,0,46.95,401,2628,2026-08-12T17:27:53
+gatsby_shuf_ch08,Q23,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,recalled,"ANSWER: ""I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing,
+SOURCE: recalled","""I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing,",0,stop,,0,52.31,416,3934,2026-08-12T17:28:03
+gatsby_shuf_ch08,Q24,negative,control,negative,D,openai/gpt-5,2024-09-30,OpenAI,,,,0,length,,0,91.81,447,4096,2026-08-12T17:28:49

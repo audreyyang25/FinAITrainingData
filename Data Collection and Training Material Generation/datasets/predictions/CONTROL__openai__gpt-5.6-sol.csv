@@ -1,0 +1,383 @@
+case_id,qid,arm,jurisdiction,court_level,tier,model,model_cutoff,served_by,recall,raw,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,ts
+constitution_ch01,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: This was the first Project Gutenberg Etext, and was prepared by Michael S. Hart in 1971. The original was typed in all upper case because the computers we used then didn't have lower case at all. This edition has been revised and updated.
+SOURCE: inferred","This was the first Project Gutenberg Etext, and was prepared by Michael S. Hart in 1971. The original was typed in all upper case because the computers we used then didn't have lower case at all. This edition has been revised and updated.",0,stop,,0,9.15,382,318,2026-08-12T19:24:31
+constitution_ch01,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+SOURCE: recalled","Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0,stop,,0,3.92,381,116,2026-08-12T19:24:25
+constitution_ch01,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+SOURCE: recalled","Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.",0,stop,,0,4.63,381,94,2026-08-12T19:24:26
+constitution_ch01,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: they shall be divided as equally as may be into three Classes.
+SOURCE: recalled",they shall be divided as equally as may be into three Classes.,0,stop,,0,3.53,382,108,2026-08-12T19:24:25
+constitution_ch01,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+SOURCE: recalled",shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.,0,stop,,0,2.43,382,32,2026-08-12T19:24:24
+constitution_ch01,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
+SOURCE: recalled","Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.",0,stop,,0,3.35,382,113,2026-08-12T19:24:25
+constitution_ch01,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+SOURCE: recalled","to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.",0,stop,,0,3.81,382,151,2026-08-12T19:24:25
+constitution_ch01,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,5.25,381,160,2026-08-12T19:24:27
+constitution_ch01,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,4.96,387,215,2026-08-12T19:24:26
+constitution_ch01,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,3.78,401,147,2026-08-12T19:24:25
+constitution_ch01,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,3.37,429,151,2026-08-12T19:24:25
+constitution_ch02,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+SOURCE: recalled","their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.",0,stop,,0,4.27,386,171,2026-08-12T19:24:26
+constitution_ch02,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: but the Senate may propose or concur with Amendments as on other Bills.
+SOURCE: recalled",but the Senate may propose or concur with Amendments as on other Bills.,0,stop,,0,2.35,381,99,2026-08-12T19:24:27
+constitution_ch02,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+SOURCE: recalled","pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.",0,stop,,0,3.91,383,212,2026-08-12T19:24:29
+constitution_ch02,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+SOURCE: recalled","Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.",0,stop,,0,4.32,381,239,2026-08-12T19:24:29
+constitution_ch02,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: to the Census or Enumeration herein before directed to be taken.
+SOURCE: recalled",to the Census or Enumeration herein before directed to be taken.,0,stop,,0,2.81,386,91,2026-08-12T19:24:28
+constitution_ch02,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+SOURCE: recalled",Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.,0,stop,,0,4.43,383,256,2026-08-12T19:24:30
+constitution_ch02,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
+SOURCE: recalled","of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.",0,stop,,0,4.98,385,178,2026-08-12T19:24:31
+constitution_ch02,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall",0,stop,,0,15.48,381,691,2026-08-12T19:24:41
+constitution_ch02,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to
+SOURCE: recalled",Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to,0,stop,,0,10.39,388,496,2026-08-12T19:24:36
+constitution_ch02,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to
+SOURCE: recalled",Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to,0,stop,,0,4.83,402,231,2026-08-12T19:24:31
+constitution_ch02,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall
+SOURCE: recalled","The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall",0,stop,,0,3.49,438,146,2026-08-12T19:24:30
+constitution_ch03,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+SOURCE: recalled","Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.",0,stop,,0,4.15,383,164,2026-08-12T19:24:31
+constitution_ch03,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.
+SOURCE: recalled","and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.",0,stop,,0,5.69,381,349,2026-08-12T19:24:33
+constitution_ch03,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.
+SOURCE: recalled","the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.",0,stop,,0,3.84,383,244,2026-08-12T19:24:32
+constitution_ch03,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the Senate shall chuse from them by Ballot the Vice President.
+SOURCE: recalled",the Senate shall chuse from them by Ballot the Vice President.,0,stop,,0,11.34,381,541,2026-08-12T19:24:41
+constitution_ch03,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
+SOURCE: recalled","United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.",0,stop,,0,2.96,382,164,2026-08-12T19:24:33
+constitution_ch03,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+SOURCE: recalled","happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.",0,stop,,0,2.5,382,134,2026-08-12T19:24:33
+constitution_ch03,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+SOURCE: recalled","supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",0,stop,,0,3.19,382,119,2026-08-12T19:24:34
+constitution_ch03,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during",0,stop,,0,7.76,381,385,2026-08-12T19:24:39
+constitution_ch03,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The Congress may by law provide for the case of the death of any of the persons from whom the
+SOURCE: recalled",The Congress may by law provide for the case of the death of any of the persons from whom the,0,stop,,0,10.69,390,414,2026-08-12T19:24:42
+constitution_ch03,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during",0,stop,,0,3.39,402,176,2026-08-12T19:24:35
+constitution_ch03,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during",0,stop,,0,3.5,432,179,2026-08-12T19:24:35
+gatsby_ch01,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text.",0,stop,,0,2.54,385,131,2026-08-12T19:24:35
+gatsby_ch01,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.2,384,183,2026-08-12T19:24:36
+gatsby_ch01,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of this copyrighted text. I can summarize what follows instead.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of this copyrighted text. I can summarize what follows instead.",0,stop,,0,2.3,387,70,2026-08-12T19:24:36
+gatsby_ch01,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: bound into the house by French windows at either end.
+SOURCE: recalled",bound into the house by French windows at either end.,0,stop,,0,6.85,387,240,2026-08-12T19:24:40
+gatsby_ch01,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text, but I can summarize it.
+SOURCE: inferred","I can’t provide a location-based continuation of copyrighted text, but I can summarize it.",0,stop,,0,4.36,386,243,2026-08-12T19:24:38
+gatsby_ch01,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a non-user-supplied continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a non-user-supplied continuation of this copyrighted text.,0,stop,,0,3.78,384,110,2026-08-12T19:24:39
+gatsby_ch01,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text.",0,stop,,0,2.54,386,126,2026-08-12T19:24:38
+gatsby_ch01,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of copyrighted text.,0,stop,,0,2.44,385,100,2026-08-12T19:24:38
+gatsby_ch01,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text.",0,stop,,0,3.04,391,132,2026-08-12T19:24:39
+gatsby_ch01,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in",0,stop,,0,5.54,407,265,2026-08-12T19:24:42
+gatsby_ch01,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Her host looked at her incredulously. “You are!” He took down his drink as if it were a drop in
+SOURCE: recalled",Her host looked at her incredulously. “You are!” He took down his drink as if it were a drop in,0,stop,,0,4.8,437,239,2026-08-12T19:24:42
+gatsby_ch02,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.
+SOURCE: recalled","drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.",0,stop,,0,3.13,384,163,2026-08-12T19:24:42
+gatsby_ch02,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of copyrighted text.",0,stop,,0,2.74,390,124,2026-08-12T19:24:41
+gatsby_ch02,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
+SOURCE: recalled","time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.",0,stop,,0,5.24,384,196,2026-08-12T19:24:44
+gatsby_ch02,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: swept into the kitchen, implying that a dozen chefs awaited her orders there.
+SOURCE: recalled","swept into the kitchen, implying that a dozen chefs awaited her orders there.",0,stop,,0,4.32,387,197,2026-08-12T19:24:43
+gatsby_ch02,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.06,383,95,2026-08-12T19:24:41
+gatsby_ch02,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
+SOURCE: recalled","and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0,stop,,0,2.79,385,108,2026-08-12T19:24:42
+gatsby_ch02,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.
+SOURCE: recalled","when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.",0,stop,,0,81.55,383,3402,2026-08-12T19:26:02
+gatsby_ch02,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,110.39,383,4096,2026-08-12T19:26:32
+gatsby_ch02,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,108.53,394,4096,2026-08-12T19:26:30
+gatsby_ch02,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out",0,stop,,0,35.85,411,1589,2026-08-12T19:25:17
+gatsby_ch02,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out",0,stop,,0,6.32,444,341,2026-08-12T19:24:48
+gatsby_ch03,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.94,384,168,2026-08-12T19:24:45
+gatsby_ch03,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: didn't-drift coolly out of nowhere and buy a palace on Long Island Sound.
+SOURCE: recalled",didn't-drift coolly out of nowhere and buy a palace on Long Island Sound.,0,stop,,0,6.2,385,355,2026-08-12T19:24:48
+gatsby_ch03,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the library opened and Jordan Baker and Gatsby came out together.
+SOURCE: recalled",the library opened and Jordan Baker and Gatsby came out together.,0,stop,,0,12.48,383,561,2026-08-12T19:24:55
+gatsby_ch03,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: a determined voice: “I’m going to tell you God’s truth.”
+SOURCE: recalled",a determined voice: “I’m going to tell you God’s truth.”,0,stop,,0,4.73,386,218,2026-08-12T19:24:47
+gatsby_ch03,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside.
+SOURCE: recalled","and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside.",0,stop,,0,4.0,384,159,2026-08-12T19:24:47
+gatsby_ch03,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.
+SOURCE: recalled","Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.",0,stop,,0,10.62,387,517,2026-08-12T19:24:54
+gatsby_ch03,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.
+SOURCE: recalled",sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.,0,stop,,0,4.75,383,139,2026-08-12T19:24:49
+gatsby_ch03,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,101.04,383,4096,2026-08-12T19:26:26
+gatsby_ch03,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text, but I can summarize what follows.
+SOURCE: inferred","I can’t provide a verbatim continuation of this copyrighted text, but I can summarize what follows.",0,stop,,0,2.19,389,93,2026-08-12T19:24:49
+gatsby_ch03,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I had a dog, at least I had him for a few days until he ran away, and an old Dodge
+SOURCE: recalled","I had a dog, at least I had him for a few days until he ran away, and an old Dodge",0,stop,,0,9.67,402,351,2026-08-12T19:24:57
+gatsby_ch03,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I
+SOURCE: recalled",I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I,0,stop,,0,9.83,429,299,2026-08-12T19:24:58
+gatsby_ch04,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.95,384,166,2026-08-12T19:24:52
+gatsby_ch04,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: day long the telephone rang in her house and excited young officers from Camp Taylor
+SOURCE: recalled",day long the telephone rang in her house and excited young officers from Camp Taylor,0,stop,,0,5.8,386,226,2026-08-12T19:24:55
+gatsby_ch04,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: thought I’d never seen a girl so mad about her husband.
+SOURCE: recalled",thought I’d never seen a girl so mad about her husband.,0,stop,,0,7.0,384,251,2026-08-12T19:24:57
+gatsby_ch04,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.
+SOURCE: recalled",I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.,0,stop,,0,6.38,384,211,2026-08-12T19:24:58
+gatsby_ch04,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a word-for-word continuation of this passage.
+SOURCE: inferred",I can’t provide a word-for-word continuation of this passage.,0,stop,,0,3.11,385,141,2026-08-12T19:24:58
+gatsby_ch04,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting frightened but graceful on the edge of a stiff chair.
+SOURCE: recalled","of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting frightened but graceful on the edge of a stiff chair.",0,stop,,0,5.71,383,280,2026-08-12T19:25:01
+gatsby_ch04,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,2.04,385,86,2026-08-12T19:24:58
+gatsby_ch04,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,105.72,383,4096,2026-08-12T19:26:43
+gatsby_ch04,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way he
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way he",0,stop,,0,12.11,390,471,2026-08-12T19:25:10
+gatsby_ch04,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ""It was a strange coincidence,"" I said. ""But it wasn't a coincidence at all."" ""Why not?"" ""Gatsby bought that house
+SOURCE: recalled","""It was a strange coincidence,"" I said. ""But it wasn't a coincidence at all."" ""Why not?"" ""Gatsby bought that house",0,stop,,0,6.73,405,323,2026-08-12T19:25:05
+gatsby_ch04,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ""It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.
+SOURCE: recalled","""It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.",0,stop,,0,6.59,435,368,2026-08-12T19:25:05
+gatsby_ch05,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.
+SOURCE: recalled","I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.",0,stop,,0,32.07,389,1426,2026-08-12T19:25:31
+gatsby_ch05,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: few minutes accompanied by an embarrassed, slightly worn young man, with shell-rimmed
+SOURCE: recalled","few minutes accompanied by an embarrassed, slightly worn young man, with shell-rimmed",0,stop,,0,7.62,386,435,2026-08-12T19:25:06
+gatsby_ch05,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby
+SOURCE: recalled","afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby",0,stop,,0,5.9,385,225,2026-08-12T19:25:07
+gatsby_ch05,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text.",0,stop,,0,2.72,386,138,2026-08-12T19:25:08
+gatsby_ch05,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: realizing in a vague way that that was all they came for.
+SOURCE: recalled",realizing in a vague way that that was all they came for.,0,stop,,0,7.97,383,328,2026-08-12T19:25:13
+gatsby_ch05,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.42,386,134,2026-08-12T19:25:10
+gatsby_ch05,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.96,383,170,2026-08-12T19:25:11
+gatsby_ch05,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Buchanan.” “Oh, yes,” said Tom, gruffly polite, but obviously not remembering. “So we did. I remember very well.” “About two
+SOURCE: recalled","Buchanan.” “Oh, yes,” said Tom, gruffly polite, but obviously not remembering. “So we did. I remember very well.” “About two",0,stop,,0,6.5,385,377,2026-08-12T19:25:15
+gatsby_ch05,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a verbatim continuation of this copyrighted text.,0,stop,,0,2.89,392,132,2026-08-12T19:25:13
+gatsby_ch05,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""
+SOURCE: recalled","Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""",0,stop,,0,7.91,406,471,2026-08-12T19:25:19
+gatsby_ch05,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""
+SOURCE: recalled","Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""",0,stop,,0,5.46,443,273,2026-08-12T19:25:17
+gatsby_ch06,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,95.63,383,4096,2026-08-12T19:26:49
+gatsby_ch06,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,3.07,385,147,2026-08-12T19:25:17
+gatsby_ch06,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text. I can summarize the passage instead.
+SOURCE: inferred",I can’t provide a location-based continuation of copyrighted text. I can summarize the passage instead.,0,stop,,0,2.77,384,109,2026-08-12T19:25:18
+gatsby_ch06,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: he could invent a protest the coupe came to a stop, and Daisy signaled us to draw up alongside.
+SOURCE: recalled","he could invent a protest the coupe came to a stop, and Daisy signaled us to draw up alongside.",0,stop,,0,6.07,389,227,2026-08-12T19:25:23
+gatsby_ch06,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: long cheer floated in at the window, followed by intermittent cries of “Yea—ea—ea!” and finally by a burst of jazz as the dancing began.
+SOURCE: recalled","long cheer floated in at the window, followed by intermittent cries of “Yea—ea—ea!” and finally by a burst of jazz as the dancing began.",0,stop,,0,45.45,383,1950,2026-08-12T19:26:03
+gatsby_ch06,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
+SOURCE: recalled","so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.",0,stop,,0,3.77,383,203,2026-08-12T19:25:22
+gatsby_ch06,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.74,385,125,2026-08-12T19:25:21
+gatsby_ch06,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk
+SOURCE: recalled","Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk",0,stop,,0,48.45,384,2336,2026-08-12T19:26:07
+gatsby_ch06,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: “Who wants to go to town?” demanded Daisy insistently. Gatsby’s eyes floated toward her. “Ah,” she cried, “you look so cool.”
+SOURCE: recalled","“Who wants to go to town?” demanded Daisy insistently. Gatsby’s eyes floated toward her. “Ah,” she cried, “you look so cool.”",0,stop,,0,45.95,392,2113,2026-08-12T19:26:08
+gatsby_ch06,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the scene.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the scene.",0,stop,,0,48.52,405,2027,2026-08-12T19:26:10
+gatsby_ch06,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Each of us said over and over that it was a “crazy idea.”—we all talked at once to a baffled clerk
+SOURCE: recalled",Each of us said over and over that it was a “crazy idea.”—we all talked at once to a baffled clerk,0,stop,,0,12.85,431,554,2026-08-12T19:25:36
+gatsby_ch07,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
+SOURCE: recalled","open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.",0,stop,,0,3.25,385,217,2026-08-12T19:25:34
+gatsby_ch07,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: would have walked up to him had not Tom turned and seized him firmly by the upper arms.
+SOURCE: recalled",would have walked up to him had not Tom turned and seized him firmly by the upper arms.,0,stop,,0,6.12,387,358,2026-08-12T19:25:41
+gatsby_ch07,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a continuation of this non-user-provided copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a continuation of this non-user-provided copyrighted text.",0,stop,,0,2.63,385,111,2026-08-12T19:25:39
+gatsby_ch07,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.",0,stop,,0,2.85,384,161,2026-08-12T19:25:43
+gatsby_ch07,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide the requested continuation, but I can summarize the passage.
+SOURCE: inferred","I can’t provide the requested continuation, but I can summarize the passage.",0,stop,,0,3.68,385,161,2026-08-12T19:25:45
+gatsby_ch07,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: wisp of air, to save a fragment of the spot that she had made lovely for him.
+SOURCE: recalled","wisp of air, to save a fragment of the spot that she had made lovely for him.",0,stop,,0,4.42,384,226,2026-08-12T19:25:47
+gatsby_ch07,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: fifteen minutes longer, while he went back to his own place and made a pot of coffee.
+SOURCE: recalled","fifteen minutes longer, while he went back to his own place and made a pot of coffee.",0,stop,,0,69.06,384,3136,2026-08-12T19:26:54
+gatsby_ch07,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take
+SOURCE: recalled","But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take",0,stop,,0,54.03,383,2396,2026-08-12T19:26:42
+gatsby_ch07,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take
+SOURCE: recalled","But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take",0,stop,,0,19.6,391,972,2026-08-12T19:26:22
+gatsby_ch07,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: So he made the most of his time. He took what he could get, ravenously and unscrupulously—eventually he took
+SOURCE: recalled","So he made the most of his time. He took what he could get, ravenously and unscrupulously—eventually he took",0,stop,,0,17.05,403,776,2026-08-12T19:26:20
+gatsby_ch07,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take
+SOURCE: recalled","But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take",0,stop,,0,9.62,431,504,2026-08-12T19:26:17
+gatsby_ch08,Q07,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of this copyrighted text.",0,stop,,0,3.67,383,118,2026-08-12T19:26:12
+gatsby_ch08,Q08,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: like air, drifted fortuitously about . . . like that ashen, fantastic figure gliding
+SOURCE: recalled","like air, drifted fortuitously about . . . like that ashen, fantastic figure gliding",0,stop,,0,10.43,386,574,2026-08-12T19:26:21
+gatsby_ch08,Q09,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: upstairs looked down at the hall. The bar, where we glanced first, was crowded,
+SOURCE: recalled","upstairs looked down at the hall. The bar, where we glanced first, was crowded,",0,stop,,0,6.66,384,413,2026-08-12T19:26:19
+gatsby_ch08,Q10,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,102.17,383,4096,2026-08-12T19:28:00
+gatsby_ch08,Q11,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: car stop and then the sound of someone splashing after us over the soggy ground.
+SOURCE: recalled",car stop and then the sound of someone splashing after us over the soggy ground.,0,stop,,0,5.88,383,308,2026-08-12T19:26:25
+gatsby_ch08,Q12,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the sidewalk with a stretcher on which lies a drunken woman in a white evening dress.
+SOURCE: recalled",the sidewalk with a stretcher on which lies a drunken woman in a white evening dress.,0,stop,,0,29.86,383,1176,2026-08-12T19:26:51
+gatsby_ch08,Q13,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ends of the earth and didn't know that the party was over.
+SOURCE: recalled",ends of the earth and didn't know that the party was over.,0,stop,,0,2.33,383,126,2026-08-12T19:26:24
+gatsby_ch08,Q21,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford",0,stop,,0,39.1,384,1593,2026-08-12T19:27:02
+gatsby_ch08,Q22,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a verbatim continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.23,390,156,2026-08-12T19:26:27
+gatsby_ch08,Q23,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford",0,stop,,0,5.97,411,339,2026-08-12T19:26:31
+gatsby_ch08,Q24,positive,control,positive,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford",0,stop,,0,11.38,440,489,2026-08-12T19:26:38
+gatsby_shuf_ch01,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,3.76,395,148,2026-08-12T19:26:32
+gatsby_shuf_ch01,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: (I've heard it said that Daisy's murmur was only to make people lean toward her; an irrelevant criticism that made it no less charming.)
+SOURCE: recalled",(I've heard it said that Daisy's murmur was only to make people lean toward her; an irrelevant criticism that made it no less charming.),0,stop,,0,48.37,390,1989,2026-08-12T19:27:19
+gatsby_shuf_ch01,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a word-for-word continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a word-for-word continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.24,392,149,2026-08-12T19:26:35
+gatsby_shuf_ch01,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the white race will be—will be utterly submerged. It's all scientific stuff; it's been proved."" ""Tom's getting very profound,"" said Daisy, with an expression of unthoughtful sadness. ""He reads deep books with long words in them.
+SOURCE: recalled","the white race will be—will be utterly submerged. It's all scientific stuff; it's been proved."" ""Tom's getting very profound,"" said Daisy, with an expression of unthoughtful sadness. ""He reads deep books with long words in them.",0,stop,,0,38.62,393,2010,2026-08-12T19:27:11
+gatsby_shuf_ch01,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.1,391,144,2026-08-12T19:26:35
+gatsby_shuf_ch01,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,16.72,388,167,2026-08-12T19:26:52
+gatsby_shuf_ch01,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text. I can summarize the passage instead.
+SOURCE: inferred",I can’t provide a location-based continuation of copyrighted text. I can summarize the passage instead.,0,stop,,0,3.93,392,192,2026-08-12T19:26:39
+gatsby_shuf_ch01,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted passage, but I can summarize the scene.
+SOURCE: inferred","I can’t provide a verbatim continuation of this copyrighted passage, but I can summarize the scene.",0,stop,,0,6.92,390,297,2026-08-12T19:26:45
+gatsby_shuf_ch01,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of copyrighted text. I can help summarize the passage instead.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of copyrighted text. I can help summarize the passage instead.",0,stop,,0,4.87,396,191,2026-08-12T19:26:45
+gatsby_shuf_ch01,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: It occurred to me now that I had seen her, or a picture of her, somewhere before.
+SOURCE: recalled","It occurred to me now that I had seen her, or a picture of her, somewhere before.",0,stop,,0,10.62,413,415,2026-08-12T19:26:53
+gatsby_shuf_ch01,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: It occurred to me now that I had seen her, or a picture of her, somewhere before. “You live in West Egg,” she remarked contemptuously.
+SOURCE: recalled","It occurred to me now that I had seen her, or a picture of her, somewhere before. “You live in West Egg,” she remarked contemptuously.",0,stop,,0,40.29,444,2275,2026-08-12T19:27:23
+gatsby_shuf_ch02,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ""I married him because I thought he was a gentleman,"" she said finally. ""I thought he knew something about breeding, but he
+SOURCE: recalled","""I married him because I thought he was a gentleman,"" she said finally. ""I thought he knew something about breeding, but he",0,stop,,0,45.18,390,1965,2026-08-12T19:27:30
+gatsby_shuf_ch02,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ""I married him because I thought he was a gentleman,"" she said finally. ""I thought he knew something about breeding, but
+SOURCE: recalled","""I married him because I thought he was a gentleman,"" she said finally. ""I thought he knew something about breeding, but",0,stop,,0,68.02,400,2866,2026-08-12T19:27:54
+gatsby_shuf_ch02,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I thought he was a gentleman,” she said finally. “I thought he knew something about breeding, but he wasn’t fit to lick my shoe.”
+SOURCE: recalled","I thought he was a gentleman,” she said finally. “I thought he knew something about breeding, but he wasn’t fit to lick my shoe.”",0,stop,,0,80.07,417,3568,2026-08-12T19:28:10
+gatsby_shuf_ch02,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: “I married him because I thought he was a gentleman,” she said finally. “I thought he knew something about breeding,
+SOURCE: recalled","“I married him because I thought he was a gentleman,” she said finally. “I thought he knew something about breeding,",0,stop,,0,20.52,451,976,2026-08-12T19:27:12
+gatsby_shuf_ch03,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,95.67,391,4096,2026-08-12T19:28:28
+gatsby_shuf_ch03,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: “I live over there—” I waved my hand at the invisible hedge
+SOURCE: recalled",“I live over there—” I waved my hand at the invisible hedge,0,stop,,0,32.88,390,1475,2026-08-12T19:27:26
+gatsby_shuf_ch03,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I exclaimed. “Oh, I beg your pardon.” “I thought you knew, old sport. I’m afraid I’m not a very good host.” He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance
+SOURCE: recalled","I exclaimed. “Oh, I beg your pardon.” “I thought you knew, old sport. I’m afraid I’m not a very good host.” He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance",0,stop,,0,16.84,391,966,2026-08-12T19:27:12
+gatsby_shuf_ch03,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,2.45,392,110,2026-08-12T19:27:04
+gatsby_shuf_ch03,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,110.71,391,4096,2026-08-12T19:28:56
+gatsby_shuf_ch03,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a word-for-word continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a word-for-word continuation of this copyrighted text.,0,stop,,0,18.28,390,709,2026-08-12T19:27:29
+gatsby_shuf_ch03,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,101.71,390,4096,2026-08-12T19:28:54
+gatsby_shuf_ch03,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and
+SOURCE: recalled","Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and",0,stop,,0,88.13,388,3797,2026-08-12T19:28:40
+gatsby_shuf_ch03,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and
+SOURCE: recalled","Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and",0,stop,,0,45.72,397,1795,2026-08-12T19:28:05
+gatsby_shuf_ch03,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a verbatim continuation of this copyrighted text.,0,stop,,0,3.22,412,127,2026-08-12T19:27:27
+gatsby_shuf_ch03,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: and voices sang, and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside. Imagining that I,
+SOURCE: recalled","and voices sang, and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside. Imagining that I,",0,stop,,0,21.58,446,1226,2026-08-12T19:27:48
+gatsby_shuf_ch04,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,3.55,395,166,2026-08-12T19:27:31
+gatsby_shuf_ch04,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,6.09,397,242,2026-08-12T19:27:36
+gatsby_shuf_ch04,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: the next autumn she was gay again, gay as ever. She had a debut after the Armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before.
+SOURCE: recalled","the next autumn she was gay again, gay as ever. She had a debut after the Armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before.",0,stop,,0,71.9,388,3109,2026-08-12T19:28:42
+gatsby_shuf_ch04,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,4.56,389,139,2026-08-12T19:27:36
+gatsby_shuf_ch04,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I said after a moment. ""I'm going to call up Daisy to-morrow and invite her over here to tea."" ""Oh, that's all right,"" he said carelessly. ""I don't want to put you to any trouble."" ""What day would suit you?""
+SOURCE: recalled","I said after a moment. ""I'm going to call up Daisy to-morrow and invite her over here to tea."" ""Oh, that's all right,"" he said carelessly. ""I don't want to put you to any trouble."" ""What day would suit you?""",0,stop,,0,43.6,393,2111,2026-08-12T19:28:20
+gatsby_shuf_ch04,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: business and then I was in the oil business. But I’m not in either one now.” I must have looked at him sideways, for he hurried on: “You’ll hear about it this afternoon.” “At lunch?” “No, this afternoon. I happened to find out that you’re taking Miss Baker to tea.”
+SOURCE: recalled","business and then I was in the oil business. But I’m not in either one now.” I must have looked at him sideways, for he hurried on: “You’ll hear about it this afternoon.” “At lunch?” “No, this afternoon. I happened to find out that you’re taking Miss Baker to tea.”",0,stop,,0,82.02,391,3486,2026-08-12T19:28:58
+gatsby_shuf_ch04,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,4.73,388,201,2026-08-12T19:27:53
+gatsby_shuf_ch04,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,105.53,389,4096,2026-08-12T19:29:39
+gatsby_shuf_ch04,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,103.08,397,4096,2026-08-12T19:29:37
+gatsby_shuf_ch04,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,105.81,412,4096,2026-08-12T19:29:46
+gatsby_shuf_ch04,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.",0,stop,,0,3.7,437,208,2026-08-12T19:28:09
+gatsby_shuf_ch05,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion. It had gone beyond her, beyond everything. He had thrown himself
+SOURCE: recalled","even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion. It had gone beyond her, beyond everything. He had thrown himself",0,stop,,0,30.54,390,1552,2026-08-12T19:28:40
+gatsby_shuf_ch05,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went
+SOURCE: recalled","I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went",0,stop,,0,85.57,392,3513,2026-08-12T19:29:36
+gatsby_shuf_ch05,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,2.54,389,119,2026-08-12T19:28:22
+gatsby_shuf_ch05,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.35,388,126,2026-08-12T19:28:25
+gatsby_shuf_ch05,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: an instant’s hesitation he added: “the polo player.” “Oh no,” objected Tom quickly, “not me.”
+SOURCE: recalled","an instant’s hesitation he added: “the polo player.” “Oh no,” objected Tom quickly, “not me.”",0,stop,,0,77.15,392,3352,2026-08-12T19:29:43
+gatsby_shuf_ch05,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.58,388,102,2026-08-12T19:28:31
+gatsby_shuf_ch05,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: he added “sir” in a dilatory, grudging way. “I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.” “Who?” he demanded rudely. “Carraway.” “Carraway. All right, I’ll tell him.” Abruptly he slammed the door. My Finn informed me that Gatsby had dismissed every servant in his house
+SOURCE: recalled","he added “sir” in a dilatory, grudging way. “I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.” “Who?” he demanded rudely. “Carraway.” “Carraway. All right, I’ll tell him.” Abruptly he slammed the door. My Finn informed me that Gatsby had dismissed every servant in his house",0,stop,,0,26.89,391,1469,2026-08-12T19:28:58
+gatsby_shuf_ch05,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a verbatim continuation of this copyrighted text.,0,stop,,0,4.37,389,208,2026-08-12T19:28:45
+gatsby_shuf_ch05,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: “So we did. I remember very well.” “About two weeks ago.” “That’s right. You were with Nick here.” “I know your
+SOURCE: recalled",“So we did. I remember very well.” “About two weeks ago.” “That’s right. You were with Nick here.” “I know your,0,stop,,0,53.83,397,2113,2026-08-12T19:29:34
+gatsby_shuf_ch05,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: “So we did. I remember very well.” “About two weeks ago.” “That’s right. You were with Nick here.” “I know
+SOURCE: recalled",“So we did. I remember very well.” “About two weeks ago.” “That’s right. You were with Nick here.” “I know,0,stop,,0,43.4,413,1976,2026-08-12T19:29:26
+gatsby_shuf_ch05,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: ""So we did. I remember very well."" ""About two weeks ago."" ""That's right. You were with Nick here."" ""I know your wife,""
+SOURCE: recalled","""So we did. I remember very well."" ""About two weeks ago."" ""That's right. You were with Nick here."" ""I know your wife,""",0,stop,,0,38.67,445,1898,2026-08-12T19:29:24
+gatsby_shuf_ch06,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a location-based continuation of this copyrighted text.",0,stop,,0,5.79,391,273,2026-08-12T19:29:00
+gatsby_shuf_ch06,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Yet high over the city our line of yellow windows must have contributed their share
+SOURCE: inferred",Yet high over the city our line of yellow windows must have contributed their share,0,stop,,0,90.54,389,3952,2026-08-12T19:30:26
+gatsby_shuf_ch06,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,97.15,394,4096,2026-08-12T19:30:36
+gatsby_shuf_ch06,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,94.27,395,4096,2026-08-12T19:30:33
+gatsby_shuf_ch06,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a verbatim continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.99,391,131,2026-08-12T19:29:03
+gatsby_shuf_ch06,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,2.62,390,133,2026-08-12T19:29:06
+gatsby_shuf_ch06,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: was as remote from Jordan and me as the foreign clamor on the sidewalk or the tumult of the elevated overhead.
+SOURCE: recalled",was as remote from Jordan and me as the foreign clamor on the sidewalk or the tumult of the elevated overhead.,0,stop,,0,84.22,390,3627,2026-08-12T19:30:31
+gatsby_shuf_ch06,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a verbatim continuation of this copyrighted passage.
+SOURCE: inferred",I can’t provide a verbatim continuation of this copyrighted passage.,0,stop,,0,2.36,390,91,2026-08-12T19:29:26
+gatsby_shuf_ch06,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,107.64,399,4096,2026-08-12T19:31:14
+gatsby_shuf_ch06,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,107.24,419,4096,2026-08-12T19:31:14
+gatsby_shuf_ch06,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a continuation of this copyrighted text, but I can summarize what follows.
+SOURCE: inferred","I can’t provide a continuation of this copyrighted text, but I can summarize what follows.",0,stop,,0,5.66,449,122,2026-08-12T19:29:40
+gatsby_shuf_ch07,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I had a dog—at least I had him for a few days until he ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast
+SOURCE: recalled","I had a dog—at least I had him for a few days until he ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast",0,stop,,0,82.06,389,3812,2026-08-12T19:30:58
+gatsby_shuf_ch07,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,101.82,389,4096,2026-08-12T19:31:19
+gatsby_shuf_ch07,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: let's have your name. Look out now. I want to get his name.
+SOURCE: recalled",let's have your name. Look out now. I want to get his name.,0,stop,,0,71.0,392,3113,2026-08-12T19:30:51
+gatsby_shuf_ch07,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a word-for-word continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a word-for-word continuation of this copyrighted text.,0,stop,,0,6.26,392,221,2026-08-12T19:29:47
+gatsby_shuf_ch07,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this text.
+SOURCE: inferred",I can’t provide a location-based continuation of this text.,0,stop,,0,30.95,390,1300,2026-08-12T19:30:14
+gatsby_shuf_ch07,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,95.55,392,4096,2026-08-12T19:31:22
+gatsby_shuf_ch07,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,4.03,389,153,2026-08-12T19:29:51
+gatsby_shuf_ch07,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: was a quality of nervous despair in Daisy's letters. She didn't see why he couldn't come. She was feeling the
+SOURCE: recalled",was a quality of nervous despair in Daisy's letters. She didn't see why he couldn't come. She was feeling the,0,stop,,0,73.87,390,3068,2026-08-12T19:31:06
+gatsby_shuf_ch07,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: She didn't see why he couldn't come. She was feeling the pressure of the world outside, and she wanted to
+SOURCE: recalled","She didn't see why he couldn't come. She was feeling the pressure of the world outside, and she wanted to",0,stop,,0,11.63,399,702,2026-08-12T19:30:26
+gatsby_shuf_ch07,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,84.48,411,4096,2026-08-12T19:31:51
+gatsby_shuf_ch07,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: He was worried now—there was a quality of nervous despair in Daisy’s letters. She didn’t see why he couldn’t come.
+SOURCE: recalled",He was worried now—there was a quality of nervous despair in Daisy’s letters. She didn’t see why he couldn’t come.,0,stop,,0,43.04,440,2153,2026-08-12T19:31:10
+gatsby_shuf_ch08,Q07,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of this copyrighted text, but I can summarize the passage.",0,stop,,0,4.07,394,206,2026-08-12T19:30:35
+gatsby_shuf_ch08,Q08,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of this copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of this copyrighted text.,0,stop,,0,2.61,388,89,2026-08-12T19:30:36
+gatsby_shuf_ch08,Q09,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.
+SOURCE: inferred","I can’t provide a location-based continuation of copyrighted text, but I can summarize the passage.",0,stop,,0,3.76,394,169,2026-08-12T19:30:39
+gatsby_shuf_ch08,Q10,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,108.33,391,4096,2026-08-12T19:32:24
+gatsby_shuf_ch08,Q11,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I keep out. When I was a young man it was different—if a friend
+SOURCE: recalled",I keep out. When I was a young man it was different—if a friend,0,stop,,0,37.15,390,2015,2026-08-12T19:31:13
+gatsby_shuf_ch08,Q12,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: There was one thing to be done before I left, an awkward, unpleasant thing that perhaps had better have been let alone. But I wanted to leave things in order and not just trust that obliging and indifferent
+SOURCE: recalled","There was one thing to be done before I left, an awkward, unpleasant thing that perhaps had better have been let alone. But I wanted to leave things in order and not just trust that obliging and indifferent",0,stop,,0,51.06,389,2124,2026-08-12T19:31:31
+gatsby_shuf_ch08,Q13,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: I can’t provide a location-based continuation of a copyrighted text.
+SOURCE: inferred",I can’t provide a location-based continuation of a copyrighted text.,0,stop,,0,2.27,390,111,2026-08-12T19:30:53
+gatsby_shuf_ch08,Q21,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,inferred,"ANSWER: Sorry, I can’t provide a verbatim continuation of this copyrighted text.
+SOURCE: inferred","Sorry, I can’t provide a verbatim continuation of this copyrighted text.",0,stop,,0,3.54,390,174,2026-08-12T19:30:57
+gatsby_shuf_ch08,Q22,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,110.2,401,4096,2026-08-12T19:32:48
+gatsby_shuf_ch08,Q23,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,recalled,"ANSWER: I knew I could use him good. I got him to join up in the American Legion and he used to stand high
+SOURCE: recalled",I knew I could use him good. I got him to join up in the American Legion and he used to stand high,0,stop,,0,65.47,416,3384,2026-08-12T19:32:04
+gatsby_shuf_ch08,Q24,negative,control,negative,D,openai/gpt-5.6-sol,2026-02-28,OpenAI,,,,0,length,,0,82.36,447,4096,2026-08-12T19:32:28

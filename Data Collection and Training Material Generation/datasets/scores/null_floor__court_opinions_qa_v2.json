@@ -1,0 +1,237 @@
+{
+ "generated": "2026-08-13T15:17:44",
+ "n_gold_answers": 2074,
+ "pooled": {
+  "none": "all",
+  "n": 400,
+  "exact": 0.02,
+  "prefix_tok": 0.1,
+  "longest_run": 0.9,
+  "rouge_l": 0.11,
+  "token_f1": 0.131,
+  "char_ratio": 0.315,
+  "gold_tok": 19.5
+ },
+ "by_question": [
+  {
+   "qid": "Q01",
+   "n": 20,
+   "exact": 0.15,
+   "prefix_tok": 0.5,
+   "longest_run": 0.6,
+   "rouge_l": 0.189,
+   "token_f1": 0.189,
+   "char_ratio": 0.391,
+   "gold_tok": 3.0
+  },
+  {
+   "qid": "Q02",
+   "n": 20,
+   "exact": 0.25,
+   "prefix_tok": 0.2,
+   "longest_run": 0.2,
+   "rouge_l": 0.25,
+   "token_f1": 0.25,
+   "char_ratio": 0.75,
+   "gold_tok": 1
+  },
+  {
+   "qid": "Q03",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1.1,
+   "rouge_l": 0.184,
+   "token_f1": 0.19,
+   "char_ratio": 0.318,
+   "gold_tok": 5.6
+  },
+  {
+   "qid": "Q04",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 0.3,
+   "rouge_l": 0.1,
+   "token_f1": 0.1,
+   "char_ratio": 0.66,
+   "gold_tok": 3
+  },
+  {
+   "qid": "Q07",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 0.7,
+   "rouge_l": 0.066,
+   "token_f1": 0.08,
+   "char_ratio": 0.261,
+   "gold_tok": 17.7
+  },
+  {
+   "qid": "Q08",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.074,
+   "token_f1": 0.086,
+   "char_ratio": 0.26,
+   "gold_tok": 19.4
+  },
+  {
+   "qid": "Q09",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.8,
+   "rouge_l": 0.087,
+   "token_f1": 0.098,
+   "char_ratio": 0.276,
+   "gold_tok": 18.3
+  },
+  {
+   "qid": "Q10",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.091,
+   "token_f1": 0.124,
+   "char_ratio": 0.277,
+   "gold_tok": 18.4
+  },
+  {
+   "qid": "Q11",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1,
+   "rouge_l": 0.1,
+   "token_f1": 0.111,
+   "char_ratio": 0.261,
+   "gold_tok": 18.9
+  },
+  {
+   "qid": "Q12",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.071,
+   "token_f1": 0.099,
+   "char_ratio": 0.275,
+   "gold_tok": 18.4
+  },
+  {
+   "qid": "Q13",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.093,
+   "token_f1": 0.13,
+   "char_ratio": 0.268,
+   "gold_tok": 22.8
+  },
+  {
+   "qid": "Q14",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1.4,
+   "rouge_l": 0.122,
+   "token_f1": 0.193,
+   "char_ratio": 0.226,
+   "gold_tok": 60.5
+  },
+  {
+   "qid": "Q16",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.2,
+   "longest_run": 1.5,
+   "rouge_l": 0.143,
+   "token_f1": 0.192,
+   "char_ratio": 0.263,
+   "gold_tok": 36.0
+  },
+  {
+   "qid": "Q17",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 0.9,
+   "rouge_l": 0.08,
+   "token_f1": 0.099,
+   "char_ratio": 0.224,
+   "gold_tok": 27.9
+  },
+  {
+   "qid": "Q19",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1,
+   "rouge_l": 0.093,
+   "token_f1": 0.124,
+   "char_ratio": 0.231,
+   "gold_tok": 25.9
+  },
+  {
+   "qid": "Q20",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 0.8,
+   "rouge_l": 0.072,
+   "token_f1": 0.084,
+   "char_ratio": 0.284,
+   "gold_tok": 12.2
+  },
+  {
+   "qid": "Q21",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.1,
+   "longest_run": 1.1,
+   "rouge_l": 0.099,
+   "token_f1": 0.121,
+   "char_ratio": 0.267,
+   "gold_tok": 20.4
+  },
+  {
+   "qid": "Q22",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1,
+   "rouge_l": 0.091,
+   "token_f1": 0.123,
+   "char_ratio": 0.259,
+   "gold_tok": 20.2
+  },
+  {
+   "qid": "Q23",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0.2,
+   "longest_run": 1.1,
+   "rouge_l": 0.102,
+   "token_f1": 0.125,
+   "char_ratio": 0.274,
+   "gold_tok": 20.2
+  },
+  {
+   "qid": "Q24",
+   "n": 20,
+   "exact": 0,
+   "prefix_tok": 0,
+   "longest_run": 1,
+   "rouge_l": 0.082,
+   "token_f1": 0.101,
+   "char_ratio": 0.267,
+   "gold_tok": 20.2
+  }
+ ]
+}

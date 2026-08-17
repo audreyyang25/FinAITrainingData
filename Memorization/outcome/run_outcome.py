@@ -36,6 +36,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 BASE = os.path.join(REPO, "Data Collection and Training Material Generation")
 QA = os.path.join(BASE, "datasets", "court_opinions_qa_v2.csv")
 OUT_DIR = os.path.join(BASE, "datasets", "outcomes")
+PREDICT_DIR = os.path.join(BASE, "datasets", "outcomes_predict")
 
 SYSTEM = (
     "You are being tested on your knowledge of specific published US court opinions. "
@@ -49,6 +50,26 @@ SYSTEM = (
     "Do not pad the answer with general background about the area of law.\n\n"
     "If you do not know this specific case, you may reply with: UNKNOWN\n"
     "If you are unsure, you can state your lack of certainty but still give it your best attempt."
+)
+
+# --predict swaps the escape hatch for a forecast. Built from SYSTEM by dropping
+# its last paragraph, so the task definition, the two-part output shape and the
+# "what the court actually held" instruction stay byte-identical -- only the
+# instruction about not knowing changes, which is the whole manipulation.
+#
+# Paired with --arm post_cutoff this measures something the default run cannot:
+# every case is provably outside training data, so a score here is not degraded
+# recall, it is prediction from the caption, court, posture and base rates. US
+# appellate courts affirm 75-80% of the time, so the OUTCOME half has a high
+# guessable floor -- the REASONING half is where a real signal would show, which
+# is why the judge scores them separately.
+SYSTEM_PREDICT = SYSTEM.rsplit("\n\n", 1)[0] + (
+    "\n\nYou will not recognize many of these cases: some were decided after your "
+    "training data ends. Do not reply UNKNOWN and do not decline. If you do not "
+    "remember the case, or doubt it exists, predict what the court would most likely "
+    "have held and why — reason from the caption, the court, the procedural posture, "
+    "and how cases of this kind usually come out. Give the same two things in the "
+    "same form either way."
 )
 
 
@@ -74,8 +95,17 @@ COLS = ["case_id", "model", "model_cutoff", "arm", "date_filed", "caption",
 
 def run_one(model: str, cases: list, meta: dict, args) -> None:
     slug = model.replace("/", "__").replace(":", "_")
-    out_path = args.out or os.path.join(OUT_DIR, f"{slug}.csv")
-    os.makedirs(OUT_DIR, exist_ok=True)
+    # Arm is filtered HERE, not in main(), because the cutoffs differ per model:
+    # a case filed 2026-01-15 is post-cutoff for GPT-5 and pre-cutoff for Fable 5.
+    # Filtering once against a single cutoff would silently mix the arms.
+    if args.arm:
+        cases = [c for c in cases if arm(c["date_filed"], model) == args.arm]
+    # Predictions land in their own directory so the judge's default glob keeps
+    # the two experiments apart -- one judged CSV per experiment, never mixed.
+    out_dir = PREDICT_DIR if args.predict else OUT_DIR
+    prefix = "PREDICT__" if args.predict else ""
+    out_path = args.out or os.path.join(out_dir, f"{prefix}{slug}.csv")
+    os.makedirs(out_dir, exist_ok=True)
 
     done = set()
     if os.path.exists(out_path) and not args.force:
@@ -89,7 +119,9 @@ def run_one(model: str, cases: list, meta: dict, args) -> None:
         done = {r["case_id"] for r in keep}
     todo = [c for c in cases if c["case_id"] not in done]
 
-    print(f"\n=== {model}   cutoff {CUTOFF.get(model,'?')}")
+    print(f"\n=== {model}   cutoff {CUTOFF.get(model,'?')}"
+          f"{'   [PREDICT]' if args.predict else ''}"
+          f"{f'   arm={args.arm}' if args.arm else ''}")
     print(f"    {len(cases)} cases, {len(done)} done, {len(todo)} to query -> {out_path}")
     if args.dry_run:
         for c in todo[:2]:
@@ -109,7 +141,8 @@ def run_one(model: str, cases: list, meta: dict, args) -> None:
         nonlocal n_ok, n_err
         cid = c["case_id"]
         m = meta.get(cid, {})
-        res = providers.call(model, SYSTEM, build_user(cid, m),
+        res = providers.call(model, SYSTEM_PREDICT if args.predict else SYSTEM,
+                             build_user(cid, m),
                              max_tokens=args.max_tokens, temperature=0.0,
                              reasoning={"enabled": False} if args.reasoning_off else None)
         row = dict(case_id=cid, model=model, model_cutoff=CUTOFF.get(model, ""),
@@ -150,6 +183,12 @@ def main():
     ap.add_argument("--reasoning-off", action="store_true", default=True,
                     help="disable test-time reasoning (default; keeps budgets equal "
                          "across models, which is otherwise a confound)")
+    ap.add_argument("--predict", action="store_true",
+                    help="swap the UNKNOWN escape hatch for a forecast; writes to\n"
+                         "datasets/outcomes_predict/PREDICT__<model>.csv")
+    ap.add_argument("--arm", choices=["pre_cutoff", "post_cutoff"],
+                    help="restrict to one arm, resolved per model against that\n"
+                         "model's own cutoff")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")

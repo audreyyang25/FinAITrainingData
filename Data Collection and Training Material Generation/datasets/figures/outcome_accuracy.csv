@@ -1,0 +1,15 @@
+condition,model,label,n_graded,n_attempted,n_declined,outcome,reasoning,combined,dispo_hit_pct,baseline_pct,modal_disposition
+pre_cutoff_recall,openai/gpt-5,GPT-5,90,66,24,0.559,0.364,0.462,50.0,46.9,mixed
+pre_cutoff_recall,anthropic/claude-opus-4,Claude Opus 4,93,9,84,0.611,0.411,0.511,33.3,46.9,mixed
+pre_cutoff_recall,google/gemini-2.5-pro,Gemini 2.5 Pro,93,86,7,0.397,0.184,0.291,37.2,46.9,mixed
+pre_cutoff_recall,openai/gpt-5.6-sol,GPT-5.6 Sol,104,80,24,0.647,0.539,0.593,58.8,46.9,mixed
+pre_cutoff_recall,anthropic/claude-fable-5,Claude Fable 5,103,94,9,0.736,0.595,0.665,69.1,46.9,mixed
+pre_cutoff_recall,google/gemini-3.1-pro-preview,Gemini 3.1 Pro,93,66,27,0.64,0.536,0.588,48.5,46.9,mixed
+pre_cutoff_recall,ALL,POOLED,576,401,175,0.598,0.444,0.521,52.9,46.9,mixed
+post_cutoff_predict,openai/gpt-5,GPT-5,45,45,0,0.239,0.076,0.157,28.9,36.2,affirmed
+post_cutoff_predict,anthropic/claude-opus-4,Claude Opus 4,43,43,0,0.401,0.058,0.23,41.9,36.2,affirmed
+post_cutoff_predict,google/gemini-2.5-pro,Gemini 2.5 Pro,43,37,6,0.365,0.054,0.209,51.4,36.2,affirmed
+post_cutoff_predict,openai/gpt-5.6-sol,GPT-5.6 Sol,32,32,0,0.414,0.206,0.31,40.6,36.2,affirmed
+post_cutoff_predict,anthropic/claude-fable-5,Claude Fable 5,32,32,0,0.43,0.209,0.32,50.0,36.2,affirmed
+post_cutoff_predict,google/gemini-3.1-pro-preview,Gemini 3.1 Pro,43,43,0,0.407,0.098,0.252,46.5,36.2,affirmed
+post_cutoff_predict,ALL,POOLED,238,232,6,0.371,0.109,0.24,42.7,36.2,affirmed

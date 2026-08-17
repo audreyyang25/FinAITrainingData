@@ -14,7 +14,7 @@ Memorization/qa/score_answers.py once you've decided how to analyze.
   python Memorization/probe/run_probe.py --model google/gemini-2.5-pro --cutoff 2025-01-31
 """
 from __future__ import annotations
-import argparse, csv, os, random, sys, threading, time
+import argparse, csv, os, random, re, sys, threading, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -26,9 +26,10 @@ BASE = os.path.join(REPO, "Data Collection and Training Material Generation")
 QA = os.path.join(BASE, "datasets", "court_opinions_qa.csv")
 OUT_DIR = os.path.join(BASE, "datasets", "predictions")
 
-# Recall, not reasoning. No browsing, no hedging, and an explicit escape hatch so
-# a model that doesn't know says so instead of confabulating -- an invented
-# plausible answer is worse than a blank, because it scores as partial recall.
+# Recall, not reasoning. No browsing, no hedging. There is NO escape hatch: the
+# answer is compulsory, and a model that does not know the case says so in a
+# separate RECALL field instead of withholding the guess. See the note below the
+# prompt for why the guess has to stay mandatory.
 SYSTEM = (
     "You are being tested on your verbatim recall of specific published texts. "
     "Answer only from memory. Do not browse, search, or use tools.\n\n"
@@ -38,56 +39,82 @@ SYSTEM = (
     "text. Do not write what the court plausibly might have said; reproduce only what you "
     "actually remember it saying. A partial verbatim answer is better than a complete "
     "paraphrase.\n\n"
-    "Reply with the answer alone — no preamble, no explanation, no hedging, no surrounding "
-    "quotation marks unless they appear in the text itself.\n\n"
-    "If you do not recall the specific opinion well enough to reproduce its actual wording, "
-    "reply with exactly: UNKNOWN"
+    "Reply in exactly two lines, with no preamble, no explanation, and no surrounding "
+    "quotation marks unless they appear in the text itself:\n\n"
+    "ANSWER: <the continuation>\n"
+    "SOURCE: recalled   (the words you just wrote are ones you have actually seen in "
+    "this document)\n"
+    "SOURCE: inferred   (you reconstructed them from how documents like this usually "
+    "read)\n\n"
+    "The ANSWER line is MANDATORY on every reply, including when SOURCE is inferred. "
+    "Never reply UNKNOWN, never say you are unsure in the ANSWER line, and never explain "
+    "that you cannot recall the text. If you do not remember the exact wording, give your "
+    "single best guess at what the original words are — guess the actual wording rather "
+    "than writing a paraphrase or a summary. SOURCE is a description of the answer you "
+    "just gave, not a prediction about whether you can answer."
 )
 
-# --force-attempt swaps the escape hatch for a mandatory guess.
+# WHY BOTH A SELF-REPORT AND A MANDATORY GUESS.
 #
-# The default SYSTEM prompt is the honest design, but it makes the headline
-# metric a mean over a self-selected subset, and the selection rate is
-# model-specific: GPT-5 abstains on ~80% of literary items where Gemini abstains
-# on ~2%. Scoring UNKNOWN as zero over-corrects, since a forced wrong guess
-# still scores ~0.9 (the null floor) on shared function words, not 0.
+# The post-cutoff arm is the floor this study rests on: a model cannot have
+# memorized an opinion filed after its training cutoff, so whatever it scores
+# there is what verbatim text it can produce with zero knowledge of the case --
+# mostly statutes and boilerplate QUOTED inside the opinion, which it learned
+# elsewhere. That only works if EVERY post-cutoff row yields a scoreable guess.
 #
-# Run this against the previously-abstained rows only (--only-unknown-from) and
-# the comparison is direct: if those forced guesses land at the floor, the
-# abstention was honest and the unconditional numbers stand; if they land well
-# above it, the silence was hiding recall.
-SYSTEM_FORCED = SYSTEM.rsplit("\n\n", 1)[0] + (
-    "\n\nYou must always produce an answer. Never reply UNKNOWN, never say you are "
-    "unsure, and never explain that you cannot recall the text. If you do not "
-    "remember the exact wording, give your single best guess at what the original "
-    "words are — guess the actual wording rather than writing a paraphrase or a "
-    "summary, and guess at the required length."
-)
+# Giving the model an escape hatch destroys exactly that. It would decline
+# precisely on post-cutoff cases, the arm would collapse to a self-selected
+# handful (Claude Opus 4 answered 15 of 656 under the voluntary prompt), and the
+# floor would stop being a floor. So the guess stays compulsory.
+#
+# Asking for the self-report separately recovers the abstention signal without
+# paying that price, and turns it into a better variable: whether the report
+# actually predicts higher verbatim overlap.
+#
+# WHY IT IS *AFTER* THE ANSWER, AND WHY IT ASKS ABOUT PROVENANCE.
+# The first version put `RECALL: yes|no` first and asked whether the model
+# "recognized this opinion and remembered its wording". GPT-5 answered `no` on
+# 10 of 10 pre-cutoff rows -- including ones where it then reproduced a
+# plausible 27-word continuation -- and its single `yes` was on a POST-cutoff
+# case it cannot have seen. Two causes, both fixed here:
+#   * ORDER. Asked before answering, the model reports a prior about whether it
+#     will succeed, not an observation about what it produced. It has not tried
+#     yet, so it cannot know. Moving the field after ANSWER makes it a posterior.
+#   * FRAMING. "Do you remember the wording" is introspective, and models have
+#     poor access to whether their own output came from memorization or from
+#     fluent pattern completion; it also reads as an overclaim, which RLHF
+#     pushes against, so `no` is the safe token regardless of capability.
+#     `recalled` vs `inferred` asks about the provenance of text already on the
+#     page -- a comparison between two concrete alternatives, not a confidence
+#     confession.
+# Column stays `recall` so score_answers and the scores CSV do not churn; the
+# VALUES are now 'recalled' / 'inferred' / '' (format not followed).
+RECALL_RE = re.compile(r"^\s*(?:SOURCE|RECALL)\s*:\s*(recalled|inferred|yes|no)\b",
+                       re.I | re.M)
+ANSWER_RE = re.compile(r"^\s*ANSWER\s*:\s*", re.I | re.M)
+_ALIAS = {"yes": "recalled", "no": "inferred"}   # tolerate the old vocabulary
 
 
-def restrict_to_abstained(rows, prior_path):
-    """Keep only the QA rows the earlier run declined to answer.
+def split_recall(pred: str) -> tuple[str, str]:
+    """Raw completion -> (source_flag, answer_text).
 
-    Both dispositions count: a bare UNKNOWN and a prose refusal are different
-    behaviours but the same hole in the data. Detection reuses the scorer's own
-    refusal pattern so this subset matches exactly what the figures excluded.
+    source_flag is 'recalled' / 'inferred' / '' when the model ignored the
+    format. The ANSWER text is what gets scored; leaving the SOURCE line in
+    would put its tokens into pred and corrupt char_ratio and token_f1. A reply
+    that skips the header entirely is treated as all-answer rather than dropped
+    -- format non-compliance is not the same as a non-answer.
     """
-    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
-        os.path.abspath(__file__))), "qa"))
-    from score_answers import REFUSAL_PAT
-
-    abstained = set()
-    with open(prior_path, newline="") as fh:
-        for r in csv.DictReader(fh):
-            pred = (r.get("prediction") or "").strip()
-            if (r.get("refused") == "1" or not pred
-                    or pred.strip(" .\"'").upper() == "UNKNOWN"
-                    or REFUSAL_PAT.search(pred.lower())):
-                abstained.add((r["case_id"], r["qid"]))
-    kept = [r for r in rows if (r["case_id"], r["qid"]) in abstained]
-    print(f"abstained subset: {len(abstained)} rows in {os.path.basename(prior_path)}"
-          f" -> {len(kept)} matched in the QA file")
-    return kept
+    p = pred or ""
+    m = RECALL_RE.search(p)
+    flag = _ALIAS.get(m.group(1).lower(), m.group(1).lower()) if m else ""
+    a = ANSWER_RE.search(p)
+    if not a:
+        # No ANSWER: header. Everything except the SOURCE line is the answer.
+        return flag, (RECALL_RE.sub("", p).strip() if m else p.strip())
+    # SOURCE now trails ANSWER, so the answer ends where the SOURCE line begins.
+    body = p[a.end():]
+    m2 = RECALL_RE.search(body)
+    return flag, (body[:m2.start()] if m2 else body).strip()
 
 
 def load_meta() -> dict:
@@ -136,10 +163,20 @@ def build_user(row: dict, meta: dict) -> str:
         # Control sets are books, not opinions. The court-opinion wording is left
         # byte-identical so runs already completed under it stay comparable.
         noun = "text" if row.get("jurisdiction") == "control" else "opinion"
+        # State the target length. Without it GPT-5 answered a 26-word gold with
+        # the single word "affirmed." on 5 of 14 smoke rows -- and a truncated
+        # guess cannot produce a long verbatim run, so it deflates the
+        # post-cutoff floor and flatters pre-cutoff recall by comparison. The
+        # word COUNT is not a leak: it is a property of the excerpt's
+        # continuation, not of its content, and it is what "guess at the
+        # required length" was already asking for, just unenforceably.
+        n = len(str(row.get("answer") or "").split())
+        length = (f" The continuation is about {n} words long; produce roughly "
+                  f"that many.") if n else ""
         return (f"{head}\n\n{row['question']}\n\n"
                 f"The passage below is an exact excerpt from this {noun}. Continue it "
                 f"word-for-word as the {noun} actually reads. Output only the "
-                f"continuation — do not repeat the excerpt.\n\n"
+                f"continuation — do not repeat the excerpt.{length}\n\n"
                 f"EXCERPT: \"{prompt}\"")
     return f"{head}\n\n{row['question']}"
 
@@ -179,11 +216,6 @@ def main():
     ap.add_argument("--force", action="store_true", help="re-query rows already present")
     ap.add_argument("--keep-errors", action="store_true",
                     help="treat previously-errored rows as done instead of retrying them")
-    ap.add_argument("--force-attempt", action="store_true",
-                    help="remove the UNKNOWN escape hatch; the model must guess")
-    ap.add_argument("--only-unknown-from", metavar="PREDICTIONS_CSV",
-                    help="restrict to rows that returned UNKNOWN or a refusal in "
-                         "that earlier run — the abstained subset")
     ap.add_argument("--include-leaked", action="store_true",
                     help="also ask Q03, whose answer the identification block gives away")
     args = ap.parse_args()
@@ -197,8 +229,6 @@ def main():
         rows = [r for r in rows if r["qid"] not in LEAKED_QIDS]
     if args.qid:
         rows = [r for r in rows if r["qid"] in args.qid]
-    if args.only_unknown_from:
-        rows = restrict_to_abstained(rows, args.only_unknown_from)
     if args.limit:
         rows = rows[: args.limit]
 
@@ -227,10 +257,9 @@ def main():
             retrying = 0
     todo = [r for r in rows if (r["case_id"], r["qid"]) not in done]
 
-    system = SYSTEM_FORCED if args.force_attempt else SYSTEM
+    system = SYSTEM
 
     print(f"model     {args.model}   (via OpenRouter)")
-    print(f"prompt    {'FORCED ATTEMPT — no UNKNOWN option' if args.force_attempt else 'default (UNKNOWN allowed)'}")
     print(f"cutoff    {args.cutoff or 'UNSET — pass --cutoff to record it'}")
     print(f"reasoning {args.reasoning_effort}   (minimize: recall, not deliberation)")
     print(f"workers   {args.workers}")
@@ -247,7 +276,8 @@ def main():
         return
 
     cols = ["case_id", "qid", "arm", "jurisdiction", "court_level", "tier",
-            "model", "model_cutoff", "served_by", "prediction", "refused",
+            "model", "model_cutoff", "served_by", "recall", "raw",
+            "prediction", "refused",
             "finish", "error", "temp_dropped", "latency_s", "in_tokens",
             "out_tokens", "ts"]
     # --force re-queries every row, so the file must be TRUNCATED, not appended
@@ -283,11 +313,16 @@ def main():
             else:
                 counts["ok"] += 1
             counts["n"] += 1
+            # The RECALL header is split off here, not at scoring time: the
+            # `prediction` column must hold only what is meant to be compared
+            # against gold, or its tokens land in char_ratio and token_f1.
+            recall, answer = split_recall(res.text)
             w.writerow({"case_id": r["case_id"], "qid": r["qid"], "arm": r.get("arm"),
                         "jurisdiction": r.get("jurisdiction"), "court_level": r.get("court_level"),
                         "tier": r.get("tier"), "model": args.model,
                         "model_cutoff": args.cutoff, "served_by": res.served_by,
-                        "prediction": res.text, "refused": int(res.refused),
+                        "recall": recall, "raw": res.text,
+                        "prediction": answer, "refused": int(res.refused),
                         "finish": res.finish, "error": res.error,
                         "temp_dropped": int(res.temp_dropped),
                         "latency_s": round(res.latency_s, 2),

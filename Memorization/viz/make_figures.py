@@ -6,7 +6,6 @@ Court figures are skipped with a note if those runs have not happened yet, so
 this is safe to run at any point.
 
   python Memorization/viz/make_figures.py
-  python Memorization/viz/make_figures.py --dark
 
 Design notes (the parts that are decisions, not taste):
   * Form before color. Ch.1 is magnitude across nominal sources -> sorted
@@ -30,21 +29,59 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 BASE = os.path.join(REPO, "Data Collection and Training Material Generation")
 SCORES = os.path.join(BASE, "datasets", "scores")
 FIGS = os.path.join(BASE, "datasets", "figures")
-NULL_FLOOR = 1.0        # longest_run, from null_floor.json (v2 question set;
-                        # the earlier 0.9 was measured on the v1 set, which still
-                        # had Q05/Q06/Q15/Q18 in it)
+NULL_FLOOR = 1.0        # longest_run, gold-vs-gold. Recomputed 2026-08-13 on the
+                        # federal-only corpus (106 cases) and the 3-work control
+                        # set: court tier-D mean 0.99, controls pooled 1.00 --
+                        # see scores/null_floor__*.json. Unchanged from the old
+                        # 136-case corpus, so figures stay comparable.
+                        # NOT the operative floor for court rows: see the
+                        # post-cutoff tick marks in c1_headline.
 
 LIGHT = dict(surface="#fcfcfb", ink="#0b0b0b", ink2="#52514e", grid="#e3e2de",
              s1="#2a78d6", s2="#eb6834", s3="#1baf7a")
-DARK = dict(surface="#1a1a19", ink="#ffffff", ink2="#c3c2b7", grid="#3a3a37",
-            s1="#3987e5", s2="#d95926", s3="#199e70")
-
-WORK_LABEL = {"constitution": "US Constitution", "gatsby": "The Great Gatsby",
-              "pride": "Pride and Prejudice", "mobydick": "Moby-Dick",
+# Three controls for the six-model run: Gatsby positive, Gatsby scrambled
+# negative, Constitution as the refusal-proof positive. The Constitution earns
+# its place because Claude Opus 4 refused all 88 Gatsby items in the voluntary
+# run -- without it, the Claude models have no working positive control and a
+# null becomes indistinguishable from a broken harness.
+# Pride/Moby-Dick were cut; their questions live on in controls_qa_all5.csv, and
+# the Gutenberg sources are NOT in the repo, so restoring one means re-downloading.
+WORK_LABEL = {"constitution": "US Constitution",
+              "gatsby": "The Great Gatsby",
               "gatsby_shuf": "Gatsby, scrambled"}
-MODEL_LABEL = {"anthropic__claude-opus-4": "Claude Opus 4",
-               "google__gemini-2.5-pro": "Gemini 2.5 Pro",
-               "openai__gpt-5": "GPT-5"}
+# ---------------------------------------------------------------- model registry
+# One source of truth, derived from the outcome probe's TARGETS so the two
+# experiments cannot drift apart on ids, labels, or cutoffs.
+#
+# COLOR ENCODES FAMILY, ALPHA THE GENERATION. Six models would otherwise need a
+# six-hue categorical palette, and every hue has to clear the all-pairs CVD gate
+# in both light and dark -- s1/s2/s3 are already validated and finding three more
+# is a real search. Family hue + generation alpha keeps six models inside three
+# validated slots, and the comparison that matters is within-family anyway
+# (Opus 4 -> Fable 5, GPT-5 -> 5.6 Sol, 2.5 Pro -> 3.1 Pro). Same decision, and
+# the same reasoning, as the PAIRS block in make_outcome_figures.py.
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
+    os.path.abspath(__file__))), "outcome"))
+from models import LABEL as _OUTCOME_LABEL           # noqa: E402
+
+
+def model_slug(mid: str) -> str:
+    """OpenRouter id -> the slug run_probe.py bakes into output filenames."""
+    return mid.replace("/", "__").replace(":", "_")
+
+
+# Older generation first inside each pair; this is also the bar order.
+PAIRS = [("anthropic", "s1", ["anthropic/claude-opus-4", "anthropic/claude-fable-5"]),
+         ("openai",    "s2", ["openai/gpt-5", "openai/gpt-5.6-sol"]),
+         ("google",    "s3", ["google/gemini-2.5-pro", "google/gemini-3.1-pro-preview"])]
+MODELS = [model_slug(m) for _, _, ms in PAIRS for m in ms]
+SLOTS = [s for _, s, ms in PAIRS for _ in ms]
+SLOT = dict(zip(MODELS, SLOTS))
+# Older at reduced alpha, newer at full strength: same family, later generation
+# is the headline. Never a second hue -- that would imply a second category.
+ALPHA = {model_slug(m): (0.55 if i == 0 else 1.0)
+         for _, _, ms in PAIRS for i, m in enumerate(ms)}
+MODEL_LABEL = {model_slug(m): _OUTCOME_LABEL[m] for _, _, ms in PAIRS for m in ms}
 
 
 def load(tag):
@@ -252,9 +289,8 @@ def fig_disposition(C, ctrl, court):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dark", action="store_true", help="render on the dark surface")
     args = ap.parse_args()
-    C = DARK if args.dark else LIGHT
+    C = LIGHT
 
     ctrl = load("controls")
     court = load("court_opinions_v2")

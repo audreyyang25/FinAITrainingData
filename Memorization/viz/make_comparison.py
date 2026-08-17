@@ -2,7 +2,6 @@
 """Cross-model figures: three models, control texts and court opinions together.
 
   python Memorization/viz/make_comparison.py
-  python Memorization/viz/make_comparison.py --dark
 
 Design notes (the parts that are decisions, not taste):
 
@@ -26,8 +25,9 @@ from __future__ import annotations
 import argparse, csv, glob, os, statistics, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from make_figures import (LIGHT, DARK, WORK_LABEL, MODEL_LABEL, NULL_FLOOR,
-                          FIGS, SCORES, load, attempts, mean, style)
+from make_figures import (LIGHT, WORK_LABEL, MODEL_LABEL, NULL_FLOOR,
+                          FIGS, SCORES, load, attempts, mean, style,
+                          PAIRS, MODELS, SLOTS, SLOT, ALPHA)
 
 
 def disp(r):
@@ -41,13 +41,13 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# Fixed model order. Slot assignment is positional and must not change between
-# figures -- the legend in C1 has to keep meaning the same thing in C3.
-MODELS = ["anthropic__claude-opus-4", "google__gemini-2.5-pro", "openai__gpt-5"]
-SLOTS = ["s1", "s2", "s3"]
+# MODELS / SLOTS / SLOT / ALPHA / PAIRS come from make_figures -- one registry,
+# derived from the outcome probe's TARGETS. Order and slot assignment must not
+# change between figures: the legend in C1 has to keep meaning the same thing
+# in C3. Six models, three family hues, generation carried by alpha.
 
-CONDS = [("constitution", "US Constitution"), ("gatsby", "The Great Gatsby"),
-         ("pride", "Pride and Prejudice"), ("mobydick", "Moby-Dick"),
+CONDS = [("constitution", "US Constitution"),
+         ("gatsby", "The Great Gatsby"),
          ("gatsby_shuf", "Gatsby, scrambled"),
          ("court_pre", "Court opinions (pre-cutoff)"),
          ("court_post", "Court opinions (post-cutoff)")]
@@ -115,7 +115,8 @@ def attempts_v2(rows):
     return attempts(rows)
 
 
-def grouped_barh(ax, C, data, conds, note=None, xlabel="", counts=None):
+def grouped_barh(ax, C, data, conds, note=None, xlabel="", counts=None,
+                 label_min=None):
     """Horizontal grouped bars: one group per condition, one bar per model.
 
     Horizontal because the condition labels are long -- rotated x-tick labels
@@ -125,6 +126,10 @@ def grouped_barh(ax, C, data, conds, note=None, xlabel="", counts=None):
     distinction matters more than it looks: Claude refuses every literary item,
     so a 0.0-labelled bar would read as "tried and recalled nothing" when the
     truth is "never attempted". Those are opposite claims.
+
+    `label_min` is {(model, cond): x} forcing a bar's label to start right of x.
+    C1 overlays a floor marker on the court rows, and Gemini's sits 0.4 tokens
+    past the end of its bar -- exactly where the label would otherwise print.
     """
     n = len(MODELS)
     h = 0.78 / n
@@ -138,15 +143,23 @@ def grouped_barh(ax, C, data, conds, note=None, xlabel="", counts=None):
             vs.append(data.get(m, {}).get(key))
         yy = [y for y, v in zip(ys, vs) if v is not None]
         vv = [v for v in vs if v is not None]
-        ax.barh(yy, vv, height=h * 0.88, color=C[slot], label=MODEL_LABEL[m])
+        ax.barh(yy, vv, height=h * 0.88, color=C[slot], alpha=ALPHA[m],
+                label=MODEL_LABEL[m])
         nn = [(counts or {}).get(m, {}).get(k) for (k, _), v in zip(conds, vs) if v is not None]
-        for y, v, cnt in zip(yy, vv, nn):   # not `n` -- that is len(MODELS) above
+        kk = [k for (k, _), v in zip(conds, vs) if v is not None]
+        for y, v, cnt, key in zip(yy, vv, nn, kk):   # not `n` -- len(MODELS) above
             lbl = f"{v:.1f}" if cnt is None else f"{v:.1f}  n={cnt:,}"
-            ax.text(v + span * 0.015, y, lbl, va="center",
-                    color=C["ink2"], fontsize=7.5)
+            x = v + span * 0.015
+            floor = (label_min or {}).get((m, key))
+            if floor is not None:
+                x = max(x, floor + span * 0.015)
+            ax.text(x, y, lbl, va="center", color=C["ink2"], fontsize=7.5)
         for y, v, (key, _) in zip(ys, vs, conds):
             if v is None:
-                ax.text(span * 0.015, y, (note or {}).get(m, {}).get(key, "no data"),
+                # Placed clear of the dashed floor line, which sits at
+                # NULL_FLOOR and otherwise strikes straight through the text.
+                ax.text(NULL_FLOOR + span * 0.015, y,
+                        (note or {}).get(m, {}).get(key, "no data"),
                         va="center", color=C["ink2"], fontsize=7,
                         style="italic", alpha=0.8)
     ax.set_yticks(range(len(conds)))
@@ -179,53 +192,117 @@ def why_blank(D):
     return out
 
 
-def c1_headline(D, C, dark):
-    fg, ax = plt.subplots(figsize=(9.2, 5.4))
+def c1_headline(D, C):
+    # 5 conditions x 6 models = 30 bars. At the old 5.4in height the direct
+    # labels overlap; scale the canvas with the bar count instead of pinning it.
+    fg, ax = plt.subplots(figsize=(9.8, 1.15 * len(CONDS) + 2.4))
     fg.patch.set_facecolor(C["surface"])
     data = {m: conditional(cd) for m, cd in D.items()}
     # n on every bar, because the denominators are not comparable: Claude and
     # GPT-5 answer ~5-7% of court items voluntarily and Gemini ~98%, so their
     # court means are computed over a subset each model selected for itself.
     counts = {m: {k: len(attempts_v2(v)) for k, v in cd.items()} for m, cd in D.items()}
+    floors = {(m, "court_pre"): data.get(m, {}).get("court_post") for m in MODELS
+              if data.get(m, {}).get("court_post") is not None}
     grouped_barh(ax, C, data, CONDS, note=why_blank(D), counts=counts,
+                 label_min=floors,
                  xlabel="mean longest verbatim run (tokens), answered items only")
     ax.axvline(NULL_FLOOR, color=C["ink2"], linewidth=1, linestyle=(0, (4, 3)))
-    ax.text(NULL_FLOOR + 0.15, len(CONDS) - 0.35, f"null floor {NULL_FLOOR}",
+    # Named for what it measures, not "null floor". It is gold-vs-gold: one
+    # case's answer scored against a different case's answer to the same
+    # question. That bounds how much two UNRELATED opinions overlap, which is
+    # not the bar a court row has to clear -- see the tick marks below.
+    ax.text(NULL_FLOOR + 0.15, len(CONDS) - 0.35,
+            f"gold-vs-gold chance floor {NULL_FLOOR}",
             color=C["ink2"], fontsize=7.5, style="italic")
-    ax.set_title("Verbatim recall by corpus and model", color=C["ink"],
-                 fontsize=12, pad=12, loc="left")
-    ax.legend(frameon=False, fontsize=8.5, labelcolor=C["ink2"], loc="lower right")
-    save(fg, "c1_cross_model_recall", dark)
+
+    # The operative floor for a pre-cutoff court bar is that model's OWN
+    # post-cutoff score. A post-cutoff opinion cannot have been memorised, yet
+    # every model still scores well above the gold-vs-gold line on one, because
+    # the verbatim runs come from statutes and boilerplate QUOTED inside the
+    # opinion, not from the opinion's own prose -- a 2025 case quoting ERISA
+    # 404(a)(1)(B) yields a 41-token run with zero knowledge of that case. So
+    # mark each model's post-cutoff mean on its pre-cutoff bar: the comparison
+    # the reader needs becomes the one the eye makes first.
+    j_pre = [k for k, _ in CONDS].index("court_pre")
+    n, h = len(MODELS), 0.78 / len(MODELS)
+    for i, m in enumerate(MODELS):
+        v = data.get(m, {}).get("court_post")
+        if v is None:
+            continue
+        y = j_pre + (i - (n - 1) / 2) * h
+        ax.plot([v, v], [y - h * 0.46, y + h * 0.46], color=C["ink"],
+                lw=1.5, zorder=5, solid_capstyle="butt")
+
+    ax.set_title("Verbatim recall by corpus and model\n"
+                 "court rows: the floor is each model's own post-cutoff score (│), "
+                 "not the dashed line",
+                 color=C["ink"], fontsize=12, pad=12, loc="left")
+    handles, labels = ax.get_legend_handles_labels()
+    handles.append(plt.Line2D([0], [0], color=C["ink"], lw=1.5))
+    labels.append("post-cutoff floor")
+    ax.legend(handles, labels, frameon=False, fontsize=8.5,
+              labelcolor=C["ink2"], loc="lower right")
+    save(fg, "c1_cross_model_recall")
 
 
-def c2_disposition(D, C, dark):
+def c2_disposition(D, C):
     """Answered / UNKNOWN / refused. Not a memorization plot -- the key to
     reading C1, since each model reaches its mean over a different denominator."""
-    fg, axes = plt.subplots(1, 3, figsize=(11.5, 4.6), sharey=True)
+    # 2x3: one panel per model, families reading left-to-right, older generation
+    # on the top row. A 1x6 strip would squeeze each panel below the width the
+    # condition labels need.
+    ncol = len(PAIRS)
+    nrow = -(-len(MODELS) // ncol)
+    fg, axes = plt.subplots(nrow, ncol, figsize=(4.3 * ncol, 3.6 * nrow),
+                            sharey=True, sharex=True)
+    axes = axes.ravel()
+    for ax in axes[len(MODELS):]:
+        ax.set_visible(False)
     fg.patch.set_facecolor(C["surface"])
     for ax, m, slot in zip(axes, MODELS, SLOTS):
         cd = D.get(m, {})
         ys = list(range(len(CONDS)))
-        ans, unk, ref = [], [], []
+        # FOUR segments, not three. `empty` (the model returned a blank string)
+        # is a taxonomy category in its own right, and leaving it out made the
+        # bars stop short with no explanation -- Claude Fable 5 returned nothing
+        # on 96% of scrambled-Gatsby items, so its bar reached 4% and looked
+        # like a rendering fault. Together these four exhaust classify()'s
+        # vocabulary, so every bar now spans the full width.
+        ans, unk, ref, emp = [], [], [], []
         for key, _ in CONDS:
             rows = eligible(cd.get(key, []))
             n = len(rows) or 1
             ref.append(100 * sum(disp(r) == "refusal_policy" for r in rows) / n)
             unk.append(100 * sum(disp(r).startswith("unknown") for r in rows) / n)
+            emp.append(100 * sum(disp(r) in ("empty", "error") for r in rows) / n)
             ans.append(100 * len(attempts_v2(rows)) / n)
             if not cd.get(key):
-                ans[-1] = unk[-1] = ref[-1] = 0
-        ax.barh(ys, ans, height=0.62, color=C[slot], label="answered")
+                ans[-1] = unk[-1] = ref[-1] = emp[-1] = 0
+        # Same family-hue + generation-alpha encoding as C1; if the two figures
+        # disagreed about what a full-strength blue means the reader is lost.
+        ax.barh(ys, ans, height=0.62, color=C[slot], alpha=ALPHA[m],
+                label="answered")
         ax.barh(ys, unk, left=ans, height=0.62, color=C["grid"], label="UNKNOWN (epistemic)")
         ax.barh(ys, ref, left=[a + u for a, u in zip(ans, unk)], height=0.62,
                 color=C["ink2"], label="refused (policy)")
+        # Absence drawn as absence: surface fill with a hatch, not a fourth
+        # solid tone that would compete with the three real dispositions.
+        ax.barh(ys, emp, left=[a + u + r for a, u, r in zip(ans, unk, ref)],
+                height=0.62, color=C["surface"], edgecolor=C["ink2"],
+                linewidth=0.6, hatch="////", label="no output returned")
         for y, (key, _) in zip(ys, CONDS):
             if not cd.get(key):
                 ax.text(2, y, "not run", va="center", color=C["ink2"],
                         fontsize=7, style="italic", alpha=0.75)
         ax.set_yticks(ys)
         ax.set_yticklabels([lbl for _, lbl in CONDS], color=C["ink"], fontsize=8.5)
-        ax.invert_yaxis()
+        # Guarded, exactly as in grouped_barh. These axes share a y-axis, so an
+        # unconditional invert per panel toggles it once per model -- with six
+        # panels that is an even number and the whole figure came out upside
+        # down, US Constitution at the bottom.
+        if not ax.yaxis_inverted():
+            ax.invert_yaxis()
         ax.set_xlim(0, 100)
         ax.set_title(MODEL_LABEL[m], color=C["ink"], fontsize=10, pad=8, loc="left")
         ax.xaxis.grid(True, color=C["grid"], linewidth=0.7)
@@ -234,16 +311,17 @@ def c2_disposition(D, C, dark):
     # Every bar spans the full width here, so there is no in-axes gap a legend
     # could occupy without covering data. Lift it to figure level instead.
     h, l = axes[0].get_legend_handles_labels()
-    fg.legend(h, l, frameon=False, fontsize=8.5, labelcolor=C["ink2"], ncol=3,
+    fg.legend(h, l, frameon=False, fontsize=8.5, labelcolor=C["ink2"], ncol=4,
               loc="upper right", bbox_to_anchor=(0.995, 1.005))
     fg.suptitle("How each model disposes of an item", color=C["ink"], fontsize=12,
                 x=0.008, ha="left", y=0.99)
-    save(fg, "c2_disposition", dark)
+    save(fg, "c2_disposition")
 
 
-def c3_selection(D, C, dark):
+def c3_selection(D, C):
     """The same scores with and without the abstention filter."""
-    fg, axes = plt.subplots(1, 2, figsize=(12.4, 5.0), sharey=True)
+    fg, axes = plt.subplots(1, 2, figsize=(13.0, 1.15 * len(CONDS) + 2.4),
+                            sharey=True)
     fg.patch.set_facecolor(C["surface"])
 
     def uncond(cd):
@@ -258,7 +336,8 @@ def c3_selection(D, C, dark):
 
     note = why_blank(D)
     for ax, fn, ttl in [(axes[0], conditional, "Answered items only"),
-                        (axes[1], uncond, "All items (UNKNOWN and refusals scored 0)")]:
+                        (axes[1], uncond,
+                         "All items (UNKNOWN, refusals and blanks scored 0)")]:
         grouped_barh(ax, C, {m: fn(cd) for m, cd in D.items()}, CONDS,
                      note=note if fn is conditional else None,
                      xlabel="mean longest verbatim run (tokens)")
@@ -270,10 +349,10 @@ def c3_selection(D, C, dark):
                    loc="upper left", bbox_to_anchor=(0.60, 0.30))
     fg.suptitle("Abstention inflates the conditional mean", color=C["ink"],
                 fontsize=12, x=0.006, ha="left", y=0.99)
-    save(fg, "c3_selection_effect", dark)
+    save(fg, "c3_selection_effect")
 
 
-def c4_concentration(D, C, dark):
+def c4_concentration(D, C):
     """Small multiples, one hue: memorization is concentrated, not uniform.
 
     Corpus is the entity here rather than model, and reusing s1/s2/s3 for a new
@@ -306,12 +385,12 @@ def c4_concentration(D, C, dark):
     axes[0].set_ylabel("% of answered items", color=C["ink2"], fontsize=9, labelpad=8)
     fg.suptitle("Where the recall actually sits (all models pooled)", color=C["ink"],
                 fontsize=12, x=0.006, ha="left", y=0.99)
-    save(fg, "c4_concentration", dark)
+    save(fg, "c4_concentration")
 
 
-def save(fg, name, dark):
+def save(fg, name):
     os.makedirs(FIGS, exist_ok=True)
-    p = os.path.join(FIGS, f"{name}{'_dark' if dark else ''}.png")
+    p = os.path.join(FIGS, f"{name}.png")
     fg.tight_layout()
     fg.savefig(p, dpi=190, facecolor=fg.get_facecolor())
     plt.close(fg)
@@ -320,21 +399,20 @@ def save(fg, name, dark):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dark", action="store_true")
     ap.add_argument("--scores-dir", default=SCORES,
                     help="which scored CSVs to plot (default: datasets/scores)")
     args = ap.parse_args()
-    C = DARK if args.dark else LIGHT
+    C = LIGHT
     plt.rcParams.update({"font.family": "sans-serif", "axes.titleweight": "regular"})
     D = collect(args.scores_dir)
     for m in MODELS:
         got = ", ".join(sorted(D.get(m, {}))) or "nothing"
         print(f"{MODEL_LABEL[m]:<16} {got}")
     print()
-    c1_headline(D, C, args.dark)
-    c2_disposition(D, C, args.dark)
-    c3_selection(D, C, args.dark)
-    c4_concentration(D, C, args.dark)
+    c1_headline(D, C)
+    c2_disposition(D, C)
+    c3_selection(D, C)
+    c4_concentration(D, C)
 
 
 if __name__ == "__main__":

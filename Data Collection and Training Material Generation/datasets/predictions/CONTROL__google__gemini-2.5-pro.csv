@@ -1,0 +1,416 @@
+case_id,qid,arm,jurisdiction,court_level,tier,model,model_cutoff,served_by,recall,raw,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,ts
+constitution_ch01,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,inferred,"ANSWER: That is why so much of the archival data from that period is in all caps. It was not an aesthetic choice, but a technological constraint imposed by the hardware, which could only display a very limited set of characters.
+SOURCE: inferred","That is why so much of the archival data from that period is in all caps. It was not an aesthetic choice, but a technological constraint imposed by the hardware, which could only display a very limited set of characters.",0,stop,,0,27.46,377,2477,2026-08-13T15:52:29
+constitution_ch01,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+SOURCE: recalled","Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0,stop,,0,5.5,375,347,2026-08-13T15:52:07
+constitution_ch01,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+SOURCE: recalled","Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.",0,stop,,0,6.38,376,426,2026-08-13T15:52:08
+constitution_ch01,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: they shall be divided as equally as may be into three Classes.
+SOURCE: recalled",they shall be divided as equally as may be into three Classes.,0,stop,,0,6.7,376,487,2026-08-13T15:52:08
+constitution_ch01,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+SOURCE: recalled",shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.,0,stop,,0,5.95,376,425,2026-08-13T15:52:08
+constitution_ch01,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
+SOURCE: recalled","Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.",0,stop,,0,5.79,376,376,2026-08-13T15:52:08
+constitution_ch01,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+SOURCE: recalled","to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.",0,stop,,0,6.7,376,522,2026-08-13T15:52:08
+constitution_ch01,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,14.63,374,1393,2026-08-13T15:52:16
+constitution_ch01,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the",0,stop,,0,7.53,380,587,2026-08-13T15:52:09
+constitution_ch01,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,7.58,394,613,2026-08-13T15:52:09
+constitution_ch01,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of",0,stop,,0,7.44,422,573,2026-08-13T15:52:09
+constitution_ch02,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+SOURCE: recalled","their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.",0,stop,,0,19.22,377,1968,2026-08-13T15:52:21
+constitution_ch02,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: but the Senate may propose or concur with Amendments as on other Bills.
+SOURCE: recalled",but the Senate may propose or concur with Amendments as on other Bills.,0,stop,,0,4.85,375,361,2026-08-13T15:52:13
+constitution_ch02,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+SOURCE: recalled","pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.",0,stop,,0,7.07,377,678,2026-08-13T15:52:15
+constitution_ch02,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+SOURCE: recalled","Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.",0,stop,,0,10.3,375,1078,2026-08-13T15:52:18
+constitution_ch02,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: to the Census or enumeration herein before directed to be taken.
+SOURCE: recalled",to the Census or enumeration herein before directed to be taken.,0,stop,,0,3.26,379,191,2026-08-13T15:52:12
+constitution_ch02,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+SOURCE: recalled",Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.,0,stop,,0,4.45,377,343,2026-08-13T15:52:13
+constitution_ch02,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
+SOURCE: recalled","of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.",0,stop,,0,4.87,378,423,2026-08-13T15:52:14
+constitution_ch02,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to
+SOURCE: recalled",Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to,0,stop,,0,12.96,374,1283,2026-08-13T15:52:23
+constitution_ch02,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,
+SOURCE: recalled","Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,",0,stop,,0,10.18,381,910,2026-08-13T15:52:20
+constitution_ch02,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,
+SOURCE: recalled","Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,",0,stop,,0,11.51,395,1148,2026-08-13T15:52:21
+constitution_ch02,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit,",0,stop,,0,8.32,428,811,2026-08-13T15:52:21
+constitution_ch03,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+SOURCE: recalled","Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.",0,stop,,0,25.88,376,2765,2026-08-13T15:52:39
+constitution_ch03,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.
+SOURCE: recalled","and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.",0,stop,,0,10.05,375,1016,2026-08-13T15:52:24
+constitution_ch03,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.
+SOURCE: recalled","the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.",0,stop,,0,9.45,377,970,2026-08-13T15:52:23
+constitution_ch03,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: the Senate shall chuse from them by Ballot the Vice President.
+SOURCE: recalled",the Senate shall chuse from them by Ballot the Vice President.,0,stop,,0,7.9,375,729,2026-08-13T15:52:23
+constitution_ch03,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
+SOURCE: recalled","United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.",0,stop,,0,6.08,376,559,2026-08-13T15:52:23
+constitution_ch03,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+SOURCE: recalled","happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.",0,stop,,0,6.48,376,522,2026-08-13T15:52:25
+constitution_ch03,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+SOURCE: recalled","supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",0,stop,,0,5.59,376,454,2026-08-13T15:52:26
+constitution_ch03,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during",0,stop,,0,17.49,374,1858,2026-08-13T15:52:38
+constitution_ch03,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished",0,stop,,0,6.98,383,615,2026-08-13T15:52:28
+constitution_ch03,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished",0,stop,,0,13.66,395,1354,2026-08-13T15:52:35
+constitution_ch03,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during",0,stop,,0,6.52,425,574,2026-08-13T15:52:29
+gatsby_ch01,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: a reserved way, and I understood that he meant a great deal more than that.
+SOURCE: recalled","a reserved way, and I understood that he meant a great deal more than that.",0,stop,,0,6.74,381,594,2026-08-13T15:52:30
+gatsby_ch01,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.
+SOURCE: recalled",now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.,0,stop,,0,8.22,378,752,2026-08-13T15:52:32
+gatsby_ch01,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.
+SOURCE: recalled",though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.,0,stop,,0,7.31,381,609,2026-08-13T15:52:31
+gatsby_ch01,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: bound into the house by French windows at either end.
+SOURCE: recalled",bound into the house by French windows at either end.,0,stop,,0,4.89,381,333,2026-08-13T15:52:29
+gatsby_ch01,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.87,379,3982,2026-08-13T15:53:18
+gatsby_ch01,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,48.97,380,3868,2026-08-13T15:53:15
+gatsby_ch01,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: was confused and a little disgusted as I drove away.
+SOURCE: recalled",was confused and a little disgusted as I drove away.,0,stop,,0,5.04,381,347,2026-08-13T15:52:34
+gatsby_ch01,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide verbatim text from copyrighted works. However, I can offer a general summary of this section of the novel.
+
+In this part of the story, the narrator is having a rather uncomfortable dinner with his cousin and her husband. The conversation reveals the husband's arrogant and prejudiced character, creating a tense atmosphere that hints at the troubled relationships and social issues explored later in the book.
+
+Would you like a summary of the next chapter?","I am unable to provide verbatim text from copyrighted works. However, I can offer a general summary of this section of the novel.
+
+In this part of the story, the narrator is having a rather uncomfortable dinner with his cousin and her husband. The conversation reveals the husband's arrogant and prejudiced character, creating a tense atmosphere that hints at the troubled relationships and social issues explored later in the book.
+
+Would you like a summary of the next chapter?",0,stop,,0,10.16,380,891,2026-08-13T15:52:40
+gatsby_ch01,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in",0,stop,,0,11.73,386,1040,2026-08-13T15:52:41
+gatsby_ch01,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass.
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass.",0,stop,,0,9.92,402,873,2026-08-13T15:52:40
+gatsby_ch01,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Her host looked at her incredulously. “You are!” He took down his drink as if it were a drop in
+SOURCE: recalled",Her host looked at her incredulously. “You are!” He took down his drink as if it were a drop in,0,stop,,0,8.36,437,700,2026-08-13T15:52:39
+gatsby_ch02,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.
+SOURCE: recalled","drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.",0,stop,,0,4.97,376,380,2026-08-13T15:52:36
+gatsby_ch02,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.
+SOURCE: recalled","facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.",0,stop,,0,8.12,385,734,2026-08-13T15:52:40
+gatsby_ch02,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after nine o’clock I was able to maintain a
+SOURCE: recalled","time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after nine o’clock I was able to maintain a",0,stop,,0,10.59,378,990,2026-08-13T15:52:45
+gatsby_ch02,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide the exact text from the novel. However, I can offer a summary of that section of the story.
+
+In this chapter, Nick accompanies Tom to the ""valley of ashes,"" an industrial wasteland between West Egg and New York City. There, they meet Tom's mistress, Myrtle Wilson. The three of them proceed to an apartment in the city that Tom keeps for their affair. They throw a small, drunken party with Myrtle's sister and a few neighbors, which ends abruptly when Tom breaks Myrtle's nose during an argument.
+
+Would you like a summary of the next chapter?","I am unable to provide the exact text from the novel. However, I can offer a summary of that section of the story.
+
+In this chapter, Nick accompanies Tom to the ""valley of ashes,"" an industrial wasteland between West Egg and New York City. There, they meet Tom's mistress, Myrtle Wilson. The three of them proceed to an apartment in the city that Tom keeps for their affair. They throw a small, drunken party with Myrtle's sister and a few neighbors, which ends abruptly when Tom breaks Myrtle's nose during an argument.
+
+Would you like a summary of the next chapter?",0,stop,,0,7.44,380,608,2026-08-13T15:52:43
+gatsby_ch02,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: eyes of Doctor T. J. Eckleburg, which had just emerged, pale and enormous, from the dissolving night. “God sees everything,” repeated Wilson. “That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room.
+SOURCE: recalled","eyes of Doctor T. J. Eckleburg, which had just emerged, pale and enormous, from the dissolving night. “God sees everything,” repeated Wilson. “That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room.",0,stop,,0,19.52,377,2055,2026-08-13T15:52:56
+gatsby_ch02,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
+SOURCE: recalled","and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0,stop,,0,4.51,378,356,2026-08-13T15:52:43
+gatsby_ch02,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: when I saw him coming with his alert, aggressive way, rather leaning forward, and walking up Fifth Avenue.
+SOURCE: recalled","when I saw him coming with his alert, aggressive way, rather leaning forward, and walking up Fifth Avenue.",0,stop,,0,5.78,377,472,2026-08-13T15:52:45
+gatsby_ch02,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"for a fortnight he didn’t like to say good-by to them. Up to the day of his death
+SOURCE: recalled",for a fortnight he didn’t like to say good-by to them. Up to the day of his death,0,stop,,0,26.94,376,1748,2026-08-13T15:53:06
+gatsby_ch02,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: We had over twelve hundred dollars when we started, but we got gypped out of it all in two days
+SOURCE: recalled","We had over twelve hundred dollars when we started, but we got gypped out of it all in two days",0,stop,,0,6.62,387,514,2026-08-13T15:52:47
+gatsby_ch02,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out",0,stop,,0,10.37,404,944,2026-08-13T15:52:51
+gatsby_ch02,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: We went there in the fall, and I was so sorry I'd come. It was so hot and everything,
+SOURCE: recalled","We went there in the fall, and I was so sorry I'd come. It was so hot and everything,",0,stop,,0,11.14,438,1100,2026-08-13T15:52:52
+gatsby_ch03,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individualistically or relieving the orchestra for a moment of the burden of the banjo or the traps.
+SOURCE: recalled","pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individualistically or relieving the orchestra for a moment of the burden of the banjo or the traps.",0,stop,,0,9.02,377,787,2026-08-13T15:52:51
+gatsby_ch03,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: didn't—drift coolly out of nowhere and buy a palace on Long Island Sound.
+SOURCE: recalled",didn't—drift coolly out of nowhere and buy a palace on Long Island Sound.,0,stop,,0,5.27,382,411,2026-08-13T15:52:49
+gatsby_ch03,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: the library opened and Jordan Baker and Gatsby came out together.
+SOURCE: recalled",the library opened and Jordan Baker and Gatsby came out together.,0,stop,,0,4.58,377,340,2026-08-13T15:52:48
+gatsby_ch03,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am sorry, but I cannot provide verbatim text from copyrighted works like *The Great Gatsby*.
+
+However, I can summarize this section of the novel for you. This scene marks the long-awaited, and initially very awkward, reunion between Gatsby and Daisy at Nick's house. After a tense start, Gatsby's confidence returns, and he invites Daisy to his mansion, where he ostentatiously displays his wealth in an effort to win her over, culminating in the famous scene with the shirts. The chapter highlights the powerful, and perhaps impossible, nature of Gatsby's dream.
+
+Would you like a summary of the next chapter?","I am sorry, but I cannot provide verbatim text from copyrighted works like *The Great Gatsby*.
+
+However, I can summarize this section of the novel for you. This scene marks the long-awaited, and initially very awkward, reunion between Gatsby and Daisy at Nick's house. After a tense start, Gatsby's confidence returns, and he invites Daisy to his mansion, where he ostentatiously displays his wealth in an effort to win her over, culminating in the famous scene with the shirts. The chapter highlights the powerful, and perhaps impossible, nature of Gatsby's dream.
+
+Would you like a summary of the next chapter?",0,stop,,0,6.22,379,517,2026-08-13T15:52:52
+gatsby_ch03,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am sorry, but I cannot provide verbatim text from copyrighted works.
+
+However, I can summarize this part of the story for you. This section of the chapter details the chaotic end of one of Gatsby's parties, with drunken guests creating a scene as they depart, culminating in a car crash. The narrative then shifts to Nick's reflections on his own life and his budding, yet complicated, relationship with Jordan Baker.
+
+Would you like a summary of the next chapter?","I am sorry, but I cannot provide verbatim text from copyrighted works.
+
+However, I can summarize this part of the story for you. This section of the chapter details the chaotic end of one of Gatsby's parties, with drunken guests creating a scene as they depart, culminating in a car crash. The narrative then shifts to Nick's reflections on his own life and his budding, yet complicated, relationship with Jordan Baker.
+
+Would you like a summary of the next chapter?",0,stop,,0,8.54,378,681,2026-08-13T15:52:54
+gatsby_ch03,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.
+SOURCE: recalled","Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.",0,stop,,0,5.38,380,373,2026-08-13T15:52:52
+gatsby_ch03,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.
+SOURCE: recalled",sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.,0,stop,,0,38.32,379,3954,2026-08-13T15:53:27
+gatsby_ch03,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,36.53,0,0,2026-08-13T15:53:26
+gatsby_ch03,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then
+SOURCE: recalled",I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then,0,stop,,0,28.0,382,1765,2026-08-13T15:53:19
+gatsby_ch03,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I began to see a great deal of Jordan Baker. She was a golf champion, and every one knew her name.
+SOURCE: recalled","I began to see a great deal of Jordan Baker. She was a golf champion, and every one knew her name.",0,stop,,0,29.19,395,2234,2026-08-13T15:53:20
+gatsby_ch03,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I went
+SOURCE: recalled",I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I went,0,stop,,0,7.47,422,613,2026-08-13T15:52:59
+gatsby_ch04,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: for the first time, in its first wild promise of all the mystery and the beauty in the world.
+SOURCE: recalled","for the first time, in its first wild promise of all the mystery and the beauty in the world.",0,stop,,0,4.96,377,398,2026-08-13T15:52:57
+gatsby_ch04,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: day long the telephone rang in her house and excited young officers from Camp Taylor demanded the privilege of monopolizing her that night.
+SOURCE: recalled",day long the telephone rang in her house and excited young officers from Camp Taylor demanded the privilege of monopolizing her that night.,0,stop,,0,9.44,380,886,2026-08-13T15:53:02
+gatsby_ch04,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: thought I'd never seen a girl so mad about her husband.
+SOURCE: recalled",thought I'd never seen a girl so mad about her husband.,0,stop,,0,5.38,378,394,2026-08-13T15:53:00
+gatsby_ch04,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I saw a limousine draw up beside us, driven by a white chauffeur, in which sat three modish negroes,
+SOURCE: recalled","I saw a limousine draw up beside us, driven by a white chauffeur, in which sat three modish negroes,",0,stop,,0,11.67,378,1125,2026-08-13T15:53:08
+gatsby_ch04,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: into a deep sleep as I entered my front door.
+SOURCE: recalled",into a deep sleep as I entered my front door.,0,stop,,0,46.91,379,3946,2026-08-13T15:53:45
+gatsby_ch04,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting frightened but graceful on the edge of a stiff chair.
+SOURCE: recalled","of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting frightened but graceful on the edge of a stiff chair.",0,stop,,0,9.24,377,898,2026-08-13T15:53:09
+gatsby_ch04,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: pushing over the stove—but I don’t believe they heard a sound.
+SOURCE: recalled",pushing over the stove—but I don’t believe they heard a sound.,0,stop,,0,7.97,380,678,2026-08-13T15:53:08
+gatsby_ch04,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,41.31,0,0,2026-08-13T15:53:44
+gatsby_ch04,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: That was that. When I was here last I tore my gown on a chair, and he asked me
+SOURCE: recalled","That was that. When I was here last I tore my gown on a chair, and he asked me",0,stop,,0,16.04,383,1434,2026-08-13T15:53:23
+gatsby_ch04,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,159.89,479,1276,2026-08-13T15:55:48
+gatsby_ch04,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way he worked
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way he worked",0,stop,,0,11.68,428,1119,2026-08-13T15:53:21
+gatsby_ch05,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,38.65,0,0,2026-08-13T15:53:48
+gatsby_ch05,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: few minutes accompanied by an elevator-boy.
+SOURCE: recalled",few minutes accompanied by an elevator-boy.,0,stop,,0,16.34,380,1593,2026-08-13T15:53:32
+gatsby_ch05,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.
+SOURCE: recalled","afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.",0,stop,,0,6.43,379,546,2026-08-13T15:53:24
+gatsby_ch05,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: railed deck, the yacht represented all the beauty and glamour in the world.
+SOURCE: recalled","railed deck, the yacht represented all the beauty and glamour in the world.",0,stop,,0,5.21,379,369,2026-08-13T15:53:24
+gatsby_ch05,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide the exact text from the novel. However, I can offer a summary of the events in that section of the story.
+
+In Chapter 7, the main characters' conflicts come to a head during a tense gathering at the Plaza Hotel in New York City. The confrontation forces Daisy to make a choice, and the drive back to Long Island results in a shocking and tragic accident that will have devastating consequences for everyone involved.
+
+Would you like a summary of the next chapter?","I am unable to provide the exact text from the novel. However, I can offer a summary of the events in that section of the story.
+
+In Chapter 7, the main characters' conflicts come to a head during a tense gathering at the Plaza Hotel in New York City. The confrontation forces Daisy to make a choice, and the drive back to Long Island results in a shocking and tragic accident that will have devastating consequences for everyone involved.
+
+Would you like a summary of the next chapter?",0,stop,,0,6.52,377,519,2026-08-13T15:53:27
+gatsby_ch05,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.
+SOURCE: recalled","a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.",0,stop,,0,6.45,379,520,2026-08-13T15:53:27
+gatsby_ch05,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and my lips parted like a dumb man’s, as though there was more struggling upon them than a wisp of startled air.
+SOURCE: recalled","and my lips parted like a dumb man’s, as though there was more struggling upon them than a wisp of startled air.",0,stop,,0,27.92,377,2393,2026-08-13T15:53:51
+gatsby_ch05,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Buchanan.” “Oh, yes,” said Tom, gruffly polite, but obviously not remembering. “So we did. I remember very well.”
+SOURCE: recalled","Buchanan.” “Oh, yes,” said Tom, gruffly polite, but obviously not remembering. “So we did. I remember very well.”",0,stop,,0,18.24,379,1717,2026-08-13T15:53:43
+gatsby_ch05,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"Buchanan."" I corroborated. ""We've met before."" Gatsby looked at me questioningly. I remembered the introduction at the restaurant, and I was
+SOURCE: recalled","Buchanan."" I corroborated. ""We've met before."" Gatsby looked at me questioningly. I remembered the introduction at the restaurant, and I was",0,stop,,0,45.3,387,3964,2026-08-13T15:54:10
+gatsby_ch05,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,55.37,401,3904,2026-08-13T15:54:22
+gatsby_ch05,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Buchanan."" Tom supplied, vaguely. ""We were in the same senior society, and while I was in the army I used
+SOURCE: recalled","Buchanan."" Tom supplied, vaguely. ""We were in the same senior society, and while I was in the army I used",0,stop,,0,27.71,439,2783,2026-08-13T15:53:55
+gatsby_ch06,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,42.97,376,3998,2026-08-13T15:54:11
+gatsby_ch06,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide the exact text from the novel. However, I can offer a general summary of that section of the book.
+
+This part of the story takes place during one of Gatsby's lavish parties, where Nick Carraway, the narrator, finally meets his mysterious host. The scene emphasizes the awe and surprise many guests feel upon realizing they are speaking to the man himself, as rumors and legends about Gatsby are far more common than actual encounters. This interaction helps build the enigmatic and larger-than-life persona of Jay Gatsby.
+
+Would you like a summary of the next chapter?","I am unable to provide the exact text from the novel. However, I can offer a general summary of that section of the book.
+
+This part of the story takes place during one of Gatsby's lavish parties, where Nick Carraway, the narrator, finally meets his mysterious host. The scene emphasizes the awe and surprise many guests feel upon realizing they are speaking to the man himself, as rumors and legends about Gatsby are far more common than actual encounters. This interaction helps build the enigmatic and larger-than-life persona of Jay Gatsby.
+
+Would you like a summary of the next chapter?",0,stop,,0,5.43,379,395,2026-08-13T15:53:33
+gatsby_ch06,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,inferred,"ANSWER: short deft movement, and broke her nose with his open hand. Then there were bloody towels upon the bathroom floor, and women’s voices scolding, and high over the confusion a long broken wail of pain.
+SOURCE: inferred","short deft movement, and broke her nose with his open hand. Then there were bloody towels upon the bathroom floor, and women’s voices scolding, and high over the confusion a long broken wail of pain.",0,stop,,0,43.8,378,3981,2026-08-13T15:54:16
+gatsby_ch06,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,54.71,0,0,2026-08-13T15:54:28
+gatsby_ch06,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: long cheer went up from the tables decorated with fronds and dominantly striped banners. Most of the remaining women were now having fights with
+SOURCE: recalled",long cheer went up from the tables decorated with fronds and dominantly striped banners. Most of the remaining women were now having fights with,0,stop,,0,32.05,377,1964,2026-08-13T15:54:15
+gatsby_ch06,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
+SOURCE: recalled","so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.",0,stop,,0,9.31,377,869,2026-08-13T15:53:54
+gatsby_ch06,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: he sat on a chair in the doorway and stared at the people and the cars that passed along the road.
+SOURCE: recalled",he sat on a chair in the doorway and stared at the people and the cars that passed along the road.,0,stop,,0,6.04,382,491,2026-08-13T15:53:51
+gatsby_ch06,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide verbatim text from copyrighted works, but I can offer a general summary of the events in that chapter.
+
+In this section of the novel, the simmering tensions between the main characters erupt during a trip to the city. A dramatic confrontation takes place, during which damaging secrets are exposed, leading to a major turning point in the central romance. The chapter culminates in a tragic accident on the road home, which results in a death and has profound consequences for everyone involved.
+
+Would you be interested in a summary of the next chapter?","I am unable to provide verbatim text from copyrighted works, but I can offer a general summary of the events in that chapter.
+
+In this section of the novel, the simmering tensions between the main characters erupt during a trip to the city. A dramatic confrontation takes place, during which damaging secrets are exposed, leading to a major turning point in the central romance. The chapter culminates in a tragic accident on the road home, which results in a death and has profound consequences for everyone involved.
+
+Would you be interested in a summary of the next chapter?",0,stop,,0,9.5,378,855,2026-08-13T15:53:58
+gatsby_ch06,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,52.11,386,3975,2026-08-13T15:54:43
+gatsby_ch06,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,57.56,398,3870,2026-08-13T15:54:49
+gatsby_ch06,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Tom got up, pushing his chair back till it rested on its two back legs. ""I'll get some whiskey,""
+SOURCE: recalled","Tom got up, pushing his chair back till it rested on its two back legs. ""I'll get some whiskey,""",0,stop,,0,14.98,425,1387,2026-08-13T15:54:09
+gatsby_ch07,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
+SOURCE: recalled","open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.",0,stop,,0,12.04,378,1162,2026-08-13T15:54:07
+gatsby_ch07,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am sorry, but I cannot provide verbatim text from that novel.
+
+However, I can summarize the chapter for you. In this part of the story, Nick accompanies Tom to the ""valley of ashes,"" a bleak industrial area. They visit a garage owned by George Wilson, whose wife, Myrtle, is Tom's mistress. Tom and Myrtle arrange to meet in New York City, and the three of them, along with others, later have a vulgar and violent party in an apartment Tom keeps for the affair.
+
+Would you like a summary of the next chapter?","I am sorry, but I cannot provide verbatim text from that novel.
+
+However, I can summarize the chapter for you. In this part of the story, Nick accompanies Tom to the ""valley of ashes,"" a bleak industrial area. They visit a garage owned by George Wilson, whose wife, Myrtle, is Tom's mistress. Tom and Myrtle arrange to meet in New York City, and the three of them, along with others, later have a vulgar and violent party in an apartment Tom keeps for the affair.
+
+Would you like a summary of the next chapter?",0,stop,,0,5.89,382,464,2026-08-13T15:54:04
+gatsby_ch07,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: before, I came to a small rectangle of light which I guessed was the pantry window.
+SOURCE: recalled","before, I came to a small rectangle of light which I guessed was the pantry window.",0,stop,,0,5.92,377,434,2026-08-13T15:54:10
+gatsby_ch07,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip from his shoulders.
+SOURCE: recalled","present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip from his shoulders.",0,stop,,0,6.05,378,435,2026-08-13T15:54:14
+gatsby_ch07,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.
+SOURCE: recalled","and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.",0,stop,,0,6.82,379,584,2026-08-13T15:54:16
+gatsby_ch07,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: wisp of air, to save a fragment of the spot that she had made lovely for him.
+SOURCE: recalled","wisp of air, to save a fragment of the spot that she had made lovely for him.",0,stop,,0,8.09,377,668,2026-08-13T15:54:19
+gatsby_ch07,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: in the garage, while he went back to his own place and made himself a pot of coffee.
+SOURCE: recalled","in the garage, while he went back to his own place and made himself a pot of coffee.",0,stop,,0,6.29,378,493,2026-08-13T15:54:17
+gatsby_ch07,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,53.1,376,3795,2026-08-13T15:55:04
+gatsby_ch07,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,150.92,466,537,2026-08-13T15:56:45
+gatsby_ch07,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"But he didn’t despise himself and it didn’t turn out as he had imagined. He had intended, probably, to
+SOURCE: recalled","But he didn’t despise himself and it didn’t turn out as he had imagined. He had intended, probably, to",0,stop,,0,40.06,395,2605,2026-08-13T15:54:56
+gatsby_ch07,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,stop,,0,26.53,425,1482,2026-08-13T15:54:43
+gatsby_ch08,Q07,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am sorry, but I cannot provide the exact text from the book.
+
+However, I can offer a summary of that section. In the first chapter, the narrator, Nick Carraway, introduces himself and his background before describing his move to West Egg, a wealthy enclave on Long Island. He goes to dinner at the home of his cousin, Daisy, and her powerful, brutish husband, Tom Buchanan. There, he also meets Jordan Baker, a professional golfer, and learns that Tom is having an affair. The chapter concludes with Nick returning home and seeing his enigmatic neighbor, Jay Gatsby, for the first time, standing alone in the dark and reaching out toward a distant green light.
+
+Would you like a summary of the next chapter?","I am sorry, but I cannot provide the exact text from the book.
+
+However, I can offer a summary of that section. In the first chapter, the narrator, Nick Carraway, introduces himself and his background before describing his move to West Egg, a wealthy enclave on Long Island. He goes to dinner at the home of his cousin, Daisy, and her powerful, brutish husband, Tom Buchanan. There, he also meets Jordan Baker, a professional golfer, and learns that Tom is having an affair. The chapter concludes with Nick returning home and seeing his enigmatic neighbor, Jay Gatsby, for the first time, standing alone in the dark and reaching out toward a distant green light.
+
+Would you like a summary of the next chapter?",0,stop,,0,6.42,376,529,2026-08-13T15:54:23
+gatsby_ch08,Q08,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,48.89,380,4014,2026-08-13T15:55:06
+gatsby_ch08,Q09,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: down the marble steps into the garden, found myself face to face with Jordan Baker.
+SOURCE: recalled","down the marble steps into the garden, found myself face to face with Jordan Baker.",0,stop,,0,6.05,378,397,2026-08-13T15:54:25
+gatsby_ch08,Q10,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide the exact text from the novel. However, I can offer a summary of that section of the story.
+
+In this chapter, Gatsby and Daisy are finally reunited at Nick's house. The meeting is awkward at first, but they soon reconnect as Gatsby gives Daisy a tour of his opulent mansion. He shows off his wealth, particularly his collection of expensive shirts, in an effort to impress her and prove his worth. The chapter focuses on the intensity of Gatsby's long-held dream and Daisy's emotional, and somewhat overwhelmed, reaction to seeing him again in such extravagant circumstances.
+
+Would you like a summary of the next chapter?","I am unable to provide the exact text from the novel. However, I can offer a summary of that section of the story.
+
+In this chapter, Gatsby and Daisy are finally reunited at Nick's house. The meeting is awkward at first, but they soon reconnect as Gatsby gives Daisy a tour of his opulent mansion. He shows off his wealth, particularly his collection of expensive shirts, in an effort to impress her and prove his worth. The chapter focuses on the intensity of Gatsby's long-held dream and Daisy's emotional, and somewhat overwhelmed, reaction to seeing him again in such extravagant circumstances.
+
+Would you like a summary of the next chapter?",0,stop,,0,7.59,379,607,2026-08-13T15:54:30
+gatsby_ch08,Q11,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: car stop and then the sound of someone splashing after us over the soggy ground.
+SOURCE: recalled",car stop and then the sound of someone splashing after us over the soggy ground.,0,stop,,0,9.81,377,856,2026-08-13T15:54:33
+gatsby_ch08,Q12,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,35.38,0,0,2026-08-13T15:55:01
+gatsby_ch08,Q13,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: ends of the earth and didn't know that the party was over.
+SOURCE: recalled",ends of the earth and didn't know that the party was over.,0,stop,,0,4.85,377,335,2026-08-13T15:54:33
+gatsby_ch08,Q21,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,56.98,377,3906,2026-08-13T15:55:27
+gatsby_ch08,Q22,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I saw he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford I
+SOURCE: recalled","I saw he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford I",0,stop,,0,8.81,383,744,2026-08-13T15:54:42
+gatsby_ch08,Q23,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I saw he was a fine-appearing, gentlemanly young man, and when he told me he was in the army
+SOURCE: recalled","I saw he was a fine-appearing, gentlemanly young man, and when he told me he was in the army",0,stop,,0,5.32,403,406,2026-08-13T15:54:39
+gatsby_ch08,Q24,positive,control,positive,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford man
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford man",0,stop,,0,7.52,432,682,2026-08-13T15:54:47
+gatsby_shuf_ch01,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: I never saw this great-uncle, but I’m supposed to look like him—with special reference to the rather hard-boiled painting that hangs in father’s office.
+SOURCE: recalled","I never saw this great-uncle, but I’m supposed to look like him—with special reference to the rather hard-boiled painting that hangs in father’s office.",0,stop,,0,36.96,389,3971,2026-08-13T15:55:20
+gatsby_shuf_ch01,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,32.93,0,0,2026-08-13T15:55:16
+gatsby_shuf_ch01,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: stopped and rested his hand on my shoulder. “What you doing, Nick?” he asked. “I’m a
+SOURCE: recalled","stopped and rested his hand on my shoulder. “What you doing, Nick?” he asked. “I’m a",0,stop,,0,43.61,387,3959,2026-08-13T15:55:28
+gatsby_shuf_ch01,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: “Well, it’s a fine book, and everybody ought to read it. The idea is if we don’t look out the white race will be—will be utterly submerged. It’s all scientific stuff; it’s been proved.”
+SOURCE: recalled","“Well, it’s a fine book, and everybody ought to read it. The idea is if we don’t look out the white race will be—will be utterly submerged. It’s all scientific stuff; it’s been proved.”",0,stop,,0,39.77,385,3911,2026-08-13T15:55:27
+gatsby_shuf_ch01,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: said Daisy, with an expression of unthoughtful sadness. “He reads deep books with long words in them. What was that word we—” “Well, these books are all scientific,” insisted Tom, glancing at her impatiently. “This fellow has worked out the
+SOURCE: recalled","said Daisy, with an expression of unthoughtful sadness. “He reads deep books with long words in them. What was that word we—” “Well, these books are all scientific,” insisted Tom, glancing at her impatiently. “This fellow has worked out the",0,stop,,0,42.53,386,3988,2026-08-13T15:55:32
+gatsby_shuf_ch01,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.63,382,3981,2026-08-13T15:55:48
+gatsby_shuf_ch01,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,56.87,386,3864,2026-08-13T15:55:58
+gatsby_shuf_ch01,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,55.43,383,3861,2026-08-13T15:56:00
+gatsby_shuf_ch01,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,56.01,388,3717,2026-08-13T15:56:03
+gatsby_shuf_ch01,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,"I am unable to provide a verbatim recitation from that text.
+
+In the first chapter, the narrator, Nick, visits his wealthy cousin Daisy and her husband Tom at their home. He meets their friend, Jordan Baker, a well-known athlete. The elegant evening is disrupted by a phone call for Tom, which reveals the troubled nature of his marriage to Daisy and introduces a sense of unease beneath the glamorous surface.
+
+Would you like a summary of the next chapter?","I am unable to provide a verbatim recitation from that text.
+
+In the first chapter, the narrator, Nick, visits his wealthy cousin Daisy and her husband Tom at their home. He meets their friend, Jordan Baker, a well-known athlete. The elegant evening is disrupted by a phone call for Tom, which reveals the troubled nature of his marriage to Daisy and introduces a sense of unease beneath the glamorous surface.
+
+Would you like a summary of the next chapter?",0,stop,,0,24.92,405,1376,2026-08-13T15:55:41
+gatsby_shuf_ch01,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,57.57,435,3878,2026-08-13T15:56:17
+gatsby_shuf_ch02,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: him, and I was confused and a little disgusted as I drove away. It seemed to me that the thing for
+SOURCE: recalled","him, and I was confused and a little disgusted as I drove away. It seemed to me that the thing for",0,stop,,0,45.64,385,3957,2026-08-13T15:56:13
+gatsby_shuf_ch02,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: “Crazy about him!” cried Myrtle incredulously. “Who said I was crazy about him? I never was any more crazy
+SOURCE: recalled",“Crazy about him!” cried Myrtle incredulously. “Who said I was crazy about him? I never was any more crazy,0,stop,,0,41.76,395,3959,2026-08-13T15:56:09
+gatsby_shuf_ch02,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,57.54,415,3878,2026-08-13T15:56:25
+gatsby_shuf_ch02,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: ""Well, I married him,"" said Myrtle, ambiguously. ""And that's the difference between your case and mine."" ""Why did you,
+SOURCE: recalled","""Well, I married him,"" said Myrtle, ambiguously. ""And that's the difference between your case and mine."" ""Why did you,",0,stop,,0,39.68,451,3968,2026-08-13T15:56:12
+gatsby_shuf_ch03,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,60.45,388,3866,2026-08-13T15:56:42
+gatsby_shuf_ch03,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,49.73,386,3897,2026-08-13T15:56:38
+gatsby_shuf_ch03,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,54.03,385,3851,2026-08-13T15:56:43
+gatsby_shuf_ch03,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and the Dewars and the Scullys and the S. W. Belcher and the Smirkes and the young Quinns, divorced now, and Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square.
+SOURCE: recalled","and the Dewars and the Scullys and the S. W. Belcher and the Smirkes and the young Quinns, divorced now, and Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square.",0,stop,,0,37.72,386,2862,2026-08-13T15:56:36
+gatsby_shuf_ch03,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,46.17,0,0,2026-08-13T15:56:47
+gatsby_shuf_ch03,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,50.15,0,0,2026-08-13T15:56:53
+gatsby_shuf_ch03,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: major, and the Allied governments pinned medals all over him. I saw the one from Montenegro on the bureau in his bedroom.
+SOURCE: recalled","major, and the Allied governments pinned medals all over him. I saw the one from Montenegro on the bureau in his bedroom.",0,stop,,0,45.89,385,3960,2026-08-13T15:56:56
+gatsby_shuf_ch03,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,53.5,381,3966,2026-08-13T15:57:06
+gatsby_shuf_ch03,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes,
+SOURCE: recalled","Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes,",0,stop,,0,31.27,388,3085,2026-08-13T15:56:45
+gatsby_shuf_ch03,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and
+SOURCE: recalled","Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and",0,stop,,0,44.73,404,3957,2026-08-13T15:57:03
+gatsby_shuf_ch03,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,46.24,438,3938,2026-08-13T15:57:12
+gatsby_shuf_ch04,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,54.82,388,3924,2026-08-13T15:57:32
+gatsby_shuf_ch04,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.1,393,3910,2026-08-13T15:57:30
+gatsby_shuf_ch04,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: the next autumn she was gay again, gay as ever. She had a debut after the Armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before.
+SOURCE: recalled","the next autumn she was gay again, gay as ever. She had a debut after the Armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before.",0,stop,,0,44.72,382,3991,2026-08-13T15:57:27
+gatsby_shuf_ch04,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,56.73,385,3853,2026-08-13T15:57:40
+gatsby_shuf_ch04,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,50.35,0,0,2026-08-13T15:57:35
+gatsby_shuf_ch04,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,46.42,0,0,2026-08-13T15:57:32
+gatsby_shuf_ch04,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,23.85,0,0,2026-08-13T15:57:11
+gatsby_shuf_ch04,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.96,382,3990,2026-08-13T15:57:45
+gatsby_shuf_ch04,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,148.81,471,1377,2026-08-13T15:59:25
+gatsby_shuf_ch04,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: “I don’t want to do anything out of the way!” he kept saying. “I want to see her right next door.”
+SOURCE: recalled",“I don’t want to do anything out of the way!” he kept saying. “I want to see her right next door.”,0,stop,,0,46.7,408,3962,2026-08-13T15:57:50
+gatsby_shuf_ch04,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: ""'I don't want to do anything out of the way!' he kept saying. 'I want to see her right next door.'""
+SOURCE: recalled","""'I don't want to do anything out of the way!' he kept saying. 'I want to see her right next door.'""",0,stop,,0,35.89,435,2875,2026-08-13T15:57:42
+gatsby_shuf_ch05,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,54.19,0,0,2026-08-13T15:58:05
+gatsby_shuf_ch05,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: because it couldn't be over-dreamed—that voice was a deathless song.
+SOURCE: recalled",because it couldn't be over-dreamed—that voice was a deathless song.,0,stop,,0,43.38,387,3953,2026-08-13T15:57:56
+gatsby_shuf_ch05,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,53.45,383,3970,2026-08-13T15:58:21
+gatsby_shuf_ch05,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.64,384,3859,2026-08-13T15:58:21
+gatsby_shuf_ch05,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.8,386,3941,2026-08-13T15:58:24
+gatsby_shuf_ch05,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,inferred,"ANSWER: he said, his voice trembling, ""but he's a rotten driver, you know. He oughtn't
+SOURCE: inferred","he said, his voice trembling, ""but he's a rotten driver, you know. He oughtn't",0,stop,,0,43.59,382,3959,2026-08-13T15:58:16
+gatsby_shuf_ch05,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: over to Gatsby’s house that Saturday afternoon. An unfamiliar butler with a villainous face squinted at me suspiciously from the door. “Is Mr. Gatsby sick?” “Nope,” he said with a coarse intimacy he had probably picked up from a movie producer. “He’s gone to Coney Island with her.
+SOURCE: recalled","over to Gatsby’s house that Saturday afternoon. An unfamiliar butler with a villainous face squinted at me suspiciously from the door. “Is Mr. Gatsby sick?” “Nope,” he said with a coarse intimacy he had probably picked up from a movie producer. “He’s gone to Coney Island with her.",0,stop,,0,42.75,385,3998,2026-08-13T15:58:18
+gatsby_shuf_ch05,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,50.27,383,3931,2026-08-13T15:58:30
+gatsby_shuf_ch05,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,35.25,0,0,2026-08-13T15:58:18
+gatsby_shuf_ch05,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,50.84,409,3878,2026-08-13T15:58:37
+gatsby_shuf_ch05,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: “So we did,” he said, after a moment. “I remember very well.” “About two weeks ago.” “That’s right. You were
+SOURCE: recalled","“So we did,” he said, after a moment. “I remember very well.” “About two weeks ago.” “That’s right. You were",0,stop,,0,38.21,439,3968,2026-08-13T15:58:28
+gatsby_shuf_ch06,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,58.91,383,3747,2026-08-13T15:58:55
+gatsby_shuf_ch06,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,64.18,0,0,2026-08-13T15:59:10
+gatsby_shuf_ch06,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,52.43,387,3985,2026-08-13T15:59:09
+gatsby_shuf_ch06,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,63.1,389,3925,2026-08-13T15:59:21
+gatsby_shuf_ch06,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: she threw the cigarette and the burning match on the carpet. ""Oh, you want too much!"" she cried to Gatsby. ""I love you now—isn't that enough? I can't help what's past.""
+SOURCE: recalled","she threw the cigarette and the burning match on the carpet. ""Oh, you want too much!"" she cried to Gatsby. ""I love you now—isn't that enough? I can't help what's past.""",0,stop,,0,39.93,384,3984,2026-08-13T15:58:59
+gatsby_shuf_ch06,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: ""What about it?"" said Gatsby politely. ""I guess your friend Walter Chase wasn't too proud to come in on it."" ""And you left him in the lurch, didn't you?""
+SOURCE: recalled","""What about it?"" said Gatsby politely. ""I guess your friend Walter Chase wasn't too proud to come in on it."" ""And you left him in the lurch, didn't you?""",0,stop,,0,44.54,386,3976,2026-08-13T15:59:06
+gatsby_shuf_ch06,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,inferred,"ANSWER: before he could frame the words for his lips. Thirty—the promise of a decade of loneliness, a thinning
+SOURCE: inferred","before he could frame the words for his lips. Thirty—the promise of a decade of loneliness, a thinning",0,stop,,0,45.38,383,3957,2026-08-13T15:59:07
+gatsby_shuf_ch06,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: to the house. I was alone and it was almost two. For some time I wandered around rather ill
+SOURCE: recalled",to the house. I was alone and it was almost two. For some time I wandered around rather ill,0,stop,,0,45.08,382,3955,2026-08-13T15:59:09
+gatsby_shuf_ch06,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: whereupon he turned and caught it with trembling fingers and set it back in place. Then he sat down, rigidly,
+SOURCE: recalled","whereupon he turned and caught it with trembling fingers and set it back in place. Then he sat down, rigidly,",0,stop,,0,47.67,390,3958,2026-08-13T15:59:16
+gatsby_shuf_ch06,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,35.02,0,0,2026-08-13T15:59:06
+gatsby_shuf_ch06,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,60.17,442,3858,2026-08-13T15:59:37
+gatsby_shuf_ch07,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,55.15,381,3883,2026-08-13T15:59:51
+gatsby_shuf_ch07,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.82,382,3926,2026-08-13T15:59:51
+gatsby_shuf_ch07,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,48.16,387,3985,2026-08-13T15:59:54
+gatsby_shuf_ch07,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,36.78,0,0,2026-08-13T15:59:43
+gatsby_shuf_ch07,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,131.53,0,0,2026-08-13T16:01:19
+gatsby_shuf_ch07,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: and I said ‘God knows what you’ve been doing, everything
+SOURCE: recalled","and I said ‘God knows what you’ve been doing, everything",0,stop,,0,44.04,386,3949,2026-08-13T15:59:53
+gatsby_shuf_ch07,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,53.53,385,3978,2026-08-13T16:00:03
+gatsby_shuf_ch07,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,52.24,383,3929,2026-08-13T16:00:03
+gatsby_shuf_ch07,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,125.73,476,133,2026-08-13T16:01:23
+gatsby_shuf_ch07,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,52.77,402,3984,2026-08-13T16:00:14
+gatsby_shuf_ch07,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"He was worried now—there was a quality of nervous despair in Daisy’s letters. She didn’t see why he couldn’t come.
+SOURCE: recalled",He was worried now—there was a quality of nervous despair in Daisy’s letters. She didn’t see why he couldn’t come.,0,stop,,0,43.39,435,3964,2026-08-13T16:00:09
+gatsby_shuf_ch08,Q07,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,55.04,0,0,2026-08-13T16:00:33
+gatsby_shuf_ch08,Q08,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all.
+SOURCE: recalled",This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all.,0,stop,,0,41.91,382,3960,2026-08-13T16:00:26
+gatsby_shuf_ch08,Q09,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,168.27,465,908,2026-08-13T16:02:39
+gatsby_shuf_ch08,Q10,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: young lady from Forty-third Street. I've got to say good-by to her now.""
+SOURCE: recalled","young lady from Forty-third Street. I've got to say good-by to her now.""",0,stop,,0,43.48,386,3955,2026-08-13T16:00:35
+gatsby_shuf_ch08,Q11,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,51.06,385,3985,2026-08-13T16:00:45
+gatsby_shuf_ch08,Q12,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,length,,0,55.93,383,3989,2026-08-13T16:00:51
+gatsby_shuf_ch08,Q13,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,,,,0,error,,0,132.09,464,321,2026-08-13T16:02:15
+gatsby_shuf_ch08,Q21,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: you, and I love you now—isn’t that enough? I can’t help what’s past.” She began to sob
+SOURCE: recalled","you, and I love you now—isn’t that enough? I can’t help what’s past.” She began to sob",0,stop,,0,47.82,383,3962,2026-08-13T16:00:51
+gatsby_shuf_ch08,Q22,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: him start and then hastily looked at his watch, muttering that he had an appointment. “My corroboration?” he demanded incredulously. “I
+SOURCE: recalled","him start and then hastily looked at his watch, muttering that he had an appointment. “My corroboration?” he demanded incredulously. “I",0,stop,,0,42.91,393,3965,2026-08-13T16:00:52
+gatsby_shuf_ch08,Q23,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,recalled,"ANSWER: “I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing,
+SOURCE: recalled","“I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing,",0,stop,,0,39.98,408,3873,2026-08-13T16:00:55
+gatsby_shuf_ch08,Q24,negative,control,negative,D,google/gemini-2.5-pro,2025-01-31,Google,inferred,"ANSWER: 'I made him,' he said Olga Petrova's husband, and he made me. I raised him up out of
+SOURCE: inferred","'I made him,' he said Olga Petrova's husband, and he made me. I raised him up out of",0,stop,,0,43.32,442,3962,2026-08-13T16:01:09

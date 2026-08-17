@@ -304,7 +304,11 @@ def main():
             print(f"\n  pooled: rouge_l={allv[0]['rouge_l']}  longest_run={allv[0]['longest_run']} "
                   f"tokens  token_f1={allv[0]['token_f1']}")
         os.makedirs(args.out_dir, exist_ok=True)
-        fp = os.path.join(args.out_dir, "null_floor.json")
+        # Tagged by dataset. A bare null_floor.json meant the second --null run
+        # silently overwrote the first, so whichever of court/controls ran last
+        # was the only floor on disk -- and they differ (court 0.9, controls 1.0).
+        null_tag = os.path.basename(args.qa).replace("_qa.csv", "").replace(".csv", "")
+        fp = os.path.join(args.out_dir, f"null_floor__{null_tag}.json")
         json.dump({"generated": time.strftime("%Y-%m-%dT%H:%M:%S"),
                    "n_gold_answers": len(rows), "pooled": allv[0] if allv else {},
                    "by_question": summarize(s)}, open(fp, "w"), indent=1)
@@ -351,6 +355,11 @@ def main():
         s.update(case_id=r["case_id"], qid=r["qid"], tier=r["tier"],
                  date_filed=d, jurisdiction=r.get("jurisdiction"),
                  court_level=r.get("court_level"), model=model, model_cutoff=cutoff,
+                 # Model's own claim about whether it knows the case. Carried
+                 # through, never used to filter: the whole point is to test it
+                 # against measured overlap, and dropping `recall: no` rows would
+                 # reintroduce the selection effect the mandatory guess removes.
+                 recall=p.get("recall", ""),
                  arm=("pre_cutoff" if (cutoff and d and d <= cutoff)
                       else "post_cutoff" if (cutoff and d) else "unassigned"),
                  unknown=int(s['nonanswer'].startswith('unknown')),
@@ -389,7 +398,7 @@ def main():
     slug = f"{tag}__" + (model or "model").replace("/", "__")
     row_fp = os.path.join(args.out_dir, f"scores_{slug}.csv")
     cols = ["case_id", "qid", "tier", "arm", "date_filed", "jurisdiction", "court_level",
-            "model", "model_cutoff", "exact_match", "prefix_tokens", "prefix_frac",
+            "model", "model_cutoff", "recall", "exact_match", "prefix_tokens", "prefix_frac",
             "longest_run", "longest_run_frac", "rouge_l", "token_f1", "char_ratio",
             "heading_recall", "heading_extras", "heading_score",
             "gold_headings", "pred_headings",

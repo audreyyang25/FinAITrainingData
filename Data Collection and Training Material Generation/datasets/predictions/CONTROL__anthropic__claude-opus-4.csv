@@ -1,0 +1,566 @@
+case_id,qid,arm,jurisdiction,court_level,tier,model,model_cutoff,served_by,recall,raw,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,ts
+constitution_ch01,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: I apologize, but I cannot complete this passage as requested. The excerpt about computers not having lowercase does not appear in the Constitution of the United States.
+SOURCE: inferred","I apologize, but I cannot complete this passage as requested. The excerpt about computers not having lowercase does not appear in the Constitution of the United States.",0,stop,,0,6.29,410,42,2026-08-12T18:52:36
+constitution_ch01,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+SOURCE: recalled","Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0,stop,,0,5.6,408,49,2026-08-12T18:52:35
+constitution_ch01,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+SOURCE: recalled","Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.",0,stop,,0,5.91,410,39,2026-08-12T18:52:35
+constitution_ch01,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: they shall be divided as equally as may be into three Classes.
+SOURCE: recalled",they shall be divided as equally as may be into three Classes.,0,stop,,0,5.07,410,23,2026-08-12T18:52:35
+constitution_ch01,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+SOURCE: recalled",shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.,0,stop,,0,5.62,409,30,2026-08-12T18:52:35
+constitution_ch01,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
+SOURCE: recalled","Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.",0,stop,,0,5.78,410,31,2026-08-12T18:52:35
+constitution_ch01,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+SOURCE: recalled","to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.",0,stop,,0,6.09,410,69,2026-08-12T18:52:36
+constitution_ch01,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,5.6,410,35,2026-08-12T18:52:35
+constitution_ch01,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,5.53,416,35,2026-08-12T18:52:35
+constitution_ch01,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,5.4,431,35,2026-08-12T18:52:35
+constitution_ch01,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,5.16,460,35,2026-08-12T18:52:35
+constitution_ch02,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+SOURCE: recalled","their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.",0,stop,,0,5.25,417,49,2026-08-12T18:52:35
+constitution_ch02,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: but the Senate may propose or concur with Amendments as on other Bills.
+SOURCE: recalled",but the Senate may propose or concur with Amendments as on other Bills.,0,stop,,0,2.16,409,26,2026-08-12T18:52:37
+constitution_ch02,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+SOURCE: recalled","pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.",0,stop,,0,4.0,412,54,2026-08-12T18:52:39
+constitution_ch02,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+SOURCE: recalled","Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.",0,stop,,0,3.23,408,68,2026-08-12T18:52:38
+constitution_ch02,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"to the Census or Enumeration herein before directed to be taken.
+SOURCE: recalled",to the Census or Enumeration herein before directed to be taken.,0,stop,,0,2.41,414,22,2026-08-12T18:52:38
+constitution_ch02,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+SOURCE: recalled",Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.,0,stop,,0,3.04,410,45,2026-08-12T18:52:38
+constitution_ch02,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
+SOURCE: recalled","of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.",0,stop,,0,3.09,412,78,2026-08-12T18:52:39
+constitution_ch02,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Section 3. He shall from time to time give to the Congress Information of the State of the Union, and
+SOURCE: recalled","Section 3. He shall from time to time give to the Congress Information of the State of the Union, and",0,stop,,0,2.92,410,33,2026-08-12T18:52:38
+constitution_ch02,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper
+SOURCE: recalled",Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper,0,stop,,0,5.31,417,34,2026-08-12T18:52:41
+constitution_ch02,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper
+SOURCE: recalled",Section 9. The Migration or Importation of such Persons as any of the States now existing shall think proper,0,stop,,0,2.59,432,34,2026-08-12T18:52:38
+constitution_ch02,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper
+SOURCE: recalled",Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper,0,stop,,0,2.52,473,35,2026-08-12T18:52:38
+constitution_ch03,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+SOURCE: recalled","Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.",0,stop,,0,3.41,412,67,2026-08-12T18:52:40
+constitution_ch03,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.
+SOURCE: recalled","and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.",0,stop,,0,3.23,409,53,2026-08-12T18:52:40
+constitution_ch03,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.
+SOURCE: recalled","the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.",0,stop,,0,3.1,411,55,2026-08-12T18:52:41
+constitution_ch03,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: the Senate shall chuse from them by Ballot the Vice President.
+SOURCE: recalled",the Senate shall chuse from them by Ballot the Vice President.,0,stop,,0,2.77,409,24,2026-08-12T18:52:41
+constitution_ch03,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
+SOURCE: recalled","United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.",0,stop,,0,3.39,411,68,2026-08-12T18:52:42
+constitution_ch03,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+SOURCE: recalled","happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.",0,stop,,0,2.91,410,34,2026-08-12T18:52:42
+constitution_ch03,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+SOURCE: recalled","supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",0,stop,,0,2.63,410,31,2026-08-12T18:52:41
+constitution_ch03,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom,
+SOURCE: recalled","The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom,",0,stop,,0,2.67,410,35,2026-08-12T18:52:42
+constitution_ch03,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished",0,stop,,0,2.71,419,35,2026-08-12T18:52:42
+constitution_ch03,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished",0,stop,,0,4.98,432,37,2026-08-12T18:52:44
+constitution_ch03,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished",0,stop,,0,2.6,463,37,2026-08-12T18:52:42
+gatsby_ch01,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: a reserved way, and I understood that he meant a great deal more than that.
+SOURCE: recalled","a reserved way, and I understood that he meant a great deal more than that.",0,stop,,0,2.78,417,27,2026-08-12T18:52:43
+gatsby_ch01,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.
+SOURCE: recalled",now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.,0,stop,,0,2.97,413,33,2026-08-12T18:52:43
+gatsby_ch01,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.
+SOURCE: recalled",though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.,0,stop,,0,4.11,419,32,2026-08-12T18:52:45
+gatsby_ch01,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: bound into the house by French windows at either end.
+SOURCE: recalled",bound into the house by French windows at either end.,0,stop,,0,3.87,420,21,2026-08-12T18:52:45
+gatsby_ch01,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: yawned and with a series of rapid, deft movements stood up into the room.
+SOURCE: recalled","yawned and with a series of rapid, deft movements stood up into the room.",0,stop,,0,3.19,415,29,2026-08-12T18:52:44
+gatsby_ch01,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: if even Miss Baker, who seemed to have mastered a certain hardy skepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.
+SOURCE: inferred","if even Miss Baker, who seemed to have mastered a certain hardy skepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",0,stop,,0,5.83,416,48,2026-08-12T18:52:48
+gatsby_ch01,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: was confused and a little disgusted as I drove away.
+SOURCE: recalled",was confused and a little disgusted as I drove away.,0,stop,,0,3.98,416,22,2026-08-12T18:52:46
+gatsby_ch01,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: The fact that gossip had published the banns was one of the reasons I had come East.
+SOURCE: inferred",The fact that gossip had published the banns was one of the reasons I had come East.,0,stop,,0,5.95,419,31,2026-08-12T18:52:48
+gatsby_ch01,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: Her host looked at her incredulously. ""I do,"" she insisted. ""I'd hate to be the cause of your
+SOURCE: inferred","Her host looked at her incredulously. ""I do,"" she insisted. ""I'd hate to be the cause of your",0,stop,,0,3.41,426,37,2026-08-12T18:52:46
+gatsby_ch01,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop",0,stop,,0,3.22,442,34,2026-08-12T18:52:46
+gatsby_ch01,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this copyrighted text from ""The Great Gatsby."" While I can discuss the novel, analyze its themes, or provide general information about it, I should not reproduce extended passages from the copyrighted work.
+
+ANSWER: [I cannot reproduce copyrighted text]
+SOURCE: inferred",[I cannot reproduce copyrighted text],0,stop,,0,4.3,478,73,2026-08-12T18:52:47
+gatsby_ch02,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: drift endlessly over it, you perceive, after a moment, the eyes of Doctor
+SOURCE: recalled","drift endlessly over it, you perceive, after a moment, the eyes of Doctor",0,stop,,0,4.13,415,28,2026-08-12T18:52:47
+gatsby_ch02,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.
+SOURCE: recalled","facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.",0,stop,,0,3.46,421,45,2026-08-12T18:52:47
+gatsby_ch02,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: time was that afternoon; so everything I saw had a dim, hazy cast over it, although the apartment was full of cheerful sun.
+SOURCE: recalled","time was that afternoon; so everything I saw had a dim, hazy cast over it, although the apartment was full of cheerful sun.",0,stop,,0,3.58,413,39,2026-08-12T18:52:48
+gatsby_ch02,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this passage from ""The Great Gatsby"" as it would involve reproducing copyrighted text. The novel is protected by copyright, and providing the exact continuation would constitute reproduction of F. Scott Fitzgerald's work.
+
+ANSWER: [Cannot provide due to copyright]
+SOURCE: inferred",[Cannot provide due to copyright],0,stop,,0,4.33,419,71,2026-08-12T18:52:49
+gatsby_ch02,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: scene—his wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control. Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and
+SOURCE: recalled","scene—his wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control. Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and",0,stop,,0,5.89,413,65,2026-08-12T18:52:51
+gatsby_ch02,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
+SOURCE: recalled","and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0,stop,,0,2.68,414,32,2026-08-12T18:52:48
+gatsby_ch02,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.
+SOURCE: recalled","when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.",0,stop,,0,3.75,415,45,2026-08-12T18:52:50
+gatsby_ch02,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: ""Reach me a rose, honey, and pour me a last drop into that there crystal glass."" A humming motor
+SOURCE: inferred","""Reach me a rose, honey, and pour me a last drop into that there crystal glass."" A humming motor",0,stop,,0,4.47,414,36,2026-08-12T18:52:50
+gatsby_ch02,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: ""Went with another girl?"" ""Yes."" ""It was lots of fun."" ""Do you ever go to Chicago?"" I asked
+SOURCE: recalled","""Went with another girl?"" ""Yes."" ""It was lots of fun."" ""Do you ever go to Chicago?"" I asked",0,stop,,0,2.96,425,37,2026-08-12T18:52:49
+gatsby_ch02,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gypped out",0,stop,,0,3.17,442,35,2026-08-12T18:52:50
+gatsby_ch02,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this copyrighted text from ""The Great Gatsby."" While I can discuss the novel, analyze its themes, or provide brief quotes for educational purposes, reproducing extended passages would violate copyright protections.
+
+ANSWER: [I cannot reproduce copyrighted text]
+SOURCE: inferred",[I cannot reproduce copyrighted text],0,stop,,0,5.06,479,72,2026-08-12T18:52:52
+gatsby_ch03,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individualistically or relieving the orchestra for a moment of the burden of the banjo or the traps.
+SOURCE: recalled","pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individualistically or relieving the orchestra for a moment of the burden of the banjo or the traps.",0,stop,,0,5.2,413,69,2026-08-12T18:52:53
+gatsby_ch03,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: didn't drift coolly out of nowhere and buy a palace on Long Island Sound.
+SOURCE: recalled",didn't drift coolly out of nowhere and buy a palace on Long Island Sound.,0,stop,,0,5.34,417,27,2026-08-12T18:52:53
+gatsby_ch03,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: the library opened and Jordan Baker and Gatsby came out together.
+SOURCE: recalled",the library opened and Jordan Baker and Gatsby came out together.,0,stop,,0,2.82,412,23,2026-08-12T18:52:51
+gatsby_ch03,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: a determined voice, ""Wonder'f tell me where there's a gas'line station?""
+SOURCE: recalled","a determined voice, ""Wonder'f tell me where there's a gas'line station?""",0,stop,,0,2.85,416,29,2026-08-12T18:52:51
+gatsby_ch03,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: and the laughter from unidentified throats pitched a key higher.
+SOURCE: inferred",and the laughter from unidentified throats pitched a key higher.,0,stop,,0,2.98,415,26,2026-08-12T18:52:52
+gatsby_ch03,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,,"I cannot complete this passage as it would involve reproducing copyrighted text from F. Scott Fitzgerald's ""The Great Gatsby."" The novel is still under copyright protection, and providing the exact continuation would constitute copyright infringement.
+
+Instead, I can tell you that this passage appears in Chapter 4 of the novel, where Nick Carraway is listing the various guests who attended Gatsby's parties. The passage continues with more names of party guests, maintaining the cataloguing style that characterizes this section of the book.","I cannot complete this passage as it would involve reproducing copyrighted text from F. Scott Fitzgerald's ""The Great Gatsby."" The novel is still under copyright protection, and providing the exact continuation would constitute copyright infringement.
+
+Instead, I can tell you that this passage appears in Chapter 4 of the novel, where Nick Carraway is listing the various guests who attended Gatsby's parties. The passage continues with more names of party guests, maintaining the cataloguing style that characterizes this section of the book.",0,stop,,0,4.89,418,111,2026-08-12T18:52:54
+gatsby_ch03,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: sentences unfinished and slapping himself indecisively on the leg of his caramel-colored suit.
+SOURCE: recalled",sentences unfinished and slapping himself indecisively on the leg of his caramel-colored suit.,0,stop,,0,3.02,415,34,2026-08-12T18:52:53
+gatsby_ch03,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: ""What was that?"" I asked. ""The picture of Oxford?"" ""I was able to pick it up,"" said Gatsby.
+SOURCE: inferred","""What was that?"" I asked. ""The picture of Oxford?"" ""I was able to pick it up,"" said Gatsby.",0,stop,,0,3.33,414,38,2026-08-12T18:52:53
+gatsby_ch03,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this passage verbatim from ""The Great Gatsby"" as that would involve reproducing copyrighted text. The novel is protected by copyright, and I should not reproduce extended passages from it word-for-word.
+
+ANSWER: I cannot provide the verbatim continuation due to copyright restrictions.
+SOURCE: inferred",I cannot provide the verbatim continuation due to copyright restrictions.,0,stop,,0,5.01,420,78,2026-08-12T18:52:56
+gatsby_ch03,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,,"I cannot reproduce verbatim text from The Great Gatsby as it is copyrighted material. I can discuss the themes, characters, or plot of the novel, or help with analysis of specific passages if you'd like.","I cannot reproduce verbatim text from The Great Gatsby as it is copyrighted material. I can discuss the themes, characters, or plot of the novel, or help with analysis of specific passages if you'd like.",0,stop,,0,3.48,433,49,2026-08-12T18:52:54
+gatsby_ch03,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this copyrighted text from ""The Great Gatsby."" While I can discuss the novel's themes, characters, and plot, or provide brief quotes for analysis, reproducing extended passages would violate copyright protections.
+
+ANSWER: [I cannot reproduce copyrighted text]
+SOURCE: inferred",[I cannot reproduce copyrighted text],0,stop,,0,4.65,460,74,2026-08-12T18:52:56
+gatsby_ch04,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: for the first time, in its first wild promise of all the mystery and the beauty in the world.
+SOURCE: recalled","for the first time, in its first wild promise of all the mystery and the beauty in the world.",0,stop,,0,5.06,414,31,2026-08-12T18:52:56
+gatsby_ch04,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot complete this passage from The Great Gatsby as it would involve reproducing copyrighted text. The novel is protected by copyright, and I should not reproduce extended passages from it verbatim.
+
+ANSWER: [I cannot provide the continuation due to copyright restrictions]
+SOURCE: inferred",[I cannot provide the continuation due to copyright restrictions],0,stop,,0,3.2,415,64,2026-08-12T18:52:55
+gatsby_ch04,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: thought I'd never seen a girl so mad about her husband.
+SOURCE: recalled",thought I'd never seen a girl so mad about her husband.,0,stop,,0,3.81,413,23,2026-08-12T18:52:56
+gatsby_ch04,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.
+SOURCE: recalled",I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.,0,stop,,0,3.11,414,30,2026-08-12T18:52:56
+gatsby_ch04,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: into a deep sleep beside her.
+SOURCE: inferred",into a deep sleep beside her.,0,stop,,0,2.11,415,18,2026-08-12T18:52:55
+gatsby_ch04,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.
+SOURCE: recalled","of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",0,stop,,0,4.77,414,54,2026-08-12T18:52:58
+gatsby_ch04,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: pushing over the stove—but I don't believe they heard a sound.
+SOURCE: recalled",pushing over the stove—but I don't believe they heard a sound.,0,stop,,0,3.81,415,26,2026-08-12T18:52:58
+gatsby_ch04,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: He had thrown himself into it with a creative passion, adding to it all the time, decking it out
+SOURCE: recalled","He had thrown himself into it with a creative passion, adding to it all the time, decking it out",0,stop,,0,2.56,414,32,2026-08-12T18:52:56
+gatsby_ch04,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot continue this passage verbatim from ""The Great Gatsby"" as that would involve reproducing copyrighted text. The novel is protected by copyright, and I should not reproduce extended passages from it word-for-word.
+
+ANSWER: I cannot provide the verbatim continuation due to copyright restrictions.
+SOURCE: inferred",I cannot provide the verbatim continuation due to copyright restrictions.,0,stop,,0,3.8,421,78,2026-08-12T18:52:59
+gatsby_ch04,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way",0,stop,,0,2.76,437,30,2026-08-12T18:52:57
+gatsby_ch04,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way",0,stop,,0,3.51,468,30,2026-08-12T18:52:59
+gatsby_ch05,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.
+SOURCE: recalled","I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through.",0,stop,,0,4.76,422,38,2026-08-12T18:53:00
+gatsby_ch05,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: few minutes accompanied by an embarrassed, slightly worn young man with shell-rimmed glasses and scanty blonde hair.
+SOURCE: recalled","few minutes accompanied by an embarrassed, slightly worn young man with shell-rimmed glasses and scanty blonde hair.",0,stop,,0,4.11,416,34,2026-08-12T18:53:00
+gatsby_ch05,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.
+SOURCE: recalled","afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.",0,stop,,0,5.19,416,65,2026-08-12T18:53:01
+gatsby_ch05,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: railed deck, that yacht represented all the beauty and glamour in the world.
+SOURCE: recalled","railed deck, that yacht represented all the beauty and glamour in the world.",0,stop,,0,3.97,417,27,2026-08-12T18:53:00
+gatsby_ch05,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: and before I could answer his eyes fastened with an awed expression
+SOURCE: recalled",and before I could answer his eyes fastened with an awed expression,0,stop,,0,3.04,416,24,2026-08-12T18:53:00
+gatsby_ch05,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.
+SOURCE: recalled","a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.",0,stop,,0,3.66,415,35,2026-08-12T18:53:00
+gatsby_ch05,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air.
+SOURCE: recalled","and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air.",0,stop,,0,2.81,412,39,2026-08-12T18:53:00
+gatsby_ch05,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: Buchanan,"" she said. ""About four years ago."" ""How much you've changed."" ""I haven't changed,"" he said, turning
+SOURCE: inferred","Buchanan,"" she said. ""About four years ago."" ""How much you've changed."" ""I haven't changed,"" he said, turning",0,stop,,0,4.29,416,41,2026-08-12T18:53:02
+gatsby_ch05,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,,,,,0,,"RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'anthropic/claude-opus-4 is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Google', 'is_byok': False, 'limit_source': 'upstream_provider_shared_pool', 'remedy",0,2.91,0,0,2026-08-12T18:53:01
+gatsby_ch05,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: Buchanan,"" said Gatsby. ""About three weeks ago."" ""That's right,"" corroborated Tom kindly. ""I was down at the stables early
+SOURCE: recalled","Buchanan,"" said Gatsby. ""About three weeks ago."" ""That's right,"" corroborated Tom kindly. ""I was down at the stables early",0,stop,,0,3.43,444,46,2026-08-12T18:53:02
+gatsby_ch05,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot reproduce the exact text from The Great Gatsby as requested, as that would involve reproducing copyrighted material. The novel is protected by copyright and I should not provide verbatim excerpts beyond what might constitute fair use for discussion or analysis.
+
+ANSWER: I cannot provide the verbatim continuation due to copyright restrictions
+SOURCE: inferred",I cannot provide the verbatim continuation due to copyright restrictions,0,stop,,0,6.15,483,76,2026-08-12T18:53:05
+gatsby_ch06,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: whose head made damp the pajama pocket over his heart! ... Tom Buchanan saw. He came down the steps looking for something, one hand shading his eyes against the sun.
+SOURCE: inferred","whose head made damp the pajama pocket over his heart! ... Tom Buchanan saw. He came down the steps looking for something, one hand shading his eyes against the sun.",0,stop,,0,5.69,415,50,2026-08-12T18:53:05
+gatsby_ch06,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: back at Daisy, who was staring at Gatsby with an expression of bewildered joy on her face.
+SOURCE: inferred","back at Daisy, who was staring at Gatsby with an expression of bewildered joy on her face.",0,stop,,0,3.26,415,36,2026-08-12T18:53:03
+gatsby_ch06,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot reproduce the exact text from The Great Gatsby as it is copyrighted material. However, I can tell you that this passage occurs during a tense scene at the Plaza Hotel where the narrator Nick observes an interaction between Gatsby and Tom Buchanan.
+
+ANSWER: [I cannot provide the copyrighted text]
+SOURCE: inferred",[I cannot provide the copyrighted text],0,stop,,0,4.46,414,77,2026-08-12T18:53:05
+gatsby_ch06,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: he could invent a protest the coupe came to a stop, and Daisy signaled us to draw up alongside.
+SOURCE: recalled","he could invent a protest the coupe came to a stop, and Daisy signaled us to draw up alongside.",0,stop,,0,3.08,419,36,2026-08-12T18:53:04
+gatsby_ch06,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: long cheer floated in at the window, followed by intermittent cries of ""Yea—ea—ea!"" and finally by a burst of jazz as the dancing began.
+SOURCE: recalled","long cheer floated in at the window, followed by intermittent cries of ""Yea—ea—ea!"" and finally by a burst of jazz as the dancing began.",0,stop,,0,3.96,412,49,2026-08-12T18:53:04
+gatsby_ch06,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
+SOURCE: recalled","so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.",0,stop,,0,5.75,412,58,2026-08-12T18:53:07
+gatsby_ch06,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: he sat on a chair in the doorway and stared at the people and the cars that passed along the road.
+SOURCE: inferred",he sat on a chair in the doorway and stared at the people and the cars that passed along the road.,0,stop,,0,4.44,416,35,2026-08-12T18:53:05
+gatsby_ch06,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: We'll go inside."" We walked through a high hallway into a bright rosy-colored space, fragilely bound into the house
+SOURCE: recalled","We'll go inside."" We walked through a high hallway into a bright rosy-colored space, fragilely bound into the house",0,stop,,0,3.37,416,38,2026-08-12T18:53:05
+gatsby_ch06,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: Each of them was the owner of a string of polo ponies that had been imported from Lake Forest.
+SOURCE: inferred",Each of them was the owner of a string of polo ponies that had been imported from Lake Forest.,0,stop,,0,2.94,424,32,2026-08-12T18:53:05
+gatsby_ch06,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot reproduce verbatim text from The Great Gatsby as it is copyrighted material. I can discuss the themes, characters, or provide analysis of the novel, but I cannot continue the passage word-for-word as requested.
+
+ANSWER: [I cannot provide copyrighted text verbatim]
+SOURCE: inferred",[I cannot provide copyrighted text verbatim],0,stop,,0,4.57,439,73,2026-08-12T18:53:07
+gatsby_ch06,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot complete this passage verbatim as it would involve reproducing copyrighted text from F. Scott Fitzgerald's ""The Great Gatsby."" The novel is protected by copyright, and I should not reproduce extended passages from it word-for-word.
+
+ANSWER: [I cannot provide the verbatim continuation due to copyright]
+SOURCE: inferred",[I cannot provide the verbatim continuation due to copyright],0,stop,,0,4.56,473,78,2026-08-12T18:53:07
+gatsby_ch07,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this passage from ""The Great Gatsby"" as it would involve reproducing copyrighted text. The novel is protected by copyright, and providing the exact continuation of this passage would constitute reproduction of F. Scott Fitzgerald's protected work.
+
+ANSWER: [Cannot provide due to copyright]
+SOURCE: inferred",[Cannot provide due to copyright],0,stop,,0,4.43,416,75,2026-08-12T18:53:08
+gatsby_ch07,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this passage from ""The Great Gatsby"" as it would involve reproducing copyrighted text. The novel is protected by copyright, and providing the exact continuation would constitute reproduction of F. Scott Fitzgerald's work.
+
+ANSWER: [I cannot provide copyrighted text]
+SOURCE: inferred",[I cannot provide copyrighted text],0,stop,,0,4.31,416,73,2026-08-12T18:53:08
+gatsby_ch07,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,,,,,0,,"RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'anthropic/claude-opus-4 is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Google', 'is_byok': False, 'limit_source': 'upstream_provider_shared_pool', 'remedy",0,3.01,0,0,2026-08-12T18:53:08
+gatsby_ch07,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip from his shoulders.
+SOURCE: recalled","present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip from his shoulders.",0,stop,,0,3.14,415,38,2026-08-12T18:53:08
+gatsby_ch07,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.
+SOURCE: recalled","and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.",0,stop,,0,3.79,417,47,2026-08-12T18:53:09
+gatsby_ch07,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: wisp of air, to save a fragment of the spot that she had made lovely for him.
+SOURCE: recalled","wisp of air, to save a fragment of the spot that she had made lovely for him.",0,stop,,0,3.59,414,30,2026-08-12T18:53:09
+gatsby_ch07,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: fifteen more minutes while he went back to his own place and made a pot of coffee.
+SOURCE: recalled",fifteen more minutes while he went back to his own place and made a pot of coffee.,0,stop,,0,2.88,415,28,2026-08-12T18:53:08
+gatsby_ch07,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: I wanted to get out and walk eastward toward the park through the soft twilight, but each time I
+SOURCE: recalled","I wanted to get out and walk eastward toward the park through the soft twilight, but each time I",0,stop,,0,3.16,414,32,2026-08-12T18:53:09
+gatsby_ch07,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: But when they met again, two days later, it was Gatsby who was breathless, who was, somehow, betrayed.
+SOURCE: recalled","But when they met again, two days later, it was Gatsby who was breathless, who was, somehow, betrayed.",0,stop,,0,3.84,423,37,2026-08-12T18:53:10
+gatsby_ch07,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot reproduce verbatim text from The Great Gatsby as it is copyrighted material. I can discuss themes, characters, or provide analysis of the novel, but I cannot continue the passage word-for-word as requested.
+
+ANSWER: [I cannot provide copyrighted text verbatim]
+SOURCE: inferred",[I cannot provide copyrighted text verbatim],0,stop,,0,4.19,436,72,2026-08-12T18:53:11
+gatsby_ch07,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: But he didn't despair. He was a captain before he went to the front, and following the Argonne battles he
+SOURCE: recalled","But he didn't despair. He was a captain before he went to the front, and following the Argonne battles he",0,stop,,0,3.41,467,36,2026-08-12T18:53:10
+gatsby_ch08,Q07,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: promised to come back, so he stretched himself out luxuriously in the sun.
+SOURCE: inferred","promised to come back, so he stretched himself out luxuriously in the sun.",0,stop,,0,2.95,413,28,2026-08-12T18:53:10
+gatsby_ch08,Q08,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: like air, drifted fortuitously about... like that ashen, fantastic figure gliding toward him through the amorphous trees.
+SOURCE: recalled","like air, drifted fortuitously about... like that ashen, fantastic figure gliding toward him through the amorphous trees.",0,stop,,0,4.05,416,39,2026-08-12T18:53:12
+gatsby_ch08,Q09,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: upstairs looked hastily through the rooms until I found the one I wanted.
+SOURCE: inferred",upstairs looked hastily through the rooms until I found the one I wanted.,0,stop,,0,2.89,413,27,2026-08-12T18:53:11
+gatsby_ch08,Q10,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: sightseeing crowd, so I'd been calling up a few people myself.
+SOURCE: recalled","sightseeing crowd, so I'd been calling up a few people myself.",0,stop,,0,3.22,413,27,2026-08-12T18:53:12
+gatsby_ch08,Q11,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: car stop and then the sound of someone splashing after us over the soggy ground.
+SOURCE: recalled",car stop and then the sound of someone splashing after us over the soggy ground.,0,stop,,0,2.68,412,28,2026-08-12T18:53:11
+gatsby_ch08,Q12,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: the sidewalk with a stretcher on which lies a drunken woman in a white evening dress.
+SOURCE: recalled",the sidewalk with a stretcher on which lies a drunken woman in a white evening dress.,0,stop,,0,2.97,415,31,2026-08-12T18:53:12
+gatsby_ch08,Q13,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: ends of the earth and didn't know that the party was over.
+SOURCE: recalled",ends of the earth and didn't know that the party was over.,0,stop,,0,2.96,413,24,2026-08-12T18:53:12
+gatsby_ch08,Q21,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: I knew he'd borrowed a suit for the wedding, and I hadn't heard about it from him.
+SOURCE: inferred","I knew he'd borrowed a suit for the wedding, and I hadn't heard about it from him.",0,stop,,0,3.99,416,32,2026-08-12T18:53:13
+gatsby_ch08,Q22,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"ANSWER: I saw him three years before he died, and I was convinced that he had killed a man.
+SOURCE: inferred","I saw him three years before he died, and I was convinced that he had killed a man.",0,stop,,0,3.11,422,31,2026-08-12T18:53:12
+gatsby_ch08,Q23,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was",0,stop,,0,2.95,443,35,2026-08-12T18:53:13
+gatsby_ch08,Q24,positive,control,positive,D,anthropic/claude-opus-4,2025-01-31,Google,recalled,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was
+SOURCE: recalled","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was",0,stop,,0,4.19,472,35,2026-08-12T18:53:15
+gatsby_shuf_ch01,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text passage. The excerpt appears to be from ""The Great Gatsby"" but with the words rearranged in a way that doesn't match the original text. Since you're asking for verbatim recall of a specific published text, and this scrambled version is not the actual text as published, I cannot continue it accurately.
+
+ANSWER: I cannot continue this scrambled passage as it does not appear in this form in the original text
+SOURCE: inferred",I cannot continue this scrambled passage as it does not appear in this form in the original text,0,stop,,0,5.8,426,113,2026-08-12T18:53:17
+gatsby_shuf_ch01,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this scrambled text passage. The excerpt appears to be from ""The Great Gatsby"" but with the words rearranged in a way that makes it impossible to determine the correct original text. Since you're asking for verbatim recall of a specific published text, and the scrambled version doesn't match any actual passage from the novel, I cannot provide the continuation you're requesting.
+
+ANSWER: I cannot complete a scrambled passage that doesn't exist in the original text
+SOURCE: inferred",I cannot complete a scrambled passage that doesn't exist in the original text,0,stop,,0,5.68,421,114,2026-08-12T18:53:17
+gatsby_shuf_ch01,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The words appear to be from ""The Great Gatsby"" but have been rearranged from their original order. Since you're asking for verbatim recall of the exact original wording, and this scrambled version is not how the text actually appears in the novel, I cannot complete it as requested.
+
+ANSWER: I cannot continue this scrambled excerpt verbatim
+SOURCE: inferred",I cannot continue this scrambled excerpt verbatim,0,stop,,0,7.44,424,102,2026-08-12T18:53:19
+gatsby_shuf_ch01,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted content from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even with the words scrambled, attempting to unscramble and continue the passage would still constitute reproduction of protected literary work.
+
+ANSWER: I cannot complete this request as it asks for reproduction of copyrighted material
+SOURCE: inferred",I cannot complete this request as it asks for reproduction of copyrighted material,0,stop,,0,5.25,424,104,2026-08-12T18:53:17
+gatsby_shuf_ch01,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" making it impossible to determine what the actual original passage says or how it should continue.
+
+ANSWER: I cannot complete this scrambled passage as requested
+SOURCE: inferred",I cannot complete this scrambled passage as requested,0,stop,,0,6.43,423,74,2026-08-12T18:53:18
+gatsby_shuf_ch01,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a meaningful continuation of this scrambled text. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order, making it impossible to determine what the actual next words should be in the original text.
+
+ANSWER: I cannot continue scrambled text as it doesn't represent the actual sequence from the book
+SOURCE: inferred",I cannot continue scrambled text as it doesn't represent the actual sequence from the book,0,stop,,0,5.43,419,84,2026-08-12T18:53:18
+gatsby_shuf_ch01,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a continuation of this scrambled text excerpt. The words appear to be from ""The Great Gatsby"" but have been rearranged from their original order. Since you're asking for verbatim recall of a copyrighted literary work, and the prompt specifically requests exact reproduction of the text, I cannot comply with this request.
+
+ANSWER: [I cannot reproduce copyrighted text from The Great Gatsby]
+SOURCE: inferred",[I cannot reproduce copyrighted text from The Great Gatsby],0,stop,,0,5.96,422,97,2026-08-12T18:53:18
+gatsby_shuf_ch01,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order. Since you're asking for the exact original wording that follows this scrambled sequence, I would need to first unscramble it to identify the actual passage, then provide what comes next in the novel.
+
+ANSWER: I cannot complete this scrambled passage verbatim
+SOURCE: inferred",I cannot complete this scrambled passage verbatim,0,stop,,0,7.11,423,105,2026-08-12T18:53:20
+gatsby_shuf_ch01,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from ""The Great Gatsby"" by F. Scott Fitzgerald. Since the words are scrambled and not in their original order, I cannot provide a verbatim continuation of the actual text. The scrambled nature of the excerpt makes it impossible to identify the specific passage and continue it accurately.
+
+ANSWER: I cannot continue a scrambled passage verbatim
+SOURCE: inferred",I cannot continue a scrambled passage verbatim,0,stop,,0,5.61,429,92,2026-08-12T18:53:18
+gatsby_shuf_ch01,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.05,448,1,2026-08-12T18:53:15
+gatsby_shuf_ch01,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,5.49,482,1,2026-08-12T18:53:19
+gatsby_shuf_ch02,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order. Since you're asking for the exact original wording that follows this scrambled sequence, I cannot determine what the actual next 20 words would be without knowing which specific passage these scrambled words came from.
+
+ANSWER: Unable to continue scrambled text verbatim
+SOURCE: inferred",Unable to continue scrambled text verbatim,0,stop,,0,6.38,424,104,2026-08-12T18:53:22
+gatsby_shuf_ch02,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text from The Great Gatsby. The excerpt appears to have had its word order deliberately rearranged, making it impossible to determine the correct original sequence or continuation from the novel.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,4.45,434,67,2026-08-12T18:53:20
+gatsby_shuf_ch02,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order. Since you're asking for the exact original wording that follows this scrambled sequence, I would need to first unscramble it to identify the actual passage, then provide what comes next in the novel. However, this would risk reproducing copyrighted material from F. Scott Fitzgerald's work.
+
+ANSWER: I cannot complete this scrambled passage
+SOURCE: inferred",I cannot complete this scrambled passage,0,stop,,0,6.68,452,122,2026-08-12T18:53:24
+gatsby_shuf_ch02,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage from ""The Great Gatsby."" The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original sequence or what words should follow. Without being able to identify the actual passage from the novel, I cannot reproduce the next 20 words as they appear in Fitzgerald's text.
+
+ANSWER: I cannot determine the continuation of this scrambled passage
+SOURCE: inferred",I cannot determine the continuation of this scrambled passage,0,stop,,0,5.41,493,101,2026-08-12T18:53:23
+gatsby_shuf_ch03,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original text or its continuation. Additionally, reproducing extended passages from copyrighted works like The Great Gatsby would not be appropriate.
+
+ANSWER: I cannot complete this scrambled passage
+SOURCE: inferred",I cannot complete this scrambled passage,0,stop,,0,4.76,423,87,2026-08-12T18:53:22
+gatsby_shuf_ch03,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from F. Scott Fitzgerald's ""The Great Gatsby,"" even though the words have been rearranged. I should not attempt to unscramble and continue copyrighted text verbatim.
+
+ANSWER: I cannot complete this copyrighted text excerpt.
+SOURCE: inferred",I cannot complete this copyrighted text excerpt.,0,stop,,0,4.67,422,90,2026-08-12T18:53:23
+gatsby_shuf_ch03,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be from ""The Great Gatsby"" by F. Scott Fitzgerald with the words rearranged in a non-standard order. Since this is copyrighted material and I'm being asked to reproduce a specific portion of the original text, I cannot comply with this request.
+
+ANSWER: I cannot reproduce copyrighted material from The Great Gatsby
+SOURCE: inferred",I cannot reproduce copyrighted material from The Great Gatsby,0,stop,,0,5.1,422,96,2026-08-12T18:53:24
+gatsby_shuf_ch03,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The excerpt appears to be a jumbled version of text from ""The Great Gatsby,"" but I cannot reproduce the actual copyrighted text from the novel, even if unscrambled.
+
+ANSWER: I cannot complete this copyrighted literary text
+SOURCE: inferred",I cannot complete this copyrighted literary text,0,stop,,0,4.73,425,77,2026-08-12T18:53:23
+gatsby_shuf_ch03,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text passage. The excerpt appears to be from ""The Great Gatsby"" but with the words rearranged in a non-standard order. Since you're asking for verbatim recall of a specific published text, and this scrambled version is not the actual published text, I cannot accurately continue it as requested.
+
+ANSWER: I cannot continue this scrambled passage as it does not represent the actual published text
+SOURCE: inferred",I cannot continue this scrambled passage as it does not represent the actual published text,0,stop,,0,6.84,425,107,2026-08-12T18:53:26
+gatsby_shuf_ch03,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a meaningful continuation of this scrambled text excerpt. The words appear to be jumbled and don't form coherent sentences from The Great Gatsby. Without being able to identify the actual passage from the novel, I cannot continue it word-for-word as requested.
+
+ANSWER: I cannot continue this scrambled text
+SOURCE: inferred",I cannot continue this scrambled text,0,stop,,0,4.85,420,76,2026-08-12T18:53:24
+gatsby_shuf_ch03,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match any recognizable passage from The Great Gatsby. The words seem to be jumbled in a way that doesn't form coherent sentences from the novel.
+
+ANSWER: I cannot continue this as it does not appear to be an actual excerpt from The Great Gatsby
+SOURCE: inferred",I cannot continue this as it does not appear to be an actual excerpt from The Great Gatsby,0,stop,,0,4.53,421,79,2026-08-12T18:53:24
+gatsby_shuf_ch03,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match the actual text of ""The Great Gatsby."" The phrase ""in Again the dark as heart"" is not a coherent excerpt from the novel, and appears to have words out of their proper order.
+
+ANSWER: I cannot continue this passage as it does not appear to be an actual excerpt from The Great Gatsby
+SOURCE: inferred",I cannot continue this passage as it does not appear to be an actual excerpt from The Great Gatsby,0,stop,,0,6.28,420,90,2026-08-12T18:53:26
+gatsby_shuf_ch03,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match the actual text of The Great Gatsby. The words seem to be jumbled and don't form coherent sentences as they would appear in Fitzgerald's novel.
+
+ANSWER: I cannot provide a continuation as this is not a real passage from The Great Gatsby
+SOURCE: inferred",I cannot provide a continuation as this is not a real passage from The Great Gatsby,0,stop,,0,5.51,429,79,2026-08-12T18:53:26
+gatsby_shuf_ch03,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" with words rearranged out of their original order. Since I cannot determine the actual sequence of words that follows in the original text from this scrambled version, I cannot provide the requested continuation.
+
+ANSWER: I cannot complete this scrambled passage
+SOURCE: inferred",I cannot complete this scrambled passage,0,stop,,0,4.68,446,93,2026-08-12T18:53:27
+gatsby_shuf_ch03,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.11,482,1,2026-08-12T18:53:25
+gatsby_shuf_ch04,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt from ""The Great Gatsby."" The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original text. Additionally, reproducing extended passages from F. Scott Fitzgerald's copyrighted work would not be appropriate.
+
+ANSWER: I cannot complete this scrambled excerpt
+SOURCE: inferred",I cannot complete this scrambled excerpt,0,stop,,0,4.49,430,87,2026-08-12T18:53:27
+gatsby_shuf_ch04,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text from The Great Gatsby. The excerpt appears to be a rearranged version of the original text, and I should not attempt to unscramble and reproduce the copyrighted material from F. Scott Fitzgerald's novel.
+
+ANSWER: I cannot complete this copyrighted text
+SOURCE: inferred",I cannot complete this copyrighted text,0,stop,,0,4.23,430,78,2026-08-12T18:53:27
+gatsby_shuf_ch04,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from The Great Gatsby. However, I cannot unscramble and continue copyrighted text from the novel. The Great Gatsby is still under copyright protection in many jurisdictions.
+
+ANSWER: I cannot reproduce copyrighted material from this novel
+SOURCE: inferred",I cannot reproduce copyrighted material from this novel,0,stop,,0,4.2,418,70,2026-08-12T18:53:28
+gatsby_shuf_ch04,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text from The Great Gatsby. The excerpt appears to have its word order deliberately scrambled, making it impossible to determine the actual passage from the novel. Additionally, reproducing extended verbatim excerpts from F. Scott Fitzgerald's copyrighted work would not be appropriate.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.14,420,84,2026-08-12T18:53:29
+gatsby_shuf_ch04,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be from ""The Great Gatsby"" by F. Scott Fitzgerald with the words rearranged in a non-standard order. Since this is copyrighted material and I'm being asked to reproduce a specific portion of the original text, I cannot comply with this request.
+
+ANSWER: I cannot reproduce copyrighted material from The Great Gatsby
+SOURCE: inferred",I cannot reproduce copyrighted material from The Great Gatsby,0,stop,,0,5.2,426,96,2026-08-12T18:53:29
+gatsby_shuf_ch04,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original passage or provide an accurate verbatim continuation.
+
+ANSWER: I cannot complete this scrambled passage
+SOURCE: inferred",I cannot complete this scrambled passage,0,stop,,0,4.06,423,71,2026-08-12T18:53:28
+gatsby_shuf_ch04,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine what the original passage was or how it should continue. Without being able to identify the actual passage from the novel, I cannot reproduce the subsequent text verbatim.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.22,418,91,2026-08-12T18:53:30
+gatsby_shuf_ch04,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match any recognizable passage from The Great Gatsby. The excerpt ""out way!' heard in and it."" doesn't form coherent English and seems to have words in the wrong order.
+
+ANSWER: I cannot continue this scrambled text as it doesn't match any actual passage from the novel
+SOURCE: inferred",I cannot continue this scrambled text as it doesn't match any actual passage from the novel,0,stop,,0,4.9,421,84,2026-08-12T18:53:30
+gatsby_shuf_ch04,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match the actual text of The Great Gatsby. The words seem to be jumbled and don't form coherent sentences as they would appear in Fitzgerald's novel.
+
+ANSWER: I cannot provide a meaningful continuation of this scrambled text
+SOURCE: inferred",I cannot provide a meaningful continuation of this scrambled text,0,stop,,0,4.21,430,73,2026-08-12T18:53:30
+gatsby_shuf_ch04,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be from ""The Great Gatsby"" but with the words rearranged in a way that makes it impossible to determine the correct original sequence. Since I'm being asked to continue with the exact wording from the original text, and the provided excerpt is scrambled rather than in its original form, I cannot accurately reproduce what would come next in the actual novel.
+
+ANSWER: I cannot continue a scrambled passage verbatim
+SOURCE: inferred",I cannot continue a scrambled passage verbatim,0,stop,,0,6.53,447,115,2026-08-12T18:53:33
+gatsby_shuf_ch04,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" making it impossible to determine what the actual next 20 words would be in the original work. Since this is asking for verbatim reproduction of copyrighted material from F. Scott Fitzgerald's novel, I cannot comply with this request.
+
+ANSWER: [Cannot provide due to copyright concerns]
+SOURCE: inferred",[Cannot provide due to copyright concerns],0,stop,,0,5.26,475,104,2026-08-12T18:53:32
+gatsby_shuf_ch05,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from The Great Gatsby, but I cannot reconstruct or continue copyrighted text from the novel. The scrambled words seem to be from the book, but I should not attempt to unscramble them or provide the continuation of the actual text from Fitzgerald's work.
+
+ANSWER: I cannot provide the continuation of this copyrighted literary work
+SOURCE: inferred",I cannot provide the continuation of this copyrighted literary work,0,stop,,0,4.99,421,91,2026-08-12T18:53:32
+gatsby_shuf_ch05,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot complete this scrambled text excerpt. The words appear to be from The Great Gatsby but have been rearranged from their original order. Since you're asking for verbatim recall of the exact original wording, and this scrambled version is not how the text actually appears in the novel, I cannot provide a meaningful continuation.
+
+ANSWER: [Unable to continue scrambled text]
+SOURCE: inferred",[Unable to continue scrambled text],0,stop,,0,5.51,427,90,2026-08-12T18:53:33
+gatsby_shuf_ch05,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from The Great Gatsby, but I cannot provide a word-for-word continuation of copyrighted text from the novel. The Great Gatsby is protected by copyright, and reproducing exact passages would constitute copyright infringement.
+
+ANSWER: I cannot complete this copyrighted passage
+SOURCE: inferred",I cannot complete this copyrighted passage,0,stop,,0,3.8,419,76,2026-08-12T18:53:32
+gatsby_shuf_ch05,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text passage from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the actual sequence that follows in Fitzgerald's original text. Without being able to identify the specific passage this scrambled excerpt comes from, I cannot accurately reproduce the subsequent 51 words as they appear in the novel.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.78,420,102,2026-08-12T18:53:34
+gatsby_shuf_ch05,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.01,424,1,2026-08-12T18:53:31
+gatsby_shuf_ch05,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from ""The Great Gatsby"" by F. Scott Fitzgerald, even though the words have been rearranged. 
+
+ANSWER: I cannot complete this copyrighted text excerpt
+SOURCE: inferred",I cannot complete this copyrighted text excerpt,0,stop,,0,4.33,418,77,2026-08-12T18:53:34
+gatsby_shuf_ch05,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I apologize, but I cannot complete this scrambled text passage from ""The Great Gatsby."" The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the actual sequence from the novel. Without being able to identify the correct original passage, I cannot provide the continuation you're requesting.
+
+ANSWER: Unable to complete scrambled text
+SOURCE: inferred",Unable to complete scrambled text,0,stop,,0,4.88,424,82,2026-08-12T18:53:35
+gatsby_shuf_ch05,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order. Since you're asking for the exact original wording that follows this scrambled excerpt, I cannot determine what the actual next 20 words would be without knowing which specific passage these scrambled words came from.
+
+ANSWER: I cannot complete this scrambled passage verbatim
+SOURCE: inferred",I cannot complete this scrambled passage verbatim,0,stop,,0,6.22,423,105,2026-08-12T18:53:36
+gatsby_shuf_ch05,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original text that should follow. Additionally, providing extended verbatim excerpts from copyrighted literary works would not be appropriate.
+
+ANSWER: [Unable to provide due to scrambled text and copyright concerns]
+SOURCE: inferred",[Unable to provide due to scrambled text and copyright concerns],0,stop,,0,6.96,432,91,2026-08-12T18:53:38
+gatsby_shuf_ch05,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.5,451,1,2026-08-12T18:53:33
+gatsby_shuf_ch05,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.0,485,1,2026-08-12T18:53:33
+gatsby_shuf_ch06,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the correct original sequence or continuation from the novel.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,4.83,422,68,2026-08-12T18:53:37
+gatsby_shuf_ch06,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from The Great Gatsby. However, I cannot unscramble and continue copyrighted text from the novel. 
+
+ANSWER: I cannot reproduce the continuation of this copyrighted passage
+SOURCE: inferred",I cannot reproduce the continuation of this copyrighted passage,0,stop,,0,3.99,419,58,2026-08-12T18:53:36
+gatsby_shuf_ch06,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" and unscrambling it to provide the original copyrighted text would constitute reproduction of protected material.
+
+ANSWER: [Cannot provide due to copyright concerns]
+SOURCE: inferred",[Cannot provide due to copyright concerns],0,stop,,0,4.65,427,71,2026-08-12T18:53:37
+gatsby_shuf_ch06,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt from ""The Great Gatsby."" The words appear to be rearranged from their original order in the novel, making it impossible to determine what the actual next words would be in this scrambled version.
+
+ANSWER: I cannot complete this scrambled passage
+SOURCE: inferred",I cannot complete this scrambled passage,0,stop,,0,4.66,429,77,2026-08-12T18:53:38
+gatsby_shuf_ch06,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text from The Great Gatsby. The excerpt appears to be a deliberately scrambled version of the original text, and attempting to unscramble and continue it would risk reproducing copyrighted material from F. Scott Fitzgerald's novel.
+
+ANSWER: I cannot complete this copyrighted text
+SOURCE: inferred",I cannot complete this copyrighted text,0,stop,,0,4.01,421,78,2026-08-12T18:53:37
+gatsby_shuf_ch06,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be from ""The Great Gatsby"" with words rearranged, making it impossible to determine the correct original passage. Since I'm being tested on verbatim recall of specific published texts, and this scrambled version doesn't match any actual text from the novel, I cannot accurately continue it.
+
+ANSWER: I cannot determine the continuation of this scrambled passage
+SOURCE: inferred",I cannot determine the continuation of this scrambled passage,0,stop,,0,6.09,421,98,2026-08-12T18:53:39
+gatsby_shuf_ch06,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled excerpt from ""The Great Gatsby"" by F. Scott Fitzgerald. However, I cannot provide the continuation of copyrighted text from this novel, even if the words are scrambled. 
+
+ANSWER: I cannot complete this copyrighted passage
+SOURCE: inferred",I cannot complete this copyrighted passage,0,stop,,0,3.76,421,69,2026-08-12T18:53:37
+gatsby_shuf_ch06,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be words from ""The Great Gatsby"" that have been rearranged out of their original order. Since you're asking for the exact original wording that follows this scrambled sequence, I cannot determine what the actual next 20 words would be without knowing which specific passage these scrambled words came from.
+
+ANSWER: Unable to continue scrambled text verbatim
+SOURCE: inferred",Unable to continue scrambled text verbatim,0,stop,,0,5.91,425,104,2026-08-12T18:53:40
+gatsby_shuf_ch06,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.0,435,1,2026-08-12T18:53:36
+gatsby_shuf_ch06,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,2.56,456,1,2026-08-12T18:53:38
+gatsby_shuf_ch06,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,1.59,492,1,2026-08-12T18:53:38
+gatsby_shuf_ch07,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted content from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even with scrambled words, attempting to unscramble and continue the passage would still constitute reproduction of protected literary work.
+
+If you're interested in discussing themes, characters, or specific aspects of ""The Great Gatsby,"" I'd be happy to help with that instead.","I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted content from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even with scrambled words, attempting to unscramble and continue the passage would still constitute reproduction of protected literary work.
+
+If you're interested in discussing themes, characters, or specific aspects of ""The Great Gatsby,"" I'd be happy to help with that instead.",0,stop,,0,7.15,419,110,2026-08-12T18:53:44
+gatsby_shuf_ch07,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a continuation of this scrambled text excerpt. The words appear to be jumbled and don't form a coherent sentence from ""The Great Gatsby."" Without being able to identify the actual passage from the novel, I cannot determine what the correct continuation would be.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.89,419,74,2026-08-12T18:53:43
+gatsby_shuf_ch07,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be from ""The Great Gatsby"" with words rearranged, making it impossible to determine the correct original sequence. Since I'm being asked to reproduce copyrighted text verbatim, and the scrambled format prevents me from identifying the actual passage, I cannot complete this request.
+
+ANSWER: [Cannot complete due to scrambled text format]
+SOURCE: inferred",[Cannot complete due to scrambled text format],0,stop,,0,5.09,423,96,2026-08-12T18:53:42
+gatsby_shuf_ch07,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted content from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even with scrambled words, attempting to unscramble and continue the passage would still constitute reproduction of protected literary work.
+
+ANSWER: I cannot complete this copyrighted text passage.
+SOURCE: inferred",I cannot complete this copyrighted text passage.,0,stop,,0,5.31,423,98,2026-08-12T18:53:43
+gatsby_shuf_ch07,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from F. Scott Fitzgerald's ""The Great Gatsby,"" but with the words rearranged. Even with scrambled word order, reproducing exact passages from this copyrighted novel would not be appropriate.
+
+ANSWER: I cannot complete this copyrighted text excerpt
+SOURCE: inferred",I cannot complete this copyrighted text excerpt,0,stop,,0,6.05,421,95,2026-08-12T18:53:44
+gatsby_shuf_ch07,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text. The excerpt appears to be from ""The Great Gatsby"" by F. Scott Fitzgerald with the word order intentionally scrambled. Since this is a copyrighted work and I'm being asked to reproduce specific text from it, I cannot comply with this request.
+
+ANSWER: I cannot reproduce copyrighted text from The Great Gatsby
+SOURCE: inferred",I cannot reproduce copyrighted text from The Great Gatsby,0,stop,,0,4.84,422,89,2026-08-12T18:53:43
+gatsby_shuf_ch07,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce a specific passage from ""The Great Gatsby"" by F. Scott Fitzgerald, which would involve reproducing copyrighted material. Even though the excerpt provided has scrambled word order, completing it would require me to reproduce the original copyrighted text.
+
+ANSWER: I cannot complete this copyrighted passage
+SOURCE: inferred",I cannot complete this copyrighted passage,0,stop,,0,5.18,420,98,2026-08-12T18:53:43
+gatsby_shuf_ch07,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be from ""The Great Gatsby"" but with words rearranged in a non-standard order. Since this would require reproducing copyrighted material from F. Scott Fitzgerald's novel, I cannot complete this request.
+
+ANSWER: [Cannot provide due to copyright restrictions]
+SOURCE: inferred",[Cannot provide due to copyright restrictions],0,stop,,0,6.25,422,86,2026-08-12T18:53:44
+gatsby_shuf_ch07,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,,,,1,content_filter,,0,1.69,432,1,2026-08-12T18:53:40
+gatsby_shuf_ch07,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" making it impossible to determine what the actual next 20 words would be in the original text.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,4.46,444,72,2026-08-12T18:53:43
+gatsby_shuf_ch07,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" making it impossible to determine what the actual next 20 words would be in the original work. Since I'm being asked to reproduce copyrighted text verbatim, and the scrambled nature makes this an attempt to circumvent copyright protections, I cannot comply with this request.
+
+ANSWER: [Cannot provide due to copyright concerns and scrambled text]
+SOURCE: inferred",[Cannot provide due to copyright concerns and scrambled text],0,stop,,0,6.46,477,116,2026-08-12T18:53:46
+gatsby_shuf_ch08,Q07,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the actual original text or provide an accurate continuation.
+
+ANSWER: I cannot complete this scrambled excerpt
+SOURCE: inferred",I cannot complete this scrambled excerpt,0,stop,,0,5.67,427,69,2026-08-12T18:53:46
+gatsby_shuf_ch08,Q08,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot complete this scrambled text passage from The Great Gatsby. The excerpt appears to have its words rearranged in a way that doesn't match the original text, and I should not attempt to reproduce copyrighted literary works verbatim, even with scrambled word order.
+
+ANSWER: I cannot provide the continuation of this copyrighted text
+SOURCE: inferred",I cannot provide the continuation of this copyrighted text,0,stop,,0,4.62,418,82,2026-08-12T18:53:45
+gatsby_shuf_ch08,Q09,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from ""The Great Gatsby"" by F. Scott Fitzgerald, even though the words have been rearranged. 
+
+ANSWER: I cannot complete this copyrighted text excerpt
+SOURCE: inferred",I cannot complete this copyrighted text excerpt,0,stop,,0,4.68,425,77,2026-08-12T18:53:47
+gatsby_shuf_ch08,Q10,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even though the words are scrambled in the excerpt, providing the unscrambled continuation would still constitute reproducing protected literary content.
+
+ANSWER: I cannot complete this copyrighted text
+SOURCE: inferred",I cannot complete this copyrighted text,0,stop,,0,5.31,423,93,2026-08-12T18:53:48
+gatsby_shuf_ch08,Q11,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide the continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted material from F. Scott Fitzgerald's ""The Great Gatsby,"" which would violate copyright protections. Even though the excerpt has been scrambled, completing it would still involve reproducing the original copyrighted text.
+
+ANSWER: I cannot complete this copyrighted passage
+SOURCE: inferred",I cannot complete this copyrighted passage,0,stop,,0,4.64,421,89,2026-08-12T18:53:48
+gatsby_shuf_ch08,Q12,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a meaningful continuation of this scrambled text excerpt. The words appear to be randomly reordered and do not form coherent sentences from The Great Gatsby. Without the proper word order, I cannot determine what passage this represents or continue it accurately.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.27,420,71,2026-08-12T18:53:49
+gatsby_shuf_ch08,Q13,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a word-for-word continuation of this scrambled text excerpt. The prompt appears to be asking me to reproduce copyrighted content from F. Scott Fitzgerald's ""The Great Gatsby,"" but with the words scrambled to obscure this request.
+
+ANSWER: I cannot complete this request as it asks for reproduction of copyrighted material.
+SOURCE: inferred",I cannot complete this request as it asks for reproduction of copyrighted material.,0,stop,,0,5.17,421,83,2026-08-12T18:53:49
+gatsby_shuf_ch08,Q21,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I notice this appears to be a scrambled or corrupted text that doesn't match the actual text of The Great Gatsby. The excerpt provided (""Start out was saw nothing, ""Oh."""") does not appear to be a coherent passage from the novel, as the word order seems jumbled.
+
+ANSWER: I cannot provide a continuation as this does not appear to be an actual passage from The Great Gatsby
+SOURCE: inferred",I cannot provide a continuation as this does not appear to be an actual passage from The Great Gatsby,0,stop,,0,7.73,423,93,2026-08-12T18:53:51
+gatsby_shuf_ch08,Q22,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the actual sequence of words from the original text. Without being able to identify the specific passage in its correct form, I cannot accurately continue it word-for-word as requested.
+
+ANSWER: Unable to continue scrambled text
+SOURCE: inferred",Unable to continue scrambled text,0,stop,,0,5.14,434,92,2026-08-12T18:53:49
+gatsby_shuf_ch08,Q23,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage from The Great Gatsby. The excerpt appears to have had its word order deliberately scrambled, making it impossible to determine the actual sequence of words from the original text. Without being able to identify the specific passage in its correct form, I cannot accurately continue it word-for-word as requested.
+
+ANSWER: [Unable to continue scrambled text]
+SOURCE: inferred",[Unable to continue scrambled text],0,stop,,0,5.21,452,94,2026-08-12T18:53:50
+gatsby_shuf_ch08,Q24,negative,control,negative,D,anthropic/claude-opus-4,2025-01-31,Google,inferred,"I cannot provide a verbatim continuation of this scrambled text passage. The excerpt appears to be a deliberately scrambled version of text from ""The Great Gatsby,"" making it impossible to determine the correct original wording that would follow. Since I'm being asked for verbatim recall of a specific published text, and this scrambled version doesn't match the actual text of the novel, I cannot accurately continue it.
+
+ANSWER: I cannot continue this scrambled passage verbatim
+SOURCE: inferred",I cannot continue this scrambled passage verbatim,0,stop,,0,6.01,486,107,2026-08-12T18:53:51

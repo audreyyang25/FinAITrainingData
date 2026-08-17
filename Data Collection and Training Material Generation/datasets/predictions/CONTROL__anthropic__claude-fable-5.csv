@@ -1,0 +1,285 @@
+case_id,qid,arm,jurisdiction,court_level,tier,model,model_cutoff,served_by,recall,raw,prediction,refused,finish,error,temp_dropped,latency_s,in_tokens,out_tokens,ts
+constitution_ch01,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,inferred,"ANSWER: We have made every effort to update this file to reflect the capitalization of the original document, but we cannot guarantee that every instance is correct. If you find errors in this file, please let us know so that we may correct them in future editions.
+SOURCE: inferred","We have made every effort to update this file to reflect the capitalization of the original document, but we cannot guarantee that every instance is correct. If you find errors in this file, please let us know so that we may correct them in future editions.",0,stop,,0,14.92,586,568,2026-08-12T15:39:47
+constitution_ch01,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+SOURCE: recalled","Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0,stop,,0,7.28,588,133,2026-08-12T15:39:40
+constitution_ch01,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+SOURCE: recalled","Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.",0,stop,,0,7.12,587,128,2026-08-12T15:39:40
+constitution_ch01,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: they shall be divided as equally as may be into three Classes.
+SOURCE: recalled",they shall be divided as equally as may be into three Classes.,0,stop,,0,6.81,591,89,2026-08-12T15:39:39
+constitution_ch01,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+SOURCE: recalled",shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.,0,stop,,0,7.14,586,87,2026-08-12T15:39:40
+constitution_ch01,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.26,587,86,2026-08-12T15:39:39
+constitution_ch01,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+SOURCE: recalled","to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.",0,stop,,0,9.02,590,299,2026-08-12T15:39:42
+constitution_ch01,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year,",0,stop,,0,9.18,583,221,2026-08-12T15:39:42
+constitution_ch01,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year,",0,stop,,0,8.19,592,225,2026-08-12T15:39:41
+constitution_ch01,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year,
+SOURCE: recalled","The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year,",0,stop,,0,7.99,615,213,2026-08-12T15:39:41
+constitution_ch01,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.25,659,3,2026-08-12T15:39:38
+constitution_ch02,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+SOURCE: recalled","their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.",0,stop,,0,10.6,595,253,2026-08-12T15:39:43
+constitution_ch02,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: but the Senate may propose or concur with Amendments as on other Bills.
+SOURCE: recalled",but the Senate may propose or concur with Amendments as on other Bills.,0,stop,,0,4.18,592,41,2026-08-12T15:39:42
+constitution_ch02,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.77,589,139,2026-08-12T15:39:44
+constitution_ch02,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+SOURCE: recalled","Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.",0,stop,,0,5.6,585,203,2026-08-12T15:39:45
+constitution_ch02,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: to the Census or Enumeration herein before directed to be taken.
+SOURCE: recalled",to the Census or Enumeration herein before directed to be taken.,0,stop,,0,5.12,595,88,2026-08-12T15:39:45
+constitution_ch02,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+SOURCE: recalled",Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.,0,stop,,0,6.77,591,276,2026-08-12T15:39:47
+constitution_ch02,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.49,597,98,2026-08-12T15:39:45
+constitution_ch02,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited",0,stop,,0,8.23,586,338,2026-08-12T15:39:49
+constitution_ch02,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress",0,stop,,0,7.56,594,345,2026-08-12T15:39:49
+constitution_ch02,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.33,618,235,2026-08-12T15:39:48
+constitution_ch02,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited
+SOURCE: recalled","Section. 9. The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited",0,stop,,0,6.45,676,297,2026-08-12T15:39:49
+constitution_ch03,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+SOURCE: recalled","Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.",0,stop,,0,6.32,590,222,2026-08-12T15:39:49
+constitution_ch03,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.3,585,126,2026-08-12T15:39:48
+constitution_ch03,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.
+SOURCE: recalled","the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.",0,stop,,0,5.12,588,184,2026-08-12T15:39:49
+constitution_ch03,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.74,585,100,2026-08-12T15:39:50
+constitution_ch03,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.33,589,144,2026-08-12T15:39:50
+constitution_ch03,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+SOURCE: recalled","happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.",0,stop,,0,4.96,587,108,2026-08-12T15:39:51
+constitution_ch03,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+SOURCE: recalled","supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.",0,stop,,0,4.29,586,103,2026-08-12T15:39:51
+constitution_ch03,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,",0,stop,,0,9.12,583,475,2026-08-12T15:39:57
+constitution_ch03,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the",0,stop,,0,7.74,597,306,2026-08-12T15:39:56
+constitution_ch03,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,",0,stop,,0,6.27,616,292,2026-08-12T15:39:55
+constitution_ch03,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,
+SOURCE: recalled","The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected,",0,stop,,0,6.08,661,305,2026-08-12T15:39:55
+gatsby_ch01,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: a reserved way, and I understood that he meant a great deal more than that.
+SOURCE: recalled","a reserved way, and I understood that he meant a great deal more than that.",0,stop,,0,4.2,600,65,2026-08-12T15:39:53
+gatsby_ch01,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.
+SOURCE: recalled",now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.,0,stop,,0,5.41,599,176,2026-08-12T15:39:55
+gatsby_ch01,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.
+SOURCE: recalled",though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.,0,stop,,0,4.34,603,120,2026-08-12T15:39:54
+gatsby_ch01,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: bound into the house by French windows at either end.
+SOURCE: recalled",bound into the house by French windows at either end.,0,stop,,0,4.62,606,95,2026-08-12T15:39:55
+gatsby_ch01,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.99,598,51,2026-08-12T15:39:54
+gatsby_ch01,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.
+SOURCE: recalled","if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",0,stop,,0,7.04,606,336,2026-08-12T15:39:57
+gatsby_ch01,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: was confused and a little disgusted as I drove away.
+SOURCE: recalled",was confused and a little disgusted as I drove away.,0,stop,,0,5.22,606,135,2026-08-12T15:39:56
+gatsby_ch01,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.71,603,233,2026-08-12T15:39:59
+gatsby_ch01,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass. ""How you ever get anything done is beyond me.""
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass. ""How you ever get anything done is beyond me.""",0,stop,,0,5.84,612,202,2026-08-12T15:39:59
+gatsby_ch01,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.82,637,4,2026-08-12T15:39:57
+gatsby_ch01,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass.
+SOURCE: recalled","Her host looked at her incredulously. ""You are!"" He took down his drink as if it were a drop in the bottom of a glass.",0,stop,,0,5.05,681,151,2026-08-12T15:40:00
+gatsby_ch02,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.
+SOURCE: recalled","drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.",0,stop,,0,4.61,598,117,2026-08-12T15:40:00
+gatsby_ch02,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.
+SOURCE: recalled","facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.",0,stop,,0,4.99,609,158,2026-08-12T15:40:00
+gatsby_ch02,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.55,596,126,2026-08-12T15:40:00
+gatsby_ch02,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.6,604,69,2026-08-12T15:39:59
+gatsby_ch02,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.72,597,51,2026-08-12T15:40:00
+gatsby_ch02,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
+SOURCE: recalled","and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0,stop,,0,5.77,601,220,2026-08-12T15:40:02
+gatsby_ch02,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.
+SOURCE: recalled","when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.",0,stop,,0,10.22,602,549,2026-08-12T15:40:07
+gatsby_ch02,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.49,598,166,2026-08-12T15:40:03
+gatsby_ch02,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all",0,stop,,0,7.74,613,358,2026-08-12T15:40:05
+gatsby_ch02,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: ""We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms.
+SOURCE: recalled","""We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms.",0,stop,,0,8.33,637,448,2026-08-12T15:40:07
+gatsby_ch02,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms.
+SOURCE: recalled","We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms.",0,stop,,0,5.66,689,215,2026-08-12T15:40:05
+gatsby_ch03,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.02,598,239,2026-08-12T15:40:06
+gatsby_ch03,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: didn't-drift coolly out of nowhere and buy a palace on Long Island Sound.
+SOURCE: recalled",didn't-drift coolly out of nowhere and buy a palace on Long Island Sound.,0,stop,,0,4.83,602,133,2026-08-12T15:40:05
+gatsby_ch03,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.67,595,83,2026-08-12T15:40:04
+gatsby_ch03,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: a determined voice: ""I've been drunk for about a week now,
+SOURCE: recalled","a determined voice: ""I've been drunk for about a week now,",0,stop,,0,7.32,604,344,2026-08-12T15:40:08
+gatsby_ch03,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside.
+SOURCE: recalled","and there was laughter from unheard jokes, and lighted cigarettes outlined unintelligible gestures inside.",0,stop,,0,5.91,603,254,2026-08-12T15:40:06
+gatsby_ch03,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.
+SOURCE: recalled","Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.",0,stop,,0,4.96,606,139,2026-08-12T15:40:05
+gatsby_ch03,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.
+SOURCE: recalled",sentences unfinished and slapping himself indecisively on the knee of his caramel-colored suit.,0,stop,,0,5.37,606,86,2026-08-12T15:40:08
+gatsby_ch03,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,0,length,,0,63.24,596,4096,2026-08-12T15:41:07
+gatsby_ch03,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I went upstairs to the library
+SOURCE: recalled",I took dinner usually at the Yale Club—for some reason it was the gloomiest event of my day—and then I went upstairs to the library,0,stop,,0,9.79,604,484,2026-08-12T15:40:14
+gatsby_ch03,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.48,623,116,2026-08-12T15:40:10
+gatsby_ch03,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.72,663,57,2026-08-12T15:40:10
+gatsby_ch04,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: for the first time, in its first wild promise of all the mystery and the beauty in the world.
+SOURCE: recalled","for the first time, in its first wild promise of all the mystery and the beauty in the world.",0,stop,,0,5.6,601,222,2026-08-12T15:40:11
+gatsby_ch04,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.65,598,141,2026-08-12T15:40:10
+gatsby_ch04,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: thought I'd never seen a girl so mad about her husband.
+SOURCE: recalled",thought I'd never seen a girl so mad about her husband.,0,stop,,0,5.0,599,100,2026-08-12T15:40:11
+gatsby_ch04,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.
+SOURCE: recalled",I put my arm around Jordan's golden shoulder and drew her toward me and asked her to dinner.,0,stop,,0,5.19,598,128,2026-08-12T15:40:12
+gatsby_ch04,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: into a deep sleep as I entered my front door.
+SOURCE: recalled",into a deep sleep as I entered my front door.,0,stop,,0,11.72,600,590,2026-08-12T15:40:19
+gatsby_ch04,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.
+SOURCE: recalled","of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",0,stop,,0,5.95,595,217,2026-08-12T15:40:14
+gatsby_ch04,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: pushing over the stove—but I don't believe they heard a sound.
+SOURCE: recalled",pushing over the stove—but I don't believe they heard a sound.,0,stop,,0,4.38,600,82,2026-08-12T15:40:12
+gatsby_ch04,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,0,length,,0,68.03,593,4096,2026-08-12T15:41:17
+gatsby_ch04,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,0,error,,0,7.07,601,2,2026-08-12T15:40:17
+gatsby_ch04,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.",0,stop,,0,9.24,622,425,2026-08-12T15:40:20
+gatsby_ch04,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.
+SOURCE: recalled","It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it.",0,stop,,0,5.24,659,143,2026-08-12T15:40:16
+gatsby_ch05,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: I felt that there were guests concealed behind every couch and table, under orders to be breathless and silent until we had passed through.
+SOURCE: recalled","I felt that there were guests concealed behind every couch and table, under orders to be breathless and silent until we had passed through.",0,stop,,0,6.16,612,143,2026-08-12T15:40:18
+gatsby_ch05,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: few minutes accompanied by an embarrassed, slightly worn young man, with shell-rimmed glasses and scanty blond hair.
+SOURCE: recalled","few minutes accompanied by an embarrassed, slightly worn young man, with shell-rimmed glasses and scanty blond hair.",0,stop,,0,6.03,600,214,2026-08-12T15:40:18
+gatsby_ch05,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.
+SOURCE: recalled","afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.",0,stop,,0,6.37,598,302,2026-08-12T15:40:19
+gatsby_ch05,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: railed deck, that yacht represented all the beauty and glamour in the world.
+SOURCE: recalled","railed deck, that yacht represented all the beauty and glamour in the world.",0,stop,,0,5.56,599,98,2026-08-12T15:40:18
+gatsby_ch05,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: realizing in a vague way that that was all they came for. Mr. Sloane wanted nothing.
+SOURCE: recalled",realizing in a vague way that that was all they came for. Mr. Sloane wanted nothing.,0,stop,,0,7.08,599,269,2026-08-12T15:40:21
+gatsby_ch05,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.
+SOURCE: recalled","a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.",0,stop,,0,5.19,601,130,2026-08-12T15:40:20
+gatsby_ch05,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air.
+SOURCE: recalled","and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air.",0,stop,,0,6.11,599,191,2026-08-12T15:40:22
+gatsby_ch05,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Buchanan.""
+""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well.""
+SOURCE: recalled","Buchanan.""
+""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well.""",0,stop,,0,7.55,601,359,2026-08-12T15:40:25
+gatsby_ch05,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""
+SOURCE: recalled","Buchanan."" ""Oh, yes,"" said Tom, gruffly polite, but obviously not remembering. ""So we did. I remember very well."" ""About two weeks ago.""",0,stop,,0,22.21,613,1579,2026-08-12T15:40:40
+gatsby_ch05,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.59,643,210,2026-08-12T15:40:25
+gatsby_ch05,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.84,705,62,2026-08-12T15:40:22
+gatsby_ch06,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,11.64,602,691,2026-08-12T15:40:31
+gatsby_ch06,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: back at Daisy as if he had just recognized her as some one he knew a long time ago.
+SOURCE: recalled",back at Daisy as if he had just recognized her as some one he knew a long time ago.,0,stop,,0,37.38,602,2462,2026-08-12T15:40:57
+gatsby_ch06,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: parallel discovery less than an hour before—and it occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well.
+SOURCE: recalled","parallel discovery less than an hour before—and it occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well.",0,stop,,0,7.35,596,295,2026-08-12T15:40:27
+gatsby_ch06,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: he could invent a protest the coupé came to a stop, and Daisy signalled us to draw up alongside.
+SOURCE: recalled","he could invent a protest the coupé came to a stop, and Daisy signalled us to draw up alongside.",0,stop,,0,35.1,604,2111,2026-08-12T15:40:55
+gatsby_ch06,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.02,595,2,2026-08-12T15:40:25
+gatsby_ch06,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
+SOURCE: recalled","so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.",0,stop,,0,6.31,596,195,2026-08-12T15:40:29
+gatsby_ch06,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: he sat on a chair in the doorway and stared at the people and the cars that passed along the road.
+SOURCE: recalled",he sat on a chair in the doorway and stared at the people and the cars that passed along the road.,0,stop,,0,6.31,602,269,2026-08-12T15:40:29
+gatsby_ch06,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,12.42,596,519,2026-08-12T15:40:37
+gatsby_ch06,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and thought, or pretended to think, that we were being very funny. . . .
+SOURCE: recalled","Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and thought, or pretended to think, that we were being very funny. . . .",0,stop,,0,7.09,607,305,2026-08-12T15:40:32
+gatsby_ch06,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and
+SOURCE: recalled","Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and",0,stop,,0,4.8,630,141,2026-08-12T15:40:30
+gatsby_ch06,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and thought, or pretended to think, that we were being very funny . . .
+SOURCE: recalled","Each of us said over and over that it was a ""crazy idea""—we all talked at once to a baffled clerk and thought, or pretended to think, that we were being very funny . . .",0,stop,,0,6.72,675,304,2026-08-12T15:40:34
+gatsby_ch07,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.51,599,67,2026-08-12T15:40:33
+gatsby_ch07,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Google,,,,1,content_filter,,0,15.31,607,202,2026-08-12T15:40:45
+gatsby_ch07,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,"ANSWER: before, I came to a small rectangle of light which I guessed was the pantry window.","before, I came to a small rectangle of light which I guessed was the pantry window.",1,content_filter,,0,4.85,597,88,2026-08-12T15:40:35
+gatsby_ch07,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.06,601,75,2026-08-12T15:40:35
+gatsby_ch07,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.67,601,66,2026-08-12T15:40:36
+gatsby_ch07,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.34,599,93,2026-08-12T15:40:38
+gatsby_ch07,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: fifteen minutes longer while he went back to his own place and made a pot of coffee.
+SOURCE: recalled",fifteen minutes longer while he went back to his own place and made a pot of coffee.,0,stop,,0,7.15,601,242,2026-08-12T15:40:42
+gatsby_ch07,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,7.26,597,229,2026-08-12T15:40:43
+gatsby_ch07,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,7.08,607,247,2026-08-12T15:40:43
+gatsby_ch07,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.76,626,117,2026-08-12T15:40:42
+gatsby_ch07,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take what he could and go—
+SOURCE: recalled","But he didn't despise himself and it didn't turn out as he had imagined. He had intended, probably, to take what he could and go—",0,stop,,0,7.8,663,424,2026-08-12T15:40:46
+gatsby_ch08,Q07,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: promised to come back, so he cooked breakfast for three, which he and the other man ate together.
+SOURCE: recalled","promised to come back, so he cooked breakfast for three, which he and the other man ate together.",0,stop,,0,14.42,594,869,2026-08-12T15:40:52
+gatsby_ch08,Q08,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: like air, drifted fortuitously about . . . like that ashen, fantastic figure gliding toward him through the amorphous trees.
+SOURCE: recalled","like air, drifted fortuitously about . . . like that ashen, fantastic figure gliding toward him through the amorphous trees.",0,stop,,0,4.86,603,146,2026-08-12T15:40:46
+gatsby_ch08,Q09,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,16.07,598,901,2026-08-12T15:40:58
+gatsby_ch08,Q10,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.67,596,4,2026-08-12T15:40:45
+gatsby_ch08,Q11,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: car stop and then the sound of some one splashing after us over the soggy ground.
+SOURCE: recalled",car stop and then the sound of some one splashing after us over the soggy ground.,0,stop,,0,6.09,597,115,2026-08-12T15:40:49
+gatsby_ch08,Q12,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.36,599,103,2026-08-12T15:40:48
+gatsby_ch08,Q13,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: ends of the earth and didn't know that the party was over.
+SOURCE: recalled",ends of the earth and didn't know that the party was over.,0,stop,,0,4.75,595,97,2026-08-12T15:40:50
+gatsby_ch08,Q21,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.13,598,148,2026-08-12T15:40:51
+gatsby_ch08,Q22,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.65,606,92,2026-08-12T15:40:51
+gatsby_ch08,Q23,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,"ANSWER: I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford I knew I could use him good.","I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was an Oggsford I knew I could use him good.",1,content_filter,,0,4.81,631,130,2026-08-12T15:40:51
+gatsby_ch08,Q24,positive,control,positive,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.81,671,91,2026-08-12T15:40:53
+gatsby_shuf_ch01,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.06,615,2,2026-08-12T15:40:53
+gatsby_shuf_ch01,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.75,608,2,2026-08-12T15:40:53
+gatsby_shuf_ch01,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.64,615,66,2026-08-12T15:40:56
+gatsby_shuf_ch01,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.88,613,5,2026-08-12T15:40:54
+gatsby_shuf_ch01,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.12,612,2,2026-08-12T15:40:54
+gatsby_shuf_ch01,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.08,606,239,2026-08-12T15:40:59
+gatsby_shuf_ch01,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.04,608,3,2026-08-12T15:40:56
+gatsby_shuf_ch01,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: It occurred to me now that I had seen her, or a picture of her, somewhere before. ""You live
+SOURCE: recalled","It occurred to me now that I had seen her, or a picture of her, somewhere before. ""You live",0,stop,,0,11.24,608,654,2026-08-12T15:41:04
+gatsby_shuf_ch01,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.45,616,121,2026-08-12T15:40:58
+gatsby_shuf_ch01,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,1.86,0,0,2026-08-12T15:40:56
+gatsby_shuf_ch01,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.91,688,2,2026-08-12T15:40:58
+gatsby_shuf_ch02,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,0,error,,0,9.07,610,2,2026-08-12T15:41:05
+gatsby_shuf_ch02,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.98,621,2,2026-08-12T15:40:59
+gatsby_shuf_ch02,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.1,646,101,2026-08-12T15:41:01
+gatsby_shuf_ch02,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.3,700,2,2026-08-12T15:41:00
+gatsby_shuf_ch03,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.52,608,183,2026-08-12T15:41:03
+gatsby_shuf_ch03,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.79,609,172,2026-08-12T15:41:04
+gatsby_shuf_ch03,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,10.66,611,555,2026-08-12T15:41:09
+gatsby_shuf_ch03,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.72,613,2,2026-08-12T15:41:01
+gatsby_shuf_ch03,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,10.98,614,499,2026-08-12T15:41:10
+gatsby_shuf_ch03,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.85,604,2,2026-08-12T15:41:02
+gatsby_shuf_ch03,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,5.55,607,162,2026-08-12T15:41:06
+gatsby_shuf_ch03,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,19.71,604,1140,2026-08-12T15:41:21
+gatsby_shuf_ch03,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.0,618,3,2026-08-12T15:41:05
+gatsby_shuf_ch03,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.66,639,2,2026-08-12T15:41:05
+gatsby_shuf_ch03,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.13,691,2,2026-08-12T15:41:06
+gatsby_shuf_ch04,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.98,621,3,2026-08-12T15:41:07
+gatsby_shuf_ch04,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.98,625,2,2026-08-12T15:41:08
+gatsby_shuf_ch04,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.26,600,3,2026-08-12T15:41:09
+gatsby_shuf_ch04,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.32,608,5,2026-08-12T15:41:09
+gatsby_shuf_ch04,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.78,613,3,2026-08-12T15:41:08
+gatsby_shuf_ch04,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.89,609,3,2026-08-12T15:41:09
+gatsby_shuf_ch04,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,0,length,,0,60.4,601,4096,2026-08-12T15:42:07
+gatsby_shuf_ch04,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,10.72,604,509,2026-08-12T15:41:18
+gatsby_shuf_ch04,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.27,617,70,2026-08-12T15:41:12
+gatsby_shuf_ch04,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.86,638,2,2026-08-12T15:41:12
+gatsby_shuf_ch04,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.85,672,2,2026-08-12T15:41:12
+gatsby_shuf_ch05,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,36.58,610,2332,2026-08-12T15:41:46
+gatsby_shuf_ch05,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.06,614,3,2026-08-12T15:41:12
+gatsby_shuf_ch05,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,16.97,603,905,2026-08-12T15:41:26
+gatsby_shuf_ch05,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,1.74,0,0,2026-08-12T15:41:11
+gatsby_shuf_ch05,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.95,612,2,2026-08-12T15:41:14
+gatsby_shuf_ch05,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.97,607,2,2026-08-12T15:41:15
+gatsby_shuf_ch05,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.35,618,2,2026-08-12T15:41:15
+gatsby_shuf_ch05,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,27.06,606,1484,2026-08-12T15:41:39
+gatsby_shuf_ch05,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.87,625,2,2026-08-12T15:41:15
+gatsby_shuf_ch05,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.62,657,4,2026-08-12T15:41:16
+gatsby_shuf_ch05,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.64,703,2,2026-08-12T15:41:17
+gatsby_shuf_ch06,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.56,613,2,2026-08-12T15:41:17
+gatsby_shuf_ch06,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.94,609,2,2026-08-12T15:41:18
+gatsby_shuf_ch06,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.12,619,2,2026-08-12T15:41:19
+gatsby_shuf_ch06,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: and he made boxes—that's a fact—and he was from Biloxi, Tennessee."" ""They carried him into my house,"" appended Jordan, ""because we lived just two doors from the church.
+SOURCE: recalled","and he made boxes—that's a fact—and he was from Biloxi, Tennessee."" ""They carried him into my house,"" appended Jordan, ""because we lived just two doors from the church.",0,stop,,0,21.14,621,1564,2026-08-12T15:41:37
+gatsby_shuf_ch06,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.71,609,92,2026-08-12T15:41:22
+gatsby_shuf_ch06,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,6.01,605,214,2026-08-12T15:41:23
+gatsby_shuf_ch06,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.02,610,2,2026-08-12T15:41:21
+gatsby_shuf_ch06,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.39,610,2,2026-08-12T15:41:20
+gatsby_shuf_ch06,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.76,625,3,2026-08-12T15:41:22
+gatsby_shuf_ch06,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.8,654,3,2026-08-12T15:41:22
+gatsby_shuf_ch06,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.57,704,5,2026-08-12T15:41:23
+gatsby_shuf_ch07,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.6,605,2,2026-08-12T15:41:24
+gatsby_shuf_ch07,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,1.83,0,0,2026-08-12T15:41:23
+gatsby_shuf_ch07,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,8.21,606,310,2026-08-12T15:41:30
+gatsby_shuf_ch07,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.85,610,3,2026-08-12T15:41:25
+gatsby_shuf_ch07,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,27.35,608,1481,2026-08-12T15:41:49
+gatsby_shuf_ch07,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.34,612,2,2026-08-12T15:41:27
+gatsby_shuf_ch07,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.61,610,2,2026-08-12T15:41:26
+gatsby_shuf_ch07,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,2.71,605,2,2026-08-12T15:41:27
+gatsby_shuf_ch07,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.01,619,2,2026-08-12T15:41:27
+gatsby_shuf_ch07,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.33,631,3,2026-08-12T15:41:29
+gatsby_shuf_ch07,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.42,686,2,2026-08-12T15:41:30
+gatsby_shuf_ch08,Q07,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.89,622,78,2026-08-12T15:41:31
+gatsby_shuf_ch08,Q08,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,7.01,604,288,2026-08-12T15:41:34
+gatsby_shuf_ch08,Q09,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,4.59,610,2,2026-08-12T15:41:32
+gatsby_shuf_ch08,Q10,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,12.64,609,595,2026-08-12T15:41:40
+gatsby_shuf_ch08,Q11,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.06,605,5,2026-08-12T15:41:32
+gatsby_shuf_ch08,Q12,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,15.66,605,773,2026-08-12T15:41:46
+gatsby_shuf_ch08,Q13,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,11.74,607,558,2026-08-12T15:41:42
+gatsby_shuf_ch08,Q21,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,recalled,"ANSWER: ""I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing, gentlemanly young man,
+SOURCE: recalled","""I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing, gentlemanly young man,",0,stop,,0,18.64,611,1146,2026-08-12T15:41:50
+gatsby_shuf_ch08,Q22,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.08,623,3,2026-08-12T15:41:35
+gatsby_shuf_ch08,Q23,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.24,644,6,2026-08-12T15:41:36
+gatsby_shuf_ch08,Q24,negative,control,negative,D,anthropic/claude-fable-5,2026-01-31,Amazon Bedrock,,,,1,content_filter,,0,3.13,685,2,2026-08-12T15:41:37

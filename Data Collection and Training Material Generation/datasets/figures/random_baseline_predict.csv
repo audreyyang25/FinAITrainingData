@@ -1,0 +1,8 @@
+condition,model,label,n,observed_pct,uniform_pct,prior_matched_exact_pct,always_affirmed_pct,always_mode_pct,mode_label,prior_matched_pct,prior_ci_lo,prior_ci_hi,p_value,strongest_baseline,strongest_baseline_pct,beats_prior,beats_mode,beats_all
+post_cutoff,openai/gpt-5,GPT-5,45,28.9,14.3,25.2,35.6,35.6,affirmed,25.2,13.3,37.8,0.339,"always ""affirmed""",35.6,0,0,0
+post_cutoff,anthropic/claude-opus-4,Claude Opus 4,43,41.9,14.3,24.8,37.2,37.2,affirmed,24.8,14.0,37.2,0.0084,"always ""affirmed""",37.2,1,1,1
+post_cutoff,google/gemini-2.5-pro,Gemini 2.5 Pro,37,51.4,14.3,25.6,37.8,37.8,affirmed,25.7,13.5,40.5,0.0002,"always ""affirmed""",37.8,1,1,1
+post_cutoff,openai/gpt-5.6-sol,GPT-5.6 Sol,32,40.6,14.3,23.2,34.4,34.4,affirmed,23.3,9.4,37.5,0.0165,"always ""affirmed""",34.4,1,1,1
+post_cutoff,anthropic/claude-fable-5,Claude Fable 5,32,50.0,14.3,23.2,34.4,34.4,affirmed,23.3,9.4,37.5,0.0004,"always ""affirmed""",34.4,1,1,1
+post_cutoff,google/gemini-3.1-pro-preview,Gemini 3.1 Pro,43,46.5,14.3,24.8,37.2,37.2,affirmed,24.8,14.0,37.2,0.0012,"always ""affirmed""",37.2,1,1,1
+post_cutoff,ALL,POOLED,232,42.7,14.3,24.5,36.2,36.2,affirmed,24.5,19.4,29.7,0.0,"always ""affirmed""",36.2,1,1,1

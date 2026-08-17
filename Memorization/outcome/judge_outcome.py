@@ -33,7 +33,7 @@ Design notes:
   * The judge never sees which model produced an answer, or its arm.
 """
 from __future__ import annotations
-import argparse, csv, datetime, glob, json, os, random, re, sys, threading
+import argparse, collections, csv, datetime, glob, json, os, random, re, sys, threading
 from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
@@ -84,7 +84,7 @@ If the candidate declines to answer or says it does not know, set
 
 Reply with ONLY a JSON object, no prose and no code fence:
 {"outcome_score": <float>, "reasoning_score": <float>, "declined": <bool>,
- "disposition_actual": "<affirmed|reversed|vacated|remanded|dismissed|mixed|other>",
+ "disposition_actual": "<affirmed|reversed|vacated|remanded|dismissed|granted|denied|judgment|mixed>",
  "disposition_claimed": "<same vocabulary, or none>",
  "justification": "<one or two sentences>"}"""
 
@@ -108,6 +108,89 @@ def build_user(opinion: str, answer: str) -> str:
             f"Grade the candidate answer against the opinion. JSON only.")
 
 
+# --- stable ground truth ----------------------------------------------------
+# WHY THIS PASS EXISTS.
+# `disposition_actual` is a fact about the opinion, but the grading prompt
+# re-derives it on every call -- six times per case, each time in the presence
+# of a different candidate answer. Measured on the pre-cutoff run, 16 of 136
+# cases (12%) came back with DIFFERENT actual labels depending on which model
+# was being graded (`mixed` vs `other`, `vacated` vs `other`, `affirmed` vs
+# blank). That is a contamination path: ground truth must not be able to drift
+# toward the answer being scored.
+#
+# So determine it once per case, from the opinion alone, with no candidate in
+# the prompt. 136 calls instead of 576 -- cheaper than what it replaces.
+#
+# `mixed` is retained rather than split into component verdicts. Splitting is
+# the better long-term metric but a stricter bar; keeping the single label makes
+# these numbers comparable to every figure already built.
+SYSTEM_TRUTH = """You are reading a US court opinion and recording its disposition.
+
+You will be given the FULL TEXT of an opinion. Report what THIS court did to the
+judgment or matter before it -- not what the court below did, and not what any
+cited case did.
+
+Choose exactly one. The first five are appellate; the next three are a trial
+court acting on the matter before it. There is deliberately no catch-all --
+every disposition belongs in one of these.
+
+  affirmed   upheld the decision below in full
+  reversed   overturned it in full
+  vacated    set it aside in full
+  remanded   sent it back without otherwise disturbing the decision
+  dismissed  disposed of the appeal or action without reaching the merits
+  granted    granted the motion, petition or relief sought
+  denied     denied the motion, petition or relief sought
+  judgment   entered judgment after a trial or on the full merits, rather than
+             ruling on a motion
+  mixed      more than one of the above applied to different parts (e.g.
+             "affirmed in part, reversed in part, remanded", or "granted in
+             part and denied in part")
+
+Reply with ONLY a JSON object, no prose and no code fence:
+{"disposition_actual": "<affirmed|reversed|vacated|remanded|dismissed|granted|denied|judgment|mixed>",
+ "prevailing_party": "<short phrase, or unclear>",
+ "justification": "<one sentence quoting or paraphrasing the mandate>"}"""
+
+TRUTH_COLS = ["case_id", "disposition_actual", "prevailing_party",
+              "justification", "judge", "parse_error", "error", "ts"]
+
+
+def build_truth_user(opinion: str) -> str:
+    return (f"=== FULL OPINION TEXT ===\n{opinion}\n\n"
+            f"What was this court's disposition? JSON only.")
+
+
+# --- regrading against a fixed disposition ----------------------------------
+# The OUTCOME anchors are phrased "disposition correct / partly correct", so the
+# judge has to commit to a disposition in order to score. That means a score
+# carries the judge's own reading of the label, and when the stable truth pass
+# disagreed, the two stopped matching: on the 38 attempted rows whose label
+# moved, corr(disposition hit, outcome_score) is +0.435 against the OLD label
+# and -0.393 against the new one. The sign flip is the contamination, measured.
+#
+# Fix: supply the established disposition and grade against it, so the judge is
+# scoring the candidate rather than re-litigating ground truth. Used only for
+# the affected rows -- regrading all 815 would cost ~$126 to change nothing on
+# the ~90% whose labels never moved.
+SYSTEM_REGRADE = SYSTEM.replace(
+    "You will be given the FULL TEXT of an opinion and a CANDIDATE ANSWER describing\n"
+    "its outcome and reasoning. The opinion is the ground truth. Grade the candidate\n"
+    "against it.",
+    "You will be given the FULL TEXT of an opinion, the court's ESTABLISHED\n"
+    "DISPOSITION (already determined from the opinion in a separate reading; treat\n"
+    "it as correct and do not re-derive it), and a CANDIDATE ANSWER describing the\n"
+    "outcome and reasoning. Grade the candidate against the opinion, scoring the\n"
+    "OUTCOME half relative to the established disposition.")
+
+
+def build_regrade_user(opinion: str, answer: str, disposition: str) -> str:
+    return (f"=== FULL OPINION TEXT ===\n{opinion}\n\n"
+            f"=== ESTABLISHED DISPOSITION ===\n{disposition}\n\n"
+            f"=== CANDIDATE ANSWER ===\n{answer}\n\n"
+            f"Grade the candidate answer. JSON only.")
+
+
 def parse(txt: str) -> tuple[dict, str]:
     m = JSON_RE.search(txt or "")
     if not m:
@@ -119,10 +202,189 @@ def parse(txt: str) -> tuple[dict, str]:
     return d, ""
 
 
+def run_truth_pass(args):
+    """One judge call per case, opinion only. Order-independent and idempotent."""
+    judge_slug = args.judge.replace("/", "__").replace(":", "_")
+    out_path = os.path.join(OUT_DIR, f"truth__{judge_slug}.csv")
+    os.makedirs(OUT_DIR, exist_ok=True)
+
+    # Case list comes from the predictions, so truth covers exactly the cases
+    # that were actually probed -- no more, no fewer.
+    pred_dir = args.pred_dir or PRED_DIR
+    case_ids = []
+    for f in sorted(glob.glob(os.path.join(pred_dir, "*.csv"))):
+        for r in csv.DictReader(open(f, newline="")):
+            if r["case_id"] not in case_ids:
+                case_ids.append(r["case_id"])
+
+    done = set()
+    if os.path.exists(out_path) and not args.force:
+        prior = [r for r in csv.DictReader(open(out_path, newline=""))
+                 if not (r.get("error") or "").strip()]
+        with open(out_path, "w", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=TRUTH_COLS, extrasaction="ignore")
+            w.writeheader(); w.writerows(prior)
+        done = {r["case_id"] for r in prior}
+    todo = [c for c in case_ids if c not in done]
+    print(f"truth pass: {len(case_ids)} cases, {len(done)} done, {len(todo)} to judge")
+    print(f"  judge {args.judge} -> {out_path}")
+    if args.dry_run:
+        print(build_truth_user(load_text(todo[0]))[:600] if todo else "(nothing to do)")
+        return
+
+    mode = "a" if done else "w"
+    fh = open(out_path, mode, newline="")
+    w = csv.DictWriter(fh, fieldnames=TRUTH_COLS, extrasaction="ignore")
+    if not done:
+        w.writeheader()
+    lock, n = threading.Lock(), [0]
+
+    def work(cid):
+        txt = load_text(cid)
+        if not txt:
+            row = dict(case_id=cid, error="no opinion text on disk")
+        else:
+            res = providers.call(args.judge, SYSTEM_TRUTH, build_truth_user(txt),
+                                 max_tokens=args.max_tokens, temperature=0.0,
+                                 web_search=False)
+            d, perr = ({}, res.error) if res.error else parse(res.text)
+            row = dict(case_id=cid,
+                       disposition_actual=(d.get("disposition_actual") or "").strip().lower(),
+                       prevailing_party=d.get("prevailing_party", ""),
+                       justification=(d.get("justification") or "")[:400],
+                       parse_error="" if d else (perr or "")[:160], error=res.error[:200])
+        row.update(judge=args.judge,
+                   ts=datetime.datetime.now().isoformat(timespec="seconds"))
+        with lock:
+            w.writerow(row); fh.flush()
+            n[0] += 1
+            if n[0] % 20 == 0:
+                print(f"    {n[0]}/{len(todo)}")
+
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        list(ex.map(work, todo))
+    fh.close()
+    rows = list(csv.DictReader(open(out_path, newline="")))
+    print(f"  done: {len(rows)} cases")
+    print(f"  {dict(collections.Counter(r['disposition_actual'] for r in rows))}")
+
+
+def apply_truth(args):
+    """Overwrite disposition_actual in judged CSVs from the stable truth table.
+
+    Only the LABEL is replaced. outcome_score and reasoning_score are graded
+    against the opinion's substance, not against the label, so they stand.
+    """
+    judge_slug = args.judge.replace("/", "__").replace(":", "_")
+    tpath = (os.path.join(OUT_DIR, f"truth__{judge_slug}.csv")
+             if args.apply_truth == "AUTO" else args.apply_truth)
+    truth = {r["case_id"]: r["disposition_actual"]
+             for r in csv.DictReader(open(tpath, newline=""))
+             if r.get("disposition_actual")}
+    print(f"truth table: {len(truth)} cases from {os.path.basename(tpath)}")
+
+    for jp in sorted(glob.glob(os.path.join(OUT_DIR, "judged__*.csv"))):
+        if jp.endswith(".unstable.csv"):
+            continue
+        rows = list(csv.DictReader(open(jp, newline="")))
+        cols = list(rows[0].keys())
+        changed = miss = 0
+        for r in rows:
+            t = truth.get(r["case_id"])
+            if t is None:
+                miss += 1
+                continue
+            if r["disposition_actual"].strip().lower() != t:
+                changed += 1
+            r["disposition_actual"] = t
+        bak = jp[:-4] + ".unstable.csv"
+        if not os.path.exists(bak):
+            os.rename(jp, bak)
+        with open(jp, "w", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
+            w.writeheader(); w.writerows(rows)
+        print(f"  {os.path.basename(jp):52s} {len(rows):4d} rows, "
+              f"{changed:3d} labels changed, {miss:3d} unmatched   (backup {os.path.basename(bak)})")
+
+
+def regrade_changed(args):
+    """Rescore only the attempted rows whose disposition_actual moved.
+
+    Declined rows are skipped: the rubric scores them 0 regardless of label, so
+    the disposition they were graded against cannot have mattered.
+    """
+    preds = {}
+    for d in (PRED_DIR, os.path.join(DS, "outcomes_predict")):
+        for f in glob.glob(os.path.join(d, "*.csv")):
+            for r in csv.DictReader(open(f, newline="")):
+                preds[(r["case_id"], r["model"])] = r.get("prediction", "")
+
+    for jp in sorted(glob.glob(os.path.join(OUT_DIR, "judged__*.csv"))):
+        if jp.endswith(".unstable.csv"):
+            continue
+        bak = jp[:-4] + ".unstable.csv"
+        if not os.path.exists(bak):
+            print(f"  {os.path.basename(jp)}: no .unstable baseline, skipped")
+            continue
+        old = {(r["case_id"], r["model"]): r
+               for r in csv.DictReader(open(bak, newline=""))}
+        rows = list(csv.DictReader(open(jp, newline="")))
+        cols = list(rows[0].keys())
+        todo = [r for r in rows
+                if not int(r.get("declined") or 0)
+                and (r["case_id"], r["model"]) in old
+                and old[(r["case_id"], r["model"])]["disposition_actual"].strip().lower()
+                != r["disposition_actual"].strip().lower()]
+        print(f"\n{os.path.basename(jp)}: {len(todo)} attempted rows to regrade")
+        if args.dry_run or not todo:
+            continue
+
+        lock, n = threading.Lock(), [0]
+
+        def work(r):
+            txt = load_text(r["case_id"])
+            ans = preds.get((r["case_id"], r["model"]), "")
+            if not txt or not ans:
+                with lock:
+                    print(f"    skip {r['case_id'][:40]} (missing text or prediction)")
+                return
+            res = providers.call(args.judge, SYSTEM_REGRADE,
+                                 build_regrade_user(txt, ans, r["disposition_actual"]),
+                                 max_tokens=args.max_tokens, temperature=0.0,
+                                 web_search=False)
+            d, _ = ({}, None) if res.error else parse(res.text)
+            try:
+                os_, rs = float(d["outcome_score"]), float(d["reasoning_score"])
+            except (KeyError, TypeError, ValueError):
+                with lock:
+                    print(f"    parse fail {r['case_id'][:40]} — left unchanged")
+                return
+            with lock:
+                r["outcome_score"] = os_
+                r["reasoning_score"] = rs
+                r["combined"] = round((os_ + rs) / 2, 4)
+                # disposition_actual stays as the truth pass set it; only what the
+                # candidate claimed is re-read.
+                r["disposition_claimed"] = d.get("disposition_claimed", r["disposition_claimed"])
+                r["justification"] = (d.get("justification") or "")[:400]
+                n[0] += 1
+
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            list(ex.map(work, todo))
+        with open(jp, "w", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
+            w.writeheader(); w.writerows(rows)
+        print(f"  regraded {n[0]}/{len(todo)} rows -> {os.path.basename(jp)}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--predictions", action="append",
                     help="outcome CSV(s); repeatable. Default: all in datasets/outcomes/")
+    ap.add_argument("--pred-dir",
+                    help="directory to glob instead of datasets/outcomes -- use with "
+                         "datasets/outcomes_predict for the --predict run. Keep the two "
+                         "experiments in separate judged files via --out-suffix.")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--judge", default=JUDGE)
     ap.add_argument("--web", action="store_true",
@@ -135,12 +397,29 @@ def main():
     ap.add_argument("--out-suffix", default="")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--regrade-changed", action="store_true",
+                    help="rescore only the attempted rows whose disposition_actual "
+                         "moved in --apply-truth, grading against the fixed label")
+    ap.add_argument("--truth-only", action="store_true",
+                    help="one pass per CASE, opinion only, no candidate answer -- "
+                         "writes outcome_scores/truth__<judge>.csv")
+    ap.add_argument("--apply-truth", metavar="TRUTH_CSV", nargs="?", const="AUTO",
+                    help="rewrite disposition_actual in the judged CSVs from a "
+                         "truth table; originals are backed up to *.unstable.csv")
     args = ap.parse_args()
 
-    files = args.predictions or sorted(glob.glob(os.path.join(PRED_DIR, "*.csv")))
+    if args.truth_only:
+        return run_truth_pass(args)
+    if args.regrade_changed:
+        return regrade_changed(args)
+    if args.apply_truth:
+        return apply_truth(args)
+
+    pred_dir = args.pred_dir or PRED_DIR
+    files = args.predictions or sorted(glob.glob(os.path.join(pred_dir, "*.csv")))
     files = [f for f in files if "__judged" not in os.path.basename(f)]
     if not files:
-        sys.exit(f"no prediction files in {PRED_DIR} — run run_outcome.py first")
+        sys.exit(f"no prediction files in {pred_dir} — run run_outcome.py first")
 
     rows = []
     for f in files:
