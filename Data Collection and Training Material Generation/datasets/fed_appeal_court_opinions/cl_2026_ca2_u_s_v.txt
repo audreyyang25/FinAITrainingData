@@ -1,0 +1,1531 @@
+24-961-cr
+U.S. v. Bankman-Fried
+
+                          In the
+             United States Court of Appeals
+                 For the Second Circuit
+
+                               August Term 2025
+                            Argued: November 4, 2025
+                              Decided: June 12, 2026
+
+                                   No. 24-961-cr
+
+                        UNITED STATES OF AMERICA,
+                                  Appellee,
+                                     v.
+                         SAMUEL BANKMAN-FRIED,
+                             Defendant-Appellant,
+
+   ZIXIAO GARY WANG, CAROLINE ELLISON, NISHAD SINGH, RYAN
+                              SALAME,
+                             Defendants,
+  FTX TRADING LTD., WEST REALM SHIRES INC, ALAMEDA RESEARCH
+                 LLC, ALAMEDA RESEARCH LTD.,
+                             Intervenors.
+               _____________________________________
+
+                  Appeal from the United States District Court
+                     for the Southern District of New York
+                    No. 22-cr-00673, Lewis A. Kaplan, Judge
+                   _____________________________________
+
+Before:            PARKER, LEE, and KAHN, Circuit Judges.
+
+      Defendant-Appellant Samuel Bankman-Fried appeals from a judgment of
+conviction in the United States District Court for the Southern District of New York
+(Kaplan, J.). The judgment was entered following a trial at which the jury found
+him guilty of seven counts of fraud and conspiracy related to a cryptocurrency
+exchange and a cryptocurrency trading firm he operated and controlled.
+
+      We AFFIRM the judgment of the district court.
+                _____________________________________
+
+                                    FOR APPELLEE: NATHAN REHN, (Danielle
+                                    Kudla, Nicolas Roos, Danielle R. Sassoon,
+                                    Hagan Scotten, Assistant United States
+                                    Attorneys, on the brief) Assistant United
+                                    States Attorney, for Jay Clayton, (Damian
+                                    Williams, on the brief) United States Attorney
+                                    for the Southern District of New York, New
+                                    York, NY.
+
+                                    FOR APPELLANT: ALEXANDRA A.E. SHAPIRO,
+                                    (Theodore Sampsell-Jones, Jason            A.
+                                    Driscoll, on the brief), Shapiro, Arato, Bach
+                                    LLP, New York, NY.
+
+
+
+
+                                          2
+BARRINGTON D. PARKER, Circuit Judge:
+
+        Samuel Bankman-Fried appeals from a judgment of the United States
+
+District Court for the Southern District of New York (Kaplan, J.) entered following
+
+a trial at which a jury convicted him of fraud and conspiracy related to the
+
+operation of his cryptocurrency exchange and his cryptocurrency trading firm.
+
+For the reasons set forth below, we AFFIRM the judgment of the district court.
+
+                                         BACKGROUND 1
+
+        This case arises from the collapse of FTX.com (“FTX”), a cryptocurrency
+
+exchange, and Alameda Research (“Alameda”), a cryptocurrency hedge fund and
+
+trading firm specializing in, among other things, arbitrage trading. Bankman-
+
+Fried served as CEO of FTX from its founding in 2019 until just before it entered
+
+bankruptcy proceedings in November 2022 and as CEO of Alameda from its
+
+founding in 2017 until he stepped down in 2021. The parties do not dispute that
+
+Bankman-Fried had substantial ownership stakes in both companies and
+
+controlled them. FTX operated as a platform where customers could buy and sell
+
+
+
+
+1Citations to the record are as follows: “Trial Tr.” refers to the trial transcript, “App’x” refers to the
+appendix that Bankman-Fried submitted, “Special App’x” refers to the special appendix that Bankman-
+Fried submitted, and “Add.” refers to the Addendum the government submitted.
+                                                        3
+cryptocurrencies such as Bitcoin, Ethereum, and Ripple. FTX customers could also
+
+trade cryptocurrency derivatives, borrow funds and trade on margin. FTX grew
+
+quickly, and by 2022, FTX’s customers traded around $10–$15 billion daily.
+
+      Alameda was FTX’s largest customer and primary market maker. As a
+
+market maker, Alameda made offers to buy and sell assets at various prices,
+
+provided liquidity for the exchange, and through these and related functions,
+
+made FTX a more attractive trading venue. In exchange for Alameda performing
+
+this role, FTX extended Alameda a substantial line of credit to serve as collateral
+
+for its positions and for orders on its accounts. This arrangement also allowed
+
+Alameda to maintain negative balances on FTX’s books.                This relationship
+
+provided substantial benefits to Alameda.
+
+      In late summer and early fall of 2022, the Federal Reserve rapidly raised
+
+interest   rates,   draining   liquidity   from    financial   markets   and    causing
+
+cryptocurrency markets to crash. As a result, Alameda’s net asset value, meaning
+
+the value of its assets less its liabilities, fell substantially because Alameda’s assets
+
+were mostly in cryptocurrency. In total, Alameda’s net asset value fell from more
+
+than $40 billion in late 2021 to around $10 billion in June 2022. When that
+
+
+
+                                               4
+happened, Alameda’s lenders recalled some of their loans.
+
+      On November 2, 2022, a version of Alameda’s balance sheet was published
+
+by a cryptocurrency news site, triggering widespread customer withdrawals from
+
+FTX. Within days, those customer withdrawals skyrocketed, depleting the value
+
+of Alameda’s holdings in FTX-affiliated cryptocurrencies. Bankman-Fried was
+
+forced to liquidate Alameda.       On November 11, 2022, Bankman-Fried was
+
+replaced as FTX’s CEO, and FTX filed for bankruptcy because, at that time, it was
+
+unable to meet withdrawal requests from customers.
+
+      Bankman-Fried was indicted in December 2022 on charges stemming from
+
+FTX’s collapse. A seven-count Superseding Indictment, returned in August 2023,
+
+charged him with two counts of wire fraud (Counts One and Three), in violation
+
+of 18 U.S.C. §§ 1343 and 2, two counts of wire fraud conspiracy (Counts Two and
+
+Four), in violation of 18 U.S.C. § 1349, one count of conspiracy to commit securities
+
+fraud (Count Five), in violation of 18 U.S.C. § 371 and 15 U.S.C. §§ 78j(b) and 78ff,
+
+one count of conspiracy to commit commodities fraud (Count Six), in violation of
+
+18 U.S.C. § 371 and 7 U.S.C. §§ 9(1) and 13(a)(5), and one count of conspiracy to
+
+commit money laundering (Count Seven), in violation of 18 U.S.C. § 1956(h).
+
+
+
+                                             5
+Following a four-week trial, he was convicted on all counts. The district court
+
+sentenced him to 25 years’ imprisonment, to be followed by three years of
+
+supervised release. The district court also imposed a forfeiture of approximately
+
+$11 billion. This appeal followed.
+
+                             STANDARD OF REVIEW
+
+      Because this appeal arises from a judgment of conviction entered after a jury
+
+trial, we “draw the facts from the evidence presented at trial, viewed in the light
+
+most favorable to the government.” United States v. Thompson, 896 F.3d 155, 159
+
+(2d Cir. 2018) (quotations omitted). We review conclusions of law regarding
+
+statutory interpretation, jury instructions, and forfeiture de novo. See Moore v.
+
+Rubin, 160 F.4th 271, 289 (2d Cir. 2025); United States v. Contorinis, 692 F.3d 136, 141,
+
+145 (2d Cir. 2012). We review the district court’s evidentiary and discovery rulings
+
+for abuse of discretion. See Warren v. Pataki, 823 F.3d 125, 137–38 (2d Cir. 2016).
+
+                                    DISCUSSION
+
+      The government’s theory at trial was that Bankman-Fried secured
+
+investments in FTX by promising customers that their funds would be secure on
+
+the platform and used only for cryptocurrency transactions on FTX. Instead,
+
+
+
+                                               6
+Bankman-Fried freely transferred investor funds from FTX customer accounts to
+
+Alameda and elsewhere where he used those funds for purposes investors had not
+
+authorized, including for his own personal benefit.
+
+      At trial, the government presented evidence from Bankman-Fried’s
+
+executive team, business associates, former friends, colleagues, government
+
+regulators, and FTX’s bankruptcy restructuring team. That testimony, which the
+
+jury found sufficient to convict Bankman-Fried, proved that he was the driving
+
+force behind a fraud in which he misappropriated billions of dollars from
+
+customers and investors.
+
+      Bankman-Fried does not meaningfully contest the substantial evidence the
+
+government marshalled at trial. On appeal, one of his principal lines of defense is
+
+that, despite the many unauthorized transactions, his investments were sound
+
+ones such that over time, there was, or would be, sufficient liquidity to ensure that
+
+investors were made whole and would not experience any losses. He contends
+
+that the district court wrongly precluded him from introducing evidence that FTX
+
+and Alameda, while temporarily illiquid, held sufficient assets to ultimately make
+
+investors and customers whole. Bankman-Fried argues that events post-dating his
+
+
+
+                                             7
+indictment validate his defense: Many of his investments have or would have
+
+become profitable—some highly so. Bankman-Fried argues that Judge Kaplan
+
+prevented him from telling the “complete” story at trial by disallowing his
+
+testimony about this aspect of FTX’s finances. Appellant’s Reply Br. at 10–12.
+
+        But this line of defense has essentially been rejected by a decision that came
+
+down after the trial and that clarified what counts as federal fraud: Kousisis v.
+
+United States, 605 U.S. 114, 118 (2025). 2 There, the Supreme Court held that, under
+
+the “fraudulent-inducement theory,” “a defendant commits federal fraud
+
+whenever he uses a material misstatement to trick a victim into a contract that
+
+requires handing over her money or property—regardless of whether the
+
+fraudster, who often provides something in return, seeks to cause the victim net
+
+pecuniary loss.” Id.
+
+        Bankman-Fried’s second line of defense is to challenge the district judge’s
+
+various other rulings. He argues that a series of evidentiary and procedural
+
+rulings prevented him from presenting evidence that would have shown the jury
+
+
+
+
+2“When [the Supreme Court] applies a rule of federal law . . ., that rule is the controlling interpretation of
+federal law and must be given full retroactive effect in all cases still open on direct review.” Harper v. Va.
+Dep't of Tax'n, 509 U.S. 86, 97 (1993).
+                                                          8
+he did not intend to cause loss to the victims. He argues that these rulings made
+
+his trial “fundamentally unfair.”      Appellant’s Br. at 52 (quotations omitted).
+
+Specifically, Bankman-Fried contends that the district court issued one-sided
+
+evidentiary rulings on the issue of loss, impermissibly required Bankman-Fried to
+
+sit for a “deposition” and preview his advice-of-counsel defense, gave legally
+
+erroneous jury instructions, improperly limited his access to potential exculpatory
+
+material, and imposed an illegal and unconstitutional forfeiture order. Id. at 20–
+
+21. We consider each argument in turn.
+
+                                   I.
+      Bankman-Fried makes these arguments in the face of a trial at which the
+
+government’s evidence against him was, conservatively stated, robust.            That
+
+evidence showed that while Bankman-Fried assured customers, investors,
+
+regulators and the public that FTX customer funds were safe, he transferred
+
+billions of dollars from FTX customer accounts to Alameda and elsewhere. He
+
+then used those funds to make investments unrelated to FTX customer deposits,
+
+to cover Alameda’s losses, to make political contributions, to acquire personal real
+
+estate, and to underwrite a lavish lifestyle, all while falsifying business records in
+
+order to conceal these transactions.
+
+                                             9
+      Much of the evidence presented by the government at trial came from
+
+members of Bankman-Fried’s inner circle who testified under cooperation
+
+agreements.     Caroline Ellison, former CEO of Alameda, testified that
+
+Bankman-Fried directed her to use FTX customer funds to repay Alameda’s
+
+lenders. She also testified that, to secure additional loans from an Alameda lender,
+
+Bankman-Fried instructed Ellison to send a false balance sheet to the lender to
+
+make it appear as though Alameda had more assets than it did. Ellison further
+
+testified that Bankman-Fried funneled FTX customer funds to Alameda, which in
+
+turn channeled them to, for example, Bankman-Fried’s political lobbying
+
+organization where they were spent on donations to congressional candidates and
+
+political action committees. Ellison testified that as a result of Bankman-Fried’s
+
+management of FTX and Alameda, she became “more willing to do things like lie
+
+and steal” including by “sending false balance sheets to . . . lenders [and] taking
+
+customer money.” Trial Tr. at 807:20–808:02. Ellison testified that he “directed
+
+[her] to commit these crimes” in reference to the fraud, conspiracy, and money
+
+laundering that she “committed with Sam.” Id. at 643:05–11, 644:02–06.
+
+      Gary Wang also testified for the government. Wang was co-owner of
+
+
+
+                                            10
+Alameda and co-founder and Chief Technology Officer of FTX. He was also
+
+Bankman-Fried’s former Massachusetts Institute of Technology roommate and
+
+childhood friend of 15 years. He told the jury that he and Bankman-Fried illegally
+
+built “special privileges” into FTX’s code so that Alameda could withdraw
+
+unlimited amounts of funds from FTX. Trial Tr. at 304:12–22. These “special
+
+privileges” gave Alameda a $65 billion line of credit that it could draw from FTX.
+
+Wang testified that when FTX’s customers thought they had deposited money into
+
+FTX, some of those funds “went into Alameda’s bank account instead.” App’x at
+
+709.   Wang also testified that Bankman-Fried lied to the public about these
+
+transactions in telephone calls, in interviews, and on Twitter, 3 falsely assuring the
+
+public that “customer funds [we]re kept safe” and were held by FTX and that FTX
+
+did not “invest client assets.” App’x at 726–27; Trial Tr. at 462:19–24. Wang also
+
+testified that he understood that it was “wrong” for FTX to use customer funds in
+
+this way because customers had not agreed to these uses of their funds and that
+
+Bankman-Fried had publicly promised that he “would not use customer funds like
+
+this.” App’x at 736. Wang further testified that in a public tweet, Bankman-Fried
+
+
+
+3 The social media platform used by Bankman-Fried, formerly known as “Twitter,” is now “X.” For
+consistency, we use Twitter throughout this opinion.
+                                                 11
+falsely stated that FTX had “a long history of safeguarding client assets and that
+
+remains true today.” Trial Tr. at 461:19–20, 463:02–12. He testified that, despite
+
+Bankman-Fried’s tweets to the contrary, “FTX was not fine and assets were not
+
+fine because FTX did not have enough assets for customer withdrawals.” Id. at
+
+461:19, 461:24–462:07.
+
+      Nishad Singh, former head of engineering at FTX, testified that Bankman-
+
+Fried was “unsurprised” when he learned that Alameda was borrowing $13
+
+billion from FTX. App’x at 830. Singh also testified that he wanted to resign from
+
+FTX because he “knew that [he] was becoming party [to] and participating in
+
+something heinously criminal . . . [and that] [t]he scale of wrongdoing was
+
+enormous.” Trial Tr. at 1623:02–13. Singh testified that he would frequently
+
+express to Bankman-Fried his concerns about Bankman-Fried spending “large
+
+amounts” of company money “on real estate and endorsement deals, . . . like deals
+
+with celebrities [and] stadiums.” Id. at 1313:01–07, 1314:06–08. Singh testified that,
+
+by signing “blank checks” in his name, Singh helped conceal that political
+
+donations came from FTX customer funds. Id. at 1431:19–1434:12. Singh also
+
+testified that Bankman-Fried directed him to manually backdate and falsify FTX’s
+
+
+
+                                             12
+revenue numbers.
+
+      Can Sun, FTX’s former general counsel, testified that Bankman-Fried asked
+
+him “to come up with legal justifications” for misappropriated FTX funds and that
+
+Bankman-Fried was “not surprised at all” when Sun told him that the theoretical
+
+justifications Sun could come up with were not “supported by the facts.” App’x
+
+at 864–68.
+
+      Christian Drappi, a former software engineer for Alameda, testified that, at
+
+a secretly recorded meeting, Ellison told Alameda employees that Bankman-Fried
+
+knew that Alameda was using FTX customer deposits to repay its loans. When
+
+asked at that meeting who made the decision to repay loans with FTX customer
+
+funds, Ellison responded that Sam did. Trial Tr. at 1093:19–1095:02.
+
+      Bankman-Fried testified on his own behalf. He told the jury that he believed
+
+the money Alameda siphoned from FTX customers could be repaid because
+
+Alameda’s assets were greater than its liabilities. He testified that he did not
+
+“defraud anyone” and did not “take customer funds.” App’x at 991. He explained
+
+that he “made a number of small mistakes and a number of larger mistakes.” Id.
+
+at 992. According to him, “[b]y far the biggest mistake was [that] [FTX] did not
+
+
+
+                                          13
+have a dedicated risk management team, [FTX] didn’t have a chief risk officer . . .
+
+and [as a result] there were significant oversights.” Id. Bankman-Fried also
+
+testified that he was surprised when he first learned of Alameda’s $8 billion
+
+negative balance on FTX in October 2022. He explained that he believed that FTX
+
+customers’ money could be repaid because Alameda had $10 billion more in assets
+
+than liabilities, even including Alameda’s $8 billion in liability to FTX. He testified
+
+that he posted a tweet saying “FTX is fine. Assets are fine” because “Alameda still
+
+had a net asset value of roughly positive 10 billion” meaning that “there was no . . .
+
+hole in terms of assets.” Trial Tr. at 2542:22–2543:05. Then, when he learned
+
+shortly thereafter that the market had crashed and Alameda’s asset value declined
+
+“from close to $10 billion to only a little bit above [zero],” he took the tweet down.
+
+Id. at 2545:11–2546:18.
+
+      Bankman-Fried’s counsel argued to the jury that what mattered was not the
+
+number of people who testified against him, but rather his “state of mind” and the
+
+fact that Bankman-Fried “acted in good faith throughout.” Id. at 3091:17–19,
+
+3112:3. The jury was unpersuaded and found him guilty on all counts.
+
+                                   II.
+      On appeal, Bankman-Fried contends that reversal is required because the
+
+                                             14
+district court, through a series of evidentiary rulings, unfairly prevented him from
+
+presenting his defense and rebutting the government’s case. Bankman-Fried’s
+
+trial lasted a month, and nearly every day of trial sophisticated counsel on both
+
+sides lodged objections of one sort or another. As is typical in most trials, the
+
+district court issued many evidentiary rulings, at times in favor of the government,
+
+and at other times in favor of the defendant. But the Federal Rules of Evidence
+
+and Procedure afford trial judges considerable latitude in superintending trial
+
+proceedings and in admitting or excluding evidence so the trial can proceed fairly
+
+and efficiently. Most of a trial judge’s rulings on these matters are reviewed for
+
+abuse of discretion, a purposefully high standard. And, of course, all of the
+
+evidentiary challenges raised by the defense on appeal must be weighed against
+
+the substantial evidence of guilt the prosecutors presented to the jury. With these
+
+considerations in mind, we turn to Bankman-Fried’s contentions on appeal.
+
+                                      III.
+      Bankman-Fried argues that the district court abused its discretion by issuing
+
+“profoundly one-sided” evidentiary rulings on loss.         Appellant’s Br. at 20.
+
+Specifically, he argues that the district court’s rulings, in reliance on a
+
+“misinterpretation of the law of fraud,” erroneously permitted the government to
+
+                                            15
+argue that the misappropriated funds were permanently lost and prevented
+
+Bankman-Fried from rebutting that claim by presenting evidence of his
+
+investments’ ultimate value. See id.
+
+      Before trial, the district court ruled that it was “immaterial as a matter of
+
+law” whether Bankman-Fried thought his customers and lenders would
+
+ultimately suffer no loss. See Special App’x at 28. Several evidentiary rulings
+
+followed. First, the district court granted the government’s motion in limine,
+
+preventing Bankman-Fried from arguing that he intended “to return or repay
+
+victims’ funds.”   Id. at 56–57.    In response to Bankman-Fried’s request to
+
+reconsider, the district court declined to change its mind and explained that it is
+
+“immaterial as a matter of law whether the defendant intended to repay.” Id. at
+
+72–73 (quotations omitted). This ruling was correct. To secure Bankman-Fried’s
+
+fraud conviction, the government did not need to prove intent to cause economic
+
+loss. See Kousisis, 605 U.S. at 132 (rejecting “the argument that a fraud conviction
+
+depends on economic loss”). As the district court recognized, any contention that
+
+Bankman-Fried lacked an intent to defraud because he intended to eventually
+
+repay his customers was legally misleading and prejudicial because the wire fraud
+
+
+
+                                            16
+statute encompasses temporary misappropriation of money or property. As the
+
+district court made clear, FTX customers were defrauded as soon as Bankman-
+
+Fried transferred their money to Alameda regardless of how strongly he believed
+
+he might later return the money.
+
+      In any event, Bankman-Fried was able to present his version of events to the
+
+jury when he testified to his good faith belief that Alameda’s assets were greater
+
+than its liabilities. His main objection is that he wanted to say more along these
+
+lines but was prevented from doing so by the district court. We, however, see no
+
+error in the district court’s rulings. Judge Kaplan acted within his broad discretion
+
+when he concluded that more testimony from Bankman-Fried along these lines
+
+would have created a real danger of confusing, if not misleading, the jury. As he
+
+correctly charged the jury: “[i]f the defendant knowingly and willfully
+
+participated in the scheme with the intent to deceive the . . . victims in question for
+
+the purpose of depriving the . . . victims of money or property, even if only for a
+
+period of time, then no amount of honest belief on the part of the defendant that
+
+the victim ultimately would be benefited will excuse” the defendant’s “false
+
+representations.” App’x at 1133.
+
+
+
+                                             17
+         The district court also denied Bankman-Fried’s motion in limine that aimed
+
+to block the government from introducing certain evidence related to FTX and
+
+Alameda’s bankruptcies. The court reasoned that “undisputed” facts about the
+
+bankruptcies were “intertwined inextricably with the crimes alleged in the
+
+Indictment,” and thus “the government [was] entitled, within reason and without
+
+appealing to sympathy, to explain to the jury its view of what allegedly happened
+
+here.” Special App’x at 59–60 (citing Old Chief v. United States, 519 U.S. 172 (1997);
+
+United States v. Carboni, 204 F.3d 39, 44 (2d Cir. 2000)). We see no abuse of
+
+discretion. The evidence admitted concerning FTX’s and Alameda’s bankruptcies
+
+was indeed “intertwined inextricably” with the government’s theory of fraudulent
+
+intent. The government had to prove that the money customers placed with FTX
+
+was not accessible and was not custodied as promised. To convict Bankman-Fried
+
+of wire fraud, the government needed to prove, inter alia, that Bankman-Fried
+
+possessed fraudulent intent. See United States v. Gatto, 986 F.3d 104, 113 (2d Cir.
+
+2021).     Thus, facts about the events surrounding FTX’s and Alameda’s
+
+bankruptcies showing that the money was not accessible, when juxtaposed with
+
+Bankman-Fried’s public statements and assurances to the contrary, went directly
+
+
+
+                                             18
+to Bankman-Fried’s knowledge that he had misappropriated FTX customer funds.
+
+      Next, the district court granted the government’s motion to exclude
+
+evidence about the current value of Bankman-Fried’s investments, reasoning that
+
+the crime charged was misappropriation and anything that occurred after “the
+
+minute the misappropriation happen[ed]” was irrelevant. App’x 802–08; Special
+
+App’x at 74. We agree. For the same reasons evidence about Bankman-Fried’s
+
+intent to repay the misappropriated funds was misleading, so too was evidence
+
+about the value of Bankman-Fried’s investments following the misappropriation.
+
+Whether the assets purchased by Bankman-Fried appreciated in value is irrelevant
+
+as to whether he committed fraud.
+
+      Finally, Bankman-Fried contends that the district court erred by permitting
+
+the government to argue at trial that victims permanently lost their funds.
+
+Assuming arguendo that Bankman-Fried has shown that the district court erred by
+
+permitting the government to exceed the scope of its pretrial rulings, Bankman-
+
+Fried has not shown that the error required reversal considering the strength of
+
+the prosecution’s case. See United States v. Scott, 677 F.3d 72, 85 (2d Cir. 2012)
+
+(explaining that “the strength of the prosecution’s case” is likely “the single most
+
+
+
+                                            19
+critical factor” in determining whether any evidentiary error is harmless
+
+(quotations omitted)). The overwhelming evidence presented at trial proved that
+
+Bankman-Fried knowingly and intentionally committed large-scale fraud on
+
+FTX’s customers. While he was publicly reassuring customers, investors, and
+
+regulators that FTX customer funds were safe, he was simultaneously using FTX
+
+as his own personal piggy bank, spending customer funds on real estate, political
+
+contributions, and investments. Given the overwhelming evidence against him,
+
+we are not convinced that the isolated statements Bankman-Fried points to, tainted
+
+the jury’s verdict. See United States v. Al–Moayad, 545 F.3d 139, 164 (2d Cir. 2008).
+
+                                       IV.
+      Bankman-Fried also argues that the district court improperly instructed the
+
+jury regarding the scienter requirement for all counts and in so doing, improperly
+
+lowered the government’s burden of proof. This argument is also unpersuasive.
+
+                                          a.
+
+      First, Bankman-Fried objects to the district court’s fraudulent intent
+
+instruction. Bankman-Fried sought instructions that to prove fraudulent intent,
+
+the government needed to show that he engaged in fraud “for the purpose of
+
+causing financial loss.” App’x at 515. The district court’s instructions omitted this
+
+                                               20
+requirement and on appeal, Bankman-Fried contends the court erred.
+
+      As the Supreme Court explained in Kousisis (decided after this appeal was
+
+briefed), “a defendant commits federal fraud whenever he uses a material
+
+misstatement to trick a victim into a contract that requires handing over her money
+
+or property—regardless of whether the fraudster, who often provides something
+
+in return, seeks to cause the victim net pecuniary loss.” 605 U.S. at 118. The
+
+Supreme Court explained that “the wire fraud statute is agnostic about economic
+
+loss. The statute does not so much as mention loss, let alone require it. Instead, a
+
+defendant violates § 1343 by scheming to ’obtain’ the victim’s ‘money or property,’
+
+regardless of whether he seeks to leave the victim economically worse off.” Id. at
+
+124. Therefore, because it is now clear that proof of intent to cause net financial
+
+loss is not required, we see no error in omitting Bankman-Fried’s requested
+
+instruction.
+
+                                         b.
+
+      Second, Bankman-Fried argues that the court erred in providing a “no
+
+ultimate harm” instruction. It instructed the jury that the unauthorized—even
+
+temporary—use of a victim’s money or property sufficed to establish fraudulent
+
+
+
+                                              21
+intent even if “no ultimate harm” was intended or occurred. On this issue, the
+
+court instructed the jury as follows:
+
+      [I]n considering whether or not a defendant acted in good faith, you
+      are instructed that an honest belief on the part of the defendant, . . .
+      that ultimately everything would work out to the benefit of the
+      alleged victims does not necessarily mean that the defendant acted in
+      good faith. If the defendant knowingly and willfully participated in
+      the scheme with the intent to deceive the . . . victims . . . for the
+      purpose of depriving the . . . victims of money or property, even if
+      only for a period of time, then no amount of honest belief on the part
+      of the defendant that the victim[s] ultimately would be benefited will
+      excuse false representations that a defendant willfully made or
+      caused to be made.
+
+App’x at 1133–34.
+
+      The court’s no-ultimate-harm instruction was not erroneous because it was
+
+an accurate statement of the law. A defendant who uses deceit to temporarily
+
+deprive another of their property cannot claim that he was acting in good faith
+
+and therefore lacked fraudulent intent. As the Supreme Court explained, “a fraud
+
+is complete when the defendant has induced the deprivation of money or property
+
+under materially false pretenses.” Kousisis, 605 U.S. at 127 n.5. Therefore, the fact
+
+that a defendant believed victims would ultimately benefit is not a defense to a
+
+charge of fraud.
+
+      Bankman-Fried argues that even if it was not legally erroneous, the
+                                            22
+instruction was unnecessary because the district court excluded his evidence and
+
+arguments about his intent to repay FTX’s customers. However, the record is clear
+
+that Bankman-Fried testified at trial that he did not intend to harm FTX customers
+
+because he believed Alameda’s assets were greater than its liabilities and that the
+
+money would eventually be repaid. Given this evidence, the instruction was
+
+proper.
+
+      Bankman-Fried also argues that “the facts here also make the instruction
+
+wrong and deeply confusing” because FTX’s structure as a margin futures trading
+
+platform involves lending whereby customers and lenders by definition “giv[e]
+
+up the right to use assets for a time.” Appellant’s Br. at 58–59; Appellant’s Reply
+
+Br. at 26. We are unpersuaded. The fact that some FTX customers opted into
+
+margin trading, and thus temporary deprivation of their money, is beside the
+
+point. Some opted into margin trading, some did not. No one opted into having
+
+their money transferred under false pretenses to Alameda. The point was that
+
+people were harmed when they were temporarily deprived of their money
+
+through deception. Thus, the instruction simply—and properly—clarified that
+
+Bankman-Fried could not escape criminal liability for inducing people to part with
+
+
+
+                                           23
+their money through misrepresentations based on his belief that, eventually,
+
+things would all work out.
+
+                                         c.
+
+      Third, Bankman-Fried takes issue with the district court’s definition of
+
+“willfully.”    Bankman-Fried requested an instruction that the definition of
+
+“willfully,” for conspiracy to commit securities and conspiracy to commit
+
+commodities fraud, requires proof that the defendant knew his conduct was
+
+unlawful.      App’x at 611, 625, 629.   But, instead of giving Bankman-Fried’s
+
+requested definition for those counts, the court instructed the jury that “willfully”
+
+“means to act voluntarily and with wrongful purpose.” Id. at 1131; see id. at 1155,
+
+1163. Bankman-Fried consented to the court’s definition of “willfully” for the wire
+
+fraud counts but objected to using that definition for the conspiracy-to-commit-
+
+securities-fraud and conspiracy-to-commit-commodities-fraud counts.              The
+
+district court’s instruction was a correct statement of the law, and we see no error.
+
+See United States v. Kaiser, 609 F.3d 556, 569 (2d Cir. 2010) (concluding that
+
+securities fraud “do[es] not require a showing that a defendant had awareness of
+
+the general unlawfulness of his conduct, but rather, that he had an awareness of
+
+
+
+                                              24
+the general wrongfulness of his conduct”).
+
+                                         d.
+
+      Finally, Bankman-Fried objects to the district court’s definition of “good
+
+faith,” which is applicable to all counts. Bankman-Fried had requested that the
+
+court instruct jurors that “[g]ood faith is an honest belief by the defendant that his
+
+conduct was not unlawful or improper.” App’x at 1072. The district court
+
+properly omitted this language from its good-faith instruction as to all counts.
+
+Such an instruction was not necessary because the government was not required
+
+to prove that Bankman-Fried was aware of the general unlawfulness of his conduct
+
+to convict him. Instead, it just had to demonstrate that he had an awareness of the
+
+general wrongfulness of his conduct. See United States v. Kosinski, 976 F.3d 135, 154
+
+(2d Cir. 2020); Kaiser, 609 F.3d at 569.       As the government put it, “[i]t is
+
+inconceivable that a defendant could act in good faith while intentionally
+
+deceiving his investors—as the jury was required to find in order to convict.”
+
+Appellee’s Br. at 32.
+
+                                     V.
+      On appeal, Bankman-Fried argues that the court erred by requiring him to
+
+disclose his advice-of-counsel defense in advance of his testimony.
+
+                                              25
+                                                     a.
+
+        Before the trial started, the district court ordered the defense to provide
+
+pretrial advice of counsel disclosure. 4 In response, Bankman-Fried’s counsel
+
+informed the court that he did “not intend to present a formal advice of counsel
+
+defense” but intended to present evidence to the jury that attorneys were involved
+
+in reviewing and approving decisions related to several matters at issue. Add. at
+
+6. Bankman-Fried’s counsel contended that discussions Bankman-Fried had with
+
+his attorneys regarding various matters led Bankman-Fried to believe that he was
+
+acting in good faith. Id.
+
+        Later, the district court emphasized that Bankman-Fried was not asserting
+
+a “formal advice-of-counsel defense,” which would require him to establish that
+
+he made, among other things, a “complete disclosure” to counsel about the matter
+
+at issue and sought advice about the legality of his conduct. Special App’x at 63.
+
+The court reasoned that Bankman-Fried’s approach risked unfairly prejudicing the
+
+government. Id. at 70. The court explained that it would likely confuse the jury if
+
+
+
+4 To assert an advice-of-counsel defense, defendants must “show that [they] [(1)] made complete
+disclosure to counsel, [(2)] sought advice as to the legality of [their] conduct, [(3)] received advice that
+[their] conduct was legal, and [(4)] relied on that advice in good faith.” Markowski v. SEC, 34 F.3d 99, 104–
+05 (2d Cir. 1994).
+                                                          26
+Bankman-Fried was permitted to focus on the presence or involvement of lawyers
+
+without providing “any degree of specificity about what they were present for or
+
+involved in, what their tasks were, what exactly they knew, and what the
+
+defendant knew about what the lawyers knew and were doing.” Id. Based on
+
+these conclusions, the court held that Bankman-Fried was precluded from offering
+
+evidence, argument, or testimony on his advice-of-counsel defense “absent prior
+
+notice to the [c]ourt and the government outside of the presence of the jury.” Id.
+
+at 70–71.
+
+      At trial, after the government rested, defense counsel informed the court
+
+that Bankman-Fried wanted to testify about the involvement of counsel in data
+
+retention policies and the formation of certain bank accounts. However, Judge
+
+Kaplan concluded that because he had been given insufficient information to
+
+properly rule on the request, he would need to hold a hearing outside the presence
+
+of the jury to decide whether to permit Bankman-Fried’s testimony about
+
+counsel’s involvement. According to Bankman-Fried, his counsel did not object to
+
+the hearing itself because “[f]urther objection would have been futile given the
+
+district court’s repeated rulings against [Bankman-Fried].” Appellant’s Reply Br.
+
+
+
+                                           27
+at 19–20.
+
+      Bankman-Fried then testified and was cross-examined outside the presence
+
+of the jury along the lines drawn by the court. At the start of the hearing,
+
+Bankman-Fried told the court he wanted to testify to the FTX attorneys’
+
+involvement in four matters: (1) implementing document retention policies and
+
+enabling auto-deletion procedures; (2) forming Alameda subsidiary North
+
+Dimension and executing a payment processing agreement between FTX and
+
+Alameda; (3) structuring and documenting loans from Alameda to Bankman-Fried
+
+and other FTX executives; and (4) drafting FTX’s Terms of Service. The district
+
+court considered each category of involvement in turn.
+
+      After considering this proposed testimony, the court concluded that
+
+Bankman-Fried could testify to the role of FTX attorneys in implementing
+
+document retention policies (category 1), because such testimony “would not pose
+
+a substantial risk of confusion or unfair prejudice.” Special App’x at 80. However,
+
+the court concluded that the probative value of Bankman-Fried’s testimony as to
+
+the other policies and procedures was significantly outweighed by the risk “of
+
+confusing the jury and unfairly prejudicing the government.” Id. at 87.
+
+
+
+                                           28
+                                          b.
+
+      On appeal, Bankman-Fried principally raises two objections to the district
+
+court’s handling of his advice-of-counsel defense during trial. First, Bankman-
+
+Fried claims that the district court erred in requiring him to sit for a “deposition”
+
+in which his anticipated testimony to the jury could be previewed by the
+
+government. Appellant’s Br. at 43–46. We disagree. Rule 104 authorizes district
+
+courts to decide issues of admissibility and allows them to “conduct any hearing
+
+on a preliminary question so that the jury cannot hear it if . . . justice so requires.”
+
+Fed. R. Evid. 104(c).    Also, district courts have broad discretion to take the
+
+necessary steps to minimize jury confusion and to exclude irrelevant evidence. See
+
+Fed. R. Evid. 403. Conducting a hearing outside the presence of the jury, Judge
+
+Kaplan was obviously concerned that Bankman-Fried wished to advance some
+
+sort of hybrid advice-of-counsel defense without meeting the legal requirements
+
+for that defense, particularly the requirement of full disclosure to FTX’s counsel.
+
+To address this concern, Judge Kaplan needed to understand what Bankman-Fried
+
+intended to tell the jury.
+
+      Second, Bankman-Fried argues that the district court’s rulings flowing from
+
+
+
+                                               29
+the hearing, which permitted testimony regarding only the role of FTX’s lawyers
+
+in implementing document retention policies, were erroneous. We disagree.
+
+Bankman-Fried has not shown that the district court abused its discretion in the
+
+compromise it reached. For each category of testimony the district court excluded,
+
+it is undisputed that FTX lawyers were not informed of all the relevant facts and
+
+did not receive full disclosure of the intended use of the documents in question. 5
+
+The fact that lawyers drafted run-of-the-mill corporate documents provided little
+
+to no evidence relevant to Bankman-Fried’s good faith in using them but created
+
+a substantial risk of jury confusion. 6                 As the district court explained, “such
+
+
+5 As to category 2, the formation of North Dimension and execution of a payment processing agreement
+between Alameda and FTX, “Bankman-Fried testified that he could not recall discussing with counsel the
+use or purpose of the North Dimension bank account or the topic of Alameda spending FTX customer
+deposits that came into Alameda bank accounts.” Special App’x at 84 (quotations omitted). He also
+admitted “that counsel did not tell him that Alameda could spend FTX customer deposits.” Id. (quotations
+omitted). Likewise, as to category 3, counsel’s involvement in structuring and documenting loans from
+Alameda to Bankman-Fried, Bankman-Fried conceded that he did not tell counsel that the source of the
+funds for the loans was FTX customer money. Id. at 85. Therefore, “that the defendant took comfort from
+the fact that the lawyers had structured the loans would have been irrelevant to his state of mind in using
+FTX customer funds, conduct of which the lawyers were unaware.” Id. (citation modified). As to category
+4, the role of counsel in preparing FTX’s Terms of Service, by Bankman-Fried’s own admission, he did not
+recall discussing with counsel any particular provision of the Terms of Service, let alone allowing Alameda
+to borrow from FTX customer deposits. Id. at 86. Therefore, evidence that FTX lawyers drafted the
+company’s Terms of Service was only minimally probative of his good faith in creating a system whereby
+FTX customer funds were siphoned off to Alameda. Id. at 86–87.
+
+6Bankman-Fried also argues that because an advice-of-counsel defense can “negate” fraudulent intent, the
+district court erred in instructing the jury that “‘[a] lawyer’s involvement with . . . an individual or entity
+
+
+
+
+                                                          30
+evidence risks suggesting to the jury that, because lawyers were involved to some
+
+degree with one aspect of events, the defendant was entitled to conclude that he
+
+was acting within the law with respect to some other aspect of events.” Special
+
+App’x at 82. We agree with the district court that the risk of using counsel to create
+
+a misplaced air of legality substantially outweighed the probative value of the
+
+testimony.
+
+                                                     VI.
+
+        Next, Bankman-Fried argues to us that the district court improperly denied
+
+his motions to compel discovery from the FTX Debtors and their counsel. He
+
+argues that the FTX debtor estate had sole possession of much of the evidence—
+
+including exculpatory information—necessary for his defense, and the
+
+government’s failure to disclose that information undermined the fairness and
+
+integrity of his trial.
+
+        Bankman-Fried’s allegations center around the involvement of law firm
+
+
+
+
+or transaction doesn’t itself constitute a defense to any charge in this case.’” Appellant’s Br. at 51 (quoting
+App’x at 1134). However, for the same reasons Bankman-Fried was not entitled to present an advice-of-
+counsel defense, he was not entitled to an advice-of-counsel jury instruction. See United States v. Scully, 877
+F.3d 464, 476 (2d Cir. 2017) (citing United States v. Evangelista, 122 F.3d 112, 117 (2d Cir. 1997)).
+                                                           31
+Sullivan & Cromwell LLP (“S&C”) 7 with FTX around the time of its collapse in
+
+November 2022. According to Bankman-Fried, S&C represented not only FTX but
+
+also represented him personally in the run-up to FTX’s collapse. Bankman-Fried
+
+alleges that S&C, without notifying him, contacted federal prosecutors on
+
+November 9, 2022, which led to the beginning of a federal criminal investigation.
+
+Bankman-Fried alleges that shortly thereafter, he resigned as CEO of FTX, and
+
+S&C arranged for John Ray to replace him. Then, Bankman-Fried contends, at
+
+Ray’s behest, FTX filed for bankruptcy and Ray had S&C appointed as counsel to
+
+the estate.
+
+          Bankman-Fried alleges that S&C worked closely with federal prosecutors in
+
+preparing the case against him. He points to the more than 150 requests S&C
+
+fielded from prosecutors who they spoke with “on a daily basis.” App’x at 191–
+
+92, 201–02. S&C also collected tens of millions of documents and provided
+
+analyses of hundreds of thousands of documents to the prosecution. Bankman-
+
+Fried contends that S&C also provided prosecutors with read-outs of its notes
+
+from interviews with current and former FTX employees and sometimes asked
+
+
+
+7   S&C represents the FTX Debtors.
+
+
+                                             32
+questions on behalf of prosecutors. S&C also, he contends, agreed to review
+
+thousands of documents so that it could “make a presentation on . . . topic[s]” the
+
+prosecution requested. See Appellant’s Br. at 70; App’x at 210; see also Appellant’s
+
+Reply Br. at 33. For this work, Bankman-Fried alleges, S&C billed the estate
+
+hundreds of millions of dollars. Appellant’s Br. at 65.
+
+      While S&C provided the government with extensive disclosure, meaningful
+
+disclosure was also made to Bankman-Fried. He received a large volume of
+
+discovery from S&C and from the FTX Debtors and third parties. The FTX Debtors
+
+produced approximately one million documents to Bankman-Fried over the
+
+course of about a year. The government also produced millions of pages of
+
+additional records to Bankman-Fried that it obtained from third parties or
+
+pursuant to search warrants.     According to the government, Bankman-Fried
+
+received the specific items he sought from the FTX Debtors and, during the
+
+proceedings below, failed to identify any material evidence he requested but was
+
+denied access to.
+
+      Before trial, Bankman-Fried moved to compel discovery pursuant to Federal
+
+Rule of Criminal Procedure 16, Brady v. Maryland, 373 U.S. 83 (1963), Giglio v.
+
+
+
+                                            33
+United States, 405 U.S. 150 (1972), and the Jencks Act (18 U.S.C. § 3500) based on
+
+his theory that the FTX Debtors and S&C were members of the prosecution team.
+
+Alternatively, the motion sought an evidentiary hearing to determine whether the
+
+FTX Debtors and S&C were, in fact, members of the prosecution team. Bankman-
+
+Fried also filed a motion requesting a subpoena addressed to FTX’s outside
+
+counsel, Fenwick & West, seeking documents that reflected counsel’s legal advice
+
+on various topics said to be material to the defense. Bankman-Fried then filed a
+
+third motion for disclosure of any oral Brady information disclosed to the
+
+government. The government opposed these motions. It insisted that it had no
+
+obligation to search the Debtors’ files controlled by S&C because it was not an arm
+
+of the prosecution and, in any event, the documents were not in the government’s
+
+possession or control.
+
+      The obligation to disclose evidence favorable to the defense applies to
+
+unilateral evidence “that is known to the prosecutor,” and the prosecutor has a duty
+
+to learn of any favorable evidence known to the others acting on the government’s
+
+behalf. See United States v. Hunter, 32 F.4th 22, 35 (2d Cir. 2022) (quoting United
+
+States v. Avellino, 136 F.3d 249, 255 (2d Cir. 1998)). To determine who acts on the
+
+
+
+                                            34
+government’s behalf, we examine “what the [actor] did, not who the [actor] is.” Id.
+
+at 36 (quoting United States v. Stewart, 433 F.3d 273, 298 (2d Cir. 2006)).
+
+      In determining whether an actor is an arm of the prosecution team, the first
+
+line of inquiry is whether the actor and the government conducted a joint
+
+investigation.   In answering this question, we look to whether the actor (l)
+
+participated in the prosecution’s witness interviews, (2) was involved in
+
+presenting the case to the grand jury, (3) reviewed documents gathered by or
+
+shared documents with the prosecution, (4) played a role in the development of
+
+prosecutorial strategy, or (5) accompanied the prosecution to court proceedings,
+
+and other factors may be pertinent as well. See Stewart, 433 F.3d at 298–99.
+
+      The district court agreed with the government and concluded that the FTX
+
+Debtors and S&C were not arms of the prosecution. Judge Kaplan reasoned that
+
+the FTX Debtors and S&C did not have a role in the presentation of the case to the
+
+grand jury, did not directly participate in witness interviews, did not play a
+
+meaningful role in the development of prosecutors’ strategy, and did not have
+
+access to documents the government obtained via subpoena or search warrant.
+
+These conclusions were sound and grounded in the record. Consequently, the
+
+
+
+                                             35
+district court did not err or abuse its discretion in denying Bankman-Fried’s
+
+motions.
+
+                                       VII.
+
+      We now turn to forfeiture.       At sentencing, the district court ordered
+
+Bankman-Fried to forfeit $11,020,000,000 pursuant to 18 U.S.C. §§ 981(a)(1)(c) and
+
+982(a)(1), and 28 U.S.C. § 2461(c). Bankman-Fried challenges the forfeiture order
+
+on three grounds. First, he argues that the district court erred by relying on
+
+statutes that do not expressly authorize money judgments. Next, he argues that
+
+the court erred by miscalculating the forfeiture amount under § 981(a)(1)(c).
+
+Third, he argues that the amount of the forfeiture was excessive and therefore
+
+unconstitutional.
+
+                                         a.
+
+      Although 18 U.S.C. §§ 981(a)(1)(c) and 982(a)(1), and 28 U.S.C. § 2461(c), do
+
+not expressly authorize forfeiture money judgments, courts may impose them on
+
+defendants who lack assets that can be forfeited at the time of sentencing. United
+
+States v. Awad, 598 F.3d 76, 78 (2d Cir. 2010). In Awad, we held that “§ 853 permits
+
+imposition of a money judgment on a defendant who possesses no assets at the
+
+
+
+                                              36
+time of sentencing,” and that such judgment “is effectively an in personam
+
+judgment in the amount of the forfeiture order.” Id. (quotations omitted). Section
+
+853 governs here because 18 U.S.C. § 982(b)(1), the criminal forfeiture statute at
+
+issue, provides that “[t]he forfeiture of property under this section . . . shall be
+
+governed by” 21 U.S.C. § 853. 18 U.S.C. § 982(b)(1). We subsequently extended
+
+Awad to forfeiture orders entered pursuant to 28 U.S.C. § 2461(c), holding that “28
+
+U.S.C. § 2461(c) . . . incorporates the procedures laid out in [S]ection 853” including
+
+the authorization of in personam money judgments. See United States v. Kalish, 626
+
+F.3d 165, 169 (2d Cir. 2010). Those procedures include the forfeiture of substitute
+
+assets procedures enumerated in 21 U.S.C. § 853(p). See United States v. Stevenson,
+
+834 F.3d 80, 85 n.2 (2d Cir. 2016). Section 2461(c) also integrates the civil forfeiture
+
+statute, 18 U.S.C. § 981(a)(1)(c), into criminal proceedings by “authoriz[ing]
+
+criminal forfeiture as a punishment for any act for which civil forfeiture is
+
+authorized.” United States v. Elias, 154 F.4th 56, 64 (2d Cir. 2025) (quotations
+
+omitted). For these reasons, we hold that the district court correctly concluded
+
+
+
+
+                                              37
+that it had authority to impose an in personam money judgment.
+
+                                        b.
+
+      Bankman-Fried also argues that the forfeiture amount was miscalculated
+
+under § 981(a)(1)(c) because that provision does not permit all of the money
+
+received from investors and lenders to be forfeited. According to him, the district
+
+court incorrectly ordered gross-proceeds forfeiture under 18 U.S.C. § 981(a)(2)(A)
+
+instead of net-proceeds forfeiture under 18 U.S.C. § 981(a)(2)(B). Therefore, he
+
+claims, the forfeiture order was “grossly inflated.” Appellant’s Br. at 81. We are
+
+not persuaded.
+
+      Under 18 U.S.C. § 981(a)(1)(C), the “proceeds” of certain crimes—including
+
+the crimes at issue here—are subject to forfeiture. Section 981 defines “proceeds”
+
+differently in different cases, depending on whether defendants transacted in
+
+“illegal” goods or services or “lawful” goods or services.           See 18 U.S.C.
+
+§ 981(a)(2)(A)–(B). Section 981(a)(2)(A) mandates the forfeiture of all property
+
+obtained through the sale of illegal goods.       See id. § 981(a)(2)(A).   Section
+
+981(a)(2)(B), in contrast, permits the direct costs “incurred in providing the goods
+
+or services” to be deducted from the forfeiture calculation. See id. § 981(a)(2)(B).
+
+
+
+                                             38
+Bankman-Fried contends that § 981(a)(2)(B)’s definition of “proceeds” should have
+
+applied, in which case only the difference between the FTX stock’s inflated value,
+
+and what it would have sold for absent the fraud, is subject to forfeiture.
+
+      But even assuming that § 981(a)(2)(B)’s net-proceeds definition applies,
+
+under that provision, the defendant bears the burden of establishing direct costs,
+
+and where a defendant fails to present evidence or provides “no more than cursory
+
+argument as to this issue, we hold that he has failed to meet his burden.” United
+
+States v. Mandell, 752 F.3d 544, 553–54 (2d Cir. 2014). And here, Bankman-Fried
+
+has not satisfied this burden. He has not, for example, established the value of the
+
+FTX stock absent the fraud. Where a defendant fails to establish any residual value
+
+in the company’s shares, despite their own call for the application of § 981(a)(2)(B),
+
+the defendant fails to establish the relevant direct costs for forfeiture calculation
+
+purposes.    For these reasons, we conclude that Bankman-Fried has not
+
+demonstrated that Judge Kaplan erred in ordering the forfeiture of all investor and
+
+lender funds under § 981(a)(1)(C).
+
+                                          c.
+
+      Next, Bankman-Fried argues that the size of the $11,020,000,000 forfeiture
+
+
+
+                                               39
+violates the Excessive Fines Clause of the Eighth Amendment. He argues that he
+
+will be unable to come close to satisfying that judgment and, after his 25 years of
+
+incarceration, the financial burden of the judgment will destroy his ability to ever
+
+earn a living. He argues that the forfeiture order is also unconstitutional because
+
+it is not precisely calibrated to the harm caused and does not reflect the actual
+
+losses to the victims, who largely will be repaid. We recognize that $11 billion is
+
+a very large amount, especially in the context of an illegal scheme in which many
+
+victims may be made whole. But Congress has fashioned a scheme under which
+
+the size of the forfeiture depends on the amount of a defendant’s gains as opposed
+
+to some other matrix such as moral culpability. And we are constrained by the
+
+laws Congress enacted.
+
+      In United States v. Bajakajian, the Supreme Court established a two-step
+
+inquiry for determining whether a financial penalty is excessive under the Eighth
+
+Amendment. 524 U.S. 321 (1998). First, we determine whether the Excessive Fines
+
+Clause applies. See id. at 334. If it does, we proceed to the second step and
+
+determine whether the forfeiture is unconstitutionally excessive. Id.
+
+      Whether a forfeiture constitutes a fine for Eighth Amendment purposes
+
+
+
+                                            40
+turns on whether the forfeiture may be appropriately characterized as punitive,
+
+meaning a forfeiture for which a defendant is personally liable. United States v.
+
+Viloski, 814 F.3d 104, 109 (2d Cir. 2016). The forfeiture here is punitive, not
+
+remedial. See id. And it is not restitutive. See United States v. Roberts, 660 F.3d 149,
+
+166 (2d Cir. 2011).
+
+      Thus, we proceed to step two of our Eighth Amendment analysis, where we
+
+determine whether the forfeiture is unconstitutionally excessive.          A criminal
+
+forfeiture violates the Excessive Fines Clause if it is “grossly disproportional to the
+
+gravity of the defendant’s offense.” Bajakajian, 524 U.S. at 337. To make this
+
+determination, we consider:
+
+      (a) the essence of the [defendant’s] crime . . . and its relation to other
+      criminal activity, (b) whether the [defendant] fit into the class of
+      persons for whom the statute was principally designed, (c) the
+      maximum sentence and fine that could have been imposed, and (d)
+      the nature of the harm caused by the [defendant’s] conduct.
+
+United States v. Collado, 348 F.3d 323, 328 (2d Cir. 2003) (per curiam) (quotations
+
+omitted).   In addition to these considerations, we have also recognized that
+
+whether the forfeiture would deprive the defendant of his future ability to earn a
+
+living is a factor courts may consider. Viloski, 814 F.3d at 111.
+
+
+
+                                              41
+      Bankman-Fried does not meaningfully contest the district court’s
+
+application of the four Bajakajian factors. He was, the government contends, the
+
+main driver of one of the largest frauds on record. Instead, he argues that the court
+
+gave inadequate consideration to the discretionary factor of whether the forfeiture
+
+would destroy his ability to make a livelihood (after 25 years of incarceration). But
+
+assuming the court did fail to weigh Bankman-Fried’s ability to earn a livelihood,
+
+that failure does not render his forfeiture unconstitutional. The fact that Bankman-
+
+Fried will “never be able to come close to satisfying the $11 billion judgment[,]”
+
+Appellant’s Br. at 82, alone, does not render a forfeiture that satisfies the Bajakajian
+
+factors grossly disproportionate and thus does not establish a constitutional
+
+violation.
+
+                                   CONCLUSION
+
+      For these reasons, we AFFIRM the judgment of the district court.
+
+
+
+
+                                              42
+

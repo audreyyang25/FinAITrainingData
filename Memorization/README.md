@@ -7,6 +7,14 @@ Code lives here. **All crawl output goes to
 `Data Collection and Training Material Generation/crawl_manifest/`**, alongside the
 case-ID manifest that drives it.
 
+Three docs, and they answer different questions:
+
+| | |
+|---|---|
+| `README.md` | how to run the tooling |
+| `METHODS.md` | corpus, question generation, scoring, results |
+| `PROMPTS.md` | every system prompt in run order, what it replaced, and why |
+
 ```
 Memorization/
   crawl/

@@ -1,0 +1,1629 @@
+25-720
+Sjunde AP-Fonden v. FDIC
+
+
+                                           In the
+                    United States Court of Appeals
+                                for the Second Circuit
+
+                                    August Term 2025
+                                 Argued: October 21, 2025
+                                 Decided: August 19, 2026
+
+
+
+                                     Docket No. 25-720
+
+                                  SJUNDE AP-FONDEN,
+
+                                            Lead Plaintiff-Appellant,
+
+                                 MATTHEW SCHAEFFER,
+
+                                            Plaintiff,
+
+                                              v.
+
+    FEDERAL DEPOSIT INSURANCE CORPORATION, in its capacity as Receiver
+                          for Signature Bank,
+
+                                            Intervenor-Appellee,
+
+    JOSEPH DEPAOLO, ERIC HOWELL, FRANK SANTORA, JOSEPH SEIBERT,
+     SCOTT A. SHAY, VITO SUSCA, STEPHEN D. WYREMSKI, and KPMG LLP,
+
+                                            Defendants-Appellees. *
+
+
+
+*
+    The Clerk of the Court is respectfully directed to amend the caption as set forth above.
+                                 ______________
+
+Before:     LOHIER, Chief Judge, and WESLEY and MERRIAM, Circuit Judges.
+
+       Lead Plaintiff-Appellant Sjunde AP-Fonden (“AP7”) appeals from the
+judgment of the United States District Court for the Eastern District of New York
+(Block, J.). AP7 filed a consolidated class complaint for securities fraud under
+§ 10(b) of the Securities Exchange Act of 1934 and Securities Exchange
+Commission (“SEC”) Rule 10b-5 against the third-party auditor and several
+former directors and officers of Signature Bank (“Signature”), a (now-defunct)
+federally insured and publicly traded commercial bank. The Federal Deposit
+Insurance Corporation (“FDIC”), as receiver for Signature, intervened in the action
+and moved to dismiss for lack of prudential standing and failure to exhaust
+administrative remedies. According to the FDIC, it “owns” AP7’s securities fraud
+claims because the Succession Clause of the Financial Institutions Reform,
+Recovery, and Enforcement Act of 1989 (“FIRREA”) transferred ownership of the
+claims to the FDIC, when the latter became Signature’s receiver. The district court
+agreed and dismissed AP7’s complaint. We disagree. The Succession Clause does
+not apply to AP7’s securities fraud claims. We also conclude that AP7 was not
+required to administratively exhaust its securities fraud claims against the third-
+party auditor and the former directors and officers, because those claims are not
+against Signature or the FDIC as receiver. We VACATE the judgment of the
+district court and REMAND.
+                               _________________
+
+            SHARAN NIRMUL, Kessler Topaz Meltzer & Check, LLP, Radnor, PA
+                 (Richard A. Russo, Joshua A. Materese, Nathaniel C. Simon,
+                 Kessler Topaz Meltzer & Check, LLP, Radnor, PA; John J. Rizio-
+                 Hamilton, Jeremy Robinson, Alexander McRae Noble, John J.
+                 Esmay, Jonathan D’Errico, Bernstein Litowitz Berger &
+                 Grossmann LLP, New York, NY, on the brief), for Plaintiff-
+                 Appellant.
+
+            JOSEPH BROOKS (Dominic A. Arni, J. Scott Watson, on the brief), Federal
+                  Deposit Insurance Corporation, Arlington, VA, for Intervenor-
+                  Appellee.
+
+
+
+                                        2
+           Michael S. Doluisio, Dechert LLP, Philadelphia, PA, for Defendant-
+                Appellee Joseph DePaolo.
+
+           Peter L. Simmons, Fried, Frank, Harris, Shriver & Jacobson LLP, New
+                 York, NY, for Defendant-Appellee Eric Howell.
+
+           David B. Massey, Perkins Coie LLP, New York, NY, for Defendant-
+                Appellee Frank Santora.
+
+           Jonathan A. Harris, Harris St. Laurent & Wechsler LLP, New York,
+                 NY, for Defendant-Appellee Joseph Seibert.
+
+           Jonathan M. Sperling, Covington & Burling LLP, New York, NY, for
+                 Defendant-Appellee Scott A. Shay.
+
+           Michael D. Longyear, Charles T. Spada, Lankler Siffert & Wohl LLP,
+                New York, NY, for Defendant-Appellee Vito Susca.
+
+           Anand Sithian, Crowell & Moring LLP, New York, NY, for Defendant-
+                Appellee Stephen D. Wyremski.
+
+           Richard Marooney, King & Spalding LLP, New York, NY, for
+                 Defendant-Appellee KPMG LLP.
+
+                             _________________
+
+WESLEY, Circuit Judge:
+
+     When a federally insured bank fails, the Federal Deposit Insurance
+
+Corporation (“FDIC”) may be appointed receiver for the failed bank and tasked
+
+with winding down its affairs. Under the “Succession Clause” of the Financial
+
+Institutions Reform, Recovery, and Enforcement Act of 1989 (“FIRREA”), the
+
+
+
+                                     3
+FDIC, upon its appointment as receiver, “shall . . . succeed to . . . all rights . . . of
+
+any stockholder . . . of such institution with respect to the institution and the assets
+
+of the institution.” 12 U.S.C. § 1821(d)(2)(A)(i). The question presented is whether
+
+the FDIC, as receiver, succeeds to an individual’s right to bring a claim for
+
+securities fraud under § 10(b) of the Securities Exchange Act of 1934 and Securities
+
+and Exchange Commission (“SEC”) Rule 10b-5.
+
+      In this case, the FDIC was appointed receiver for Signature Bank
+
+(“Signature”), a federally insured and publicly traded commercial bank that New
+
+York banking authorities closed in 2023. Sjunde AP-Fonden (“AP7”) then filed a
+
+consolidated class complaint for securities fraud under § 10(b) and Rule 10b-5
+
+against Signature’s third-party auditor KPMG LLP and seven former Signature
+
+officers and directors. The FDIC intervened and moved to dismiss for lack of
+
+prudential standing and failure to exhaust administrative remedies. The district
+
+court (Block, J., E.D.N.Y.) dismissed the complaint for lack of prudential standing,
+
+because, in its view, the Succession Clause transferred these securities fraud claims
+
+from AP7 to the FDIC as receiver for Signature. In this case, we disagree that the
+
+Succession Clause is so sweeping. We therefore vacate the judgment of the district
+
+court and remand for further proceedings below.
+
+
+
+
+                                           4
+                              I.     BACKGROUND
+
+      Facts and Procedural History
+
+      Lead Plaintiff-Appellant Sjunde AP-Fonden (AP7) 1 is a Swedish
+
+government agency that operates Sweden’s public pension investment fund. It
+
+filed the instant consolidated class complaint for securities fraud under § 10(b) and
+
+Rule 10b-5 against Defendants-Appellees KPMG LLP (“KPMG”), an American
+
+professional services firm that audited Signature’s financial statements from 2001
+
+to 2023, 2 and seven former Signature officers and directors (“the Officers”). The
+
+Officers include several former C-suite executives of Signature, including the
+
+chairman of its board and the managing director of its digital assets banking
+
+group. 3 We take the following facts from AP7’s amended consolidated complaint
+
+as true, as we must upon review of the grant of a motion to dismiss.
+
+
+
+
+      1   “Sjunde” means “Seventh” in Swedish. “Fonden” means “Fund” in Swedish.
+      KPMG is a Delaware limited liability partnership headquartered in New York,
+      2
+
+NY. App’x at 118.
+      3
+          The individuals and their respective former positions at Signature during the
+class period are as follows: Joseph DePaolo, co-founder, president, and chief executive
+officer; Scott A. Shay, co-founder and chairman of the bank’s board; Eric Howell, chief
+operating officer; Stephen Wyremski, chief financial officer; Vito Susca, chief
+administrative officer; Frank Santora, chief payments officer; and Joseph Seibert,
+managing group director and senior vice president of the digital assets banking group.
+
+
+                                          5
+      Signature was a New York State-chartered and federally insured
+
+commercial bank whose stock publicly traded on the NASDAQ. 4 Its collapse in
+
+2023 was one of the largest bank failures in United States history. From its
+
+founding in 2001 until 2017, the bank employed a New York-centric business
+
+strategy primarily focused on serving clients in the commercial real estate sector,
+
+as well as law firms and taxi medallion owners. The strategy depended largely on
+
+earning interest on loans funded through its clients’ cash deposits. The bank’s
+
+clients “primarily consisted of mid-sized companies and wealthy families”
+
+involved in commercial real estate, which held significant deposits at the bank.
+
+App’x at 119.
+
+      For years, the bank’s strategy worked. From 2009 until 2016, its revenue
+
+significantly increased and its deposits grew from approximately $7 billion to $32
+
+billion. App’x at 120. From February 2010 until February 2017, the bank’s stock
+
+
+
+
+      4
+         “[C]ommercial banking” includes a variety “of services and credit devices,”
+including “the creation of additional money and credit, the management of the checking-
+account system, and the furnishing of short-term business loans.” United States v. Phila.
+Nat’l Bank, 374 U.S. 321, 326–27 (1963).
+
+
+                                           6
+price also increased, and its market capitalization 5 expanded from approximately
+
+$1.53 billion to $8.46 billion. Id.
+
+      In 2017, however, Signature faced stagnating deposits and declining
+
+revenue, id.; it then made “a major pivot into the nascent cryptocurrency and
+
+blockchain industries,” id. at 123. It launched a digital assets banking group and
+
+a digital payment platform that allowed customers to “instantly settle”
+
+cryptocurrency transactions using cash deposits. Id. at 123–24. In 2019, Signature
+
+began providing banking services, such as cash management, and financing
+
+services, such as loans, to venture capital firms and private equity firms.
+
+       Following the change in strategy, the bank’s total deposits again grew
+
+dramatically, by approximately 57% to $63.32 billion in 2020, and 68% to $106.13
+
+billion in 2021. App’x at 125–26. The bank’s total assets reached $118.45 billion in
+
+2021. Id. at 130. Most of the new deposits belonged to a small number of clients,
+
+
+
+
+      5
+        Market capitalization refers to the value of a bank’s outstanding shares (shares
+currently held by shareholders), which is calculated by multiplying the total number of
+such shares by the stock price. City of Omaha, Neb. Civilian Emps.’ Ret. Sys. v. CBS Corp.,
+679 F.3d 64, 69 (2d Cir. 2012) (per curiam).
+
+
+                                            7
+and because they exceeded the FDIC’s insurable limit of $250,000 per depositor,
+
+were uninsured. 6
+
+      As Signature rapidly grew, the FDIC and New York banking regulators
+
+became increasingly concerned about the bank’s liquidity risk profile and warned
+
+the bank about deficiencies in its risk management practices. 7 Because the owners
+
+of uninsured deposits may be more likely to withdraw their deposits in a period
+
+of uncertainty regarding a bank’s stability, the high percentage of Signature’s total
+
+deposits that were uninsured raised the specter of a bank run—which occurs when
+
+a large number of clients, fearful about the bank’s stability, withdraw their
+
+deposits in a short period of time.
+
+      As more of Signature’s total deposits became concentrated in the accounts
+
+of a small number of cryptocurrency clients, it also became increasingly exposed
+
+to the risk that a downturn in the volatile cryptocurrency industry would eliminate
+
+
+      6
+         In 2020, 88% of the bank’s total deposits were uninsured, and 55% of its total
+deposits belonged to 196 clients. App’x at 127. In 2021, 92% of the bank’s total deposits
+were uninsured, 40% of its total deposits belonged to sixty clients, and 14% of its total
+assets belonged to four clients. Id.
+      7
+         A bank’s liquidity is its ability to meet its financial obligations, including by
+making payments to clients and funding its operations, in a timely manner. In re Vivendi,
+S.A. Sec. Litig., 838 F.3d 223, 249 (2d Cir. 2016). “The banks’ use of [clients’] funds is
+conditioned by the fact that their working capital consists very largely of demand
+deposits, which makes liquidity the guiding principle of bank lending and investing
+policies . . . .” Phila. Nat’l Bank, 374 U.S. at 326.
+
+
+                                            8
+a significant portion of its total deposits. AP7 alleges that alongside the bank’s
+
+growth from 2021 to 2023 (the class period), the Officers and KPMG each made
+
+several false public statements misrepresenting the bank’s liquidity risk profile
+
+and its risk management practices. AP7 contends that those statements artificially
+
+inflated Signature’s stock price and deceived investors who relied on these
+
+statements when deciding to purchase stock.
+
+      In 2022, the “Crypto Winter” came; the digital assets industry faltered.
+
+App’x at 112. As clients like FTX went bankrupt, Signature’s financial health also
+
+began to suffer. Eventually, on March 10, 2023, coinciding with the failure of the
+
+similarly crypto-focused Silicon Valley Bank, Signature faced a run on its deposits;
+
+more than 20% of its total deposits were withdrawn in a single day. On March 12,
+
+2023, New York banking authorities concluded that Signature lacked adequate
+
+liquidity to satisfy expected withdrawals and could no longer safely operate. The
+
+same day, they closed the bank and appointed the FDIC as its receiver. By March
+
+28, 2023, the price of Signature stock had plummeted to $0.13 per share, after
+
+reaching a high price of $365.71 per share in 2022.
+
+      On March 14, 2023, Plaintiff Matthew Schaeffer initiated a putative class
+
+action for securities fraud in the United States District Court for the Eastern
+
+
+
+
+                                         9
+District of New York. App’x at 22. A few weeks later, Pirthi Pal Singh filed a
+
+second, substantially identical putative class action in the same district.     See
+
+Complaint, Singh v. Signature Bank, No. 1:23-cv-02501-FB-JRC (E.D.N.Y. Mar. 31,
+
+2023). Both complaints initially named Signature as a defendant but the plaintiffs
+
+in each action voluntarily dismissed the claims against the bank, leaving only their
+
+claims against several of the Officers.
+
+      Not long after the two actions began, AP7 moved in the first-filed Schaeffer
+
+action, as a member of the putative class, to consolidate the actions, pursuant to
+
+Federal Rule of Civil Procedure 42, and to be appointed lead plaintiff, pursuant to
+
+the Private Securities Litigation Reform Act of 1995. 15 U.S.C. § 78u-4(a)(3)(B)(i).
+
+The district court granted the motion, consolidated the Schaeffer and Singh actions,
+
+and appointed AP7 lead plaintiff, forming the instant consolidated action. Dist.
+
+Ct. Dkt. No. 51. The amended consolidated complaint is the operative complaint
+
+and was the subject of the motion practice below.
+
+      In its amended consolidated complaint, AP7 raises three distinct claims for
+
+securities fraud under § 10(b) and Rule 10b-5: (1) a fraudulent misrepresentation
+
+
+
+
+                                          10
+claim against the Officers under Rule 10b-5(b); 8 (2) a scheme-to-defraud and
+
+fraudulent course-of-conduct claim against the Officers under Rules 10b-5(a) and
+
+10b-5(c); 9 and (3) a fraudulent misrepresentation claim against KPMG under Rule
+
+10b-5(b). 10 The proposed class includes persons and entities who “purchased”
+
+Signature common stock between January 21, 2021 and March 12, 2023 (the class
+
+period), and were damaged as a result. App’x at 106, 258.
+
+      The FDIC moved to dismiss the amended consolidated complaint for lack
+
+of prudential standing under Rule 12(b)(6) and for lack of subject matter
+
+jurisdiction due to AP7’s failure to exhaust administrative remedies under Rule
+
+12(b)(1). The district court granted the motion to dismiss for lack of prudential
+
+
+
+
+      8
+         In support of the fraudulent misrepresentation claim against the Officers, AP7
+alleges that the Officers disseminated or approved false statements, while knowing or
+recklessly disregarding that the statements were misleading.
+      9
+          In support of the scheme-to-defraud and fraudulent course of conduct claim
+against the Officers, AP7 alleges that the Officers “employed devices, schemes, and
+artifices to defraud and carried out a plan, scheme, and course of conduct which operated
+as a fraud and deceit” on the purchasers of Signature stock. See Lorenzo v. SEC, 587 U.S.
+71, 77–82 (2019) (discussing “scheme liability” claims under Rule 10b-5(a) & (c)); Plumber
+& Steamfitters Loc. 773 Pension Fund v. Danske Bank A/S, 11 F.4th 90, 105 (2d Cir. 2021).
+      10
+         In support of the fraudulent misrepresentation claim against KPMG, AP7 alleges
+that KPMG disseminated false statements—specifically, audit opinions included in
+Signature’s 2020, 2021, and 2022 Form 10-Ks, which opined that the bank’s internal
+controls over financial reporting were effective and that its financial statements fairly
+presented the financial position, cash flow, and operations of the bank—while knowing
+or recklessly disregarding that the statements were misleading.
+
+
+                                           11
+standing; it concluded that FIRREA’s Succession Clause transferred AP7’s
+
+securities fraud claims to the FDIC, and that, as a result, AP7 was barred from
+
+asserting the claims of a third party, the FDIC. This appeal followed.
+
+       The Financial Institutions Reform, Recovery, and Enforcement Act
+
+       In 1989, Congress enacted FIRREA “in the wake of the savings and loan
+
+crisis, with the purpose of ‘stem[ming] the financial hemorrhaging resulting from
+
+the large number of failures in the thrift industry.’” Nat’l Credit Union Admin. Bd.
+
+v. Goldman, Sachs & Co., 775 F.3d 145, 148 (2d Cir. 2014) (alteration in original)
+
+(quoting Resol. Tr. Corp. v. Diamond, 45 F.3d 665, 674 (2d Cir. 1995)). FIRREA is
+
+“comprehensive legislation,” O’Melveny & Myers v. FDIC, 512 U.S. 79, 85 (1994),
+
+that aims to put the FDIC “on a sound financial footing,” provide it “funds from
+
+public and private sources to deal expeditiously with failed depository
+
+institutions,” and better equip it to “contain, manage, and resolve failed savings
+
+associations.” Pub. L. No. 101–73, § 101, 103 Stat. 183, 187 (1989). Among its
+
+reforms were new provisions outlining the administrative claims process and
+
+priority scheme, as well as the FDIC’s receivership powers. See 12 U.S.C. § 1821.
+
+       One provision—§ 1821(d)(2)—outlines the “[p]owers and duties of [the
+
+FDIC] as . . . receiver.” 12 U.S.C. § 1821(d). They include the ability to “take over
+
+the assets of [the failed institution],” “operate the . . . institution with all the powers
+
+
+                                            12
+of the members or shareholders, the directors, and the officers of the institution,”
+
+“conduct all business of the institution,” “collect all obligations and money due
+
+the institution,” “perform all functions of the institution in the name of the
+
+institution,” and “preserve and conserve the assets and property of such
+
+institution.” Id. § 1821(d)(2)(B)(i)–(iv). Other provisions describe the FDIC’s
+
+powers to “place the insured depository institution in liquidation and proceed to
+
+realize upon the assets of the institution,” organize new depository institutions,
+
+merge the institution with another institution, transfer assets without approval,
+
+and pay the institution’s obligations. Id. § 1821(d)(2)(E)–(H).
+
+      Another provision of § 1821—the Succession Clause—provides for the
+
+transfer of certain rights and powers from the failed bank and its institutional
+
+stakeholders to the FDIC:
+
+             The Corporation shall, as conservator or receiver, and by
+             operation of law, succeed to—
+
+             (i) all rights, titles, powers, and privileges of the insured
+             depository institution, and of any stockholder, member,
+             accountholder, depositor, officer, or director of such
+             institution with respect to the institution and the assets of the
+             institution; and
+
+             (ii) title to the books, records, and assets of any previous
+             conservator or other legal custodian of such institution.
+
+12 U.S.C. § 1821(d)(2)(A)(i)–(ii) (emphasis added).
+
+
+                                            13
+      In essence, these powers allow the FDIC, upon its appointment as receiver,
+
+to “step[] into the shoes of the failed bank” and fulfill its “responsibility to marshal
+
+the assets of the bank and to distribute them to the bank’s creditors and
+
+shareholders.” Golden Pac. Bancorp v. FDIC, 375 F.3d 196, 201 (2d Cir. 2004)
+
+(citation omitted).
+
+      The Securities Exchange Act
+
+      The federal securities laws, including the Securities Exchange Act of 1934
+
+(“the ’34 Act”), “emerged as part of the aftermath of the market crash in 1929.”
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 194–95 (1976); Fed. Hous. Fin. Agency v.
+
+Nomura Holding Am., Inc., 873 F.3d 85, 98 (2d Cir. 2017). These laws “seek to
+
+maintain public confidence in the marketplace,” “by deterring fraud, in part,
+
+through the availability of private securities fraud actions.” Dura Pharms., Inc. v.
+
+Broudo, 544 U.S. 336, 345 (2005).       In particular, the ’34 Act “was intended
+
+principally to protect investors against manipulation of stock prices through
+
+regulation of transactions upon securities exchanges . . . and to impose regular
+
+reporting requirements on companies whose stock is listed on national securities
+
+exchanges.” Ernst & Ernst, 425 U.S. at 195.
+
+
+
+
+                                          14
+       Under § 10(b) of the ’34 Act 11 and SEC Rule 10b-5, 12 “[a]ny person or entity,
+
+including a lawyer, accountant, or bank, who employs a manipulative device or
+
+makes a material misstatement (or omission) on which a purchaser . . . of securities
+
+relies may be liable as a primary violator.” Cent. Bank of Denv., N.A. v. First
+
+Interstate Bank of Denv., N.A., 511 U.S. 164, 191 (1994). We have explained that a
+
+Rule 10b-5 claim remedies “‘the evil . . . of being induced to buy’ without the
+
+disclosure required by the . . . Act.” Clark v. John Lamula Invs., Inc., 583 F.2d 594,
+
+
+
+
+       11
+         Section 10(b) makes it “unlawful for any person . . . by the use of any means or
+instrumentality of interstate commerce or of the mails, or of any facility of any national
+securities exchange . . . [t]o use or employ, in connection with the purchase or sale of any
+security registered on a national securities exchange . . . any manipulative or deceptive
+device or contrivance in contravention of such rules and regulations as the Commission
+may prescribe as necessary or appropriate in the public interest or for the protection of
+investors.” 15 U.S.C. § 78j(b).
+       12
+         Promulgated pursuant to the SEC’s rulemaking authority under § 10(b), Romano
+v. Kazacos, 609 F.3d 512, 517 (2d Cir. 2010), Rule 10b-5 makes it “unlawful for any person,
+directly or indirectly, by the use of any means or instrumentality of interstate commerce,
+or of the mails or of any facility of any national securities exchange”:
+               (a) To employ any device, scheme, or artiﬁce to defraud,
+               (b) To make any untrue statement of a material fact or to omit
+               to state a material fact necessary in order to make the
+               statements made, in the light of the circumstances under
+               which they were made, not misleading, or
+               (c) To engage in any act, practice, or course of business which
+               operates or would operate as a fraud or deceit upon any
+               person,
+               in connection with the purchase or sale of any security.
+17 C.F.R. § 240.10b-5.
+
+
+                                            15
+603 (2d Cir. 1978) (quoting Chasins v. Smith, Barney & Co., 438 F.2d 1167, 1173 (2d
+
+Cir. 1970)).
+
+       To state a Rule 10b-5 claim for fraudulent misrepresentation, a plaintiﬀ must
+
+plausibly allege six elements: “(1) a material misrepresentation or omission by the
+
+defendant; (2) scienter; (3) a connection between the misrepresentation or omission
+
+and the purchase or sale of a security; (4) reliance upon the misrepresentation or
+
+omission; (5) economic loss; and (6) loss causation.” Janus Cap. Grp., Inc. v. First
+
+Derivative Traders, 564 U.S. 135, 140 n.3 (2011) (quoting Stoneridge Inv. Partners, LLC
+
+v. Scientiﬁc-Atlanta, Inc., 552 U.S. 148, 157 (2008)).
+
+                                  II.     DISCUSSION
+
+       We review a district court’s grant of a motion to dismiss de novo, accepting
+
+the factual allegations in the complaint as true. Bellin v. Zucker, 6 F.4th 463, 472–73
+
+(2d Cir. 2021); Crupar-Weinmann v. Paris Baguette Am., Inc., 861 F.3d 76, 79 (2d Cir.
+
+2017). 13 We review issues of statutory interpretation de novo. Mango v. BuzzFeed,
+
+Inc., 970 F.3d 167, 170 (2d Cir. 2020).
+
+
+
+       13While we also review decisions based on undisputed facts in the record de novo
+and any findings regarding disputed facts as to a party’s standing to sue for clear error,
+only the allegations in the complaint are relevant to our decision here, as we explain
+further below. Rajamin v. Deutsche Bank Nat’l Tr. Co., 757 F.3d 79, 81, 84–85 (2d Cir. 2014)
+(“We review de novo a decision as to a plaintiff’s standing to sue based on the allegations
+
+
+
+                                            16
+       The district court concluded that the Succession Clause transferred AP7’s
+
+securities fraud claims to the FDIC and granted the FDIC’s motion to dismiss for
+
+lack of prudential standing. On appeal, AP7 argues, first, that it has prudential
+
+standing, because FIRREA’s Succession Clause does not apply to its securities
+
+fraud claims. Second, AP7 argues that it was not required to administratively
+
+exhaust its claims.
+
+       The FDIC’s motion to dismiss presented the district court with two discrete,
+
+yet interrelated issues: whether AP7 lacks prudential standing because FIRREA’s
+
+Succession Clause transferred ownership of AP7’s securities fraud claims to the
+
+FDIC; 14 and if AP7 owns the claims, whether the district court lacked subject
+
+matter jurisdiction over the claims due to AP7’s purported failure to satisfy
+
+FIRREA’s administrative exhaustion requirement. 15 The district court decided the
+
+
+
+
+of the complaint and the undisputed facts evidenced in the record. ‘[I]f the court also
+resolved disputed facts’ in ruling on standing, ‘we will accept the court’s findings unless
+they are ‘clearly erroneous.’” (alteration original) (citations omitted)); Carter v. HealthPort
+Techs., LLC, 822 F.3d 47, 57 (2d Cir. 2016).
+       14
+          Prudential standing is a “judicially self-imposed” limitation on courts’ exercise of
+their jurisdiction. Elk Grove Unified Sch. Dist. v. Newdow, 542 U.S. 1, 11 (2004) (quoting
+Allen v. Wright, 468 U.S. 737, 751 (1984)); see Deutsche Bank, 757 F.3d at 84.
+       15
+          FIRREA deprives federal courts of subject matter jurisdiction over unexhausted
+claims against a failed bank or the FDIC as its receiver. See Bank of N.Y. v. First Millennium,
+Inc., 607 F.3d 905, 920–21 (2d Cir. 2010); Carlyle Towers Condo. Ass’n, Inc. v. FDIC, 170 F.3d
+
+
+
+                                              17
+prudential standing issue and the underlying question of the Succession Clause’s
+
+application, and dismissed the complaint for lack of prudential standing.
+
+      While the district court was obligated to decide, as a threshold matter,
+
+whether FIRREA’s administrative exhaustion scheme deprived it of subject-matter
+
+jurisdiction, 16 on the circumstances of this case, it could not do so without
+
+resolving prudential standing. Both the prudential standing and administrative
+
+exhaustion issues require an answer to the same initial question: who owns the
+
+claims?
+
+      If, by operation of the Succession Clause, the FDIC owns the claims, that
+
+ends the inquiry for both issues—AP7 lacks prudential standing to bring the
+
+claims and the administrative exhaustion requirement is irrelevant. 17 But if AP7
+
+owns the claims, AP7 has prudential standing to bring them, and the question then
+
+is whether AP7 was required to administratively exhaust them (and if so, whether
+
+
+
+
+301, 307 (2d Cir. 1999) (explaining that FIRREA’s administrative exhaustion requirement
+is jurisdictional).
+      16
+           Steel Co. v. Citizens for a Better Env’t, 523 U.S. 83, 94 (1998).
+      17
+         If the FDIC owns the claims, it would simply be left to manage their resolution
+independently of the administrative process applicable to claims against the failed bank
+and the FDIC as its receiver. See First Millennium, Inc., 607 F.3d at 920–21.
+
+
+                                                 18
+it exhausted them). If AP7 failed to do so as required, the district court would
+
+have been without jurisdiction to entertain the claims.
+
+      Because the Succession Clause question underlying the prudential standing
+
+issue is inextricably “intertwined” with the jurisdictional issue of administrative
+
+exhaustion in this way, the district court’s conclusion that the Succession Clause
+
+transferred AP7’s securities fraud claims to the FDIC necessarily meant that the
+
+administrative exhaustion requirement did not apply to those claims.                See
+
+Bolivarian Republic of Venezuela v. Helmerich & Payne Int’l Drilling Co., 581 U.S. 170,
+
+178 (2017). Deciding the Succession Clause question—and determining whether
+
+AP7 has the right to bring the securities fraud claims in the ﬁrst instance—was
+
+therefore logically prior to, and necessary for, answering the jurisdictional
+
+question of administrative exhaustion. See id. at 178–79 (explaining that particular
+
+statutory question of “whether the rights asserted are rights of a certain kind . . . is
+
+a jurisdictional matter that the court must typically decide at the outset of the case”
+
+even when it involves merits issues); see also United States v. Ruiz, 536 U.S. 622, 628
+
+(2002).
+
+
+
+
+                                          19
+       Like the district court, we thus begin by deciding the prudential standing
+
+issue and the underlying question of whether the Succession Clause applies to
+
+AP7’s securities fraud claims.
+
+       Prudential Standing
+
+       “The doctrine of standing asks whether a litigant is entitled to have a federal
+
+court resolve his grievance.” Hillside Metro Assocs., LLC v. JPMorgan Chase Bank,
+
+Nat’l Ass’n, 747 F.3d 44, 48 (2d Cir. 2014) (quoting Kowalski v. Tesmer, 543 U.S. 125,
+
+128 (2004)). 18 The third-party standing rule is a prudential limitation on the federal
+
+courts’ exercise of their jurisdiction. June Med. Servs. LLC v. Russo, 591 U.S. 299,
+
+317 (2020) (plurality opinion) (citing Kowalski, 543 U.S. at 128–29); Warth v. Seldin,
+
+422 U.S. 490, 498 (1975). 19 It dictates that “[o]rdinarily, a party ‘must assert his own
+
+legal rights’ and ‘cannot rest his claim to relief on the legal rights . . . of third
+
+
+
+
+       18
+           The doctrine “involves both constitutional limitations on federal-court
+jurisdiction and prudential limitations on its exercise.” Warth v. Seldin, 422 U.S. 490, 498
+(1975).
+       19 While in Lexmark International, Inc. v. Static Control Components, Inc., the Supreme
+Court expressed some doubt about the proper classification of the third-party standing
+rule, it explained that “most” of its cases frame the third-party standing inquiry as an
+element of prudential standing and left “consideration of that doctrine’s proper place in
+the standing firmament” to “another day.” 572 U.S. 118, 125–26, 127 n.3 (2014). Our own
+cases have also placed the rule under the banner of prudential standing. See, e.g., Deutsche
+Bank, 757 F.3d at 86.
+
+
+                                             20
+parties.’” Sessions v. Morales-Santana, 582 U.S. 47, 57 (2017) (second alteration in
+
+original) (quoting Warth, 422 U.S. at 499); Kowalski, 543 U.S. at 129.
+
+       The FDIC argues that the prudential third-party standing rule bars AP7’s
+
+securities fraud claims, because, by operation of the Succession Clause, the FDIC
+
+“owns” the claims. App’x at 277; see Appellee’s Br. at 2. The district court agreed
+
+and dismissed the complaint for lack of prudential standing. We disagree that the
+
+Succession Clause applies to AP7’s securities fraud claims. 20
+
+
+
+       20
+          The district court analyzed prudential standing as a ground for dismissal under
+Rule 12(b)(1), reasoning that it “implicate[s] federal jurisdiction.” Spec. App’x at 6 (first
+citing Wight v. BankAmerica Corp., 219 F.3d 79, 90 (2d Cir. 2000); and then citing In re Sofer,
+613 F. App’x 92, 92 (2d Cir. 2015) (summary order) (stating that “[p]rudential standing
+remains a jurisdictional requirement in our Circuit”)). Our cases are not perfectly clear
+on whether Rule 12(b)(1) or 12(b)(6) should govern a motion to dismiss for lack of
+prudential standing. Some of our cases suggest that a motion to dismiss for lack of
+prudential standing may be brought under either Rule 12(b)(1) or Rule 12(b)(6). E.g., Paris
+Baguette Am., Inc., 861 F.3d at 79. Moreover, several of our cases treat prudential standing
+as a “jurisdictional” issue in a more general sense, beyond the constitutional and statutory
+limitations on subject matter jurisdiction. See, e.g., Lerner v. Fleet Bank, N.A., 318 F.3d 113,
+127–30 (2d Cir. 2003) (Sotomayor, J.) (explaining that “standing, whether in its
+constitutional or prudential form, [is] a jurisdictional limitation and as such [cannot] be
+waived,” and that “prudential considerations of standing are . . . generally treated as
+jurisdictional in nature” (citing Thompson v. County of Franklin, 15 F.3d 245, 248 (2d Cir.
+1994)), abrogated on other grounds as recognized in Am. Psych. Ass'n v. Anthem Health Plans,
+Inc., 821 F.3d 352 (2d Cir. 2016); Hillside Metro Assocs., LLC, 747 F.3d at 50–51 (remanding
+with instructions to dismiss the complaint for lack of subject matter jurisdiction where
+plaintiff lacked prudential standing under the third-party standing rule); see also In re
+Sofer, 613 F. App’x at 92.
+        In any event, we save further discussion of this question for another day. The
+district court’s decision did not turn on the application of Rule 12(b)(1), and our own
+
+
+
+                                              21
+                      1. FIRREA’s Succession Clause
+
+       As we have noted, under FIRREA’s Succession Clause, the FDIC, upon its
+
+appointment as receiver for a failed bank, “succeed[s] to . . . all rights, titles,
+
+powers, and privileges of the insured depository institution, and of any
+
+stockholder, member, accountholder, depositor, officer, or director of such
+
+institution with respect to the institution and the assets of the institution.” 12
+
+U.S.C. § 1821(d)(2)(A). The FDIC argues that, as the district court concluded, the
+
+third-party standing rule bars AP7’s securities fraud claims, because the Clause
+
+“assigned” the claims to the FDIC as receiver. Appellee’s Br. at 2. The FDIC
+
+specifically contends that because AP7’s securities fraud claims assert rights of
+
+Signature’s stockholders “with respect to the institution and the assets of the
+
+institution,” 12 U.S.C. § 1821(d)(2)(A), AP7’s claims became the FDIC’s claims
+
+upon its appointment as Signature’s receiver. Appellee’s Br. at 28–29. Because, by
+
+
+
+
+analysis of the underlying Succession Clause question would be the same under either
+rule. In other words, even if the district court erred by assessing a non-jurisdictional issue
+under Rule 12(b)(1), remand for reconsideration under Rule 12(b)(6) is “unnecessary,”
+because “nothing in the analysis of the court[] below turned on the mistake” and “remand
+would only require a new Rule 12(b)(6) label for the same Rule 12(b)(1) conclusion.”
+Morrison v. Nat’l Austl. Bank Ltd., 561 U.S. 247, 254 (2010); see M.E.S., Inc. v. Snell, 712 F.3d
+666, 671 (2d Cir. 2013) (declining to decide whether Rule 12(b)(6) or Rule 12(b)(1) applies,
+where materials outside the pleading are not relevant to the dispositive legal issue and
+the outcome is the same under either rule).
+
+
+                                               22
+virtue of the Clause, the FDIC “owns” AP7’s claims, the argument goes, AP7
+
+cannot press the securities fraud claims, which raise the rights of a third party, the
+
+FDIC. Spec. App’x at 8.
+
+      The meaning of the Succession Clause is a matter of first impression for this
+
+court. It is common ground that for the Clause to apply to AP7’s claims, two things
+
+must be true: (1) the claims must assert a right “of a[] stockholder” that is (2) “with
+
+respect to the institution and the assets of the institution.” 12 U.S.C. § 1821(d)(2)(A)
+
+(emphasis added). Focusing on the Clause’s second requirement, the district court
+
+interpreted rights “with respect to” the institution and its assets as simply rights
+
+“regarding” the bank and its assets. In doing so, it relied on the reasoning of
+
+another district court in Verdi v. FDIC, No. 1:24-cv-00791(DEH), 2024 WL 4252038,
+
+at *4, 6 (S.D.N.Y. Sept. 20, 2024). Spec. App’x at 10–11 (expressly adopting Verdi’s
+
+holding regarding the Clause’s scope). The district court reasoned that AP7’s
+
+securities fraud claims fall within the Clause’s scope, because the content of the
+
+Officers’ and KPMG’s alleged misrepresentations “relate to Signature and its
+
+assets.” Spec. App’x at 15. 21
+
+
+      21
+          The district court alternatively reasoned that the claims against the Officers
+relate to the bank and its assets because damages recovered from the Officers would be
+paid, at least in part, from funds available under the directors and officers insurance
+
+
+
+                                          23
+       We begin and end our analysis with the Clause’s first requirement that the
+
+claims assert a right “of a[] stockholder.” 12 U.S.C. § 1821(d)(2)(A) (emphasis
+
+added). 22 AP7 argues that this requirement means that the right at issue must be
+
+one that a stockholder possesses as a stockholder—that is, “by virtue of . . . share
+
+ownership.” Appellant’s Br. at 22–23; Appellant’s Reply Br. at 13. We agree. A
+
+stockholder right, within the meaning of the Clause, is one that is distinctive to
+
+stockholders and therefore derives from the ownership of stock or the
+
+corresponding legal relationship between stockholders and the corporation. This
+
+interpretation follows from the Supreme Court’s decision in Collins v. Yellen, 594
+
+U.S. 220 (2021), the Succession Clause’s neighboring provisions, and the well-
+
+established understanding of stockholder rights under state and federal law.
+
+       In Collins, the Supreme Court interpreted the Succession Clause of the
+
+Housing and Economic Recovery Act of 2008 (“HERA”)—a provision that is
+
+
+
+policies, which it considered “assets of the bank.” Spec. App’x at 14–15, 15 n.6. In this
+regard, the district court’s reasoning was based on its interpretation of those policies,
+which were outside the pleadings. See id. at 14–15 & nn. 5–6. Because of the conclusion
+we reach here about the meaning of the Succession Clause, we need not consider either
+the policies or the district court’s interpretation of them.
+       22
+         We save for another day the interpretation of the Clause’s second requirement
+that the stockholder right at issue be one that is “with respect to” the institution and its
+assets. As the district court noted, this question has divided the other circuits. Contrast
+Zucker v. Rodriguez, 919 F.3d 649, 656–57 (1st Cir. 2019), with Levin v. Miller, 763 F.3d 667,
+672 (7th Cir. 2014).
+
+
+                                             24
+substantially identical to FIRREA’s Succession Clause. 594 U.S. at 244–45. HERA’s
+
+Succession Clause similarly provides that the Federal Housing Finance Agency
+
+(“FHFA”) “shall, as conservator or receiver . . . succeed to . . . all rights . . . of the
+
+regulated entity, and of any stockholder . . . of such regulated entity with respect
+
+to the regulated entity and the assets of the regulated entity.”               12 U.S.C.
+
+§ 4617(b)(2)(A)(i). During the 2008 financial crisis, the FHFA was appointed
+
+conservator of Fannie Mae and Freddie Mac, two mortgage financing corporations
+
+that “operate under congressional charters as for-profit corporations owned by
+
+private shareholders.” Collins, 594 U.S. at 226–28. The corporations’ shareholders
+
+subsequently brought suit against the FHFA, asserting that HERA’s restriction on
+
+the President’s power to remove the agency director was unconstitutional. Id. at
+
+235–36.
+
+      The Supreme Court rejected the argument that HERA’s Succession Clause
+
+transferred the stockholders’ constitutional claim to the FHFA. Id. at 244–45. In
+
+doing so, the Court explained that HERA’s Succession Clause “effects only a
+
+limited transfer of stockholders’ rights, namely, the rights they hold as stockholders
+
+‘with respect to the regulated entity’ and its assets,” rather than rights shared in
+
+common with non-shareholders. Id. at 245 (emphasis in original). The Court
+
+
+
+
+                                           25
+ultimately held that the Succession Clause “d[id] not transfer to the FHFA the
+
+constitutional right at issue,” because the right asserted by the shareholders “is not
+
+one that is distinctive to shareholders.” Id. at 245–46.
+
+      Consistent with Collins’s interpretation of the phrase “rights . . . of any
+
+stockholder,” id., we read stockholder rights, within the meaning of the
+
+substantially identical language in FIRREA’s Succession Clause, as rights that are
+
+distinctive to stockholders and held by stockholders in their capacity as
+
+stockholders. 23 We further hold that such rights are those that derive from the
+
+ownership of stock or the corresponding legal relationship between stockholders
+
+and the corporation. On this interpretation, the Succession Clause does not reach
+
+those rights a stockholder holds personally and separately from their ownership
+
+of a particular stock or their status as a stockholder. Our interpretation also
+
+follows from the Clause’s neighboring provisions and the well-established
+
+understanding of stockholder and shareholder rights under state and federal
+
+corporate law.
+
+
+
+
+      23
+        “[W]hen Congress uses the same language in two statutes having similar
+purposes, . . . it is appropriate to presume that Congress intended that text to have the
+same meaning in both statutes.” Smith v. City of Jackson, 544 U.S. 228, 233 (2005).
+
+
+                                           26
+       Most notably, the provision that immediately follows the Succession
+
+Clause—§ 1821(d)(2)(B)—describes the FDIC’s power to “[o]perate the
+
+institution.” 12 U.S.C. § 1821(d)(2)(B). Extrapolating from the Clause’s transfer of
+
+stockholder rights and powers to the FDIC, it provides that the FDIC may, as
+
+receiver, “take over the assets of and operate the insured depository institution
+
+with all the powers of the . . . shareholders . . . of the institution and conduct all
+
+business of the institution.” 12 U.S.C. § 1821(d)(2)(B)(i). 24 Section 1821(d)(2)(B)’s
+
+explication of the FDIC’s power, as receiver, to control the institution’s assets and
+
+operate the institution with the stockholders’ powers reinforces our view of the
+
+Succession Clause. Because § 1821(d)(2)(B) empowers the FDIC to manage the
+
+institution’s assets and operations with all the stockholders’ powers, it makes
+
+sense that its neighboring provision, the Succession Clause, applies, at step one, to
+
+rights and powers that derive from the ownership of stock or the corresponding
+
+legal relationship between stockholders and the corporation. After all, stock
+
+
+
+
+       24
+         Section 1821(d)(2)(A) explains that the FDIC succeeds to all rights of, inter alia,
+“any stockholder” of the institution. Section 1821(d)(2)(B) authorizes the FDIC to exercise
+all powers of the institution’s “shareholders.” We understand these terms to mean the
+same thing, and we use them interchangeably herein. See 11 William Meade Fletcher,
+Fletcher Cyclopedia of the Law of Corporations § 5085 (Sept. 2025 update).
+
+
+                                            27
+ownership is the source of the stockholders’ interest in and control over the
+
+corporation’s assets and operations.
+
+      Our view stems from the long-standing principle that, generally speaking,
+
+the stockholders’ interest in and “power of legal control” over the corporation—
+
+including their ability to “govern[] and control[]” it “through the oﬃcers whom
+
+they elect”—“is in exact proportion to the amount of [their] stock.” Sawyer v. Hoag,
+
+84 U.S. (17 Wall.) 610, 623 (1873).        Indeed, what makes stockholder rights
+
+distinctive, under both state and federal law, is that they derive from the
+
+ownership of stock or the corresponding legal relationship between stockholders
+
+and the corporation. See, e.g., Crane Co. v. Anaconda Co., 39 N.Y.2d 14, 18 (1976)
+
+(explaining that the “conceptual basis for [a shareholder’s] right [to inspect
+
+corporate records] is derived from the shareholder’s beneﬁcial ownership of
+
+corporate assets and the concomitant right to protect [that] investment”); In re
+
+Facebook, Inc., Initial Pub. Offering Derivative Litig., 797 F.3d 148, 157 (2d Cir. 2015)
+
+(discussing a shareholder’s right to bring a derivative action on behalf of the
+
+company, and explaining that “[t]he contemporaneous stock ownership rule . . .
+
+denies a putative derivative plaintiff standing to challenge wrongdoing that
+
+predated the time the plaintiff became a shareholder”); Brookfield Asset Mgmt., Inc.
+
+
+
+
+                                           28
+v. Rosson, 261 A.3d 1251, 1263 (Del. 2021) (discussing a stockholder’s right to bring
+
+a direct action, and explaining that “a stockholder who is directly injured retains
+
+the right to bring an individual action for injuries affecting his or her legal rights
+
+as a stockholder” (emphasis added)); Saba Cap. CEF Opportunities 1, Ltd. v. Nuveen
+
+Floating Rate Income Fund, 88 F.4th 103, 115–16 (2d Cir. 2023) (discussing a
+
+shareholder’s voting rights arising from stock ownership). 25
+
+       The well-established understanding of stockholder rights under state
+
+corporate law holds particular purchase here.               As the Supreme Court has
+
+explained, FIRREA regulates against the backdrop of state corporate law.
+
+O’Melveny & Myers, 512 U.S. at 85, 87 (explaining that FIRREA’s Succession Clause
+
+“places the FDIC in the shoes of the insolvent [savings and loan], to work out its
+
+claims under state law, except where some provision in the extensive framework
+
+
+
+       25
+         See also In re Starbuck, 251 N.Y. 439, 445 (1929) (“The right to the dividends is an
+incident of the ownership of the stock.”); Campbell v. Am. Zylonite Co., 122 N.Y. 455, 459
+(1890) (discussing “[t]he rights and powers arising out of the ownership of corporate
+shares,” including the rights to sell shares, vote in corporate elections, approve or
+disapprove changes to the relative value of shares, and approve or disapprove
+mortgaging of corporate property); Cont’l Sec. Co. v. Belmont, 206 N.Y. 7, 17–18 (1912)
+(discussing “the authority of stockholders in the management of business corporations”);
+Gollust v. Mendell, 501 U.S. 115, 122–24 (1991) (discussing the stock ownership
+requirement for the stockholder right of action for disgorgement of short-swing profits
+from insider trading under § 16(b) of the ’34 Act); Zetlin v. Hanson Holdings, Inc., 48 N.Y.2d
+684, 685 (1979) (noting “that those who invest the capital necessary to acquire a dominant
+position in the ownership of a corporation have the right of controlling that corporation”).
+
+
+                                             29
+of FIRREA provides otherwise,” and that “matters left unaddressed” in FIRREA’s
+
+“comprehensive and detailed” “scheme are presumably left subject to . . . state
+
+law”); Atherton v. FDIC, 519 U.S. 213, 226 (1997) (holding that uniform federal
+
+common law does not supply a “general standard of care applicable to” federally
+
+insured institutions). 26
+
+       Moreover, in Resolution Trust Corp. v. Diamond, we speciﬁcally explained
+
+that under FIRREA, the Resolution Trust Corporation, a predecessor receiver for
+
+federally insured savings institutions, “like the FDIC in O’Melveny, steps into the
+
+shoes of another entity having claims, rights, powers and causes of action deﬁned
+
+and limited by state law.” 45 F.3d 665, 670 (2d Cir. 1995). In this sense, when it
+
+used the phrase “all rights . . . of any stockholder,” 12 U.S.C. § 1821(d)(2)(A)(i),
+
+
+
+       26
+         Accord Langley v. FDIC, 484 U.S. 86, 90–91 (1987) (interpreting word “agreement”
+in a provision of the Federal Deposit Insurance Act that governed the enforcement of
+certain agreements against the FDIC in its capacity as receiver, based on its common
+meaning under commercial and contract law); Burks v. Lasker, 441 U.S. 471, 478 (1979)
+(explaining that “in [the] field [of corporate law] congressional legislation is generally
+enacted against the background of existing state law,” and that “Congress has never
+indicated that the entire corpus of state corporation law is to be replaced simply because
+a plaintiff’s cause of action is based upon a federal statute”); Kamen v. Kemper Fin. Servs.,
+Inc., 500 U.S. 90, 98, 109 (1991) (stating that courts should rarely “endeavor to fill the
+interstices of federal remedial schemes with uniform federal rules,” and explaining that
+“[t]he presumption that state law should be incorporated into federal common law is
+particularly strong in areas,” like corporate law, “in which private parties have entered
+legal relationships with the expectation that their rights and obligations would be
+governed by state-law standards”).
+
+
+                                             30
+Congress “borrow[ed] [a] term[] of art in which are accumulated the legal tradition
+
+and meaning of centuries of practice.” United States v. Hansen, 599 U.S. 762, 774
+
+(2023) (quoting Morissette v. United States, 342 U.S. 246, 263 (1952)). We therefore
+
+presume Congress “kn[ew] and adopt[ed] the cluster of ideas that were attached
+
+to” the term stockholder rights when it enacted FIRREA’s Succession Clause. Id.
+
+      The rights that stockholders “hold as stockholders,” Collins, 594 U.S. at 245
+
+(emphasis in original), are therefore those they hold as “persons who are interested
+
+in the operation of the corporate property and franchises” by virtue of their
+
+“undivided interests in the corporate enterprise,” In re Bronson, 150 N.Y. 1, 8 (1896).
+
+The next question, then, is whether AP7’s securities fraud claims assert rights that
+
+are stockholder rights within the meaning of the Clause.
+
+                       2. AP7’s 10b-5 Claims
+
+      AP7’s securities fraud claims do not assert the right of a stockholder but the
+
+right of a stock purchaser under Rule 10b-5.             The Birnbaum rule 27 limits the
+
+availability of the § 10(b) and Rule 10b-5 private right of action to purchasers and
+
+sellers of securities who suﬀered economic loss due to misrepresentations in
+
+connection with their purchase or sale. Blue Chip Stamps v. Manor Drug Stores, 421
+
+
+
+      27
+           Birnbaum v. Newport Steel Corp., 193 F.2d 461, 464 (2d Cir. 1952).
+
+
+                                              31
+U.S. 723, 731–35, 737–38 (1975).       In doing so, it precludes claims by “actual
+
+shareholders in the issuer who allege that they decided not to sell their shares
+
+because of an unduly rosy representation or a failure to disclose unfavorable
+
+material.” Id. at 737–38. The rule also precludes claims by “shareholders [ and]
+
+creditors . . . who suﬀered loss in the value of their investment due to corporate or
+
+insider activities in connection with the purchase or sale of securities which violate
+
+Rule 10b-5,” when the purchase or sale of securities was not made by the
+
+shareholders and creditors themselves. Id. at 738. The Birnbaum rule makes clear that
+
+the Rule 10b-5 right of action arises in connection with the purchase or sale of
+
+securities, not mere ownership of the stock in question. In other words, the Rule
+
+10b-5 right of action “is not a property right carried by the shares, nor does it arise
+
+out of the relationship between the stockholder and the corporation.”                In re
+
+Activision Blizzard, Inc. S’holder Litig., 124 A.3d 1025, 1056 (Del. Ch. 2015). 28
+
+      The district court considered AP7’s right of action under Rule 10b-5 to be a
+
+right “in its capacity as a stockholder,” because its “theory of damages for its
+
+
+      28
+          “A Rule 10b-5 claim under the federal securities laws is a personal claim akin to
+a tort claim for fraud. The right to bring a Rule 10b-5 claim is not a property right
+associated with shares, nor can it be invoked by those who simply hold shares of stock. .
+. . As such, the Rule 10b-5 claim is personal to the purchaser or seller and remains with
+that person; it does not travel with the shares.” Activision Blizzard, 124 A.3d at 1056
+(citations omitted).
+
+
+                                            32
+investments both before and after the alleged misrepresentations depend[s] on the
+
+drop in value of its shares.” Spec. App’x at 14 (quoting Verdi, 2024 WL 4252038, at
+
+*6 (cleaned up)). But the fact that a plaintiff’s theory of damages involves the
+
+plaintiff’s stock ownership does not mean that the underlying right asserted by
+
+the plaintiff’s claim attaches to stock ownership and is distinctive to stockholders.
+
+      To the extent AP7 or other members of the putative class are stockholders,
+
+their status as such was not the source of the Rule 10b-5 rights at issue and reﬂects
+
+only their decision to hold the stocks. If AP7 or other members of the putative
+
+class sold their stocks at a loss, such that they were no longer stockholders, they
+
+would still have the same rights of action under Rule 10b-5 as purchasers of
+
+securities. See Clark, 583 F.2d at 603 (holding that the diﬀerence between purchase
+
+price and subsequent resale price is a proper theory of damages for Rule 10b-5
+
+claims brought by defrauded stock purchasers who subsequently sold the stock);
+
+Dura Pharms., 544 U.S. at 342 (“If the purchaser sells later after the truth makes its
+
+way into the marketplace, an initially inﬂated purchase price might mean a later
+
+loss.” (emphasis omitted)). Or, if AP7 or other members of the putative class
+
+happened to have purchased a diﬀerent form of security than stock, such as a type
+
+
+
+
+                                         33
+of debt security like a note or bond, 29 they, again, would have the same rights of
+
+action under Rule 10b-5 as purchasers of securities. What matters is the nature of
+
+the underlying right.
+
+      That is quite diﬀerent from, for example, a shareholder’s right to bring a
+
+derivative action on behalf of the company, which derives from and requires
+
+contemporaneous ownership of stock. See In re Facebook, 797 F.3d at 157 (“The
+
+contemporaneous stock ownership rule . . . denies a putative derivative plaintiff
+
+standing to challenge wrongdoing that predated the time plaintiff became a
+
+shareholder.”).
+
+      Because AP7’s Rule 10b-5 right of action is not a stockholder right within
+
+the meaning of the Succession Clause, the district court erred in concluding that
+
+the Clause transfers AP7’s securities fraud claims to the FDIC. And for that reason,
+
+the district court erred in dismissing AP7’s complaint for lack of prudential
+
+standing.
+
+
+
+
+      29
+         See 15 U.S.C. § 78c(a)(10) (defining the term “security” under the ’34 Act to
+include, among other things, “any note, stock, treasury stock, security future, security-
+based swap, bond, debenture, [or] certificate of interest or participation in any profit-
+sharing agreement”); Reves v. Ernst & Young, 494 U.S. 56, 60–61 (1990) (discussing the
+definition of “security” under § 3(a)(10) of the ’34 Act).
+
+
+                                           34
+      Administrative Exhaustion
+
+      Because AP7 has prudential standing to bring the securities fraud claims,
+
+one question remains. Was AP7 required to administratively exhaust its securities
+
+fraud claims against KPMG and the Officers? It was not.
+
+      FIRREA grants the FDIC, as receiver, the authority to administratively
+
+“determine claims,” 12 U.S.C. § 1821(d)(3)(A), “against a depository institution,”
+
+id. § 1821(d)(5)(A)(i), including those by “the depository institution’s creditors,”
+
+id. § 1821(d)(3)(B)(i); see id. § 1821(d)(3)–(11), (d)(13)(D) (outlining procedures for
+
+administrative determination of claims against bank and the FDIC and for judicial
+
+review of administrative determinations).         The FDIC must then distribute
+
+“amounts realized from the liquidation . . . of any insured depository institution”
+
+to pay claims according to the prescribed order of priority. Id. § 1821(d)(11). When
+
+the FDIC disallows a claim, the claimant has the option to request additional
+
+administrative review or file suit on the claim in federal district court.
+
+Id. § 1821(d)(5)(A)(i), 1821(d)(6).
+
+
+
+
+                                          35
+      Section 1821(d)(13)(D), the provision that makes administrative exhaustion
+
+a jurisdictional requirement, defines the claims subject to the administrative claim
+
+scheme with particularity:
+
+             Except as otherwise provided in this subsection, no court
+             shall have jurisdiction over—
+
+             (i) any claim or action for payment from, or any action
+             seeking a determination of rights with respect to, the
+             assets of any depository institution for which the
+             Corporation has been appointed receiver, including
+             assets which the Corporation may acquire from itself as
+             such receiver; or
+
+             (ii) any claim relating to any act or omission of such
+             institution or the Corporation as receiver.
+
+12 U.S.C. § 1821(d)(13)(D)(i)–(ii).
+
+      The FDIC argues that AP7 needed to administratively exhaust its claims
+
+against KPMG and the Officers because although the claims are not brought
+
+against the bank or the FDIC as receiver, they nonetheless relate to acts of
+
+Signature. Appellee’s Br. at 60–61. This argument is squarely foreclosed by our
+
+decision in Bank of New York v. First Millennium, Inc., a case the FDIC fails to cite,
+
+in which we interpreted § 1821(d)’s scope and held that the procedural
+
+requirements of FIRREA’s administrative claim scheme apply only to claims
+
+against the failed institution, or against the FDIC as receiver. 607 F.3d 905, 920–21
+
+
+
+                                         36
+(2d Cir. 2010) (explaining that § 1821(d) “establishes administrative procedures for
+
+bringing claims against institutions for which the FDIC is receiver” (emphasis
+
+added)); see also Resol. Tr. Corp. v. Elman, 949 F.2d 624, 627 (2d Cir. 1991) (explaining
+
+that FIRREA “provides an administrative scheme for adjudicating claims . . .
+
+against the institution for which the [FDIC’s predecessor] has become receiver”
+
+(emphasis added)). In doing so, we rejected an overly broad, “out of context”
+
+interpretation of § 1821(d)(13)(D)(ii) that would “deprive courts of jurisdiction
+
+over any claim involving the FDIC’s ‘act or omission,’ even a claim not directly
+
+against the FDIC.” First Millennium, 607 F.3d at 920–21. We instead explained that
+
+§ 1821(d)(13)(D)(ii) bars “only claims that could be brought under the
+
+administrative procedures of § 1821(d), not any claim at all involving the FDIC.”
+
+Id. at 921.
+
+       First Millennium is instructive. There, the Bank of New York, as trustee for
+
+the NextCard Credit Card Master Note Trust, brought an interpleader action
+
+against the FDIC as receiver for the failed bank that created the trust “to generate
+
+money to lend to credit card holders,” and against owners of notes issued by the
+
+trust. First Millennium, 607 F.3d at 908–09. Both the FDIC and the noteholders
+
+asserted claims to the funds held by the trust. We concluded that the noteholders’
+
+
+
+
+                                           37
+claim against the trust was “not an administrative claim, nor could it have been
+
+one,” because, “[t]hey h[e]ld notes issued by . . . an independent and still solvent
+
+entity,” they were “not creditors of [the failed bank],” and “they assert[ed] no
+
+claims against either that failed institution or against the FDIC.” Id. at 920.
+
+       Here, AP7 did not need to exhaust its securities fraud claims against the
+
+Officers or KPMG because they are not claims against Signature. AP7’s claims do
+
+not name Signature as a defendant, do not seek to impose liability on Signature,
+
+and seek recovery only from the individual Officers and KPMG.                      See First
+
+Millennium, 607 F.3d at 920–21; see also Am. Nat’l Ins. Co. v. FDIC, 642 F.3d 1137,
+
+1144–45 (D.C. Cir. 2011) (concluding that administrative exhaustion is not required
+
+where plaintiff “allege[s] that [defendant], not the FDIC-as-receiver or [the failed
+
+bank], itself committed the tortious acts for which they claim relief”). 30 AP7 was
+
+therefore not required to administratively exhaust its claims against the Officers
+
+or KPMG.
+
+
+
+       30
+           Our analysis here concerns only the claims before us. We take no position on
+whether the administrative exhaustion requirement would apply to third-party claims
+for contribution or indemnification that former directors and officers may bring against
+a failed bank, or claims based on imputed liability, under legal theories such as
+respondeat superior or agency principles, that a plaintiff may bring against a failed bank,
+in addition to claims against third parties. See Fed. R. Civ. P. 14(a)(1) (“A defending party
+may, as third-party plaintiff, serve a . . . complaint on a nonparty who is or may be liable
+to it for all or part of the claim against it.”).
+
+
+                                             38
+       We are also unpersuaded by the FDIC’s argument that the constituent
+
+Schaeffer and Singh complaints’ inclusion of claims against Signature at the time of
+
+their filing means that the district court lacked subject matter jurisdiction over the
+
+Schaeffer and Singh actions at the outset and thereafter over the consolidated action.
+
+Appellee’s Br. at 60. Even assuming the district court’s subject matter jurisdiction
+
+over the consolidated action depends on the complaints in the constituent actions
+
+in this way, 31 the Schaeffer and Singh complaints nonetheless also included claims
+
+against individual former officers at the time of their filing. As relevant here,
+
+§ 1821(d)(13) strips jurisdiction over any unexhausted “claim relating to any act or
+
+omission” of Signature or the FDIC and any unexhausted “claim or action for
+
+payment from . . . the assets of” Signature, but it does not necessarily strip
+
+
+
+
+       31
+         We take no position on this issue and note only that it is not entirely clear under
+our caselaw. Additionally, the consolidation order and the record do not specify the
+precise extent of the consolidation and, in particular, the extent to which the consolidated
+complaint was intended to supersede the prior individual pleadings. See Gelboim v. Bank
+of Am. Corp., 574 U.S. 405, 413 n.3 (2015) (“Parties may elect to file a ‘master complaint’
+and a corresponding ‘consolidated answer,’ which supersede prior individual
+pleadings.”); Hall v. Hall, 584 U.S. 59, 77 (2018) (“District courts enjoy substantial
+discretion in deciding whether and to what extent to consolidate cases. . . . [C]onstituent
+cases retain their separate identities at least to the extent that a final decision in one is
+immediately appealable by the losing party.” (citation omitted)). But see Cole v. Schenley
+Indus., Inc., 563 F.2d 35, 38 (2d Cir. 1977) (stating that notwithstanding the filing of a
+consolidated complaint, “[w]e must . . . consider the jurisdictional basis of each complaint
+separately”).
+
+
+                                             39
+jurisdiction over an entire action where a complaint presents some claims that did
+
+not need to be administratively exhausted and others that did. Contrast 12 U.S.C.
+
+§ 1821(d)(13)(D)(i) (stripping jurisdiction over any unexhausted “claim or action for
+
+payment from . . . the assets of” Signature of the FDIC) (emphasis added)), with id.
+
+§ 1821(d)(13)(D)(ii) (stripping jurisdiction over any unexhausted “claim relating to
+
+any act omission” of Signature or the FDIC (emphasis added)). Otherwise, the
+
+“claim or action” language would be superfluous.            See Exxon Mobil Corp. v.
+
+Allapattah Servs., Inc., 545 U.S. 546, 554 (2005) (discussing how some “statutory
+
+prerequisites for federal jurisdiction . . . can be analyzed claim by claim”).
+
+      In any event, even if the Schaeffer and Singh complaints’ initial inclusion of
+
+the claims against Signature created a jurisdictional defect with respect to those
+
+actions that implicated the district court’s jurisdiction over the consolidated action,
+
+the subsequent dismissal of those claims in the constituent actions and the filing
+
+of the amended consolidated complaint cured it. See Hain Celestial Grp., Inc. v.
+
+Palmquist, 607 U.S. 421, 428 (2026) (“If a district court ‘cures’ a jurisdictional defect
+
+prior to final judgment, then the court of appeals is not required to vacate that
+
+judgment even if, at some earlier point in the case, the district court lacked
+
+jurisdiction.”); Royal Canin U.S.A., Inc. v. Wullschleger, 604 U.S. 22, 35–36 (2025)
+
+
+
+
+                                           40
+(“The amended complaint becomes the operative one; and in taking the place of
+
+what has come before, it can either create or destroy jurisdiction.”). We therefore
+
+conclude that AP7 did not run afoul of FIRREA’s administrative exhaustion
+
+requirement, and the district court’s subject matter jurisdiction over the
+
+consolidated action was sound.
+
+                                 CONCLUSION
+
+      For the reasons above, we VACATE the judgment of the district court and
+
+REMAND for further proceedings consistent with this opinion.
+
+
+
+
+                                        41
+

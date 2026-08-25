@@ -1,0 +1,2042 @@
+USCA4 Appeal: 25-1492         Doc: 87         Filed: 07/20/2026   Pg: 1 of 42
+
+
+
+
+                                                 PUBLISHED
+
+                                   UNITED STATES COURT OF APPEALS
+                                       FOR THE FOURTH CIRCUIT
+
+
+                                                  No. 25-1492
+
+
+        STATE OF RHODE ISLAND OFFICE OF THE GENERAL TREASURER, on
+        behalf of The Employees Retirement System of The State of Rhode Island; LOCAL
+        #817 IBT PENSION FUND,
+
+                                Plaintiffs - Appellees,
+
+            v.
+
+        THE BOEING COMPANY; DAVID L. CALHOUN; DENNIS A.
+        MUILENBURG; BRIAN J. WEST; GREGORY D. SMITH,
+
+                                Defendants - Appellants.
+
+        ------------------------------
+
+        FORMER OFFICIALS OF THE U.S. SECURITIES AND EXCHANGE
+        COMMISSION AND LAW PROFESSORS; THE SECURITIES INDUSTRY AND
+        FINANCIAL MARKETS ASSOCIATION,
+
+                                Amici Supporting Appellants.
+
+
+
+        Appeal from the United States District Court for the Eastern District of Virginia, at
+        Alexandria. Leonie M. Brinkema, District Judge. (1:24-cv-00151-LMB-LRV)
+
+
+        Argued: May 7, 2026                                                Decided: July 20, 2026
+
+
+        Before RICHARDSON, QUATTLEBAUM, and RUSHING, Circuit Judges.
+USCA4 Appeal: 25-1492     Doc: 87       Filed: 07/20/2026    Pg: 2 of 42
+
+
+
+
+        Reversed and remanded by published opinion. Judge Quattlebaum wrote the opinion, in
+        which Judge Richardson and Judge Rushing joined.
+
+
+        ARGUED: Jeffrey Bryan Wall, GIBSON, DUNN & CRUTCHER LLP, Washington,
+        D.C., for Appellants. Deepak Gupta, GUPTA WESSLER LLP, Washington, D.C., for
+        Appellees. ON BRIEF: Benjamin L. Hatch, MCGUIREWOODS LLP, Washington,
+        D.C.; Judson O. Littleton, Washington, D.C., Richard C. Pepperman II, Jacob E. Cohen,
+        SULLIVAN & CROMWELL LLP, New York, New York, for Appellants. Carol C.
+        Villegas, Christine M. Fox, Jake Edward Bissell-Linsk, LABATON KELLER
+        SUCHAROW LLP, New York, New York; Gregory Beck, GUPTA WESSLER LLP,
+        Washington, D.C.; Chad Johnson, Noam Mandel, Jonathan Zweig, Desiree Cummings,
+        New York, New York, Douglas Wilens, ROBBINS GELLER RUDMAN & DOWD LLP,
+        Boca Raton, Florida, for Appellees. Todd G. Cosenza, Brady Sullivan, Amanda M. Payne,
+        WILLKIE FARR & GALLAGHER LLP, New York, New York, for Amici Former
+        Officials of the United States Securities and Exchange Commission and Law Professors.
+        Kevin M. Carroll, THE SECURITIES INDUSTRY AND FINANCIAL MARKETS
+        ASSOCIATION, Washington, D.C.; Benjamin W. Snyder, Vladimir J. Semendyai, PAUL
+        HASTINGS LLP, Washington, D.C., for Amicus The Securities Industry and Financial
+        Markets Association.
+
+
+
+
+                                                 2
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026       Pg: 3 of 42
+
+
+
+
+        QUATTLEBAUM, Circuit Judge:
+
+               This appeal involves the requirements for class certification under Rule 23 of the
+
+        Federal Rules of Civil Procedure. Certain shareholders of aerospace manufacturer The
+
+        Boeing Company seek to hold that company and several of its former officers liable for
+
+        violating Sections 10(b) and 20(a) of the Securities Exchange Act. In the plaintiffs’ view,
+
+        Boeing repeatedly misrepresented its emphasis on safety in the wake of two deadly airplane
+
+        crashes. These false and misleading statements, they contend, artificially inflated or
+
+        maintained artificial inflation in Boeing’s stock price. The plaintiffs allege that a
+
+        subsequent in-flight safety incident and disclosures revealed the truth—that Boeing wasn’t
+
+        actually prioritizing safety. As a result, the artificial inflation dissipated, and the plaintiffs
+
+        claim they suffered billions in losses. They seek to recover these losses as a class.
+
+               For that to happen, the plaintiffs must first satisfy Rule 23. That rule operates as a
+
+        procedural safeguard to balance the benefits of proceeding as a class—the primary one
+
+        being the efficient resolution of numerous disputes that share common questions—with the
+
+        cost of subjecting defendants to numerous individual claims of plaintiffs who may not have
+
+        prosecuted claims on their own. Several Supreme Court decisions explain what plaintiffs
+
+        must do to show class certification is appropriate and how district courts are to determine
+
+        whether class certification is, in fact, merited under Rule 23.
+
+               One of those decisions, Comcast Corp. v. Behrend, 569 U.S. 27 (2013), takes center
+
+        stage in this appeal. Comcast concerns class damages. It requires plaintiffs, at the class-
+
+        certification stage, to put forth evidentiary proof of a damages methodology showing how
+
+        damages are calculable on a class-wide basis in a manner that is consistent with their theory
+
+                                                        3
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 4 of 42
+
+
+
+
+        of liability and that is not speculative. Comcast also requires district courts to conduct a
+
+        rigorous analysis to determine whether plaintiffs have satisfied this burden. Here, the
+
+        district court certified a class after concluding that the plaintiffs satisfied Comcast and Rule
+
+        23. But the plaintiffs did not provide a damages methodology consistent with Comcast’s
+
+        commands. And the district court did not conduct the rigorous analysis Comcast requires.
+
+        So, the district court erred in certifying the class. We reverse and remand.
+
+                                             I. BACKGROUND
+
+               To frame the issues, we start with some basics on class actions before turning to
+
+        plaintiffs’ factual allegations. 1 Then, we outline the procedural history of this case,
+
+        describing both the motion-to-dismiss and class-certification proceedings below.
+
+                                              A. Class Actions
+
+               The way litigation traditionally works in the United States, a person or entity that
+
+        claims to have been wronged must file a complaint, serve it on the alleged wrongdoer and
+
+        then prosecute the case. Class actions, though, are different. Authorized under Rule 23, 2 a
+
+
+               1
+                The lead plaintiffs are the State of Rhode Island Office of the General Treasurer,
+        on behalf of the Employees’ Retirement System of Rhode Island, and Local #817 IBT
+        Pension Fund, associated with the International Brotherhood of Teamsters.
+               2
+                 The modern class action lawsuit has roots in the English legal system. See 1
+        William B. Rubenstein, Newberg and Rubenstein on Class Actions § 1:12 (6th ed. 2026).
+        Back in the day, there were two kinds of courts in England—common law courts and equity
+        courts. See Missouri v. Jenkins, 515 U.S. 70, 127 (1995) (Thomas, J., concurring). Equity
+        courts had a compulsory joinder rule. 1 Newberg and Rubenstein on Class Actions § 1:12.
+        That meant anyone with a legal or beneficial interest in a lawsuit was required to be joined
+        so a resolution would bind everyone. Id. But the compulsory joinder rule had problems.
+        For instance, if not everyone with an interest could be joined, no relief could issue. Id. And
+        if hundreds of parties were joined, administrative difficulties mounted. Id. So, the equity
+
+                                                       4
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 5 of 42
+
+
+
+
+        class action is a “lawsuit in which the court authorizes a single person or a small group of
+
+        people to represent the interests of a larger group.” Class Action, Black’s Law Dictionary
+
+        (12th ed. 2024). In other words, a party does not have to file and prosecute their case to
+
+        recover damages. If it is similar enough to other claims, a representative plaintiff can file
+
+        the suit and prosecute it on behalf of the group.
+
+               Class actions involve “a seemingly endless tug of pros and cons.” Stafford v.
+
+        Bojangles’ Rests., Inc., 123 F.4th 671, 678 (4th Cir. 2024). “On the one hand, class actions
+
+        offer the promise of resolving many similar suits at a single time.” Id. On the other hand,
+
+        proceeding as a class implicates due process concerns—“absent class members’ grievances
+
+        are litigated not directly by the class members themselves but by class representatives,”
+
+        and “[d]efendants in those actions can be sued by a class of hundreds or thousands of people
+
+
+
+
+        courts “resorted to a class, or representative, action by which one person could bring suit
+        on behalf of others similarly situated that would be binding on the class.” Id. These bills of
+        peace—as they were called—were available initially for accountings, declarations and
+        injunctions. Id. It wasn’t until the merger of law and equity in 1873 that English courts
+        approved class actions for damages. Id. The concept of an equitable representative action
+        found its way into American jurisprudence. See, e.g., Smith v. Swomstedt, 57 U.S. (16
+        How.) 288, 298 (1853) (“The rule is well established that where the parties interested are
+        numerous, and the suit is for an object common to them all, some of the body may maintain
+        a bill on behalf of themselves and of the others . . . .”). Over here though, law and equity
+        did not merge federally until the 1938 promulgation of the Federal Rules of Civil
+        Procedure. See Fed. R. Civ. P. 2 advisory committee’s note to 1937 adoption; 1 Newberg
+        and Rubenstein on Class Actions § 1:13. With that, the American class action for damages
+        was born. See Montgomery Ward & Co. v. Langer, 168 F.2d 182, 187 (8th Cir. 1948) (“By
+        Rule 23 the Supreme Court has extended the use of the class action device to the entire
+        field of federal civil litigation by making it applicable to all civil actions.”); see also 1
+        Newberg and Rubenstein on Class Actions § 1:13; 7A Wright & Miller’s Federal Practice
+        and Procedure § 1753 (4th ed. 2026). But it wasn’t until major changes were made to Rule
+        23 in 1966 that modern class action litigation took its present form. See 1 Newberg and
+        Rubenstein on Class Actions § 1:16.
+                                                      5
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 6 of 42
+
+
+
+
+        who are relieved of their normal responsibility to file and prosecute their own case.” Sharp
+
+        Farms v. Speaks, 917 F.3d 276, 305 (4th Cir. 2019) (Quattlebaum, J., concurring). In
+
+        addition, “class-action lawsuits can ratchet liability to potentially ruinous levels and force
+
+        companies to settle or bet the store.” Stafford, 123 F.4th at 678.
+
+               Rule 23 seeks to balance these interests. It “is a structural safeguard in our legal
+
+        system developed to provide the benefits of class actions while simultaneously avoiding
+
+        the risks associated with them.” Speaks, 917 F.3d at 305 (Quattlebaum, J., concurring); see
+
+        also Stafford, 123 F.4th at 678. As a result, plaintiffs wishing to pursue a class action “must
+
+        comply” with Rule 23. Stafford, 123 F.4th at 678. When they do, the district court may
+
+        certify a class, allowing the class action to proceed. See Fed. R. Civ. P. 23(c)(1)(A).
+
+               There are two categories of Rule 23 requirements plaintiffs must satisfy—those
+
+        under Rule 23(a) and those under Rule 23(b). See Fed. R. Civ. P. 23(a)–(b). Rule 23(a) sets
+
+        out four “[p]rerequisites” that every class action must meet—numerosity, commonality,
+
+        typicality and adequacy of representation. Fed. R. Civ. P. 23(a)(1)–(4). 3 Rule 23(b) adds
+
+        to these requirements, providing that a class action may only proceed if it falls into one of
+
+        three different categories—(1) proceeding without a class would create inconsistencies or
+
+        variance, be dispositive of non-class members’ interests or impair or impede these interests;
+
+        (2) injunctive or declaratory relief is appropriate on a class-wide basis; or (3) common
+
+
+
+               3
+                The class must be “so numerous that joinder of all members is impractical,” there
+        must be “questions of law or fact common to the class,” “the claims or defenses of the
+        representative parties” must be “typical of the claims or defenses of the class” and “the
+        representative parties” must “fairly and adequately protect the interests of the class.” Fed.
+        R. Civ. P. 23(a)(1)–(4).
+                                                      6
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 7 of 42
+
+
+
+
+        questions of law and fact predominate over individual questions and class adjudication is
+
+        superior to individual adjudication. Fed. R. Civ. P. 23(b)(1)–(3).
+
+               This case concerns whether class certification was proper under Rule 23(b)(3). This
+
+        subsection allows a class to maintain an action if “the court finds that the questions of law
+
+        or fact common to class members predominate over any questions affecting only individual
+
+        members, and that a class action is superior to other available methods for fairly and
+
+        efficiently adjudicating the controversy.” Fed. R. Civ. P. 23(b)(3). In this way, Rule
+
+        23(b)(3) seeks “to cover cases in which a class action would achieve economies of time,
+
+        effort, and expense, and promote uniformity of decision as to persons similarly situated,
+
+        without sacrificing procedural fairness or bringing about other undesirable results.”
+
+        Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 615 (1997) (citation modified). But a party
+
+        proceeding under this subsection can’t just say so; it must actually satisfy its requirements.
+
+                                      B. The Plaintiffs’ Allegations
+
+               Boeing manufactures aircraft for civilian and military uses. 4 And it’s really only one
+
+        of two commercial airplane builders. It and Airbus SE manufacture 99% of large
+
+
+               4
+                 “When deciding a motion for class certification, a district court does not accept the
+        plaintiff’s allegations in the complaint as true; rather, an evidentiary hearing is typically
+        held on the certification issue.” Monroe v. City of Charlottesville, 579 F.3d 380, 384 (4th
+        Cir. 2009). That’s because “Rule 23 holds plaintiffs to a higher bar than a pleading
+        standard.” Stafford, 123 F.4th at 679. Plaintiffs “must present evidence that the putative
+        class complies with Rule 23.” EQT Prod. Co. v. Adair, 764 F.3d 347, 357 (4th Cir. 2014).
+        Even so, the parties relied extensively on the allegations in the plaintiffs’ amended
+        complaint when describing the general background of this case. Memorandum in Support
+        at 3–6, In re The Boeing Co. Sec. Litig., No. 1:24-cv-00151-LMB-LRV (E.D. Va. Dec. 13,
+        2024), ECF No. 104; Memorandum in Opposition at 6–9, In re The Boeing Co. Sec. Litig.
+        (E.D. Va. Jan. 21, 2025), ECF No. 115. So, to frame the issues on appeal, we start from the
+
+                                                      7
+USCA4 Appeal: 25-1492       Doc: 87        Filed: 07/20/2026     Pg: 8 of 42
+
+
+
+
+        commercial airplanes. So, when Airbus announced the next generation of its A320 plane,
+
+        the A320neo, in December 2010, Boeing felt pressure to keep up. To do so, Boeing decided
+
+        to update its best-selling 737 model. It first delivered its new airplane—the 737 MAX—to
+
+        customers in May 2017.
+
+               In October 2018, Lion Air Flight JT 610, flying a Boeing 737 MAX, crashed shortly
+
+        after takeoff, resulting in the loss of all on board. In March 2019, the same thing happened
+
+        to Ethiopian Airlines Flight ET 302, flying another 737 MAX. That month, the Federal
+
+        Aviation Administration grounded all 737 MAX airplanes. Investigations into these events
+
+        uncovered a software issue. A defective sensor reported the planes’ noses were too high,
+
+        which activated the planes’ Maneuvering Characteristics Augmentation System and drove
+
+        their noses down.
+
+               Congress got involved. The United States House of Representatives’ Committee on
+
+        Transportation and Infrastructure determined, among other things, that costs, scheduling
+
+        and other pressures at Boeing undermined the safety of the new aircraft and led to safety
+
+        compromises.
+
+               So did the Department of Justice and the Securities and Exchange Commission. On
+
+        January 7, 2021, the DOJ and Boeing entered a three-year deferred prosecution agreement,
+
+        which included a $2.5 billion settlement, to resolve a charge that Boeing conspired to
+
+        defraud the FAA. And the SEC and Boeing later agreed to a $200 million settlement over
+
+
+
+
+        allegations in the plaintiffs’ amended complaint. In doing so, we do not pass on the truth
+        of these allegations.
+                                                     8
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 9 of 42
+
+
+
+
+        allegations Boeing misled investors about the safety of its 737 MAX aircraft after the
+
+        crashes.
+
+               During this time, Airbus gained competitive ground. Its market share in the
+
+        commercial aircraft market increased from 45.3% in 2018 to 62.5% in 2019. And Boeing’s
+
+        revenues temporarily dipped at around that same time—from $101 billion in 2018 to $58.1
+
+        billion in 2020—before rebounding somewhat to $77.8 billion in 2023.
+
+               Trying to turn things around, Boeing committed to improving the safety of its
+
+        airplanes. For instance, in April 2019, it announced a board committee to examine safety
+
+        and quality control policies. That September, Boeing adopted the committee’s
+
+        recommendations in full, including the creation of a board committee on aerospace safety,
+
+        a product and services safety organization and a design requirements program. Then, in
+
+        January 2020, Boeing highlighted revisions to its codes of conduct, emphasizing that it
+
+        expected its employees to report concerns and that it would not retaliate against those who
+
+        did.
+
+               Another announced change involved a practice called traveled work. Traveled work
+
+        happens when an airplane needs to move down the assembly line so as to not hold up
+
+        production but work on the plane at its current station on the line isn’t complete. To prevent
+
+        delays, the plane moves down the line anyway, and incomplete work is completed, or
+
+        repairs are made, later on. Boeing said it was eliminating traveled work because it
+
+        negatively affected productivity and quality.
+
+               Between January 7, 2021 and January 8, 2024, Boeing’s officers “repeatedly” made
+
+        statements about safety. See, e.g., J.A. 81. These are the allegedly false and misleading
+
+                                                        9
+USCA4 Appeal: 25-1492        Doc: 87       Filed: 07/20/2026     Pg: 10 of 42
+
+
+
+
+        statements that form the basis of this lawsuit. According to the plaintiffs, there are 40
+
+        relevant statements that span three years in time. 5 We won’t list all of them here, but to
+
+        provide a flavor for the various comments, here are a few examples—as categorized by the
+
+        plaintiffs:
+
+           1. Statements about Safety and Quality in Manufacturing
+
+               • March 5, 2021 – “Safety is, simply put, our highest priority. We are deeply
+                 committed to strengthening our safety processes through continuous
+                 improvement, learning and innovation.” J.A. 83. 6
+
+               • November 2, 2022 – “Safety dominates Boeing.” J.A. 84.
+
+           2. Statements about Boeing’s Culture and Encouraging Employees to Report
+              Safety Concerns
+
+               • March 3, 2023 – “We are working together to foster a culture of continuous
+                 improvement and enhance performance by creating an environment where
+                 employees are comfortable identifying gaps, seeking help and speaking up
+                 without fear of retaliation.” J.A. 88.
+
+           3. Statements about the Production of Safe Airplanes at a Stable and Growing
+              Rate
+
+               • July 28, 2021 – “Turning to our efforts to drive stability, with every action we
+                 are driving toward engineering excellence, production system stability, and first-
+                 time quality and delivery predictability while holding ourselves accountable to
+                 the highest standards.” J.A. 89.
+
+               • April 27, 2022 – “On the supply side we are carefully managing supply chain
+                 constraints and working through issues as they arise to ensure the stability of our
+                 production system.” J.A. 90.
+
+               5
+                 The plaintiffs alleged 75 misstatements between September 30, 2019 and April 5,
+        2024. These statements covered the class period proposed by the plaintiffs, which was to
+        run from September 30, 2019 to May 14, 2024. But the district court certified a shorter
+        class period, running from January 7, 2021 to January 8, 2024. Accordingly, our focus is
+        on the alleged misstatements made during the certified class period.
+               6
+                   We have omitted any emphasis added in each quoted statement.
+                                                    10
+USCA4 Appeal: 25-1492      Doc: 87        Filed: 07/20/2026      Pg: 11 of 42
+
+
+
+
+           4. Statements about Regulatory Compliance
+
+              • January 31, 2022 – “We also are fully cooperating with U.S. government
+                investigations related to the accidents and the 737 MAX, including an ongoing
+                investigation by the Securities and Exchange Commission.” J.A. 92.
+
+              According to the plaintiffs, these statements, and others like them, weren’t true. To
+
+        explain why, they point to several whistleblowers. One whistleblower recounted how
+
+        Boeing continued traveled work after the Lion Air and Ethiopian Airlines accidents, even
+
+        though it said multiple times that it planned to eliminate that practice. Others described
+
+        additional problems, including manufacturing shortcuts, unmet industry standards, airplane
+
+        misalignment, improper quality control, work performed by unlicensed technicians,
+
+        unimplemented safety improvements and continued retaliation against reporting
+
+        employees.
+
+              As the plaintiffs see it, the truth began to emerge on the night of Friday, January 5,
+
+        2024, when Alaska Airlines Flight 1282—flying a 737 MAX—made an emergency
+
+        landing after a door plug in the plane’s fuselage detached minutes following takeoff. On
+
+        the next day of trading, January 8, Boeing’s stock price dropped 8%.
+
+              The loss of the door plug was caused in part by traveled work. Boeing had identified
+
+        bad parts when the airplane’s fuselage arrived at Boeing’s manufacturing plant. Yet Boeing
+
+        didn’t fix the issue when first noticed, so the 737 MAX went to the next station. When
+
+
+
+
+                                                    11
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 12 of 42
+
+
+
+
+        Boeing made the necessary repairs 19 days later, workers did not replace four bolts on the
+
+        door plug they opened. This was the door plug that blew off midflight. 7
+
+                                         C. The Plaintiffs’ Claims
+
+               The plaintiffs’ allegations give rise to two claims under the Securities Exchange
+
+        Act. The first claim alleges the defendants violated Section 10(b) and its accompanying
+
+        regulation, Rule 10b–5. And the second claim asserts violations of Section 20(a) against
+
+        the individual defendants.
+
+               Section 10(b) and Rule 10b–5 “prohibit material misrepresentations and omissions
+
+        in connection with the sale of securities.” Goldman Sachs Grp., Inc. v. Ark. Tchr. Ret. Sys.,
+
+        594 U.S. 113, 117–18 (2021). 8 “Relatedly, section 20(a) is the vehicle for imposing liability
+
+
+
+               7
+                 Between the evening of January 8 and May 14, 2024, the plaintiffs allege 21
+        additional drops in Boeing’s share price occurred following additional events related to the
+        safety of the company’s airplanes. These events were wide-ranging—from United
+        Airlines’ discovery of loose bolts on its 737 MAX airplanes, to the FAA halting 737 MAX
+        production, to changes in Boeing’s leadership and beyond. Because the district court ended
+        the class period after the alleged January 8, 2024 market correction which followed the
+        Alaska Airlines incident, we won’t delve into the effect of these later corrective events.
+        But the plaintiffs haven’t abandoned these events entirely. In the merits report submitted
+        by their expert witness, economist Chad Coffman, the plaintiffs have attempted to revive
+        five events that occurred after the class period ended.
+               8
+                 Section 10(b) makes it unlawful “[t]o use or employ, in connection with the
+        purchase or sale of any security registered on a national securities exchange . . . any
+        manipulative or deceptive device or contrivance in contravention of such rules and
+        regulations as the Commission may prescribe as necessary or appropriate in the public
+        interest or for the protection of investors.” 15 U.S.C. § 78j(b). Rule 10b–5 makes it
+        unlawful “[t]o make any untrue statement of a material fact or to omit to state a material
+        fact necessary in order to make the statements made, in the light of the circumstances under
+        which they were made, not misleading.” 17 C.F.R. § 240.10b–5(b). The Supreme Court
+        has “inferred from these provisions an implied private cause of action permitting the
+        recovery of damages for securities fraud.” Goldman Sachs, 594 U.S. at 118.
+                                                     12
+USCA4 Appeal: 25-1492       Doc: 87        Filed: 07/20/2026      Pg: 13 of 42
+
+
+
+
+        on control persons,” like officers. Singer v. Reali, 883 F.3d 425, 438 (4th Cir. 2018). “The
+
+        liability of a control person under section 20(a) is derivative of—and dependent upon—
+
+        liability of a controlled person under section 10(b).” Id. In other words, the plaintiffs’
+
+        success rises and falls with their Section 10(b) claim. Section 10(b) claims have six
+
+        elements—“(1) a material misrepresentation or omission by the defendant; (2) scienter; (3)
+
+        a connection between the misrepresentation or omission and the purchase or sale of a
+
+        security; (4) reliance upon the misrepresentation or omission; (5) economic loss; and (6)
+
+        loss causation.” Id. (quoting Stoneridge Inv. Partners, LLC v. Sci.-Atlanta, Inc., 552 U.S.
+
+        148, 157 (2008)).
+
+               Here, the plaintiffs asserted their Section 10(b) claim in the form of a class action.
+
+        They proposed a class period running from September 30, 2019—the date of the first
+
+        allegedly false and misleading statement—until May 14, 2024—the date of the last alleged
+
+        exposure. The plaintiffs identified dozens of purportedly material, false and misleading
+
+        statements made by Boeing and its officers with the intent to deceive the investing public
+
+        over three and a half years. They alleged they relied on all these statements when
+
+        purchasing Boeing stock. 9 And they claimed these statements “artificially inflated and/or
+
+
+               9
+                 The plaintiffs used the fraud-on-the-market theory to show reliance. That theory
+        forms the basis of a rebuttable presumption of reliance established by the Supreme Court
+        in Basic Inc. v. Levinson, 485 U.S. 224 (1988). “The ‘fundamental premise’ of the fraud-
+        on-the-market theory underlying Basic’s presumption is ‘that an investor presumptively
+        relies on a misrepresentation so long as it was reflected in the market price at the time of
+        his transaction.’” Goldman Sachs, 594 U.S. at 118 (quoting Erica P. John Fund, Inc. v.
+        Halliburton Co., 563 U.S. 804, 813 (2011)). And it’s a very important tool for plaintiffs in
+        Section 10(b) class actions. As the Supreme Court has explained, “requiring proof of
+        individualized reliance from each member of the proposed plaintiff class effectively would
+
+                                                     13
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 14 of 42
+
+
+
+
+        artificially maintained” Boeing’s share price, causing them to lose money when the share
+
+        price “declined as artificial inflation was removed from [the] share price” “[a]s truthful
+
+        information was revealed to the market and/or as the previously undisclosed, understated,
+
+        or misrepresented risks materialized.” J.A. 370.
+
+                                 D. The Motion-to-Dismiss Proceedings
+
+               Boeing moved to dismiss the amended complaint. According to Boeing, each
+
+        allegedly false and misleading statement—which it said fell into one or more of six
+
+        categories—wasn’t actionable. Memorandum in Support at 8–19, In re The Boeing Co.
+
+        Sec. Litig., No. 1:24-cv-00151-LMB-LRV (E.D. Va. June 21, 2024), ECF No. 51. Boeing
+
+        contended three categories of statements—(1) general statements about safety and quality;
+
+        (2) aspirational statements in Boeing’s codes of conduct; and (3) statements concerning
+
+        opinions, beliefs and future intentions—lacked materiality because they were too general
+
+        and subjective. Id. at 10–15. The other three categories concerned statements about
+
+        Boeing’s production and delivery, statements about disclosure of risk factors in SEC filings
+
+        and statements the plaintiffs said limited the FAA’s recertification process for the 737
+
+        MAX to the Maneuvering Characteristics Augmentation System when it really involved
+
+        not only that system but also additional airplane features. Id. at 15–19. In Boeing’s view,
+
+
+        prevent such plaintiffs from proceeding with a class action, since individual issues would
+        overwhelm the common ones.” Halliburton, 563 U.S. at 810 (citation modified). True, the
+        fraud-on-the-market theory also derives from the notion that requiring individual proof of
+        reliance in a Section 10(b) case “would place an unnecessarily unrealistic evidentiary
+        burden on the Rule 10b–5 plaintiff who has traded on an impersonal market.” Id. (quoting
+        Basic, 485 U.S. at 245). But the result is that, in part, the elements of a Section 10(b) claim
+        are altered to increase the ability to achieve class certification. While that might seem odd,
+        current precedent allows it.
+                                                      14
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 15 of 42
+
+
+
+
+        these statements weren’t actionable because it hadn’t said anything false or misleading
+
+        about its production and delivery, the plaintiffs hadn’t explained why its SEC disclosures
+
+        were false and misleading with particularity and its statements never limited the FAA
+
+        recertification process, among other reasons. Id.
+
+               In response, the plaintiffs stressed that while aspirational puffery and opinion often
+
+        don’t meet the materiality requirement of a Section 10(b) claim, some courts have found
+
+        that such statements can in contexts like the airline industry, where safety is paramount, or
+
+        when made to reassure investors. And they emphasized repetition may make otherwise
+
+        immaterial statements material. Then, the plaintiffs addressed each of Boeing’s six
+
+        categories of purportedly immaterial statements, insisting each statement in those
+
+        categories was material.
+
+               The district court addressed Boeing’s motion during a hearing. It denied the motion
+
+        without argument after stating only that it thought the “extensive amount of detail” in the
+
+        amended complaint “adequately hit[] all the necessary requirements to let the case go
+
+        forward,” including “that there ha[d] been material misstatements made to the investing
+
+        public.” J.A. 519. 10
+
+                                   E. The Class-Certification Proceedings
+
+               Having survived Boeing’s motion to dismiss, the plaintiffs moved to certify a class.
+
+        In their motion, they described their class claims as based on a single course of conduct by
+
+
+
+               10
+                   The district court’s motion-to-dismiss order isn’t appealable at this stage of the
+        litigation, so we don’t address it. We only note it for its relevance to issues properly before
+        us on appeal.
+                                                      15
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 16 of 42
+
+
+
+
+        Boeing—the making of false and misleading statements which caused Boeing’s stock to
+
+        trade at artificially high levels. Memorandum in Support at 15, In re The Boeing Co. Sec.
+
+        Litig. (E.D. Va. Dec. 13, 2024), ECF No. 104. The plaintiffs said Boeing’s “many
+
+        misstatements artificially inflated and artificially maintained the price of Boeing’s stock.”
+
+        Id. at 2; see also id. at 9 (noting common questions included “whether, and to what extent,
+
+        the market price of Boeing common stock was artificially inflated or maintained during the
+
+        Class Period”). According to the plaintiffs, this inflation dissipated when the Alaska
+
+        Airlines incident and other corrective events revealed the truth. Id. at 2.
+
+               On the issue of damages, the plaintiffs pointed to Comcast as setting the proper
+
+        standard. Id. at 27. They argued they satisfied Comcast by invoking “the ‘out of pocket’
+
+        methodology” provided by an economist, Chad Coffman. Id. 11 The plaintiffs contended
+
+        “[t]his approach matche[d] [their] theory of liability.” Id.
+
+               Coffman offered his damages methodology in a report filed with the plaintiffs’
+
+        motion for class certification. Its damages discussion was brief—just a few pages. Coffman
+
+        said the out-of-pocket methodology was the “standard and well-accepted method for
+
+        calculating class-wide damages in cases under Section 10(b) of the Exchange Act.” J.A.
+
+        589. Under this approach, each class member’s “damages are equal to the artificial inflation
+
+        per share at the time of purchase minus the artificial inflation per share at the time of sale
+
+
+
+
+               11
+                  Coffman, a chartered financial analyst, holds a bachelor’s degree in economics
+        and a master’s degree in public policy. His work includes “analyzing how securities prices
+        react to new information and evaluating damages in securities-related matters.” J.A. 546.
+                                                      16
+USCA4 Appeal: 25-1492        Doc: 87           Filed: 07/20/2026       Pg: 17 of 42
+
+
+
+
+        (or if the share is not sold prior to the full revelation of the fraud, just the artificial inflation
+
+        at the time of purchase).” J.A. 589–90.
+
+               Coffman described the out-of-pocket calculation as requiring two types of inputs.
+
+        One involved each class member’s purchase and sale histories. The other was artificial
+
+        inflation per share per day, which he planned to calculate via “a detailed loss causation
+
+        analysis.” J.A. 590. But he said any method for doing so would be common to the class.
+
+               Still, Coffman summarized how he might go about determining artificial inflation.
+
+        He explained he might start with “an event study that measures price reactions to
+
+        disclosures that revealed the relevant truth, such as the price reaction to events such as the
+
+        Alaska Airlines Incident that exposed systemic and pervasive manufacturing safety and
+
+        quality deficiencies at Boeing.” J.A. 591. This approach, if followed, would require
+
+        “disaggregating the price impact of corrective disclosures from confounding
+
+        information”—in other words, excluding any decrease in the stock price not related to the
+
+        alleged misstatements. J.A. 591. And he provided a non-exhaustive list of potential
+
+        valuation approaches that he might use to achieve this.
+
+               Coffman also noted his analysis would need to show how artificial inflation changed
+
+        over time. He gave three possible ways to do that. He could use “‘constant dollar inflation,’
+
+        which implies that the artificial inflation was the same dollar amount during the class
+
+        period.” J.A. 592. Or he could use “‘constant percentage inflation,’ which implies the price
+
+        was inflated by a consistent percentage in the absence of additional disclosures.” J.A. 592.
+
+        Or a third “approach may be necessary, such as where the artificial inflation has evolved
+
+        based upon the nature and timing of specific misstatements or the inflation varied on a
+
+                                                         17
+USCA4 Appeal: 25-1492      Doc: 87         Filed: 07/20/2026      Pg: 18 of 42
+
+
+
+
+        daily basis as a result of information contained in internal documents obtained in
+
+        discovery.” J.A. 592.
+
+               Boeing opposed class certification. Memorandum in Opposition, In re The Boeing
+
+        Co. Sec. Litig. (E.D. Va. Jan. 21, 2025), ECF No. 115. It contended principally that
+
+        Coffman’s proposed damages methodology did not meet Comcast’s requirements. Id. at
+
+        10–24. As Boeing saw it, Coffman had proposed no methodology at all—he had merely
+
+        identified possible techniques that he might use to calculate damages without committing
+
+        to an approach. Id. at 11–12. Nor did Coffman provide any detail about how he would
+
+        account for the complexity of the case—involving numerous allegedly false and misleading
+
+        statements, of varying kinds, made over the course of years in a changing environment. Id.
+
+        at 14–19.
+
+               Boeing also argued Coffman’s report didn’t demonstrate how his proposed damages
+
+        methodology was consistent with the plaintiffs’ liability theory. Id. at 19–21. According to
+
+        Boeing, to overcome the materiality problems with their alleged misstatements, the
+
+        plaintiffs advanced a materiality-by-repetition theory—the materiality of the allegedly
+
+        false and misleading statements crept in over time and, with it, so did artificial inflation.
+
+        Id. at 4, 19–21. But Boeing argued that using a constant measure of inflation, like constant-
+
+        dollar inflation or constant-percentage inflation, is inconsistent with a liability theory
+
+        premised on the evolution of inflation over time. See id. at 19–21. Plus, Boeing pointed out
+
+
+
+
+                                                     18
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 19 of 42
+
+
+
+
+        that Coffman provided no details on a third approach to measuring inflation which might
+
+        attempt to accommodate that evolution. Id. at 21. 12
+
+               In reply, the plaintiffs argued their “Out-of-Pocket Method is ‘well accepted’ and
+
+        perfectly fits the theory of liability: the fraud artificially inflated Boeing’s stock price, and
+
+        the damages methodology measures losses due to that inflation.” Reply at 1, In re The
+
+        Boeing Co. Sec. Litig. (E.D. Va. Feb. 20, 2025), ECF No. 129 (emphasis in original); see
+
+        also id. at 3 (“This method is perfectly consistent with Plaintiffs’ liability theory:
+
+        Defendants’ fraud inflated Boeing’s stock price, causing injury to investors as the truth was
+
+        revealed and inflation was removed.”). They said they didn’t need to provide additional
+
+        detail about determining inflation because “the only individualized inquiry necessary to
+
+        calculate damages is the trivial and routine act of processing trading data from Class
+
+        members.” Id. at 4 (emphasis in original). Accordingly, there was no predominance
+
+        problem and any questions concerning the feasibility of measuring damages should be
+
+        deferred for merits consideration down the road. Id. at 5.
+
+               With the plaintiffs’ reply, Coffman submitted a rebuttal report. This report was
+
+        longer than his initial report. He maintained his “opinion that the Out-of-Pocket
+
+        methodology can be reliably applied on a class-wide basis and consistently with Lead
+
+        Plaintiffs’ theory of liability.” J.A. 1436–37. And he reiterated the high-level approach he
+
+        proposed in his initial report. Beyond that, as to disaggregating the impact of any
+
+        confounding information on Boeing’s share-price declines, Coffman maintained he could
+
+
+                To explain these positions, Boeing submitted a report from Dr. René Stulz, an
+               12
+
+        economist. Stulz has a Ph.D. in economics and is a professor.
+                                                       19
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 20 of 42
+
+
+
+
+        disaggregate such information if necessary but emphasized “the task of identifying the
+
+        specific analysis that will be used to parse out confounding information is typically
+
+        conducted at a later stage of litigation.” J.A. 1440–41. Without committing to either, he
+
+        offered “two potential approaches” to disaggregation, both of which “could” disaggregate
+
+        confounding information from inflation dissipation if “conducted reasonably and
+
+        properly.” J.A. 1441, 1442. Coffman also backed off his suggestion that he might use a
+
+        constant approach to measuring artificial inflation. He emphasized that “[n]owhere d[id]
+
+        [his Initial] Report claim that [he] intend[ed] to strictly use a constant dollar or constant
+
+        percentage approach to back cast artificial inflation in this case.” J.A. 1444. And without
+
+        saying how, he insisted he could calculate variable inflation if he determined inflation
+
+        indeed varied during the class period. Finally, Coffman characterized the plaintiffs as
+
+        having asserted an inflation maintenance, or price maintenance, theory of liability—that
+
+        each alleged misstatement concealed the same underlying truth and, therefore, maintained
+
+        Boeing’s stock price at an inflated level.
+
+               The district court agreed with the plaintiffs. It found Coffman’s “out-of-pocket
+
+        methodology for calculating per-share inflation . . . ‘widely accepted as the traditional
+
+        measure of damages for Rule 10b-5 actions.’” J.A. 1695 (quoting In re NII Holdings, Inc.
+
+        Sec. Litig., 311 F.R.D. 401, 413–14 (E.D. Va. 2015)). And it determined the methodology
+
+        “fit[] plaintiffs’ theory of liability: that investors were damaged by purchasing Boeing
+
+        stock at inflated prices due to defendants’ fraud.” J.A. 1695. The district court also noted
+
+        “the vast majority of courts, including [in the Eastern District of Virginia], have interpreted
+
+        Rule 23(b)(3) and Comcast to permit the standard out-of-pocket method for calculating
+
+                                                      20
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 21 of 42
+
+
+
+
+        damages to be used in securities class actions like this one.” J.A. 1695 (citation modified).
+
+        It further explained that “the caselaw in this Circuit does not require plaintiffs to conduct
+
+        detailed damages modeling to meet Rule 23’s predominance requirement at the class
+
+        certification stage.” J.A. 1695. The district court then certified the class.
+
+                                F. Subsequent District Court Proceedings
+
+               Less than one week after the district court certified the class, and less than a month
+
+        after his rebuttal report, Coffman submitted a merits report. Coffman’s analysis started
+
+        from the premise “that Defendants represented that Boeing was prioritizing safety and
+
+        quality of its aircraft above production speed and short-term cash flows” while in reality
+
+        “Boeing downplayed[] or failed to address numerous safety and quality concerns and failed
+
+        to implement critical safety measures.” J.A. 1807–08. This “maintain[ed]” Boeing’s stock
+
+        price “at artificially inflated levels, relative to the prices one would expect, had Boeing
+
+        disclosed the truth at the beginning of (or during)” the class period. J.A. 1808.
+
+               Coffman identified six events—starting with the January 8, 2024 decline in
+
+        Boeing’s share price based on reports about the Alaska Airlines incident—which
+
+        “reveal[ed] at least a portion of the relevant truth concealed by alleged misrepresentations
+
+        and omissions.” J.A. 1808–09. Coffman then conducted an event study, “controlling for
+
+        market and industry effects,” to determine the events that caused Boeing’s stock price to
+
+        fall. J.A. 1811. He said Boeing’s price drops were “reasonable measure[s] of the amount
+
+        of artificial inflation that was dissipated,” J.A. 1811—in other words, there was no
+
+        confounding information that contributed to the decline in the share price—because he
+
+        “carefully evaluated whether there was any other news outside the realization by market
+
+                                                      21
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 22 of 42
+
+
+
+
+        participants that there were broader manufacturing safety issues at Boeing that would draw
+
+        regulatory scrutiny and hinder the ability of Boeing to maintain and grow its production of
+
+        commercial aircraft and found none,” J.A. 1854.
+
+               Then, employing a constant-percentage-inflation approach, he calculated this
+
+        purported artificial inflation. Coffman found constant-percentage inflation applicable
+
+        because Boeing’s alleged misrepresentations “fundamentally concealed the same
+
+        underlying truth” while Boeing’s stock price changed over time. J.A. 1894. According to
+
+        Coffman, each of the numerous alleged misstatements over the three-year class period had
+
+        the exact same effect—they maintained a price for Boeing stock that was at least 9.58%
+
+        too high. 13
+
+               Meanwhile, Boeing timely petitioned us for review of the district court’s class-
+
+        certification order under Rule 23(f). We granted the petition. 14
+
+
+
+
+               13
+                    Even though the district court concluded the class period ended on January 8,
+        2024, which corresponded with 9.58% of inflation, if the class period included all of the
+        corrective events referenced by Coffman in his merits report, then he would have found
+        artificial inflation to the tune of 26.51%.
+               14
+                  The district court had subject matter jurisdiction over the plaintiffs’ securities law
+        claims under 15 U.S.C. § 78aa(a) and 28 U.S.C. § 1331. We have jurisdiction under 28
+        U.S.C. § 1292(e) after granting the defendants’ Rule 23(f) request to appeal the district
+        court’s certification of the class. Fernandez v. RentGrow, Inc., 116 F.4th 288, 294 (4th Cir.
+        2024). We review class certification decisions for abuse of discretion. Career Counseling,
+        Inc. v. AmeriFactors Fin. Grp., LLC, 91 F.4th 202, 206 (4th Cir. 2024). The district court
+        abuses its discretion when it makes a clearly erroneous finding of fact or commits a legal
+        error, such as materially misapplying the requirements of Rule 23. Id.
+
+                                                      22
+USCA4 Appeal: 25-1492        Doc: 87         Filed: 07/20/2026      Pg: 23 of 42
+
+
+
+
+                                              II. DISCUSSION
+
+               In challenging the district court’s certification decision, Boeing argues Comcast
+
+        required the plaintiffs to put forth a class-wide, case-specific damages methodology
+
+        consistent with their theory of liability. And Boeing says Coffman’s initial and rebuttal
+
+        reports failed to do this. The plaintiffs disagree. They contend Coffman’s reports satisfy
+
+        Comcast’s requirements. To tee up our discussion of the parties’ positions, we’ll begin with
+
+        Comcast itself, summarizing the decision and explaining what instructions it gives to
+
+        plaintiffs and district courts.
+
+                                                 A. Comcast
+
+               Comcast applied Rule 23(b)(3) to a class of Comcast subscribers who alleged the
+
+        company violated antitrust laws. 569 U.S. at 29. Comcast, a telecommunications provider,
+
+        acquired a competitor’s infrastructure in the Philadelphia area in exchange for Comcast’s
+
+        existing systems in Palm Beach and Los Angeles. Id. at 29–30. As a result, Comcast’s
+
+        Philadelphia market share increased from approximately 25% to 70%. Id. at 30. The
+
+        plaintiffs alleged that both Comcast’s transactions and its monopoly or attempted
+
+        monopoly around Philadelphia violated the Sherman Act. Id. The plaintiffs eventually
+
+        sought class certification. Id. In their certification motion, the plaintiffs proposed four
+
+        theories of antitrust impact, also deemed theories of liability. See id. at 31, 37. The district
+
+        court allowed only one of the four theories to proceed. Id. at 31. Nevertheless, the district
+
+        court certified the class, even though the plaintiffs’ expert’s damages methodology “did
+
+        not isolate damages resulting from any one theory of antitrust impact.” Id. at 32.
+
+
+
+                                                      23
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026     Pg: 24 of 42
+
+
+
+
+               Comcast appealed. Id. It argued the district court improperly certified the class
+
+        because the methodology “failed to attribute damages resulting from [] the only theory of
+
+        injury remaining in the case.” Id. But the Third Circuit rejected this argument. Id. In its
+
+        view, Comcast was focused too early on the merits; the plaintiffs did not yet have to tie
+
+        their viable theory to a precise damages calculation. Id. The Supreme Court granted
+
+        certiorari to consider whether “certification was improper because [the plaintiffs] had failed
+
+        to establish that damages could be measured on a classwide basis.” Id. at 32 n.4.
+
+               The Supreme Court started by describing the level of analysis required by district
+
+        courts in considering class-certification motions. Id. at 33–34. It noted Rule 23 “does not
+
+        set forth a mere pleading standard.” Id. at 33 (quoting Wal-Mart Stores, Inc. v. Dukes, 564
+
+        U.S. 338, 350 (2011)). Rather, plaintiffs must satisfy at least one provision of Rule 23(b)
+
+        with “evidentiary proof.” Id.
+
+               The Court also emphasized that, in addressing class certification, the district court
+
+        must undertake a “rigorous analysis,” id. (quoting Dukes, 564 U.S. at 351), also described
+
+        as a “close look,” id. at 34 (quoting Amchem, 521 U.S. at 615). This review might often
+
+        overlap with the merits of the plaintiffs’ claims. Id. at 33–34. As a result, courts cannot
+
+        discount “arguments against [a] damages model that b[ear] on the propriety of class
+
+        certification[] simply because those arguments would also be pertinent to the merits
+
+        discussion.” Id. at 34.
+
+               Then, the Court explained the requirements for damages methodologies in class
+
+        actions. A party seeking certification must put forward a methodology that demonstrates
+
+        damages are measurable on a class-wide basis and are “consistent with its liability case,
+
+                                                     24
+USCA4 Appeal: 25-1492        Doc: 87           Filed: 07/20/2026   Pg: 25 of 42
+
+
+
+
+        particularly with respect to the alleged anticompetitive effect of the violation.” Id. at 35
+
+        (citation modified). And while plaintiffs need not present exact measurements, their
+
+        methodology must allow “a just and reasonable inference” of damages. Id. (citation
+
+        omitted). It cannot be “speculative.” Id. (citation omitted). Otherwise, “at the class-
+
+        certification stage any method of measurement [would be] acceptable so long as it can be
+
+        applied classwide, no matter how arbitrary the measurements may be.” Id. at 36 (emphasis
+
+        in original). “Such a proposition would reduce Rule 23(b)(3)’s predominance requirement
+
+        to a nullity.” Id.
+
+               Applying these principles, the Court found the plaintiffs’ damages methodology
+
+        flawed. Id. at 36–38. The plaintiffs’ methodology “assumed the validity of all four theories
+
+        of antitrust impact.” Id. at 36. It did not “attribute damages” solely to the plaintiffs’ only
+
+        viable theory. See id. at 37. Accordingly, it improperly “identifie[d] damages that [we]re
+
+        not the result of the wrong.” Id. 15
+
+
+               15
+                  Having outlined Comcast, does it even apply here? The plaintiffs seem to agree it
+        does. See, e.g., Resp. Br. at 18 (“The district court correctly concluded that Coffman’s out-
+        of-pocket methodology ‘fits plaintiffs’ theory of liability,’ as required by Comcast.”). But
+        some courts have suggested it doesn’t. See, e.g., Neale v. Volvo Cars of N. Am., LLC, 794
+        F.3d 353, 374 (3d Cir. 2015) (“A close reading of [Comcast] makes it clear that the
+        predominance analysis was specific to the antitrust claim at issue.”); In re Deepwater
+        Horizon, 739 F.3d 790, 817 (5th Cir. 2014) (rejecting as “a significant distortion of
+        Comcast” argument that certification requires class-wide damages methodology in each
+        case). Still, others suggest it does. See, e.g., In re FirstEnergy Corp. Sec. Litig., 149 F.4th
+        587, 620–21 (6th Cir. 2025) (noting Comcast applies outside of antitrust cases and lawsuits
+        with multiple theories of liability and applying Comcast in Section 10(b) case); Forsythe
+        v. Teva Pharm. Indus. Ltd., 102 F.4th 152, 158–59 (3d Cir. 2024) (applying Comcast in
+        Section 10(b) case and finding it satisfied); Ludlow v. BP, P.L.C., 800 F.3d 674, 683–91
+        (5th Cir. 2015) (applying Comcast in Section 10(b) case and finding it satisfied for one
+        class but not another). We recently joined these latter courts, applying Comcast in a non-
+
+                                                       25
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026      Pg: 26 of 42
+
+
+
+
+                      B. Comcast’s Instructions to Plaintiffs and District Courts
+
+               Putting this all together, Comcast provides guidance for plaintiffs and district courts.
+
+                                                1. Plaintiffs
+
+               Plaintiffs must meet several requirements. First, they must put forth a damages
+
+        “methodology.” Comcast, 569 U.S. at 34. Methodologies require more than a legal
+
+        description of what damages are generically—they must explain how damages will be
+
+        measured in a specific case. “If the model does not even attempt to do that, it cannot
+
+        possibly establish that damages are susceptible of measurement across the entire class for
+
+        purposes of Rule 23(b)(3).” Id. at 35. A menu of options that the party will decide on later
+
+        is not a damages methodology. It is, therefore, insufficient for plaintiffs to give examples
+
+        of what they might, or could, do to measure damages—they have to tell the district court
+
+        what their actual methodology is and how it resolves the predominance inquiry. 16 Cf.
+
+
+        antitrust case. Spurlock v. Wexford Health Sources, Inc., 175 F.4th 232, 249 (4th Cir. 2026)
+        (“[T]he Named Plaintiffs must identify a theory of class-wide damages tied to their theory
+        of liability to support class certification.”); see also Krakauer v. Dish Network, L.L.C., 925
+        F.3d 643, 656 (4th Cir. 2019) (citing Comcast for proposition that damages calculations in
+        class action based on Telephone Consumer Protection Act “connect to the underlying
+        harm”). Thus, to the extent the applicability of Comcast to a case like this is disputed,
+        Spurlock settles it for us. Comcast applies.
+               16
+                  See Speerly v. Gen. Motors, LLC, 143 F.4th 306, 324 (6th Cir. 2025) (en banc)
+        (“But if the predominance inquiry is to serve its critical function, it cannot be answered by
+        ‘maybe,’ ‘perhaps,’ and other ‘what ifs’ that leave the hard questions for later or, worse,
+        that ignore the questions that cut against certification.”); Lytle v. Nutramax Lab’ys, Inc.,
+        114 F.4th 1011, 1032 (9th Cir. 2024) (noting that “[m]erely gesturing at a model or
+        describing a general method will not suffice to meet” the predominance standard and that
+        “plaintiffs—or their expert—must chart out a path to obtain all necessary data and
+        demonstrate that the proposed method will be viable as applied to the facts of a given
+        case”); Parko v. Shell Oil Co., 739 F.3d 1083, 1086 (7th Cir. 2014) (“[The district court
+
+                                                      26
+USCA4 Appeal: 25-1492      Doc: 87         Filed: 07/20/2026      Pg: 27 of 42
+
+
+
+
+        Spurlock v. Wexford Health Sources, Inc., 175 F.4th 232, 249 (4th Cir. 2026) (finding
+
+        damages methodology satisfied Comcast when “expert report model[ed] economic
+
+        damages based on the number of days a class member was denied adequate medical
+
+        treatment”).
+
+               Second, the damages methodology must demonstrate how damages can be
+
+        measured on a class-wide basis. Comcast, 569 U.S. at 34. This doesn’t mean the
+
+        methodology can’t include any individualized inputs like data points concerning when
+
+        class members bought and sold stock at corresponding price points. Cf. Tyson Foods, Inc.
+
+        v. Bouaphakeo, 577 U.S. 442, 453 (2016) (recognizing “[w]hen ‘one or more of the central
+
+        issues in the action are common to the class and can be said to predominate, the action may
+
+        be considered proper under Rule 23(b)(3) even though other important matters will have
+
+        to be tried separately, such as damages or some affirmative defenses peculiar to some
+
+
+
+
+        judge] treated predominance as a pleading requirement. He thought it enough at this stage
+        that the plaintiffs intend to rely on common evidence and a single methodology to prove
+        both injury and damages, and that whether the evidence and the methodology are sound
+        and convincing is a question going to the strength of the plaintiffs’ case and should be
+        postponed to summary judgment proceedings or trial. But if intentions (hopes, in other
+        words) were enough, predominance, as a check on casting lawsuits in the class action mold,
+        would be out the window.”); In re Rail Freight Surcharge Antitrust Litig.–MDL No. 1869,
+        725 F.3d 244, 253 (D.C. Cir. 2013) (“No damages model, no predominance, no class
+        certification.”); Newton v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 259 F.3d 154, 191
+        (3d Cir. 2001) (“Plaintiffs maintain their expert can devise a formula for calculating injury
+        and damages that will allay manageability concerns. Yet we are hesitant to rely on a
+        formulaic nostrum given the consequences if it fails to meet expectations.”); Ward v. Apple
+        Inc., 784 F. App’x 539, 540 (9th Cir. 2019) (unsigned) (finding expert’s “mere[] assert[ion]
+        that he would be able to develop a model at some point in the future” noncompliant with
+        Comcast, noting “[t]he plaintiffs here have done even less than the Comcast plaintiffs:
+        Instead of providing an imperfect model, they have provided only a promise of a model to
+        come”).
+                                                     27
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 28 of 42
+
+
+
+
+        individual class members’” (quoting 7AA Wright & Miller’s Federal Practice and
+
+        Procedure § 1778 (3d ed. 2005))). But the methodology must explain how damages will be
+
+        measured so that the district court can determine if class-wide issues predominate over
+
+        individual ones.
+
+               Third, “any model supporting a plaintiff’s damages case must be consistent with its
+
+        liability case.” Comcast, 569 U.S. at 35 (citation modified). Demonstrating consistency
+
+        requires a comparison. So, plaintiffs must first identify both comparators, stating their
+
+        theory or theories of liability to compare against their identified damages methodology. 17
+
+        Then, they must show that the methodology and the liability theory are sufficiently
+
+        consistent. A damages methodology is inconsistent with a theory of liability, for example,
+
+        if it measures damages attributable to theories of liability that are no longer part of a case.
+
+        Id. at 37.
+
+               Fourth, the plaintiffs’ damages methodology must allow “a just and reasonable
+
+        inference” of damages. See id. at 35 (citation omitted). It can’t be “speculative.” See id.
+
+        (citation omitted). Though “[c]alculations need not be exact,” id., plaintiffs can’t propose
+
+        “any method of measurement . . . so long as it can be applied classwide, no matter how
+
+
+
+               17
+                  We’ve already described what a damages methodology is. A theory of liability
+        likewise cannot be stated at such a high level of generality that it gives no factual context
+        for the plaintiffs’ claims. Plaintiffs must identify their legal theory by reference to the
+        factual context from which it arises. For example, in Comcast, it would not have been
+        sufficient to say that the liability theory was that customers paid higher prices based on
+        Comcast’s anticompetitive conduct. See 569 U.S. at 31 (identifying the “theor[y] of
+        antitrust impact” as “Comcast’s activities reduced the level of competition from
+        ‘overbuilders,’ companies that build competing cable networks in areas where an
+        incumbent cable company already operates”).
+                                                      28
+USCA4 Appeal: 25-1492       Doc: 87           Filed: 07/20/2026      Pg: 29 of 42
+
+
+
+
+        arbitrary the measurements may be,” id. at 36 (emphasis in original). Otherwise, Rule
+
+        23(b)(3)’s predominance requirement becomes “a nullity.” Id.
+
+               Fifth, plaintiffs must put forth “evidentiary proof” that their damages methodology
+
+        satisfies all of the above requirements. Id. at 33. Rule 23 “does not set forth a mere pleading
+
+        standard.” Id. (quoting Dukes, 564 U.S. at 350). It requires evidence. And plaintiffs are not
+
+        relieved of these obligations if certification issues “overlap with the merits of the plaintiff’s
+
+        underlying claim,” Id. at 33–34 (quoting Dukes, 564 U.S. at 351).
+
+                                                2. District Courts
+
+               As for district courts, Comcast requires that they “conduct a rigorous analysis to
+
+        determine whether” the plaintiffs’ damages methodology satisfies Rule 23 in the ways
+
+        described above. See 569 U.S. at 35 (citation modified). As the Court explained, district
+
+        courts must “take a close look at whether common questions predominate over individual
+
+        ones.” Id. at 34 (citation modified).
+
+                   C. Neither the Plaintiffs nor the District Court Satisfied Comcast
+
+               Neither the plaintiffs’ class-certification materials nor the district court’s
+
+        certification order meet the standards set by Comcast. To show why, we’ll start with the
+
+        plaintiffs’ motion for class certification and Coffman’s initial report. Then, we turn to the
+
+        plaintiffs’ reply brief and Coffman’s rebuttal report. We conclude by addressing the
+
+        plaintiffs’ counterarguments and whether the district court properly conducted a rigorous
+
+        analysis before certifying a class.
+
+
+
+
+                                                       29
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 30 of 42
+
+
+
+
+                    1. Motion for Class Certification and Coffman’s Initial Report
+
+               In their motion for class certification, the plaintiffs pointed to “the ‘out-of-pocket’
+
+        methodology” provided by Coffman. Memorandum in Support at 27, In re The Boeing Co.,
+
+        ECF No. 104. Coffman, in turn, defined the out-of-pocket approach—“damages are equal
+
+        to the artificial inflation per share at the time of purchase minus the artificial inflation per
+
+        share at the time of sale (or if the share is not sold prior to the full revelation of the fraud,
+
+        just the artificial inflation at the time of purchase).” J.A. 589–90.
+
+               That is not enough. Rather than offering a methodology, the plaintiffs provided only
+
+        a legal description of damages. For a securities fraud case, that’s effectively saying that
+
+        they are seeking compensatory damages. The out-of-pocket description broadly tells us
+
+        what securities-fraud damages are—the difference between the price paid or received and
+
+        the price that would have existed absent the fraud. But it doesn’t tell us how to determine
+
+        the artificial inflation embedded in Boeing’s stock price on any day of the class period.
+
+        Comcast demands that missing step.
+
+               True, Coffman explained that damages calculations will involve two inputs, (1)
+
+        individualized data about the dates and prices of purchases and sales and (2) artificial
+
+        inflation per share per day. But that description is so general that it would apply in any
+
+        securities fraud case. And beyond that, Coffman never committed to any methodology. He
+
+        said he could perform an event study to measure price reaction. He remained noncommittal
+
+        on if he would do that and, if so, how he would do that. He seemed to acknowledge that he
+
+        would need to disaggregate confounding information—which, again, means culling out
+
+        declines in share price not caused by the alleged misrepresentations. But he didn’t say how
+
+                                                       30
+USCA4 Appeal: 25-1492       Doc: 87        Filed: 07/20/2026      Pg: 31 of 42
+
+
+
+
+        he would do that. Instead, he provided a non-exhaustive list of valuation techniques. He
+
+        didn’t choose one for this case or explain how any would work. Finally, Coffman gave
+
+        three possible mechanisms for measuring artificial inflation—constant-dollar inflation,
+
+        constant-percentage inflation and an unidentified third way. Again, he didn’t select from
+
+        these approaches.
+
+               Rather than providing a methodology, Coffman offers a series of “maybe[s],”
+
+        “perhaps[es]” and “what ifs.” Speerly v. Gen. Motors, LLC, 143 F.4th 306, 324 (6th Cir.
+
+        2025) (en banc). That falls short of what Comcast requires. Comcast doesn’t require a party
+
+        seeking class certification to actually calculate damages. But it requires more than just
+
+        stating the legal description of damages—plaintiffs must put forth a methodology that
+
+        explains how the plaintiff will measure damages in line with that legal description. Without
+
+        a methodology, the district court has no way to rigorously evaluate whether damages are
+
+        measurable on a class-wide basis, whether the damages methodology is consistent with the
+
+        plaintiff’s liability theory or whether the proposed methodology for measuring damages is
+
+        reasonable.
+
+               In addition to the lack of a damages methodology, the plaintiffs didn’t identify their
+
+        theory of liability by the class-certification stage. True, they asserted Boeing’s allegedly
+
+        false and misleading statements caused its stock to trade at artificially high levels, which
+
+        caused a loss when the price fell after the truth emerged. Memorandum in Support at 15,
+
+        In re The Boeing Co., ECF No. 104. But that language would describe virtually all
+
+        securities-fraud cases. The plaintiffs never committed to, let alone explained, how that
+
+        happened. Such a generic description of securities fraud is not enough to satisfy Comcast.
+
+                                                     31
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 32 of 42
+
+
+
+
+        Cf. Stafford, 123 F.4th at 675 (“We hold that the district court abused its discretion in
+
+        certifying this class action because it employed an inappropriately high level of generality
+
+        when (1) identifying the policies which allegedly unify prospective class members’ wide-
+
+        ranging claims, and (2) creating overly broad class definitions.”).
+
+               In their amended complaint, the plaintiffs alleged generally that the 75 purported
+
+        misrepresentations inflated the share price for Boeing stock or maintained it at an
+
+        artificially high level. In other words, they offered alternative theories of liability—
+
+        inflation or maintenance. At the motion-to-dismiss stage, they suggested that even if no
+
+        one statement caused the price to be inflated, or caused the existing inflated price to be
+
+        maintained, collectively they did. This introduced alternatives to their two alternatives. By
+
+        the time of Coffman’s rebuttal report, at least Coffman seemed to be settling on a theory
+
+        that the alleged misrepresentations maintained artificially high prices. And in their briefs
+
+        to us, that seems to be their theory. But among their alternative theories, the plaintiffs never
+
+        committed before the district court.
+
+               We understand that litigants sometimes don’t want to tip their hand. But at the class-
+
+        certification stage, the plaintiffs had to. That’s because the district court needs that
+
+        information to compare the plaintiffs’ damages methodology to their liability theory. To
+
+        state the obvious, to conduct a comparison, you need to provide the necessary information
+
+        about both comparators. Here, the plaintiffs provided neither.
+
+
+
+
+                                                      32
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026     Pg: 33 of 42
+
+
+
+
+                             2. Reply Brief and Coffman’s Rebuttal Report
+
+               Coffman’s rebuttal report provided a longer damages discussion than the few pages
+
+        offered in his initial report. But it still didn’t provide the information Comcast requires. 18
+
+        In that report, Coffman noted that assessing artificial inflation “typical[ly]” involves two
+
+        steps. J.A. 1438. Step one is “assess[ing] the decline in artificial inflation corresponding to
+
+        a corrective event,” which “typically” requires an event study “analyz[ing] Boeing’s stock
+
+        price in relation to market and industry indices.” J.A. 1438. It also includes consideration
+
+        of confounding events and whether “artificial inflation le[ft] the stock price, given Lead
+
+        Plaintiffs’ theory of liability.” J.A. 1438.
+
+               At step two, Coffman reiterated that he could employ one of several mechanisms
+
+        for measuring artificial inflation. As before, these were constant-dollar inflation, constant-
+
+        percentage inflation or “another approach[,] when there is reason to believe that the amount
+
+        of artificial inflation varied over time.” J.A. 1439. But still refusing to commit to any
+
+        specific methodology at either step, he remarked that “assessing the correct approach
+
+        requires a case-specific loss causation analysis.” J.A. 1439.
+
+               Coffman then responded to two criticisms of his approach lodged by Boeing—that
+
+        he had not measured the impact of information about other contributing factors on the
+
+        share-price decline or artificial inflation itself. Starting with confounding information,
+
+        Coffman “agree[d] generally with the proposition that disaggregation of confounding non-
+
+
+
+               18
+                   At oral argument, the plaintiffs relied almost exclusively on Coffman’s rebuttal
+        report. Rebuttal reports are supposed to respond to issues addressed in opposition to class
+        certification, not provide the primary basis for satisfying Rule 23’s requirements.
+                                                       33
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 34 of 42
+
+
+
+
+        corrective information is required to reliably calculate artificial inflation.” J.A. 1440. But
+
+        he disagreed that he needed to do so at the class-certification stage because he believed any
+
+        problems would present class-wide. Nevertheless, “[p]urely by illustration,” he offered two
+
+        ways in which he “could” tease out the effect of confounding information. J.A. 1441. As
+
+        for measuring artificial inflation, Coffman emphasized that “[n]owhere” did he indicate he
+
+        “intend[ed] to strictly use a constant dollar or constant percentage” inflation measurement.
+
+        J.A. 1444. He pointed out that, if “true economic artificial inflation was not constant over
+
+        the Class Period,” then the out-of-pocket measurement could still perform its job. J.A.
+
+        1445.
+
+                Like his initial report, Coffman’s rebuttal report fails to describe his proposed
+
+        methodology in sufficient detail. His substantive discussion merely described examples of
+
+        what he might or could use—a discussion that would largely apply to every securities-fraud
+
+        action. He never identified the actual approach that he would use or how he specifically
+
+        planned to calculate damages based on that approach. A list of possible methodologies,
+
+        described in general terms, isn’t a methodology, even if it is carried out in more pages.
+
+                                  3. The Plaintiffs’ Counterarguments
+
+                The plaintiffs make two counterarguments. First, they argue that if any potential
+
+        problems with their damages theories affect the entire class, they do not have to provide
+
+        the methodology Comcast demands. That puts the cart before the horse. Comcast requires
+
+        plaintiffs to put forth an actual methodology so that district courts can readily determine if
+
+        the specific methodology is a class-wide methodology, is consistent with the liability
+
+        theory and is not speculative. Plaintiffs can’t get around Comcast’s frontloading mandate
+
+                                                     34
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 35 of 42
+
+
+
+
+        by emphasizing a backend conclusion. Cf. In re Marriott Int’l, Inc., 78 F.4th 677, 687 (4th
+
+        Cir. 2023) (noting Supreme Court requires rigorous analysis before certification). Without
+
+        a sufficient methodology, district courts have no way of knowing whether damages
+
+        calculations might overwhelmingly involve individual questions and inputs, even if it
+
+        seems likely they won’t. 19
+
+               A Fifth Circuit decision involving this same expert witness illustrates the
+
+        importance of proof prior to certification. Ludlow v. BP, P.L.C., 800 F.3d 674 (5th Cir.
+
+        2015), involved an explosion which caused the BP oil spill in the Gulf of Mexico. Id. at
+
+        677. Before the district court, the plaintiffs ultimately “argue[d] that Defendants’ process
+
+        safety misstatements were a proximate cause of all their post-explosion investment losses
+
+        because Plaintiffs were deprived of the opportunity to avoid the increased risk by divesting
+
+        prior to the explosion.” In re BP P.L.C. Sec. Litig., No. 4:10–md–2185, 2014 WL 2112823,
+
+        at *11 (S.D. Tex. May 20, 2014). As a result, the plaintiffs sought damages for not only
+
+        “the inflated price [they] paid” but also “the materialization of a risk [they] may have been
+
+        willing to take.” See Ludlow, 800 F.3d at 690. In affirming the district court’s refusal to
+
+        certify this class, the Fifth Circuit explained why this theory created predominance
+
+
+               19
+                  To bolster Coffman’s rebuttal report at oral argument, counsel for the plaintiffs
+        attempted to summarize what Coffman said and why it sufficed under Comcast. At one
+        point, plaintiffs’ counsel characterized Coffman as “saying” that he didn’t “think there will
+        be variability” in artificial inflation in this case. Oral Argument at 43:15–35. But Coffman
+        never said that. In fact, he didn’t take a position on the matter. See J.A. 1458–59 (“[T]o the
+        extent any such matter would result in variation in inflation that need[ed] to be factored
+        into a reliable analysis of the artificial inflation, the Out-of-Pocket methodology can
+        accommodate such analysis . . . .”). The plaintiffs’ mistaken characterization of their own
+        expert’s report underscores their failure to stake out an actual methodology, consistent with
+        their theory of liability, which reasonably measures damages.
+                                                     35
+USCA4 Appeal: 25-1492        Doc: 87          Filed: 07/20/2026    Pg: 36 of 42
+
+
+
+
+        problems—“where the economic loss depends on the posture of the plaintiff vis-à-vis risk
+
+        tolerance, that loss causation, and thus damage, cannot be presumed nor can it be found
+
+        class-wide.” Id. at 691. Plaintiffs could not “be compensated for the materialization of a
+
+        risk [they] may have been willing to take,” absent “any mechanism separating [relevant]
+
+        classes of plaintiffs.” Id. at 690.
+
+               Here, perhaps trying to avoid that same fate, the plaintiffs have not committed to an
+
+        approach for disaggregating damages. Without doing so, it’s impossible to know whether
+
+        their methodology might likewise cause individualized damages questions to predominate
+
+        over common questions. That’s the trouble with putting the cart before the horse—it leaves
+
+        us, and district courts, to speculate as to how the case will eventually turn out. Comcast
+
+        requires more certainty before the court allows a class action to proceed.
+
+               Second, the plaintiffs contend our reading of Comcast conflicts with that in other
+
+        circuits, creating a circuit split. Their best case is the Second Circuit’s decision in
+
+        Waggoner v. Barclays PLC, 875 F.3d 79 (2d Cir. 2017). It may be true that Waggoner
+
+        interprets Comcast more narrowly than we do. But even so, it is distinguishable from this
+
+        case. The plaintiffs in Waggoner pressed a single, committed theory—that specific
+
+        misstatements about Barclays’ alternate trading system maintained a preexisting inflation
+
+        that dissipated when one corrective disclosure revealed the truth. Id. at 88. The fit between
+
+        the misstatements and the disclosure was tight, the theory was fixed and the court found
+
+        that the expert’s constant-dollar model matched it. See id. at 88, 90, 105–06.
+
+               This case differs on every axis that mattered there. Here, the plaintiffs pled inflation
+
+        and maintenance in the alternative and committed to neither before the district court. And
+
+                                                      36
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 37 of 42
+
+
+
+
+        Coffman committed to no methodology at all. Where Waggoner had a fixed theory and a
+
+        matching methodology to test, the district court here had a moving target and a menu.
+
+        Comcast requires something to compare. Waggoner had it, and this record does not.
+
+               In sum, neither of the plaintiffs’ counterarguments are persuasive. They failed to
+
+        satisfy Comcast’s requirements.
+
+          4. The District Court Did Not Conduct the Rigorous Analysis Comcast Requires
+
+               Because the plaintiffs did not meet their burden under Comcast, they necessarily
+
+        prevented the district court from conducting the required rigorous analysis of their damages
+
+        methodology. Nevertheless, by approving the plaintiffs’ insufficient proof, the district
+
+        court misapplied Rule 23(b)(3).
+
+               The district court found that the out-of-pocket legal measure of damages qualified
+
+        as a damages methodology under Comcast. As we have explained, it doesn’t. And by
+
+        accepting an inadequate damages methodology, the district court was unable to properly
+
+        carry out its obligations under Rule 23(b)(3).
+
+               The district court also characterized the plaintiffs’ theory of liability at “an
+
+        inappropriately high level of generality.” See Stafford, 123 F.4th at 675. According to the
+
+        district court, the plaintiffs’ theory was “that investors were damaged by purchasing Boeing
+
+        stock at inflated prices due to defendants’ fraud.” J.A. 1695. But that isn’t a liability theory.
+
+        It simply restates the generic securities-fraud principles that misstatements inflate and the
+
+        truth deflates. That describes every Section 10(b) case, which is precisely the problem.
+
+        Comcast’s consistency inquiry compares two things, the damages methodology and the
+
+        liability theory. A comparison needs two defined terms. A generic description that fits
+
+                                                       37
+USCA4 Appeal: 25-1492       Doc: 87         Filed: 07/20/2026      Pg: 38 of 42
+
+
+
+
+        every case defined nothing for this one, so it left the district court with nothing to test the
+
+        methodology against.
+
+               Having failed to properly identify the two comparators—the damages methodology
+
+        and the legal liability theory—the district court’s certification order necessarily failed to
+
+        perform a rigorous consistency comparison. Of course, as we have explained, the plaintiff
+
+        did not give the district court the information needed to do this. The plaintiffs failed to
+
+        provide an adequate methodology and failed to identify their liability theory beyond the
+
+        most general of levels. But Comcast requires the district court to conduct a rigorous
+
+        analysis that includes this comparison. If the party seeking class certification doesn’t
+
+        provide the necessary information about both comparators, the district court cannot certify
+
+        the class.
+
+               Also, the plaintiffs’ failure to provide the required damages methodology prevented
+
+        the district court from addressing Comcast’s other requirements. Without such a
+
+        methodology, it could not, and thus did not, properly consider whether the plaintiffs’
+
+        alleged damages were measurable on a class-wide basis or whether the plaintiffs’ purported
+
+        methodology was reasonable as opposed to speculative.
+
+               The district court explained that the Fourth Circuit “does not require plaintiffs to
+
+        conduct detailed damages modeling to meet Rule 23’s predominance requirement.” J.A.
+
+        1695. It is true that “[c]alculations need not be exact.” Comcast, 569 U.S. at 35. But there
+
+        must be enough information in the plaintiffs’ filings for the district court to identify the
+
+        plaintiffs’ methodology, specify their theory or theories of liability and explain whether the
+
+
+
+                                                      38
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026     Pg: 39 of 42
+
+
+
+
+        former is consistent with the latter and whether the methodology is reasonable. As already
+
+        explained, the plaintiffs failed to provide such information here.
+
+               The district court also noted that its approach was similar to those of several other
+
+        district courts within our circuit and was consistent with Waggoner. That may be true. But
+
+        to the extent there was any question previously, we make clear today that Comcast requires
+
+        a rigorous analysis into Rule 23’s requirements. Under Comcast, certification orders are
+
+        not like participation trophies that are handed out to everyone on the tee ball team. To the
+
+        contrary, district courts may only certify a class after rigorously analyzing whether the
+
+        plaintiffs have complied with Comcast’s commands.
+
+                        D. Coffman’s Merits Report Doesn’t Change the Result
+
+               Finally, the plaintiffs suggest Coffman’s merits report—submitted after class
+
+        certification—cures any Comcast deficiencies. To the extent the plaintiffs are asserting a
+
+        harmless-error argument, there are three problems.
+
+               First, when asked at oral argument, the plaintiffs indicated they hadn’t made a
+
+        harmless-error argument. See Oral Argument at 38:25–:52 (“I think we haven’t made the
+
+        argument that you’re describing . . . .”). Second, we are suspicious that the harmless-error
+
+        principle applies here, as “[t]he Supreme Court has emphasized the ‘rigorous analysis’ []
+
+        must be performed before a class is certified under Rule 23.” Marriott, 78 F.4th at 687
+
+        (emphasis in original) (quoting Dukes, 564 U.S. at 351). And it seems equally inappropriate
+
+        to let a class-certification decision stand based on a report which the district court didn’t
+
+        even consider in certifying a class in the first place. That’s particularly true here when the
+
+        report was completed and filed such a short period after the rebuttal report and the class-
+
+                                                     39
+USCA4 Appeal: 25-1492       Doc: 87          Filed: 07/20/2026      Pg: 40 of 42
+
+
+
+
+        certification decision. Concerningly, the plaintiffs’ damages reports go from minimal
+
+        discussion and no commitment in the initial report, to lengthier discussion but still no
+
+        commitment in their rebuttal report, to, less than a week after the district court certified the
+
+        class, a merits report that—with the time for scrutiny having passed—finally makes some
+
+        commitments. If allowed, a plaintiff could bob and weave pre-certification and not commit
+
+        to a firm methodology until he has the leverage of class certification to use as a sword in
+
+        litigation.
+
+               Third, even if the plaintiffs had made a harmless-error argument and we could
+
+        address it in this context, the district court’s error in certifying the class wasn’t harmless.
+
+        It’s true that “an error by the district court does not automatically result in reversal.”
+
+        Figueroa v. Butterball, LLC, 164 F.4th 312, 319 (4th Cir. 2026). And it’s also true that
+
+        Rule 61 requires courts to “disregard all errors and defects” in an order “that do not affect
+
+        any party’s substantial rights.” Fed. R. Civ. P. 61. But we must be “satisfied with fair
+
+        assurance, after pondering all that happened without stripping the erroneous action from
+
+        the whole, that the judgment was not substantially swayed by the errors.” Design Gaps,
+
+        Inc. v. Distinctive Design & Constr. LLC, 162 F.4th 452, 473 (4th Cir. 2025) (internal
+
+        quotation marks omitted) (quoting Shears v. Ethicon, Inc., 109 F.4th 235, 241 (4th Cir.
+
+        2024)).
+
+               Here, we aren’t satisfied that the incorrect certification decision wasn’t swayed by
+
+        the errors. That’s because even Coffman’s merits report isn’t enough for the plaintiffs to
+
+        achieve class certification. In that report, Coffman finally committed to his methodology
+
+        of determining artificial inflation. He opined that a constant-percentage-inflation measure
+
+                                                      40
+USCA4 Appeal: 25-1492      Doc: 87          Filed: 07/20/2026      Pg: 41 of 42
+
+
+
+
+        of artificial inflation was appropriate and assessed the percentage to 9.58%, considering
+
+        only the Alaska Airlines incident. According to Coffman, “[e]ven though there are
+
+        numerous alleged misstatements, . . . they all fundamentally concealed the same
+
+        underlying truth that Boeing was taking dangerous shortcuts and prioritizing short term
+
+        cash flow . . . over correcting safety and quality control deficiencies and maintaining
+
+        appropriate legal compliance.” J.A. 1894.
+
+               That, however, is inconsistent with the plaintiffs’ theory of liability. Recall that the
+
+        plaintiffs alleged 40 different misstatements over a three-year period. The misstatements
+
+        suppressed a variety of different types of information. For instance, some concerned safety
+
+        and quality in manufacturing. Others were about Boeing’s culture and encouraged its
+
+        employees to report safety concerns. Others, still, concerned the production of safe
+
+        airplanes at a stable and growing rate. And finally, some were about regulatory compliance.
+
+               It isn’t consistent with these allegations to assert a damages methodology based on
+
+        the conclusion that these varying statements—of different kinds, at different points in time,
+
+        with different industry and macroeconomic conditions and with evolving investors’
+
+        perceptions of the riskiness of a Boeing investment—would maintain the alleged fraud by
+
+        an exact percentage that never changes. Cf. Stafford, 123 F.4th at 680 (noting generalized
+
+        allegations are often insufficient to achieve class certification). Conclusorily claiming that
+
+        each statement had the exact same effect on the market is speculation, not a showing of
+
+        consistency.
+
+               The plaintiffs may seek to base their claim on the large number of statements over
+
+        a three-year period. But having done so, they are stuck with those allegations when
+
+                                                      41
+USCA4 Appeal: 25-1492      Doc: 87         Filed: 07/20/2026     Pg: 42 of 42
+
+
+
+
+        applying Rule 23(b)(3). As the saying goes, they made their bed and now have to lie in it.
+
+        Lying in it reveals that they cannot show their liability theory is consistent with the
+
+        damages methodology Coffman provides in his merits report.
+
+                                                   III.
+
+               To strike the appropriate balance between certifying a lawsuit as a class action and
+
+        restraining it to individual parties when certification is not warranted, plaintiffs must
+
+        comply with the requirements of Rule 23, as interpreted by the Supreme Court in decisions
+
+        like Comcast. But the damages methodology the plaintiffs attempted to offer here fell short
+
+        of those requirements. And the district court didn’t perform the rigorous analysis Comcast
+
+        requires. So, the district court’s class-certification order is reversed, and the case is
+
+        remanded for further proceedings consistent with this opinion.
+
+                                                                  REVERSED AND REMANDED
+
+
+
+
+                                                    42
+

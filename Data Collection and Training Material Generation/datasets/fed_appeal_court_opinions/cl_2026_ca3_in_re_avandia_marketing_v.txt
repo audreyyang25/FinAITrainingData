@@ -1,0 +1,2217 @@
+                                      PRECEDENTIAL
+
+      UNITED STATES COURT OF APPEALS
+           FOR THE THIRD CIRCUIT
+                _____________
+
+                     No. 25-2278
+
+
+In re: AVANDIA MARKETING, SALES PRACTICES and
+         PRODUCTS LIABILITY LITIGATION,
+
+                              GlaxoSmithKline LLC,
+
+                                             Appellant
+
+
+    On Appeal from the United States District Court
+       for the Eastern District of Pennsylvania
+       (D.C. Civil Action No. 2:07-md-01871)
+      District Judge: Honorable Cynthia M. Rufe
+
+
+             Argued on February 26, 2026
+
+  Before: SHWARTZ, MONTGOMERY-REEVES, and
+              AMBRO, Circuit Judges
+
+             (Opinion filed July 21, 2026)
+Devora W. Allon (Argued)
+Jay P. Lefkowitz
+Kevin M. Neylan, Jr.
+Kirkland & Ellis
+601 Lexington Avenue
+New York, NY 10022
+
+Cole Carter
+Kirkland & Ellis
+333 W Wolf Point Plaza
+Chicago, IL 60654
+
+Kyle A. Dolinsky
+Troutman Pepper Locke
+11682 El Camino Real
+Suite 400
+San Diego, CA 92130
+
+Robin P. Sumner
+Troutman Pepper Locke
+3000 Two Logan Square
+18th and Arch Streets
+Philadelphia, PA 19103
+
+                  Counsel for Appellant
+
+Hannah W. Brennan
+Erin C. Burns
+Thomas M. Sobol (Argued)
+Hagens Berman Sobol Shapiro
+One Faneuil Hall Square
+5th Floor
+Boston, MA 02109
+
+
+
+
+                           2
+Edwina Bullard Clarke
+David Zimmer
+Zimmer Citron & Clarke
+711 Atlantic Avenue
+Sixth Floor
+Boston, MA 02111
+
+Joseph H. Meltzer
+Jonathan F. Neumann
+Terence S. Ziegler
+Kessler Topaz Meltzer & Check
+280 King of Prussia Road
+Radnor, PA 19087
+
+Julia Solomon-Strauss
+Zimmer Citron & Clarke
+14 Ridge Square NW
+Suite 328
+Washington, DC 20016
+
+Anne-Marie J. De Bartolomeo
+Kaplan Fox & Kilsheimer
+1999 Harrison Street
+Suite 1501
+Oakland, CA 94612
+
+                  Counsel for Appellees
+
+
+
+               OPINION OF THE COURT
+
+
+
+
+                              3
+AMBRO, Circuit Judge
+
+       We do not presume in law that x caused y merely
+because x happened first. The connection might be causal. But
+it might be coincidental. Or some z might be responsible for x
+and y alike. As statisticians emphasize, correlation alone does
+not prove causation.
+
+        One method experts have developed for distinguishing
+true causation from mere correlation is multiple regression
+analysis. It can “define statistically the relationship between a
+dependent variable (e.g., salary) and one or more independent
+variables (e.g., education or work experience),” enabling us to
+conclude with confidence that the latter is the reason for the
+former (or is at least one reason). Weisfeld v. Sun Chem. Corp.,
+84 F. App’x 257, 261 n.3 (Table) (3d Cir. 2004); see also 1
+David L. Faigman et al., Mod. Sci. Evidence § 6.1 (2025-2026
+ed.). It can also enable us “to control for other independent
+variables” so we can rule out competing explanations (or at
+least rule them unlikely). Id. And it can quantify how much of
+a difference the cause makes to the effect. Thus, although it
+may be that “[t]he only empirical facts . . . we can discover
+about the world are facts about correlation,” regression
+analysis can justify the “inference” of causation by “testing and
+attempted invalidation” of other “causal hypotheses.” See
+United States v. Mosley, 454 F.3d 249, 266 (3d Cir. 2006).
+
+      This appeal raises this issue and more. Third-party
+payors (“TPPs”) who covered prescriptions for the diabetes
+medication Avandia brought a putative class action against the
+manufacturer, GlaxoSmithKline LLC (“GSK”), for
+misrepresenting the drug’s cardiovascular risks and benefits.
+GSK’s misrepresentations, they claim, caused more health care
+
+
+
+
+                               4
+providers (we use “physicians,” “prescribers,” and similar
+terms interchangeably) to prescribe Avandia than cheaper
+alternatives. That, in turn, allegedly caused these TPPs to
+reimburse patients for Avandia that otherwise would not have
+been prescribed.
+        GSK challenges the District Court’s certification of the
+class. It argues the proposed class is not ascertainable because
+there is not enough evidence to identify which TPPs
+reimbursed members for the drug. And it contends common
+issues do not predominate on causation because the plaintiffs
+lack class-wide evidence GSK’s fraud caused them to cover
+more Avandia prescriptions than they would have otherwise.
+Their evidence, GSK contends, shows only correlation, not
+causation.
+
+        Though we hold the proposed class is ascertainable, we
+part with the District Court’s ruling that common issues would
+predominate on causation. We join the other circuits that have
+addressed this issue—the First, Second, and Ninth—and
+conclude that plaintiffs in a pharmaceutical fraud RICO class
+action may use statistical evidence to prove the defendant was
+responsible for their injuries when the evidence can establish
+causation, not merely correlation. The Plans’ statistical
+evidence does not satisfy this standard yet. After laying out the
+type of statistical evidence that may be used to prove causation
+in a case like this one, we vacate the District Court’s
+certification of the class and remand for further fact-finding on
+predominance under the clarified standard.
+
+                     I. BACKGROUND
+
+
+
+
+                               5
+        In 1999, the Food and Drug Administration (“FDA”)
+approved a new treatment for Type II diabetes: Avandia.1
+GSK, its developer, sold it for a higher price than the drug’s
+older rivals, like metformin. But GSK said Avandia was worth
+the premium. According to the pharmaceutical company’s
+marketing, Avandia would not help patients manage only their
+blood sugar. It would also reduce their cardiovascular risks.
+To diabetics, that mattered. Roughly two-thirds of diabetes
+patients die of cardiovascular conditions. So despite Avandia’s
+higher cost, health insurers added it to their formularies and
+reimbursed patients. In the years following FDA approval,
+Avandia prescriptions soared. In 2006 alone, GSK sold $2.2
+billion of the drug in the United States.
+
+       Meanwhile, GSK’s own research began to suggest an
+inconvenient truth: the drug actually posed distinctive
+cardiovascular risks. In 2004, GSK began an internal meta-
+analysis, that is, a study of what existing clinical trials
+indicated about Avandia’s cardiovascular profile. See In re
+Paoli R.R. Yard PCB Litig., 916 F.2d 829, 856 (3d Cir. 1990)
+(defining as “meta-analysis” a study “combining the results of
+different . . . studies done by other scientists, and re-analyzing
+the combined data to see if the data, in toto, renders different
+results than the individual studies done with a smaller data
+sample”). That September, it completed its initial review of
+those trials, the precursor to the study later dubbed ICT-37.
+
+1
+  We limit our recitation of the facts, as we have recounted
+them in two prior precedential opinions in this case. See In re
+Avandia Mktg., Sales Practices & Prod. Liab. Litig., 804 F.3d
+633 (3d Cir. 2015); In re Avandia Mktg., Sales Practices &
+Prod. Liab. Litig., 945 F.3d 749 (3d Cir. 2019), cert. denied,
+141 S. Ct. 265 (Mem).
+
+
+
+
+                                6
+GSK did not complete the meta-analysis and present the results
+to its safety board as ICT-37 until a year later, September 2005.
+The conclusion: Avandia was associated with a statistically
+significant increase of serious ischemic events (compromises
+of the blood flow to the heart causing heart attack, disability,
+or death). GSK nonetheless did not immediately update the
+drug’s label or ask the FDA for permission to do so.
+
+        In February 2006, GSK completed a new meta-analysis,
+reexamining the results of the clinical trials it examined in ICT-
+37 and evaluating five additional ones. This study, ICT-42,
+reached the same conclusion: Avandia posed serious
+cardiovascular risks. In August the same year, the company
+asked the FDA for permission to add a warning to Avandia’s
+label, notifying patients that ICT-42 found the drug caused a
+statistically significant risk of an increase in myocardial
+ischemic events. In May 2007, GSK also asked to make that
+warning clearer and more prominent.
+
+       Then—before the FDA had ruled on either of these
+requests—the truth reached the public. The New England
+Journal of Medicine published a study of Avandia by Dr. Steve
+Nissen (the “Nissen study”). It found Avandia “was associated
+with a significant increase in the risk of myocardial infarction
+and with an increase in the risk of death from cardiovascular
+causes that had borderline significance.” JA 443. The FDA
+denied GSK’s requests to change the label, then demanded that
+it make more dramatic changes to address the Nissen study and
+other emerging research. By the end of 2007, the FDA had
+directed GSK to add a “black-box warning”2 conveying that
+
+2
+  Though officially called a “boxed warning,” the term refers
+to the FDA’s most stringent safety alert communicated through
+
+
+
+
+                                7
+Avandia could cause or exacerbate congestive heart failure and
+increase the risk of myocardial ischemic events.
+
+       Prescriptions plummeted. Between 2004 and 2006,
+doctors prescribed Avandia about 1.2 million times per month.
+By the end of 2007, that number was below 500,000
+prescriptions per month. After over 50 additional clinical trials,
+the FDA enhanced the black-box warning and restricted
+distribution of Avandia.3
+
+       Consequences followed. In 2012, GSK pled guilty to
+one count of failing to report clinical data to the FDA and
+agreed to pay a criminal fine of nearly $250 million. GSK also
+reached a civil settlement for misrepresenting Avandia’s
+cardiac risks in violation of the False Claims Act, 31 U.S.C. §
+3729, and agreed to pay the federal Government over $500
+million.
+
+       United Food and Commercial Workers Local 1776 and
+Participating Employers Health and Welfare Fund (“UFCW”),
+along with J.B. Hunt Transport Services, Inc. (“J.B. Hunt”),
+provide prescription drug coverage to their members or
+employees. In 2010, they sued GSK on behalf of a proposed
+
+
+a bold, black-bordered notice atop a drug’s label or package
+insert. See generally 21 C.F.R. § 201.57(c)(1) (explaining that
+black-box warnings reveal “[c]ertain contraindications or
+serious warnings, particularly those that may lead to death or
+serious injury”).
+3
+  In 2013, the FDA relaxed these restrictions and removed the
+black-box warning for myocardial ischemic events (blocked
+blood vessels), but it retained the one for myocardial infarction
+(heart attack).
+
+
+
+
+                                8
+class of TPPs (the “Plans”) that paid for Avandia, alleging
+violations of the Racketeer Influenced and Corrupt
+Organizations Act (“RICO”), 18 U.S.C. § 1962(c), and a host
+of state laws. Their cases were combined into the In re Avandia
+Marketing, Sales Practices and Products Liability multi-
+district litigation.
+
+       The Plans alleged GSK fraudulently misrepresented
+Avandia’s true cardiovascular profile, marketing the drug for
+its supposed cardiovascular benefits while failing to disclose
+its real cardiovascular risks. In reliance on GSK’s
+misrepresentations, they included Avandia on their formularies
+even though the drug cost more than the alternatives and
+covered more Avandia prescriptions than they would have
+absent the fraud.
+
+       GSK moved to dismiss the complaint for failure to state
+a claim, contending in relevant part that the Plans had failed to
+allege plausibly they suffered an economic injury and that
+GSK’s alleged fraud was its proximate cause. In re Avandia
+Mktg., Sales Practices & Prod. Liab. Litig., 804 F.3d 633, 637
+(3d Cir. 2015) (“Avandia I”). The District Court denied the
+motion as to the RICO claim, holding the plaintiffs plausibly
+alleged GSK’s misrepresentations about Avandia’s cardiac
+benefits deprived them of “the substantial savings they would
+have experienced had they covered cheaper alternatives to
+Avandia.” Id. We affirmed. Id. at 634.
+
+       In 2016, GSK moved for summary judgment on the
+grounds the federal Food, Drug, and Cosmetic Act, 21 U.S.C.
+Ch. 9, preempted the remaining state law claims and that the
+Plans had failed to create a genuine dispute of material fact
+about the existence of a RICO enterprise. In re Avandia Mktg.,
+
+
+
+
+                               9
+Sales Practices & Prod. Liab. Litig., 945 F.3d 749, 756 (3d
+Cir. 2019), cert. denied, 141 S. Ct. 265 (Mem). The District
+Court granted summary judgment for GSK. Id. We reversed
+the Court’s order on the state law claims and vacated its order
+on the RICO claims, holding the Plans were entitled to
+discovery on the latter. Id. at 752–53.
+
+         In May 2023, the Plans moved to certify the following
+class:
+
+         All entities in the United States of America and
+         its territories, which indirectly purchased, and/or
+         provided reimbursement for some or all of the
+         purchase price for the drugs Avandia,
+         Avandamet, and/or Avandaryl from May 25,
+         1999 until August 14, 2007.4
+
+         Included in the Class are self-insured non-
+         governmental entities and third-party payers that
+         offer insured plans to private individuals and
+         groups. Likewise third-party payers that offer
+         insured plans to government entities including
+         the Federal Employee Program, Managed
+         Medicaid, and Medicare Part D are class
+         members.
+
+They also proposed five exclusions:
+
+         (i)    governmental    entities  other     than
+         municipalities and/or local governments with
+         self-funded prescription drug plans; (ii) fully
+
+4
+    We use Avandia throughout to refer to all three drugs.
+
+
+
+
+                                 10
+       insured health plans, i.e., plans for which the
+       insurer bears 100% of the risk for the
+       reimbursement obligations to members; (iii)
+       pharmacy benefit managers; (iv) natural person
+       consumers; and (v) employees of [GSK],
+       including its officers or directors, and
+       subsidiaries and affiliates.
+
+And they later agreed to narrow the class period to January 1,
+2005 to August 14, 2007.
+
+        In support of their motion for class certification, the
+Plans moved to introduce two expert reports. The first, from
+Dr. Meredith Rosenthal, sought to prove causation. She offered
+two main opinions: (a) GSK’s misrepresentations of Avandia’s
+health benefits were responsible for a significant portion of the
+prescriptions the Plans covered; and (b) 41% of prescriptions
+in the class period would not have happened but for the fraud.
+Dr. Rosenthal based these conclusions on a multiple regression
+analysis performed to isolate the causal significance of GSK’s
+misrepresentations on prescription volume.
+
+        The Plans introduced the second report, from Dr.
+Thomas McGuire, to prove damages. Using several models, he
+estimated damages totaling between $500 million and over $2
+billion. As relevant here, one model—the Scenario 1 Step
+Down Adjustment—assumed the earlier publication of ICT-37
+would have caused a similar decline in prescriptions as did the
+actual publication of the Nissen study. On that assumption,
+Dr. McGuire calculated damages by applying the percentage
+decline in prescriptions after that study to the earlier time
+period and estimated damages of around $1 billion.
+
+
+
+
+                               11
+        GSK moved to exclude both reports. In October 2024,
+after a Daubert hearing, the District Court granted GSK’s
+motion to exclude the Rosenthal report and granted in part and
+denied in part its motion to exclude the McGuire report. The
+Court found Dr. Rosenthal’s opinions unreliable because her
+regression model deviated from the standards of her field and
+the deviations were consequential. The model appeared
+“results-oriented” and particularly susceptible to false
+positives. In re Avandia Mktg., Sales Pracs. & Prods. Liab.
+Litig., No. 07-MD-1871, 2024 WL 4582876, at *10–11 (E.D.
+Pa. Oct. 25, 2024). For instance, not only did it show a
+statistically significant positive causal relationship between
+prescription volume and GSK’s promotion of Avandia, it also
+indicated a statistically significant positive causal relationship
+between prescription volume and obviously irrelevant
+variables, like U.S. carbon emissions. So the District Court
+granted the motion to exclude it. The Court found one of Dr.
+McGuire’s models unreliable because it depended on Dr.
+Rosenthal’s opinions and rejected others as unreliable on their
+own merits. The Court nonetheless left one standing: the
+Scenario 1 Step Down Adjustment, explained above. The Plans
+did not appeal the District Court’s evidentiary rulings.
+
+        In May 2025, the District Court granted the Plans’
+motion to certify the class. First, it held the proposed class
+satisfied the elements of Federal Rule of Civil Procedure 23(a):
+numerosity, commonality, typicality, and adequacy of
+representation. GSK did not contest any of the Rule 23(a)
+issues. Second, the Court ruled that the proposed class satisfied
+Rule 23(b)(3); in relevant part, it held the Plans established that
+common questions would predominate and that the proposed
+class was ascertainable.
+
+
+
+
+                                12
+       GSK argued the Plans had not proven common
+questions would predominate on one element of their RICO
+claim: causation. The Plans advanced a quantity-effect theory
+of causation: that GSK’s misrepresentations about Avandia’s
+cardiac profile led doctors to issue more Avandia prescriptions,
+which in turn led the Plans to reimburse more prescriptions for
+this expensive drug. GSK claimed that individualized issues
+would predominate over common ones. It offered two
+arguments on this point.
+
+        First, GSK insisted, questions of reliance are typically
+individual questions: they turn on why particular doctors
+issued particular prescriptions to particular patients. Matters
+like that, it said, are not susceptible to proof by class-wide
+evidence. The District Court rejected GSK’s argument. It held
+that the Plans had introduced enough common evidence to
+justify an inference of “class-wide reliance,” emphasizing two
+forms of evidence. In re Avandia Mktg., Sales Pracs. & Prods.
+Liab. Litig., No. 07-MD-1871, 2025 WL 1479618, at *7 (E.D.
+Pa. May 22, 2025). They had common evidence of the alleged
+uniform scheme to cover up the drug’s dangers, like marketing
+materials touting Avandia’s cardiac benefits and testimony
+from GSK employees about the success of that marketing. And
+they also had, the District Court found, statistical evidence that
+GSK’s marketing mattered: internal GSK studies showed that
+some of its marketing campaigns increased prescriptions.
+Together, the Court determined, these two forms of common
+evidence could prove causation.5
+
+5
+  Along the way, it rejected GSK’s argument that the
+individualized nature of providers’ decision-making precluded
+an inference of reliance. As the Court saw the matter, “even
+though the decision to prescribe Avandia is not ‘one-
+
+
+
+
+                               13
+       Second, GSK argued, even if causation could be proven
+on a class-wide basis by these two forms of common evidence,
+the evidence here was insufficient. Specifically, according to
+GSK, its internal studies played a key role in the Plans’
+common evidence. But those studies did not isolate causation.
+And, without causation isolated, they could not serve as class-
+wide evidence capable of proving it. While the District Court
+acknowledged GSK’s second argument, it did not articulate the
+reasons for rejecting it.
+
+       On ascertainability, the Plans proposed to identify
+members of the class through a combination of drug purchase
+records for GSK, a data publisher’s list of entities that paid for
+Avandia, and a pharmaceutical database, supplemented by
+affidavits to confirm membership. GSK argued there would not
+be enough reliable evidence to determine which prospective
+class members had actually covered Avandia prescriptions.
+After a careful review of the record, the District Court rejected
+these concerns. So it held the class was ascertainable and
+granted the motion to certify.
+
+
+
+dimensional,’ it is not so subjective that a provider’s reliance
+cannot be inferred.” Avandia, 2025 WL 1479618, at *8. It
+acknowledged “there are many factors that impact a provider’s
+decision to prescribe one medication over another.” Id. Yet it
+perceived “every provider’s goal when considering whether to
+prescribe Avandia is largely the same—to treat a patient’s
+diabetes without otherwise causing harm to their health.” Id.
+And it thought “providers generally consider the same set of
+factors” with minimal patient-by-patient variation. Id.
+
+
+
+
+                               14
+       In June 2025, GSK petitioned us for permission to
+appeal under Federal Rule of Civil Procedure 23(f). We
+granted it, and this appeal followed.
+
+  II. JURISDICTION AND STANDARDS OF REVIEW
+
+        The District Court had jurisdiction under 28 U.S.C. §
+1331. We have jurisdiction under 28 U.S.C. § 1292(e) and
+Federal Rule of Civil Procedure 23(f). We review the
+certification of a class for abuse of discretion, “which occurs if
+the district court’s decision rests upon a clearly erroneous
+finding of fact, an errant conclusion of law, or an improper
+application of law to fact.” In re Hydrogen Peroxide Antitrust
+Litig., 552 F.3d 305, 312 (3d Cir. 2008) (cleaned up).
+
+                      III. DISCUSSION
+
+       GSK challenges the District Court’s holdings that the
+class is ascertainable and that common issues would
+predominate on causation. We asked the parties to brief a third,
+threshold issue: the scope of our review of a Rule 23(f) appeal.
+That is where we begin.
+
+A. We may limit the scope of our review under Rule 23(f).
+
+        Rule 23(f) provides that a “court of appeals may permit
+an appeal from an order granting or denying class-action
+certification under this rule.” Fed. R. Civ. P. 23(f). The text
+does not expressly address whether a motions or merits panel
+may limit review to specific questions. No precedent of ours
+directly answers this question either. However, since Rule
+23(f)’s inception, we have analogized it to another
+interlocutory appeal provision, 28 U.S.C. § 1292(b). Under that
+
+
+
+
+                               15
+subsection, we may choose which issues we review when we
+accept and decide an appeal. For this reason, we now hold we
+have the same discretion under Rule 23(f).
+
+        Rule 23(f) models § 1292(b). Newton v. Merrill Lynch,
+Pierce, Fenner & Smith, Inc., 259 F.3d 154, 163 (3d Cir. 2001)
+(citing 7B Charles Alan Wright, Arthur R. Miller & Mary Kay
+Kane, Fed. Prac. & Proc. § 1802 (West Supp. 2000)). The
+statute authorizes us to permit an interlocutory appeal of a non-
+final order that “involves a controlling question of law as to
+which there is substantial ground for difference of opinion”
+where “an immediate appeal from the order may materially
+advance the ultimate termination of the litigation.” 28 U.S.C. §
+1292(b). As the Supreme Court has explained, “[c]ourts of
+appeals wield ‘unfettered discretion’ under Rule 23(f), akin to
+the discretion afforded circuit courts under § 1292(b). But Rule
+23(f) otherwise ‘departs from the § 1292(b) model,’ for it
+requires neither district court certification nor adherence to §
+1292(b)’s other ‘limiting requirements.’” Microsoft Corp. v.
+Baker, 582 U.S. 23, 31 (2017) (quoting Comm. Note on Rule
+23(f)). In short, Rule 23(f) is the class-action version of §
+1292(b), save that it confers on courts of appeals even greater
+discretion.
+
+        Under § 1292(b), we may choose which issues to
+review. The Supreme Court has taken care to use permissive
+rather than mandatory language in characterizing appellate
+courts’ power over the scope of our review in § 1292(b)
+appeals. Yamaha Motor Corp., U.S.A. v. Calhoun held that a
+court of appeals has appellate jurisdiction over the entire order
+certified for appeal because “it is the order that is appealable,”
+not the certified question. 516 U.S. 199, 205 (1996) (emphasis
+omitted) (quoting 9 J. Moore & B. Ward, Moore’s Federal
+
+
+
+
+                               16
+Practice ¶ 110.25[1], p. 300 (2d ed. 1995). The Court could
+have said a court of appeals must consider every question the
+parties raise. It did not. Instead, it consistently said that appeals
+courts may do that. See, e.g., id. at 205.
+
+        We too have taken care to use permissive words like
+“may” and “can,” rather than mandatory language like “must”
+or “shall,” in the § 1292(b) context. See, e.g., Lundeen v. 10 W.
+Ferry St. Operations LLC, 156 F.4th 332, 337 (3d Cir. 2025)
+(“Although the District Court certified a single question, our
+review may reach any matter ‘fairly included within the
+certified order.’” (emphasis added) (quoting Barbato v.
+Greystone All., LLC, 916 F.3d 260, 264 (3d Cir. 2019)));
+Gruber v. Price Waterhouse, 911 F.2d 960, 963 (3d Cir. 1990)
+(“[S]ince we review orders and not isolated legal questions, we
+may consider all grounds that might require reversal of the
+order.” (emphasis added) (citation omitted)); see also McMunn
+v. Babcock & Wilcox Power Generation Grp., 869 F.3d 246,
+266 (3d Cir. 2017) (noting “may” is permissive).
+
+        This permissive language is no accident. It reflects the
+position we adopted around the same time we started writing
+on these discretionary terms: on a § 1292(b) appeal, “we are
+free to consider ‘all grounds advanced in support of [reversal]
+and all grounds suggested for [affirmance].’” See Miller v.
+Bolger, 802 F.2d 660, 666 (3d Cir. 1986) (quoting Struble v.
+N.J. Brewery Emps.’ Welfare Tr. Fund, 732 F.2d 325, 336 n.10
+(3d Cir. 1984)). “In deciding whether to exercise that power,
+we are guided by prudential considerations”—not by any
+obligation to consider every challenge the appellant raises. Id.
+
+      Were there any doubt, in 1988 our full Court adopted
+these expressly permissive terms for § 1292(b) appeals,
+
+
+
+
+                                 17
+providing that we “may consider all grounds that might require
+reversal of the order appealed from.” In re Data Access Sys.
+Sec. Litig., 843 F.2d 1537, 1539 (3d Cir. 1988) (en banc)
+(emphasis added) (citing Merican, Inc. v. Caterpillar Tractor
+Co., 713 F.2d 958, 962 n.7 (3d Cir. 1983)), superseded on other
+grounds by statute as stated in In re Exxon Mobil Corp. Sec.
+Litig., 500 F.3d 189, 198 (3d Cir. 2007).
+
+       We have refused to consider a ground for reversal on a
+§ 1292(b) appeal at least three times: in Miller, 802 F.2d at
+666–67; Resol. Tr. Corp. v. Cityfed Fin. Corp., 57 F.3d 1231,
+1236 & n.6 (3d Cir. 1995), vacated on other grounds sub nom.
+Atherton v. FDIC, 519 U.S. 213 (1997); and most recently in
+this very case. A decade ago, we heard an appeal from the
+District Court’s denial of GSK’s motion to dismiss for failure
+to state a claim. See Avandia I, 804 F.3d at 637. GSK had
+moved to dismiss all of the Plans’ claims, federal and state. See
+id. at 636–37 & n.9. The District Court certified for appeal
+three questions about its denial of the motion to dismiss the
+federal-law claims. Id. at 637. Even though GSK asked us to
+reverse on the state-law claims as well, we refused to consider
+them. Id. at 637 n.11.
+
+       The lesson of our § 1292(b) practice: we may
+circumscribe the scope of our review, refusing to consider
+asserted grounds for reversal. See 16 Charles Alan Wright,
+Arthur R. Miller & Edward H. Cooper, Fed. Prac. & Proc. §
+3931.1 (3d. ed. 2026).
+
+       To be sure, in the more distant past we declared that
+“[o]n a Section 1292(b) appeal we consider all grounds which
+might require a reversal of the order appealed from.” Murphy
+v. Heppenstall Co., 635 F.2d 233, 235 n.1 (3d Cir. 1980); see
+
+
+
+
+                               18
+also Merican, 713 F.2d at 962 n.7 (same); In re Sch. Asbestos
+Litig., 789 F.2d 996, 1002 & n.5 (3d Cir. 1986) (same). But
+these cases predate our 1988 en banc decision in Data Access.
+Since then, we have never repeated the arguably mandatory
+language. Instead, we have used the permissive version. See,
+e.g., Howard Hess Dental Lab’ys Inc. v. Dentsply Int’l, Inc.,
+424 F.3d 363, 368–69 (3d Cir. 2005) (“We may ‘consider all
+grounds which might require a reversal of the order appealed
+from.’” (emphasis added) (quoting Merican, 713 F.2d at 962
+n.7)).6
+
+       There are two caveats. First, we cannot set aside
+challenges to our subject matter jurisdiction. See Fox v.
+Saginaw Cnty., 67 F.4th 284, 292 (6th Cir. 2023). Even if a
+motions panel purported to refuse review of a jurisdictional
+question, the merits panel not only may, but must, address it.
+Cf. Council Tree Commc’ns, Inc. v. FCC, 503 F.3d 284, 292
+
+6
+  There is also some language in Katz v. Carte Blanche
+Corporation, 496 F.2d 747 (3d Cir. 1974) (en banc), cert.
+denied, 419 U.S. 885 (1974), that one could read as requiring
+us to consider any argument that a district court erroneously
+certified a class, see id. at 756. Even if that were the right
+reading of Katz, it would not survive our decision in Link v.
+Mercedes-Benz of North America, Inc., 550 F.2d 860 (3d Cir.
+1977) (en banc). The case presented two questions: whether
+the District Court erred in certifying a class and whether it
+could bifurcate the trial and use separate juries for the liability
+phase and damages phase were liability found. Id. at 861–62.
+Even though a motions panel had granted permission to appeal
+these matters, id. at 862, the full Court declined to rule on either
+one, id. at 861, 864–65; see also Sperling v. Hoffman-La Roche
+Inc., 862 F.2d 439, 443–44 (3d Cir. 1988).
+
+
+
+
+                                19
+(3d Cir. 2007). Second, as the history we have recounted
+reveals, although a motions panel is free to specify the issues
+for the merits panel to review, the merits panel may refuse to
+answer them. See, e.g., Link v. Mercedes-Benz of North
+America, Inc., 550 F.2d 860, 861, 864–65 (3d Cir. 1977) (en
+banc).
+
+       In sum, Rule 23(f) essentially mirrors § 1292(b). To the
+extent they differ, Rule 23(f) provides more discretion, not
+less. Under § 1292(b), we may limit the scope of our review of
+an order to select issues. We have exercised this discretion for
+decades. There is no reason to think we may not do the same
+on a Rule 23(f) appeal. Accordingly, we hold we may
+circumscribe review of a Rule 23(f) appeal to the issues we
+choose.
+
+B. The proposed class is ascertainable.
+
+       Class certification is warranted when the putative class
+meets the requirements of Rule 23(a) and Rule 23(b)(1), (2), or
+(3). See Reyes v. Netdeposit, LLC, 802 F.3d 469, 482 (3d Cir.
+2015). Here, there is no dispute the Plans satisfied Rule 23(a).
+What is disputed is whether they satisfy two requirements of
+Rule 23(b)(3): predominance and ascertainability. Although
+we do not believe the ascertainability issue presented in this
+case merits review, we briefly address it out of respect for the
+parties.
+
+        To establish ascertainability, the plaintiffs must prove
+that “(1) the class is defined with reference to objective
+criteria” and “(2) there is a reliable and administratively
+feasible mechanism for determining whether putative class
+members fall within the class definition.” In re Niaspan
+
+
+
+
+                              20
+Antitrust Litig., 67 F.4th 118, 130 (3d Cir. 2023) (quoting
+Hargrove v. Sleepy’s LLC, 974 F.3d 467, 469–70 (3d Cir.
+2020)). That happens when membership can be determined
+from a combination of objective records and verifiable
+affidavits from potential members. See Byrd v. Aaron’s Inc.,
+784 F.3d 154, 171 (3d Cir. 2015); Hargrove, 974 F.3d at 480;
+City Select Auto Sales Inc. v. BMW Bank of N. Am. Inc., 867
+F.3d 434, 441 (3d Cir. 2017). The Plans intend to determine
+membership using this very combination of evidence:
+identifying potential members with Avandia purchase and
+reimbursement records, then confirming actual membership
+with an affidavit and proof of purchase.
+
+       GSK nonetheless advances two arguments that the
+Plans failed to prove there is a reliable and feasible mechanism
+for identifying class members. First, it contends there are no
+records of which putative members reimbursed Avandia
+prescriptions in the class period. Second, it asserts that even if
+those records existed, they would not indicate whether a
+putative member was an end-payor (thus eligible for class
+membership) or was fully insured (hence ineligible for class
+membership).
+
+        The District Court’s finding that there are objective
+records of the Plans’ reimbursements for Avandia prescriptions
+has no clear error. We note that two named plaintiffs—Allied
+Services Division Welfare Fund and United Benefit Fund
+(“UBF”)—dropped out of the case when they could not obtain
+purchase records from their pharmaceutical benefit managers
+(“PBMs”). But, after receiving a subpoena, UBF’s PBM
+provided the data, showing it has (or at least had) the records
+after all. Even if PBMs could not provide the requisite data, the
+District Court’s finding that class members would be able to
+
+
+
+
+                               21
+corroborate their claims was not clearly erroneous because a
+potential class member’s affidavit can be corroborated using
+multiple forms of documentation.
+
+       The District Court’s finding the Plans will be able to
+distinguish end-payors from fully insured plans did not clearly
+err either. GSK claims that most TPPs will rely on PBM
+purchase records to establish their membership in the class.
+Generally, those documents do not identify whether a
+purchaser was an end-payor. See Niaspan, 67 F.4th at 136. The
+Plans, however, do not propose to rely on PBM data alone; the
+record contained ample evidence they would be able to use
+other resources to distinguish end-payors from fully insured
+TPPs.
+
+       In a final bid to prevent class certification, GSK frames
+the Plans’ proposal as a dilemma. In its view, the proposal
+permits potential class members to identify themselves—
+violating our admonition that ascertainability cannot rest on
+mere say-so—or it depends on individualized evidence, risking
+the very mini-trials the ascertainability requirement exists to
+prevent. See id. at 130–31.
+
+       This dilemma is illusory. The Plans’ proposal for
+distinguishing end-payors from fully insured plans does not
+rely on mere say-so. Each potential class member’s payor
+status would be verified with documentation like receipts,
+claims data, plan documents, or public records. And using
+these records to confirm a TPP is an end-payor hardly
+constitutes a mini-trial. To the contrary, it is the
+“straightforward ‘yes-or-no’ review of existing records to
+identify class members” we have held “is administratively
+feasible even if it requires review of individual records with
+
+
+
+
+                              22
+cross-referencing of voluminous data from multiple sources.”
+Kelly v. RealPage Inc., 47 F.4th 202, 224 (3d Cir. 2022).
+
+       The Plans’ proposal falls well within the bounds of our
+precedents, leaving no abuse of discretion in holding the class
+is ascertainable.
+
+C. The record so far does not show that common issues
+   would predominate.
+
+       Rule 23(b)(3) requires “questions of law or fact
+common to class members predominate over any questions
+affecting only individual members.” Reyes, 802 F.3d at 482
+(quoting Fed. R. Civ. P. 23(b)(3)). “An individual question is
+one where ‘members of a proposed class will need to present
+evidence that varies from member to member,’ while a
+common question is one where ‘the same evidence will suffice
+for each member to make a prima facie showing [or] the issue
+is susceptible to generalized, class-wide proof.’” Tyson Foods,
+Inc. v. Bouaphakeo, 577 U.S. 442, 453 (2016) (alteration in
+original) (quoting 2 W. Rubenstein, Newberg on Class Actions
+§ 4:50 196–97 (5th ed. 2012)).
+
+        “[T]he presence of individual questions does not per se
+rule out a finding of predominance.” In re Prudential Ins. Co.
+Am. Sales Prac. Litig. Agent Actions, 148 F.3d 283, 315 (3d
+Cir. 1998). Common questions predominate so long as they
+“overwhelm individual issues.” Neale v. Volvo Cars of N. Am.,
+LLC, 794 F.3d 353, 371 (3d Cir. 2015) (citing Amgen Inc. v.
+Conn. Ret. Plans & Tr. Funds, 568 U.S. 455, 468–69 (2013)).
+In other words, “[w]hen one or more of the central issues in the
+action are common to the class and can be said to predominate,
+the action may be considered proper under Rule 23(b)(3) even
+
+
+
+
+                              23
+though other important matters will have to be tried separately,
+such as damages or some affirmative defenses peculiar to some
+individual class members.” Tyson, 577 U.S. at 453–54 (cleaned
+up).
+
+        “Class certification is proper only ‘if the trial court is
+satisfied, after a rigorous analysis, that the prerequisites’ of
+Rule 23 are met.” Hydrogen Peroxide, 552 F.3d at 309
+(quoting Gen. Tel. Co. of Sw. v. Falcon, 457 U.S. 147, 161
+(1982)). “Factual determinations necessary to make Rule 23
+findings must be made by a preponderance of the evidence.”
+Id. at 320. This requires resolving “every dispute that is
+relevant to class certification” before it can be granted.
+Ferreras v. Am. Airlines, 946 F.3d 178, 183 (3d Cir. 2019).
+
+        We “analyze predominance in the context of Plaintiffs’
+actual claims” because “the nature of the evidence that will
+suffice to resolve a question determines whether the question
+is common or individual.” Neale, 794 F.3d at 371–72 (quoting,
+in second passage, Hydrogen Peroxide, 552 F.3d at 311). That
+means class-wide evidence of each element of the cause of
+action must predominate over evidence particular to individual
+class members. See Reyes, 802 F.3d at 482–83, 489; see also
+Hydrogen Peroxide, 552 F.3d at 311 (“If proof of the essential
+elements of the cause of action requires individual treatment,
+then class certification is unsuitable.” (cleaned up)).
+Accordingly, here predominance is “satisfied if each element
+of the alleged RICO violation involves common questions of
+law and fact capable of proof by evidence common to the
+class.” Reyes, 802 F.3d at 489 (emphasis omitted).
+
+        “Establishing liability under [§ 1962(c)] of the RICO
+statute requires (1) conduct (2) of an enterprise (3) through a
+
+
+
+
+                               24
+pattern (4) of racketeering activity, plus an injury to business
+or property.” Id. (alteration in original) (quoting In re Ins.
+Brokerage Antitrust Litig., 579 F.3d 241, 269 (3d Cir. 2009)).
+Implicit is a requirement that the racketeering activity was the
+but-for cause of the alleged injury. Id. “The simplest statement
+of the concept of but-for causation is that event A is a but-for
+cause of event B if event B could not happen without event A
+happening first.” Mosley, 454 F.3d at 266.
+
+       “Although reliance on the defendant’s alleged
+misrepresentation is not an element of a RICO mail-fraud
+claim, the plaintiffs’ theory of injury in most RICO mail-fraud
+cases will nevertheless depend on establishing that someone—
+whether the plaintiffs themselves or third parties—relied on the
+defendant’s misrepresentation.” Sergeants Benevolent Ass’n
+Health & Welfare Fund v. Sanofi-Aventis U.S. LLP, 806 F.3d
+71, 87 (2d Cir. 2015) cert. denied, 580 U.S. 825 (2016).
+
+       That is because reliance will typically be a
+       necessary step in the causal chain linking the
+       defendant’s alleged misrepresentation to the
+       plaintiffs’ injury: if the person who was allegedly
+       deceived by the misrepresentation (plaintiff or
+       not) would have acted in the same way regardless
+       of     the      misrepresentation,     then     the
+       misrepresentation cannot be a but-for, much less
+       proximate, cause of the plaintiffs’ injury.
+
+Id.
+
+       Because “reliance is nearly always an individualized
+question,” Harnish v. Widener Univ. Sch. of L., 833 F.3d 298,
+309 (3d Cir. 2016), establishing predominance on causation in
+
+
+
+
+                               25
+a putative RICO class action can be challenging. Yet if a
+reasonable jury could find reliance based on class-wide
+evidence, then common questions predominate. See Sergeants
+Benevolent, 806 F.3d at 92–94.
+
+       In this case, the predominance question is whether the
+Plans can prove by class-wide evidence that they covered more
+Avandia prescriptions by reason of GSK’s fraud. To do so,
+they must prove prescribers relied on GSK’s
+misrepresentations. That is because the Plans propose a
+quantity-effect theory of third-party reliance: they claim
+GSK’s fraud caused them to reimburse more prescriptions for
+Avandia because the fraud swayed physicians to prescribe it.
+And the District Court agreed. But it did not fully address all
+disputes relevant to class certification. Even if it had, certain of
+the evidence proved correlation not causation, and the
+remaining evidence has not yet been analyzed.
+
+        We have not addressed whether TPPs in a RICO
+pharmaceutical fraud action can prove reliance by statistical
+evidence. We hold it is possible, but the Plans have not done it
+to date. Statistical evidence can prove reliance. But not just any
+data will do. Proof of correlation is not enough. Proof of
+causation is required. One form such proof may take is a
+regression analysis or comparably robust quantitative study
+that is sufficiently reliable to pass muster under Daubert v.
+Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993).
+
+   1. All disputes relevant to class certification need
+      resolution, so we must vacate.
+        The District Court mentioned three possible regression
+or statistical analyses that the Plans could have leaned on as
+
+
+
+
+                                26
+class-wide evidence: Dr. Rosenthal’s analysis, Dr. McGuire’s
+analysis, and GSK’s own internal statistical analyses. The
+Court, however, held that only one of these analyses could be
+used to prove reliance: GSK’s internal statistical analyses.
+
+        GSK argued to the District Court that these analyses
+could not isolate causation and thus could not reliably serve as
+a form of class-wide evidence. And the Court acknowledged
+that argument in its opinion. JA 16 (“GSK argues that because
+its own internal statistical analyses do not isolate the effect of
+their marketing regarding Avandia’s cardiovascular profile
+specifically, they cannot be used to demonstrate class-wide
+reliance on that marketing.”). But, as explored more below, it
+never grappled with this concern despite the direct bearing on
+the adequacy of key statistical evidence purporting to serve as
+class-wide evidence. That unresolved dispute requires us to
+vacate.
+
+        “Rule 23 requires rigorous consideration of all the
+evidence and arguments offered by the parties.” Hydrogen
+Peroxide, 552 F.3d at 321; see also Byrd, 784 F.3d at 163
+(noting that “a court evaluating a motion for class certification
+is obligated to probe behind the pleadings when necessary . . .
+to determine whether the Rule 23 certification requirements are
+satisfied”). This is because its requirements “must be met,” not
+just supported by some evidence or conditionally met.
+Hydrogen Peroxide, 552 F.3d at 321 (emphasis added)
+(cleaned up). Thus, “[p]rior to certifying a class, a district court
+must resolve every dispute that is relevant to class
+certification.” Ferreras, 946 F.3d at 183. Not to do so presents
+a problem for an affirmance. See id.; Hydrogen Peroxide, 552
+F.3d at 320 (“[A] district court exercising proper discretion in
+deciding whether to certify a class will . . . hav[e] considered
+
+
+
+
+                                27
+all relevant evidence and arguments presented by the parties.”).
+“[T]he party proposing class-action certification bears the
+burden of affirmatively demonstrating by a preponderance of
+the evidence her compliance with the requirements of Rule
+23.” Byrd, 784 F.3d at 163.
+
+   2. We part from the District Court’s rationale for holding
+       common issues would predominate.
+
+       As alluded above, the District Court held the Plans
+established predominance on the causation issue by
+introducing two forms of class-wide evidence that would
+justify an inference of class-wide reliance: “evidence of a
+common scheme to deceive” and “statistical or econometric
+models that show the allegedly unlawful promotion caused an
+increase in prescriptions” during the class period. Avandia,
+2025 WL 1479618, at *7–9. Despite our deep respect for the
+Court’s thoughtful work on this challenging case, we part
+ways. As to the first, we take a different view of the law. As to
+the second, we take a different view of the record.
+
+              a. The Plans did not seek, and the record does
+                 not warrant, an inference of “class-wide
+                 reliance.”
+
+       Before proceeding to those two points, we begin by
+trying to understand what the District Court meant when it
+found that the Plans’ evidence justified an “inference of class-
+wide reliance.” See generally Avandia, 2025 WL 1479618, at
+*8–9 (repeatedly using variations of the phrase “inference of
+class-wide reliance”). It cannot have meant that every member
+of the class relied on GSK’s misrepresentations. The Plans
+could not have shown every member of the class relied on
+
+
+
+
+                               28
+GSK’s fraud, for they have not even alleged any member relied
+on it. They offered a different theory: that every member of the
+class was injured because prescribers relied on the
+misrepresentations.
+
+        Perhaps, then, the District Court meant that the Plans
+justified an inference that every physician relied on the fraud
+or that every prescription was made in reliance. That would
+make sense as to the heart of its reasoning: that it could infer
+reliance from the supposed fact that every prescription decision
+turned on the same considerations. So it is tempting to think
+the Court meant that it could infer all physicians relied, because
+all of them would have made their prescribing decisions in
+light of GSK’s claims about Avandia’s cardiac profile. But that
+doesn’t work either. The Court expressly found the Plans’
+evidence could not support an inference that, but for GSK’s
+fraud, no prescriptions would have been made. Avandia, 2025
+WL 1479618, at *8.
+
+       The Plans offer a third interpretation of the opinion: the
+District Court meant that many physicians relied on the fraud—
+enough to infer every member of the class covered at least one
+prescription made in reliance. That would match the Plans’
+theory. But the Court did not say that.
+
+              b. The evidence of a common scheme, without
+                 more, did not warrant an inference of
+                 reliance in this case.
+
+       Next, we turn to the significance of the evidence of a
+common scheme to defraud. As the District Court noted,
+“courts may infer class-wide reliance when a plaintiff presents
+evidence of a common scheme to deceive.” Id. at *7 (citing In
+
+
+
+
+                               29
+re Cmty. Bank of N. Va. Mortg. Lending Pracs. Litig., 795 F.3d
+380, 408 (3d Cir. 2015)). But our cases do not support a broad,
+uniform rule that courts may infer class-wide reliance any time
+plaintiffs propose to prove the defendant committed fraud.
+True, we have endorsed the position that “where proof of the
+RICO violation is demonstrated through common evidence of
+a common scheme, reliance may be inferred on a classwide
+basis.” Cmty. Bank, 795 F.3d at 408. But as noted earlier, we
+also have warned, in a case where the proof of the violation
+came from common evidence of a common scheme, that
+“reliance is nearly always an individualized question.”
+Harnish, 833 F.3d at 309. So how should we distinguish cases
+where common evidence of a unified scheme justifies an
+inference of reliance from cases where it does not?
+
+       Several considerations distinguish this one. First, there
+is no fraud exception to the requirement of proving
+predominance. Decades ago, the Supreme Court observed that
+“[p]redominance is a test readily met in certain cases alleging
+consumer or securities fraud or violations of the antitrust
+laws.” Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 625
+(1997). But since then we have emphasized that “it does not
+follow that a court should relax its certification analysis, or
+presume a requirement for certification is met, merely because
+a plaintiff’s claims fall within one of those substantive
+categories.” Hydrogen Peroxide, 552 F.3d at 322. “‘[A]ctual,
+not presumed, conformance’ with the Rule 23 requirements
+remains necessary.” Id. (alteration in original) (quoting
+Newton, 259 F.3d at 167).
+
+       Second, aside from Harnish, the only two cases of ours
+the District Court relied on for this part of its decision come up
+short. One, In re Warfarin Sodium Antitrust Litig., 391 F.3d
+
+
+
+
+                               30
+516 (3d Cir. 2004), shows that evidence of a common scheme
+to defraud can establish predominance when the theory of
+causation does not turn on reliance at all. There, “individual
+reliance on the misrepresentations was irrelevant to liability.”
+Id. at 529. Here, however, the Plans’ theory of causation
+requires that physicians relied on GSK’s misrepresentations.
+
+        The other, Community Bank, the District Court
+described as governing cases where the plaintiffs allege the
+fraud concerned the only factor that mattered to the decision
+that resulted in their injuries, see Avandia, 2025 WL 1479618,
+at *8 n.56. The Second Circuit explained the point well:
+
+       In certain factual contexts, it may well be
+       reasonable to infer that each class member would
+       only have taken the action leading to its injury if
+       it had relied on the defendant’s alleged
+       misrepresentation. Such an inference may be
+       available if, for example, the class members all
+       faced “the same more-or-less one-dimensional
+       decisionmaking process,” such that the alleged
+       misrepresentation would have been “essentially
+       determinative” for each plaintiff.
+
+Sergeants Benevolent, 806 F.3d at 88 (quoting Richard A.
+Nagareda, Class Certification in the Age of Aggregate Proof,
+84 N.Y.U. L. Rev. 97, 121 (2009)). For example, when
+plaintiffs allege the defendant fraudulently overbilled them, a
+court may presume they paid too much in reliance on the
+defendant’s misrepresentation about the amount due because
+there is generally no other reason plaintiffs would pay more
+than they owed. Id. at 89 (citing In re U.S. Foodservice Inc.
+Pricing Litig., 729 F.3d 108, 120 (2d Cir. 2013), cert. denied,
+
+
+
+
+                               31
+572 U.S. 1087 (2014)); see also Klay v. Humana, Inc., 382 F.3d
+1241, 1259–60 (11th Cir. 2004), abrogated in part on other
+grounds by Bridge v. Phoenix Bond & Indem. Co., 553 U.S.
+639 (2008).
+
+       It is in this context we last declared that “where proof of
+the RICO violation is demonstrated through common evidence
+of a common scheme, reliance may be inferred on a classwide
+basis.” Cmty. Bank, 795 F.3d at 408. There, the plaintiffs
+asserted “class-wide evidence demonstrate[d] that [the
+defendant] performed no services in exchange for settlement
+charges.” Id. We held that “on this record and in this
+context”—where the plaintiffs had alleged the defendant
+charged them for services it falsely claimed to have provided—
+we “d[id] not believe that the District Court abused its
+discretion in accepting the Plaintiffs’ position” that their
+evidence of a class-wide scheme justified an inference they
+paid for those nonexistent services in reliance on the alleged
+misrepresentations. Id. When the decision is one-dimensional,
+reliance may be treated as one-dimensional.
+
+        Community Bank does not apply here because, as the
+District Court acknowledged, whether to prescribe Avandia
+was not a one-dimensional decision. The Court thought it could
+rely on it anyway because, “even though the decision to
+prescribe Avandia is not ‘one-dimensional,’ it is not so
+subjective that a provider’s reliance cannot be inferred.”
+Avandia, 2025 WL 1479618, at *8. The record does not justify
+that inference. The Court’s portrayal of prescribers’ decision-
+making process did not cite a single page of the several-
+thousand-page record. This speculation about how providers
+make decisions is not the “rigorous analysis” required for class
+
+
+
+
+                               32
+certification. See Hydrogen Peroxide, 552 F.3d at 309 (quoting
+Gen. Tel. Co., 457 U.S. at 161).
+
+        In this context, the Plans could not prove reliance with
+their evidence of GSK’s scheme alone. The law did not permit
+that inference.
+
+              c. The District Court did not adequately
+                 justify its finding that GSK’s marketing
+                 studies warranted an inference of reliance.
+
+       Last, we turn to the statistical evidence. To repeat, the
+District Court found the Plans could justify an inference of
+class-wide reliance because they had introduced “statistical or
+econometric models that show the allegedly unlawful
+promotion caused an increase in prescriptions.” Avandia, 2025
+WL 1479618, at *7, *9. That evidence is crucial because their
+theory of but-for causation is that they were injured because
+physicians “relied on [GSK’s] misrepresentation[s].” See
+Sergeants Benevolent, 806 F.3d at 87. In our view, the District
+Court did not provide the necessary analysis of this point to
+establish that the prerequisites of Rule 23 are met. See
+Hydrogen Peroxide, 552 F.3d at 309.
+
+       The Court stated that the Plans introduced internal GSK
+studies showing a few of its marketing campaigns caused an
+increase in prescriptions. Avandia, 2025 WL 1479618, at *9.
+On their own, they may not be evidence that GSK’s
+purportedly “unlawful promotion” caused an increase in
+prescriptions, id. at *7 (emphasis added), because they did not
+isolate the cardiovascular messaging from other messaging
+about Avandia as the cause of increased prescriptions.
+
+
+
+
+                              33
+        The Court, while acknowledging GSK raised this
+concern, defended its determination that the internal marketing
+research could establish “class-wide reliance” by citing cases
+holding that, in general, such an inference can be justified by
+statistical or aggregate evidence a RICO defendant’s fraud
+caused the plaintiffs’ injuries. See Avandia, 2025 WL 1479618,
+at *9. That is true. But it does not resolve GSK’s concern. If
+the GSK studies showed its allegedly fraudulent claims about
+Avandia’s cardiac effects caused an uptick in prescriptions,
+then the cases the District Court cited would provide a legal
+foundation for putting them to work here. But as far as we can
+tell from the expert reports describing the studies, they did not
+identify the distinctive consequences of GSK’s allegedly
+fraudulent marketing as opposed to its marketing generally.
+Even if they could show physicians relied on what GSK said
+about Avandia, they may not be able to show doctors were
+swayed by its alleged misrepresentations about its cardiac
+effects in particular. Similarly, even if the problem is that all of
+GSK’s marketing omitted the truth about Avandia’s cardiac
+profile, the data in the record may not explain how much of its
+efficacy arose from that omission.
+
+        If the District Court understood the actual scope of the
+studies but reasoned they sufficed to justify an inference of
+class-wide reliance, an error of law crept in: what the studies
+can prove is a legal matter, not a factual one. See Comcast
+Corp. v. Behrend, 569 U.S. 27, 36 n.5 (2013) (“[W]hile the
+data contained within a . . . model may well be ‘questions of
+fact’ in the relevant sense, what those data prove is no more a
+question of fact than what our opinions hold.”). Even by the
+lights of the cases the District Court cited, only a report that
+attempts to isolate the effects of the alleged fraud could warrant
+that inference. See In re Celexa & Lexapro Mktg. & Sales
+
+
+
+
+                                34
+Pracs. Litig., 915 F.3d 1, 13–14 (1st Cir. 2019) (discussing In
+re Celexa & Lexapro Mktg. & Sales Pracs. Litig., 315 F.R.D.
+116, 126–29 (D. Mass. 2016)); Sergeants Benevolent, 806 F.3d
+at 91–93; In re Neurontin Mktg. & Sales Pracs. Litig.
+(“Neurontin III”), 712 F.3d 60, 68 (1st Cir. 2013); cf. Comcast,
+569 U.S. at 32, 35 (holding a damages model must at least
+attempt to isolate the effects of each of the plaintiffs’
+independent theories of liability, at least where some have been
+rejected).
+
+       And if the District Court incorrectly understood what
+the data concerned, its factual error was a clear one. See Reyes,
+802 F.3d at 483. Nothing in the record indicated the studies
+isolated the effects of GSK’s fraudulent marketing from the
+effects of its marketing in general. And the Plans disavow
+using these studies for that purpose. Further, because these
+studies do not seem to speak to the issue at hand, combining
+them with the common evidence of GSK’s alleged scheme
+does not yield an adequate basis for the District Court’s
+decision either.
+
+   3. The Plans’ alternative basis for holding common
+      issues would predominate does not work either.
+
+       The Plans claim they can show reliance differently: by
+introducing statistical evidence of a correlation between the
+Nissen study’s exposure of the fraud and the subsequent
+decline in prescriptions, then using circumstantial evidence to
+show that the earlier exposure of the fraud would have led to
+the same decline—thus closing the gap between correlation
+
+
+
+
+                               35
+and causation.7 In their view, if the public had learned the truth
+about Avandia’s cardiovascular profile at the start of the class
+period in 2005, prescriptions would have declined in the same
+way they did after the Nissen study exposed that information
+in 2007.
+
+        We disagree. A few courts have permitted TPPs in
+similar RICO class actions to prove reliance with class-wide
+evidence when the evidence includes both statistical and
+circumstantial evidence of causation. But we are not aware that
+any court has permitted a putative class of TPPs to prove
+providers’ reliance by class-wide evidence without statistical
+evidence the defendant’s conduct caused the injuries. The
+Plans could have cleared the bar if they had introduced
+statistical evidence of causation, like a regression analysis.
+They tried. But the District Court struck that evidence after a
+Daubert hearing. Without it, the Plans have only statistical
+evidence of correlation and circumstantial evidence of
+causation. In this context, where their theory depends on
+establishing the fraud caused enough prescriptions to make it
+likely the fraud injured the entire class, that is not enough. TPP
+pharmaceutical fraud class action plaintiffs can prove
+causation by class-wide statistical evidence. But doing so takes
+more rigorous statistics than the Plans so far have presented.
+
+      Every circuit to address this question has held or
+suggested that statistical evidence of causation may prove a
+
+7
+  The Plans claim the District Court considered and endorsed
+this theory. Yet they do not—and cannot—point to a single
+page of the District Court’s class-certification opinion where it
+did. Instead, they cite only a couple of remarks it made during
+a prior hearing.
+
+
+
+
+                               36
+drug manufacturer’s fraud injured a class of TPPs. Begin with
+the First Circuit. In three related decisions, it held that multiple
+regression analysis suggesting a causal relationship between a
+drug maker’s illegal marketing and an increase in prescriptions
+can help prove the fraud injured a TPP. See In re Neurontin
+Mktg. & Sales Pracs. Litig. (“Neurontin I”), 712 F.3d 21, 29–
+30, 40, 46 (1st Cir. 2013); In re Neurontin Mktg. & Sales Pracs.
+Litig. (“Neurontin II”), 712 F.3d 51, 56–58 (1st Cir. 2013);
+Neurontin III, 712 F.3d at 68. These cases were RICO actions
+health insurers brought against Pfizer for illegally promoting
+its drug Neurontin for off-label use. Neurontin I, 712 F.3d at
+25–26; Neurontin II, 712 F.3d at 52–53; Neurontin III, 712
+F.3d at 61–62, 68–69. Across these cases, the but-for causation
+question was whether Pfizer’s unlawful marketing caused the
+insurers to reimburse more Neurontin prescriptions than they
+otherwise would have because physicians issued more
+prescriptions in reliance on the messaging. Neurontin I, 712
+F.3d at 25–26, 40–42; Neurontin II, 712 F.3d at 52–53, 57;
+Neurontin III, 712 F.3d at 61–62, 68.
+
+       The TPPs tried to answer that question by introducing
+class-wide statistical evidence and circumstantial evidence.
+Neurontin I, 712 F.3d at 42–45; Neurontin II, 712 F.3d at 56;
+Neurontin III, 712 F.3d at 63–64. The primary statistical
+evidence was the analysis of expert Dr. Rosenthal, who
+performed a regression analysis that “found a causal
+connection between the fraudulent marketing and the quantity
+of prescriptions written for off-label indications.” Neurontin I,
+712 F.3d at 29–30; see also Neurontin II, 712 F.3d at 56;
+Neurontin III, 712 F.3d at 63. Her analysis also identified “the
+percentage of prescriptions caused by Pfizer’s fraudulent off-
+label marketing.” Neurontin I, 712 F.3d at 30.
+
+
+
+
+                                37
+       In Neurontin I and Neurontin II, the First Circuit held
+this statistical evidence, combined with circumstantial
+evidence, sufficed to permit a jury to find Pfizer’s fraud caused
+the plaintiff insurers’ injuries. Neurontin I, 712 F.3d at 45–47;
+Neurontin II, 712 F.3d at 57–58. The Court observed that
+“regression analysis is a well recognized and scientifically
+valid approach to understanding statistical data.” Neurontin I,
+712 F.3d at 42. It also noted that courts permit plaintiffs to
+prove causation with regression analysis in multiple legal
+domains, including Title VII claims, Sixth Amendment claims
+about whether a jury pool reflects a reasonable cross-section of
+the community, and antitrust claims. Id. (citations omitted).
+The antitrust precedents were particularly significant because
+“RICO has drawn many of its causation principles” from
+antitrust law, though antitrust law generally does not require
+proof of reliance. Id. at 44. The Court further considered and
+set aside Pfizer’s contention that some individual doctors
+might have prescribed Neurontin for off-label uses without
+relying on the illicit marketing. Id. at 45. “The existence of
+some doctors who purportedly were not influenced by Pfizer’s
+misinformation would not defeat the inference that this
+misinformation had a significant influence on prescribing
+decisions which injured” the plaintiff insurers—and that
+inference was all the plaintiffs needed. Id. Finally, Dr.
+Rosenthal’s regression analysis proved causation, not just
+correlation, particularly when combined with the
+circumstantial evidence. Id. at 46.
+
+       Most relevantly, in Neurontin III the First Circuit
+vacated a denial of class certification on the same ground. 712
+F.3d at 62, 68, 70. Echoing the prior analysis, it held “that the
+Rosenthal report is capable of providing proof of but-for
+causation.” Id. at 68. “[R]egression analysis is a widely
+
+
+
+
+                               38
+accepted method of showing causation under several causes of
+action,” the Court explained, and it saw “no reason to reach a
+different conclusion for a specific subset of RICO claims based
+on fraudulent pharmaceutical marketing.” Id. at 69. Because
+the trial court’s denial of class certification “pivoted on the
+determination that the Rosenthal report could not provide proof
+of causation,” that denial could not stand. Id. at 70. Class-wide
+statistical evidence capable of distinguishing causation from
+correlation, such as a regression analysis, may prove common
+questions predominate on RICO but-for causation.
+
+        The First Circuit later reaffirmed that this reasoning
+applies to the predominance analysis of class certification. In
+another RICO class action brought by TPPs against a drug
+manufacturer, it explained that the plaintiffs’ “clinical and
+statistical evidence, if believed, could establish causation and
+injury at least for any TPP who paid for more than a handful of
+different patients’ prescriptions.” Celexa, 915 F.3d at 14. The
+Court emphasized that the record featured the testimony of two
+experts, who opined not only that the drug company’s
+promotional spending was correlated positively with sales, but
+also that its allegedly unlawful promotions caused 76 percent
+and 54 percent, respectively, of the off-label prescriptions for
+the relevant two drugs. Id. at 13. From these figures, one of the
+experts estimated that if a TPP covered as few as five
+prescriptions, there was a 98 percent chance at least one
+resulted from the illicit marketing. Id. The plaintiffs bolstered
+that statistical evidence with direct and circumstantial evidence
+the fraud caused their injuries, like evidence the
+pharmaceutical company’s sales representatives had called or
+visited physicians who subsequently issued the off-label
+prescriptions at issue. Id. In the First Circuit, then, a TPP in a
+pharmaceutical fraud RICO case may prove causation by class-
+
+
+
+
+                               39
+wide evidence where that evidence includes statistical analysis
+that isolates the effects of the fraud from other variables and
+shows it is likely the fraud injured each TPP.
+
+        A pair of Second Circuit decisions contemplated the
+same approach. The first, UFCW Local 1776 v. Eli Lilly & Co.
+(“Zyprexa”), 620 F.3d 121 (2d Cir. 2010), was a RICO class
+action brought by a putative class of TPPs against Eli Lilly and
+Company for misrepresenting the efficacy and side effects of
+Zyprexa. Id. at 123, 129. The TPPs advanced the now-familiar
+theory that Eli Lilly’s fraud increased the number of Zyprexa
+prescriptions doctors made, which in turn increased the number
+members of the putative class covered. Id. at 135. However, as
+the Court later explained in a separate case discussing Zyprexa,
+“[t]o prove that doctors had, in fact, relied on Lilly’s
+misrepresentations in making their prescription decisions, the
+[Zyprexa] plaintiffs primarily offered evidence that the number
+of Zyprexa prescriptions fell after the drug’s weight- and
+diabetes-related side effects were disclosed.” Sergeants
+Benevolent, 806 F.3d at 89–90. That evidence of a correlation
+between the exposure of the truth and a decline in prescriptions
+could not prove the fraud caused more pre-exposure
+prescriptions, the Court explained, because there were “any
+number[ ]of a multitude of reasons” a doctor might have
+prescribed Zyprexa. Id. at 90. “The fact that Zyprexa
+prescriptions declined markedly following the disclosure of the
+previously concealed information was not sufficient to support
+this necessary inference [of causation].” Id. “[B]ecause a
+reasonable jury would be unable to find RICO causation
+satisfied for each class member based on the generalized proof
+offered by the plaintiffs, common questions did not
+predominate, and class certification under Rule 23(b)(3) was
+therefore inappropriate.” Id.
+
+
+
+
+                              40
+        A few years later, the Second Circuit rejected a similar
+attempt to establish predominance on causation for the same
+reason, while clarifying what would suffice. In Sergeants
+Benevolent, 806 F.3d 71 (2d Cir. 2015), the plaintiffs “sought
+to certify a class of all [TPPs] that paid for Ketek prescriptions
+on the theory that such [TPPs] were injured as a result of
+paying for Ketek prescriptions that would not have been
+written if Aventis had not concealed Ketek’s safety risks.” Id.
+at 74. The Court acknowledged that “it may be possible for a
+class of plaintiffs to prove the causation element of a
+pharmaceutical fraud claim such as this one with generalized
+proof,” but it held the plaintiffs “failed to offer such proof”
+there. Id. at 74–75.
+
+        Like the Zyprexa plaintiffs, the Sergeants Benevolent
+plaintiffs tried to prove causation by presenting evidence
+prescriptions “dropped precipitously” after the truth was
+exposed. See id. at 91. And like the Zyprexa plaintiffs, they
+introduced the testimony of an expert—again, Dr. Rosenthal—
+that “this unprecedented drop must have been caused entirely
+by the disclosure of Ketek’s post-marketing safety data.” Id.
+However, as in Zyprexa, the expert testimony was not
+accompanied by statistical proof of causation, like a regression
+analysis; it instead assumed the causal link the plaintiffs
+needed to prove. Id. at 91–92, 95. “Plaintiffs [thus] made no
+attempt to control for [potential confounding variables], or to
+supply any other information that might render reasonable the
+inference that the drop in sales was actually attributable to the
+safety disclosures, as opposed to other factors.” Id. at 92.
+Because “mere correlation does not demonstrate causation,”
+evidence of “a simple correlation between the safety disclosure
+and the decline in prescriptions,” id., “is insufficient to prove
+
+
+
+
+                               41
+class-wide RICO causation on the theory that the defendant’s
+withholding of safety information caused doctors to write
+excess prescriptions,” id. at 95.
+
+       The Court then went out of its way to note “that it may
+be possible to demonstrate class-wide RICO causation in a case
+such as this one by adducing generalized proof from which a
+reasonable jury could conclude that only some prescriptions
+paid for by each class member were written based on the
+defendant’s alleged misrepresentations.” Id. at 94 (emphasis
+omitted). Even if the plaintiffs had advanced such a theory,
+evidence of correlation would have been insufficient to prove
+causation because it did not “isolate[] the relative causal effect
+of the numerous variables bearing on the decline in Ketek’s
+sales.” Id. at 95–96. The Court distinguished the evidence
+before it from Dr. Rosenthal’s regression analysis in
+Neurontin, which controlled for other variables. Id. at 96
+(citing Neurontin I, 712 F.3d at 30). Although Dr. Rosenthal
+was also an expert in Sergeants Benevolent, she had not
+performed a regression analysis. Id. at 95.
+
+       The Court pointedly concluded by observing
+“Neurontin does indicate that where individual physicians’
+reliance on a pharmaceutical company’s misrepresentations
+forms a necessary link in the causal chain between those
+misrepresentations and the plaintiffs’ injury, such reliance can
+be proved to a jury with sufficiently powerful aggregate
+evidence.” Id. at 97. In short, what the plaintiffs needed to add
+was a regression analysis or some other evidence “firmer than
+speculation” that prescriptions were written in reliance on the
+fraudulent marketing. Id. at 95.
+
+
+
+
+                               42
+        Last year, the Ninth Circuit joined this nascent
+consensus. Painters & Allied Trades Dist. Council 82 Health
+Care Fund v. Takeda Pharm. Co., No. 23-55742, 2025 WL
+1683472 (9th Cir. June 16, 2025). Certifying a class of TPPs in
+a RICO class action against a pharmaceutical company, a
+district court had held that “a statistical regression . . . can
+establish but-for causation for a civil RICO claim, especially
+when used in tandem with other circumstantial or direct
+evidence.” Painters & Allied Trades Dist. Council 82 Health
+Care Fund v. Takeda Pharm. Co., 674 F. Supp. 3d 799, 827
+(C.D. Cal. 2023). The Circuit Court affirmed, explaining that
+the expert report the TPPs submitted could prove causation
+because it “used regression models to show that the decline in
+prescriptions was caused by the failure to disclose,” even
+accounting for possible confounding variables. Painters, 2025
+WL 1683472, at *2 (footnote omitted). The upshot (again):
+TPPs can prove providers relied on a drug manufacturer’s
+misrepresentations by introducing statistical evidence of
+causation—like a regression model—supplemented by
+circumstantial evidence.
+
+       We too conclude that, in a RICO pharmaceutical fraud
+action, TPPs may use class-wide statistical evidence to prove
+physicians’ reliance, and hence but-for causation, so long as
+the evidence can distinguish correlation from causation. That
+evidence may take the form of a regression analysis or any
+comparably robust statistical method.8
+
+
+
+
+8
+  Whether other types of evidence could prove common
+questions would predominate on causation in this case is not
+before us.
+
+
+
+
+                              43
+       As a general matter, the Supreme Court and our Court
+have held plaintiffs may use statistical evidence to prove
+causation. See, e.g., Texas Dep’t of Housing and Cmty. Affairs
+v. Inclusive Cmtys. Project, 576 U.S. 519, 542–43 (2015);
+Watson v. Fort Worth Bank & Tr., 487 U.S. 977, 994 (1988);
+Bazemore v. Friday, 478 U.S. 385, 400–03 (1986) (Brennan,
+J., concurring in part); In re Linerboard Antitrust Litig., 305
+F.3d 145, 153–55 (3d Cir. 2002).
+
+        In this context, using statistical evidence to prove but-
+for causation would satisfy the Supreme Court’s general
+criteria for using such evidence in predominance analysis.
+Although the Court has declined to adopt “broad and
+categorical rules governing the use of representative and
+statistical evidence in class actions,” it has identified two
+criteria which, if jointly met, permit us to find common
+questions predominate. See Tyson, 577 U.S. at 454–60.
+
+        First, statistical evidence may be used to show
+predominance only if a reasonable jury could have relied on it
+to find each class member proved the element at issue in an
+individual action. Id. at 455. “[W]here representative evidence
+is relevant in proving a plaintiff’s individual claim, that
+evidence cannot be deemed improper merely because the claim
+is brought on behalf of a class.” Id. Tyson itself held the
+plaintiffs in a Fair Labor Standards Act collective action could
+use evidence of how long a representative sample of employees
+spent donning and doffing protective gear to prove how long
+each worker spent. Id. at 454, 456–59. That was because an
+individual worker could have deployed the same representative
+evidence to prove the same point in an individual action where
+his or her employer had failed to keep adequate records. See id.
+at 455–57. In this situation, “[r]ather than absolving the
+
+
+
+
+                               44
+employees from proving individual injury, the representative
+evidence . . . was a permissible means of making that very
+showing.” Id. at 457.
+
+        Second, statistical evidence can support class-wide
+liability when the defenses to it are also class-wide. Id. at 457.
+Tyson met that criterion because, in the absence of employer
+records of how long each employee worked, the “primary
+defense” available to the employer “was to show that [the]
+study was unrepresentative or inaccurate”—a defense
+“common to the claims made by all class members.” Id.
+
+        In a case like ours, statistical evidence of causation
+could meet both criteria. As the Neurontin Court recognized in
+its two non-class-action decisions, an individual TPP may use
+statistical evidence, combined with circumstantial evidence, to
+prove a pharmaceutical manufacturer’s fraud caused it to
+reimburse more prescriptions than it otherwise would have. See
+Neurontin I, 712 F.3d at 45–47; Neurontin II, 712 F.3d at 57–
+58. GSK cites no authority holding otherwise.
+
+       The “primary defense” against this common evidence
+would also apply class-wide. Tyson, 577 U.S. at 457. “[T]he
+question is whether [the drug maker’s] misrepresentations
+caused an injury to each [TPP], and because each [TPP] paid
+for numerous [drug] prescriptions, each would have been
+injured . . . so long as at least some of the prescriptions for
+which it paid were written in reliance on those
+misrepresentations.” Sergeants Benevolent, 806 F.3d at 94
+(emphasis omitted). Because it is enough for the TPPs to show
+“some prescriptions paid for by each class member were
+written based on the defendant’s alleged misrepresentations,”
+id. (emphasis in text), “[t]he existence of some doctors who
+
+
+
+
+                               45
+purportedly were not influenced by [the defendant’s]
+misinformation would not defeat the inference that this
+misinformation had a significant influence on prescribing
+decisions which injured [the plaintiff],” Neurontin I, 712 F.3d
+at 45. The theme: proving any particular doctor prescribed
+Avandia without relying on GSK’s misrepresentations would
+not disprove the Plans’ theory of the case. Their claim is true
+regardless whether any specific physician prescribed Avandia
+in reliance on GSK’s fraud, so long as enough doctors relied to
+justify the inference each class member covered at least one
+prescription that was made in reliance. That is the sort of claim
+statistical evidence is all about. As in Tyson, the defendant’s
+“primary defense [is] to show that [the] study was
+unrepresentative or inaccurate”—a defense “common to the
+claims made by all class members.” Tyson, 577 U.S. at 457.
+
+        All that said, not just any statistical evidence will do. As
+we have recognized, correlation does not imply causation. See
+City of Hoboken v. Chevron Corp., 45 F.4th 699, 709–10 (3d
+Cir. 2022); Linerboard, 305 F.3d at 153. We do not see how a
+reasonable jury could find that a drug maker’s fraud injured a
+TPP in an individual action with nothing more than evidence
+of a correlation between the exposure of the fraud and a decline
+in prescriptions market-wide. Evidence of mere correlation
+leaves causation speculative, particularly regarding
+quantitative questions like how much of the prescription
+volume the fraud caused or the probability that every member
+of the class covered at least one relevant prescription. The point
+is not that a jury might not believe the data. It is that there is a
+limit to what the data, if believed, can prove. See Comcast, 569
+U.S. at 36 n.5.
+
+
+
+
+                                46
+       Informed by the First, Second, and Ninth Circuits, we
+hold that TPPs in a pharmaceutical fraud RICO action may
+prove but-for causation with class-wide statistical evidence so
+long as that evidence is sufficiently rigorous to show causation,
+not just correlation. Statistical evidence has such rigor if, like
+a regression analysis, it can distinguish the causal significance
+of the variable at issue and justify the rejection of competing
+explanations.
+
+        We turn to the evidence in this case. It is much more
+like the evidence that fell short in Zyprexa and Sergeants
+Benevolent than the evidence that courts indicated would
+suffice in the Neurontin cases, Celexa, and Painters. The Plans
+have about the same circumstantial evidence the plaintiffs had
+in all those cases. But that evidence boils down to a graph
+showing Avandia prescriptions fell sharply after the Nissen
+study exposed the drug’s true cardiac profile. They have no
+regression analysis or expert testimony to distinguish causation
+from correlation by isolating other potential variables; the
+expert concluding that each TPP likely paid for Avandia in
+reliance on the fraud was offered only for damages. No
+appellate court has yet held TPPs established predominance on
+RICO but-for causation with as weak statistical evidence as the
+Plans so far put forward here. We will not be the first.
+
+       The Plans refer to four forms of statistical evidence of
+causation: GSK’s internal marketing studies, the Rosenthal
+report, the McGuire report, and the post-Nissen study drop in
+Avandia prescriptions. None alone holds up. As discussed in
+our review of the District Court’s analysis, GSK’s internal
+marketing studies cannot show its fraud caused the Plans’
+injuries because it appears they do not even purport to isolate
+the causal effects of its allegedly illicit marketing from those
+
+
+
+
+                               47
+of its marketing as a whole. The regression analysis the Plans
+commissioned from Dr. Rosenthal, which purported to show
+GSK’s fraudulent marketing caused TPPs to pay for Avandia
+prescriptions, was excluded after the Daubert hearing. The
+Plans have not appealed that ruling. Whatever the McGuire
+report may be able to prove, the Plans may not use it to prove
+causation in this appeal. They did not offer it to
+prove causation in the pre-trial proceedings, and the District
+Court expressly declined to consider the report for purposes of
+establishing reliance—and thus, causation—in its class-
+certification decision. Avandia, 2025 WL 1479618, at *9 n.64.
+
+       That leaves the post-Nissen study drop—the heart of the
+Plans’ alternative basis for affirmance. They introduced data
+showing that when the Nissen study came out in 2007, Avandia
+prescriptions sharply declined. Their aim was to use
+“Nissen’s publication in 2007 as a natural experiment to show
+exactly what would have happened to Avandia prescriptions
+had GSK published the same information in 2005.” Answering
+Br. 35 (emphasis in text). Just as Avandia prescriptions
+plummeted after the Nissen study revealed the drug’s true
+cardiac risks, they say, so prescriptions would have fallen had
+ICT-37 exposed the danger earlier.
+
+        The post-Nissen study drop data is the very sort of
+statistical evidence the Second Circuit found insufficient in
+Zyprexa and Sergeants Benevolent. Recall what that Court said
+about Zyprexa: “To prove that doctors had, in fact, relied on
+Lilly’s misrepresentations in making their prescription
+decisions, the [Zyprexa] plaintiffs primarily offered evidence
+that the number of Zyprexa prescriptions fell after the drug’s
+weight- and diabetes-related side effects were disclosed.”
+Sergeants Benevolent, 806 F.3d at 89–90 (emphasis added).
+
+
+
+
+                              48
+The Second Circuit described the Sergeants evidence in much
+the same way, reporting that the plaintiffs “present[ed]
+evidence showing that sales of Ketek dropped precipitously
+after the FDA’s public health advisory and Ketek’s label
+revisions in 2006,” and argued “this sequence of events
+illustrates that doctors must have prescribed Ketek in reliance
+on Aventis’s misrepresentations prior to the new safety
+disclosures, because they stopped prescribing Ketek upon
+learning of that new information.” Id. at 91 (emphasis in first
+quotation added; emphasis in second quotation in text). That is
+what the Plans have here—evidence that, after the publication
+of the Nissen study, Avandia prescriptions declined. In fact, the
+Plans have even less rigorous evidence than the plaintiffs who
+fell short in Sergeants. At least there the insurers had an
+expert’s testimony “that she had never seen anything like”
+Ketek’s post-disclosure decline. Id. Here, that is absent.
+
+        The Plans’ statistical evidence thus far is also weaker
+than that in Painters, Celexa, and the Neurontin cases. In
+Painters, the Ninth Circuit held the TPPs’ statistical evidence
+was sufficiently rigorous to prove causation class-wide
+because the expert’s regression analysis accounted for
+alternative explanations to explain prescription volume,
+enabling the Court to confirm the exposure of the fraud caused
+the ensuing decline. See Painters, 2025 WL 1683472, at *2–3.
+Similarly, in Celexa the First Circuit thought the TPPs’
+statistical evidence could support causation because two expert
+analyses quantified the portion of prescriptions attributable to
+the fraud and the odds that a given class member had
+reimbursed its insureds for one of those prescriptions. See
+Celexa, 915 F.3d at 13. And in the Neurontin cases the
+statistical evidence sufficed because the expert’s regression
+analysis isolated the causal significance of the fraud. See
+
+
+
+
+                               49
+Neurontin I, 712 F.3d at 30. Here the Plans lack the crucial
+evidence that can sift out causation from correlation. Indeed,
+the Neurontin and Sergeants Benevolent Courts were so
+dismissive toward bare correlation data like the Plans’ Nissen
+study drop evidence that they did not even characterize it as
+statistical evidence at all, but as circumstantial evidence (that
+is, facts that imply, rather than directly prove, a result). See
+Neurontin II, 712 F.3d at 57; Sergeants Benevolent, 806 F.3d
+at 92. We agree—by the standards of the First, Second, and
+Ninth Circuits, the Plans’ Nissen study drop data alone does
+not prove causation.
+
+       The Plans insist “[t]his case is largely indistinguishable
+from Neurontin, with the only distinction being that plaintiffs’
+‘aggregate evidence’ is the natural experiment of Nissen
+instead of a regression analysis.” Answering Br. 32. But that
+distinction makes all the difference. The problem is not with
+their natural experiment approach, but with their class-wide
+evidence. The Plans’ logic is straightforward: A caused C; B is
+relevantly similar to A; so if B had happened, then C would
+have happened. According to the Plans, the Nissen study
+caused a steep decline in Avandia prescriptions; the
+publication of ICT-37 would have exposed the drug’s cardiac
+effects in the same way Nissen’s report did; therefore, if ICT-
+37 had been published, Avandia prescriptions would have
+declined as much as they did after publishing the Nissen study.
+This argument is sound only if the first premise is true. And the
+bare fact that Avandia prescriptions fell after the Nissen study
+came out does not alone prove it is. A “natural experiment” is
+no substitute for a regression analysis (or comparably robust
+evidence of causation) because its first premise requires one to
+establish a causal link.
+
+
+
+
+                               50
+        The Plans cite cases where courts accepted natural
+experiments as evidence. However, in all of those cases, the
+first premise—that A either caused or did not cause C—was
+backed up by expert analysis, not presumed from a bare
+correlation. See In re Nat’l Collegiate Athletic Ass’n Athletic
+Grant-in-Aid Cap Antitrust Litig., 958 F.3d 1239, 1249–50
+(9th Cir. 2020); In re Flonase Antitrust Litig., 284 F.R.D. 207,
+220, 222–23 (E.D. Pa. 2012); In re Namenda Indirect
+Purchaser Antitrust Litig., 338 F.R.D. 527, 562–63 (S.D.N.Y.
+2021). If there were evidence the Nissen study caused the post-
+Nissen drop, then perhaps we could infer that the exposure of
+the same information a few years earlier would have caused a
+similar drop. But that argument cannot get off the ground
+without it.
+
+        The Plans also claim they have put forward the very
+case Sergeants contemplated. They have not. When the
+Sergeants Court said “reliance can be proved to a jury with
+sufficiently powerful aggregate evidence,” it was referring to
+evidence capable of distinguishing causation from correlation.
+See 806 F.3d at 96–97. While it entertained the possibility that
+a precipitous decline in prescriptions alone could justify an
+inference of reliance, it expressly cabined that to the
+“extraordinary case” of “a drug so dangerous that no physician
+would ever prescribe it to treat a non-fatal condition if that
+physician were aware of its true risks.” Id. at 92. Avandia is
+not that drug.
+
+
+
+
+                              51
+        Though but-for causation is generally provable by
+statistical evidence, the evidence the Plans have here is not yet
+sufficient.9
+                          *     *      *
+
+
+
+9
+  Our concurring colleague observes that one District Court in
+our Circuit granted class certification in a pharmaceutical case
+without a regression analysis. See In re Flonase Antitrust
+Litig., 284 F.R.D. 207, 221 (E.D. Pa. 2012). But Flonase
+differs in two important respects. First, it was not a RICO case.
+Id. at 210–11. That matters, because predominance turns on
+whether each element of the cause of action is provable by
+common evidence. See Neale, 794 F.3d at 371–72. And in this
+context the causation requirement of a RICO fraud claim
+requires establishing reliance on the defendant’s
+misrepresentations. See Sergeants Benevolent, 806 F.3d at 87.
+Because Flonase was not a RICO case, the plaintiffs were not
+required to prove reliance—the showing for which we seek a
+regression here. Second, predominance in Flonase turned on
+whether there was common evidence the defendant’s alleged
+conduct—delaying the entry of a generic—led the plaintiffs to
+pay higher prices. See Flonase, 284 F.R.D. at 221. As we have
+acknowledged before, a price-effect theory like that does not
+require proof of reliance, for its premise is that the defendant’s
+conduct caused the plaintiffs’ injuries by raising prices across
+the market, which the plaintiffs then paid in the ordinary
+course. See Harnish, 833 F.3d at 311–12. In sum, our opinion
+is consistent with Flonase because our holding concerns the
+sort of common evidence that can establish reliance in a RICO
+fraud action—a question Flonase did not pose, let alone
+answer.
+
+
+
+
+                               52
+       We summarize as follows: we may limit the scope of
+our review under Rule 23(f); the District Court soundly
+determined the class is ascertainable; and the Court has not
+resolved all class-certification disputes. Even if it had, the
+Plans have yet to satisfy the predominance requirement. The
+District Court understood the Plans as seeking an inference that
+every member of the class, or every doctor, relied on GSK’s
+fraud. We cannot treat GSK’s studies of the effects of its
+marketing campaigns in general as studies of the effects of its
+fraudulent marketing specifically. And the Court thought the
+law permits an inference of reliance under broader
+circumstances than it does.
+
+       The Plans’ alternative ground for affirmance cannot fix
+the problem. Their overarching theory is that the 2007
+publication of the Nissen study caused Avandia prescriptions
+to decline because it exposed the drug’s real cardiac profile, so
+a 2005 publication of similar facts by GSK would have caused
+a similar drop. The problem is that the Plans’ statistical
+evidence shows only that Nissen’s publication in 2007 was
+followed by a decline in prescriptions. That alone does not
+prove causation. The First and Ninth Circuits have held TPPs
+in a pharmaceutical fraud RICO action may prove common
+questions predominate on but-for causation with class-wide
+evidence where the statistical evidence speaks to actual
+causation rather than mere correlation. The Second Circuit has
+suggested it favors the same position. We agree with them. But
+as noted, the Plans have not met that requirement at this time.
+Without a regression analysis or other causation evidence, they
+currently do not have enough to get from correlation to
+causation.
+
+
+
+
+                               53
+       However, it may yet be possible for the Plans to clear
+the bar. They now claim the McGuire report can prove
+causation. Answering Br. 29; Oral Argument Tr., Dkt. No. 70,
+at 16-17. And the District Court reserved judgment on that
+question. Avandia, 2025 WL 1479618, at *9 n.64. Other
+evidence the Court may allow might prove relevant as well.
+
+       With this understanding of the governing law in our
+Circuit, we vacate the District Court’s certification of the class
+and remand for proceedings consistent with this opinion. Cf.
+Hydrogen Peroxide, 552 F.3d at 326–27; Hargrove, 974 F.3d
+at 481 n.8. On remand, the Court may reopen discovery on
+predominance under Federal Rule of Civil Procedure 16(b) if
+good cause is shown.
+
+
+
+
+                               54
+SHWARTZ, J., concurring in part and concurring in the
+judgment.
+
+        I agree with my colleagues that a motions panel has the
+authority to select the issues worthy of interlocutory review
+under Federal Rule of Civil Procedure 23(f) and that the
+proposed class is ascertainable, so I join those portions of the
+Majority’s opinion in full. As to the predominance issue,
+however, I join only Part III(C)(1), which explains that remand
+is required to allow the District Court to address specific issues.
+Therefore, I concur in the judgment.
+
+      I first address my reasons for joining Section III(C)(1)
+and then explain why I decline to join my colleagues’
+announcement that a regression analysis is almost always
+needed in a case like this.
+
+                                 I
+
+        In RICO putative class actions, we evaluate whether a
+district court fulfilled its obligation when considering
+predominance under Rule 23 by determining whether the court
+acted within its discretion in finding that the plaintiffs
+demonstrated, by a preponderance of the evidence, that their
+RICO claim is “capable of common proof at trial.” See In re
+Lamictal Direct Purchaser Antitrust Litig., 957 F.3d 184, 190-
+92 (3d Cir. 2020); In re Hydrogen Peroxide Antitrust Litig., 552
+F.3d 305, 325 (3d Cir. 2008), as amended (Jan. 16, 2009)
+(stating that the predominance inquiry asks whether the
+elements of the claim are “susceptible to proof at trial through
+available evidence common to the class”).
+
+
+
+
+                                1
+       Here, the Plans presented evidence that Avandia
+prescriptions plummeted after the 2007 Nissen study disclosed
+cardiovascular risks that had been known to GSK for about two
+years and were particularly consequential to diabetics,
+although an expert opined that GSK marketed Avandia as
+having cardiovascular benefits.
+
+        The Plans also told us that they will offer “GSK
+marketing analyses showing the impact of” the marketing that
+portrayed Avandia as having cardiovascular benefits. Appellee
+Br. at 28. Although those marketing analyses are not in the
+record on appeal, the District Court (1) apparently relied on
+them to conclude that the Plans had offered “statistical or
+econometric models that show the allegedly unlawful
+promotion caused an increase in prescriptions,” In re Avandia
+Mktg., Sales Pracs. & Prods. Liab. Litig., No. 07-MD-1871,
+2025 WL 1479618, at *7, *9 (E.D. Pa. May 22, 2025)
+(discussing arguments concerning GSK’s “own internal
+statistical analyses”), and (2) rejected GSK’s argument that
+those analyses did not isolate the fraudulent marketing as the
+cause of increased sales, id. at *9.
+
+        The District Court, however, did not explain how (1) the
+analyses isolated fraudulent marketing as a cause for the
+prescription increase, or (2) if they did not isolate such a cause,
+how the analyses still served as common evidence that
+fraudulent marketing caused prescription volume to increase.
+See id. Our precedent requires the Court to provide the reason
+for its conclusion. See Hydrogen Peroxide, 552 F.3d at 321.
+
+       Furthermore, the District Court seemed to conclude that
+the predominance requirement was met only because evidence
+of individual reliance by every prescribing doctor was not
+
+
+
+
+                                2
+required. See Avandia, 2025 WL 1479618, at *9. Although
+individualized evidence is not required, the District Court did
+not explain why this view shows that the Plans presented
+sufficient common evidence from which to decide whether
+GSK’s scheme caused the drop.
+
+       In short, the District Court must provide its view on the
+Plans’ theory that prescriptions would have dropped by the
+same amount they did after the Nissen study if GSK had
+disclosed what it knew years before and not fraudulently
+marketed Avandia. Although the District Court mentions
+GSK’s marketing materials and planning documents as
+evidence of GSK’s scheme to deceive, id. at *8, it does not
+explain how these materials lead to its conclusion.
+
+        For those reasons, I join the Majority to the extent it
+concludes that a remand is warranted to allow the District
+Court to address these matters and others the Majority
+identifies in Part III(C)(1).
+
+                               II
+
+        I also write separately to explain why I depart from my
+colleagues’ view that a regression analysis is almost always
+required to prove causation in a case like this. I view our
+responsibility at this phase to determine whether there is
+sufficient common evidence in the record from which a fact
+finder could make a finding on the elements of the cause of
+action.
+
+       Here, the record contains common evidence, including
+(1) the post-Nissen decline in prescriptions, (2) expert
+testimony that the risks disclosed by the Nissen Study were the
+
+
+
+
+                               3
+same ones GSK should have disclosed in 2005, (3) internal
+GSK documents acknowledging that the Nissen Study was
+consistent with GSK’s own conclusions reached in 2005, (4)
+evidence that diabetes patients were particularly vulnerable to
+cardiovascular disease, and (5) expert testimony that GSK
+marketed Avandia as having cardiovascular benefits. In
+addition, and notably, GSK has offered no explanation for the
+plummeting prescriptions after the Nissen study’s publication
+aside from the revelation of its fraud. See Oral Arg. Tr. at 44-
+46. Together, this may constitute sufficient common evidence
+upon which a jury could decide whether the Plans have proven
+that GSK’s actions caused their injury.            While it is
+circumstantial, it could support an inference that at least some
+Avandia prescriptions written before the drop were written in
+reliance on the fraudulent marketing, particularly in view of
+GSK’s failure to offer an alternative explanation for the drop.
+Through this proof, the Plans (subject to District Court’s
+consideration of the items described in Part I) may well have
+shown that causation is “susceptible to proof at trial through”
+common evidence. Hydrogen Peroxide, 552 F.3d at 318, 325.1
+
+        My colleagues essentially assert that a regression
+analysis is necessary to satisfy the predominance element and
+certify the class, but this seems to exceed the requirements for
+
+1
+  The District Court’s determination that the Plans have offered
+sufficient common evidence for causation at class certification
+does “not bind the fact-finder on the merits,” so a jury would
+still be free to find that the Plans have not met their burden if
+it is not convinced that this evidence shows that GSK’s fraud
+caused the Plans’ injuries. In re Hydrogen Peroxide Antitrust
+Litig., 552 F.3d 305, 318 (3d Cir. 2008), as amended (Jan. 16,
+2009).
+
+
+
+
+                               4
+class certification. Although I recognize that the evidence must
+ultimately prove causation and not correlation, that seems to be
+a different question from whether sufficient common evidence
+exists concerning a matter each class member, through the
+named plaintiffs, must prove, namely whether the Plans have
+adduced sufficient common evidence to support an inference
+of causation.
+
+         Although a regression analysis may be strong evidence
+of causation, and the Majority opinion cites many cases where
+the presence or absence of a regression analysis was
+dispositive, such proof is not required. Indeed, in In re Flonase
+Antitrust Litigation, no regression was offered to support the
+conclusion that purchasers who switched to a generic version
+of a drug would have switched earlier if the generic had been
+available earlier. 284 F.R.D. 207, 220-22 (E.D. Pa. 2012).
+There, circumstantial evidence, including the fact that those
+purchasers switched to the generic when it became available
+and an expert’s conclusion that the generic would have been
+cheaper than the brand-name if released earlier, provided
+common evidence from which a jury could reasonably
+conclude that those purchasers would have switched earlier,
+which was sufficient. Id.; see also In re Namenda Indirect
+Purchaser Antitrust Litig., 338 F.R.D. 527, 562-63 (S.D.N.Y.
+2021) (concluding that every TPP class member likely
+reimbursed someone who would have switched to a generic
+based on (1) expert evidence that people did not often file
+claims with one TPP, and (2) “massive switching from brand
+to generics following generic launch”). Although Flonase was
+not a RICO case and was based on a price-effect theory, it
+exemplifies the propriety of drawing an inference about
+causation from strong circumstantial evidence in the absence
+of statistical evidence directly supporting the inference.
+
+
+
+
+                               5
+       The strong common circumstantial evidence here may
+similarly provide a basis upon which a factfinder could decide
+whether GSK’s conduct caused the Plans’ injury, including
+expert reports that Nissen revealed the exact health risks,
+which were consequential to diabetic patients, that GSK
+concealed. Combined with the stark drop in prescriptions after
+the Nissen study revealed Avandia’s cardiovascular risks, for
+which GSK offers no alternative explanation, this evidence
+may well be sufficient for a jury to find that the fraudulent
+marketing caused the Plans to pay for some Avandia
+prescriptions that they otherwise would not have.
+
+       Because I nevertheless agree that the District Court
+should evaluate the items described here in Part I and the
+Majority’s opinion in Part III(C)(1), I concur in the judgment
+on the predominance issue.
+
+
+
+
+                              6
+

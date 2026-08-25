@@ -1,0 +1,854 @@
+                             RECOMMENDED FOR PUBLICATION
+                             Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                    File Name: 26a0174p.06
+
+                  UNITED STATES COURT OF APPEALS
+                                FOR THE SIXTH CIRCUIT
+
+
+                                                          ┐
+ ERIC S. SMITH,
+                                                          │
+                                          Petitioner,     │
+                                                           >        No. 24-3907
+        v.                                                │
+                                                          │
+ UNITED STATES     SECURITIES    AND      EXCHANGE        │
+ COMMISSION,                                              │
+                                        Respondent,       │
+                                                          │
+ FINANCIAL INDUSTRY REGULATORY AUTHORITY, INC.,           │
+                                    Intervenor.           │
+                                                          ┘
+
+                                   On Petition for Review
+                  of an Order of the Securities and Exchange Commission;
+                                        No. 3-20127.
+
+                                Argued: October 27, 2025
+
+                            Decided and Filed: June 16, 2026
+
+             Before: READLER, MURPHY, and BLOOMEKATZ, Circuit Judges.
+                                _________________
+
+                                         COUNSEL
+
+ARGUED: Russell G. Ryan, NEW CIVIL LIBERTIES ALLIANCE, Arlington, Virginia, for
+Petitioner. Courtney L. Dixon, UNITED STATES DEPARTMENT OF JUSTICE, Washington,
+D.C., for Respondent. Amir C. Tayrani, GIBSON, DUNN & CRUTCHER LLP, Washington,
+D.C., for Intervenor. ON BRIEF: Russell G. Ryan, NEW CIVIL LIBERTIES ALLIANCE,
+Arlington, Virginia, Robert Knuts, GUNGNIER LAW PLLC, Greenport, New York, for
+Petitioner. Courtney L. Dixon, Caroline W. Tan, UNITED STATES DEPARTMENT OF
+JUSTICE, Washington, D.C., Rachel M. McKenzie, Daniel Staroselsky, UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION, Washington, D.C., for Respondent. Amir C.
+Tayrani, GIBSON, DUNN & CRUTCHER LLP, Washington, D.C., for Intervenor.
+
+        READLER, J., delivered the opinion of the court in which MURPHY, J., concurred.
+MURPHY J. (pp. 18–24), delivered a separate concurring opinion. BLOOMEKATZ, J. (pp. 25–
+26), delivered a separate opinion concurring in the judgment.
+ No. 24-3907                              Smith v. SEC                                      Page 2
+
+
+                                    _____________________
+
+                                     AMENDED OPINION
+                                    _____________________
+
+       READLER, Circuit Judge. Legendary director Martin Scorsese’s highest grossing film,
+The Wolf of Wall Street, features the real-life trials and tribulations of Jordan Belfort, a hard-
+charging New York City stockbroker. After passing the Series 7 exam and qualifying to buy and
+sell securities, Belfort amasses enormous wealth as a broker, only to land in hot water with the
+Securities and Exchange Commission over his suspicious trading activity and other antics. See
+generally The Wolf of Wall Street, Netflix (Paramount Pictures 2013).
+
+       For understandable cinematic reasons, the movie glosses over some of the finer points of
+the securities industry’s regulatory structure, including who administers the Series 7 exam. That
+job currently belongs to the Financial Industry Regulatory Authority, better known simply as
+FINRA. Among other securities-related rules FINRA puts forth, one set of regulations requires
+an applicant interested in taking the Series 7 exam (or a variety of other qualifying securities
+industry exams) to first register with FINRA or be associated with a FINRA member firm.
+
+       Unlike Belfort, petitioner Eric Smith declined to register with the appropriate authorities.
+But like Belfort, he still ended up in the SEC’s crosshairs (albeit for entirely different reasons).
+Smith now seeks review of the SEC’s order upholding sanctions against him for violating a host
+of securities-related laws and administrative rules. He argues that FINRA lacked jurisdiction
+over him and that the proceedings before the SEC ran afoul of Article III and the Seventh
+Amendment. With respect to those latter issues, however, Smith failed to raise his constitutional
+arguments before the SEC, so we cannot reach them. And as to the threshold jurisdictional
+question, because FINRA had statutory jurisdiction over Smith despite his refusal to register, we
+deny his petition for review.
+
+                                                 I.
+
+       A. To understand this case, it is helpful first to consider the history and structure behind
+FINRA as well as its relationship with the securities industry. A security is “[a]n instrument that
+evidences the holder’s ownership rights in a firm (e.g., a stock), . . . creditor relationship with a
+ No. 24-3907                             Smith v. SEC                                     Page 3
+
+
+firm or government (e.g., a bond), or . . . other rights (e.g., an option).” Security, Black’s Law
+Dictionary (12th ed. 2024). For centuries, the Anglo-American tradition has relied at least in
+part on markets for the sale of securities. John I. Sanders, Break from Tradition: Questioning the
+Primacy of Self-Regulation in American Securities Law, 7 Mich. Bus. & Entrepreneurial L. Rev.
+93, 93 (2017).    Initially, these exchanges were deeply individualized affairs, with brokers
+meeting at designated coffee shops to trade securities. See id. at 93–94. Over time, however, the
+number of recorded stockholders increased drastically, making personal dealings infeasible. See
+Elisabeth Keller & Gregory A. Gehlmann, A Historical Introduction to the Securities Act of 1933
+and the Securities Exchange Act of 1934, 49 Ohio St. L.J. 329, 331 (1988). Those developments
+put investors at a distance from the entities in which they were investing, elevating the
+opportunities for fraud in the market stemming from information asymmetries, acts that could
+have devastating consequences if left unchecked. And in some instances, regrettably, those fears
+became realities, from scandals in the industry to panics in the markets.         See id. at 336
+(describing the cycle of stock market panics).       Those experiences led to reform efforts.
+Beginning with New York’s “Act to prevent the pernicious practice of stock jobbing, and for
+regulating sales at public auctions,” 1792 N.Y. Laws 368, rules for who and how one can
+participate in the securities industry have been a core feature of American securities markets.
+See Sanders, supra, at 94–95.
+
+       Many of the oversight efforts tied to the securities markets came by way of self-
+regulation.   The New York Stock Exchange, for instance, traces its roots back to a 1792
+agreement among private individuals to set rules governing the sale of stock among private
+brokers. See id.; see also A.C. Pritchard & Robert B. Thompson, A History of Securities Law in
+the Supreme Court 25–26 (2023) (detailing the NYSE’s resistance to government regulation).
+This practice of self-regulation among exchanges continued unimpeded at the federal level until
+1933, when Congress began regulating the securities industry. See Howard C. Westwood &
+Edward G. Howard, Self-Government in the Securities Business, 17 Law & Contemp. Probs.
+518, 519–20 (1952) (describing historical self-regulatory practices among exchanges); Keller &
+Gehlmann, supra, at 343, 346 (describing, among other initiatives, the introduction of
+registration statement requirements and the imposition of civil liability for untrue statements in
+the course of securities sales). Yet Congress’s foray into regulating the securities markets did
+ No. 24-3907                              Smith v. SEC                                     Page 4
+
+
+not spell the end of self-regulation by the exchanges. Spurred on by then–SEC Chair William O.
+Douglas, Congress soon adopted a self-regulatory organization (SRO) model for the exchanges.
+See Sanders, supra, at 111–13; see also Pritchard & Thompson, supra, at 46 (describing
+Douglas’s efforts). The SRO model required national securities associations to register with the
+SEC. 15 U.S.C. § 78o–3(a), (b); see also Pritchard & Thompson, supra, at 46 (explaining how
+this regulatory scheme was designed to work). Those associations, as SROs, would promulgate
+rules subject to SEC approval, id. § 78s(b), (c), and, in turn, enforce those rules alongside
+existing securities laws and regulations against their membership, id. § 78s(g).           As for
+individuals interested in selling securities, before they could do so lawfully, they had to choose
+one of two options: Either join an association or associate with a member of an association. Id.
+§ 78o(a)(1).
+
+       Only one national securities association has ever existed—the National Association of
+Securities Dealers. Formed in 1939, the Association would go on to serve as the lone self-
+regulatory body for nearly seven decades. In 2007, the NASD merged with the New York Stock
+Exchange’s internal regulatory body to create FINRA. Sanders, supra, at 113–14.
+
+       FINRA is a private, not-for-profit member organization formed under Delaware law.
+Mohlman v. FINRA, 977 F.3d 556, 557 (6th Cir. 2020). The government plays no role in
+funding FINRA or choosing its leadership. Instead, FINRA promulgates rules for its members
+and associated persons, which the SEC reviews and modifies as it sees fit. 15 U.S.C. § 78s(b),
+(c). FINRA also imposes discipline through its internal adjudicatory process for violations of its
+rules and federal securities law, again subject to SEC oversight. Id. § 78o-3(b)(2), (7), (8). This
+power to impose disciplinary sanctions, however, is distinct from the power to enforce those
+sanctions in federal court if a disciplined party does not voluntarily comply; while FINRA has
+the first power, it lacks the second. See Fiero v. FINRA, 660 F.3d 569, 571 (2d Cir. 2011).
+Thus, to enforce its sanctions, FINRA must once again rely on the SEC, which has the statutory
+power to go to federal court to bring FINRA discipline to bear. See 15 U.S.C. § 78u(d), (e); SEC
+v. Mohn, 465 F.3d 647, 654 (6th Cir. 2006).
+
+       B. With this regulatory backdrop in mind, consider the dispute at hand. In 1998, Smith
+founded Consulting Services Support Corporation (CSSC). As the company’s majority owner,
+ No. 24-3907                             Smith v. SEC                                    Page 5
+
+
+Smith served as its chairman and CEO. Included in CSSC’s corporate structure were several
+wholly owned subsidiaries that operated out of the company’s Michigan office, including CSSC
+Brokerage Services, Inc., a registered FINRA broker-dealer. (The parties refer to this subsidiary
+as “CSSC-BD” to signify its broker-dealer status.) Acknowledging CSSC-BD’s registration,
+Smith nonetheless maintained to FINRA that he was exempt from registering so long as he was
+not actively engaged in managing CSSC-BD’s securities business.
+
+       Whether that legal conclusion was true or not, its factual premise was wobbly at best.
+From 2010 to 2015, Smith played an increasingly hands-on role in the management of
+CSSC-BD. He directly managed three debt offerings during the period, instructing CSSC-BD
+representatives to sell bonds to customers based on offering documents he prepared. The last of
+these offerings contained a number of false or misleading statements about CSSC’s potential
+revenue opportunities and current financial situation. Smith also personally solicited investors,
+ultimately garnering $130,000 from four of them.
+
+       A routine FINRA examination of CSSC-BD and investor complaints eventually
+uncovered these activities. In response, FINRA’s Department of Enforcement filed a complaint
+against Smith alleging that he violated a host of statutory provisions as well as industry
+regulations, including § 10(b) of the Exchange Act, SEC Rule 10b–5, §§ 17(a)(2) and (3) of the
+Securities Act, FINRA Rules 2010 and 2020, and NASD Rules 1021(a) and 1031(a). Following
+a disciplinary proceeding, FINRA ruled against Smith on all counts.           FINRA’s ensuing
+sanctions order, however, was tied exclusively to Smith’s violations of the Exchange Act and
+Rule 10(b)–5. As punishment, FINRA ordered Smith to pay $130,000 in restitution (either to the
+victims of his fraud or, if they could not be located, to FINRA) and barred him from associating
+with any FINRA member. The SEC affirmed FINRA’s decision in an opinion that Smith now
+petitions this Court to review. See Eric S. Smith, Exchange Act Release No. 100762, 2024 WL
+3875989, at *1 (Aug. 19, 2024).
+
+                                               II.
+
+       The SEC’s findings of fact are “conclusive” on review “if supported by substantial
+evidence.” 15 U.S.C. § 78y(a)(4). “Substantial evidence,” in turn, “is that which a ‘reasonable
+ No. 24-3907                              Smith v. SEC                                     Page 6
+
+
+mind’ would find sufficient to support the factual finding.” Jones Bros., Inc. v. Sec’y of Lab., 68
+F.4th 289, 295 (6th Cir. 2023) (citing KenAmerican Res., Inc. v. U.S. Sec’y of Lab., 33 F.4th 884,
+891 (6th Cir. 2022)). As to questions of law, including issues of statutory and constitutional
+interpretation, we conduct de novo review. Louisville Gas & Elec. Co. v. FERC, 988 F.3d 841,
+846 (6th Cir. 2021) (citing MISO Transmission Owners v. FERC, 860 F.3d 837, 841 (6th Cir.
+2017); Cincinnati Gas & Elec. Co. v. FERC, 724 F.2d 550, 554 (6th Cir. 1984)).
+
+       Smith takes a targeted approach in his petition for review. He does not contest the fact
+that substantial evidence supports the SEC’s findings that he controlled a FINRA member firm.
+Nor does he quarrel with the SEC’s conclusion that his conduct violated the Exchange Act, Rule
+10(b)–5, and FINRA’s internal rules. Instead, Smith contends that the SEC erred as a matter of
+law in holding that FINRA had regulatory jurisdiction over him, and, further, that the SEC could
+deprive him of the opportunity to contest the allegations against him before a jury in an Article
+III court. (Smith also initially made a private nondelegation doctrine and Appointments Clause
+challenge. FINRA responded, however, that it acts “subordinately” to the SEC as an “aid,”
+which it understood to resolve these potential problems. See Sunshine Anthracite Coal Co. v.
+Adkins, 310 U.S. 381, 388, 399–400 (1940); Oklahoma v. United States, 163 F.4th 294, 306 (6th
+Cir. 2025).    Smith withdrew his nondelegation and appointments challenges based on this
+concession, so we need not resolve them.) We thus turn to Smith’s remaining challenges to the
+SEC’s determination.
+
+                                               III.
+
+       Start with Smith’s statutory argument. Smith, recall, never registered with FINRA. It
+follows, he says, that FINRA—a private, self-regulatory organization—cannot discipline him.
+On Smith’s view, he is a member of the public being prosecuted by a non-governmental
+organization for violating the law, an atypical practice in our American regulatory scheme. See
+Oklahoma, 163 F.4th at 314 (acknowledging that allowing private organizations to enforce
+federal regulatory schemes “appears to cut against the grain”); United States v. Ackerman, 831
+F.3d 1292, 1296 (10th Cir. 2016) (Gorsuch, J.) (“[W]hen an actor is endowed with law
+enforcement powers beyond those enjoyed by private citizens” the actor is typically “a
+governmental entity.” (citation modified)).
+ No. 24-3907                               Smith v. SEC                                    Page 7
+
+
+       FINRA’s statutory jurisdiction, however, is not so narrowly cabined. As to the threshold
+question regarding FINRA’s power to regulate, Congress has empowered national securities
+associations like FINRA to “provide that . . . its members and persons associated with its
+members shall be appropriately disciplined for violation” of securities laws and regulations.
+15 U.S.C. § 78o–3(b)(7); see also id. § 78o–3(h)(1) (setting forth the requirements to discipline a
+“member or person associated with a member”); id. § 78s(g)(1)(B) (requiring registered
+securities associations to enforce compliance with securities law by “its members and persons
+associated with its members”). And as to FINRA’s authority over Smith, we note that FINRA
+has disciplinary power over both members and “persons associated with its members.” Id.
+§ 78o–3(b)(7). So even if Smith never became a FINRA member, he still falls under FINRA’s
+enforcement jurisdiction if he is associated with a member.
+
+       All of this raises the question: Was Smith associated with a FINRA member? Helpfully,
+Congress defined for us the phrase “person associated with a member.” See id. § 78c(a)(21).
+Included within that definition is “any person directly or indirectly controlling . . . such
+member.” Id. As a result, if Smith controlled a FINRA member, he falls within the association’s
+enforcement ambit. And on that issue, the SEC found that he did exercise such control. As the
+SEC explained, Smith was the chairman, CEO, and majority owner of CSSC, which wholly
+owned CSSC-BD, a FINRA member. He personally solicited investments in CSSC and directed
+CSSC-BD’s registered representatives to do the same. And he was responsible for the recruiting,
+hiring, and firing of CSSC-BD personnel, whose commissions he also personally determined.
+On this record, Smith’s argument that FINRA lacks authority to discipline him runs counter to a
+straightforward reading of the relevant statutory text.
+
+       Smith does not offer a contrary reading of the statute. Instead, he takes issue with the
+notion of a private organization enforcing the law against one who did not consent to its
+jurisdiction. But whether a private organization may be afforded such governmental power is
+primarily a quibble with Congress, which has delineated the scope of FINRA’s enforcement
+jurisdiction. To be sure, Congress’s decision to assign this enforcement authority to a private
+entity theoretically might raise private nondelegation problems, as Judge Walker has previously
+explained. See Alpine Sec. Corp. v. FINRA, 121 F.4th 1314, 1343–45 (D.C. Cir. 2024) (Walker,
+ No. 24-3907                               Smith v. SEC                                      Page 8
+
+
+J., concurring in the judgment in part and dissenting in part) (“[B]ecause [FINRA] enforces
+federal law and rules that carry the force of law . . . without any initial approval from its
+supposed supervisor, the SEC[,] . . . [FINRA] transgresses the private nondelegation doctrine.”
+(citation modified)). But see Oklahoma, 163 F.4th at 307 (collecting cases approving of the
+SEC’s SRO model). For today’s purposes, it is enough to note that Smith no longer presses his
+nondelegation challenge because he now agrees that FINRA is simply an adjunct to the SEC, a
+governmental entity.     That leaves only his statutory argument, which is foreclosed by the
+statute’s text.
+
+                                                 IV.
+
+         Next up is Smith’s constitutional argument. He contends he had a right under the
+Seventh Amendment to a jury trial before an Article III judge based on the logic of SEC v.
+Jarkesy, 144 S. Ct. 2117 (2024), meaning he could not be sanctioned in a proceeding before the
+SEC without his consent to the forum. But we may not reach the merits of this argument. As
+Smith never raised this issue before the SEC, we are statutorily barred from resolving the issue.
+See 15 U.S.C. § 78y(c)(1).
+
+         A. We begin with a threshold skirmish between the parties over an asserted double
+omission of sorts on Smith’s part, namely whether on appeal Smith should be faulted for not
+properly addressing his purported failure to exhaust his constitutional claim before the SEC. In
+his opening brief, Smith mentioned in a footnote that he did not raise with the SEC his
+constitutional challenge to the agency proceeding, and committed to addressing the exhaustion
+issue more fully should the SEC press the matter in its appellate brief. The SEC, in turn, did so.
+In its brief, the agency claimed that Smith had waived the right to defend his failure to exhaust
+during his administrative proceeding by foregoing a more full-throated argument in his opening
+brief.
+
+         As a general rule, “a party does not preserve an argument by saying in its opening brief
+(whether through a footnote or not) that it may raise the issue later, for example, in a reply brief.”
+United States v. Huntington Nat’l Bank, 574 F.3d 329, 331 (6th Cir. 2009) (citation modified).
+That said, exhaustion requirements—like 15 U.S.C. § 78y(c)(1)—are usually affirmative
+ No. 24-3907                              Smith v. SEC                                      Page 9
+
+
+defenses, meaning that if the agency does not raise the issue, a court may proceed to consider a
+claim regardless of whether it was raised before the agency. See K & R Contractors, LLC v.
+Keene, 86 F.4th 135, 145 (4th Cir. 2023). For that reason, a party is not required to anticipate
+affirmative defenses in its opening brief; so long as it responds to those defenses in its reply
+brief, it preserves its arguments on the issue. See Overton v. Macauley, 822 F. App’x 341, 345
+(6th Cir. 2020).    Smith did so here, so we therefore turn to the merits of his exhaustion
+arguments.
+
+       B. To preserve an issue for review before the courts of appeals, a party must first exhaust
+it before the SEC. That much is clear from 15 U.S.C. § 78y(c)(1), which instructs that “[n]o
+objection to an order or rule of the Commission, for which review is sought under this section,
+may be considered by the court unless it was urged before the Commission or there was
+reasonable ground for failure to do so.” As this exhaustion requirement is statutory in nature, see
+Island Creek Coal Co. v. Bryan, 937 F.3d 738, 746 (6th Cir. 2019), we may not excuse a
+petitioner’s failure to exhaust unless the petitioner qualifies for an exception set out by statute,
+see Singh v. Rosen, 984 F.3d 1142, 1155–56 (6th Cir. 2021) (quoting Ross v. Blake, 578 U.S.
+632, 639 (2016)).
+
+       Smith concedes that he failed to raise his constitutional challenges before the SEC. So he
+is left to explain why “there was reasonable ground for [his] failure to do so.” 15 U.S.C.
+§ 78y(c)(1). He offers three justifications. One, the SEC lacked the competence to adjudicate
+his constitutional arguments. Two, Jarkesy represents an intervening change in law that excuses
+his forfeiture of the issue. And three, it would have been futile to raise the issue before the SEC.
+
+       1. Smith begins by claiming that the SEC was incompetent to adjudicate his structural
+constitutional argument. The SEC’s history with these sorts of claims belies that assertion. The
+agency, we note, has repeatedly adjudicated the merits of Seventh Amendment challenges. See,
+e.g., John Thomas Cap. Mgmt. Grp. LLC, Securities Act Release No. 10834, Exchange Act
+Release No. 89775, Investment Company Act Release No. 34003, 2020 WL 5291417, at *27
+(Sep. 4, 2020), vacated on the merits, Jarkesy v. SEC, 34 F.4th 446 (5th Cir. 2022); Charles L.
+Hill, Jr., Exchange Act Release No. 79459, 2016 WL 7032731, at *3 (Dec. 2, 2016). The same
+is true for other constitutional challenges. See, e.g., Newport Coast Sec., Inc., Exchange Act
+ No. 24-3907                               Smith v. SEC                                     Page 10
+
+
+Release No. 88548, 2020 WL 1659292, at *17–18 (Apr. 3, 2020) (Appointments Clause
+challenge); John Thomas Cap., 2020 WL 5291417, at *25–28 (separation of powers,
+Appointments Clause, Equal Protection Clause, and Due Process Clause challenges). By all
+accounts, in other words, the SEC addresses constitutional arguments regarding its structure with
+some frequency. We see no reason it could not have tackled Smith’s constitutional challenge as
+well.
+
+        Seeing things differently, Smith points to cases that he says suggest that the SEC is
+unable to adjudicate the validity of its own adjudicatory structure. See Axon Enters., Inc. v. FTC,
+143 S. Ct. 890, 905 (2023); Free Enter. Fund v. PCAOB, 561 U.S. 477, 491 (2010). But fairly
+read, those decisions address a different point, namely, whether a plaintiff may go to district
+court before an agency’s adjudication is complete. Axon, 143 S. Ct. at 897, 906; Free Enter.
+Fund, 561 U.S. at 489. Regardless of whether Smith had a strong argument that he could go to
+federal court during his FINRA and SEC proceedings to challenge the agencies’ adjudicatory
+structures, he did not do so. And “[w]hen litigants choose to use a statutory review mechanism”
+instead of going to district court, “they must still meet [the exhaustion requirement’s] strictures.”
+Heating, Air Conditioning & Refrigeration Distribs. Int’l v. EPA, 71 F.4th 59, 65 n.2 (D.C. Cir.
+2023). That describes Smith’s circumstances. He opted to litigate his case before the SEC
+without notifying the agency that he believed he was entitled to a jury trial in an Article III court.
+Having done so, he cannot now complain on petition from the agency’s decision about the
+competence of those administrative tribunals.
+
+        Our decision in Calcutt v. FDIC does not change things. 37 F.4th 293 (6th Cir. 2022),
+rev’d summarily, 143 S. Ct. 1317 (2023) (per curiam). Even if Calcutt’s analysis on exhaustion
+remains viable following the Supreme Court’s summary reversal of that decision on a different
+basis, it still does not help Smith. Cf. Bryan Garner et al., The Law of Judicial Precedent 123–24
+(2016) (explaining that under a “strict” view of precedent an opinion’s holding that affirms with
+respect to one issue is no longer binding if the opinion reverses with respect to another issue
+sufficient to resolve the case, but under a “loose” view of precedent the affirmance on the
+alternative issue remains binding because it reflects reasoned decisionmaking). There, we held
+that Calcutt had not forfeited his Appointments Clause challenge to the FDIC’s board structure
+ No. 24-3907                                 Smith v. SEC                                Page 11
+
+
+because no statute required exhaustion, and because the FDIC had no power to consider
+Calcutt’s facial constitutional challenge. See Calcutt, 37 F.4th at 312–13. That situation is far
+afield from the one presented here.          All agree that § 78y(c)(1) is a statutory exhaustion
+requirement. And Smith’s challenge is an as-applied one. Accordingly, Calcutt is a poor guide
+for today’s dispute.
+
+       All told, the SEC’s competency is not a fair ground for excusing Smith’s failure to raise
+his Seventh Amendment argument.
+
+       2. Next, Smith argues that Jarkesy represented an intervening change in law that excused
+his failure to raise the issue before the SEC. As applied to this administrative setting, the
+doctrine invoked by Smith “generally serves to excuse a failure to exhaust when an issue was not
+available to the party” during an earlier administrative proceeding. Joseph Forrester Trucking v.
+Dir., Off. of Workers’ Comp. Programs, 987 F.3d 581, 592 (6th Cir. 2021) (citing Hormel v.
+Helvering, 312 U.S. 552, 558–59 (1941)).           According to Smith, his Seventh Amendment
+argument did not become viable until Jarkesy announced a change in Supreme Court
+jurisprudence, meaning the argument was not one he could have raised before the SEC.
+
+       Smith’s attempt to excuse his forfeiture, however, has multiple flaws. First and foremost,
+Jarkesy does not represent an intervening change in law. There, the Supreme Court explained
+that its prior decision in Granfinanciera, S.A. v. Nordberg, 492 U.S. 33 (1989), controlled the
+outcome. See Jarkesy, 144 S. Ct. at 2135. Where a prior case effectively dictates a subsequent
+outcome, there is no intervening change in law.             See Joseph Forrester, 987 F.3d at 592.
+Consider Joseph Forrester, for example, where we held that Lucia v. SEC, 585 U.S. 237 (2018),
+was not an intervening change in law in the Appointments Clause context because Lucia
+emphasized that “the Supreme Court [in Freytag] had already said ‘everything necessary to
+decide th[at] case,’” Joseph Forrester, 987 F.3d at 592 (quoting Lucia, 585 U.S. at 247). So too
+in Jarkesy. 144 S. Ct. at 2135 (“Granfinanciera effectively decides this case.”). In the end,
+Jarkesy was an application of the traditional Article III and Seventh Amendment analysis, not a
+departure from it. That leaves Smith without an intervening change in law that would excuse his
+failure to raise the issue before the SEC.
+ No. 24-3907                                 Smith v. SEC                                Page 12
+
+
+       Even if Jarkesy was an intervening departure from precedent, the fact remains that the
+Supreme Court handed down that decision before the SEC decided Smith’s case, yet Smith failed
+to bring the decision to the Commission’s attention. Instructive again is Joseph Forrester.
+There, we rejected an intervening change of law excuse when the petitioners “failed to raise that
+development with the respective ALJs in the wake of” the alleged intervening change. Joseph
+Forrester, 987 F.3d at 592. So too here. Smith opted not to raise Jarkesy with the SEC even
+though his case was still pending before the Commission when Jarkesy was decided.
+Understood that way, Jarkesy is not so much an intervening change in law as it is law that Smith
+neglected to bring to the SEC’s attention.
+
+       Smith seeks to justify this seeming oversight by claiming that there is no mechanism for
+informing the SEC of a new decision once briefing on a matter has closed. That is incorrect.
+Smith could have asked to file a supplemental brief before the matter was resolved. See 17
+C.F.R. § 201.421(b) (procedure for supplemental briefing). Or he could have filed a motion for
+reconsideration after the SEC’s final order, which did not address Jarkesy. See id. § 201.470(b)
+(procedure for reconsideration). Confirming as much, the SEC has in other cases granted
+motions seeking supplemental briefing on Jarkesy’s effect on FINRA adjudications when a party
+asked the SEC for permission to do so. See, e.g., Ricky Alan Mantei, Exchange Act Release No.
+101385, 2024 WL 4527340, at *1 (Oct. 18, 2024).
+
+       In short, we cannot excuse Smith’s forfeiture of his Seventh Amendment argument
+because of an intervening change in law.
+
+       3. Lastly, Smith claims that raising the Seventh Amendment issue to the SEC would
+have been futile because the SEC had repeatedly rejected similar claims. To be sure, futility can
+be a valid justification for failing to exhaust constitutional arguments. See Carr v. Saul, 141 S.
+Ct. 1352, 1361 (2021) (citing Bethesda Hosp. Ass’n v. Bowen, 485 U.S. 399, 405–06 (1988);
+Mont. Nat’l Bank of Billings v. Yellowstone County, 276 U.S. 499, 505 (1928)). But the futility
+exception the Supreme Court recognizes targets cases in which the “adjudicators . . . are
+powerless to grant the relief requested.” Id. Our precedents are to the same end. We view the
+crucial inquiry as whether the agency can provide the relief requested if the argument succeeds,
+not whether it is likely to succeed. See Jones Bros., Inc. v. Sec’y of Lab., 898 F.3d 669, 674 (6th
+ No. 24-3907                              Smith v. SEC                                    Page 13
+
+
+Cir. 2018) (citing McCarthy v. Madigan, 503 U.S. 140, 147–48 (1992)); Island Creek, 937 F.3d
+at 752–53; Joseph Forrester, 987 F.3d at 591 (citing Peabody Coal Co. v. Greer, 62 F.3d 801,
+806 (6th Cir. 1995)). This rule is designed to afford the agency the opportunity to reconsider its
+position in the first instance, and to promote efficient litigation. See Jones Bros., 898 F.3d at
+673.
+
+        Smith misunderstands the futility excuse. He treats it as a preordained result rule: It
+would be futile to raise his constitutional challenge because everyone knows how the SEC would
+answer the issue. In so doing, Smith confuses results for remedies. The futility excuse, it bears
+explaining, concerns whether the agency can offer an appropriate remedy even if past agency
+decisions foreclose a successful result before the agency. A party like Smith, it follows, is not
+excused from making an argument before an agency simply because the argument is destined to
+lose.
+
+        Properly framed, for Smith to prevail on his futility argument, he must show that the SEC
+did not have the power to remedy the purported Seventh Amendment violation he asserts. He
+fails to do so. Putting aside the fact that we have traditionally cabined our futility jurisprudence
+to facial challenges, see id. at 674–75, it remains the case that the SEC could have provided
+Smith a remedy. Namely, the SEC was empowered to vacate the sanctions stemming from
+FINRA’s adjudicative process, had the agency been persuaded to do so. The SEC would then
+have had the choice to bring proceedings against Smith in federal court where he could request a
+jury. See 15 U.S.C. § 78u(d). Because the SEC could simply vacate the FINRA sanctions as an
+appropriate remedy, raising the Seventh Amendment argument before the SEC would not have
+been futile.
+
+                                         *       *       *
+
+        To sum up, Smith cannot demonstrate a “reasonable ground” for his failure to exhaust his
+constitutional arguments at the agency level.        15 U.S.C. § 78y(c)(1).     The SEC has the
+competence to adjudicate Smith’s Article III and Seventh Amendment argument.               Further,
+Smith’s argument is not premised on a departure from existing law, so Jarkesy (which he never
+raised to the SEC) is not a reason to excuse his forfeiture. And the SEC could have offered him
+ No. 24-3907                              Smith v. SEC                                   Page 14
+
+
+a remedy for a violation of these constitutional rights by pursuing enforcement efforts in federal
+court rather than in an administrative setting, defeating Smith’s futility theory. That leaves us
+statutorily barred from reaching Smith’s constitutional arguments.
+
+       C. All that said, had Smith raised his constitutional challenge before the SEC, he may
+well have been entitled to a jury trial in federal court. We employ a two-part test for determining
+when a defendant is due an Article III jury trial. Jarkesy, 144 S. Ct. at 2127. First, we ask
+whether the “action implicates the Seventh Amendment.” Id. If so, then second, we determine
+whether the “public rights” doctrine applies, thereby exempting the case from Article III. Id.
+Within step one, there is a further two-part test for identifying whether the Seventh Amendment
+attaches. Tull v. United States, 481 U.S. 412, 417–18 (1987). To begin, we compare the action
+at issue to “18th-century actions brought in the courts of England prior to the merger of the
+courts of law and equity.” Id. at 417 (citing Pernell v. Southall Realty, 416 U.S. 363, 378
+(1974); Dairy Queen, Inc. v. Wood, 369 U.S. 469, 477 (1962)). Then, we determine whether the
+remedy sought is legal or equitable. Id. at 417–18 (citing Curtis v. Loether, 415 U.S. 189, 196
+(1974); Ross v. Bernhard, 396 U.S. 531, 542 (1970)).
+
+       With respect to the two-part test just described, we note that Smith, FINRA, and the SEC
+now all agree that FINRA merely acts as an aid to the SEC’s ultimate adjudication. That makes
+the SEC the relevant adjudicatory body for applying the two-step framework. And for that
+reason, this case presents the same ultimate problem as did Jarkesy: The SEC is imposing
+sanctions against Smith (albeit on the recommendation of FINRA) without a jury trial before an
+Article III judge. See Jarkesy, 144 S. Ct. at 2126–27.
+
+       Against this backdrop, the analysis seemingly would be straightforward. With respect to
+the initial inquiry under step one—comparing the SEC’s action at issue here to actions in English
+courts that predate “the merger of the courts of law and equity”—it is difficult to ignore the
+similarities between Jarkesy and today’s case. Tull, 481 U.S. at 417 (citing Pernell, 416 U.S. at
+378; Dairy Queen, 369 U.S. at 477). As in Jarkesy, the statutes, regulations, and rules that
+FINRA and the SEC sought to enforce are analogous to common law fraud. In fact, it bears
+noting that the SEC enforced § 10(b) of the Exchange Act and Rule 10(b)–5 against both Smith
+and Jarkesy. Both target “misrepresenting or concealing material facts,” giving the regulatory
+ No. 24-3907                              Smith v. SEC                                    Page 15
+
+
+framework here “an enduring link” with “its common law ‘ancestor.’” Jarkesy, 144 S. Ct. at
+2130 (quoting Foster v. Wilson, 504 F.3d 1046, 1050 (9th Cir. 2007)). So Jarkesy’s conclusion
+that these are legal actions that date back to the common law is directly controlling. See id.
+
+       Further, as to the related inquiry—whether the remedy sought by the agency is legal or
+equitable—all indicators similarly point in favor of the Seventh Amendment’s applicability to
+Smith’s case. Smith has a strong argument that the restitution order the SEC imposed against
+him was a legal, not equitable, sanction. Although restitution is frequently “characterize[d] as a
+form of equitable relief,” Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204, 212
+(2002), it has “existed remedially as legal, equitable, and sometimes both,” Caprice L. Roberts,
+The Restitution Revival and the Ghosts of Equity, 68 Wash. & Lee L. Rev. 1027, 1043 (2011).
+“[F]or restitution to lie in equity, the action generally must seek not to impose personal liability
+on the defendant, but to restore to the plaintiff particular funds or property in the defendant’s
+possession.” Great-West, 534 U.S. at 214; see also Emily Sherwin & Samuel L. Bray, Ames,
+Chafee, and Re on Remedies 759–60 (2d ed. 2018) (discussing the difference between legal and
+equitable restitution). When a victim cannot point to title to particular property but can show
+grounds for recovering some money, he has a legal remedy. Great-West, 534 U.S. at 213. By
+contrast, when money can be traced to particular funds in the defendant’s possession, restitution
+is an equitable remedy (usually in the form of a constructive trust). Id.; see also Sherwin &
+Bray, supra, at 760.
+
+       Here, FINRA’s factual findings suggest that the money was quickly shuffled into the
+flow of CSSC-BD’s income to keep the firm afloat. As FINRA imposed joint and several
+liability on Smith and CSSC-BD for the restitution, that action suggests that FINRA and the SEC
+could not trace where the investors’ money ultimately ended up. Thus, it appears FINRA and the
+SEC are attempting to impose personal liability. As such, the SEC’s restitution order recognizes
+the investors’ right to recover—but not from a specific source—making it a legal remedy.
+Great-West, 534 U.S. at 213. Reinforcing this conclusion is FINRA’s willingness to accept
+payment. Although the restitution order here was tied to the amount Smith defrauded from
+investors, which does not go to “the culpability of the defendant and the need for deterrence,”
+Jarkesy, 144 S. Ct. at 2130, the order requires Smith to pay FINRA if he cannot locate a victim.
+ No. 24-3907                              Smith v. SEC                                     Page 16
+
+
+Paying money to FINRA seemingly “does not ‘restore the status quo’ and,” as a result, “can
+make no pretense of being equitable.” Id. (quoting Tull, 481 U.S. at 422). Smith, it follows, has
+a firm basis for arguing that the remedy sought is legal in nature.
+
+        Moving on to the second step of the jury trial right analysis—whether the public rights
+exception applies—Smith continues to enjoy what would have been a strong claim. Return once
+more to Jarkesy. There, the Supreme Court held that the public rights doctrine did not apply to
+the SEC’s enforcement of securities law when dealing with many of the same anti-fraud
+provisions enforced against Smith. See id. at 2136. And it is not difficult to see why. After all,
+at bottom, a statutory cause of action rooted in common law fraud that allows for legal remedies
+is a private right. Id. (quoting Granfinanciera, 492 U.S. at 56). The overlap between the cause
+of action in Jarkesy and this case makes it extremely difficult to distinguish Jarkesy. Both cases
+involve “a suit . . . made of ‘the stuff of the traditional actions at common law tried by the courts
+at Westminster in 1789,’” so Congress cannot employ the public rights doctrine to remove them
+from Article III courts. Stern v. Marshall, 564 U.S. 462, 484 (2011) (quoting N. Pipeline Constr.
+Co. v. Marathon Pipe Line Co., 458 U.S. 50, 90 (1982) (Rehnquist, J., concurring in the
+judgment)).
+
+        The SEC’s main response is that there is a long tradition of self-discipline in the
+securities industry, which exempts these proceedings from Article III. True, a historical tradition
+of assigning adjudication outside of Article III can be a basis for determining something is a
+public right. See N. Pipeline, 458 U.S. at 68 (plurality opinion) (citing Ex parte Bakelite Corp.,
+279 U.S. 438, 458 (1929)). But the longstanding practice that the SEC points to here is one of
+consenting members regulating themselves. The leniency courts historically have shown to
+discipline in these organizations was based on the notion that “members [were] parties to a
+voluntary contract with the exchange.” Westwood & Howard, supra, at 521. And here, that
+voluntary relationship is absent. Smith explicitly attempted to avoid becoming a member of
+FINRA and continues to contest FINRA’s jurisdiction over him. And the SEC does not point to
+any historical tradition allowing SROs to discipline non-consenting non-members. For these
+reasons, the public rights doctrine does not undermine Smith’s weighty assertion to a right to a
+jury trial before an Article III judge.
+ No. 24-3907                            Smith v. SEC                                  Page 17
+
+
+       For today’s purposes, however, these points are all for naught. As Smith failed to make
+these arguments before the Commission, we cannot reach them, regardless of their strength.
+
+                            *       *      *      *       *      *
+
+       We deny Smith’s petition for review.
+ No. 24-3907                              Smith v. SEC                                    Page 18
+
+
+                                       _________________
+
+                                       CONCURRENCE
+                                       _________________
+
+       MURPHY, Circuit Judge, concurring. I write to highlight an important “unconstitutional
+conditions” question lurking in the background of this case. Suppose that two parties to a
+contract agree to arbitrate a federal claim. By doing so, they forgo several procedural protections
+that they would otherwise enjoy under the U.S. Constitution. To start, Article III grants the
+“judicial Power” to the Supreme Court and the inferior federal courts. U.S. Const. art. III, § 1. It
+thus bars Congress from stripping a person of an independent Article III judge in litigation over
+private rights. See Stern v. Marshall, 564 U.S. 462, 483–84 (2011). Likewise, the Due Process
+Clause prohibits the government from “depriv[ing]” a person “of life, liberty, or property,
+without due process of law[.]” U.S. Const. amend. V. It thus ensures that the government
+cannot take a person’s money except according to the “settled usages” of common-law courts.
+McIntosh v. City of Madisonville, 126 F.4th 1141, 1150 (6th Cir. 2025) (Murphy, J., concurring)
+(quoting Murray’s Lessee v. Hoboken Land & Improvement Co., 59 U.S. 272, 277 (1856)).
+Lastly, the Seventh Amendment compels the government to respect “the right of trial by jury”
+“[i]n Suits at common law[.]” U.S. Const. amend. VII. It thus guarantees that a jury will resolve
+the factual disputes that a legal claim presents. SEC v. Jarkesy, 603 U.S. 109, 121–22 (2024).
+The hypothetical contracting parties have lost all these rights by agreeing to arbitrate because an
+arbitrator (not an Article III judge or a jury) will oversee the dispute and find the facts in a
+private venue (not a court of law).
+
+       Next suppose that one of the contracting parties has second thoughts about arbitrating the
+federal claim when a dispute materializes. Can the party avoid arbitration on the ground that it
+violates these constitutional rights? Not at all. Parties may presumptively waive any right,
+including a constitutional right. See United States v. Mezzanatto, 513 U.S. 196, 200–01 (1995).
+The validity of a waiver “depends on the nature of the right at issue.” Kloosterman v. Metro.
+Hosp., 153 F.4th 501, 512 (6th Cir. 2025) (Murphy, J., concurring) (quoting New York v. Hill,
+528 U.S. 110, 114 (2000)). For constitutional waivers, the Supreme Court generally requires “an
+intentional relinquishment or abandonment of a known right or privilege.” Brewer v. Williams,
+ No. 24-3907                             Smith v. SEC                                   Page 19
+
+
+430 U.S. 387, 404 (1977) (quoting Johnson v. Zerbst, 304 U.S. 458, 464 (1938)). We have
+hinted at this standard in the arbitration context. See Tillman v. Macy’s Inc., 735 F.3d 453, 460–
+61 (6th Cir. 2013); K.M.C. Co. v. Irving Tr. Co., 757 F.2d 752, 755–56 (6th Cir. 1985); but see
+Cooper v. MRM Inv. Co., 367 F.3d 493, 506–08 (6th Cir. 2004). Yet other courts have followed
+a less demanding standard. See IFC Credit Corp. v. United Bus. & Indus. Fed. Credit Union,
+512 F.3d 989, 993–94 (7th Cir. 2008); Caley v. Gulfstream Aerospace Corp., 428 F.3d 1359,
+1372 (11th Cir. 2005).      And the Supreme Court has suggested that general contract-law
+principles (including waiver principles) should apply to arbitration agreements. See Kindred
+Nursing Ctrs. Ltd. P’ship v. Clark, 581 U.S. 246, 251–55 (2017). Under any standard, though, a
+party who voluntarily enters an arbitration contract (and knowingly waives a jury trial) would
+likely be out of luck: the party must arbitrate the dispute because it consented to give up the
+Constitution’s procedural protections for the claim at issue. Cf. Wellness Int’l Network, Ltd. v.
+Sharif, 575 U.S. 665, 674–76 (2015); id. at 702–03 (Roberts, C.J., dissenting); id. at 718–19
+(Thomas, J., dissenting).
+
+       The SEC and FINRA argue that this case is just as easy as my hypothetical arbitration
+agreement. They point to the history of self-regulation in the securities industry dating back to
+the early 1790s. See Robert Sobel, The Curbstone Brokers: The Origins of the American Stock
+Exchange 10‒14 (1970); Stuart Banner, The Origin of the New York Stock Exchange, 1791–
+1860, 27 J. Legal Stud. 113, 114–15 (1998). The founders of the early stock exchanges formed
+them as voluntary associations (or private clubs). See Richard W. Jennings, Self-Regulation in
+the Securities Industry: The Role of the Securities and Exchange Commission, 29 L. & Contemp.
+Probs. 663, 663 n.2, 667–69 (1964). Courts considering disputes between an exchange and its
+members concluded that the exchange’s governing documents formed a “contract by which each
+member ha[d] consented to be bound[.]” Belton v. Hatch, 109 N.Y. 593, 596 (1888); see White
+v. Brownell, 4 Abb. Pr. (n.s.) 162, 192–94 (N.Y. C.P. 1868); Howard C. Westwood & Edward G.
+Howard, Self-Government in the Securities Business, 17 L. & Contemp. Probs. 518, 519–21
+(1952). And those documents routinely required arbitration. See Jill Gross, The Historical Basis
+of Securities Arbitration as an Investor Protection Mechanism, 2016 J. Disp. Resol. 171, 174–
+76. Indeed, the New York Stock Exchange would enforce some futures contracts in private
+adjudications even though New York courts would find those contracts unenforceable in public
+ No. 24-3907                              Smith v. SEC                                     Page 20
+
+
+suits.    See William A. Birdthistle & M. Todd Henderson, Becoming a Fifth Branch, 99
+Cornell L. Rev. 1, 14 (2013); Banner, supra, at 125. In many ways, then, members who chose to
+join an exchange voluntarily agreed to arbitrate their disputes (and waive their constitutional
+protections) much like a business might agree to arbitrate a dispute today.
+
+          According to the SEC and FINRA, this “unbroken tradition” of self-regulation shows that
+FINRA can discipline its members (including by taking their money) using an internal process
+without an Article III judge or a jury. Respondent’s Br. 65 (quoting Jarkesy, 603 U.S. at 128);
+see FINRA Amicus Br. 47–48. In other words, the SEC and FINRA argue that securities brokers
+accept FINRA’s rules once those brokers decide to become FINRA members. And these rules
+include a dispute-resolution process in which a hearing panel oversees a case and finds the facts.
+See Mohlman v. FINRA, 977 F.3d 556, 559 (6th Cir. 2020). So the SEC and FINRA analogize
+today’s FINRA members to yesterday’s exchange members. Just as the exchange members had
+to abide by their “contract” to follow the exchange’s procedures, Belton, 109 N.Y. at 596‒97, so
+too FINRA members allegedly must adhere to their contract to follow FINRA procedures.
+
+          But this analogy breaks down on inspection. For most of the country’s history until the
+1930s, securities brokers had a voluntary choice over whether to join a securities exchange.
+They could apply to become an exchange member if they thought the advantages (such as access
+to trustworthy trading partners and price information) exceeded the disadvantages (such as the
+price of admission and, perhaps for some, the rules requiring arbitration). See Banner, supra, at
+120–24. But brokers could also opt not to join an exchange and still operate a brokerage
+business. In the early 1800s, for example, many brokers who did not join what would become
+the New York Stock Exchange would regularly “trade in restaurants or coffeehouses,” among
+other places. Sobel, supra, at 14. Many of these individuals even traded securities in the “open
+air” on “the streets” and so became known as “curbstone brokers.”             Id.   As a result, the
+exchanges’ self-regulation did not reach “the vast majority of stock transactions” made “over-
+the-counter” by nonmember brokers. Birdthistle & Henderson, supra, at 16; see Banner, supra,
+at 118.
+
+          Brokers do not have the same choice today. Far from it. Since 1983, Congress has
+barred Americans from engaging in the securities business unless they join a registered exchange
+ No. 24-3907                               Smith v. SEC                                      Page 21
+
+
+or securities association. See Pub. L. 98‒38, § 3, 97 Stat. 205, 206–07 (1983) (amending
+15 U.S.C. § 78o(b)(8)); Alpine Sec. Corp. v. FINRA, 121 F.4th 1314, 1321 (D.C. Cir. 2024). To
+register, an exchange or association must agree to enforce its rules against its members using “a
+fair procedure” (presumably one that excludes a court with an Article III judge and jury). See 15
+U.S.C. §§ 78f(b)(1), (6)–(7); 78o-3(b)(2), (7)–(8). After members exhaust an entity’s internal
+processes, they may then appeal any punishment to the SEC for fresh review.                    See id.
+§ 78s(d)(2), (e)(1). If the SEC affirms, they may (at long last) seek review in an Article III
+appellate court. See id. § 78y(a)(1). Even then, the court must defer to the SEC’s factual
+findings. Id. § 78y(a)(4).
+
+       In short, unlike in earlier days, brokers today cannot buy and sell securities unless they
+become a member of a private body that regulates their conduct using procedures that do not
+include the Constitution’s protections. Congress has thus put aspiring brokers to a choice:
+consent to forgo those constitutional protections or stay out of the brokerage business.
+
+       This government-mandated tradeoff implicates the “unconstitutional conditions”
+doctrine. See Sheetz v. County of El Dorado, 601 U.S. 267, 275 (2024); Bd. of Cnty. Comm’rs,
+Wabaunsee Cnty. v. Umbehr, 518 U.S. 668, 674–75 (1996).                    That doctrine limits the
+government’s ability to take away constitutional rights by requiring a party to “voluntarily” give
+up those rights as a condition to receiving some other government benefit. See Knight v. Metro.
+Gov’t of Nashville & Davidson Cnty., 67 F.4th 816, 824 (6th Cir. 2023). For example, the
+government does not have unlimited discretion to compel landowners to hand over some of their
+land (in seeming violation of the Takings Clause) as a condition of receiving a government
+permit to build on it. See id. at 824–27. Nor does it have unlimited discretion to compel parties
+to express certain viewpoints (in seeming violation of the Free Speech Clause) as a condition to
+receive public grants or jobs. See Janus v. Am. Fed’n of State, Cnty., & Mun. Emps., Council 31,
+585 U.S. 878, 902–04 (2018); Agency for Int’l Dev. v. All. for Open Soc’y Int’l, Inc. (AOSI), 570
+U.S. 205, 214–15 (2013).
+
+       Yet how should courts weed out unconstitutional conditions from constitutional ones?
+Although the Court has adopted different tests for different constitutional rights, the tests all start
+with a “generic” inquiry. Knight, 67 F.4th at 824. “If the Constitution allows the government to
+ No. 24-3907                              Smith v. SEC                                    Page 22
+
+
+directly compel a private party to” engage in the challenged conduct, “the government may
+indirectly compel that conduct as a condition on a benefit” that it provides. Id. (citing Rumsfeld
+v. F. for Acad. & Institutional Rts., Inc., 547 U.S. 47, 59–60 (2006)). Take patents that grant
+monopolies to private parties. Because individuals do not have a private right to patents, the
+government could directly compel those seeking them to litigate their claim in an administrative
+venue rather than a court. See Oil States Energy Servs., LLC v. Greene’s Energy Grp., LLC, 584
+U.S. 325, 335–36 (2018). As a result, the government may also grant a patent on the condition
+that the holder accept this administrative venue in later disputes about the patent’s validity. See
+id. at 341–42 & n.4.
+
+       Applying this “generic” test here, we must ask: Could Congress compel nonconsenting
+parties to litigate a dispute against them before a FINRA hearing panel (followed by the SEC’s
+review) rather than a district court with an Article III judge and jury? Knight, 67 F.4th at 824.
+The answer likely depends on the type of claim and remedy at issue. For Article III, due-
+process, and jury-trial purposes, we would first have to ask if the adjudication would affect
+public rights (like a patent) or private rights (like a home). Compare Oil States, 584 U.S. at 335–
+36, with McIntosh, 126 F.4th at 1150–51 (Murphy, J., concurring). And for jury-trial purposes,
+we would also have to ask if the adjudication sought legal or equitable relief. See Jarkesy, 603
+U.S. at 122–25. In this case, FINRA investigators pursued what looked like a common-law
+fraud claim, and they sought what looked like legal relief: a restitution award to be paid by the
+putative defendant from his own money. So I agree with Judge Readler that this case bears a
+striking resemblance to Jarkesy.     Under that precedent, Congress likely could not force a
+nonconsenting party to litigate this claim outside an Article III court without a jury. See id. at
+120–41.
+
+       I thus see only one possible way to distinguish the FINRA process in this case from the
+SEC process found unconstitutional in Jarkesy. We must ask whether Congress may indirectly
+require a party to consent to waive these constitutional rights as a condition of participating in a
+brokerage business (what regularly occurs under this FINRA regime) even if Congress could not
+impose that condition directly on nonconsenting defendants (what apparently occurred in the
+SEC regime at issue in Jarkesy). Apart from the generic first step, the Court has adopted
+ No. 24-3907                              Smith v. SEC                                    Page 23
+
+
+different unconstitutional-condition tests for different rights. See Knight, 67 F.4th at 824. In the
+takings context, for example, the Court has said that any requirement to give up property as a
+condition to obtain a building permit must have a “nexus” and “rough proportionality” to the
+land-use harms that the construction will cause. See Sheetz, 601 U.S. at 275–76. And in the
+speech context, the Court has said that Congress can impose speech limits inside a public
+program that it seeks to subsidize but cannot use that monetary subsidy to regulate speech
+outside that program. See AOSI, 570 U.S. at 214–15. As far as I am aware, though, the Court’s
+cases have yet to develop any sort of test for the procedural rights at issue here. Cf. Oil States,
+584 U.S. at 341–42 & n.4.
+
+       Perhaps the correct analysis should depend on the proper “baseline” from which to
+measure this condition. Richard A. Epstein, Unconstitutional Conditions, State Power, and the
+Limits of Consent, 102 Harv. L. Rev. 4, 9–10, 13 (1988).            Consider an analogy.      Many
+governments have long allowed a parole board—rather than a court or a jury—to find a parole
+violation that sends a convicted defendant back to prison. See United States v. Haymond, 588
+U.S. 634, 651 (2019) (plurality opinion); Morrissey v. Brewer, 408 U.S. 471, 477–80 (1972). A
+parole-violation adjudication does not trigger the Constitution’s normal procedural protections
+because a parolee’s original conviction permitted the government to detain the parolee during the
+entire parole period. See Morrissey, 408 U.S. at 480; see also Haymond, 588 U.S. at 643, 651
+(plurality opinion). And legislatures allowed parolees to serve part of their sentences outside
+prison “as an ‘act of grace,’ subject to revocation.” Haymond, 588 U.S. at 643 (plurality
+opinion) (citation omitted). In other words, parolees received a benefit (early release) on the
+condition that they forgo the Constitution’s usual protections for adjudicating allegations that
+they violated the terms of their release. Because parolees have only “conditional liberty,” the
+government has “wide latitude” to put conditions on a departure from the background baseline:
+imprisonment.    Pa. Bd. of Prob. and Parole v. Scott, 524 U.S. 357, 365 (1998) (quoting
+Morrissey, 408 U.S. at 480). By analogy, suppose that the proper baseline here were that nobody
+could operate a securities business without a similar “act of grace” by Congress. Haymond, 588
+U.S. at 643 (plurality opinion) (citation omitted). Maybe Congress would then have “wide
+latitude” to grant the purported benefit (allowing brokerages) on the condition that brokers forgo
+the same procedural protections. Scott, 524 U.S. at 365.
+ No. 24-3907                              Smith v. SEC                                  Page 24
+
+
+       But I doubt this is the proper baseline. Indeed, this logic would permit Congress to
+eviscerate the Constitution’s procedural protections. Wouldn’t it mean that Congress could
+wield its power over interstate commerce to impose mandatory arbitration on anyone who works
+(or who hires workers) as a condition of allowing them to do so? One might instead start with
+the opposite baseline: that “at the common law, no man could be prohibited from working in any
+lawful trade[.]” Case of Tailors of Ipswich, 77 Eng. Rep. 1218, 1219–20 (K.B. 1614); see
+Calcutt v. FDIC, 37 F.4th 293, 348 (6th Cir. 2022) (Murphy, J., dissenting) (quoting 2 Edward
+Coke, Institutes of the Laws of England 47 (1642)). And we should recognize that Congress here
+has engaged in a form of “regulatory licensing” by first flipping that common-law baseline on its
+head (with “a background prohibition” of operating a brokerage business) and then imposing
+conditions on licenses to engage in the business. Philip Hamburger, Purchasing Submission 201
+(2021). While governments today have broad leeway to regulate in the economic sphere, see
+Armour v. City of Indianapolis, 566 U.S. 673, 680 (2012), perhaps coercing parties to give up
+their constitutional rights in order to work can sometimes go a step too far.
+
+       In the end, I need not resolve these issues because the majority opinion correctly holds
+that the petitioner failed to exhaust his constitutional claims. Still, I seek to reiterate two
+questions for future cases. The first question concerns the SEC’s and FINRA’s reliance on the
+history of private self-regulation in the securities industry: Why should this history matter in a
+changed world in which Congress forces brokers to join a private association as a condition of
+operating a brokerage? The second question concerns the unconstitutional-conditions doctrine:
+When (if ever) may Congress compel individuals to forgo their rights to an Article III judge and
+a jury as a condition of operating a business? Leaving these questions for another day, I concur
+in the majority opinion.
+ No. 24-3907                                 Smith v. SEC                                    Page 25
+
+
+                                       _________________
+
+                                        CONCURRENCE
+                                       _________________
+
+        BLOOMEKATZ, Circuit Judge, concurring in the judgment. As the majority opinion
+articulates,   Eric   Smith   raises   two    questions     on   appeal,   one   statutory   and   one
+constitutional. First, as to the statutory question, Smith contests that he fell within FINRA’s
+regulatory jurisdiction. I agree with the majority opinion that, given the record and the statutory
+text, Smith was “associated with a [FINRA] member,” and thus falls within FINRA’s regulatory
+scope. 15 U.S.C. § 78c(a)(21); id. § 78o–3(b)(7). Second, as to the constitutional question,
+I also agree with the majority opinion that Smith did not exhaust this claim before the SEC, and
+that he lacked a “reasonable ground” for failing to do so. Id. § 78y(c)(1). Specifically, Smith’s
+constitutional claim stems from the Supreme Court’s decision in SEC v. Jarkesy, 603 U.S. 109
+(2024), which was decided “before the SEC decided Smith’s case.” Maj. Op. at 12. I agree with
+the majority opinion that Smith could have raised Jarkesy with the SEC, id., and that the SEC
+had authority to adjudicate his claim, id. at 9–11. Thus, there is no basis to excuse Smith’s
+failure to exhaust.
+
+        I depart from the majority opinion because of its dicta opining on the merits of Smith’s
+constitutional claim. The Securities Act directs that no “objection to an order or rule” of the SEC
+“may be considered by the court” unless it was exhausted before the agency “or there was
+reasonable ground for failure to do so.” 15 U.S.C. § 78y(c)(1). See also Mohlman v. Fin. Indus.
+Regul. Auth., 977 F.3d 556, 560–61 (6th Cir. 2020). Yet the majority opinion spends many
+pages considering Smith’s constitutional claim and argues in no uncertain terms that the SEC’s
+adjudicatory process “may well” be unconstitutional, only to lament at the end of its analysis that
+its “points are all for naught.” Maj. Op. at 14, 17. To be sure, we sometimes examine legal
+issues not squarely presented in a case. But we typically do so by posing questions, highlighting
+issues that the Supreme Court may want to address, or writing separately. See, e.g., Island Creek
+Coal Co. v. Bryan, 937 F.3d 738, 749 (6th Cir. 2019); United States v. Morton, 123 F.4th 492,
+497 n.2 (6th Cir. 2024); Niblock v. Univ. of Kentucky, 165 F.4th 460, 473 (6th Cir.
+2026) (Sutton, C.J., and Murphy, J., concurring). That is not what the majority opinion did here.
+ No. 24-3907                             Smith v. SEC                         Page 26
+
+
+Because I would not have addressed the merits of the unexhausted constitutional claim,
+I respectfully concur in the judgment only.
+

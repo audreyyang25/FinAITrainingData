@@ -1,0 +1,1329 @@
+25-1752
+Huey v. Anavex Life Sciences Corporation
+
+
+
+                                           In the
+                  United States Court of Appeals
+                            For the Second Circuit
+
+
+                                  August Term, 2025
+                                    No. 25-1752
+
+                                   QUINTESSA HUEY,
+                                   Plaintiff-Appellant,
+
+                                JONATHAN BLUM,
+             individually and on behalf of all others similarly situated,
+                                     Plaintiff,
+
+                                             v.
+
+         ANAVEX LIFE SCIENCES CORPORATION, CHRISTOPHER U. MISSLING,
+                             Defendants-Appellees.
+
+
+
+          On Appeal from a Judgment of the United States District Court
+                     for the Southern District of New York.
+
+
+
+                             ARGUED: FEBRUARY 12, 2026
+                               DECIDED: JUNE 26, 2026
+
+              Before: JACOBS, CALABRESI, and NATHAN, Circuit Judges.
+      Plaintiff-Appellant Quintessa Huey appeals from a judgment of the United
+States District Court for the Southern District of New York (McMahon, J.)
+dismissing her complaint and denying her request to replead. Huey held shares
+in   Anavex    Life   Sciences   Corporation    (“Anavex”),     a   publicly   traded
+biopharmaceutical company. Huey filed a putative class action against Anavex
+and its then-CEO, Christopher U. Missling, alleging securities fraud on the basis
+of an alleged misrepresentation. On the day that Defendants made a disclosure
+correcting the alleged misrepresentation, Anavex’s share price increased. The
+share price did not decline until the next two days, when it moved in tandem with
+the entire market. The district court held that Huey failed sufficiently to plead loss
+causation given the initial increase and delayed decline in Anavex’s share price.
+Because we agree that in light of these circumstances Huey failed plausibly to
+allege loss causation, we AFFIRM the judgment of the district court.
+
+
+
+                                  ADAM M. APTON, Levi & Korsinsky, LLP, New
+                            York, NY, for Plaintiff-Appellant.
+
+                                  STEPHEN G. TOPETZES (Theodore L. Kornobis, on
+                            the brief), K&L Gates LLP, Washington, DC, for
+                            Defendants-Appellees.
+
+
+
+CALABRESI, Circuit Judge:
+
+      This case concerns what pleadings are necessary for a plaintiff sufficiently
+
+to allege loss causation in a securities-fraud action under Section 10(b) of the
+
+Securities Exchange Act.
+
+
+
+
+                                          2
+      Plaintiff-Appellant Quintessa Huey held shares in Anavex Life Sciences
+
+Corporation (“Anavex”), a publicly traded biopharmaceutical company. Huey
+
+filed a putative class action against Anavex and its then-CEO, Christopher U.
+
+Missling, alleging that they misled investors by, among other things, implying in
+
+various disclosures that the FDA had approved their methodology for measuring
+
+a drug candidate’s efficacy in clinical trials. On the day Missling announced that
+
+the company would abandon the purportedly FDA-approved methodology,
+
+Anavex’s share price increased. The share price did not decline until the following
+
+two days; at that time, it moved in tandem with the entire market.
+
+      The United States District Court for the Southern District of New York
+
+(McMahon, J.) dismissed Huey’s complaint for failure to state a claim and denied
+
+her request to replead. The district court held that Huey failed sufficiently to plead
+
+loss causation given the initial increase then delayed decline in Anavex’s share
+
+price, and the surrounding market context. Because we agree that Huey failed
+
+plausibly to allege loss causation, we AFFIRM the judgment of the district court.
+
+
+
+
+                                          3
+I.    Background
+
+      A. Anavex Tests Proposed Treatment for Rett Syndrome
+
+      Anavex is a public biopharmaceutical company that specializes in early-
+
+stage therapies for central nervous system diseases. In 2016, Anavex announced
+
+that one of its drug candidates, ANAVEX 2-73, displayed “positive preclinical
+
+data” for the treatment of Rett syndrome, a rare genetic neurological disease. P.A.
+
+App’x at 16.
+
+      To obtain FDA approval to sell and market ANAVEX 2-73 for Rett
+
+syndrome, Anavex conducted several clinical trials, including: a Phase 2 trial
+
+beginning in June 2019 (the AVATAR trial) and a Phase 2/3 trial beginning in
+
+September 2019 (the EXCELLENCE trial). As with all clinical trials, these studies
+
+used standardized metrics known as “endpoints” to measure the efficacy of the
+
+tested drug. One such endpoint is a patient’s improvement on the Rett Syndrome
+
+Behavioral Questionnaire (“RSBQ”): a survey administered to a Rett syndrome
+
+patient by her caregiver that assesses symptoms the patient is experiencing.
+
+Another endpoint is a patient’s improvement on the Clinical Global Impression-
+
+Improvement (CGI-I) scale: an assessment similar to RSBQ that is completed by a
+
+patient’s clinician, rather than the patient herself. To improve accuracy, these two
+
+                                         4
+metrics can be “anchored” to one another to ensure that a patient’s self-reported
+
+improvements are tied to improvements also observed by a clinical professional.
+
+      Anavex was not the only company working on a Rett syndrome treatment.
+
+A competitor pharmaceutical company, Neuren, developed a Rett syndrome drug
+
+candidate called DAYBUE that had reached the end of its Phase 2 trials by 2017.
+
+For DAYBUE’s final Phase 3 clinical trial, the FDA approved Neuren’s use of an
+
+anchored RSBQ/CGI-I endpoint to measure the drug’s efficacy. Neuren used the
+
+typical approach for measuring efficacy in clinical trials. This approach compared
+
+the final, end-of-treatment RSBQ/CGI-I score with the baseline, pre-treatment
+
+score to determine the patient’s net improvement (“RSBQ/CGI-I endpoint”). The
+
+trial concluded in 2021 with positive results, and DAYBUE received marketing
+
+approval from the FDA in March 2023.
+
+      Anavex took a different approach in its clinical trials of ANAVEX 2-73.
+
+Rather than compare the baseline and end-of-treatment RSBQ/CGI-I scores for
+
+each patient, Anavex decided to account also for scores reported during the trial
+
+(i.e., mid-treatment RSBQ/CGI-I scores). Anavex called this approach RSBQ-AUC
+
+(Area Under the Curve). By including mid-treatment scores in the measurement,
+
+the RSBQ-AUC metric might reflect positive results although the end-of-treatment
+
+                                        5
+score showed no improvement from the baseline. Indeed, the RSBQ-AUC result
+
+could show a positive result even if the end-of-treatment score was lower than the
+
+baseline (i.e., where a patient’s Rett syndrome symptoms were worse at the
+
+conclusion of the study compared to when it began). Anavex thus could report
+
+positive treatment effects for ANAVEX 2-73 using RSBQ-AUC although the
+
+RSBQ/CGI-I endpoint used in the DAYBUE trial and approved by the FDA would
+
+yield a neutral, or even a negative, effect.
+
+      B. Anavex’s Class Period Disclosures
+
+      During the Rett syndrome trials for ANAVEX 2-73, Defendants made
+
+several public statements about the endpoints used and results obtained.
+
+      1. February 1, 2022, Statement
+
+      On February 1, 2022, Anavex hosted a special conference call to discuss the
+
+AVATAR trial results. During the call, a research analyst asked Missling whether
+
+the upcoming EXCELLENCE trial would use the same RSBQ-AUC endpoint as
+
+the AVATAR trial. Missling replied, “So that’s right, the EXCELLENCE study will
+
+use the same endpoint . . . because it’s just described, it is just the preference of the
+
+FDA.” P.A. App’x at 37 (¶ 75) (emphasis added). He also said that the trial results
+
+
+
+
+                                           6
+could potentially be used “to seek approval for Rett syndrome for adult patients.”
+
+Id. at 40 (¶ 78).
+
+       2. February 2022 through January 2023 Statements
+
+       Over the course of the next year, Anavex and Missling made several
+
+statements reiterating the company’s intention to use the same RSBQ-AUC
+
+endpoint in its clinical trials and how the trials could provide a viable path to FDA
+
+approval.
+
+       For example, on February 9, 2022, an equity analyst asked Missling what the
+
+FDA would think about Anavex submitting results under the RSBQ-AUC
+
+endpoint even though a different company had recently submitted results using a
+
+different endpoint. Id. at 43 (¶ 83). Referencing “really specific” “FDA guidance,”
+
+Missling explained that the RSBQ and CGI-I scores must be anchored to one
+
+another, but he did not address whether the RSBQ-AUC endpoint would be
+
+acceptable to the FDA. Id. at 35-36 (¶ 83).
+
+       In subsequent investor calls, Missling similarly responded to questions
+
+about the RSBQ-AUC endpoint by discussing the anchoring of RSBQ to CGI-I
+
+while avoiding the issue of the mid-treatment AUC methodology.              He also
+
+repeatedly reaffirmed, or at least implied, that the EXCELLENCE study would use
+
+                                         7
+the same RSBQ-AUC endpoint. See, e.g., id. at 45-46 (¶ 86) (“So the RSBQ-AUC
+
+includes the CGI-I . . . linked respond analysis, that is the endpoint which we will
+
+also propose for the EXCELLENCE study. That is correct. It’s consistent with the
+
+AVATAR study.”).
+
+         3. February 2, 2023, Statement
+
+         On February 2, 2023, Anavex issued a press release on the EXCELLENCE
+
+trial. In addition to announcing that the company exceeded its enrollment target
+
+for the study, Anavex also stated: “In communication with the FDA, we received
+
+their input on the endpoints, which were utilized in this study.” Id. at 49 (¶ 94).
+
+Anavex did not say whether the FDA’s input on the RSBQ-AUC endpoint was
+
+approving or disapproving.
+
+         4. February 7, 2023, Statement
+
+         Five days later, in a conference call discussing quarterly earnings, an analyst
+
+questioned Missling about the FDA’s feedback on endpoints in the EXCELLENCE
+
+trial:
+
+            Analyst: So I wanted to confirm that the primary end point is
+         RSBQ AUC similar to – or the same to the one used in the AVATAR
+         study? And – so has the FDA agreed that AUC, the modified RSBQ
+         scale, can be an appropriate end point for Rett syndrome study?
+
+
+                                            8
+         Missling: Yes . . . . It is the RSBQ as primary end point, and the
+      CGI-I is key secondary end point over the course of the trial.
+         Analyst: Is that the same end point that was used in the AVATAR
+      study?
+         Missling: Slightly different. So it’s actually the measurement over time
+      from beginning to end of trial.
+         Analyst: Not AUC?
+         Missling: Not AUC.
+         Analyst: Not AUC?
+         Missling: Exactly, yes.
+         Analyst: Okay.
+         Missling: Because the study is large enough that it can carry the
+      signal by itself without AUC.
+
+Id. at 50-51 (¶ 97) (emphasis added). This exchange was the first time that Anavex
+
+stated explicitly that it would not be using the RSBQ-AUC endpoint.
+
+      By market close on the day of this conference call, Anavex’s stock price had
+
+increased from $11.11 to $11.75 per share. The next day, the share price fell to
+
+$10.93 per share, and on the following day it fell again to $10.41 per share.
+
+      C. Failure of Key Clinical Trial
+
+      On January 2, 2024, the last day of the proposed Class Period, Anavex issued
+
+a press release announcing the highly anticipated results of the EXCELLENCE
+
+study: patients who took ANAVEX 2-73 did not experience statistically significant
+
+improvements in their symptoms, as measured by the FDA-approved pre-to-post-
+
+
+                                          9
+treatment RSBQ/CGI-I endpoint.                Put simply, the trial failed.             After the
+
+announcement, Anavex’s share price tumbled from $9.31 to $6.05 per share at that
+
+day’s market close.
+
+       D. Plaintiff’s Allegations
+
+       Huey seeks to represent a class of all persons who purchased Anavex stock
+
+on the Nasdaq between February 1, 2022, and January 1, 2024, inclusive (the “Class
+
+Period”), against Anavex and Missling for violations of the Securities Exchange
+
+Act of 1934. 1 Huey alleges that Anavex and Missling fraudulently used the RSBQ-
+
+AUC endpoint to conceal weak clinical data even though they knew that the
+
+endpoint would not be acceptable to the FDA. She claims that “the FDA instructed
+
+Anavex to use [RSBQ/CGI-I] when discussing and/or approving” Anavex’s
+
+clinical trials. P.A. App’x at 31 (¶ 58). As evidence of this supposed knowledge,
+
+Huey cites to FDA regulations requiring the agency to meet with Anavex and
+
+discuss, among other topics, endpoints. She also alleges that Anavex must have
+
+
+
+
+       1 The claim brought against Missling is under Section 20(a) of the Securities Exchange Act,
+which imposes joint and several liability on persons who, directly or indirectly, control any
+person liable for a primary violation under the respective acts, such as Section 10(b). 15 U.S.C.
+§§ 77o(a), 78t(a). Where a plaintiff fails to allege a primary violation under Section 10(b), the
+related Section 20(a) claim must also fail. See ATSI Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87,
+108 (2d Cir. 2007).
+
+                                                 10
+known the RSBQ-AUC endpoint would be unacceptable because, in 2017, the FDA
+
+approved the RSBQ/CGI-I endpoint for Neuren’s Rett syndrome treatment. Huey
+
+does not, however, make specific allegations about meetings during which the
+
+FDA had told Anavex that its endpoint was unacceptable.
+
+       E. Procedural History
+
+       Defendants moved to dismiss the putative class action for failure to state a
+
+claim. The district court granted Defendants’ motion and dismissed Plaintiff’s
+
+case with prejudice. Huey v. Anavex Life Scis. Corp., No. 24-CV-1910, 2025 WL
+
+1707581 (S.D.N.Y. June 18, 2025). The court found that, of all the statements
+
+alleged to be false or misleading, Huey plausibly alleged the requisite elements of
+
+falsity and scienter for only one of them: the February 2, 2023, press release that
+
+said, “[i]n communication with the FDA, we received their input on the endpoints,
+
+which were utilized in this study.” 2 P.A. App’x at 49 (¶ 94); see id. at *6. According
+
+to the court, Huey plausibly alleged that the statement was materially false or
+
+misleading because, although it disclosed that the FDA said something to Anavex
+
+
+
+
+       2  All the remaining statements were either: “(1) literally true at the time they were made;
+(2) entirely conclusory; (3) forward-looking with appropriate qualification . . . ; (4) puffery; or (5)
+fraud by hindsight pleading.” Huey, 2025 WL 1707581, at *5.
+
+                                                  11
+about its choice of endpoints, it failed to disclose that the FDA told Anavex the
+
+RSBQ-AUC endpoint was unacceptable. Huey, 2025 WL 1707581, at *4-5. The
+
+court also held that Huey sufficiently alleged scienter because Anavex admitted
+
+just a few days later, on February 7, that it would not be using the RSBQ-AUC
+
+endpoint, which gave rise to the plausible inference that the change was due to the
+
+recent FDA meeting. Id. at *6.
+
+      The district court found, however, that Huey did not make it “across the
+
+finish line” with respect to loss causation, a requisite element of a 10(b) claim. Id.
+
+According to the court, Huey’s allegations failed because, on February 7, the day
+
+of Anavex’s corrective disclosure that it would not be using the RSBQ-AUC
+
+endpoint, “the stock price went up, not down.” Id. at *8. To the court, that initial
+
+increase was fatal because, even though the share price went down during the
+
+following two days, it had moved in the same direction as the market. See id. at
+
+*7.
+
+      The district court denied Huey’s motion for leave to amend her complaint,
+
+reasoning that amendment would be futile because Huey cannot establish falsity
+
+for any other statements and she cannot establish loss causation for the February
+
+2 statement. Id. at *8. Huey timely appealed.
+
+                                         12
+II.    Standard of Review
+
+       We review de novo the district court’s dismissal under Rule 12(b)(6),
+
+accepting all factual allegations in the complaint as true and drawing all
+
+reasonable inferences in Plaintiff’s favor. Adelson v. Harris, 774 F.3d 803, 807 (2d
+
+Cir. 2014). “We review a district court’s denial of leave to amend the complaint
+
+for abuse of discretion, unless the denial was based on an interpretation of law,
+
+such as futility, in which case we review the legal conclusion de novo.” Panther
+
+Partners Inc. v. Ikanos Commc’ns, Inc., 681 F.3d 114, 119 (2d Cir. 2012).
+
+III.   Discussion
+
+       On appeal, Huey challenges the district court’s holding that she
+
+inadequately pleaded loss causation as to Defendants’ February 2, 2023,
+
+statement. 3       Defendants argue that the district court’s loss-causation
+
+determination was correct and also that Huey failed plausibly to allege falsity and
+
+scienter.
+
+
+
+
+       3  Huey did not challenge the district court’s holding that she failed plausibly to allege
+falsity as to all the other statements, so we consider only the February 2, 2023, statement.
+
+                                               13
+      Section 10(b) of the Securities Exchange Act of 1934 makes it unlawful to
+
+“use or employ, in connection with the purchase or sale of any security . . . any
+
+manipulative or deceptive device or contrivance in contravention of such rules
+
+and regulations as the Commission may prescribe.”                 15 U.S.C. § 78j(b).
+
+Commission Rule 10b-5 forbids the making of “any untrue statement of a material
+
+fact,” and the omission of any material fact “necessary in order to make the
+
+statements made, in the light of the circumstances under which they were made,
+
+not misleading.” 17 C.F.R. § 240.10b-5. “To state a claim under Section 10(b) and
+
+Rule 10b-5, a plaintiff must plead: (1) a misstatement or omission of material fact
+
+[i.e., falsity]; (2) scienter; (3) a connection with the purchase or sale of securities;
+
+(4) reliance [i.e., transaction causation]; (5) economic loss; and (6) loss
+
+causation.” Ark. Pub. Emps. Ret. Sys. v. Bristol-Myers Squibb Co., 28 F.4th 343, 351-
+
+52 (2d Cir. 2022).
+
+      Only three of the necessary elements of a Section 10(b) claim are before us
+
+on appeal: falsity, scienter, and loss causation. Because we find that Huey failed
+
+plausibly to allege loss causation, we need not, and do not, consider whether the
+
+remaining elements of falsity and scienter are satisfied. Accordingly, we proceed
+
+directly to discuss loss causation.
+
+                                          14
+      A. The Nature of Loss Causation
+
+      Before we turn to the specifics of this case, it is worth writing at some length
+
+about loss causation.
+
+      1. Loss Causation’s Relation to Other Causal Requirements
+
+      Loss causation has been the source of some confusion because of its relation
+
+to the causation requirements in common-law cases. At common law, there are
+
+three general requirements of causation: (1) but-for causation; (2) casual link; and
+
+(3) if each of these is met, that the cause be proximate. See United States v. Nelson,
+
+277 F.3d 164, 186 (2d Cir. 2002); see also Guido Calabresi, Concerning Cause and the
+
+Law of Torts: An Essay for Harry Kalven, Jr., 43 U. Chi. L. Rev. 69, 71-72 (1975)
+
+(identifying and differentiating the three causal concepts). 4
+
+      But-for causation asks: would plaintiff have been harmed but for
+
+defendant’s conduct?       Causal link considers whether defendant’s conduct
+
+increased the likelihood that plaintiff’s harm would occur—i.e., is there a
+
+relationship between the nature of defendant’s conduct and the harm plaintiff
+
+
+
+
+      4  An additional and separate usual requirement at common law is that the plaintiff
+suffered some ascertainable harm (i.e., damages).
+
+                                           15
+suffered. And both but-for cause and causal link are generally necessary to
+
+establish tort liability at common law. 5 That is also so in common-law fraud cases. 6
+
+       Distinct from but-for cause and causal link is a third requirement that they
+
+both be proximate. Courts and scholars alike frequently conflate causal link with
+
+proximate cause—seemingly due to the relation of each to foreseeability—but they
+
+are separate liability-limiting concepts. A causal link can exist, but it may be so
+
+weak that we may choose not to impose liability. 7 Such a decision not to impose
+
+
+
+       5  The classic common-law torts case where but-for causation existed but causal link did
+not is Berry v. Sugar Notch Borough, 43 A. 240 (Pa. 1899). There, a violent windstorm toppled a
+tree onto a moving trolley car. At the time of the accident, the trolley car was negligently
+speeding. In literal terms, the wrongful conduct—the speeding—was a but-for cause of the
+accident: had the trolley car not been speeding, it would not have reached the spot where the tree
+fell at that exact moment. What was lacking, however, was a casual link. Speeding does not
+make it more likely that trees would fall on trolley cars. For that reason, the plaintiff failed to
+satisfy the causation requirements for tort liability. If, however, one could have shown that the
+increased vibrations from speeding indeed caused trees to fall with greater frequency (e.g.,
+vibrations from speeding caused trees to uproot), then a causal link could be said to have existed.
+       6  In Loreley, we offered the example of where a fraudulent misrepresentation caused a
+buyer to purchase a home (but-for cause), but the nature of the misrepresentation was unrelated
+to the likelihood that the home would be subsequently destroyed in a storm (causal link). See
+Loreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, 797 F.3d 160, 183-86 (2d Cir. 2015).
+       7 In the Berry case, for example, if the increased vibrations from the speeding trolley cars
+can be shown to increase the likelihood of trees falling, then a causal link is present. Nevertheless,
+the vibrations may not be deemed “proximate” enough to the falling trees to warrant the
+allocation of liability costs to the negligent trolley operator rather than, say, the town that
+negligently planted the trees close to the road. This determination can be made on foreseeability
+grounds or any number of other reasons encompassed under the umbrella of proximate cause.
+
+
+
+
+                                                 16
+liability due to lack of proximity is separate from and does not negate the presence
+
+of a causal link. 8
+
+        These three causation elements need not be required under every given
+
+statute, or, for that matter, even at common law. That is, a society may wish in
+
+some statutes or areas of common law to place burdens on (i.e., punish) people
+
+who do certain things, regardless of causal relationships. A statute could require
+
+
+
+
+         Conversely, there are cases where the causal link is so strong that it is sufficient to establish
+not only proximate but even but-for cause. Someone is punched and their nose becomes broken.
+Even without direct evidence that the person’s nose was broken due to the impact with the
+punching hand, the causal link is so strong that but-for causation is readily assumed. On these
+facts it is up to the tortfeasor to bring in evidence denying but-for cause. Judge Cardozo applied
+this principle in Martin v. Herzog, 126 N.E. 814, 816 (N.Y. 1920), as did we in Zuchowicz v. United
+States, 140 F.3d 381, 391 (2d Cir. 1998), where we held that “when a negative side effect is
+demonstrated to be the result of a drug, and the drug was wrongly prescribed in an unapproved
+and excessive dosage (i.e. a strong causal link has been shown), the plaintiff who is injured has
+generally shown enough to permit the finder of fact to conclude that the excessive dosage was”
+a but-for cause, even without additional proof of causation. In other words, the causal link
+between an excessive dose of prescription medication and negative side effects was strong
+enough to permit the inference of but-for cause.
+        8The Restatement (Third) of Torts does not speak of “proximity” in the language of
+causation. See Restatement (Third) of Torts: Liability for Physical and Emotional Harm, ch. 6,
+Special Note on Proximate Cause (A.L.I. 2010) (characterizing proximate cause as “an especially
+poor [term] to describe the idea to which it is connected”); see also Restatement (Third) of Torts:
+Liability for Economic Harm § 12 (A.L.I. 2020) (similarly departing from the term “proximate
+cause” in the fraud context). Rather, the Restatement categorizes questions of proximity—such
+as foreseeability—as one aspect of “Scope of Liability,” a term that encompasses rules for when
+tort law does not impose liability on an actor although the causal requirements of but-for cause
+and causal link have been met. See Restatement (Third) of Torts: Liability for Physical and
+Emotional Harm, ch. 6, Special Note on Proximate Cause (A.L.I. 2010). Nevertheless, because the
+term proximate cause “has been in widespread use in judicial opinions, treatises, casebooks, and
+scholarship,” we use that term here. Id.
+
+                                                   17
+one who commits securities fraud to pay damages even though, in an economic
+
+sense, the particular harm at issue was purely coincidental. 9 In other words, a
+
+defendant could be held liable even if a causal link is not present based on a
+
+societal policy position that fraud is bad and deserves punishment, regardless of
+
+whether it is linked to a particular harm. And just as liability can exist for but-for
+
+cause without causal link, so too can it exist where causal link is present and but-
+
+for cause is not. 10
+
+       The myriad permutations of causation rules at common law and in various
+
+statutes have been noted in our cases. See, e.g., Loreley Fin. (Jersey) No. 3 Ltd. v. Wells
+
+Fargo Sec., LLC, 797 F.3d 160, 183-86 (2d Cir. 2015) (providing examples of differing
+
+causation requirements); Transatlantic Shiffahrtskontor GmbH v. Shanghai Foreign
+
+
+
+
+       9  Indeed, in England, that is how statutes analogous to our federal securities laws have
+been read. See Jane Stapleton, Benefits of Comparative Tort Reasoning: Lost in Translation, 1 J. Tort
+L., no. 3, 2007, at 2 (“[I]n the U.S. it seems to be a principle that a defendant in the tort of deceit
+cannot be liable for coincidental consequences; but that principle is rejected in England.”).
+       10 This can be seen in maritime law where the right to “cure” imposes on shipowners the
+obligation to provide medical care to seamen who become ill or are injured while in service to a
+vessel, regardless not only of any fault but also of but-for causation. See Calo v. Ocean Ships, Inc.,
+57 F.3d 159, 162 (2d Cir. 1995); see generally Thomas J. Schoenbaum, Admiralty and Maritime Law
+§ 6:28 (7th ed. 2026). The desire to ensure the victim is cared for—and the capacity of the
+defendant to do that caring—has evidently mattered more than the incentive structures that
+follow from requiring but-for cause.
+
+                                                  18
+Trade Corp., 204 F.3d 384, 390-91 (2d Cir. 2000) (comparing the FSIA’s causation
+
+requirements with those at common law); Matteo Godi, Section 1983: A Strict
+
+Liability Statutory Tort, 113 Calif. L. Rev. 1933, 1985-86 (2025) (framing Section 1983
+
+as a statutory tort that requires all three causation elements). 11 Because statutory
+
+causation rules frequently differ from those at common law, clarity is of utmost
+
+importance when addressing the issue in statutory cases. Our first task, then, is to
+
+determine the causation requirements for the statute at hand.
+
+       2. Loss Causation in a Federal Securities Action
+
+       Courts have long held that a private damages action under the Securities
+
+Exchange Act of 1934 and Rule 10b-5 “resembles, but is not identical to, common-
+
+law tort actions for deceit and misrepresentation.” Dura Pharmaceuticals, Inc. v.
+
+Broudo, 544 U.S. 336, 341 (2005); see also Bastian v. Petren Res. Corp., 892 F.2d 680,
+
+
+
+
+       11 In some statutes, such as RICO, the causation requirements are stricter than at common
+law. Compare, e.g., Palsgraf v. Long Island R.R., 162 N.E. 99, 101 (1928) (finding at common law the
+element of foreseeability satisfied where the plaintiff was in a foreseeable category of persons
+who might be harmed), with Hecht v. Com. Clearing House, Inc., 897 F.2d 21, 23-24 (2d Cir. 1990)
+(requiring additionally under RICO that the kind of harm the victim suffered also be foreseeable).
+In others, such as the Federal Employers’ Liability Act, they are more relaxed. See CSX Transp.,
+Inc. v. McBride, 564 U.S. 685, 688 (2011) (holding that FELA “does not incorporate ‘proximate
+cause’ standards developed in nonstatutory common-law tort actions” and construing the
+statute’s causation requirement as, essentially, but-for causation).
+
+                                                19
+683 (7th Cir. 1990) (Posner, J.) (describing the federal securities fraud statute as
+
+“borrow[ing]” “the standard common law fraud rule”).                     And in the Private
+
+Securities Litigation Reform Act, Congress added an explicit causation
+
+requirement: “[T]he plaintiff shall have the burden of proving that the act or
+
+omission of the defendant alleged to violate this chapter caused the loss for which
+
+the plaintiff seeks to recover damages.” 15 U.S.C. § 78u-4(b)(4) (emphasis added).
+
+       The statutory text and the long history of private actions brought under the
+
+Securities Exchange Act make clear that all three common-law causation elements
+
+must be met. The Supreme Court confirmed these requirements in Dura when it
+
+stated that a plaintiff must sufficiently plead “reliance”—which is essentially but-
+
+for causation in a fraud-on-the-market context 12—and “loss causation” as elements
+
+of a private action. 544 U.S. at 341-42. Loss causation, however, has been defined
+
+differently depending on the statutory context in which it arises. While in one
+
+
+
+
+       12 That is, “but for the claimed misrepresentations or omissions, the plaintiff would not
+have entered into the detrimental securities transaction”—i.e., transaction causation. Emergent
+Capital Inv. Mgmt., LLC v. Stonepath Group, Inc., 343 F.3d 189, 197 (2d Cir. 2003). Based on the
+hypothesis of efficient capital markets, it is presumed that a company’s material
+misrepresentation distorted the security’s price, so but-for causation of any subsequent loss also
+is presumed. See generally Basic Inc. v. Levinson, 485 U.S. 224 (1988) (adopting a presumption of
+reliance in the fraud-on-the-market context).
+
+                                               20
+statute it may contain all three requirements of common-law causation, in another
+
+statute it may comprise only causal link. Compare Moore v. PaineWebber, Inc., 189
+
+F.3d 165, 175 (2d Cir. 1999) (Calabresi, J., concurring) (describing loss causation in
+
+the RICO context as containing all three common-law requirements), with Loreley,
+
+797 F.3d at 184-85 (describing loss causation as only causal link in a common-law
+
+case).
+
+         In the statute before us, the loss-causation element does not contain all the
+
+common-law elements because but-for causation is required separately under the
+
+rubric of “reliance.” See Dura, 544 U.S. at 341-42 (listing elements). It does,
+
+however, contain the requirements of causal link and proximity. That is clear from
+
+the Supreme Court’s statement in Dura that the plaintiff must prove that the
+
+defendant’s misrepresentation “proximately caused” her harm. 544 U.S. at 346.
+
+That is, there must be a causal link, and it must also be proximate. Because causal
+
+link and proximity are both encompassed within the “loss causation” element in
+
+this statute, courts must determine which, if either, of the two concepts underlies
+
+a finding that the element is unsatisfied.
+
+
+
+
+                                           21
+       3. Pleading Standards for Loss Causation
+
+       An additional, and particularly challenging, question is what causation
+
+allegations suffice at the pleading stage. As a general matter, the pleading rules
+
+“are not meant to impose a great burden upon a plaintiff.” Dura, 544 U.S. at 347.
+
+But given the “fact-based” nature of the loss-causation inquiry, “the degree of
+
+difficulty in pleading will be affected by circumstances.” Lentell v. Merrill Lynch &
+
+Co. Inc., 396 F.3d 161, 174 (2d Cir. 2005).
+
+       In some contexts, even though a defendant’s wrongful act was clearly the
+
+but-for cause of plaintiff’s harm, our common knowledge is such that we readily
+
+say that the loss was entirely coincidental. 13 To plead causation sufficiently in such
+
+circumstances, the plaintiff must say something additional that leads us plausibly
+
+to believe that our common-sense understanding of the situation being
+
+coincidental does not apply. 14
+
+
+
+
+        That is so in the case of the tree falling on the trolley, or the case of the destruction of a
+       13
+
+home by a flood. See supra footnotes 5-6.
+       14That is, he must plausibly plead that vibrations from speeding trolleys cause trees to fall
+more often, or that the house bought was in an area particularly prone to floods.
+
+                                                 22
+      In other circumstances, the causal link between the misrepresentation and
+
+the harm is plausible at first glance. For example, someone buys a house because
+
+the real-estate company falsely said it was hurricane-proof, but a hurricane still
+
+destroys it. In those cases, the burden shifts to the defendant to render implausible
+
+the causal link.   The real-estate company must show, for example, that the
+
+hurricane was so devastating that it destroyed everything, including all of the
+
+homes that were properly marketed as hurricane-proof.
+
+      The analogous question in the securities context is whether a plaintiff can
+
+disaggregate changes in a company’s share price from general market trends. Was
+
+a company’s misrepresentation and its correction the cause of the decline in its
+
+share price, or did the market decline universally, taking the company’s share
+
+price with it? What we have tended to say in the fraud-on-the-market context is
+
+that if the share price did not go down when the misrepresentation was corrected,
+
+then the misrepresentation was coincidental. And where instead the share price
+
+went down once the misrepresentation was revealed, we have tended to find that
+
+to be enough plausibly to show causality rather than coincidence.
+
+      But these general statements are not completely accurate. One can conceive
+
+of situations—fairly common ones—where they are too crude. Say the price does
+
+                                         23
+not go down on the day of the corrective disclosure, but on that day the rest of the
+
+market goes up by a huge amount. Had the company not misrepresented, the
+
+shareholder would have bought a different security that would have soared. The
+
+shareholder lost money, and that loss was causally linked. Or, say the share price
+
+goes down, but on that day the entire market dropped significantly. The question
+
+then becomes, what additional pleadings are necessary in such circumstances to
+
+survive a 12(b)(6) motion?
+
+      Under the Iqbal pleading standard, we ask not whether it is possible that the
+
+misrepresentation caused the share price decline independent of market
+
+movements, but whether that causal explanation is plausible. Ashcroft v. Iqbal, 556
+
+U.S. 662, 678 (2009). A plausible causal link is easy to establish where the share
+
+price declines while the market does not. But more must be pleaded when that is
+
+not so. “[W]hen the plaintiff’s loss coincides with a marketwide phenomenon
+
+causing comparable losses to other investors, the prospect that the plaintiff’s loss
+
+was caused by the fraud decreases.” Lentell, 396 F.3d at 174. A plaintiff’s claim
+
+thus fails when “it has not adequately plead[ed] facts which, if proven, would
+
+show that its loss was caused by the alleged misstatements as opposed to
+
+
+
+
+                                        24
+intervening events.” First Nationwide Bank v. Gelt Funding Corp., 27 F.3d 763, 772
+
+(2d Cir. 1994). 15
+
+       In fraud-on-the-market cases, a key determinant of what showing is
+
+necessary to establish plausible loss causation is the timing of the alleged loss in
+
+relation to the corrective disclosure. Once the misrepresentation is revealed to the
+
+public, how soon thereafter does the share price adjust? In an efficient market,
+
+“courts will assume that the stock price reacts immediately” “once a misstatement
+
+or corrective disclosure is publicly known.” Bricklayers & Trowel Trades Int'l
+
+Pension Fund v. Credit Suisse Sec. (USA) LLC, 752 F.3d 82, 89 (1st Cir. 2014). Indeed,
+
+we witness the market’s haste every trading day when share prices respond
+
+promptly to a company’s quarterly earnings results or the release of any other
+
+material information.
+
+
+
+
+       15Our circuit has confronted any number of cases where plaintiffs had to allege loss
+causation in the midst of systemwide market declines. Cf. Fed. Hous. Fin. Agency for Fed. Nat’l
+Mortg. Ass’n v. Nomura Holding Am., Inc., 873 F.3d 85, 158 (2d Cir. 2017) (“[I]n the wake of the
+Great Recession, the mandate of Congress [in its securities laws] weighs heavy on the docket of
+the Southern District of New York.”). Some claims succeeded, some did not. Compare Loreley,
+797 F.3d 163 (adequately pleading loss causation amidst the Great Recession), with Cent. States,
+Se. & Sw. Areas Pension Fund v. Fed. Home Loan Mortg. Corp., 543 F. App’x 72 (2d Cir. 2013)
+(summary order) (inadequate pleading).
+
+                                              25
+      But that is not to say we should have a per se rule rendering implausible
+
+any claim where the share price did not immediately adjust. To the contrary, we
+
+expressly reject a per se rule that a plaintiff can only establish loss causation by
+
+showing a loss on the exact day of the corrective disclosure. Several of our sister
+
+circuits have rejected similar categorical arguments. See, e.g., Shash v. Biogen, Inc.,
+
+84 F.4th 1, 21 (1st Cir. 2023) (“[N]othing requir[es] that a stock’s price must drop
+
+immediately following a corrective disclosure for loss causation to be sufficiently
+
+pled.”); Lormand v. US Unwired, Inc., 565 F.3d 228, 266 n.33 (5th Cir. 2009) (“The
+
+market could plausibly have had a delayed reaction,” so an increase in share price
+
+before an eventual decrease is “not enough to dismiss a complaint that alleges a
+
+specific causal link.” (emphasis omitted)); In re Gilead Scis. Sec. Litig., 536 F.3d 1049,
+
+1058 (9th Cir. 2008) (“A limited temporal gap between the time a
+
+misrepresentation is publicly revealed and the subsequent decline in stock value
+
+does not render a plaintiff’s theory of loss causation per se implausible.”).
+
+      The fact-intensive nature of the loss-causation inquiry is not conducive to
+
+such absolutism. Rather, where a plaintiff alleges a loss that occurs some time after
+
+the corrective disclosure is made, it becomes that plaintiff’s burden to allege
+
+
+
+
+                                           26
+plausibly why the loss was not immediate. 16 In some situations, the reason might
+
+be self-evident. Say, for example, a corrective disclosure is made at 3:59 PM
+
+Eastern Time on a Friday. A minute later, at 4:00 PM, the New York Stock
+
+Exchange closes for the weekend. It is more than plausible that the share price
+
+would not reflect the corrective disclosure until three days later, when the market
+
+opens on Monday. In other situations, the necessary showing may be difficult to
+
+make. A corrective disclosure is made on a Tuesday morning during a widely
+
+covered quarterly earnings call. On that day, the share price increases and plaintiff
+
+does not allege a loss until a week later. Notwithstanding the influence of broader
+
+market movements, it is difficult to conceive of why the loss would be so delayed.
+
+       The task of courts in evaluating loss causation, then, is to conduct a precise
+
+inquiry to ascertain the plausible existence of causal link and proximity. Bearing
+
+in mind that “ordinary pleading rules are not meant to impose a great burden
+
+upon a plaintiff,” Dura, 544 U.S. at 347, courts must view the loss-causation
+
+allegations in a fraud-on-the-market case in light of the market’s broader
+
+
+
+       16 Put differently, the purpose of these additional pleadings is to explain why the market
+did not operate with 100% efficiency in absorbing the material information. Discounting the
+efficiency of the market, however, may undermine a plaintiff’s presumption of reliance, which is
+predicated on the efficient-market hypothesis. See Basic Inc., 485 U.S. at 245-48.
+
+                                               27
+movements and the gap in time between the corrective disclosure and the alleged
+
+loss.
+
+        That is the task we must now undertake in the instant case.
+
+        B. Huey’s Loss Pleadings
+
+        Generally speaking, a securities-fraud complaint must meet the heightened
+
+pleading standards of Rule 9(b) and be stated with particularity. Our Court has
+
+held, however, that loss-causation pleadings are not subject to those heightened
+
+requirements. Gimpel v. The Hain Celestial Grp., Inc., 156 F.4th 121, 151 (2d Cir.
+
+2025); see also Lentell, 396 F.3d at 174 (stating that loss causation is generally a “fact-
+
+based inquiry” appropriate for trial). Accordingly, we evaluate Huey’s allegations
+
+under the default pleading standard of Rule 8(a)(2), which requires “a short and
+
+plain statement of the claim showing that the pleader is entitled to relief.” Fed. R.
+
+Civ. Proc. 8(a)(2).
+
+        Huey alleges, and we assume arguendo, that the February 2, 2023, statement
+
+was materially misleading because it “created the false impression that the FDA
+
+[had] approved” the RSBQ-AUC endpoint. P.A. App’x at 41 (¶ 79). The corrective
+
+disclosure to this misrepresentation was made the morning of February 7, 2023,
+
+when “Defendants revealed to investors and analysts that they would not be using
+
+                                            28
+the RSBQ AUC endpoint in the EXCELLENCE trial pursuant to FDA guidance.”
+
+Id. at 59 (¶ 115). On that day, Anavex’s share price increased by 5.8% to $11.75 per
+
+share from the previous trading day’s closing price of $11.11 per share. The
+
+following day, the share price fell by 7.0% to $10.93, and the day after that it fell
+
+again by 4.8% to $10.41. These losses, Huey contends, were caused by Defendants’
+
+February 2, 2023, misrepresentation.
+
+       We note first that the alleged losses did not occur on the day of the
+
+Defendant’s corrective disclosure. Huey alleges that the losses began on the day
+
+after the corrective disclosure. More plausibly, however, they did not begin until
+
+two days after the disclosure because the sum of the movements on February 7
+
+and 8 essentially balance out and track the market: Anavex’s share price fell only
+
+1.6% from market close on February 6 to market close on February 8. Over that
+
+same period, the Nasdaq Composite stayed essentially level (0.2% increase). 17 Not
+
+
+
+
+       17 See NASDAQ Composite Historical Data, Yahoo Finance, https://perma.cc/VB34-ULKN.
+Contrary to Huey’s claim, the district court can properly “take judicial notice of well-publicized
+stock prices,” including composite indices such as the Nasdaq Composite, at the pleading stage.
+Ganino v. Citizens Utils. Co., 228 F.3d 154, 166 n.8 (2d Cir. 2000). Here, the data was not used to
+resolve disputes of fact but rather to provide objective market context against which the plaintiff’s
+allegations could be evaluated.
+
+                                                 29
+until February 9 did the share price decline notably more than the market (4.8%
+
+vs. 1.0%).
+
+      To the district court, the initial increase and subsequent delay in the loss
+
+were dispositive.    See Huey, 2025 WL 1707581, at *6, *8.           But as previously
+
+explained, we have never adopted a per se rule that loss causation cannot be
+
+plausibly alleged when a stock price increases on the day of a corrective disclosure.
+
+While we have held that “plaintiffs sufficiently plead loss causation when they
+
+allege that their share’s ‘price fell significantly after the truth became known,’”
+
+Abramson v. Newlink Genetics Corp., 965 F.3d 165, 179 (2d Cir. 2020) (quoting Dura,
+
+544 U.S. at 347), the sufficiency of that type of pleading does not render all other
+
+circumstances implausible. Such a rule would belie the common-sense reality that
+
+a share price may rise yet nevertheless underperform the broader market
+
+significantly, thereby leaving a plaintiff with a cognizable loss.
+
+      The district court also noted a 2010 case that we affirmed, in which the
+
+district court explained that it “cannot find . . . a single section 10b-5 case in which
+
+the plaintiff prevailed on a motion to dismiss when the stock price increased after
+
+an announcement revealing an alleged fraud.” Waters v. Gen. Elec. Co., No. 8-CV-
+
+8484, 2010 WL 3910303, at *8 (S.D.N.Y. Sept. 29, 2010) (emphasis omitted), aff’d sub
+
+                                          30
+nom. GE Invs. v. Gen. Elec. Co., 447 F. App’x 229 (2d Cir. 2011) (summary order).
+
+Besides the fact that the district court immediately thereafter acknowledged the
+
+existence of such a case, see Swanson v. Interface, Inc., No. 20-CV-5518, 2022 WL
+
+2003990 (E.D.N.Y. June 6, 2022), the rarity of these cases does not create a per se
+
+rule. It goes simply to our point that the necessary showing at the pleading stage
+
+increases—sometimes dramatically—where the loss does not immediately follow
+
+the corrective disclosure. 18 Here, because Huey’s alleged losses took place only
+
+subsequently in the two days following the corrective disclosure, she bears a
+
+heightened      burden     to    establish    a plausible       causal link between            the
+
+misrepresentation and the delayed drop in Anavex’s share price.
+
+       Huey’s plausibility burden increases further because, on the days of the
+
+alleged losses, the market also declined. On February 8 and 9, when Anavex’s
+
+share price declined, the Nasdaq also fell. The district court correctly observed
+
+that Anavex’s “stock price movements mirrored the direction of leading market
+
+
+
+
+       18  Defendants and the court below also cite a summary order in which we said that a
+plaintiff failed to “adequately plead [loss causation] in view of the fact that the price of [the
+security] increased the day after [the corrective] disclosure.” Ross v. Lloyds Banking Grp., 546 F.
+App’x 5, 12 n.2 (2d Cir. 2013) (summary order). Besides the fact that this summary order has no
+precedential effect and is premised on distinguishable facts, the quoted language is dicta because
+we affirmed the lower court’s dismissal for lack of scienter, not loss causation.
+
+                                                31
+indices on February 7, 8, and 9.” Huey, 2025 WL 1707581, at *7. And while the
+
+court put perhaps too much emphasis on immediate market movements, its
+
+conclusion as to loss causation was not wrong. Because Huey’s alleged loss
+
+“coincide[d] with a marketwide phenomenon” of loss, she must say more to
+
+establish plausibly that her loss was attributable to the misrepresentation and its
+
+correction. Lentell, 396 F.3d at 174. In such cases where it is difficult to know
+
+whether the defendants’ misrepresentation rather than larger market forces
+
+influenced a company’s share price, it is not the role of district courts to undertake
+
+their own complex causal disaggregation analysis or event study at the pleading
+
+stage. See generally Glickenhaus & Co. v. Household Int’l, Inc., 787 F.3d 408 (7th Cir.
+
+2015) (describing the complexities of conducting a disaggregation analysis).
+
+Rather, it is the party asserting loss causation that must do more.
+
+      Accordingly, where, as here, the share price did not substantially decline
+
+until two days after the corrective disclosure, and even that decline coincided with
+
+broader market losses, we hold that Huey failed plausibly to allege loss causation.
+
+Specifically, Huey did not adequately plead a causal link between the disclosure
+
+about abandoning the RSBQ-AUC endpoint, and the delayed drop in Anavex’s
+
+share price. Huey claims that “[t]hese declines are more than sufficient to validate
+
+                                          32
+Plaintiff’s loss causation theory at the pleading stage.” Appellant’s Br. at 27. That
+
+might be so if the declines had been immediate and had clearly deviated from the
+
+market. But that was not the case here. To establish plausibility, Huey must
+
+provide “some indication” of why the loss was delayed and why it was caused by
+
+the corrective disclosure rather than intervening market forces. Dura, 544 U.S. at
+
+347. Her pleadings did not.
+
+      Nowhere in Huey’s complaint does she explain why the loss was delayed
+
+or why the increase in Anavex’s share price on the day of the corrective disclosure
+
+should not undermine the plausibility of her loss-causation allegations. All Huey
+
+pleads is the fact of the loss. She conclusorily alleges that “[t]he timing and
+
+magnitude of the price declines in Anavex stock negate any inference that the
+
+losses suffered . . . were caused by changed market conditions,” P.A. App’x at 61
+
+(¶ 118), but just the opposite is the case. As explained, the initial increase in
+
+Anavex’s share price, the mirroring of the market over the first two days, and the
+
+delayed loss subsequently all undermine the plausibility of a causal link.
+
+      Huey argues on appeal that because the corrective disclosure was “technical
+
+in nature” and its ramifications “were not readily apparent to most investors,” it
+
+was only “once the market had time to understand the significance of Defendants’
+
+                                         33
+disclosure” that Anavex’s share price declined. Appellant’s Reply Br. at 4, 6. That
+
+argument on appeal was essentially conclusory and, in any event, cannot save the
+
+absence of plausible assertions in the complaint. It is not the district court’s role
+
+to devise new theories of causation to save a deficient complaint. See Furlong v.
+
+Long Island Coll. Hosp., 710 F.2d 922, 927 (2d Cir. 1983); Telectronics Proprietary, Ltd.
+
+v. Medtronic, Inc., 687 F. Supp. 832, 836 (S.D.N.Y. 1988). Having provided no
+
+indication in her complaint as to why realization of the loss was delayed—or why
+
+Anavex’s share price initially increased after the corrective disclosure—we hold
+
+that Huey failed plausibly to plead loss causation. 19
+
+
+
+
+       19 Huey separately argues that the district court erred in refusing to include the much later
+January 2, 2024, disclosure of ANAVEX 2-73’s failed clinical trial results and the ensuing share-
+price drop in its loss-causation analysis. But Huey only cited those statements insofar as they
+“spoke to the strength of ANAVEX 2-73’s clinical data.” Appellant’s Br. at 35. That broader
+theory of fraud was rejected by the district court on other grounds (lack of falsity), and Huey does
+not appeal that falsity holding here. See Huey, 2025 WL 1707581, at *6.
+       For that reason, Huey’s reliance on Abramson, 965 F.3d 165, falls short. There, a company’s
+announcement that its drug trial failed was considered a corrective disclosure for a
+misrepresentation about defects in the trial’s patient enrollment. But here, the misrepresentation
+was fully corrected by the February 7 statement. Anavex had nothing left to correct with the later
+statement about the failed trial unless we adopt the broader theory of fraud (i.e.,
+misrepresentation of the strength of clinical data) that was already rejected and is not before us.
+As such, we affirm the district court’s decision to exclude the January 2 statement and the ensuing
+decline in share price.
+
+                                                34
+      C. Denial of Leave to Amend
+
+      The district court denied Huey’s motion for leave to amend her complaint
+
+for futility, finding that she “cannot plead falsity with respect to any statement
+
+other than the February 2, 2023 press release, and she cannot plead loss causation
+
+resulting from that statement because the stock price went up, not down, on the
+
+date of the corrective disclosure.” Huey, 2025 WL 1707581, at *8. The court also
+
+noted that Huey did not offer a proposed second amended complaint. We have
+
+frequently upheld such a failure as grounds for denying leave to replead. See, e.g.,
+
+Noto v. 22nd Century Grp., Inc., 35 F.4th 95, 107-08 (2d Cir. 2022) (affirming denial
+
+of leave to replead where the party’s request gave no indication about how the
+
+plaintiff would cure the pleading defects in its amended complaint); In re Lehman
+
+Bros. Mortg.-Backed Sec. Litig., 650 F.3d 167, 188 (2d Cir. 2011) (same).
+
+      Like the district court, we are not persuaded that Huey could, upon
+
+amendment, plausibly plead loss causation as to the February 2, 2023, statement.
+
+In her appellate briefing and at oral argument, Huey did not provide any new
+
+information that would cure the deficiencies in her complaint; all additions
+
+
+
+
+                                          35
+proposed were substantially duplicative of existing allegations. 20 Accordingly,
+
+we agree with the district court that Huey’s motion to amend should be denied as
+
+futile.
+
+IV.       Conclusion
+
+          For the foregoing reasons, the district court’s judgment is AFFIRMED.
+
+
+
+
+          Our loss-causation holding is based on the absence of a plausible causal link. But even
+          20
+
+if a causal link were established, Huey would still face the additional burden of establishing
+proximity. Though we do not address the issue of proximity here, that remaining burden lends
+further support to our conclusion that amendment would be futile.
+
+                                               36
+

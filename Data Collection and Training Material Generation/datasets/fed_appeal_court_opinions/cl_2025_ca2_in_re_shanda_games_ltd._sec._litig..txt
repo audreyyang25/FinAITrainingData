@@ -1,0 +1,3511 @@
+22-3076
+In re Shanda Games Ltd. Sec. Litig.
+
+
+                           UNITED STATES COURT OF APPEALS
+                               FOR THE SECOND CIRCUIT
+
+                                         August Term 2023
+
+            (Argued: January 24, 2024                      Decided: February 3, 2025)
+
+                                            No. 22-3076
+
+                          ––––––––––––––––––––––––––––––––––––
+                   IN RE: SHANDA GAMES LIMITED SECURITIES LITIGATION
+                                ________________________
+
+                                           DAVID MONK,
+
+                                      Lead-Plaintiff-Appellant,
+
+    ASTOR BK REALTY TRUST, on behalf of itself and all others similarly situated,
+
+                                              Plaintiff,
+
+                                                 -v.-
+
+    SHANDA GAMES LIMITED, YINGFENG ZHANG, LI YAO, LIJUN LIN, HENG WING
+             CHAN, YONG GUI, SHAOLIN LIANG, DANIAN CHEN,
+
+                                       Defendants-Appellees,
+
+                        CAPITALCORP LIMITED, CAPITALHOLD LIMITED,
+
+                                            Defendants.
+
+                            ––––––––––––––––––––––––––––––––––––
+
+
+
+                                                  1
+Before:      LIVINGSTON, Chief Judge, JACOBS, and LOHIER, Circuit Judges.
+
+       Plaintiff-Appellant David Monk challenges the district court’s dismissal of
+his § 10(b) securities fraud case for failure to state a claim. Monk alleges that
+materially misleading proxy materials issued by Shanda Games Limited
+(“Shanda”) as part of a freeze-out merger caused him to accept the merger price
+instead of exercising his appraisal rights. The United States District Court for the
+Southern District of New York (Carter, J.) dismissed Monk’s claims on the ground
+that he failed properly to allege loss causation. We hold that the district court
+erred in dismissing Monk’s claims. We agree with the district court that City of
+Pontiac Policemen’s and Firemen’s Retirement System v. UBS AG, 752 F.3d 173 (2d Cir.
+2014), created a limited exception (for foreign securities purchased on foreign
+exchanges) to the general rule, set forth in Morrison v. National Australia Bank Ltd.,
+561 U.S. 247 (2010), that “transactions in securities listed on a domestic exchange”
+fall within the scope of § 10(b), as this case does. City of Pontiac, 752 F.3d at 179-
+181 (quoting Morrison, 561 U.S. at 267). We further conclude that Monk has
+adequately alleged material misstatements; that federal law governs the adverse
+interest exception to imputation for scienter in § 10(b) cases; and that the scienter
+of the conflicted directors—who had the motive and opportunity to deflate the
+merger price for their own financial gain—can be imputed to the company. We
+also agree with the district court that Monk may invoke the rebuttable
+presumption of fraud-on-the-market to satisfy transaction causation because he
+relied on the market price to decide not to exercise his appraisal rights. We
+disagree with the district court’s conclusion with respect to certain
+misrepresentations and on loss causation and hold that Monk adequately pleaded
+loss causation. We therefore AFFIRM in part and VACATE in part the judgment
+of the district court.
+
+      Judge Lohier joins the opinion of the court and files a concurring opinion.
+      Judge Jacobs dissents in a separate opinion.
+
+FOR PLAINTIFF-APPELLANT:                  JAKE BISSELL-LINSK, Labaton Keller
+                                          Sucharow LLP, New York, NY (Carol C.
+                                          Villegas, Labaton Keller Sucharow LLP,
+                                          New York, NY & Jeremy A. Lieberman,
+
+
+
+
+                                          2
+                                         Michael Grunfeld, Pomerantz LLP, New
+                                         York, NY, on the brief)
+
+FOR DEFENDANTS-APPELLEES:                ABBY F. RUDZIN, O’Melveny & Myers
+                                         LLP, New York, NY (William K. Pao,
+                                         O’Melveny & Myers LLP, Los Angeles,
+                                         CA, on the brief).
+
+DEBRA ANN LIVINGSTON, Chief Judge:
+
+      In this case we consider whether the securities fraud claims of minority
+
+shareholders who allege that they were fraudulently induced to tender their
+
+shares in a freeze-out merger (the “Freeze-Out Merger” or “Merger”), thereby
+
+forfeiting their appraisal rights, were properly dismissed.
+
+      Shanda Games Limited (“Shanda”) was a video games business registered
+
+in the Cayman Islands with American Depository Shares (“ADS”) listed on the
+
+NASDAQ.      Its premier asset was the right to market Mir II, a massively
+
+multiplayer online computer game, in China.         By 2013, Shanda had begun
+
+developing a mobile version of Mir II (“MIIM” or “Mir II Mobile”) to access the
+
+expanding mobile game market. Mere months before MIIM launched, Shanda
+
+authorized the Freeze-Out Merger, a conflicted transaction in which members of
+
+the Board of Directors of Shanda (the “Board”), including the CEO, were part of
+
+
+
+
+                                         3
+the group of buyers (the “Buyer Group”). The Merger occurred three and a half
+
+months after the launch of MIIM.
+
+      As part of the Merger, Shanda issued two proxy statements (the “Proxies”).
+
+Although the minority shareholders lacked the power to stop the Merger, they
+
+could object to the Merger and exercise their appraisal rights. The shareholders
+
+relied on the Proxies to evaluate whether to do so. The Proxies represented that
+
+the Merger was fair to the shareholders and came to this conclusion based on a
+
+fairness opinion that relied on projections produced, in part, by Shanda’s CEO.
+
+But the minority shareholders (now former ADS holders) in this putative class
+
+action (“Plaintiffs”) allege that the Freeze-Out Merger was not fair.             The
+
+projections significantly underestimated Shanda’s financial prospects, and an
+
+appraisal suit (the “Appraisal Action”) later determined that the Freeze-Out
+
+Merger price was a mere 55 percent of the fair value of Shanda’s shares.
+
+      Plaintiffs brought this putative securities fraud class action on behalf of
+
+themselves and other similarly situated investors pursuant to §§ 10(b), 20A, and
+
+20(a) of the Securities Exchange Act of 1934 (“Exchange Act”). David Monk was
+
+appointed lead plaintiff shortly thereafter. Plaintiffs allege that Shanda; its former
+
+CEO, Yingfeng Zhang (“Zhang”); former CFO Li Yao; and five directors: Lijun Lin,
+
+
+
+
+                                          4
+Heng Wing Chan, Yong Gui, Shaolin Liang (“Liang”), and Danian Chen (together
+
+with Zhang, the “Individual Defendants”) made material misstatements and
+
+failed to disclose material information between May 5, 2015 and November 18,
+
+2015 in an effort to conceal that the Freeze-Out Merger price did not reflect the fair
+
+value of Shanda’s shares and thereby discourage the exercise of appraisal rights.
+
+As a result, Plaintiffs claim, they suffered financial loss through failure to exercise
+
+their appraisal rights and receive the appraisal value of their shares.
+
+        The United States District Court for the Southern District of New York
+
+(Carter, J.) dismissed the claims against Shanda and the securities claims against
+
+the Individual Defendants for failure to state a claim. In re Shanda Games Ltd. Sec.
+
+Litig., No. 18-CV-2463, 2022 WL 992794, at *9 (S.D.N.Y. Mar. 31, 2022) [hereinafter
+
+In re Shanda III]. 1 For the reasons stated in this opinion, we conclude that the
+
+district court erred in dismissing Monk’s claim. We agree with the district court
+
+that, in light of Morrison v. National Australia Bank Ltd., 561 U.S. 247 (2010), § 10(b)
+
+applies to Monk’s claims because Shanda’s ADS were securities listed exclusively
+
+
+
+        1 Plaintiffs’ Second Amended Complaint (the “Complaint”), the operative complaint in this appeal,
+also includes insider trading claims. Lead Plaintiff Monk does not appeal the dismissal of the insider
+trading claims against Shanda and two entities created to carry out the Freeze-Out Merger, Capitalhold
+Limited and Capitalcorp Limited. The insider trading claims against Zhang are not within the scope of this
+appeal. In re Shanda Games Ltd. Sec. Litig., No. 18-CV-2463 (S.D.N.Y.) (“District Court Docket”), District
+Court Docket. No. 111.
+
+
+
+                                                    5
+on a domestic exchange. We further conclude that Monk has adequately pleaded
+
+actionable misstatements regarding the amortization and depreciation figures
+
+used in preparing the financial projections; the projections themselves as set forth
+
+in the Proxies; and the statements by Defendants characterizing the Merger as fair.
+
+But we hold that Monk has failed to plead actionable misstatements or omissions
+
+with regard to statements about the grouping of games for revenue estimates and
+
+the failure to disclose MIIM’s revenue.                   We also conclude that Monk has
+
+adequately pleaded scienter and that he is entitled to rely on the rebuttable
+
+presumption of fraud-on-the-market to plead reliance. We disagree with the
+
+district court’s conclusion that Monk failed adequately to plead loss causation and
+
+conclude, instead, that Monk sufficiently pleaded that he was induced to give up
+
+his appraisal rights by Shanda’s material misstatements.                          Accordingly, we
+
+AFFIRM in part, VACATE in part, and REMAND for further proceedings not
+
+inconsistent with this opinion.
+
+                                         BACKGROUND
+
+                                  I.      Factual Background 2
+
+
+
+
+        2The following facts are drawn from the Complaint and the documents it incorporates by reference.
+We assume them to be true for the purposes of this appeal. New Eng. Carpenters Guaranteed Annuity and
+Pension Funds v. DeCarlo, 80 F.4th 158, 165-66 (2d Cir. 2023).
+
+
+                                                   6
+        Mir II was Shanda’s golden goose. In the five years preceding the Freeze-
+
+Out Merger, Mir II had generated over $1 billion in revenue. By 2013, however,
+
+sales in Mir II were declining, so Shanda turned to the expanding and highly
+
+lucrative mobile game market to revitalize the franchise. Shanda invested heavily
+
+in MIIM over the next two years, and initial testing was immensely successful. In
+
+August 2015, Shanda launched MIIM with very high expectations.
+
+        During the years preceding the launch of MIIM, Shanda explored a going
+
+private transaction. A committee of directors (the “Special Committee”) was
+
+formed to negotiate and evaluate the proposed transaction.                                The Special
+
+Committee hired Merrill Lynch (Asia Pacific) Limited (“Merrill Lynch”) to provide
+
+it with financial advice. To facilitate this advising role, Shanda’s management
+
+provided Merrill Lynch with financial projections for Shanda (the “March 2014
+
+Projections”).
+
+        The negotiations involved a revolving cast of potential buyers. 3 In Spring
+
+2014, Buyer Group 1 indicated a willingness to pay $6.90 per ADS. But when the
+
+Special Committee “pushed for a higher price,” Buyer Group 1 refused. App’x
+
+733, ¶ 88. Buyer Group 2, formed in April 2014, continued to negotiate with the
+
+
+
+        3For clarity, we have excluded from this recitation of the facts certain changes to the composition
+of the Buyer Group that do not impact our analysis.
+
+
+                                                    7
+Special Committee. Buyer Group 3 was formed in the fall of 2014. It included
+
+Ningxia, a company that came to control 42 percent of the voting power of
+
+Shanda’s shares. In September 2014, Buyer Group 3 indicated it would increase
+
+its offer to $7.10 per ADS.
+
+      At the end of October 2014, Shanda’s then-CEO resigned and stepped down
+
+from his position on the Board. Zhang was then elevated from his internal position
+
+in Shanda to take over as CEO. Zhang subsequently purchased enough voting
+
+shares in Shanda to become, along with Ningxia, one of the dominant
+
+shareholders. Zhang and Ningxia joined the potential buyers to create Buyer
+
+Group 4, which collectively controlled 90 percent of all shareholder votes.
+
+      Shortly thereafter, the Chairman of Shanda’s Board, Tiangqiao Chen
+
+(“Chen”), stepped down from his position and left the Board. Zhang was selected
+
+to fill Chen’s seat on the Board and was appointed to serve as Shanda’s Chairman.
+
+Simultaneously, the Chairman of Ningxia’s Board of Directors was nominated to
+
+fill the open director position left by the departure of Shanda’s former CEO.
+
+Ningxia’s Chairman resigned from both Ningxia and Shanda in February 2015 and
+
+
+
+
+                                        8
+was replaced on Shanda’s Board by Liang, a vice general manager of Ningxia. In
+
+March 2015, Buyer Group 4 proposed a purchase price of $6.90 per ADS.
+
+      To assist with the evaluation of this proposal, Shanda’s management,
+
+including Zhang, provided the Special Committee and Merrill Lynch with new
+
+financial projections (the “March 2015 Projections,” with the March 2014
+
+Projections, the “Projections”). But the March 2015 Projections, which suggested
+
+a serious decline in Shanda’s prospects, were materially flawed.
+
+      Without explanation, the income and revenue projected by the March 2015
+
+Projections were lower. Moreover, the process used to create the March 2015
+
+Projections also differed from the way Shanda had previously calculated its
+
+financial projections. Prior to the March 2015 Projections, Shanda had calculated
+
+amortization and depreciation by writing down fixed assets in accordance with
+
+their expected useful lives. For the March 2015 Projections, Shanda calculated
+
+amortization and depreciation as a percentage of revenue. This method violated
+
+accepted accounting principles and substantially overestimated amortization and
+
+depreciation to the extent that the net value of capital assets became negative
+
+during the projection period, which caused the March 2015 Projections to
+
+underestimate Shanda’s value.       In addition, the March 2015 Projections
+
+
+
+
+                                        9
+inexplicably estimated that MIIM would generate only $15 million in lifetime
+
+revenue. But MIIM was a key component of Shanda’s business strategy—in which
+
+the company had heavily invested—and was designed to be the successor to Mir
+
+II, a game that had produced nearly two billion dollars in revenue over the seven
+
+years preceding the Merger.
+
+      After discussions with Merrill Lynch, the Special Committee requested a
+
+price of $7.10 per ADS from Buyer Group 4. Buyer Group 4 agreed to that price,
+
+and Merrill Lynch issued a fairness opinion. This opinion concluded that the
+
+merger price was fair based on “the projections provided to it by Shanda’s
+
+management.” App’x 737, ¶ 102. After Merrill Lynch issued its opinion, the
+
+Special Committee and then the Board determined that the Merger was “fair” and
+
+“in the best interests of the Company and Unaffiliated Holders,” App’x 737, ¶ 103,
+
+despite the Board’s knowledge that the March 2015 Projections were ”seriously
+
+flawed,” App’x 767, ¶ 181. The Board then authorized the execution of the merger
+
+agreement.
+
+      Although Buyer Group 4 controlled sufficient voting power to approve the
+
+Freeze-Out Merger, Shanda still needed to hold a meeting to allow all shareholders
+
+to vote in favor of the proposed merger as a precursor to tendering their shares or
+
+
+
+
+                                        10
+to dissent as a precursor to exercising their appraisal rights. This meeting, the
+
+Extraordinary Shareholders Meeting (the “EGM”), was scheduled for November
+
+18, 2015. Shanda filed the Initial Proxy on May 5, 2015 and a Final Proxy on
+
+October 13, 2015.
+
+      Both Proxies contained charts of the Projections. The March 2014 Projections
+
+included data for fiscal years 2013 through 2018 while the March 2015 Projections
+
+in the Proxies covered 2014 to 2019. Although the Proxies represented that this
+
+data was what Shanda furnished to Merrill Lynch for the fairness opinion, in
+
+actuality, Shanda had also provided Merrill Lynch detailed data for 2020 that
+
+showed continued growth.
+
+      The Proxies also described the process by which management had created
+
+the financial forecasts in the Projections. They explained that “[i]n compiling the
+
+projections, the Company’s management . . . projected revenues for each new
+
+game . . .” and described the Projections as “based on numerous assumptions and
+
+estimates as to future events made by management that management believed
+
+were reasonable at the time the projections were prepared.” App’x 769, ¶ 187;
+
+App’x 775, ¶ 215. The Proxies also stated that both the Special Committee and the
+
+Board “determined” that the Freeze-Out Merger was “fair to, and in the best
+
+
+
+
+                                        11
+interests of, the Company and its shareholders and ADS holders.” 4 App’x 771,
+
+¶ 195; App’x 776, ¶ 219. The Final Proxy reiterated that “the Company believes
+
+that the Merger Agreement, the Plan of Merger and the Transactions, including
+
+the Merger, are fair to, and in the best interests of, the Company and its unaffiliated
+
+security holders.” App’x 778, ¶ 228.
+
+       On August 3, 2015, between the filing of the Initial Proxy and the Final
+
+Proxy, Shanda launched MIIM. It was a massive success. Within two weeks,
+
+MIIM was the top selling game on the iOS App Store. Each month after its launch
+
+MIIM generated over $90 million in revenue. Due to real-time data analytics,
+
+Shanda knew of MIIM’s success before October 2015. While the Final Proxy
+
+disclosed that Shanda had not updated the March 2015 Projections, the Proxy did
+
+not disclose the scale of the error in the estimates of MIIM’s revenue. By the time
+
+of the Final Proxy, MIIM had already generated many times the March 2015
+
+Projection’s estimates of MIIM’s lifetime revenue.
+
+       At the EGM on November 18, 2015, the Buyer Group voted to approve the
+
+Freeze-Out Merger. As a result, Monk and the other members of the putative class
+
+
+
+
+        4The statement attributed to the Board was that “the Board . . . determined that it was fair to,
+advisable and in the best interests of the Company and the Unaffiliated Holders to consummate the
+Transactions, including the Merger . . . .” App’x 771-72, ¶ 197; App’x 777, ¶ 224.
+
+
+                                                  12
+who did not sell their stock during the class period (the “Tenderers”) had their
+
+ADS cashed out for $7.10 per share. 5 But that was not the end of the story for the
+
+former shareholders. Three shareholders (the “Dissenters”) objected to the Freeze-
+
+Out Merger and filed an appraisal action in the Grand Court of the Cayman
+
+Islands. During the Appraisal Action, the errors discussed above, and others,
+
+came to light. At the conclusion of the Appraisal Action, the Court of Appeals of
+
+the Cayman Islands affirmed that the Merger price did not represent the fair value
+
+of the shares and awarded the Dissenters $12.84 per ADS.
+
+                                   II.     Procedural History
+
+        Astor BK Realty Trust filed a complaint on March 19, 2018 in the Southern
+
+District of New York. Following a motion by Monk, the district court appointed
+
+him lead plaintiff on June 1, 2018. Monk filed an amended complaint later that
+
+year. Shanda then moved to dismiss all claims pursuant to Federal Rule of Civil
+
+Procedure 12(b)(6). The district court granted the motion to dismiss on September
+
+30, 2019.     In re Shanda Games Sec. Litig., No. 18-CV-2463, 2019 WL 11027710
+
+(S.D.N.Y. Sep. 30, 2019) [hereinafter In re Shanda I].
+
+
+
+
+        5The putative class, as defined by the Complaint, includes both those who tendered their stock
+through the Merger, such as Monk, and those who sold their stock during the class period, the “Sellers.”
+Monk, a tenderer and the only named plaintiff, proceeds only on theories related to the Tenderers.
+
+
+                                                  13
+      The district court ruled that Monk had failed to plead reliance because after
+
+the announcement of the Merger, the market in ADS was not efficient, so Monk
+
+could not rely on the fraud-on-the-market presumption. Id. at *9. The district
+
+court also ruled, however, that Monk had adequately pleaded that Shanda made
+
+two material misstatements: (1) the opinion in both Proxies that the March 2015
+
+Projections were reasonably prepared (because the unreasonable amortization and
+
+depreciation figures meant that the statements were untrue and Shanda “did not
+
+have ‘a reasonable basis for [said] belief[s]’”) id. at *5 (quoting Slayton v. American
+
+Express Co., 604 F.3d 758, 774 (2d Cir. 2010)); and (2) the Proxies’ description of the
+
+March 2015 Projections as a summary when the 2020 data was omitted and this
+
+information could not be said to be immaterial on a motion to dismiss, id. at *6.
+
+But the district court also held that the statements that the Freeze-Out Merger was
+
+fair were inactionable opinion statements because Monk had failed to allege that
+
+“the facts supporting the belief that the deal was fair are untrue” or that
+
+“Defendant could not have believed $7.10 was fair.” Id. at *7.
+
+      The next month, Monk filed a motion for reconsideration that the district
+
+court denied in part and granted in part, concluding, as relevant here, that
+
+Shanda’s failure to release information about MIIM’s revenue before the EGM was
+
+
+
+
+                                          14
+not an actionable omission because there was no duty to disclose this information
+
+under Cayman law. In re Shanda Ltd. Sec. Litig., No. 18-CV-2463, 2020 WL 5813769,
+
+at *4-5 (S.D.N.Y. Sep. 30, 2020) [hereinafter In re Shanda II]. Before the district court
+
+had issued its ruling in In re Shanda II, Monk filed a motion for leave to amend the
+
+complaint and to add another lead plaintiff, Altimeo Asset Management
+
+(“Altimeo”), a Seller. Shortly after issuing In re Shanda II, the district court granted
+
+leave to amend the complaint but denied leave to add Altimeo.
+
+      Monk filed a second amended complaint (the “Complaint”) on October 23,
+
+2020, and Shanda and Zhang moved to dismiss thereafter. Once again, the district
+
+court dismissed the claims against Shanda. In re Shanda III, at *9. This time, the
+
+district court concluded that, in light of the amendments, Monk had adequately
+
+pleaded an efficient market so he could invoke the fraud-on-the-market
+
+presumption for reliance. Id. at *5. But the district court decided that Monk had
+
+not adequately pleaded loss causation because the Complaint “lack[ed] allegations
+
+explaining in a plausible manner how or why Plaintiff was personally induced to
+
+sell his shares instead of exercising his appraisal rights.” Id. at *6. Monk filed a
+
+timely notice of appeal, challenging the district court’s dismissal of the Complaint
+
+and the earlier denial of leave to add Altimeo.
+
+
+
+
+                                           15
+                                    DISCUSSION
+
+      “We review de novo a district court judgment granting a motion to dismiss
+
+pursuant to Federal Rule of Civil Procedure 12(b)(6), accepting all factual
+
+allegations in the complaint as true.” City of Pontiac Policemen’s & Firemen’s Ret.
+
+Sys. v. UBS AG, 752 F.3d 173, 179 (2d Cir. 2014). “To survive a motion to dismiss,
+
+a complaint must contain sufficient factual matter . . . to state a claim for relief that
+
+is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (internal quotation
+
+marks omitted).     We may consider “any written instrument attached to the
+
+complaint, statements or documents incorporated into the complaint by reference,
+
+legally required public disclosure documents filed with the SEC, and documents
+
+possessed by or known to the plaintiff and upon which it relied in bringing this
+
+suit.” ATSI Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 98 (2d Cir. 2007).
+
+      Section 10(b) of the Exchange Act makes it unlawful to “[t]o use or employ,
+
+in connection with the purchase or sale of any security registered on a national
+
+securities exchange . . . any manipulative or deceptive device or contrivance in
+
+contravention of such rules and regulations as the Commission may prescribe as
+
+necessary or appropriate . . . .” 15 U.S.C. § 78j(b). Rule 10b-5, one of the rules
+
+promulgated under § 10(b), provides: “[i]t shall be unlawful for any person . . . [t]o
+
+make any untrue statement of a material fact or to omit to state a material fact
+
+                                           16
+necessary in order to make the statements made, in light of the circumstances
+
+under which they were made, not misleading . . . .” 17 C.F.R. § 240.10b-5. To state
+
+a private securities-fraud claim under § 10(b) and Rule 10b-5, a plaintiff must plead
+
+“(i) a material misrepresentation or omission; (ii) scienter; (iii) a connection with
+
+the purchase or sale of a security[;] (iv) reliance by the plaintiff(s); (v) economic
+
+loss; and (vi) loss causation.” In re Omnicom Grp. Inc. Sec. Litig., 597 F.3d 501, 509
+
+(2d Cir. 2010) (internal quotation marks omitted).
+
+      The district court dismissed the Complaint for failure to plead loss
+
+causation. In re Shanda III, 2022 WL 992794, at *6. Monk contests that conclusion
+
+and the district court’s conclusions that four alleged misstatements and an
+
+omission were not actionable. Defendants urge us to affirm on the same basis as
+
+the district court or for failure to plead a material misstatement, reliance, or
+
+scienter. They also argue that § 10(b) does not apply to the actions at issue here.
+
+We conclude that § 10(b) applies and that Monk has adequately pleaded loss
+
+causation, reliance, scienter, and actionable misstatements.       Accordingly, we
+
+vacate in part, and affirm in part the judgment of the district court and remand for
+
+further proceedings not inconsistent with this opinion.
+
+
+
+
+                                         17
+                         I. Morrison’s Extraterritoriality Bar
+
+      At the start, the district court held that this case falls within the scope of
+
+§ 10(b) because the Plaintiffs’ ADS were traded on a domestic exchange. In re
+
+Shanda I, 2019 WL 11027710, at *4. We agree. In Morrison v. National Australia Bank
+
+Ltd., the Supreme Court determined that § 10(b) applies only domestically. See
+
+generally 561 U.S. 247 (2010). Explaining that there are two ways that a claim can
+
+be within § 10(b)’s scope, Morrison teaches that the provision affords a private
+
+cause of action first for “transactions in securities listed on domestic exchanges”
+
+and, second, for “domestic transactions in other securities.” City of Pontiac, 752
+
+F.3d at 179 (quoting Morrison, 561 U.S. at 267); see also Absolute Activist Value Master
+
+Fund Ltd. v. Ficeto, 677 F.3d 60, 66 (2d Cir. 2012). Here, the ADS were purchased
+
+on the NASDAQ and remained listed on the NASDAQ throughout the class
+
+period, after which they were cancelled and delisted from the exchange. This case
+
+is thus squarely about “transactions in securities listed on domestic exchanges,”
+
+and so falls within the scope of § 10(b). City of Pontiac, 752 F.3d at 179.
+
+      Shanda argues that in City of Pontiac, we supposedly explained that “the
+
+question under Morrison is where the purchase or sale of securities at issue took
+
+place, not where the securities were listed.” Appellee’s Br. at 51. And because
+
+Shanda is a foreign corporation and, according to Shanda, the Freeze-Out Merger
+
+
+                                          18
+occurred in China where the EGM took place, the tender of Monk’s shares was not
+
+a domestic transaction within the scope of § 10(b). We disagree.
+
+      In City of Pontiac, we held that the purchase of foreign-issued stock on a
+
+foreign exchange did not constitute a transaction in a security “listed on a domestic
+
+exchange” for Morrison purposes merely because the security was dual-listed on a
+
+domestic exchange. City of Pontiac, 752 F.3d at 181. We rejected this so-called
+
+“listing theory” as to Morrison’s first prong because it was “irreconcilable with
+
+Morrison read as a whole.” Id. at 179-80. But unlike in City of Pontiac—where the
+
+security was purchased on a foreign exchange and merely dual listed on a
+
+domestic exchange—Monk’s ADS were traded only on a U.S. exchange, were
+
+purchased there, and ultimately delisted there. This case therefore falls squarely
+
+within Morrison’s first prong.
+
+      We have not, as Shanda alleges, collapsed into one the two circumstances in
+
+which a securities transaction qualifies as domestic for Morrison purposes. Indeed,
+
+our case law is clear that the two prongs of Morrison are distinct. See id. at 179-181
+
+(considering separately claims about Morrison prongs one and two); Absolute
+
+Activist, 677 F.3d at 69 n.4 (explaining that its analysis of Morrison’s second prong
+
+did not impact the first prong). City of Pontiac thus merely carved out an exception
+
+
+
+
+                                         19
+to prong one’s general rule—that “transactions in securities listed on domestic
+
+exchanges” fall with the scope of § 10(b)—for claims arising from purchases of
+
+“foreign-issued shares on a foreign exchange.” City of Pontiac, 752 F.3d at 181. It
+
+evinces a concern with attempts to regulate transactions in stock on foreign
+
+exchanges, and not an intent to otherwise limit prong one. See id. at 180 (discussing
+
+Morrison’s concern with “the location of the securities transaction and not the
+
+location of an exchange where the security may be dually listed” (second emphasis
+
+added, internal quotation marks omitted)). In contrast, Shanda’s reading of City
+
+of Pontiac would run counter to Morrison’s recognition of “[t]he primacy of the
+
+domestic exchange” in the Exchange Act, 561 U.S. at 267, and thus be
+
+“irreconcilable with Morrison read as a whole,” City of Pontiac, 752 F.3d at 179-80.
+
+Accordingly, having concluded that the transactions at issue here fall within the
+
+scope of § 10(b), we turn to the elements of the claim.
+
+                                         II. Misrepresentations
+
+        On appeal, Monk argues that the Proxies contain four types of materially
+
+misleading misstatements and one omission. 6 Monk categorizes some of the
+
+
+
+
+        6As discussed further herein, ”for an omission to be considered actionable under § 10(b), the
+defendant must be subject to an underlying duty to disclose.” Levitt v. J.P. Morgan Sec., Inc., 710 F.3d 454,
+465 (2d Cir. 2013).
+
+
+
+                                                    20
+alleged misrepresentations as statements of fact and others as statements of
+
+opinion. Defendants do not challenge any of these categorizations and so, for
+
+purposes of this appeal, we accept them. 7                         Material statements of fact are
+
+actionable if they are untrue. 17 CFR § 240.10b-5(b). Statements of opinion are
+
+actionable if (1) “‘the speaker did not hold the belief she professed[,]’” (2) “‘the
+
+supporting fact[s] she supplied were untrue[,]’” or (3) “the speaker omit[ted]
+
+information whose omission makes the statement misleading to a reasonable
+
+investor.” Tongue v. Sanofi, 816 F.3d 199, 210 (2d Cir. 2016) (quoting Omnicare, Inc.
+
+v. Laborers Dist. Council Const. Indus. Pension Fund, 575 U.S. 175, 186 (2015)).
+
+        “A statement structured, ‘I believe that x is so because y has occurred,’
+
+contains the factual and falsifiable statement, ‘y has occurred.’” Abramson v.
+
+Newlink Genetics Corp., 965 F.3d 165, 175 (2d Cir. 2020).                              This statement is
+
+potentially actionable if “y has in fact not occurred.” Id. The statement “I believe
+
+that x has occurred” is also actionable if a reasonable investor would understand
+
+the statement to imply that y has occurred and y has not, in fact, occurred. Id.
+
+Because “a reasonable investor expects that opinion statements ‘rest on some
+
+
+
+
+        7“In general, a fact is ‘a thing done or existing or an actual happening,’ while an opinion is ‘a belief,
+a view, or a sentiment which the minds forms of persons or things.’” New Eng. Carpenters, 80 F.4th at 169
+(quoting Omnicare, Inc. v. Laborers Dist. Council Const. Indus. Pension Fund, 575 U.S. 175, 183 (2015)).
+
+
+                                                      21
+meaningful inquiry,’ ‘fairly align with the information in the issuer’s possession at
+
+the time,’ and do not ‘reflect baseless, off-the-cuff judgments,’” it is generally
+
+misleading when statements do not rest on meaningful inquiry, do not align with
+
+the information in the issuer’s possession, or are baseless, off-the cuff judgments.
+
+New Eng. Carpenters, 80 F.4th at 170 (quoting Omnicare, 575 U.S. at 188) (ellipses
+
+and brackets omitted).
+
+          A.    Statements Concerning the Preparation of Projections
+
+                         1.     Game Revenue Estimates
+
+      Monk first contends that Shanda’s statements that the Projections provided
+
+in the Proxies were based on “projected revenues for each new game,” App’x 769,
+
+¶ 187; App’x 775, ¶ 215, and that the Projections “were reasonably prepared on
+
+bases reflecting the best available estimates and good faith judgments of the
+
+management of the Company,” App’x 773, ¶ 201; App’x 776, ¶ 219, were
+
+materially misleading. Monk argues that these statements, taken together, are
+
+actionable because “[a] reasonable investor interpreting these statements would
+
+understand them to mean that the projections reflected game-specific revenue
+
+forecasts based on the best available estimates for the revenue of each game” and
+
+that Shanda did not, in fact, perform a game-specific analysis. Appellant’s Br. at
+
+50. We disagree.
+
+
+                                         22
+      Assuming that the statement that the Projections were “reasonably
+
+prepared” based, inter alia, on “projected revenues for each new game” reflects an
+
+opinion, such a statement is actionable if “the statement omits information whose
+
+omission conveys false facts about the speaker’s basis for holding that view and
+
+makes the opinion statement misleading to a reasonable investor.” New England
+
+Carpenters, 80 F.4th at 171. But the statement is actionable only if a reasonable
+
+investor would believe that the statement implies those facts. Abramson, 965 F.3d
+
+at 175.
+
+      Monk has not adequately alleged that the opinion statements on which he
+
+relies would lead a reasonable investor to expect projections based on “game
+
+specific revenue forecasts” as opposed to some other methodology for projecting
+
+revenues for each new game. Indeed, the Complaint explains that “Shanda’s
+
+management forecasted the expected revenue of each game slated for release.”
+
+App’x 759, ¶ 163. But Shanda did so by categorizing games into three different
+
+types and then using that categorization to predict revenue.        Shanda thus
+
+calculated each game’s revenue—such that the statement in the Proxies is literally
+
+correct—but did so using a methodology that the Complaint alleges was a
+
+“simplistic method of generating projections.” Id.
+
+
+
+
+                                       23
+      To be sure, “[s]tatements of literal truth ‘can become, through their context
+
+and manner of presentation, devices which mislead investors.’” See Kleinman v.
+
+Elan Corp., PLC, 706 F.3d 145, 153 (2d Cir. 2013) (quoting McMahan & Co. v.
+
+Wherehouse Entm’t, Inc., 900 F.2d 576, 579 (2d Cir. 1990)). But on appeal, Monk
+
+does not explain why, in the context of reviewing a statement of opinion, a
+
+reasonable investor would have expected Shanda to have projected revenues for
+
+each new game individually, as opposed to categorizing them by type.
+
+Accordingly, we conclude that the Complaint fails to allege a material
+
+misrepresentation as to these statements.
+
+                     2.        Amortization & Depreciation
+
+      We conclude, with the district court, that Monk’s next allegation of a
+
+material misrepresentation is well-pleaded. Monk contends that it was materially
+
+misleading to describe the process used to create the March 2015 Projections as
+
+“reasonable” and reflecting the “best available estimates” when the method used
+
+to calculate amortization and depreciation in preparing the estimates violated
+
+basic and accepted accounting principles that a reasonable investor would assume
+
+were followed. App’x 769, ¶ 187; App’x 772-73, ¶ 201; App’x 775, ¶ 215. For the
+
+following reasons, we agree.
+
+
+
+
+                                        24
+      At the start, Monk has adequately alleged that basic accounting principles
+
+were violated in the preparation of the March 2015 Projections. Prior to the Freeze-
+
+Out Merger, Shanda had estimated depreciation and amortization based on the
+
+estimated useful life of the assets. But as the Complaint alleges, for the March 2015
+
+Projections, Shanda used a new method, one which “assumed that depreciation
+
+and amortization would grow at a rate that was a function of revenue growth” in
+
+violation “of basic accounting principles.” App’x 761, ¶ 169. This method resulted
+
+in the impossible outcome of the book value of Shanda’s capital assets becoming
+
+negative in 2018. App’x 761-62, ¶ 170.
+
+      To be sure, Shanda was permitted to choose any accepted accounting
+
+method while characterizing its process for preparing the Projections as
+
+reasonable. But it was limited to accepted methods. Cf. New Eng. Carp., 80 F.4th at
+
+170 (“[A] plaintiff will be unable to establish that [a statement] is false merely by
+
+showing that other reasonable alternative views exist. Where those alternatives
+
+exist, the speaker making the statement (expressing an opinion) can choose among
+
+them . . . .” (emphasis added)). This is because a reasonable investor assured by
+
+Shanda that the Projections were reasonably prepared would infer that basic
+
+accounting principles were followed. As Judge Kaplan has aptly explained:
+
+
+
+
+                                         25
+      [F]inancial professionals have developed specific metrics . . . to
+      perform valuations of companies, their stock prices, and the like.
+      Thus, a statement that a deal is “fair” reasonably may be understood
+      as a statement, or at least as an implication, that the opinion reflects
+      or is based upon one or more accepted valuation metrics. . . .
+
+      If the directors’ statements about the fairness of the deal . . . are not
+      grounded in “the customs and practices of the relevant industry,”
+      they “could be misleadingly incomplete” . . . . because the reasonable
+      person, who “understands a statement of opinion in its full context,”
+      would expect “not just that the issuer believes the opinion (however
+      irrationally),” but that the opinion “rests on some meaningful . . .
+      inquiry . . . .”
+
+In re Lehman Bros. Sec. Litig. & ERISA Litig., 131 F. Supp. 3d 241, 253-54 (S.D.N.Y.
+
+2015) (quoting Omnicare, 575 U.S. at 189, 190); see also City of Westland Police & Fire
+
+v. Metlife, 129 F. Supp. 3d 48, 71 (S.D.N.Y. 2015).
+
+       Shanda argues that the statements about the March 2015 Projections are
+
+not actionable because “alleged flaws in the projections do not make statements
+
+about projections misleading.” Appellee’s Br. at 35. But this is incorrect. Shanda
+
+relies on OFI Asset Management v. Cooper Tire & Rubber, 834 F.3d 481 (3d Cir. 2016).
+
+In OFI, the plaintiff attempted to proceed on a theory that the projections provided
+
+in the proxy materials were themselves “objectively false.” Id. at 500. But the
+
+Third Circuit held that because the proxy materials disclaimed the accuracy of the
+
+projections, “the only relevant statement of fact” in these materials was “that the
+
+
+
+
+                                          26
+projections were, in fact, the projections” provided to the relevant parties—a
+
+statement that was accurate and not misleading. Id. at 501. Here, however, Monk
+
+does not claim that the statements in question are objectively false statements of
+
+fact. He argues that they are statements of opinion that create the misleading
+
+impression that the projections were prepared using acceptable accounting
+
+techniques. Contrary to Shanda’s contention, there is no special rule for opinion
+
+statements about projections, and Monk has adequately alleged that the opinions
+
+here were materially misleading. Accordingly, OFI is inapposite. We therefore
+
+affirm as to the district court’s determination that these statements were
+
+actionable.
+
+                       B.     The Projections Themselves
+
+      Monk next alleges that the March 2015 Projections, as presented in the
+
+Proxies, are materially misleading because Shanda did not believe that these
+
+Projections reasonably estimated MIIM’s future revenue. The Projections are
+
+opinion statements, Shreiber v. Synacor, Inc., 832 F. App’x 54, 57 (2d Cir. 2020)
+
+(describing statements about expected future revenue as “quintessential opinion
+
+statements”) (citing Fait v. Regions Fin. Corp., 655 F.3d 105, 111 (2d Cir. 2011),
+
+abrogated on other grounds by Omnicare, 575 U.S. 175, as recognized in Abramson, 965
+
+F.3d 165), which are actionable if “the speaker did not hold the belief she
+
+
+                                        27
+professed,” Tongue, 816 F.3d at 210 (quoting Omnicare, 575 U.S. at 186). We agree
+
+with Monk that he has adequately alleged a material misrepresentation in
+
+connection with the March 2015 opinion statements about MIIM’s prospects.
+
+        The March 2015 Projections estimated that MIIM would make only $15
+
+million in lifetime revenue. Monk has adequately alleged that Shanda did not
+
+believe that figure to be accurate. The computer version of Mir II had grossed
+
+almost $400 million in the two years prior to the Freeze-Out Merger and nearly
+
+two billion dollars since 2008. And Shanda had spent considerable resources on
+
+MIIM, its successor, employing approximately 80 people for more than two years
+
+to work specifically on it. 8 In December 2014, Shanda described the results of its
+
+internal testing of MIIM as “fabulous.” App’x 727, ¶ 79(f). Management also
+
+knew about “’official pre-orders, Official Weibo and Wechat data and . . . recent
+
+technical experience data’” which showed “early ‘excellent performance,’” App’x
+
+729, ¶ 79(i). Shanda was aware of great public interest in MIIM. App’x 727, ¶ 79(e)
+
+(“Shanda published an article . . . [that] explained that the premier of Mir II
+
+Mobile . . . ‘piqued great public interest.’”); App’x 729, ¶ 79(k) (“’[H]undreds of
+
+thousands of passionate gamers’ congregated on the [MIIM] website ‘within an
+
+
+
+        8The head of development for MIIM explained that Shanda had “spared no efforts in terms of . . .
+reinvestments into this game.” App’x 725, ¶ 78.
+
+
+                                                  28
+extremely short time.’”). Shanda also publicly announced that it believed MIIM
+
+would be a massive success as part of the “best times” of the video game industry
+
+because of the “explosive growth” of mobile games. App’x 726-27, ¶ 79(d). Based
+
+on these allegations about the history of Mir II and Shanda’s expectations about
+
+MIIM, Monk has adequately alleged that the Defendants did not believe the March
+
+2015 Projections to be accurate.
+
+      Shanda argues that the March 2015 Projections fall within the Private
+
+Securities Reform Litigation Act (“PSLRA”) safe-harbor provision because they
+
+are “forward-looking statements that were identified as such and accompanied by
+
+meaningful cautionary language.” Appellee’s Br. at 35. We disagree. The safe
+
+harbor does not apply to forward-looking statements made in connection with a
+
+going private transaction. 15 U.S.C. § 78u-5(b)(1)(E); Maso Cap. Inv. Ltd. v. E-House
+
+(China) Holdings Ltd., No. 22-355, 2024 WL 2890968, at *4 n.2 (2d Cir. 2024). The
+
+Freeze-Out Merger is a going private transaction because it involved the
+
+“purchase of any equity security by the issuer of such security or by an affiliate of
+
+such issuer.” 17 C.F.R. § 240.13e-3. Because the PSLRA safe harbor does not apply,
+
+the March 2015 Projections, as provided in the Proxies, are evaluated simply as
+
+opinion statements, and Monk has adequately alleged that Shanda did not believe
+
+
+
+
+                                         29
+the statements to be true when it made them. 9 We therefore vacate and remand as
+
+to the district court’s determination that they were not actionable.
+
+               C.      Statements Concerning the Summary of the Data
+
+       The March 2015 Projections in the Proxies include a statement that they are
+
+a summary of the financial projections provided by management to Merrill Lynch
+
+and the Buyer Group. Monk alleges that this statement was misleading because
+
+the March 2015 Projections, as presented in the Proxies, exclude one year of data,
+
+for 2020, that is a part of the actual projections. The district court agreed, noting
+
+that a summary “must describe[] ‘the main points succinctly.’” In re Shanda I, 2019
+
+WL 11027710, at *6 (quoting Summary, Pocket Oxford English Dictionary (2d ed.
+
+2008)). See Summary, Oxford Dictionaries, https://premium.oxforddictionaries.co
+
+m/us/definition/american_english/summary, [https://perma.cc/XXE4-UCV5] (last
+
+visited January 31, 2025) (defining summary as “a brief statement or account of the
+
+main points of something”). We agree. With one out of five years of data
+
+excluded, the March 2015 Projections do not constitute an accurate summary of
+
+the material provided to Merrill Lynch and to the Buyer Group.
+
+
+
+
+       9  Neither party has briefed the applicability of the “bespeaks caution” doctrine, so we do not
+address its possible applicability.
+
+
+                                                 30
+         Shanda contends, to the contrary, that “to ‘summarize’” means “to reduce
+
+the presented information to only a portion of the full material” and that the
+
+Proxies’ March 2015 Projections do constitute a summary because they are a
+
+“portion” of the financial projections afforded to Merrill Lynch and to the Buyer
+
+Group. Appellee’s Br. at 40. Shanda points to our discussion of the definition of
+
+“summarize” in In re Bank of America Corporation Securities, Derivatives &
+
+Employment Retirement Income Securities Act (ERISA) Litigation, 772 F.3d 125 (2d Cir.
+
+2014).    But that very case defines summary as “constituting or containing a
+
+summing up of points: covering main points concisely: summarizing very briefly.”
+
+Id. at 133 n.5 (quoting Webster’s Third New International Dictionary Unabridged
+
+(2014)). The question is thus not whether it is misleading to describe the reduction
+
+of some amount of information in a condensed presentation as a summary, but
+
+whether it is misleading to describe the exclusion of one-fifth of the relevant data
+
+underlying a projection as a summary. As to this latter question, we conclude that
+
+it is.
+
+         Shanda next argues that it was entitled to “exercise its judgment in deciding
+
+whether the 2020 data was important enough to include.” Appellee’s Br. at 41.
+
+But the statement is not misleading simply because Shanda excluded a year’s
+
+
+
+
+                                           31
+worth of relevant data from the Proxies. Shanda could exercise its judgment in
+
+deciding what to include in the Proxies and what information to provide to Merrill
+
+Lynch and the Buyer Group. Once Shanda had provided information to Merrill
+
+Lynch and the Buyer Group, however, it could not thereafter mislead investors as
+
+to what information had been provided. And this is the crux of the misleading
+
+statement alleged by Monk.
+
+      Shanda finally argues that the excluded data was not material. A statement
+
+is material if there is “‘a substantial likelihood that the disclosure of the omitted
+
+fact would have been viewed by the reasonable investor as having significantly
+
+altered the total mix of information made available.’” Ganino v. Citizens Utils. Co.,
+
+228 F.3d 154, 162 (2d Cir. 2000) (quoting Basic Inc. v. Levinson, 485 U.S. 224, 231-32
+
+(1988)).   But on a Rule 12(b)(6) motion, “a complaint may not properly be
+
+dismissed . . . on the ground that the alleged misstatements or omissions are not
+
+material unless they are so obviously unimportant to a reasonable investor that
+
+reasonable minds could not differ on the question of their importance.” Litwin v.
+
+Blackstone Grp., L.P., 634 F.3d 706, 717 (2d Cir. 2011) (internal quotation marks and
+
+citation omitted). To be sure, the 2020 data show significantly lower revenue
+
+growth than the 2016 to 2019 data. But there is still revenue growth of 5.4 percent,
+
+
+
+
+                                         32
+which Monk alleges constitutes “significant and positive information about the
+
+Company and its value.” App’x 743, ¶ 120. This information may turn out to be
+
+immaterial. But reasonable minds could disagree on this question and that is all
+
+that is required at the motion to dismiss stage. Accordingly, we agree with the
+
+district court that Monk has adequately alleged material misrepresentations in
+
+connection with the representation in the Proxies that the March 2015 Projections
+
+contained therein constitute a summary of the projections provided to Merrill
+
+Lynch and to the Buyer Group.
+
+                     D.    Statements Concerning Fairness
+
+      Monk next argues that the statements in both the Initial Proxy and the Final
+
+Proxy that describe the Freeze-Out Merger as fair were misleading opinion
+
+statements because the Defendants disbelieved the statements and the statements
+
+did not align with the information in their possession. For the following reasons,
+
+we agree.
+
+      At the start, we disagree with Monk that the testimony of Shanda’s expert
+
+witness at the Appraisal Action provides a basis on which we may infer that
+
+Shanda did not believe the fairness statements when it issued the Proxies. In the
+
+Proxies, Shanda opined that the merger price of $7.10 per ADS was fair. During
+
+the Appraisal Action in the Cayman Islands, Shanda’s valuation expert “found
+
+
+                                       33
+that as of November 18, 2015, when the Transaction closed, the fair value of
+
+Shanda’s equity was $9.56 per ADS . . . .” App’x 758, ¶ 158. Monk argues that
+
+“Shanda’s admission by way of the expert report it proffered . . . indicates its belief
+
+that $7.10 was unfair.” Appellant’s Br. at 55. But this is incorrect.
+
+      Monk directs us to Kreppel v. Guttman Breast Diagnostic Institute, No. 95-cv-
+
+10830 (SWK) (MHD), 1999 WL 1243891 (S.D.N.Y. Dec. 21, 1999), which held that
+
+an expert’s testimony may be admitted as an adoptive admission under the
+
+Federal Rules of Evidence.      Monk extrapolates from Kreppel’s holding about
+
+admissions under the Federal Rules of Evidence to suggest that “when a party
+
+proffers an expert report it may be treated as the parties’ opinion.” Appellant’s
+
+Br. at 55. But Kreppel itself explains that one of the reasons that an expert’s opinion
+
+can be an adoptive admission is because the party “was obviously fully aware of
+
+[the expert’s] opinion and analysis by no later than the date on which its counsel
+
+received the report, and that [the party] chose nonetheless to proffer” the witness.
+
+Id. at *1. Here, even if we attributed the expert’s views to Shanda, it would simply
+
+show that at the time of the Appraisal Action, eighteen months after the Proxies
+
+were published, Shanda believed that the fair value of Shanda’s equity was $9.56
+
+per ADS.    It does not tell us what Shanda believed when the Proxies were
+
+
+
+
+                                          34
+published. And for an opinion statement to be actionable on the theory that a
+
+defendant did not believe it, the defendant must not have believed the statement
+
+when it was made.
+
+        Setting the expert opinion aside, however, we conclude that Monk has
+
+adequately pleaded that the fairness opinions in the Initial Proxy did not align
+
+with the information in Shanda’s possession when it issued that Proxy and that
+
+Shanda did not believe that the transaction was fair. Monk has alleged that the
+
+Defendants understood that Merrill Lynch’s assessment of the deal price was
+
+based, in part, on the revenue estimates for MIIM. But we have already concluded
+
+that Monk has adequately alleged that Shanda did not believe the MIIM estimates
+
+to be correct. The same allegations supporting that conclusion lead, here, to the
+
+determination that Monk has adequately alleged that the $15 million revenue
+
+estimate relied on by Merrill Lynch did not align with the information that Shanda
+
+had about MIIM’s likely success. And by adopting a fairness opinion that was
+
+based on such estimates, Shanda misled the shareholders. 10
+
+
+
+        10Moreover, the Complaint also adequately alleges that the fairness opinion was misleading by
+virtue of its reliance on projections that were not prepared in accordance with accepted accounting
+techniques. “[A] statement that a deal is ‘fair’ reasonably may be understood as a statement . . . that the
+opinion reflects or is based upon one or more accepted valuation metrics.” In re Lehman Bros. Sec. Litig., 131
+F. Supp. 3d at 253. But, as discussed supra, the Complaint alleges that the amortization and depreciation
+figures employed in preparing Shanda’s revenue estimates were not based on accepted accounting
+methods, rendering the fairness opinion misleading.
+
+
+                                                     35
+       Relying on a district court opinion, Shanda argues, to the contrary, that “as
+
+a matter of law, Monk cannot show that a statement is misleading based on the
+
+unreasonableness of underlying projections.” Appellee’s Br. at 44 (citing Gray v.
+
+Wesco Aircraft Holdings, Inc., 454 F. Supp. 3d 366, 387 (S.D.N.Y. 2020)). We disagree.
+
+As an initial matter, Gray’s reasoning is based on the PSLRA safe harbor, which is
+
+not applicable here. Gray, 454 F. Supp. 3d at 387, 390. But more importantly, a
+
+projection is not a magic wand that immunizes all statements that relate to that
+
+projection. See In re Vivendi, S.A. Sec. Litig., 838 F.3d 223, 246 (2d Cir. 2016); Shreiber,
+
+832 F. App’x at 57 (analyzing statements about future revenue using the Omnicare
+
+framework). We analyze the fairness statement like any other opinion.
+
+       We also conclude that Monk has adequately alleged that by the time of the
+
+Final Proxy the Defendants did not believe that the Merger was fair and that
+
+describing the Merger as fair did not align with the information in Shanda’s
+
+possession. At that point, MIIM had launched and the game’s initial success was
+
+such that the Defendants “could not possibly have believed the Buyout was fair.”
+
+Appellant’s Br. at 57. Shanda was able to track in-game purchases, the source of
+
+revenue for MIIM, in real time and management reviewed the data at least weekly.
+
+It is reasonable to infer that Defendants therefore would have known about
+
+
+
+
+                                            36
+MIIM’s success because MIIM generated over $90 million each month between its
+
+launch in August and the issuance of the Final Proxy in October. Monk thus
+
+plausibly alleges that Shanda knew that the fairness opinion was based on
+
+assumptions that had proven incorrect, yet Shanda continued to state that the
+
+Merger was fair. Accordingly, Monk has adequately pleaded that these statements
+
+are actionable. Cf. In re Time Warner Inc. Sec. Litig., 9 F.3d 259, 266 (2d Cir. 1993)
+
+(finding opinion statements nonactionable when “the complaint contains no
+
+allegations to support the inference that the defendants either did not have these
+
+favorable opinions on future prospects when they made the statements or that the
+
+favorable opinions were without basis in fact”).
+
+      Shanda argues that Monk has not adequately alleged that the Special
+
+Committee knew about MIIM’s initial revenue figures or that such knowledge
+
+would establish that the Special Committee did not believe the Merger was fair.
+
+But this argument misses the mark. The Special Committee, comprised entirely of
+
+Board members, would have been privy to the same internal monitoring of MIIM’s
+
+success as the rest of the Board.       According to the Complaint, the Special
+
+Committee and the Board each unanimously determined that the Freeze-Out
+
+Merger was fair after knowledge of MIIM’s immediate success was shared across
+
+
+
+
+                                         37
+the company. And the Final Proxy continued to reaffirm those determinations by
+
+stating that “’the Company believes’ that the [Freeze-Out Merger] is ‘fair to, and
+
+in the best interests of’ the Unaffiliated Holders.’” App’x 751, ¶ 137.           The
+
+Complaint adequately alleges that all Board members, including the Special
+
+Committee, knew of the problems with the March 2015 Projections and thus did
+
+not believe the fairness assessment.
+
+      Finally, Shanda argues that because information about MIIM’s immediate
+
+success was available to shareholders before the deadline to dissent and the
+
+Proxies declared that the Projections had not been updated, shareholders could
+
+not have been misled. We again disagree. Monk does not claim that the Proxies
+
+misled the shareholders into believing that the MIIM estimates came true. He
+
+alleges that the Proxies misled the shareholders as to Shanda’s belief in the March
+
+2015 Projections and the fairness opinions based on them. The public’s knowledge
+
+of MIIM’s success did not inform the shareholders of the extent of the inaccuracies
+
+in the March 2015 Projections or that Shanda did not, in fact, believe in their
+
+accuracy, or in the Proxies’ fairness opinions. Cf. Koppel v. 4987 Corp., 167 F.3d 125,
+
+132-33 (2d Cir. 1999) (holding that, even though adverse information was disclosed
+
+in a Solicitation of Consent, the Solicitation of Consent was misleading because it
+
+
+
+
+                                          38
+implied that a recommendation considered the adverse information when it did
+
+not). For these reasons, Monk’s allegations with regard to statements made about
+
+the fairness of the Merger adequately support a claim for securities fraud. We
+
+therefore vacate and remand as to the district court’s determination that these
+
+statements were not actionable.
+
+                    E.     Omissions of MIIM Information
+
+      Finally, Monk argues that the Individual Defendants are liable for omissions
+
+because Cayman law required them to disclose the success of MIIM, and that
+
+Shanda is in turn liable for those omissions because the Individual Defendants
+
+were Shanda’s agents. We disagree. Assuming arguendo that we would impose a
+
+duty to disclose based on a relationship established by Cayman law, we agree with
+
+the district court that Cayman law establishes no such duty here.
+
+      Monk’s sole citation for the existence of a disclosure duty is a case from the
+
+New York Appellate Division purporting to apply Cayman law. This New York
+
+case in turn relies on Sharp v. Blank, [2015] EWHC (Ch) 3220, a case from the High
+
+Court of Justice of England and Wales. Davis v. Scottish Re Grp. Ltd., 74 N.Y.S.3d
+
+
+
+
+                                        39
+10 (N.Y. App. Div. 1st Dept. 2018). 11 In Sharp, the High Court held that “although
+
+a director of a company can owe fiduciary duties to the company’s shareholders,
+
+he does not do so by the mere fact of being a director, but only where there is on
+
+the facts of the particular case a ‘special relationship’ between the director and the
+
+shareholders.” Sharp v. Blank [2015] EWHC (Ch) 3220 [12].
+
+        To be sure, the High Court determined that a non-fiduciary relationship
+
+between directors and shareholders does give rise to a “sufficient information duty,
+
+which is expressly accepted to include a duty not to mislead or conceal
+
+information, and a duty to give advice and information in clear and readily
+
+comprehensible terms.” Id. at 15. But this non-fiduciary relationship does not
+
+necessarily give rise to a duty for a director “to disclose material facts before
+
+entering into a transaction with his principal.” Id. at 23(1). We think this statement
+
+makes clear that the duty of sufficient information, despite its name, is not a duty
+
+to disclose for the purposes of omission liability under § 10(b). 12 We thus agree
+
+
+        11  The Cayman Islands “administer justice in keeping with . . . the well established principles of
+common law which have been developed by the local, the British and other courts of the Commonwealth
+of Nations.” Structure of the Courts, CAYMAN ISLANDS JUDICIAL ADMINISTRATION, https://judicial.ky/who-
+we-are/structure-of-the-courts/ [https://perma.cc/Q2NV-98BT] (last visited January 31, 2025).
+         12 The cases relied on by Sharp suggest that to the extent that the sufficient information duty
+
+involves a duty to inform, it requires, for instance, that a Board of Directors, having invited shareholders
+to a meeting, should provide sufficient information for shareholders to determine the topic of the meeting
+and decide whether to attend. The shareholders need not be given full information. See, e.g., Re RAC
+Motoring Servs. Ltd., [2000] 1 BCLC 307 [326, 328]; Residues Treatment & Trading Co. Ltd. v. Southern Resources
+Ltd., (1988) 14 ACLR 375.
+
+
+                                                     40
+with the district court that Cayman law does not impose a duty to disclose.
+
+Accordingly, because Monk has not adequately pleaded a disclosure duty, see In
+
+re Time Warner Inc. Sec. Litig., 9 F.3d at 267, the district court did not err in
+
+concluding that the failure to disclose the success of MIIM was not actionable.
+
+                                    III.   Scienter
+
+      The district court determined that Monk adequately alleged scienter on the
+
+theory that Zhang and Liang had motive and opportunity to commit fraud in
+
+order to secure a low merger price and that this scienter could be imputed to
+
+Shanda due to their respective positions. In re Shanda I, 2019 WL 11027710, at *7.
+
+We agree.
+
+      “A complaint alleging securities fraud under § 10(b) of the Exchange Act
+
+must satisfy the heightened pleading requirements of Rule 9(b) and the Private
+
+Securities Litigation Reform Act of 1995.” City of Pontiac, 752 F.3d at 184. This
+
+requires plaintiffs to “specify each misleading statement . . . [and] state with
+
+particularity facts giving rise to a strong inference that the defendant acted with
+
+the required state of mind.” Id. (quoting Anschutz Corp. v. Merrill Lynch & Co., Inc.,
+
+690 F.3d 98, 108 (2d Cir. 2012)).    “[A]n inference of scienter must be more than
+
+merely plausible or reasonable—it must be cogent and at least as compelling as
+
+any opposing inference of nonfraudulent intent.” Tellabs, Inc. v. Makor Issues &
+
+
+                                           41
+Rights, Ltd., 551 U.S. 308, 324 (2007).        “The requisite state of mind, or
+
+scienter . . . that the plaintiff must allege is ‘an intent to deceive, manipulate or
+
+defraud.’” Kalnit v. Eichler, 264 F.3d 131, 138 (2d Cir. 2001) (quoting Ganino v.
+
+Citizens Utils. Co., 228 F.3d, 154, 168 (2d Cir. 2001)). A plaintiff may establish
+
+scienter with facts “showing that the defendants had both motive and opportunity
+
+to commit the fraud.” City of Pontiac, 752 F.3d at 184.
+
+      To adequately allege motive, a plaintiff must plead that individual
+
+defendants would realize “concrete benefits” from the misstatements but
+
+“[m]otives that are generally possessed by most corporate directors and officers
+
+do not suffice.” Kalnit, 264 F.3d at 139 (internal citations omitted). We have
+
+previously held that “in some circumstances, the artificial inflation of stock price
+
+in the acquisition context may be sufficient for securities fraud scienter” because
+
+“not every company has the desire to use its stock to acquire another company.”
+
+Rothman v. Gregor, 220 F.3d 81, 93 (2d Cir. 2000). Similarly, alleging the artificial
+
+deflation of stock can be sufficient. The desire of an acquiring entity to save money
+
+by acquiring a target company at a lower price is not a motive that every corporate
+
+insider has and gives rise to concrete financial gain. See In re MCI Worldcom, Inc.
+
+Sec. Litig., 93 F. Supp. 2d 276, 283-84 (E.D.N.Y. 2000) (finding motive for an
+
+
+
+
+                                         42
+acquiror to deflate share price of the target); Buxbaum v. Deutsche Bank AG, 196 F.
+
+Supp. 2d 367, 376 (S.D.N.Y. 2002) (finding motive for an executive of the acquiror
+
+to deflate share prices of the target).
+
+       Here, Monk has adequately alleged that Zhang and Liang would reap
+
+concrete, financial benefits from keeping the merger price low. 13 “[A]ny money
+
+flowing out from Shanda through the [Freeze-Out Merger] was money that the
+
+ultimate Buyer Group would be ‘spending,’ since it was money that they would
+
+otherwise come to indirectly own through their acquisition of Shanda.” App’x
+
+747, ¶ 127 n.19. Thus, as members of the Buyer Group, deflating the value of
+
+Shanda’s shares saved Zhang and Ningxia money because it reduced significantly
+
+“the amount of money [they] needed to spend to acquire Shanda.” App’x 783,
+
+¶ 251. Because this is not a motive “possessed by virtually all corporate insiders,”
+
+the facts in the Complaint are sufficient plausibly to allege that Zhang and Liang,
+
+and thus Shanda, had motive to commit fraud. S. Cherry St., LLC v. Hennessee Grp.,
+
+573 F.3d 98, 109 (2d Cir. 2009) (quoting Novak v. Kasaks, 216 F.3d 300, 308 (2d Cir.
+
+2000)).
+
+
+
+
+       13 Liang was a high-level employee of Ningxia and Ningxia’s representative on the Board. Monk
+has thus plausibly alleged that Liang had the motives of Ningxia, a member of the Buyer Group.
+
+
+                                                43
+        Shanda argues that “a motive to secure a low transaction price cannot be
+
+sufficient to show a motive to defraud, because every buyer has that motive.”14
+
+Appellee’s Br. at 48-49. That argument misunderstands our inquiry. We ask about
+
+the motives of the speaker, see 17 C.F.R. § 240.10b-5 (“It shall be unlawful for any
+
+person . . . to make any untrue statement of material fact . . . .” (emphasis added)),
+
+specifically whether the motive is common to those in the position of the speaker.
+
+The majority of corporate insiders do not have the goal of securing a low
+
+transaction price for stock in their own company. In fact, they have the opposite
+
+goal. Zhang and Liang were both corporate insiders of Shanda and its buyers.
+
+Zhang and Liang’s alleged motive—a low purchase price—stems from their role
+
+as buyers, not corporate officers, but their status as buyers does not change the
+
+focus of our inquiry because the speech in question came from Shanda.
+
+        Shanda next argues that even if Zhang and Liang acted with scienter, that
+
+scienter cannot be imputed to Shanda under the adverse interest exception to
+
+imputation. We impute the scienter of certain corporate officers and employees to
+
+
+
+
+        14On appeal, Shanda further argues that Zhang and Liang did not have an opportunity to secure a
+low price for the shares in the Freeze-Out Merger. Shanda has forfeited this argument by failing to raise it
+before the district court. In re Nortel Networks Corp. Sec. Litig., 539 F.3d 129, 132 (2d Cir. 2008).
+
+
+
+                                                    44
+a corporation. 15 Teamsters Local 445 Freight Div. Pension Fund v. Dynex Cap., Inc.,
+
+531 F.3d 190, 195 (2d. Cir 2008) (“When the defendant is a corporate entity, this
+
+means that the pleaded facts must create a strong inference that someone whose
+
+intent could be imputed to the corporation acted with the requisite scienter.”). We
+
+do so based on agency principles that impute the actions of an agent to the
+
+corporation because “[a] corporation can only act through its employees and
+
+agents . . . .” Suez Equity Invs., L.P. v. Toronto-Dominion Bank, 250 F.3d 87, 101 (2d
+
+Cir. 2001); see also Adams v. Kinder-Morgan, Inc., 340 F.3d 1083, 1106 (10th Cir. 2003)
+
+(“The scienter of the senior controlling officers of a corporation may be attributed
+
+to the corporation itself to establish liability as a primary violator of § 10(b) and
+
+Rule 10b-5 when those senior officials were acting within the scope of their
+
+apparent authority.”).
+
+        The adverse interest exception is an exception to the general rule that the
+
+acts and knowledge of an agent acting within the scope of his employment or with
+
+apparent authority are imputed to the principal for cases where “an agent acts
+
+
+
+
+        15 We have not established “a bright-line rule to determine when an executive is sufficiently senior
+that his or her scienter can be attributed to the entity,” Barrett v. PJT Partners Inc., No. 16-CV-2841, 2017 WL
+3995606, at *7 (S.D.N.Y. Sept. 8, 2017), but no one contests that Zhang and Liang are such executives.
+
+
+
+                                                      45
+adversely to the principal.” 16 Restatement (Third) of Agency § 5.04 (2006). The
+
+adverse interest exception, the “most narrow of exceptions,” requires that “the
+
+fraud is committed against a [principal] rather than on its behalf,” and is
+
+inapplicable where “the agent act[s] both for himself and for the principal.”
+
+Republic of Iraq v. ABB AG, 768 F.3d 145, 166 (2d Cir. 2014) (internal quotation marks
+
+and citations omitted). If both the corporation and the rogue agent benefited, the
+
+adverse interest exception does not apply. See id. at 167 (holding the adverse
+
+interest exception inapplicable even though the Hussein family “stole a material
+
+portion of” fraudulently obtained funds because some of the funds were
+
+“deposited in Iraq’s treasury and used for political purposes” so “the interests of
+
+Iraq were not totally abandoned”).
+
+        Here, we need not opine on the exact contours of the adverse interest
+
+exception—such as whether it requires actions akin to “outright theft or looting or
+
+
+
+        16 The parties cite New York law in addressing the scope of this exception, but we agree with the
+Ninth Circuit that “this is a question of federal securities law, albeit one guided by (common law) agency
+principles.” In re ChinaCast Educ. Corp. Sec. Litig., 809 F.3d 471, 475 n.4 (9th Cir. 2015). But see Belmont v.
+MB Inv. Partners, Inc., 708 F.3d 470, 494 (3d Cir. 2013) (holding that “the issue of imputation is determined
+by state law”) (citing O’Melveny & Myers v. F.D.I.C., 512 U.S. 79, 83 (1994)). In determining when the
+scienter of individuals can be attributed to a corporation, we and our sister circuits have turned to
+principles of agency law, not the laws of the states in which each corporation is incorporated. See Suez
+Equity, 250 F.3d at 101; Makor Issues & Rts., Ltd. v. Tellabs Inc., 513 F.3d 702, 708 (7th Cir. 2008); Adams, 340
+F.3d at 1107; In re Omnicare, Inc. Sec. Litig., 769 F.3d 455, 473-75 (6th Cir. 2014). Similarly here, in considering
+whether an exception to our general framework of scienter imputation applies, we turn to federal law.
+Indeed, “looking to the idiosyncratic differences in state law would thwart the goal of promoting national
+uniformity in securities markets.” Steginsky v. Xcelera Inc., 741 F.3d 365, 371 (2d Cir. 2014).
+
+
+                                                        46
+embezzlement,” see Kirschner v. KPMG LLP, 15 N.Y.3d 446, 466 (2010), or whether
+
+“the adverse interest rule collapses in the face of an innocent third party who relies
+
+on the agent’s apparent authority,” In re ChinaCast, 809 F.3d at 477. At this stage
+
+in the litigation, Monk has more than adequately alleged facts from which it may
+
+be inferred that the fraud was for the benefit of not only Zhang and Liang, but
+
+Shanda as well. The Complaint plausibly alleges that “the fraud benefited Shanda
+
+by preserving capital.”     Reply Br. at 21.      Accordingly, the adverse interest
+
+exception does not apply, so Zhang and Liang’s motives can be imputed to
+
+Shanda. We thus agree with the district court that Monk has adequately pleaded
+
+scienter.
+
+                                    IV.   Reliance
+
+      In civil cases where the government does not bring the action, “[r]eliance in
+
+a   10b-5   action   ensures   ‘a   proper     connection   between   a   defendant’s
+
+misrepresentation and a plaintiff’s injury.’” Arkansas Teachers Ret. Sys. v. Goldman
+
+Sachs Grp., 879 F.3d 474, 482 (2d Cir. 2018) (quoting Erica P. John Fund, Inc. v.
+
+Halliburton Co., 563 U.S. 804, 810 (2011) [hereinafter Halliburton I]). Generally, a
+
+plaintiff may prove reliance, sometimes referred to as transaction causation, by
+
+showing “that he was [personally] aware of a company’s statement and purchased
+
+[or sold] shares based on it” or by invoking the rebuttable fraud-on-the-market
+
+
+                                          47
+presumption. Id. at 482-83 (internal quotation marks and citation omitted). This
+
+case presents the question whether the fraud-on-the-market presumption is
+
+available to minority-shareholder tenderers, such as Monk, who sold their shares
+
+in a freeze-out merger. We answer in the affirmative.
+
+         The fraud-on-the-market presumption relies on the “fundamental premise”
+
+that “‘an investor presumptively relies on a misrepresentation’ that ‘was reflected
+
+in the market price at the time of his transaction.’” Id. at 483 (quoting Halliburton
+
+I, 563 U.S. at 813)). Because “the market ‘transmits information to the investor in
+
+the processed form of a market price’ we can assume . . . that an investor relies on
+
+public misstatements whenever he ‘buys or sells stock at the price set by the
+
+market.’” Halliburton I, 563 U.S. at 811 (quoting Basic, 485 U.S. at 244, 247).
+
+Accordingly, the fraud-on-the-market theory “creates a rebuttable presumption
+
+that (1) misrepresentations by an issuer affect the price of securities traded in the
+
+open market, and (2) investors rely on the market price of securities as an accurate
+
+measure of their intrinsic value.” Hevesi v. Citigroup Inc., 366 F.3d 70, 77 (2d Cir.
+
+2004).
+
+         But investors who trade at the market price are not the only ones who rely
+
+on the market price in making decisions to buy or sell. We think it reasonable to
+
+
+
+
+                                         48
+presume that most investors who acquire or divest themselves of stock look at the
+
+market price to determine that stock’s value.                  See Basic, 485 U.S. at 246-47
+
+(explaining that the presumption that investors rely on market integrity is
+
+“supported by common sense” because “’it is hard to imagine that there ever is a
+
+buyer who does not rely on market integrity’”) (quoting Shclanger v. Four-Phase
+
+Systems Inc., 555 F. Supp. 535, 538 (S.D.N.Y. 1982)). Indeed, it is for this reason that
+
+we previously concluded that a plaintiff who purchases restricted shares at a
+
+discount in an off-market transaction can rely on the fraud-on-the-market
+
+presumption in establishing his reliance. Black v. Finatra Cap., Inc., 418 F.3d 203,
+
+210 (2d Cir. 2005).
+
+       We see no reason to reach a different conclusion here.                          A minority
+
+shareholder whose vote is not required for a merger to take place must still
+
+determine whether to tender his shares or to dissent and seek appraisal. And
+
+when material misrepresentations “pertain[ ] to shares that trade in a developed
+
+market,” as here, such a person may be presumed to rely on the market price as
+
+an accurate measure of his stock’s value when deciding to tender. 17 Id. at 209.
+
+
+
+       17Shanda does not contest the efficiency of the market for Monk’s ADS on appeal. The dissent,
+however, contends that there was no developed market for Monk to rely on because the ADS price on the
+NASDAQ was constrained by the $7.10 merger price. The merger price surely influenced the market price.
+
+
+
+
+                                                 49
+        The Complaint alleges that but for the claimed misrepresentations, the
+
+market price of Shanda’s ADS would have been higher and Monk “would not
+
+have entered into the detrimental securities transaction”—namely, the forced sale
+
+that resulted in the forfeiture of his appraisal rights. Lentell v. Merrill Lynch & Co.,
+
+Inc., 396 F.3d 161, 172 (2d Cir. 2005) (quoting Emergent Cap. Inv. Mgmt., LLC v.
+
+Stonepath Group, Inc., 343 F.3d 189, 197 (2d Cir. 2003)). To be sure, Monk’s decision
+
+to dissent would not have prevented the Freeze-Out Merger. But Monk did have
+
+the choice whether to permit his shares to be sold in the Merger or to dissent and
+
+exercise his appraisal rights. And in such circumstances, and at this stage, he is
+
+entitled to the rebuttable presumption that in making this choice, he relied on the
+
+market price of his shares.
+
+        Shanda argues that Monk cannot rely on the presumption because he did
+
+not plead that he made the decision about whether to tender or seek appraisal “in
+
+reliance on either the contents of the proxy statements or the market price.”
+
+Appellee’s Br. at 32-33. But this is essentially the argument of the petitioners in
+
+Basic that “the fraud-on-the-market theory effectively eliminates the requirement
+
+
+However, contrary to the dissent’s assertion, it does not follow that the “only information that the market
+price conveyed . . . was the merger price” or that subsequent misstatements by Shanda could not have
+affected the price of the ADS. Indeed, in an efficient market, had the Proxies disclosed that the merger
+price severely undervalued the ADS, investors interested in seeking appraisal would presumably have
+purchased shares for that purpose, thereby driving up the market price.
+
+
+                                                    50
+that a plaintiff asserting a claim under Rule 10b-5 prove reliance.” Basic, 485 U.S.
+
+at 243.      In rejecting this argument and adopting the fraud-on-the-market
+
+presumption, the Supreme Court recognized that “[t]here is . . . more than one way
+
+to demonstrate the causal connection” between a defendant’s misrepresentation
+
+and a plaintiff’s injury. Id.
+
+        The Supreme Court’s decisions pursuant to § 14(a) of the Exchange Act are
+
+instructive on this point. 18 (Indeed, the Basic Court cited Mills v. Electric Auto Lite
+
+Co., 396 U.S. 375 (1970), which addresses § 14(a), in rejecting the petitioners’
+
+argument that the fraud-on-the-market theory essentially eliminates the
+
+requirement that a plaintiff prove reliance.) Pursuant to § 14(a), securities fraud
+
+plaintiffs pursuing claims regarding misleading statements in proxy materials can
+
+prove transaction causation by showing that the misstatements were material and
+
+that the proxy statements were an “essential link” in the transaction. Mills, 396
+
+U.S. at 384-85. To be clear, Monk does not rely on Mills’ essential link test in the
+
+context of this § 10(b) claim. But its availability to § 14(a) plaintiffs reinforces our
+
+
+
+
+        18 Because § 14(a) and § 10(b) both require proof of transaction and loss causation, we frequently
+rely on cases involving the former cause of action to inform cases concerning the latter. Grace v. Rosenstock,
+228 F.3d 40, 48 (2d Cir. 2000).
+
+
+
+                                                     51
+belief that Monk may rely on the rebuttable presumption of fraud-on-the-market at
+
+the pleading stage to allege transaction causation.
+
+      The dissent argues, to the contrary, that our reading of the § 14(a) precedent
+
+is incorrect and that the essential link test from Mills is not available in a freeze-
+
+out merger. But Mills expressly left open the question whether causation can be
+
+shown “where the management controls a sufficient number of shares to approve
+
+the transaction without any votes from the minority.” 396 U.S. at 385 n.7. To be
+
+sure, the Supreme Court in Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 1083
+
+(1991), thereafter rejected the idea that the essential link test could be employed in
+
+the freeze-out merger context on the theory that corporate directors, acting from
+
+“a desire to avoid bad shareholder or public relations,” would not have proceeded
+
+with the merger without the minority shareholders’ proxies. Id. at 1101. But the
+
+Court’s concern in that case was that the plaintiffs’ argument “turn[ed] on
+
+inferences about what the corporate directors would have thought and done
+
+without the minority shareholder approval unneeded to authorize the action,” and
+
+was thus overly “speculative.” Id. at 1105. The Supreme Court both noted the
+
+inequity of declining to recognize a cause of action for “a class of would-be
+
+plaintiffs with claims comparable to those previously recognized,” id. at 1104, and
+
+
+
+
+                                         52
+made clear that the plaintiffs there did not claim, as Monk does here, that they lost
+
+an appraisal remedy by virtue of the defendants’ materially misleading proxy
+
+statements, id. at 1108 n.14.
+
+      This court’s precedent, moreover, is directly applicable.             This court
+
+reaffirmed its existing § 14(a) precedent in the wake of Virginia Bankshares, holding
+
+that “transaction causation may be shown” in the freeze-out merger context “when
+
+a proxy statement, because of material misrepresentations, causes a shareholder
+
+to forfeit his appraisal rights by voting in favor of the proposed corporate merger.”
+
+Wilson v. Great American Indus., Inc., 979 F.2d 924, 931 (2d Cir. 1992).        And we
+
+concluded in Wilson that “allowing [such an] action does not pose a threat of
+
+‘speculative claims and procedural intractability,’ . . . because the forfeiture of state
+
+[remedies] is a question separate from the effectuation of the merger and does not
+
+require the court to guess how or whether the majority shareholders would have
+
+proceeded in the face of minority dissent.” Id. at 932 (quoting Virginia Bankshares,
+
+501 U.S. at 1105) (emphasis added); see also Howing Co. v. Nationwide Corp., 972 F.2d
+
+700, 708 (6th Cir. 1992) (adopting “loss-of-state-law-remedy theory” in context of
+
+freeze-out merger).
+
+
+
+
+                                           53
+        The dissent endeavors to distinguish Wilson by pointing to its affirmation
+
+that transaction causation may be shown when “a proxy statement, because of
+
+material misrepresentations, causes a shareholder to forfeit his appraisal rights by
+
+voting in favor of the proposed corporate merger.” 979 F.2d at 931 (emphasis added).
+
+Here, Monk does not allege whether he voted in favor of the Freeze Out Merger
+
+or took no action at all, thus permitting his shares to be sold. But despite the
+
+language from Wilson on which the dissent relies, the class in that case was not
+
+limited to minority shareholders who voted in favor of the merger, but was
+
+defined as “all . . . shareholders at the time of the merger except the named
+
+defendants,” Wilson v. Great American Indus., Inc., 94 F.R.D. 570, 571-72 (N.D.N.Y.
+
+1982). The dissent’s endeavor to distinguish Wilson is thus unavailing. 19
+
+        Nor does the dissent’s distinction make sense on its own merits. Simply put,
+
+there is no reason for a minority shareholder to vote for or against a freeze-out
+
+merger whose success is guaranteed by the voting power of the majority. A
+
+
+
+
+           19 The dissent claims, as well, that in Grace v. Rosenstock, 228 F.3d 40 (2d Cir. 2000), we rejected a
+
+claim based on the forfeiture of appraisal rights because, inter alia, minority shareholders did not vote in
+favor of the merger. But Grace did not address whether there is any distinction to be drawn between
+minority shareholders who vote in favor of a freeze-out merger and those who simply tender their shares.
+We held in Grace that the minority shareholders there could not rely on a theory of lost state appraisal rights
+because the plaintiffs’ “appraisal suit was declared moot pursuant to their stipulation” earlier in the
+litigation and there was no other “available state-law remedy that [plaintiffs] forfeited in reliance on
+the . . . proxy statement.” 228 F.3d at 50.
+
+
+                                                      54
+shareholder gains nothing by doing so. The failure to vote thus does not establish
+
+that a person in Monk’s position made no decision—and thus did not rely on
+
+material misrepresentations. We therefore conclude that at this stage, Monk may
+
+rely on the fraud-on-the-market presumption. Like all § 10(b) defendants, Shanda
+
+and the Individual Defendants may rebut the presumption, Waggoner v. Barclays
+
+PLC, 875 F.3d 79, 99 (2d Cir. 2017), but Monk has adequately pleaded reliance.
+
+                               V.     Loss Causation
+
+      Plaintiffs invoking § 10(b)’s private cause of action must prove not only
+
+transaction causation but also loss causation.       Lentell, 396 F.3d at 172.    Loss
+
+causation is “the causal link between the alleged misconduct and the economic
+
+harm ultimately suffered by the plaintiff.” Emergent Cap. Inv. Mgmt., LLC v.
+
+Stonepath Grp. Inc., 343 F.3d 189, 197 (2d Cir. 2003). It requires that “the subject of
+
+the fraudulent statement or omission was the cause of the actual loss suffered.”
+
+Castellano v. Young & Rubicam, Inc., 257 F.3d 171, 186 (2d Cir. 2001) (internal
+
+quotation marks and citation omitted).
+
+      As we have previously explained, “[t]he transaction effected by a proxy
+
+involves not only the merger of the corporate entities . . . but also the forfeiture of
+
+shareholder’s appraisal rights,” so “[t]he injury sustained by a minority
+
+shareholder powerless to affect the outcome of the merger vote is . . . the loss of
+
+
+                                          55
+his appraisal right.” Wilson, 979 F.2d at 931. In such a situation “loss causation
+
+may be established when a proxy statement prompts a shareholder to accept an
+
+unfair exchange ratio for his shares rather than recoup a greater value through a
+
+state appraisal.” Id.
+
+      Monk has alleged that he suffered an economic loss when he accepted the
+
+tender price due to the misleading statements in the Proxies instead of receiving a
+
+higher value in an appraisal action.      App’x 792, ¶ 277 (“Plaintiff and Class
+
+members suffered economic loss when they sold their Shanda Securities for less
+
+than those securities were worth. . . . Had the holders of Shanda Securities not been
+
+induced to sell at deflated prices they could have secured the fair value of their
+
+shares through appraisal.”). Under our precedent, such allegations adequately
+
+plead loss causation.
+
+      Shanda argues, to the contrary, that Monk cannot allege loss causation
+
+because the tender price was not affected by the fraud and Monk does not allege
+
+that it was. But that misunderstands Monk’s theory of loss causation. He does not
+
+claim that the price he received through the Freeze-Out Merger would have been
+
+higher if not for the misstatements. He alleges that he would have exercised his
+
+
+
+
+                                         56
+appraisal rights and received greater value for his shares through an appraisal
+
+action.
+
+      Shanda next argues that Monk has failed adequately to plead loss causation
+
+because he has not adequately pleaded that he would have sought appraisal. But
+
+this argument conflates transaction and loss causation. Whether the Proxies
+
+induced the shareholders to forfeit their appraisal rights is a question of
+
+transaction causation. Wilson, 979 F.2d at 931 (“[L]oss causation or economic harm
+
+to plaintiffs must be shown, as well as proof that the misrepresentations induced
+
+plaintiffs to engage in the subject transaction, that is, transaction causation.”); see
+
+Halliburton I, 563 U.S. at 812 (contrasting loss causation and transaction causation).
+
+Loss causation, in contrast, is adequately alleged by pleading that “the loss be
+
+foreseeable and that the loss be caused by the materialization of [ ] concealed risk.”
+
+Lentell, 396 F.3d at 173 (emphasis omitted); see also Castellano, 257 F.3d at 186
+
+(“[L]oss causation has often been described as proximate cause, meaning that the
+
+damages suffered by plaintiff must be a foreseeable consequence of any
+
+misrepresentation.”). Here, Monk has plausibly alleged that the Proxies concealed
+
+the higher value of Shanda, foreseeably resulting in the forfeiture of Monk’s
+
+
+
+
+                                          57
+appraisal rights, by means of the materially misleading statements that we have
+
+already discussed.
+
+        Shanda finally contends that Monk is improperly attempting to use the
+
+Exchange Act to obtain a “fair” price for his shares. Appellee’s Br. at 27. But that
+
+is not how we read the Complaint. To be sure, the Complaint does use the term
+
+“fair value,” see, e.g., App’x 792, ¶ 277, and Shanda is correct that § 10(b) does not
+
+provide a private right of action for minority shareholders who claim they were
+
+harmed by an unfair merger as such. Santa Fe Indus., Inc. v. Green, 430 U.S. 462,
+
+478 (1977).      But Cayman law provides that “[a] shareholder in a Cayman-
+
+registered company who dissents from a merger . . . is entitled under section 238
+
+of [Part XVI of the Companies Law] to be paid the ‘fair value of his shares.’” App’x
+
+266. Drawing all inferences in Monk’s favor, we read the Complaint to use the
+
+term “fair value” to mean the amount per share that would have been awarded in
+
+an appraisal action, not an amount based on an independent evaluation of
+
+fairness. 20 App’x 756, ¶ 151 (“[Dissenting] rights provided investors with the
+
+ability to obtain an ‘appraisal’ of the ‘fair value’ of their shares.”).
+
+
+
+
+         To be clear, Monk was a Tenderer, and our discussion here concerns loss causation as it relates
+        20
+
+to Tenderers, and not Sellers who may have additional theories available to them.
+
+
+                                                  58
+      We recognize that “[b]ecause the private right of action under § 10(b) and
+
+Rule 10b-5 is implied rather than express,” Grace, 228 F.3d at 46, we must be careful
+
+not to expand § 10(b) actions beyond Congress’s intent and must be especially alert
+
+to attempts to use § 10(b) to “interfere with state corporate law,” Santa Fe Indus.,
+
+430 U.S. at 479.   But “the fundamental purpose” of the Exchange Act is to
+
+“implement[] a philosophy of full disclosure.” Id. at 478 (internal quotation marks
+
+omitted). So although “the fairness of the terms of the transaction is at most a
+
+tangential concern” of the Exchange Act, this is true only “once full and fair
+
+disclosure has occurred.” Id.; see also Virginia Bankshares, 501 U.S. at 1093 n.6
+
+(“Although a corporate transaction’s ‘fairness’ is not, as such, a federal concern, a
+
+proxy statement’s claim of fairness presupposes a factual integrity that federal law
+
+is expressly concerned to preserve.”). And as we said in Wilson, “Congress’
+
+interest in the protection of investors and the free exercise of their voting
+
+rights . . . should not vary in degree according to the ability of the shareholder to
+
+affect the merger, if the vote nevertheless may result in a different sort of injury
+
+which full disclosure might have avoided.” Wilson, 979 F.2d at 931 (internal
+
+
+
+
+                                         59
+quotation marks and citations omitted). We conclude that Monk has adequately
+
+pleaded loss causation under a theory of lost appraisal rights. 21
+
+                                          VI.      Control Person
+
+        Section 20(a) “provides that individual executives, as ‘controlling person[s]’
+
+of a company, are secondarily liable for their company’s violations of the Exchange
+
+Act.” Altimeo Asset Mgmt. v. Qihoo 360 Tech. Co. Ltd., 19 F.4th 145, 152 (2d Cir. 2021)
+
+(internal quotation marks omitted). To state a claim of control person liability
+
+under § 20(a), “a plaintiff must show (1) a primary violation by the controlled
+
+person, (2) control of the primary violator by the defendant, and (3) that the
+
+defendant was, in some meaningful sense, a culpable participant in the controlled
+
+person’s fraud.” ATSI, 493 F.3d at 108. The district court dismissed Monk’s § 20(a)
+
+claims because it concluded that Monk had failed adequately to plead a primary
+
+violation. In Shanda III, 2022 WL 992794, at *6. Because the district court erred
+
+
+        21  To the extent that Monk argues, in the alternative, that he lost the intrinsic fair value of his shares,
+this is not a viable theory of loss causation under the factual circumstances alleged in this case. Even if the
+Proxies had not been misleading, Monk would not have received the intrinsic fair value of his shares
+because the Merger would have occurred over his dissent. Scattergood v. Perelman, 945 F.2d 618, 624-25 (3d
+Cir. 1991). There is thus no causal link between the Proxies and this loss. Monk argues that without the
+misleading misstatements, he would have sold his stock or the Freeze-Out Merger would not have
+occurred. But the Tenderers may not avail themselves of either argument. See Gurley v. Documation Inc¸
+674 F.2d 253, 257 (4th Cir. 1982) (prohibiting “deferred sales claims [because they] pose the same risk of
+abuse as the pure retention claims which are barred by Blue Chip”), abrogated on other grounds by Lampf,
+Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991); see also Virginia Bankshares, 501 U.S. at 1105
+(declining to extend § 14(a) claims to circumstances where “[c]ausation would turn on inferences about
+what corporate directors would have thought and done without the minority shareholder approval
+unneeded to authorize action”).
+
+
+                                                        60
+when it held that there was no primary violation, we vacate the district court’s
+
+dismissal of the § 20(a) claims.
+
+                               VII. Leave to Amend
+
+      Monk also sought leave to amend his complaint by adding a Seller, Altimeo
+
+Asset Management (“Altimeo”), as an additional named plaintiff. Federal Rule of
+
+Civil Procedure 15(a) provides that leave to amend “shall be freely given when
+
+justice so requires.” In re Tribune Co. Fraudulent Conveyance Litig., 10 F.4th 147, 175
+
+(2d Cir. 2021) (internal quotation marks and citations omitted). And we review
+
+the “denial of leave to amend for abuse of discretion, unless the denial was based
+
+on an interpretation of law, such as futility, in which case we review the legal
+
+conclusion de novo.” Panther Partners Inc. v. Ikanos Comm’n, Inc., 681 F.3d 114, 119
+
+(2d Cir. 2012).
+
+      The district court did not explain why it denied leave to add Altimeo. We
+
+disfavor denial of leave to amend without explanation, see Cho v. Blackberry Ltd.,
+
+991 F.3d 155, 160 (2d Cir. 2021); Lehmann v. Ohr Pharm., Inc., 830 F. App’x 349, 353
+
+(2d Cir. 2020) (citing Ronzani v. Sanofi S.A., 899 F.2d 195, 198 (2d Cir. 1990)), and
+
+such a denial can be an abuse of discretion because “refusal to grant leave must be
+
+based on a valid ground,” Hayden v. County of Nassau, 180 F.3d 42, 53 (2d Cir. 1999).
+
+Because the district court did not explain its basis for denying leave to amend, we
+
+
+                                          61
+vacate the district court’s order and remand for the district court to reconsider
+
+whether leave should be granted to add Altimeo.
+
+                                 CONCLUSION
+
+To summarize, we conclude that:
+
+      (1) These claims fall within the scope of § 10(b) because they concern
+
+         “transactions in securities listed on domestic exchanges.” City of Pontiac,
+
+         752 F.3d at 179 (quoting Morrison, 561 U.S. at 267).
+
+      (2) Monk has adequately pleaded the following actionable material
+
+         misstatements:
+
+            a. Descriptions of the March 2015 Projections as “reasonably
+
+               prepared” and “best available estimates,” App’x 773, ¶ 201, when
+
+               basic accounting principles had not been followed in creating the
+
+               March 2015 Projections;
+
+            b. The March 2015 Projections themselves, as provided in the Proxies,
+
+               because Shanda did not believe that the MIIM estimates within
+
+               them were accurate;
+
+            c. The description of the March 2015 Projections, as set forth in the
+
+               Proxies, as a summary of the data provided to Merrill Lynch, when
+
+
+
+
+                                         62
+         the presentation in the Proxies excluded a year of data that had
+
+         been provided to Merrill Lynch; and
+
+      d. The statements in the Proxies describing the Merger as fair, when
+
+         this opinion did not fairly align with the information in Shanda’s
+
+         possession at the time, and Shanda did not believe that the Merger
+
+         was fair when it issued the Proxies.
+
+(3) Monk has adequately pleaded scienter based on the motive and
+
+   opportunity of Zhang and Liang who, although corporate insiders of
+
+   Shanda, had a motive to deflate the price of Shanda’s stock to save money
+
+   as buyers.
+
+(4) Monk has adequately pleaded reliance through his invocation of the
+
+   fraud-on-the-market presumption.
+
+(5) Monk has adequately pleaded loss causation on the theory that he lost
+
+   the higher value he would have received if he had exercised his appraisal
+
+   rights.
+
+(6) The control person claims should be reinstated.
+
+(7) The district court abused its discretion by denying leave to add Altimeo
+
+   without explanation.
+
+
+
+
+                                 63
+      For the foregoing reasons, we AFFIRM in part and VACATE in part the
+
+judgment of the district court and REMAND for further proceedings not
+
+inconsistent with this opinion.
+
+
+
+
+                                   64
+LOHIER, Circuit Judge, concurring:
+
+      I agree with the majority opinion, even though our interpretation of
+
+Cayman Islands law on the scope of a corporate director’s duties to shareholders
+
+(as opposed to the company itself) is thinly supported. Interpreting foreign law
+
+is a recurring problem with no easy solution. When a federal court faces an
+
+unsettled question of state law, it can certify the question to the highest court of
+
+that State. This Circuit’s arrangement with the New York Court of Appeals is an
+
+excellent example of a (usually) successful certiﬁcation process. See 2d Cir. R.
+
+27.2(a) (“If state law permits, the court may certify a question of state law to that
+
+state’s highest court.”); 22 N.Y.C.R.R. § 500.27(a) (authorizing the New York
+
+Court of Appeals to review certain certiﬁed questions). Unfortunately, no similar
+
+procedure is available to interpret foreign law, including the law of the Grand
+
+Cayman Islands. As I’ve explained elsewhere and emphasize again here, “[i]n
+
+the context of cross-border commercial disputes, there is every reason to develop
+
+a similar formal certiﬁcation process pursuant to which federal courts may
+
+certify an unsettled and important question of foreign law to the courts of a
+
+foreign country.” Terra Firma Invs. (GP) 2 Ltd. v. Citigroup Inc., 716 F.3d 296, 301
+
+(2d Cir. 2013) (Lohier, J., concurring).
+DENNIS JACOBS, Circuit Judge, dissenting:
+
+      The plaintiﬀ is a minority shareholder who was forced to tender his shares
+
+in a freeze-out merger that (by deﬁnition) he was powerless to prevent. The
+
+majority opinion concludes that he can claim reliance on an open market price
+
+that was constrained by the merger price--as a basis for challenging his passive
+
+acquiescence to the forced tendering. To that extent I respectfully dissent. The
+
+majority opinion is an unsound extension of a distinguishable case on a close
+
+question; but the matter is nonetheless important because, in the context of a
+
+freeze-out merger, it allows a federal securities claim to be established by pure
+
+speculation.
+
+      David Monk, a former minority shareholder of Shanda Games Limited
+
+(“Shanda”), a Cayman Islands corporation, seeks to hold Shanda liable under
+
+section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C. § 78j(b), and
+
+Securities and Exchange Commission Rule 10b-5, 17 C.F.R. § 240.10b–5, for
+
+securities fraud in connection with the 2015 freeze-out merger that took the
+
+company private and cashed out Monk’s shares at the privately negotiated
+
+merger price. To plead the element of transaction causation, Monk alleges that
+
+misrepresentations and omissions in two pre-merger proxy statements caused
+him to hold on to his shares and cast no dissenting vote to the merger, thereby
+
+forgoing exercise of his right to judicial appraisal of the fair value of his shares
+
+under Cayman Islands law. But he does not claim to have read the proxy
+
+statements or to have relied on them when making any decision about how to
+
+vote on the merger; instead, he invokes the fraud-on-the-market presumption of
+
+reliance recognized in Basic Inc. v. Levinson, 485 U.S. 224, 247 (1988).
+
+      I cannot join my colleagues in sanctioning this theory of causation in this
+
+case. Unless the votes of minority shareholders (like Monk) are needed for
+
+approval of a proposed merger, they cannot as a matter of law establish a causal
+
+link between pre-merger proxy statements and the approval of the impending
+
+merger. Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 1083, 1102 (1991). The
+
+fraud-on-the-market theory presumes reliance when an investment decision is
+
+made to buy or sell a security at a market price aﬀected by fraud; it allows courts
+
+to presume a reason (fraud) for an investor’s decision to enter a transaction,
+
+which is evidenced by the transaction itself. But here, there was no transaction
+
+and thus no investment decision, let alone a developed market in which it
+
+hypothetically could have been made. We have the absence of an investment
+
+decision: Monk’s passive holding of his stock while he failed to preserve and
+
+
+
+                                           2
+perfect his appraisal rights. In vindicating Monk’s speculative theory, the
+
+majority opinion expands the implied right of action under section 10(b) and rule
+
+10b-5 to the point where reliance in any form is no longer required. Monk’s
+
+theory of causation fails as a matter of law. 1
+
+                                           I.
+
+      In April 2015, Shanda, a videogame developer incorporated in the Cayman
+
+Islands and headquartered in the People’s Republic of China, entered into an
+
+agreement with a group of shareholders (the “Buyer Group”) to take the
+
+company private in a freeze-out merger. Under the agreement, negotiated by a
+
+Special Committee of independent directors and approved by the full board, the
+
+shares of the minority shareholders would be cashed out in the merger for $7.10
+
+per share (the “merger price”). Under the law of the Cayman Islands, a merger
+
+may be authorized by the aﬃrmative vote of a two-thirds (or 67%) majority. See
+
+Cayman Islands Companies Act § 60(1)(a). The Buyer Group collectively owned
+
+about 75% of outstanding shares and controlled about 90% of total shareholder
+
+
+
+
+1I dissent as to the reversal of the judgment of the district court dismissing
+Monk’s securities fraud claims for failure to allege causation. I agree with the
+majority opinion that the district court abused its discretion by denying Monk’s
+motion to amend the complaint to add Altimeo Asset Management as a named
+plaintiﬀ without any justifying reason.]
+                                          3
+votes, more than enough to authorize the merger without any minority
+
+shareholder votes in favor.
+
+      Shanda sent shareholders notice of a November 2015 “Extraordinary
+
+Shareholder Meeting” to conduct the required vote on the proposed merger,
+
+together with a proxy statement. The notices informed shareholders that the
+
+Buyer Group would vote all of its shares in favor of merger (thus assuring
+
+approval), and that minority shareholders still holding at the closing would
+
+receive $7.10 per share as consideration for the forced cancellation of their shares.
+
+The proxy statements advised that Merrill Lynch, which the Special Committee
+
+had retained as a ﬁnancial advisor to the merger, determined that the merger
+
+price was “fair” based on its review of public and non-public ﬁnancial
+
+information. The proxy statement also informed minority shareholders of their
+
+right under Cayman Islands Companies Law § 238 (“§ 238”) to seek judicial
+
+appraisal of the fair value of their shares (instead of the merger price), as well as
+
+of § 238’s requirement that they provide Shanda advance written notice of intent
+
+to exercise that right.
+
+      Powerless to prevent the merger, Monk’s 6,500 minority shares would be
+
+tendered into the merger at the $7.10 per share merger price, unless he opted to
+
+
+
+                                          4
+sell them ﬁrst on the NASDAQ or to comply with the procedures for dissenting
+
+and seeking appraisal outlined in § 238. Although the market price never
+
+exceeded the merger price, some minority shareholders decided to sell on the
+
+market (presumably to lock in the transaction or to expediate payment). Some
+
+other minority shareholders decided to exercise their right to seek judicial
+
+appraisal under Cayman Islands law: they gave Shanda advance written notice
+
+of their objection to the merger, voted against the merger at the Extraordinary
+
+Shareholder Meeting, and ﬁled an appraisal action in the Cayman Islands.
+
+      Monk made neither election: he did not sell his shares on the NASDAQ
+
+and he did not exercise his right under Cayman Islands law to judicial appraisal
+
+of the fair value of his shares. Between the April 2015 merger announcement and
+
+the November 2015 Extraordinary Shareholder Meeting, Monk did nothing--
+
+nothing at all. After the Buyer Group rubber-stamped the merger, Monk’s shares
+
+(still held) were cancelled at the merger price for a total of $46,150.
+
+      After two years of litigation, the minority shareholders who pursued
+
+appraisal were awarded a fair value appraisal of $12.84 per share. Soon
+
+thereafter, Monk started this action, alleging that the two proxy statements
+
+artiﬁcially deﬂated the open-market price of Shanda shares in the period leading
+
+
+
+                                           5
+up to the Extraordinary Shareholder Meeting in order to induce minority
+
+shareholders to forgo their appraisal rights. Unlike the minority shareholders
+
+who had pursued appraisal, Monk did not commence suit in the courts of the
+
+Cayman Islands, though the merger was conducted under the laws of that
+
+jurisdiction. Instead, Monk sued for federal securities fraud in the United States
+
+District Court for the Southern District of New York.
+
+      As Judge Carter ruled, the complaint failed to allege the causation required
+
+to sustain a federal securities fraud claim. The complaint did not allege that
+
+Monk read the proxy statements, or that he attended and voted at the
+
+Extraordinary Shareholder Meeting, or that he investigated or attempted to
+
+comply with the procedures for perfecting his appraisal rights under § 238, as
+
+explained in the proxy materials. The complaint did not allege that Monk took
+
+or considered any action regarding his Shanda shares. Instead, the complaint
+
+invoked a fraud-on-the-market presumption by which (the complaint alleged) “it
+
+is assumed that [Monk] indirectly relied on any misrepresentations [in the proxy
+
+statements] when deciding to sell Shanda [shares], including the decision to
+
+tender shares into the Merger, rather than seeking appraisal.”
+
+
+
+
+                                         6
+      The district court initially dismissed Monk’s securities fraud claims for
+
+failure to allege transaction causation. In re Shanda Games Ltd. Sec. Litig., No.
+
+18-cv-02463, 2019 WL 11027710, at *9 (S.D.N.Y. Sept. 30, 2019). The court
+
+concluded that Monk could not invoke the presumption created by the fraud-on-
+
+the-market theory because he failed to plead that “the relevant market was open
+
+and developed or, in other words, eﬃcient.” Id. at *8 (internal quotation marks
+
+omitted). “[T]he forced sale of shares through a merger does not constitute an
+
+eﬃcient market,” the court reasoned, because “the share price was negotiated as
+
+opposed to being driven by trading volume or external analysis or reporting.”
+
+Id. at *9. Monk then amended his complaint.
+
+      In March 2022, the district court again dismissed Monk’s securities fraud
+
+claims, this time for failure to plead the distinct element of loss causation. In re
+
+Shanda Games Ltd. Sec. Litig., No. 18-cv-2463, 2022 WL 992794, at *6 (S.D.N.Y.
+
+Mar. 31, 2022). The court concluded that the complaint lacked “suﬃcient and
+
+speciﬁc allegations” demonstrating a causal link between the allegedly
+
+fraudulent proxy statements and any actual economic harm that Monk suﬀered,
+
+whether by aﬀecting the pre-negotiated merger price or by inﬂuencing his failure
+
+to exercise appraisal rights. Id. Monk appeals. I would aﬃrm.
+
+
+
+                                          7
+                                         II.
+
+      To state a claim for securities fraud under section 10(b) and rule 10b-5, a
+
+private plaintiﬀ must plead transaction causation. Lentell v. Merrill Lynch &
+
+Co., 396 F.3d 161, 172 (2d Cir. 2005). “Transaction causation is akin to reliance,
+
+and requires only an allegation that ‘but for the claimed misrepresentations or
+
+omissions, the plaintiﬀ would not have entered into the detrimental securities
+
+transaction.’” Id. (quoting Emergent Cap. Inv. Mgmt., LLC v. Stonepath Grp.,
+
+343 F.3d 189, 197 (2d Cir. 2003)). “The traditional (and most direct) way a
+
+plaintiﬀ can demonstrate reliance is by showing that he was aware of a
+
+company’s statement and engaged in a relevant transaction . . . based on that
+
+speciﬁc misrepresentation.” Erica P. John Fund, Inc. v. Halliburton Co., 563 U.S.
+
+804, 810 (2011). A plaintiﬀ can also invoke the fraud-on-the-market presumption
+
+of reliance, which allows courts to “presume that investors trading in eﬃcient
+
+markets indirectly rely on public, material misrepresentations through their
+
+reliance on the integrity of the price set by the market.” Amgen Inc. v. Conn. Ret.
+
+Plans & Trust Funds, 568 U.S. 455, 462 (2013) (citing Basic, 485 U.S. at 245-47).
+
+      “Because the private right of action under § 10(b) and Rule 10b–5 is
+
+implied rather than express, its boundaries are left to judicial inference.” Grace
+
+v. Rosenstock, 228 F.3d 40, 46 (2d Cir. 2000). In deﬁning those boundaries,
+                                          8
+“courts have sought to exclude, as a matter of law, claims based on hypothetical
+
+circumstances or speculation.” Id. As the Supreme Court held in Blue Chip
+
+Stamps v. Manor Drug Stores, a private action under section 10(b) or rule 10b-5 is
+
+available only to persons who were actual buyers or sellers of a security: the class
+
+of persons entitled to bring a federal securities fraud suit does not include
+
+shareholders “who allege that they decided not to sell their shares because of
+
+an unduly rosy representation or a failure to disclose unfavorable material.” 421
+
+U.S. 723, 737-38 (1975). Allowing such hypothetical traders to bring federal
+
+securities claims would “throw open to the trier of fact many rather hazy issues
+
+of historical fact the proof of which depended almost entirely on oral testimony.”
+
+Id. at 743.
+
+       Similar concerns inform the scope of the implied right of minority
+
+shareholders to bring claims based on proxy statements issued in connection
+
+with proposed corporate mergers. Minority shareholders have a cognizable
+
+claim for securities fraud when a challenged proxy statement constitutes “an
+
+essential link in the accomplishment of the transaction.” Mills v. Electric Auto-
+
+Lite Co., 396 U.S. 375, 385 (1970). Such a link is forged when authorization of a
+
+proposed merger requires the aﬃrmative vote of at least some minority
+
+
+
+                                         9
+shareholders; that is because a proxy statement provided to minority
+
+shareholders may persuade them to provide necessary support for merger
+
+approval. See id. (ruling that the causation requirement is satisﬁed where a
+
+majority shareholder owned 54% of a corporation’s shares, but the proposed
+
+merger required a two-thirds aﬃrmative vote).
+
+      Freeze-out mergers are diﬀerent in this decisive respect: in a freeze-out
+
+merger, the controlling shareholder owns so many shares that its unilateral vote
+
+in favor of merger compels minority shareholders to exchange their shares for
+
+the merger price. No minority votes are required to authorize the merger, so
+
+proxy statements have no role in drumming up support or achieving approval.
+
+The Supreme Court has held that minority shareholders whose votes are
+
+unnecessary for merger approval cannot show that material misrepresentations
+
+in proxy statements cause the only actual transaction, i.e., the forced exchange of
+
+shares for a privately negotiated merger price. Virginia Bankshares, Inc. v.
+
+Sandberg, 501 U.S. 1083, 1102 (1991).
+
+      In Virginia Bankshares, the 85-percent shareholder-buyer needed no
+
+minority votes to achieve the merger. Ahead of a shareholder vote on the merger
+
+that was required by state law, the bank solicited proxies that described the
+
+
+
+                                        10
+merger price as “fair” and “high.” Minority shareholders, suing under section
+
+14(a) of the Exchange Act and SEC rule 14a-9, 2 argued that the proxy solicitation
+
+(containing an alleged misrepresentation of fairness) was an “essential link” in
+
+the accomplishment of the forced transaction because the negative votes of
+
+minority shareholders, though unable to defeat the merger, would have shamed
+
+the directors out of proceeding with it. Id. at 1100-01. That theory was held to be
+
+too speculative. The Court recounted the concerns that animated its decision in
+
+Blue Chip Stamps to exclude hypothetical buyers and sellers from the
+
+permissible class of plaintiﬀs under section 10(b):
+
+      [I]n Blue Chip Stamps we raised concerns about the practical consequences
+      of allowing recovery, under § 10(b) of the Act and Rule 10b–5, on evidence
+      of what a merely hypothetical buyer or seller might have done on a set of
+      facts that never occurred, and foresaw that any such expanded liability
+      would turn on “hazy” issues inviting self-serving testimony, strike suits,
+      and protracted discovery, with little chance of reasonable resolution by
+      pretrial process. . . . These were good reasons to deny recognition to such
+      claims in the absence of any apparent contrary congressional intent.
+
+
+
+
+2Mills and Virginia Bankshares involved claims of proxy fraud under section
+14(a) and rule 14a-9. Section 14(a) authorizes the SEC to adopt rules for the
+solicitation of proxies and prohibits the violation of those rules. See 15 U.S.C.
+§ 78n(a). Rule 14a-9, in relevant part, prohibits the solicitation of proxies by
+means of materially false or misleading statements or omissions. See 17 C.F.R.
+§ 240.14a-9(a). The Supreme Court recognized an implied private right of action
+for the violation of section 14(a) and rule 14a-9 in J.I. Case Co. v. Borak, 377 U.S.
+426 (1964).
+                                          11
+Id. at 1105. Those concerns, the Court explained, were decisive in the section
+
+14(a) context as well. “The same threats of speculative claims and procedural
+
+intractability are inherent in respondents’ theory of causation linked through the
+
+directors’ desire for a cosmetic vote.” Id. at 1105-06. The Court warned that it
+
+“would reject any theory of causation” in which the “issues would be hazy, their
+
+litigation protracted, and their resolution unreliable.” Id. at 1106 (emphasis
+
+added).
+
+      “[T]he principle announced in Virginia Bankshares is applicable to claims
+
+alleging a misleading proxy statement brought under § 10(b) and Rule 10b-5.”
+
+Grace v. Rosenstock, 228 F.3d 40, 48 (2d Cir. 2000). In Grace, minority
+
+shareholders whose shares had been tendered in a freeze-out merger argued that
+
+“where the misrepresentations and nondisclosures under Rule 10b–5 are part
+
+and parcel of the forced sale . . . there is no separate requirement to show
+
+causation.” Id. at 48-49. In rejecting that theory, we reiterated that plaintiﬀs
+
+“must present nonspeculative evidence” that the misrepresentations deceived
+
+minority shareholder plaintiﬀs (transaction causation) and that their deception
+
+“was in fact the cause of [their] claimed injury” (loss causation). Id. Because
+
+“[n]o vote, sale of shares, or other action was required of minority shareholders
+
+
+
+                                         12
+in order to accomplish the merger,” “the same concerns” that animated Virginia
+
+Bankshares “compel[led] the conclusion that the scope of the implied private
+
+right of action [under section 10(b)] . . . does not encompass claims based on ‘a
+
+merely hypothetical . . . set of facts that never occurred.’” Id. (quoting Virginia
+
+Bankshares, 501 U.S. at 1105).
+
+      The result: Monk’s status as a minority shareholder in a freeze-out merger
+
+forecloses him from pleading a causal link between the proxies and the
+
+transaction that disposed of his shares. Likewise, Monk cannot plead loss
+
+causation either. 3 At all relevant times, the Buyer Group owned enough shares to
+
+approve the merger without a single minority vote and disclosed its intention to
+
+vote all its shares in favor of the merger. The proxies therefore had no eﬀect on
+
+the merger’s completion; they were not an “essential link” in the causal chain. 4
+
+
+
+
+3 Monk cannot show that the price he received for his shares was aﬀected by the
+misrepresentations because the Special Committee negotiated the $7.10 per share
+price before the merger was announced to the public and the proxy statements
+were provided to shareholders. See Scattergood v. Perelman, 945 F.2d 618, 624-
+25 (3d Cir. 1991) (“[W]hen a majority shareholder of a company pursues a freeze-
+out merger, the chain of causation between a pre-merger misrepresentation and
+the price received under the merger is broken.”).
+4 The majority opinion posits as to § 14(a) that transaction causation can be
+
+established if the misrepresentations were material and an “essential link” in the
+framework. But an essential link is one without which the transaction cannot be
+brought about. See Mills, 396 U.S. at 385 (“objective test” focusing on whether
+                                         13
+Virginia Bankshares, 501 U.S. at 1102. Nor can Monk allege that but for
+
+fraudulent proxies he would have sold his shares on the NASDAQ or actively
+
+pursued appraisal, because hypothetical actors have no cause of action under
+
+section 10(b). Blue Chip Stamps, 421 U.S. at 743. Monk therefore cannot plead
+
+transaction causation based on the forced tendering of his shares in a merger
+
+where the approval vote was entirely “cosmetic.”
+
+                                          III.
+
+      Unable to plead transaction causation based on what actually happened,
+
+Monk alleges that the proxy statements induced him to forgo exercising his right
+
+under Cayman Islands law to a judicial appraisal of the fair value of his shares,
+
+as some other minority shareholders did. With a critical proviso, we blessed this
+
+lost-state-remedy theory of causation in Wilson v. Great Am. Indus., Inc.:
+
+“transaction causation may be shown when a proxy statement, because of
+
+material misrepresentations, causes a shareholder to forfeit his appraisal rights
+
+by voting in favor of the proposed corporate merger.” 979 F.2d 924, 931 (2d Cir. 1992)
+
+
+
+
+minority votes are necessary to authorize the merger “avoid[s] the
+impracticalities of determining how many votes were aﬀected” by the fraud).
+Here, the transaction was already inevitable before the purportedly misleading
+proxy statements reached the market; they therefore cannot, as a matter of law,
+have been “essential links.”
+                                        14
+(emphasis added). There, as here, management was able to eﬀect a going-private
+
+merger without minority votes. Minority shareholders alleged, under section
+
+14(a) and rule 14a-9, that misleading proxy statements nevertheless had induced
+
+them to vote in favor of merger and that “their deceptively procured vote[s] in
+
+favor of the merger deprived them of their state appraisal rights under” New
+
+York law. Id. at 930. We later emphasized the importance of these “yes” votes:
+
+Grace distinguished Wilson on the ground that the Grace “plaintiﬀs did not vote
+
+in favor of the merger and did not show that they relied on the proxy materials
+
+in any way that caused them to forfeit their rights to appraisal.” Grace, 228 F.3d
+
+at 49-50. A theory of injury based on the plaintiﬀ’s hypothetical exercise of his
+
+appraisal rights produces a risk of “speculative claims and procedural
+
+intractability.” Wilson, 979 F.2d at 932 (quoting Virginia Bankshares, 501 U.S. at
+
+1105). To avoid that, Grace requires an aﬃrmative vote in favor of merger before
+
+a Wilson claim can be pursued.
+
+      Crucially, Monk does not claim to have been induced to vote in favor of
+
+the merger. Instead, he invokes a fraud on the market to presume he relied on
+
+the proxy statements by taking no action whatsoever. Neither this Court nor the
+
+Supreme Court has ever expressly endorsed a lost-state-remedy action based on
+
+
+
+                                        15
+the fraud-on-the-market presumption. 5 It is a mistake for the majority to do so
+
+now. Wilson is a close case that expands a judicially implied right of action by
+
+discounting the element of reliance. The majority opinion is an expansion of that
+
+expansion.
+
+      To construct causation, the majority opinion burdens the fraud-on-the-
+
+market theory with more weight than it can bear. The doctrine is that “the
+
+market price of shares traded on well-developed markets reﬂects all publicly
+
+available information, and, hence, any material misrepresentations”; and that the
+
+typical “investor who buys or sells stock at the price set by the market does so in
+
+reliance on the integrity of that price.” Basic, 485 U.S. at 246-47 (1988). Thus
+
+“reliance on any public material misrepresentations . . . may be presumed for
+
+purposes of a Rule 10b-5 action,” id., if the investor shows “(1) that the alleged
+
+misrepresentations were publicly known, (2) that they were material, (3) that the
+
+stock traded in an eﬃcient market, and (4) that the plaintiﬀ traded the stock
+
+
+
+
+5The Supreme Court left open in Virginia Bankshares the question whether
+minority shareholders in a freeze-out merger might nevertheless allege causation
+by showing that misleading proxies induced them to forfeit a state law remedy.
+See 501 U.S. at 1107; see generally Scott E. Jordan, Loss of State Claims as a Basis
+for Rule 10b-5 and 14a-9 Actions: The Impact of Virginia Bankshares, 49 Bus. Law
+295, 297-98 (1993).
+                                          16
+between the time the misrepresentations were made and when the truth was
+
+revealed.” Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S. 258, 268 (2014).
+
+      The fraud-on-the-market theory is not ﬁt for purpose in this case. An overt
+
+step--generally a stock transaction in a developed market at the market price--is a
+
+premise because hypothetical traders have no section 10(b) right of action. The
+
+investor’s actual purchase or sale of a security at a price set by a developed
+
+market is needed to connect the premise (that the market price of a security
+
+reﬂects all public material misstatements) to the causal inference (that the reason
+
+for an investor’s trading decision was reliance on public material misstatements).
+
+See id. at 274 (“[T]o indirectly rely on a misstatement in the sense relevant for the
+
+Basic presumption, [the investor] need only trade stock based on the belief that
+
+the market price will incorporate public information within a reasonable
+
+period.”). There can be no reliance on the market price of a security without an
+
+aﬃrmative investment decision because the theory explains the investment
+
+decision; it does not invent it.
+
+      The rebuttable presumption that an investment decision relies on a price
+
+set by a developed market is unavailable in this case because (1) Monk’s actual
+
+transaction did not occur at a price set by a market; (2) Monk’s hypothetical
+
+
+
+                                         17
+action would not have occurred in a developed market; (3) Monk’s holding of his
+
+stock was not an actionable investment decision; and (4) the presumption having
+
+thus been drained of any substance, it is not subject to rebuttal. Consider these
+
+reasons one by one.
+
+      (1) Monk did not “buy[] or sell[] stock at the price set by the market.” Basic,
+
+485 U.S. at 247 (emphasis added). The only actual stock transaction was the
+
+cancellation of his shares in a freeze-out merger that he was powerless to
+
+prevent, eﬀected at a privately negotiated price. A minority shareholder’s
+
+decision “to hold and then exchange their shares for a privately negotiated
+
+above-market price [is] not of th[e] nature” of transactions supporting the fraud-
+
+on-the-market presumption. Altimeo Asset Mgmt. v. Qihoo 360 Tech. Co., 663 F.
+
+Supp. 3d 334, 366 n.18 (S.D.N.Y. 2023) (Engelmayer, J.). A “passive[] claim[],”
+
+unsupported by “concrete allegations,” that “every tenderer shareholder
+
+individually consulted and relied upon the market price in evaluating of the
+
+merits of the Merger, the adequacy of the exchange price, and the wisdom of
+
+pursuing the appraisal process” is so “conclusory” as to be “implausible.” Id.
+
+      (2) Even if Monk had decided whether to exercise his appraisal rights, he
+
+could not have done so in a “developed” market. The majority opinion
+
+
+
+                                          18
+presumes that “most investors who acquire or divest themselves of stock look at
+
+the market price to determine that stock’s value.” The majority opinion further
+
+explains that this presumption is appropriate only for “shares that trade in a
+
+developed market.” The majority then whizzes past this caveat by adding: “as
+
+here.” But “here” there was no developed market from which to learn of such a
+
+price. The market price “here” in the lead-up to the merger (when Monk needed
+
+to have acted to preserve his appraisal rights) was determined by the merger
+
+price rather than market eﬃciencies; the buyer group’s $7.10 merger price
+
+constrained the market. And the merger price was privately negotiated before
+
+any alleged misrepresentations were publicly disseminated. Once the freeze-out
+
+merger incepted, there was no developed market price for Shanda shares--any
+
+more than a tax levy reﬂects a price set by a developed market. It is a command
+
+datum.
+
+      (3) Monk’s supposed transaction is purely hypothetical. It is not suﬃcient
+
+to say that Monk’s failure to act occurred while the fraud aﬀected the market
+
+price (even assuming a market price in a developed market). None of the cases
+
+that Monk cites involved freeze-out mergers, and all involved actions that the
+
+
+
+
+                                        19
+plaintiﬀs aﬃrmatively took. 6 Monk’s descriptions of the fraud-on-the-market
+
+theory acknowledge that an active decision to transact is necessary--a
+
+requirement that sinks his argument. See Appellant’s Reply Br. 17 (“Basic
+
+presumed investors rely on prices when purchasing or selling securities.”), 18
+
+(“[A]ll investors are presumed to reply on the market price when trading in
+
+relevant securities.”). Monk was no more than a bystander.
+
+       Wilson and Grace, the only precedential decisions of this Court
+
+addressing lost-state-remedy actions in the freeze-out merger context, were
+
+decided years after the Supreme Court blessed the fraud-on-the-market
+
+presumption of reliance in Basic; yet neither decision mentions the presumption.
+
+In Wilson, minority shareholders alleged that fraudulent proxies induced them
+
+to vote in favor of the proposed merger and that “their deceptively procured
+
+vote[s] in favor of the merger deprived them of their state appraisal rights.” 979
+
+F.2d at 931. The holding explicitly referenced the shareholders’ aﬃrmative acts
+
+
+
+
+6 In Black, the plaintiﬀ was solicited for a private purchase at a discount to a
+market price that was allegedly fraudulently inﬂated. 418 F.3d at 205. In In re
+Petrobras Sec., the plaintiﬀs were “all purchasers who” “purchased or otherwise
+acquired” Petrobras securities either on a public exchange or in domestic
+transactions pursuant to U.S. registered-public oﬀerings while the fraudulent
+statements aﬀected the market prices for such securities. 862 F.3d 250, 259 (2d
+Cir. 2017).
+                                           20
+that took the claim out of the realm of speculation: “[T]ransaction causation may
+
+be shown when a proxy statement, because of material misrepresentations,
+
+causes a shareholder to forfeit his appraisal rights by voting in favor of the proposed
+
+corporate merger.” Id. By the same token, Grace rejected a claim based on the
+
+forfeiture of appraisal rights because (in part) the minority shareholders “did not
+
+vote in favor of the merger and did not show that they relied on the proxy
+
+materials in any way that caused them to forfeit their rights to appraisal.” 228
+
+F.3d at 49-50. Monk’s claim, likewise fueled by inaction, should meet the same
+
+end.
+
+       Precedent defeats the idea (on which the majority opinion rests) that it
+
+makes no diﬀerence whether Monk actively relinquished his appraisal rights by
+
+voting to approve the merger or whether he sat idly by. The majority concedes
+
+this, noting that the investors who we can presume have relied on the market
+
+price are those “who acquire or divest themselves of stock”--but Monk took
+
+neither step. The freeze-out merger, not any action by Monk, is what divested
+
+him of his stock. To invoke a presumption for why he acted as he did, Monk
+
+must ﬁrst show that he acted at all.
+
+
+
+
+                                          21
+      (4) The majority opinion says that “[l]ike all § 10(b) defendants, Shanda
+
+and the Individual Defendants may rebut the presumption.” It is the nature of
+
+the presumption to be rebuttable in order to limit litigation on speculative and
+
+hypothetical claims. As the Supreme Court explained in Basic, “[a]ny showing
+
+that severs the link between the alleged misrepresentation and either the price
+
+received (or paid) by the plaintiﬀ, or his decision to trade at a fair market price,
+
+will be suﬃcient to rebut the presumption of reliance.” Basic, 485 U.S. at 248.
+
+Here, the presumption is defeated at the outset. There is no link to sever
+
+between the proxies and the merger transaction, which was negotiated and
+
+announced before the proxies ever were published. Nor can Monk claim a link
+
+between the proxies and his inaction: the presumption accounts for choices made
+
+by actual actors in developed markets, not hypothetical actors in markets that are
+
+constrained. The presumption cannot explain a decision that was never made, in
+
+a market that did not exist.
+
+                                        * * *
+
+      Since, as I have demonstrated, no presumption of fraud on the market is
+
+available in the freeze-out merger context, it follows that transaction causation in
+
+a lost-state-remedy action for securities fraud must be pleaded with particularity
+
+
+
+                                          22
+and with nonspeculative allegations of direct reliance on the claimed fraud--
+
+including an allegation that the plaintiﬀ did more than merely hold the same
+
+security the plaintiﬀ owned before the merger announcement. See Grace, 228
+
+F.3d at 48-50. That the fraudulent proxies caused Monk to forgo appraisal cannot
+
+be inferred merely from his failure to pursue it. See Blue Chip Stamps, 421 U.S.
+
+at 737-38. Monk can sustain his burden only by plausibly alleging that he read
+
+and directly relied on the proxy statements in voting to approve the merger. He
+
+does not.
+
+                                        IV.
+
+      Before expanding the implied right of action under section 10(b) and rule
+
+10b-5, courts must consider whether a federal remedy is appropriate. Theories
+
+that “invite[] litigation beyond the immediate sphere of securities litigation and
+
+in areas already governed by functioning and eﬀective state-law guarantees”
+
+should be rejected. Stoneridge Inv. Partners, LLC v. Scientiﬁc-Atlanta, 552 U.S.
+
+148, 161 (2008) (declining to extend the section 10(b) implied cause of action to
+
+“the realm of ordinary business operations”); see also Janus Cap. Grp. v. First
+
+Derivative Traders, 564 U.S. 135, 142 (2011) (“[W]e must give narrow
+
+dimensions . . . to a right of action Congress did not authorize when it ﬁrst
+
+enacted the statute and did not expand when it revisited the law.”).
+                                         23
+“Corporations are creatures of state law,” and state law governs corporate
+
+ﬁduciary duties and the right to judicial appraisal. Santa Fe, 430 U.S. at 479. The
+
+result in this case is erroneous because it appears to swallow whole these state
+
+law protections for minority shareholders.
+
+      I worry that (at least in the freeze-out merger context) minority
+
+shareholders who fail to exercise their individual right to appraisal under state
+
+law in the ﬁrst instance will now have a second-chance claim via a class action
+
+under the federal securities law. Appraisal actions can be expensive and chancy:
+
+the “fair value” could be less than the merger price. The majority opinion alters
+
+the calculus by recasting individual appraisal actions as securities fraud claims,
+
+hollowing out section 10(b)’s causation requirement to ensure even baseless
+
+claims survive motions to dismiss, and supercharging the result by doing so in a
+
+class action context.
+
+      Monk plausibly alleges that Shanda’s proxy statements misrepresented
+
+Shanda’s ﬁnancial outlook and that the negotiated merger price was unfair. But
+
+these allegations alone would not state a claim under the federal securities law
+
+absent the majority’s decision to obviate section 10(b)’s reliance requirement. Cf.
+
+Marine Bank v. Weaver, 455 U.S. 551, 556 (1982) (“Congress, in enacting the
+
+
+
+                                        24
+securities laws, did not intend to provide a broad federal remedy for all fraud.”).
+
+Instead, these allegations at best would have entitled Monk to an appraisal of the
+
+fair value of his shares under Cayman Islands law, a remedy that he, unlike
+
+others similarly situated, did not pursue.
+
+
+
+
+                                        25

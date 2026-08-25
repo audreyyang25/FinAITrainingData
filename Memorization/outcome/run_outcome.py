@@ -20,7 +20,7 @@ downstream for the same reason.
 Web search is off, enforced in the provider layer. Temperature is 0.
 """
 from __future__ import annotations
-import argparse, csv, datetime, json, os, sys, threading
+import argparse, collections, csv, datetime, json, os, sys, threading
 from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
@@ -29,7 +29,8 @@ import providers
 from run_probe import load_meta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from models import TARGETS, CUTOFF, arm
+from models import (TARGETS, CUTOFF, arm, common_arm, COMMON_PRE_MAX,
+                    COMMON_POST_MIN, FED_APPEAL_DIR)
 
 csv.field_size_limit(min(sys.maxsize, 2**31 - 1))
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -189,6 +190,16 @@ def main():
     ap.add_argument("--arm", choices=["pre_cutoff", "post_cutoff"],
                     help="restrict to one arm, resolved per model against that\n"
                          "model's own cutoff")
+    ap.add_argument("--common-arm", choices=["pre", "post", "both"],
+                    help="use the three-model COMMON arm split instead of a per-model\n"
+                         "one: pre means before every cutoff in models.NEWER, post means\n"
+                         "after all of them, and cases between the two are dropped as\n"
+                         "ambiguous. Makes pre/post deltas comparable across models.")
+    ap.add_argument("--fed-appeal", action="store_true",
+                    help="take the case list from the federal courts of appeals corpus\n"
+                         "(datasets/fed_appeal_court_opinions/_index.csv) instead of the\n"
+                         "QA CSV. Court level stops being a second variable alongside the\n"
+                         "arm, and newly crawled cases are picked up without a QA rebuild.")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
@@ -197,16 +208,52 @@ def main():
     if not args.model and not args.all:
         ap.error("pass --model or --all")
 
-    # One row per case, not per question: dedupe the QA file.
+    # WHERE THE CASE LIST COMES FROM.
+    # The QA CSV is built for the verbatim-memorization probe, where the rows are
+    # question spans. This experiment needs none of that -- only a case id, a
+    # filing date and a court level, with captions and dockets coming from the
+    # manifest via load_meta(). Sourcing from the corpus index instead means the
+    # outcome probe does not depend on a QA rebuild to see newly crawled cases,
+    # and nothing here can force a regeneration of files other experiments were
+    # built against.
     seen, cases = set(), []
-    for r in csv.DictReader(open(args.qa, newline="")):
+    if args.fed_appeal:
+        src = os.path.join(BASE, "datasets", FED_APPEAL_DIR, "_index.csv")
+        rows = list(csv.DictReader(open(src, newline="")))
+        print(f"cases from {FED_APPEAL_DIR}/_index.csv: {len(rows)}")
+    else:
+        src = args.qa
+        rows = list(csv.DictReader(open(src, newline="")))
+    for r in rows:
         if r["case_id"] in seen:
             continue
         seen.add(r["case_id"])
         cases.append({"case_id": r["case_id"], "date_filed": r.get("date_filed", ""),
                       "court_level": r.get("court_level", "")})
+    # --- the common-arm design, applied before anything is paid for ----------
+    # Both filters drop cases, so both run here rather than at analysis time:
+    # a case excluded after generation and judging has already cost ~$0.75, and
+    # one excluded only at analysis time tends to get silently re-included the
+    # next time someone writes a fresh script against the judged CSV.
+    if args.common_arm:
+        buckets = collections.Counter()
+        kept = []
+        for c in cases:
+            a = common_arm(c["date_filed"])
+            buckets[a or "ambiguous"] += 1
+            if a and (args.common_arm == "both" or a == f"{args.common_arm}_cutoff"):
+                c["common_arm"] = a
+                kept.append(c)
+        print(f"common-arm filter ({args.common_arm}): {dict(buckets)} "
+              f"-> {len(kept)} cases")
+        print(f"  pre <= {COMMON_PRE_MAX}, post > {COMMON_POST_MIN}; "
+              f"{buckets['ambiguous']} ambiguous case(s) excluded by design")
+        cases = kept
+
     if args.limit:
         cases = cases[: args.limit]
+    if not cases:
+        sys.exit("no cases left after filtering — check --common-arm / --fed-appeal")
     meta = load_meta()
 
     models = [m for m, _, _ in TARGETS] if args.all else [args.model]

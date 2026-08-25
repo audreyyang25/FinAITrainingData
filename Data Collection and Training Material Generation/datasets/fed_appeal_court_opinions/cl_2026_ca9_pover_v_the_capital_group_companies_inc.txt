@@ -1,0 +1,1206 @@
+                 FOR PUBLICATION
+
+   UNITED STATES COURT OF APPEALS
+        FOR THE NINTH CIRCUIT
+
+CATHY POVER, individually and              No. 24-5298
+on behalf of all others similarly
+                                            D.C. No.
+situated,
+                                         2:23-cv-09657-
+                                            GW-PVC
+            Plaintiff - Appellee,
+
+ v.
+                                            OPINION
+THE CAPITAL GROUP
+COMPANIES, INC.; THE BOARD
+OF DIRECTORS OF THE
+CAPITAL GROUP COMPANIES,
+INC., and its members; and THE U.S.
+RETIREMENT BENEFITS
+COMMITTEE OF THE CAPITAL
+GROUP COMPANIES INC., and its
+members, Does 1–30,
+
+            Defendants - Appellants.
+
+       Appeal from the United States District Court
+          for the Central District of California
+        George H. Wu, District Judge, Presiding
+
+         Argued and Submitted August 11, 2025
+                 Pasadena, California
+
+                   Filed July 30, 2026
+2          POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+    Before: Jacqueline H. Nguyen, Danielle J. Forrest, and
+             Lawrence VanDyke, Circuit Judges.
+
+                  Opinion by Judge Forrest;
+                  Dissent by Judge VanDyke
+
+
+                          SUMMARY*
+
+
+                      ERISA/Arbitration
+
+    The panel affirmed the district court’s denial of
+defendants’ motion to compel arbitration in a case in which
+Cathy Pover sued her former employer, The Capital Group
+Companies, Inc., and its fiduciaries on behalf of her
+employer’s retirement-savings plan, The Capital Retirement
+Savings Plan (the Plan), alleging that the fiduciaries
+mismanaged the Plan’s investments.
+    The Plan is covered by the Employee Retirement Income
+Security Act of 1974 (ERISA), which permits plan
+participants to seek relief on a plan’s behalf for breach of the
+duties owed by the plan’s fiduciaries. The Plan contract
+included an arbitration requirement and a waiver by plan
+participants of any claims brought on “a class, collective, or
+representative basis.”
+    The panel considered the interaction between ERISA,
+which entitles plan participants to sue for mismanagement of
+their retirement plan, and the Federal Arbitration Act (FAA),
+
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.            3
+
+
+which requires courts to enforce valid agreements to
+arbitrate. At the intersection of these statutes is the judicially
+created effective-vindication doctrine that renders
+unenforceable arbitration agreements that prevent the
+vindication of statutorily protected rights and remedies.
+    Because the Plan’s waiver provision forbids Pover from
+asserting her rights under ERISA to sue as a representative
+of the Plan for Plan-wide relief, the panel agreed with the
+district court that the waiver is unenforceable under the
+effective-vindication doctrine. Pover alleges fiduciary
+breaches that fall squarely within the category of duties that
+ERISA § 409 imposes on plan fiduciaries, and under ERISA
+§ 502(a)(2), Pover is entitled to bring an action on behalf of
+the Plan to recover any resulting losses as well as such other
+equitable or remedial relief as the court may deem
+appropriate. The Plan’s representative-action waiver
+prevents Pover from enforcing her substantive rights under
+ERISA because her breach-of-fiduciary-duty claims can
+only be brought in a representative capacity. Accordingly,
+the waiver is unenforceable under the effective-vindication
+doctrine.
+    Addressing the severability of the waiver and arbitration
+provisions, the panel concluded that Pover’s breach-of-
+fiduciary duty claims must be adjudicated in court rather
+than arbitration because the Plan’s waiver provision
+expressly provides that if it “is found to be unenforceable by
+a court of competent jurisdiction, then any claim on a class,
+collective, or representative basis shall be filed and
+adjudicated in a court of competent jurisdiction, and not in
+arbitration.”
+    Dissenting, Judge VanDyke wrote that the majority errs
+twice over in finding the arbitration clause unenforceable.
+4         POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+On the merits, he would hold that the bar on “representative”
+suits in the arbitration clause’s class-action waiver does not
+refer to third-party suits on behalf of the Plan. When read in
+context, that phrase refers to class action or collective
+“representative”      suits    only,     not    principal-agent
+representative suits like section 502(a)(2) ERISA claims.
+    But the panel should not have even reached the issue of
+arbitrability because the parties expressly agreed to allow an
+arbitrator to decide threshold questions of arbitrability,
+expressing their desire to keep courts out of this dispute.
+Although Capital failed to make that argument before the
+district court, its failure to do so falls squarely within the
+exceptions to waiver. Judge VanDyke would have waived
+waiver and sent the question of arbitrability to the arbitrator.
+
+
+
+                         COUNSEL
+
+Charles H. Field Jr. (argued), Hilary R. Rosenthal, and
+Myounghee Choung, Sanford Heisler Sharp McKnight LLP,
+La Jolla, California; David B. McNamee, Kristi Stahnke
+McGregor, and Kevin H. Sharp, Sanford Heisler Sharp
+McKnight LLP, Nashville, Tennessee; Sharon Kim, Sanford
+Heisler Sharp McKnight LLP, New York, New York;
+Hampton M. Watson, Sanford Heisler Sharp McKnight
+LLP, Washington, D.C.; for Plaintiff-Appellee.
+Parker A. Rider-Longmaid (argued) and Shay Dvoretzky,
+Skadden Arps Slate Meagher & Flom LLP, Washington,
+D.C.; Michael S. Hines, Mary E. Grinman, and James R.
+Carroll, Skadden Arps Slate Meagher & Flom LLP, Boston,
+Massachusetts; Jeremy Patashnik, Skadden Arps Slate
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.         5
+
+
+Meagher & Flom LLP, New York, New York; Jason D.
+Russell, Skadden Arps Slate Meagher & Flom LLP, Los
+Angeles, California; for Defendants-Appellants.
+Leah M. Nicholls, Public Justice PC, Washington, D.C., for
+Amicus Curiae Public Justice.
+
+
+
+
+                         OPINION
+
+FORREST, Circuit Judge:
+
+    Cathy Pover sued her former employer, The Capital
+Group Companies, Inc., and its fiduciaries on behalf of her
+employer’s retirement-savings plan for the fiduciaries’
+mismanagement of the plan’s investments. The plan is
+covered by the Employee Retirement Income Security Act
+of 1974 (ERISA), which permits plan participants to seek
+relief on a plan’s behalf for breach of the duties owed by the
+plan’s fiduciaries. However, the plan contract included an
+arbitration requirement and a waiver by plan participants of
+any claims brought on “a class, collective, or representative
+basis.” Because this waiver provision forbids Pover from
+asserting her rights under ERISA to sue as a representative
+of the plan for plan-wide relief, we agree with the district
+court that the waiver is unenforceable under the effective-
+vindication doctrine, and we affirm the district court’s denial
+of defendants’ motion to compel arbitration.
+6        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+                     BACKGROUND
+                       A. The Plan
+     Capital Group is a global asset manager that sponsors a
+retirement plan for its current and former employees known
+as The Capital Retirement Savings Plan (Plan). The Plan
+allows each participant to maintain an individual account
+funded by contributions from each participant and Capital
+Group, as well as the participant’s investment earnings. The
+participants may direct how their individual accounts are
+invested by selecting from a menu of investment options
+provided by the Plan. Capital Group collects a transaction
+fee from the investment funds included in the Plan’s menu.
+    The Plan is a “defined contribution plan.” The Supreme
+Court has explained that “a ‘defined contribution plan’ or
+‘individual account plan’ promises the participant the value
+of an individual account at retirement, which is largely a
+function of the amounts contributed to that account and the
+investment performance of those contributions.” LaRue v.
+DeWolff, Boberg & Assocs., Inc., 552 U.S. 248, 250 n.1
+(2008). A “defined benefit plan,” in contrast, “promises the
+participant a fixed level of retirement income, which is
+typically based on the employee’s years of service and
+compensation.” Id. While defined-benefit plans were once
+“the norm,” defined-contribution plans have become the
+leading form of private retirement-plan offerings. See id. at
+255 (citation omitted).
+   The Plan is governed by ERISA and the terms of its Plan
+Document. According to the Plan Document, the
+Administrative Committee serves as the Plan’s fiduciary and
+may amend or modify the Plan. As relevant here, the
+Committee amended the Plan before this litigation by adding
+two provisions related to dispute resolution: (1) an
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.          7
+
+
+arbitration requirement and (2) a waiver of class, collective,
+and representative actions. The arbitration requirement
+dictates that “[a]ny claim, controversy or alleged breach or
+violation of law that arises out of or relates in any way to the
+Plan or a claimant’s participation in the Plan and seeks a
+remedy, ruling or judgment of any kind against the Plan”
+must be resolved in arbitration. And the waiver provision
+states:
+
+       A Participant, former Participant, or
+       Beneficiary must bring any dispute in
+       arbitration on an individual basis only, and
+       not on a class, collective or representative
+       basis and must waive the right to commence,
+       be a party to, or be an actual or putative class
+       member of any class, collective, or
+       representative action arising out of or relating
+       to the Plan, including, but not limited to, any
+       claims related to the Plan.
+
+The waiver also specifies that if it “is found to be
+unenforceable by a court of competent jurisdiction, then any
+claim on a class, collective, or representative basis shall be
+filed and adjudicated in a court of competent jurisdiction,
+and not in arbitration.”
+                      B. The Lawsuit
+    Pover sued Capital Group, the Committee, Capital
+Group’s Board of Directors, and other fiduciaries
+responsible for controlling and managing the Plan’s
+investments (hereinafter, collectively, Capital Group). She
+alleged that Capital Group breached its fiduciary duties to
+the Plan by retaining certain investment options for
+participants despite their poor performance. Pover further
+8         POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+alleged that Capital Group knew certain investment funds
+were underperforming but retained them in its offerings to
+collect the substantial transaction fees generated by the
+funds. She asserted that Capital Group’s failure to remove
+these funds from the Plan’s investment menu violated its
+duties of prudence and loyalty to the Plan, and that Capital
+Group failed to monitor its delegees, further harming the
+Plan.
+    Pover sued Capital Group “in a representative capacity
+on behalf of the Plan . . . , seeking appropriate relief . . . to
+protect the interests of the entire Plan.” She sought several
+forms of plan-wide monetary and equitable relief provided
+under ERISA. Among these, declarations that the Capital
+Group fiduciaries breached their duties owed to the Plan and
+“are personally liable to make good to the Plan”; “restitution
+and disgorgement”; and an order (1) requiring the Capital
+Group’s fiduciaries to pay “the losses resulting from each
+breach of fiduciary duty and to restore to the Plan” any lost
+profits, (2) removing Plan fiduciaries found to have
+breached their duties and enjoining them from future
+violations, (3) “reform[ing] the Plan to include only prudent
+investments,” and (4) granting all “other equitable or
+remedial relief the Court deems appropriate.”
+    Capital Group moved to compel arbitration under the
+Federal Arbitration Act (FAA), asserting that Pover is bound
+by the Plan’s arbitration requirement. Pover opposed Capital
+Group’s motion, arguing that the Plan’s representative-
+action waiver was unenforceable under the effective-
+vindication doctrine, and arbitration was thus not required,
+because the waiver foreclosed her ability to represent the
+Plan and pursue plan-wide relief on its behalf, undermining
+her rights under ERISA. Pover also argued that neither she
+nor the Plan had agreed to arbitrate future claims against
+         POVER V. THE CAPITAL GROUP COMPANIES, INC.         9
+
+
+Capital Group. Finally, Pover contended that the arbitration
+provision is unconscionable and non-severable.
+    The district court denied Capital Group’s motion to
+compel arbitration. It agreed that the Plan’s representative-
+action waiver could not be enforced because it prospectively
+waived Pover’s substantive rights and remedies under
+ERISA. The district court explained that ERISA creates a
+statutory cause of action allowing plan participants to sue on
+behalf of their plan and recover plan-wide monetary and
+equitable relief. The court reasoned that Pover’s action was
+“necessarily a representative action seeking plan-wide
+recovery” and that enforcing the representative-action
+waiver would prevent her from “bring[ing] any of her claims
+in a representative capacity on behalf of the Plan.”
+Therefore, it held that the waiver was unenforceable. It also
+held that the waiver was expressly non-severable because it
+required any collective or representative claim to proceed in
+court if found unenforceable. Capital Group appealed.
+                       DISCUSSION
+    We have jurisdiction to review the district court’s denial
+of a motion to compel arbitration under 9 U.S.C. § 16(a)(1).
+We review the district court’s decision and its interpretation
+of ERISA de novo. Blair v. Rent-A-Center, Inc., 928 F.3d
+819, 824 (9th Cir. 2019); Stand Up for California! v. U.S.
+Dep’t of the Interior, 959 F.3d 1154, 1158 (9th Cir. 2020).
+To promote uniformity, we interpret the language of ERISA
+documents as a matter of federal common law rather than
+state law. Mull v. Motion Picture Indus. Health Plan, 41
+F.4th 1120, 1130 n.8 (9th Cir. 2022).
+    This case requires us to consider the interaction between
+two federal statutes: ERISA, which entitles plan participants
+to sue for mismanagement of their retirement plan, and the
+10        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+FAA, which requires courts to enforce valid agreements to
+arbitrate. At the intersection of these statutes is the judicially
+created effective-vindication doctrine that renders
+unenforceable arbitration agreements that prevent the
+vindication of statutorily protected rights and remedies. We
+begin our analysis by explaining these background legal
+principles. We then apply them to determine whether the
+Plan’s representative-action waiver is enforceable. Because
+we conclude that the waiver is not enforceable under the
+effective-vindication doctrine, we need not address Pover’s
+remaining challenges to arbitration.
+                     A. Legal Principles
+                          1. ERISA
+    “ERISA is a comprehensive and reticulated statute, the
+product of a decade of congressional study of the Nation’s
+private employee benefit system.” Great-W. Life & Annuity
+Ins. Co. v. Knudson, 534 U.S. 204, 209 (2002) (internal
+quotation marks and citation omitted). In this expansive
+statutory system, two ERISA sections work together to
+provide participants in ERISA-governed plans with a federal
+cause of action to enforce the duties owed to the plan by its
+fiduciaries. See Mass. Mut. Life Ins. Co. v. Russell, 473 U.S.
+134, 139–40, 142 & n.9 (1985); Platt v. Sodexo, S.A., 148
+F.4th 709, 721 (9th Cir. 2025).
+    First, § 409(a) imposes liability on fiduciaries who
+breach their duties to the plan and outlines the remedies
+available. See 29 U.S.C. § 1109(a). The statute provides:
+
+        Any person who is a fiduciary with respect to
+        a plan who breaches any of the
+        responsibilities, obligations, or duties
+        imposed upon fiduciaries by this subchapter
+         POVER V. THE CAPITAL GROUP COMPANIES, INC.        11
+
+
+       shall be personally liable to make good to
+       such plan any losses to the plan resulting
+       from each such breach, and to restore to such
+       plan any profits of such fiduciary which have
+       been made through use of assets of the plan
+       by the fiduciary, and shall be subject to such
+       other equitable or remedial relief as the court
+       may deem appropriate, including removal of
+       such fiduciary.
+
+Id. “[T]he principal statutory duties imposed on [fiduciaries]
+relate to the proper management, administration, and
+investment of fund assets, the maintenance of proper
+records, the disclosure of specific information, and the
+avoidance of conflicts of interest.” Russell, 473 U.S. at 142–
+43.
+    Second, § 502(a)(2) creates the enforcement mechanism.
+See 29 U.S.C. § 1132(a)(2). It provides that “[a] civil action
+may be brought . . . by the Secretary [of Labor], or by a
+participant, beneficiary or fiduciary for appropriate relief
+under” § 409(a). Id. “Section 502(a)(2) thus acts as the
+vehicle for plan participants to obtain the relief made
+available by § 409(a).” Platt, 148 F.4th at 721.
+    The Supreme Court has examined how these ERISA
+sections operate for breach-of-fiduciary-duty claims brought
+by both defined-benefit and defined-contribution plan
+participants. Russell, 473 U.S. at 136; LaRue, 552 U.S. at
+252–56. And it has made clear that, in both contexts,
+plaintiffs bringing a claim under § 502(a)(2) proceed on the
+plan’s behalf. Russell, 473 U.S. at 142 n.9 (“[A]ctions for
+breach of fiduciary duty [under § 502(a)(2) are] brought in a
+representative capacity on behalf of the plan as a whole.”);
+LaRue, 552 U.S. at 253 (explaining that § 502(a)(2)
+12        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+“authorizes the Secretary of Labor as well as plan
+participants, beneficiaries, and fiduciaries, to bring actions
+on behalf of a plan”).
+    Massachusetts Mutual Life Insurance Co. v. Russell
+dealt with a defined-benefit plan. There, a participant in an
+ERISA-backed employee-benefits plan sued a plan fiduciary
+under § 502(a)(2) and sought “extra-contractual
+compensatory or punitive damages caused by improper or
+untimely processing” of her medical-benefit claim. 473 U.S.
+at 136. The plan participant contended that the fiduciaries’
+delayed processing of her individual claim caused actionable
+harm. See id. at 136–38. The Supreme Court held that
+§ 502(a)(2) precluded such individualized relief: “A fair
+contextual reading of the statute makes it abundantly clear
+that its draftsmen were primarily concerned with the possible
+misuse of plan assets, and with remedies that would protect
+the entire plan, rather than with the rights of an individual
+beneficiary.” Id. at 142 (emphasis added). The Court further
+noted that “the principal statutory duties” that § 409(a)
+imposes on fiduciaries are those “relate[d] to the proper
+management, administration, and investment of fund assets,
+the maintenance of proper records, the disclosure of
+specified information, and the avoidance of conflicts of
+interest.” Id. at 142–43. Thus, “the entire text of § 409(a)”
+persuaded the Court “that Congress did not intend that
+section to authorize relief except for the plan itself.” Id. at
+144.
+    Thirty years later, the Supreme Court revisited
+§ 502(a)(2) in the context of a defined-contribution plan.
+LaRue, 552 U.S. at 250–51. In LaRue v. DeWolff, Boberg &
+Associates, Inc., a retirement-plan participant alleged that a
+fiduciary had failed to make changes that he directed to his
+individual investment portfolio, “‘deplet[ing]’ his interest in
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.        13
+
+
+the [p]lan” and “amount[ing] to a breach of fiduciary duty
+under ERISA.” Id. at 251. The plan participant sued seeking
+“make-whole” monetary recovery for the alleged breach. Id.
+    The Supreme Court held that the misconduct the plan
+participant alleged concerning the fiduciary’s failure to
+maximize the value of his investment account “f[ell]
+squarely within th[e] category” of fiduciary duties owed to
+the plan that are addressed in § 409(a), id. at 253, because
+“trustees are chargeable with any profit which would have
+accrued to the trust estate if there had been no breach of
+trust,” id. at 253 n.4 (citation modified). In doing so, the
+Court distinguished its previous language in Russell, which
+had recognized that ERISA’s “draftsmen were primarily
+concerned . . . with remedies that would protect the entire
+plan.” Id. at 254 (quoting Russell, 473 U.S. at 142). The
+Court explained that “Russell’s emphasis on protecting the
+‘entire plan’ from fiduciary misconduct reflect[ed] the
+former landscape of employee benefit plans,” which was
+dominated by defined-benefit plans under which
+participants’ individual entitlement to benefits was not
+threatened unless fiduciary misconduct “risk[s] . . . default
+by the entire plan.” Id. at 254–55.
+    The Court also clarified that in the defined-contribution-
+plan context, “fiduciary misconduct need not threaten the
+solvency of the entire plan to reduce [individual] benefits
+below the amount that participants would otherwise
+receive.” Id. at 255–56. For defined-contribution plans,
+“[w]hether a fiduciary breach diminishes plan assets payable
+to all participants and beneficiaries, or only to persons tied
+to particular individual accounts, it creates the kind of harms
+that concerned” ERISA’s draftsmen, making a § 502(a)(2)
+claim appropriate. Id. at 256. That is, LaRue “recognized that
+Section 409(a) protects against breaches of fiduciary duty
+14        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+involving the management of assets within defined
+contribution plans,” regardless of whether the injury is felt
+at the plan level or at the individual-account level. Cedeno v.
+Sasson, 100 F.4th 386, 399 (2d Cir. 2024). In either scenario,
+the plaintiff-participant proceeds on behalf of the plan and
+the remedies afforded by ERISA benefit the plan. LaRue,
+552 U.S. at 253–56; see also Russell, 473 U.S. at 142 n.9;
+Munro v. Univ. of S. Cal., 896 F.3d 1088, 1093 (9th Cir.
+2018) (“[T]he [LaRue] Court made clear that it had not
+reconsidered its longstanding recognition that it is the plan,
+and not the individual beneficiaries and participants, that
+benefit from a winning claim for breach of fiduciary duty,
+even when the plan is a defined contribution plan.”).
+                          2. FAA
+     Congress enacted the FAA in 1925 as a “response to
+widespread judicial hostility to arbitration.” Am. Express Co.
+v. Italian Colors Rest., 570 U.S. 228, 232 (2013). The FAA
+established “a liberal federal policy favoring arbitration
+agreements.” Moses H. Cone Mem’l Hosp. v. Mercury
+Constr. Corp., 460 U.S. 1, 24 (1983). It provides that “[a]
+written provision in any . . . contract evidencing a
+transaction involving commerce to settle by arbitration a
+controversy thereafter arising out of such contract or
+transaction . . . shall be valid, irrevocable, and enforceable,
+save upon such grounds as exist at law or in equity for the
+revocation of any contract.” 9 U.S.C. § 2.
+    Consistent with its underlying purpose, the FAA’s
+“mandate is to enforce arbitration agreements,” Viking River
+Cruises, Inc. v. Moriana, 596 U.S. 639, 653 (2022) (citation
+modified), and to protect parties’ choices for where and
+under what procedures to resolve their disputes, id. (“[A]n
+arbitration agreement is ‘a specialized kind of forum-
+            POVER V. THE CAPITAL GROUP COMPANIES, INC.                  15
+
+
+selection clause that posits not only the situs of suit but also
+the procedure to be used in resolving the dispute.’” (quoting
+Scherk v. Alberto-Culver Co., 417 U.S. 506, 519 (1974))).
+But there is an exception for arbitration agreements that
+purport to waive substantive rights and remedies. See id.
+This exception is known as the effective-vindication
+doctrine. Italian Colors, 570 U.S. at 235.
+              3. Effective-Vindication Doctrine
+    An arbitration agreement “does not alter or abridge
+substantive rights; it merely changes how those rights will
+be processed.” Viking River Cruises, 596 U.S. at 653.
+Indeed, “[b]y agreeing to arbitrate a statutory claim, a party
+does not forgo the substantive rights afforded by the statute;
+it only submits to their resolution in an arbitral, rather than a
+judicial, forum.” Mitsubishi Motors Corp. v. Soler Chrysler-
+Plymouth, Inc., 473 U.S. 614, 628 (1985). Thus, where “a
+provision in an arbitration agreement forbid[s] the assertion
+of certain statutory rights,” preventing the vindication of
+those rights, courts will invalidate the provision “on ‘public
+policy’ grounds.”1 Italian Colors, 570 U.S. at 235–36.
+   We recently joined several of our sister circuits in
+holding that “arbitration provisions preventing individuals
+from obtaining the plan-wide relief available under § 409(a)
+
+
+1
+   The Supreme Court has discussed with approval the effective-
+vindication doctrine and repeatedly recognized that arbitration
+provisions may not prevent a party from effectively vindicating statutory
+rights and securing statutory remedies. See, e.g., Italian Colors, 570 U.S.
+at 235–36; see also Cedeno, 100 F.4th at 396 (collecting cases); Harrison
+v. Envision Mgmt. Holding, Inc. Bd. of Dirs., 59 F.4th 1090, 1098 (10th
+Cir. 2023) (“[T]he Supreme Court has repeatedly recognized the
+existence of the effective vindication exception.”). But the Court has yet
+to invalidate an arbitration provision based on this doctrine.
+16        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+violate the effective-vindication doctrine.” Platt, 148 F.4th
+at 721; see id. at 721–22 (collecting cases). Platt v. Sodexo,
+S.A. involved an arbitration provision in an ERISA-governed
+health-insurance plan that “prohibit[ed] claims brought ‘as a
+plaintiff or class member in any purported class or
+representative proceeding.’” Id. at 715. The plaintiff-
+employee sued his employer for breach of fiduciary duties in
+violation of § 409(a), and we considered whether the plan’s
+arbitration provision violated the effective-vindication
+doctrine by preventing the employee from obtaining the only
+relief afforded by § 409(a)—relief for the plan. Id. at 714–
+15.
+    We began our analysis by explaining that the effective-
+vindication doctrine prevents enforcement of an arbitration
+provision “if it ‘operate[s] as a prospective waiver of a
+party’s right to pursue statutory remedies,’ including a
+prohibition on ‘the assertion of certain statutory rights.’” Id.
+at 721 (alteration in original) (quoting Italian Colors, 570
+U.S. at 235–36). We then addressed the same two ERISA
+sections at play here, confirming that because § 409(a)
+“provides relief ‘singularly to the plan’ rather than an
+individual plaintiff, § 502(a)(2) claims asserting breach of
+fiduciary duty actionable under § 409(a) are understood as
+claims ‘brought in a representative capacity on behalf of the
+plan as a whole.’” Id. (quoting Russell, 473 U.S. at 142 &
+n.9). And we concluded that because the arbitration
+provision prohibited claims brought “in any . . .
+representative proceeding,” it was unenforceable because it
+precluded the plaintiff “from bringing claims in a
+representative capacity on the Plan’s behalf” and “from
+obtaining the plan-wide relief available under § 409(a).” Id.
+at 715, 721.
+            POVER V. THE CAPITAL GROUP COMPANIES, INC.                  17
+
+
+                           B. Application
+    With this legal backdrop, we consider whether the Plan’s
+representative-action waiver violates the effective-
+vindication doctrine.2
+              1. Representative-Action Waiver
+    Pover’s complaint makes clear that she seeks to represent
+the Plan and to pursue the full extent of plan-wide relief
+available under ERISA. The complaint cites § 502(a)(2),
+noting that the statute “authorizes any participant or
+beneficiary of the Plan to bring an action individually on
+behalf of the Plan to enforce a breaching fiduciary’s liability
+to the plan” under § 409(a). And it states that Pover seeks to
+“act[] in this representative capacity.”
+    The complaint also outlines a spectrum of both monetary
+recovery and equitable remedies sought that would
+necessarily affect the entire Plan. For example, Pover seeks
+a court order requiring that the breaching fiduciaries “make
+good to the Plan as a whole the losses resulting from each
+breach of fiduciary duty and to restore to the Plan any profits
+resulting from each breach.” And as equitable remedies,
+Pover requests restitution, disgorgement, removal of
+breaching fiduciaries, reformation of the Plan, and “such
+other equitable or remedial relief as the Court deems
+appropriate.” The requested relief can only be interpreted as
+seeking recovery that would “inure[] to the benefit of the
+
+
+2
+  Capital Group argues, for the first time on appeal, that the parties
+delegated questions of arbitrability to the arbitrator. Pover contends that
+Capital Group forfeited this argument by not raising it in the district
+court. While we have discretion to ignore a party’s forfeiture in certain
+circumstances, see Ruiz v. Affinity Logistics Corp., 667 F.3d 1318, 1322
+(9th Cir. 2012), we decline to do so here.
+18        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+[P]lan as a whole.” See Russell, 473 U.S. at 140; see also
+LaRue, 552 U.S. at 253–54.
+    To determine whether the representative-action waiver
+bars Pover’s claims, we must answer two questions:
+(1) whether the waiver prevents Pover from bringing claims
+on behalf of the Plan and (2) whether ERISA limits a
+participant in a defined-contribution plan to seeking
+monetary recovery related only to her individual account.
+                               i.
+    The Plan’s waiver provision prohibits current and former
+plan participants, including Pover, from “bring[ing] any
+dispute . . . on a class, collective or representative basis.”
+Participants may bring disputes “on an individual basis
+only.” Capital Group argues that “representative,” as used in
+this provision, refers only to collective actions, not to actions
+brought by a plan participant on behalf of the Plan. Capital
+Group is correct that the Supreme Court has recognized that
+the word “representative” has two different meanings: one
+referring to a plaintiff’s statutory authority to sue on behalf
+of an absent principal, and the other referring to a plaintiff’s
+representation of a group of potential claimants. Viking River
+Cruises, 596 U.S. at 648. We have held that § 502(a)(2)
+claims asserting breach of fiduciary duty are always
+“representative” in the first sense because the participant-
+plaintiff “seeks recovery only for injury done to the plan.”
+Munro, 896 F.3d at 1092–93 (citing LaRue, 552 U.S. at 256).
+Consistent with the Supreme Court’s guidance, Munro
+recognized that even though “the cause of action” under
+§ 502(a)(2) “belong[s] to the individual plaintiff,” id. at 1093
+(alteration in original) (quoting Comer v. Micor, Inc., 436
+F.3d 1098, 1103 (9th Cir. 2006)), the relief afforded by
+ERISA benefits the plan, id. at 1094; see also Hawkins v.
+            POVER V. THE CAPITAL GROUP COMPANIES, INC.                  19
+
+
+Cintas Corp., 32 F.4th 625, 632 (6th Cir. 2022) (following
+Munro); Williams v. Shapiro, 161 F.4th 1313, 1322 (11th
+Cir. 2025).
+     Thus, the representative nature of Pover’s claim is clear.
+The remaining question is simply how to interpret
+“representative,” as used in the waiver. On this, our decision
+in Platt controls. The arbitration provision there prohibited
+“any purported class or representative proceeding.” Platt,
+148 F.4th at 715. We held that language to be a
+“representative action waiver” that prevented the plaintiff
+“from bringing claims in a representative capacity on the
+Plan’s behalf.” Id. at 721. There is no meaningful difference
+between the prohibition against “any purported class or
+representative proceeding” in Platt, and the prohibition
+against any claim brought on a “class, collective or
+representative basis” here. See id. at 715. If the former
+prevents a plaintiff from pursuing those “remedies that were
+specifically authorized by Congress,” in violation of the
+effective-vindication doctrine, then so does the latter.3 See
+id. at 721 (quoting Harrison v. Envision Mgmt. Holding, Inc.
+Bd. of Dirs., 59 F.4th 1090, 1107 (10th Cir. 2023)).
+                                    ii.
+    Relying on LaRue, Capital Group argues that a defined-
+contribution plan participant may nevertheless recover only
+those monetary losses suffered by her individual account,
+
+3
+  We agree with our dissenting colleague that Platt does not “hold that
+every arbitration agreement provision with somewhat comparable
+language necessarily bars ERISA suits on behalf of a plan and is
+therefore invalid under the effective-vindication doctrine.” Dissent at 31.
+But we disagree that the difference between the words of the waiver
+provisions at issue in Platt and here is sufficient to warrant a different
+outcome.
+20       POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+plus other appropriate equitable relief, which is all
+recoverable in individual arbitration under the Plan’s
+arbitration provisions. Capital Group misunderstands both
+LaRue and ERISA.
+    LaRue held that a participant in a defined-contribution
+plan can bring a claim under § 502(a)(2) even when the
+alleged fiduciary breach impacted only her individual
+account. 552 U.S. at 256. But LaRue did not, as Capital
+Group suggests, limit plaintiffs participating in defined-
+contribution plans to recovering losses suffered only by their
+individual accounts. Nor did LaRue “suggest that Section
+502(a)(2) allows individualized relief for injuries that are
+felt at the plan level.” Cedeno, 100 F.4th at 399. Just the
+opposite. LaRue explained, consistent with § 409(a)’s plan-
+oriented protections, that participants in defined-
+contribution plans can bring a § 502(a)(2) claim to recover
+for financial harm suffered plan-wide or by individual
+accounts because both are plan injuries. See 552 U.S. at 255–
+56; see also Munro, 896 F.3d at 1093; Cedeno, 100 F.4th at
+399. What § 502(a)(2) does not allow is for a participant
+seeking to recover “for individual injuries distinct from plan
+injuries.” LaRue, 552 U.S. at 256.
+     Capital Group’s interpretation of LaRue “rests on the
+fiction” that because Pover seeks relief related to a defined-
+contribution plan, § 502(a)(2) authorizes her to pursue only
+her individualized pro rata share of monetary recovery owed
+to the Plan while simultaneously obtaining equitable relief
+that would affect the entire Plan. See Cedeno, 100 F.4th at
+405. ERISA does not allow “a court or arbitral forum to slice
+and dice individual plan participants’ and beneficiaries’
+injuries resulting from mismanagement by fiduciaries in the
+way” that Capital Group suggests. See id. Nor do § 409(a) or
+§ 502(a)(2) differentiate between monetary and equitable
+         POVER V. THE CAPITAL GROUP COMPANIES, INC.       21
+
+
+relief in a way that can be reconciled with Capital Group’s
+proposed approach. See id. As such, we join those of our
+sister circuits that have rejected the reading of LaRue that
+Capital Group advances. See, e.g., id. at 399, 404–06; Parker
+v. Tenneco, Inc., 114 F.4th 786, 794–96 (6th Cir. 2024);
+Williams, 161 F.4th at 1321–22.
+     Additionally, while the difference between defined-
+benefit and defined-contribution plans motivated LaRue’s
+narrowing of Russell’s “entire plan” language, this
+difference mattered because an account-level injury is only
+possible in defined-contribution plans. See LaRue, 552 U.S.
+at 255. Recall that in LaRue, the former employee claimed
+that the plan fiduciary did not make certain investment
+changes to the participant’s account. Id. at 251. Because a
+defined-benefit plan does not allow for individualized
+investment decisions, neither the breach alleged in LaRue
+nor the consequential injury would have been possible. See
+id. at 254–56. The analytical difference between Russell and
+LaRue thus turned on the nature of the injury suffered on
+account of the plan type, not on the plan type itself. See
+LaRue, 552 U.S. at 254–56; Cedeno, 100 F.4th at 399.
+    Here, Pover alleges fiduciary breaches that harmed the
+Plan as a whole. For example, she alleges that Capital Group
+retained a set of five mutual funds among its menu of
+investment options despite knowing they were
+underperforming because they generated millions in “fee
+income” instead of replacing those funds “with any one of
+the many prudent alternatives.” This alleged breach “falls
+squarely within th[e] category” of duties that § 409(a)
+imposes on plan fiduciaries. See LaRue, 552 U.S. at 253; see
+also Varity Corp. v. Howe, 516 U.S. 489, 511–12 (1996)
+(noting that § 409(a)’s fiduciary obligations “reflect[] a
+special congressional concern about plan asset
+22       POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+management” and “relate[] to the plan’s financial integrity”).
+And under § 502(a)(2), Pover is entitled to bring an action
+on behalf of the Plan to recover any resulting losses, as well
+as “such other equitable or remedial relief as the court may
+deem appropriate.” 29 U.S.C. §§ 1109(a), 1132(a)(2).
+    For these reasons, we conclude that the Plan’s
+representative-action waiver prevents Pover from enforcing
+her substantive rights under ERISA because her breach-of-
+fiduciary-duty claims can only be brought in a representative
+capacity. Accordingly, the waiver is unenforceable under the
+effective-vindication doctrine.
+                      2. Severability
+    Having concluded that the representative-action waiver
+is unenforceable, our last question is whether this provision
+may be severed from the Plan’s arbitration provision. See
+Viking River Cruises, 596 U.S. at 662. This answer is easy.
+The waiver provision expressly provides that if it “is found
+to be unenforceable by a court of competent jurisdiction,
+then any claim on a class, collective, or representative basis
+shall be filed and adjudicated in a court of competent
+jurisdiction, and not in arbitration.” Here, where there is no
+illegality in the severance clause itself, we enforce the Plan
+as written. See Mull, 41 F.4th at 1132. Pover’s breach-of-
+fiduciary duty claims must be adjudicated in court rather
+than arbitration.
+     AFFIRMED.
+
+
+VANDYKE, Circuit Judge, dissenting:
+
+    The majority errs twice over in finding the arbitration
+clause unenforceable. On the merits, I would hold that the
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.         23
+
+
+bar on “representative” suits in the arbitration clause’s class-
+action waiver does not refer to third-party suits on behalf of
+the Plan. When read in context, that phrase refers to class
+action or collective “representative” suits only, not principal-
+agent representative suits like section 502(a)(2) ERISA
+claims. That means it does not prevent Pover from bringing
+claims on behalf of the Plan in arbitration and therefore does
+not interfere with Pover’s substantive rights to bring
+section 502(a)(2) ERISA claims.
+    But we should not have even reached the issue of
+arbitrability. The parties expressly agreed to allow an
+arbitrator to decide threshold questions of arbitrability,
+expressing their desire to keep courts out of this dispute.
+Although Capital failed to make that argument before the
+district court, its failure to do so falls squarely within our
+exceptions to waiver. Consistent with the parties’ express
+intent, I would have waived waiver and sent the question of
+arbitrability to the arbitrator.
+  I. The majority errs by holding the class-action
+     waiver unenforceable.
+    The majority explains (1) that in a section 502(a)(2)
+ERISA claim, the plaintiff proceeds on behalf of the plan and
+the remedies afforded by ERISA benefit the plan, Majority
+Op. at 14; (2) that Pover “seeks to represent the Plan” and
+pursues “plan-wide relief,” id. at 17; (3) that Pover seeks
+“monetary recovery and equitable remedies … that would
+necessarily affect the entire Plan,” id. at 17; and (4) that
+Pover can bring a section 502(a)(2) claim to recover for both
+“financial harm suffered plan-wide” and harm to her
+“individual account[],” id. at 19, as well as “such other
+equitable or remedial relief as the court may deem
+24        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+appropriate,” id. at 22 (quoting 29 U.S.C. § 1109(a)). I agree
+with the majority on all four points.
+    The critical question here, though, is whether the Plan’s
+ban on “class, collective or representative” suits prevents
+Pover from bringing section 502(a)(2) claims on behalf of
+the Plan. If it did, then the majority’s bottom-line conclusion
+would be right: the arbitration agreement would prevent
+Pover from exercising her statutory right to bring
+section 502(a)(2) claims on behalf of the Plan in arbitration,
+and we would need to allow this lawsuit to proceed.
+    The majority devotes little attention to this crucial
+question. In context, the most sensible reading of what the
+arbitration agreement calls a “class action waiver” is that it
+bars class or collective “representative” actions, not
+“representative” suits on behalf of the Plan. Because there
+is nothing in the arbitration agreement that prevents Pover
+from arbitrating her claim on behalf of the Plan, we should
+have enforced that agreement and directed the district court
+to compel arbitration.
+     A. The class-action waiver does not foreclose suits on
+        behalf of the Plan.
+    To understand the interpretive dispute here, it’s
+important to grasp that not all “representative” suits are the
+same. The Supreme Court conceives of two different
+categories of “representative” suits in the arbitration context:
+(1) collective-action suits where a putative plaintiff
+“represents” a class of similarly situated individuals, and
+(2) principal-agent suits where the putative plaintiff
+“represents” a wholly different entity separate from the
+plaintiff. See Viking River Cruises, Inc. v. Moriana, 596
+U.S. 639, 648 (2022). Rule 23 class actions provide the most
+obvious example of the first category, where a plaintiff sues
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.         25
+
+
+not just on his own behalf but also on behalf of other,
+similarly situated plaintiffs.
+    But the second, “principal-agent” category encompasses
+actions brought by an individual on behalf of a different
+entity      altogether,    like    a     qui    tam      action,
+shareholder-derivative suit, or private-attorney-general
+action. See id. at 657. In these types of “representative”
+suits, the plaintiff stands in the shoes of some third party,
+effectively bringing claims on that third party’s behalf. See,
+e.g., Stoner v. Santa Clara Cnty. Off. of Educ., 502 F.3d
+1116, 1126 (9th Cir. 2007) (describing qui tam relators as
+“representing the interests of the government and
+prosecuting the action on its behalf”). The Supreme Court
+has observed that, unlike collective action representative
+suits that “adjudicate the individual claims of multiple absent
+third parties,” “single-agent, single-principal representative
+suits” are consistent with “the norm of bilateral arbitration
+as [the Court’s] precedents conceive of it.” Viking River,
+596 U.S. at 655, 657. Suits that are “representative” in the
+principal-agent sense are thus fully compatible with a law
+requiring that arbitration be “representative.” See id. at 656–
+57.
+    The parties do not dispute, and this court’s case law
+recognizes, that section 502(a)(2) ERISA claims are
+“representative” in the second, “principal-agent” sense. See
+Munro v. Univ. of S. Cal., 896 F.3d 1088, 1092–93 (9th Cir.
+2018). So the important question here is whether the term
+“representative” in the Plan’s class-action waiver bars such
+suits.
+   A contextual reading of the Plan’s class-action waiver
+confirms that when it refers to “representative” suits, it
+means collective-action representative suits (like class
+26        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+actions) rather than principal-agent representative suits on
+behalf of the Plan. A phrase is given more precise content
+by its association with neighboring words. See Fischer v.
+United States, 603 U.S. 480, 487 (2024). And when a word
+is placed at the end of a list, it “is typically ‘controlled and
+defined by reference to the specific classes … that precede
+it.’” Id. (internal quotation marks omitted) (quoting Sw.
+Airlines Co. v. Saxon, 596 U.S. 450, 458 (2022)). A classic
+example of this principle comes from Yates v. United States,
+574 U.S. 528 (2015) (plurality opinion). There, the Supreme
+Court considered whether the Sarbanes–Oxley Act’s
+prohibition on tampering with any “tangible object” applied
+to fish. Id. at 532. The dissenting justices concluded that
+the phrase “tangible object” covered “any object capable of
+being touched,” including a fish. Id. at 553 (Kagan, J.,
+dissenting). But the Yates plurality and Justice Alito rightly
+rejected that unnatural reading and looked to the full
+prohibition against tampering with “any record, document,
+or tangible object.” See id. at 544–45; id. at 549–50 (Alito,
+J., concurring in judgment). In context, it was clear that
+“tangible object” referred “not to any tangible object, but
+specifically to the subset of tangible objects involving
+records and documents.” Id. at 544; accord id. at 549–50
+(Alito, J., concurring in judgment).
+    Applying this interpretive approach to the Plan’s
+prohibition on “class, collective, or representative” suits
+shows that it bars collective-action representative suits only,
+and not principal-agent suits on behalf of the Plan. Just like
+the phrase “tangible object” in Yates, the class-action
+waiver’s use of “representative” comes at the end of a
+list—“class, collective or representative.” The words
+surrounding “representative” in the waiver—“class” and
+“collective”—confirm that the waiver refers to the types of
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.          27
+
+
+representative suits brought on behalf of other similarly
+situated individuals, not to principal-agent “representative”
+suits where an individual effectively steps into the shoes of
+the Plan. Accordingly, we should read “representative suits”
+to refer not to any representative suits, but only to the subset
+of representative suits that involve “class” or “collective”
+suits.
+    Pover responds that reading the class-action waiver this
+way violates the canon against surplusage by making the
+term “representative” “duplicative of the [preceding] terms
+‘class’ and ‘collective.’”       But this argument is not
+persuasive. For one thing, Pover’s reading wouldn’t solve
+all the redundancy problems: if the waiver used
+“representative” in the principal-agent sense, it still also uses
+the words “class” and “collective,” which mean the same
+thing and would also be redundant. It wouldn’t make sense
+to apply the surplusage canon to one word in this list, but not
+the others. As the Supreme Court recently explained, “[t]he
+canon against surplusage can be meaningful when a
+competing interpretation would avoid superfluity. But,
+when both interpretations involve the same redundancy, the
+canon against surplusage simply does not apply.” Bufkin v.
+Collins, 604 U.S. 369, 387 (2025) (citations omitted); see
+also Marx v. General Revenue Corp., 568 U.S. 371, 385
+(2013) (declining to apply the canon against surplusage
+when no interpretation would give effect to every
+word). “[E]ven excellent writers do not always trim
+every unnecessary word,” Mullin v. Al Otro Lado,
+609 U.S. ----, ----, 2026 WL 1825741, at *8 (U.S. June 25,
+2026), and it appears that the Plan’s drafters simply included
+a three-word list to refer exhaustively to the same type of
+collective representative action.
+28       POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+    To be sure, there’s some overlap in the terms “class,
+collective or representative,” but legal documents are often
+overinclusive and use repetitive phrases to get the same point
+across. This is “a perhaps regrettable but not uncommon sort
+of lawyerly iteration.” Freeman v. Quicken Loans, Inc., 566
+U.S. 624, 635 (2012). As Justice Scalia observed, the canon
+against surplusage “cannot always be dispositive” because
+“[s]ometimes drafters do repeat themselves and do include
+words that add nothing of substance, either out of a flawed
+sense of style or to engage in the ill-conceived but
+lamentably common belt-and-suspenders approach.
+Doublets and triplets abound in legalese: Execute and
+perform—what satisfies one but not the other? Rest, residue,
+and remainder—could a judge interpret these as referring to
+three distinct things? Peace and quiet—when is peace not
+quiet?” Antonin Scalia & Bryan Garner, Reading Law 176–
+77 (2012). “Sometimes,” as here, “the better overall reading
+of [a document] contains some redundancy.” Rimini Street,
+Inc. v. Oracle USA, Inc., 586 U.S. 334, 346 (2019); accord
+Freeman, 566 U.S. at 635 (adopting interpretation of statute
+under which “portion, split, or percentage” in the same
+clause “all mean the same thing”).
+    Pover’s reading would also render an important part of
+the Plan’s arbitration provision meaningless. The arbitration
+provision specifies that it seeks “to make mandatory
+individual arbitration apply … to the maximum extent
+permissible under ERISA.” Interpreting “representative” as
+banning section 502(a)(2) claims on behalf of a plan would
+essentially foreclose arbitration of any ERISA claims
+because—as the majority correctly observes—all
+section 502(a)(2) claims are representative in the principal-
+agent sense. So if this interpretation were right, the class-
+action waiver would bar every representative action filed on
+            POVER V. THE CAPITAL GROUP COMPANIES, INC.                  29
+
+
+behalf of a plan. Such a reading puts the arbitration
+provision and the class-action waiver in direct conflict—the
+latter takes away most or all of what the former purports to
+give. Since both provisions were added to the Plan at the
+same time, it’s implausible this is what the drafters meant.
+Reading the Plan’s class-action waiver as applying only to
+collective actions where the plaintiff seeks to represent a
+class of similarly situated individuals is most consistent with
+the Plan’s express statement that arbitration “shall remain
+required with the minimum change necessary to allow the
+arbitration requirement to be permissible under ERISA.”1
+    At bottom, the best reading of the Plan’s class-action
+waiver is that it uses the word “representative” in its
+collective-action sense, not its principal-agent sense. This
+means that the waiver does not bar Pover from arbitrating
+section 502(a)(2) claims on behalf of the Plan.
+    B. The majority misapplies Platt.
+    Eliding any analysis of the Plan’s language, the majority
+simply asserts that, on the crucial interpretive question here:
+“our decision in Platt controls.” Majority Op. at 19. This is
+the loadbearing move in the majority opinion. But it is a
+misstep.
+
+
+
+1
+  The Summary Plan Description (“SPD”) supports this understanding.
+The SPD provides that plan participants may not “participate in a class
+action involving the plan” and instead “must arbitrate any claim
+involving the plan, including … a claim based on allegations of breach
+of fiduciary responsibility”—in other words, section 502(a)(2) claims.
+The SPD thus confirms that the arbitration provisions were intended to
+allow arbitration of principal-agent representative claims on behalf of the
+Plan, while foreclosing only class- or collective-action representative
+claims.
+30        POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+    In Platt v. Sodexo, S.A., a three-judge panel held that the
+effective-vindication doctrine prevented us from compelling
+arbitration because the arbitration clause in that case
+prohibited claims brought “as a plaintiff or class member in
+any purported class or representative proceeding.” 148 F.4th
+709, 715, 721 (9th Cir. 2025) (emphasis added). The Platt
+panel described that clause as “a representative action
+waiver, which expressly preclude[d] Platt from bringing
+claims in a representative capacity on the Plan’s behalf.” Id.
+at 721. And, the Platt panel held, this waiver was
+unenforceable because it “prevent[ed]” plan participants
+from seeking the “plan-wide relief” that section 502(a)(2)
+entitles them to seek. Id.
+    It’s hard to tell exactly why the Platt panel was so
+confident that a clause barring claims “as a plaintiff or class
+member in any purported class or representative proceeding”
+prevented individuals from bringing “plan-wide”
+section 502(a)(2) claims. Cf. id. at 715, 721. Platt did not
+acknowledge the different types of representative actions.
+Nor did it inspect the language of the arbitration clause at
+issue there to determine whether it barred principal-agent
+“representative” actions on behalf of a third party—like qui
+tam and shareholder-derivative suits—or merely barred
+class-action-style “representative” actions. The Platt panel
+opinion quotes the relevant waiver language only once, in
+the “background” section, id. at 715, and simply
+concludes—six pages later, without any analysis—that this
+language is “a representative action waiver, which expressly
+preclude[d] Platt from bringing claims in a representative
+capacity on the Plan’s behalf,” id. at 721. Platt appears to
+be nothing but a fact-bound decision with essentially no
+analysis.
+          POVER V. THE CAPITAL GROUP COMPANIES, INC.          31
+
+
+    It’s also not clear why the majority is so confident that
+Platt “controls” here. Majority Op. at 19. The language in
+the Platt agreement—barring claims brought “as a plaintiff
+or class member in any purported class or representative
+proceeding”—is different from the language in the class-
+action waiver here. Id. at 715 (emphasis added). I don’t read
+Platt to hold that every arbitration agreement provision with
+somewhat comparable language necessarily bars ERISA
+suits on behalf of a plan and is therefore invalid under the
+effective-vindication doctrine. And I would not extend
+Platt’s cursory holding about the specific agreement in that
+case—which, again, involved no analysis of the relevant
+language or the different types of representative suits—to
+this case, which involves a different Plan, with different
+language.
+    Platt is thus no bar to properly construing the actual
+language before us. And, as I’ve explained, the best
+interpretation of this Plan’s class-action waiver is that it does
+not ban principal-agent representative suits on behalf of the
+Plan. Because the waiver does not ban those suits, it does
+not prevent Pover from vindicating her rights under ERISA,
+and the severability clause does not take effect. Cf. Majority
+Op. at 22.
+  II. We should have applied well-established exceptions
+      to waiver and allowed the arbitrator to decide the
+      threshold issues of arbitrability.
+    Although the majority errs in extending Platt’s holding
+to misinterpret the class-action waiver, we did not even need
+to reach that question. That’s because the Plan delegates
+threshold arbitrability questions to the arbitrator. The
+Federal Arbitration Act (“FAA”) tasks courts with a limited
+role when reviewing a motion to compel arbitration. See
+32       POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+Rent–A–Ctr., W., Inc. v. Jackson, 561 U.S. 63, 67 (2010); 9
+U.S.C. § 2. Because arbitration is a matter of contract,
+“parties are generally free to structure their arbitration
+agreements as they see fit.” Volt Info. Scis., Inc. v. Bd. of
+Trs. of Leland Stanford Junior Univ., 489 U.S. 468, 479
+(1989); Stolt-Nielsen S.A. v. AnimalFeeds Int’l Corp., 559
+U.S. 662, 683 (2010); see also Mitsubishi Motors Corp. v.
+Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 628 (1985).
+The freedom to contract includes the freedom to keep courts
+out of disputes altogether by dictating that threshold
+arbitrability questions—such as whether an arbitration
+agreement applies to a particular dispute and whether the
+agreement is voided by operation of law—will be decided
+by an arbitrator and not the courts. Henry Schein, Inc. v.
+Archer & White Sales, Inc., 586 U.S. 63, 65 (2019); Rent–
+A–Ctr., 561 U.S. at 68–70; First Options of Chicago, Inc. v.
+Kaplan, 514 U.S. 938, 943 (1995). When parties “clearly
+and unmistakably” demonstrate their intention to arbitrate
+arbitrability, we must enforce that agreement. Brennan v.
+Opus Bank, 796 F.3d 1125, 1130 (9th Cir. 2015) (quoting AT
+& T Techs., Inc. v. Commc’ns Workers of Am., 475 U.S. 643,
+649 (1986)).
+    Here, the Plan Committee added an arbitration clause
+and the class-action waiver to the Plan by formal amendment
+on January 27, 2020. The clause applied broadly to “[a]ny
+claim, controversy or alleged breach or violation of law that
+arises out of or relates in any way to the Plan,” and was
+binding on both current and former participants.
+    The clause explicitly incorporated the American
+Arbitration Association (“AAA”) Rules, stating: “[a]ny
+claim, controversy or alleged breach or violation of the law
+that arises out of or related in any way to the Plan … shall
+be settled in binding arbitration administered by the
+           POVER V. THE CAPITAL GROUP COMPANIES, INC.              33
+
+
+American Arbitration Association under its Employment
+Arbitration Rules and Mediation Procedures.” Under Ninth
+Circuit precedent, this incorporation constitutes “clear and
+unmistakable” evidence that the Plan delegated threshold
+arbitrability questions to the arbitrator. Brennan, 796 F.3d
+at 1130; Caremark, LLC v. Choctaw Nation, 104 F.4th 81,
+87 n.5 (9th Cir. 2024). Threshold issues delegated to the
+arbitrator include defenses like unconscionability and
+effective vindication. Fli-Lo Falcon, LLC v. Amazon.com,
+Inc., 97 F.4th 1190, 1194 (9th Cir. 2024). The Plan’s “clear
+and unmistakable” delegation of threshold issues to an
+arbitrator, deprives us of the authority to decide threshold
+arbitrability questions and directs these questions to the
+arbitrator.2
+    The majority refuses to resolve the case on these clear
+legal grounds because Capital failed to argue the issue before
+the district court. Majority Op. at 17 n.2. But the
+arbitrability of the Plan falls squarely within our recognized
+waiver exceptions. We may, and often do, consider
+arguments not raised below where the issue is purely legal,
+the record is fully developed, and there is no prejudice.
+Greger v. Barnhart, 464 F.3d 968, 973 (9th Cir. 2006);
+Bolker v. Comm’r, 760 F.3d 1039, 1042 (9th Cir. 1985).
+
+
+2
+  The amendment complied with ERISA’s procedural requirements. The
+Plan expressly authorizes the Committee to amend the Plan. The
+amendment was disclosed in both the Summary Plan Description and
+quarterly materials. The record establishes that the Plan followed its
+own amendment procedures and satisfied ERISA’s disclosure
+obligations. The Supreme Court has explained that employers may
+freely amend ERISA plans if they follow the procedures outlined in the
+plan’s documents. Curtiss-Wright Corp. v. Schoonejongen, 514 U.S. 73,
+78 (1995). Pover does not dispute that the Committee had authority to
+adopt the amendment.
+34       POVER V. THE CAPITAL GROUP COMPANIES, INC.
+
+
+Whether incorporation of AAA Rules in the Plan governs
+delegation is a purely legal question. Brennan, 796 F.3d at
+1130. The record is also complete since nobody disputes
+that the language of the valid amendment to the Plan
+explicitly incorporates the AAA Rules. And factual disputes
+about Pover’s sophistication or receipt of amendments to the
+Plan are irrelevant to whether the Plan agreed to arbitration
+(which it clearly did). Pover is suing here on behalf of the
+Plan—she cannot rely on her individual level of
+sophistication in asking us to ignore the Plan’s delegation of
+arbitrability questions to an arbitrator. The Plan is not
+prejudiced by arbitrating according to the Plan’s own terms,
+which the Plan itself approved. I see no reason to avoid
+enforcing the arbitration clause’s delegation of arbitrability
+questions to an arbitrator.
+                           * * *
+    We should not have even decided the issue of
+arbitrability, but the majority nonetheless reaches that issue
+to find that the class-action waiver bans more than class
+actions. In doing so, the majority transplants the ipse-dixit
+holding from Platt to hold in this case, again without
+analysis, that the Plan language here bars Pover from
+bringing claims on behalf of the Plan. That isn’t the best
+reading of the Plan’s class-action waiver. I respectfully
+dissent.
+

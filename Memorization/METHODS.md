@@ -196,6 +196,12 @@ entire measurement vacuous.
 
 ### 4.1 System prompt
 
+> **Superseded — this is V1.** The prompt below is the original voluntary
+> version, kept because §6 and §7 are written against the data it produced. The
+> probe now runs **V4**, which makes the answer compulsory and moves the
+> self-report *after* it as `SOURCE: recalled|inferred`. See `PROMPTS.md` for the
+> current text and the two intermediate versions.
+
 ```
 You are being tested on your verbatim recall of specific published texts. Answer
 only from memory. Do not browse, search, or use tools.

@@ -1,0 +1,977 @@
+      Appellate Case: 25-4000     Document: 42-1    Date Filed: 07/31/2026     Page: 1
+                                                                                FILED
+                                                                    United States Court of Appeals
+                                        PUBLISH                             Tenth Circuit
+
+                        UNITED STATES COURT OF APPEALS                       July 31, 2026
+                                                                       Christopher M. Wolpert
+                               FOR THE TENTH CIRCUIT                       Clerk of Court
+                           _________________________________
+
+ SCOTTSDALE CAPITAL ADVISORS,
+ an Arizona corporation,
+
+         Plaintiff - Appellant,
+
+ v.                                                           No. 25-4000
+
+ UNITED STATES SECURITIES AND
+ EXCHANGE COMMISSION,
+
+         Defendant - Appellee.
+                        _________________________________
+
+                       Appeal from the United States District Court
+                                 for the District of Utah
+                             (D.C. No. 2:18-CV-00504-CW)
+                         _________________________________
+
+Maranda E. Fritz, Maranda E. Fritz PC, New York, New York (Aaron D. Lebenta, Clyde
+Snow & Sessions, P.C., Salt Lake City, Utah, with her on the briefs), for Plaintiff-
+Appellant.
+
+Rachel M. McKenzie, Senior Appellate Counsel (Jeffrey B. Finnell, Acting General
+Counsel; Tracey A. Hardin, Solicitor; Daniel Staroselsky, Assistant General Counsel; and
+Stephen Silverman, Appellate Counsel, with her on the brief) Securities and Exchange
+Commission, Washington, D.C., for Defendant-Appellee.
+                      _________________________________
+
+Before HARTZ, KELLY, and TYMKOVICH, Circuit Judges.
+                  _________________________________
+
+HARTZ, Circuit Judge.
+                           _________________________________
+
+
+        Plaintiff Scottsdale Capital Advisors is a retail brokerage firm and registered
+   Appellate Case: 25-4000       Document: 42-1      Date Filed: 07/31/2026      Page: 2
+
+
+
+broker-dealer. It sued the Securities and Exchange Commission (SEC) in the United
+
+States District Court for the District of Utah, challenging Exchange Act Rule 17a-8,
+
+which requires brokers and dealers to comply with certain reporting and record-retention
+
+requirements imposed by the Treasury Department under the Bank Secrecy Act (BSA).
+
+Scottsdale claims that the SEC violated the Administrative Procedure Act (APA) by
+
+using Rule 17a-8 to impose BSA requirements on broker-dealers.
+
+       To pursue a challenge under the APA, the challenger must identify an unlawful
+
+“final agency action.” 5 U.S.C. § 704. The action selected by Scottsdale was the SEC’s
+
+filing an enforcement action in New York federal court against Alpine Securities
+
+Corporation, a self-clearing broker-dealer which shares common ownership with
+
+Scottsdale. The Utah federal court dismissed Scottsdale’s complaint for lack of statutory
+
+standing because Scottsdale had not challenged a final agency action. See Alpine Sec.
+
+Corp. v. SEC (Scottsdale), No. 2:18-CV-00504-CW-CMR, 2024 WL 4681816, at *9–13
+
+(D. Utah Nov. 5, 2024). Exercising jurisdiction under 28 U.S.C. § 1291, we agree and
+
+affirm the dismissal.
+
+       I.     BACKGROUND
+
+              A.        Regulatory Background
+
+       The dispute before us concerns regulations requiring banks and other financial
+
+institutions to maintain records of potentially suspicious financial transactions. In 1970,
+
+Congress enacted the BSA, Pub. L. No. 91-508, 84 Stat. 1114 (1970), and the Treasury
+
+adopted implementing regulations. See Financial Recordkeeping and Reporting of
+
+Currency and Foreign Transactions, 37 Fed. Reg. 6912, 6912–15 (Apr. 5, 1972); see
+
+
+                                              2
+   Appellate Case: 25-4000       Document: 42-1      Date Filed: 07/31/2026     Page: 3
+
+
+
+generally SEC v. Alpine Sec. Corp. (Alpine IV), 982 F.3d 68, 73–75 (2d. Cir. 2020)
+
+(discussing history of BSA and Rule 17a-8). But it left to the SEC the task of ensuring
+
+that “brokers and dealers in securities” complied with those BSA regulations. 37 Fed.
+
+Reg. at 6915. To that end, the SEC relied on Section 17(a)(1) of the Exchange Act of
+
+1934, 15 U.S.C. § 78q(a)(1), 1 to promulgate Rule 17a-8, requiring brokers and dealers to
+
+“comply with the reporting, recordkeeping and record retention requirements” that had
+
+been imposed by the Treasury under the BSA. Recordkeeping by Brokers and Dealers,
+
+46 Fed. Reg. 61454, 61455 (Dec. 17, 1981). Critically, the SEC did not set out specific
+
+recordkeeping requirements in Rule 17a-8 because it intended the rule to track, and
+
+evolve with, the Treasury’s regulations. See id. (explaining that “[t]he rule does not
+
+specify the required reports and records so as to allow for any revisions the Treasury may
+
+adopt in the future”).
+
+       Since the SEC adopted Rule 17a-8 in 1981, there have been a handful of changes
+
+to this regulatory scheme. In 1990, for example, the Treasury established the Financial
+
+Crimes Enforcement Network (FinCEN) and delegated to it the authority to identify
+
+noncompliance with the BSA. See Organization, Functions, and Authority Delegations:
+
+Financial Crimes Enforcement Network, 55 Fed. Reg. 18433, 18433–34 (May 2, 1990).
+
+Despite these changes, the division of labor between the Treasury and the SEC has
+
+
+       1
+         Section 17(a)(1) requires brokers and dealers to “make and keep for prescribed
+periods such records . . . and disseminate such reports as the Commission, by rule,
+prescribes as necessary or appropriate in the public interest, for the protection of
+investors, or otherwise in furtherance of the purposes of this chapter.” 15 U.S.C.
+§ 78q(a)(1).
+
+
+                                             3
+   Appellate Case: 25-4000       Document: 42-1      Date Filed: 07/31/2026      Page: 4
+
+
+
+remained the same: the Treasury updates the rules generally, and the SEC enforces them
+
+insofar as they apply to brokers and dealers. See Alpine IV, 982 F.3d at 78–79 (“[T]he
+
+Treasury and the SEC have plainly worked in tandem, issuing policy statements and
+
+reports, and initiating enforcement actions since the BSA’s inception”).
+
+       Thus, when the Treasury expanded its regulations in 2002 to require brokers and
+
+dealers to file Suspicious Activity Reports (SARs), it left it to the SEC and self-
+
+regulatory organizations (comprising registered securities associations and national
+
+securities exchanges) to “address broker-dealer compliance” under Rule 17a-8. Financial
+
+Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations—
+
+Requirement that Brokers or Dealers in Securities Report Suspicious Transactions,
+
+67 Fed. Reg. 44048, 44049 (July 1, 2002). Scottsdale takes issue with this division of
+
+labor. It contends that the SEC has violated the APA by relying on Rule 17a-8 as
+
+authorization to enforce the Treasury’s SAR regulations without complying with the
+
+notice-and-comment requirements of the APA to promulgate its own regulations. See
+
+Alpine IV, 982 F.3d at 80–81 (rejecting Alpine’s claim that Rule 17a-8 violates the
+
+APA by automatically incorporating future BSA requirements).
+
+              B.     Procedural History
+
+       In June 2017 the SEC filed a judicial enforcement action against Alpine in the
+
+Southern District of New York. The SEC alleged that Alpine had violated Rule 17a-8
+
+thousands of times by failing to file SARs, filing deficient SARs, or failing to retain
+
+documentation for filed SARs. Scottsdale was not a named party in that action, but it
+
+shares common ownership with Alpine. And for most of the suspicious transactions at
+
+
+                                              4
+   Appellate Case: 25-4000       Document: 42-1      Date Filed: 07/31/2026      Page: 5
+
+
+
+issue in the Alpine action, Scottsdale was the “introducing broker,” SEC v. Alpine Sec.
+
+Corp. (Alpine III), 413 F. Supp. 3d 235, 240 (S.D.N.Y. 2019)—that is, it performed the
+
+customer-facing services, see Henry F. Minnerop, Clearing Arrangements, 58 Bus.
+
+Law. 917, 920–23 (2003) (explaining clearing arrangements and difference between
+
+clearing and introducing broker-dealers).
+
+       Alpine moved for summary judgment “principally on the ground that the SEC is
+
+not authorized to enforce BSA regulations via Rule 17a-8.” SEC v. Alpine Sec. Corp.
+
+(Alpine I), 308 F. Supp. 3d 775, 795 (S.D.N.Y. 2018). It also moved for judgment on the
+
+pleadings on the ground that the SEC had failed to plead that Alpine had the mens rea
+
+required to violate the BSA. See id. at 797–98. The district court denied both of Alpine’s
+
+motions and granted the SEC’s cross-motion for summary judgment on a number of
+
+claims. See id. at 812.
+
+       Just four days after the New York district court denied Alpine’s requests for
+
+reconsideration or appellate certification of the order granting partial summary judgment,
+
+Alpine and Scottsdale jointly filed this lawsuit in Utah federal district court seeking
+
+declaratory and injunctive relief against the SEC under the APA, 5 U.S.C. §§ 551–559,
+
+701–706. The New York district court promptly enjoined them from pursuing the Utah
+
+action until the conclusion of any appeal from that court’s final judgment. See Scottsdale,
+
+2024 WL 4681816, at *5. The Utah court stayed this action in accordance with that
+
+injunction. Meanwhile, the SEC won partial summary judgment on additional claims in
+
+New York, decided not to pursue the claims on which it had not obtained a summary
+
+judgment, and obtained a $12 million civil penalty against Alpine. See SEC v. Alpine Sec.
+
+
+                                              5
+   Appellate Case: 25-4000       Document: 42-1       Date Filed: 07/31/2026      Page: 6
+
+
+
+Corp. (Alpine II), 354 F. Supp. 3d 396, 445 (S.D.N.Y. 2018) (summary judgment for
+
+SEC); Alpine III, 413 F. Supp. 3d at 244, 251 (voluntary dismissal and civil penalty). The
+
+Second Circuit affirmed both the summary judgment and the penalties. See Alpine IV,
+
+982 F.3d at 76, 80–81, 86. Once the District of Utah lifted its stay, Alpine voluntarily
+
+dismissed its claims. But Scottsdale proceeded.
+
+       Scottsdale’s amended complaint said that it sought to “establish the invalidity
+
+of the SEC’s attempt to use Exchange Act Rule 17a-8, 17 C.F.R. § 240.17a-8, to
+
+enforce, administer and interpret the . . . SAR . . . regulations of the Bank Secrecy
+
+Act.” Aplt. App., Vol. I at 11. The SEC moved to dismiss Scottsdale’s amended
+
+complaint, arguing that Scottsdale “failed to identify final agency action subject to
+
+APA review, that it lacked Article III standing, and that its claims were untimely
+
+because any final agency action subject to APA review occurred many years before
+
+Alpine and Scottsdale filed this lawsuit.” Aplee Br. at 13.
+
+       In its brief in opposition, Scottsdale said multiple times that the final agency action
+
+it was challenging was the filing of the Alpine enforcement action. See, e.g., Aplt. App.,
+
+Vol. I at 136 (“The final agency action giving rise to Scottsdale’s claim is the filing of the
+
+Alpine Enforcement Action”); id. at 160 (“To the extent it is necessary to pin-point a
+
+more concrete final agency action than the SEC’s abject disregard of the procedures
+
+imposed upon it by law, this can be easily accomplished by viewing such action as the
+
+Commission’s approval of the filing of the Alpine Enforcement Action”). And at a
+
+hearing before the district court, Scottsdale’s counsel reiterated that “[t]he final agency
+
+action in this, under these peculiar circumstances, was the Alpine case.” Aplee. Suppl.
+
+
+                                              6
+    Appellate Case: 25-4000      Document: 42-1       Date Filed: 07/31/2026      Page: 7
+
+
+
+App. at 94; see id. at 93. Until the Alpine action, argued Scottsdale, “the SEC had never
+
+issued a statement, had never stated to the industry, and had never adjudicated the issues”
+
+that the agency presented in that case. Id. at 94. 2 As Scottsdale saw it, it was the SEC’s
+
+positions in the Alpine action that subjected Scottsdale to a new SAR enforcement regime
+
+and exposed it to new regulatory burdens. The district court granted the SEC’s motion
+
+to dismiss on several grounds, including that Scottsdale “lacks statutory standing to
+
+bring its claims in this action” because the SEC’s decision to file the New York
+
+action against Alpine “was not final agency action.” Scottsdale, 2024 WL 4681816,
+
+at *13. 3
+
+
+       2
+          Scottsdale argues on appeal that the district court erred because it “narrowly
+focused” on the SEC’s decision to file the Alpine action. Aplt. Br. at 28. It says for the
+first time that the final agency action here could have been a “series of agency
+pronouncements.” Id. at 29 (quoting Barrick Goldstrike Mines Inc. v. Browner, 215 F.3d
+45, 48 (D.C. Cir. 2000)). Scottsdale also relies on the Supreme Court’s decision in Corner
+Post v. Board of Governors of Federal Reserve System, 603 U.S. 799 (2024), to argue that
+it can challenge earlier final agency actions, such as the promulgation of Rule 17a-8 in
+1981, because it was not injured until the Alpine action. We need not consider these
+arguments because they were not raised below. See Miller v. Pfizer, Inc., 356 F.3d 1326,
+1336 (10th Cir. 2004). The only final agency action that Scottsdale identified below was
+the filing of the Alpine action. Scottsdale’s counsel conceded this at oral argument. See
+Oral Arg. Tr. at 1:48–2:25 (“The Court: You make those arguments on the merits
+thoroughly in your briefing, but the question is, or at least one of the questions is, you
+have to be challenging a final agency action, and the only action, the only thing you
+identified as final agency action in the district court, you repeatedly said, was the filing
+by the SEC of the complaint in federal district court in New York.” Counsel: “That is
+correct.”)
+        3
+          The district court further held that even if there had been a final agency action
+here, Scottsdale still lacked statutory standing because it “ha[d] not alleged facts
+sufficient to show that it ha[d] suffered a ‘legal wrong’ or been ‘adversely affected or
+aggrieved within the meaning of the relevant statute’” because of the SEC’s decision to
+file the New York action against Alpine. Scottsdale, 2024 WL 4681816, at *13 (ellipsis
+omitted). Because we agree with the first ground relied on by the district court, we need
+not reach its alternative ground. Nor need we reach the issue of Article III standing. See
+
+                                              7
+   Appellate Case: 25-4000      Document: 42-1       Date Filed: 07/31/2026     Page: 8
+
+
+
+       II.    DISCUSSION
+
+              A.     Final Agency Action
+
+       There being no relevant factual disputes, we review de novo the district court’s
+
+dismissal of Scottsdale’s APA claim for lack of subject-matter jurisdiction. See Custodia
+
+Bank, Inc. v. Fed. Rsrv. Bd. of Governors, 157 F.4th 1235, 1248 (10th Cir. 2025) (treating
+
+the final-agency-action requirement as jurisdictional). The sole question before us is
+
+whether the SEC engaged in a final agency action when it decided to sue Alpine in
+
+the Southern District of New York. We hold that it did not.
+
+       Where review of an agency action is not expressly provided for by statute, judicial
+
+review under the APA is available only for “final agency action for which there is no
+
+other adequate remedy in a court.” 5 U.S.C. § 704; see Custodia, 157 F.4th at 1249. Once
+
+a final action has been identified, a reviewing court can “hold unlawful and set aside
+
+[that] agency action [and the agency’s] findings[] and conclusions.” 5 U.S.C. § 706(2).
+
+       This court has recently set forth the requirements for agency action to be
+
+considered final agency action for purposes of the APA. In Custodia we addressed the
+
+issue as follows: Quoting the Supreme Court’s opinion in Bennett v. Spear, 520 U.S. 154,
+
+177–78 (1997), we said that “[t]o be ‘final’, an agency action must (1) ‘mark the
+
+consummation of the agency’s decisionmaking process—it must not be of a merely
+
+tentative or interlocutory nature’; and (2) ‘be one by which rights or obligations have
+
+
+
+
+Colo. Farm Bureau Fed’n v. U.S. Forest Serv., 220 F.3d 1171, 1173 (10th Cir. 2000) (no
+need to address Article III standing if statutory standing is lacking).
+
+
+                                             8
+   Appellate Case: 25-4000        Document: 42-1      Date Filed: 07/31/2026       Page: 9
+
+
+
+been determined, or from which legal consequences will flow.’” 157 F.4th at 1249. And
+
+we recognized that an agency action “must itself be the source of the parties’ obligations,
+
+modifying the applicable legal landscape by interpreting the scope of their statutory rights
+
+or duties.” Id. (brackets and internal quotation marks omitted).
+
+       Scottsdale challenges the SEC’s decision to file a complaint against Alpine in
+
+federal court. But this action by the SEC does not satisfy the second part of the Bennett
+
+test and therefore cannot be considered final agency action under the APA. We affirm the
+
+dismissal of the complaint on this ground without deciding whether the SEC’s action
+
+could satisfy the first part of the Bennett test. See Fairbanks N. Star Borough v. U.S.
+
+Army Corps of Eng’rs, 543 F.3d 586, 593, 597 (9th Cir. 2008) (no jurisdiction where the
+
+challenged action satisfied the first Bennett requirement but not the second).
+
+       Our analysis in Custodia is instructive. There, we considered whether an email
+
+from the Federal Reserve Board (the Board) to the Federal Reserve Bank of Kansas City
+
+(FRBKC) was a final agency action for purposes of the APA. Custodia Bank had
+
+requested access from the FRBKC to a master account, which would have allowed it to
+
+use various Federal Reserve services. See 157 F.4th at 1245. Although approval or denial
+
+of such an account was a decision for the FRBKC, the Board had issued an internal
+
+guidance document “provid[ing] that any Reserve Bank that is considering denying any
+
+access request[] should consult the Board prior to communicating any decision to the
+
+requesting institution.” Id. at 1245 (original brackets, ellipsis, and internal quotation
+
+marks omitted). In compliance with this guidance, the FRBKC advised the Board of its
+
+intent to deny Custodia’s request for access, and the Board responded with an email to the
+
+
+                                               9
+   Appellate Case: 25-4000      Document: 42-1      Date Filed: 07/31/2026      Page: 10
+
+
+
+FRBKC saying that it had “no concerns” with that plan. Id. at 1249 (internal quotation
+
+marks omitted).
+
+       We held that the Board’s email “fail[ed] the second prong of the Bennett test”
+
+because it did not determine any rights or obligations and was not itself the source of any
+
+legal consequences. Id. Nothing in the record suggested that the Board’s email “altered
+
+the legal regime to which [FRBKC] was subject.” Id. (brackets and internal quotation
+
+marks omitted). Rather, the email “was only an intermediate advisory step,” and “it was
+
+still up to FRBKC to move forward with its plan to deny the request.” Id. (brackets and
+
+internal quotation marks omitted).
+
+       We take further guidance from the application by the Supreme Court of the
+
+second-factor test we applied in Custodia. In Bennett, ranchers and irrigation districts
+
+challenged a Biological Opinion and an accompanying Incidental Take Statement (ITS)
+
+issued by the Fish and Wildlife Service under the Endangered Species Act, 16 U.S.C.
+
+§§ 1531–1544, determining that a longstanding irrigation project would likely jeopardize
+
+two endangered species. See 520 U.S. at 158–59. The ITS required the Bureau of
+
+Reclamation to initiate “‘reasonable and prudent alternatives,’” such as maintaining
+
+minimum water levels in lakes and reservoirs affected by the irrigation project. Id. at 159.
+
+Addressing the second part of its two-part test, the Court held that the biological opinion
+
+and the ITS had “direct and appreciable legal consequences” because they “alter[ed] the
+
+legal regime to which the [Bureau] [was] subject, authorizing it to take the endangered
+
+species if (but only if) it complies with the prescribed conditions.” 520 U.S. at 178; see
+
+
+
+
+                                             10
+   Appellate Case: 25-4000           Document: 42-1   Date Filed: 07/31/2026   Page: 11
+
+
+
+also 16 U.S.C. § 1532(19) (defining take as to “harass, harm, pursue, hunt, shoot, wound,
+
+kill, trap, capture, or collect”).
+
+       In U.S. Army Corps of Engineers v. Hawkes, 578 U.S. 590, 593 (2016), the
+
+plaintiff challenged an “‘approved jurisdictional determination’” (JD) by the Corps
+
+that a parcel of property contained “waters of the United States.” The determination
+
+expressed the agency’s “definitive view,” id., and was binding for five years on the
+
+Corps and the Environmental Protection Agency, which enforce the Clean Water Act,
+
+33 U.S.C. §§ 1251–1389. See id. at 595. A negative determination would “limit[]
+
+potential liability a landowner faces for discharging pollutants without a permit,”
+
+because it “create[s] a five-year safe harbor from [agency civil-enforcement
+
+proceedings] for a property owner.” Id. at 598–99. On the other hand, a positive
+
+determination would expose the landowner to such enforcement actions. Thus,
+
+“[b]ecause legal consequences flow from approved JDs, they constitute final agency
+
+action.” Id. at 599 (ellipsis and internal quotation marks omitted).
+
+       In Sackett v. EPA, 566 U.S. 120, 122 (2012), the plaintiffs challenged an EPA
+
+compliance order declaring that their land was subject to the Clean Water Act and that
+
+they had violated the Act, and directing them to restore their property immediately in
+
+accordance with a work plan prepared by the agency. The compliance order had
+
+several legal consequences. In addition to having to restore their property and “give
+
+the EPA access to their property” and records, the plaintiffs were also exposed to
+
+“double penalties” in future enforcement proceedings and would be limited in their
+
+
+
+
+                                               11
+   Appellate Case: 25-4000       Document: 42-1       Date Filed: 07/31/2026      Page: 12
+
+
+
+ability to obtain certain permits. Id. at 126. Those consequences were sufficient to
+
+satisfy the second part of the Bennett test. 4
+
+       And although it predates Bennett, the opinion in FTC v. Standard Oil Co. of
+
+California, 449 U.S. 232 (1980), established that the burden of litigation is not the type
+
+of burden that renders an agency action final. That opinion considered whether an
+
+agency’s decision to initiate an administrative complaint constituted a final agency action.
+
+See id. at 233. The Court acknowledged that it takes a “flexible view of finality” in the
+
+APA context and recognized that “the issuance of the complaint is definitive on the
+
+question whether the Commission avers reason to believe that the respondent to the
+
+complaint is violating the Act.” Id. at 240–41. But it held that, “[s]erving only to initiate
+
+the proceedings,” the complaint could not be considered a final agency action. Id. at 242.
+
+The Court explained that the complaint had “no legal force or practical effect upon
+
+[plaintiff’s] daily business other than the disruptions that accompany any major
+
+
+       4
+          The Supreme Court recently applied Bennett in a challenge to President Biden’s
+efforts to rescind and terminate President Trump’s Migrant Protection Protocols (MPPs).
+See Biden v. Texas, 597 U.S. 785 (2022). After a district court enjoined and vacated the
+Biden administration’s initial memorandum rescinding the MPPs, the administration
+issued a second memorandum in which it rescinded the first memorandum and offered a
+new justification for its decision to terminate the MPPs. See id. at 793–95, 808. The
+Supreme Court declared, without elaboration, that the second memorandum was a final
+agency action because it satisfied both prongs of Bennett—it “marked the consummation
+of the agency’s decisionmaking process and resulted in rights or obligations being
+determined.” Id. at 808 (brackets and internal quotation marks omitted). But see id.
+at 832–33, 833 n.7 (Alito, J., dissenting) (stating that the second memorandum could not
+be implemented until vacatur of the district-court injunction against implementation of
+the first memorandum and suggesting that the majority was taking an “expansive,
+formalist approach” to the second Bennett factor contrary to the Court’s longstanding
+“‘pragmatic’” approach to finality).
+
+
+                                              12
+   Appellate Case: 25-4000       Document: 42-1       Date Filed: 07/31/2026      Page: 13
+
+
+
+litigation.” Id. at 243. And to the extent the complaint imposed upon plaintiff “the burden
+
+of responding to the charges made against it,” id. at 242, that “expense and annoyance”
+
+was “part of the social burden of living under government.” Id. at 244 (internal quotation
+
+marks omitted). Such burdens are “different in kind and legal effect from the burdens
+
+attending what heretofore has been considered to be final agency action.” Id. at 242.
+
+       Neither Bennett nor any other later Supreme Court opinion has suggested any
+
+discomfort with Standard Oil, and lower courts continue to treat it as authoritative. See
+
+Energy Transfer Partners, L.P. v. FERC, 567 F.3d 134, 140–41 (5th Cir. 2009) (applying
+
+Standard Oil and holding that agency order alleging violations and initiating
+
+administrative proceeding imposed a substantial burden, but one that was “different in
+
+kind and legal effect” from what is needed to be considered a final agency action (internal
+
+quotation marks omitted)); Am. Fed’n of Tchrs. v. Bessent, 152 F.4th 162, 174 (4th Cir.
+
+2025) (citing Standard Oil for proposition that the initiation of enforcement proceedings
+
+is the “type[] of agency action that traditionally fail[s]” the two-part Bennett test),
+
+abrogated on other grounds by Am. Fed’n of State, Cnty. & Mun. Emps., AFL-CIO v. Soc.
+
+Sec. Admin., 172 F.4th 361 (4th Cir. 2026) (en banc); Ukiah Valley Med. Ctr. v. FTC,
+
+911 F.2d 261, 264 (9th Cir. 1990) (applying Standard Oil and holding that agency’s
+
+decision to issue an administrative complaint was not final where it imposed only
+
+litigation expenses and the mere possibility of financial loss).
+
+              B.      Application to This Case
+
+       Scottsdale contends that filing the Alpine suit was final agency action. It
+
+argues that “[t]he SEC’s assertion of jurisdiction and its interpretations of the BSA
+
+                                              13
+  Appellate Case: 25-4000      Document: 42-1      Date Filed: 07/31/2026    Page: 14
+
+
+
+requirements have legal consequences for broker-dealers . . . who are subject to that
+
+authority.” Aplt. Br. at 34–35. According to Scottsdale, the SEC, in filing its
+
+complaint against Alpine, “effectively created its own new and harsher SAR
+
+enforcement regime” under which it could “pursue its claims on a strict liability basis
+
+and impose higher penalties” than those allowed under the BSA. Id. at 18. And, it
+
+continues, through this enforcement regime the SEC created new “bright-line”
+
+obligations, id. at 37, including an “objective obligation to file a SAR whenever
+
+[a broker-dealer] is alerted to a red flag in a sizeable transaction of low-priced
+
+securities.” Id. at 36. Because Scottsdale was left with “no choice” but to comply, id.
+
+at 37, it “had to hire additional compliance personnel, implement changes to its BSA
+
+program and significantly increase the number of SARs it filed and the time involved
+
+to prepare SARs,” id. at 38.
+
+      But the only obligation or legal consequence of filing the Alpine suit was that
+
+Alpine had the burden of defending itself, a burden that does not suffice to create
+
+final agency action. See Standard Oil, 449 U.S. at 242–44. And Scottsdale did not
+
+even have that burden because it was not named as a party in the action and had no
+
+duty to respond to the complaint. Unlike the plaintiffs in Sackett, Alpine (much less
+
+Scottsdale) was not ordered to immediately comply with anything. See Sackett,
+
+566 U.S. at 126; see also S.F. Herring Ass’n v. Dep’t of the Interior, 946 F.3d 564, 580
+
+(9th Cir. 2019) (orders being challenged required “immediate compliance” (internal
+
+quotation marks omitted)). Scottsdale was not exposed to enhanced penalties as a
+
+result of the filing of the complaint against Alpine. See Sackett, 566 U.S. at 126. In
+
+
+                                           14
+   Appellate Case: 25-4000      Document: 42-1       Date Filed: 07/31/2026     Page: 15
+
+
+
+short, the complaint itself did not “alter the legal regime” to which the SEC,
+
+Scottsdale, or any regulated party was bound, even if the ultimate judgment would
+
+constitute law. Bennett, 520 U.S. at 178. It therefore cannot be a final agency action
+
+under our approach set forth in Custodia.
+
+        Scottsdale suggests, however, that we take a pragmatic approach to Bennett and
+
+consider the practical, day-to-day effects that the Alpine action has had on Scottsdale’s
+
+business. Although this court has not adopted that approach, we do not reject it out of
+
+hand.
+
+        To begin with, there is some support in Supreme Court opinions for a more
+
+flexible approach that focuses on the practical consequences of an agency action rather
+
+than parsing the nitty-gritty of legal rights and obligations. See William Funk, Final
+
+Agency Action After Hawkes, 11 N.Y.U. J.L. & Liberty 285, 293 (2017) (stating that the
+
+Supreme Court has left unanswered the question whether a final agency action must have
+
+legal consequences or determine rights or obligations, or whether it is “sufficient that the
+
+action have a direct and immediate impact on the person bringing the claim”). And some
+
+sibling circuits have taken that approach in certain circumstances. The D.C. Circuit, for
+
+example, has held that the second prong of Bennett was satisfied in a challenge to a
+
+document that the EPA characterized as a nonbinding interpretive policy guidance, but
+
+which in effect departed from the agency’s prior interpretation of the governing statute
+
+and now told each State to “search for deficiencies in [the State’s] existing monitoring
+
+regulations and replace them through terms and conditions of a permit.” Appalachian
+
+Power Co. v. EPA, 208 F.3d 1015, 1023 (D.C. Cir. 2000); see id. at 1019–23. More
+
+
+                                             15
+   Appellate Case: 25-4000        Document: 42-1        Date Filed: 07/31/2026        Page: 16
+
+
+
+recently, the Fifth Circuit held that the second prong of Bennett was satisfied in a
+
+challenge brought by the State of Texas to a guidance issued by the Equal Employment
+
+Opportunity Commission (EEOC) stating when employers may screen out candidates
+
+with a criminal record. See Texas v. EEOC, 933 F.3d 433, 437–38 (5th Cir. 2019). The
+
+guidance “ha[d] the effect of committing the agency itself to a view of the law that, in
+
+turn, force[d] the plaintiff either to alter its conduct, or expose itself to potential liability.”
+
+Id. at 446 (internal quotation marks omitted). It also “purport[ed] to bind EEOC staff”
+
+when investigating certain Title VII disparate-impact claims. Id. at 445. And it
+
+established two safe harbors by which employers could avoid Title VII liability. See id.
+
+at 443–44. The court concluded that the guidance affected potential Title VII plaintiffs “in
+
+a way that carrie[d] legal consequences and dictate[d] employers’ rights and obligations.”
+
+Id. at 443.
+
+       But even if we fully endorsed the “pragmatic” approach employed in those cases,
+
+there are two independently sufficient grounds for declining to treat the SEC complaint
+
+against Alpine as a final agency action. First, the consequences of which Scottsdale
+
+complains were not caused by the filing of the Alpine action. Scottsdale says that it was
+
+the SEC’s positions in the Alpine action that “created onerous new regulatory costs,
+
+burdens and uncertainty, particularly for broker-dealers (like [Scottsdale]) specializing in
+
+the microcap/OTC markets, with respect to the SAR filing obligations under the BSA.”
+
+Aplt. App., Vol. I at 142 (Brief in Opp’n to Mot. to Dismiss). In Scottsdale’s view, the
+
+SEC, simply by asserting that it could enforce SAR requirements under Rule 17a-8, had
+
+subjected securities broker-dealers to a secondary SAR enforcement regime that imposed
+
+
+                                                16
+   Appellate Case: 25-4000       Document: 42-1       Date Filed: 07/31/2026      Page: 17
+
+
+
+“different standards” than did the Treasury “as to, inter alia, what constitutes a violation,
+
+the applicable mens-rea, and the penalty amounts and other remedies for a violation.” Id.
+
+at 143. As a result, Scottsdale had to “devote substantial time and resources to implement
+
+changes to its BSA compliance program and SAR preparation to avoid regulatory inquiry
+
+and enforcement action.” Id.
+
+       To say that these burdens arose from the filing of the Alpine complaint, however,
+
+is to ignore history. The position of the SEC on these matters was unambiguous well
+
+before the complaint was filed. In 2002 FinCEN extended the SAR requirements to
+
+brokers and dealers, explicitly stating not only that that broker-dealers would be subject
+
+to an objective standard for SAR compliance, but also that those requirements would be
+
+enforced by the SEC under Rule 17a-8. See 67 Fed. Reg. at 44049, 44053. If Scottsdale
+
+could somehow have thought this was an empty threat that the SEC would never seek to
+
+carry out, it should have been disabused of that hope when the SEC publicly stated in
+
+announcements of several settlements that it could enforce BSA regulations via Rule
+
+17-a-8, see, e.g., Park Fin. Grp., Inc., Exchange Act Release No. 56902, 92 SEC
+
+Docket 232, at *3–4 (Dec. 5, 2007) (imposing a cease-and-desist order and
+
+sanctions), or when the SEC expressly incorporated the 2002 SAR requirements in its
+
+2011 technical amendments, see Technical Amendments to Rule 17a-8: Financial
+
+Recordkeeping of Currency and Foreign Transactions, 76 Fed. Reg. 11327, 11327–28
+
+(Mar. 2, 2011).
+
+       And to the extent that Scottsdale says that the Alpine complaint broke new ground
+
+by claiming violations based on “strict liability,” Aplt. Br. at 35, (rather than the
+
+
+                                              17
+   Appellate Case: 25-4000      Document: 42-1       Date Filed: 07/31/2026     Page: 18
+
+
+
+negligence required under the BSA) and sought remedies not provided in the BSA, it is
+
+ignoring that there was nothing new about such claims and remedies in SEC actions. Not
+
+only had the SEC contended for decades that no scienter was required for sanctions to be
+
+imposed for violations of record-keeping regulations under Section 17(a), but the SEC
+
+had prevailed in court on that contention. See Stead v. SEC, 444 F.2d 713, 716–17
+
+(10th Cir. 1971) (stating that defendant’s knowledge that the securities deposited were not
+
+recorded was sufficient to establish recordkeeping violation under Section 17(a) of the
+
+Exchange Act, without mention of a need to have knowledge of the recordkeeping
+
+regulations); SEC v. Drexel Burnham Lambert, Inc., 837 F. Supp. 587, 610 (S.D.N.Y.
+
+1993) (“Scienter need not be shown to prove a violation of section 17(a)(1) of the
+
+Exchange Act and the rules thereunder”); cf. SEC v. McNulty, 137 F.3d 732, 740–41
+
+(2d Cir. 1998) (deferring to SEC position that scienter is not a required element for civil
+
+penalties for failure to comply with reporting requirements under Section 13(b) of the
+
+Exchange Act because that section of the Act “contains no words indicating that Congress
+
+intended to impose a scienter requirement” (internal quotation marks omitted)). Once it
+
+was clear that the SEC intended to proceed under the Exchange Act for violations of the
+
+BSA by broker-dealers, broker-dealers were on notice of the risk of liability under SEC
+
+standards (with which they would have been quite familiar).
+
+       Hence, none of the consequences Scottsdale complains of actually “flow” from the
+
+filing of the Alpine action. Bennett, 520 U.S. at 156. And it is the purported final agency
+
+action being challenged that must “itself be the source of the parties’ obligations,
+
+modifying the applicable legal landscape by interpreting the scope of their statutory rights
+
+
+                                             18
+   Appellate Case: 25-4000       Document: 42-1      Date Filed: 07/31/2026      Page: 19
+
+
+
+or duties.” Custodia, 157 F.4th at 1249 (brackets and internal quotation marks omitted);
+
+see Sinclair Wyo. Ref. Co. v. EPA, 72 F.4th 1137, 1144 (10th Cir. 2023) (agency action
+
+was not final where it “tread no new ground, leaving the world just as it found it”
+
+(brackets and internal quotation marks omitted)). That is true whether a court limits its
+
+inquiry to purely legal obligations, see, e.g., Sackett, 566 U.S. at 126 (identifying legal
+
+obligations imposed on plaintiffs “[b]y reason of” the action), or instead considers
+
+practical, everyday effects, see, e.g., Appalachian Power, 208 F.3d at 1023 (taking a
+
+pragmatic approach but nevertheless emphasizing that the agency “created” obligations
+
+“[t]hrough the Guidance” (emphasis added)).
+
+       Second, as long as we are being pragmatic, treating a court-filed complaint as a
+
+final agency action reviewable under the APA would be a nonstarter. To begin with, APA
+
+review of final agency action is available only if “there is no other adequate remedy in a
+
+court.” 5 U.S.C. § 704. The party being sued obviously has a remedy in a court—namely,
+
+it can defend itself in the court in which the complaint was filed and seek appellate
+
+review in that circuit. But it would be ironic if those who are not defendants could seek
+
+APA review of the complaint in another court when the defendant cannot. And an APA
+
+suit challenging the propriety of the agency’s filing the complaint while (or after) the
+
+complaint itself is being litigated “cannot be permitted . . . without seriously undercutting
+
+the orderly process of the law.” Celotex Corp. v. Edwards, 514 U.S. 300, 313 (1995)
+
+(judgment creditors in bankruptcy proceeding cannot collaterally attack Florida
+
+bankruptcy court injunction against executing a bond when they seek to execute on bond
+
+in Texas federal court).
+
+
+                                             19
+   Appellate Case: 25-4000     Document: 42-1      Date Filed: 07/31/2026     Page: 20
+
+
+
+      We recognize that Scottsdale disagrees with the Second Circuit’s decision in
+
+the Alpine action. As Scottsdale suggested to the Utah district court, it filed this
+
+lawsuit in the hopes of creating a circuit split by having its issues reviewed by the
+
+Tenth Circuit, which it views as “perhaps slightly more independent” than the Second
+
+Circuit and as having “a pretty good track record in terms of looking at this kind of
+
+issue.” Suppl. App. at 92–93 (Tr. of Hr’g on Mot. to Dismiss). Of course, there is
+
+nothing inherently wrong with trying to create a circuit split. Just not by attacking the
+
+proceedings in another circuit.
+
+           III.     CONCLUSION
+
+      Because Scottsdale did not challenge a final agency action below, the district court
+
+correctly dismissed its suit for lack of statutory standing under the APA. We AFFIRM.
+
+
+
+
+                                            20
+

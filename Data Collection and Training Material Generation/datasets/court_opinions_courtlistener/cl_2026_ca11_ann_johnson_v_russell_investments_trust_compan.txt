@@ -1,0 +1,446 @@
+USCA11 Case: 25-10692        Document: 76-1          Date Filed: 08/17/2026    Page: 1 of 14
+
+
+
+
+                                 FOR PUBLICATION
+
+
+                                            In the
+                 United States Court of Appeals
+                             For the Eleventh Circuit
+                               ____________________
+                                          No. 25-10692
+                               ____________________
+
+        ANN JOHNSON,
+          as the representative of a class of similarly
+          situated persons, and on behalf of Royal
+          Caribbean Cruises Ltd Retirement Savings Plan,
+                                                                Plaintiﬀ-Appellant,
+        versus
+
+        RUSSELL INVESTMENT MANAGEMENT, LLC,
+        RUSSELL INVESTMENTS TRUST COMPANY,
+          f.k.a. Russell Trust Company,
+                                                                       Defendants,
+        ROYAL CARIBBEAN CRUISES LTD.,
+        ROYAL CARIBBEAN CRUISES LTD.,
+                                                              Defendants-Appellees.
+USCA11 Case: 25-10692       Document: 76-1      Date Filed: 08/17/2026      Page: 2 of 14
+
+
+
+
+        2                       Opinion of the Court                  25-10692
+                             ____________________
+                      Appeal from the United States District Court
+                          for the Southern District of Florida
+                         D.C. Docket No. 1:22-cv-21735-RNS
+                             ____________________
+
+        Before JILL PRYOR, LUCK, and BRASHER, Circuit Judges.
+        BRASHER, Circuit Judge:
+                This appeal is about whether Royal Caribbean breached its
+        fiduciary duty under the Employee Retirement Income Security
+        Act. Ann Johnson, on behalf of a class of similarly situated plaintiffs,
+        complained that Royal Caribbean breached its obligation to pru-
+        dently select investments for its employee retirement plan. Specif-
+        ically, she alleged that Royal Caribbean’s decision to replace Van-
+        guard Target Date Funds with Russell Target Date Funds in the
+        plan’s menu of investment options caused the class members’
+        losses because the investment was objectively imprudent.
+               The district court granted summary judgment because it
+        concluded that Johnson was obligated to, but did not, submit evi-
+        dence that the Russell Target Date Funds was objectively impru-
+        dent compared to another target date fund that had the same in-
+        vestment strategy and risk profile. We believe the district court
+        erred. An ERISA plaintiff need not identify an apples-to-apples
+        comparison to establish objective imprudence in every case. In this
+        case, Johnson argues that the very features that distinguish the Rus-
+        sell Target Date Funds from otherwise comparable funds are what
+        made the Russell funds an objectively imprudent investment. Be-
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026     Page: 3 of 14
+
+
+
+
+        25-10692               Opinion of the Court                         3
+
+        cause a plaintiff may, but need not, rely on apples-to-apples com-
+        parator evidence at summary judgment in a breach of fiduciary
+        duty case like this one, we reverse and remand for the district court
+        to consider the full record on the issue of objective imprudence.
+                                       I.
+
+               We will start with some background information about re-
+        tirement plans and target date funds. A self-directed retirement
+        plan provides a menu of investment options from which partici-
+        pants can choose to invest their funds. The investment menu is set
+        by the plan’s sponsor—here, Royal Caribbean. Many plans, like the
+        one in this case, offer target date funds, or TDFs, as an option. A
+        TDF is an investment vehicle that simplifies retirement planning
+        by allowing investors to invest all their savings in a single diversi-
+        fied fund that changes its asset allocation over time based on a tar-
+        get retirement date, rather than actively managing many different
+        investments across their portfolio. Consistent with investing best
+        practices, TDFs adjust their asset allocation to become more con-
+        servative as the investor’s retirement date (i.e., the fund’s “target
+        date”) approaches. A TDF’s approach to risk is called its
+        “glidepath.” Some TDFs use “to” glidepaths (i.e., assets are most
+        conservatively allocated at the target date—the most conservative
+        approach), while other TDFs employ “through” glidepaths (i.e., as-
+        sets reach the most conservative allocation some period of years
+        beyond the target date—a less conservative approach).
+USCA11 Case: 25-10692        Document: 76-1        Date Filed: 08/17/2026        Page: 4 of 14
+
+
+
+
+        4                         Opinion of the Court                     25-10692
+
+               Now, with the stage set, we move to the facts leading to this
+        dispute. In 2014, Royal Caribbean’s Investment Committee de-
+        cided to restructure its employee retirement plan. 1 To that end, the
+        Committee established a Request for Proposal Team to solicit
+        RFPs from investment companies for Plan advisory and manage-
+        ment services. Eleven prospective vendors submitted proposals,
+        and Royal Caribbean’s outside counsel prepared a memorandum
+        to evaluate each one. Although the memorandum did not list Rus-
+        sell among the initial top four contenders, it noted that “Russell’s
+        strength is their expertise in providing consulting services and in-
+        vestment advice.” Doc 177-29 at 5. Upon reviewing the memo, the
+        RFP Team selected Russell as one of its four finalists because of its
+        “[s]trong expertise in providing consulting service and investment
+        advice.” Doc. 177-30 at 4. But in its early assessment, the RFP Team
+        also recognized that Russell did have a few “downside[s]”: their
+        “pricing was on the high end,” they mandated that at least 75% of
+        Plan fund offerings be Russell funds, and they required engaging a
+        third-party recordkeeping service provider. Id.
+               Meanwhile, the Investment Committee considered “various
+        [TDF] offerings, including historical returns, diversification strate-
+        gies, management strategies[,] and expense ratios” to add to the
+        Plan’s investment menu during the pendency of the RFP process.
+
+        1 At the time, Royal Caribbean’s retirement scheme included a Pension Plan
+
+        and a 401(k) Plan. In December 2015, the Plans were merged into a single
+        401(k) Plan. The distinction between the two plans is not relevant to this ap-
+        peal. For simplicity, we refer to Royal Caribbean’s retirement scheme as the
+        singular “Plan.”
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026     Page: 5 of 14
+
+
+
+
+        25-10692               Opinion of the Court                         5
+
+        Doc. 177-6 at 3. The Committee “resolved to add the Vanguard
+        [TDF] . . . to the Plan portfolio” and set the Vanguard TDF as “the
+        Plan’s default fund.” Id.
+                In August 2014, Russell gave an in-person presentation to
+        the Committee. The presentation highlighted the Russell TDF se-
+        ries’ distinguishing characteristics, including its “to” glidepath and
+        its bias towards investing in emerging markets and real assets rela-
+        tive to its competitors, which tended to be more heavily invested
+        in U.S. equities. Russell also submitted follow up information to
+        the Committee, including historical returns for the funds in Rus-
+        sell’s proposed investment menu lineup, which compared the
+        funds’ performance to composite benchmarks.
+               The Investment Committee subsequently replaced the Van-
+        guard TDF series with the Russell TDF series. And in September
+        2015, Royal Caribbean and Russell officially entered into an Invest-
+        ment Management Agreement.
+               According to Johnson, the Investment Committee made a
+        very bad decision. The Russell TDFs never had more than 12 cli-
+        ents and had lost their two largest clients to the Vanguard TDFs in
+        2014, the year before Royal Caribbean’s decision to move from
+        Vanguard to Russell. Johnson’s expert testified that, at the time of
+        this decision, the Russell TDFs “had inferior characteristics with re-
+        spect to the commonly used risk, return, and risk-adjusted return
+        metrics.” Doc. 186-6 at 5. Adjusting for the risk of the Russell TDF
+        funds since their inception, “the risk-adjusted returns for Russell
+        [we]re lower than that for each of the corresponding vintage
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026     Page: 6 of 14
+
+
+
+
+        6                      Opinion of the Court                 25-10692
+
+        funds.” Id. at 7. Finally, as of December 2014, Morningstar had
+        rated the “Russell LifePoints Target Date Series” (Russell’s retail
+        mutual fund TDF, which is allegedly similar to the Russell TDF
+        series that was included in the Plan) with a “[n]egative” rating. Doc.
+        186-12 at 2.
+              From 2015 to 2019 (when Royal Caribbean removed the
+        Russell TDF series from the investment menu), the Russell TDF
+        underperformed the Vanguard TDF (which it replaced) and the
+        American Funds TDF (which eventually replaced the Russell
+        TDF). In fact, comparing the Russell TDF with the legacy Van-
+        guard TDF and the replacement American Funds TDF, the Russell
+        TDF underperformed, on an annualized basis, by an average of
+        1.51% and 2.12%, respectively, from October 2015 until May 2019.
+        During that same period, the Russell TDF also underperformed its
+        composite benchmark, ranging from 0.38% to 0.97% annual under-
+        performance, for an asset-weighted average underperformance of
+        0.71%.
+               Within the first few years of the Royal Caribbean–Russell
+        relationship, Russell recognized Royal Caribbean’s frustration with
+        the Russell TDF series’ performance. For example, in an internal
+        2017 email, Russell executive Stacey Bro stated that, “based on
+        longer-term historical peer relative performance [of the Russell
+        TDF series],” Royal Caribbean may “think they have made a bad
+        fiduciary decision.” Doc. 186-36 at 2. Similarly, in another internal
+        2017 email, Russell’s Director of Institutional Investment Solu-
+        tions, Lynn Pfeiffer, noted that other clients were moving away
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026      Page: 7 of 14
+
+
+
+
+        25-10692               Opinion of the Court                          7
+
+        from the Russell TDF because “as a fiduciary it is hard to go with
+        worse numbers and higher fees.” Doc. 186-68 at 3. And finally, an
+        internal 2018 strategy presentation to Russell executives specified
+        that Russell’s “fees [were] now high relative to peers.” Doc. 191-9
+        at 5.
+               In April 2019, Royal Caribbean terminated Russell’s Invest-
+        ment Management Agreement. And in May 2019, the Committee
+        replaced the Russell TDF series with the American Funds TDF se-
+        ries.
+               Johnson, a participant of the Plan who invested in the Rus-
+        sell TDF series, on behalf of a class of similarly situated plaintiffs,
+        sued Royal Caribbean and Russell for breaching “ERISA’s strict fi-
+        duciary standards.” Doc. 31 at 26. As relevant here, she alleged that
+        Royal Caribbean imprudently selected Russell as the Plan’s invest-
+        ment manager, failed to monitor the Plan’s investment menu and
+        the Russell TDF series’ performance, and failed to monitor the In-
+        vestment Committee. She specifically claimed that the Russell
+        TDF series’ underperformance, “to” glidepath selection, and high
+        fees relative to other TDFs demonstrated that it was an objectively
+        bad investment.
+               Following discovery, Royal Caribbean and Russell both filed
+        motions for summary judgment, which the district court granted.
+        In granting summary judgment for Royal Caribbean, the district
+        court reasoned that an ERISA plaintiff must identify comparator
+        funds to establish objective imprudence through an “apples-to-ap-
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026     Page: 8 of 14
+
+
+
+
+        8                      Opinion of the Court                 25-10692
+
+        ples” comparison. Doc. 273 at 16. It then held that Johnson had re-
+        lied on “[i]mproper [c]omparators,” such as the Vanguard and
+        American funds, id., that Russell’s custom TDF benchmark was the
+        only “[p]roper [c]omparator,” and that the court did not need to
+        consider any “[o]ther [e]vidence of [a]lleged [o]bjective [i]mpru-
+        dence,” id. at 19–20.
+               Johnson timely appealed. While the appeal was pending,
+        Johnson and Russell reached a settlement and jointly moved for
+        voluntary dismissal of the appeal, which we granted. Royal Carib-
+        bean Cruises Ltd. and Royal Caribbean Cruises Ltd.’s Investment
+        Committee (collectively, Royal Caribbean) are the only remaining
+        appellees.
+                                       II.
+
+              We review the district court’s decision to grant summary
+        judgment de novo. Baker v. Upson Reg’l Med. Ctr., 94 F.4th 1312,
+        1316–17 (11th Cir. 2024).
+                                       III.
+
+               ERISA requires fiduciaries administering employee benefit
+        plans to prudently investigate, choose, and monitor investments.
+        29 U.S.C. §§ 1104(a)(1)(B), 1109(a). We recently addressed how a
+        participant in a plan can prove a fiduciary breach under ERISA’s
+        section 1109(a). See Pizarro v. Home Depot, Inc., 111 F.4th 1165 (11th
+        Cir. 2024). In Pizarro, we held that “liability turns not only on an
+        imprudent process, but also on that process resulting in an impru-
+        dent investment.” Id. at 1176. In other words, to establish fiduciary
+USCA11 Case: 25-10692      Document: 76-1     Date Filed: 08/17/2026     Page: 9 of 14
+
+
+
+
+        25-10692               Opinion of the Court                        9
+
+        liability, we held that a plaintiff must demonstrate (1) procedural
+        imprudence (i.e., “imprudent process”) and (2) loss causation (i.e.,
+        “resulting in an imprudent investment”). Id.
+               Loss causation, not imprudent process, is the focus for us to-
+        day. Loss causation requires a plaintiff to prove that an investment
+        was not “objectively prudent.” Id. An investment is not objectively
+        prudent, we have held, when it falls “outside the ‘range of reason-
+        able judgments a fiduciary may make based on her experience and
+        expertise,’ such that a hypothetical prudent fiduciary in the same
+        circumstances as the defendant, armed with the information that a
+        proper evaluation would have yielded, would not (or could not)
+        have made the same choice.” Id. (quoting Hughes v. Nw. Univ., 595
+        U.S. 170, 177 (2022)).
+               ERISA plaintiffs often rely on comparisons to demonstrate
+        objective imprudence by presenting evidence that a challenged in-
+        vestment was inferior to an alternative that a fiduciary could have
+        chosen instead. See id. at 1178; see also GIW Indus., Inc. v. Trevor,
+        Stewart, Burton & Jacobsen, Inc., 895 F.2d 729, 733 (11th Cir. 1990).
+        When assessing this kind of comparator evidence, we have ex-
+        plained that “whether an investment is objectively imprudent must
+        be assessed against the actions of a hypothetical prudent fiduciary
+        with ‘like aims.’” Pizarro, 111 F.4th at 1181 (quoting 29 U.S.C. §
+        1104(a)(1)(B)). So, if a fund was chosen “because it was conserva-
+        tive,” then its performance should be “benchmarked [] against a
+        conservative metric,” not “more aggressive benchmarks.” Id.
+USCA11 Case: 25-10692     Document: 76-1      Date Filed: 08/17/2026    Page: 10 of 14
+
+
+
+
+        10                     Opinion of the Court                25-10692
+
+               The parties in this case fundamentally disagree about the
+        role of this kind of comparator evidence. Johnson argues that she
+        need not provide comparator evidence to demonstrate objective
+        imprudence, but she also argues that she has done so by comparing
+        the Russell TDF funds to the funds they replaced, the Vanguard
+        TDF series, and the funds that ultimately replaced them, the Amer-
+        ican TDF series. Royal Caribbean responds that comparator evi-
+        dence is, in fact, required to establish objective imprudence, and
+        that Johnson’s comparator evidence does not satisfy the require-
+        ment. It points out that the Russell, Vanguard, and American TDFs
+        are different—they employed different investment strategies,
+        glidepaths, and asset allocations—rendering them inadequate ap-
+        ples-to-apples comparators. Accordingly, Royal Caribbean con-
+        cludes that Johnson failed to establish loss causation.
+               We agree with Johnson that a plaintiff is not necessarily re-
+        quired to identify a comparable investment to establish loss causa-
+        tion. The objective imprudence of an individual investment turns
+        on whether it falls “outside the range of reasonable judgments a
+        fiduciary may make based on her experience and expertise.” Id. at
+        1176 (citation modified). Although comparator evidence may be
+        relevant to establish loss causation, we cannot say it is always nec-
+        essary.
+               Instead, we expect the facts relevant to objective prudence
+        to vary from case to case. After all, the determination of whether
+        an individual investment is objectively prudent “will necessarily be
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026      Page: 11 of 14
+
+
+
+
+        25-10692                Opinion of the Court                         11
+
+        context specific.” Hughes, 595 U.S. at 177 (quoting Fifth Third Ban-
+        corp v. Dudenhoeffer, 573 U.S. 409, 425 (2014)). And, as with many
+        other context-specific inquiries, the factfinder will be required to
+        consider and weigh competing evidence. See, e.g., Daubert v. Merrell
+        Dow Pharms., Inc., 509 U.S. 579, 593 (1993); United States v. Robelo-
+        Galo, 166 F.4th 1311, 1316 (11th Cir. 2026). To that end, in Pizarro,
+        we identified various types of evidence that can inform whether an
+        investment falls “outside the range of reasonable judgments,” 111
+        F.4th at 1176 (citation modified), to assess its objective prudence,
+        grouping them in qualitative and quantitative buckets, see id. at
+        1179–82.
+               We reaffirm that approach here. Qualitatively, a factfinder
+        may look to whether the fund was a “popular option[] offered by
+        other employers’ plans of comparable size and complexity” and
+        whether it “received positive ratings from industry analysts.” Id. at
+        1180. And, quantitatively, a factfinder may weigh the fund’s fees
+        and performance relative to appropriate contemporaneous peers
+        and benchmarks. Id. at 1178, 1180–82. The quantitative evaluation,
+        though, may be applied only to “apples-to-apples comparison[s]”
+        to control for differences across the investments’ risk profiles, strat-
+        egies, asset allocations, and the like. Id. at 1180. Controlling for
+        these variables ensures that any historical underperformance is not
+        simply a function of the fund pursuing a different investment ob-
+        jective, but, instead, reflects a fund’s real economic inferiority rela-
+        tive to the alternative options that would have been available to a
+        “prudent fiduciary with ‘like aims.’” Id. at 1181 (quoting 29 U.S.C.
+        § 1104(a)(1)(B)). Considered together, this non-exhaustive list of
+USCA11 Case: 25-10692      Document: 76-1      Date Filed: 08/17/2026     Page: 12 of 14
+
+
+
+
+        12                     Opinion of the Court                  25-10692
+
+        evidence provides a helpful framework to assess an investment’s
+        objective prudence.
+                The important point is that the law imposes no mandate that
+        a plaintiff prove objective imprudence through apples-to-apples
+        comparator evidence. In some circumstances, a context-specific in-
+        quiry may favor either qualitative or quantitative evidence, and a
+        plaintiff does not need both. See, e.g., GIW Indus., 895 F.2d at 733
+        (concluding that a fiduciary caused losses to the fund without a
+        quantitative analysis); In re Unisys Sav. Plan Litig., 74 F.3d 420, 437
+        (3d Cir. 1996) (concluding that a reasonable factfinder could find
+        the fiduciary caused losses to the plan without a quantitative anal-
+        ysis). So, even when a plaintiff lacks qualitative evidence, he may
+        still establish loss causation by reference to a meaningful bench-
+        mark that demonstrates obvious underperformance. And, even
+        when a plaintiff lacks a proper apples-to-apples comparison, he may
+        still point to a fund’s widespread unpopularity and negative indus-
+        try ratings as evidence of its objective imprudence. After all, some
+        of the most objectively imprudent investments will lack an apples-
+        to-apples comparison precisely because they are such objectively
+        bad fiduciary decisions.
+               Our approach to comparator evidence is consistent with
+        those of other circuits. The Sixth Circuit has held that comparator
+        evidence may be used “to show a fund acted imprudently” but has
+        stopped short of deciding that comparator evidence is necessary to
+        plead a fiduciary violation. Smith v. CommonSpirit Health, 37 F.4th
+        1160, 1166 (6th Cir. 2022). Likewise, the Third Circuit has held that
+USCA11 Case: 25-10692     Document: 76-1      Date Filed: 08/17/2026     Page: 13 of 14
+
+
+
+
+        25-10692               Opinion of the Court                        13
+
+        a court must consider a variety of factors before weighing in on the
+        prudence of a particular investment. In re Quest Diagnostics ERISA
+        Litig., 179 F.4th 217, 225 (3d Cir. 2026) (evaluating whether the plan
+        fiduciaries consulted advisors, understood the funds’ underlying
+        merits, and employed a reasonable process). As both of our sister
+        circuits have recognized, the prudence inquiry is fact-intensive.
+        We, likewise, do not approach this question with a “mechanical
+        checklist,” recognizing that courts must consider all the available
+        evidence to evaluate the objective prudence of a particular invest-
+        ment. Id.
+               Turning back to this case, Johnson argues that the decision
+        to abandon the Vanguard TDFs in favor of the Russell TDFs is the
+        kind of objectively imprudent decision that needs no apples-to-ap-
+        ples comparison. To be sure, it is undisputed that, at the time the
+        Russell TDFs were added to the plan, their returns exceeded a cus-
+        tom benchmark. And, during the four-year class period, the Russell
+        TDFs only slightly underperformed the custom benchmark; their
+        “asset-weighted average underperformance [was] 0.71%.” Doc.
+        191-4 at 5. But the mere fact that the Russell funds were within
+        striking distance of their own custom benchmark does not answer
+        Johnson’s theory of objective imprudence—that the Russell TDFs’
+        unique features, which were also baked into the custom bench-
+        mark, are what made them an objectively imprudent investment
+        to begin with. See, e.g., Doc. 191-3 at 22 (“Russell dodges the proper
+        question: whether those very characteristics of the Russell TDFs
+        made them an imprudent investment for the Plan given Royal Car-
+        ibbean’s investment objectives”).
+USCA11 Case: 25-10692     Document: 76-1      Date Filed: 08/17/2026     Page: 14 of 14
+
+
+
+
+        14                     Opinion of the Court                 25-10692
+
+                The touchstone for objective imprudence is that a chal-
+        lenged investment “must be assessed against the actions of a hypo-
+        thetical prudent fiduciary with like aims.” Pizarro, 111 F.4th at 1181
+        (citation modified). We make no determination about whether the
+        record warrants summary judgment under the appropriate stand-
+        ard.
+                                       IV.
+
+               For the foregoing reasons, the decision of the district court
+        is REVERSED. We REMAND for further proceedings not incon-
+        sistent with this opinion.
+

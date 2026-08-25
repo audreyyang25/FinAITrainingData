@@ -1,0 +1,3561 @@
+22-1783
+Trustees of the NYSNAPP v. White Oak Glob. Adv.
+
+                      UNITED STATES COURT OF APPEALS
+                              FOR THE SECOND CIRCUIT
+                     ________________________________________
+
+                                    August Term, 2023
+
+               Argued: October 25, 2023           Decided: May 21, 2024
+
+
+
+                                 Docket No. 22-1783
+                     _________________________________________
+
+   THE TRUSTEES OF THE NEW YORK STATE NURSES ASSOCIATION PENSION PLAN,
+
+                                                  Petitioner-Appellee,
+
+                                           —v.—
+
+                          WHITE OAK GLOBAL ADVISORS, LLC,
+
+                                            Respondent-Appellant.*
+                     _________________________________________
+
+           Before: LYNCH and PARK, Circuit Judges, and CLARKE,† District Judge
+                     _________________________________________
+
+       Respondent-Appellant White Oak Global Advisors, LLC appeals from a
+judgment of the United States District Court for the Southern District of New
+York (Kaplan, J.), entered in favor of Petitioner-Appellee Trustees of the New
+York State Nurses Association Pension Plan on their petition to confirm an
+arbitral award between the parties. The award, resolving several ERISA fiduciary
+duty claims brought by the Trustees against White Oak, was rendered pursuant
+to an arbitration clause contained in the investment management agreement by
+which White Oak assumed its ERISA fiduciary relationship to the pension plan.
+
+________________________
+       *
+       The Clerk of Court is respectfully directed to amend the caption.
+       †
+       Judge Jessica G. L. Clarke, of the United States District Court for the
+Southern District of New York, sitting by designation.
+       On appeal, White Oak argues that the district court lacked jurisdiction to
+confirm the award after the Supreme Court’s decision in Badgerow, which held
+that federal courts cannot premise jurisdiction over a Federal Arbitration Act
+§§ 9-11 petition based on whether jurisdiction would have existed over the
+underlying dispute. White Oak further contends that, even if jurisdiction existed,
+the court erroneously interpreted the award when it granted the Trustees pre-
+award interest on the disgorgement of the Plan’s assets, return of the “Day One”
+fees collected by White Oak, and White Oak’s “profits,” as the award did not
+grant or was ambiguous regarding such relief. Finally, White Oak asserts that the
+district court abused its discretion in ordering, under its inherent authority,
+payment of the Trustees’ attorneys’ fees and costs for the entirety of the
+confirmation proceeding.
+
+       We conclude that the Trustees’ petition is cognizable under ERISA
+§ 502(a)(3), as the Trustees are a party authorized by that provision to sue; to
+enforce a right – the arbitration agreement – created by a plan document or term;
+and to request equitable relief against a co-fiduciary to the plan. Such suits,
+brought by a fiduciary on behalf of the beneficiaries to enforce a plan document
+or term against a co-fiduciary, seek relief traditionally equitable in nature. We
+therefore agree with the district court that it possessed jurisdiction to confirm the
+arbitral award. Turning to the merits, we find that the award unambiguously
+granted disgorgement of prejudgment interest and the “Day One” fees, but that
+the award of profits is too ambiguous to enforce and must be remanded to the
+arbitrator for clarification. Finally, we agree that the district court failed to make
+sufficiently specific findings tailored to White Oak’s conduct so as to justify the
+award of attorneys’ fees and costs for the entirety of the confirmation proceeding.
+
+       Accordingly, we AFFIRM the order confirming the arbitral award insofar
+as it grants disgorgement of pre-award interest and the “Day One” fees;
+VACATE and REMAND insofar as the court confirmed the disgorgement of
+“profits,” with instructions to the district court to remand this item of relief to the
+arbitrator for a determination of the existence and extent of profits; and VACATE
+and REMAND the order granting the Trustees their attorneys’ fees and costs on
+the action to confirm the arbitral award for the district court to make more
+specific findings justifying its sanction.
+                   _________________________________________
+             C. WILLIAM PHILLIPS, Covington & Burling LLP, New York, NY
+                   (Jonathan M. Sperling, Covington & Burling LLP, New York,
+                   NY; Robert Newman, Covington & Burling LLP, Washington
+                   DC, on the briefs), for Petitioner-Appellee Trustees of the New York
+                   State Nurses Association Pension Plan.
+
+             EAMON JOYCE, Sidley Austin LLP, New York, NY (James O.
+                 Heyworth, Tyler J. Domino, Sidley Austin LLP, New York,
+                 NY; Carter G. Phillips, Sidley Austin LLP, Washington DC;
+                 Thomas K. Cauley, Jr., Steven E. Sexton, Rebecca M. Lewis,
+                 Sidley Austin LLP, Chicago, IL, on the briefs), for Respondent-
+                 Appellant White Oak Global Advisors, LLC.
+                _________________________________________
+
+GERARD E. LYNCH, Circuit Judge:
+
+      Respondent-Appellant White Oak Global Advisors, LLC (“White Oak”)
+
+appeals from a judgment of the United States District Court for the Southern
+
+District of New York (Lewis A. Kaplan, J.), entered in favor of Petitioner-
+
+Appellee Trustees (“Trustees”) of the New York State Nurses Association
+
+Pension Plan (“NYSNAPP” or “Plan”) on their petition to confirm an arbitral
+
+award. The award, which resolved several claims brought by the Trustees
+
+against White Oak under the Employee Retirement Income Security Act
+
+(“ERISA”), was rendered pursuant to an arbitration clause contained in the
+
+investment management agreement by which White Oak assumed its ERISA
+
+fiduciary relationship to the Plan.
+
+
+
+
+                                           3
+      At the time that the Trustees filed their petition, this circuit used the “look
+
+through” approach to determine subject matter jurisdiction over petitions under
+
+sections 9–11 of the Federal Arbitration Act (“FAA”) to confirm, vacate, or
+
+modify an arbitration award. Under that approach, if the arbitration resolved
+
+federal claims, then the district court could exercise federal question jurisdiction
+
+over the petition. But shortly after the district court entered judgment for the
+
+Trustees, the Supreme Court determined that the “look through” approach
+
+applicable to FAA § 4 petitions to compel arbitration did not extend to FAA
+
+§§ 9–11 petitions to confirm, vacate, or modify the resulting awards. Badgerow v.
+
+Walters, 596 U.S. 1, 5 (2022). Rather, a jurisdictional basis independent of the FAA
+
+must appear on “the face of the application itself.” Id. at 9. Seizing this
+
+opportunity, White Oak argues on appeal, as it did before the district court, that
+
+the judgment must be vacated for lack of jurisdiction.
+
+      White Oak’s eleventh-hour jurisdictional attack on the judgment fails. This
+
+particular petition raises an independent jurisdictional basis because it is
+
+cognizable under ERISA § 502(a)(3), which permits, inter alia, plan fiduciaries to
+
+sue in federal court for “appropriate equitable relief” to enforce the “terms of the
+
+plan” or another fiduciary’s duty to act “in accordance with the documents and
+
+
+
+
+                                           4
+instruments governing the plan.” 29 U.S.C. §§ 1104(a)(1)(D); 1132(a)(3). The
+
+arbitration agreement, contained in the contract by which White Oak assumed
+
+fiduciary duties to the Plan, is a plan document or term, and a fiduciary-duty suit
+
+brought by a fiduciary against a co-fiduciary to enforce the terms of a plan
+
+document seeks relief traditionally available in equity. We therefore agree with
+
+the district court that it possessed jurisdiction to confirm the award.
+
+      White Oak further challenges the district court’s judgment on the merits,
+
+arguing that the court erroneously interpreted the award and improperly
+
+required it to pay the Trustees’ fees and costs. As explained below, we find that
+
+the award unambiguously granted disgorgement of prejudgment interest and the
+
+so-called “Day One” fees, but that the award of profits is too ambiguous to
+
+enforce and must be remanded to the arbitrator for clarification. Finally, we agree
+
+with White Oak that the district court exceeded its discretion in ordering White
+
+Oak to pay the Trustees’ attorneys’ fees and costs for the entirety of the
+
+confirmation proceeding, as the court failed to make sufficiently specific findings,
+
+tailored to White Oak’s conduct, to support that award.
+
+      Accordingly, we AFFIRM the district court’s judgment as to the
+
+disgorgement of prejudgment interest on assets and the “Day One” fees,
+
+
+
+
+                                          5
+VACATE the judgment as to the disgorgement of White Oak’s profits and
+
+payment of the Plan’s attorneys’ fees and costs during the court’s proceedings,
+
+and REMAND for further proceedings consistent with this opinion.
+
+                                BACKGROUND
+
+I.    The Dispute
+
+      The NYSNAPP is an ERISA multi-employer retirement benefit fund that
+
+serves the members of the New York State Nurses Association. The Plan is
+
+governed by its Trustees and employs an internal investment department,
+
+headed by a Chief Investment Officer (“CIO”). From at least 2013 to 2016, the
+
+Plan’s CIO was Russell Niemie. As permitted by ERISA, the Plan contracts with
+
+external investment managers to manage its assets.
+
+      In 2013, Niemie identified White Oak as a potential investment manager
+
+for a portion of the Plan’s assets. The Trustees accepted Niemie’s
+
+recommendation and signed a two-year investment management agreement (the
+
+“IMA”) with White Oak, effective December 31, 2013. App’x 142. White Oak
+
+agreed to act as the Plan’s investment manager and to comply with its fiduciary
+
+duties to the Plan under ERISA. In return, the IMA gave White Oak “sole and
+
+exclusive investment discretion and management” over the Plan’s $80,000,000
+
+
+
+
+                                         6
+investment with White Oak, which included the authority to commit those assets
+
+to White Oak’s proprietary investment funds. S.App’x 4–5. However, the IMA
+
+provided that, in doing so, White Oak was not permitted to violate the terms of
+
+the IMA or waive its statutory duties under ERISA.
+
+      As set forth in the IMA, the Plan agreed to compensate White Oak through
+
+two sets of fees. First, White Oak would be paid an annualized “management
+
+fee,” calculated at 1.35% of the Plan’s initial investment, to reimburse White Oak
+
+for its investment services. Second, White Oak would collect “carried interest
+
+fees” based on the performance of its investments on behalf of the Plan – if White
+
+Oak achieved greater than a 7.5% return on the Plan’s investment in a given year,
+
+then it would retain a percentage of the profits in excess of that amount. The IMA
+
+further provided that White Oak could not collect any other fees from the Plan
+
+without advance written approval from the Trustees.
+
+      The parties wisely anticipated that their relationship might not remain
+
+amicable, and included contractual provisions to deal with that possibility. The
+
+IMA permitted White Oak to unilaterally terminate the agreement, so long as it
+
+gave the Plan ninety days prior written notice. However, in the event of such
+
+termination, the Plan retained the option to extend the IMA until the earlier of six
+
+
+
+
+                                         7
+months or the Plan’s appointment of a successor investment manager. By
+
+contrast, the IMA permitted the Plan to terminate the agreement “at any time . . .
+
+without penalty.” App’x 176. In the event of a termination by either party, the
+
+IMA required White Oak to return, within thirty days of the termination date,
+
+“all books, records, accounts, cash, securities, . . . and all other property” of the
+
+Plan to its control. Id. at 175.
+
+       Finally, the IMA contained a dispute resolution provision, wherein the
+
+Plan and White Oak agreed that, “[a]ny dispute arising under this Agreement
+
+shall be resolved by arbitration.” Id. at 182.
+
+       During the period in which the IMA was effective, White Oak invested the
+
+Plan’s assets into its proprietary “feeder funds”1 – the Pinnacle Feeder Fund I,
+
+L.P. (the “Pinnacle Feeder Fund”) and the Summit Fund, L.P. (the “Summit
+
+Fund,” and together with the Pinnacle Feeder Fund, the “Feeder Funds”). White
+
+Oak unilaterally drafted both the limited partnership agreements (“LPA”)
+
+creating the terms of the Feeder Funds and the subscription agreements
+
+
+       1
+         A feeder fund is one of several sub-funds that each pool some or all of
+their capital into an overarching fund, known as a master fund, for which a
+single advisor handles all portfolio investments as a unit. See In re Kingate Mgmt.
+Ltd. Litig., 784 F.3d 128, 133 (2d Cir. 2015) (describing the feeder-master fund
+relationship). The master fund’s profits are then distributed proportionately to
+the feeder funds based on the percentage of assets that belong to each fund.
+
+                                           8
+governing the Plan’s investment in those Funds, and White Oak signed those
+
+documents on behalf of the Plan. Those documents, which were not separately
+
+consented to by the Plan, contained two provisions contrary to the IMA that are
+
+relevant to this appeal.
+
+      First, as the arbitrator later determined, the Feeder Fund subscription
+
+agreements provided that the Plan’s investment in the Funds could not be
+
+“cancel[ed], terminate[d,] or revoke[d].” S.App’x 26. Likewise, the Pinnacle
+
+Feeder Fund’s LPA prohibited the Plan’s “voluntar[y] withdraw[al]” from that
+
+Fund, nor was the Plan’s interest in the Fund “redeemable or repurchasable.”
+
+App’x 218. White Oak further bound the Plan’s assets to its control through the
+
+Pinnacle Feeder Fund’s contracts with its master fund. Just as the Plan could not
+
+voluntarily withdraw from the Pinnacle Feeder Fund, that Fund could not
+
+voluntarily withdraw from its master fund, nor would its interest in the master
+
+fund be redeemable or repurchaseable. Although the Summit Fund’s LPA
+
+permitted voluntary withdrawal from the Summit Fund, whereupon White Oak
+
+would pay the withdrawing partner the value of its interest in the Fund, White
+
+Oak reserved the right to unilaterally provide that payment through a
+
+
+
+
+                                        9
+promissory note of its own making and to set that note’s interest rate and
+
+maturity date.
+
+      Second, although the IMA limited White Oak’s fees to its specifically
+
+defined management fees and carried interest fees, the Pinnacle Feeder Fund’s
+
+subscription agreement obligated the Plan to pay “Day One” fees to the master
+
+fund. The Day One fees were retroactive, in that White Oak charged the Pinnacle
+
+Feeder Fund for management fees as if the Plan had participated in the master
+
+fund from the latter’s first day of existence, which was prior to the creation of
+
+both the Pinnacle Feeder Fund and the IMA. These fees purported to compensate
+
+White Oak for its management of the master fund prior to the Pinnacle Feeder
+
+Fund’s entry into their pool of assets.
+
+      On August 17, 2015, Niemie notified the Plan that he would not renew his
+
+employment as the Plan’s CIO after his contract expired on March 31, 2016. Prior
+
+to his departure, Niemie recommended that the Plan continue its investment
+
+with White Oak, as the IMA was set to expire on January 1, 2016. The Trustees
+
+accepted his recommendation, and the Plan signed a contract with White Oak,
+
+effective January 1, 2016, that renewed the IMA for an additional two years on
+
+terms substantively identical to those contained in the original agreement.
+
+
+
+
+                                          10
+      Unbeknownst to the Plan, Niemie was in negotiations to join White Oak as
+
+a part owner and officer during the period in which he recommended the
+
+renewal of the IMA. On March 31, 2016, Niemie joined White Oak; the Plan did
+
+not discover that affiliation until several months later. Suspicious of the timing of
+
+these events, the Trustees decided to investigate the performance of Niemie’s
+
+recommendations, including the Plan’s investments with White Oak.
+
+      During that review, the Trustees grew concerned that White Oak had
+
+collected fees that violated the terms of the IMA. The Trustees and White Oak
+
+exchanged letters regarding the fees, whereupon the Trustees demanded that
+
+White Oak turn over documents corroborating its assertions. White Oak’s
+
+responses did not satisfy the Trustees.
+
+      On December 18, 2017, White Oak instead provided ninety day notice of its
+
+unilateral termination of the IMA. White Oak’s termination letter stated that,
+
+after the notice period, the Plan’s investment with White Oak would be governed
+
+by the Feeder Fund documents instead of the IMA. In effect, White Oak would
+
+retain management of the Plan’s assets. Although the Plan could appoint a new
+
+investment manager to oversee the Feeder Funds, the assets in the Pinnacle
+
+Feeder Fund were bound to the master fund operated by White Oak, and White
+
+
+
+
+                                          11
+Oak retained the option to provide a promissory note to the Plan rather than
+
+returning the assets in the Summit Fund.
+
+      On December 27, 2017, the Plan exercised its contractual right to extend the
+
+IMA for a six-month period or until it selected a successor investment manager.
+
+On July 31, 2018, the Plan filed a demand for arbitration pursuant to the IMA’s
+
+arbitration clause, seeking, among other relief, the return of its investment.
+
+      On September 18, 2018, the six-month extension of the IMA expired. That
+
+same day, White Oak informed the Plan in writing that it intended to “treat the
+
+IMA as if it were still in effect” and would “maintain the status quo and continue
+
+to provide the same services to the Plan, including . . . the same fee arrangement
+
+as set forth in the [IMA]” unless it “receive[d] other instructions.” S.App’x 16–17.
+
+However, the Plan sought the return of its assets, rather than the appointment of
+
+a new investment manager to oversee the Feeder Funds subject to White Oak’s
+
+control over the master funds, and therefore continued to arbitrate the dispute.
+
+II.   The Arbitration
+
+      As provided by the IMA, the parties proceeded to arbitration before the
+
+American Arbitration Association. After discovery, the arbitrator held a week-
+
+long hearing in December of 2019.
+
+
+
+
+                                         12
+      A.     The Partial Final Award
+
+      On November 30, 2020, the arbitrator issued a Partial Final Award
+
+(“PFA”), which concluded that White Oak had used its delegated authority to
+
+grant itself several benefits that were contrary to the terms of the IMA. Critically,
+
+the “language of the IMA . . . govern[ed] the relationship between the Plan and
+
+White Oak,” and White Oak owed a fiduciary duty to the Plan to comply with its
+
+terms. S.App’x 17–18. Accordingly, White Oak’s repeated noncompliance with
+
+the IMA’s terms demonstrated that it had “engaged in numerous prohibited
+
+transactions” in violation of ERISA. Id. at 17.2
+
+      First, White Oak had failed to return the Plan’s property and assets within
+
+thirty days of its unilateral termination of the IMA, contrary to the clear
+
+provisions of the IMA requiring White Oak to do so. Likewise, the IMA did not
+
+authorize White Oak’s continued collection of fees after it had retained the assets,
+
+and therefore the post-termination management fees were improper. Because the
+
+IMA’s return provision was self-executing, White Oak’s actions were unlawful
+
+
+      2
+        The arbitrator determined that White Oak had committed several other
+breaches of its ERISA fiduciary duty in addition to those enumerated below, such
+as White Oak’s unilateral grant of indemnification rights to itself from the Plan’s
+assets within the Feeder Fund documents. However, those violations are not
+contested during this appeal and have therefore been omitted from our
+discussion.
+
+                                          13
+even though the Plan had failed to make a formal request for the return of its
+
+assets.
+
+      Second, White Oak had abused its fiduciary authority by imposing “exit
+
+requirements [in the Feeder Fund documents] that were contrary to those found
+
+in the IMA,” as the IMA provided that White Oak could not “waiv[e] any of the
+
+obligations . . . under this Agreement.” S.App’x 24–25. The arbitrator explained
+
+that those documents prohibited the Plan from withdrawing its assets and
+
+instead granted White Oak the authority “to refuse to return the Plan’s cash and
+
+. . . assets and instead substitute an interest-bearing note, at a rate of White Oak’s
+
+determination.” Id. at 26. By contrast, the IMA gave the Plan the right to
+
+terminate its investment “at any time . . . without penalty” and required White
+
+Oak to return all of the Plan’s “accounts, cash, securities[,] . . . and all other
+
+property” in the event that either party terminated the agreement. Id. at 19, 25.
+
+      Moreover, the arbitrator concluded that White Oak’s unilateral imposition
+
+of withdrawal restrictions in the Feeder Fund documents violated ERISA even
+
+apart from their inconsistency with the IMA, as those restrictions “resulted in
+
+[White Oak’s] ability to control Plan assets and earn fees on the assets” after the
+
+IMA’s termination. S.App’x 24. Upon termination, the restrictions presented the
+
+
+
+
+                                           14
+Plan with an unpalatable option. The unilateral promissory note provision
+
+“force[d]” the Plan to “underwrite a loan to White Oak in the amount of its
+
+investment, and to wait for the redemption at a time and a rate set by White
+
+Oak.” Id. at 27. Meanwhile, the non-termination provision ensured that the Plan’s
+
+“assets remain[ed] under the control of White Oak.” Id.
+
+      The arbitrator rejected White Oak’s argument that the Plan was not
+
+harmed by those withdrawal restrictions because the Plan had not sought to exit
+
+the Feeder Funds, reasoning that White Oak’s creation of the unauthorized
+
+restrictions violated the IMA and ERISA regardless of whether White Oak had
+
+actually enforced them. Nor did the arbitrator credit White Oak’s argument that
+
+“the IMA does not require that it return the Plan’s ‘cash’ and ‘other property’
+
+because ‘[those items] are not in White Oak’s physical possession,’” as this too
+
+contradicted the clear terms of the IMA permitting the Plan to “exit with its
+
+assets ‘without notice.’” S.App’x 27. “If the Plan’s money is no longer in White
+
+Oak’s possession,” the arbitrator reasoned, “then it is incumbent upon it to
+
+borrow it.” Id.
+
+      Third, the PFA found that White Oak’s collection of the Day One fees
+
+under the Pinnacle Feeder Fund subscription agreement violated the IMA, which
+
+
+
+
+                                        15
+limited White Oak’s “sole compensation” to the management and carried interest
+
+fees defined within the IMA’s fee schedule. S.App’x 30. White Oak’s authority to
+
+draft the Feeder Fund documents did not permit it to unilaterally impose the Day
+
+One fees, as “the terms of the IMA, and not the Fund terms, . . . govern the
+
+conduct of White Oak.” Id. Nor could the Day One fees be implied into the IMA
+
+as authorized management fees, because “White Oak could not have provided
+
+any fiduciary services before the IMA was in effect.” Id. And while the IMA
+
+stated that White Oak could collect other fees with “prior express written consent
+
+of the [Plan’s] Trustees,” White Oak did not obtain that consent. Id.
+
+      Although the arbitrator reserved a calculation of damages for a “collateral
+
+proceeding,” the PFA concluded by awarding the following relief. S.App’x 37.
+
+First, the PFA ordered White Oak to disgorge the “NAV [net asset value] of [the
+
+Plan’s] investments, . . . [White Oak’s] profits, and any fees White Oak collected,
+
+including all Day One fees, from the time White Oak first collected any fees from
+
+the Plan until the date that assets are returned to the Plan.” Id. The PFA
+
+elaborated that “profits” were those benefits “made through use of assets of the
+
+Plan,” and that “[i]f White Oak placed Plan assets and other compensation into
+
+companies in which they owned equity interests, the [damages proceeding]
+
+
+
+
+                                         16
+should reveal such conduct.” Id. at 38 (internal quotation marks omitted). The
+
+PFA further explained that White Oak “is not entitled to continue to charge and
+
+retain fees for services provided after its termination of the IMA.” Id. Second, the
+
+PFA ordered White Oak’s removal as the Plan’s fiduciary and investment
+
+manager upon the Plan’s retention of a replacement manager. Id. Third, the PFA
+
+awarded the Trustees their attorneys’ fees, as well as prejudgment interest at the
+
+New York statutory rate of nine percent. Id. at 38–39.
+
+      B.     Damages Proceedings
+
+      After issuing the PFA, the arbitrator conducted further proceedings to
+
+calculate damages. The arbitrator ordered White Oak and the Plan to jointly
+
+select a third party expert to determine the damages owed to the Plan. White Oak
+
+refused to comply, claiming that this procedure went beyond the scope of the
+
+arbitrator’s authority under the AAA’s rules. Although the arbitrator would
+
+ultimately reject this argument, both parties had, in the interim, hired their own
+
+experts to calculate damages. Given White Oak’s “lack of compliance,” instead of
+
+insisting on the joint selection of a damages expert, the arbitrator chose to receive
+
+the parties’ competing experts’ reports, set a hearing date for their testimony, and
+
+
+
+
+                                         17
+review additional briefing. S.App’x 48. As relevant to this appeal, the parties
+
+disputed three issues during the damages phase.
+
+      First, the Plan calculated the disgorgement remedy based on the value of
+
+its assets as of September 30, 2018, the first date for which financial statements
+
+were available after the IMA expired following its six-month extension, plus
+
+prejudgment interest from that date forward. White Oak likewise calculated
+
+prejudgment interest running from September 30, 2018 and did not propose any
+
+competing interest accrual date. However, White Oak argued that,
+
+notwithstanding this calculation, it should not be held liable for interest because
+
+the Plan had earned profits from White Oak’s continued management of the
+
+Plan’s assets after the termination date. In its view, an award of interest would
+
+result in an unfair “windfall” to the Plan. App’x 397.
+
+      Second, White Oak objected to the disgorgement of certain fees required
+
+by the PFA. White Oak argued that it should retain the Day One fees because the
+
+Plan had received a net gain from a simultaneous profit distribution by the
+
+Pinnacle master fund. White Oak also argued that it should retain the
+
+management fees that it had collected from the Plan after the IMA’s termination,
+
+
+
+
+                                         18
+given that it had attempted to return the Plan’s investment account to the Plan in
+
+September 2018 and received no response on how to do so.
+
+      Third, the parties disagreed about the proper form of disgorgement for the
+
+Plan’s assets. White Oak maintained that it should be permitted to make an in-
+
+kind transfer of the Plan’s fractional interest in the debt securities held by the
+
+Feeder Funds. The Trustees objected to this distribution and sought an all-cash
+
+disgorgement, as White Oak’s proposal would result in its continued control
+
+over the Plan’s assets through White Oak’s ownership of the remaining interests
+
+in the debt securities.
+
+      C.     The Final Award
+
+      On August 4, 2021, after reviewing the parties’ submissions, the arbitrator
+
+issued a “Final Award” (“FA”) (together with the PFA, the “Award”). S.App’x
+
+41. The FA began by noting that “the merits of this matter were heard
+
+[previously] . . . and a Partial Final Award . . . was issued.” Id. The FA then stated
+
+that it “hereby incorporated [the PFA] into this instant Final Award.” Id.
+
+      After rejecting a slew of procedural arguments raised by White Oak in
+
+opposition to the award, the FA turned to the merits. The arbitrator emphasized
+
+that “[t]he reasons governing the finding that [White Oak] must disgorge all
+
+
+
+
+                                          19
+assets, and some fees, and profits, are more fully set forth in the [PFA] and will
+
+not be repeated in this section, excepting a few points, as the focus will be on the
+
+actual computation of the damages amount due.” S.App’x 46.
+
+      The FA then observed that the parties’ submissions “on the issue of
+
+damages [had] clarified the issues presented,” and therefore “certain areas of the
+
+PFA . . . have been modified to update the award, to reflect the evidence revealed
+
+. . . during the post-PFA period.” S.App’x 48. Specifically, “[t]hat evidence
+
+demonstrates that White Oak unsuccessfully attempted in writing to return the
+
+[Feeder] Funds to the Plan” after the IMA’s termination and had notified the Plan
+
+that it would otherwise “continue investing the money in the same manner and
+
+for the same charges” until “the Plan advise[d] White Oak of its successor
+
+investment manager or [was] ready to receive the funds itself.” Id. at 49.
+
+Accordingly, the FA determined that “White Oak should not be penalized for the
+
+Plan’s lack of action in notifying [White Oak]” that the Plan had “some other
+
+means of handling its funds.” Id.
+
+      The FA then turned to the proper form for the disgorgement of the Plan’s
+
+assets and rebuffed the positions of both parties. S.App’x at 49. Although the
+
+arbitrator concluded that the IMA did not require an “all-cash” distribution, she
+
+
+
+
+                                         20
+also rejected White Oak’s proposed in-kind distribution and emphasized that
+
+White Oak must find liquidity if necessary to fulfill its obligations. Id. at 49–50
+
+(“[I]t is irrelevant whether the ‘cash’ to be returned is currently encumbered by
+
+White Oak[] or [its] clients or is not readily available as it is not the Plan’s burden
+
+to locate the source of such funding.”).
+
+      The FA concluded by ordering the following relief:
+
+      1.     The PARTIAL FINAL AWARD dated November 30, 2020 is hereby
+             incorporated within this FINAL AWARD.
+      2.     WHITE OAK shall disgorge the NAV of the Plan, which may not
+             include all cash, as of [the] date of this FINAL AWARD.
+             Disgorgement, including interest, shall take place no later than 30
+             calendar days after the issuance of this Award unless the parties
+             agree otherwise.
+      3.     PERFORMANCE FEES shall be retained by White Oak and not be
+             returned to the Plan as they constitute reimbursement for managing
+             the business and affairs of Pinnacle and Summit, rather than profits
+             of White Oak.
+      4.     ATTORNEYS’ FEES AND COSTS as proposed by the Plan, shall be
+             reduced by 20% . . . . No interest shall be paid with respect to
+             attorneys’ fees and costs owed.
+      5.     PRE-JUDGMENT INTEREST is awarded at the New York statutory
+             rate of 9%.
+      ...
+      9.     All claims not expressly granted herein are DENIED.
+
+
+      S.App’x 50–51.
+
+
+
+                                           21
+III.   District Court Proceedings
+
+       Despite the issuance of the PFA and FA, the parties continued to dispute
+
+the proper form and amount of White Oak’s obligations. White Oak again
+
+offered fractional shares of the securities held by its funds, which the Trustees
+
+again rejected. On October 8, 2021, the Trustees filed the instant petition to
+
+confirm the award in the District Court for the Southern District of New York.
+
+White Oak cross-petitioned to vacate the award in part.
+
+       A.    Confirmation of the Award
+
+       On March 17, 2022, the district court granted the Trustees’ petition to
+
+confirm the Award in “all respects,” subject to clarification of the Award to
+
+permit White Oak to retain the IMA’s “management fees” as constituting the
+
+“performance fees” described in the FA. Trustees of New York State Nurses Ass'n
+
+Pension Plan v. White Oak Glob. Advisors LLC, No. 21-cv-8330, 2022 WL 815273, at
+
+*10, *12 (S.D.N.Y. Mar. 17, 2022) (“White Oak I”).
+
+       As a preliminary matter, the court rejected White Oak’s argument that the
+
+FA completely superseded the PFA and nullified its underlying merits findings.
+
+Id. at 6–7. Because the “FA expressly ‘incorporate[s]’ the PFA” and “nothing on
+
+the face of either award component suggests that any of the FA’s ‘modifications’
+
+
+
+
+                                         22
+go to liability,” the court concluded that “[t]here is no proper basis for
+
+concluding that the PFA’s liability determinations were disturbed by the FA.” Id.
+
+Thus, the court would address the parties’ arguments by reading the PFA and FA
+
+in conjunction.
+
+      With this understanding of the PFA and FA in mind, the district court
+
+turned to the disputed facets of the Award. First, the court confirmed that White
+
+Oak must disgorge the value of the Plan’s assets as they stood on August 4, 2021.
+
+Id. at 7–8. Moreover, the court determined that the FA had rejected White Oak’s
+
+proposed distribution of fractional shares in the debt securities held by its funds,
+
+as that result would permit White Oak to “remain in control of both the Plan
+
+assets that were the object of White Oak’s self-dealing and of the management
+
+and disposition of the loans underlying the in-kind distribution.” Id. at 9. Such a
+
+result would “contradict other portions of the award” and “perpetuate
+
+misconduct that the [a]bitrator determined to be an ERISA violation.” Id.
+
+      Second, the court noted that the FA modified the PFA as to the
+
+disgorgement of fees, id., in that the FA permitted White Oak to retain
+
+“performance fees” that “constitute reimbursement for managing the . . .
+
+[Funds].” S.App’x at 50. The court concluded that the FA’s reference to
+
+
+
+
+                                          23
+“performance fee[s]” was clearly intended to refer to the IMA’s “management
+
+fee[s]” rather than its “carried interest” fees, as “it [was] clear from the IMA’s fee
+
+structure that only the ‘management fee’ can be characterized as baseline
+
+compensation for ‘managing . . . business and affairs.’” White Oak I, 2022 WL
+
+815273, at *9. By contrast, the carried interest fees were based on the level of
+
+returns, and therefore these fees did not constitute “reimbursement” for White
+
+Oak’s services but rather “profits” that must be disgorged. Id. at 9–10.
+
+      Third, the court held that “it is obvious that White Oak may not retain any
+
+‘Day One’ fees” under the Award. Id. at 10. The arbitrator determined that those
+
+fees were “a standalone ERISA violation, as the IMA unambiguously disallowed
+
+that compensation and because the Trustees did not consent otherwise in
+
+writing.” Id.
+
+      Fourth, the court denied White Oak’s request to vacate the award of
+
+attorneys’ fees and prejudgment interest on the grounds that “White Oak, not the
+
+[Trustees], prevailed at the arbitration.” Id. at 12 (internal quotation marks
+
+omitted). It was obvious that the Trustees had achieved “considerable success on
+
+the merits,” and therefore the arbitrator had not manifestly disregarded the law
+
+in awarding these statutorily authorized items of relief. Id. at 10–12. However,
+
+
+
+
+                                          24
+the court declined to award post-award, prejudgment interest. Although not a
+
+“penalty,” such interest was not warranted for the reasons “underlying the
+
+[a]rbitrator’s revisions to the PFA.” Id. at 12 (internal quotation marks omitted).
+
+      The court then entered a final judgment, which stated that the “Plan’s
+
+petition to confirm the arbitration award, consisting of the PFA and the FA and
+
+as modified by [permitting White Oak to retain its management fees], is granted
+
+in all respects.” Dkt. 60.3
+
+      B.     The Dispute Over the District Court’s Jurisdiction
+
+      From the time the petition to confirm the award was filed until the entry of
+
+the district court’s final judgment, White Oak interposed no challenge to the
+
+court’s subject matter jurisdiction. The absence of such a challenge was
+
+unsurprising. Under the prevailing case law in this circuit, the district court had
+
+jurisdiction because the underlying claims presented to the arbitrator raised
+
+questions of federal law. We had interpreted the Supreme Court’s decision in
+
+Vaden v. Discover Bank, 556 U.S. 49, 62–63 (2009), which adopted such a “look
+
+
+      3
+       At the Plan’s request, the court later clarified its judgment under Fed. R.
+Civ. Pro. 60(a). First, the court specified that White Oak would “disgorge[] the
+‘Day One’ management fees in the amount of $1,929,836.07.” S.App’x 100.
+Second, White Oak would disgorge the net asset value of the Plan’s assets, “with
+prejudgment interest at 9 percent per annum running from September 18, 2018 to
+August 4, 2021.” Id. Third, White Oak would disgorge its “profits.” Id.
+
+                                         25
+through” approach to govern jurisdiction over an action to compel arbitration
+
+under FAA § 4, to apply as well to actions to enforce, vacate, or modify arbitral
+
+awards under FAA §§ 9–11. Doscher v. Sea Port Grp. Sec., LLC, 832 F.3d 372, 388
+
+(2d Cir. 2016).
+
+       After the entry of judgment in this matter, however, the Supreme Court’s
+
+decision in Badgerow abrogated our precedent, holding that a federal court may
+
+not “look through” to the claims resolved by the arbitration to determine its
+
+jurisdiction over a petition to confirm or vacate an arbitration award. 596 U.S. at
+
+5. Rather, the basis for jurisdiction must appear on “the face of the application
+
+itself.” Id. at 9. In light of that decision, White Oak moved to vacate the judgment
+
+for lack of subject matter jurisdiction.
+
+       The district court rejected White Oak’s challenge and determined that the
+
+petition raised two bases for federal question jurisdiction. Trustees of New York
+
+State Nurses Ass'n Pension Plan v. White Oak Glob. Advisors, LLC, No. 21-cv-8330,
+
+2022 WL 2209349, at *7 (S.D.N.Y. June 20, 2022) (“White Oak II”).
+
+       First, the court determined it had power to hear the suit under 28 U.S.C.
+
+§ 1331, id. at 5, which provides that federal courts “shall have original jurisdiction
+
+of all civil actions arising under the . . . laws . . . of the United States,” 28 U.S.C.
+
+
+
+
+                                            26
+§ 1331. The court observed that the arbitration agreement at issue was contained
+
+within the IMA, which created White Oak’s fiduciary obligations under ERISA.
+
+White Oak II, 2022 WL 2209349, at *5. The court reasoned that, because contracts
+
+between ERISA plans and their fiduciaries are governed exclusively by the
+
+“federal common law” of ERISA and ERISA preempts state-law regulation of
+
+such contracts, the contractual right before the court “[wa]s not a state-law based
+
+Section 9 application as was at issue in Badgerow.” Id. Rather, the Plan sought
+
+“recovery exclusively under the laws of the United States.” Id.
+
+      Second, the court determined that enforcement of the IMA’s arbitration
+
+clause, as embodied in the Award, was cognizable as an ERISA § 502(a)(3) action.
+
+That provision authorizes an ERISA “participant, beneficiary or fiduciary” to
+
+bring a civil action “(A) to enjoin any act or practice which violates any provision
+
+of this subchapter or the terms of the plan, or (B) to obtain other appropriate
+
+equitable relief (i) to redress such violations or (ii) to enforce any provisions of
+
+this subchapter or the terms of the plan.” 29 U.S.C. § 1132(a)(3). As held by the
+
+court, the petition sought appropriate equitable relief – the specific performance
+
+of White Oak’s contractual duty to arbitrate disputes arising under the IMA.
+
+White Oak II, 2022 WL 2209349, at *7. The court concluded that it therefore
+
+
+
+
+                                          27
+possessed jurisdiction under ERISA § 502(e)(1), id., which gives federal courts
+
+“exclusive jurisdiction of civil actions under [ERISA § 502(a)(3)],” 29 U.S.C.
+
+§ 1132(e)(1).
+
+      C.        The District Court’s Award of Attorneys’ Fees
+
+      After entry of judgment, the Trustees moved to recover their attorneys’
+
+fees and costs for the confirmation proceeding. Relying on its inherent authority,
+
+the court granted the motion and awarded $1,654,422.27, representing the
+
+entirety of the Trustees’ fees and costs incurred during the confirmation
+
+proceedings. Noting that it had “already . . . remarked in various rulings that
+
+White Oak has advanced meritless, ‘entirely unpersuasive,’ and even ‘borderline
+
+sanctionable’ positions throughout this litigation,” the court “ha[d] no difficulty
+
+concluding that White Oak sought to frustrate confirmation and enforcement of
+
+the arbitral award against it with needless motions and unceasing attempts to
+
+resuscitate already-rejected arguments.” S.App’x 104.
+
+                                   DISCUSSION
+
+      White Oak now appeals, claiming that the district court erred by (1)
+
+exercising subject matter jurisdiction over the petition in light of Badgerow; (2)
+
+confirming the Award as to prejudgment interest on the disgorgement of assets,
+
+
+
+
+                                          28
+return of the “Day One” fees, and “profits;” and (3) ordering White Oak to pay
+
+the Trustees’ attorneys’ fees and costs for the confirmation proceedings.
+
+      For the reasons set forth below, we hold that the district court properly
+
+exercised jurisdiction over the petition to confirm the Award. The Award arises
+
+from the arbitration agreement contained within the IMA, which is a term of or
+
+document governing the Plan. Because the Trustees seek equitable relief and are
+
+parties authorized to bring suit under ERISA § 502(c)(3), we hold that
+
+enforcement of the Award is cognizable as an ERISA § 502(c)(3) action.
+
+Accordingly, ERISA § 502(e)(1) provided the district court with jurisdiction.
+
+      As to the merits, we conclude that the Award unambiguously awarded the
+
+Trustees the return of the “Day One” fees and prejudgment interest on the
+
+disgorgement of the Plan’s assets. However, we also conclude that the award of
+
+“profits” is too indefinite to enforce and therefore remand to the arbitrator for
+
+clarification and determination of the profits disgorgement.
+
+      Finally, we agree with White Oak that the district court’s findings were
+
+insufficiently specific to justify its award of attorneys’ fees and costs for the
+
+entirety of the confirmation proceeding. Although the record supports the
+
+district court’s conclusion that White Oak advanced numerous meritless
+
+
+
+
+                                          29
+arguments and generally attempted to obstruct execution of the award, it is also
+
+clear that White Oak prevailed on several issues. Accordingly, we remand the
+
+sanctions order to the district court to make more specific findings tailored to
+
+White Oak’s conduct, in order to apportion the fee award to cover expenditures
+
+occasioned by White Oak’s meritless arguments.
+
+I.    Federal Courts have Jurisdiction over Petitions to Confirm Arbitration
+      Awards Arising from an ERISA Contract Between Fiduciaries.
+
+      The federal courts are “courts of limited jurisdiction, defined (within
+
+constitutional bounds) by federal statute.” Badgerow, 596 U.S. at 7. Broadly,
+
+“Congress has authorized the federal district courts to exercise original
+
+jurisdiction in ‘all civil actions arising under the Constitution, laws, or treaties of
+
+the United States.’” Gunn v. Minton, 568 U.S. 251, 257 (2013), quoting 28 U.S.C.
+
+§ 1331.4
+
+      In general, an action arises under federal law if a federal statute “creates
+
+the cause of action asserted.” Id. However, the FAA does not create a cause of
+
+action in the relevant sense. Although the FAA authorizes parties to file petitions
+
+to compel arbitration and to confirm, vacate, or modify arbitral awards, it
+
+“bestow[s] no federal jurisdiction but rather requir[es] an independent
+
+      4
+        The parties agree that the alternative basis for federal jurisdiction –
+diversity of citizenship – is unavailable here.
+
+                                           30
+jurisdictional basis” over such petitions. Hall Street Associates, L.L.C. v. Mattel, Inc.,
+
+552 U.S. 576, 581–82 (2008).
+
+      In Vaden, the Supreme Court announced that subject matter jurisdiction
+
+over a petition to compel arbitration under FAA § 4 is determined by the “look
+
+through” approach, whereby jurisdiction turns on the “underlying substantive
+
+controversy” to be arbitrated, even though the only controversy truly raised by
+
+the petition is the “arbitrability of the[] claims.” 556 U.S. at 62–63. Restated, a
+
+federal court may hear a petition to compel arbitration if the claims to be
+
+arbitrated would have “aris[en] under” federal law as determined by the
+
+ordinary principles. Id. at 62. For more than a decade following Vaden, we, along
+
+with several of our sister circuits, concluded that the “look through” approach
+
+also extended to petitions to confirm, modify, or vacate arbitration awards under
+
+FAA §§ 9–11. See Doscher, 832 F.3d at 388; see also Quezada v. Bechtel OG & C
+
+Constr. Servs., Inc., 946 F.3d 837, 843 (5th Cir. 2020), abrogated by Badgerow, 596 U.S.
+
+1; Ortiz-Espinosa v. BBVA Securities of P. R., Inc., 852 F.3d 36, 47 (1st Cir. 2017),
+
+abrogated by Badgerow, 596 U.S. 1. At the time the Trustees and White Oak filed
+
+their cross-petitions to confirm and vacate the Award, Doscher stated the law in
+
+this circuit, and neither party contested the basis for federal jurisdiction over
+
+
+
+
+                                           31
+their suit. The underlying dispute exclusively involved claims asserted under
+
+ERISA, and therefore the cross-petitions plainly arose under federal law under
+
+the Doscher approach.
+
+      But shortly after the district court entered judgment in favor of the
+
+Trustees, the Supreme Court held that Vaden’s “look through” approach does not
+
+extend to petitions brought under FAA §§ 9–11, abrogating Doscher and its
+
+approach to jurisdictional rules under those provisions of the FAA. Badgerow, 596
+
+U.S. at 1. Instead, the Court determined that, absent diversity of citizenship
+
+between the parties, jurisdiction over a petition exists only if the “face of the
+
+application” shows that “federal law (beyond Section 9 or 10 itself) entitles the
+
+applicant to relief.” Id. at 9. Thus, Badgerow rendered invalid the jurisdictional
+
+basis for the action relied upon by the parties and the district court.
+
+      On appeal, as it did before the district court, White Oak seizes upon
+
+Badgerow to argue that the judgment should be vacated for lack of jurisdiction.
+
+We disagree. Admittedly, the Trustees can no longer assert federal jurisdiction
+
+over the petition simply because the underlying claims, in this case claims for
+
+violation of ERISA, raise a federal question – that basis is foreclosed by Badgerow.
+
+Nonetheless, we conclude that federal jurisdiction remains proper over the
+
+
+
+
+                                          32
+petition because ERISA itself creates a cause of action to confirm an arbitration
+
+award under the specific circumstances here – where the Trustees seek to enforce
+
+an arbitration agreement contained within an ERISA-governed contract between
+
+two co-fiduciaries to an ERISA plan.
+
+      A.     The Contract at Issue in Badgerow was Governed by State Law.
+
+      As discussed above, federal question jurisdiction over a petition to
+
+confirm, modify, or vacate an award cannot be premised on the underlying
+
+claims that were arbitrated. Instead, the petition itself must “allege[] that federal
+
+law (beyond Section 9 or 10 itself) entitles the applicant to relief.” Badgerow, 596
+
+U.S. at 9. By this statement, the Court clearly envisioned that diversity
+
+jurisdiction would not be the sole entry point for such petitions into federal court
+
+and that some FAA §§ 9–11 petitions would present federal questions. However,
+
+“no examples of the latter are supplied in Badgerow itself.” Bissonnette v. LePage
+
+Bakeries Park St., LLC, 49 F.4th 655, 666 (2d Cir. 2022) (Jacobs, J., concurring),
+
+vacated on other grounds by 144 S. Ct. 905 (2024).
+
+      Nevertheless, one principle is apparent. The award at issue in Badgerow,
+
+which resolved the petitioner’s Title VII claims against her employer, was
+
+arbitrated pursuant to a clause in the petitioner’s employment contract. 596 U.S.
+
+
+
+
+                                           33
+at 5. As the Court recognized, the sole dispute before it was the “enforceability of
+
+an arbitral award,” which “is no more than a contractual resolution of the parties’
+
+dispute.” Id. at 9. Applications to enforce arbitral awards concern solely “the
+
+contractual rights provided in the arbitration agreement, [which are] generally
+
+governed by state law.” Id. at 18. “[A]djudication of such state-law contractual
+
+rights – as [with the] non-arbitration settlement of federal claims – typically
+
+belongs in state courts” when the petition “raise[s] claims between non-diverse
+
+parties.” Id.
+
+       Implicit in the Court’s reasoning is that the petitioner’s arbitration
+
+agreement, stemming from her employment contract, was subject to the ordinary
+
+rule that claims to enforce contracts are governed by state law. For that reason,
+
+the Court did not need to consider in detail whether the petition at issue raised a
+
+federal question “on the face of the application itself,” because the contractual
+
+rights asserted plainly did not. Id. at 9.
+
+       B.       The Contractual Right at Issue Here Derives from an ERISA
+                Contract Governed by Federal Law.
+
+       At the outset, White Oak contends that a petition to confirm an award
+
+enforces freestanding contractual rights created by the award itself, rather than
+
+the rights created in the arbitration agreement. Although Badgerow’s statement
+
+
+
+                                             34
+that confirmation of an award “concerns the contractual rights provided in the
+
+arbitration agreement” seemingly forecloses this argument, White Oak argues
+
+that this passage should be read as pure dicta explaining the Court’s policy
+
+concerns. Id. at 18. We reject that argument.
+
+      An arbitral award creates no contractual rights and has no force
+
+independent of an arbitration agreement, for the simple reason that an award is
+
+not a contract. The parties to an award make no promises within it.5 Nor do the
+
+parties mutually assent to the terms of the award.6 Indeed, the parties do not
+
+even know the terms of the award until the arbitrator announces them, and, as
+
+this case amply demonstrates, often bitterly disagree with that award once it is
+
+issued. Rather, an award has legal force only because the parties have elsewhere
+
+promised to be bound by it, and those mutual promises are found in the
+
+arbitration agreement.
+
+      The FAA itself reinforces the conclusion that a § 9 petition “concerns the
+
+contractual rights provided in the arbitration agreement.” Badgerow, 596 U.S. at
+
+18. An award may be confirmed only “[i]f the parties in their agreement have
+
+      5
+         Restatement (Second) of Contracts § 1 (1981) (“A contract is a promise or
+a set of promises for the breach of which the law gives a remedy, or the
+performance of which the law in some way recognizes as a duty.”).
+       6
+         Restatement (Second) of Contracts § 3 (1981) (“An agreement is a
+manifestation of mutual assent on the part of two or more persons.”).
+
+                                         35
+agreed that a judgment of the court shall be entered upon the award made
+
+pursuant to the arbitration.” 9 U.S.C. § 9. Thus, an award is not enforceable under
+
+the FAA merely because it exists and on its face purports to bind the parties to
+
+the arbitration. Rather, with few exceptions, an award has legal effect only if the
+
+parties have entered into an agreement to submit their dispute to arbitration. See
+
+Idea Nuova, Inc. v. GM Licensing Group, Inc., 617 F.3d 177, 180 (2d Cir. 2010)
+
+(“[T]he FAA provides for judicial confirmation of arbitral awards [only] on
+
+consent of the parties.”); Local Union No. 38, Sheet Metal Workers' Int'l Ass'n, AFL-
+
+CIO v. Custom Air Sys., Inc., 357 F.3d 266, 267–68 (2d Cir. 2004) (non-signatory to
+
+arbitration agreement could not be bound by arbitration award absent finding by
+
+district court that it was the alter ego of a signatory). Indeed, even where an
+
+award results from a properly executed arbitration agreement between its
+
+parties, the award remains unenforceable where the arbitrator has exceeded her
+
+authority by “reaching issues clearly prohibited . . . by the terms of the parties’
+
+agreement.” Jock v. Sterling Jewelers Inc., 646 F.3d 113, 122 (2d Cir. 2011); Katz v.
+
+Feinberg, 290 F.3d 95, 97–98 (2d Cir. 2002) (holding that the arbitrators had
+
+exceeded their authority by reaching an issue that the agreement exclusively
+
+committed to independent accountants, not the arbitrators).
+
+
+
+
+                                           36
+      We therefore see nothing in Badgerow inconsistent with our longstanding
+
+recognition that a petition to confirm an award does not vindicate the award
+
+itself, but rather enforces the parties’ agreement to arbitrate and abide by the
+
+resulting award. See I/S Stavborg v. Nat'l Metal Converters, Inc., 500 F.2d 424, 426
+
+(2d Cir. 1974) (“One purpose of [FAA § 9] is to ensure that the parties have
+
+affirmatively agreed to the application of the federal substantive law
+
+contemplated by the Act to the interpretation of the arbitration agreement.”)
+
+(emphasis added).
+
+      In sum, Badgerow instructs that subject matter jurisdiction over a petition to
+
+confirm an award turns on the law governing the contractual rights created by
+
+the arbitration agreement, rather than the laws asserted in the underlying claims
+
+or the non-existent “freestanding” rights created solely by the award. Because
+
+contracts are “typically” and “generally” creatures of state law, Badgerow, 596
+
+U.S. at 9, 18, an action to enforce an arbitration contract through confirmation of
+
+its resulting award ordinarily does not arise under federal law. Nonetheless, we
+
+agree with the district court that this arbitration agreement, which is the basis for
+
+the federal ERISA claim in the petition, presents exactly such an exception.
+
+
+
+
+                                          37
+             1.     ERISA
+
+      To understand the “contractual rights provided in the arbitration
+
+agreement” before us, id. at 18, it is necessary to take a detour into substantive
+
+ERISA principles. “ERISA abounds with the language and terminology of trust
+
+law,” and its “legislative history confirms that the Act’s fiduciary responsibility
+
+provisions . . . codify and make applicable to ERISA fiduciaries certain principles
+
+developed in the evolution of the law of trusts.” Firestone Tire & Rubber Co. v.
+
+Bruch, 489 U.S. 101, 110 (1989) (internal alterations adopted and quotation marks
+
+omitted). Given the “language and history” of ERISA, it is well settled that
+
+Congress has authorized the federal courts “to develop a federal common law of
+
+rights and obligations under ERISA-regulated plans.” Id. (internal quotation
+
+marks omitted). This grant of authority extends not only to “address[ing] the
+
+relationships among fiduciaries,” Chemung Canal Tr. Co. v. Sovran Bank/Maryland,
+
+939 F.2d 12, 18 (2d Cir. 1991), but also to the contractual “[i]nterpretation of the
+
+terms of an ERISA pension plan,” Aramony v. United Way of Am., 254 F.3d 403, 411
+
+(2d Cir. 2001); see also Critchlow v. First UNUM Life Ins. Co. of Am., 378 F.3d 246,
+
+255 (2d Cir. 2004) (analyzing contractual language of ERISA insurance policy
+
+under federal common law). In other words, ERISA creates a federal common
+
+law of both trusts and of contracts as applied to ERISA-regulated plans.
+
+
+                                          38
+         The Trustees of the Plan are “named fiduciaries” under the Plan’s
+
+governing documents. 29 U.S.C. § 1102(a). As authorized by ERISA § 402(c)(3),
+
+the Plan’s trust documents permitted the Trustees to appoint White Oak as the
+
+Plan’s investment manager. 29 U.S.C. § 1102(c)(3). In turn, White Oak assumed
+
+fiduciary duties to the plan by acknowledging, as required by ERISA § 3(38), “in
+
+writing that [it] is a fiduciary with respect to the plan.” 29 U.S.C. § 1002(38)(C).
+
+That writing, of course, was the IMA, which contains the arbitration agreement at
+
+issue.
+
+         In turn, ERISA § 404(b) required White Oak and the Trustees to discharge
+
+their duties “in accordance with the documents and instruments governing the
+
+plan.” 29 U.S.C. § 1104(a)(1)(D); L.I. Head Start Child Dev. Servs., Inc. v. Econ.
+
+Opportunity Commission of Nassau County, Inc., 710 F.3d 57, 69 (2d Cir. 2013) (A
+
+fiduciary’s “breach of a contractual obligation in the Plan documents constitutes
+
+a breach of their fiduciary duties under § 404(a)(1).”). As we have long
+
+recognized, the investment management agreement contemplated by ERISA
+
+§ 3(38) is a document that governs the plan, such that non-compliance with its
+
+terms is a breach of fiduciary duty. See Dardaganis v. Grace Cap. Inc., 889 F.2d
+
+1237, 1240–43 (2d Cir. 1989) (concluding that investment management agreement
+
+
+
+
+                                           39
+is a “plan document,” and investment manager’s failure to comply with the
+
+plan’s investment guidelines, as required by the agreement, was a breach of its
+
+fiduciary duty under ERISA § 404(a)(1)(D)). Closing the circle, the IMA’s dispute
+
+resolution provision – i.e., its arbitration clause – is precisely the kind of
+
+contractual term that constitutes part of an ERISA plan. Pegram v. Herdrich, 530
+
+U.S. 211, 223 (2000) (“Rules governing collection of premiums, definition of
+
+benefits, submission of claims, and resolution of disagreements over entitlement to
+
+services are the sorts of provisions that constitute a plan.”) (emphasis added).
+
+      Therefore, the arbitration agreement that the Trustees seek to enforce is not
+
+some separate instrument governed by an entirely different body of state
+
+contract law, but rather is an integral part of the documents governing the Plan
+
+and is governed by ERISA. Smith v. Bd. of Directors of Triad Mfg., Inc., 13 F.4th 613,
+
+618 (7th Cir. 2021) (concluding that, because “interpretation of language in a plan
+
+governed by ERISA is controlled by federal common law,” interpretation of an
+
+arbitration agreement within a plan is also governed by federal common law)
+
+(internal quotation marks omitted). Moreover, ERISA imposed a fiduciary
+
+obligation upon White Oak to comply with the IMA’s arbitration term and the
+
+FAA review for which it provided.
+
+
+
+
+                                           40
+              2.     ERISA Express Preemption
+
+       Not only does the federal common law of ERISA govern the IMA, but it
+
+also preempts any state laws that purport to do so. Congress enacted ERISA to
+
+“protect . . . the interests of [plan participants and beneficiaries] . . . by
+
+establishing standards of conduct, responsibility, and obligation for fiduciaries
+
+. . . , and by providing for . . . ready access to the Federal courts.” 29 U.S.C.
+
+§ 1001(b). In line with that intent to create a “uniform regulatory regime over
+
+employee benefit plans” and “ensure that employee benefit plan regulation
+
+would be exclusively a federal concern,” Aetna Health Inc. v. Davila, 542 U.S. 200,
+
+208 (2004) (internal quotation marks omitted), Congress included a sweeping
+
+express preemption provision declaring that ERISA “shall supersede any and all
+
+State laws . . . [that] relate to any employee benefit plan,” 29 U.S.C. § 1144(a).
+
+       Recognizing that the text of this provision “is so expansive . . . as to afford
+
+no meaningful limitation,” the federal courts have developed several tests that
+
+give content to the scope of ERISA preemption. Stevenson v. Bank of New York Co.,
+
+609 F.3d 56, 59 (2d Cir. 2010). The Supreme Court has instructed that “a state law
+
+relates to an ERISA plan if it has a connection with or reference to such a plan.”
+
+Egelhoff v. Egelhoff ex rel. Breiner, 532 U.S. 141, 147 (2001) (internal quotation marks
+
+omitted). “A law refers to ERISA if it acts immediately and exclusively upon
+
+
+                                            41
+ERISA plans or where the existence of ERISA plans is essential to the law’s
+
+operation.” Rutledge v. Pharm. Care Mgmt. Ass'n, 592 U.S. 80, 88 (2020) (internal
+
+quotation marks omitted).7 Meanwhile, a state law has an “impermissible
+
+connection with an ERISA plan” if it “governs a central matter of plan
+
+administration or interferes with nationally uniform plan administration,” id. at
+
+87 (internal quotation marks omitted), or “provid[es] alternative enforcement
+
+mechanisms” to ERISA, Liberty Mut. Ins. Co. v. Donegan, 746 F.3d 497, 506 (2d Cir.
+
+2014) (internal quotation marks omitted), aff’d sub nom. Gobeille v. Liberty Mut. Ins.
+
+Co., 577 U.S. 312 (2016).
+
+      The touchstone of the preemption analysis is congressional intent, as
+
+guided by two presumptions. Gerosa v. Savasta & Co., 329 F.3d 317, 323 (2d Cir.
+
+2003) (internal quotation marks omitted). First, we begin with the baseline
+
+presumption that ordinarily, “Congress does not intend to supplant state law.”
+
+Id. (internal quotation marks omitted). Second, however, ERISA typically does
+
+preempt state laws that “control or supersede central ERISA functions” or “affect
+
+the relationships among the core ERISA entities: beneficiaries, participants,
+
+administrators, employers, trustees and other fiduciaries.” Stevenson, 609 F.3d at
+
+      7
+       Because state contract laws enforcing arbitration agreements and awards
+apply generally to all manner of parties and do not depend on the existence of an
+ERISA plan, such laws do not “relate to” ERISA.
+
+                                          42
+59 (internal quotation marks omitted); see also Donegan, 746 F.3d at 507 (The
+
+Supreme Court has “reiterate[d] that ‘ERISA is expressly concerned’ with
+
+‘reporting, disclosure, fiduciary responsibility, and the like.’”), quoting California
+
+Div. of Labor Standards Enforcement v. Dillingham Construction, 519 U.S. 316, 330
+
+(1997). State laws that do not touch on these concerns will generally evade
+
+preemption.
+
+      Given these principles, we have no trouble concluding that ERISA
+
+preempts state law as to the enforcement of arbitration agreements between core
+
+ERISA entities contained within plan documents or terms. As applied here, the
+
+Trustees are named fiduciaries to the Plan as provided in the Plan’s establishing
+
+instrument, and are therefore “core ERISA entities.” Stevenson, 609 F.3d at 59
+
+(internal quotation marks omitted); see 29 U.S.C. § 1102(a)(1) (“Every
+
+employment benefit plan shall be established and maintained pursuant to a
+
+written instrument” that “provide[s] for one or more named fiduciaries.”). The
+
+same is true of White Oak, which assumed a co-fiduciary role as the Plan’s
+
+investment manager pursuant to the IMA. ERISA contains numerous provisions
+
+defining the role of investment managers as fiduciaries and “was deliberately
+
+structured so that legal responsibility for management of ERISA plans would be
+
+
+
+
+                                          43
+clearly located.” Lowen v. Tower Asset Mgmt., Inc., 829 F.2d 1209, 1218 (2d Cir.
+
+1987); see also 29 U.S.C. §§ 1002(38), 1102(c)(3).
+
+      Likewise, the fiduciary duties created by the IMA touch upon one of the
+
+“primary concern[s]” of Congress in enacting ERISA, namely the
+
+“mismanagement of funds accumulated to finance employee benefits.” California
+
+Div. of Labor Standards Enforcement, 519 U.S. at 326–27 (internal quotation marks
+
+omitted); see also Donegan, 746 F.3d at 508 (“ERISA preempts state laws dealing
+
+with the subject matters covered by ERISA—reporting, disclosure, fiduciary
+
+responsibility, and the like.”) (internal quotation marks and emphasis omitted).
+
+      Moreover, where the plan documents or terms provide for a process by
+
+which fiduciary duty disputes shall be resolved, we think it obvious that such
+
+dispute resolution provisions involve the “actual administration” of a plan. See
+
+Herdrich, 530 U.S. at 223 (noting that dispute resolution rules “are the sorts of
+
+provisions that constitute a plan.”); cf. Stevenson, 609 F.3d at 61 (concluding that
+
+contract and promissory estoppel claims were not preempted because they
+
+derived from a separate promise and did not allege breach of a “fiduciary duty or
+
+plan provision.”).
+
+
+
+
+                                           44
+      We emphasize that “a contractual agreement to arbitrate . . . does not
+
+constitute a ‘State law’” subject to ERISA preemption, Rush Prudential HMO, Inc.
+
+v. Moran, 536 U.S. 355, 395 (2002) (Thomas, J., dissenting), such that ERISA claims
+
+are not generally arbitrable. Nor do we suggest that federal jurisdiction arises
+
+over an arbitral award merely because it resolves ERISA claims – as Badgerow
+
+instructs, those underlying disputes cannot be the basis for federal question
+
+jurisdiction. 596 U.S. at 9. Rather, we hold only that ERISA forbids states from
+
+applying laws inconsistent with ERISA when enforcing an arbitral agreement
+
+contained within an ERISA plan document or term. Rush Prudential, 536 at 381–82
+
+(noting that a state cannot “impos[e] an alternative scheme of arbitral
+
+adjudication at odds with the manifest congressional purpose to confine
+
+adjudication of disputes to the courts”).
+
+      In short, this case presents two ERISA fiduciaries, disputing the
+
+enforcement of a contractual provision – the agreement to arbitrate – governed
+
+by ERISA common law and whose performance is an ERISA fiduciary duty.8
+
+      8
+        For the reasons set forth above, we find the present case distinguishable
+from Hursh v. DST Systems, Inc., in which the Eighth Circuit concluded that it
+lacked federal question jurisdiction to confirm the petitioners’ arbitration awards
+resolving their underlying ERISA claims. 54 F.4th 561 (8th Cir. 2022). There, the
+petitioners’ “sought relief under” an arbitration agreement that was “a part of
+their employment contracts [and] that specifically exclude[d] claims for ‘ERISA-
+related benefits’ under [their employer’s] plan.” Id. at 564 (emphasis added). The
+
+                                            45
+      However, ERISA express preemption, and its displacement of state
+
+contract law with federal common law, does not create “arising under”
+
+jurisdiction. Wurtz v. Rawlings Co., LLC, 761 F.3d 232, 238 (2d Cir. 2014).9 A
+
+federal express preemption defense to a state law claim must be raised in and
+
+decided by the state courts. Caterpillar Inc. v. Williams, 482 U.S. 386, 392–93 (1987).
+
+Furthermore, the Supreme Court has repeatedly emphasized that ERISA’s
+
+“carefully crafted and detailed enforcement scheme” demands that the statute’s
+
+express remedies should remain exclusive. Great–West Life & Annuity Insurance
+
+Co. v. Knudson, 534 U.S. 204, 209–10 (2002) (internal quotation marks omitted).
+
+Thus, “we are not free to fill in unwritten gaps in ERISA’s civil remedies by
+
+reading into the statute additional [implied] causes of action derived from
+
+federal common law.” Cent. States, Se. & Sw. Areas Health & Welfare Fund v. Gerber
+
+Life Ins. Co., 771 F.3d 150, 154 (2d Cir. 2014), citing Great–West, 534 U.S. at 209–10.
+
+state contract law governing the arbitration agreements therefore was “not state
+contract law that ‘relates’” to the ERISA Plan, as, under the Eighth Circuit’s
+precedents, “ERISA preemption [does not] apply to the resolution of contractual
+disputes between an employer and a single, salaried employee.” Id. at 564–65. By
+contrast, the present dispute is between two ERISA co-fiduciaries whose
+arbitration agreement arises from an ERISA-governed contract.
+       9
+         As explained further below, ERISA’s enforcement provisions create a
+second form of preemption – complete preemption – that “wholly displaces
+[certain] state-law cause[s] of action.” Davila, 542 U.S. at 207 (internal quotation
+marks omitted). In contrast to express preemption, ERISA “complete preemption
+can be the basis for federal subject-matter jurisdiction.” Wurtz, 761 F.3d at 238.
+
+                                          46
+      Therefore, for jurisdiction to be proper, the petition to confirm must state a
+
+cause of action contained within ERISA or another federal statute. For the
+
+reasons explained below, we conclude that ERISA § 502(a)(3) contemplates
+
+enforcement of a petition to confirm an arbitral award in the circumstances
+
+before us here.10 Although we cannot supplement the remedies available under
+
+ERISA by creating new causes of action, we must give effect to the full scope of
+
+ERISA’s existing remedies. Sereboff v. Mid Atlantic Medical Servs., Inc., 547 U.S.
+
+356, 368–69 (2006) (concluding that plaintiff’s claim could proceed even though
+
+ERISA does not authorize a “freestanding action for equitable subrogation,” as
+
+§ 502(a)(3)’s provision for “equitable relief” encompasses an “action to enforce an
+
+equitable lien established by agreement.”).
+
+      C.     The Agreement May be Enforced as an ERISA § 502(a)(3) Claim.
+
+      ERISA § 502(a)(3) authorizes a civil action by a plan “participant,
+
+beneficiary, or fiduciary (A) to enjoin any act or practice which violates any
+
+provision of this subchapter or the terms of the plan, or (B) to obtain other
+
+appropriate equitable relief (i) to redress such violations or (ii) to enforce any
+
+      10
+         Because we locate federal jurisdiction on the narrower grounds
+advanced by the district court, we do not reach its broader theory that federal
+question jurisdiction lies over any FAA § 9-11 petition seeking to enforce an
+arbitration agreement whose contractual rights are “governed exclusively by
+federal law.” White Oak II, 2022 WL 2209349, at *5.
+
+                                          47
+provisions of this subchapter or the terms of the plan.” 29 U.S.C. § 1132(a)(3).
+
+ERISA § 502(e)(1) further provides that the federal courts “shall have exclusive
+
+jurisdiction of civil actions . . . brought by . . . a participant, beneficiary, or
+
+fiduciary” under § 502(a)(3). 29 U.S.C. § 1132(e)(1).
+
+       As discussed above, the IMA is one of the “terms” and “documents”
+
+governing the plan, and thereby imposed a fiduciary duty upon White Oak to act
+
+in accordance with its provisions. Dardaganis, 889 F.2d at 1240–43.11 We therefore
+
+think it obvious that the Trustees’ petition to confirm is an action to “enforce any
+
+provisions of [ERISA] or the terms of the plan.” 29 U.S.C. § 1132(a)(3).12 ERISA
+
+expressly contemplates the enforcement of contracts – it “provides for equitable
+
+remedies to enforce plan terms, so the fact that the action involves a breach of
+
+       11
+           We note that enforcement of the IMA’s arbitration clause might therefore
+also be cognizable under ERISA § 502(a)(2), which permits an action by “a
+participant, beneficiary or fiduciary for appropriate relief under section 1109.”
+Section 1109, in turn, provides that a fiduciary who “breaches any of the
+responsibilities, obligations, or duties imposed upon fiduciaries . . . shall be
+personally liable [for] . . . any losses to the plan resulting from each such breach
+. . . and such other equitable or remedial relief as the court may deem
+appropriate.” 29 U.S.C. § 1109(a).
+        12
+           Although the district court did not address this issue, it is a necessary
+element of a § 502(a)(3) action. Section 502(a)(3) “does not, after all, authorize
+‘appropriate equitable relief’ at large, but only ‘appropriate equitable relief’ for
+the purpose of ‘redress[ing any] violations or . . . enforc[ing] any provisions’ of
+ERISA or an ERISA plan.” Mertens v. Hewitt Associates, 508 U.S. 248, 253 (1993)
+(alterations in original and emphasis omitted), quoting 29 U.S.C. § 1132(a)(3).
+Nonetheless, the Trustees’ petition satisfies this element.
+
+                                            48
+contract can hardly be enough to prove” that the action falls outside of the scope
+
+of § 502(a)(3). Sereboff, 547 U.S. at 363 (emphasis in original). As we have
+
+recognized, “pursuant to Section 502(a)(3), a ‘participant, beneficiary, or
+
+fiduciary’ of the plan may bring a civil action to . . . bring fiduciaries into
+
+compliance with the governing plan documents.” Massaro v. Palladino, 19 F.4th
+
+197, 209 (2d Cir. 2021). Thus, where the arbitration agreement is contained within
+
+“a document[] . . . governing the plan” or constitutes a “term[] of the plan,”
+
+ERISA § 502(a)(3) provides a cause of action to enforce an award arising from
+
+that agreement so long as the petition satisfies the other limitations on § 502(a)(3)
+
+actions. 29 U.S.C. §§ 1104(a)(1)(D), 1132(a)(3).
+
+      The case law arising under the Labor Management Relations Act
+
+(“LMRA”) further strengthens our conclusion that ERISA confers a cause of
+
+action and jurisdiction to enforce certain arbitration agreements. Section 301 of
+
+the LMRA provides jurisdiction over “[s]uits for violation of contracts between
+
+an employer and a labor organization,” 29 U.S.C. § 185(a), and it is well
+
+established that this provision authorizes courts to enforce or vacate labor
+
+arbitration awards. See Textile Workers Union of America v. Lincoln Mills of Alabama,
+
+353 U.S. 448, 450–51 (1957) (holding that the LMRA grants broad authority to
+
+
+
+
+                                           49
+enforce arbitration agreements). As the Sixth Circuit has explained after
+
+Badgerow, “refusal to comply with a labor-arbitration award is itself a contract
+
+violation over which the LMRA grants jurisdiction,” and thus a petition to
+
+confirm or vacate a labor-arbitration award possesses an “independent basis for
+
+jurisdiction that’s clear” on the face of the petition. Greenhouse Holdings, LLC v.
+
+Int'l Union of Painters & Allied Trades Dist. Council 91, 43 F.4th 628, 631 (6th Cir.
+
+2022). The same logic holds true for ERISA § 502(a)(3), which authorizes suits to
+
+enforce plan terms or documents – i.e., contracts. Where the arbitration
+
+agreement is a plan term or contained in a plan document, refusal to comply
+
+with a resulting award is a contractual violation redressable under ERISA.13
+
+      Moreover, it is well settled that the Trustees are “fiduciaries,” as that term
+
+is used in § 502, who are authorized to bring claims under the ERISA provisions
+
+permitting civil actions by fiduciaries. Montanile v. Board of Trustees of Nat.
+
+
+      13
+         We emphasize that, while we now hold that ERISA permits enforcement
+of certain arbitral awards, ERISA does not create a different standard for
+enforcement or vacatur of an award than that provided for by the FAA. 29 U.S.C.
+§ 1144(d) (ERISA shall not “be construed to alter . . . or supersede any law of the
+United States.”). ERISA merely requires enforcement of the contract according to
+its terms, and by including an arbitration agreement within their contract, the
+parties to the agreement have “agree[d] that a federal court would have authority
+to confirm the award under the standards provided in the FAA” and thus
+“effectively incorporated FAA review into their contract.” Zurich American
+Insurance Co. v. Team Tankers A.S., 811 F.3d 584, 590 (2d Cir. 2016).
+
+                                           50
+Elevator Indus. Health Benefit Plan, 577 U.S. 136, 142, (2016); see also Lowen, 829 F.2d
+
+at 1212 (concluding that ERISA § 502(e)(1) provided subject matter jurisdiction
+
+over action by trustees against investment manager for violations of fiduciary
+
+duty). Thus, as the district court correctly determined, whether the Trustees’
+
+petition states an ERISA § 502(a)(3) claim turns primarily on whether it seeks
+
+relief that can be understood as “equitable.” White Oak II, 2022 WL 2209349, at *6.
+
+             1.     The Plan Seeks Equitable Relief.
+
+      As the Supreme Court has explained, “equitable relief in § 502(a)(3) is
+
+limited to those categories of relief that were typically available in equity during
+
+the days of the divided bench.” Montanile, 577 U.S. at 142 (internal quotation
+
+marks and emphasis omitted). Here, the Trustees’ petition was brought against a
+
+co-fiduciary to the Plan, and sought the “disgorgement” of management fees,
+
+return of the Plan’s assets held by White Oak, and “[r]emoval of White Oak as
+
+the plan’s fiduciary and investment manager.” App’x 25. Removal of a fiduciary
+
+– like removal of a trustee – is a quintessential form of equitable relief.
+
+Restatement (Second) of Trusts § 199 (the beneficiary of a trust can maintain a
+
+suit for equitable relief to remove the trustee).
+
+      The claims for disgorgement are likewise equitable, regardless of the fact
+
+that the Trustees have alleged a breach of contract (the IMA’s arbitration clause)
+
+
+                                          51
+and seek monetary recovery thereunder. “ERISA provides for equitable remedies
+
+to enforce plan terms, so the fact that the action involves a breach of contract can
+
+hardly be enough to prove relief is not equitable.” Sereboff, 547 U.S. at 363
+
+(emphasis in original). Rather, whether relief “is legal or equitable depends on (1)
+
+the basis for the plaintiff’s claim and (2) the nature of the underlying remedies
+
+sought.” Id. (internal alterations adopted and quotation marks omitted).
+
+      The Supreme Court’s holding in CIGNA Corp. v. Amara decisively answers
+
+these questions in favor of the Trustees. 563 U.S. 421 (2011). In that case, the
+
+Court addressed an attempt by plan beneficiaries to enforce a summary plan
+
+description issued by the plan. Id. at 438. The Court concluded that such a
+
+document did not “constitute the terms of the plan” that could be enforced under
+
+ERISA § 502(a)(1)(b) (authorizing suits by a “participant or beneficiary . . . to
+
+recover benefits due to him under the terms of his plan”). Id. (emphasis omitted).
+
+Nonetheless, the document could be enforced by an action for equitable relief
+
+under § 502(a)(3). Id. at 442.
+
+      The Court began by taking great pains to distinguish claims of fiduciary
+
+breach against plan fiduciaries from its prior decisions, which had imposed
+
+
+
+
+                                          52
+certain limits on claims brought against non-fiduciaries14 or plan beneficiaries.15
+
+Id. at 439. Because the plaintiffs in Amara brought suit “against a plan fiduciary
+
+(whom ERISA typically treats as a trustee) about the terms of a plan (which
+
+ERISA typically treats as a trust),” the Court readily concluded that the basis of
+
+the claim was equitable. Id. As the Court explained, that “kind of lawsuit . . .
+
+could have [been] brought only in a court of equity, not a court of law.” Id., citing
+
+4 A. Scott, W. Fratcher, & M. Ascher, Trusts § 24.1, p. 1654 (5th ed. 2007) (“Trusts
+
+are, and always have been, the bailiwick of the courts of equity.”).
+
+      Moreover, the nature of the relief entered by the district court “closely
+
+resemble[d] . . . other traditional equitable remedies.” Id. at 440. Although the
+
+district court ordered the fiduciary to pay money owed due to a breach of its
+
+fiduciary duties, “the fact that this relief takes the form of a money payment does
+
+not remove it from the category of traditionally equitable relief,” as “[e]quity
+
+      14
+          Mertens involved “a claim seeking money damages brought by a
+beneficiary against a private firm that provided a trustee with actuarial services.”
+Amara, 563 U.S. at 439. That claim “sought ‘nothing other than compensatory
+damages’ against a nonfiduciary,” which “traditionally speaking, was legal, not
+equitable.” Id., quoting Mertens, 508 U.S. at 253, 255.
+       15
+          “In Great–West, [the Court] considered a claim brought by a fiduciary
+against a tort-award-winning beneficiary seeking monetary reimbursement.”
+Amara, 563 U.S. at 439, citing Great–West, 534 U.S. at 213. That claim – one for “a
+lien or a constructive trust” – “traditionally speaking . . . was legal relief, not
+equitable relief, unless the funds in question were ‘particular funds or property
+in the defendant’s possession.’” Id., quoting Great–West, 534 U.S. at 213.
+
+                                         53
+courts possessed the power to provide relief in the form of monetary
+
+‘compensation’ for a loss resulting from a trustee’s breach of duty, or to prevent
+
+the trustee’s unjust enrichment.” Id. at 441, citing Restatement (Third) of Trusts
+
+§ 95. “Indeed, prior to the merger of law and equity this kind of monetary
+
+remedy against a trustee, sometimes called a ‘surcharge,’ was ‘exclusively
+
+equitable’” and “extended to a breach of trust committed by a fiduciary
+
+encompassing any violation of a duty imposed upon that fiduciary.” Id. at 442.
+
+Thus, the “make-whole relief” sought by the plaintiffs was equitable, regardless
+
+of whether the relief satisfied the asset-tracing requirements discussed in
+
+Mertens. Id., citing Mertens v. Hewitt Associates, 508 U.S. 238, 262–63 (1993).
+
+      We see no persuasive basis to distinguish the present case from Amara. As
+
+in Amara, the Trustees seek to enforce an ERISA fiduciary’s obligations to the
+
+Plan, namely White Oak’s obligation to act “in accordance with the documents
+
+and instruments governing the plan,” which include the IMA and its arbitration
+
+clause. 29 U.S.C. § 1104(a)(1)(D). Likewise, the monetary compensation sought by
+
+the Trustees stems from White Oak’s breach of that ERISA fiduciary duty. Amara,
+
+563 U.S. at 442 (equitable remedy of surcharge extends to “any violation of a duty
+
+imposed upon that fiduciary.”). Accordingly, we readily conclude that the
+
+
+
+
+                                          54
+Trustees seek equitable relief and that the limitations on monetary remedies
+
+announced by Great-West and Mertens are inapplicable to the present
+
+circumstances.16
+
+       We find further support for our conclusion in Harris Trust & Savings Bank
+
+v. Salomon Smith Barney, Inc, 530 U.S. 238, 250 (2000). In that case, the Court
+
+considered an ERISA § 502(a)(3) claim brought by a plan’s trustees, seeking
+
+recovery of the plan’s property from a non-fiduciary third party who took
+
+possession of that property subject to a breach of fiduciary duty by the plan’s
+
+investment manager. The Court determined that the suit for “restitution of the
+
+[plan’s] property . . . or disgorgement of proceeds” both sought equitable relief
+
+and was permitted by the language of ERISA § 502(a)(3), even though the statute
+
+did not specify whether non-fiduciaries who participated in a breach of duty
+
+
+       16
+         The primary difference between the cases is that the petitioners in this
+case are the Plan’s Trustees, rather than its beneficiaries as in Amara. However,
+that fact is of little import. Amara itself instructs that the identity of the defendant as
+“analogous to a trustee” – i.e., an ERISA fiduciary – is what makes the case
+equitable “insofar as an award of make-whole relief is concerned.” 563 U.S. at
+442. Further, not only does ERISA itself contemplate that a § 503(a)(3) suit may be
+brought by a “participant, beneficiary, or fiduciary,” 29 U.S.C. § 1132(a)(3)
+(emphasis added), but it is also an established principle of trust law that a co-
+trustee may bring a claim for equitable relief against another trustee for his
+breach of fiduciary duties. Restatement (Second) of Trusts § 200 cmt. e. When
+that co-trustee does so, it is not suing on its own behalf, but on behalf of the
+beneficiaries. Id.
+
+                                            55
+could be held liable. Id. at 250, 253. The logic of Harris Trust applies with even
+
+greater force to the circumstances here, where the Trustees seek disgorgement of
+
+plan assets directly from White Oak, which has retained those assets in violation
+
+of its fiduciary obligation under the arbitration agreement to comply with the
+
+Award’s clear order that it return the Plan’s assets. A fiduciary, even more so
+
+than a third-party non-fiduciary, may not retain trust property it possesses as a
+
+result of a fiduciary breach, see Restatement (Second) of Trusts §§ 170, 205, 206,
+
+and therefore an action seeking return of those assets from a breaching fiduciary
+
+is equitable in nature. Mertens, 508 U.S. at 260 (“[T]he ‘equitable relief’ awardable
+
+under § 502(a)(5) includes restitution of ill-gotten plan assets or profits.”).
+
+      Nor is our conclusion that the petition seeks equitable relief altered by the
+
+fact that the present dispute concerns an arbitration agreement. Again, the
+
+agreement is a “term[] of a plan” whose enforcement is sought by a party
+
+standing in the shoes of a beneficiary “against a plan fiduciary,” and suits to
+
+enforce a “[t]rust[] are, and always have been, the bailiwick of the courts of
+
+equity.” Amara, 563 U.S. at 440 (internal quotation marks omitted). Moreover,
+
+here, the Trustee’s petition seeks enforcement of an arbitral award that itself
+
+grants equitable relief. Such enforcement was typically available at equity. See 2
+
+
+
+
+                                          56
+Joseph Story, COMMENTARIES ON EQUITY JURISPRUDENCE § 1458 (4th ed. 1846)
+
+(“And Courts of Equity will, in proper cases, enforce a specific performance of an
+
+award, . . . if it is for the performance of any acts by the parties in specie, such as
+
+a conveyance of lands; and such a specific performance will be decreed, almost as
+
+if it were a matter of contract, instead of an award.”); 2 John Norton Pomeroy, A
+
+TREATISE ON EQUITABLE REMEDIES § 754 (1905) (“If [an award] directs acts to be
+
+done which, if stipulated for in a contract, would render such contract capable of
+
+enforcement, then the award itself may be specifically enforced.”).
+
+      In sum, we conclude that the petition to confirm the award satisfies all of
+
+the prerequisites to state a claim under ERISA § 502(a)(3). The Trustees are
+
+authorized to bring a claim under that provision; they seek to “enforce a[]
+
+provision of [subchapter I of ERISA] or the terms of the plan;” and they request
+
+relief that is equitable in nature. 29 U.S.C. § 1132(a)(3). Because ERISA provides
+
+exclusive jurisdiction to the federal courts over claims brought under § 502(a)(3),
+
+subject matter jurisdiction appears on the face of the petition.17
+
+      17
+         We are unmoved by White Oak’s contention that the Trustees’ petition
+did not properly plead federal jurisdiction. Where a plaintiff seeks to invoke
+federal jurisdiction, the critical determination is whether “a question of federal
+law appears on the face of a well-pleaded complaint,” not whether the complaint
+has invoked the correct federal statute. Franchise Tax Bd. of State of Cal. v. Constr.
+Laborers Vacation Tr. for S. California, 463 U.S. 1, 17 (1983); 5 Charles A. Wright &
+Arthur R. Miller, FEDERAL PRACTICE AND PROCEDURE § 1206, at 91 (2d ed. 1990)
+
+                                           57
+             2.    Any Purported State-Law Claim to Enforce This Obligation
+                   Would Be Completely Preempted by ERISA.
+
+      Indeed, even if the Trustees had styled their petition as a contract action
+
+controlled by state law, we would conclude that such a claim is completely
+
+preempted by ERISA and therefore gives rise to federal question jurisdiction.
+
+      Although a defendant may not ordinarily “remove a case to federal court
+
+unless the plaintiff’s complaint establishes that the case arises under federal
+
+law,” complete preemption permits removal where a federal statute “wholly
+
+displaces the state-law cause of action,” such that the claim, “even if pleaded in
+
+terms of state law, is in reality based on federal law.” Davila, 542 U.S. at 207–08
+
+(internal quotation marks and emphasis omitted). “In concluding that a claim is
+
+completely preempted, a federal court finds that Congress desired not just to
+
+provide a federal defense to a state law claim but also to replace the state law
+
+
+
+(“[A] court may sustain jurisdiction when an examination of the entire complaint
+reveals a proper basis for assuming jurisdiction other than one that has been
+improperly asserted.”). As noted above, see supra at 25, when the Trustees
+brought the petition, it pleaded jurisdiction according to this Circuit’s law.
+Although that “look-through” jurisdiction is no longer proper, we need not look
+beyond the petition to find jurisdiction in ERISA. The facts necessary for our
+exercise of jurisdiction here – namely that the trustees and White Oak are
+fiduciaries to the Plan, executed an ERISA § 3(38) investment management
+agreement by which White Oak assumed fiduciary duties, and rendered an
+arbitral award pursuant to that agreement – all appear on the face of the petition.
+App’x 20–21.
+
+                                         58
+claim with a federal law claim and thereby give the defendant the ability to seek
+
+adjudication of the claim in federal court.” Wurtz, 761 F.3d at 238 (internal
+
+quotation marks omitted). Thus, unlike express preemption, “complete
+
+preemption can be the basis for federal subject-matter jurisdiction.” Id.
+
+       As the Supreme Court has made clear, “the ERISA civil enforcement
+
+mechanism is one of those provisions with such ‘extraordinary pre-emptive
+
+power’ that . . . ‘causes of action within the scope of the civil enforcement
+
+provisions of [ERISA] § 502(a) are removable to federal court’” under the
+
+complete preemption doctrine. Davila, 524 U.S. at 209 (alterations adopted),
+
+quoting Metropolitan Life Ins. Co. v. Taylor, 481 U.S. 58, 65–66 (1987). Davila
+
+established a two-part test to determine whether a claim falls “within the scope”
+
+of § 502(a). Id. at 210 (citation omitted). A claim falls “within the scope of the
+
+ERISA civil enforcement mechanism” if it is brought (1) by “an individual [who],
+
+at some point in time, could have brought his claim under ERISA § 502(a)[],” and
+
+(2) “there is no other independent legal duty that is implicated by a defendant’s
+
+actions.” Id.18
+
+
+       18
+         Although Davila announced a complete preemption test under ERISA
+§ 502(a)(1)(B), the Court’s reasoning makes clear that a claim that falls within any
+of the “civil enforcement provisions of § 502(a)” is completely preempted by
+ERISA’s causes of action. Davila, 542 U.S. at 209.
+
+                                          59
+      As discussed above, the first prong of Davila is easily satisfied. The
+
+Trustees are a party authorized to sue under § 502(a)(3), and the petition to
+
+enforce the arbitration agreement, through confirmation of the award, is an
+
+action to enforce a plan term or document. For the same reason, “no other
+
+independent legal duty” is implicated by the petition. Id. White Oak’s obligation
+
+to arbitrate and to comply with any resulting award was “expressly required by
+
+the terms [and documents] of the Plan itself” and therefore “[do] not create a
+
+sufficiently independent duty under Davila.” Montefiore Med. Ctr. v. Teamsters Loc.
+
+272, 642 F.3d 321, 332 (2d Cir. 2011) (emphases omitted). In other words, the
+
+petition does not seek to enforce “an agreement separate and independent from
+
+the pension plan.” Arditi v. Lighthouse Int'l, 676 F.3d 294, 300 (2d Cir. 2012), as
+
+amended (Mar. 9, 2012). Instead, the agreement is part of the plan terms and
+
+documents.
+
+      Accordingly, we agree with the district court that it possessed jurisdiction
+
+to confirm the award. The petition is cognizable as an ERISA § 502(a)(3) action,
+
+and any action to enforce the agreement asserting a state-law breach-of-contract
+
+claim would have been completely preempted by ERISA.
+
+
+
+
+                                          60
+II.    The District Court Did Not Exceed Its Authority in Confirming the
+       Arbitral Award as to Pre-Award Interest and the “Day One” Fees, But
+       Erred in Confirming the Award as to “Profits.”
+
+       Satisfied of our jurisdiction, we turn to the merits. On appeal, White Oak
+
+does not challenge the Award’s factual findings or legal conclusions, and
+
+concedes that the Award may not be vacated on any such basis. Instead, White
+
+Oak argues that the district court exceeded its confirmation authority by entering
+
+judgment in favor of the Trustees on (1) prejudgment interest on the
+
+disgorgement of its assets, (2) the return of the “Day One fees,” and (3) “profits.”
+
+According to White Oak, the PFA and FA denied the Trustees’ demand for those
+
+three items of relief, and therefore the court’s contrary interpretation of the
+
+Award was erroneous. Alternatively, White Oak contends that the Award is
+
+ambiguous as to whether it granted such relief and should be remanded to the
+
+arbitrator for clarification.
+
+       A.     Governing Law and Standard of Review
+
+       It is well settled that a court “should not attempt to enforce an award that
+
+is ambiguous or indefinite,” and should instead remand “[a]n ambiguous award
+
+. . . to the arbitrators so that the court will know exactly what it is being asked to
+
+enforce.” Americas Ins. Co. v. Seagull Compania Naviera, S.A., 774 F.2d 64, 67 (2d
+
+Cir. 1985). Nonetheless, a party cannot create an ambiguity by simply pointing to
+
+
+                                          61
+imprecise language or its alternative interpretation of the award – the award
+
+must actually be “susceptible to multiple meanings.” Gen. Re Life Corp. v. Lincoln
+
+Nat'l Life Ins. Co., 909 F.3d 544, 549 (2d Cir. 2018).19
+
+      In determining whether an award is ambiguous, courts are not confined to
+
+the award’s text. “[A]n ambiguity in the award . . . may be shown not only from
+
+the face of the award but [also] from an extraneous but objectively ascertainable
+
+fact.” Hyle v. Doctor's Assocs., Inc., 198 F.3d 368, 371 (2d Cir. 1999) (internal
+
+quotation marks omitted) (finding that award, though facially clear, was
+
+ambiguous because the arbitration record created an ambiguity as to which of
+
+the respondents was liable for the award’s ordered relief). Conversely, a court
+
+may enforce a seemingly ambiguous award if the award’s meaning is clearly
+
+resolved by the record. See Nano Gas Techs., Inc. v. Roe, 31 F.4th 1028, 1031 (7th
+
+Cir. 2022) (“[W]e must enforce the award as written and if possible, resolve
+
+apparent ambiguities by examining the arbitrator’s opinion and the record.”)
+
+      19
+         For example, we have found sufficient ambiguity where the award
+“seem[ed] contradictory on its face;” “failed to deal explicitly with the
+contingency which arose;” “did not clearly indicate the identity of the party
+against whom the arbitrator ordered relief;” “gave no indication whether
+plaintiff would be awarded or denied the additional compensation sought;” or
+used terms subject to multiple interpretations without further explanation or
+definition. Gen. Re Life Corp. v. Lincoln Nat'l Life Ins. Co., 273 F. Supp. 3d 307,
+320–21 (D. Conn. 2017) (internal quotation marks omitted) (collecting cases), aff'd,
+909 F.3d 544 (2d Cir. 2018).
+
+                                            62
+(internal quotation marks omitted); Ganey v. Raffone, Nos. 94-6298, 94-6300, 1996
+
+WL 382278, at *2 (6th Cir. 1996) (“[I]t is well-settled that a district court may not
+
+interpret an ambiguous arbitration award unless the ambiguity can be resolved
+
+from the record.”).
+
+      We “review the District Court’s findings of fact relating to its confirmation
+
+of the arbitration award for clear error and its resolution of questions of law de
+
+novo.” Trina Solar US, Inc. v. Jasmin Solar Pty Ltd., 954 F.3d 567, 570 (2d Cir. 2020).
+
+Interpretation of the text of an arbitration award “is, like the interpretation of a
+
+contract, primarily a question of law.” Am. Postal Workers Union v. U.S. Postal
+
+Serv., 550 F.3d 27, 30 (D.C. Cir. 2008). The district court’s interpretation of the
+
+arbitral record, and any findings drawn therefrom that guided the court’s
+
+reading of the award, are findings of fact reviewed for clear error. See U.S. Titan,
+
+Inc. v. Guangzhou Zhen Hua Shipping Co., 241 F.3d 135, 145 (2d Cir. 2001) (“[T]he
+
+‘clearly erroneous’ standard of review controls our consideration of the factual
+
+findings of the district court even though based upon a documentary record.”).
+
+      B.     Award of Prejudgment Interest
+
+      The PFA states that White Oak must disgorge, among other items, the
+
+“NAV [net asset value] of [the Plan’s] investments,” S.App’x 37, and, in a
+
+
+
+
+                                          63
+subsequent paragraph, provides that, “[a]s to the awarding of prejudgment
+
+interest, it shall be set at the New York State nine percent (9%) rate,” id. at 39.
+
+Meanwhile, the FA expressly “incorporated” the PFA, id. at 50, other than in
+
+“certain areas . . . that have been modified to update the award,” id. at 48. In its
+
+decretal language, the FA then states that “WHITE OAK shall disgorge the NAV
+
+of the Plan . . . as of [the] date of this FINAL AWARD. Disgorgement, including
+
+interest, shall take place no later than 30 calendar days after the issuance of this
+
+Award.” Id. at 50. The FA also awarded attorneys’ fees but provided that “[n]o
+
+interest shall be paid with respect to attorneys’ fees and costs.” Id. Finally, the FA
+
+decreed that “PRE-JUDGMENT INTEREST is awarded at the New York statutory
+
+rate of 9%.” Id. at 51.
+
+       The district court concluded that the Award unambiguously granted pre-
+
+award interest on the disgorgement of the Plan’s assets, beginning from the date
+
+of breach, September 18, 2018.20 On appeal, White Oak claims that, although the
+
+       20
+         Although the court’s original judgment provided for pre-award interest,
+it did not specify that pre-award interest would run from the date of breach and
+apply to the disgorgement of assets. The court later corrected its judgment to that
+effect under Fed. R. Civ. P. 60(a). White Oak claims that the district court’s
+clarification exceeded the scope of the court’s authority under Rule 60(a). That
+contention is meritless. We have repeatedly concluded that a district court may
+correct its judgment under Rule 60(a) to account for prejudgment interest and to
+specify a date of accrual even where the judgment originally did not provide for
+interest at all, so long as the record is clear that the court intended to award
+
+                                          64
+Award granted prejudgment interest, the Award is nonetheless ambiguous as to
+
+the date from which that interest should run and whether it applies to the
+
+disgorgement of assets. We agree with the district court that the Award granted
+
+prejudgment interest on the Plan’s assets that began to accrue on September 18,
+
+2018, the date of the IMA’s termination, and therefore AFFIRM the judgment in
+
+that respect.
+
+                1.   The Award Granted Interest on the Disgorgement of Assets.
+
+      The text of the FA is clear. The FA ordered White Oak to “disgorge the
+
+NAV of the Plan[‘s assets], . . . including interest.” S.App’x 50. The FA then
+
+awarded prejudgment interest and set it at a rate of 9%. [Id.] It is difficult to
+
+understand how this language could mean anything other than that prejudgment
+
+interest applies to the disgorgement of assets. Indeed, the FA explicitly forbade
+
+the Trustees from collecting interest on their attorneys’ fees, which is clear
+
+evidence that the arbitrator both knew how to exclude portions of the award
+
+
+
+interest at the time of judgment. See Dudley ex rel. Est. of Patton v. Penn-Am. Ins.
+Co., 313 F.3d 662, 666 (2d Cir. 2002) (concluding that the district court did not err
+in correcting its judgment to include prejudgment interest under Rule 60(a), even
+though the judgment did not originally provide for interest whatsoever, where it
+was clear from the record that the court intended to award interest); Robert Lewis
+Rosen Assocs., Ltd. v. Webb, 473 F.3d 498, 504 (2d Cir. 2007) (similar). Here, the
+district court undoubtedly intended to award prejudgment interest, as such
+interest was embodied in the original judgment.
+
+                                          65
+from prejudgment interest and carefully considered which items to exclude from
+
+the award of interest. See Russello v. United States, 464 U.S. 16, 23 (1983) (Where a
+
+drafter “includes particular language in one section . . . but omits it in another
+
+section . . . it is generally presumed that [the drafter] acts intentionally and
+
+purposely in the disparate inclusion or exclusion.”). By contrast, the provision of
+
+the FA that requires disgorgement of assets not only lacks an express carve-out
+
+from interest, but also expressly directs White Oak to pay interest.
+
+      We further note that White Oak has adopted the position that the FA did
+
+not grant disgorgement of the “Day One” fees or White Oak’s profits and that
+
+White Oak never charged any carried interest fees and so none are owed. That
+
+reading of the Award would limit the Trustees’ relief solely to the disgorgement
+
+of the Plan’s assets and the attorneys’ fees and costs incurred during the
+
+arbitration, the latter of which are explicitly excluded from the interest award by
+
+the FA. White Oak’s view that the FA also silently excluded the disgorged assets
+
+from its award of prejudgment interest would therefore result in an absurdity –
+
+under that view, the FA provided for prejudgment interest, set a rate for that
+
+interest, and yet applied that interest to nothing. White Oak cannot render the
+
+clear terms of the Award ambiguous by offering an alternative interpretation that
+
+
+
+
+                                          66
+makes a significant item of its relief a nullity. See Duncan v. Walker, 533 U.S. 167,
+
+174 (2001) (Texts should be construed to prevent a “clause, sentence, or word”
+
+from being “superfluous, void, or insignificant.”) (internal quotation marks
+
+omitted); Int’l Multifoods Corp. v. Commercial Union Ins. Co., 309 F.3d 76, 86 (2d
+
+Cir. 2002) (“We disfavor contract interpretations that render provisions of a
+
+contract superfluous.”).
+
+      Nevertheless, White Oak argues that the FA’s reference to “including
+
+interest” is limited to the interest earned between the date of the award and the
+
+thirty-day deadline by which White Oak was required to disgorge the assets. We
+
+decline to inject this ambiguity into the text of the FA. White Oak’s proposed
+
+interpretation is definitionally post-judgment interest, as it accrues after the date
+
+of the Award. However, neither the PFA or the FA contain any reference to post-
+
+judgment interest, or any kind of interest other than prejudgment interest. It is
+
+inconceivable that the phrase “including interest” silently refers to a different
+
+form of interest, without any defined rate, than the sole form of interest provided
+
+for by the Award. See Zeiler v. Deitsch, 500 F.3d 157, 170 (2d Cir. 2007) (In
+
+confirming an arbitration award, “the judgment to be enforced encompasses the
+
+terms of the . . . award[,] and [a court] may not enlarge upon those terms.”).
+
+
+
+
+                                          67
+      Finally, White Oak argues that an award of prejudgment interest would
+
+contradict the FA’s statement that “White Oak should not be penalized for the
+
+Plan’s lack of action” after the termination of the IMA. S.App’x 49. However, we
+
+fail to see how that statement implies that prejudgment interest should not be
+
+assessed. Prejudgment interest is not a penalty but rather is intended “to ensure
+
+that an injured party is fully compensated for its loss.” Slupinski v. First Unum Life
+
+Ins. Co., 554 F.3d 38, 54 (2d Cir. 2009) (internal quotation marks omitted). As the
+
+Supreme Court has explained, “a monetary award does not fully compensate for
+
+an injury unless it includes an interest component.” Kansas v. Colorado, 533 U.S. 1,
+
+10 (2001).21 Nor did the arbitrator indicate in the Award, or anywhere else in the
+
+record, that she viewed prejudgment interest as a “penalty.” In fact, the opposite
+
+
+
+
+      21
+        White Oak contends that prejudgment interest would constitute a
+penalty in the circumstances of this case and result in a “windfall” to the Plan,
+because the Plan purportedly “was not deprived of its assets” and profited from
+White Oak’s continued management of the Feeder Funds. Appellant’s Br. 48.
+However, White Oak advanced these same arguments to the arbitrator, and the
+FA nonetheless awarded prejudgment interest. We decline to credit White Oak’s
+thinly disguised challenge to the merits of the Award’s grant of interest. A
+confirmation proceeding does not provide parties with a freewheeling
+opportunity to relitigate the merits of their dispute. On the contrary, the award
+“should be enforced . . . if there is a barely colorable justification for the outcome
+reached.” Banco de Seguros del Estado v. Mutual Marine Office, Inc., 344 F.3d 255,
+263 (2d Cir. 2003) (internal quotation marks omitted).
+
+                                          68
+is true – the arbitrator stated that prejudgment interest is a “routine[]”
+
+component of relief in ERISA cases. S.App’x 39.
+
+      Moreover, the FA’s statement that White Oak should not be “penalized”
+
+was clearly directed at White Oak’s collection of post-termination management
+
+fees. Id. at 49–50 (FA). By contrast, the FA affirmed the PFA’s finding that White
+
+Oak had violated its ERISA fiduciary duties by including exit provisions in the
+
+Feeder Funds and proposing an in-kind distribution, as those actions were
+
+contrary to the terms of the IMA, and therefore reiterated that White Oak must
+
+disgorge the Plan’s assets in the proper form. Id. at 50 (“The IMA makes clear
+
+that both sides contemplated a possible return of ‘cash’ within a 30-day period
+
+following a unilateral termination . . . and White Oak must find a way of meeting
+
+its contractual obligations.”); see also id. at 24–28 (PFA, determining that the exit
+
+conditions in the Feeder Fund documents and White Oak’s failure to return the
+
+Plan’s money that was “no longer in White Oak’s possession” violated the IMA).
+
+The Award effectuated its intent to not “penalize[]” White Oak, id. at 49, by
+
+permitting it to retain the post-termination management fees, and the Award
+
+contains no indication that this discussion extended to the exclusion of interest
+
+on a different item of relief for a distinct breach of fiduciary duty.
+
+
+
+
+                                          69
+      Given the unambiguous text of the Award and the clear intent of the
+
+arbitrator, we agree with the district court that prejudgment interest applies to
+
+the disgorgement of assets.
+
+             2.     The District Court Properly Entered Judgment for
+                    Prejudgment Interest to Accrue Beginning on September 18,
+                    2018.
+
+
+      Perhaps anticipating that the clear text of the Award demands
+
+prejudgment interest on the disgorgement of assets, White Oak advances the fall-
+
+back argument that the district court erred by ordering pre-award interest to
+
+accrue as of September 18, 2018, the date on which the IMA expired. In White
+
+Oak’s view, the Award is ambiguous because it failed to specify an interest
+
+accrual date, and therefore the district court lacked the authority to set that date
+
+during the confirmation proceeding.
+
+      However, we see no error in the court’s application of the ordinary rule
+
+that an award of interest runs “for the period between injury and judgment,”
+
+Jones & Laughlin Steel Corp. v. Pfeifer, 462 U.S. 523, 538 n.22 (1983). Here, White
+
+Oak breached various fiduciary duties upon the termination of the IMA, and
+
+therefore the termination date represents the date of injury.
+
+
+
+
+                                          70
+      White Oak responds by claiming that the arbitrator “did not find that
+
+White Oak [had] breached any duty in September 2018,” Appellant’s Br. at 46,
+
+and that interest running from that date would contradict the FA’s statement that
+
+“White Oak should not be penalized for the Plan’s lack of action in notifying
+
+[White Oak] that it had . . . some other means of handling its funds.” S.App’x 49.
+
+We reject those assertions. At most, the FA determined that White Oak’s
+
+continued retention of the Plan’s assets and collection of management fees was
+
+excusable. Critically, the FA did not alter the PFA’s conclusion that White Oak
+
+had breached its fiduciary duties and the IMA in several other respects. Id. at 46
+
+(FA, stating that “[t]he reasons governing the finding that [White Oak] must
+
+disgorge all assets, and some fees, and profits, are more fully set forth in the
+
+[PFA] and will not be repeated in the [FA].”). Most notably, the Award retained
+
+the finding that White Oak had breached its duties by including exit provisions
+
+in the Feeder Funds that were inconsistent with the IMA, which injured the
+
+Trustees by preventing them from extricating the Plan’s assets from White Oak’s
+
+control upon the IMA’s termination. Accordingly, the FA affirmed that White
+
+Oak had not returned the Plan’s property held by the Feeder Funds in the proper
+
+
+
+
+                                         71
+form required by the IMA. Thus, there is no question that the arbitrator found
+
+that the Plan was injured upon the IMA’s termination.
+
+      Nonetheless, we do not mean to suggest that a district court may, in every
+
+case, determine the interest accrual date by mechanically looking to the
+
+arbitrator’s determination of the date of injury or breach. White Oak’s challenge
+
+fails on the record before us. During the arbitration, the Plan consistently
+
+calculated the value of the disgorged assets by applying a prejudgment interest
+
+accrual date of September 30, 2018. White Oak’s briefing to the arbitrator likewise
+
+calculated interest from that same date, and while its submissions argued that
+
+interest should not be awarded because to do so would be unfair, White Oak
+
+never advanced an alternative accrual date. Indeed, White Oak’s failure to
+
+identify an alternative accrual date has persisted into the confirmation
+
+proceedings, as no such date has been offered to the district court below or to this
+
+Court on appeal.
+
+      White Oak’s refusal to identify an alternative date undermines its claim
+
+that the Award is ambiguous because the arbitrator did not expressly adopt the
+
+parties’ joint position that interest should begin in September 2018. See Dean v.
+
+Sullivan, 118 F.3d 1170, 1172 (7th Cir. 1997) (“A disputant cannot stand by during
+
+
+
+
+                                         72
+arbitration, withholding certain arguments, then, upon losing the arbitration,
+
+raise such arguments in federal court.”) (internal quotation marks omitted).
+
+White Oak’s speculation that the arbitrator adopted, sua sponte, a different
+
+accrual date not specified in the Award or in the parties’ briefing is just that –
+
+speculation – which is insufficient to raise an ambiguity that would justify
+
+remand.
+
+        A provision plainly cannot possess “multiple meanings” when there exists
+
+only a single option from which to draw. Cf. Gen. Re Life Corp., 909 F.3d at 549
+
+(award was ambiguous where its “language [was] susceptible to multiple
+
+meanings,” given that the parties and the arbitral panel each “offered a different
+
+interpretation of what the language at issue meant”). Here, the arbitrator was
+
+confronted with one accrual date – the date of the IMA’s termination – as were
+
+the district court and this Court. Accordingly, the district court did not err in
+
+determining that prejudgment interest should begin to accrue on September 18,
+
+2018.
+
+        C.    Disgorgement of Day One Fees
+
+        White Oak also contends that the district court erred in ordering the
+
+disgorgement of Day One fees, claiming that the Award permitted White Oak to
+
+
+
+
+                                          73
+retain those fees. However, White Oak’s argument primarily rests on the faulty
+
+premise that the FA wholly nullified the PFA, which it manifestly did not.
+
+      As stated in the PFA, the arbitrator found that the collection of Day One
+
+fees was a standalone ERISA violation. In doing so, the arbitrator explicitly
+
+determined that the Day One fees did not constitute management fees or carried
+
+interest fees permitted by the IMA, as White Oak “could not have provided any
+
+fiduciary services before the IMA was in effect.” S.App’x 30. The FA contains no
+
+language suggesting that it modified the PFA’s determination that the Day One
+
+fees were unlawful. To the contrary, the FA states that “[t]he reasons governing
+
+the finding that [White Oak] must disgorge . . . some fees . . . are more fully set
+
+forth in the [PFA] and will not be repeated in [the FA], excepting a few points,”
+
+and then incorporated the PFA except where otherwise provided. Id. at 46, 50.
+
+Furthermore, to the extent that the FA altered the PFA’s findings, its
+
+modifications addressed White Oak’s conduct after the termination of the IMA,
+
+namely, its retention of the Plan’s assets and continued collection of fees. Id. at 48.
+
+We therefore see no basis to conclude that the FA silently permitted White Oak
+
+to retain fees that, by the arbitrator’s description, were for purported services
+
+rendered “before the IMA” was even created. Id. at 30.
+
+
+
+
+                                          74
+      White Oak advances a second argument against the return of the Day One
+
+fees; however, that argument fares no better than the first. The FA modified the
+
+PFA to permit White Oak to retain “performance fees,” which the FA described
+
+as “reimbursement for managing the business and affairs of Pinnacle and
+
+Summit, rather than profits of White Oak.” S.App’x 50. Although White Oak
+
+argues that the Award envisioned the Day One fees as a subset of
+
+“reimbursement[s],” the Award plainly did not do so. Rather, the cited passage
+
+intended to forbid the Trustees from recovering the management fees permitted
+
+by the IMA. Cf. Id. at 37 (PFA, stating that White Oak must disgorge all fees
+
+“from the time White Oak first collected any fees from the Plan until the date that
+
+assets are returned to the Plan”).
+
+      Critically, the arbitrator determined that the Day One fees were of a
+
+different class than the fees “reimburs[ing]” White Oak for its services. Id. at 50.
+
+The PFA concluded that the Day One fees were a standalone ERISA violation, in
+
+part because those fees were not management fees that White Oak could collect
+
+under the IMA. Id. at 30. The former, unlike the latter, could not be
+
+“compensation . . . for [White Oak’s] investment services” because “White Oak
+
+could not have provided any fiduciary services before the IMA was in effect.” Id.
+
+
+
+
+                                         75
+In its discussion of remedies, the PFA distinguished the disgorgement of the Day
+
+One fees from the other fees to be disgorged, further emphasizing that the Day
+
+One fees were distinct and that White Oak was not entitled to collect them. See id.
+
+at 37 (“The Plan must be granted . . . any fees White Oak collected, including all
+
+Day One Fees.”). Finally, nothing in the arbitral record – other than White Oak’s
+
+self-serving and unadopted arguments – or in our precedents interpreting ERISA
+
+suggests that the Day One fees can be retained as reimbursement for services
+
+rendered prior to the IMA. Cf. York Research Corp. v. Landgarten, 927 F.2d 119, 123
+
+(2d Cir. 1991) (finding award’s grant of “expenses” was ambiguous as to award
+
+of attorneys’ fees and costs because of the presumption against such relief unless
+
+statutorily authorized).
+
+      In short, the PFA ordered disgorgement of the Day One fees and the FA
+
+incorporated that finding without alteration. Moreover, the Award clearly
+
+distinguishes between the management fees authorized by the IMA, which the
+
+Award permitted White Oak to retain, and the Day One fees unauthorized by the
+
+IMA, which the Award required White Oak to return. It is therefore White Oak,
+
+and not the district court, that “fails to give any effect to the [FA]” and
+
+“misunderstands the relationship between the [PFA] and [FA].” Appellant’s Br.
+
+
+
+
+                                          76
+at 50. Accordingly, the Award is unambiguous, and the district court did not err
+
+in entering judgment on the Day One fees.
+
+       D.     Award of Profits
+
+       Finally, White Oak argues that the district court exceeded its authority by
+
+awarding the disgorgement of its “profits” from the Plan’s assets. In a similar
+
+fashion to its other challenges to the disputed aspects of the Award, White Oak
+
+claims that the FA expressly excludes an award of profits, or, alternatively, that
+
+the term “profits” is too ambiguous to enforce and must be remanded to the
+
+arbitrator for clarification.
+
+       The former contention is meritless, as the PFA and FA both clearly
+
+provided for disgorgement of White Oak’s “profits.” The PFA awarded “any
+
+profits . . . made through use of assets of the Plan,” which it suggested could
+
+include money earned by “plac[ing] Plan assets and other compensation into
+
+companies in which [White Oak] owned equity interests.” S.App’x 37–38
+
+(internal quotation marks omitted). In turn, the FA stated that “[t]he reasons
+
+governing the finding that [White Oak] must disgorge all assets, and some fees,
+
+and profits, are fully set forth in the [PFA].” Id. at 46. The decretal language of the
+
+FA expressly incorporated the PFA (and therefore its award of profits), and
+
+
+
+
+                                          77
+further provided that White Oak would retain management fees because they
+
+were not profits but instead “constitute[d] reimbursement” for White Oak’s
+
+services. Id. at 50. We need say nothing further to reject White Oak’s strained
+
+reading of the FA as excluding “profits.”
+
+      Nonetheless, we conclude that the Award’s failure to identify or calculate
+
+“profits” renders this item of relief sufficiently ambiguous that we cannot discern
+
+how to enforce it. Accordingly, the Award must be remanded to the arbitrator for
+
+clarification. See Seagull Compania Naviera, S.A., 774 F.2d at 67 (“An ambiguous
+
+award should be remanded to the arbitrators so that the court will know exactly
+
+what it is being asked to enforce.”). Although our sister circuits have recognized
+
+that an arbitral award is not required to specify a defined monetary sum and
+
+remains enforceable where the district court is left with “only the ministerial
+
+computation of the amount owed,” Flender Corp. v. Techna-Quip Co., 953 F.2d 273,
+
+280 (7th Cir. 1992), determination of White Oak’s profits far exceeds mere
+
+computation and raises numerous legal and factual questions that must be
+
+resolved by the arbitrator. Compare id. (concluding that award was final and
+
+definite where it awarded plaintiff all commissions on sales that occurred during
+
+the relevant period even where “the arbitrator did not quantify the amount
+
+
+
+
+                                         78
+payable,” because “this computation was easily ascertainable”), with Loc. 36, Sheet
+
+Metal Workers Int'l Ass'n, AFL-CIO v. Pevely Sheet Metal Co., 951 F.2d 947, 949 (8th
+
+Cir. 1992) (finding “that the determination of damages was [not] a ‘ministerial’
+
+detail” because “the determination of damages did not merely involve a simple
+
+calculation, but required the resolution of significant issues,” such as the
+
+determination of the number of employees covered by the bargaining agreement
+
+at issue and the rate of pay for those employees).
+
+       We acknowledge that remand, in effect, rewards White Oak for its
+
+obstructive behavior during the damages phase of the arbitration. White Oak
+
+refused to comply with the arbitrator’s initial order that the parties appoint a
+
+neutral third party to determine profits and, when the parties proceeded to hire
+
+their own experts, refused to permit the Trustees to access its records. However,
+
+we cannot enlarge upon the terms of the arbitration award by independently
+
+deciding questions that were submitted to, but unresolved by, the arbitrator,
+
+Zeiler, 500 F.3d at 170, and remand is therefore required.
+
+III.   The District Court Insufficiently Explained Its Award of Attorneys’ Fees
+       for the Entirety of the Confirmation Proceeding.
+
+       Invoking its inherent authority to award fees, the district court ordered
+
+White Oak to pay $1,654,422.27, representing the entirety of the fees and costs
+
+
+
+                                         79
+incurred by the Trustees during the confirmation proceedings. In doing so, the
+
+court emphasized its prior remarks “that White Oak has advanced meritless,
+
+‘entirely unpersuasive,’ and even ‘borderline sanctionable’ positions throughout
+
+this litigation.” S.App’x 104. The court had “no difficulty concluding that White
+
+Oak sought to frustrate confirmation and enforcement of the arbitral award
+
+against it with needless motions and unceasing attempts to resuscitate already-
+
+rejected arguments,” and cited White Oak’s opposition to the application for fees
+
+and costs as evidence of its “bad faith.” Id. Although White Oak argued that the
+
+Trustees’ requested hourly rates that were unreasonable and not in line with
+
+prevailing norms, White Oak’s own counsel had recently requested fees in
+
+another case at rates “more than twenty percent higher . . . than the rates to
+
+which it now objects.” Id.
+
+      White Oak appeals, arguing that the award of fees and costs is inconsistent
+
+with its success on certain issues or, in the alternative, that the district court’s
+
+findings were insufficiently specific to support the award.
+
+      A.     Legal Standard
+
+      We review a district court’s imposition of fees and costs for abuse of
+
+discretion, “ensur[ing] that the district court’s sanctions are not based on an
+
+
+
+
+                                           80
+erroneous view of the law or on a clearly erroneous assessment of the evidence.”
+
+Wolters Kluwer Financial Services., Inc. v. Scivantage, 564 F.3d 110, 113 (2d Cir. 2009)
+
+(internal quotation marks omitted). Because of the district court’s simultaneous
+
+role as “accuser, factfinder, and sentencing judge,” our review is “more exacting
+
+than under the ordinary abuse of discretion standard.” Id. (internal quotation
+
+marks omitted).
+
+      A district court may award attorneys’ fees under its inherent authority
+
+“when the losing party ‘has acted in bad faith, vexatiously, wantonly, or for
+
+oppressive reasons.’” Eisemann v. Greene, 204 F.3d 393, 395 (2d Cir. 2000), quoting
+
+F.D. Rich Co. v. United States ex rel. Indus. Lumber Co., 417 U.S. 116, 129 (1974). To
+
+do so, “a court must find clear evidence that (1) the offending party’s claims were
+
+entirely without color, and (2) the claims were brought in bad faith – that is,
+
+motivated by improper purposes such as harassment or delay.” Id. at 396
+
+(internal quotation marks omitted). Although both elements “must be supported
+
+by a high degree of specificity in the factual findings,” the district court may infer
+
+bad faith “only if [the party’s] actions are so completely without merit as to
+
+require the conclusion that they must have been undertaken for some improper
+
+purpose such as delay.” Enmon v. Prospect Cap. Corp., 675 F.3d 138, 143 (2d Cir.
+
+
+
+
+                                          81
+2012) (internal quotation marks omitted). “As applied to [the] . . . enforcement of
+
+arbitration awards, the guiding principle has been [that] when a challenger
+
+refuses to abide by an arbitrator’s decision without justification,” a court may
+
+award attorneys’ fees and costs. Commodities & Mins. Enter. Ltd. v. CVG
+
+Ferrominera Orinoco, C.A., 49 F.4th 802, 819–20 (2d Cir. 2022) (internal quotation
+
+marks omitted); see also B.L. Harbert Int’l, LLC v. Hercules Steel Co., 441 F.3d 905,
+
+914 (11th Cir. 2006) (“When a party who loses an arbitration award . . . drags the
+
+dispute through the court system without an objectively reasonable belief it will
+
+prevail, the promise of arbitration is broken” and “that party should pay
+
+sanctions.”), abrogated on other grounds by Frazier v. CitiFinancial Corp., 604 F.3d
+
+1313 (11th Cir. 2010).
+
+      The “appropriate causal test” for sanctions usually limits a fee award “to
+
+those [fees] that would not have been incurred but for the bad faith,” though in
+
+exceptional cases an award may “extend[] as far as all of the wronged party’s
+
+legal fees,” such as where the defendant’s “entire course of conduct” was a bad
+
+faith effort. Goodyear Tire & Rubber Co. v. Haeger, 581 U.S. 101, 110–11 (2017)
+
+(internal quotation marks omitted). This standard “generally demands that a
+
+district court assess and allocate specific litigation expenses.” Id. at 109. However,
+
+
+
+
+                                          82
+a court need only do “rough justice” and need not “achieve auditing perfection”
+
+– it may award the entire cost of litigating a motion even where the injured party
+
+“is only partially successful.” Liebowitz v. Bandshell Artist Mgmt., 6 F.4th 267, 288
+
+(2d Cir. 2021) (internal quotation marks omitted).
+
+      B.     The Court’s Findings Were Insufficiently Specific and Tailored.
+
+      With these principles in mind, we easily agree with the district court that
+
+some sanctions were warranted, as the record supports its conclusion that White
+
+Oak advanced a number of arguments that were “so completely [lacking in]
+
+merit as to require the conclusion that they must have been undertaken” in bad
+
+faith. Enmon, 675 F.3d at 143 (internal quotation marks omitted). Most
+
+egregiously, in support of its petition to vacate the Award’s grant of attorneys’
+
+fees and prejudgment interest, White Oak repeatedly misrepresented the
+
+arbitration record by insisting that it had “prevailed on all substantive issues in
+
+the arbitration” and that the Trustees “failed to have any success on the merits.”
+
+White Oak I, 2022 WL 815273, at * 7, *10 (emphasis in original and internal
+
+quotation marks omitted); see also Enmon, 675 F.3d at 145 (affirming sanctions for
+
+a petition to confirm where the court found that counsel “made frivolous
+
+arguments that misrepresented the record”) (internal quotation marks omitted).
+
+
+
+
+                                          83
+The arbitrator repeatedly found White Oak liable for breaches of fiduciary duty
+
+and decided most of the issues in dispute in favor of the Trustees. As evidenced
+
+by her award of attorneys’ fees to the Trustees, the arbitrator clearly did not
+
+regard White Oak as the prevailing party. Moreover, White Oak’s persistent
+
+argument that the FA substantially overturned the PFA is completely
+
+contradicted by the plain text of the FA. White Oak also characterized certain
+
+facts as “undisputed,” when plainly the Plan did dispute them. See, e.g., White
+
+Oak I, 2022 WL 815273, at *9 n.77 (noting that while White Oak claimed it was
+
+“undisputed” that it had not received any performance fees, the Plan had argued
+
+that White Oak received such fees and the Award made no finding on this point).
+
+As for the district court’s cited example, we see no abuse of discretion in the
+
+court’s determination that White Oak acted in bad faith when challenging the
+
+Trustees’ hourly rates, given the markedly higher billing rates of White Oak’s
+
+own counsel. S.App’x 104.
+
+      Ultimately, however, we agree with White Oak that, “the findings of the
+
+district court speak in terms too general to meet the high degree of specificity
+
+that we have required to support an award.” Oliveri v. Thompson, 803 F.2d 1265,
+
+1277 (2d Cir. 1986) (internal quotation marks omitted) (award of attorneys’ fees
+
+
+
+
+                                         84
+“for instituting meritless claims and for continuing the prosecution of claims
+
+after it became apparent that they were without a factual or legal basis” was
+
+insufficiently specific). Although we have ultimately rejected many of White
+
+Oak’s arguments, we cannot conclude from the district court’s findings that
+
+White Oak’s “entire course of conduct” during the confirmation proceedings was
+
+taken in “bad faith.” Goodyear Tire, 581 U.S. at 110 (internal quotation marks
+
+omitted). In particular, we have found merit in White Oak’s contention that the
+
+award of “profits” is too ambiguous to be enforced without clarification from the
+
+arbitrator. Moreover, White Oak’s jurisdictional argument presents “a question
+
+of first impression for this Court” in an area of law unsettled by the Supreme
+
+Court’s intervening decision in Badgerow. CVG Ferrominera Orinoco, C.A., 49 F.4th
+
+at 820. Although we ultimately reject that argument, we cannot conclude that it
+
+was presented “without justification.” Id. (internal quotations marks omitted).22
+
+      Nonetheless, a party who frustrates an arbitration award in bad faith is not
+
+immune from sanctions merely because its arguments are not uniformly
+
+
+      22
+        We note, however, that White Oak’s initial opposition to confirmation
+was not predicated on a jurisdictional objection. Had its initial opposition on the
+merits been completely frivolous, the district court might well have been able to
+conclude that the entire confirmation proceeding should not have been necessary
+because the Trustees should never have been required to seek judicial
+enforcement in any court.
+
+                                        85
+meritless. District courts are permitted to “assess and allocate specific litigation
+
+expenses” based on their findings, and a party’s appropriate behavior in one area
+
+does not excuse its sanctionable conduct in another.23 Goodyear Tire, 581 U.S. at
+
+109. We have made clear that “even a single bad-faith filing” may demonstrate
+
+the bad faith and lack of color prerequisites to an imposition of monetary
+
+sanctions, International Technologies Marketing, Inc. v. Verint Systems, Ltd., 991 F.3d
+
+361, 369 (2d Cir. 2021), and the offending party may, where appropriate, be
+
+sanctioned even where the party advanced meritorious arguments alongside its
+
+sanctionable ones. See Liebowitz, 6 F.4th at 288 (A party may be held liable for the
+
+entire cost of litigating a motion that is “only partially successful.”). “[S]uch
+
+judgments, made with the district court’s unique understanding of the litigation,
+
+are entitled to substantial deference on appeal.” Liebowitz, 6 F.4th at 288 (internal
+
+quotation marks omitted).
+
+
+      23
+         For example, a court may “make a blanket award” against a plaintiff
+who “initiates a case in complete bad faith,” Goodyear Tire, 581 U.S. at 110, and
+such an award, by necessity, includes the defendant’s expenses incurred in
+opposition to otherwise permissible conduct. To illustrate, if a plaintiff knows
+prior to filing that she cannot possibly prevail on a necessary element of her
+claim, the court may award sanctions for the entire proceeding even if the
+plaintiff prevails on a separate element of that claim or on a subsidiary issue such
+as personal jurisdiction. In such a case, all fees in the litigation “would not have
+been incurred except for the misconduct,” and thus an award of fees for the
+entire proceeding may be warranted. Id. at 111.
+
+                                          86
+       Nevertheless, the district court failed to make such judgments on causation
+
+that drew distinctions between arguments that were frivolous and those that
+
+were merely unavailing. “[M]indful that we are a court of review, not of first
+
+view,” we cannot make specific findings on the district court’s behalf. Cutter v.
+
+Wilkinson, 544 U.S. 709, 718 n.7 (2005). Although the district court referred to
+
+instances where it had warned White Oak that its arguments were meritless or
+
+“borderline sanctionable,” it failed to provide sufficient examples, or to attribute
+
+particular fees charged by counsel for the Trustees to such frivolous arguments.
+
+S.App’x 104 (internal quotation marks omitted). The example it did provide
+
+perhaps demonstrates White Oak’s bad faith in opposing the application for
+
+attorneys’ fees itself, but an award covering that application would be justified
+
+only if White Oak was otherwise sanctionable in the first instance. In any event,
+
+the court did not attempt to “calibrate the sanction to fees and costs incurred by
+
+[the Trustees] by virtue of [White Oak’s] bad faith conduct.” Liebowitz, 6 F.4th at
+
+290.
+
+       “Absent more explanation from the district court,” we cannot conclude
+
+that its sanction was a permissible exercise of its authority. Id. Accordingly, we
+
+remand the order granting the Trustees their attorneys’ fees and costs, so that the
+
+
+
+
+                                         87
+district court may make more specific findings as to which of White Oak’s
+
+positions were taken in bad faith and to determine the categories of expenses,
+
+and the amounts of those expenses, for which White Oak should be held
+
+responsible.24
+
+                                        CONCLUSION
+
+      By enacting ERISA, Congress intended to create a “uniform regulatory
+
+regime over employee benefit plans” and ensure that regulation of such plans
+
+“would be exclusively a federal concern.” Davila, 542 U.S. at 208. The duties
+
+owed by fiduciaries, as well as the resolution of disputes about those duties, are
+
+central concerns of that comprehensive regulatory scheme. Congress further
+
+intended that plan participants, beneficiaries, and fiduciaries have “ready access
+
+to the Federal courts” when seeking to enforce plan documents and terms. 29
+
+U.S.C. § 1001(b). Our holding today effectuates that intent and fits comfortably
+
+within the statutory language of ERISA.
+
+      We conclude that the Trustees’ petition to enforce the arbitral award is
+
+cognizable under ERISA § 502(a)(3), as the Trustees are a party authorized to sue
+
+by that provision, seek to enforce a right – the arbitration agreement and judicial
+
+review of the resulting award – created by a Plan document or term, and request
+
+      24
+           We express no opinion as to the proper resolution of those questions.
+
+
+                                                88
+equitable relief against a co-fiduciary to the Plan. Such suits, brought by a
+
+fiduciary on behalf of the beneficiaries to enforce a plan document or term
+
+against a co-fiduciary, seek relief traditionally available in equity. In the specific
+
+circumstances before us here, we find that the Trustees’ petition to confirm the
+
+award is itself cognizable under ERISA and therefore agree with the district court
+
+that it had jurisdiction over the action.
+
+      We further conclude that the district court properly entered judgment on
+
+the confirmation petition as to the disgorgement of pre-award interest on the
+
+Plan’s assets and the return of the “Day One” fees collected by White Oak, as the
+
+Award plainly provided for such relief. However, the district court erred in
+
+entering judgment on “profits,” as the Award’s grant of profits is too ambiguous
+
+to enforce and must be remanded to the arbitrator for clarification of the nature
+
+and amount of income accruing to White Oak that should be categorized as
+
+“profits.” Finally, we conclude that the district court exceeded its discretion in
+
+awarding the Trustees the entirety of their attorneys’ fees and costs incurred
+
+during the confirmation proceeding, as it made insufficiently specific findings of
+
+bad faith and did not limit the award to the fees expended in opposing White
+
+Oak’s frivolous arguments.
+
+
+
+
+                                            89
+      Accordingly, we AFFIRM the judgment as to the disgorgement of
+
+prejudgment interest on assets and the “Day One” fees, VACATE the judgment
+
+as to the disgorgement of White Oak’s profits and payment of the Trustees’
+
+attorneys’ fees and costs during the court’s proceedings, and REMAND for
+
+further proceedings consistent with this opinion. The parties are to bear their
+
+own costs for this appeal.
+
+
+
+
+                                        90

@@ -40,7 +40,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))), "probe"))
 import providers
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from models import JUDGE, LABEL
+from models import JUDGE, LABEL, FED_APPEAL_DIR
 
 csv.field_size_limit(min(sys.maxsize, 2**31 - 1))
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -121,34 +121,67 @@ def build_user(opinion: str, answer: str) -> str:
 # So determine it once per case, from the opinion alone, with no candidate in
 # the prompt. 136 calls instead of 576 -- cheaper than what it replaces.
 #
-# `mixed` is retained rather than split into component verdicts. Splitting is
-# the better long-term metric but a stricter bar; keeping the single label makes
-# these numbers comparable to every figure already built.
+# TAXONOMY v1 kept `mixed` as one bucket, on the grounds that splitting it was a
+# stricter bar and the single label kept the numbers comparable to figures
+# already built. v2 below reverses that call.
+#
+# TAXONOMY v2, 2026-08-25. The corpus is now federal courts of appeals only, so
+# the trial-court labels (`granted`, `judgment`) no longer carry their weight,
+# and the single `mixed` bucket was doing too much: it held 33 of the 86 labelled
+# federal appellate cases -- the second-largest class -- while telling you
+# nothing about WHICH combination occurred. "Affirmed in part, reversed in part"
+# and "reversed and remanded" are different outcomes with different base rates,
+# and collapsing them made the largest error class in figure o3 uninterpretable.
+#
+# v2 splits it into the three combinations that actually occur in appellate
+# practice and keeps `other` as a genuine catch-all rather than a hidden mixed.
+#
+# NOTE: `granted` is deliberately absent while `denied` is kept, per the study
+# design. A granted petition (mandamus, rehearing, petition for review) therefore
+# falls to `other`. Watch the `other` count -- if it is large and mostly grants,
+# the taxonomy needs a `granted` label back.
+TRUTH_LABELS = ["affirmed", "reversed", "vacated", "remanded", "dismissed",
+                "denied", "affirmed_and_reversed", "reversed_and_remanded",
+                "vacated_and_remanded", "other"]
+
 SYSTEM_TRUTH = """You are reading a US court opinion and recording its disposition.
 
 You will be given the FULL TEXT of an opinion. Report what THIS court did to the
 judgment or matter before it -- not what the court below did, and not what any
-cited case did.
+cited case did. Read the mandate, which is usually the final paragraph.
 
-Choose exactly one. The first five are appellate; the next three are a trial
-court acting on the matter before it. There is deliberately no catch-all --
-every disposition belongs in one of these.
+Choose exactly one label, and choose the MOST SPECIFIC one that is accurate.
+The compound labels are not a last resort: if the court both reversed and
+remanded, the answer is reversed_and_remanded, NOT reversed.
 
-  affirmed   upheld the decision below in full
-  reversed   overturned it in full
-  vacated    set it aside in full
-  remanded   sent it back without otherwise disturbing the decision
-  dismissed  disposed of the appeal or action without reaching the merits
-  granted    granted the motion, petition or relief sought
-  denied     denied the motion, petition or relief sought
-  judgment   entered judgment after a trial or on the full merits, rather than
-             ruling on a motion
-  mixed      more than one of the above applied to different parts (e.g.
-             "affirmed in part, reversed in part, remanded", or "granted in
-             part and denied in part")
+  affirmed               upheld the decision below in full, and did nothing else
+  reversed               overturned it in full, without remanding
+  vacated                set it aside in full, without remanding
+  remanded               sent it back without otherwise disturbing the decision
+  dismissed              disposed of the appeal or action without reaching the
+                         merits (including dismissal for want of jurisdiction)
+  denied                 denied the petition, motion or relief sought
+  affirmed_and_reversed  affirmed as to some parts and reversed or vacated as to
+                         others ("affirmed in part, reversed in part"). Use this
+                         even if the court also remanded.
+  reversed_and_remanded  reversed and sent the case back for further proceedings
+  vacated_and_remanded   vacated and sent the case back for further proceedings
+  other                  none of the above fits -- for example the court GRANTED
+                         a petition or the relief sought, certified a question,
+                         or entered some disposition not listed here
+
+Rules for choosing between them:
+  * Prefer a compound label over a simple one whenever both halves apply.
+  * If the court affirmed some parts and reversed or vacated others, use
+    affirmed_and_reversed regardless of whether it also remanded -- the mixed
+    direction is the more informative fact.
+  * Reverse/vacate plus remand is reversed_and_remanded / vacated_and_remanded,
+    never plain remanded.
+  * Use other only when nothing above is accurate. Do not use it for a
+    disposition you are merely unsure how to phrase.
 
 Reply with ONLY a JSON object, no prose and no code fence:
-{"disposition_actual": "<affirmed|reversed|vacated|remanded|dismissed|granted|denied|judgment|mixed>",
+{"disposition_actual": "<affirmed|reversed|vacated|remanded|dismissed|denied|affirmed_and_reversed|reversed_and_remanded|vacated_and_remanded|other>",
  "prevailing_party": "<short phrase, or unclear>",
  "justification": "<one sentence quoting or paraphrasing the mandate>"}"""
 
@@ -205,17 +238,28 @@ def parse(txt: str) -> tuple[dict, str]:
 def run_truth_pass(args):
     """One judge call per case, opinion only. Order-independent and idempotent."""
     judge_slug = args.judge.replace("/", "__").replace(":", "_")
-    out_path = os.path.join(OUT_DIR, f"truth__{judge_slug}.csv")
+    out_path = os.path.join(OUT_DIR, f"truth__{judge_slug}{args.out_suffix}.csv")
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    # Case list comes from the predictions, so truth covers exactly the cases
-    # that were actually probed -- no more, no fewer.
-    pred_dir = args.pred_dir or PRED_DIR
-    case_ids = []
-    for f in sorted(glob.glob(os.path.join(pred_dir, "*.csv"))):
-        for r in csv.DictReader(open(f, newline="")):
-            if r["case_id"] not in case_ids:
-                case_ids.append(r["case_id"])
+    if args.fed_appeal:
+        # Label the CORPUS, not the probed set. Ground truth is a property of the
+        # opinion, so it can be established before any model has been asked --
+        # which is the point here: knowing the disposition mix of each arm is how
+        # you find out whether the arms are comparable, and that has to be
+        # answerable before the expensive generation run, not after.
+        idx = os.path.join(DS, FED_APPEAL_DIR, "_index.csv")
+        rows = list(csv.DictReader(open(idx, newline="")))
+        case_ids = [r["case_id"] for r in rows]
+        print(f"cases from {FED_APPEAL_DIR}/_index.csv: {len(case_ids)}")
+    else:
+        # Case list comes from the predictions, so truth covers exactly the cases
+        # that were actually probed -- no more, no fewer.
+        pred_dir = args.pred_dir or PRED_DIR
+        case_ids = []
+        for f in sorted(glob.glob(os.path.join(pred_dir, "*.csv"))):
+            for r in csv.DictReader(open(f, newline="")):
+                if r["case_id"] not in case_ids:
+                    case_ids.append(r["case_id"])
 
     done = set()
     if os.path.exists(out_path) and not args.force:
@@ -269,6 +313,26 @@ def run_truth_pass(args):
     print(f"  {dict(collections.Counter(r['disposition_actual'] for r in rows))}")
 
 
+def judged_files(args):
+    """The judged CSVs these maintenance passes act on.
+
+    Both passes are destructive and both used to take every judged file in the
+    directory. That is wrong once a second experiment exists: regrading is
+    driven by the gap between a file and its .unstable baseline, and that gap
+    does not close (apply_truth rewrites the label, regrade deliberately leaves
+    it), so an already-regraded file is eligible forever and gets re-scored, and
+    re-paid for, on every later run over a different experiment. --only scopes
+    a pass to the experiment being worked on.
+    """
+    files = [f for f in sorted(glob.glob(os.path.join(OUT_DIR, "judged__*.csv")))
+             if not f.endswith(".unstable.csv")]
+    if args.only:
+        files = [f for f in files if args.only in os.path.basename(f)]
+        if not files:
+            sys.exit(f"--only {args.only!r} matched no judged CSV in {OUT_DIR}")
+    return files
+
+
 def apply_truth(args):
     """Overwrite disposition_actual in judged CSVs from the stable truth table.
 
@@ -283,9 +347,7 @@ def apply_truth(args):
              if r.get("disposition_actual")}
     print(f"truth table: {len(truth)} cases from {os.path.basename(tpath)}")
 
-    for jp in sorted(glob.glob(os.path.join(OUT_DIR, "judged__*.csv"))):
-        if jp.endswith(".unstable.csv"):
-            continue
+    for jp in judged_files(args):
         rows = list(csv.DictReader(open(jp, newline="")))
         cols = list(rows[0].keys())
         changed = miss = 0
@@ -319,9 +381,7 @@ def regrade_changed(args):
             for r in csv.DictReader(open(f, newline="")):
                 preds[(r["case_id"], r["model"])] = r.get("prediction", "")
 
-    for jp in sorted(glob.glob(os.path.join(OUT_DIR, "judged__*.csv"))):
-        if jp.endswith(".unstable.csv"):
-            continue
+    for jp in judged_files(args):
         bak = jp[:-4] + ".unstable.csv"
         if not os.path.exists(bak):
             print(f"  {os.path.basename(jp)}: no .unstable baseline, skipped")
@@ -400,12 +460,22 @@ def main():
     ap.add_argument("--regrade-changed", action="store_true",
                     help="rescore only the attempted rows whose disposition_actual "
                          "moved in --apply-truth, grading against the fixed label")
+    ap.add_argument("--fed-appeal", action="store_true",
+                    help="with --truth-only: label every case in the federal\n"
+                         "appellate corpus index rather than only those already\n"
+                         "probed, so arm balance can be checked before spending\n"
+                         "anything on generation")
     ap.add_argument("--truth-only", action="store_true",
                     help="one pass per CASE, opinion only, no candidate answer -- "
                          "writes outcome_scores/truth__<judge>.csv")
     ap.add_argument("--apply-truth", metavar="TRUTH_CSV", nargs="?", const="AUTO",
                     help="rewrite disposition_actual in the judged CSVs from a "
                          "truth table; originals are backed up to *.unstable.csv")
+    ap.add_argument("--only", metavar="SUBSTRING",
+                    help="restrict --apply-truth / --regrade-changed to judged CSVs "
+                         "whose filename contains SUBSTRING (e.g. '__predict'). Both "
+                         "passes rewrite files in place and default to every judged "
+                         "CSV present, which re-scores other experiments.")
     args = ap.parse_args()
 
     if args.truth_only:

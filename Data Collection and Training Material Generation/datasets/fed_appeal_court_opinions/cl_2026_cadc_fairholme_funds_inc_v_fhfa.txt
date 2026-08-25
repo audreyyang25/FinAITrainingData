@@ -1,0 +1,1378 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued April 21, 2026                 Decided July 24, 2026
+
+                        No. 25-5113
+
+   FAIRHOLME FUNDS, INC, ON BEHALF OF ITS SERIES, THE
+               FAIRHOLME FUND, ET AL.,
+                      APPELLEES
+
+                            v.
+
+  FEDERAL HOUSING FINANCE AGENCY, IN ITS CAPACITY AS
+   CONSERVATOR OF THE FEDERAL NATIONAL MORTGAGE
+  ASSOCIATION AND THE FEDERAL HOME LOAN MORTGAGE
+                CORPORATION, ET AL.,
+                     APPELLANTS
+
+
+
+       Consolidated with 25-5121, 25-5154, 25-5155
+
+
+       Appeals from the United States District Court
+               for the District of Columbia
+                   (No. 1:13-cv-01053)
+                   (No. 1:13-mc-01288)
+
+
+
+    John P. Elwood argued the cause for appellants/cross-
+appellees. With him on the briefs were R. Stanton Jones,
+Anthony Franze, Orion de Nevers, Meaghan M. VerGow, and
+                             2
+Michael J. Ciatti. David B. Bergman and Taylor T. Lankford
+entered appearances.
+
+    Hamish Hume argued the cause for Class appellees. With
+him on the brief were Adam H. Wierzbowski, Robert Kravetz,
+Michael J. Barry, David H. Thompson, Brian W. Barnes, and
+John Ramer. Craig L. Briskin and Jonathan M. Shaw entered
+appearances.
+
+    Brian W. Barnes argued the cause for Berkley
+appellees/cross-appellants. With him on the briefs were David
+H. Thompson and John Ramer. Charles J. Cooper and Peter A.
+Patterson entered appearances.
+
+    Before: WALKER and CHILDS, Circuit Judges, and
+GINSBURG, Senior Circuit Judge.
+
+    Opinion for the Court filed by Senior Circuit Judge
+GINSBURG.
+                                           3
+I.     Background .................................................................... 5
+       A.      The Housing and Economic Recovery Act ........... 5
+       B.      The Net Worth Sweep ........................................... 7
+       C.      Procedural History ................................................ 9
+II.    Analysis........................................................................ 11
+       A.      The Implied Covenant of Good Faith and
+               Fair Dealing ........................................................ 12
+               1.      Collins v. Yellen ......................................... 12
+               2.      “Gap” in the shareholder agreements ........ 19
+               3.      Anticipatory breach .................................... 21
+       B.      Harm Caused by the Net Worth Sweep .............. 23
+       C.      Standing of Post-Third Amendment
+               Purchasers ........................................................... 26
+       D.      Cross-Appeal....................................................... 33
+               1.      Restitution .................................................. 34
+               2.      Reliance damages....................................... 36
+III.   Conclusion ................................................................... 40
+                                4
+     GINSBURG, Senior Circuit Judge: In the midst of the 2008
+housing crisis, the Congress established the Federal Housing
+Finance Agency (FHFA or Agency) and authorized its Director
+to place into conservatorship the Federal National Mortgage
+Association (Fannie) and the Federal Home Loan Mortgage
+Corporation (Freddie). After doing so, the Director entered into
+a stock purchase agreement with the United States Department
+of the Treasury to make capital available to the companies. In
+exchange, Fannie and Freddie would pay the Treasury a quar-
+terly dividend at a fixed rate based upon the funds drawn from
+the Treasury.
+
+     In 2012 the FHFA and the Treasury abandoned the fixed-
+rate dividend and instead required the companies to pay the
+Treasury a quarterly dividend equal to the amount by which
+their net worth exceeded their capital reserve. On the day the
+FHFA announced this arrangement, known as the “Net Worth
+Sweep,” the value of Fannie and Freddie shares dropped pre-
+cipitously. In the years that followed, the companies paid the
+Treasury significantly more money than they would have under
+the fixed-rate dividend formula. Perhaps least surprising,
+shareholders of Fannie and Freddie sued the FHFA, Fannie,
+and Freddie (the Defendants) for damages.
+
+     After a decade of litigation, one claim made its way to trial:
+By adopting the Net Worth Sweep, the FHFA, as conservator
+of Fannie and Freddie, violated the covenant of good faith and
+fair dealing implicit in its contract with shareholders. A jury
+agreed, and the district court entered a final judgment of $812
+million including prejudgment interest.
+
+    On appeal, the FHFA argues the implied covenant claim
+was unavailable as a matter of law, the Plaintiffs failed to prove
+they were harmed by the Net Worth Sweep, and certain
+Plaintiffs lack standing to bring their claims. One group of
+                                5
+Plaintiffs cross-appealed, asserting that the district court should
+have allowed them to seek restitution or reliance damages in
+the amount of $48 billion. Because these arguments lack merit,
+we affirm the judgment of the district court.
+
+                        I.   Background
+
+     We fully recounted the background events giving rise to
+this litigation in Perry Capital LLC v. Mnuchin, 864 F.3d 591
+(2017). We restate here only the information relevant to this
+appeal.
+
+A. The Housing and Economic Recovery Act
+
+     Fannie and Freddie are government-sponsored entities the
+shares of which have been publicly traded since 1968 and 1989,
+respectively. During the 2008 housing crisis, the Congress
+“concluded that resuscitating Fannie Mae and Freddie Mac was
+vital for the Nation’s economic health.” Id. at 598. In order to
+prevent the companies from defaulting, the Congress enacted
+the Housing and Economic Recovery Act of 2008, Pub. L. No.
+110-289, 122 Stat. 2654, which created the FHFA and author-
+ized its Director to appoint the FHFA as their conservator. See
+Collins v. Yellen, 594 U.S. 220, 226-27 (2021) (citing 12
+U.S.C. §§ 4511, 4617).
+
+    The Recovery Act “invests [the] FHFA as conservator
+with broad authority and discretion over the operation of”
+Fannie and Freddie. Perry, 864 F.3d at 600. Two provisions of
+the Act are central to this appeal:
+                               6
+       •   The “Best Interests” Provision, 12 U.S.C.
+           § 4617(b)(2)(J)(ii), authorizes the FHFA as
+           conservator to “take any action authorized
+           by this section, which the Agency deter-
+           mines is in the best interests of the regulated
+           entity or [of] the Agency.”
+
+           Therefore, “when the FHFA acts as a
+           conservator, it may aim to rehabilitate the
+           regulated entity in a way that, while not in
+           the best interests of the regulated entity, is
+           beneficial to the Agency and, by extension,
+           the public it serves.” Collins, 594 U.S. at
+           238.
+
+       •   The Bar to Judicial Review, 12 U.S.C.
+           § 4617(f), provides that, with exceptions not
+           here relevant, “no court may take any action
+           to restrain or affect the exercise of powers
+           or functions of the Agency as a
+           conservator.”
+
+     The Recovery Act also temporarily authorized the
+Treasury to purchase shares of Fannie and Freddie “if it
+determined that infusing the companies with capital would
+protect taxpayers and be beneficial to the financial and
+mortgage markets.” Collins, 594 U.S. at 229; see §§ 1455(l)(1),
+(4), 1719(g)(1), (4). Because the companies are federally char-
+tered, the provisions of the Recovery Act are incorporated in
+the contracts between the companies and their shareholders.
+See Fairholme Funds, Inc. v. FHFA (MTD Opinion), Nos. 13-
+cv-1053, 1439, 2018 WL 4680197, at *8-9 (D.D.C. Sept. 28,
+2018) (“[A]n investor’s contract with [a] corporation includes
+not only documents such as the stock certificate, certificate of
+designations, the corporate charter, and bylaws, but also the
+                                7
+corporate law under which the corporation is formed and
+regulated”).
+
+B. The Net Worth Sweep
+
+     In September 2008 the Director of the FHFA placed
+Fannie and Freddie into conservatorship and entered into
+Senior Preferred Stock Purchase Agreements (PSPAs) with the
+United States Department of the Treasury, which agreed to
+make $100 billion available to Fannie and Freddie in exchange
+for one million preferred shares in each company. As relevant
+here, the Treasury was also entitled to receive (1) “a dollar-for-
+dollar increase in [its] liquidation preference each time Fannie
+and Freddie drew upon Treasury’s funding commitment,” and
+(2) a quarterly dividend “at a rate of 10% of Treasury’s
+liquidation preference or a commitment to increase the
+liquidation preference by 12%.” Perry, 864 F.3d at 601. Fannie
+and Freddie could not pay dividends to their shareholders with-
+out the consent of the Treasury.
+
+     As Fannie and Freddie continued to incur losses, the
+FHFA and the Treasury twice amended the PSPAs to increase
+the capital available to Fannie and Freddie. When Fannie and
+Freddie drew upon this capital, however, it increased the
+Treasury’s liquidation preference which, in turn, increased the
+dividend owed to the Treasury. This resulted in “the circular
+practice of [Fannie and Freddie] drawing funds from
+Treasury’s capital commitment just to hand those funds back
+as a quarterly dividend.” Collins, 594 U.S. at 233.
+
+      On August 17, 2012 the FHFA and the Treasury amended
+the PSPAs for a third time to “ensure[] that Fannie Mae and
+Freddie Mac would never again draw money from Treasury
+just to make their quarterly dividend payments.” Id. at 234. The
+Third Amendment replaced the 10% dividend with a dividend
+                                  8
+based upon Fannie’s and Freddie’s net worth. If either com-
+pany’s net worth at the end of a quarter exceeded its capital
+reserve, then the company would pay the surplus to the
+Treasury. If the company’s net worth did not exceed the reserve
+or if the company lost money during the quarter, then it was not
+required to pay any dividend to the Treasury. See id. This new
+arrangement, known as the Net Worth Sweep, “meant that the
+companies would not be able to accrue capital in good
+quarters,” id., and that shareholders would never receive any
+dividends. “In simple terms, the Third Amendment require[d]
+Fannie and Freddie to pay quarterly to Treasury a dividend
+equal to their net worth — however much or little that might
+be.” Perry, 864 F.3d at 602.
+
+     The Third Amendment also required Fannie and Freddie
+to accelerate the reduction of their retained mortgage portfo-
+lios. Before the Third Amendment, Fannie and Freddie were
+already required to reduce their portfolios at a rate of 10%
+annually, capped at $250 billion per company. The Third
+Amendment increased the reduction rate to 15% annually while
+retaining the $250 billion cap.
+
+     On the day the Net Worth Sweep was announced in 2012,
+the value of Fannie and Freddie common and junior preferred
+shares decreased by approximately $1.6 billion. * In 2013
+Fannie and Freddie paid the Treasury $130 billion in dividends
+under the Net Worth Sweep. If the 10% dividend had been in
+effect, then the companies would have owed the Treasury only
+$19 billion. By the end of 2022 the companies had paid $151.2
+
+*
+  Both Fannie and Freddie have issued several classes of preferred
+shares that are junior to the preferred shares issued to the Treasury.
+See Perry, 864 F.3d at 601 (explaining that the PSPAs gave the
+Treasury “a priority right above all other stockholders, whether
+preferred or otherwise, to receive distributions from assets if the
+entities were dissolved”).
+                                9
+billion more under the Net Worth Sweep than they would have
+paid under the fixed-rate dividend. Although the companies no
+longer pay a cash dividend to the Treasury, all their profits are
+added to the Treasury’s liquidation preference.
+
+C. Procedural History
+
+    In 2013 two lawsuits were filed challenging the Net Worth
+Sweep: (1) a class action brought by holders of Freddie com-
+mon shares and of Fannie and Freddie junior preferred shares,
+and (2) an individual action brought by holders of Fannie and
+Freddie junior preferred shares (the “Berkley Plaintiffs”). The
+lawsuits alleged violations of the Administrative Procedure Act
+and of the Takings Clause of the Fifth Amendment to the
+Constitution of the United States as well as various contract
+claims.
+
+     The district court dismissed the complaints for failure to
+state a claim. We affirmed that decision in most respects, but
+we remanded for further consideration of some of the
+Plaintiffs’ contract claims. See id. at 633-34.
+
+     On remand, the district court dismissed all claims except
+the implied covenant claim with respect to the shareholders’
+right to receive dividends. MTD Opinion, 2018 WL 4680197,
+at *7-14. The district court denied the FHFA’s motion for
+reconsideration, which argued that the implied covenant claim
+was effectively a non-cognizable claim for anticipatory breach.
+
+     Consistent with the parties’ later stipulation, the district
+court certified three classes of plaintiffs consisting of:
+(1) holders of “junior preferred stock in Fannie,” (2) holders of
+“junior preferred stock in Freddie,” and (3) holders of
+“common stock in Freddie.” Each class included the
+shareholders “as of the date of certification, or their successors
+                                10
+in interest to the extent shares are sold after the date of certifi-
+cation and before any final judgment or settlement.”
+
+     In October 2022 the district court granted in part and
+denied in part the FHFA’s motion for summary judgment.
+Summary Judgment Opinion, 2022 WL 4745970. The district
+court rejected the FHFA’s arguments that the implied covenant
+claim was foreclosed by the Supreme Court’s decision in
+Collins v. Yellen and that the implied covenant did not apply
+because the Recovery Act left no gaps in the shareholder agree-
+ments. Id. at *5-7. The court held, however, that the Plaintiffs
+could not seek damages based upon their “lost-dividends
+theory” — that “the Third Amendment [had] deprived
+plaintiffs of dividends that they would have eventually
+received.” Id. at *9-10. The court also held the Plaintiffs could
+not seek restitution of what they had paid for their shares. Id. at
+*11-12. The parties therefore proceeded to trial on the implied
+covenant claim with the Plaintiffs seeking damages based upon
+their “lost-value theory” — that “the Third Amendment, by
+eliminating any possibility of future dividends for [the
+Plaintiffs], deprived [their] shares of much of their value, even
+if such dividends were not reasonably certain to occur in the
+foreseeable future.” Id. at 11. The Plaintiffs pointed to the $1.6
+billion drop in the value of Fannie and Freddie shares on the
+date the Net Worth Sweep was announced as the measure of
+harm.
+
+      Before trial the Plaintiffs filed a motion to amend their pre-
+trial statement by adding a request for reliance damages. The
+district court denied that motion. See Pretrial Amend. Opinion
+I, 2022 WL 11110548, at *3-4 (D.D.C. Oct. 19, 2022).
+
+     The first jury trial took place in the Fall of 2022 and ended
+in a hung jury. The Berkley Plaintiffs filed a motion before the
+second trial again seeking to present evidence on reliance dam-
+                               11
+ages, which the district court denied. See Pretrial Amend.
+Opinion II, 2023 WL 3790739, at *5-6 (D.D.C. June 2, 2023).
+
+     The second trial took place in the Summer of 2023; the
+jury found the FHFA had violated the implied covenant of good
+faith and fair dealing with respect to all Plaintiffs. The jury
+awarded the Plaintiffs a total of $612.4 million, and the district
+court entered a final judgment of $812 million after adding pre-
+judgment interest. The district court then rejected the FHFA’s
+Rule 50(b) motion for judgment as a matter of law. See Rule
+50(b) Opinion, 2025 WL 823938 (D.D.C. Mar. 14, 2025).
+
+                         II. Analysis
+
+     We have jurisdiction under 28 U.S.C. § 1291. We review
+de novo the district court’s conclusions on the motion to dis-
+miss, the motion for summary judgment, and the motion for
+judgment as a matter of law. See Vasquez v. District of
+Columbia, 110 F.4th 282, 287, 290 (D.C. Cir. 2024); Liff v. Off.
+of Inspector Gen. for U.S. Dep’t of Lab., 881 F.3d 912, 918
+(D.C. Cir. 2018). When reviewing the district court’s conclu-
+sions on the motion for judgment as a matter of law, however,
+“we apply to the jury’s decision the same forgiving standard as
+did the district court.” Vasquez, 110 F.4th at 290. “Judgment as
+a matter of law is appropriate only if the evidence and all
+reasonable inferences that can be drawn therefrom are so one-
+sided that reasonable men and women could not have reached
+a verdict in plaintiff’s favor.” Id. (cleaned up). As for the
+district court’s denial of the Berkley Plaintiffs’ motions to
+amend their pretrial statement, we review the court’s legal con-
+clusions de novo and its trial-management decisions for abuse
+of discretion. See Bauer v. FDIC, 38 F.4th 1114, 1121 (D.C.
+Cir. 2022); Teneyck v. Omni Shoreham Hotel, 365 F.3d 1139,
+1155-56 (D.C. Cir. 2004).
+                               12
+    The parties agree that Delaware law applies to claims
+regarding Fannie and Virginia law applies to claims regarding
+Freddie. Perry, 864 F.3d at 626 n.24.
+
+A. The Implied Covenant of Good Faith and Fair Dealing
+
+     The implied covenant of good faith and fair dealing applies
+“when the party asserting the implied covenant proves that the
+other party has acted arbitrarily or unreasonably, thereby
+frustrating the fruits of the bargain that the asserting party
+reasonably expected . . . . at the time of contracting.” Nemec v.
+Shrader, 991 A.2d 1120, 1126 (Del. 2010); see Drummond
+Coal Sales, Inc. v. Norfolk S. Ry. Co., 3 F.4th 605, 611 (4th Cir.
+2021). The jury found the FHFA’s adoption of the Net Worth
+Sweep violated this implied covenant.
+
+     The FHFA does not challenge the sufficiency of the evi-
+dence with respect to the parties’ reasonable expectations.
+Instead, it argues the implied covenant claim fails as a matter
+of law for three reasons. First, Supreme Court precedent
+forecloses the implied covenant claim. Second, the implied
+covenant cannot apply to the shareholder agreements because
+those agreements leave no gap for the implied covenant to fill.
+Third, the implied covenant claim is really a non-cognizable
+claim for anticipatory breach.
+
+    1.   Collins v. Yellen
+
+     The FHFA’s opening argument is that the Supreme
+Court’s decision in Collins v. Yellen forecloses the Plaintiffs’
+implied covenant claim. That decision rested upon 12 U.S.C.
+§ 4617(f): “Except as provided in this section . . . no court may
+take any action to restrain or affect the exercise of powers or
+functions of the Agency as a conservator or a receiver.” First,
+relying upon the Court’s holding that § 4617(f) protects the
+                                  13
+FHFA’s business decisions from judicial review, Collins,
+594 U.S. at 254, the FHFA reasons that the jury could not
+second-guess the Net Worth Sweep because it was a “core
+exercise” of the FHFA’s “broad” powers under the Recovery
+Act. Second, because Collins held the FHFA “could have
+reasonably concluded” that the Net Worth Sweep was in the
+public’s interest, id. at 239, the FHFA says “Collins squarely
+rejected the central element of Plaintiffs’ implied covenant
+claim — that FHFA acted ‘arbitrarily or unreasonably’ in
+agreeing to the Net Worth Sweep.”
+
+     The Plaintiffs respond that the FHFA overreads Collins. In
+their view, Collins simply involved a claim under the APA
+about the scope of the FHFA’s authority; it said nothing about
+how § 4617(f) would apply to a claim for contract damages or
+whether the Net Worth Sweep was consistent with the reason-
+able expectations of the parties. † We agree with the Plaintiffs
+that Collins did not foreclose the implied covenant claim in this
+case.
+
+    We begin with our pre-Collins decision in Perry. There we
+held that § 4617(f) barred the Plaintiffs’ claims that the
+FHFA’s adoption of the Third Amendment violated the
+Recovery Act and the APA, among other claims. 864 F.3d at
+604-16. In response to our dissenting colleague’s concern that
+
+†
+   The Plaintiffs also argue the FHFA waived its reliance upon
+§ 4617(f) because it did not invoke this provision on remand after
+Perry. Wrong. The district court addressed the FHFA’s Collins
+argument and the Supreme Court’s discussion of § 4617(f) in its
+summary judgment opinion, 2022 WL 4745970, at *5-6; the FHFA
+then renewed this argument in its Rule 50(a) motion “for
+preservation purposes”; and the district court declined to reconsider
+its holding when denying the FHFA’s Rule 50(b) motion, explaining
+that “[i]f Defendants wish to re-open this purely legal challenge, they
+must do so with the D.C. Circuit,” 2025 WL 823938, at *7. Just so.
+                                14
+our decision would “foreclose[] any opportunity for
+meaningful judicial review of FHFA’s actions,” id. at 642
+(Brown, J.), we pointed out that § 4617(f) “only limits judicial
+remedies (banning injunctive, declaratory, and other equitable
+relief) after a court determines that the actions taken fall within
+the scope of [the FHFA’s] statutory authority.” Id. at 613-14.
+We did not interpret the Recovery Act to preclude “judicial
+review through cognizable actions for damages like breach of
+contract.” Id. at 614.
+
+     We also rejected the FHFA’s argument that the Recovery
+Act preempted state laws imposing an implied covenant of
+good faith and fair dealing. Id. at 630. We noted that the Act
+authorized the FHFA to “disaffirm or repudiate any contract”
+executed by Fannie and Freddie before the conservatorship
+“which the conservator determines to be burdensome within a
+reasonable period following the agency’s appointment as
+conservator.” Id. (cleaned up). “That the Recovery Act permits
+the FHFA in some circumstances to repudiate contracts,” we
+explained, “indicates that the Companies’ contractual obliga-
+tions otherwise remain in force.” Id. We therefore remanded
+the implied covenant claim, “insofar as it seeks damages,” to
+the district court for further proceedings. Id. at 631.
+
+    Our pre-Collins decision therefore recognized that the
+Recovery Act leaves room for an implied covenant claim for
+damages against the FHFA as conservator. See also Jacobs v.
+FHFA, 908 F.3d 884, 895 (3d Cir. 2018) (citing an “appropriate
+damages claim” for breach of contract as the type of claim
+courts may allow to proceed against the FHFA).
+
+    This brings us to Collins. As relevant here, a group of
+shareholders alleged the FHFA’s adoption of the Net Worth
+Sweep exceeded its authority under the Recovery Act because
+the Sweep “did not actually serve the best interests of the
+                               15
+FHFA or the public.” 539 U.S. at 239-40. At the outset, the
+Court explained that § 4617(f), which it referred to as the “anti-
+injunction clause,” applies “only where the FHFA exercised its
+powers or functions as a conservator or a receiver.” Id. at 237
+(cleaned up). The Court then considered whether the FHFA had
+done so and concluded that it had. Given Fannie’s and
+Freddie’s repeated inability to make their dividend payments
+without drawing on the Treasury’s capital commitment, the
+FHFA “could have reasonably concluded that [the Net Worth
+Sweep] was in the best interests of members of the public,” id.
+at 239; hence the Agency acted within its authority under
+§ 4617(b)(2)(J)(ii), and § 4617(f) barred the shareholders’
+statutory claim, id. at 242.
+
+     As we said, the FHFA reads Collins as foreclosing the
+implied covenant claim in this case. Insofar as Perry supports
+a different result, the FHFA says Collins “eliminated” that part
+of Perry. We disagree.
+
+     As the Plaintiffs note, in Collins the Court never consid-
+ered how § 4617(f) would apply to a contract claim for
+damages; that case involved a statutory claim for declaratory
+and injunctive relief. See 594 U.S. at 227. In the Court’s own
+words, it “conclude[d] only that under the terms of the
+Recovery Act, the FHFA did not exceed its authority as a
+conservator, and therefore the anti-injunction clause bars the
+shareholders’ statutory claim.” Id. at 242. The Court’s later
+statement that the FHFA’s “business decisions are protected
+from judicial review,” id. at 254, must therefore be read in the
+context of its narrow holding on the statutory claim. The Court
+also adopted the parties’ framing of § 4617(f) as an “anti-
+injunction clause,” id. at 237, further indicating that it was not
+deciding how § 4617(f) would apply to other forms of relief,
+such as damages.
+                                16
+     Nor did Collins address whether the Net Worth Sweep was
+reasonable based upon the expectations of the parties. When
+the Court held that “the FHFA could have reasonably
+concluded” the Net Worth Sweep was in the public interest, id.
+at 239, it was considering whether the Sweep was within the
+scope of the FHFA’s statutory authority to act in the public
+interest. Answering that question “involve[d] a different type
+of reasonableness analysis” than the one implicated here by the
+implied covenant claim. Summary Judgment Opinion,
+2022 WL 4745970, at *5. As the district court correctly
+explained in denying the Defendants’ motion for summary
+judgment:
+
+        Collins does not resolve the issue here, because
+        although reasonableness factors into both
+        analyses, it is reasonableness with respect to
+        different matters. At issue in Collins was
+        whether FHFA could reasonably have deter-
+        mined that adopting the Third Amendment was
+        in the best interests of the regulated entity or
+        [of] the Agency and thus acted within its
+        statutory authority as conservator of [Fannie
+        and Freddie] in so doing. Here, in contrast, the
+        issue is whether FHFA violated the reasonable
+        expectations of the parties by adopting the
+        Third Amendment.
+
+Id. (cleaned up).
+
+     The FHFA offers two responses to the district court’s dis-
+tinction. First it invokes the similarities between the arguments
+raised by the Collins plaintiffs and those raised by the Plaintiffs
+here. Doing so again overlooks that the underlying questions
+differ. Even if the arguments overlap, the question whether the
+FHFA acted within its statutory authority is not coextensive
+                               17
+with the question whether it acted in accordance with the share-
+holders’ reasonable expectations. For example, the FHFA
+determined the Net Worth Sweep would benefit the public, but
+the jury also heard testimony that such a step was
+“unprecedented.” The Plaintiffs also introduced evidence that
+two weeks before the Net Worth Sweep was announced, the
+Treasury and the FHFA had received a report showing that
+Fannie and Freddie had generated profits exceeding the 10%
+dividend owed to the Treasury in the most recent quarter.
+Despite this indication that the companies might be returning
+to longer-term profitability, the Treasury and the FHFA
+responded by making a “renewed push” to implement the Net
+Worth Sweep. The jury therefore could conclude the Net Worth
+Sweep was not consistent with the reasonable expectations of
+the parties, regardless whether it was consistent with the
+FHFA’s authority under the Recovery Act.
+
+     The FHFA next argues that the scope of the FHFA’s
+statutory authority necessarily affects the expectations of the
+shareholders. Fair enough. Recall that the Recovery Act
+authorized the FHFA to act “in the best interests of the
+regulated entity or [of] the Agency,” § 4617(b)(2)(J)(ii), and
+the shareholder agreements incorporate this provision. From
+this, the FHFA reasons that the shareholders should have rea-
+sonably expected it to “act in the public interest without regard
+for whether doing so [was] in shareholders’ interests.”
+
+     We agree the FHFA’s authority under the Recovery Act
+may inform the parties’ reasonable expectations, but that does
+not require a different outcome here. In Perry we specifically
+instructed the district court on remand to consider whether “the
+enactment of the Recovery Act and the FHFA’s appointment
+as conservator affected these expectations.” 864 F.3d at 631.
+At trial, the district court duly informed the jury that the
+Recovery Act “amends or informs the shareholder contracts,”
+                               18
+so the jury could consider the terms of the Act when assessing
+the reasonable expectations of the shareholders. It also
+informed the jury that, under the Recovery Act, the FHFA was
+authorized to act in the best interests of Fannie and Freddie or
+of itself and hence the public. The district court then explained
+that the FHFA could “still have violated the implied covenant
+of good faith and fair dealing if it exercised that authority in a
+way that arbitrarily or unreasonably violated plaintiffs’
+reasonable expectations under the contract” as amended by
+incorporation of the Act. The jury was thus allowed to consider
+the extent to which the Recovery Act informed the parties’ rea-
+sonable expectations, but it was not required to reject the claim
+based upon the FHFA’s statutory authority. That instruction
+was consistent with Perry, and nothing in Collins suggests a
+contrary result.
+
+     Finally, we do not view this outcome as incompatible with
+the outcome in Collins. It is easy to understand how granting
+the statutory claim in Collins would have “restrain[ed] or
+affect[ed]” the FHFA’s exercise of its authority. § 4617(f).
+Holding that the FHFA lacked the authority to implement the
+Net Worth Sweep would have forced the Agency to abandon
+the Sweep and would have prevented it from implementing a
+future sweep. Awarding damages, on the other hand, does not
+require the FHFA to undo any action, nor does it restrain the
+FHFA from implementing a future sweep. After all, an implied
+covenant claim is based upon the reasonable expectations of
+the parties at the time of contracting. Nemec, 991 A.2d at 1126.
+Here the Plaintiffs introduced undisputed evidence that the Net
+Worth Sweep was “unprecedented” and therefore could not
+reasonably have been expected. If, however, the FHFA were
+now to sell new shares and afterwards implement a new sweep,
+then a future shareholder could no longer argue the sweep was
+unprecedented; the FHFA having demonstrated that it views
+                                19
+the Net Worth Sweep as a reasonable option would have
+informed that future shareholder’s expectations.
+
+     In sum, Collins did not abrogate our holding in Perry that
+the Recovery Act does not bar “judicial review through cog-
+nizable actions for damages like breach of contract.” 864 F.3d
+at 614. We therefore reject the FHFA’s argument that Collins
+foreclosed the implied covenant claim as a matter of law.
+
+    2.   “Gap” in the shareholder agreements
+
+     The FHFA next argues the implied covenant does not
+apply because the shareholder contracts “specify the scope of
+FHFA’s contractual discretion.” Under Delaware and Virginia
+law, a party “generally cannot base a claim for breach of the
+implied covenant on conduct authorized by the terms of the
+agreement.” Dunlap v. State Farm Fire & Cas. Co., 878 A.2d
+434, 441 (Del. 2005); see Ward’s Equip., Inc. v. New Holland
+N. Am., Inc., 493 S.E.2d 516, 520 (Va. 1997). As the FHFA
+puts it, the implied covenant cannot apply when there is no
+“gap” in the contract for it to fill. There is no gap here, says the
+FHFA, because the Recovery Act provides that the FHFA may
+act “in the best interests of the regulated entity or [of] the
+Agency.” § 4617(b)(2)(J)(ii). According to the Plaintiffs, how-
+ever, that provision “merely enhances the already broad
+discretion conferred” on the FHFA; it does not specify in any
+meaningful way how the FHFA should exercise that discretion.
+
+     The Plaintiffs again have the better argument. When a con-
+tract authorizes a party to act in its “sole discretion,” we have
+recognized the party may still violate the implied covenant if it
+exercises that discretion “arbitrarily or unreasonably.” Perry,
+864 F.3d at 631. Delaware and Virginia law are clear on this
+point: “Terms that enhance the level of discretion . . . do not
+eliminate the implied duty. When a party has sole discretion to
+                               20
+make a decision, that setting provides more reason for the
+implied covenant to apply, not less.” Cygnus Opportunity
+Fund, LLC v. Wash. Prime Grp., LLC, 302 A.3d 430, 460 (Del.
+Ch. 2023) (cleaned up); see Historic Green Springs, Inc. v.
+Brandy Farm, Ltd., No. 4872-C, 1993 WL 13029827, at *3
+(Va. Cir. Ct. Sept. 28, 1993); see also Drummond Coal Sales,
+3 F.4th at 611-12; Va. Vermiculite, Ltd. v. W.R. Grace & Co-
+Conn., 156 F.3d 535, 542 (4th Cir. 1998).
+
+     This case is a perfect example of that sort. The Recovery
+Act does not specifically authorize the conduct giving rise to
+this appeal. Rather, the Recovery Act is “framed in terms of
+expansive grants of permissive, discretionary authority for
+[the] FHFA to exercise as the ‘Agency determines is in the best
+interests of the regulated entity or [of] the Agency.’” Perry, 864
+F.3d at 607 (quoting § 4617(b)(2)(J)(ii)). The FHFA claims the
+“best interests” phrase “defines the scope of [its] contractual
+discretion,” but that phrase does not render the implied cove-
+nant inapplicable. On the contrary, per the Supreme Court of
+Delaware, the implied covenant “encompasses the principle of
+contract construction that if one party is given discretion in
+determining whether a condition in fact has occurred, that party
+must use good faith in making that determination.” Baldwin v.
+New Wood Res. LLC, 283 A.3d 1099, 1116 (2022) (cleaned
+up). That is precisely the circumstance here: The FHFA
+unilaterally determined what was in the “best interests” of the
+Agency. As the Plaintiffs note, the statute does not contain any
+standard limiting how the FHFA is to make that determination.
+
+     The FHFA relies upon three cases in which a court held
+the implied covenant did not apply, but those cases are inappo-
+site. In two of those cases, the relevant contracts provided a
+more specific process or standard that restrained the party’s
+discretion. See Policemen’s Annuity & Benefit Fund of Chi. v.
+DV Realty Advisors LLC, No. 7204, 2012 WL 3548206, at *3
+                               21
+(Del. Ch. Aug. 16, 2012) (agreement providing for removal of
+a general partner if “75% of the Limited Partnership Interests”
+consented to the removal and made a “good faith” determina-
+tion that removal was necessary for the partnership’s best
+interests); Khan v. Warburg Pincus, LLC, No. 2024-0523,
+2025 WL 1251237, at *6-7 (Del Ch. Apr. 30, 2025) (agreement
+allowing majority investors to “act exclusively in their own
+interests” provided that any amendment that “disproportion-
+ately affected” one class of investors “in a material and adverse
+manner” be supported by the “prior written consent of a major-
+ity of the affected class” (cleaned up)). The third case is even
+further afield because the agreement gave “both parties com-
+plete discretion in deciding whether” to execute a repurchase
+of a minority shareholder’s shares, which required approval by
+a majority of the board of directors or 70% of the shareholders.
+Blaustein v. Lord Balt. Cap. Corp., 84 A.3d 954, 959 (Del.
+2014). The Recovery Act does not contain any comparable fea-
+ture or limitation on the FHFA’s discretion. We see no reason
+the implied covenant does not apply under these circumstances.
+
+    3.   Anticipatory breach
+
+     Lastly, the FHFA argues the implied covenant claim is
+really an “unripe claim for anticipatory breach.” “Anticipatory
+breach is a doctrine of accelerated ripeness” that “gives a
+plaintiff the option to have the law treat a promise to breach or
+an act rendering performance impossible as the breach itself.”
+Perry, 864 F.3d at 632-33 (cleaned up). In the FHFA’s view,
+the Plaintiffs raise a claim for anticipatory breach because they
+“claim that the Net Worth Sweep prevented [Fannie and
+Freddie] from possibly paying dividends at some unspecified
+point in the future.” The Plaintiffs dispute this characterization
+of their claim, arguing that they seek to hold the FHFA liable
+for a present breach of contract.
+                              22
+     The FHFA’s argument misapprehends the nature of the
+Plaintiffs’ claim. The implied covenant imposes an ongoing
+obligation to act in good faith. It “requires a party in a
+contractual relationship to refrain from arbitrary or
+unreasonable conduct which has the effect of preventing the
+other party to the contract from receiving the fruits of the
+bargain.” Dunlap, 878 A.2d at 442 (cleaned up). A party that
+violates the implied covenant thus commits a present breach of
+its contract. See Restatement (Second) of Contracts § 235 cmt.
+b (1981) (“Non-performance of a duty when performance is
+due is a breach whether the duty is imposed by a promise stated
+in the agreement or by a term supplied by the court, as in the
+case of the duty of good faith and fair dealing”). We therefore
+agree with the district court that the Plaintiffs “seek to hold
+defendants presently accountable for a present breach of an
+implied promise” rather than for a “future breach of an express
+provision.” Partial Reconsideration Order, at 3 (D.D.C. May
+16, 2019), Class Pls. ECF No. 104, Berkley Pls. ECF No. 99.
+
+     The FHFA’s argument to the contrary rests upon its mis-
+placed emphasis on the future effect of the Net Worth Sweep.
+The Plaintiffs alleged the Net Worth Sweep deprived them of
+the opportunity to receive future dividends; they do not, how-
+ever, claim the FHFA breached a promise to pay them future
+dividends. Instead, they claim that by eliminating any possibil-
+ity of dividends, the FHFA violated its ongoing obligation to
+act in good faith. This is what distinguishes the implied cove-
+nant claim from the Plaintiffs’ claim for breach of their
+“contractual rights to receive a liquidation preference,” which
+alleged the FHFA had repudiated a future contractual obliga-
+tion and which the district court dismissed as a claim for
+anticipatory breach. MTD Opinion, 2018 WL 4680197, at *5-
+6. That the breach also had a future effect does not turn the
+implied covenant claim into a claim for anticipatory breach.
+We agree with the Plaintiffs that “what matters is when the
+                              23
+breach occurred, not whether the harm caused by the breach
+persists in the future.”
+
+     The FHFA speculates that this conclusion will allow future
+plaintiffs to recast their claims of anticipatory breach as
+implied covenant claims. This matters, it says, because
+Virginia and Delaware law do not allow claims for anticipatory
+breach of unilateral contracts, see Fairfax-Falls Church Cmty.
+Servs. Bd. v. Herren, 337 S.E.2d 741, 744 (Va. 1985); cf. Meso
+Scale Diagnostics, LLC v. Roche Diagnostics GmbH, 62 A.3d
+62, 78 n.102 (Del. Ch. 2013), and the contracts here became
+unilateral when the shareholders completed their performance
+by purchasing the shares. We do not share this concern. The
+FHFA does not direct us to a single case in which a court has
+incorrectly conflated these claims. Even if a future plaintiff
+attempted this maneuver, it would still have to satisfy the
+standard for stating an implied covenant claim. We see no
+reason our holding today will cause courts to mistake an
+implied covenant claim for a claim of anticipatory breach
+involving a unilateral contract.
+
+B. Harm Caused by the Net Worth Sweep
+
+     In order to prevail on their implied covenant claim, the
+Plaintiffs needed to demonstrate “both the existence of dam-
+ages provable to a reasonable certainty, and that the damages
+flowed from the defendant’s violation of the contract.” Base
+Optics Inc. v. Liu, No. 9803, 2015 WL 3491495, at *16 (Del.
+Ch. May 29, 2015); see Saks Fifth Ave., Inc. v. James. Ltd., 630
+S.E.2d 304, 311 (Va. 2006). Recall that the implied covenant
+claim proceeded to trial based upon a “lost-value theory” of
+harm, to wit, “that the Third Amendment, by eliminating any
+possibility of future dividends for [the Plaintiffs], deprived
+[their] shares of much of their value.” Summary Judgment
+Opinion, 2022 WL 4745970, at *11. The Plaintiffs pointed to
+                                 24
+the $1.6 billion decrease in the value of Fannie and Freddie
+common and junior preferred shares outstanding on August 17,
+2012 — the day the Net Worth Sweep was announced — as
+their measure of harm.
+
+     The FHFA offers three reasons the Plaintiffs failed to meet
+the standard of proof: The Plaintiffs (1) did not address
+increases in Fannie’s and Freddie’s share price in the weeks
+following the announcement of the Net Worth Sweep; (2) did
+not prove the Net Worth Sweep continued to harm the share
+value today; and (3) did not address possible alternative causes
+for the drop in the value of Fannie and Freddie on August 17,
+2012. None persuades us to set aside the verdict. ‡
+
+     First, the FHFA claims the Plaintiffs “introduced no
+evidence” regarding the rebound of Fannie’s and Freddie’s
+share price after the FHFA announced the Net Worth Sweep.
+The FHFA derives this “rebound” rule from securities fraud
+cases involving the Private Securities Litigation Reform Act. It
+does not cite a single case in which a court has applied that rule
+to a breach-of-contract claim.
+
+    Even setting that aside, the Plaintiffs did introduce evi-
+dence — an event study prepared by the FHFA’s own
+expert — addressing the price increase. Although the event
+study showed that Fannie and Freddie shares recovered some
+of the losses incurred when the Net Worth Sweep was
+announced, the Plaintiffs note that it also listed several contem-
+poraneous events that may have contributed to that recovery.
+
+‡
+   The Plaintiffs argue the FHFA waived or forfeited certain
+objections to the evidence of harm presented at trial. The FHFA
+responds that the Plaintiffs forfeited most of their waiver and
+forfeiture arguments. We need not address these arguments because,
+in any event, the FHFA’s challenge to the sufficiency of the evidence
+fails on the merits.
+                               25
+For example, the event study reports five days in October 2012
+when Fannie and Freddie shares reported excess returns
+between 3.7% and 12.9%. Around the same time, Fannie
+released the results of a national housing survey reporting
+“increasing faith in the nascent housing recovery”; the FHFA
+released a four-year strategic plan on housing finance, as well
+as updated projections of Treasury draws by Fannie and
+Freddie that showed an “improved outlook”; and Freddie
+announced the dismissal of a securities fraud class-action
+lawsuit brought against it. This evidence allowed the jury to
+conclude that subsequent increases in the value of Fannie and
+Freddie were caused by something other than a market
+reevaluation of the Net Worth Sweep.
+
+     Second, the FHFA erroneously contends that the Plaintiffs
+did not prove the Net Worth Sweep continues to harm the value
+of the shares today. The Plaintiffs’ expert witnesses and the
+then-Acting Director of the FHFA testified that Fannie and
+Freddie would have been better off if they could have retained
+some of their earnings to reinvest in their operations or to pro-
+vide protection during another economic downturn. The jury
+also heard testimony that Fannie and Freddie must still allocate
+100%      of    their   now-substantial      profits    to    the
+Treasury — through an increase in the Treasury’s liquidation
+preference. Perhaps most important, when the Plaintiffs’ expert
+Dr. Mason was asked whether the “$1.6 billion in damages
+from the Net Worth Sweep still persist today,” he replied
+unequivocally, “Yes.” Although the FHFA now characterizes
+his testimony as conclusory, the FHFA did nothing to rebut it.
+The jury was entitled to credit this testimony, and it is not our
+role to second-guess their determination or to reweigh the evi-
+dence. See Vasquez, 110 F.4th at 290.
+
+    Third, the FHFA argues that the Plaintiffs did not address
+possible alternative causes for the one-day drop in the value of
+                               26
+Fannie and Freddie, namely the Third Amendment’s portfolio-
+reduction requirement. The record tells a different story. Dr.
+Mason testified that the Net Worth Sweep was “the overriding
+effect” of the Third Amendment, and he did not have “any
+reason to believe that anything besides the Net Worth Sweep
+could have caused the huge decline in [the] stock price on
+August 17th, 2012.” The FHFA says the jury could not rely
+upon this testimony because Dr. Mason formed this opinion
+based upon the event study, which did not evaluate the effect
+of the Net Worth Sweep separately from the effect of the
+portfolio-reduction requirement. Far from relying upon only
+the event study, however, Dr. Mason testified that he had also
+reviewed financial filings, FHFA reports, and other documents
+and testimony in this case. Nor was Dr. Mason alone in his
+characterization of the Net Worth Sweep. The Plaintiffs point
+us to testimony from other witnesses describing the Net Worth
+Sweep as “unprecedented” and “the key part of the Third
+Amendment,” whereas the portfolio-reduction requirement
+“didn’t have the same impact” and caused only a slight change.
+This testimony provided an ample basis for the jury to find that
+the Net Worth Sweep caused the drop in the value of Fannie
+and Freddie on August 17, 2012.
+
+     At bottom, the FHFA asks us to reweigh the evidence and
+to discredit testimony heard by the jury. Because that exceeds
+the scope of our review, see Vasquez, 110 F.4th at 290, we
+reject the FHFA’s arguments.
+
+C. Standing of Post-Third Amendment Purchasers
+
+    The FHFA’s final argument is that the Plaintiffs who pur-
+chased their shares after the FHFA announced the Third
+Amendment do not have standing to bring their implied cove-
+nant claim. As discussed earlier, the certified classes included
+shareholders at the time of certification or “their successors in
+                               27
+interest.” According to the FHFA, the implied covenant claim
+did not “travel with the shares” but remains with the seller, so
+the post-Third Amendment purchasers could not pursue their
+claim. The Plaintiffs argue their claim traveled with the shares
+under Delaware law, and Virginia courts would likely follow
+Delaware law.
+
+     As an initial matter, the FHFA incorrectly frames its
+objection as raising a question of constitutional standing.
+“Contractual standing is distinct from Article III standing and
+does not implicate [the court’s] subject-matter jurisdiction.”
+SM Kids, LLC v. Google LLC, 963 F.3d 206, 211 (2d Cir.
+2020). “Article III standing speaks to the power of a court to
+adjudicate a controversy; contractual standing speaks to a
+party’s right to relief for breach of contract.” Id. Whether the
+post-Third Amendment purchasers have “a contractual right to
+bring this suit” is therefore “part of the inquiry into the merits
+of [their] claim.” Maxim Crane Works, L.P. v. Zurich Am. Ins.
+Co., 11 F.4th 345, 350 (5th Cir. 2020).
+
+    Turning to the merits of the FHFA’s argument, we look to
+Delaware and Virginia law to determine whether the implied
+covenant claim traveled with the shares. Those states have
+identical statutes, drawn from § 8-302 of the Uniform
+Commercial Code, providing that “a purchaser of a . . . security
+acquires all rights in the security that the transferor had or had
+power to transfer.” 6 Del. Code § 8-302(a); Va. Code. § 8.8A-
+302(a). We hold that these provisions allowed the post-Third
+Amendment purchasers to bring their implied covenant claim.
+
+    Start with Delaware law. “When a share of stock is sold,
+the property rights associated with the shares, including any
+claim for breach of those rights and the ability to benefit from
+any recovery or other remedy, travel with the shares.” In re
+Activision Blizzard, Inc. S’holder Litig., 124 A.3d 1025, 1050
+                               28
+(Del. Ch. 2015). Delaware courts have explained that “[t]he
+phrase ‘all rights in the security’” in § 8-302(a) distinguishes
+“between personal rights of the holder, on the one hand, and
+rights that inhere in the security itself, on the other.” Urdan v.
+WR Cap. Partners, LLC, 244 A.3d 668, 677 (Del. 2020). It is
+the latter sort of rights that travels with the shares.
+
+     In order to determine whether a right “inhere[s] in the
+security itself,” Delaware courts look for a “close relationship
+between the stock and the claims asserted.” Id. A right “arising
+from the relationship among stockholder, stock and the
+company,” such as a “corporate charter violation,” therefore
+travels with the shares. Id.; see Yosaki Tr. v. Weber, No. 157,
+2025 WL 3632823, at *3-4 (Del. 2025) (applying Urdan and
+holding that shareholder claims of dilution of equity interests
+and diversion of consideration traveled with the shares). In
+such a case, the violation injures “the stock and not the holder.”
+Urdan, 244 A.3d at 677. In contrast, examples of “personal
+rights” that do not travel with the shares include (1) breach of
+an agreement to purchase or sell shares, and (2) a tort claim for
+fraud in connection with the purchase or sale of shares. In re
+Activision, 124 A.3d at 1056.
+
+    We agree with the Plaintiffs that under Delaware law the
+implied covenant claim traveled with the shares. As the district
+court explained, the Net Worth Sweep “removed one of the
+most valuable sticks” from the bundle of rights that constitute
+the shares, namely, the possibility of future dividends. Rule
+50(b) Opinion, 2025 WL 823938, at *11. By “effectively
+eliminat[ing] the dividend rights that came with the shares,” the
+Net Worth Sweep diminished the value of those shares. Id. The
+implied covenant claim thus bears a “close relationship” to the
+stock. Urdan, 244 A.3d at 677.
+                                29
+     The FHFA resists this conclusion by citing Sabby
+Volatility Warrant Master Fund Ltd. v. Jupiter Wellness, Inc.,
+No. 24-2777, 2025 WL 1363171 (2d Cir. May 12, 2025). There
+the Second Circuit held that “under Delaware law, the right to
+receive payment of a lawfully declared dividend is a separate
+property right of the record stockholders and, thus, is not a right
+in the security that transfers with the sale of shares.” Id. at *2
+(cleaned up). That holding does not apply here. As the
+Plaintiffs explain, “Sabby involved the right to recover a
+specific dividend that was due when [the] plaintiff owned his
+shares.” That specific dividend, rather than the general right to
+receive dividends, was what the Second Circuit deemed a
+“separate property right” that did not travel with the shares. Id.
+The failure to pay that dividend harmed the shareholder, but it
+would not affect the value of the share to a subsequent pur-
+chaser. See Urdan, 244 A.3d at 677.
+
+     We think Delaware law is clear that the implied covenant
+claims involving Fannie traveled with the shares. Virginia law,
+however, is a different story. Neither party points us to a
+Virginia case addressing this question, nor are we aware of one.
+Still, we believe Virginia courts would follow Delaware’s
+approach. We therefore hold the claims involving Freddie also
+traveled with the shares.
+
+     As the Plaintiffs point out, Virginia courts have long
+looked to Delaware for guidance on matters of corporate law.
+See, e.g., Pagliara v. Fed. Home Loan Mort. Corp., 203 F.
+Supp. 3d 678, 689 n.18 (E.D. Va. 2016) (“It is not uncommon
+for courts interpreting Virginia corporate law to look for guid-
+ance from other courts, especially Delaware corporate law”);
+Abella v. Universal Leaf Tobacco Co., 546 F. Supp. 795, 798-
+800 (E.D. Va. 1982) (relying upon Delaware law relevant to a
+shareholder derivative action); U.S. Inspect, Inc. v. McGreevy,
+No. 160966, 2000 WL 33232337, at *4-5 (Va. Cir. Ct. Nov. 27,
+                               30
+2000) (reviewing decisions of the Supreme Court of Delaware
+for guidance on determining the value of a shareholder’s pre-
+merger interest in a company); Milstead v. Bradshaw, No. C96-
+1498, 1997 WL 33616661, at *6 (Va. Cir. Ct. Oct. 3, 1997)
+(finding “great persuasive authority” in Delaware cases regard-
+ing the standing of equitable owners of stock to file derivative
+suits). That Virginia courts would look to Delaware law here
+seems particularly likely because, not only do Delaware and
+Virginia have identical provisions governing the rights that
+travel to a new owner, but the Supreme Court of Delaware has
+weighed in recently on the meaning of that provision. Compare
+6 Del. Code § 8-302(a), and Va. Code. § 8.8A-302(a); see
+Yosaki Tr., 2025 WL 3632823, at *3-4; Urdan, 244 A.3d at
+677-78; see also Abella, 546 F. Supp. at 798 (considering
+Delaware case law when “[t]he Code of Virginia contain[ed]
+provisions substantially the same as the Delaware provisions
+the [Supreme Court of Delaware had] construed”).
+
+     To rebut this argument, the FHFA first invokes a different
+bit of Virginia law providing that only particular claims with
+respect to real or personal property are assignable. See Va.
+Code § 8.01-26 (“Only those causes of action for damage to
+real or personal property, whether such damage be direct or
+indirect, and causes of action ex contractu are assignable”).
+From this provision, the FHFA reasons “there is no automatic
+assignment” of shareholder rights under Virginia law. We
+doubt this general assignment law displaces the specific rule as
+to when a claim involving a security travels with it. In any
+event, Delaware law also provides that only some claims (those
+that inhere in the security itself) travel with the share, whereas
+others (those involving personal rights) do not.
+
+     The FHFA next argues we should look to the common law
+rather than Delaware law because Virginia did not abrogate the
+common-law rule for the assignment of a claim to a purchaser.
+                                  31
+Yet the only case the Agency cites does not discuss whether a
+claim travels with the share. See also 17 Williston on Contracts
+§ 51:4, Applicable Statutes — Article 8 of the Uniform
+Commercial Code (4th ed. updated May 2026) (recognizing the
+UCC “modified in many respects the[] common-law rules” and
+later citing the Supreme Court of Delaware’s holding in Urdan
+that claims involving “rights that inhere in the security” travel
+with the shares).
+
+    The FHFA also seeks support from New York law.
+Although “New York and Delaware law are consistent” in that
+“[w]hen a security or bond is sold . . . any claims arising out of
+breach of the rights associated with” that security or bond travel
+with it, FDIC v. Citibank N.A., Nos. 15-cv-6574, 6560, 6570,
+2016 WL 8737356, at *4 (S.D.N.Y. Sept. 30, 2016), the FHFA
+says New York law in fact demonstrates that the Plaintiffs’
+claim does not travel with the shares under any state version of
+UCC § 8-302. The Agency’s argument goes like this: (1) New
+York has adopted UCC § 8-302. (2) New York has also enacted
+General Obligations Law § 13-107(1), which provides that a
+claim for damages travels with certain securities. § (3) If that
+were already true under § 8-302, then New York would not
+have needed to enact § 13-107(1). In the FHFA’s telling, § 13-
+
+§
+    New York General Obligations Law § 13-107(1) states:
+
+          Unless expressly reserved in writing, a transfer of
+          any bond shall vest in the transferee all claims or
+          demands of the transferrer, whether or not such
+          claims or demands are known to exist, (a) for
+          damages or rescission against the obligor on such
+          bond, (b) for damages against the trustee or
+          depositary under any indenture under which such
+          bond was issued or outstanding, and (c) for damages
+          against any guarantor of the obligation of such
+          obligor, trustee or depositary.
+                              32
+107(1) therefore was intended to address a shortcoming in § 8-
+302.
+
+     This argument could be made only on the assumption that
+the court is too incurious or too lazy to notice that New York
+adopted the UCC and § 8-302 thereof long after it had enacted
+the original version of § 13-107(1) in 1950. See 1950 N.Y.
+Laws 2263-64 (codified at N.Y. Pers. Prop. Law § 41(4);
+reenacted in 1963 as N.Y. Gen. Oblig. Law § 13-107(1), see
+1963 N.Y. Laws 2223). New York did not adopt the UCC for
+another 12 years, and the current version of § 8-302(a) did not
+appear for another three decades after that. See 1962 N.Y. Laws
+2724 (relevant provision codified at N.Y. UCC § 8-301(1);
+repealed and replaced in 1997 and codified at § 8-302(a), see
+1997 N.Y. Laws 3287, 3303). So much for the General
+Obligations Law § 13-107(1) having been enacted to fill a gap
+in § 8-302.
+
+     Finally, the FHFA asserts Delaware is an outlier, and the
+majority of jurisdictions hold a claim is not automatically
+assigned to a purchaser of a share. The FHFA refers to this as
+the “no-automatic-assignment rule,” which it derives primarily
+from cases involving federal securities fraud claims. Those
+cases get the FHFA nowhere because fraud claims under
+Delaware law, like fraud claims under federal securities laws,
+do not travel with the shares; they are “personal claims [that]
+do not depend on the relationship between the stockholder and
+the corporation or the existence of an underlying security.”
+Urdan, 244 A.3d at 677; see also In re Activision Blizzard, 124
+A.3d at 1056 (citing a “tort claim for fraud in connection with
+the purchase or sale of shares” as a “[q]uintessential
+example[]” of a personal claim that does not travel with the
+shares). These cases tell us nothing about whether the type of
+claim in this case, which “inhere[s] in the security itself,”
+Urdan, 244 A.3d at 677, travels with the shares.
+                                33
+
+     That leaves the FHFA with a smattering of cases that pro-
+vide some support for its position, but they do not tip the scales
+in its favor. In Royal Parks Investments SA/NV v. U.S. Bank
+National Ass’n, for example, the court said “[t]he majority rule
+is that there is no automatic assignment of an accompanying
+litigation right or claim when transferring property.” 324 F.
+Supp. 3d 387, 398 (S.D.N.Y. 2018). Yet the court did not cite
+any cases in support of that assertion or even discuss UCC § 8-
+302; it cited only the Restatement (Second) of Contracts § 324,
+which also does not mention § 8-302. See id. The Supreme
+Court of Ohio, to its credit, undertook a more detailed analysis
+of how other jurisdictions apply § 8-302. See Paul Cheatham
+I.R.A. v. Huntington Nat’l Bank, 137 N.E.3d 45, 51-57 (2019).
+There the court held the Ohio version of § 8-302 “does not
+operate to allow the automatic assignment of rights upon a
+transfer of title.” Id. at 53. In so doing, however, the court dis-
+tinguished the personal claim before it from the non-personal
+claim considered by the Delaware Chancery Court in
+Activision. See id. at 55-56. Moreover, that case was decided
+before the Supreme Court of Delaware’s decision in Urdan,
+and the FHFA has not provided us reason to think Virginia
+would prefer Ohio’s approach to that of Delaware.
+
+     We therefore agree with the district court that the post-
+Third Amendment purchasers had contractual standing to bring
+their implied covenant claim under both Delaware and Virginia
+law.
+
+D. Cross-Appeal
+
+     Following our remand in Perry, the Plaintiffs stated in
+their initial disclosures that they would seek “the highest of
+either restitution, expectancy damages, or reliance damages.”
+See Fed. R. Civ. P. 26(a)(1)(A)(iii) (requiring parties to dis-
+                                 34
+close “a computation of each category of damages claimed”).
+The district court concluded the Plaintiffs could not seek resti-
+tution or reliance damages. In their cross-appeal, the Berkley
+Plaintiffs argue that they should have been allowed to present
+these damages theories to the jury. ** We disagree and affirm
+the decision of the district court.
+
+     1.   Restitution
+
+     The Plaintiffs explained in their initial disclosures that
+they sought restitution in an amount “equal to the prices
+originally paid for [the] shares that Plaintiffs own in [Fannie
+and Freddie], plus prejudgment interest.” The Plaintiffs’ expert
+calculated restitution damages at approximately $48 billion.
+
+     The district court held § 4617(f) barred the Plaintiffs from
+seeking that restitution. The court relied upon our statement in
+Perry that § 4617 bars “judicial injunctions, declaratory
+judgments, or other equitable relief” for actions the FHFA was
+authorized to take. Summary Judgment Opinion, 2022 WL
+4745970, at *11 (quoting 864 F.3d at 606). The district court
+understood our reference to “other equitable relief” to mean
+“remedies other than a money judgment or enforcement
+thereof.” Id. Then, relying upon Dr. Mason’s testimony, the
+court characterized the Plaintiffs’ request for restitution as a
+request for rescission because the remedy would “require the
+Defendants to disgorge the net benefits they have received
+under the contracts and [the] Plaintiffs to give up their right to
+the shares.” Id. at 12 (cleaned up). In other words, the remedy
+would “unwind the shareholder contracts in their entirety,” id.
+
+
+**
+  The Class Plaintiffs joined the cross appeal “without seeking to
+overturn or vacate the existing final judgment in their favor.” Class
+Pls.’ Notice of Cross-Appeal at 1, No. 1:13-mc-01288 (D.D.C. Apr.
+25, 2025), ECF No. 436.
+                               35
+(cleaned up), which the court viewed as equitable relief and
+barred by § 4617.
+
+     The Berkley Plaintiffs argue the district court erred in two
+respects. First, they claim the district court misread our refer-
+ence to “other equitable relief” in Perry; § 4617 does not bar
+all equitable remedies, they say, but only those that would
+interfere with the FHFA’s powers as conservator. Second, they
+assert that granting restitution would not interfere with the
+FHFA’s exercise of its powers.
+
+     Starting with Perry, we agree that the district court read
+our reference to “other equitable relief” too broadly. That
+phrase must be read in reference to what comes directly before
+and after it: “The plain statutory text [of § 4617(f)] draws a
+sharp line in the sand against litigative interference — through
+judicial injunctions, declaratory judgments, or other equitable
+relief — with FHFA’s statutorily permitted actions as conser-
+vator or receiver.” 864 F.3d at 606. Viewed in context, our
+reference to “other equitable relief” meant equitable relief that
+amounted to interference with the FHFA’s actions as conser-
+vator. As the Third Circuit put the point, “[t]he focus is not on
+the form of requested relief, but its effect.” Jacobs, 908 F.3d at
+895. The FHFA seems to agree. See Appellants’ Combined
+Response and Reply Br. 35 (“The bar is functional: courts may
+not take ‘any action’ — regardless of label — that would
+restrain or affect the Conservator’s conduct”).
+
+     The district court’s error, however, is not reason enough to
+grant the remand the Berkley Plaintiffs seek. For we agree with
+the FHFA that regardless whether we characterize rescission as
+equitable or legal, granting that remedy would restrain or affect
+the FHFA’s exercise of its authority as conservator, in violation
+of § 4617(f).
+                                36
+     Granting rescission would not, as the Berkley Plaintiffs
+claim, simply require the FHFA to “write a check.” As the
+district court explained, granting rescission in this case would
+also require the FHFA to “terminate plaintiffs’ shareholder
+contracts, extinguishing their ownership rights and forcing a
+reorientation of [Fannie’s and Freddie’s] capital structure.”
+Summary Judgment Opinion, 2022 WL 4745970, at *12; see
+also 12 C.F.R. pt. 1240, subpt. B (setting “Capital
+Requirements and Buffers” for Fannie and Freddie); January 2,
+2025 Letter Agreements, https://perma.cc/6WC4-FGCY
+(agreements between the FHFA and the Treasury to amend the
+PSPAs by requiring Fannie and Freddie to “comply with the
+Enterprise Regulatory Capital Framework” set forth in 12
+C.F.R. pt. 1240). Moreover, the Plaintiffs’ own expert admitted
+that granting rescission would require the Defendants to
+“disgorge the net benefits they have received under the con-
+tracts” and would result in an “unwinding [of] the [shareholder]
+contracts in their entirety.” Summary Judgment Opinion, 2022
+WL 4745970, at *12. Section 4617(f) bars us from granting that
+relief. Accord Jacobs, 908 F.3d at 895-96 (holding that
+§ 4617(f) barred the court from granting “damages,
+disgorgement, and restitution” that would “unravel the Third
+Amendment, reverse the monetary payments made under it,
+and prevent or at least deter the Agency from implementing it
+further”).
+
+    2.   Reliance damages
+
+     The Plaintiffs also explained in their initial disclosures that
+they would seek reliance damages equal to “the original price
+of Plaintiffs’ shares, plus prejudgment interest.” They did not,
+however, assert that theory of damages again until after the
+district court had dismissed their request for restitution. The
+Plaintiffs then moved to amend their pretrial statement to
+include a request for reliance damages. The district court
+                                37
+denied that motion for two reasons. First, the court explained
+that allowing the amendment “on the eve of trial” would
+prejudice the FHFA or force a delay to the start of the trial.
+Pretrial Amend. Opinion I, 2022 WL 11110548, at *3. Second,
+the court believed that the Delaware and Virginia courts would
+not allow the Plaintiffs to seek “reliance damages so far in
+excess of ascertainable expectation damages that they would
+necessarily place those plaintiffs in a better position than they
+would have been in had the contract been performed.” Id. at *4.
+After the jury in the first trial hung, the Berkley Plaintiffs filed
+a similar motion before the second trial. The district court
+acknowledged that its concern about the first motion coming
+“on the eve of trial” did not apply to this second motion, but it
+again held that reliance damages were unavailable because they
+far exceeded ascertainable expectation damages. Pretrial
+Amend. Opinion II, 2023 WL 3790739, at *5. The district court
+also invoked “its inherent ‘trial-management discretion’” to
+deny the motion, reasoning that “it would be fundamentally
+unfair to defendants to require the presentation of evidence and
+arguments on an entirely new and substantial issue at the
+second trial simply because the jury hung at the first.” Id. at *6.
+
+     The Berkley Plaintiffs argue that the district court erred by
+holding reliance damages unavailable as a matter of law and
+that it abused its discretion by denying their motions based
+upon other considerations. As to the first issue, we agree with
+the district court’s decision to reject the Berkley Plaintiffs’
+motions as a matter of law. The district court relied upon
+Delaware and Virginia cases holding that expectation damages
+are the standard remedy in contract cases. See, e.g., Duncan v.
+Theratx, Inc., 775 A.2d 1019, 1022 (Del. 2001); Est. of Taylor
+v. Flair Prop. Assocs., 448 S.E.2d 413, 416 (Va. 1994). The
+district court also cited decisions from other courts holding that
+plaintiffs may not “pursue — let alone recover — reliance
+damages in excess of ascertainable expectation damages.”
+                                38
+Spring Creek Expl. & Prod. Co., LLC v. Hess Bakken Inv., II,
+LLC, 887 F.3d 1003, 1026-27 (10th Cir. 2018) (applying
+Colorado law); see also Merry Gentleman, LLC v. George &
+Leona Prods., Inc., 799 F.3d 827, 830, 832 (7th Cir. 2015)
+(applying Illinois law).
+
+     Here the Plaintiffs seek reliance damages of approximately
+$48 billion, the same amount they had claimed as restitution
+damages and 30 times their expectation damages of $1.6
+billion — the decrease in the value of Fannie and Freddie
+shares on August 17, 2012. The Berkley Plaintiffs have not
+provided us any reason to think Delaware or Virginia courts
+would allow a plaintiff to seek reliance damages so far in
+excess of ascertainable expectation damages. See Berkley Pls.’
+Br. 19 (describing the “paradigmatic use of reliance damages”
+as “when the full extent of expectation damages is not
+quantifiable”). ††
+
+     Rather than dispute this general rule, the Berkley Plaintiffs
+argue that, because the district court rejected one of their
+theories of expectation damages, the full amount of their
+expectation damages was “too uncertain” to quantify. Recall
+that the district court held the Plaintiffs could not seek damages
+based upon their “lost-dividends theory” — i.e., that the Net
+Worth Sweep deprived them of dividends they eventually
+would have received. According to the Berkley Plaintiffs, this
+
+
+††
+  Many jurisdictions similarly hold that expectation damages are the
+preferred remedy when they can be calculated with reasonable
+certainty. See, e.g., ATACS Corp. v. Trans World Comms., Inc., 155
+F.3d 659, 669 (3d Cir. 1998) (applying Pennsylvania law); Nashville
+Lodging Co. v. Resolution Tr. Corp., 59 F.3d 236, 245-46 (D.C. Cir.
+1995) (applying Tennessee law); Scapa Tapes N. Am., Inc. v. Avery
+Dennison Corp., 384 F. Supp. 2d 544, 552 (D. Conn. 2005) (applying
+Connecticut law).
+                               39
+means their expectation damages were too uncertain, thus mak-
+ing their request for reliance damages appropriate after all.
+
+     This argument proceeds from the faulty premise that the
+district court rejected the lost-dividends theory because the cal-
+culation of expectation damages was too uncertain. In fact, the
+court held the theory of harm was altogether too speculative.
+See Summary Judgment Opinion, 2022 WL 4745970, at *9-10.
+As the district court and the FHFA have explained, the Berkley
+Plaintiffs “confuse the fact of harm with the measure of dam-
+ages.” Pretrial Amend. Opinion I, 2022 WL 11110548, at *4.
+
+     As to the second issue, the district court did not abuse its
+discretion by denying the Plaintiffs’ motions under its trial-
+management discretion. The Berkley Plaintiffs argue that the
+district court should have allowed them to amend their pretrial
+statement because their failure to include a request for reliance
+damages amounted to “excusable neglect.” In concluding
+otherwise, the district court not only cited concerns about
+timing, prejudice to the FHFA, and fairness; it also noted that
+the Berkley Plaintiffs had “made no subsequent effort in the
+four years” after their initial disclosure to develop their theory
+of reliance damages. Id. at *3; see Pretrial Amend. Opinion II,
+2023 WL 3790739, at *6. These are relevant considerations
+under Supreme Court precedent defining “excusable neglect.”
+See Pioneer Inv. Servs. Co. v. Brunswick Assocs., Ltd. P’Ship,
+507 U.S. 380, 395 (1993) (discussing the risk of prejudice, the
+delay of judicial proceedings, and the reason for the delay as
+relevant considerations); see also D.D.C. L. Civ. R. 16.5(a)(2)
+(allowing an amendment to a pretrial statement based upon
+“excusable neglect”). We will not disturb the district court’s
+weighing of these considerations. See United States v. Mathis-
+Gardner, 783 F.3d 1286, 1288 (D.C. Cir. 2015) (“Our review
+for abuse of discretion does not permit us to substitute our judg-
+ment for that of the trial court” (cleaned up)).
+                            40
+
+                     III. Conclusion
+
+    For the foregoing reasons, the judgment of the district
+court is
+                                         Affirmed.
+

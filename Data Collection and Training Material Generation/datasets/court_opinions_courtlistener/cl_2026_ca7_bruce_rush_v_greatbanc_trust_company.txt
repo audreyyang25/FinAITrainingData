@@ -1,0 +1,984 @@
+                              In the
+
+    United States Court of Appeals
+                For the Seventh Circuit
+                    ____________________
+No. 25-1736
+BRUCE RUSH,
+                                                 Plaintiff-Appellant,
+                                v.
+
+GREATBANC TRUST COMPANY, et al.,
+                                              Defendants-Appellees.
+                    ____________________
+
+        Appeal from the United States District Court for the
+          Northern District of Illinois, Eastern Division.
+          No. 1:19-cv-00738 — Andrea R. Wood, Judge.
+                    ____________________
+
+    ARGUED DECEMBER 12, 2025 — DECIDED JULY 17, 2026
+                ____________________
+
+   Before EASTERBROOK, JACKSON-AKIWUMI, and LEE, Circuit
+Judges.
+    JACKSON-AKIWUMI, Circuit Judge. In 2016, the Board of Di-
+rectors of the printing company Segerdahl Corporation sold
+the company to a private equity firm. Bruce Rush, a share-
+holder in the employee stock ownership plan that wholly
+owned the company, was not simply dissatisfied with the
+sale, he saw malfeasance. So Rush brought this suit under the
+Employee Retirement Income Security Act of 1974 (ERISA),
+2                                                 No. 25-1736
+
+29 U.S.C. § 1001 et seq., against Segerdahl’s named ERISA
+trustee, GreatBanc Trust Company, and several Segerdahl
+Board members (collectively “Defendants”). Rush alleges De-
+fendants violated their ERISA-imposed fiduciary obligations
+to Segerdahl’s employee stock ownership plan by organizing
+and approving the sale for less than Rush thinks the company
+was worth. After a three-week bench trial, the district court
+found for Defendants on all claims. We affirm.
+                              I.
+    We recount the facts from the trial record and the parties’
+stipulations. We begin with the Segerdahl Corporation’s his-
+tory and the structure of its employee stock ownership plan.
+We then explain Segerdahl’s search for a buyer, its negotia-
+tions with the winning bidder, and the sale’s approval and
+closing. We end with the procedural history of this case.
+     A. Segerdahl and its Employee Stock Ownership Plan
+    Founded in 1956 and headquartered in Wheeling, Illinois,
+the Segerdahl Corporation was a direct-mail printer of adver-
+tisements that higher-end retailers mailed to potential cus-
+tomers. In 2003, Segerdahl formed an employee stock owner-
+ship plan, or ESOP. ESOPs are retirement plans that allow em-
+ployees to invest for retirement by obtaining stock in the com-
+pany for which they work. The ESOP that Segerdahl formed
+soon bought out the company’s remaining shares and became
+the company’s sole owner. GreatBanc served as the ESOP’s
+trustee and managed its assets.
+   The ESOP was the brainchild of Defendant Richard
+Joutras, who was Segerdahl’s CEO from 2003 to 2015 and the
+ESOP’s largest individual shareholder. With the exception of
+GreatBanc, all other named Defendants also invested hun-
+dreds of thousands of dollars each in the ESOP. These De-
+          No. 25-1736                                                 3
+
+          fendants are Mary Lee Schneider, Bob Cronin, Rod Goldstein,
+          and Peter Mason. Schneider replaced Joutras as Segerdahl’s
+          CEO in 2015. Cronin, Goldstein, and Mason (the “Outside Di-
+          rectors”) were retained by Joutras to serve as independent di-
+          rectors on a new Segerdahl Board, which Joutras formed to
+          advise on and approve a possible sale of the company. Rush,
+          who was Segerdahl’s vice president of manufacturing, was
+          also an ESOP shareholder.
+              In 2014, Segerdahl adopted a new “stock appreciation
+          rights” (“SAR”) plan for distributing shares in the ESOP to
+          senior management. Under the SAR plan, Segerdahl manage-
+          ment would receive ESOP shares in the form of SAR units that
+          vested over three years or upon a change of control. Upon ex-
+          ercising an SAR, the SAR holder received, in cash, the differ-
+          ence between Segerdahl’s share price at vesting and a “strike
+          price” equal to Segerdahl’s share price at the time the SARs
+          were issued. The chart below shows the SARs awarded to the
+          relevant parties in this case and their value when exercised
+          upon Segerdahl’s sale.
+Name         Number of        Strike Price at   Share Price at   Total Cash Re-
+             SAR Units        Issuance          Vesting          ceived from
+             Awarded                                             SARs Upon Ex-
+                                                                 ercise
+Joutras      800              $4,025.90         $13,072          $7,236,568
+Schneider    800              $7,792.45         $13,072          $4,223,328
+Rush         200              $4,025.90         $13,072          $1,809,142
+Cronin       100              $5,719.35         $13,072          $735,226
+Goldstein    100              $5,719.35         $13,072          $735,226
+Mason        100              $5,719.35         $13,072          $735,226
+4                                                  No. 25-1736
+
+    In order to facilitate ESOP share redemptions, Segerdahl
+retained accounting firm Stout Risius Ross to conduct valua-
+tions of Segerdahl’s share price at six-month intervals (on
+June 30 and December 31 of each year). Stout’s valuations re-
+flect that Segerdahl’s share value grew considerably through-
+out the ESOP’s lifetime, from $366.80 in December 2003, to
+$12,638.00 by December 2015. Joutras attributed Segerdahl’s
+share price growth in part to a 2014 buyback of about 8,000
+ESOP shares belonging to former employees. Because the
+buyback reduced the number of outstanding ESOP shares, the
+value of the 12,000 remaining shares grew. But rather than
+pay back all the shares’ value at once, Segerdahl opted to pay
+only 20% of the shares’ value in cash upfront and cover the
+remaining 80% with promissory notes payable in equal in-
+stallments over four years.
+                B. Segerdahl Searches for a Buyer
+   By 2015, with its share price continuing to climb, Seger-
+dahl was concerned about potential liquidity issues arising
+from a large number of share redemptions when Segerdahl
+shareholders (over half of whom were over 60) retired and
+cashed out their shares. Given this uncertainty, Joutras and
+other Segerdahl managers decided to shop for a buyer for the
+company.
+    After an initial round of talks with a private equity firm
+fell through, Segerdahl retained JP Morgan Chase investment
+banker Jeffrey Vergamini to lead a search for the right buyer.
+Vergamini had significant experience selling companies, but
+had never sold an ESOP-owned company.
+   Segerdahl gave Vergamini a number of guidelines for the
+search. The most important for our purposes is Segerdahl’s
+direction to prioritize “financial buyers” instead of “strategic
+No. 25-1736                                                      5
+
+buyers.” A financial buyer—typically a private equity firm—
+“look[s] for [an] undervalued target[] with a potential to gen-
+erate high cash flow, often after a reorganization,” “treats the
+target as a part of its financial portfolio” after acquisition,
+“and sells it once exit opportunities become sufficiently ap-
+pealing.” Alexander S. Gorbenko & Andrey Malenko, Strate-
+gic and Financial Bidders in Takeover Auctions, 69 J. FIN. 2513,
+2513 (2014). By contrast, strategic buyers “are usually compa-
+nies in a related type of business, such as competitors, suppli-
+ers, or customers” who “tend to look for targets that offer
+long-term operational synergies and integrate them into their
+own business.” Id.
+   Although the parties disagree about why Segerdahl chose
+not to pursue strategic buyers, they do not dispute that JP
+Morgan pitched Segerdahl solely to financial buyers. Four
+private equity firms made it to the final stage of the bidding
+process, during which they submitted an initial, pre-due dili-
+gence bid. The final candidates and their bids were:
+        Bidder              Initial Bid          Details
+ ICV                    $300 million        After diligence,
+                                            revised its bid to
+                                            $250 million
+                                            with a $15 mil-
+                                            lion earn out,
+                                            which Segerdahl
+                                            rejected. Deal
+                                            closed at $265
+                                            million with no
+                                            earn out
+6                                                  No. 25-1736
+
+ Wynnchurch             $270 to $293 mil-    Withdrew after
+                        lion                 beginning dili-
+                                             gence
+ Madison Dearborn       $270 to $280 mil-    Withdrew when
+                        lion, with poten-    Segerdahl reen-
+                        tial to reach $306   gaged following
+                        to $318 million      ICV’s revised
+                        contingent on        bid
+                        certain financial
+                        arrangements
+ Stephens Group         $250 million to      Eliminated right
+                        $270 million         away because it
+                                             was the low bid-
+                                             der
+    Segerdahl cut Stephens Group early on because it was the
+low bidder and too skeptical of Segerdahl’s value.
+Wynnchurch withdrew soon after beginning the due dili-
+gence process. That left ICV and Madison Dearborn as the fi-
+nal candidates heading into the late summer of 2016. Dili-
+gence got underway on the buyer side. Meanwhile Great-
+Banc, the ESOP trustee, retained Stout to prepare a valuation
+of Segerdahl in anticipation of the sale and retained the law
+firm of Drinker, Biddle, and Reath to advise on the legal side.
+                    C. Negotiations with ICV
+   Some months into the diligence phase, ICV—which had
+been the high bidder in the pre-due diligence round—submit-
+ted a revised, lower offer. The offer was $250 million with an
+additional $15 million “earnout,” which ICV would pay if
+Segerdahl achieved certain year-end performance goals. ICV
+partner Lloyd Metz testified that ICV lowered its bid because
+No. 25-1736                                                    7
+
+it was concerned about Segerdahl’s recent profit projections.
+Vergamini similarly testified that ICV lowered its bid because
+“the business was underperforming.” For his part, Rush
+claims the lowered bid was the result of two missteps by De-
+fendants. First was Vergamini’s disclosure, at the Board’s re-
+quest, of Stout’s 2015 year-end valuation of Segerdahl to ICV.
+The second alleged error was Joutras purportedly revealing
+to ICV that ICV was the sole remaining bidder.
+    Segerdahl’s initial reaction to the lowered offer was not
+positive, to say the least. For instance, in one internal email,
+Schneider described the revised offer as “the most onerous,
+one-sided, insulting proposal possible.” Segerdahl also told
+Vergamini to reengage with the other remaining bidder, Mad-
+ison Dearborn, but Madison Dearborn withdrew from consid-
+eration soon after Vergamini reached out. Other than attempt-
+ing to reengage with Madison Dearborn, Segerdahl did not
+engage in discussions with any other potential buyer after re-
+ceiving ICV’s revised offer.
+    With ICV now the only remaining bidder, Vergamini fo-
+cused on getting ICV to up its bid through hardball negotia-
+tion tactics. In Vergamini’s own words, he “insulted” ICV and
+“made them feel small” in order to “put them on their back
+heels, put them off balance.” As another “tactic,” Vergamini
+told Segerdahl to disable ICV’s access to the shared database
+ICV was using for diligence. In addition to this aggressive be-
+havior, Vergamini emphasized to ICV other sources of value
+in the transaction, including a potential tax election that could
+lower Segerdahl’s pretax earnings and allow ICV to reduce
+income tax payments (the “338(h)(10) election”) and a pend-
+ing sale-leaseback of Segerdahl’s manufacturing facilities
+that, per Vergamini, would improve Segerdahl’s valuation by
+an estimated $10 million.
+8                                                             No. 25-1736
+
+    After weeks of negotiations, on October 14, 2016, ICV sub-
+mitted another revised bid to buy Segerdahl for $265 million
+in cash with no earnout. Vergamini touted $265 million as an
+“absolutely terrific” price “given the fact that the business
+was underperforming significantly” compared to the projec-
+tions that Segerdahl had shared with buyers at the initial bid-
+ding stage. ICV’s internal deliberations also reflect its con-
+cerns that it was overpaying at $265 million given Segerdahl’s
+declining financial health. According to Metz, $265 million
+was ICV’s “absolute[]” ceiling.
+                    D. GreatBanc Approves the Sale
+    As the ESOP trustee, GreatBanc had ultimate discretion to
+approve or reject ICV’s $265 million offer. To inform its deci-
+sion, GreatBanc solicited the Outside Directors’ views on the
+transaction’s fairness. GreatBanc also tasked Stout and
+Drinker, the accounting and legal advisors for GreatBanc in
+its capacity as ESOP trustee, with evaluating the sale.
+    The Outside Directors recommended that GreatBanc ap-
+prove the sale to ICV at $265 million. In deciding whether to
+recommend approving the sale, the Outside Directors consid-
+ered Segerdahl’s poor financial performance against its pro-
+jections in the second half of 2016; the ESOP’s prior valuations
+and projected future valuation; the fact that ICV was paying
+a higher EBITDA 1 multiple than comparable transactions;
+
+    1 EBITDA means Earnings Before Interest, Taxes, Depreciation, and
+
+Amortization. Kuebler v. Vectren Corp., 13 F.4th 631, 640 n.3 (7th Cir. 2021).
+“This metric is often used to evaluate a company’s operating performance
+independent of potentially ‘noisy’ factors that can vary from company to
+company based on existing capital structure, tax issues, and the like.” Id.
+Financial analysts often value private companies by multiplying their
+EBITDA by a factor called an “EBITDA multiple,” which is “determined
+by a combination of precedent transaction analysis, examining current
+No. 25-1736                                                             9
+
+and Segerdahl’s uncertain future if it decided not to consum-
+mate the transaction. The Outside Directors also weighed
+whether to seek out competing bids from two strategic buy-
+ers, RR Donnelley and Quad/Graphics, but decided that do-
+ing so was not in the ESOP’s best interest.
+    Stout conducted a “fairness analysis” that valued Seger-
+dahl at $249 to $293 million. The fairness analysis did not ex-
+pressly reference the 338(h)(10) election, the sale-leaseback, or
+the expected value of a settlement Segerdahl expected to re-
+ceive in litigation over fraud by a temporary staffing agency
+at one of Segerdahl’s facilities (which the parties refer to as
+the “Wolf Road fraud”). Stout nevertheless concluded the
+$265 million proposed sale price was adequate consideration
+for the ESOP because it represented “not less than Fair Market
+Value” for the ESOP’s shares.
+    The Drinker due diligence report considered the myriad
+legal issues relevant to the proposed sale. These included ex-
+ecutive employment and transaction bonus agreements,
+change of control payments, and potential claims such as for
+the Wolf Road fraud. The Drinker attorney who prepared the
+diligence report, David Rubenstein, testified that Drinker con-
+sidered the 338(h)(10) election but did not view it as “mate-
+rial” because Drinker doubted whether a buyer would pay
+more for the opportunity to exercise the tax election post-sale.
+Drinker also considered the potential impact of a settlement
+of litigation over the Wolf Road fraud, and similarly con-
+
+
+market trends and other valuation methodologies.” Jack Chang, A Guide
+to EBITDA Multiples and Their Impact on Private Company Valuations, FORBES
+(June 16, 2022, 8:15AM), https://www.forbes.com/councils/forbesbusi-
+nesscouncil/2022/06/16/a-guide-to-ebitda-multiples-and-their-impact-on-
+private-company-valuations/.
+10                                                No. 25-1736
+
+cluded it was not material because the litigation was not near
+an end and any potential return was “speculative” and not
+significant enough to affect the deal.
+    Along with the opinions from Stout and Drinker, Great-
+Banc conducted its own investigation of the ICV transaction
+during the summer and fall of 2016. GreatBanc’s CEO Jim
+Staruck, who oversaw the trusteeship of Segerdahl, attended
+at least two meetings with management and Vergamini, dur-
+ing which the group discussed the value of the 338(h)(10) elec-
+tion, the sale-leaseback, and the potential Wolf Road fraud
+settlement.
+    The GreatBanc Fiduciary Committee (which signed off on
+all GreatBanc trustee decisions) approved the transaction dur-
+ing a meeting on November 29, 2016. Staruck’s notes from the
+meeting explained that ICV’s revised bid of $265 million was
+reasonable in light of negative financial projections Segerdahl
+had released over the prior months. Staruck’s notes also re-
+flected that Stout had not included either the sale-leaseback
+or the 338(h)(10) election in the valuation because there were
+too many outstanding variables for either to be a net value
+add.
+    The November 29 meeting minutes reflect that Staruck
+was concerned about the opportunity cost of not accepting
+ICV’s offer—namely, the prospect of liquidity issues arising
+from stock repurchases and how that might hamper Seger-
+dahl’s growth strategy. The Committee also discussed the
+post-sale compensation structure for management, including
+Schneider, and Stout’s representative Andrew Ward opined
+that the post-sale compensation arrangements were “rela-
+tively standard in a private equity purchase deal.”
+No. 25-1736                                                  11
+
+    GreatBanc memorialized its approval of the transaction in
+a Fiduciary Process Compliance Report (“GreatBanc Re-
+port”), which Staruck prepared. The report explained that the
+transaction was prudent because Segerdahl’s forecasts were
+on a downturn and Segerdahl faced considerable repurchase
+liability in the coming years. It also emphasized that the thor-
+ough sales process reflected Segerdahl’s market value.
+    The deal closed on December 7, 2016. Shortly before the
+closing, Vergamini and Segerdahl’s management—including
+Rush—met to discuss the pending sale. Rush testified that
+during the meeting, Vergamini told attendees that, because
+he knew the CEO of a strategic buyer, Quad/Graphics, he
+“could have sold [Segerdahl] to [Quad/Graphics] for $320
+million,” and wrote “320 M” on a whiteboard. Every other
+witness who was at the meeting denied Vergamini said this,
+including Vergamini himself.
+    Upon closing, Segerdahl management received the cash
+value of their SARs, which was equivalent to the $13,072 share
+price at which ICV bought Segerdahl minus the strike price at
+which the shares were issued. Joutras received $7,236,568;
+Schneider received $4,223,328; Rush received $1,809,142; and
+the Outside Directors each received $735,226. Schneider
+rolled over approximately $1.2 million of the proceeds from
+her SARs into shares in the post-sale company and received
+other “incentive” shares that were worth approximately
+$573,000 when she left the company in 2018.
+                      E. Procedural History
+    Dissatisfied with the sale price, Rush sued GreatBanc,
+Joutras, Schneider, and the Outside Directors for approving
+the sale in violation of their fiduciary duties to the ESOP. The
+district court certified a class comprising between 400 and 500
+12                                                   No. 25-1736
+
+ESOP shareholders, 2021 WL 2453070 (N.D. Ill. June 16, 2021),
+and denied in large part Defendants’ summary judgment mo-
+tions, 2022 WL 17740418 (N.D. Ill. Dec. 16, 2022). The case cul-
+minated in a three-week bench trial that featured testimony
+from thirteen fact witnesses and four experts. The court also
+received approximately 500 pages of post-trial submissions.
+    Following trial, the district court issued a comprehensive
+written opinion awarding judgment to Defendants on all
+counts. Put simply, the district court found the facts did not
+support Rush’s theory that Defendants purposefully de-
+pressed the sale price to benefit themselves at the expense of
+the class and in violation of their ERISA-imposed fiduciary
+duties. To the contrary, the district court found that Segerdahl
+and JP Morgan obtained the best price they could for Seger-
+dahl given its declining performance, and GreatBanc fulfilled
+its fiduciary obligations in approving the sale. The district
+court also concluded that Rush had not proven that any De-
+fendant’s conflict of interest tainted the transaction in viola-
+tion of ERISA’s prohibited-transaction rules. Rush challenges
+these findings on appeal.
+                               II.
+    On appeal of a bench trial ruling, we review a district
+court’s legal conclusions de novo, and its factual findings for
+clear error. PNC Bank, Nat’l Ass’n v. Boytor, 109 F.4th 495, 503
+(7th Cir. 2024). We defer to the district court’s factual findings
+unless they are “illogical or implausible” or “lack support in
+inferences that may be drawn from the facts in the record.”
+Estrada-Martinez v. Lynch, 809 F.3d 886, 895 (7th Cir. 2015) (ci-
+tation modified) (quoting Anderson v. Bessemer City, 470 U.S.
+564, 577 (1985)). Put differently, “our task on appeal is not to
+see whether there is any evidence that might undercut the dis-
+No. 25-1736                                                    13
+
+trict court’s finding; it is to see whether there is any evidence
+in the record to support the finding.” Baz v. Patterson, 100
+F.4th 854, 870 n.5 (7th Cir. 2024) (citation modified).
+                               III.
+    Rush’s challenges to the district court’s bench trial ruling
+fall into four categories: (1) a challenge to the district court’s
+determination that the individual Defendants (Joutras,
+Schneider, and the Outside Directors) were not fiduciaries of
+the ESOP and so could not be liable for breaching any fiduci-
+ary duties; (2) challenges to the district court’s findings that
+Defendants did not breach any fiduciary duties they may
+have owed to the ESOP; (3) challenges to the district court’s
+rulings that no Defendant possessed a conflict of interest that
+would render the sale a “prohibited transaction” under
+ERISA, see 29 U.S.C. § 1106; and (4) challenges to the district
+court’s ruling that Rush failed to prove damages.
+    We need not address Rush’s first argument challenging
+the district court’s ruling that the individual Defendants were
+not fiduciaries of the ESOP. Even assuming that all Defend-
+ants were fiduciaries, we see no clear error in the district
+court’s determination that Rush failed to prove that any De-
+fendant breached their fiduciary duty to the ESOP. We also
+see no clear error in the district court’s finding that no Defend-
+ant violated ERISA’s prohibited-transaction rules. Finally, we
+see no clear error in the district court’s conclusion that Rush
+failed to prove damages.
+                  A. Breach of Fiduciary Duties
+   ERISA imposes two relevant types of fiduciary duties on
+trustees and managers of ESOP assets: the duty of prudence
+and the duty of loyalty. Appvion, Inc. Ret. Sav. & Emp. Stock
+Ownership Plan by & through Lyon v. Buth, 99 F.4th 928, 943 (7th
+14                                                  No. 25-1736
+
+Cir. 2024). The duty of prudence requires a fiduciary to man-
+age plan assets “with the care, skill, prudence, and diligence
+under the circumstances … that a prudent man acting in a like
+capacity and familiar with such matters would use.” 29 U.S.C.
+§ 1104(a)(1)(B). The duty of loyalty requires plan fiduciaries
+to discharge their duties “solely in the interest of the plan’s
+participants and beneficiaries” and to “deal fairly and hon-
+estly with beneficiaries … so as to ensure that a plan receives
+all funds to which it is entitled.” Cunningham v. Cornell Univ.,
+604 U.S. 693, 696 (2025) (citation modified); see also 29 U.S.C.
+§ 1104(a)(1)(A).
+    Rush contends the district court legally and factually erred
+in holding that none of the Defendants violated their fiduci-
+ary duties. He argues the district court committed legal error
+by applying an overly deferential standard of review to De-
+fendants’ decisions. And Rush claims that the district court
+factually erred in finding none of the Defendants’ conduct
+amounted to breach. We take these arguments in turn.
+           1. The District Court’s Standard of Review
+    Rush asserts the district court erroneously applied an
+abuse-of-discretion standard of review to Defendants’ deci-
+sions regarding the sale. In Rush’s view, the district court read
+too much into our decision in Armstrong v. LaSalle Bank Na-
+tional Ass’n, where we stated that “[i]n general, judicial review
+of the decisions of an ERISA trustee as of other trustees is def-
+erential unless there is a conflict of interest” and adopted an
+abuse-of-discretion standard for such review. 446 F.3d 728,
+732–33 (7th Cir. 2006). Rush maintains the abuse-of-discretion
+standard adopted in Armstrong is limited to review of a fidu-
+ciary’s decisions that involve balancing the interests of differ-
+ent groups of plan participants against each other. Rush ob-
+No. 25-1736                                                       15
+
+serves that every ESOP shareholder had the same interest in
+obtaining the highest possible sale price for the company. So,
+Rush reasons, Armstrong’s deferential standard does not ap-
+ply to this case, and we should conduct a searching, “plenary”
+review of Defendants’ conduct.
+    We disagree. Armstrong means what it says: an ERISA fi-
+duciary’s decisions should receive judicial deference where
+there is no conflict of interest. The Supreme Court has ob-
+served that “principles of trust law” inform the standard of
+review for ERISA fiduciaries’ decisions. Firestone Tire & Rub-
+ber Co. v. Bruch, 489 U.S. 101, 111 (1989) (citing Cent. States, Se.
+& Sw. Areas Pension Fund v. Cent. Transp., Inc., 472 U.S. 559,
+570 (1985)). Well-settled trust law principles instruct that a
+trustee’s discretionary decisions involving the administration
+and management of plan assets receive deferential review. See
+Restatement (Third) of Trusts § 87 cmt. b (A.L.I. 2007); Bruch, 489
+U.S. at 111 (“Trust principles make a deferential standard of
+review appropriate when a trustee exercises discretionary
+powers.”); Morton v. Smith, 91 F.3d 867, 870 (7th Cir. 1996) (ex-
+plaining that a trustee’s discretionary decisions are reviewed
+for abuse of discretion). And the ESOP plan document itself
+states that the ESOP administrator has “sole and absolute dis-
+cretion” in discharging its duties under the plan. See Johnson
+v. Allsteel, Inc., 259 F.3d 885, 890 (7th Cir. 2001) (judicial review
+of fiduciary’s decisions is deferential where plan itself vests
+fiduciaries with discretion). Accordingly, the district court ap-
+plied the correct standard of review to Defendants’ fiduciary
+decision making.
+16                                                          No. 25-1736
+
+                     2. Alleged Fiduciary Breaches
+   We turn to the district court’s conclusion that no Defend-
+ant breached their fiduciary duties to the ESOP. We find no
+error, much less clear error.
+    We emphasize again that our task is not to reweigh the
+evidence or find the facts anew. On clear error review, we
+only assess whether the district court’s findings have any sup-
+port in the record. If so, we must affirm even if we might have
+come to a different conclusion were we sitting as the trier of
+fact. See Anderson, 470 U.S. at 573–74. “A finding that is plau-
+sible in light of the full record—even if another is equally or
+more so—must govern.” Cooper v. Harris, 581 U.S. 285, 293
+(2017) (citation modified).
+    Rush does not clear this high hurdle with respect to any of
+his fiduciary breach claims. Rush argues that Defendants
+breached their fiduciary duties to the ESOP in five ways: (1)
+by marketing Segerdahl to financial buyers to the exclusion of
+strategic buyers; (2) by resuming negotiations with ICV after
+ICV lowered its offer; (3) by allegedly disclosing the 2015 val-
+uation of Segerdahl to ICV during the diligence process; (4)
+by allegedly disclosing to ICV that it was the only bidder; and
+(5) as to GreatBanc, by failing to fulfill its fiduciary obligations
+to supervise the negotiations and adequately scrutinize the
+deal’s fairness. 2 With each argument, Rush disagrees with the
+
+
+
+     2 Rush has waived all other bases for his fiduciary breach claims. See
+
+R.R. Maint. & Indus. Health & Welfare Fund v. Mahoney, 144 F.4th 957, 964
+(7th Cir. 2025) (“Perfunctory and undeveloped arguments are waived ….”
+(citation modified)).
+No. 25-1736                                                    17
+
+way the district court interpreted the evidence, but he does
+not point to any clear error in the district court’s findings.
+                   a. Excluding strategic buyers
+    The parties agree that the Board told JP Morgan to priori-
+tize financial buyers over strategic buyers in the initial search.
+The parties disagree about why. As Defendants tell it, only
+two competitors in the direct mail printing industry,
+Quad/Graphics and RR Donnelley, were plausible candi-
+dates, and Segerdahl believed neither company was in a po-
+sition to consummate such a large transaction. RR Donnelley
+was in the process of splitting into three new public compa-
+nies and had recently purchased another direct-mail com-
+pany. And Segerdahl believed Quad/Graphics was struggling
+financially and would not be in financial shape to make a
+large acquisition. Finally, Segerdahl noted that the transaction
+might not be enticing to Quad/Graphics or RR Donnelley be-
+cause those companies were operating at EBITDA multiples
+lower than Segerdahl’s. As Vergamini testified, publicly
+traded companies typically do not buy assets with EBITDA
+multiples higher than their own because the market typically
+values the earnings of the acquired asset at the acquirer’s
+lower multiple, which diminishes the value of paying a
+higher price for a better-performing asset.
+    Defendants also testified to more generalized concerns
+that marketing the company to strategic buyers might allow
+Segerdahl’s competitors to use the due diligence process to
+get a competitive advantage over Segerdahl. Of course, if the
+sale closed, that wouldn’t matter. But if talks fell through, the
+sensitive information the would-be acquirer learned about
+Segerdahl during the due diligence process could give that
+competitor a leg up in the intensely competitive direct-mail
+18                                                 No. 25-1736
+
+printing industry. Segerdahl additionally feared the diligence
+process could cause salespeople Segerdahl had recently
+poached from Quad/Graphics and RR Donnelley to return to
+their old employers or move to another company.
+    As Rush tells it, Defendants’ rationales for pursuing finan-
+cial buyers are neatly arranged stories concocted after the fact
+to cover up the real reasons Defendants did not want to shop
+Segerdahl to competitors. First, Rush claims the Board
+wanted to depress the sale price to ensure Schneider would
+more easily be able to obtain equity in the post-sale com-
+pany—a lower sale price meant post-sale shares would be
+cheaper. To achieve this aim, Rush argues Defendants inten-
+tionally steered JP Morgan towards financial buyers because
+they knew financial buyers would on balance pay less for
+Segerdahl than strategic buyers. Second, Rush contends that
+senior management, including Joutras and Schneider,
+thought a financial buyer would be more likely to retain the
+current management after the sale. Rush argues that Defend-
+ants intentionally pursued both these ulterior objectives at the
+expense of maximizing the ESOP’s sale price.
+   We see no clear error in the district court’s rejection of
+Rush’s theories. True, Rush points to evidence that Schneider
+and Joutras were concerned that a sale to a strategic buyer
+would lead to mass layoffs, including of senior personnel. For
+example, Rush highlights an email in which Schneider ob-
+serves “[a] strategic buyer would likely pay more—and we
+could have pursued that. In that scenario, the vast majority of
+the workforce would be out of jobs day 1.”
+   This statement certainly could support the conclusion that
+Schneider excluded strategic buyers to save jobs and at the
+expense of shareholder value. But the district court instead
+No. 25-1736                                                 19
+
+chose to credit Schneider and Joutras’s testimony that the de-
+cision to exclude strategic buyers was motivated by the risk
+of allowing competitors to access competitively sensitive in-
+formation as part of the diligence process. The district court
+further accepted Defendants’ explanations that RR Donnelley
+and Quad/Graphics were in poor positions to acquire Seger-
+dahl in any event. And the district court believed Schneider’s
+explanation that her email was describing a hypothetical
+world in which a strategic buyer had the balance sheet neces-
+sary to complete a transaction. Because each of these findings
+has some support in the record, the district court did not
+clearly err in concluding that Defendants’ explanations for
+not shopping Segerdahl to RR Donnelley or Quad/Graphics
+were more credible than Rush’s own hypotheses. See Cooper,
+581 U.S. at 309 (courts of appeals owe “singular deference to
+a trial court’s judgments about the credibility of witnesses”).
+    The district court also reasonably concluded that Schnei-
+der, Joutras, and the Outside Directors would not have inten-
+tionally searched for a buyer who would pay less for Seger-
+dahl given that the value of their SARs was directly tied to
+Segerdahl’s sale price. Rush does not and cannot dispute that
+the individual Defendants’ pecuniary interests were aligned
+with the ESOP’s own interests in obtaining a higher sale price.
+In sum, the district court did not clearly err in finding that
+excluding strategic buyers was not a breach of fiduciary duty.
+     b. Resuming negotiations with ICV following revised
+                            offer
+   Rush next argues that Defendants’ decision to reengage
+with ICV after it dropped its offer from $300 million to $250
+million shows that Defendants were not acting in the ESOP’s
+best interests. Rush reasons that prudent fiduciaries would
+20                                                  No. 25-1736
+
+have gone to Quad/Graphics or RR Donnelley for a compet-
+ing bid rather than come back to the table with ICV right
+away. Instead of getting another bid, Rush claims Joutras and
+Schneider returned to ICV out of personal motivations to
+close the sale before year’s end. Specifically, Rush notes that,
+around the same time the Board decided to reengage with
+ICV, Segerdahl’s tax lawyers told it that IRS guidance prohib-
+ited Segerdahl from using its own stock to secure the promis-
+sory notes issued in connection with the 2014 share buyback.
+Rush reasons that because Joutras and Schneider faced im-
+pending “personal liability” for the securitization issue, they
+wanted to get the deal done (and get out) quickly, rather than
+shop the company further and get a better price.
+    The district court soundly rejected that theory. It noted
+that the risk of IRS action was “speculative” and “hypothet-
+ical” because the securitization guidance was just that—guid-
+ance. Nothing in the guidance compelled the IRS to investi-
+gate Segerdahl, and the IRS had not yet done so. Thus, even if
+Segerdahl’s conduct actually violated IRS rules (as Rush’s ex-
+pert testified), the district court reasonably concluded the risk
+of personal liability was remote and did not justify a finding
+that Joutras or Schneider breached their fiduciary duties.
+    Rush’s theory has other defects. If Joutras and Schneider
+were chiefly motivated to close the deal as quickly as possible
+rather than to get the best price for the sale, one would have
+expected them to accept the initial $250 million offer outright.
+They instead aggressively pushed ICV—through Vergam-
+ini—to bump up the sale price over more than a month of ad-
+ditional negotiations. This conduct is wholly inconsistent
+with Rush’s need-for-speed assertion. Moreover, the record
+shows Segerdahl did not engage with RR Donnelley and
+Quad/Graphics following ICV’s lowered offer for the same
+No. 25-1736                                                   21
+
+reasons they did not include strategic buyers in the initial can-
+didate pool: they were concerned about disclosing sensitive
+information to competitors and did not think either company
+was financially able to support a transaction.
+               c. Disclosing 2015 valuation to ICV
+    Rush next attacks the Board’s decision to disclose Stout’s
+2015 year-end valuation of Segerdahl to ICV during the dili-
+gence process. He claims no reasonable fiduciary would have
+disclosed Segerdahl’s valuation in the midst of diligence, es-
+pecially because the valuation had a confidentiality provision
+requiring GreatBanc’s consent before disclosure (which
+Segerdahl did not obtain). In support, Rush cites testimony
+from Staruck and GreatBanc’s legal counsel, both of whom
+stated that it typically is not in a seller’s interest to divulge
+such information.
+   The district court instead found persuasive Vergamini’s
+explanation that he shared the valuation because “it told a
+good story of why this business should be valued highly be-
+cause it’s growing and it’s got high EBITDA and the margin
+profile is strong.” Schneider, too, stated she told Vergamini to
+share the valuation because she wanted to “provide some un-
+derstanding of what [the] share price was so they understood
+what the minimum floor was, and they could build from
+there.”
+    The district court did not clearly err in believing Vergam-
+ini and Schneider’s stated reasons for disclosing the valua-
+tion. See Cooper, 581 U.S. at 309. While Rush argues in hind-
+sight that the valuation led to ICV lowering its offer, the dis-
+trict court observed that Segerdahl’s poor performance in the
+first half of 2016 is a more likely explanation for ICV’s deci-
+sion. Nothing in the record contradicts that finding, so we
+22                                                   No. 25-1736
+
+may not disturb it. See Anderson, 470 U.S. at 574 (“Where there
+are two permissible views of the evidence, the factfinder’s
+choice between them cannot be clearly erroneous.”).
+          d. Leaking to ICV that it was the only bidder
+    Rush contends Joutras violated his fiduciary duties by dis-
+closing to ICV’s Frank Clark that ICV was the only active bid-
+der, which Rush claims led ICV to lower its bid. In support,
+Rush cites an email exchange between a Segerdahl executive
+and Vergamini in which the two speculate about whether
+Joutras “leaked [this fact] to Frank Clark” because “[h]e has a
+hard time keeping things to himself.”
+    The district court found that there was no leak and that
+ICV independently discerned it was the only bidder. The trial
+evidence supports that conclusion. Metz denied that ICV re-
+ceived a leak from Joutras that it was the only buyer. Instead,
+Metz testified that ICV’s own diligence provided it with in-
+sight into its position in the bidding process. Metz also ex-
+plained that ICV inferred it was the sole bidder from Vergam-
+ini’s “begging and pleading” for ICV to raise its revised offer.
+It was not clear error for the district court to believe ICV’s ex-
+planation over Rush’s speculative contentions. See Estrada-
+Martinez, 809 F.3d at 895 (”When a fact-finder bases her find-
+ing on a decision to credit a witness’s testimony, that finding
+‘can virtually never be clear error’ as long as the testimony is
+‘coherent and facially plausible,’ ‘not internally inconsistent,’
+and ‘not contradicted by extrinsic evidence.’” (quoting Ander-
+son, 470 U.S. at 575)).
+            e. Failing to perform trustee obligations
+    Finally, Rush contends GreatBanc failed to fulfill its fidu-
+ciary duties because it did not independently negotiate the
+sale price and instead simply rubber-stamped the deal Ver-
+No. 25-1736                                                     23
+
+gamini and the Board struck with ICV. The district court dis-
+agreed, finding that GreatBanc discharged its fiduciary obli-
+gations by relying on a litany of independent advisors: JP
+Morgan, Stout, and Drinker.
+    Rush protests that such independent advice cannot
+“whitewash” a trustee’s failure to perform its fiduciary obli-
+gations. See Donovan v. Bierwirth, 680 F.2d 263, 272 (2d Cir.
+1982) (observing that obtaining independent counsel does not
+“operate as a complete whitewash which, without more, sat-
+isfies ERISA’s prudence requirement”). GreatBanc did not
+merely defer to its independent advisors though. It conducted
+its own investigation, which included attending at least two
+meetings with Vergamini and the Board; holding a half-day
+Fiduciary Committee meeting to approve the transaction, at
+which Staruck and GreatBanc’s advisors questioned the sale’s
+fairness at length; and preparing a written report memorial-
+izing its reasoning for approving the transaction. GreatBanc’s
+“careful and impartial investigation” of the soundness of its
+advisors’ recommendation satisfied its fiduciary obligations
+in this case. Donovan, 680 F.2d at 271; see also Keach v. U.S. Tr.
+Co., 419 F.3d 626, 637 (7th Cir. 2005) (stating that a trustee dis-
+charges its fiduciary duties if it obtains independent advice
+from an expert, “‘investigate[s] the expert’s qualifications,’
+‘provide[s] the expert with complete and accurate infor-
+mation’ and ‘make[s] certain that reliance on the expert's ad-
+vice is reasonably justified under the circumstances.’” (quot-
+ing Howard v. Shay, 100 F.3d 1484, 1489 (9th Cir. 1996))); Adams
+v. Thiokol Corp., 231 F.3d 837, 845 (11th Cir. 2000) (holding that
+“input from two independent firms” supported proper exer-
+cise of fiduciary duties).
+   We conclude Rush has not shown the district court clearly
+erred in rejecting all of Rush’s fiduciary breach claims.
+24                                                         No. 25-1736
+
+                       B. Prohibited Transaction
+    We now turn to Rush’s claims that the Segerdahl sale was
+a prohibited transaction under 29 U.S.C. § 1106. As relevant
+here, § 1106(a)(1) bars a plan fiduciary from causing the plan
+“to engage in a transaction, if he knows or should know that
+such transaction constitutes a direct or indirect … [transac-
+tion] between the plan and a party in interest.” Section 1106(b)
+prohibits a plan fiduciary from “deal[ing] with the assets of
+the plan in his own interest or for his own account,” “act[ing]
+in any transaction involving the plan on behalf of a party (or
+represent a party) whose interests are adverse to the interests
+of the plan” or “receiv[ing] any consideration for his own per-
+sonal account from any party dealing with such plan in con-
+nection with a transaction involving the assets of the plan.”
+§ 1106(b)(1)–(3).
+    Rush contends the district court improperly overlooked
+his evidence that the Defendants—specifically Schneider and
+GreatBanc—were conflicted. Affording the district court’s de-
+cision its due deference, we again find no clear error.
+                1. § 1106(b) Claims against Schneider
+    Before the district court, Rush asserted § 1106(b) claims
+against Schneider, Joutras, and the Outside Directors based
+on their alleged conflicts of interest in shepherding the sale to
+ICV. On appeal, however, Rush expressly abandons his
+§ 1106(b) claims against Joutras and focuses his arguments on
+Schneider’s alleged self-dealing. We limit our discussion ac-
+cordingly.3
+
+
+     3 Rush did not similarly state that he is abandoning his prohibited-
+
+transaction argument as to the Outside Directors. Yet his argument re-
+garding the Outside Directors is limited to a few paragraphs at the end of
+No. 25-1736                                                                25
+
+    Rush argues that Schneider was conflicted in violation of
+§ 1106(b) because she had two personal objectives in direct
+conflict with maximizing the ESOP’s value: (1) keeping her
+job as CEO of the post-sale company, and (2) growing her eq-
+uity stake in the company, which she accomplished to the
+tune of nearly $1.75 million upon the sale’s closing.
+    The district court reasonably credited testimony that it
+was ICV, not Schneider, who pushed Schneider to stay on as
+CEO and roll over her equity stake to invest in the new com-
+pany’s stock. As Schneider testified, “I don’t know of any pri-
+vate equity firm that takes over a company and doesn’t have
+an expectation of management rolling money back into the
+company to keep their jobs. That’s how it works.” Staruck
+similarly testified that, in his experience as trustee for dozens
+of ESOP transactions, the majority involve executives staying
+on and rolling over their equity into shares in the post-sale
+company. Moreover, ICV’s internal discussions reflect its de-
+sire to keep Schneider on board. In one diligence document,
+ICV named the “[o]pportunity to back a strong CEO” as a rea-
+son why it was looking to buy Segerdahl. And Rush once
+again fails to marshal evidence that Schneider—who received
+$4.2 million from her SARs upon the deal’s closing—acted
+against her own pecuniary interests by intentionally depress-
+ing the sale price. We find no clear error in the district court’s
+determination that Schneider did not violate § 1106(b).
+
+
+
+
+his reply brief. That constitutes waiver under our caselaw. See Bradley v.
+Vill. of Univ. Park, 59 F.4th 887, 897 (7th Cir. 2023) (explaining that appel-
+lants waive arguments they fail to raise in the opening brief on appeal).
+26                                                   No. 25-1736
+
+            2. § 1106(a)(1) Claims against GreatBanc
+    Rush also claims GreatBanc “cause[d] the plan to engage
+in” the sale to ICV in violation of § 1106(a) because it ap-
+proved the transaction despite knowing Schneider would be
+purchasing stock in the post-sale company. Applying our de-
+cision in Leigh v. Engle, 727 F.2d 113, 126 (7th Cir. 1984), the
+district court rejected that argument on grounds that Rush did
+not show that Schneider possessed any intent to injure the
+ESOP to benefit her post-sale investment.
+     Rush argues the district court’s intent requirement mis-
+reads Leigh. We agree with the district court’s interpretation.
+It is true that Leigh urges a broad reading of ERISA’s prohib-
+ited transaction rules. See id. at 126 (“We do not believe that
+Congress intended the language ‘use by or for the benefit of,
+a party in interest,’ … to be interpreted narrowly.” (citation
+omitted)). But we have rejected a wooden, literal reading of
+§ 1106(a) that would turn commonplace plan activities into
+ERISA violations. In Albert v. Oshkosh Corp., the plaintiff, like
+Rush, argued that a plaintiff can make out a § 1106(a) claim
+“merely by identifying a ‘party in interest’ … and alleging
+that the party in interest engaged in one of the transactions
+listed in § 1106(a)(1).” 47 F.4th 570, 585 (7th Cir. 2022) (citing
+29 U.S.C. §§ 1002(14), 1106). We disagreed because that read-
+ing ”would prohibit fiduciaries from paying third parties to
+perform essential services in support of a plan”—an “absurd
+result[] … inconsistent with ERISA’s statutory purpose.” Id.
+at 584–85.
+    The same logic applies here. The bright-line rule Rush ad-
+vocates would mean that a fiduciary violates ERISA’s prohib-
+ited transaction rules whenever it approves a transaction
+knowing that an officer of the ESOP intends to invest in the
+No. 25-1736                                                   27
+
+post-sale entity. Under such a rule, ESOP officers would no
+longer be able to maintain equity in their companies after a
+transaction. But, as the evidence presented at trial established,
+buyers prefer—and even expect—ESOP officers to have a
+stake in the post-sale company, especially when they are stay-
+ing on in an executive capacity. Preventing post-sale invest-
+ment by ESOP officers would, on balance, decrease the sale
+price and thereby injure ESOP shareholders. As such, Rush’s
+proposed rule would contravene the very purposes of ERISA.
+    Moreover, even assuming Schneider’s post-sale invest-
+ment qualifies the sale as a prohibited transaction, Rush’s
+§ 1106(a) claim fails for another reason. The district court did
+not clearly err in finding Defendants had proved their “ade-
+quate consideration” affirmative defense. This defense im-
+munizes a defendant from liability under the prohibited
+transaction rules if the defendant proves that the “acquisition,
+sale, or lease” at issue “is for adequate consideration.” 29
+U.S.C. § 1108(e)(1); Cunningham, 694 U.S. at 702. In the context
+of an ESOP sale, adequate consideration comprises two re-
+quirements: “a substantive requirement that the value as-
+signed reflect the fair market value of the asset, and a proce-
+dural requirement that the fiduciary actually determine the
+value assigned in good faith.” Fish v. GreatBanc Tr. Co., 749
+F.3d 671, 680 (7th Cir. 2014).
+    As to the procedural requirement, as we explained earlier,
+the district court did not err in finding GreatBanc fulfilled its
+fiduciary obligations in approving the sale. For those same
+reasons, we see no clear error in the district court’s determi-
+nation that GreatBanc estimated Segerdahl’s value in good
+faith.
+28                                                 No. 25-1736
+
+    The substantive inquiry—whether the district court per-
+missibly found that Defendants sold the ESOP for fair market
+value—dovetails with Rush’s damages arguments, so we turn
+to them now. As we discuss below, we find no clear error in
+the district court’s determination that Defendants sold the
+ESOP for its fair market value, so Defendants would prevail
+on their adequate consideration defense even if Schneider’s
+post-sale investments fell within the prohibited transaction
+rules. Id.
+                           C. Damages
+    Damages in ERISA breach-of-fiduciary-duty cases are
+measured by the difference between the value of the plan as-
+sets when the plaintiff cashed them out and what the assets
+would have been worth absent the breach—i.e., their fair mar-
+ket value. Harzewski v. Guidant Corp., 489 F.3d 799, 807 (7th
+Cir. 2007); Brundle ex rel. Constellis Emp. Stock Ownership Plan
+v. Wilmington Tr., N.A., 919 F.3d 763, 781 (4th Cir. 2019), as
+amended (Mar. 22, 2019). Rush’s damages argument relies on
+an estimate prepared by his expert, Daniel Van Vleet. Van
+Vleet opined that the sale to ICV damaged the ESOP by $19
+million or $44 million (depending on the method of valua-
+tion). The district court disagreed with Van Vleet’s analysis
+on grounds that Van Vleet “presumes a hypothetical buyer
+and assigns damages regardless of whether there was a mar-
+ket for Segerdahl at the calculated fair market value.” Because
+Rush had not shown there was an actual buyer willing to pay
+the higher price Van Vleet suggests Segerdahl was worth, the
+district court did not credit Van Vleet’s estimate as evidence
+of damages.
+   We review the district court’s fair-market-value determi-
+nation for clear error. Eyler v. Comm’r, 88 F.3d 445, 451 (7th
+No. 25-1736                                                      29
+
+Cir. 1996). We see none here. The district court reasonably
+concluded that the price ICV paid after conducting diligence
+and arms-length negotiations with Segerdahl and JP Morgan
+was a better approximation of fair market value than Van
+Vleet’s “hypothetical buyer” analysis. As Vergamini testified,
+fair market value in the mergers and acquisitions context is
+“[u]ltimately … what the market dictates it is.” Cf. Balcor Real
+Est. Holdings, Inc. v. Walentas-Phoenix Corp., 73 F.3d 150, 153
+(7th Cir. 1996) (“[T]he best evidence of the market value … is
+what people pay for it.”).
+    As other evidence of damages, Rush points to his own tes-
+timony that Vergamini boasted to a room full of Segerdahl ex-
+ecutives that they “could have sold [Segerdahl] to
+[Quad/Graphics] for $320 million.” But the district court did
+not clearly err in not crediting this uncorroborated hearsay.
+Cf. PNC Bank, 109 F.4th at 505–06 (no clear error in refusing to
+credit plaintiff’s testimony where there were sound justifica-
+tions for doubting his version of events).
+    Finally, Rush insists the final sale price did not reflect three
+other sources of value: the pending sale-leaseback of some of
+Segerdahl’s Chicagoland facilities; the 338(h)(10) tax election;
+and the settlement value of the “Wolf Road fraud” case. Rush
+claims Defendants failed to market these points to ICV and
+that this failure depressed ICV’s offer below Segerdahl’s fair
+market value.
+    The record shows otherwise. As the district court found,
+Defendants did pitch each of these sources of value to ICV.
+ICV simply did not agree that they were worth as much as
+Rush believes. For example, Vergamini marketed the sale-
+leaseback to buyers as a way to move debt off Segerdahl’s bal-
+ance sheet. Despite Vergamini’s “pounding the table” on the
+30                                                    No. 25-1736
+
+sale-leaseback’s benefits, ICV did not see any value in it after
+conducting its own diligence. Similarly, Ward and Metz each
+testified that the Wolf Road litigation came up in Stout’s and
+ICV’s respective diligence, and Drinker’s diligence memo ref-
+erences the litigation as well. Ward and Staruck testified that
+the value of the Wolf Road settlement was ultimately uncer-
+tain and depended on contingencies like whether the defend-
+ant was solvent and the progress of the litigation.
+    As for the 338(h)(10) tax election, the record shows—con-
+trary to Rush’s assertions—that ICV did incorporate the tax
+election into its $265 million revised offer. Rush’s assertions
+that the sale price failed to reflect the tax election’s value seem
+simply to reflect his view that the election should have been
+valued more highly.
+   In sum, the district court did not clearly err in rejecting
+Rush’s damages arguments.
+                               IV.
+    The district court issued a thorough decision following a
+three-week-long bench trial during which Rush had ample
+opportunity to present his case. Rush has a different view of
+the facts. But our role on appeal is not to retry issues the dis-
+trict court permissibly resolved against him after applying the
+correct legal standard to the disputed facts.
+                                                    AFFIRMED.
+

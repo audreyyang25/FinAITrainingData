@@ -6,6 +6,20 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# Same convention as probe/providers.py: secrets live in the repo-root .env
+# (gitignored) rather than in the shell, so a crawl works in any terminal and
+# from cron without an export. Every crawl entry point imports this module, so
+# loading here covers fetch_recent, fetch_courtlistener, sources and run_crawl
+# at once. Real environment variables still win -- load_dotenv does not override
+# what is already set, so `COURTLISTENER_TOKEN=... python ...` still works for a
+# one-off.
+try:
+    from dotenv import load_dotenv
+    load_dotenv(os.path.join(REPO, ".env"))
+except ImportError:
+    pass
+
 MANIFEST_DIR = os.path.join(REPO, "Data Collection and Training Material Generation", "crawl_manifest")
 RAW_DIR = os.path.join(MANIFEST_DIR, "raw")
 LOG_PATH = os.path.join(MANIFEST_DIR, "crawl_log.jsonl")

@@ -1,0 +1,2310 @@
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026       Page: 1 of 67
+
+
+
+
+                                  FOR PUBLICATION
+
+
+                                           In the
+                 United States Court of Appeals
+                              For the Eleventh Circuit
+                                ____________________
+                                         No. 24-12773
+                                ____________________
+
+        WILLIAM DRUMMOND,
+          individually and on behalf of all others similarly situated,
+        RICHARD ODOM,
+                                                                 Plaintiﬀs-Appellants,
+        versus
+
+        SOUTHERN COMPANY SERVICES, INC.,
+        THE SOUTHERN COMPANY PENSION PLAN,
+        THE BENEFITS ADMINISTRATION COMMITTEE,
+                                         Defendants-Appellees.
+                                ____________________
+                        Appeal from the United States District Court
+                           for the Northern District of Georgia
+                            D.C. Docket No. 2:22-cv-00174-SCJ
+                                ____________________
+
+        Before ROSENBAUM, GRANT, and BRASHER, Circuit Judges.
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026        Page: 2 of 67
+
+
+
+
+        2                         Opinion of the Court                     24-12773
+
+        ROSENBAUM, Circuit Judge:
+               In 1789, we elected George Washington as the first President
+        of the United States. But life in this country was far from ideal.
+        Science hadn’t yet discovered antibiotics or antiseptics, and the av-
+        erage life expectancy in the United States was about 36 years.1 In
+        contrast, today in the United States, the average life expectancy
+        more than doubles that; it’s around 76 years for men and 81 years
+        for women.2
+                So imagine if an employer could lower the pension benefits
+        it pays its employees by assuming people’s lifespans will be as short
+        as they were back in 1789. That would be hard to justify.
+               Plaintiffs Richard Odom and William Drummond allege
+        that their former employer took a similar approach. In their telling,
+        Southern Company Services, Inc.; its pension plan; and the plan’s
+        administrator used unrealistic assumptions about how long they
+        and their spouses would live—as many as 70 years out of date.
+              Plaintiffs assert that those unreasonable assumptions mean
+        they get less in each monthly pension payment than they’re owed.
+
+
+        1 Based on analysis of death records from Massachusetts towns, the Census
+
+        Bureau reports that life expectancy at birth in 1789 was 34.5 years for males
+        and 36.5 for females. See Bureau of the Census, U.S. Dep’t of Com., Historical
+        Statistics of the United States, 1789 – 1945, at 45 (1949).
+        2 Life expectancy at birth in the United States is 75.8 years for men and 81.1
+
+        years for women. See Sherry L. Murphy et al., Mortality in the United States,
+        2023, NCHS Data Brief, No. 521, at 1 (2024), https://www.cdc.gov/nchs/
+        data/databriefs/db521.pdf [https://perma.cc/2LR4-MQNZ].
+USCA11 Case: 24-12773      Document: 77-1     Date Filed: 05/26/2026     Page: 3 of 67
+
+
+
+
+        24-12773               Opinion of the Court                        3
+
+        Had the plan complied with the Employee Retirement Income Se-
+        curity Act of 1974 (“ERISA”), Plaintiffs contend, they would receive
+        thousands of dollars more over time.
+               Plaintiffs claim that these alleged underpayments violate
+        two parts of ERISA. One provision requires that an annuity that
+        makes monthly payments over the lives of both a married retiree
+        and their spouse must be the “actuarial equivalent” of an annuity
+        that makes higher payments during the life of just the retiree. The
+        other provision prohibits “forfeiture” of an employee’s retirement
+        benefit after it has vested.
+              Defendants Southern Company Services, Inc.; Southern
+        Company Pension Plan; and its Benefits Administration Commit-
+        tee have a vastly different interpretation of ERISA.
+               In Defendants’ view, it’s fine to use unreasonable assump-
+        tions about life expectancy or annual interest rates. As long as re-
+        tirement plans write down the assumptions ahead of time, they
+        say, ERISA allows them to use any assumption they please. Indeed,
+        Defendants said at oral argument that ERISA permits them to as-
+        sume that their employees will live as long as someone would back
+        in 1789.
+              We don’t agree.
+               ERISA’s “actuarial equivalent” requirement and nonforfei-
+        ture rule create substantive protections for plan participants and
+        their spouses. So we hold that a plan converting one form of an-
+        nuity to its “actuarial equivalent” must base that calculation on the
+        kind of actuarial assumptions a reasonable actuary would use. And
+USCA11 Case: 24-12773         Document: 77-1       Date Filed: 05/26/2026      Page: 4 of 67
+
+
+
+
+        4                         Opinion of the Court                   24-12773
+
+        an employer cannot charge employees more to be covered by a
+        preretirement death benefit than it costs the employer to offer the
+        benefit. That would violate ERISA’s nonforfeiture rule.
+               Under these interpretations of ERISA, Plaintiffs have plausi-
+        bly stated claims for relief. So we reverse the district court’s dis-
+        missal of their complaint and remand for further proceedings.
+
+                                 I.      BACKGROUND
+
+                                A. Annuities, Summarized 3
+
+               This is an ERISA case. ERISA is a landmark statute that Con-
+        gress enacted to protect American workers’ private pensions. Fun-
+        damentally, the statute seeks “to ensure that employees will not be
+        left emptyhanded once employers have guaranteed them certain
+        benefits.” Cent. Laborers’ Pension Fund v. Heinz, 541 U.S. 739, 743
+        (2004) (quoting Lockheed Corp. v. Spink, 517 U.S. 882, 887 (1996)).
+        But ERISA is also famously complex. So fair warning: we’re going
+        to need to talk about some technical terms along the way.
+                This case centers on three types of monthly retirement ben-
+        efits called “annuities” and the rules ERISA imposes on each. To
+        explain in more concrete terms, we’ll consider how each type of
+        annuity would work for a hypothetical couple, Todd and Mary.
+
+
+
+
+        3 Because we are reviewing an order deciding a motion to dismiss, we recount
+
+        the facts as the complaint alleges them.
+USCA11 Case: 24-12773         Document: 77-1        Date Filed: 05/26/2026        Page: 5 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                               5
+
+               Imagine that Todd works on the factory line at Acme Indus-
+        tries and is approaching retirement age. Todd’s wife, Mary, is a
+        few years younger and works as a researcher at a biotech startup.
+                The first type of annuity is the simplest: the single-life annu-
+        ity. When Todd started at Acme, the company promised him a
+        retirement benefit after he reaches 65 years old. After Todd retires,
+        Acme’s pension plan will pay him a fixed amount each month—
+        let’s say 45 percent of his salary—from retirement until death. We
+        call this type of benefit a single-life annuity because the payments
+        continue throughout the life of one person: Todd.
+               Pension plans that promise to pay a certain amount each
+        month 4 typically set their standard retirement benefit as a single-
+        life annuity. See Esden v. Bank of Bos., 229 F.3d 154, 159 (2d Cir.
+        2000).
+              ERISA protects the value of retirement benefits an employee
+        has earned, including single-life annuities. See Heinz, 541 U.S. at
+        744. One way ERISA does so is through its “anti-cutback rule.”
+
+
+        4 Pension plans come in two basic varieties: defined-benefit plans and defined-
+
+        contribution plans. See 29 U.S.C. § 1002(34)–(35). Defined-benefit plans guar-
+        antee the employee “a fixed payment each month” in retirement, and the em-
+        ployer must make up the difference if the plan’s investments underperform.
+        Thole v. U.S. Bank N.A., 590 U.S. 538, 540 (2020). Defined-contribution plans
+        “guarantee only that the employer will contribute to the investment account.”
+        Hirt v. Equitable Ret. Plan for Emps., Managers & Agents, 533 F.3d 102, 105 (2d
+        Cir. 2008). The account’s value will vary based on “investment gains and
+        losses.” Lyons v. Ga.-Pac. Corp. Salaried Emps. Ret. Plan, 221 F.3d 1235, 1237
+        (11th Cir. 2000).
+USCA11 Case: 24-12773         Document: 77-1        Date Filed: 05/26/2026        Page: 6 of 67
+
+
+
+
+        6                         Opinion of the Court                      24-12773
+
+        That rule means that, once an employee has gained an accrued
+        benefit, his retirement plan can’t later decrease that benefit. See id. 5
+        In our hypothetical couple, Todd has an accrued benefit of a single-
+        life annuity that will pay 45 percent of his prior salary. So Acme’s
+        retirement plan can’t later cut the payments down to only 30 per-
+        cent of Todd’s salary. 6
+               But there’s still an obvious potential problem when a mar-
+        ried couple relies on a single-life annuity. Imagine that Mary’s
+        startup doesn’t provide any retirement benefits. Mary plans to rely
+        on Todd’s pension payments during retirement. But if Todd dies
+        before she does, his single-life annuity payments would stop. Then
+        Mary would receive nothing.
+               That risk brings us to the second type of annuity: the joint-
+        and-survivor annuity. Most people want to ensure their spouse’s
+        financial security. So many participants in retirement plans prefer
+        an annuity that makes sure their spouse isn’t left penniless if the
+        participant dies first.
+                The joint-and-survivor annuity makes that guarantee. As its
+        name implies, this type of annuity has two parts. At the start, there
+        is a fixed payment during the “joint” lives of the participant and
+
+
+        5 “[A]ccrued benefit” is a term of art in ERISA.  See 29 U.S.C. § 1002(23). Ex-
+        actly what makes a promised benefit become an “accrued benefit” protected
+        by ERISA’s anti-cutback rule isn’t relevant here.
+        6 The anti-cutback rule has a couple of exceptions, but they’re immaterial to
+
+        our hypothetical couple and to this case. See Heinz, 541 U.S. at 744 & n.2.
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026      Page: 7 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                             7
+
+        their spouse. 7 Then, if the participant dies first, their surviving
+        spouse continues to receive a “survivor annuity” for as long as he
+        or she lives. Under this type of annuity, Mary would continue to
+        receive a monthly survivor-annuity payment after Todd dies.
+               Congress saw joint-and-survivor annuities as important to
+        ensuring surviving spouses’ income security. Ten years after en-
+        acting ERISA, Congress amended the statute “to ensure a stream
+        of income to surviving spouses” of pensioned retirees. Boggs v.
+        Boggs, 520 U.S. 833, 843 (1997). A primary way the Retirement Eq-
+        uity Act of 1984 sought to do so was requiring retirement plans to
+        give married participants their pension benefits as a joint-and-sur-
+        vivor annuity unless both the participant and their spouse opt out.
+        Pub. L. No. 98-397, § 103, 98 Stat. 1426, 1429–30 (codified at 29
+        U.S.C. § 1055(a), (c)).
+              That opt-out process is demanding. The participant’s
+        spouse must give informed consent in writing, witnessed by a plan
+        representative or notary—and the plan must provide a detailed
+        written explanation of the spouse’s rights and the ramifications of
+        an opt-out. See 29 U.S.C. § 1055(c)(2)–(3).
+               The 1984 amendments also imposed rules to ensure that
+        these joint-and-survivor annuities have real value. They set a floor
+        on the amount of money a surviving spouse will receive after the
+        plan participant dies. The monthly survivor-annuity payment after
+
+
+        7 Technically, this payment is pegged to the life of the participant and would
+
+        continue even if the participant’s spouse died first.
+USCA11 Case: 24-12773       Document: 77-1      Date Filed: 05/26/2026      Page: 8 of 67
+
+
+
+
+        8                       Opinion of the Court                  24-12773
+
+        the participant dies must be between 50 and 100 percent of the
+        monthly payment during the joint lives of the participant and
+        spouse. Id. § 1055(d)(1)(A).
+                Finally, the amendments require the total joint-and-survivor
+        annuity benefit to be the “actuarial equivalent” of a single-life an-
+        nuity for the participant’s life. Id. § 1055(d)(1)(B). We later discuss
+        that term a lot—the Act doesn’t define it, and the parties’ conflict-
+        ing interpretations form the heart of this case. For now, though,
+        it’s enough to say that ERISA requires some sort of equivalence be-
+        tween the single-life annuity a participant would otherwise be due
+        and the joint-and-survivor annuity a couple receives. A joint-and-
+        survivor annuity that meets ERISA’s requirements is a “qualified”
+        joint-and-survivor annuity. See id. § 1055(d).
+                With a joint-and-survivor annuity, when Todd retires, he
+        will receive a fixed monthly payment during his and Mary’s “joint”
+        lives. That monthly payment is almost always lower than the pay-
+        ment in the single-life annuity. After all, payments over two lives
+        are likely to continue for longer than payments during just one of
+        those lives. Shields v. Reader’s Dig. Ass’n, Inc., 331 F.3d 536, 539 n.2
+        (6th Cir. 2003). So each payment in a joint-and-survivor annuity is
+        likely to be lower to adjust for the greater number of expected pay-
+        ments. Let’s say that Todd’s joint-and-survivor annuity pays 40
+        percent of his old salary during his and Mary’s joint lives.
+              Then, if Todd dies first, Mary will receive “survivor annuity”
+        payments for the rest of her life. Let’s suppose that Mary’s monthly
+        survivor benefit is 20 percent of Todd’s old salary.
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026     Page: 9 of 67
+
+
+
+
+        24-12773               Opinion of the Court                         9
+
+              To satisfy ERISA, Todd and Mary’s joint-and-survivor annu-
+        ity must be the “actuarial equivalent” of Todd’s accrued benefit
+        measured as a single-life annuity. That was a single-life annuity
+        making monthly payments of 45 percent of Todd’s salary.
+                To finish things out, we mention a third type of annuity: the
+        preretirement survivor annuity. This benefit is the counterpart to
+        the “survivor” half of a joint-and-survivor annuity. The key differ-
+        ence is when the plan participant dies. A joint-and-survivor annu-
+        ity pays a beneficiary spouse a survivor annuity if the participant
+        dies after the participant retires. A preretirement survivor annuity
+        starts payments to the spouse if the participant dies before retiring.
+              With a preretirement survivor annuity, Mary would get
+        monthly survivor annuity payments if Todd dies while still work-
+        ing. But without such an annuity, if Todd died before retirement,
+        Mary would get nothing.
+                Starting in 1984, Congress required that retirement plans of-
+        fer a preretirement survivor annuity to married participants. See 29
+        U.S.C. § 1055(a)(2), (e). Like with joint-and-survivor annuities, this
+        benefit is mandatory unless the participant opts out and their
+        spouse gives informed consent. Id. § 1055(c)(1)–(3). And each pay-
+        ment from the preretirement survivor annuity must be at least as
+        much as the survivor annuity payment a beneficiary spouse would
+        receive under a “qualified” joint-and-survivor annuity or the “actu-
+        arial equivalent” of that value. Id. § 1055(e)(1)(A). An annuity
+        meeting these requirements is a “qualified” preretirement survivor
+        annuity, or “QPSA.” See id. § 1055(e).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 10 of 67
+
+
+
+
+        10                     Opinion of the Court                 24-12773
+
+              So to meet the statute’s QPSA standard, Mary’s preretire-
+        ment survivor annuity payment must be at least 20 percent of
+        Todd’s salary, or the actuarial equivalent of that amount.
+
+                       B. The Southern Company Pension Plan
+
+                Now, we turn to the facts of this case. Plaintiffs Richard
+        Odom and William Drummond are vested participants in the
+        Southern Company Pension Plan (“Plan”), a defined-benefit pen-
+        sion plan that covers more than 56,000 participants. The Plan holds
+        about $16 billion in assets. Southern Company Services, Inc.
+        (“Southern Company”), the Plan’s sponsor, is a large gas-and-elec-
+        tric-utility holding company headquartered in Alabama and oper-
+        ating across several states. The Benefits Administration Commit-
+        tee (“BAC”) is the Plan’s administrator and named fiduciary.
+               Under the Plan, participants accrue benefits in the form of a
+        single-life annuity. A single-life annuity is also the default form of
+        pension payment for unmarried Plan participants. In contrast,
+        married participants receive a joint-and-survivor annuity unless the
+        participant and their spouse opted out in accordance with ERISA’s
+        requirements.
+               Odom is an Alabama resident who worked as a ﬁeld techni-
+        cian for Alabama Power until he retired at age 65. He has received
+        beneﬁts through the Plan since April 2018, in the form of a joint-
+        and-survivor annuity with a 50-percent survivor annuity. While he
+        was working, Odom and his wife did not waive their right to a pre-
+        retirement survivor annuity.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026        Page: 11 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                               11
+
+               Odom complains about two aspects of the Plan’s calculation
+        of his retirement beneﬁt. As deﬁned by the Plan, his retirement
+        beneﬁt starts out expressed as a single-life annuity, which he calls
+        his “unreduced” single-life annuity. Odom highlights a ﬁrst calcu-
+        lation he calls the “QPSA charge.” While Odom was working,
+        Southern Company levied an annual 0.75-percent charge against
+        his accrued beneﬁt to account for his preretirement survivor annu-
+        ity. QPSA charges lowered Odom’s ﬁnal accrued beneﬁt by around
+        10.5 percent over the course of his career, producing his “reduced”
+        single-life annuity. The Plan’s second step that Odom focuses us on
+        converted Odom’s “reduced” single-life annuity to a joint-and-sur-
+        vivor annuity using a table of conversion factors, such as 0.9000. 8
+               Odom contends that the Plan used unreasonable actuarial
+        assumptions for both calculations. He claims that he would receive
+        more than $15,000 in added payments over the course of his ex-
+        pected lifetime if the Plan had used reasonable actuarial assump-
+        tions.
+               Drummond is a Georgia resident who worked as a ﬁnancial
+        analyst for Southern Company. He left employment at Southern
+        Company after his accrued beneﬁt vested in the Plan but before he
+        retired from the workforce. When Drummond reached his
+
+
+        8 That conversion factor calculates the monthly joint-and-survivor annuity
+
+        payment as a proportion of the monthly single-life annuity payment. So for
+        instance, a conversion factor of 0.9000 would convert a single-life annuity pay-
+        ing $2,000 each month into a joint-and-survivor annuity paying $1,800 each
+        month during the joint lives of the participant and their spouse.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026        Page: 12 of 67
+
+
+
+
+        12                        Opinion of the Court                       24-12773
+
+        retirement age of 65, he chose the “100% JSA” oﬀered by the Plan—
+        a joint-and-survivor annuity that provides survivor annuity pay-
+        ments at 100 percent of the monthly payments during Drum-
+        mond’s life. Like with Odom, Drummond and his wife did not
+        waive their right to a preretirement survivor annuity.
+               The Plan took similar steps to calculate Drummond’s retire-
+        ment beneﬁt as it did with Odom’s. Drummond’s beneﬁt, too,
+        started as an “unreduced” single-life annuity. Southern Company
+        then levied an annual 0.875-percent QPSA charge against Drum-
+        mond’s accrued beneﬁt. Those charges made Drummond’s “re-
+        duced” single-life annuity about 13 percent lower than his “unre-
+        duced” beneﬁt. Southern Company based this QPSA charge on
+        mortality assumptions from the 1951 Group Annuity Mortality Ta-
+        ble for males (“1951-GAM”), with a “setback” of six years for em-
+        ployees and one year for employees’ spouses, 9 and an assumed an-
+        nual interest rate of 5 percent. Then, the Plan converted Drum-
+        mond’s reduced single-life annuity to a joint-and-survivor annuity,
+        using the same modiﬁed mortality estimates from the 1951-GAM
+        and the same assumed interest rate.
+               Drummond alleges that the Plan imposed excessive QPSA
+        charges. A QPSA charge based on reasonable actuarial assump-
+        tions, Drummond contends, would leave him with more than
+
+
+
+        9 This setback effectively treats each employee as having the life expectancy in
+
+        the 1951-GAM of a person six years younger than they are. See Ariz. Governing
+        Comm. v. Norris, 463 U.S. 1073, 1077 n.2 (1983) (Marshall, J., concurring).
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026         Page: 13 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                                13
+
+        $19,000 in added retirement beneﬁts over the likely remainder of
+        his life.
+
+                                    C. Procedural History
+
+               Drummond ﬁled this lawsuit against Southern Company,
+        BAC, and the Plan in September 2022 on behalf of a putative class.
+        Odom later joined as a named plaintiﬀ. Plaintiﬀs ﬁled the operative
+        Second Amended Complaint (“Complaint”) in September 2023. It
+        asserts four causes of action against Southern Company as the
+        Plan’s sponsor and BAC as the Plan’s administrator.10
+               Odom brings Counts I and II on his own behalf and on be-
+        half of the putative JSA Class. 11 In Count I, Odom alleges that his
+        joint-and-survivor annuity is less than the “actuarial equivalent” of
+        the single-life annuity he is entitled to, violating 29 U.S.C. § 1055.
+        He asserts that the Plan calculated his joint-and-survivor annuity
+        beneﬁt based on “unreasonable” and “outdated” mortality assump-
+        tions that “do[] not reﬂect current mortality expectations.” Odom
+        claims his monthly annuity payment of $2,899.12 is “substantially
+        less” than what he would receive if the Plan complied with 29
+
+        10 Plaintiffs named the Plan as a defendant under Rule 19(a) of the Federal
+
+        Rules of Civil Procedure solely to ensure the availability of complete relief.
+        11 The putative JSA Class consists of the following: “All participants of the Plan
+
+        (and their beneficiaries) who are receiving a joint and survivor annuity (or, for
+        beneficiaries whose spouse died before commencing benefits, a pre-retirement
+        survivor annuity) through the Plan that is less than the value of the single life
+        annuity when converted to a joint and survivor annuity using the interest rates
+        and mortality tables set forth in 26 U.S.C. § 417(e).”
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 14 of 67
+
+
+
+
+        14                         Opinion of the Court                       24-12773
+
+        U.S.C. § 1055. In Count 2, Odom alleges that his joint-and-survivor
+        annuity also violates 29 U.S.C. § 1053(a)’s anti-forfeiture rule. He
+        contends that the reduction in his monthly beneﬁt is a forfeiture of
+        his vested accrued beneﬁt under the Plan.
+                Plaintiﬀs bring Count III individually and on behalf of the
+        putative QPSA Class. 12 They assert that the Plan imposed excessive
+        annual charges on participants who didn’t waive the preretirement
+        survivor annuity. In Plaintiﬀs’ view, the maximum QPSA charge
+        that ERISA allows is one that reasonably reﬂects the increased cost
+        of providing the preretirement survivor beneﬁt. Plaintiﬀs contend
+        that the Plan “dramatically overestimated” the probability that ei-
+        ther of them would die in any given year by relying on “severely
+        outdated” actuarial assumptions. Based on the overestimate of
+        their likely mortality, Plaintiﬀs allege their QPSA charges exceeded
+        the amount reasonably necessary to cover the increased cost of
+        providing the preretirement survivor beneﬁt.
+               Plaintiﬀs allege that reducing their accrued beneﬁt by the
+        Plan’s “excessive” QPSA charges amounts to a forfeiture of their
+        “accrued beneﬁt,” which ERISA protects against.
+               In Count IV, Plaintiﬀs assert that the same and related con-
+        duct breaches BAC’s ﬁduciary duties of loyalty, of prudence, and to
+        disclose accurate information to participants and beneﬁciaries.
+
+        12 The putative QPSA Class consists of “[a]ll participants of the Plan (and their
+
+        beneficiaries) whose accrued benefit was reduced by a QPSA charge that was
+        greater in magnitude than a QPSA charge calculated using the interest rates
+        and mortality table set forth in 26 U.S.C. § 417(e).”
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 15 of 67
+
+
+
+
+        24-12773               Opinion of the Court                       15
+
+        They bring this count individually and on behalf of both putative
+        classes.
+               Plaintiﬀs’ Complaint seeks a variety of relief, including de-
+        claratory relief, reformation of the Plan to increase joint-and-sur-
+        vivor annuity payments and decrease QPSA charges, disgorgement
+        of proﬁts Defendants gained from violating Sections 1053(a) and
+        1055, and restitution.
+               In the district court, Defendants moved to dismiss the Com-
+        plaint under Rule 12(b)(6) of the Federal Rules of Civil Procedure.
+        The district court granted the motion to dismiss in full. Plaintiﬀs
+        timely appealed.
+               Besides the parties, several amici have ﬁled briefs on appeal.
+        The Acting Secretary of Labor submitted an amicus brief support-
+        ing Plaintiﬀs. The Chamber of Commerce of the United States of
+        America submitted an amicus brief supporting Defendants, as did
+        a collection of industry organizations, including the ERISA Indus-
+        try Committee, the American Beneﬁts Council, and the Commit-
+        tee on Investment of Employee Beneﬁt Assets, Inc.
+
+                        II.    STANDARD OF REVIEW
+
+               We review de novo the grant of a Rule 12(b)(6) motion to
+        dismiss for failure to state a claim. Huins v. Sch. Dist. of Manatee
+        Cnty., 151 F.4th 1268, 1277 (11th Cir. 2025). We accept the well-
+        pleaded factual allegations in the Complaint as true and construe
+        them in the light most favorable to Plaintiﬀs. Julmist v. Prime Ins.,
+        92 F.4th 1008, 1016 (11th Cir. 2024). Still, a complaint must allege
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026      Page: 16 of 67
+
+
+
+
+        16                      Opinion of the Court                  24-12773
+
+        “enough facts to state a claim to relief that is plausible on its face.”
+        Watts v. Joers Run Prop. Owners Ass’n, Inc., 133 F.4th 1032, 1039
+        (11th Cir. 2025) (citation omitted). So its factual content must “al-
+        low[] the court to draw the reasonable inference that the defendant
+        is liable for the misconduct alleged.” Id.
+
+                                III.   DISCUSSION
+
+               We structure our analysis of this appeal in three parts.
+                First, we must determine whether ERISA’s mandate that
+        plans offer joint-and-survivor annuities that are the “actuarial
+        equivalent” of single-life annuities requires the plans to use reason-
+        able actuarial assumptions. We conclude that it does. Under
+        ERISA, plans must offer joint-and-survivor annuities that are actu-
+        arially equivalent to single-life annuities using the kind of actuarial
+        assumptions that a reasonable actuary would employ at the time
+        of the benefit determination. Based on that reading, Odom’s claim
+        can withstand the motion to dismiss.
+                 Odom’s second claim survives for a similar reason. Based
+        on Section 1055(d)’s guidance, Odom’s joint-and-survivor annuity
+        is less valuable than his protected “normal retirement beneﬁt” of a
+        single-life annuity. So the Plan’s calculation of Odom’s joint-and-
+        survivor annuity violates Section 1053(a)’s rule against forfeiture of
+        protected beneﬁts as well.
+               Finally, Plaintiﬀs plausibly pled that their QPSA charges vio-
+        late ERISA’s nonforfeiture rule. Congress opened a narrow excep-
+        tion to that rule in 29 U.S.C. § 1055(i), allowing plans to charge
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026          Page: 17 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                                 17
+
+        participants for the increased costs of providing a preretirement-
+        survivor-annuity beneﬁt. But Congress instructed us to treat the
+        Secretary of the Treasury’s interpretation of this exception as au-
+        thoritative. The Secretary’s reading—and our own—caps these
+        charges at a reasonable reﬂection of a plan’s increased costs from
+        providing the beneﬁt. Plaintiﬀs allege that their charges were sub-
+        stantially higher than that. So we reverse the district court’s dis-
+        missal of this claim, too. 13
+
+                                   A. Actuarial Equivalence
+
+               Odom alleges that Defendants violated ERISA’s actuarial-
+        equivalence requirement by using “outdated and unreasonable
+        mortality assumptions” to convert his single-life annuity into a
+        joint-and-survivor annuity. He contends that, as a result, he will
+        receive a pension beneﬁt worth thousands of dollars less than the
+        beneﬁt he earned.
+              For their part, Defendants assert ERISA requires only “math-
+        ematical equivalency” between the single-life annuity and the joint-
+        and-survivor annuity. In their view, that calculation can use any
+        assumptions whatsoever about mortality or interest rates—no mat-
+        ter how unrealistic, out of date, or unreasonable—so long as they
+
+
+        13 The parties agree that establishing an ERISA violation in one of Plaintiffs’
+
+        first three claims is sufficient to support their breach-of-fiduciary-duty claim in
+        Count IV. As we explain, both Odom and Drummond have plausibly alleged
+        an underlying ERISA violation. For that reason, we also reverse the district
+        court’s dismissal of Count IV.
+USCA11 Case: 24-12773      Document: 77-1       Date Filed: 05/26/2026      Page: 18 of 67
+
+
+
+
+        18                      Opinion of the Court                   24-12773
+
+        were written into the plan document. Counsel agreed at oral ar-
+        gument that Section 1055(d) would even allow plans to use mortal-
+        ity data from 1789—when Americans could expect to live less than
+        half as long as they can today.
+               After a careful analysis of the “actuarial equivalent” provi-
+        sion’s text, professional norms in actuarial practice, and ERISA’s
+        structure and purpose, we disagree. Section 1055 requires that
+        plans convert married participants’ single-life annuities to joint-
+        and-survivor annuities using reasonable mortality and interest-rate
+        assumptions. In reaching this decision, we join the view of the
+        Sixth Circuit, the only other federal court of appeals to have de-
+        cided the issue. See Reichert v. Kello Co., 170 F.4th 473, 483 (6th Cir.
+        2026).
+                                      1. Term of Art
+               This appeal requires us to discern the meaning of a statutory
+        term, so we begin with the text. See United States v. F.E.B. Corp., 52
+        F.4th 916, 926 (11th Cir. 2022). We note again that the Act requires
+        a “qualiﬁed joint and survivor annuity” to be the “actuarial equiva-
+        lent” of a single-life annuity:
+               (1) For purposes of this section, the term “qualiﬁed
+               joint and survivor annuity” means an annuity--
+
+                      (A) for the life of the participant with a survi-
+                      vor annuity for the life of the spouse which is
+                      not less than 50 percent of (and is not greater
+                      than 100 percent of ) the amount of the annuity
+USCA11 Case: 24-12773     Document: 77-1       Date Filed: 05/26/2026    Page: 19 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                    19
+
+                     which is payable during the joint lives of the
+                     participant and the spouse, and
+
+                     (B) which is the actuarial equivalent of a single
+                     annuity for the life of the participant.
+
+              Such term also includes any annuity in a form having
+              the eﬀect of an annuity described in the preceding
+              sentence.
+
+        29 U.S.C. § 1055(d)(1).
+               Because Congress didn’t deﬁne “actuarial equivalent” in
+        ERISA, we must turn to other implements from our interpretive
+        toolkit to discern its meaning. As we are construing a term of art,
+        we closely consider publications from the actuarial profession.
+        That literature shows that actuarial equivalence must be based on
+        reasonable actuarial assumptions. Regulatory interpretation of
+        “actuarial equivalent,” the plain meaning of its component words,
+        and the canon against insigniﬁcance conﬁrm that conclusion.
+                    a. “Actuarial equivalent” is a term of art.
+                We interpret a term of art by looking to the art or science
+        it’s drawn from. See Legal Env’t Assistance Found., Inc. v. EPA, 276
+        F.3d 1253, 1261 n.6 (11th Cir. 2001). That’s because “a cardinal rule
+        of statutory construction [provides] that, when Congress employs
+        a term of art, it presumably knows and adopts the cluster of ideas
+        that were attached to each borrowed word in the body of learning
+        from which it is taken.” Air Wis. Airlines Corp. v. Hoeper, 571 U.S.
+        237, 248 (2014) (quoting FAA v. Cooper, 566 U.S. 284, 292 (2012)).
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026         Page: 20 of 67
+
+
+
+
+        20                        Opinion of the Court                       24-12773
+
+                By its very language, “actuarial equivalent” is a term of art.
+        Actuarial equivalence invokes actuarial practice. And the actuarial
+        field is highly technical. It has its own credentialing bodies, educa-
+        tional requirements, and professional norms. See, e.g., Am. Acad.
+        of Actuaries, Qualification Standards for Actuaries Issuing Statements
+        of Actuarial Opinion in the United States §§ 1, 2.1 (2021), https://ac-
+        tuary.org/wp-content/uploads/2025/05/USQS_2021.pdf
+        [https://perma.cc/4JJ3-ZN7F].
+               Indeed, both parties rely on appellate precedent that inter-
+        prets “actuarial equivalent” as a term of art. Stephens v. U.S. Airways
+        Group, Inc., based its reading on the assumption that “Congress in-
+        tended that term of art to have its established meaning.” 644 F.3d
+        437, 440 (D.C. Cir. 2011).
+               To unpack this term, we start with where the parties agree.
+        They both explain that the conversion of a single-life annuity into
+        an actuarially equivalent joint-and-survivor annuity is conceptually
+        a two-step process. The parties agree, as well, that the result of that
+        process is two annuities with an equal present value. 14
+                Step one measures the present value of the participant’s sin-
+        gle-life annuity. See Call v. Ameritech Mgmt. Pension Plan, 475 F.3d
+        816, 817 (7th Cir. 2007) (“To achieve [actuarial] equivalence re-
+        quires . . . convert[ing] the stream of expected future payments into
+        a present value[.]”). That conversion requires at least two
+
+
+        14 Present value is the value today of a sum of money to be paid at a specified
+
+        future date. See Present Value, Black’s Law Dictionary (12th ed. 2024).
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 21 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                               21
+
+        assumptions. Because the annuity lasts through the end of a par-
+        ticipant’s life, mortality assumptions show how many months of
+        payments a participant can expect to receive. Interest-rate assump-
+        tions account for the fact that “a dollar today is worth more than a
+        dollar in the future.” 15 Gates v. Collier, 616 F.2d 1268, 1276 (5th Cir.
+        1980). 16
+               Step two then calculates a joint-and-survivor annuity with
+        the same present value that the single-life annuity has. Because the
+        joint-and-survivor annuity’s survivor benefit means that the pay-
+        ments will continue over two lifetimes instead of one, “the pay-
+        ments are likely to continue for a longer period of time.” Shields,
+        331 F.3d at 539 n.2. So the joint-and-survivor annuity can have
+        lower monthly payments and still be the actuarial equivalent of the
+        single-life annuity. See id.
+               In practice, plans often use mortality and interest-rate as-
+        sumptions to develop “conversion factors.” These conversion fac-
+        tors essentially allow a single calculation to complete both steps.
+        For example, Odom alleges that Defendants used a table of fixed
+        conversion factors such as 0.9000 (for a 50% joint-and-survivor
+
+
+        15 This accounts for the ability to invest the dollar today and start earning in-
+
+        terest on it. Plus, inflation means that a dollar in the future will likely have
+        less buying power than it does now.
+        16 The Eleventh Circuit adopted as its own precedent all decisions the Fifth
+
+        Circuit issued by the close of business on September 30, 1981. Bonner v. City of
+        Prichard, 661 F.2d 1206, 1207 (11th Cir. 1981) (en banc).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 22 of 67
+
+
+
+
+        22                     Opinion of the Court                 24-12773
+
+        annuity where the participant is three years older than their
+        spouse) and 0.9220 (for a 50% joint-and-survivor annuity where a
+        participant is three years younger than the spouse). Multiplying
+        the monthly single-life-annuity payment by the applicable conver-
+        sion factor produces the monthly joint-annuity payment—90.0 or
+        92.2 percent of the single-life-annuity payment, based on these con-
+        version factors. (The survivor-annuity payments are further re-
+        duced to, in Odom’s instance, 50 percent of that amount.) But this
+        is simply a mathematical shortcut—it doesn’t change the nature of
+        the process.
+               The final key point of agreement between the parties is that
+        the result of conversion must be two annuities with an equal pre-
+        sent value. See Jeff L. Schwartzmann & Ralph Garfield, Education
+        & Examination Comm. of the Soc’y of Actuaries, Actuarially Equiv-
+        alent Benefits 1, EA1–24–91 (1991), https://www.soa.org/
+        globalassets/assets/files/edu/edu-2009-fall-ea1-02-sn.pdf [https://
+        perma.cc/9HDV-4LG9] (“The fundamental principle underlying
+        the above calculations is the ‘equation of value,’ . . . [which] means
+        that the actuarial present values of the pensions on each basis are
+        equal.”).
+               This area of agreement is essentially the judicial deﬁnition
+        from Stephens that Defendants invoke repeatedly: “Two modes of
+        payment are actuarially equivalent when their present values are
+        equal under a given set of actuarial assumptions.” Stephens, 644
+        F.3d at 440 (citing Schwartzmann & Garﬁeld, supra, at 1). That def-
+        inition was suﬃcient for the question facing the Stephens court,
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 23 of 67
+
+
+
+
+        24-12773               Opinion of the Court                       23
+
+        where the assumptions used to calculate actuarial equivalence were
+        not at issue. See id. (“[T]here is no dispute U.S. Airways accurately
+        calculated Plaintiﬀs’ lump sums to be the ‘actuarial equivalent’ of
+        the annuity option as of the annuity start date[.]”). But that deﬁni-
+        tion does not answer the question before us.
+               b. Actuarial norms require reasonable assumptions.
+               Now we get to the part where the parties diverge. They dis-
+        agree about the types of mortality and interest-rate assumptions
+        that a plan can use to calculate actuarially equivalent annuities.
+               Odom argues that a requirement to use “reasonable” or
+        “current” actuarial assumptions is “baked into the concept of an
+        actuarial equivalent.” In contrast, Defendants’ “mathematical
+        equivalency” understanding of actuarial equivalence imposes no
+        substantive conditions on the assumptions a plan uses. In Defend-
+        ants’ view, the plan must merely use the same set of assumptions
+        when converting the single-life annuity to a present value and
+        when converting that present value to a joint-and-survivor annu-
+        ity.
+               The difference between the parties’ positions is significant.
+        The mortality and interest-rate assumptions a plan chooses “play a
+        key role in determining the magnitude of the actuarial equivalence
+        factor.” Schwartzmann & Garfield, supra, at 11. Depending on
+        those assumptions, a participant’s monthly joint-annuity payments
+        under a joint-and-survivor annuity might be 90 percent, 95 percent,
+        80 percent, or even 20 percent of what that participant would re-
+        ceive in a single-life annuity. And of course, calculating a lower
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 24 of 67
+
+
+
+
+        24                     Opinion of the Court                 24-12773
+
+        percentage doesn’t change how long a participant or their spouse
+        can actually expect to live. It just means that they’ll receive less
+        money over that time.
+               We agree with Odom’s reading. ERISA’s definition of “pre-
+        sent value,” our past engagement with the same concept, and pro-
+        fessional norms in the actuarial industry point in the same direc-
+        tion. Each source shows that actuarial equivalence connotes a de-
+        gree of connection to empirical grounding and realistic expecta-
+        tions about the future. For this reason, the meaning of “actuarial
+        equivalent” can’t support Defendants’ proffered “anything goes (as
+        long as you wrote it down)” interpretation of Section 1055(d).
+               First, ERISA defines “present value” for all of Title I of
+        ERISA, which includes Section 1055. Under that definition, “[t]he
+        term ‘present value’, with respect to a liability, means the value ad-
+        justed to reflect anticipated events.” 29 U.S.C. § 1002(27).
+               Reflecting “anticipated” events strikes us as meaningful. De-
+        fendants don’t explain how projections based on mortality data
+        from many decades ago—much less from 1789—reflect “antici-
+        pated” lifespans for workers and retirees today. True, ERISA did
+        not expressly incorporate the definition of “present value” into “ac-
+        tuarial equivalent.” But calculating present values is an inherent
+        part of establishing actuarial equivalence. The meaning of “present
+        value” shows that Congress understood actuarial calculations to
+        have a connection to real-world data and realistic premises.
+              When assessing the value of future annuity payments, we
+        have previously reached a similar conclusion. We’ve said that
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 25 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                               25
+
+        extrinsic evidence can help reveal the “true” present value of a set
+        of future payments. Holloman v. Mail-Well Corp., 443 F.3d 832, 840
+        (11th Cir. 2006).
+               Second, actuarial guidelines show that the profession has a
+        norm of using reasonable, realistic assumptions. And examining
+        “technical literature” from those proficient in a field is a useful way
+        to shed light on the meaning of a term of art. See Utah v. Evans, 536
+        U.S. 452, 467 (2002).
+                Odom points us to two Actuarial Standards of Practice
+        (“ASOPs”) from the Actuarial Standards Board. 17 All five major
+        U.S.-based actuarial organizations require their members “to sat-
+        isfy applicable ASOPs when rendering actuarial services in the
+        United States.” Actuarial Standards Bd., Actuarial Standard of Prac-
+        tice No. 1: Introductory Actuarial Standard of Practice § 1 (2013),
+        https://www.actuarialstandardsboard.org/asops/introductoryac-
+        tuarialstandardpractice/ [https://perma.cc/34SV-DQYA] (“ASOP
+        No. 1”). These ASOPs are also “binding” on actuaries. See id. § 4.1.
+        Indeed, failing to follow an applicable ASOP triggers professional
+        discipline. See id. We view these documents as a reliable guide to
+
+
+        17 The Actuarial Standards Board describes itself as “set[ting] standards for ap-
+
+        propriate actuarial practice in the United States through the development and
+        promulgation of Actuarial Standards of Practice (ASOPs). These ASOPs de-
+        scribe the procedures an actuary should follow when performing actuarial ser-
+        vices and identify what the actuary should disclose when communicating the
+        results of those services.”          About ASB, Actuarial Standards Bd.,
+        https://www.actuarialstandardsboard.org/about-asb/ [https://perma.cc/
+        A3FU-AJK9] (last visited Apr. 24, 2026).
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 26 of 67
+
+
+
+
+        26                         Opinion of the Court                       24-12773
+
+        actuarial norms. See M & K Emp. Sols., LLC v. Trs. of the IAM Nat’l
+        Pension Fund, No. 23-1209, 608 U.S. ___, slip op. at 8 n.3 (May 21,
+        2026) (“Consulting the Actuarial Standards of Practice is appropri-
+        ate here because this is a statute ‘addressed to specialists,’ so it
+        ‘must be read by judges with the minds of the specialists.’” (quoting
+        Becerra v. Empire Health Found., 597 U.S. 424, 434 (2022)).
+                 Consider ASOP No. 1, Introductory Actuarial Standard of Prac-
+        tice. It discusses the “many instances” in which ASOPs “call for the
+        actuary to take ‘reasonable’ steps, make ‘reasonable’ inquiries, se-
+        lect ‘reasonable’ assumptions or methods, or otherwise exercise
+        professional judgment to produce a ‘reasonable’ result when ren-
+        dering actuarial services.” Id. § 2.10.
+               ASOP No. 27 further drives home the priority on using real-
+        istic mortality and interest-rate assumptions. 18 It calls on actuaries
+        to “use professional judgment to select reasonable assumptions”
+        when measuring the actuarial present value of pension-plan liabili-
+        ties such as the annuities a plan owes participants. Actuarial Stand-
+        ards Bd., Actuarial Standard of Practice (ASOP) No. 27: Selection of
+
+
+        18 In his briefing, Odom directs us to ASOP No. 35, Selection of Demographic and
+
+        Other Noneconomic Assumptions for Measuring Pension Obligations. But the Actu-
+        arial Standards Board repealed ASOP No. 35 in June 2024 after revising ASOP
+        No. 27 to cover the same material. See Actuarial Standards Bd., Repeal of Actu-
+        arial Standard of Practice No. 35: Selection of Demographic and Other Noneconomic
+        Assumptions for Measuring Pension Obligations (2024), https://www.actuari-
+        alstandardsboard.org/asops/asop-no-35-documentation-and-disclosure-in-
+        property-and-casualty-insurance-ratemaking-loss-reserving-and-valuations-re-
+        pealed/ [https://perma.cc/77G4-ZUK5].
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026         Page: 27 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                                27
+
+        Assumptions for Measuring Pension Obligations § 3.5 (2023) (emphasis
+        added),         https://www.actuarialstandardsboard.org/asops/
+        adopted-asop-no-27-selection-of-assumptions-for-measuring-pen-
+        sion-obligations/ [https://perma.cc/34LR-4XL7] (“ASOP No. 27”)19
+               That ASOP also establishes a presumption about the mortal-
+        ity data actuaries use. It generally directs actuaries to use actual-
+        participant mortality data or “recently published relevant and gen-
+        erally available mortality tables” rather than “mortality tables that
+        substantially predate” newer data. Id. § 3.12. If an actuary wishes
+        to use older mortality tables, the actuary must “disclose the infor-
+        mation and analysis used to support the actuary’s determination
+        that the assumption is reasonable.” Id. § 4.1.2 (emphasis added) (as
+        cross-referenced by id. § 3.12).
+              Not only that, but actuarial standards of practice show a
+        norm of verifying the reasonableness of previously selected as-
+        sumptions. Actuarial standards require actuaries to “determine
+        whether the assumptions selected by the actuary for a previous
+        measurement date continue to be reasonable” and, if not, to “select
+        a reasonable new assumption.” Id. § 3.19. Notably, the source
+
+
+        19 Although this ASOP deals with calculating the value of a plan’s liabilities, it
+
+        notes that its scope does not “generally include individual benefit calculations
+        [or] individual benefit statement estimates.” ASOP No. 27 § 1.2. That caveat
+        doesn’t diminish the ASOP’s ability to help answer the broader question at
+        issue here: whether professional norms require the use of realistic assumptions
+        when developing projections about the future. After all, the ASOP expressly
+        includes “converting from one annuity form to a different annuity form” as
+        one practice it addresses. Id. § 3.17.5.
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026     Page: 28 of 67
+
+
+
+
+        28                     Opinion of the Court                  24-12773
+
+        underlying Defendants’ preferred definition of “actuarial equiva-
+        lent,” from Stephens, shows the same principle. Schwartzmann &
+        Garfield, supra, at 11 (“Periodically, the [interest and mortality] as-
+        sumptions used must be reviewed and modified so as to insure that
+        they continue to fairly assess the cost of the optional basis of pay-
+        ment.”).
+                And these norms were established well before Congress en-
+        acted the “actuarial equivalent” requirement in 1974. In supple-
+        mental briefing, Odom points us to the 1964 edition of Fundamen-
+        tals of Private Pensions, a textbook that the U.S. Supreme Court has
+        cited when dealing with retirement pensions. See, e.g., Ala. Power
+        Co. v. Davis, 431 U.S. 581, 594 (1977). It states that, when assessing
+        the value of pension liabilities such as annuities, “[i]f the actuary
+        performing the valuation is competent and true to the ideals of his
+        profession, he will base his forecasts on assumptions which at the
+        time of the valuation seem to be the most appropriate for the case at
+        hand.” See Dan M. McGill, Fundamentals of Private Pensions 218–19
+        (2d ed. 1964) (emphasis added). And if the “actual experience” un-
+        der the plan deviates significantly from earlier assumptions, “it is
+        incumbent upon the actuary to modify his assumptions to an ap-
+        propriate degree upon subsequent valuations.” Id. at 219.
+               Many other sources show that actuarial science has called
+        for the use of “appropriate” or “suitable” mortality tables that
+        “align[] with the life expectancy of the relevant participant popula-
+        tion” dating back to long before 1974. Reichert, 170 F.4th at 481
+        (collecting sources).
+USCA11 Case: 24-12773       Document: 77-1         Date Filed: 05/26/2026        Page: 29 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                             29
+
+                On the whole, the professional literature displays the expec-
+        tation that actuaries employ reasonable mortality and interest-rate
+        assumptions. That is, they should use assumptions that provide a
+        realistic basis for projecting future events. 20
+               Our sister court of appeals has relied on a similar view that
+        tethers actuarial equivalence to realistic mortality assumptions.
+        The Ninth Circuit determined whether two values were “actuarial
+        equivalent[s]” under another section of ERISA in McDaniel v. Chev-
+        ron Corp., 203 F.3d 1099, 1120 (9th Cir. 2000). The court inquired
+        whether the plan used “actuarially correct” mortality assumptions
+        rather than “understated” mortality assumptions that “treat[] a per-
+        son either as surviving longer than would actuarially be expected
+        or as retiring earlier than is chronologically true.” Id.
+              To better estimate “the true mortality assumption for each
+        plan participant,” the court held that a pension plan could adjust
+        mortality tables to reflect the gender ratio of its participants. Id.
+               That said, we note that “reasonableness is a zone, not a
+        point.” Bakery & Confectionary Union & Indus. Int’l Pension Fund v.
+        Just Born II, Inc., 888 F.3d 696, 706 (4th Cir. 2018) (brackets omitted)
+        (quoting Artistic Carton Co. v. Paper Indus. Union–Mgmt. Pension
+        Fund, 971 F.2d 1346, 1351 (7th Cir. 1992)). The technical literature
+
+
+        20 The U.S. Supreme Court recently expressed a consonant understanding of
+
+        actuarial assumptions based on its review of the Actuarial Standards of Prac-
+        tice. The Court stressed that actuarial assumptions are “predictive judgments”
+        about the future, not arbitrary “factual inputs” that must be frozen in time.
+        M & K Emp. Sols., No. 23-1209, slip op. at 7–8.
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026        Page: 30 of 67
+
+
+
+
+        30                        Opinion of the Court                      24-12773
+
+        we’ve discussed embraces that principle. “Because actuarial prac-
+        tice commonly involves the estimation of uncertain events, there
+        will often be a range of reasonable methods and assumptions, and
+        two actuaries could . . . us[e] reasonable methods and assumptions,
+        and reach different but reasonable results.” ASOP No. 1 § 2.10.
+          c. Defendants do not provide contrary professional literature.
+               Defendants provide nearly no relevant professional litera-
+        ture supporting their reading. Their appellate brief attempts to re-
+        but Odom’s citations to technical literature almost exclusively with
+        the summary-judgment opinion in Belknap v. Partners Healthcare
+        System, Inc., 588 F. Supp. 3d 161 (D. Mass. 2022).
+                But the Belknap summary judgment opinion doesn’t help
+        Defendants. It expressly relied on expert reports and expert testi-
+        mony from a record that isn’t before our Court. See id. at 174 &
+        n.7. We can’t rely on that court’s record. If nothing else, a different
+        district court reviewing different expert testimony “readily distin-
+        guished” Belknap. Scott v. AT&T Inc., 790 F. Supp. 3d 781, 790 (N.D.
+        Cal. 2025). 21
+
+
+
+
+        21 Earlier proceedings in Belknap itself underscore the point. When it decided
+
+        a motion to dismiss, as we do here, the Belknap court rejected Defendants’
+        position. See Belknap v. Partners Healthcare Sys., Inc., No. CV 19-11437-FDS,
+        2020 WL 4506162, at *2 (D. Mass. Aug. 5, 2020) (“Surely, Congress intended
+        the ‘actuarial equivalence’ requirement . . . to provide some degree of protec-
+        tion to beneficiaries, and not to permit employers to use any assumptions they
+        chose, no matter how outmoded or inapt.”).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 31 of 67
+
+
+
+
+        24-12773               Opinion of the Court                        31
+
+                After we requested supplemental briefing, Defendants pro-
+        vided a few historical publications. But those documents simply
+        restate the same principle we covered previously. For instance,
+        Defendants cite the Society of Actuaries Report on Actuarial Termi-
+        nology for Pension Plans for the proposition that “[a]ctuarial equiva-
+        lence [means] [t]he situation where two or more items have an
+        equal actuarial present value under a selected set of actuarial as-
+        sumptions.” Comm. on Pensions, Soc’y of Actuaries, Report on Ac-
+        tuarial Terminology for Pension Plans, 28 Transactions Soc’y Actuar-
+        ies 327, 329 (1976) (italics omitted). No one debates that. But these
+        materials don’t show what Defendants need—that two annuities
+        are actuarially equivalent even if they can be equated only by using
+        patently outdated, unrealistic, or even totally arbitrary assump-
+        tions.
+               The closest Defendants get is an appendix to a 1978 law-re-
+        view article about dividing retirement benefits in a divorce. Henry
+        Alan Pattiz, In a Divorce or Dissolution Who Gets the Pension Rights:
+        Domestic Relations Law and Retirement Plans, 5 Pepp. L. Rev. 191, 278
+        (1978). But that source is not clear or authoritative enough to un-
+        settle our conclusion. Defendants find no more support in their
+        misplaced citations to several pre-ERISA state laws that discuss the
+        assumptions that publicly constituted bodies adopt for public pen-
+        sions.
+              So Defendants attempt to undermine Odom’s authorities.
+        They focus on the fact that many of Odom’s professional publica-
+        tions discuss the initial selection of actuarial assumptions. In
+USCA11 Case: 24-12773      Document: 77-1       Date Filed: 05/26/2026      Page: 32 of 67
+
+
+
+
+        32                      Opinion of the Court                   24-12773
+
+        Defendants’ telling, those sources have no bearing on a later calcu-
+        lation of retirement benefits using assumptions that have “already
+        been selected and memorialized in the plan.”
+               We are not persuaded for two reasons.
+               First, the statute provides no basis for slicing the salami so
+        finely. Section 1055 requires plans to provide each married partic-
+        ipant with a joint-and-survivor annuity that “is the actuarial equiv-
+        alent of a single annuity for the life of the participant.” See 29 U.S.C.
+        § 1055(a)(1), (d)(1)(B). The statute speaks in the present tense. Its
+        text shows a concern with whether two annuities are equivalent in
+        value now, not whether they would have been for a different par-
+        ticipant decades earlier.
+                Second, the professional literature we’ve reviewed shows
+        many circumstances where actuaries must ensure that previously
+        selected assumptions remain reasonable. Perhaps a more devel-
+        oped record will show that the Plan’s actuarial assumptions fall
+        within the range of reasonable actuarial practice. But we need not
+        articulate the exact parameters of the reasonableness norm in actu-
+        arial practice, especially without the benefit of expert testimony. It
+        is enough to conclude that actuarial equivalence requires the use
+        of reasonable, realistic mortality and interest-rate assumptions.
+         d. Regulatory interpretation, plain meaning, and semantic can-
+             ons support our understanding of actuarial equivalence.
+              Our conclusion finds further support in a longstanding reg-
+        ulatory interpretation, the plain meaning of the terms in the
+        phrase, and our traditional semantic canons.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 33 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                               33
+
+               First, the regulation. Since shortly after Congress passed
+        ERISA, the Secretary of the Treasury has interpreted the statute’s
+        provision mandating “actuarial equivalent” joint-and-survivor an-
+        nuities to require conversion from the plan’s “normal form of life
+        annuity” using “consistently applied reasonable actuarial factors.”
+        26 C.F.R. § 1.401(a)-11(b)(2). 22
+               We find the tax regulation informative. It interprets statu-
+        tory language that, although codified in the Internal Revenue
+        Code, is identical to the text we are considering. Both provisions
+        require joint-and-survivor annuities to be “the actuarial equivalent
+        of a single annuity for the life of the participant.” See 29 U.S.C.
+        § 1055(d)(1); 26 U.S.C. § 417(b). Congress enacted both provisions
+        in the same statute. Employee Retirement Income Security Act of
+        1974 (“ERISA of 1974”), Pub. L. No. 93-406, §§ 205(g)(3), 1021(a)(1),
+        88 Stat. 829, 863, 935. And Congress amended both sections in
+        lockstep. See Retirement Equity Act of 1984 § 103(a), 98 Stat. at
+        1431 (codified at 29 U.S.C. § 1055(d)); id. § 203(b), 98 Stat. at 1442–
+        43 (codified at 26 U.S.C. § 417(b)).
+
+
+
+        22 The regulation states that “[actuarial e]quivalence may be determined, on
+
+        the basis of consistently applied reasonable actuarial factors, for each partici-
+        pant or for all participants or reasonable groupings of participants.” 26 C.F.R.
+        § 1.401(a)-11(b)(2). To be sure, the regulation uses the word “may.” But that
+        word refers to the choice of whether to assess actuarial equivalence on a par-
+        ticipant-by-participant or collective basis. The subordinate clause, “on the ba-
+        sis of consistently applied reasonable actuarial factors,” applies no matter
+        which option a plan chooses.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 34 of 67
+
+
+
+
+        34                         Opinion of the Court                       24-12773
+
+                We’ve previously suggested that parallel provisions across
+        Title I of ERISA and the Internal Revenue Code have the same sub-
+        stantive meaning. See Lyons v. Ga.-Pac. Corp. Salaried Emps. Ret.
+        Plan, 221 F.3d 1235, 1243 & n.13 (11th Cir. 2000). We noted that
+        Congress added these counterpart sections to the Tax Code to en-
+        courage employers to create pension plans by “provid[ing] favora-
+        ble tax treatment for plans which comply with ERISA’s require-
+        ments,” not to create new, differing substantive requirements. Id.
+        at 1243 n.13 (quoting Gillis v. Hoechst Celanese Corp., 4 F.3d 1137,
+        1144 n.6 (3rd Cir. 1993)). There’s no reason to think Congress
+        meant to create different meanings by using materially identical
+        text in the same statute.
+               Defendants contend that we should disregard the tax regu-
+        lation as “unenforceable” in this case. But to start, it’s not clear that
+        Defendants’ unenforceability premise is correct. 23 And even if it is,
+
+
+        23 Reorganization Plan No. 4 of 1978 transferred authority to issue regulations
+
+        under many sections of ERISA, including Section 1055, from the Secretary of
+        Labor to the Secretary of the Treasury. See Reorganization Plan No. 4 of 1978,
+        §§ 101(a), 104, 43 Fed. Reg. 47713, 47713–14, 92 Stat. 3790, 3790–91.
+        The Secretary of the Treasury then at least purported to make 26 C.F.R.
+        § 1.401(a)-11 “apply when the Secretary of Labor exercises authority under Ti-
+        tle I of [ERISA]” and “apply to employee plans subject to Title I of ERISA.”
+        See 53 Fed. Reg. 31837, 31838–39 (Aug. 22, 1988).
+        Similarly, the Secretary of the Treasury asserted that his “interpretative juris-
+        diction over the ERISA provisions that are parallel to the Code provisions ad-
+        dressed in these regulations,” makes regulations including 26 C.F.R. § 1.401(a)-
+        11 “apply for purposes of section 205(c)(3) of ERISA, [29 U.S.C. § 1055(c)(3),]
+USCA11 Case: 24-12773       Document: 77-1       Date Filed: 05/26/2026       Page: 35 of 67
+
+
+
+
+        24-12773                 Opinion of the Court                           35
+
+        the question is not whether the tax regulation is binding. After
+        Loper Bright, agencies’ reasonable interpretations of ambiguous
+        statutes are generally no longer controlling, anyway. See Loper
+        Bright Enters. v. Raimondo, 603 U.S. 369, 412–13 (2024).
+               Agencies’ interpretations instead continue to hold the
+        “power to persuade” based on their “body of experience and in-
+        formed judgment.” Id. at 402 (quoting Skidmore v. Swift & Co., 323
+        U.S. 134, 140 (1944)). Here, the Treasury Department’s experience
+        and judgment are particularly compelling for two reasons.
+               For one thing, the Secretary of the Treasury is authorized to
+        name a majority of the voting members of the Joint Board for the
+        Enrollment of Actuaries. That board is the body that Congress
+        charged with establishing “reasonable standards and qualifications
+        for persons performing actuarial services with respect to plans in
+        which [ERISA] applies.” 29 U.S.C. § 1242(a).
+               And affording respect to an executive branch interpretation
+        is “especially warranted” when it “was issued roughly contempo-
+        raneously with enactment of the statute and remained consistent
+        over time.” Loper Bright, 603 U.S. at 386. That’s the situation here.
+        The Secretary of the Treasury issued the regulation in 1977, 42 Fed.
+        Reg. 1463, 1466 (Jan. 7, 1977), and it remains identical today, see 26
+        C.F.R. § 1.401(a)-11(b)(2).
+
+
+        as well as for section 417(a)(3) of the Code.” 68 Fed. Reg. 70141, 70141–42
+        (Dec. 17, 2003). Defendants don’t explain why Sections 1055(a) or 1055(d),
+        which are also part of Section 205 of ERISA, would operate differently.
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026     Page: 36 of 67
+
+
+
+
+        36                     Opinion of the Court                  24-12773
+
+               For both these reasons, the Secretary of the Treasury’s
+        longstanding view confirms the conclusion that actuarial equiva-
+        lence requires reasonable actuarial assumptions.
+               Second, the plain meaning of the words in “actuarial equiv-
+        alent” suggests reasonable, realistic actuarial assumptions. Of
+        course, in the case of a conflict, “the ordinary meaning of a term
+        will yield when the term has ‘a technical meaning’ or is a ‘term of
+        art.’” United States v. Obando, 891 F.3d 929, 934 (11th Cir. 2018)
+        (brackets omitted) (quoting Antonin Scalia & Bryan A. Garner,
+        Reading Law: The Interpretation of Legal Texts 73 (2012)). But here,
+        plain and technical meanings are in harmony.
+               Start with “equivalent.” The edition of Black’s Law Diction-
+        ary in place when Congress passed ERISA defines the word as
+        “[e]qual in value, force, measure, volume, power, and effect or hav-
+        ing equal or corresponding import, meaning or significance; alike,
+        identical.” Equivalent, Black’s Law Dictionary (4th rev. ed. 1968).
+        Odom alleges that, under realistic mortality expectations, his joint-
+        and-survivor annuity will pay several thousand dollars less to him
+        and his spouse than would the single-life annuity he earned. Those
+        two annuities are not “equal in value” or “effect” in any meaningful
+        sense. Id. Nor do they have equal “import” or “significance.” Id.
+                Common definitions of terms related to “actuarial” practice
+        show a connection to data and empiricism. “Actuarial tables” are
+        “[a] form of organized statistical data which indicates the life expec-
+        tancy of a person.” Actuarial Table, Black’s Law Dictionary (5th ed.
+USCA11 Case: 24-12773         Document: 77-1          Date Filed: 05/26/2026          Page: 37 of 67
+
+
+
+
+        24-12773                    Opinion of the Court                                 37
+
+        1979). 24 And although the definition of “actuary” in older editions
+        doesn’t say much, more recent dictionaries show that the meaning
+        of “actuary” dating back to the 18th century is a “statistician who
+        determines the present effects of future contingent events; esp.,
+        one who calculates insurance and pension rates on the basis of em-
+        pirically based tables.” Actuary, Black’s Law Dictionary (12th ed.
+        2024) (emphasis added). 25 Both definitions show that actuaries use
+        real-world data to calculate life expectancy.
+                Third, and finally, the canon against insignificance favors
+        Odom’s reading. Defendants’ interpretation would rob the “actu-
+        arial equivalent” provision of nearly all its import. If a plan could
+        plug in sorely outdated or completely arbitrary actuarial assump-
+        tions, then it could produce joint-and-survivor annuities worth, as
+
+
+        24 The 4th edition of Black’s Law Dictionary does not define “actuarial table.”
+
+        But it defines “mortality tables” similarly: “A means of ascertaining the prob-
+        able number of years any man or woman of a given age and of ordinary health
+        will live.” Mortality Tables, Black’s Law Dictionary (4th rev. ed. 1968). The 5th
+        edition clarifies that the two terms are largely synonymous. See Actuarial Ta-
+        ble, Black’s Law Dictionary (5th ed. 1979).
+        25 Although dictionaries published at the time a legislature enacted a statute
+
+        are useful for discerning the meaning of statutory text, modern dictionaries
+        can be probative as well. See, e.g., Culbertson v. Berryhill, 586 U.S. 53, 59 (2019)
+        (considering dictionaries “[b]oth at the time of enactment and today”). It may
+        be especially appropriate to look to more recent dictionaries when interpret-
+        ing statutes, like ERISA, that Congress has re-enacted or re-authorized. See
+        United States v. Webster, 127 F.4th 318, 327 (11th Cir. 2025) (Jordan, J., concur-
+        ring in the judgment) (“Such an approach recognizes the fluidity of language
+        and promotes notice to the public while at the same time acknowledging Con-
+        gress’ institutional competence to update statutes first enacted long ago.”).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 38 of 67
+
+
+
+
+        38                     Opinion of the Court                 24-12773
+
+        Odom puts it, a “tiny fraction” of the participant’s single-life annu-
+        ity. That would make “actuarial equivalence” unequal in all but
+        name.
+               Defendants seek to reassure us that, in practical terms, their
+        reading would still constrain plan sponsors. They remind us that
+        the Tax Code requires plan sponsors to write into the plan docu-
+        ment the actuarial assumptions they will use. See 26 U.S.C.
+        § 401(a)(25). And of course, another part of ERISA requires plan
+        fiduciaries to adhere to the terms of a plan when a contrary com-
+        mand of ERISA does not counteract them. 29 U.S.C. §
+        1104(a)(1)(D). So Defendants suggest that plans won’t use outland-
+        ish assumptions because they would be too embarrassed to write
+        them into a plan document.
+               But Section 401(a)(25) wasn’t added to the Tax Code until
+        10 years after Congress created the actuarial-equivalent require-
+        ment. Retirement Equity Act of 1984 § 301(b), 98 Stat. at 1451.
+        Later-in-time legislation can’t explain why Congress would write a
+        meaningless provision years earlier.
+               We’re not sold on Defendants’ premise as a practical matter,
+        either. Perhaps a plan would shy away from using 1789 mortality
+        tables. But if the only restraint on plans is public perception, that
+        restraint lacks power. Plans could simply use mortality assump-
+        tions that are just as unrealistic as the 1789 mortality tables but
+        phrased in less obvious terms.
+                We disfavor constructions of a statute that leave a word in-
+        significant, even if not utterly superfluous. See Duncan v. Walker,
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 39 of 67
+
+
+
+
+        24-12773               Opinion of the Court                        39
+
+        533 U.S. 167, 174 (2001). Interpreting “actuarial equivalent” to al-
+        low employers to calculate retirement benefits using any assump-
+        tions they please would leave the term insignificant, at most. See
+        Reichert, 170 F.4th at 484; cf. Esden, 229 F.3d at 164 (“If plans were
+        free to determine their own assumptions and methodology, they
+        could effectively eviscerate the protections provided by ERISA’s re-
+        quirement of ‘actuarial equivalence.’”).
+                            2. Statutory Structure & Context
+              Depriving “actuarial equivalent” of its force is problematic
+        given the protective purpose that is apparent from the joint-and-
+        survivor annuity provision’s text and statutory context.
+               To explain why, we begin with the statutory context of Sec-
+        tion 1055(d)’s actuarial equivalent requirement. A “fundamental
+        canon of statutory construction” provides that “the words of a stat-
+        ute must be read in their context and with a view to their place in
+        the overall statutory scheme.” United States v. Miller, 604 U.S. 518,
+        533 (2025) (quoting Davis v. Mich. Dep’t of Treasury, 489 U.S. 803,
+        809 (1989)). We “account for both the specific context in which
+        language is used and the broader context of the statute as a whole.”
+        Gundy v. United States, 588 U.S. 128, 141 (2019) (ellipsis omitted)
+        (quoting Util. Air Regul. Grp. v. EPA, 573 U.S. 302, 321 (2014)).
+               Two aspects of the “actuarial equivalent” requirement’s
+        statutory context support giving it real teeth: the overarching pro-
+        tective intent of Section 1055’s measures to ensure economic secu-
+        rity for spouses and the statute’s legislated findings and purpose
+        section.
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 40 of 67
+
+
+
+
+        40                     Opinion of the Court                 24-12773
+
+                       a. Section 1055 contains interlocking
+                               protections for spouses.
+               Section 1055 contains an interlocking set of protections for
+        participants’ spouses. These provisions show a shared, animating
+        concern of ensuring that a spouse enjoys economic security after a
+        participant dies.
+               To start, ERISA makes the joint-and-survivor annuity the
+        default form of benefits for married plan participants. See 29 U.S.C.
+        § 1055(a)(1). Joint-and-survivor annuities continue to pay a survi-
+        vor annuity to spouses after the participant dies, which ERISA man-
+        dates is “not less than 50 percent” of the payments during the joint
+        lives of the participant and spouse. Id. § 1055(d)(1)(A). This pro-
+        tection has been in ERISA from the very beginning. See ERISA of
+        1974 § 205(g)(3), 88 Stat. at 863. The statute’s joint-and-survivor
+        annuity provision would mean little if it guaranteed a spouse 50
+        percent of an amount that plans can greatly reduce by using unrea-
+        sonable actuarial assumptions.
+                In the Retirement Equity Act of 1984, Congress added more
+        protections for participants’ spouses. See Retirement Equity Act of
+        1984 § 103(a) 98 Stat. at 1429–33 (amending 29 U.S.C. § 1055). It
+        created qualified preretirement survivor annuities, ensuring that
+        spouses would still be able to count on payments if the participant
+        died before retirement age. See 29 U.S.C. § 1055(a)(2), (e). The
+        value of payments under that preretirement death benefit must be
+        at least equal to the “not less than 50 percent” standard for survivor
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026      Page: 41 of 67
+
+
+
+
+        24-12773                Opinion of the Court                         41
+
+        payments in qualified joint-and-survivor annuities.             See id.
+        § 1055(e)(1)(A).
+               Congress also imposed tough spousal notice and consent
+        protections. Participants can waive the joint-and-survivor annuity
+        or preretirement survivor annuity form of their benefits only with
+        spousal consent. Id. § 1055(c)(2). And plans must inform spouses
+        of their rights. Id. § 1055(c)(3)(A)–(B)(i).
+               As a whole, then, Congress created robust substantive and
+        procedural protections for spouses. That clashes with the sugges-
+        tion that Congress left plan sponsors free to use unreasonable or
+        arbitrary actuarial assumptions that shortchange participants and
+        their spouses. As then-Judge Kavanaugh put it, “ERISA’s actuarial
+        equivalence requirement serves to protect actual retirees”—and
+        their spouses—“not merely to ensure that pension plans correctly
+        perform abstract calculations.” Stephens, 644 F.3d at 443 (Ka-
+        vanaugh, J., concurring).
+               To be sure, Congress added some of these protections a dec-
+        ade after it first enacted the “actuarial equivalent” requirement.
+        But when the efficacy of later legislation is premised on a particular,
+        plausible interpretation of an earlier statute, that reading is entitled
+        to “great weight.” Loving v. United States, 517 U.S. 748, 770 (1996)
+        (quoting Consumer Prod. Safety Comm’n v. GTE Sylvania, Inc., 447
+        U.S. 102, 118 n.13 (1980)). That’s the case here. The later enact-
+        ments would have little effect if ERISA’s “actuarial equivalent” re-
+        quirement imposed no substantive limits on the assumptions a plan
+        uses. (And as we’ve said, Congress added more instances of the
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 42 of 67
+
+
+
+
+        42                     Opinion of the Court                24-12773
+
+        term “actuarial equivalence” to Section 1055 in the same 1984 leg-
+        islation adding the new spousal protections.)
+                We are not the only court to recognize Section 1055’s pro-
+        tective intent. The Supreme Court observed that the “statutory
+        object of the qualified joint and survivor annuity provisions, along
+        with the rest of § 1055, is to ensure a stream of income to surviving
+        spouses,” in keeping with “ERISA’s solicitude for the economic se-
+        curity of surviving spouses.” Boggs, 520 U.S. at 843. The Court
+        reasoned that “[i]t would undermine the purpose of ERISA’s man-
+        dated survivor’s annuity” if state testamentary transfer laws al-
+        lowed a prior, predeceased spouse “to defeat in part [the surviving
+        spouse’s] entitlement to the annuity § 1055 guarantees her as the
+        surviving spouse” and that “[n]othing in the language of ERISA
+        supports concluding that Congress made such an inexplicable deci-
+        sion.” Id. at 844. Shortly before the Court issued Boggs, we simi-
+        larly acknowledged the “legislative policy of protecting spousal
+        rights” inherent in Section 1055. Lasche v. George W. Lasche Basic
+        Profit Sharing Plan, 111 F.3d 863, 867 (11th Cir. 1997).
+               The same logic applies here. Because of the strict spousal
+        consent requirements, “[e]ven a plan participant cannot defeat a
+        nonparticipant surviving spouse’s statutory entitlement to an an-
+        nuity.” Boggs, 520 U.S. at 843 (emphasis added). Yet Defendants
+        propose that Congress allowed a plan to undermine a spouse’s en-
+        titlement by using unreasonable actuarial assumptions to shrink
+        the monthly survivor annuity payment. That idea is just as
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026      Page: 43 of 67
+
+
+
+
+        24-12773                Opinion of the Court                         43
+
+        inexplicable—and equally unmoored from ERISA’s text—as was
+        the proposal in Boggs.
+              b. ERISA displays an overarching purpose of ensuring
+                     participants receive their earned beneﬁts.
+              Other sections of ERISA show that Congress intently fo-
+        cused on ensuring workers will receive the benefits they earn.
+               Take the statute’s legislated findings and declaration of pol-
+        icy. Congress found that “many employees with long years of em-
+        ployment are losing anticipated retirement benefits owing to the
+        lack of vesting provisions” or to inadequate plan funding. 29 U.S.C.
+        § 1001(a). In response, Congress declared the policy of ERISA “to
+        protect . . . the interests of participants in private pension plans and
+        their beneficiaries” by, among other things, “improving the equita-
+        ble character and the soundness of such plans,” “requiring them to
+        vest the accrued benefits of employees with significant periods of
+        service,” establishing fiduciary duties for plans, and “providing for
+        appropriate remedies, sanctions, and ready access to the Federal
+        courts.” Id. § 1001(b)–(c).
+                Congress doubled down on this understanding later. When
+        it amended ERISA in 1986, the legislature found that “the contin-
+        ued well-being and retirement income security of millions of work-
+        ers, retirees, and their dependents are directly affected” by “single-
+        employer defined benefit pension plans” like the one in this case.
+        See id. § 1001b(a)(1)–(2). So Congress added a declaration of the
+        statute’s policy of “increas[ing] the likelihood that participants and
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026      Page: 44 of 67
+
+
+
+
+        44                      Opinion of the Court                  24-12773
+
+        beneficiaries under single-employer defined benefit pension plans
+        will receive their full benefits.” Id. § 1001b(c)(3) (emphasis added).
+               In short, the legislated findings and declaration of policy
+        speak to benefits for participants and beneficiaries and obligations for
+        plans. These provisions survived the “step-by-step, deliberate and
+        deliberative process” of bicameralism and presentment that the
+        Constitution’s framers imposed. Immigr. & Naturalization Serv. v.
+        Chadha, 462 U.S. 919, 959 (1983). They can be a particularly helpful
+        guide to selecting between permissible readings of a statutory
+        phrase. See Georgia v. President of the U.S., 46 F.4th 1283, 1300 (11th
+        Cir. 2022) (opinion of Grant, J.).
+               Similarly, ERISA embodies the goal of securing workers’ re-
+        tirement benefits through its “nonforfeitability” rules. We’ll dis-
+        cuss Section 1053 later in more detail. But it makes “an employee’s
+        right to his normal retirement benefit . . . nonforfeitable upon the
+        attainment of normal retirement age” and makes his right to his
+        accrued benefit nonforfeitable earlier than that. 29 U.S.C.
+        § 1053(a). So it would be odd to read Section 1055 as opening a
+        loophole to defeat the broader purpose of ensuring workers receive
+        what they earn.
+               The statutory context of ERISA’s “actuarial equivalent” re-
+        quirement gives color and meaning to the term. And while we
+        don’t rely on the legislative history of ERISA and its amendments
+        in construing the statute, it’s worth noting that our reading of the
+        statute is consistent with that legislative history as well.
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026         Page: 45 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                                45
+
+               Congressional conference and committee reports 26 show a
+        consistent understanding across decades: Actuarial equivalence in-
+        volves reasonable actuarial assumptions. ERISA’s 1974 Conference
+        Committee Report noted that the statute permitted plans to make
+        “reasonable actuarial adjustments” so that providing joint-and-sur-
+        vivor annuities would not increase the “total costs of the plan”
+        above the single-life annuity option, due to adverse selection. S.
+        Rep. No. 93-1090, at 280 (1974) (Conference Report).
+               And Congress clarified even further when it expanded the
+        joint-and-survivor annuity requirement in 1984. The Senate Com-
+        mittee Report stated that joint-and-survivor annuities must be the
+        “actuarial equivalent” of the normal form of life annuity, explain-
+        ing that “[e]quivalence may be determined on the basis of consist-
+        ently applied reasonable actuarial factors.” S. Rep. No. 98-575, at
+        13 (1984).
+              Finally, Congress reiterated this view in 1994 when it revised
+        Section 1055 to require speciﬁed mortality tables for calculating a
+        lump-sum payout of a participant’s annuity. Retirement Protection
+        Act of 1994, Pub. L. No. 103-465, § 767(c)(2), 108 Stat. 4809, 5039
+        (adding 29 U.S.C. § 1055(g)(3)). The House Committee Report ﬁrst
+        reviewed the existing law, which didn’t limit mortality assumptions
+
+
+        26 “[T]he Committee Reports on the bill . . . represent the considered and col-
+
+        lective understanding of those Members of Congress involved in drafting and
+        studying proposed legislation.” Lowery v. Ala. Power Co., 483 F.3d 1184, 1205–
+        06 (11th Cir. 2007) (cleaned up) (quoting Garcia v. United States, 469 U.S. 70, 76
+        (1984)).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 46 of 67
+
+
+
+
+        46                     Opinion of the Court                24-12773
+
+        beyond the “actuarial equivalent” requirement. See 29 U.S.C. §
+        1055(g) (1988). That requirement, the Report explained, meant
+        that “[a] plan may use any reasonable mortality table it speciﬁes.”
+        H.R. Rep. No. 103-632, pt. 2, at 57 (1994) (emphasis added).
+               In sum, the congressional committee reports from when
+        Congress enacted and amended Section 1055 are consistent with
+        our conclusion that “actuarial equivalent” requires reasonable ac-
+        tuarial assumptions. Cf. Mamani v. Sanchez Bustamante, 968 F.3d
+        1216, 1233 n.14 (11th Cir. 2020) (“The legislative history also con-
+        firms what a comparison of the text would suggest.”).
+                           3. Defendants’ Counterarguments
+               Defendants and their amici advance two sets of arguments
+        in favor of requiring only mathematical equivalence with no con-
+        ditions on the assumptions a plan uses. Neither persuades us.
+                   a. The Russello presumption is inapplicable.
+               Principally, Defendants rely on Russello v. United States, 464
+        U.S. 16 (1983). Russello states that “[w]here Congress includes par-
+        ticular language in one section of a statute but omits it in another
+        section of the same Act, it is generally presumed that Congress acts
+        intentionally and purposely in the disparate inclusion or exclu-
+        sion.” Id. at 23 (citation omitted).
+               Defendants’ Cited Provisions—Defendants point out four
+        ERISA provisions that expressly mandate “reasonable” (or speci-
+        fied) actuarial assumptions a plan can use in other circumstances.
+        Defendants assert that we must presume that Congress acted
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 47 of 67
+
+
+
+
+        24-12773               Opinion of the Court                       47
+
+        intentionally in omitting “reasonable” from Section 1055(d). So,
+        they say, we should interpret “actuarial equivalent” to allow calcu-
+        lations using any set of actuarial assumptions. But as we explain,
+        the Russello presumption is inapplicable here.
+                 One of Defendants’ provisions requires plans to use specific
+        mortality and interest-rate assumptions that the Secretary of the
+        Treasury prescribes. See 29 U.S.C. § 1055(g)(3). It applies when
+        plans make an immediate, single lump-sum payment of “the pre-
+        sent value” of a joint-and-survivor or preretirement-survivor annu-
+        ity in lieu of monthly payments. Plans may choose to make a single
+        payment if the participant and spouse consent or if the annuity’s
+        present value is $7,000 or less. Id. § 1055(g)(2).
+               Three other categories of funding-related provisions ex-
+        pressly mandate the use of “reasonable” actuarial assumptions for
+        present-value calculations.
+               Minimum funding provisions set a “funding target” based on
+        the present value of benefits accrued under the plan. Id. § 1083(a),
+        (d)(1). Plans must determine those present values based on “actu-
+        arial assumptions and methods . . . each of which is reasonable”
+        and which, combined, “offer the actuary’s best estimate of antici-
+        pated experience under the plan.” Id. § 1083(h)(1).
+              Funding improvement provisions require significantly un-
+        derfunded multiemployer plans to take steps to catch up on fund-
+        ing. Id. § 1085(a)(1)–(2). To determine whether a plan is under-
+        funded, an actuary must project the present value of all liabilities
+        to participants and beneficiaries, using “reasonable actuarial
+USCA11 Case: 24-12773     Document: 77-1     Date Filed: 05/26/2026    Page: 48 of 67
+
+
+
+
+        48                    Opinion of the Court                24-12773
+
+        estimates, assumptions, and methods,” compared to the plan’s as-
+        sets. Id. § 1085(b)(3)(B)(i). A funding improvement plan under this
+        section also must rest on “reasonably anticipated experience and
+        reasonable actuarial assumptions.” Id. § 1085(c)(3)(A), (e)(3)(A).
+               And withdrawal liability rules require employers that leave
+        a multiemployer plan to pay their share of “unfunded vested bene-
+        fits” owed to participants and beneficiaries. Id. § 1381(a)–(b)(1).
+        Again, the actuary must calculate withdrawal liability by using “ac-
+        tuarial assumptions and methods which, in the aggregate, are rea-
+        sonable (taking into account the experience of the plan and reason-
+        able expectations) and which, in combination, offer the actuary’s
+        best estimate of anticipated experience under the plan.” Id.
+        § 1393(a)(1).
+               Defendants assert that these provisions show Congress
+        “knew how” to explicitly require particular actuarial assumptions.
+        So Defendants argue that Congress’s use of an actuarial-equiva-
+        lence standard “unadorned” by the word “reasonable” is unlikely
+        to be an oversight.
+              We disagree.
+               Later-Enacted Statutes—Defendants’ argument has a big hole.
+        All four provisions they cite came years after Congress created the
+        actuarial-equivalence rule. Congress imposed Section 1055(g)’s
+        mandate of specific mortality assumptions twenty years after cre-
+        ating the actuarial-equivalence requirement; and the three funding-
+USCA11 Case: 24-12773         Document: 77-1         Date Filed: 05/26/2026         Page: 49 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                                49
+
+        related provisions that require “reasonable” assumptions came be-
+        tween six and thirty-two years after. 27
+               These later-enacted statutes say nothing about what a differ-
+        ent Congress intended or “knew how” to do years earlier. 28 Nor
+        does our precedent suggest otherwise. Defendants cite cases in
+        which we used language from an earlier-enacted section of the stat-
+        ute to interpret language that was enacted later—the opposite of
+        what they ask us to do here. See Myers v. TooJay’s Mgmt. Corp., 640
+        F.3d 1278, 1284 n.5 (11th Cir. 2011) (interpreting language enacted
+        seven years after its comparator); United States v. Elliott, 62 F.3d
+        1304, 1311–12 (11th Cir. 1995) (twenty years).
+               We have noted that Russello itself cautions that “the views of
+        a subsequent Congress form a hazardous basis for inferring the in-
+        tent of an earlier one.” Lyons, 221 F.3d at 1246–47 (quoting Russello,
+        464 U.S. at 26). We made this point while discussing the very pro-
+        vision that Defendants rely on now. See id. (addressing 29 U.S.C.
+
+        27 Congress enacted withdrawal-liability rules in 1980. Multiemployer Pension
+
+        Plan Amendments Act of 1980, Pub. L. No. 96-364, § 104(2), 94 Stat. 1208, 1233
+        (adding 29 U.S.C. § 1393(a)(1)). Later, Congress specified mortality tables for
+        lump-sum distributions of retirement benefits in 1994. See Retirement Protec-
+        tion Act of 1994 § 767(c)(2), 108 Stat. at 5039 (adding 29 U.S.C. § 1055(g)(3)).
+        Finally, Congress added minimum-funding and funding-improvement rules in
+        2006. Pension Protection Act of 2006, Pub. L. No. 109-280, § 102(a), 120 Stat.
+        780, 797 (adding 29 U.S.C. § 1083(h)(1)); id. § 202(a), 120 Stat. at 870, 872, 877
+        (adding 29 U.S.C. § 1085(b)(3)(B)(i), (c)(3)(A), (e)(3)(A)).
+        28 Of course, as we explained, it’s different when a later amendment depends
+
+        for its effectiveness on a particular meaning of an ambiguous phrase in a stat-
+        ute. But none of the provisions that Defendants meet this condition.
+USCA11 Case: 24-12773      Document: 77-1       Date Filed: 05/26/2026        Page: 50 of 67
+
+
+
+
+        50                      Opinion of the Court                    24-12773
+
+        § 1055(g)). We “give effect to the statutory language,” as enacted;
+        “we do not change our interpretation based on negative inferences
+        that may be drawn from a subsequent amendment to ERISA.” Bd.
+        of Trs. of the W. States Off. & Pro. Emps. Pension Fund v. Welfare &
+        Pension Admin. Serv., Inc., 24 F.4th 1278, 1286 (9th Cir. 2022).
+               Defendants respond that the 1974 Act included a reasonable-
+        ness provision that resembles the one in today’s Section 1083. And
+        that provision applied to the actuarial assumptions used through-
+        out the part of ERISA dealing with funding requirements:
+               For purposes of this part [Title I, Subtitle B, Part 3],
+               all costs, liabilities, rates of interest, and other factors
+               under the plan shall be determined on the basis of ac-
+               tuarial assumptions and methods which, in the aggre-
+               gate, are reasonable (taking into account the experi-
+               ence of the plan and reasonable expectations) and
+               which, in combination, oﬀer the actuary’s best esti-
+               mate of anticipated experience under the plan.
+
+        ERISA of 1974 § 302(c)(3), 88 Stat. at 871.
+               This earlier provision brings Defendants closer to the mark.
+        It would have been at least conceivable for the Congress of 1974 to
+        write that, “for purposes of this title, all calculations” must use rea-
+        sonable actuarial assumptions.
+               Three Additional Flaws—But even assuming this older provi-
+        sion saves Defendants’ Russello argument from irrelevance, it re-
+        mains uncompelling for at least three reasons.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 51 of 67
+
+
+
+
+        24-12773                   Opinion of the Court                               51
+
+               First, the provisions Defendants cite are different from Sec-
+        tion 1055(d) both linguistically and conceptually. In terms of lan-
+        guage, each of Defendants’ cited provisions refers to a calculation
+        of “present value.”29 None uses the term “actuarial equivalent.” In
+        contrast, Section 1055(d) and its counterpart, Section 1054(c)(3),
+        both use the term “actuarial equivalent” but don’t discuss “present
+        value” or “actuarial assumptions.” See 29 U.S.C. §§ 1054(c)(3),
+        1055(d). This dissimilarity weakens any inference we might draw
+        from these other parts of ERISA. See Gomez-Perez v. Potter, 553 U.S.
+        474, 485, 487 (2008).
+               These provisions also address different concepts. As De-
+        fendants emphasize, “each and every one of the statutes cited by
+        the district court and by Defendants [as mandating specified or rea-
+        sonable actuarial assumptions] involves the reduction of future
+        benefit payment liabilities to a present value.” But Section 1055(d)
+        necessarily compares the value of two future streams of pay-
+        ments. 30 And a reduction to present value is only one part of that
+        process. Similarly, except for the twenty-years-too-late Section
+
+        29 The original reasonableness requirement, in Section 302(c)(3) of ERISA, did
+
+        not itself contain the term “present value.” Still, it applied to numerous calcu-
+        lations of liability including at least one explicit measurement of “the present
+        value of accrued benefits.” ERISA of 1974 § 305(b)(1)(B), 88 Stat. at 874. The
+        Part to which it applies includes no uses of the term “actuarial equivalent.” Id.
+        §§ 301–306, 88 Stat. at 868–74.
+        30 Section 1054(c)(3)’s actuarial-equivalence requirement, which applies when
+
+        an “employee’s accrued benefit is to be determined as an amount other than
+        an annual benefit commencing at normal retirement age,” also governs com-
+        parisons between two future streams of payments. 29 U.S.C. § 1054(c)(3).
+USCA11 Case: 24-12773         Document: 77-1          Date Filed: 05/26/2026          Page: 52 of 67
+
+
+
+
+        52                          Opinion of the Court                        24-12773
+
+        1055(g), all the sections Defendants cite pertain to funding require-
+        ments. But Sections 1055(d) and 1054(c)(3) are vesting require-
+        ments. All these differences cause the Russello presumption to lose
+        its force. City of Columbus v. Ours Garage & Wrecker Serv., Inc., 536
+        U.S. 424, 435–36 (2002) (“The Russello presumption . . . grows
+        weaker with each difference in the formulation of the provisions
+        under inspection.”).
+               Second, the fact that actuarial equivalence encompasses two
+        present-value calculations hurts Defendants’ case in another way.
+        As originally enacted, ERISA consistently described reductions to
+        present value as requiring “reasonable” assumptions. In fact, every
+        reference to actuarial assumptions in the 1974 Act—except for two
+        assumptions to be determined by a public body—includes some
+        form of reasonableness requirement. 31
+                Actuarial equivalence is a higher-order concept that includes
+        present-value calculations. And a reference to the whole neces-
+        sarily refers to its component parts as well. Cf. Sea-Land Serv., Inc.
+        v. R.V. D’Alfonso Co., 727 F.2d 1, 2 (1st Cir. 1984) (“If one states the
+
+
+        31   See ERISA of 1974 §§ 103(a)(4)(B), 103(d)(8)(B), 302(b)(2)(B)(v),
+        302(b)(3)(B)(iii), 302(c)(2)–(3), 1013(a), 1013(c), 1013(d)(1)(B)–(C), 1033(a), 88
+        Stat. at 843, 846, 870, 871, 914–15, 916, 921–23, and 948; cf. id. §§ 4008, 4046,
+        88 Stat. at 1014, 1028 (referring to assumptions of the Pension Benefit Guar-
+        anty Corporation). One funding provision, and its Tax Code analogue, did
+        not include an explicit reasonableness requirement, id. §§ 302(b)(2)(B)(v),
+        302(b)(3)(B)(iii), 1013(a), 88 Stat. at 870, 914–15—but falls within Part 3 of Title
+        I of ERISA, all of which had to use reasonable assumptions, id. § 302(c)(2)–(3),
+        88 Stat. at 871.
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 53 of 67
+
+
+
+
+        24-12773               Opinion of the Court                       53
+
+        general, there should be no need to specify the particular; the
+        whole includes all of its parts.”). So ERISA’s consistent expectation
+        to use reasonable actuarial assumptions when calculating present
+        values implies that a broader process that includes present-value
+        calculations will employ the same type of assumptions.
+                Defendants’ contrary theory suggests that Congress must
+        rearticulate every step of a process—and every condition and qual-
+        ification for each step—every time it wishes to reference a process
+        as a whole. But that is not the law. Indeed, that kind of drafting
+        would lead to absurdity.
+               Third, Defendants don’t respond to the way that the Russello
+        presumption cuts in Odom’s direction. In other sections of ERISA,
+        Congress explicitly referred to retirement benefits as “determined
+        under the plan,” 29 U.S.C. §§ 1002(23)(A), 1054(b)(1)(D)(i), or due
+        “under the terms of the plan,” id. § 1132(a)(1)(B). But Section
+        1055(d) lacks similar language. It doesn’t state that we should con-
+        sider whether two benefits are actuarially equivalent “under the
+        terms of the plan.” So if Defendants’ view of Russello were correct,
+        we would need to presume that Congress purposely omitted that
+        language from Section 1055(d). The upshot would be clear: Con-
+        gress didn’t want us to base the meaning of “actuarial equivalent”
+        on whatever assumptions a plan wrote into its terms. Defendants
+        do not explain why we should conclude that Russello supports their
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026        Page: 54 of 67
+
+
+
+
+        54                        Opinion of the Court                     24-12773
+
+        reading but not Odom’s. We are reluctant to accept reasoning that
+        boils down to “presumption for me, but not for thee.”32
+                For all these reasons, Defendants’ attempt to rely on the Rus-
+        sello presumption falls flat.
+         b. Contrary purposive and policy arguments are unpersuasive.
+                Defendants and their amici also make several appeals to pur-
+        pose- and policy-based arguments. They argue that a reasonable-
+        ness requirement would conflict with ERISA’s “background princi-
+        ples,” that it would impose unmanageable costs on plans, and that
+        it’s better to leave actuarial assumptions up to negotiations in the
+        labor market. We disagree. But even if we agreed, we must con-
+        strue the statute Congress wrote. So if Defendants have concerns
+        about that statute, they must take them to Congress.
+                Background Principles—Defendants highlight predictability,
+        flexibility, and deference to employer discretion as key themes of
+        the statute. These principles, Defendants argue, help “induc[e] em-
+        ployers to offer benefits” in the first place “by assuring a predictable
+        set of liabilities, under uniform standards of primary conduct.”
+        Conkright v. Frommert, 559 U.S. 506, 517 (2010) (quoting Rush Pru-
+        dential HMO, Inc. v. Moran, 536 U.S. 355, 379 (2002)). In Defendants’
+        view, Odom’s reading of “actuarial equivalence” would disrupt
+
+
+        32 Unlike the sections that Defendants cite as using the term “reasonable,”
+
+        Congress used “under the plan” in the same statute that created the actuarial-
+        equivalent requirement. See ERISA of 1974 §§ 3(23)(A), 204(b)(1)(D)(i),
+        502(a)(1)(B), 88 Stat. at 836, 859, 891.
+USCA11 Case: 24-12773      Document: 77-1       Date Filed: 05/26/2026      Page: 55 of 67
+
+
+
+
+        24-12773                Opinion of the Court                          55
+
+        Congress’s “careful balancing” of the interests of employees and
+        employers. Id. (quoting Aetna Health Inc. v. Davila, 542 U.S. 200,
+        215 (2004)).
+                It’s true that ERISA is a “comprehensive and reticulated stat-
+        ute.” Mertens v. Hewitt Assocs., 508 U.S. 248, 251 (1993) (quoting
+        Nachman Corp. v. Pension Benefit Guar. Corp., 446 U.S. 359, 361
+        (1980)). But Defendants don’t show that judicial precedent, other
+        signs of congressional intent, or practical considerations support
+        their interpretation of the statutory text.
+               First, we have repeated the Supreme Court’s sense of the
+        “overall intent” of the statute: “‘ERISA is a comprehensive statute
+        designed to promote the interests of employees and their beneficiaries in
+        employee benefit plans.’” Morstein v. Nat’l Ins. Servs., Inc., 93 F.3d
+        715, 718 (11th Cir. 1996) (emphasis added) (quoting Shaw v. Delta
+        Air Lines, Inc., 463 U.S. 85, 90 (1983)). To be sure, Congress also
+        attempted to encourage employers to offer benefits in the first in-
+        stance, including by seeking to ensure predictable liabilities.
+        Conkright, 559 U.S. at 517. But we must view this aim in light of
+        Congress’s overarching ambition to “ensure that employees would
+        receive the benefits they had earned.” Id. at 516. We don’t see how
+        it serves this goal to let plans transform annuities into a form that
+        is worth far less than the benefit a worker earned.
+               Second, amici exaggerate the degree of deference ERISA af-
+        fords to plans’ written terms. As an amicus, the Chamber of Com-
+        merce of the United States of America writes that Congress made
+        pension plans’ written terms “sacrosanct.” But the statute requires
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026     Page: 56 of 67
+
+
+
+
+        56                     Opinion of the Court                 24-12773
+
+        fiduciaries to adhere to a plan’s written terms only “so long as they
+        do not conflict with ERISA[’s]” substantive requirements. Fifth
+        Third Bancorp v. Dudenhoeffer, 573 U.S. 409, 424 (2014); see 29 U.S.C.
+        § 1104(a)(1)(D). So amici just restate the question in this case.
+        Later stages in this litigation will determine whether the Plan’s
+        written terms do, in fact, conflict with a substantive requirement
+        in ERISA.
+                Defendants cite a 1972 Senate Committee Report as show-
+        ing that Congress viewed “[f]lexibility of plan structure” as “essen-
+        tial” so that employers can “mold the plans to [the] individual and
+        collective needs of different workers, industries, and locations.” S.
+        Rep. No. 92-634, at 21 (1972). But using reasonable actuarial as-
+        sumptions doesn’t necessarily make plan structure inflexible.
+                Third, Defendants and one set of amici suggest that pressure
+        in the labor market makes a statutory reasonableness requirement
+        unnecessary. “Free market forces” and a fear of embarrassment
+        would, they assure us, make sure that plans use reasonable actuar-
+        ial assumptions without the need for litigation. But as we’ve ex-
+        plained, even if that’s so (and we don’t know that it is), Congress
+        did not adopt that perspective. “ERISA was enacted to restrict em-
+        ployers’ and employees’ freedom of contract when bargaining over
+        pensions.” Esden, 229 F.3d at 172 (emphasis added).
+               Cost Concerns—Defendants and amici representing large
+        employers also raise cost concerns. They contend that requiring
+        “reasonable” actuarial assumptions would force employers to
+        “constantly” re-evaluate and update their actuarial assumptions.
+USCA11 Case: 24-12773     Document: 77-1     Date Filed: 05/26/2026    Page: 57 of 67
+
+
+
+
+        24-12773              Opinion of the Court                       57
+
+        One amicus states that plan administrators would have to make in-
+        dividualized, case-by-case adjustments to pension payouts. Beyond
+        being expensive to administer, the amici fear the standard would
+        open a costly “floodgate of litigation” and produce oppressive set-
+        tlements. They argue participants and beneficiaries would be the
+        real losers because employers would simply cut back the benefits
+        they offer.
+                We understand these concerns. But to reiterate, “actuarial
+        equivalence” permits plans to use any of a range of reasonable mor-
+        tality and interest-rate assumptions. See Bakery & Confectionary Un-
+        ion, 888 F.3d at 706. Odom advocates for exactly this sort of flexi-
+        bility within limits. And professional publications support it as
+        well. See ASOP No. 1 § 2.10 (“[T]here will often be a range of rea-
+        sonable methods and assumptions[.]”). In any event, the employ-
+        ers’ concerns cannot alter the meaning of the statute before us.
+        The text and statutory context of the “actuarial equivalence” re-
+        quirement compel our interpretation.
+                                       ***
+               For these reasons, we conclude that Section 1055(d)’s “actu-
+        arial equivalence” rule requires plans to use actuarial assumptions
+        that are reasonable at the time the plan calculates a participant’s
+        retirement benefit. Because Odom alleges that the Plan fell short
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026        Page: 58 of 67
+
+
+
+
+        58                        Opinion of the Court                     24-12773
+
+        of this standard when it calculated his joint-and-survivor annuity
+        payment,33 we reverse the district court’s dismissal of Count I.
+
+                B. Joint-and-Survivor Annuity Conversion as Forfeiture
+
+                In his second claim, Odom alleges that Defendants’ conver-
+        sion of his single-life annuity to a joint-and-survivor annuity also
+        violates ERISA’s “nonforfeiture” rule. That provision requires pen-
+        sion plans to “provide that an employee’s right to his normal retire-
+        ment benefit is nonforfeitable upon the attainment of normal re-
+        tirement age.” 29 U.S.C. § 1053(a). Odom argues that his single-
+        life annuity is his “normal retirement benefit” and its conversion to
+        a less valuable joint-and-survivor annuity is a prohibited forfeiture.
+               Defendants urge us to affirm dismissal of this claim for two
+        reasons. First, they argue that Odom’s anti-forfeiture and “actuar-
+        ial equivalence” claims rise or fall together under the principle of
+        statutory interpretation that “the specific governs the general.”
+        Morales v. Trans World Airlines, Inc., 504 U.S. 374, 384 (1992). But
+        we’ve already established that Defendants’ calculation of Odom’s
+        joint-and-survivor annuity violates the more specific provision. So
+        this argument doesn’t help Defendants.
+                Second, Defendants argue that Alessi v. Raybestos-Manhattan,
+        Inc., 451 U.S. 504 (1981), forecloses this forfeiture claim. Alessi held
+        that “the statutory definition of ‘nonforfeitable’ assures that an
+
+
+        33 Defendants do not challenge the factual sufficiency of Odom’s Count I alle-
+
+        gations under the plausibility pleading standard.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026        Page: 59 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                               59
+
+        employee’s claim to the protected benefit is legally enforceable, but
+        it does not guarantee a particular amount or a method for calculat-
+        ing the benefit.” Id. at 512. Defendants propose that the decision’s
+        “reasoning should apply with equal force to permit a plan sponsor
+        to set the method used to convert that benefit to other forms of
+        payment.” But this suggested broadening of Alessi finds no support
+        in the decision and runs contrary to ERISA’s text.
+               To explain why, we focus on the two central concepts in
+        Section 1053(a): the “normal retirement benefit” and what it means
+        for that benefit to be “nonforfeitable.”
+                               1. “Normal Retirement Beneﬁt”
+               We treat Odom’s “normal retirement benefit” as a single-life
+        annuity. ERISA defines the term as “the greater of the early retire-
+        ment benefit under the plan, or the benefit under the plan com-
+        mencing at normal retirement age.” 29 U.S.C. § 1002(22). And the
+        2018 Plan defines a participant’s “Normal Retirement Income” as
+        his “monthly Retirement Income” payable “as a single life annu-
+        ity.” Defendants don’t contest the point.34
+
+
+
+
+        34 Because it is undisputed, we assume without deciding that Odom’s Normal
+
+        Retirement Income under the 2018 Plan is his “normal retirement benefit” for
+        purposes of 29 U.S.C. §§ 1002(22) and 1053(a). We express no view about what
+        relationship, if any, the default form of a participant’s retirement benefit has
+        to his or her “normal retirement benefit.” Cf. 29 U.S.C. § 1055(a)(1), (c), (f)
+        (making joint-and-survivor annuities the default form of retirement benefit for
+        married participants).
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026     Page: 60 of 67
+
+
+
+
+        60                     Opinion of the Court                  24-12773
+
+                This fact destroys Defendants’ Alessi-based argument. They
+        cite Alessi’s statement that the definition of “nonforfeitable” doesn’t
+        “guarantee a particular amount or a method for calculating” the
+        protected benefit. 451 U.S. at 512. But the protected benefit is a
+        participant’s normal retirement benefit. And Odom’s issue is what
+        happens after the plan calculates his normal retirement benefit.
+                                      2. Forfeiture
+               Odom has plausibly alleged forfeiture of his normal retire-
+        ment benefit, too. He directs us to the Seventh Circuit’s decision
+        in Contilli v. Local 705 International Brotherhood of Teamsters Pension
+        Fund, 559 F.3d 720 (7th Cir. 2009), for his definition of “forfeiture.”
+        The court in Contilli concluded that “a reduction in the total value
+        of all monthly benefits is a kind of forfeiture.” Id. at 722. For that
+        reason, it held that receiving an annuity with a lower value than
+        the normal retirement benefit violates Section 1053(a).
+                Odom also points us to a Treasury regulation, 26 C.F.R.
+        § 1.411(a)-4(a). It states, “Certain adjustments to plan benefits such
+        as adjustments in excess of reasonable actuarial reductions, can re-
+        sult in rights being forfeitable.” Id. ERISA causes this regulation to
+        apply equally to Section 1053(a). See 29 U.S.C. § 1202(c); cf. 26
+        U.S.C. § 411(a) (paralleling 29 U.S.C. § 1053(a)).
+               Both Contilli and the Treasury regulation align with our
+        reading of ERISA’s definition of “nonforfeitable.” The statute de-
+        fines the term as an “unconditional” and “legally enforceable”
+        claim to “that part of an immediate or deferred benefit under a pen-
+        sion plan which arises from the participant’s service.” 29 U.S.C.
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 61 of 67
+
+
+
+
+        24-12773               Opinion of the Court                       61
+
+        § 1002(19). We can apply this definition to Section 1053(a): Upon
+        reaching normal retirement age, a participant gains an uncondi-
+        tional, legally enforceable claim to his normal retirement benefit.
+               As Defendants explain, the more specific “actuarial equiva-
+        lent” provisions of ERISA color our reading of this requirement.
+        The statute treats two forms of a benefit as interchangeable only if
+        they hold the same value. And Odom alleges that the plan is giving
+        him a benefit less valuable than his “normal retirement benefit.”
+        We conclude that this reduction in value compromises his uncon-
+        ditional claim to the value of his normal retirement benefit.
+
+                            C. QPSA Charge as Forfeiture
+
+               Both Plaintiffs have also plausibly alleged that their QPSA
+        charges violated Section 1053(a)’s nonforfeiture rule. Our analysis
+        proceeds in two parts. First, we construe the scope of Section
+        1055(i), the relevant exception that Congress created in the nonfor-
+        feiture rule. Second, we consider whether Plaintiffs’ factual allega-
+        tions would, if proven, establish that the Plan’s QPSA charges ex-
+        ceed the maximum amount that Section 1055(i) permits.
+                             1. Permissible QPSA Charges
+               We start with ERISA’s allowance for deductions from a par-
+        ticipant’s accrued benefit to account for providing a preretirement
+        survivor annuity. Two parts of ERISA interact to limit the QPSA
+        charges a plan may impose: Section 1053(a)’s nonforfeiture rule
+        and Section 1055(i)’s exception to that rule.
+USCA11 Case: 24-12773        Document: 77-1        Date Filed: 05/26/2026        Page: 62 of 67
+
+
+
+
+        62                        Opinion of the Court                      24-12773
+
+               Congress added a new cost for plans in 1984 when it required
+        them to give preretirement survivor annuities to married, vested
+        participants. See 29 U.S.C. § 1055(a)(2). This change added another
+        category of people plans must pay: spouses of participants who die
+        before retiring.
+               But Section 1053(a)’s nonforfeiture rule posed a barrier to
+        compensating for the new cost. As we discussed, that subsection
+        protects a participant’s normal retirement beneﬁt upon reaching
+        retirement age. It also protects a participant’s accrued beneﬁt be-
+        fore retirement. See id. § 1053(a)(1)–(2). 35 Deducting QPSA charges
+        from a participant’s accrued beneﬁt would violate Section 1053(a)
+        on its face. For example, Drummond and Odom say that their
+        QPSA charges reduced their total pension beneﬁt by 13.1 and 10.4
+        percent, respectively.
+                So Congress created, in eﬀect, an exception to the general
+        nonforfeiture rule. The 1984 amendments added Section 1055(i):
+        “A plan may take into account in any equitable manner (as deter-
+        mined by the Secretary of the Treasury) any increased costs result-
+        ing from providing . . . a qualiﬁed preretirement survivor annuity.”
+        Id. § 1055(i).
+
+
+
+
+        35 An employee’s “rights in his accrued benefit derived from his own contribu-
+
+        tions” are always nonforfeitable. 29 U.S.C. § 1053(a)(1). He gains a nonfor-
+        feitable right to 100 percent of his accrued benefit derived from employer con-
+        tributions over the course of five to seven years. See id. § 1053(a)(2).
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026        Page: 63 of 67
+
+
+
+
+        24-12773                  Opinion of the Court                               63
+
+               Three aspects of Section 1055(i) support the conclusion that
+        a plan may not impose a QPSA charge larger than one based on
+        reasonable, realistic actuarial assumptions.
+                First, the statute “expressly delegate[s]” to the Secretary of
+        the Treasury determination of what type of QPSA charges count
+        as equitable. Loper Bright, 603 U.S. at 394–95 (quoting Batterton v.
+        Francis, 432 U.S. 416, 425 (1977)). The applicable regulation pro-
+        vides that “[a] charge for the QPSA that reasonably reﬂects the cost
+        of providing the QPSA will not fail to satisfy [26 U.S.C. § 411] even
+        if it reduces the accrued beneﬁt.” 26 C.F.R. § 1.401(a)-20, Q&A 21
+        (emphasis added). 36 We must recognize and give eﬀect to statutory
+        delegations. Loper Bright, 603 U.S. at 395. So we view this regula-
+        tion as articulating the bounds of the “equitable manner[s]” plans
+        may use to determine QPSA charges to deduct from a participant’s
+        otherwise nonforfeitable accrued beneﬁt. 29 U.S.C. § 1055(i).
+               Of course, we must still ensure that the agency’s interpreta-
+        tion ﬁts within “the boundaries of the delegated authority.” Loper
+        Bright, 603 U.S. at 395 (brackets omitted) (quoting H. Monaghan,
+        Marbury and the Administrative State, 83 Colum. L. Rev. 1, 27
+        (1983)). That takes us to the other aspects of Section 1055(i).
+                The second facet of Section 1055(i) that we ﬁnd signiﬁcant
+        is its reference to a plan’s “increased costs” from providing the
+
+        36 Although 26 C.F.R. § 1.401(a)-20 addresses the corresponding part of the Tax
+
+        Code, the Secretary of the Treasury expressly extended it to apply to Title I of
+        ERISA, which includes 29 U.S.C. § 1055(i). See 53 Fed. Reg. 31837, 31838–39,
+        31846–47 (Aug. 22, 1988).
+USCA11 Case: 24-12773     Document: 77-1      Date Filed: 05/26/2026    Page: 64 of 67
+
+
+
+
+        64                     Opinion of the Court                24-12773
+
+        preretirement survivor annuity beneﬁt. 29 U.S.C. § 1055(i). This
+        point of comparison implies a connection to an actual increase in
+        costs—not arbitrary assumptions. Of course, any prediction about
+        the future involves uncertainty. But reasonable actuarial assump-
+        tions provide the best guide to making that determination.
+               Third, the statute permits plans to use only an “equitable
+        manner” to take increased costs into account. “Equitable” con-
+        notes some degree of fairness. See Equitable, Black’s Law Dictionary
+        (5th ed. 1979) (“Just; conformable to the principles of justice and
+        right.”). So this term suggests that plans’ QPSA charges must be
+        fair to participants. Excessive, unrealistic reductions to partici-
+        pants’ promised beneﬁts are not.
+                All three aspects of Section 1055(i) point the same way.
+        QPSA charges reﬂect the “increased costs resulting from providing
+        . . . a qualiﬁed preretirement survivor annuity” in an “equitable
+        manner” if they rely on reasonable, realistic actuarial assumptions.
+               Defendants resist this reading. They argue that the statute
+        does not prescribe “the method” or “a particular set of actuarial as-
+        sumptions” for calculating QPSA charges. This omission, they sug-
+        gest, gives them carte blanche. But failing to prescribe a single,
+        specific method for calculating QPSA charges is not the same as
+        imposing no limitations whatsoever.
+               Here, once again, ERISA allows ﬂexibility within limits. The
+        statute and the regulation it directs us to follow show that plans
+        may not impose QPSA charges that exceed a reasonable reﬂection
+        of the increased costs of oﬀering preretirement survivor annuities.
+USCA11 Case: 24-12773         Document: 77-1          Date Filed: 05/26/2026           Page: 65 of 67
+
+
+
+
+        24-12773                    Opinion of the Court                                 65
+
+                             2. Suﬃciency of Plaintiﬀs’ Allegations
+               Now, we turn to the factual suﬃciency of Plaintiﬀs’ allega-
+        tions under this interpretation.
+               Plaintiﬀs allege that their “normal retirement beneﬁts” take
+        the form of a “single life annuity unreduced by the QPSA charge.”37
+        ERISA deﬁnes participants’ protected “accrued beneﬁt” in terms of
+        “an annual beneﬁt commencing at normal retirement age,” too. 29
+        U.S.C. § 1002(23)(A). So the “unreduced” single-life annuity is the
+        beneﬁt that ERISA protects against forfeiture. Then the question
+        is whether the QPSA charges Defendants deducted from that pro-
+        tected beneﬁt exceed the amount Section 1055(i) allows.
+               With that baseline in mind, we can examine Plaintiﬀs’ alle-
+        gations. Plaintiﬀs suﬃciently allege the maximum deductions that
+        Section 1055(i) allows and then show that their QPSA charges ex-
+        ceed those values.
+              First, Plaintiﬀs allege that QPSA charges based on “appropri-
+        ate and updated actuarial assumptions” would be “no more than”
+
+        37 The Plan documents cast some uncertainty on this proposition.           Plaintiffs
+        assert that the Plan documents define the vested benefit in Section 4.2. But
+        Section 4.2(a) of both the 2016 Plan and 2018 Plan documents expressly dis-
+        cusses a reduction for a “Death Benefit Charge” that seems to be the QPSA
+        charge. And it isn’t clear that the other subsection, Section 4.2(b), is relevant—
+        it appears to apply to employees hired after January 1, 2016, or who became
+        participants after January 1, 2017.
+        It could be fatal to Plaintiffs’ claim if their vested benefit that is protected
+        against forfeiture already reflects QPSA reductions. But Defendants do not
+        make this argument, so we will not rely on it.
+USCA11 Case: 24-12773        Document: 77-1         Date Filed: 05/26/2026         Page: 66 of 67
+
+
+
+
+        66                         Opinion of the Court                       24-12773
+
+        speciﬁc values—around 0.3 percent per year for Drummond and
+        0.6 percent per year for Odom. Those allegations establish the up-
+        per limit of charges that reasonably reﬂect the increased costs of
+        oﬀering the beneﬁt.
+               Then, Plaintiﬀs identify their actual QPSA charges, which
+        exceed those maximum reasonable fees. For Drummond, his an-
+        nual 0.875-percent QPSA charge is 192 percent higher. Odom’s is
+        0.75 percent per year, 25 percent above the alleged maximum.38
+             Finally, Plaintiﬀs round out their claim by alleging that these
+        QPSA charges reduced their accrued beneﬁts by more than the
+        amount reasonable actuarial assumptions could support.
+               Together, these allegations are enough to state a prima facie
+        claim that Plaintiﬀs’ QPSA charges are unlawful forfeitures of their
+        accrued beneﬁts.
+               Defendants counter that Plaintiﬀs did not address all the
+        costs that a plan incurs from oﬀering a QPSA beneﬁt. The only
+        cost that Defendants identify as missing is the risk of adverse selec-
+        tion. That is the phenomenon that individuals with greater health
+        risks are more likely to opt for services such as life or health
+
+
+        38 We don’t suggest that it will always be necessary to allege a specific ceiling
+
+        to the range of reasonable QPSA charges. Indeed, it may be rare that plaintiffs
+        could substantiate a precise cutoff. As we noted, reasonableness is a zone.
+        Reasonable actuaries may reach differing answers to the same question. So it
+        may be enough to allege that one’s actual QPSA charges exceeded a particular,
+        reasonable QPSA charge by a substantial margin. We express no view on how
+        large that margin would need to be. The allegations here are enough.
+USCA11 Case: 24-12773      Document: 77-1      Date Filed: 05/26/2026     Page: 67 of 67
+
+
+
+
+        24-12773               Opinion of the Court                         67
+
+        insurance. By increasing the average health-risk proﬁle of partici-
+        pating individuals, adverse selection could increase the per-person
+        cost to provide the preretirement survivor beneﬁt. See King v. Bur-
+        well, 576 U.S. 473, 480 (2015) (explaining adverse selection in health-
+        insurance markets).
+               But adverse selection here is an issue of mortality risk. De-
+        fendants suggest that participants with greater mortality risk would
+        be likelier to retain the preretirement survivor annuity beneﬁt.
+        Healthier participants, on the other hand, may be likely to opt out.
+               So Defendants’ speculation goes to the reasonableness of
+        the mortality assumptions the Plan used to estimate the chance it
+        will need to pay out a given preretirement survivor annuity. And
+        Plaintiﬀs alleged that the Plan used “outdated, unreasonable, and
+        inappropriate mortality assumptions” to calculate its QPSA
+        charges.
+               Of course, Defendants will have the opportunity to present
+        evidence of their own at later stages of this litigation. Perhaps they
+        will be able to establish that the Plan’s mortality assumptions were
+        appropriate considering adverse selection. But either way, that isn’t
+        an issue to resolve on a motion to dismiss.
+
+                               IV.    CONCLUSION
+
+               For the reasons we’ve discussed, we reverse the district
+        court’s dismissal of all four of Plaintiffs’ claims. We remand the
+        case for further proceedings.
+               REVERSED and REMANDED.
+

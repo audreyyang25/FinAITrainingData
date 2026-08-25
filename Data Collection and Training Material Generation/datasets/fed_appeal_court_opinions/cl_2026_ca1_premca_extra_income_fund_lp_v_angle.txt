@@ -1,0 +1,1959 @@
+          United States Court of Appeals
+                     For the First Circuit
+
+No. 25-1192
+
+           PREMCA EXTRA INCOME FUND LP, individually
+        and on behalf of all others similarly situated,
+
+                      Plaintiff, Appellant,
+
+                           DYLAN DAS,
+
+                           Plaintiff,
+
+                               v.
+
+                  COLIN M. ANGLE; JULIE ZEILER,
+
+                     Defendants, Appellees,
+
+                       IROBOT CORPORATION,
+
+                           Defendant.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+          [Hon. William G. Young, U.S. District Judge]
+
+
+                             Before
+
+                  Rikelman, Lynch, and Aframe,
+                        Circuit Judges.
+
+
+     Christopher P. T. Tourek, with whom Joshua B. Silverman, Genc
+Arifi, and Pomerantz LLP were on brief, for appellant.
+     Alisha Q. Nanda, with whom James R. Carroll, Rene H. DuBois,
+and Skadden, Arps, Slate, Meagher & Flom LLP were on brief, for
+appellees.
+June 5, 2026
+              AFRAME, Circuit Judge.         In August 2022, Amazon, Inc.,
+
+the online retailer, and iRobot, Inc., a robotics company best
+
+known for inventing a popular robot vacuum cleaner called the
+
+Roomba,      announced   their    intention       to    merge.      Over    the   next
+
+approximately eighteen months, Amazon and iRobot sought clearance
+
+for    the    merger     from    domestic    and        international      antitrust
+
+regulators.      In January 2024, when approval from United States
+
+and European Union authorities seemed doubtful, Amazon and iRobot
+
+terminated their merger attempt.
+
+              Following the abandoned merger, iRobot shareholders,
+
+led    by    Premca    Extra    Income    Fund,    LP    ("Premca"),       brought   a
+
+securities      fraud    class    action    against       iRobot,    Colin    Angle,
+
+iRobot's chief executive officer, and Julie Zeiler, iRobot's chief
+
+financial officer.        After Premca filed an amended complaint, the
+
+defendants moved to dismiss it for failing to state a claim,
+
+arguing that it neither identified a statement that contained an
+
+actionable material misrepresentation or omission nor adequately
+
+alleged scienter.        The district court agreed on both fronts and
+
+dismissed the complaint with prejudice.                  Premca appealed.         After
+
+oral    argument,      iRobot    entered    Chapter       11    bankruptcy,       which
+
+resulted in a temporary stay of the appeal.                    During the stay, the
+
+parties jointly requested to dismiss iRobot from the appeal but
+
+to have the appeal proceed with respect to Angle and Zeiler (the
+
+"individual defendants").          We granted that request.
+                                         - 3 -
+            We   now     conclude   that    the   district     court    correctly
+
+dismissed the amended complaint for all statements identified by
+
+Premca except for the August 24, 2023, modified proxy statement.
+
+As we explain, the amended complaint plausibly alleges that an
+
+opinion expressed in iRobot's modified proxy statement -- namely,
+
+that the company expected regulatory approval for the merger -- is
+
+actionable because it omitted important contrary information about
+
+European    approval      in   circumstances        that   adequately     suggest
+
+scienter.
+
+                                       I.
+
+            Because we are evaluating the grant of a motion to
+
+dismiss    under    Federal    Rule   of    Civil    Procedure    12(b)(6),    we
+
+describe the well-pleaded allegations from the amended complaint,
+
+supplemented by "'documents the authenticity of which are not
+
+disputed    by     the    parties,'   'official       public     records,'    and
+
+'documents sufficiently referred to in the complaint.'"                   Constr.
+
+Indus. & Laborers Joint Pension Tr. v. Carbonite, Inc., 22 F.4th
+
+1, 4 (1st Cir. 2021) (quoting Mehta v. Ocular Therapeutix, Inc.,
+
+955 F.3d 194, 198 (1st Cir. 2020)).
+
+            We start with some background on the primary antitrust
+
+authorities involved, namely, the European Commission ("EC") in
+
+the European Union and the Federal Trade Commission ("FTC") in
+
+the United States.        We then turn to the details of the merger and
+
+the travel of the case.
+                                      - 4 -
+     A.     Regulatory Background
+
+            In the European Union, the EC reviews mergers that
+
+exceed certain revenue thresholds, including the merger at issue
+
+here.     Parties proposing a covered merger must formally notify
+
+the EC of the transaction, and often, there are pre-notification
+
+communications between the EC and the merging parties.               After
+
+formal notification, the EC has            twenty-five working    days to
+
+conduct a Phase I review.    During that review, the EC will obtain
+
+information from the merging companies, communicate with them,
+
+and hold a "state-of-play meeting" to disclose the investigation
+
+results.    Following Phase I, the EC will either (1) "clear[]" the
+
+merger -- unconditionally or subject to accepted remedies -- or
+
+(2) open a Phase II investigation.
+
+            The EC will launch a Phase II investigation if it has
+
+concerns about the merger's anticompetitive effect on the European
+
+market.    A Phase II investigation lasts ninety working days, but
+
+the EC may extend it.     If, following Phase II, the EC concludes
+
+that the proposed merger will impede competition, it will send
+
+the parties a statement of objections.              The parties may then
+
+respond to the objections, review the EC's file, and request an
+
+oral hearing before an independent hearing officer.         In 2022, 2.1%
+
+of mergers proposed to the EC entered Phase II.
+
+            In the United States, merging companies involved in
+
+transactions    of   a   certain    size     must    file   a   pre-merger
+                                   - 5 -
+notification, which either the FTC or the Department of Justice's
+
+Antitrust Division reviews.           See 15 U.S.C. § 18a(a), (b)(1)(A).
+
+The FTC reviewed the merger at issue here, and thus we focus on
+
+the statutory requirements as applicable to that agency.                      The
+
+pre-merger notification triggers a thirty-day waiting period while
+
+the FTC conducts its review.          See id. § 18a(b)(1)(B).         If, during
+
+the   waiting     period,     the    FTC    decides    that    it    needs    more
+
+information,      it    may   make    a    so-called    second      request   for
+
+information.      See id. § 18a(e).         The FTC may approve the merger
+
+or sue to block it because of its anticompetitive effects.                     See
+
+id. § 18a(f).      Throughout the process, the FTC will continue to
+
+engage with the merging parties.           In 2022, the FTC issued a second
+
+request for information in less than one percent of the mergers
+
+it reviewed.
+
+              Finally, we note that the United Kingdom's Competition
+
+and Markets Authority ("CMA") also reviewed this merger.                       Its
+
+review, however, is only tangential to this case and so we do not
+
+provide further details on its regulatory processes.
+
+      B.      iRobot and Amazon's Merger Attempt
+
+              iRobot was founded in 1990 by Angle and two colleagues.
+
+Initially, iRobot built robots mostly for the military, but by
+
+the   early    2000s,   the   company      shifted    its   focus   to   consumer
+
+products. Its primary product is the Roomba, the well-known robot
+
+home vacuum that can sense dirt on its own.                    Despite initial
+                                      - 6 -
+success, iRobot's market share began to decrease in 2014 as new
+
+competitors entered the market.          After a brief bump in sales
+
+during the COVID-19 pandemic, iRobot's earnings continued to
+
+decline.
+
+            In May 2022, Amazon contacted iRobot about a potential
+
+acquisition.    A couple months later, Amazon and iRobot agreed that
+
+Amazon would pay sixty-one dollars per share to acquire iRobot.
+
+The parties also agreed that Angle would continue as iRobot's CEO
+
+after the merger.       As part of the agreement, the companies
+
+committed to provide each other with "prompt notice" of "any
+
+request or proceeding by or before any Governmental Authority with
+
+respect to the" merger; use "reasonable best efforts" to obtain
+
+regulatory clearance and resolve regulatory objections; "supply
+
+as promptly as reasonably practicable" additional information
+
+requested or required by regulators; and contest any proceedings
+
+challenging    the   merger.    On   August    5,   2022,    the    companies
+
+announced their merger agreement.             Shortly after        the merger
+
+announcement, Amazon and iRobot began holding integration meetings
+
+for nine separate work streams, including real estate and finance.
+
+            In early September 2022, the FTC began its investigation
+
+of   the   merger.    Shortly   thereafter,     iRobot      filed   with   the
+
+Securities and Exchange Commission ("SEC") its original proxy
+
+statement for the transaction. In that document, iRobot predicted
+
+that "all applicable regulatory approvals [would] be obtained"
+                                 - 7 -
+but acknowledged that the merger "[could not] be consummated"
+
+until such approvals were granted.1
+
+          After filing its initial proxy statement, iRobot began
+
+to face additional regulatory scrutiny.    On September 19, 2022,
+
+the FTC, following its initial merger review, sent the parties a
+
+second request for information about the transaction.      And in
+
+early 2023, the EC also intensified its scrutiny of the merger.
+
+According to a February 15, 2023, Financial Times article, the EC
+
+
+     1    In the same document, iRobot also provided what would
+     become a typical risk disclosure:
+
+          Although Amazon.com and iRobot believe that
+          the merger will not violate the antitrust or
+          foreign investment laws and expect that all
+          required regulatory clearances and approvals
+          will be obtained, Amazon.com and iRobot
+          cannot    assure    that    these   regulatory
+          clearances and approvals will be timely
+          obtained, obtained at all or that the granting
+          of these regulatory clearances and approvals
+          will not involve the imposition of additional
+          conditions,    restrictions,   qualifications,
+          requirements or limitations on the completion
+          of the merger, including the requirement to
+          divest assets, license or hold separate
+          assets or terminate existing relationships
+          and contractual rights, or agree to other
+          remedies, or require changes to the terms of
+          the Merger Agreement, or that a challenge to
+          the merger on antitrust or foreign investment
+          grounds will not be made, or if such challenge
+          is made, what the result will be. These
+          conditions or changes could result in the
+          conditions to the merger not being satisfied.
+          There is currently no way to predict how long
+          it will take to obtain all of the required
+          regulatory    approvals    or   whether   such
+          approvals will ultimately be obtained . . ..
+                               - 8 -
+sent Amazon a series of detailed questions about the merger before
+
+the parties had formally notified the EC of the merger.                       The
+
+article     explained   that   the    EC's       questions   arose     from   an
+
+investigation appearing in the MIT Technology Review that claimed
+
+the Roomba could capture intimate images of people in proximity
+
+to the product.
+
+            About a month later, in March 2023, there were rumblings
+
+that Amazon was resisting some regulatory requests.                    Politico
+
+reported that Amazon had been "largely unresponsive to the FTC's
+
+investigation" and refused "to turn over information requested by
+
+the FTC."     Similarly, iRobot learned internally that Amazon was
+
+not   providing   the   EC   with    all   the    information   that    it    had
+
+requested.     According to confidential witness 2 ("CW2") -- who
+
+was iRobot's senior tax manager for global finance from June 2017
+
+to December 2023 and then the director of global finance -- in
+
+May 2023, senior leadership, including the individual defendants
+
+and iRobot's chief legal officer, Glen Weinstein, gathered for a
+
+meeting.2     There, per CW2, Weinstein announced that the EC had
+
+asked Amazon for information about its search engine because of
+
+concerns that Amazon would boost its own products at competitors'
+
+
+
+      2   Confidential witness 1 ("CW1") was a director-level
+officer at iRobot between November 2021 and April 2024 who
+reported on certain aspects of iRobot's business practices after
+the merger agreement was signed. CW1's allegations do not bear
+on this appeal.
+                                     - 9 -
+expense.     According to Weinstein, Amazon had refused to comply
+
+with the EC's request.
+
+           On May 9, 2023, iRobot filed a Form 10-Q.                       In that
+
+filing, iRobot acknowledged that it and Amazon had received from
+
+the FTC a second request for information related to the merger.
+
+The   filing     also    indicated     that     iRobot   "and     Amazon    [were]
+
+continu[ing] to work cooperatively with the FTC staff in its
+
+review of the [m]erger."
+
+           On June 1, 2023, iRobot and Amazon filed their formal
+
+notification of the merger with the EC, and shortly thereafter,
+
+the EC initiated a Phase I review.               About two weeks later, the
+
+United Kingdom's CMA approved the merger.                Reuters reported the
+
+approval and quoted Angle as stating that iRobot and Amazon
+
+continued "to work cooperatively with other relevant regulators
+
+in their review of the merger."
+
+           On    July    6,    2023,    the     EC   issued   a   press    release
+
+announcing      that    it    was   pursuing     a   Phase II     investigation.
+
+Explaining this decision, the EC press release stated that it was
+
+"concerned that the transaction would allow Amazon to restrict
+
+competition in the market for robot vacuum cleaners . . . and to
+
+strengthen its position as [an] online marketplace provider."                   In
+
+particular, the press release cited a preliminary finding that:
+
+           Amazon may have the ability and the incentive
+           to foreclose iRobot's rivals by preventing
+           them from selling [robot vacuum cleaners] on
+                                       - 10 -
+          Amazon's   online   marketplace  and/or   by
+          degrading     their     access    to    [the
+          marketplace] . . .. This may include: . . .
+          favouring iRobot's [robot vacuum cleaner] in
+          both non-paid (i.e., organic) and paid
+          results (i.e., advertisements) displayed in
+          Amazon's marketplace . . .. Such foreclosure
+          strategies could restrict competition in the
+          market for the manufacturing and supply of
+          [robot vacuum cleaners], leading to higher
+          prices, lower quality, and less innovation
+          for consumers. (emphasis omitted)
+
+The release also noted that "[t]he vast majority of . . . mergers
+
+[presented to the EC] do not pose competition problems and are
+
+cleared after a routine review."      At the end of the section
+
+detailing the EC's competition concerns, the release explained
+
+that "[t]he opening of an in-depth inquiry does not prejudge the
+
+outcome of the investigation."
+
+          Later that month, iRobot announced that it had secured
+
+a $200 million loan for ongoing operations.   The next day, iRobot
+
+and Amazon issued a joint press release announcing a reduction in
+
+the per share purchase price that Amazon would pay to acquire
+
+iRobot.   The release stated that completion of the merger was
+
+subject to "regulatory approvals" and "approval of the amended
+
+merger agreement by iRobot's stockholders."   It also stated that
+
+"Amazon and iRobot [were] working cooperatively with the relevant
+
+regulators in their review of the merger."
+
+          In early August 2023, three significant events occurred
+
+around the same time.   First, according to CW2, the companies
+
+                             - 11 -
+ceased     holding    real    estate     integration      meetings.     Second,
+
+confidential witness 3 ("CW3"), a "[d]irector-level employee" from
+
+April    2021    to   May    2024   whose    job   responsibilities    included
+
+overseeing the company's "user experience and software design,"
+
+similarly reported that iRobot's software engineering department
+
+had stopped working on all integration matters with Amazon.
+
+Third,     CW3   attended     a     senior   leadership     meeting   with   the
+
+individual defendants. There, per CW3, Weinstein, the chief legal
+
+officer, announced that the EC had requested information related
+
+to Amazon's search engine -- specifically, information regarding
+
+whether the engine was favoring Amazon's internal products to the
+
+detriment of competition -- and that Amazon had refused this
+
+request.
+
+            Then, on August 8, 2023, iRobot filed a Form 10-Q with
+
+the SEC, which included updates on the merger's regulatory status.
+
+That filing disclosed the second request for information from the
+
+FTC in September 2022; the approval by the CMA in June 2023; and
+
+the EC's announcement of the Phase II investigation in July 2023.
+
+The Form 10-Q provided standard warnings that the merger might
+
+not obtain regulatory approvals.              It made no predictions about
+
+the likelihood of obtaining the needed approvals.
+
+            On August 24, 2023, iRobot filed with the SEC its
+
+modified merger proxy statement, which Angle signed.                   For the
+
+first time since filing the original proxy statement in early
+                                       - 12 -
+September 2022, iRobot stated that it and Amazon "expect[ed] that
+
+all applicable regulatory approvals [would] be obtained" and
+
+"believe[d] that the merger [would] not violate the antitrust or
+
+foreign investment laws."         The statement also contained the same
+
+caveats and risks that were included in the original September
+
+2022 proxy statement.            The modified proxy statement did not
+
+include a description of the anticompetitive concerns expressed
+
+by   the    EC    in   its    press   release   announcing       the    Phase II
+
+investigation.         Nor did it explain that Amazon had recently
+
+refused to provide information about its search engine related to
+
+the EC's competition concerns.
+
+            According to CW2, in September 2023, iRobot executives
+
+held discussions about plans for the company to proceed without
+
+merging.         Further,    confidential   witness 4,     a   senior   project
+
+manager at iRobot from June 2020 to May 2024, reported that by
+
+October 2023, all integration meetings between iRobot and Amazon
+
+had stopped.       On October 12, 2023, iRobot's shareholders voted in
+
+favor of the merger.
+
+            On November 7, 2023, iRobot filed another Form 10-Q with
+
+the SEC.     That filing provided an update on the status of the
+
+regulatory       reviews,    including   that   the   EC   had   extended   the
+
+Phase II deadline to February 14, 2024.           This Form 10-Q continued
+
+to warn investors that the merger might not obtain regulatory
+
+approval.    But unlike the modified proxy statement published on
+                                      - 13 -
+August 24, the filing included no statement that iRobot expected
+
+that all applicable regulatory approvals would be obtained.
+
+            On November 27, 2023, the EC issued a statement of
+
+objections to the merger.         The statement expressed concern that
+
+Amazon    might   inhibit   competition      by   "preventing     rivals       from
+
+selling [robot vacuum cleaners] on Amazon's online marketplace."
+
+That same day, iRobot filed a Form 8-K with the SEC reporting the
+
+EC's statement of objections.        The document described the purpose
+
+of a statement of objections and stated that the companies would
+
+be   allowed    "to   present    arguments   in   response   to    the    [EC's]
+
+preliminary assessment."         iRobot again offered no prediction on
+
+how the EC was likely to resolve the matter and stated that the
+
+company     faced     a   risk     that   the     merger     would       not     be
+
+"consummate[d] . . . in a timely manner or at all."
+
+            In December 2023, it became public knowledge that Amazon
+
+would defend the merger at a closed EC hearing later that month.
+
+On January 10, 2024, a Politico article reported that Amazon did
+
+not offer concessions at the hearing to try to gain the EC's
+
+approval.      Nevertheless, the article quoted Angle as stating that
+
+iRobot was "continu[ing] to work cooperatively with the [EC]" and
+
+that the company "remain[ed] excited about the opportunity to work
+
+together with Amazon." About a week later, the Wall Street Journal
+
+reported that the EC intended to block the merger.              The next day,
+
+
+                                    - 14 -
+Bloomberg reported that the FTC was drafting a lawsuit to do the
+
+same.
+
+            On January 29, 2024, Amazon and iRobot issued a joint
+
+press release announcing that the parties had entered into a
+
+mutual agreement to terminate the merger.                Pursuant to that
+
+agreement,       iRobot   received        a   ninety-four-million-dollar
+
+termination fee from Amazon.      That same day, the company announced
+
+layoff plans and that Angle had stepped down as CEO.
+
+     C.     Procedural History
+
+            A couple months later, Premca filed this suit against
+
+iRobot and the individual defendants on behalf of a putative class
+
+of iRobot investors.      Premca's amended complaint seeks recovery
+
+against    all   defendants    under    § 10(b)   of   the   Securities   and
+
+Exchange Act of 1934 (the "Act"), 15 U.S.C. § 78j(b), and Rule
+
+10b-5, 17 C.F.R. § 240.10b-5, which was promulgated pursuant to
+
+the Act.    The amended complaint also includes a claim against the
+
+individual defendants as "controlling persons" under § 20(a) of
+
+the Act.     15 U.S.C. § 78t.3         The amended complaint essentially
+
+alleges that during the class period -- February 13, 2023, through
+
+January    29,   2024 -- the    defendants    made     numerous   misleading
+
+
+
+     3    The amended complaint also alleges a claim against
+iRobot and Angle under § 14(a) of the Security and Exchanges Act,
+15 U.S.C. § 78n(a), and Rule 14a-9, 17 C.F.R. § 240.14a-9, which
+was promulgated pursuant to that Act.        The district court
+dismissed this claim and Premca does not pursue it on appeal.
+                                   - 15 -
+statements and omitted material information regarding Amazon's
+
+cooperation with regulators and the status of the regulatory
+
+approval process.
+
+            The defendants moved to dismiss the action based on the
+
+heightened pleading standards supplied by Federal Rule of Civil
+
+Procedure 9(b) and the Private Securities Litigation Reform Act
+
+of 1995 ("PSLRA").         See 15 U.S.C. §§ 78u-4, 78u-5.           The district
+
+court granted the motion on the § 10(b) claim, concluding that
+
+the amended complaint contained insufficient factual support for
+
+the fraud allegations and inadequate allegations of scienter. The
+
+court then dismissed the § 20(a) claim because it was derivative
+
+of the § 10(b) claim.        Premca timely appealed.          Following iRobot's
+
+bankruptcy,      this   appeal     proceeds    only    as    to   the    individual
+
+defendants.      Supra at slip op. 3.
+
+                                       II.
+
+            We review de novo the grant of a motion to dismiss.
+
+Aldridge v. A.T. Cross Corp., 284 F.3d 72, 78 (1st Cir. 2002).                   A
+
+complaint for securities fraud survives a motion to dismiss so
+
+long as it states a claim that is plausible on its face, pleads
+
+with particularity the circumstances constituting fraud, see Fed.
+
+R.   Civ.   P.     9(b),     and    satisfies    the        heightened    pleading
+
+requirements of the PSLRA.            State Tchrs. Ret. Sys. of Ohio v.
+
+Charles River Lab'ys Int'l, Inc., 152 F.4th 1, 9 (1st Cir. 2025).
+
+
+                                      - 16 -
+           The parties agree that Premca's § 20(a) claim rises and
+
+falls with its § 10(b) claim.            See Carbonite, 22 F.4th at 6.
+
+Thus, we focus our analysis on the § 10(b) claim.                   A plausible
+
+§ 10(b)    claim   requires   well-pleaded         allegations      of:   "(1) a
+
+material     misrepresentation     or    omission;     (2) scienter;      (3) a
+
+connection with the purchase or sale of a security; (4) reliance;
+
+(5) economic loss; and (6) loss causation."            Id.    (quoting In re
+
+Biogen Inc. Sec. Litig., 857 F.3d 34, 41 (1st Cir. 2017)).                Here,
+
+iRobot challenges Premca's showing on the first two elements.
+
+           In cases involving a § 10(b) claim, a complaint must
+
+survive the heightened pleading standards established by Rule 9(b)
+
+and the PSLRA.       See Charles River, 152 F.4th at 9.                   These
+
+heightened standards affect both challenged elements here -- a
+
+complaint must allege a misleading statement or omission with
+
+heightened    particularity      and    scienter     with    both    heightened
+
+particularity and plausibility.          See Glazer Cap. Mgmt., L.P. v.
+
+Forescout Techs., Inc., 63 F.4th 747, 766 (9th Cir. 2023).
+
+           With respect to the misleading statement or omission,
+
+Rule 9(b) requires a plaintiff to "state with particularity" the
+
+allegations "constituting the fraud."         Fed. R. Civ. P. 9(b).         And
+
+the PSLRA requires the        complaint     to "specify       each    statement
+
+alleged to have been misleading" and "the reason or reasons why
+
+the statement is misleading." 15 U.S.C. § 78u-4(b)(1); see Mehta,
+
+955 F.3d at 206.
+                                   - 17 -
+             As for scienter, the PSLRA requires a complaint to
+
+allege "with particularity facts giving rise to a strong inference
+
+that the defendant acted with the required state of mind."                          15
+
+U.S.C. § 78u-4(b)(2)(A).               To "qualify as 'strong[,]' . . . an
+
+inference of scienter must be more than merely plausible or
+
+reasonable -- it must be cogent and at least as compelling as any
+
+opposing inference of nonfraudulent intent."                     Tellabs, Inc. v.
+
+Makor Issues & Rts., Ltd., 551 U.S. 308, 314 (2007).
+
+                                            III.
+
+             We    start   our       discussion     by     addressing    a    threshold
+
+question about which aspects of the amended complaint constitute
+
+well-pleaded allegations.               Specifically, the parties disagree
+
+about whether allegations from CW2 and CW3 related to certain
+
+senior leadership meetings so qualify.                   Next, we turn to whether
+
+any of the statements that Premca identifies supports a plausible
+
+§ 10(b) claim.
+
+       A.    The Confidential Witness Allegations
+
+             In its amended complaint, Premca relies heavily on
+
+information       provided      by    CW2     and    CW3    regarding    Weinstein's
+
+statements        at   senior    leadership         meetings.      The       individual
+
+defendants argue that we should ignore these allegations because
+
+they   are   inadequately        pleaded       allegations      from     confidential
+
+sources.     We disagree.
+
+
+                                         - 18 -
+              In     a     securities         fraud     case,       information      from
+
+confidential sources may, consistent with the PSLRA, constitute
+
+well-pleaded allegations.               See In re Cabletron Sys., Inc., 311
+
+F.3d 11, 28-30 (1st Cir. 2002).               In ruling on a motion to dismiss,
+
+a court may consider allegations from a confidential source when
+
+those allegations indicate "both that the source had access to
+
+information         and    that   the    information          has   the   earmarks    of
+
+credibility."         N.J. Carpenters Pension & Annuity Funds v. Biogen
+
+IDEC Inc., 537 F.3d 35, 52 (1st Cir. 2008).
+
+              Overall, we take "a hard look" at information from
+
+confidential sources "to evaluate [its] worth."                       Biogen IDEC, 537
+
+F.3d    at    51.         In   doing    so,    we     apply    a    "totality   of   the
+
+circumstances" approach.               In re Cabletron Sys., 311 F.3d at 30
+
+(quoting United States v. Khounsavanh, 113 F.3d 279, 283 (1st Cir.
+
+1997)).       This approach requires us to evaluate, inter alia, "the
+
+level    of    detail      provided     by     the    confidential        sources,   the
+
+corroborative nature of the other facts alleged (including from
+
+other sources), the coherence and plausibility of the allegations,
+
+the number of sources, the reliability of the sources, and similar
+
+indicia."      Id. at 29-30.       No single factor "is dispositive."                Id.
+
+at 30.       Applying this framework, the amended complaint contains
+
+sufficient information to credit CW2 and CW3's information about
+
+iRobot's senior leadership meetings.
+
+
+                                         - 19 -
+               First, the allegations are both plausible and coherent.
+
+The amended complaint identifies CW2 as the director of global
+
+finance, who reported directly to Zeiler.                  Further, it describes
+
+CW2 as the finance lead for mergers and acquisitions and states
+
+that starting in 2023, CW2 was substantially involved in managing
+
+iRobot's real estate holdings.4               In a similar vein, the amended
+
+complaint states that CW3 worked from April 2021 to May 2024 as a
+
+"[d]irector-level employee" whose job responsibilities included
+
+overseeing the company's "user experience and software design."
+
+The    amended    complaint    thus    alleges      that   both    CWs   served   in
+
+specific management positions at iRobot.
+
+               The individual defendants assert that it is implausible
+
+that       managerial   employees     would    be   included      in   senior-level
+
+meetings where the chief legal officer announced information about
+
+the pending merger.          But there is no obvious reason why these
+
+managerial       employees    would    be     excluded     from   such    meetings.
+
+Moreover, the CW allegations are based on the witnesses' "personal
+
+knowledge" from their own participation in these meetings.                    In re
+
+Cabletron Sys., 311 F.3d at 30.
+
+
+
+       4  The   individual   defendants    contend   that   CW2's
+information is not credible because, as a director of global
+finance, CW2 would not have had responsibility for iRobot's real
+estate holdings.    We do not understand, however, why it is
+implausible for an iRobot executive involved in global finance to
+have an expansive portfolio that could involve real estate. To
+the extent this is of concern, it is better left for discovery.
+                                       - 20 -
+            Second, CW2 and CW3's descriptions of the leadership
+
+meetings    are   corroborated       by   one    another,   along   with    other
+
+sources.5   Both CWs reported that these meetings, held mere months
+
+apart, were attended by the chief legal officer and the individual
+
+defendants.       Moreover, they both alleged that the chief legal
+
+officer provided similar merger updates about Amazon's refusal to
+
+provide information about its search engine to the EC.6                    Non-CW
+
+sources also corroborate CW2 and CW3's descriptions of the senior
+
+leadership meeting.          Politico reported that Amazon declined to
+
+provide information to the FTC in March 2023 and stated that
+
+Amazon would not "offer concessions" to the EC to assuage its
+
+concerns.         Further,    when    the       EC   initiated   the   Phase II
+
+investigation, it issued a press release acknowledging that it
+
+was concerned about Amazon's ability to leverage its own online
+
+marketplace to the disadvantage of iRobot's competitors.7
+
+
+     5    The CWs also corroborated each other about the cessation
+of integration meetings with Amazon. CW2 reported the close of
+real estate integration meetings near in time to when CW3 reported
+the close of integration meetings involving the software
+engineering department.
+     6    To contest this point, the individual defendants point
+out that the May 2023 meeting described by CW2 occurred before
+the EC had begun its Phase I investigation.     But the amended
+complaint alleges that the EC engaged in pre-investigation
+contacts with the merging parties. Thus, it is plausible that
+the EC requested information from Amazon about the search engine
+before the merging parties issued the formal notice triggering
+the Phase I investigation.
+     7   The individual defendants argue that we should not view
+the March 2023 Politico article as corroborating the senior
+                             - 21 -
+          The individual defendants' main objection to crediting
+
+CW2 and CW3's allegations about the senior leadership meetings is
+
+that these CWs did not provide any information confirming that
+
+Amazon did not cooperate with the EC's merger review.    Building
+
+from this premise, the individual defendants contend that the CW
+
+allegations lack sufficient detail to support an inference that
+
+iRobot falsely stated that Amazon was cooperating with regulators.
+
+Again, we disagree.
+
+          Information from confidential sources may be considered
+
+so long as there are allegations suggesting that the confidential
+
+source would have had access to the information described and that
+
+the information provided is credible.   See Biogen IDEC, 537 F.3d
+
+
+
+leadership meetings because the article involved the FTC while
+the senior leadership meetings pertained to the EC.          The
+individual defendants further argue that the March 2023 Politico
+article should not be credited because it relies on anonymous
+sources. These arguments are unconvincing.
+          First, we think it irrelevant for these purposes that
+the article addressed the FTC as opposed to the EC. The article
+describes Amazon's conduct toward antitrust regulators that is
+consistent with the conduct reported in the senior leadership
+meetings. Second, the individual defendants do not challenge the
+January 2024 Politico article, which addresses Amazon's conduct
+with the EC.   While this second article was published several
+months after the senior leadership meetings, it describes
+substantively identical conduct to that reported by CW2 and CW3
+and thus corroborates their statements. Finally, we are unmoved
+by the individual defendants' attempt to paint these articles as
+unreliable. Considering the totality of facts surrounding these
+articles -- including that they were published in a reputable
+media source and were corroborated by CW statements -- we believe
+that they are reliable under the PSLRA and Rule 9(b).
+                              - 22 -
+at 52.    In this regard, the amended complaint provides enough
+
+detail about CW2 and CW3 to provide a plausible basis for why they
+
+would attend the senior leadership meetings.   It further provides
+
+sufficient detail to credit their accounts of what Weinstein said
+
+at those meetings.   The individual defendants have provided no
+
+sound basis for discounting the CW statements.
+
+          To the extent the individual defendants claim that the
+
+confidential sources' information should be discounted because
+
+the information the sources provide does not, by itself, show
+
+fraud, they are wrong.   See Biogen IDEC, 537 F.3d at 52.   Instead,
+
+we regularly consider CW information in conjunction with other
+
+allegations in the amended complaint to assess the adequacy of
+
+the claim.   See, e.g., In re Cabletron Sys., 311 F.3d at 28-31.
+
+With that in mind, we turn to whether the allegations about these
+
+meetings combined with other well-pleaded allegations establish a
+
+plausible § 10(b) claim.
+
+     B.   The § 10(b) Claim
+
+          Premca's § 10(b) claim focuses on two sets of iRobot's
+
+statements: (1) those indicating that Amazon was cooperating with
+
+regulators in their evaluation of the merger,       and     (2) those
+
+providing status updates on the merger-review process. Generally,
+
+iRobot issued statements in the first category before the August
+
+24, 2023, modified proxy statement, while statements in the second
+
+category came on or after that date.       Because a statement or
+                               - 23 -
+omission "must have been misleading at the time it was made," we
+
+proceed with our analysis chronologically.     Handal v. Innovative
+
+Indus. Props., Inc., 157 F.4th 279, 293 (3d Cir. 2025) (quoting
+
+In re NAHC, Inc. Sec. Litig., 306 F.3d 1314, 1330 (3d Cir. 2002));
+
+see also id. (observing that "liability cannot be imposed on the
+
+basis of subsequent events" (quoting In re NAHC, 306 F.3d at
+
+1330)).   We start with the pre-August 24, 2023, statements and
+
+end with the post-August 24, 2023, statements, all of which fail
+
+to establish a basis for a plausible claim.    In between discussing
+
+the failed statements from these two periods, we address the
+
+August 24, 2023, modified proxy statement, which is the only
+
+statement that presents a plausible claim under § 10(b).8
+
+          1.   The Pre-August 24, 2023, Allegations
+
+          Premca alleges, between the start of the class period
+
+on February 13, 2023, and August 24, 2023, that iRobot made three
+
+misrepresentations   about   cooperation      between   Amazon   and
+
+regulators:
+
+          May 9, 2023, 10-Q statement: iRobot "and
+          Amazon continue to work cooperatively with
+
+     8  That certain statements may not themselves be actionable
+does not necessarily mean that they are inadmissible as evidence
+of scienter, an issue to be determined by the district court on
+remand. Cf. In re Cabletron Sys., Inc., 311 F.3d 11, 36-37 (1st
+Cir. 2002) (finding certain statements alleged to be misleading
+by omitting "adverse factors" were not actionable, but that, on
+remand, those adverse factors could "help support scienter" and
+"be considered" "[a]s the rationale for the other fraudulent
+actions" alleged).
+                              - 24 -
+            the FTC staff in its review of the [m]erger."
+            (Emphasis added).
+
+            June 16, 2023, quote by Angle in a Reuters
+            article: "[B]oth companies are continuing to
+            work   cooperatively  with   other  relevant
+            regulators in their review of the merger[.]"
+            (Emphasis added) (last alteration in the
+            original).
+
+            July 25, 2023, joint press release: "Amazon
+            and iRobot are working cooperatively with the
+            relevant regulators in their review of the
+            merger." (Emphasis added).
+
+Premca argues that despite these public assertions of cooperation,
+
+Amazon had, at certain points, not yet met regulators' requests
+
+for information about its search engine.         In making its argument,
+
+Premca contends that we should examine the whole sweep of its
+
+amended complaint to determine whether these statements support a
+
+plausible claim under § 10(b).       It suggests that if we do so, we
+
+would see a "persistent series of refusals" to cooperate with
+
+regulators by Amazon.       And based on this narrative, we would
+
+further conclude that the individual defendants misled investors
+
+with the requisite scienter every time iRobot announced Amazon's
+
+continued cooperation with regulators.
+
+            Our analysis, however, does not unfold in such a gauzy
+
+manner.   Rather, we proceed "statement by statement."               Zhou v.
+
+Desktop Metal, Inc., 120 F.4th 278, 293 (1st Cir. 2024).            In doing
+
+so,   "we      evaluate     the     immediate      context      of        each
+
+statement -- namely,      the   balance    of   what   was   said    on    the
+
+                                  - 25 -
+particular occasion, and the immediate circumstances in which the
+
+particular statement was made."      Id. (citation modified).
+
+            Under such an analysis, the amended complaint sets forth
+
+only a handful of allegations that cast doubt on the pre-August
+
+24, 2023, challenged statements pertaining to cooperation.             The
+
+first relates to the FTC's merger review and is found in a March
+
+2023 Politico article.    That article describes a series of ongoing
+
+FTC investigations related to Amazon, including the iRobot merger.
+
+It states that Amazon had been "largely unresponsive to the FTC's
+
+investigation" of the iRobot merger and had "refus[ed] to turn
+
+over information requested by the FTC."           It also includes a
+
+statement   from   an   Amazon   spokesperson   that   the   company   was
+
+"working cooperatively with the relevant regulators in their
+
+review of the merger."     The article contains no official comment
+
+from a regulatory agency asserting Amazon's lack of cooperation.
+
+And it also does not allege that Amazon was entirely stonewalling
+
+regulators in the review process.
+
+            The next set of statements relates to the EC review.
+
+The amended complaint references a February 15, 2023, Financial
+
+Times article stating that the EC sent Amazon "a series of detailed
+
+questions over the proposed transaction," though the article does
+
+not report that Amazon refused to respond to these questions.          The
+
+amended complaint then refers to the May 2023 meeting where the
+
+chief legal officer announced to iRobot's senior leadership that
+                                  - 26 -
+the EC had "asked Amazon for information on how its search engine
+
+worked . . . and Amazon steadfastly refused to cooperate with
+
+regulators' requests."
+
+            Assuming (with some skepticism) that the pre-August 2023
+
+challenged statements were materially false or misrepresentative,
+
+we agree with the district court that they do not give rise to a
+
+strong inference of scienter and thus do not plausibly state a
+
+§ 10(b) claim.      See Biogen IDEC, 537 F.3d at 47, 57 (affirming
+
+dismissal     on   scienter   grounds   after   assuming   a   misleading
+
+statement).    Scienter under the PSLRA is "a mental state embracing
+
+intent to deceive, manipulate, or defraud."         Aldridge, 284 F.3d
+
+at 82 (quoting Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12
+
+(1976)).    For a complaint to state a plausible claim of scienter,
+
+the plaintiff "must show either that the defendants consciously
+
+intended to defraud, or that they acted with a high degree of
+
+recklessness."     Id.   "Recklessness, as used in this context, does
+
+not include ordinary negligence, but is closer to being a lesser
+
+form of intent."      In re Biogen Inc. Sec. Litig., 857 F.3d at 41
+
+(internal quotation marks omitted) (quoting Fire & Police Pension
+
+Ass'n of Colo. v. Abiomed, Inc., 778 F.3d 228, 240 (1st Cir.
+
+2015)).     As detailed above, for an inference of scienter to be
+
+sufficiently strong "a reasonable person would have to deem it
+
+cogent and at least as compelling as any opposing inference one
+
+could draw from the facts alleged."        Id. (citation modified).
+                                  - 27 -
+            Any argument that the individual defendants possessed
+
+the requisite scienter when making the challenged statements
+
+presumes that they held a robust understanding of "cooperation,"
+
+one defined by an inflexible obligation to provide regulators with
+
+all requested information on demand.             But nowhere does the amended
+
+complaint   state      that   Amazon    (or     iRobot)    were   under       such   an
+
+obligation.      Nor does the amended complaint suggest that the
+
+individual defendants understood "cooperation" to mean total and
+
+immediate compliance.
+
+            To   the    contrary,      Premca     alleges     that      the    merger
+
+agreement required the parties to use "reasonable best efforts"
+
+to obtain regulatory approval and to supply additional information
+
+to regulators as promptly as "reasonably practicable."                        In this
+
+context,    "reasonable"      leaves    space     for     give-and-take       between
+
+antitrust regulators and merging parties.                     See    Water Island
+
+Event-Driven Fund, LLC v. Trib. Media Co., 39 F.4th 402, 406 (7th
+
+Cir. 2022) (explaining that phrases using the term "reasonable"
+
+connote some flexibility as they "may mean different things to
+
+different people").           For example, the FTC acknowledges that
+
+merging parties may want to negotiate information requests and
+
+invites regulated parties to submit "possible modifications" to
+
+such   requests.       Fed.    Trade    Comm'n,     Requests      for    Additional
+
+Information: Appeal Procedure, [https://perma.cc/59AD-F636] (last
+
+visited June 3, 2026).         Given this understanding, the individual
+                                       - 28 -
+defendants likely understood "cooperation" not to require rigid
+
+compliance with every regulatory request, but rather to allow for
+
+some    "hardball"    between   regulated   entities   and     antitrust
+
+authorities.    Water Island Event-Driven Fund, LLC, 39 F.4th at
+
+405, 407.
+
+            There is nothing in the amended complaint to suggest
+
+that iRobot knew Amazon had stopped negotiating with regulators
+
+about their information request or were otherwise stonewalling
+
+the process when it said that the companies were cooperating.
+
+Thus,   there   are   insufficient   allegations   that      iRobot   was
+
+intentionally or recklessly deceptive when it made the challenged
+
+cooperation statements. Premca's argument reduces to a reasonable
+
+disagreement over the meaning of "cooperate"; that disagreement
+
+does not give rise to a strong inference of scienter.
+
+            Premca argues that our decision in Shash v. Biogen,
+
+Inc., 84 F.4th 1 (1st Cir. 2023), permits a § 10(b) claim to
+
+proceed where a defendant makes "broad statements" despite knowing
+
+that they are only partially true.          It asserts that the same
+
+reasoning applies here because the individual defendants knew that
+
+Amazon was uncooperative at least insofar as it had not yet
+
+satisfied certain information requests.
+
+            In Shash, a pharmaceutical company stated that its "data
+
+[were] all consistent" with patients' need for higher doses of a
+
+drug for the drug to be effective.          84 F.4th at 11 (emphasis
+                                 - 29 -
+added).     We allowed a § 10(b) claim to proceed because despite
+
+the company's unambiguously absolutist statement, it knew that
+
+some of its data suggested otherwise for certain patient groups.
+
+Id. at 12-14.
+
+            Our case is unlike Shash because there is no plain
+
+conflict     between   the   individual    defendants'   cooperation
+
+statements and the information alleged.        The amended complaint
+
+asserts only that iRobot knew Amazon had not yet complied with
+
+certain information demands.     But, as explained, the individual
+
+defendants could reasonably have viewed Amazon as cooperating with
+
+regulators even while not fully complying with all information
+
+requests.    Thus, unlike Shash, we do not face a situation where
+
+the complaint alleges that      the   individual defendants   made a
+
+statement despite possessing indisputably contrary information.9
+
+            2.   The August 24, 2023, Modified Proxy Statement
+
+            We consider next the allegations derived from the August
+
+24, 2023, modified proxy statement.      The modified proxy statement
+
+deserves separate consideration because it is the only statement
+
+
+
+     9    Premca also claims that certain statements from the
+pre-August 24, 2023, period are actionable because iRobot omitted
+known facts signaling that the merger was suffering diminishing
+prospects.   As we will discuss, the allegations suggesting the
+merger was failing occurred after the pre-August 24, 2023,
+statements. The only events referenced by Premca during the prior
+period is Amazon's purported lack of cooperation. But, as just
+explained, there are no allegations that Amazon declined to work
+with regulators.
+                                - 30 -
+within the class period where the company affirmatively offered a
+
+positive prediction about the outcome of the regulatory review
+
+process.   Specifically, in this filing, the individual defendants
+
+claimed they "expect[ed] that all applicable regulatory approvals
+
+[would] be obtained" and that "the merger [would] not violate the
+
+antitrust or foreign investment laws."               The filing contained
+
+caveats, however, that such approvals were not assured.
+
+           Because this statement of expectation lacks certainty,
+
+it is an opinion.       See Carbonite, 22 F.4th at 7.           But that does
+
+not necessarily shield it from serving as a predicate for § 10(b)
+
+liability.      Id.   For a claim premised on an opinion statement to
+
+be viable, the complaint must identify "particular (and material)
+
+facts going to the basis for the [defendants'] opinion" such as
+
+"knowledge [of information that the defendant possessed] whose
+
+omission makes the opinion statement at issue misleading to a
+
+reasonable person reading the statement fairly and in context."
+
+Omnicare, Inc. v. Laborers Dist. Council Constr. Indus. Pension
+
+Fund, 575 U.S. 175, 194 (2015).          Omitted information is material
+
+where "it is substantially likely 'that the disclosure of the
+
+omitted . . . fact      would   have    been    viewed   by    the   reasonable
+
+investor   as    having   significantly        altered   the   total    mix   of
+
+information made available.'"          Carbonite, 22 F.4th at 8 (quoting
+
+Basic Inc. v. Levinson, 485 U.S. 224, 231-32 (1988)).
+
+
+                                  - 31 -
+            In Omnicare, the Supreme Court gave an example of an
+
+actionable material omission from an opinion statement: If a
+
+company opines that it believes its "conduct is lawful," it would
+
+be material to omit that the company lawyer has taken the opposite
+
+view.    575 U.S. at 188-89.     On the other hand, a company offering
+
+the same opinion would not have omitted a material fact by
+
+withholding the negative view of a junior lawyer where several
+
+senior lawyers favor the company's position.         Id. at 189-90.   That
+
+is so because "a reasonable investor does not expect that every
+
+fact known to [a speaker] supports its opinion statement." Id. at
+
+190.    This example teaches that whether a particular omission is
+
+material to a particular opinion statement is a question of
+
+degree.
+
+            Here, we conclude that the modified proxy statement's
+
+prediction of regulatory success crosses the line and qualifies
+
+as a misleading statement.       It is striking that months after the
+
+company refrained from predicting the outcome             of the needed
+
+regulatory approvals, it did an about face and predicted success.
+
+And it did so in the face of a mix of new information indicating
+
+that the EC, which had just taken the rare step of elevating the
+
+investigation to Phase II, would grant such approval.         Crucially,
+
+the    statement   failed   to   contemporaneously    disclose   Amazon's
+
+ongoing refusal to provide the EC with information about its
+
+
+                                  - 32 -
+search    engine.       As    we    now   explain,    these   omissions    were
+
+sufficiently material to serve as a predicate for a § 10(b) claim.
+
+            In the lead-up to the issuance of iRobot's modified
+
+proxy     statement,    its    executives,       including    the     individual
+
+defendants, were aware of two              crucial pieces     of information
+
+related to Amazon's search engine.          The first was public.        On July
+
+6, 2023, the EC announced that it would subject the merger to a
+
+Phase II investigation,            which does    not occur in "[t]he vast
+
+majority" of EC-reviewed mergers.               In its announcement, the EC
+
+specified its concerns with the merger, foremost of which was
+
+Amazon's potential "ability and incentive to foreclose iRobot's
+
+rivals by preventing them from selling [robot vacuums] on Amazon's
+
+online marketplace . . .."            The EC elaborated that Amazon could
+
+favor "iRobot's [vacuums] in both non-paid (i.e., organic) and
+
+paid     results    (i.e.,    advertisements)        displayed   in    Amazon's
+
+marketplace."       Thus, the EC had publicly expressed concerns that
+
+Amazon would favor iRobot's products over competitors' products
+
+in its search engine results.
+
+            The second piece of information was private.                  Premca
+
+alleges that during two senior leadership meetings -- one in May
+
+2023, the other in August 2023 -- Weinstein, iRobot's chief legal
+
+officer, had warned that Amazon was refusing to provide the EC
+
+with "information" about how its "search engine worked," which
+
+
+                                      - 33 -
+would help the EC determine whether Amazon was favoring its
+
+internal products to the detriment of competition.10
+
+            Taken    together,     these     two    pieces   of     information
+
+reasonably indicated the merger faced regulatory difficulty.                   In
+
+part motivated by concerns over Amazon's search engine, the EC
+
+was taking a rare step of initiating a Phase II investigation.
+
+And yet, reading the allegations in the light most favorable to
+
+Premca,     Amazon   had   been    refusing    to    provide      the   EC   with
+
+information to address this concern for months.
+
+            Viewed   against      that   backdrop,     the     modified      proxy
+
+statement's optimism       could be found to have been materially
+
+"misleading" to investors for saying "one thing and holding back
+
+another."     Omnicare, 575 U.S. at 192.           iRobot's rosy prediction
+
+of regulatory success, which had not appeared in any public filing
+
+since the original proxy statement             in September 2022,            could
+
+reasonably be understood as reassurance to investors as it came
+
+
+
+
+     10   The amended complaint does not provide the exact date
+on which the August 2023 senior leadership meeting occurred. But
+it alleges that iRobot's August 8, 2023, Form 8-K filing omitted
+certain material information, including that iRobot's software
+engineering department had stopped working on integration meetings
+with Amazon. We infer from this allegation that the cessation of
+the integration meetings involving the software engineers occurred
+before August 8, 2023. And since the amended complaint alleges
+that the second senior leadership meeting occurred at "the same
+time" as the stoppage of the integration meetings, we further
+infer that the second meeting about the search engine also
+occurred before August 8, 2023.
+                                    - 34 -
+on the heels of the EC's Phase II announcement.              But iRobot did
+
+not   include     information      about   Amazon's    refusal   to    provide
+
+information on the search engine, which was critical to the EC's
+
+publicly expressed concerns.          Including that information could be
+
+found to have "significantly altered the total mix of information"
+
+available    to    investors    by    undermining     iRobot's   message    of
+
+reassurance.      Carbonite, 22 F.4th at 8 (quoting Basic, 485 U.S.
+
+at 231-32); see Glazer Cap. Mgmt., 63 F.4th at 779 (finding a
+
+misleading      omission   where     the   defendant    publicly      expressed
+
+optimism that a merger would close without disclosing private
+
+information that the counterparty was considering backing out).
+
+            The amended complaint also makes sufficient allegations
+
+to give rise to a strong inference of scienter.                  It paints a
+
+picture of iRobot as a declining company that was counting on the
+
+Amazon merger to improve its financial footing.             By August 2023,
+
+the merger's success hinged on regulatory approval from antitrust
+
+authorities, including the EC.             And at this point, the EC's
+
+concerns about Amazon's search engine were publicly known. "[T]he
+
+importance" to the individual defendants of both the merger and
+
+the EC's ability to access Amazon's search engine information
+
+leads to the "inference that" the individual defendants were
+
+"paying close attention" to those details.             Local No. 8 IBEW Ret.
+
+Plan & Tr. v. Vertex Pharms., Inc., 838 F.3d 76, 82 (1st Cir.
+
+2016) (citation omitted).            Based on this inference, we do not
+                                      - 35 -
+believe that the individual defendants would merely neglect to
+
+provide    the   troubling    information    about   the   merger   while
+
+expressing optimism about it.
+
+           Moreover, the amended complaint sufficiently alleges
+
+that iRobot knew about Amazon's reluctance to share information
+
+regarding its search engine with the EC.         Amazon's position was
+
+important enough that iRobot's chief legal officer reported twice
+
+to its executives, including the individual defendants, that
+
+Amazon was not sharing the requested search engine information
+
+with the EC.     Yet, when predicting regulatory approval, iRobot
+
+declined to disclose this material information, thereby issuing a
+
+statement when "they knew facts suggesting the statement[] w[as]
+
+inaccurate or misleadingly incomplete."          Aldridge, 284 F.3d at
+
+83.
+
+           Our conclusion is unchanged by iRobot's boilerplate
+
+assertions in the modified proxy statement that it could not
+
+"assure that [EC] regulatory clearances and approvals [would] be
+
+timely    obtained   [or]    obtained   at   all."    Generalized   risk
+
+disclosures like these do not give a company a "free pass to
+
+deceive investors about a specific risk."            Charles River, 152
+
+F.4th at 13; see Glazer Cap. Mgmt., 63 F.4th at 779 (holding that
+
+boilerplate risk disclosures about hypothetical risks do not cure
+
+a misleading statement).      Nor do we think that the CMA's approval
+
+of the merger lessens the individual defendants' culpable mind.
+                                  - 36 -
+There is no indication that the individual defendants would have
+
+viewed the CMA's approval as abating the EC's concerns about
+
+Amazon's search engine or the merger overall.     Finally, at oral
+
+argument, the defendants contended that the EC's acknowledgment
+
+that it had not prejudged the Phase II investigation mitigated
+
+their scienter.   We disagree.    It would be strange if the EC had
+
+asserted that it had prejudged the inquiry; a basic reassurance
+
+of fairness would not have reasonably assuaged the foreboding
+
+facts that iRobot knew -- the EC had taken a rare investigatory
+
+step and was concerned about the very information that Amazon was
+
+refusing to turn over.
+
+          For these reasons, we conclude that Premca has plausibly
+
+alleged a § 10(b) claim and a derivative § 20(a) claim based on
+
+omissions from the optimistic predictions in the modified proxy
+
+statement.11
+
+
+
+
+     11   In a footnote, the individual defendants state that the
+prediction   of  regulatory   approval   is  a   "forward-looking
+statement . . . accompanied by adequate risk disclosures" and
+thus is "independently not actionable under the PSLRA's
+forward-looking safe harbor."    This argument is waived because
+the individual defendants "raise[]" it "only in a footnote" and
+do so "in a perfunctory manner." Tax-Free Fixed Income Fund for
+P.R. Residents, Inc. v. Ocean Cap. LLC, 137 F.4th 6, 24 (1st Cir.
+2025) (quoting P.R. Tel. Co. v. San Juan Cable LLC, 874 F.3d 767,
+770 (1st Cir. 2017)).    They provide no argument in this Court
+about the adequacy of the risk disclosures in the modified proxy
+statement.
+                                 - 37 -
+            3.      The Post-August 24, 2023, Allegations
+
+            Finally, we address the statements identified by Premca
+
+that post-date the August 24, 2023, modified proxy statement.
+
+Unlike the statements made on that day, none of these statements
+
+predicted regulatory success. Instead, they provide updates about
+
+the ongoing regulatory processes.                Premca does not claim that
+
+these statements contain affirmative misrepresentations; rather,
+
+it    asserts    that   they    are    misleading      because   iRobot   did    not
+
+contemporaneously disclose certain other information that, in its
+
+view, would have strengthened the view that the merger was likely
+
+doomed.
+
+            The relevant iRobot statements are: (1) a November 7,
+
+2023, filing in which iRobot reported the FTC's second request
+
+for    information      and    materials     about     the   merger,   the   CMA's
+
+unconditional approval of the merger, and the EC's commencement
+
+of an "in-depth Phase [II] review," (2) a November 27, 2023,
+
+statement       reporting     that    the   EC   had   issued    a   statement    of
+
+objections and describing the process for the parties to respond
+
+to those objections, and (3) a January 10, 2024, statement by
+
+Angle in a Reuters article asserting that iRobot continued "to
+
+work cooperatively with the [EC] and other regulators in their
+
+review of the merger" and that the company "remain[ed] excited
+
+about the opportunity to work together with Amazon."
+
+
+                                        - 38 -
+            Premca   contends   that   these   statements   about     the
+
+regulatory status misled investors because iRobot did not disclose
+
+that (1) Amazon had failed to cooperate with government regulators
+
+by refusing to provide information about its search engine; (2) in
+
+September 2023, iRobot executives had begun to formulate plans
+
+for the business without the merger; and (3) by October 2023,
+
+Amazon and iRobot had completely stopped holding integration
+
+meetings.
+
+            Section 10(b) and Rule 10(b)(5) only prohibit omissions
+
+that engender "half-truths." Macquarie Infrastructure Corp. v.
+
+Moab Partners, L.P., 601 U.S. 257, 263 (2024).      The law thus does
+
+not impose an "affirmative duty to disclose any and all material
+
+information."    Matrixx Initiatives, Inc. v. Siracusano, 563 U.S.
+
+27, 44 (2011).   "An omission, even if material, is actionable only
+
+if it 'renders affirmative statements made misleading.'"            Zhou,
+
+120 F.4th at 292 (quoting Macquarie Infrastructure, 601 U.S. at
+
+265). Under these standards, the individual defendants were under
+
+no obligation to disclose any of the alleged developments.
+
+            First, the amended complaint does not allege that Amazon
+
+continued to deny the EC's information requests about its search
+
+engine after the August 2023 senior leadership meeting.       Yet, the
+
+statements at issue were made in November 2023, over three months
+
+later.   Whether or not Amazon had provided the EC with all of the
+
+information it had requested, a compromise was apparently worked
+                                 - 39 -
+out, which permitted the EC to resume the investigation of the
+
+merger.      Specifically, the complaint alleges that the EC had
+
+suspended its investigation deadline so that it could obtain
+
+additional information about the merger and that it had restarted
+
+its investigation in October 2023, once it had obtained that
+
+information. The EC's statement of objections, issued on November
+
+27, 2023, corroborates this inference because it does not identify
+
+an inability to obtain necessary information from Amazon as a
+
+problem in its review.          "[T]he immediate circumstances" around
+
+the post-August 2023 statements therefore do not suggest that
+
+Amazon was uncooperative with regulators at the operative time,
+
+and so iRobot had no obligation to state as much.              Zhou, 120 F.4th
+
+at 293 (citation omitted).
+
+             Second, iRobot was not obliged to disclose that, in
+
+September 2023, it had started contingency planning in the event
+
+that   the   merger   failed.       Based   on   iRobot's      status   reports,
+
+investors already knew that the FTC had propounded a second
+
+request for information and that the EC had launched a Phase II
+
+investigation.        These   are   rare    events   in    a   merger   review,
+
+suggesting strong regulatory headwinds.              A reasonable investor
+
+thus would have known that there was at least a real possibility
+
+that the regulators would reject the merger.              We do not think that
+
+it would have added much to the "mix of information" to disclose,
+
+along with its bleak regulatory updates, a notice that it had
+                                    - 40 -
+started to plan for contingencies.          Carbonite, 22 F.4th at 8.    We
+
+add that just because iRobot released certain information about
+
+the merger review does not mean that it needed to reveal everything
+
+about its internal thinking.       It was "required only to reveal the
+
+facts necessary to make the existing statement not 'so incomplete
+
+as to mislead.'"     Zhou, 120 F.4th at 294 (quoting Backman v.
+
+Polaroid Corp., 910 F.2d 10, 16 (1st Cir. 1990)).            Nothing about
+
+iRobot's contingency planning makes its regulatory status updates
+
+misleading.
+
+            The same is true regarding Premca's allegations about
+
+the cessation of integration meetings between iRobot and Amazon.
+
+The amended complaint asserts that there were nine work streams
+
+participating in these integration meetings between the companies;
+
+some of these meetings stopped in August 2023; and all of them
+
+ended by October 2023.    The amended complaint, however, provides
+
+no well-pleaded allegations for why they ended.
+
+            Premca suggests we should infer that these meetings
+
+ended because the companies recognized that the merger was going
+
+to   fail   regulatory   review.       But     that   is   unsupported   by
+
+particularized allegations, as required by the PSLRA.           Amazon and
+
+iRobot began integration meetings roughly fourteen months before
+
+they fully ended.    Toward the end of those fourteen months, the
+
+integration meetings ended at different times in the Summer and
+
+Fall of 2023, implying that each ended on its own timetable rather
+                                   - 41 -
+than as the result of a top-down edict related to the status of
+
+the regulatory review.    Moreover, Premca's own allegations assert
+
+that Amazon, with the likely assistance of iRobot pursuant to the
+
+merger agreement, defended the merger in front of the EC in
+
+mid-December 2023.     Between the paucity of allegations regarding
+
+why the integration meetings ended and iRobot's ongoing efforts
+
+to obtain regulatory approval, it would not be proper to infer
+
+that iRobot had completely thrown in the towel when it made the
+
+challenged statements after August 2023.
+
+            In sum, iRobot had no duty to disclose any of the merger
+
+developments that the amended complaint identifies following the
+
+issuance of the modified proxy statement.             Thus, none of the
+
+post-August 2023 statements identified in the amended complaint
+
+are actionable under § 10(b).
+
+                                  IV.
+
+            For the reasons stated, we reverse the district court's
+
+dismissal   of   the   § 10(b)   and   § 20(a)     claims   based    on   the
+
+predictions of regulatory approval contained in the August 2023
+
+modified proxy    statement.     We    otherwise    affirm the      district
+
+court's order.    The case is remanded for further proceedings.           No
+
+costs are awarded.
+
+            So ordered.
+
+
+
+
+                                 - 42 -
+

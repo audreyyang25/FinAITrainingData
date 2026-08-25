@@ -1,0 +1,1483 @@
+FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+UNITED STATES OF AMERICA,             No. 23-2282
+                                        D.C. No.
+          Plaintiff - Appellee,
+                                   3:20-cr-00228-SI-1
+ v.
+
+ROBERT J. JESENIK,                     OPINION
+
+          Defendant - Appellant.
+
+
+UNITED STATES OF AMERICA,             No. 23-2308
+                                        D.C. No.
+          Plaintiff - Appellee,    3:20-cr-00228-SI-3
+
+ v.
+
+ANDREW N. MACRITCHIE, AKA
+Andrew MacRitchie,
+
+          Defendant - Appellant.
+
+
+UNITED STATES OF AMERICA,             No. 23-2316
+                                        D.C. No.
+          Plaintiff - Appellee,    3:20-cr-00228-SI-4
+2                       USA V. JESENIK
+
+
+    v.
+
+BRIAN K. RICE,
+
+              Defendant - Appellant.
+
+
+UNITED STATES OF AMERICA,                    No. 24-5402
+                                               D.C. No.
+              Plaintiff - Appellee,       3:20-cr-00228-SI-3
+
+    v.
+
+ANDREW N. MACRITCHIE, AKA
+Andrew MacRitchie,
+
+              Defendant - Appellant.
+
+
+UNITED STATES OF AMERICA,                    No. 24-5404
+                                               D.C. No.
+              Plaintiff - Appellee,       3:20-cr-00228-SI-1
+
+    v.
+
+ROBERT J. JESENIK,
+
+              Defendant - Appellant.
+
+         Appeal from the United States District Court
+                  for the District of Oregon
+         Michael H. Simon, District Judge, Presiding
+                          USA V. JESENIK                           3
+
+
+             Argued and Submitted April 2, 2025
+                 San Francisco, California
+
+                       September 5, 2025
+
+Before: Andrew D. Hurwitz, Lucy H. Koh, and Anthony D.
+               Johnstone, Circuit Judges.
+
+                   Opinion by Judge Hurwitz
+
+
+                          SUMMARY*
+
+
+                         Criminal Law
+
+    The panel affirmed three defendants’ convictions arising
+out of the failure of Aequitas Management LLC, an
+investment management company.
+   Former Aequitas executives Robert Jesenik, Andrew
+MacRitchie, and Brian Rice were convicted of wire fraud
+and conspiracy to commit wire fraud. Jesenik was also
+convicted of making a false statement on a loan application.
+    The defendants contended that although they were
+charged in the operative indictment only with engaging in
+material misrepresentations and misleading half-truths, they
+may have been improperly convicted on an omissions theory
+of fraud without instructions requiring proof of a trusting
+relationship. Rejecting this contention, the panel wrote
+
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+4                       USA V. JESENIK
+
+
+(1) evidence of what the defendants did not disclose is
+probative of the materiality of a half-truth or
+misrepresentation, (2) the government did not argue that
+omissions alone were sufficient to prove fraud or present that
+theory to the jury, (3) the government sufficiently tethered
+non-disclosures to affirmative statements, and (4) the jury
+instructions fairly stated the law. Whether statements about
+Aequitas’s financial health were misleading half-truths,
+rather than general claims of financial success or subjective
+enthusiasm and puffing, was properly a question for the jury.
+    The panel rejected Rice’s challenge to the sufficiency of
+the evidence to support his conviction.
+    The panel rejected the defendants’ contentions that they
+were precluded from presenting a complete defense—
+arguments centered on disclosures in Private Placement
+Memoranda           (PPMs)       and     audited      financial
+statements. Consistent with other circuits that have
+addressed the issue, the panel held that contractual
+disclaimers do not render immaterial other representations in
+criminal wire fraud prosecutions. For the same reason, the
+panel rejected the argument that the defendants’
+representations in sales pitches and marketing materials
+were immaterial to “accredited” investors. Nor did the
+district court err in admitting evidence of investors’ reliance
+on those representations.
+    Finding no abuse of discretion in the district court’s
+denial of a proposed jury instruction on “objective”
+materiality, the panel held that the instructions given to the
+jury fairly and adequately covered whether representations
+in sales pitches and marketing materials were material.
+   The panel rejected the defendants’ claims that the jury
+was prevented from considering defense theories about
+                       USA V. JESENIK                      5
+
+
+elements other than materiality. To the extent the defendants
+challenged the district court’s preclusion of evidence about
+investor negligence or non-reliance, their argument is
+foreclosed. The district court’s evidentiary rulings did not
+prevent the defendants from urging legitimate disclosure-
+based defenses, and the jury instructions adequately covered
+the defendant’s good-faith defense theory. The panel
+rejected the defendants’ assertion that they were prejudiced
+by the government’s statement in closing that “you can’t
+disclose your way out of fraud.”
+  The panel addressed other issues in a concurrently filed
+memorandum disposition.
+6                      USA V. JESENIK
+
+
+                        COUNSEL
+
+Hannah Horsley (argued) and Ryan W. Bounds, Assistant
+United States Attorneys; Suzanne Miles, Criminal Appellate
+Chief; Natalie K. Wight, United States Attorney; Office of
+the United States Attorney, United States Department of
+Justice, Portland, Oregon; Christopher Cardani, Assistant
+United States Attorney, Office of the United States Attorney,
+United States Department of Justice, Eugene, Oregon; for
+Plaintiff-Appellee.
+Jessica G. Snyder (argued) and Conor Huseby, Assistant
+Federal Public Defenders; Elizabeth G. Daily, Appellate
+Chief; Office of the Federal Public Defender, Portland,
+Oregon; Anna M. Estevao (argued), Claire B. Buck, and
+Michael Tremonte, Sher Tremonte LLP, New York, New
+York; Angelo J. Calfo (argued), Angeli & Calfo LLC,
+Seattle, Washington; Henry C. Phillips, Morgan Lewis &
+Bockius LLP, Seattle, Washington; Brendan J. Anderson,
+Morgan Lewis & Bockius LLP, Washington, D.C.; for
+Defendants-Appellants.
+                           USA V. JESENIK                            7
+
+
+                            OPINION
+
+HURWITZ, Circuit Judge:
+
+    This case arises out of the failure of an investment
+management company. After the company was placed in
+receivership, Robert Jesenik, Andrew MacRitchie, and Brian
+Rice, former executives of the company, were indicted and
+eventually convicted of wire fraud and conspiracy to commit
+wire or mail fraud. Jesenik was also convicted of making a
+false statement on a loan application.
+    Each defendant has timely appealed.     We have
+jurisdiction under 28 U.S.C. § 1291 and affirm the
+convictions for the reasons in this opinion and in a
+concurrently filed memorandum disposition.
+                                  I.
+             Facts and Procedural Background
+                             A. Facts1
+   Aequitas Management LLC, an investment management
+company, was founded in the 1990s by Robert Jesenik, its
+Chief Executive Officer. Andrew MacRitchie, its Chief
+Compliance Officer, joined the company in 2007, and Brian
+Rice, an Executive Vice President, joined in 2014.
+    In the mid-2000s, Aequitas began purchasing discounted
+receivables from hospitals, later expanding to other
+businesses, and collected the debt through its affiliates.
+Sellers of the receivables executed recourse contracts,
+
+1
+ We recite the facts in the light most favorable to the government, the
+prevailing party below. See, e.g., United States v. Halbert, 640 F.2d
+1000, 1008 (9th Cir. 1981) (per curiam).
+8                         USA V. JESENIK
+
+
+agreeing to repurchase defaulted debt. Aequitas solicited the
+funds to purchase receivables through its Private Note
+Program (“Private Note”), managed by its affiliate Aequitas
+Commercial Finance (“ACF”), which issued secured
+subordinated promissory notes to investors. Starting in late
+2014, Aequitas also solicited private investments through
+the Income Opportunity Fund II (“IOF II”) and Luxembourg
+Bond (“Lux Bond”). 2 Between June 2014 and February
+2016, the period covered by the indictment, Aequitas raised
+approximately $346 million from private investors,
+including $167 million through Private Note, $68 million
+through IOF II, and $15 million through the Lux Bond.
+    Aequitas’s investors were required to be “accredited”
+under wealth and sophistication standards set by the
+Securities and Exchange Commission (“SEC”) for
+participation in the Regulation D private securities market.
+A majority were represented by Registered Investment
+Advisors (“RIAs”), some of whom also invested their own
+funds.
+    Investors were typically solicited through in-person sales
+pitches by Aequitas executives, sometimes using marketing
+materials such as a “tear sheet,” a one- or two- page
+summary of the investment, or a longer “pitch deck.” Before
+investors’ funds were released to Aequitas, they signed a
+subscription agreement and acknowledged reading a Private
+
+
+
+
+2
+  IOF II was a standalone fund, offering senior promissory notes,
+marketed to Registered Investment Advisors (“RIAs”). The Lux Bond
+was a debt instrument offered to European investors through a limited
+partnership in the Cayman Islands.
+                          USA V. JESENIK                         9
+
+
+Placement Memorandum (“PPM”), a lengthy document
+describing the terms and potential risks of the investment.3
+    By 2014, one of Aequitas’s largest receivables assets
+was student loan debt from Corinthian College. Because of
+defaults, Aequitas was receiving cash payments of about $4
+million per month from Corinthian under a recourse
+agreement. But Corinthian stopped paying in June 2014 and
+later filed for bankruptcy.
+    Aequitas accordingly faced dire short-term cash
+shortfalls. In response, it offered investors “blue-light
+specials,” promissory notes with short redemption periods
+and high interest rates. It also persuaded some investors to
+delay redemptions. These measures, however, provided
+only short-term relief. The shortfalls were exacerbated by
+Aequitas’s spending on new offices, private jets, and
+corporate retreats.
+    The SEC began an investigation into Aequitas in the
+spring of 2015. In November 2015, Aequitas stopped paying
+Private Note redemptions, and in January 2016, it defaulted
+on its obligations to the Private Note investors. The
+company collapsed in March 2016 and was placed in
+receivership.
+                      B. The Indictment
+    After Aequitas collapsed, Jesenik, MacRitchie, and Rice
+were indicted on one count of conspiracy to commit mail and
+wire fraud, 18 U.S.C. § 1349; 28 counts of substantive wire
+fraud, 18 U.S.C. § 1343; and one count of conspiracy to
+commit money laundering, 18 U.S.C. § 1956(h). Jesenik
+
+3
+  Consistent with the trial witnesses and the parties, we refer to
+subscription agreements, PPMs, and financial statements as “written
+disclosures” to distinguish them from written marketing materials.
+10                      USA V. JESENIK
+
+
+was also charged with one count of making a false statement
+on a loan application, 18 U.S.C. § 1014. Three other
+Aequitas executives—Brian Oliver, an Executive Vice
+President; Olaf Janke, Chief Financial Officer through early
+2015; and Scott Gillis, Chief Financial Officer thereafter—
+entered guilty pleas to various charges. Oliver and Janke
+testified for the government at the joint trial of Jesenik,
+MacRitchie, and Rice.
+    The operative indictment alleged that the three
+defendants solicited investments through “material
+misrepresentations and misleading half-truths” about “the
+uses of investor money, the financial health and strength of
+Aequitas, Aequitas’s investments and investment strategies,
+and the inherent risks of those investments and investment
+strategies.” In particular, it alleged that the defendants
+represented to investors that their funds would be used to
+purchase receivables, but that Aequitas actually “used the
+majority of new investor money to repay prior investors and
+to pay operating expenses,” because it “was consistently in
+liquidity and cash-flow crises.” It also alleged that Aequitas
+“concealed [the] material facts” that it had “insufficient
+collateral to secure the notes it sold to investors,” and that
+the most valuable of its purported assets was an
+intercompany loan used as an artifice to conceal
+“accumulating operating losses.”
+                          C. Trial
+1. The Government’s Case
+    The government’s case focused on false or misleading
+statements to investors in sales pitches, discussions of
+existing investments, and marketing materials.       The
+government presented evidence that the defendants misled
+                           USA V. JESENIK                           11
+
+
+investors about “how their money was going to be used” and
+“how secure their investments were.”
+    Investors testified extensively about the importance of
+marketing materials, especially the tear sheets. One RIA
+testified that the tear sheet “is pretty much the bible in our
+industry” to explain investments to clients, and that most of
+her investors base their investment decisions on the tear
+sheets, rather than the “fairly generic” PPM. Other RIAs
+explained that the tear sheets were more valuable than the
+PPMs for their clients’ investment decisions because a “tear
+sheet is concise and tells you exactly what you need to know
+about every product you invest in,” while the PPM is so
+“voluminous,” “it has things in it that anybody would just
+not find.” 4 Tear sheets, updated quarterly, were also the
+primary communication from Aequitas to RIAs on “how the
+funds are doing.”
+    Several investors testified at trial about the importance
+of verbal communications with Aequitas executives to their
+investment decisions. One RIA testified that he would “not
+deal with a company” unless he met with top executives,
+“the ones who really know what’s going on” and provide
+
+4
+ When asked to explain the relationship between marketing materials
+and the PPM, Aequitas’s general counsel explained:
+        The PPM was really a lawyer-driven document that
+        was sort of the CYA to catch all the risk factors and all
+        the things that could go wrong. The marketing
+        materials were very much, “Here is how we are going
+        to invest your money. Here is why investing with us
+        is a good idea and how you’ll make money if you trust
+        us to invest your money.”
+Aequitas’s head of marketing explained that the PPM was not a sales
+tool: “I don’t think [the PPM] was even placed in the shared marketing
+folder.”
+12                      USA V. JESENIK
+
+
+“the information I need to service my clients.” The RIA
+testified that the “verbal communication that I received from
+the executives of Aequitas is paramount and far more
+significant than the PPM.” Investors testified that based on
+their direct communications with the defendants, they
+decided to invest in Aequitas, recommend Aequitas to
+clients, and keep their money in Aequitas.
+    One RIA testified that neither Jesenik, Rice, nor
+MacRitchie ever talked about the PPM when pitching him,
+and another testified that none of the defendants stated that
+their oral statements or the tear sheets should be modified by
+the PPM. Oliver, Jesenik’s former “No. 2” and head of
+fundraising, stated that he only got the sense a “handful” of
+times that the disclosures in the PPM changed someone’s
+decision to invest after an in-person meeting.
+a. False Statements
+  i. Uses of Investor Funds
+    Oliver testified that he and Jesenik pitched investors
+hundreds of times on “win-win-win-win” investments in
+healthcare receivables that purportedly offered a built-in
+safety net, high rates of return, and social benefits to
+hospitals and patients. Investors found the pitch appealing:
+one testified that she was interested in healthcare receivables
+because they were “very secure,” “[d]ue to the fact that
+insurance companies make their payments for the most part,
+and the majority of individuals are honest people and pay
+their medical bills.”
+    For blue-light specials, Oliver explained that he and
+Jesenik developed additional talking points to “combat the
+potential concerns with investors that the funds are needed
+to solve a problem/crisis (cash losses, lawsuit, Corinthian, et
+cetera).”      Specially designed marketing materials
+                        USA V. JESENIK                   13
+
+
+highlighted that Aequitas was “seeking short-term liquidity”
+to pursue “new financing initiatives.”
+    Aequitas investors testified that they relied on
+representations by each of the defendants that their money
+would be used to purchase secure receivables. Consistent
+with those representations, Private Note tear sheets stated
+throughout the indictment period that investor funds would
+be used to buy receivables:
+
+       ACF uses proceeds from Private Note
+       primarily to fund or finance the purchase of
+       student loan receivables from educational
+       providers, patient-pay receivables from
+       healthcare providers, other private credit
+       strategy receivables and loan portfolios, or
+       direct collateralized loan and lease
+       obligations, equities, and secured liquidity
+       lines to affiliates for general corporate
+       purposes.
+
+The tear sheet for IOF II stated:
+
+       The Aequitas Income Opportunity Fund II
+       (“IOF II” or the “Fund”) follows a value
+       investing approach by acquiring or investing
+       in receivables or loans. IOF II accomplishes
+       this by investing in receivables, loans and
+       leases, often at discounted prices, through
+       Aequitas Capital. Aequitas Capital has
+       established itself within large and inefficient
+       credit markets, such as education, healthcare
+       and private credit, where it provides unique
+14                      USA V. JESENIK
+
+
+       financing solutions to companies and their
+       consumers.
+
+The Lux Bond marketing materials indicated that
+investments would be backed by “pools of consumer loan
+receivables originated through Aequitas Capital’s platform,”
+“accessed through structures that provide investors
+significant credit enhancement.”
+    The reality was far different. Charles Foster, a CPA who
+performed a forensic accounting of Aequitas during its
+receivership, testified that he could not identify “meaningful
+amounts” of private investor funds used to buy receivables
+during the indictment period.
+    Aequitas continued to acquire receivables, but largely
+through bank financing. Because those receivables were
+collateral for the loans, they did not secure the great bulk of
+new private investments.           Meanwhile, new private
+investments were overwhelmingly used to pay prior
+investors and fund operating expenses, because Aequitas’s
+remaining cash-generating investments were not profitable
+enough to fund its cash needs in the wake of Corinthian’s
+default.
+    In the fall of 2015, the Private Note tear sheet was
+revised to state that “ACF uses proceeds from Private Note
+primarily to repay prior investors.” Aequitas investors
+shown the document at trial testified they would never have
+invested had they known this. As one RIA put it, he would
+not have invested “a penny” of his clients’ money “[b]ecause
+that’s the definition of a Ponzi scheme.”
+                        USA V. JESENIK                     15
+
+
+  ii. Security of Investments and Aequitas’s Financial
+      Health
+    Oliver testified that a “strong selling point” was that
+clients’ investments were secure because, in addition to the
+“recourse element,” they were backed by Aequitas’s other
+assets. One RIA described Jesenik and Oliver “[t]elling me
+about their Private Notes; how successful they have been
+over the years; the fact that in 2008 during the credit crisis
+their company did not miss any payments to any of their
+investors and how prudent they were with the investments
+that they made over the years and how they grew their
+company over the years.”
+    Aequitas executives also stressed the company’s assets,
+growth, and financial health to reassure concerned investors.
+One investor testified that he was convinced Corinthian’s
+collapse would have no impact on his investments based on
+a letter from Jesenik, MacRitchie, and Janke assuring
+investors that their investment was “strongly protected” by
+the collateral and cash flow of ACF and its growing portfolio
+of investments.
+    Marketing materials were consistent with these
+representations. For example, Private Note tear sheets
+indicated that promissory notes were supported by a lien on
+all assets of ACF and included a “collateral summary”
+showing the total value of ACF’s assets compared to the
+Private Note debt. Until revised in the fall of 2015, the
+summary indicated that ACF had twice as much collateral as
+was owed to them as a group, which was, as one investor
+16                           USA V. JESENIK
+
+
+testified, “a very good profile,” and that approximately one-
+third of this collateral was receivables.5
+    In fact, only about half the total claimed value of
+assets—and only a fraction of ACF’s claimed receivables—
+was available as collateral for Private Note holders after
+deducting the senior interests of others, such as banks.
+Moreover, one of ACF’s largest purported assets,
+categorized on tear sheets as “corporate debt,” was a loan to
+its parent company, Aequitas Holdings (the “Holdings
+Note”), which used the money to pay operating expenses of
+other Aequitas affiliates.       This loan, which grew
+dramatically during the indictment period, was severely
+undercollateralized. According to Foster, by the end of the
+indictment period, the debt on the Holdings Note was $180
+million, but at least $110 million, and perhaps as much as
+$170 million, could not be repaid in the event of liquidation.
+On top of this, the value of Aequitas’s third major asset
+category—equity investments—was based largely on
+unrealized gains in the estimated value of a company that
+serviced healthcare receivables. 6 Investors testified that
+they would not have invested had they known the true nature
+of “corporate debt” or the actual amount of available
+collateral.
+
+5
+  For example, the Q1 2015 tear sheet stated that ACF had assets with a
+“collateral value” of $772,259,000 to support $364,822,000 of
+“subordinated debt” and $136,721,000 of “senior debt and credit
+facilities.” The asset allocation chart listed $113,595,000 in education
+credit, $41,832,000 in healthcare credit, $26,505,000 in transportation
+credit, and $28,816,000 in consumer and small business credit.
+6
+  The revised Q3 2015 tear sheet removed the “corporate debt” category,
+replacing it with “loans to affiliates.” Taken together, equity investments
+and loans to affiliates comprised 84% of the assets purportedly backing
+Private Note investments.
+                       USA V. JESENIK                     17
+
+
+b. The Defendants’ Roles in the Conspiracy
+    Jesenik directed solicitation of new investments, efforts
+to persuade existing investors to delay redemptions, and use
+of new investor funds to manage ongoing cash shortfalls.
+Janke testified that “nothing” about Aequitas’s financial
+situation “went without his approval.” Jesenik also solicited
+investments directly.
+    MacRitchie oversaw and approved Aequitas’s marketing
+materials. He also directly solicited investments, especially
+in the Lux Bond, which he established.
+   Rice managed Aequitas’s sales to RIAs, for whom he
+became the primary contact in 2015, and personally solicited
+RIA investments in IOF II and Private Note. Rice also
+coordinated efforts to fundraise and delay redemptions.
+    Oliver and Janke testified that the defendants knew they
+were misleading investors about the uses of their funds and
+security of their investments. Top Aequitas executives,
+including the three defendants, were regularly apprised at
+executive committee meetings of the company’s financial
+situation, including its increasing operating losses and the
+value of the Holdings Note. Jesenik and Rice also received
+frequent “cash dash” emails, which documented Aequitas’s
+urgent cash shortfalls needed to repay prior investors and
+fund operating expenses.          Emails documented the
+defendants’ coordination of fundraising efforts and
+allocation of new investor money to meet these shortfalls.
+    Two former Aequitas employees, Vanessa Dehaan and
+Jessica Cataudella, testified that during compliance testing
+in the spring of 2015, they became concerned that Aequitas
+was engaging in a Ponzi scheme. They raised their concerns
+to MacRitchie, who rebuffed them.
+18                      USA V. JESENIK
+
+
+    Dehaan and Cataudella then shared their concerns with
+Robert Holmen, who became general counsel in June 2015,
+shortly after the SEC investigation began. Over the summer
+and fall of 2015, Cataudella and Holmen sought to revise
+marketing materials and PPMs to accurately reflect
+Aequitas’s uses of investor funds and the value of its assets.
+In describing those efforts, Cataudella explained that:
+
+       So it all has to connect. It all has to match.
+       One cannot be saying one thing and then
+       another document say, “Well, we are really
+       not doing that,” right. So, for instance, if
+       you’re soliciting investor assets, and you
+       know that those assets may not be used for its
+       intended purposes, you can’t have a
+       backstop, in my view, of a PPM.
+       ....
+       It means you can’t say to someone, “Well, we
+       are not going to use your money for what we
+       say we are going to use” and have that be
+       okay; have no repercussions made.
+
+In this testimony, Cataudella used a “tongue-in-cheek”
+phrase that she said was common in the compliance industry:
+“you can’t disclose away fraud.” Investors did not receive
+the revised materials until late 2015 and early 2016.
+    At a meeting attended by MacRitchie and Rice on
+September 1, 2015, Holmen raised concerns that Aequitas
+was at risk of being unable to pay its investors because ACF
+had net negative revenue and net negative equity, and over
+$90 million of the then-$150 million Holdings Note was
+unsupported by collateral. Holmen also observed that during
+July and August, several million dollars raised from IOF II
+                        USA V. JESENIK                     19
+
+
+investors had been transferred to ACF to pay Private Note
+investors and operating expenses, and “point[ed] out that
+using one set of investors’ money to redeem investors at
+100% out of a different fund that is in the red may be deemed
+a Ponzi scheme.” Holmen had raised his concerns with
+Jesenik the week before.
+    On September 1, Oliver sent Rice an email expressing
+concern that despite Holmen’s warnings of “compliance and
+disclosure risks around ACF being viewed as insolvent and
+having insufficient asset/collateral value to support the
+Private Note holders,” Aequitas would “fall into a false sense
+of security that we are in some accounting manner ‘making
+money’ when we are in fact burning it at an alarming pace.”
+Oliver sent a similar email to MacRitchie, who replied:
+
+       To be honest, though, we have been heading
+       towards this point for a couple of years -
+       spending money we don’t have, addicted to
+       the Private Note investments. . . . We are
+       heading for a big train wreck, and I don’t
+       know how we avoid it.
+
+Nonetheless, the defendants continued to solicit investments
+through Private Note, IOF II, and the Lux Bond to meet
+ongoing shortfalls without disclosing the facts underlying
+Holmen’s concerns.
+    On September 23, 2015, Oliver sent Rice an email about
+pitching RIAs on a “short term . . . bridge financing
+opportunity” to help Aequitas raise $7-10 million to buy
+healthcare receivables, “[s]o we are singing from the same
+song sheet.” The “song sheet” email followed an internal
+email in which Oliver indicated that because of upcoming
+redemptions due to investors, Aequitas would have a $6.5
+20                     USA V. JESENIK
+
+
+million shortfall by the end of the month—assuming it could
+use $6.4 million of new Lux Bond funds. Chris Bean, an
+RIA, testified that Rice told him on September 24 that
+Aequitas was “urgently looking for cash” to capitalize on a
+“time-sensitive investment opportunity” to “exercise options
+on two businesses that were performing well,” and would
+offer up to $10 million in Private Note with a 90-day
+redemption period and a high interest rate. Based on Rice’s
+representations, Bean’s clients committed $4 million during
+the following week.
+    In multiple conversations with Bean during the fall of
+2015, Rice did not disclose Aequitas’s liquidity crisis,
+difficulty meeting payroll and late redemptions, the SEC
+investigation, or Holmen’s concerns. Bean testified that he
+would not have invested his clients’ money had he known
+these facts or that their money would not be used for a time-
+sensitive receivables investment opportunity.
+    On September 30, 2015, a European company invested
+$5 million in the Lux Bond. MacRitchie then told Gillis that
+he “could loan up to $3 M[illion] [to ACF] short term.”
+Although Holmen advised that the loan was risky,
+MacRitchie authorized it. Nicholas Mavroleon, who helped
+solicit Lux Bond investments and witnessed MacRitchie
+pitch the Lux Bond to European investors several times,
+testified that he had never heard MacRitchie mention the use
+of investments for affiliate loans. Mavroleon also testified
+that MacRitchie presented the Lux Bond as a “bankruptcy
+remote vehicle,” as did the pitch deck. In February 2016,
+Aequitas informed the European company it could not repay
+the loan.
+    By early November 2015, Aequitas had stopped paying
+Private Note redemptions, and on December 1, Oliver
+                         USA V. JESENIK                        21
+
+
+internally circulated a draft letter explaining this to investors.
+Although Holmen had recommended ending Private Note
+fundraising on October 30, it continued thereafter, as the
+defendants attempted to reassure increasingly concerned
+investors. Brett Trowbridge, an investor who was told that
+his money would be used to buy receivables, signed a
+subscription agreement in November 2015, but delayed
+wiring investment funds to Aequitas because he was
+concerned about the SEC investigation. Contrary to
+Holmen’s advice, Trowbridge was not sent an updated tear
+sheet.
+    Trowbridge met with Oliver and Jesenik in December to
+discuss whether the company was healthy and his $1.5
+million investment was safe. At the meeting, Jesenik “talked
+about the big picture of the business; how well it was going”;
+about the company’s expansion to New York and Europe;
+and said that the receivables business was “healthy and
+good.”       Jesenik assured Trowbridge that the SEC
+investigation would be resolved soon, and Oliver said the
+company’s cash flow was positive. Neither mentioned
+liquidity problems or that Aequitas had stopped paying
+redemptions. Trowbridge testified that he would not have
+invested had he received the updated tear sheet or Oliver’s
+draft letter, and that he felt Jesenik lied to him.
+2. The Defense
+    Jesenik and MacRitchie focused heavily on the PPMs
+and other written disclosures, particularly ACF’s audited
+financial statements. Jesenik’s counsel argued that:
+
+        [I]nformation conveyed to investors by Bob
+        Jesenik was not a misleading half-truth. . . .
+        The government wants to make this about
+22                      USA V. JESENIK
+
+
+       oral pitches and marketing materials, and it is
+       about that. . . It is about everything investors
+       were told. Simply put: If there is full
+       disclosure, there is no fraud, right. There is
+       no intent to deceive or cheat.
+
+MacRitchie’s counsel similarly argued:
+
+       There is no half-truth when the whole truth
+       was provided. And there is no requirement
+       that every piece of information be provided
+       on a one-page marketing piece obviously.
+
+    These defendants stressed that documents other than the
+tear sheets disclosed critical facts about the use of investor
+funds and Aequitas’s finances that were allegedly left out of
+verbal discussions and marketing materials. For example,
+the Private Note PPM’s “Uses of Proceeds” section
+disclosed that some investor funds might be used to pay prior
+investors:
+
+       The Company generally pays the principal
+       and interest of Secured Notes from the
+       proceeds from repayments of loans, leases,
+       subordinated debt investments and similar
+       assets of the Company and sales of Company
+       assets. From time to time, the Company may
+       use proceeds of the sale of Secured Notes to
+       repay the principal and interest of previously
+       issued Secured Notes due principally to the
+       illiquid nature of many of the Company’s
+       investments and to the Company’s ongoing
+       efforts to reduce its weighted average cost of
+       capital by, in part, replacing Secured Notes
+                        USA V. JESENIK                       23
+
+
+       bearing higher interest rates with Secured
+       Notes bearing lower interest rates.
+
+It also disclosed that “[t]he Company uses proceeds to
+provide lines of credit for the benefit of its affiliates,”
+including to “[p]rovide working capital and operating
+liquidity.” A lengthy appendix of risk factors discussing the
+security of investments elaborated that: “from time to time a
+significant portion of the collateral securing the Secured
+Notes may be in the form of loans or other obligations owed
+to the Company by its affiliates.” An October 2014
+supplement disclosed Corinthian’s default and the resulting
+possibility of a “material adverse effect” on Aequitas’s
+“operations and financial performance and its ability to
+repay the Secured Notes.”
+    Both tear sheets and PPMs directed potential investors to
+ACF’s financial statements. Serena Morones, a defense
+forensic accounting expert, testified that ACF’s audited
+financial statements disclosed Aequitas’s loans to affiliates,
+including the Holdings Note, and their growth over time.
+Morones also testified that the financial statements made
+plain that Aequitas had “very negative cash flow,” that most
+of its income was from unrealized, non-cash gains, and that
+the company depended on borrowing from banks and private
+investors to finance its operating losses. She further testified
+that, based on other information in the statements, a reader
+could “connect the dots” that investor funds were being used
+for operating expenses and redemptions.
+    Jesenik and MacRitchie argued that their written
+disclosures showed a lack of intent to defraud. They
+believed their investors read the PPMs, “the main document
+for explaining how the investment works,” and asserted that
+24                      USA V. JESENIK
+
+
+they relied on lawyers and accountants who reviewed the
+PPMs and financial statements.
+    Jesenik and MacRitchie also attacked the credibility of
+investors who testified to basing investment decisions on
+verbal communications and marketing materials,
+emphasizing that RIAs in particular had due diligence
+obligations to their clients to read the PPMs and financial
+statements. Using the PPMs and financial statements
+extensively at trial, defense counsel cross-examined
+investors and RIAs, some of whom admitted that these
+documents conveyed information allegedly not disclosed by
+the defendants or in marketing materials.
+    For example, Bean, an RIA who invested in September
+2015, acknowledged that the Private Note PPM disclosed
+that some funds could be used for operating expenses, and
+accurately disclosed risks related to cash-flow issues and
+insufficient or unavailable collateral, although he considered
+these to be worst-case, hypothetical scenarios rather than “a
+forecast or an expectation.” Bean also conceded that the
+PPM disclosed ACF’s loans to affiliates and that the audited
+financial statements disclosed that one of these loans was the
+then-$120 million Holdings Note. And he further agreed
+that he told his clients that Aequitas’s “balance sheet and
+audit report looks great,” even though the financial
+statements showed a net income loss of $15 million in 2014;
+operating losses; and that a significant amount of ACF’s
+income was from unrealized gains in equity investments.
+Defense counsel also elicited testimony that Bean and
+another RIA had been sued by their clients for due diligence
+failures.
+    Addressing the latter end of the indictment period,
+Jesenik argued that he was an honest businessman who
+                        USA V. JESENIK                       25
+
+
+believed in the company and kept fundraising so Aequitas
+could survive the “bank run” brought on by the SEC
+investigation and exacerbated by the illiquid nature of its
+collateral. MacRitchie argued that he was outside the inner
+circle and only became aware of Aequitas’s financial
+problems in the summer of 2015. Both emphasized that they
+supported changes to marketing materials once professionals
+told them they were needed.
+   Rice’s defense was different. He was not alleged to have
+become a co-conspirator until February 2015, when he
+began receiving “cash dash” emails. Rice argued that any
+misrepresentations he made to investors were the result of
+misrepresentations the other defendants made to him.
+    Rice conceded that he was aware of the cash shortfalls
+and, later, the Ponzi scheme concern, but thought these were
+short-term accounting issues that could be fixed. He argued
+that the PPMs and tear sheets existed before he arrived, and,
+like his co-defendants, that he supported updating PPMs and
+marketing materials in late 2015. Rice also argued that he
+did not mislead the RIAs into investing in receivables,
+because they had all already been pitched by Jesenik and
+Oliver and had done their own due diligence.
+                D. Verdicts and Sentences
+    After a six-week trial, a jury returned verdicts finding all
+defendants guilty of one count of conspiracy to commit mail
+and wire fraud and 28 counts of wire fraud. Jesenik was also
+found guilty of making a false statement on a loan
+application. 7 Jesenik was sentenced to 168 months of
+
+
+7
+  All defendants were acquitted of conspiracy to commit money
+laundering.
+26                            USA V. JESENIK
+
+
+imprisonment; MacRitchie to 70 months; and Rice to 37
+months. All timely appealed.
+                                     II.
+   We first address all defendants’ contention that they may
+have been convicted on an invalid legal theory of fraud and
+Rice’s challenge to the sufficiency of evidence.
+                                     A.
+     The elements of wire fraud in violation of 18 U.S.C.
+§ 1343 are “(1) the existence of a scheme to defraud; (2) the
+use of wire, radio, or television to further the scheme; and
+(3) a specific intent to defraud.” United States v. Lindsey,
+850 F.3d 1009, 1013 (9th Cir. 2017) (quoting United States
+v. Jinian, 725 F.3d 954, 960 (9th Cir. 2013)).8 A “scheme to
+defraud” requires the use of “material falsehoods.” Id.
+(quoting Neder v. United States, 527 U.S. 1, 20 (1999). “[A]
+false statement is material if it has a natural tendency to
+influence, or is capable of influencing, the decisionmaker to
+whom the statement was addressed.” United States v.
+Galecki, 89 F.4th 713, 737 (9th Cir. 2023) (cleaned up).
+    False statements can include “misleading half-truths,”
+see, e.g., United States v. Lloyd, 807 F.3d 1128, 1153 (9th
+
+8
+    The statute provides that a person commits wire fraud if:
+           having devised or intending to devise any scheme or
+           artifice to defraud, or for obtaining money or property
+           by means of false or fraudulent pretenses,
+           representations, or promises, [he] transmits or causes
+           to be transmitted by means of wire, radio, or television
+           communication in interstate or foreign commerce, any
+           writings, signs, signals, pictures, or sounds for the
+           purpose of executing such scheme or artifice [. . .].
+18 U.S.C. § 1343.
+                        USA V. JESENIK                       27
+
+
+Cir. 2015); Lustiger v. United States, 386 F.2d 132, 138 (9th
+Cir. 1967), representations that are partly true but misleading
+“because of [the defendant’s] failure to state additional or
+qualifying matter,” Universal Health Servs., Inc. v. United
+States ex rel. Escobar, 579 U.S. 176, 188 (2016) (cleaned
+up). Even in the absence of a false statement, a conviction
+can be based on a failure to disclose material facts. See
+United States v. Shields, 844 F.3d 819, 822 (9th Cir. 2016).
+But wire fraud can be premised on such an omissions theory
+only if the defendant had a special “trusting relationship”
+with the victim. Id. at 823. That relationship is not required
+in fraud cases premised on misrepresentations, including
+half-truths. See Lloyd, 807 F.3d at 1153; United States v.
+Benny, 786 F.2d 1410, 1418 (9th Cir. 1986).
+    The defendants contend that although they were charged
+in the operative indictment only with engaging in “material
+misrepresentations and misleading half-truths,” the
+government really presented an omissions theory at trial. 9
+They argue that the district court therefore erred in denying
+proposed instructions requiring proof of a trusting
+relationship.
+    “We review de novo whether the Government’s theory
+of fraud at trial was legally valid.” United States v.
+Milheiser, 98 F.4th 935, 941 (9th Cir. 2024). “[A] general
+verdict that may rest on a legally invalid theory” cannot
+stand unless we are convinced beyond a reasonable doubt
+that presentation of the invalid theory “did not contribute to
+the jury’s verdict.” United States v. Yates, 16 F.4th 256,
+269–70 (9th Cir. 2021) (cleaned up). Such an error is not
+
+9
+  The original indictment also alleged the defendants engaged in
+“omissions of material facts.” This allegation was dropped in a
+superseding indictment.
+28                     USA V. JESENIK
+
+
+harmless even “where the verdict is supportable on [another]
+ground.” Yates v. United States, 354 U.S. 298, 312 (1957).
+                             B.
+    The defendants assert that the government improperly
+“focused [its case] on non-disclosure alone, rather than
+whether omitted information made any affirmative
+statement materially misleading.”        They cite the
+government’s questioning of investors about whether they
+would have invested had they known certain undisclosed
+facts and the government’s discussion of that testimony in
+closing argument.
+    They object particularly to the government’s statement
+in closing argument that an RIA was “defrauded” because:
+
+       Brian Rice failed to disclose liquidity
+       problems at Aequitas. He failed to disclose
+       the SEC investigation, the payroll funding, or
+       that the general counsel of Aequitas had
+       raised concerns in early September that the
+       firm was running a Ponzi scheme.
+
+    To the extent the defendants argue that it was error for
+the district court to allow the government to ask investors
+“would you have invested had you known” questions, or to
+discuss what the defendants did not disclose, we disagree. It
+is well-established that such evidence is probative of the
+materiality of a half-truth or misrepresentation. See United
+States v. Laurienti, 611 F.3d 530, 549 (9th Cir. 2010)
+(approving “[i]f you had known” questions).
+    And the government did not argue that omissions alone
+were sufficient to prove fraud or present that theory to the
+jury. Rather, the government elicited extensive testimony
+                        USA V. JESENIK                      29
+
+
+about the relevant affirmative statements when questioning
+witnesses about non-disclosures, and stressed these
+affirmative statements in closing argument. For example,
+RIA Jeff Sica, whose 70 clients had invested a total of $32
+million in Private Note, testified that he became concerned
+about the security of those investments after Aequitas
+refused to redeem a client’s $10 million note when it was
+due in April 2015, and only did so two months later.
+     Sica had previously been assured by Rice that Aequitas
+“was very secure; that they had plenty of assets; that business
+was great.” Later, when Sica asked why the redemption was
+late, Rice told him: “Well, we don’t do a good job managing
+our liquidity. So it is not a matter that there are not assets;
+it’s [that] the leadership needs to change.” Around the time
+of a due diligence visit in October 2015, after Sica had
+requested redemption of all his clients’ notes, he told Rice
+he suspected Aequitas was a Ponzi scheme, and Rice denied
+it. He also testified that Rice continued to pitch him on
+Aequitas products and tried to persuade him to delay
+redemptions into November 2015. At trial, the government
+asked Sica about the facts Rice failed to disclose in the
+context of this testimony, and in closing argument, the
+government’s comments about what Rice “failed to
+disclose” followed discussion of Sica’s interactions with
+Rice in the fall of 2015. Thus, the government sufficiently
+tethered Rice’s non-disclosures to his affirmative
+statements.
+                              C.
+    The defendants also claim that the district court erred in
+denying three proposed instructions: (1) “[a] nondisclosure [
+] can support a [wire] fraud charge only when there exists an
+independent duty that has been breached by the person so
+30                      USA V. JESENIK
+
+
+charged”; (2) “omissions alone are not sufficient to support
+a charge of mail or wire fraud”; and (3) “[a]n omission alone
+– absent a connection to a half-truth – does not constitute a
+misrepresentation.”
+    “In reviewing jury instructions, the relevant inquiry is
+whether the instructions as a whole are misleading or
+inadequate to guide the jury’s deliberation.” Lloyd, 807 F.3d
+at 1164 (quoting United States v. Dixon, 201 F.3d 1223,
+1230 (9th Cir. 2000)). We determine whether an instruction
+misstates the law de novo but review its “language and
+formulation” for abuse of discretion. United States v.
+Rodriguez, 971 F.3d 1005, 1012 (9th Cir. 2020).
+Instructions are evaluated “as a whole, and in context,” id.,
+and we afford the trial judge “substantial latitude so long as
+the instructions fairly and adequately covered the issues
+presented,” United States v. Moe, 781 F.3d 1120, 1127 (9th
+Cir. 2015) (quoting United States v. Bauer, 84 F.3d 1549,
+1560 (9th Cir. 1996)).
+    At the defendants’ request, the district court defined
+“half-truth” in an instruction drawn directly from Universal
+Health Servs., Inc., 579 U.S. at 188, and Ninth Circuit Model
+Criminal Jury Instruction 15.35. The instruction required the
+government to prove that a defendant “knowingly
+participated in a scheme or plan to defraud, or a scheme or
+plan for obtaining money by means of a false or fraudulent
+representations,” and then stated:
+
+       Deceitful statements of half-truths may
+       constitute false or fraudulent representations.
+       A half-truth is a representation that states the
+                        USA V. JESENIK                       31
+
+
+       truth only so far as it goes, while omitting
+       critical qualifying information.
+
+    This instruction fairly stated the law. Had the defendants
+been charged under an omissions theory, the government
+would have been required to show a relationship giving rise
+to a duty to disclose. See Shields, 844 F.3d at 822–23;
+United States v. Spanier, 744 Fed. App’x 351, 353–54 (9th
+Cir. 2018). But these defendants were not so charged, and
+the district court therefore did not err in denying the
+defendants’ proposed “independent duty” instruction. See
+United States v. Farrace, 805 Fed. App’x 470, 473 (9th Cir.
+2020). For the same reason, the district court did not abuse
+its discretion in denying the proposed instruction that
+“omissions alone are not sufficient to support a charge of
+mail or wire fraud” and that “[a]n omission alone – absent a
+connection to a half-truth – does not constitute a
+misrepresentation.”
+    Moreover, the district court instructed the jury shortly
+after the relevant portion of the government’s closing
+argument that because the indictment only alleged
+misrepresentations and half-truths, the argument about what
+the defendants failed to disclose was only relevant to
+whether the defendants made any “deceitful half-truths.”
+Using language nearly identical to the defendants’ proposed
+instruction, the court then told the jury that “[i]f all we have
+is an omission or a failure to disclose, that’s not actionable
+here.” That instruction fairly covered the substance of the
+defendants’ proposed instruction.
+                              D.
+   “Puffing concerns expressions of opinion, as opposed to
+the knowingly false statements of fact which the law
+32                     USA V. JESENIK
+
+
+proscribes.” United States v. Tarallo, 380 F.3d 1174, 1191
+(9th Cir. 2004), amended, 413 F.3d 928 (9th Cir. 2005)
+(cleaned up). The defendants contend that their statements
+about Aequitas’s financial health were merely “generic
+claims of financial success” or “subjective enthusiasm and
+puffing.” We are not persuaded.
+    The defendants highlight the government’s emphasis in
+closing argument on investors’ testimony that they were
+misled by the defendants’ statements that Aequitas was “just
+doing outstanding” and “growing very rapidly,” focusing on
+a portion of the argument that followed the court’s
+supplemental instructions about half-truths and omissions:
+
+       All of those things that they were
+       complaining about in that testimony that I
+       summarized for you, those were omissions in
+       service of the half-truths that, “Hey,
+       everything at Aequitas is going great.”
+
+But given the severe financial straits that Aequitas was in
+when these statements were made and the defendants’
+knowledge of the company’s finances, a jury could well find
+them to be “knowingly false statements of fact.” Tarallo,
+380 F.3d at 1191; see United States v. Autuori, 212 F.3d 105,
+118–19 (2d Cir. 2000) (finding that a jury could infer that
+the defendant’s representations that PPM forecasts were
+“good” and “credible”; that a partnership project was “safe”;
+and that his prestigious accounting firm “stood behind the
+numbers” were not puffing, but rather “representations that
+contradicted his honest view”).
+    The defendants also claim that non-disclosures about
+liquidity problems, difficulty paying operating expenses,
+and an SEC investigation did not render general statements
+                        USA V. JESENIK                     33
+
+
+about Aequitas’s financial health “half-truths” because they
+were insufficiently “tethered” to those claims or did not
+“pertain[] to the same topic.” They cite the Supreme Court’s
+“classic example of an actionable half-truth”: “the seller who
+reveals that there may be two new roads near a property he
+is selling, but fails to disclose that a third potential road
+might bisect the property.” Universal Health Servs., 579
+U.S. at 188–89. In the context of this case, however, the
+defendants’ affirmative representations that Aequitas was in
+good financial health, made while soliciting purportedly
+secure investments in income-generating assets, have a plain
+nexus to non-disclosures about liquidity problems, difficulty
+paying operating expenses, and an SEC investigation
+concerning potential misuse of investor funds. Whether
+those representations were misleading half-truths was
+therefore properly a question for the jury.
+                             E.
+    Rice challenges the sufficiency of evidence supporting
+his conviction. We must decide whether the evidence,
+viewed in the light most favorable to the government, is
+sufficient for a “rational trier of fact” to have “found the
+essential elements of the crime beyond a reasonable
+doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979). The
+evidence in this case satisfies that forgiving standard.
+    For example, four RIAs testified that Rice personally
+solicited them to invest in receivables during 2015 through
+IOF II and Private Note. Starting in February 2015,
+however, Rice had received “cash dash” emails indicating
+unequivocally that these funds would in fact be used for
+payroll and to repay prior investors. And, although
+Aequitas’s general counsel told Rice in September 2015 that
+Aequitas could be engaging in a Ponzi scheme, Rice
+34                           USA V. JESENIK
+
+
+continued to facilitate investor due diligence visits and
+solicit investments to meet ongoing urgent cash shortfalls
+without disclosing the actual uses of investors’ funds, the
+SEC investigation, or that the investments were not secure.
+                                   III.
+   We next address the defendants’ contentions that they
+were precluded from presenting a complete defense. These
+arguments again center on disclosures in the PPMs and
+audited financial statements.
+                                    A.
+                                    1.
+    The defendants first assert that the district court erred in
+admitting any evidence of representations in sales pitches
+and marketing materials, and evidence that investors relied
+on these representations. They argue that disclaimers of
+reliance in the subscription agreements and PPMs rendered
+any representations outside those documents immaterial.10
+They also argue that verbal representations and marketing
+materials could not be “objectively” material to Aequitas’s
+“accredited” investors given the written disclosures,
+especially to RIAs with fiduciary duties to their clients.
+   We disagree. “[T]he focus of the mail fraud statute, like
+any criminal statute, is on the violator.” United States v.
+
+10
+     The Private Note and IOF II PPMs both stated:
+           No person has been authorized in connection with this
+           Offering to give any information or make any
+           representations other than those contained in this
+           Memorandum or the Transaction documents and, if
+           given or made, such information or representations
+           must not be relied upon as having been authorized by
+           the Company.
+                        USA V. JESENIK                       35
+
+
+Weaver, 860 F.3d 90, 95 (2d Cir. 2017) (per curiam)
+(cleaned up). Proof of a scheme to defraud does not require
+showing that a victim relied on the defendant’s falsehoods;
+it is sufficient that falsehoods were material. Lindsey, 850
+F.3d at 1014. Materiality, as opposed to reliance, is an
+objective measure of a representation’s “tendency to
+influence” “the decisionmaker to whom [it] was addressed.”
+Galecki, 89 F.4th at 737 (cleaned up); see also Lindsey, 850
+F.3d at 1013–14.
+    Whether a representation has a tendency to influence a
+decisionmaker is not the same question as whether the
+decisionmaker would be justified in relying on it. Justifiable
+reliance is relevant to civil liability for fraud, but not to
+criminal liability. See Neder, 527 U.S. at 24–25; see also
+Weaver, 860 F.3d at 95. Thus, consistent with other circuits
+that have addressed the issue, see, e.g., Weaver, 860 F.3d at
+95–96; United States v. Lucas, 516 F.3d 316, 339–40 (5th
+Cir. 2008); United States v. Ghilarducci, 480 F.3d 542, 547
+(7th Cir. 2007), we hold that contractual disclaimers do not
+render immaterial other representations in criminal wire
+fraud prosecutions.
+    For the same reason, we reject the argument that the
+defendants’ representations in sales pitches and marketing
+materials were immaterial to “accredited” investors. To be
+sure, “materiality is judged in relation to the persons to
+whom the statement is addressed.” Galecki, 89 F.4th at 737
+(cleaned up). But “the wire fraud statute protects the naive
+as well as the worldly-wise.” United States v. Ciccone, 219
+F.3d 1078, 1083 (9th Cir. 2000) (cleaned up). Materiality is
+a question of fact for the jury, see United States v. Gaudin,
+28 F.3d 943, 944 (9th Cir. 1994) (en banc), aff'd, 515 U.S.
+506 (1995), and the district court properly left the materiality
+issue to the jury.
+36                      USA V. JESENIK
+
+
+    Nor did the district court err in admitting evidence of
+investors’ reliance on these representations. Although not
+dispositive, a victim’s reliance on the defendant’s falsehoods
+is probative of materiality. See Phillips v. United States, 356
+F.2d 297, 308 (9th Cir. 1965) (“Evidence that appellants’
+sales materials did in fact deceive persons to whom it was
+directed, causing them to rely upon it, tends to show that
+such materials were of the nature charged.”).
+                              2.
+   The defendants also argue that they were entitled to this
+proposed jury instruction on “objective” materiality:
+
+       Whether or not a statement is capable of
+       influencing the decision-making body to
+       which it was addressed is evaluated
+       objectively.     In considering whether a
+       statement is material, you should consider the
+       context in which the communications
+       occurred, including any evidence about
+       industry practice, agreements between the
+       parties, the parties’ professional status or
+       accreditations, and other information known
+       to the parties at the time the allegedly false
+       statements were made. The government does
+       not need to prove that the statement actually
+       influenced any decisionmaker.
+
+    We find no abuse of discretion in the district court’s
+denial of this instruction. The court accurately instructed the
+jury that:
+
+       An oral or written statement is material if it
+       has a natural tendency to influence, or was
+                        USA V. JESENIK                     37
+
+
+       capable of influencing, a person to part with
+       money. Neither proof of reliance on a false
+       statement nor actual harm is needed to show
+       materiality.
+
+The jury was also instructed that “[i]n determining whether
+a scheme to defraud exists, you may consider not only a
+defendant’s words and statements, but also the
+circumstances in which those words and statements are used,
+considered as a whole.” See Ninth Circuit Model Criminal
+Jury Instruction 15.35. These instructions fairly and
+adequately covered whether representations in sales pitches
+and marketing materials were material.
+                             B.
+   The defendants next assert that the jury was prevented
+from considering defense theories about elements other than
+materiality. We reject those claims.
+                              1.
+    The district court granted a government pretrial motion
+to preclude evidence or argument that investors should have
+“exercised more due diligence or skepticism in their dealings
+with Aequitas” and that investors did not actually rely on the
+co-conspirators’ allegedly false statements. The defendants
+argue that the court then improperly limited their cross-
+examination of investors about the contents of the relevant
+disclosures and their “failure to read, understand, or
+appreciate” them.
+   To the extent that the defendants challenge the district
+court’s preclusion of evidence about investor negligence or
+non-reliance, their argument is foreclosed by Lindsey, a case
+involving mortgage fraud. We held there that “a bright-line
+38                          USA V. JESENIK
+
+
+rule against evidence of individual lender behavior to
+disprove materiality is both a reasonable and necessary
+protection” because “evidence of individual lender behavior
+can easily touch on lender negligence, intentional disregard,
+or lack of reliance—none of which is a defense to mortgage
+fraud.” 850 F.3d at 1017.11 We find no reason to adopt a
+different rule in this case, simply because the loans gave rise
+to promissory notes instead of mortgages.
+    The defendants also argue that evidence of investor
+negligence or non-reliance is admissible to impeach the
+investor “by confronting the investor with contradictory
+information provided to him by the defendants in the PPM,”
+and to show whether the defendants had an intent to defraud.
+The defendants cite the cross-examination of Bob
+Zamarripa, who invested $12 million with Aequitas.
+Zamarripa testified that he was misled by Jesenik’s
+assurances that “a hundred percent” of his money would go
+to secure health care receivables and not to pay other
+investors. During cross-examination, Zamarripa testified
+that he had not read the subscription agreements and PPMs.
+The court admitted these documents, and allowed defense
+counsel to show Zamarripa one of the subscription
+agreements and ask whether it instructed him to read the
+PPM. However, the court sustained a series of relevancy
+objections when defense counsel attempted to ask more
+questions about the contents of the documents, given
+Zamarripa’s admission that he had not read them.
+
+
+11
+   Instead, defendants may seek to disprove materiality through generally
+accepted standards, id. at 1016, because “[t]he way the entire market has
+historically treated a statement or requirement says a lot about that
+statement or requirement’s natural capacity to influence a decision by
+market participants,” id. at 1017.
+                        USA V. JESENIK                     39
+
+
+   These evidentiary rulings did not prevent the defendants
+from urging legitimate disclosure-based defense theories.
+The court admitted PPMs, subscription agreements, and
+audited financials, and several investors admitted that those
+documents were material to their decisions. The court also
+admitted defense expert testimony about these documents,
+and allowed extensive questioning of investors who had read
+them about their contents.
+    Evidence of Aequitas investors’ lengthy experience in
+the financial industry—and RIAs’ due diligence
+obligations—was also admitted, as was testimony that some
+RIAs’ former clients blamed them for their financial losses,
+and that two had been sued for negligence. The defendants
+were allowed to cross-examine investors about their claims
+that they had not read the PPMs and that they were unaware
+of Aequitas’s financial difficulties. Over government
+objections, the district court allowed defense counsel to ask
+investors questions relevant to credibility “even if it may
+have the secondary effect of implying that there was
+inadequate due diligence.” The court also admitted
+testimony about the defendants’ reliance on lawyers,
+accountants, and compliance professionals, and their support
+for revisions to the PPMs and tear sheets in response to those
+professionals’ concerns.
+                              2.
+    The district court’s materiality instruction stated, in
+relevant part:
+
+       It is not a defense to a charge of mail or wire
+       fraud or a charge of conspiracy to commit
+       mail or wire fraud that an investor or
+       registered investment advisor may have been
+40                       USA V. JESENIK
+
+
+        gullible, careless, naive, or negligent or even
+        that an investor or registered investment
+        advisor        intentionally        disregarded
+        information.
+
+The defendants argue that the instruction “suggested that
+disclosures could not be considered as to any issue” and that
+in the absence of “an accompanying admonition that truthful
+disclosures could be considered in connection with good
+faith or lack of a scheme to defraud, the instruction
+fundamentally misled the jury.”
+    We disagree. The instruction is drawn from Lindsey, in
+which we held that “negligence is not a defense to wire
+fraud” and “intentional disregard of relevant information is
+not a defense to wire fraud.” 850 F.3d at 1019. The
+defendants attempt to distinguish Lindsey because it focused
+on whether lenders’ disregard of relevant information was
+admissible to disprove the materiality of the defendant’s
+false statements, see id. at 1015–16, while they wished to use
+such evidence to argue other defenses.
+     To the extent the defendants argue that “if an investor
+felt misled, it was because the investor . . . chose to disregard
+part of the complete representation,” they effectively seek to
+urge that Aequitas’s investors were negligent. As Lindsey
+emphasizes, “negligence is not a defense to wire fraud.” Id.
+at 1015, 1019.
+    More importantly, the challenged instruction did not
+indicate that the written disclosures were irrelevant. Indeed,
+the defendants were permitted to argue that the written
+disclosures were accurate, material to investors, and
+indicative of the defendants’ good faith. In closing, Jesenik
+and MacRitchie both argued extensively that any alleged
+                        USA V. JESENIK                       41
+
+
+misrepresentations did not qualify as half-truths in light of
+the disclosures. All defendants robustly argued that their
+provision of written disclosures to investors was evidence of
+good faith. And the defendants were allowed to attack the
+investors’ credibility.
+    The jury was instructed that “[i]n determining whether a
+scheme to defraud exists, you may consider not only a
+defendant’s words and statements, but also the
+circumstances in which those words and statements are used,
+considered as a whole.” See Ninth Circuit Model Criminal
+Jury Instruction 15.35. Taken together with the court’s
+instructions on half-truths, materiality, good faith, fraudulent
+intent, and witness credibility, the “instructions, in their
+entirety, adequately cover[ed] th[e] defense theory.” Moe,
+781 F.3d at 1127 (cleaned up).
+                              3.
+   In its rebuttal, the government stated:
+
+       A few things about the jury instructions. You
+       see here “negligence by the investors and the
+       RIAs is not a defense to fraud.” So
+       allegations that they should have done this
+       and that they should have done that are not
+       allegations [sic] to fraud if you find that the
+       defendants acted with the intent to defraud.
+       You have other jury instructions. But the oral
+       statements—in considering what evidence
+       has been promoting the fraud, the oral
+       statements by Mr. Jesenik, by Mr. Oliver, by
+       Mr. Rice. The investor/RIA testimony about
+       the tear sheets, the pitch decks that contain
+42                      USA V. JESENIK
+
+
+       false information. The cooperator testimony
+       we provided and the written documentation.
+       The PPM—a lot of evidence about the PPM
+       and whether they are in support of a reliance
+       defense or good faith on the part of the
+       defendants. Members of the jury, I suggest
+       that’s not a proper defense. If you find that
+       these defendants—who individually have to
+       be assessed—but if you find that they
+       approached or promoted—in approaching
+       investors to give them money under false
+       pretenses, “We are doing great; your money
+       is going for receivables,” knowing that it is
+       not, that’s fraud. The crime has been
+       completed. And as Jessica Cataudella said,
+       “You can’t disclose your way out of fraud,”
+       meaning you can’t use the PPM, which has
+       50 pages of legalese, footnotes, warnings,
+       buzzers, and bells that lawyers write and the
+       SEC monitors, it’s important, no doubt, but
+       it’s not important to this fraud because—
+
+After MacRitchie’s counsel objected that the prosecutor
+misstated the burden of proof, the court instructed the jury
+that intent to defraud and good faith were defined in the jury
+instructions.
+    The defendants assert that they were prejudiced by the
+government’s statement in closing that “you can’t disclose
+your way out of fraud.” They claim that, like the court’s
+materiality instruction, this argument improperly indicated
+that jurors could not consider whether their purportedly
+truthful written disclosures cured other alleged
+misrepresentations or demonstrated good faith. Relatedly,
+                            USA V. JESENIK                            43
+
+
+the defendants also contend that the district court erred in
+denying a proposed addition to the court’s instruction on the
+definition of a half-truth: “If the speaker does provide that
+critical qualifying information, the duty to speak is satisfied
+and the statement does not amount to a misrepresentation.”
+We reject the argument.
+    The government’s argument accurately recounted the
+testimony of Cataudella, the former Aequitas compliance
+officer, in which she said that “you can’t disclose away
+fraud” was a common phrase in the compliance industry.12
+In context, the argument was not improper, because whether
+the defendants’ written disclosures sufficed to make alleged
+misrepresentations not misleading was a question for the
+jury, and the jury was properly instructed on how to consider
+evidence of those disclosures. Moreover, the court gave a
+prompt curative instruction after the challenged statements,
+and “[j]urors are presumed to follow the court’s
+instructions.” United States v. Reyes, 660 F.3d 454, 468 (9th
+Cir. 2011).
+                                  IV.
+   For the reasons above, and those in the concurrently filed
+memorandum disposition, we affirm the judgments of
+conviction.
+     AFFIRMED.
+
+
+
+
+12
+  At trial, MacRitchie unsuccessfully objected to this statement as a lay
+opinion. MacRitchie does not pursue this argument on appeal.

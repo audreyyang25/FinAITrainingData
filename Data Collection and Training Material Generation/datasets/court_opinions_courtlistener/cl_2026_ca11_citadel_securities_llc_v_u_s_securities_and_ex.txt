@@ -1,0 +1,1637 @@
+USCA11 Case: 25-13631     Document: 71-1        Date Filed: 05/29/2026    Page: 1 of 49
+
+
+
+
+                               FOR PUBLICATION
+
+
+                                       In the
+                 United States Court of Appeals
+                          For the Eleventh Circuit
+                            ____________________
+                                     No. 25-13631
+                            ____________________
+
+        CITADEL SECURITIES LLC,
+                                                                    Petitioner,
+        versus
+
+        U.S. SECURITIES AND EXCHANGE COMMISSION,
+                                                                   Respondent,
+        INVESTORS EXCHANGE, LLC,
+                                                                    Intervenor.
+                            ____________________
+                        Petition for Review of a Decision of the
+                         Securities and Exchange Commission
+                               Agency No. SR-IEX-2025-02
+                            ____________________
+
+        Before ROSENBAUM, LAGOA, and MARCUS, Circuit Judges.
+USCA11 Case: 25-13631         Document: 71-1     Date Filed: 05/29/2026        Page: 2 of 49
+
+
+
+
+        2                        Opinion of the Court                    25-13631
+
+        ROSENBAUM, Circuit Judge:
+               High-frequency trading in securities markets is technologi-
+        cally sophisticated and almost incomprehensibly fast.
+               The dispute in this case centers on 350 microseconds, about
+        one-third of one-thousandth of a second.1 That sounds fast—and
+        it is—but it’s a long time for a high-frequency trader.
+               Today, securities trading operates based on electronic or-
+        ders that travel between data centers extremely quickly, but not
+        instantly. When a security’s price starts to shift on Exchange A, it
+        takes a fraction of a second for traders to update their price for that
+        security on Exchange B. During that time, traders with the fastest
+        technical systems can race ahead to grab those securities at the out-
+        dated, “stale” price. They already know where the price is headed.
+              It’s a bit like making a sports wager using Biff Tannen’s (or
+        Marty McFly’s) almanac in Back to the Future Part II.
+              Certain high-frequency traders make big money from this
+        timing mismatch, called “latency arbitrage.” But investors lose
+        more than $5 billion each year to latency arbitrageurs.
+              Intervenor Investors Exchange LLC (“IEX”) created a model
+        to combat latency arbitrage. IEX adds 350 microseconds for in-
+        coming orders to reach its securities exchange, using a “speed-
+        bump” coil of ﬁber-optic cable. IEX software also detects when
+
+
+        1 A microsecond is one millionth of a second.   Each millisecond consists of
+        1,000 microseconds.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 3 of 49
+
+
+
+
+        25-13631              Opinion of the Court                        3
+
+        prices are out of sync across exchanges (when latency arbitrage
+        otherwise occurs). During those moments, IEX speeds up the pro-
+        cess of updating traders’ prices. Often, that means prices on IEX
+        can sync to the market price before latency-arbitrage orders ﬁnish
+        racing through IEX’s speedbump.
+               IEX launched its technology in the equities market. And the
+        District of Columbia Circuit upheld a Securities and Exchange
+        Commission (“SEC” or “Commission”) decision approving that
+        technology. Last year, though, IEX proposed to expand into op-
+        tions trading with a new platform, IEX Options. Again, the Com-
+        mission approved IEX’s proposal. 90 Fed. Reg. 45861 (Sept. 23,
+        2025).
+               Citadel Securities LLC (“Citadel”), a leading high-frequency
+        trader and market maker, petitioned for review of the Commis-
+        sion’s approval order.
+               Citadel’s petition poses ﬁve issues for our review. First and
+        second, Citadel challenges the Commission’s ﬁndings that latency
+        arbitrage exists in options markets and that IEX’s model would tar-
+        get latency arbitrage accurately. Third, Citadel asserts that quota-
+        tions on IEX Options don’t meet the criteria to qualify as “pro-
+        tected” quotations. Fourth and ﬁfth, Citadel argues that it was ar-
+        bitrary and capricious for the Commission to determine that IEX
+        Options will not unfairly discriminate and that IEX Options will not
+        impose an undue burden on competition.
+USCA11 Case: 25-13631         Document: 71-1         Date Filed: 05/29/2026         Page: 4 of 49
+
+
+
+
+        4                          Opinion of the Court                       25-13631
+
+               After careful review and with the beneﬁt of oral argument,
+        we conclude that Citadel’s positions lack merit. So we deny Cita-
+        del’s petition.
+
+                                    I.      BACKGROUND
+
+              IEX seeks to launch its new exchange, IEX Options, to limit
+        latency arbitrage in the options market. Of course, securities trad-
+        ing can involve a lot of technical and regulatory complexity. But
+        we don’t need to get into much of that. Instead, we focus on only
+        the details necessary to understand IEX’s approach to the options
+        market and the parties’ dispute.
+               We discuss the background to this case in six parts. First, we
+        review some basic features of modern securities markets. Second,
+        we brieﬂy explain latency arbitrage. Third, we identify unique as-
+        pects of options trading that amplify the problems latency arbi-
+        trage causes. Fourth, we introduce the parties. Fifth, we describe
+        IEX’s model for reducing latency arbitrage. Sixth, we recount the
+        proceedings that brought us here.
+
+                                   A. Securities Markets
+
+              We start with the building blocks of securities markets.
+        Among the many types of securities, equity stocks are perhaps the
+        most familiar.2 Equities include, for example, the shares in public
+
+        2 A wide range of financial instruments can qualify as “securities.”       See 15
+        U.S.C. § 78c(a)(10). Which financial instruments fall within that definition pre-
+        sents a nuanced issue that we need not examine here.
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026      Page: 5 of 49
+
+
+
+
+        25-13631               Opinion of the Court                          5
+
+        companies that retail investors might hold in their 401(k) or invest-
+        ment accounts. This case doesn’t directly involve equity stocks.
+        But to understand this case, we must ﬁrst understand the diﬀerence
+        and relationship between equity stocks and options—the type of
+        security this case involves.
+               In contrast to equity stocks, an option is a contract that gives
+        “the purchaser of the option the right, but not the obligation, to
+        buy or sell a security at a speciﬁed price (the ‘strike price’), on or
+        before a speciﬁed date.” Dow Jones & Co. v. Int’l Sec. Exch., Inc., 451
+        F.3d 295, 298 (2d Cir. 2006). In this way, options are derivatives of
+        other securities, like the equities we’ve been discussing.
+               A securities exchange plays the role of the marketplace
+        where buyers and sellers trade stocks or options (or other securi-
+        ties). When a buyer and seller agree to transact at a certain price,
+        the exchange can execute a trade. Once, this trading process relied
+        on “stock traders who yelled out orders from crowded trading
+        ﬂoors as they stared at a scrolling tickertape.” Citadel Sec., LLC v.
+        SEC, 45 F.4th 27, 29 (D.C. Cir. 2022). No longer. Technology has
+        taken over. So now, as we’ve mentioned, traders send electronic
+        orders to exchanges. Those orders represent that trader’s willing-
+        ness to buy or sell a certain amount of a particular security at a
+        certain price.
+              When two orders show a corresponding intention to buy
+        and sell at the same price, the exchange will “match” those orders
+        and execute a trade. Cboe Glob. Mkts., Inc. v. SEC, 155 F.4th 704, 711
+USCA11 Case: 25-13631       Document: 71-1      Date Filed: 05/29/2026      Page: 6 of 49
+
+
+
+
+        6                       Opinion of the Court                  25-13631
+
+        (D.C. Cir. 2025). That process occurs within the exchange’s
+        “matching engine.” 90 Fed. Reg. at 45870 col.1.
+               Now we turn to liquidity. Liquidity is essentially the ability
+        to convert an asset into cash quickly and easily without aﬀecting its
+        market price. See Adam Hayes, Understanding Liquidity and How to
+        Measure It, Investopedia ( Jan. 23, 2026), https://www.in-
+        vestopedia.com/terms/l/liquidity.asp [https://perma.cc/6RCB-
+        MMNN]. Liquidity on securities markets is important because,
+        among other reasons, it can be slower and involve higher transac-
+        tion costs to buy or sell a security that is less liquid. See Karl Mon-
+        tevirgen, Liquidity, Britannica Money, https://www.britan-
+        nica.com/money/liquidity [https://perma.cc/ZCR8-DXYV] (last
+        visited May 20, 2026).
+               For any speciﬁc order, a securities trader functions as either
+        a “liquidity provider” or a “liquidity taker.” Citadel Sec., 45 F.4th at
+        30. A liquidity provider posts its bid to buy (or oﬀer to sell) a secu-
+        rity on an exchange. See Cboe Glob., 155 F.4th at 711. A liquidity
+        provider’s order is often called a quotation or quote. A quote will
+        “rest” at the exchange until it executes against another trader’s in-
+        coming order or the liquidity provider cancels the quote. See 90
+        Fed. Reg. at 45864 col.1, 45866 col.2. For their part, a liquidity taker
+        places an order that seeks to “accept a provider’s ‘bid’ to buy or
+        ‘oﬀer’ to sell.” Citadel Sec., 45 F.4th at 30.
+                Securities markets operate diﬀerently than many retail mar-
+        kets (say, the market for a product like frozen dinners). In securities
+        markets, a single trader might play the role of buyer or seller in any
+USCA11 Case: 25-13631      Document: 71-1     Date Filed: 05/29/2026     Page: 7 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        7
+
+        given transaction. Similarly, a “single trader can don and doﬀ a [li-
+        quidity] provider or taker hat at any time.” Id.
+               Still, certain ﬁrms called “market makers” specialize as li-
+        quidity providers. Market makers add liquidity “by being continu-
+        ously willing to buy and sell the security in which they are making
+        a market.” Chi. Bd. Options Exch., Inc. v. SEC, 889 F.3d 837, 838 n.2
+        (7th Cir. 2018) (quoting Newton v. Merrill, Lynch, Pierce, Fenner &
+        Smith, Inc., 135 F.3d 266, 268 (3d Cir. 1998) (en banc)). These ﬁrms
+        accept regulatory mandates such as “continuous quoting require-
+        ments” to consistently have quotes on both the buy and sell side of
+        a particular security. 90 Fed. Reg. at 45878 col.1. Market makers
+        earn their proﬁt based on the “bid-ask spread”—the diﬀerence be-
+        tween the prices at which they’ve bid to buy and oﬀered to sell a
+        particular security. See Newton, 135 F.3d at 268.
+               Here’s an example of how these concepts work together. A
+        market maker sends an order to an exchange, oﬀering to sell 20
+        shares of Flux Capacitors R Us stock at $50.00 per share. That or-
+        der then rests on the exchange’s books. A liquidity taker sees the
+        market maker’s quote and sends in an order to buy 20 shares of
+        Flux Capacitors R Us stock at $50.00 per share. When the liquidity
+        taker’s order hits the exchange’s matching engine, the exchange
+        matches the two orders and executes a trade.
+               Meanwhile, the market maker will have an order bidding to
+        buy Flux Capacitors R Us stock at the same time. We can suppose
+        that the market maker also had a resting order bidding to buy Flux
+        Capacitors R Us stock at $49.95 per share. The ﬁve-cent diﬀerence
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026      Page: 8 of 49
+
+
+
+
+        8                      Opinion of the Court                  25-13631
+
+        between the quoted price to buy and to sell Flux Capacitors R Us
+        shares is the bid-ask spread.
+                The bid-ask spread and the amount of liquidity are signiﬁ-
+        cant to other investors. A tighter bid-ask spread means a better
+        price for liquidity takers. See Timpinaro v. SEC, 2 F.3d 453, 458 (D.C.
+        Cir. 1993). For instance, suppose the market maker tightened the
+        bid-ask spread by bidding to buy Flux Capacitors R Us stock at
+        $49.97 per share and oﬀering to sell at $49.98 per share (instead of
+        $49.95 and $50.00, respectively). Now, a liquidity taker trading
+        against the market maker’s bid would earn an extra two cents per
+        share it sold to the market maker. And a liquidity taker buying
+        from the market maker would pay two cents less per share. More
+        liquidity at the best bid price and best oﬀer price is also beneﬁcial
+        to investors. It means investors will have an easier time getting
+        their entire order ﬁlled at that best price. See 90 Fed. Reg. at 45872
+        col.2, 45878 col.2.
+
+                                B. Latency Arbitrage
+
+               Securities markets aren’t static, though. Far from it. Prices
+        of securities change frequently throughout the day.
+               When a security’s quoted prices or other trading activity
+        shifts on one exchange, market makers must update their orders
+        on other exchanges accordingly. See Citadel Sec., 45 F.4th at 30. So
+        market makers update their quoted prices throughout the day, as a
+USCA11 Case: 25-13631         Document: 71-1         Date Filed: 05/29/2026         Page: 9 of 49
+
+
+
+
+        25-13631                   Opinion of the Court                                9
+
+        matter of course. That’s because, as we explain later in this opin-
+        ion, keeping outdated quotes up after the market price has shifted
+        is a recipe for losing money.
+               That brings us to the issue of latency. Even though orders
+        are zipping around at the speed of light, 3 nothing occurs instanta-
+        neously. Id. at 29–30. It takes a moment (even if it’s one so brief
+        that we measure it in millionths of a second) for information from
+        Exchange A to reach a market maker, for that market maker’s algo-
+        rithm to decide to update its prices, and for its electronic message
+        updating its quotes to reach Exchange B. For example, it takes be-
+        tween 185 and 341 microseconds for information to travel between
+        securities exchanges’ data centers in New Jersey. 90 Fed. Reg. at
+        45880 col.3. We call the tiny amount of time it takes for infor-
+        mation to travel between computer systems—and for a ﬁrm’s com-
+        puters to react to it—latency.
+                And technology allows some traders to take advantage of
+        this split-second delay to make money at a signiﬁcantly lower-than-
+        usual risk. In essence, latency arbitrage permits whoever has the
+        fastest technical systems to exploit their speed advantage to the det-
+        riment of other traders in the market. The latency arbitrageur can
+
+
+
+        3 Light travels more slowly through the glass in a fiber-optic cable than it does
+
+        in a vacuum, so we’re not talking about the theoretically maximum speed a
+        reader might remember from the E = mc2 equation. See Jim Shelton, Internet
+        at the Speed of Light, Yale News (May 3, 2022), https://news.yale.edu/2022/
+        05/03/internet-speed-light [https://perma.cc/ACX8-VB7K].
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 10 of 49
+
+
+
+
+        10                     Opinion of the Court                 25-13631
+
+        eﬀectively buy (or sell) a security at a price that their counterparty
+        would no longer willingly sell (or buy) at.
+               Securities exchanges have proliferated in recent years, creat-
+        ing more sources of latency because of the time to travel between
+        diﬀerent exchanges. The SEC reports that 29 registered national
+        securities exchanges now exist. Respondent’s Br. 9, Doc. 39. Each
+        registered exchange must publicly disclose information about its
+        orders to satisfy regulatory requirements. For example, exchanges
+        must share the best-bid and best-oﬀer prices for securities available
+        on their exchange. 90 Fed. Reg. at 45867 col.1; see 17 C.F.R. §
+        242.602(a). Exchanges also provide other, proprietary market data
+        for a price. 90 Fed. Reg. at 45871 col.1.
+                Latency arbitrageurs use that data to target stale quotes in
+        the fraction of a second before a market maker can update them.
+        Those traders can then “turn around and trade those securities at
+        the newly updated national best bid or oﬀer.” Citadel Sec., 45 F.4th
+        at 30–31. So when signals from another exchange show an immi-
+        nent price change, that creates “a race condition” between “liquid-
+        ity providers who want to reprice their on-exchange displayed li-
+        quidity to reﬂect the changing market prices and the liquidity tak-
+        ers who want to take before those updates can occur.” 85 Fed. Reg.
+        54438, 54442 col.3 (Sept. 1, 2020) (“D-Limit Decision”). Latency
+        arbitrageurs combine expensive “low-latency systems, connectiv-
+        ity, and data sources” to win the race. 90 Fed. Reg. at 45871 col.1.
+               The outcome is terriﬁc for the latency arbitrageur: substan-
+        tial proﬁts with little risk. One prominent ﬁrm’s application of
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026      Page: 11 of 49
+
+
+
+
+        25-13631                Opinion of the Court                         11
+
+        high-frequency trading strategies created a “near ﬂawless winning
+        streak over four years of operation, losing money on just a single
+        day.” Yesha Yadav, Insider Information and the Limits of Insider Trad-
+        ing, 56 Wash. U. J.L. & Pol’y 135, 146 (2018). The topline numbers
+        are huge. The United Kingdom’s Financial Conduct Authority es-
+        timated that investors lose around $5 billion each year to latency
+        arbitrage in just one subset of the global securities market. See J.W.
+        Verret, Eﬀorts to Sue the SEC over Broker-Inducement Regulation Un-
+        likely to Succeed, 17 Ohio St. Bus. L.J. 180, 202 (2023).
+               But latency arbitrage has negative consequences for many
+        market makers. And that harms the market as a whole. The D.C.
+        Circuit aﬃrmed the SEC’s view that “latency arbitrage tactics” “ac-
+        tually harm the market” and function “less like an actual trade than
+        a surcharge imposed on market participants” by high-frequency
+        traders. Citadel Sec., 45 F.4th at 37. To minimize the risk that la-
+        tency arbitrageurs will pick oﬀ stale prices, market makers who
+        don’t have the fastest systems quote with a bigger bid-ask spread or
+        at a smaller size—meaning worse prices and less liquidity. 90 Fed.
+        Reg. at 45875 col.1. IEX notes the real-world impact of those de-
+        fensive actions on the options market: The number of options mar-
+        ket makers has declined over time, with less displayed liquidity for
+        each security and market makers’ spreads almost doubling over the
+        past decade. Id. at 45875 col.1.
+              These eﬀects make it harder for a retail investor (like an in-
+        dividual) or institutional investor (like a pension plan) to buy or sell
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 12 of 49
+
+
+
+
+        12                     Opinion of the Court                 25-13631
+
+        a security at a favorable price. In a sense, everyone else in the mar-
+        ket must pay a latency arbitrage “tax.” See id. at 45876 col.3 n.246.
+
+                     C. Unique Challenges in Options Markets
+
+               This case centers on options. And as we’ve mentioned, the
+        price of an option depends in signiﬁcant part on the price of the
+        underlying security. 90 Fed. Reg. at 45870 col.3 (noting that the
+        “quoted price [of an option] is derived in substantial part from the
+        price of the underlying security . . . upon which they are based”).
+                Consider again the Flux Capacitors R Us stock that a market
+        maker oﬀers for sale at $50.00 per share. Perhaps a trader thinks it
+        likely that Flux Capacitors R Us will increase in price to more than
+        $60 within the next three months. So that trader purchases an op-
+        tion that gives her the right to buy 100 shares of Flux Capacitors R
+        Us stock at $60.00 any time before a speciﬁc date three months in
+        the future. If the price of the stock increases to, say, $70.00 per
+        share in that period, the trader who bought the option can buy the
+        $70 share for $60.
+              In the Commission’s view, two key diﬀerences between the
+        options market and the equities market exacerbate the risk of la-
+        tency arbitrage in the options market.
+                First, a dizzying number of options is available. Each equity
+        can correspond to many options combining diﬀerent strike prices
+        (e.g., $55.00 and $65.00 per share) and dates (e.g., July 31 and Sep-
+        tember 30, 2026). So although U.S. exchanges list around 11,000
+        equity securities, they list around 1.5 million options. See id. at
+USCA11 Case: 25-13631        Document: 71-1         Date Filed: 05/29/2026          Page: 13 of 49
+
+
+
+
+        25-13631                   Opinion of the Court                               13
+
+        45870 col.3 n.176. 4 That is, U.S. exchanges list about 135 times
+        more options than equities. Because of the number of options,
+        options markets are less able to rely on “natural liquidity” from an-
+        other trader who coincidentally wants to trade the same security.
+        Rather, market makers play a critical role in providing liquidity, ac-
+        counting for more than 99 percent of open orders and quotes in
+        options markets. See 90 Fed. Reg. at 26888 col.2.
+               Because of the large number of options, the Commission
+        has opined that latency arbitrage is “especially acute” in options
+        markets. 90 Fed. Reg. at 45875 col.1. Each time the price of a single
+        underlying equity stock changes, market makers may need to up-
+        date prices for hundreds or even thousands of options. Id. at 45874
+        col.3.
+               The second diﬀerence between equity stocks and options is
+        that options-market participants trade on exchanges only. Id. at
+        45875 col.2. In contrast, equities traders need not necessarily go to
+        an exchange (where latency arbitrage proliferates). Unlike options
+        traders, equity traders can alternatively trade equities in an “over-
+        the-counter market.” Id. So equities investors can seek to trade in
+        environments that are less aﬀected by latency arbitrage. Options
+        investors cannot. The Commission reasoned that this diﬀerence,
+        too, justiﬁed taking action against latency arbitrage in options mar-
+        kets. Id.
+
+
+        4 Each combination of attributes such as price and expiration date is technically
+
+        called an “options series.” For simplicity, we refer simply to “options.”
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 14 of 49
+
+
+
+
+        14                     Opinion of the Court                25-13631
+
+                                   D. The Parties
+
+               Petitioner Citadel is a prominent market maker and high-
+        frequency trader in equities and options markets. In fact, by itself,
+        Citadel makes up almost a third—30 percent to be precise—of U.S.
+        consolidated equity options trading volume. See Options Trading at
+        Scale, Citadel Securities, https://www.citadelsecurities.com/what-
+        we-do/options/ [https://perma.cc/HEG8-MLCU] (last visited
+        May 15, 2026).
+               Respondent SEC is the nation’s leading regulator of securi-
+        ties markets. It oversees the “national market system” of securities
+        markets. 15 U.S.C. § 78k-1(a)(2). Under the Securities Exchange
+        Act of 1934 (“Exchange Act”), securities exchanges are self-regula-
+        tory organizations that must ﬁle their proposed rules for the Com-
+        mission’s review. 15 U.S.C. §§ 78c(a)(26), 78s(a)(1), (b)(1). The
+        Commission approves an exchange’s proposed rule if it ﬁnds the
+        proposal is consistent with the Exchange Act and related regula-
+        tions. Id. § 78s(b)(2)(C)(i)–(ii).
+               Intervenor-Respondent IEX is a securities exchange that de-
+        scribes its approach to securities trading as “combat[ting] the pred-
+        atory trading practice called ‘latency arbitrage.’” IEX gained SEC
+        approval to enter the equities market in 2016. 81 Fed. Reg. 41142,
+        41142 col.3 ( June 23, 2016). IEX’s exchange initially handled only
+        orders that aren’t publicly displayed. But in 2020, the Commission
+        approved IEX to use the same technology for publicly displayed eq-
+        uity orders. 85 Fed. Reg. at 54438 col.2. In 2022, the D.C. Circuit
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 15 of 49
+
+
+
+
+        25-13631              Opinion of the Court                       15
+
+        upheld the D-Limit Decision against a challenge from Citadel. Cit-
+        adel Sec., 45 F.4th at 31.
+
+                                  E. IEX’s Model
+
+              Since 2016, IEX has sought to address latency arbitrage in
+        the equities market. Now, IEX proposes to bring its approach to
+        options trading. In both contexts, IEX’s model has two parts.
+               The ﬁrst is hardware—an “access delay” created by a 38-mile
+        coil of ﬁber-optic cable that IEX calls its “speedbump.” All incom-
+        ing orders on IEX’s exchange, including liquidity providers’ quotes,
+        must traverse that speedbump before hitting IEX’s system for order
+        matching and trade execution. 90 Fed. Reg. at 45866 col.1. The
+        speedbump adds 350 microseconds to the time it takes incoming
+        orders to reach IEX’s system. Id.
+               The second part of IEX’s model is software that allows IEX
+        to sense imminent unfavorable price changes and to accordingly
+        cancel or reprice stale quotes. On IEX’s options exchange, IEX’s
+        proposal involves the Options Quote Indicator (“Indicator”) and
+        Options Risk Parameter (“ORP”). The Indicator applies a “quote
+        instability” calculation to real-time information about quotes on
+        eleven other exchanges. Id. at 45866 col.2. This process identiﬁes
+        impending changes to the price of an option listed on IEX’s ex-
+        change. Market makers on IEX Options may opt into having their
+        quotes protected by the ORP. If they do, and the Indicator detects
+        an imminent adverse price change, IEX Options will either cancel
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 16 of 49
+
+
+
+
+        16                    Opinion of the Court                 25-13631
+
+        the quote or reprice it to the amount IEX predicts will be the new
+        prevailing price. Id. at 45869 col.2.
+               The model’s eﬀectiveness comes from combining these two
+        features. The data traveling from other exchanges to IEX doesn’t
+        go through the speedbump. So IEX can often update a stale quote
+        before a latency arbitrageur’s order ﬁnishes traversing the 350-mi-
+        crosecond speedbump and reaches IEX’s computers. If so, the la-
+        tency arbitrageur’s order will arrive to ﬁnd no stale quote to pick
+        oﬀ.
+               IEX’s model has allowed it to carve out a modest market
+        share of the national equities market, about three percent. See id.
+        at 45879 col.2.
+
+                              F. Procedural History
+
+               IEX submitted its proposal for IEX Options (“IEX Proposal”)
+        to the SEC in January 2025. 90 Fed. Reg. at 45861 col.3. After that,
+        IEX amended its proposal three times, with the ﬁnal amendment
+        in June 2025. See id. at 45861 col.3–45862 col.1. The only material
+        diﬀerences between the IEX Proposal and rules the Commission
+        has approved for other options exchanges are the access delay that
+        the speedbump creates and the ORP. See id. at 45862 col.2.
+                Upon receipt of the IEX Proposal, the Commission solicited
+        public comment on it. Id. Commenters included competing op-
+        tions exchanges, market makers, institutional investors, elected of-
+        ﬁcials, retail investors, advocacy and trade groups, and IEX itself.
+USCA11 Case: 25-13631        Document: 71-1         Date Filed: 05/29/2026         Page: 17 of 49
+
+
+
+
+        25-13631                   Opinion of the Court                               17
+
+               On September 18, 2025, the Commission issued an order ap-
+        proving the IEX Proposal (“Approval Order”). See id. at 45862 col.1.
+        The Commission found that the IEX Proposal is consistent with the
+        Exchange Act and related regulations. See id. at 45867 col.2. And it
+        concluded that the IEX Proposal’s rules were not “designed to per-
+        mit unfair discrimination between customers, issuers, brokers, or
+        dealers,” 15 U.S.C. § 78f(b)(5); see 90 Fed. Reg. at 45867 cols.2–3, and
+        did “not impose any burden on competition not necessary or ap-
+        propriate in furtherance of the purposes of [the Exchange Act],”
+        15 U.S.C. § 78f(b)(8); see 90 Fed. Reg. at 45867 cols.2–3. The Com-
+        mission also determined that quotes subject to the ORP are “pro-
+        tected quotations” as deﬁned by the Options Order Protection and
+        Locked/Crossed Market Plan (“Options Plan”). See 90 Fed. Reg. at
+        45874 col.2.
+               A month after the Commission approved the IEX Proposal,
+        on October 17, 2025, Citadel timely ﬁled a petition in this Court for
+        review of the Commission’s Approval Order. We granted IEX’s
+        motion to intervene and set the case for expedited brieﬁng 5 and
+        oral argument.
+
+
+
+        5 In addition to the parties’ submissions, the Court received five amicus briefs.
+
+        One, supporting Citadel, came from three options exchanges that state they
+        will be “direct competitors of IEX Options.” The other four amici supported
+        the Commission. They include Professor J.W. Verret, an Associate Professor
+        of Law at George Mason University’s Antonin Scalia Law School; CTC, LLC,
+        which operates as a market maker in the options market; and two nonprofit
+        organizations: Better Markets, Inc. and Healthy Markets Association.
+USCA11 Case: 25-13631      Document: 71-1       Date Filed: 05/29/2026      Page: 18 of 49
+
+
+
+
+        18                       Opinion of the Court                  25-13631
+
+                           II.    STANDARD OF REVIEW
+
+                We review the Commission’s ﬁnal orders under the Admin-
+        istrative Procedure Act’s (“APA’s”) arbitrary-and-capricious stand-
+        ard. Am. Sec. Ass’n v. SEC, 147 F.4th 1264, 1273 (11th Cir. 2025).
+               Under that standard, we will “hold unlawful and set aside
+        agency action, ﬁndings, and conclusions” that we conclude are “ar-
+        bitrary, capricious, an abuse of discretion, or otherwise not in ac-
+        cordance with law.” 5 U.S.C. § 706(2)(A). But this standard is “ex-
+        ceedingly deferential.” City of North Miami v. Fed. Aviation Admin.,
+        47 F.4th 1257, 1266 (11th Cir. 2022) (quoting Miccosukee Tribe of In-
+        dians of Fla. v. United States, 566 F.3d 1257, 1264 (11th Cir. 2009)). A
+        “court may not substitute its own policy judgment for that of the
+        agency.” FCC v. Prometheus Radio Project, 592 U.S. 414, 423 (2021).
+        Rather, we must “simply ensure[] that the agency has acted within
+        a zone of reasonableness and, in particular, has reasonably consid-
+        ered the relevant issues and reasonably explained the decision.” Id.
+                We review the Commission’s legal conclusion de novo.
+        Orkin v. SEC, 31 F.3d 1056, 1063 (11th Cir. 1994). But we treat its
+        factual ﬁndings as conclusive if substantial evidence supports them.
+        Id.; see 15 U.S.C. § 78y(a)(4). Substantial evidence is such “relevant
+        evidence that a reasonable mind might accept as adequate to sup-
+        port a conclusion,” even if a reasonable person could also reach a
+        diﬀerent conclusion on the same record. Nat’l Parks Conservation
+        Ass’n v. U.S. Dep’t of the Interior, 835 F.3d 1377, 1384 (11th Cir. 2016)
+        (brackets omitted) (quoting Stone & Webster Constr., Inc. v. U.S. Dep’t
+        of Lab., 684 F.3d 1127, 1133 (11th Cir. 2012)).
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 19 of 49
+
+
+
+
+        25-13631                Opinion of the Court                        19
+
+                                  III.   DISCUSSION
+
+               Citadel invokes the APA and the Exchange Act to challenge
+        ﬁve of the Commission’s determinations. We take them in turn.
+
+                 A. Substantial evidence supports the Commission’s
+                                    factual findings.
+
+                We begin by determining that substantial evidence supports
+        two of the Commission’s factual ﬁndings: that latency arbitrage ex-
+        ists in and detrimentally aﬀects the options market, and that the
+        ORP activates during moments of high risk of latency arbitrage
+        without substantially impeding ordinary trading. Because substan-
+        tial evidence supports both of these ﬁndings, we must treat them
+        as conclusive. See 15 U.S.C. § 78y(a)(4).
+
+         1. Substantial evidence supports the Commission’s ﬁnding that latency
+                           arbitrage exists in the options market.
+
+               We ﬁrst address Citadel’s contention that the Commission
+        had no evidence that latency arbitrage exists in the options market.
+        Citadel asserts that the Commission simply assumed that latency
+        arbitrage is a problem in options trading. Citadel also argues that
+        this ﬁnding cannot stand because the Commission lacks the type of
+        quantitative data that supported its D-Limit Decision approving
+        IEX’s model in the equities market.
+               We disagree. Substantial evidence supports the Commis-
+        sion’s ﬁnding that latency arbitrage poses a problem in options
+        trading and disincentivizes many market makers from providing
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 20 of 49
+
+
+
+
+        20                    Opinion of the Court                25-13631
+
+        liquidity. The ﬁnding enjoys suﬃcient support from two principal
+        sources: market participants’ comment letters and the SEC’s syn-
+        thesis of its past experience addressing latency arbitrage in analo-
+        gous markets with its expert understanding of market structure.
+        Plus, Citadel’s demand for more quantitative data lacks a legal ba-
+        sis.
+              We discuss the two categories of substantial evidence sup-
+        porting the Commission’s decision, then turn to Citadel’s eﬀort to
+        require a third.
+
+              a. Comments from Market Participants
+
+               Five options market makers said in public comments that la-
+        tency arbitrage is a common and costly problem in options trading.
+        See App’x at A71 (All Options USA LLC), A76 (HAP Trading LLC),
+        A139–40 (Maven Securities); Suppl. App’x at SA52 (CTC, LLC),
+        SA68 (Volant Trading). These comments explained how latency
+        arbitrage forces market makers to widen their bid-ask spread—that
+        is, oﬀer worse prices—or reduce the liquidity they provide. See
+        App’x at A139–40 (Maven Securities); Suppl. App’x at SA52 (CTC,
+        LLC); App’x at A76 (HAP Trading LLC).
+               And these ﬁrms put money behind their views. For instance,
+        one options market maker reported needing to spend at least $10
+        million each year “to merely reduce, but not eliminate,” pickoﬀ
+        trades from latency arbitrageurs. 90 Fed. Reg. at 45877 cols.2–3.
+        Another, Volant Trading, said that “the escalating costs and arms
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 21 of 49
+
+
+
+
+        25-13631              Opinion of the Court                       21
+
+        race associated with maintaining latency competitiveness” ulti-
+        mately forced it to exit the business altogether. Suppl. App’x at
+        SA68 (Volant Trading).
+                These comments supported the Commission’s conclusion
+        that latency arbitrage negatively aﬀects the options market. 90 Fed.
+        Reg. at 45872 col.3. Indeed, the Approval Order found that the IEX
+        Proposal addresses “a legitimate disadvantage in latency arbitrage
+        faced by market makers that may lack the expensive low-latency
+        systems, connectivity, and data sources used by those engaged in
+        such strategies.” Id.
+               And the Approval Order buttressed this conclusion by look-
+        ing to comments from IEX and from institutional investors. IEX
+        compiled sources showing a sharp drop in the number of active
+        options market makers and a near-doubling of their bid-ask spreads
+        over the past ten years. See id. at 45875 col.1 (citing Letter from
+        John     Ramsay,     IEX,     at     5–6    ( June     19,    2025),
+        https://www.sec.gov/comments/sr-iex-2025-02/sriex202502-
+        615827-1806874.pdf [https://perma.cc/X2X6-JDRY]). Meanwhile,
+        a group of eight public pension funds, institutional investors, and
+        ﬁduciaries emphasized their view that latency arbitrageurs impose
+        a “tax on liquidity” that increases costs for ordinary investors.
+        Suppl. App’x at SA83.
+              The comments we’ve canvassed provide substantial evi-
+        dence that latency arbitrage is a problem in options trading. Input
+        gathered during a comment period can often provide suﬃcient sup-
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 22 of 49
+
+
+
+
+        22                     Opinion of the Court                  25-13631
+
+        port for an agency’s factual ﬁnding. See Stilwell v. Oﬀ. of Thrift Su-
+        pervision, 569 F.3d 514, 519 (D.C. Cir. 2009) (Kavanaugh, J.); accord
+        Am. Iron & Steel Inst. v. Occupational Safety & Health Admin., 182 F.3d
+        1261, 1273 (11th Cir. 1999). In fact, an important purpose of solic-
+        iting public comment is to gather information so that the agency
+        can “avoid errors and make a more informed decision.” Azar v. Al-
+        lina Health Servs., 587 U.S. 566, 582 (2019).
+               It’s notable, too, that the record contains no evidence that
+        latency arbitrage is absent from the options market. And Citadel
+        points to none. To be sure, the substantial-evidence standard does
+        not require us to resolve conﬂicts in the evidence before the Com-
+        mission. See Domestic Sec., Inc. v. SEC, 333 F.3d 239, 249 (D.C. Cir.
+        2003). But given that the agency doesn’t even need to show a pre-
+        ponderance of the evidence, Ga. Dep’t of Educ. v. U.S. Dep’t of Educ.,
+        883 F.3d 1311, 1314 (11th Cir. 2018), the fact that the evidence be-
+        fore the Commission was “uncontroverted” only bolsters the Com-
+        mission’s conclusion, 90 Fed. Reg. at 45872 col.3; cf. Prometheus Ra-
+        dio, 592 U.S. at 425 (endorsing an agency’s reliance, in part, on the
+        “the absence of any countervailing evidence”).
+
+               b. Expertise and Market Structure
+
+               In addition to information from the public, the Commission
+        relied on its experience and understanding of market structure.
+        Those bases led the Commission to conclude that latency arbitrage
+        is “especially acute” in options markets. 90 Fed. Reg. at 45875
+        cols.1–2.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 23 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        23
+
+               The SEC has robust experience with latency arbitrage in
+        electronic securities markets. As we’ve mentioned, the Commis-
+        sion has twice approved IEX proposals to apply a 350-microsecond
+        access delay and repricing-or-cancellation tool to limit latency arbi-
+        trage in the equities market. See 81 Fed. Reg. at 41142 col.3; 85 Fed.
+        Reg. at 54438 col.3.
+                And the Approval Order identiﬁes structural factors that
+        make options trading more vulnerable to latency arbitrage than the
+        equities market. As we discussed earlier, those factors include the
+        huge number of tradeable options compared to the number of un-
+        derlying securities—causing market makers to play a central role in
+        providing liquidity and requiring them to rapidly reprice numerous
+        options after a single underlying security’s price changes—and the
+        lack of oﬀ-exchange trading. 90 Fed. Reg. at 45875 cols.1–2. The
+        Commission may reasonably pair its experience in analogous secu-
+        rities markets with its understanding of unique aspects of options
+        trading that make latency arbitrage particularly concerning.
+                Citadel argues that the Commission’s past experience is ir-
+        relevant. In support of its position, Citadel highlights the diﬀerent
+        genesis of latency arbitrage in options and equities markets. In eq-
+        uities markets, latency arbitrage exploits ﬂeeting discrepancies be-
+        tween the same security’s price on diﬀerent exchanges. With op-
+        tions, latency arbitrage targets moments when the price of an op-
+        tion, a derivative security, does not yet reﬂect a change to the un-
+        derlying security’s price on another exchange.
+USCA11 Case: 25-13631       Document: 71-1       Date Filed: 05/29/2026       Page: 24 of 49
+
+
+
+
+        24                       Opinion of the Court                    25-13631
+
+               We don’t see how the diﬀerence matters. In both scenarios,
+        a price change on one exchange creates a “race condition” between
+        the market maker seeking to update its price on another exchange
+        and a latency arbitrageur trying to grab the “stale” quote. See id. at
+        45870 col.3–45871 col.1 (options market); 85 Fed. Reg. at 54442
+        col.3 (equities market).
+                But in any event, we apply a particularly deferential review
+        to matters, like this one, that implicate an agency’s technical exper-
+        tise. See Cboe Glob., 155 F.4th at 716; cf. Nat’l Min. Ass’n v. Sec’y, U.S.
+        Dep’t of Lab., 812 F.3d 843, 866 (11th Cir. 2016) (“[L]ike our col-
+        leagues on the District of Columbia Circuit, we believe it appropri-
+        ate to ‘give an extreme degree of deference to the agency when it
+        is evaluating scientiﬁc data within its technical expertise.’” (quoting
+        Kennecott Greens Creek Min. Co. v. Mine Safety & Health Admin., 476
+        F.3d 946, 954 (D.C. Cir. 2007))). We ﬁnd no fault with the agency
+        synthesizing its understanding of options market structure with its
+        past experience in analogous markets.
+
+               c. Citadel’s Demand for Quantitative Data
+
+               Last, Citadel complains that IEX did not provide the same
+        type of quantitative data that the D.C. Circuit considered persua-
+        sive in Citadel Securities. In that case, IEX showed that 24 percent
+        of trading on IEX occurs during the 0.007 percent of the day that
+        the equities version of the Indicator detects a pricing anomaly. Cit-
+        adel Sec., 45 F.4th at 33. The D.C. Circuit considered the disparity
+        to be substantial evidence that high-frequency traders engage in
+        latency arbitrage during that time. Id.
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 25 of 49
+
+
+
+
+        25-13631               Opinion of the Court                           25
+
+               But it’s no surprise that IEX didn’t provide the same type of
+        data here. IEX had an operational equities exchange before the
+        Commission approved IEX’s model in the D-Limit Decision, an or-
+        der the D.C. Circuit upheld in its Citadel Securities decision in 2022.
+        But IEX Options is not yet operational. So IEX could not use data
+        from its exchange to show the share of options trading that occurs
+        while prices are stale.
+                More importantly, though, Citadel’s argument is unsound.
+        Administrative law doesn’t constrain agencies to act only when
+        they have gold-standard quantitative data. The “APA imposes no
+        general obligation on agencies to produce empirical evidence.”
+        Stilwell, 569 F.3d at 519. Nor does the Exchange Act. Courts regu-
+        larly note that the Commission “need not—indeed cannot—base
+        its every action upon empirical data.” Nasdaq Stock Mkt. LLC v. SEC,
+        38 F.4th 1126, 1142 (D.C. Cir. 2022) (quoting Chamber of Com. of
+        U.S. v. SEC, 412 F.3d 133, 142 (D.C. Cir. 2005)). And having a partic-
+        ularly robust record in one proceeding doesn’t somehow heighten
+        the evidentiary bar for all future actions.
+
+          2. Substantial evidence supports the Commission’s ﬁnding that the
+                              ORP targets latency arbitrage.
+
+               Next, we address the Commission’s ﬁnding about how accu-
+        rately the ORP targets latency arbitrage.
+               As the Approval Order notes, the ORP applies only when an
+        option’s price is dislocated enough from the underlying stock’s
+        price to create a “high potential for latency arbitrage.” 90 Fed. Reg.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 26 of 49
+
+
+
+
+        26                     Opinion of the Court                25-13631
+
+        at 45871 col.2. The Commission found that the Indicator’s price-
+        dislocation signal will eﬀectively “target ﬁrms engaged in latency
+        arbitrage” because few ﬁrms have the capacity to target their trad-
+        ing to the microsecond-scale moments of price dislocation. Id. at
+        45871 col.2, 45882 col.1. For this same reason, the Commission de-
+        termined that the ORP generally will not aﬀect market participants
+        that aren’t engaged in latency arbitrage. Those “investors do not
+        typically trade in microseconds.” Id. at 45871 col.2. We refer to
+        these conclusions as the Commission’s “targeting” ﬁnding.
+                Citadel attacks the targeting ﬁnding in two ways. First, Cit-
+        adel argues that the ﬁnding rests entirely on a “meaningless” statis-
+        tic about the percentage of the day that the ORP could aﬀect
+        quotes. And second, Citadel insists, the Commission also acted ar-
+        bitrarily because it didn’t analyze trading data from the SEC’s Con-
+        solidated Audit Trail when it made its targeting ﬁnding. Neither
+        argument has merit.
+
+              a. Supporting Evidence
+
+               Substantial evidence supports the Commission’s targeting
+        ﬁnding. IEX produced data showing that, even under aggressive
+        assumptions, the ORP would aﬀect quotes on IEX Options “signif-
+        icantly less than 0.001% of the trading day” on average. Id. at 45881
+        col.3 (quoting 90 Fed. Reg. 26865, 26889 col.2 ( June 24, 2025)).
+        That’s so because prices are dislocated between exchanges for only
+        that small fraction of the day.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 27 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        27
+
+               And as the public comments explained, only a small number
+        of ﬁrms direct their orders to the millionths of a second when
+        prices are dislocated between exchanges. See id. at 45871 col.2 &
+        n.181. Ordinary investors typically do not. See id. Indeed, only a
+        small number of ﬁrms even have the technology to do that. So the
+        Commission was well-justiﬁed in treating IEX’s time-based data as
+        “relevant and persuasive.” Id. at 45882 col.1. IEX’s percent-of-day
+        data gave the Commission a sound basis to conclude that the ORP
+        would have a minimal impact on ordinary trading.
+               Citadel’s eﬀorts to persuade us to the contrary fail. Citadel
+        emphasizes that the ORP would aﬀect quotations for certain op-
+        tions up to 0.2 percent of the trading day. But the Commission
+        expressly considered this higher number. Id. at 45881 col.3. Still, it
+        determined that the ORP would apply only in “infrequent” condi-
+        tions. Id. at 45882 col.1. Citadel may believe that 0.2 percent of the
+        trading day is frequent. But we will not second-guess reasonable
+        determinations that, like this one, implicate an agency’s technical
+        expertise and policy-making discretion. See City of North Miami, 47
+        F.4th at 1266, 1268.
+               Citadel also contends that the Commission should have fo-
+        cused on the proportion of orders the ORP aﬀects, not the percent-
+        age of time. But the ORP targets latency arbitrage. And by their
+        very nature, latency-arbitrage orders cluster during moments
+        when quotes become stale. So it makes sense for the ORP to focus
+        on time periods. Indeed, the Commission’s Approval Order ex-
+        plains well why the Commission viewed volume-based statistics as
+USCA11 Case: 25-13631        Document: 71-1         Date Filed: 05/29/2026        Page: 28 of 49
+
+
+
+
+        28                        Opinion of the Court                       25-13631
+
+        misleading. The more eﬀective a tool is in heading oﬀ would-be
+        latency-arbitrage orders, the greater the volume of (latency-arbi-
+        trage) orders it aﬀects and the more it lowers the exchange’s ﬁll
+        rate. 6 See 90 Fed. Reg. at 45882 col.1. Yet evidence in the record
+        shows that retail investors do not and generally cannot target their
+        orders to the millionths of a second when prices are dislocated. See
+        id. at 45871 col.2 & n.181. So a reasonable mind could accept IEX’s
+        time-based data as a proxy for the share of retail orders that would
+        reach IEX Options while the ORP aﬀects stale quotes that latency
+        arbitrageurs try to pick oﬀ.
+               Citadel contends that time is a poor proxy because, it sug-
+        gests, non-latency-arbitrage orders will cluster during the micro-
+        seconds that the ORP aﬀects quotes. In Citadel’s view, investors
+        that aren’t involved in latency arbitrage trade for options most ac-
+        tively during the same millionths of a second that intense trading
+        of the underlying security dislocates equity and options prices. It’s
+        not inconceivable that this is true. But Citadel provides no evi-
+        dence for this proposition.7 And substantial evidence in the record
+
+        6 The “fill rate” is the proportion of incoming orders that execute a trade. See
+
+        90 Fed. Reg. at 45876 cols.1–2 n.237.
+        7 In fact, this argument highlights another shortcoming in Citadel’s demand
+
+        for the type of quantitative data IEX shared in the D-Limit Decision proceed-
+        ing. Without separating out latency-arbitrage trades from other trading activ-
+        ity, evidence of a high volume of trading “during the ‘small increments of
+        time’” that the ORP affects quotes would support the Commission’s determi-
+        nation that “short-term investors engage in latency arbitrage” during the fleet-
+        ing moments of price dislocation and that the ORP targets latency arbitrage.
+        Citadel Sec., 45 F.4th at 33 (quoting 85 Fed. Reg. at 54442 col.3). As the D.C.
+USCA11 Case: 25-13631         Document: 71-1          Date Filed: 05/29/2026           Page: 29 of 49
+
+
+
+
+        25-13631                    Opinion of the Court                                 29
+
+        supports the Commission’s targeting ﬁnding. Mere speculation is
+        not enough for us to disregard that evidence.
+
+                b. Consolidated Audit Trail Data
+
+                Citadel also faults the Commission for not considering data
+        from the Consolidated Audit Trail (“CAT”). 8 This data, Citadel
+        says, would deﬁnitively answer how often the ORP would aﬀect
+        retail investors’ orders. Fundamentally, this argument goes beyond
+        the substantial-evidence standard to assert that the Commission
+        acted arbitrarily and capriciously. We are not persuaded. 9
+
+
+
+        Circuit observed when reviewing the D-Limit Decision, “trading during the
+        two-millisecond moments that the crumbling quote indicator is on requires
+        either incredible chance or incredible technological advantages that permit
+        timing orders down to the microsecond. The SEC reasonably concluded that
+        the latter explanation is correct[.]” Id. We remain unsure how Citadel be-
+        lieves similar data would justify denying the IEX Proposal.
+        8 Although it doesn’t factor into our analysis, we are aware that Citadel has
+
+        twice in the past two years argued to this Court that the CAT is unlawful. In
+        fact, Citadel continues to press this argument in ongoing litigation in a diﬀer-
+        ent matter. Pet’rs’ Opposed Mot. for Stay 10–11, Am. Sec. Ass’n v. SEC, No. 26-
+        10936 (Apr. 2, 2026); see also Am. Sec. Ass’n, 147 F.4th at 1269. So it’s interesting
+        that Citadel here urges that the SEC must review CAT data before acting.
+        9 Citadel’s opening brief also asserts that the Commission should have re-
+
+        quired IEX to produce data about how frequently the ORP will activate and
+        the number of orders it will affect. Citadel abandoned this position by failing
+        to respond to the SEC’s and IEX’s counterarguments. The argument is un-
+        convincing in any event. As we explored above, the Commission competently
+        explained why it views volume-based statistics as misleading. It isn’t unrea-
+        sonable to proceed without unhelpful data.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 30 of 49
+
+
+
+
+        30                     Opinion of the Court                25-13631
+
+                The CAT contains a staggering amount of raw data. It pro-
+        cesses more than 400 billion records each day. See Respondent’s Br.
+        52, Doc. 39. But the Commission need not build an elaborate, cus-
+        tomized statistical model to process trillions of raw records every
+        time it must consider a rule proposal. See Prometheus Radio, 592 U.S.
+        at 415 (“The APA imposes no general obligation on agencies to con-
+        duct or commission their own empirical or statistical studies.”).
+               Nor would such an expectation be reasonable here, given
+        the tight time limits the Commission operates under. Generally,
+        the Commission must publish notice of an exchange’s proposed
+        rules “as soon as practicable” and then approve or disapprove them
+        within 45 days. See 15 U.S.C. § 78s(b)(1), (b)(2)(A)(i). The Commis-
+        sion may extend that review for an additional 45 days. See id.
+        § 78s(b)(2)(A)(ii).
+                Congress’s constraints on an agency’s review frame our
+        analysis. “[T]he parameters of the arbitrary and capricious stand-
+        ard of review will vary with the context of the case.” Dist. Hosp.
+        Partners, L.P. v. Burwell, 786 F.3d 46, 57 (D.C. Cir. 2015) (quoting
+        WWHT, Inc. v. FCC, 656 F.2d 807, 817 (D.C. Cir. 1981)). So
+        “[w]hether an agency has arbitrarily used deﬁcient data depends on
+        the speciﬁc facts of a particular case.” Id. Citadel doesn’t explain
+        how it would be feasible for the Commission to build a statistical
+        model to timely analyze raw CAT data, publish the resulting anal-
+        ysis for public consideration, gather comments, evaluate that input,
+        and reach a decision—all within the 90-day period. We certainly
+USCA11 Case: 25-13631         Document: 71-1          Date Filed: 05/29/2026           Page: 31 of 49
+
+
+
+
+        25-13631                    Opinion of the Court                                  31
+
+        cannot say the Commission acted arbitrarily or capriciously in not
+        doing so.
+
+                B. Quotations on IEX Options qualify as “protected.”
+
+               The third issue before us is whether quotes subject to the
+        ORP qualify as “protected” quotations. For quotes with “pro-
+        tected” status, an exchange must route certain options orders to a
+        competing exchange if that competitor has a protected quotation
+        with the best buy or sell price nationally. See Options Plan §§ 2(17),
+        (21), 5(a), 74 Fed. Reg. 39362, 39370 col.3–39371 col.2 (Aug. 6,
+        2009). Citadel urges that it was legal error for the Commission to
+        deem quotes subject to the ORP to be “protected” because they are
+        not truly “ﬁrm” quotes. But this position lacks a basis in the rele-
+        vant legal requirements.
+              Citadel makes its argument under two legal frameworks:
+        the Options Plan and Regulation NMS.
+               The Options Plan is the correct legal framework. As a re-
+        minder, the Options Plan is the Options Order Protection and
+        Locked/Crossed Market Plan. See 90 Fed. Reg. at 45874 col.2. And
+        the parties even agree that the Options Plan governs which quotes
+        are “protected” in the options market. Citadel does not dispute
+        that quotes on IEX Options will meet the deﬁnition of “Protected
+        Bid” or “Protected Oﬀer” under the Options Plan. 10 And ordinarily,
+
+        10 Under the Options Plan, a quotation is a “Protected Bid” or “Protected Of-
+
+        fer” if it (1) is publicly displayed on a qualifying securities exchange; (2) is dis-
+        seminated pursuant to the Options Price Reporting Authority Plan; and (3) is
+USCA11 Case: 25-13631        Document: 71-1        Date Filed: 05/29/2026        Page: 32 of 49
+
+
+
+
+        32                        Opinion of the Court                      25-13631
+
+        the Options Plan prohibits exchanges from executing trades at a
+        worse price (for the liquidity taker) than a protected quotation dis-
+        played on another exchange. See Options Plan §§ 2(21), 5(a)(i), 74
+        Fed. Reg. at 39370 col.3–39371 col.1. As a result, exchanges must
+        route orders to a competitor with a better quote. See id.
+               Citadel asserts that quotes on IEX Options are “non-ﬁrm”
+        quotes that should not enjoy mandatory order routing. See Op-
+        tions Plan § 5(b)(vii), 74 Fed. Reg. at 39371 col.2. The Options Plan
+        deﬁnes non-ﬁrm quotations based on an exchange’s own rules. Cit-
+        adel contends that market makers with quotes subject to the ORP
+        are “relieved from their obligations under [IEX Options’s] ﬁrm
+        quote rule” to follow through on the best price oﬀered, making
+        their quotes non-ﬁrm. Options Plan § 2(11), 74 Fed. Reg. at 39370
+        col.2.
+               This argument misses the mark. IEX’s rules identify four
+        scenarios under which quotes on its options exchange are not
+        ﬁrm.11 Citadel does not even attempt to show that any of those
+        four criteria apply. Because the deﬁnition of non-ﬁrm quotations
+
+
+        the highest-priced bid to buy or the lowest-priced offer to sell that option on
+        the exchange. Citadel does not dispute that the best-priced quotation on IEX
+        Options meets this definition even if it’s subject to the ORP.
+        11 Those four scenarios are system malfunctions, unusual market conditions
+
+        that make the market in an option “fast,” trading rotations, and when a liquid-
+        ity provider revises the quotation size or price before an order is presented.
+        See Exhibit 5 to Notice of Filing of Amendment No. 3, at 554–55,
+        https://www.sec.gov/files/rules/sro/iex/2025/34-103290-ex5.pdf
+        [https://perma.cc/JC4C-CFP8] (Proposed Rule 23.150(d)(1)).
+USCA11 Case: 25-13631       Document: 71-1        Date Filed: 05/29/2026       Page: 33 of 49
+
+
+
+
+        25-13631                 Opinion of the Court                            33
+
+        depends on an exchange’s rules, that settles the legal question.
+        Quotes subject to the ORP meet the criteria to be a “protected”
+        quotation and don’t fall within the non-ﬁrm quotation exception.
+        The Commission didn’t err in reaching this conclusion. 12
+               Citadel’s second legal framework is inapplicable. Regulation
+        NMS governs which quotations are “protected” in the equities mar-
+        ket. See 17 C.F.R. § 242.600(b)(65), (b)(81)–(82). It doesn’t apply to
+        options quotes.
+                For this reason, Citadel tries to import Regulation NMS’s re-
+        quirements by claiming that the Commission “invoked” Regula-
+        tion NMS and thus had to satisfy the regulation’s standard. Then,
+        Citadel insists that quotes on IEX Options don’t “immediately” ex-
+        ecute within the meaning of Regulation NMS. But Citadel cannot
+        alter the relevant legal standard in this way.
+                Indeed, the Approval Order explained clearly that Regula-
+        tion NMS doesn’t apply here. 90 Fed. Reg. at 45874 col.1. Speciﬁ-
+        cally, the Commission spelled out that the Options Plan has no re-
+        quirement similar to the “immediate” execution mandate that Cit-
+        adel seeks to import. Id.
+
+
+
+
+        12 At bottom, Citadel’s arguments focus more on whether quotes on IEX Op-
+
+        tions will be “firm” in a colloquial, not legal, sense. Whether IEX Options
+        quotes are firm in this looser sense goes to whether mandatory order-routing
+        rules make the IEX Proposal unfairly discriminatory or unduly burdensome
+        on competition. We consider those issues below.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 34 of 49
+
+
+
+
+        34                     Opinion of the Court                25-13631
+
+               Because neither legal framework can support its argument,
+        we reject Citadel’s assertion that the Commission made a legal er-
+        ror by deeming quotes subject to the ORP to be “protected.”
+
+             C. The Commission reasonably concluded that IEX Options
+                          will not unfairly discriminate.
+
+               Now, we turn to the Commission’s decision that the IEX
+        Proposal isn’t “designed to permit unfair discrimination between
+        customers, issuers, brokers, or dealers.” 15 U.S.C. § 78f(b)(5). Cit-
+        adel contends that this determination was arbitrary and capricious.
+        Under the APA’s deferential standard of review, we disagree.
+                No one disputes that the ORP treats market makers diﬀer-
+        ently than other market participants. In some sense, then, the ORP
+        “discriminates” between market participants. But the Exchange
+        Act “prohibits ‘unfair discrimination,’ not ‘discrimination’ sim-
+        pliciter.” Timpinaro, 2 F.3d at 456 (emphasis added). So we ask
+        whether the Commission reasonably concluded that the ORP will
+        not unfairly discriminate in favor of market makers that register
+        with IEX Options.
+               According to Citadel, IEX Options gives market makers an
+        exclusive and unfair “one-sided repricing privilege.” Citadel em-
+        phasizes that the ORP activates only when an imminent adverse
+        price change will make a market maker’s stale quote less proﬁtable.
+        The opposite isn’t true. IEX allows a stale quote to trade if an im-
+        minent favorable price change means the old price is extra lucrative
+        for a market maker. Based on this diﬀerence, Citadel portrays IEX
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026   Page: 35 of 49
+
+
+
+
+        25-13631              Opinion of the Court                      35
+
+        as helping market makers illicitly “back away” from their quotes
+        after an executable order arrives. And as Citadel repeatedly
+        stresses, SEC rules require brokers to route orders to the exchange
+        that provides the best price for an option. So Citadel claims that
+        the whole market is forced into IEX’s “rigged game.”
+               The superﬁcial appeal of Citadel’s arguments collapses on
+        inspection. First, Citadel’s concern that IEX Options would facili-
+        tate “backing away” from quotes is baseless. Second, the IEX Pro-
+        posal is an appropriate risk protection that is commensurate with
+        the risk that market makers uniquely bear. That eﬀect redounds to
+        the beneﬁt of the rest of the market. Third, the ORP’s beneﬁt to
+        market makers, speciﬁcally, is in line with the beneﬁts market mak-
+        ers receive from other exchanges’ risk protections. We are satisﬁed
+        that the Commission considered the relevant issues and reasonably
+        explained its conclusion. Prometheus Radio, 592 U.S. at 423.
+
+                        1. Citadel’s “Backing Away” Concern
+
+               Citadel contends that the IEX Proposal would unfairly allow
+        market makers to selectively “back away” from quotes at the mo-
+        ment of execution. In Citadel’s view, the IEX Proposal allows mar-
+        ket makers to “avoid losing trades” by having IEX pick and choose
+        which of their quotes an incoming order can execute against. Cit-
+        adel asserts that this “at-execution repricing privilege” “mecha-
+        nize[s] backing away on a market-wide scale.”
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 36 of 49
+
+
+
+
+        36                     Opinion of the Court                25-13631
+
+                This argument relies on two misunderstandings. To start
+        with, “backing away” refers to the practice of failing to execute or-
+        ders “after they were matched” by the exchange. In re Credit Suisse
+        Sec. (USA) LLC, No. 3-17079, Release No. 10014, 2016 WL 683553,
+        at *6 (SEC Jan. 31, 2016) (emphasis added).
+               Again, though, that’s not how the ORP functions. An in-
+        coming order doesn’t arrive at IEX Options until it ﬁnishes travers-
+        ing the speedbump. See Citadel Sec., 45 F.4th at 33 n.5. And an order
+        can’t match with a quote on IEX Options before exiting the speed-
+        bump and reaching IEX’s matching engine. If an order arrives at
+        IEX Options and matches with a quote before the Indicator turns
+        on, the ORP will have no eﬀect on whether the order executes. If
+        an order arrives at IEX Options (or any exchange) after a corre-
+        sponding quote is canceled—whether by the ORP or by a market
+        maker’s own update—no match ever occurs. And execution hap-
+        pens only after a match. So Citadel is wrong to contend that the
+        ORP is an “at-execution repricing privilege.”
+               Similarly, as the Commission has explained, the ORP simply
+        speeds up the process of price updates that the market maker
+        would be doing anyways to maintain the derivative pricing relation-
+        ship between the underlying security and the options quote. See 90
+        Fed. Reg. at 45871 col.3. The ORP’s updates occur according to
+        “predetermined, transparent, and codiﬁed rules,” as well. Id. For
+        example, the ORP is governed by a formula and methodology de-
+        scribed in IEX’s rulebook, which can be modiﬁed only through a
+        proposed rule change IEX ﬁles with the SEC. Id. at 45872 col.1. So
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 37 of 49
+
+
+
+
+        25-13631               Opinion of the Court                       37
+
+        Citadel’s repeated suggestion that IEX would exercise discretion to
+        choose which quotes to execute is just inaccurate.
+
+                        2. Broadly Beneﬁcial Risk Protection
+
+               Citadel’s more general arguments that the ORP is unfair
+        don’t persuade us, either. The Commission explained that applying
+        the ORP just to market makers is a reasonable risk protection that
+        will beneﬁt the market as a whole. The Approval Order states that
+        the ORP’s protection against latency arbitrage is “commensurate
+        with the risk uniquely undertaken by [m]arket [m]akers” because
+        of their continuous quoting obligations across a large number of
+        options. Id. at 45878 col.2.
+               Citadel responds with only one direct counterargument:
+        that the beneﬁt to market makers is excessive because latency arbi-
+        trage in options trading is a “speculative problem.” That is, Citadel
+        continues to engage in a non-denial denial of latency arbitrage’s
+        existence. But as we have explained, substantial evidence supports
+        the Commission’s latency-arbitrage ﬁnding. So we must treat the
+        Commission’s latency-arbitrage ﬁnding as conclusive.
+               Plus, market makers play a linchpin role in the options mar-
+        ket. As a result, many market participants will share in the ORP’s
+        beneﬁts. The Commission expects that the ORP will create an “in-
+        crease in displayed liquidity at competitive prices.” Id. at 45872
+        col.2. The Commission also recognized the ORP’s goal to “incen-
+        tivize market makers to quote with additional depth at potentially
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 38 of 49
+
+
+
+
+        38                     Opinion of the Court                  25-13631
+
+        improved prices, which directly beneﬁts all market participants
+        when that liquidity is available to the market.” Id. at 45878 col.2.
+               In fact, despite Citadel’s contrary arguments, this is the same
+        rationale that the D.C. Circuit gave for upholding the Commis-
+        sion’s D-Limit Decision. The court determined that the D-Limit
+        order type on IEX’s equities exchange did not unfairly discriminate
+        because it “beneﬁts all market participants.” Citadel Sec., 45 F.4th at
+        35 (quotation marks omitted). The same reasoning applies here.
+               In other words, IEX Options’s direct beneﬁts to market mak-
+        ers create indirect beneﬁts for the rest of the market. Latency ar-
+        bitrageurs, of course, are the exception. If all goes as planned, they
+        will lose their ability to take nearly risk-free proﬁts. But we strug-
+        gle to see the unfairness in making it more diﬃcult for latency ar-
+        bitrageurs to impose a unilateral “surcharge” or tax on the rest of
+        the market. Id. at 37.
+                Plus, the Commission’s “predictive market judgments”
+        about the ORP’s eﬀects implicate the Commission’s “technical ex-
+        pertise” and policymaking discretion. Cboe Glob., 155 F.4th at 716
+        (quoting AD HOC Telecomms. Users Comm. v. FCC, 572 F.3d 903, 908
+        (D.C. Cir. 2009)). So those judgments warrant particularly defer-
+        ential judicial review. Id.
+
+                      3. Other Exchanges’ Risk-mitigation Tools
+
+               The Commission also reasonably explained why the ORP is
+        consistent with risk protections it approved for other exchanges.
+        The Approval Order notes that, like IEX Options, other exchanges
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 39 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        39
+
+        confer risk protections on market makers without imposing addi-
+        tional obligations on them. 90 Fed. Reg. at 45877 col.3 & n.266.
+                And, the Commission reasoned, the ORP will keep more li-
+        quidity in the market than those other risk-mitigation tools do.
+        Many exchanges’ risk-mitigation tools cancel all quotes for a given
+        options “class”—all combinations of buy or sell, price, and expira-
+        tion date for an underlying security like Flux Capacitors R Us stock.
+        Id. at 45877 col.3. When those tools are in eﬀect, an investor would
+        be unable to trade with that market maker for any options based
+        on Flux Capacitors R Us stock until the market maker sends in new
+        quotes.
+               In contrast, the ORP reprices or cancels only a speciﬁc series
+        within a class, like an option giving the right to buy Flux Capacitors
+        R Us stock at $60.00 by August 31, 2026. Id. at 45877 col.3. The
+        Commission reasonably explained its view that this diﬀerence
+        makes the ORP more precisely targeted to latency arbitrage than
+        other risk-mitigation tools. IEX’s model keeps more liquidity avail-
+        able from “the primary source of options liquidity to the mar-
+        ket”— market makers. Id. at 45877 col.3–45878 col.1.
+              Citadel tries in two ways to distinguish the ORP from other
+        exchanges’ risk protections. First, Citadel asserts that the ORP is
+        nothing like “safeguards designed to prevent catastrophic error or
+        system failure.”
+               But this argument ignores the Approval Order’s discussion
+        of “activity-based” risk protections. See id. at 45870 col.3, 45873
+        col.3. The Commission has approved other exchanges’ activity-
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 40 of 49
+
+
+
+
+        40                    Opinion of the Court                 25-13631
+
+        based risk limits that cancel a market maker’s quotes for an option
+        when the number of executed trades for that option exceeds a pre-
+        set volume or percentage of the market maker’s orders executed
+        during a time interval. See, e.g., 87 Fed. Reg. 5592, 5625 cols.2–3
+        (Feb. 1, 2022) (approving activity-based risk controls for options
+        trading on NYSE Arca, Inc.). So Citadel’s premise, that the Com-
+        mission has approved only “[t]raditional risk tools” that cancel all
+        outstanding orders or halt trading on an exchange-wide basis, is
+        wrong. The Commission reasonably concluded that approving the
+        ORP is consistent with its prior precedent of approving other ex-
+        changes’ risk-mitigation rules. See 90 Fed. Reg. at 45878 cols.2–3.
+               Second, Citadel contends that the ORP uniquely allows mar-
+        ket makers to cancel oﬀers that a liquidity taker is attempting to
+        accept because, on a “trade-speciﬁc basis,” the price is unfavorable
+        to the market maker. But that’s not how the ORP works. The ORP
+        cancels stale quotes without regard to whether any trader is at-
+        tempting to trade against those quotes.
+
+             D. The Commission reasonably concluded that IEX Options
+                   will not impose an undue burden on competition.
+
+              The last issue we must resolve relates to the Commission’s
+        conclusion that the IEX Proposal doesn’t “impose any burden on
+        competition not necessary or appropriate in furtherance of the
+        purposes of [the Exchange Act].” 15 U.S.C. § 78f(b)(8).
+                Citadel raises four reasons to conclude that the Commis-
+        sion’s conclusion was arbitrary and capricious: two procedural and
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 41 of 49
+
+
+
+
+        25-13631               Opinion of the Court                         41
+
+        two substantive. We address each asserted reason in turn. But un-
+        der our deferential review, none of Citadel’s arguments succeed.
+
+                               1. Procedural Concerns
+
+               Citadel’s ﬁrst procedural argument relies on American Equity
+        Investment Life Insurance Co. v. SEC, 613 F.3d 166 (D.C. Cir. 2010). In
+        Citadel’s view, American Equity teaches that “[d]etermining whether
+        a burden on competition is ‘necessary or appropriate’ under Sec-
+        tion 6(b)(8) [of the Exchange Act] naturally requires assessing ﬁrst
+        the competitive conditions that already exist.” And, Citadel contin-
+        ues, American Equity requires the Commission to make an expan-
+        sive set of factual ﬁndings to establish a competitive “baseline” be-
+        fore acting.
+               We aren’t convinced. Beyond being an out-of-circuit deci-
+        sion, American Equity had nothing to do with Section 6(b)(8) of the
+        Exchange Act, 15 U.S.C. § 78f(b)(8), which is at issue here. Rather,
+        American Equity addressed Section 2(b) of the Exchange Act, which
+        applies to SEC rulemaking. See 613 F.3d at 176–78. Unlike Section
+        6(b)(8), Section 2(b) requires the Commission to consider “whether
+        the action will promote eﬃciency, competition, and capital for-
+        mation.” 15 U.S.C. § 77b(b). And rulemaking doesn’t operate un-
+        der a tight time limit like the 45 (or 90) days to review exchanges’
+        proposed rules.
+               Nor do we read American Equity the way that Citadel does.
+        In that case, the Commission had determined that its rule would
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026      Page: 42 of 49
+
+
+
+
+        42                      Opinion of the Court                  25-13631
+
+        be procompetitive by increasing disclosure of ﬁxed indexed annui-
+        ties’ terms. Am. Equity, 613 F.3d at 178. More price transparency,
+        the Commission reasoned, meant more competition. Id. But the
+        Commission refused to consider whether state laws already re-
+        quired the same level of price transparency. See id. So the court
+        faulted the Commission for failing to “assess the baseline level of
+        price transparency and information disclosure under state law.” Id.
+        (emphasis added). That’s one factor that aﬀects competition. But
+        we see no general requirement in American Equity to benchmark
+        every aspect of competition in a market before issuing an order.
+               Citadel’s second procedural argument never gets oﬀ the
+        starting blocks. On reply, Citadel proposes that the Commission
+        must consider “less intrusive alternatives” before concluding that a
+        burden on competition is “appropriate.” But Citadel never raised
+        this argument in its opening brief. At most, it alluded to the “less
+        intrusive alternative” concept in its Statement of the Case.
+                A litigant forfeits an issue if she does not “‘plainly and prom-
+        inently’ raise it in her opening brief.” LaCourse v. PAE Worldwide
+        Inc., 980 F.3d 1350, 1360 (11th Cir. 2020) (quoting Access Now, Inc. v.
+        Sw. Airlines Co., 385 F.3d 1324, 1330 (11th Cir. 2004)). “[S]cattered
+        references” in the background section of an opening brief do not
+        raise a legal issue clearly enough to avoid forfeiture. Id. So Citadel
+        forfeited this argument.
+               And even if Citadel had properly raised the issue, it would
+        fail. Legally, Citadel provides no authority showing that the Com-
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 43 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        43
+
+        mission must assess “less intrusive alternatives” here. That require-
+        ment would ﬁt uneasily with the Commission’s obligation to pro-
+        vide a quick up-or-down answer on a discrete rule proposal. 15
+        U.S.C. § 78s(b)(2). Plus, Citadel’s view would clash with the subsid-
+        iary role of competition in the Exchange Act. The statute gives no
+        cause to hold that “the Commission must achieve its objectives in
+        the least anticompetitive manner possible.” Bradford Nat’l Clearing
+        Corp. v. SEC, 590 F.2d 1085, 1105 (D.C. Cir. 1978).
+                Worse, Citadel doesn’t establish that its proposed less intru-
+        sive alternatives were even possible. The only comment Citadel
+        cites spelling out the alternatives—its own—proposed that the
+        Commission should do one of two things. The Commission could
+        (a) “clarify[]” that quotes subject to the ORP are non-ﬁrm under
+        the Options Plan or (b) amend the Options Plan to carve out IEX
+        Options from mandatory order routing. See App’x at A131. But
+        again, quotes subject to the ORP don’t meet the Options Plan’s def-
+        inition of non-ﬁrm quotations. And the Commission doesn’t have
+        discretion to issue a legally erroneous “clariﬁcation.” Citadel also
+        identiﬁes no statute authorizing the Commission to pause the clock
+        on its rule-proposal review while it embarks on a rewrite of a foun-
+        dational regulation like the Options Plan.
+
+                              2. Substantive Concerns
+
+              Next, we turn to Citadel’s substantive arguments. We think
+        the Commission reasonably concluded that the IEX Proposal
+        would increase, not burden, competition. We need decide no more
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 44 of 49
+
+
+
+
+        44                     Opinion of the Court                25-13631
+
+        to reject Citadel’s competition-related arguments. But the Com-
+        mission also explained its view that the IEX Proposal would further
+        the Exchange Act’s goals. Both reasons support the Commission’s
+        determination that the IEX Proposal doesn’t impose any burden on
+        competition that isn’t necessary or appropriate to further the Ex-
+        change Act’s purposes. 15 U.S.C. § 78f(b)(8). So under the arbi-
+        trary-and-capricious standard, we reject Citadel’s challenge to this
+        part of the Approval Order.
+               Our analysis proceeds in three parts. We ﬁrst address com-
+        petition among exchanges, then among market makers, and we ﬁn-
+        ish with the purposes of the Exchange Act.
+
+              a. Competition Among Exchanges
+
+               Citadel repeatedly urges that other exchanges “cannot com-
+        pete” against a venue with an access delay and price-update tool
+        like IEX Options.
+                But IEX’s experience in the equities market dispels Citadel’s
+        fears. As we’ve mentioned, IEX directly modeled IEX Options on
+        IEX’s equities oﬀering. Both feature an identical 350-microsecond
+        access delay and substantially similar tools to cancel or reprice
+        quotes in ﬂeeting moments of price instability. And like IEX Op-
+        tions’s quotes, IEX’s equity quotes are protected, too. Yet IEX holds
+        only a three-percent market share among equities exchanges. See
+        90 Fed. Reg. at 45879 col.2. That’s nothing to sneeze at, but it’s no
+        sign that other exchanges cannot compete.
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026    Page: 45 of 49
+
+
+
+
+        25-13631               Opinion of the Court                       45
+
+               The Commission persuasively explained that options ex-
+        changes can continue to compete “through functionality, fees, or
+        otherwise.” Id. at 45879 col.2. Additionally, real-world experience
+        in the equities market saw at least one other equities exchange in-
+        troduce a similar access delay after IEX launched. To “stimulate
+        matching innovation by others” is “the very essence of competi-
+        tion.” FTC v. Procter & Gamble Co., 386 U.S. 568, 598 (1967) (Harlan,
+        J., concurring). In sum, the Commission gave a satisfactory expla-
+        nation for rejecting commenters’ fears that the IEX Proposal would
+        unduly burden competition among options exchanges.
+
+              b. Competition Among Market Makers
+
+               Citadel also contends that the IEX Proposal will harm com-
+        petition among market makers. It complains that IEX Options
+        would simply “subsidize market makers that decline to modern-
+        ize” by investing in ultra-high-speed trading technology.
+               The Commission reached a diﬀerent conclusion and pro-
+        vided reasonable grounds for its view. The Approval Order states
+        the ORP will “facilitate competition between market makers” by
+        addressing the disincentive that latency arbitrage poses to being a
+        market maker. 90 Fed. Reg. at 45872 col.2. Not only that, but the
+        Commission also expressed its expectation that the ORP will result
+        in “increased competition and liquidity provision by the primary
+        source of options liquidity to the market,” meaning market mak-
+        ers. Id. at 45878 col.1.
+USCA11 Case: 25-13631      Document: 71-1      Date Filed: 05/29/2026     Page: 46 of 49
+
+
+
+
+        46                     Opinion of the Court                  25-13631
+
+                The Commission had a robust basis to conclude that limit-
+        ing latency arbitrage would spur market makers to add more
+        quotes at better prices. See App’x at A139–40 (Maven Securities);
+        Suppl. App’x at SA52 (CTC, LLC); App’x at A76 (HAP Trading
+        LLC). And it goes without saying that adding pressure to oﬀer bet-
+        ter prices promotes competition. See Jacobs v. Tempur-Pedic Int’l,
+        Inc., 626 F.3d 1327, 1339 (11th Cir. 2010). So, too, does increasing
+        the number of quotes. Nat’l Collegiate Athletic Ass’n v. Bd. of Regents
+        of Univ. of Okla., 468 U.S. 85, 103 (1984) (noting that increased out-
+        put in a market is procompetitive).
+               Commenters said that the ORP would lower “technological
+        barriers to entry” and bring more competitors into the market. 90
+        Fed. Reg. at 45877 col.1. These are procompetitive outcomes, as
+        well. See FTC v. Univ. Health, Inc., 938 F.2d 1206, 1219 (11th Cir.
+        1991) (discussing barriers to entry); United States v. Apple, Inc., 791
+        F.3d 290, 331 (2d Cir. 2015) (discussing potential beneﬁts of new
+        entrants to market). And the Commission considered these com-
+        ments.
+               Conversely, the Commission had grounds to conclude that
+        latency arbitrage is part of a negative-sum “technological arms
+        race” that harms competition. 90 Fed. Reg. at 45874 col.3, 45877
+        col.2. Competition, after all, is “a process of rivalry that incentiv-
+        izes businesses to oﬀer lower prices, improve wages and working
+        conditions, enhance quality and resiliency, innovate, and expand
+        choice” for their trading partners. U.S. Dep’t of Just. & Fed. Trade
+USCA11 Case: 25-13631     Document: 71-1      Date Filed: 05/29/2026     Page: 47 of 49
+
+
+
+
+        25-13631               Opinion of the Court                        47
+
+        Comm’n, Merger Guidelines 1 § 1 (2023), https://www.jus-
+        tice.gov/atr/media/1329301/dl [https://perma.cc/V4WJ-XKST].
+        But evidence in the record shows that the status quo latency-arbi-
+        trage arms race raises prices and reduces liquidity for options inves-
+        tors—the opposite of what we’d expect from healthy competition.
+        See App’x at A139–40 (Maven Securities); Suppl. App’x at SA52
+        (CTC, LLC); App’x at A76 (HAP Trading LLC). And according to
+        the record, ordinary investors aren’t clamoring for their trades to
+        execute a millionth of a second faster. See 90 Fed. Reg. at 45880
+        col.1.
+               To be sure, Citadel’s competitive position may worsen if
+        other market makers can compete more vigorously and latency ar-
+        bitrageurs can no longer take advantage of stale prices. But that’s
+        beside the point. The Commission evaluates burdens on competi-
+        tion, not threats to the position of a single competitor. See Nasdaq
+        Stock Mkt. LLC v. SEC, 34 F.4th 1105, 1113 (D.C. Cir. 2022).
+               We need not decide whether the Commission’s competitive
+        assessment is the best possible reading of the evidence. The APA
+        directs us to ask merely whether the Commission’s conclusion was
+        arbitrary and capricious. It was not. The Commission reasonably
+        concluded that the IEX Proposal would increase competition
+        among market makers.
+
+              c. Purposes of the Exchange Act
+
+              The Commission’s reasonable rejection of commenters’
+        concerns that the IEX Proposal would burden competition is
+USCA11 Case: 25-13631      Document: 71-1       Date Filed: 05/29/2026      Page: 48 of 49
+
+
+
+
+        48                      Opinion of the Court                   25-13631
+
+        enough to resolve this issue. Without a burden on competition,
+        there can’t be a competitive burden that isn’t “necessary or appro-
+        priate” to further the Exchange Act’s purposes. 15 U.S.C.
+        § 78f(b)(8).
+              But even if Citadel could show that the IEX Proposal bur-
+        dened competition, Citadel would falter at the next step. The Com-
+        mission had a sound basis to decide that promoting other goals of
+        the Exchange Act outweighed any burdens on competition.
+                 The Commission concluded that the ORP should “increase
+        . . . liquidity at competitive prices, which facilitates fair competition
+        and economically eﬃcient executions for investors.” 90 Fed. Reg.
+        at 45872 col.2. Eﬃcient trade execution is a core goal of the Ex-
+        change Act. See 15 U.S.C. §§ 78c(f ), 78k-1(a)(1)(C)(i). Given the
+        Commission’s expertise in this complex area, we cannot fault it for
+        crediting market makers’ views that reducing latency arbitrage will
+        lead to more liquidity—and thus more eﬃcient execution. And for
+        the reasons we’ve already reviewed, the Commission reasonably
+        explained its view that the IEX Proposal would promote fair com-
+        petition among market makers. See id. §§ 78c(f ), 78f(b)(5).
+               Finally, the Approval Order furthers the Exchange Act’s con-
+        cern for “the protection of investors.” Id. §§ 78c(f ), 78k-1(a)(1)(C).
+        Preventing the most well-resourced market participants from ex-
+        tracting a “surcharge” from retail investors, Citadel Sec., 45 F.4th at
+        37, promotes that goal. So, too, does allowing investors to have
+        access to greater liquidity, “potentially at improved prices.” 90 Fed.
+        Reg. at 45879 col.2.
+USCA11 Case: 25-13631     Document: 71-1     Date Filed: 05/29/2026    Page: 49 of 49
+
+
+
+
+        25-13631              Opinion of the Court                       49
+
+               In short, we readily conclude that the Commission’s undue-
+        burden conclusion falls “within a zone of reasonableness” after it
+        “considered the relevant issues and reasonably explained [its] deci-
+        sion.” Prometheus Radio, 592 U.S. at 423.
+
+                                IV.   CONCLUSION
+
+              For the reasons we have discussed, Citadel’s petition for re-
+        view of the Approval Order is DENIED.
+

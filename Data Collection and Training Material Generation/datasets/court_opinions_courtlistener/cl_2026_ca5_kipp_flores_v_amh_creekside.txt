@@ -1,0 +1,2052 @@
+Case: 23-50750          Document: 88-1      Page: 1     Date Filed: 08/21/2026
+
+
+
+
+           United States Court of Appeals
+                for the Fifth Circuit                                   United States Court of Appeals
+                                ____________                                     Fifth Circuit
+
+                                                                               FILED
+                                 No. 23-50750                            August 21, 2026
+                                ____________
+                                                                          Lyle W. Cayce
+                                                                               Clerk
+Kipp Flores Architects, L.L.C.,
+
+                                                           Plaintiff—Appellant,
+
+                                      versus
+
+AMH Creekside Development, L.L.C.; American Homes 4
+Rent; American Housing Ventures, L.L.C.,
+
+                                           Defendants—Appellees.
+                  ______________________________
+
+                  Appeal from the United States District Court
+                       for the Western District of Texas
+                            USDC No. 5:21-CV-1158
+                  ______________________________
+
+Before Haynes, Willett, and Oldham, Circuit Judges.
+Don R. Willett, Circuit Judge:*
+       This case presents multiple questions of first impression under the
+Architectural Works Copyright Protection Act (AWCPA) and the Digital
+Millenium Copyright Act (DMCA)—two 1990s amendments to the
+Copyright Act of 1976. But a thorny jurisdictional issue comes first: whether
+the district court’s order dismissing only part of this case under Federal Rule
+
+       _____________________
+       *
+           Judge Haynes concurs only in the judgment.
+Case: 23-50750         Document: 88-1     Page: 2    Date Filed: 08/21/2026
+
+
+
+
+                                 No. 23-50750
+
+
+of Civil Procedure 41(a)(2)—despite that rule’s text referring only to
+dismissal of “an action”—undermines our appellate jurisdiction.
+       Although the district court erred by dismissing only part of an action
+under Rule 41(a)(2), that error does not deprive us of appellate jurisdiction.
+Assured of our jurisdiction, we AFFIRM the district court’s dismissal of
+plaintiff Kipp Flores Architects, L.L.C.’s DMCA claims but VACATE
+the dismissal of the copyright infringement claims and REMAND for
+further proceedings.
+                             I. Background
+   A. Factual Background
+       Kipp Flores Architects, LLC (KFA) is an architecture firm that
+designs buildings and produces technical drawings depicting those buildings.
+As relevant here, KFA has registered copyrights in three building plans, as
+well as technical drawings for one of the three.
+       In January 2016, KFA entered into a licensing agreement with
+American Housing Ventures, LLC (“AHV”) that allowed AHV to use
+specific KFA architectural works and technical drawings for construction
+and marketing within a 50-mile radius of Austin, Texas. The agreement
+required AHV to include KFA’s copyright management information
+(CMI)—including KFA’s name, the copyright symbol, and the date of first
+publication—on any displays of KFA’s works. It also provided that “[a]ny
+publication of [KFA]’s works without this Copyright Management
+Information, or any removal or alteration of the Copyright Management
+information on existing copies, will be unauthorized and a violation of the
+Digital Millenium Copyright Act.”
+       When KFA sent copies of its works to AHV for use in two Austin-
+area developments, the works included the following copyright notice:
+
+
+
+
+                                      2
+Case: 23-50750      Document: 88-1       Page: 3   Date Filed: 08/21/2026
+
+
+
+
+                               No. 23-50750
+
+
+      All rights reserved. © 2002 Kipp, Flores Architects LLC. The
+      arrangements depicted herein are the sole property of Kipp,
+      Flores Architects, and may not be reproduced in any form
+      without its written permission. This copyright notice and use
+      restrictions are “Copyright Management Information” under
+      the Digital Millenium Copyright Act. It is included to detect
+      and deter copyright infringement, and as such must not be
+      modified or omitted.
+      As part of the marketing for the two developments, AHV enlisted
+AGS Graphics and BluEnt to create floorplan drawings and elevation
+renderings of the KFA works, respectively. KFA then began working
+directly with AGS Graphics and BluEnt, executing limited use agreements
+with each company and providing them with copies of the works. Like
+KFA’s agreement with AHV, its agreements with AGS Graphics and
+BluEnt required KFA’s copyright notice to appear on all copies of KFA’s
+works, including copies used in marketing and advertising. The complaint
+does not allege that AHV saw KFA’s agreements with AGS Graphics and
+BluEnt.
+      AGS Graphics and BluEnt then produced floorplan drawings and
+renderings for AHV based on KFA’s works. However, those drawings and
+renderings did not include KFA’s copyright notice or otherwise mention
+KFA. AHV then constructed buildings embodying KFA’s copyrighted
+architectural works in the two Austin-area developments. By 2018, each of
+KFA’s works had been built at least once.
+      In late 2017, AHV informed KFA that it intended to use the licensed
+works for a third development—Creekside Ranch in New Braunfels,
+Texas—which was owned by AMH Creekside and for which AHV served
+as the development manager. In April 2019, KFA, AHV, and AMH
+Creekside agreed to partially assign AHV’s right to use KFA’s copyrighted
+works to AMH Creekside. Under this agreement, AMH Creekside agreed
+
+
+
+
+                                     3
+Case: 23-50750       Document: 88-1      Page: 4   Date Filed: 08/21/2026
+
+
+
+
+                                No. 23-50750
+
+
+to “accept[] and assume[] all of the terms, benefits, and obligations” that
+belonged to AHV under the original licensing agreement between KFA and
+AHV “with respect to” Creekside Ranch.
+      AHV then sent the floorplans and renderings that AGS Graphics,
+and BluEnt had produced to AMH Creekside and American Homes for Rent
+(AMH Creekside’s parent company). AMH Creekside and American
+Homes for Rent (collectively, “the Creekside defendants”) then used the
+floorplans and renderings in internet marketing.
+      When KFA discovered these marketing materials, it sent AHV and
+the Creekside defendants a notice of default alleging that they had violated
+the terms of the original licensing agreement and the assignment by
+publishing copies of floorplans and renderings based on KFA’s copyrighted
+works without including KFA’s copyright information. About two months
+later, KFA sent the Creekside defendants a notice of termination,
+terminating the licensing agreement and demanding that AMH Creekside
+cease using KFA’s works and return all copies of KFA’s plans, drawings,
+and other materials that incorporated KFA’s designs.
+   B. Procedural History
+      When AMH Creekside did not return KFA’s materials, KFA filed
+this suit, naming AHV and the Creekside defendants. The amended
+complaint included four counts: violation of the DMCA, copyright
+infringement, conversion, and specific performance. AHV and the
+Creekside defendants filed separate motions to dismiss, which the district
+court granted in part. The district court dismissed KFA’s DMCA and
+conversion claims against all defendants. It also dismissed KFA’s
+infringement claim against AMH Creekside entirely, against AHV to the
+extent it was premised on contributory infringement, and against American
+Homes for Rent to the extent it was premised on direct infringement.
+
+
+
+
+                                     4
+Case: 23-50750             Document: 88-1          Page: 5       Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+However, the court did not dismiss KFA’s specific-performance claim
+against AMH Creekside or its infringement claim to the extent it relied on a
+direct infringement theory against AHV and a contributory infringement
+theory against the Creekside defendants.
+       Concluding that its remaining claims were not worth pursuing, KFA
+filed a motion to voluntarily dismiss its remaining claims with prejudice.
+KFA asked the district court to enter final judgment so that it could appeal
+the partial dismissal. The defendants did not oppose the request, and the
+district court granted it and entered judgment dismissing KFA’s claims with
+prejudice. KFA then appealed.
+                                   II. Jurisdiction
+       Before reaching the merits, we must assure ourselves of jurisdiction.
+Although the parties agree we have it, we must examine the question sua
+sponte and discuss it “when it appears at all questionable.”1
+       Here, the procedural posture presents a potential obstacle. Voluntary
+motions to dismiss like the one KFA filed in the district court are governed
+by Rule 41(a).2 That rule, however, permits dismissal of “an action,” which
+under our precedent means “an entire action—not particular claims.”3
+Thus, Rule 41(a) did not authorize the district court to dismiss only KFA’s
+remaining claims. And we have held that a purported dismissal under Rule
+41(a)(1) that dismisses only particular claims is a “nullity”4 that leaves those
+
+
+
+       _____________________
+       1
+           Odeco Oil & Gas Co., Drilling Div. v. Bonnette, 4 F.3d 401, 403 n.2 (5th Cir. 1993).
+       2
+           See Fed. R. Civ. P. 41(a).
+       3
+           Bailey v. Shell W. E&P, Inc., 609 F.3d 710, 720 (5th Cir. 2010).
+       4
+           Williams v. Taylor Seidenbach, Inc., 958 F.3d 341, 345 (5th Cir. 2020) (en banc).
+
+
+
+
+                                               5
+ Case: 23-50750            Document: 88-1          Page: 6      Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+claims “still pending in [the] district court”—depriving the resulting
+judgment of finality (and us of jurisdiction).5
+        Nevertheless, jurisdiction here is proper. Although an invalid Rule
+41(a)(1) dismissal is a nullity that cannot confer jurisdiction, the logic
+underlying that principle does not apply to invalid Rule 41(a)(2) dismissals.
+Because Rule 41(a)(1) dismissals occur by operation of the rule, they happen
+only if the rule’s requirements are satisfied. Rule 41(a)(2) dismissals, by
+contrast, occur by order of the court. And like any other erroneous dismissal,
+they occur even if they are erroneous. Thus, while an erroneous Rule 41(a)(2)
+dismissal may provide a basis for reversing a judgment, it does not provide a
+basis for dismissing an appeal.
+    A. Rule 41(a)
+        I begin by reiterating a well-established principle. Voluntary dismissal
+is governed by Rule 41(a). Both of Rule 41(a)’s subparts speak solely of
+dismissing “an action.”6 And we have long held that “when Rule 41(a) refers
+to [d]ismissal of an ‘action,’ there is no reason to suppose that the term is
+intended to include the separate claims which make up an action.”7 Thus,
+although we have allowed plaintiffs to use Rule 41(a) to dismiss all claims
+against a particular defendant “despite the fact that the case would remain
+
+
+
+
+        _____________________
+        5
+            Exxon Corp. v. Md. Cas. Co., 599 F.2d 659, 663 (5th Cir. 1979).
+        6
+            See Fed. R. Civ. P. 41(a)(1)(A) (“[T]he plaintiff may dismiss an action without
+[a] court order . . . .” (emphasis added)); Fed. R. Civ. P. 41(a)(2) (“Except as provided
+in Rule 41(a)(1), an action may be dismissed at the plaintiff’s request only by court
+order . . . .” (emphasis added)).
+        7
+            Exxon Corp., 599 F.2d at 662 (emphasis and citation omitted).
+
+
+
+
+                                               6
+ Case: 23-50750           Document: 88-1          Page: 7       Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+pending against another defendant,”8 we have consistently rejected attempts
+to use Rule 41(a) to dismiss only “some claims against a single defendant.”9
+        The district court violated that principle by granting KFA’s motion
+to dismiss under Rule 41(a)(2) even though it sought dismissal of only some
+claims against each defendant.10 When a plaintiff wants to take some (but not
+all) of their claims out of play, they must resort to another mechanism—such
+as an amended complaint under Rule 15.
+    B. Jurisdictional Implications
+        Answering the Rule 41(a) question does not, by itself, answer the
+jurisdictional one. Ordinarily, a judgment is not an unappealable nullity
+merely because it rests on a misapplication of the Federal Rules of Civil
+Procedure.11 So, for example, if a district court dismisses a case under Rule
+12(b)(6) based on lack of evidence for plaintiffs’ claims—despite Rule
+12(b)(6)’s exclusive focus on the allegations in the complaint12—we do not
+throw up our hands and declare the mistake beyond our power to correct. We
+
+
+        _____________________
+        8
+            Id. (discussing Plains Growers, Inc. ex rel. Florists’ Mut. Ins. Co. v. Ickes-Braun
+Glasshouses, Inc., 474 F.2d 250 (5th Cir. 1973)); see also Williams, 958 F.3d at 345 (“[O]ur
+circuit precedents interpret ‘action’ to cover individual defendants—thus allowing
+plaintiffs . . . to use Rule 41(a) to dismiss individual defendants.” (citations omitted)).
+        9
+          CBX Res., L.L.C. v. ACE Am. Ins. Co., 959 F.3d 175, 177 n.1 (5th Cir. 2020); see
+also Bailey, 609 F.3d at 729; Exxon Corp., 599 F.2d at 662.
+        10
+          On this point, at least, there is no daylight between my position and that of the
+dissent. See infra, at 41 (Oldham, J., dissenting) (“Thus, the district court could not
+have dismissed Kipp Flores’s remaining claims under Rule 41.”).
+        11
+          Cf. N.Y. Life Ins. Co. v. Brown, 84 F.3d 137, 143 (5th Cir. 1996) (“A judgment is
+not void merely because it is erroneous.” (citation omitted)).
+        12
+           See Ferrer v. Chevron Corp., 484 F.3d 776, 782 (5th Cir. 2007) (“[A] 12(b)(6)
+inquiry focuses on the allegations in the pleadings, not whether a plaintiff actually has
+sufficient evidence to succeed on the merits.”).
+
+
+
+
+                                              7
+ Case: 23-50750             Document: 88-1           Page: 8       Date Filed: 08/21/2026
+
+
+
+
+                                          No. 23-50750
+
+
+assert jurisdiction and correct the error.13 So too if a district court flouts Rule
+56(a) by weighing the evidence itself rather than leaving that task to the
+factfinder: we do not sit idly by—we reverse.14 Generally, when the district
+court dismisses a claim based on a misapplication of the Federal Rules, that
+dismissal is a reversible error, not an unappealable nullity.
+        That rule stems from a bedrock principle of jurisdiction: the
+Constitution gives Congress—and only Congress—the power to “expand or
+retract the limits of federal judicial power.”15 Thus, “only statutory
+provisions . . . ,       not     ‘court-made’         procedural        rules”      “can       be
+jurisdictional.”16 And letting a district court’s misapplication of the Rules
+strip us of jurisdiction to correct it would defeat the very purpose of appellate
+review—“correcting errors that occurred at the trial court level”17—by
+insulating errors from review simply because they are erroneous. Thus, the
+general rule is that the district court’s misapplication of the Rules does not
+affect our jurisdiction.18
+
+        _____________________
+        13
+             See, e.g., Molzan v. Bellagreen Holdings, L.L.C., 112 F.4th 323, 333 (5th Cir. 2024).
+        14
+             See, e.g., Caldas & Sons, Inc. v. Willingham, 17 F.3d 123, 128 (5th Cir. 1994).
+        15
+           Murphy v. Uncle Ben’s, Inc., 168 F.3d 734, 741 (5th Cir. 1999); see also Anthology,
+Inc. v. Tarrant Cnty. Coll. Dist., 136 F.4th 549, 553 (5th Cir. 2025) (“Only Congress and
+the Constitution define—and thus can limit—the jurisdiction of federal courts.”).
+        16
+             Stelly v. Duriso, 982 F.3d 403, 407 n.5 (5th Cir. 2020) (quoting Hamer v.
+Neighborhood Hous. Servs. of Chi., 583 U.S. 17, 19 (2017)). True, rulemaking under § 101 of
+the Federal Courts Administration Act of 1992 (FCAA), 28 U.S.C. § 1292(e), can define
+finality for purposes of appellate jurisdiction. But the last substantive change to Rule 41(a)
+occurred long before the FCAA was adopted, so the FCAA does not provide a basis for
+concluding that the promulgation of Rule 41(a) limited our jurisdiction.
+        17
+             Goodwin v. Johnson, 132 F.3d 162, 174 (5th Cir. 1997).
+        18
+           The dissent disagrees, pointing to four supposed counterexamples: (1) erroneous
+denials of motions to dismiss, (2) motions for summary judgment, (3) motions for partial
+final judgment, and (4) motions to certify an interlocutory appeal. See infra, at 44
+(Oldham, J., dissenting). As the dissent rightly notes, none of those erroneous denials
+
+
+
+
+                                                 8
+ Case: 23-50750               Document: 88-1       Page: 9       Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+        In Exxon Corp. v. Maryland Casualty Co., however, we held that invalid
+Rule 41(a)(1) dismissals fall outside the general rule.19 In Exxon Corp., the
+district court dismissed one of the plaintiff’s two claims and denied the
+request for a partial final judgment under Rule 54(b).20 The plaintiff then filed
+a notice of dismissal purporting to unilaterally dismiss the second claim under
+the portion of Rule 41(a)(1) allowing a plaintiff to voluntarily dismiss his case
+before the opposing party files an answer or a motion for summary
+judgment.21 On appeal, this court held that the notice of dismissal was invalid
+because it dismissed only one claim, not the entire action.22 As a result, the
+court dismissed the appeal for lack of jurisdiction, reasoning that the plaintiff
+“had no power unilaterally to withdraw the second claim from its
+complaint,” so “the second claim [was] still pending in district court.”23
+        Unlike Exxon Corp., this case involves a purported dismissal under
+Rule 41(a)(2), not Rule 41(a)(1). That difference matters. Whereas a Rule
+
+
+
+
+        _____________________
+triggers appellate jurisdiction. But that only proves the principle the dissent rejects: in each
+of the dissent’s examples, our jurisdiction turns on what the district court did, not on
+whether it did it erroneously. So, for example, we generally lack jurisdiction over denials of
+motions to dismiss—whether the denial was correct or erroneous. The dissent is right that
+“errors [do] not give appellate jurisdiction.” Infra, at 44 (Oldham, J., dissenting)
+(emphasis added). But it is wrong to suggest that the district-court error here is enough to
+deprive us of appellate jurisdiction over an otherwise appealable final judgment.
+        19
+             See 599 F.2d at 663.
+        20
+             Id. at 660–61.
+        21
+          Id. at 661. When Exxon was decided, this portion of Rule 41(a)(1) was labeled
+Rule 41(a)(1)(i). See id.; Fed. R. Civ. P. 41(a)(1)(i) (1976). It has since been restyled—
+without substantive changes—as Rule 41(a)(1)(A)(i). See Fed. R. Civ. P. 41(a)(1)(A)(i).
+        22
+             Exxon Corp., 599 F.2d at 662.
+        23
+             Id. at 663.
+
+
+
+
+                                               9
+Case: 23-50750            Document: 88-1           Page: 10     Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+41(a)(1) dismissal is “immediately self-effectuating,”24 Rule 41(a)(2)
+requires a court order.25 Thus, under Rule 41(a)(1) the plaintiff’s filing “is
+the legally operative act of dismissal,”26 while under Rule 41(a)(2) the court
+order is.
+        Although Exxon Corp.’s reasoning on the jurisdictional question is
+scant, it appears to rest on precisely this distinction. The reason we
+concluded that the plaintiff’s remaining claim was “still pending in [the]
+district court” was because the plaintiff “had no power unilaterally to
+withdraw” it.27 In other words, because Rule 41(a)(1) dismissals occur only
+by operation of rule, they occur only when the rule’s preconditions are
+triggered. By contrast, a Rule 41(a)(2) dismissal occurs if—but only if—the
+court so orders. Thus, the “alpha and omega” of a Rule 41(a)(1) dismissal is
+“the doing of the plaintiff alone”28 (and if the plaintiff does not take the right
+steps, the dismissal never occurs), whereas the alpha and omega of a Rule
+41(a)(2) dismissal is the court order. And like every other species of court
+order, Rule 41(a)(2) dismissal orders do not cease to exist merely because
+they are erroneous.
+
+
+
+
+        _____________________
+        24
+           Qureshi v. United States, 600 F.3d 523, 525 (5th Cir. 2010); see also Waetzig v.
+Halliburton Energy Servs., Inc., 604 U.S. 305, 308 (2025) (explaining that a Rule 41(a)
+dismissal is “effective without any court action”).
+        25
+          Fed. R. Civ. P. 41(a)(2) (“Except as provided in Rule 41(a)(1), an action may
+be dismissed at the plaintiff’s request only by court order . . . .”).
+        26
+             Derr v. Swarek, 766 F.3d 430, 440 (5th Cir. 2014) (cleaned up).
+        27
+             Exxon Corp., 599 F.2d at 663.
+        28
+             Qureshi, 600 F.3d at 525.
+
+
+
+
+                                              10
+Case: 23-50750             Document: 88-1           Page: 11    Date Filed: 08/21/2026
+
+
+
+
+                                          No. 23-50750
+
+
+        It is true that we have twice phrased Exxon Corp.’s rule as though it
+applied to all Rule 41(a) dismissals.29 In Williams v. Taylor Seidenbach, Inc.,
+we cited Exxon Corp. for the proposition that “an invalid Rule 41(a) dismissal
+is a nullity.”30 And in National Horsemen’s Benevolent and Protective Ass’n v.
+Black, we observed that a purported Rule 41(a) dismissal “was invalid”
+because “[o]ur precedent” (namely, Exxon Corp.) “does not allow” using
+Rule 41(a) to dismiss only particular claims.31
+        On closer inspection, both statements are dicta twice over. First, they
+are dicta because they addressed situations not before the court in either
+case.32 In Williams, our paraphrase of Exxon occurred in a portion of the
+opinion expressly set off as dicta; we expressly noted that “we ha[d] no
+occasion” to reach the issue discussed.33 And in National Horsemen’s, our
+comment was a straightforward application of Exxon Corp. in its natural
+habitat—a Rule 41(a)(1) dismissal.34 Second, they are dicta because neither
+remark was necessary to the result.35 In both Williams and National
+
+
+        _____________________
+        29
+           See Nat’l Horsemen’s Benevolent & Protective Ass’n v. Black, 53 F.4th 869, 878
+(5th Cir. 2022); Williams v. Taylor Seidenbach, Inc., 958 F.3d 341, 345 (5th Cir. 2020) (en
+banc).
+        30
+             Williams, 958 F.3d at 345.
+        31
+             Nat’l Horsemen’s, 53 F.4th at 878.
+        32
+           See Connecticut v. Doehr, 501 U.S. 1, 30 (1991) (Rehnquist, C.J., concurring)
+(describing dicta as language in an opinion “discuss[ing] abstract and hypothetical
+situations not before” a court).
+        33
+             Williams, 958 F.3d at 345.
+        34
+          See Nat’l Horsemen’s, 53 F.4th at 875 (noting that the plaintiff filed a “notice
+dismissing [its] claim”).
+        35
+          See Perez v. Stephens, 784 F.3d 276, 281 (5th Cir. 2015) (defining obiter dictum as
+“a judicial comment that is unnecessary to the decision in the case and therefore not
+precedential” (cleaned up)).
+
+
+
+
+                                               11
+Case: 23-50750             Document: 88-1           Page: 12     Date Filed: 08/21/2026
+
+
+
+
+                                          No. 23-50750
+
+
+Horsemen’s, we found appellate jurisdiction proper.36 Any observation about
+potential jurisdictional problems that did not rear their heads cannot have
+been necessary to finding jurisdiction, and such observations are therefore
+“not precedential.”37 And not only are the statements in Williams and
+National Horsemen’s dicta, they are unreasoned dicta: Williams simply cited
+Exxon Corp., and National Horsemen’s simply cited Exxon Corp. and
+Williams.38
+        But even if the isolated statements in these cases could be considered
+part of the holding, it still would not support extending Exxon Corp. to Rule
+41(a)(2) dismissals. “It is a maxim not to be disregarded, that general
+expressions, in every opinion, are to be taken in connection with the case in
+which those expressions are used. If they go beyond the case, they may be
+respected, but ought not to control the judgment in a subsequent suit when
+the very point is presented for decision.”39 Placing decisive weight on the use
+of the term “Rule 41(a)” instead of “Rule 41(a)(1)” in cases that discussed
+Rule 41(a)(1) would be to “parse[]” “the language of an opinion . . . as
+though we were dealing with the language of a statute.”40 That is not a proper
+way of reading precedents.
+        Rather, it is “a judicial decision’s reasoning—its ratio decidendi—that
+allows it to have life and effect in the disposition of future cases.”41 As
+
+        _____________________
+        36
+             See Williams, 958 F.3d at 349; Nat’l Horsemen’s, 53 F.4th at 879.
+        37
+             Perez, 784 F.3d at 281 (citation omitted).
+        38
+             See Williams, 958 F.3d at 345; Nat’l Horsemen’s, 53 F.4th at 878 & n.15.
+        39
+          Cohens v. Virginia, 19 U.S. (6 Wheat.) 264, 399 (1821); accord Olivier v. City of
+Brandon, 607 U.S. 552, 565 (2026).
+        40
+             Brown v. Davenport, 596 U.S. 118, 141 (2022) (cleaned up).
+        41
+             Ramos v. Louisiana, 590 U.S. 83, 104 (2020) (opinion of Gorsuch, J.).
+
+
+
+
+                                               12
+Case: 23-50750               Document: 88-1            Page: 13      Date Filed: 08/21/2026
+
+
+
+
+                                            No. 23-50750
+
+
+explained above, Exxon Corp.’s reasoning does not extend to Rule 41(a)(2).
+An errant dismissal order is miles away from no dismissal order at all.
+Erroneous though it may have been, the district court’s judgment evinced its
+“inten[t] to have nothing further to do[] with . . . the case.”42 For purposes
+of our jurisdiction, that is all that matters.
+                                III. Standard of Review
+          Assured that we have jurisdiction, I turn to the merits. We review a
+Rule 12(b)(6) dismissal de novo.43 To survive a Rule 12(b)(6) motion to
+dismiss, a complaint must satisfy Rule 8(a)(2)’s pleading standard—that is,
+it must contain “a short and plain statement of the claim showing that the
+pleader is entitled to relief.”44 That requires the complaint to “contain
+sufficient factual matter, accepted as true, to state a claim to relief that is
+plausible on its face.”45 Although affirmative defenses must ordinarily be
+pleaded in an answer,46 “[d]ismissal under Rule 12(b)(6) may be appropriate
+based on a successful affirmative defense, provided that the affirmative
+defense appears on the face of the complaint.”47
+                                       IV. Discussion
+          Because KFA has abandoned its specific-performance claim, its
+direct-infringement claim against AHV, and its contributory-infringement
+claim against the Creekside defendants, I consider only the remaining claims.
+          _____________________
+          42
+               Ueckert v. Guerra, 38 F.4th 446, 450 (5th Cir. 2022) (cleaned up).
+          43
+               See, e.g., Favre v. Sharpe, 117 F.4th 342, 346 (5th Cir. 2024).
+          44
+               Fed. R. Civ. P. 8(a)(2); see Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555
+(2007).
+          45
+               Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (cleaned up).
+          46
+               See Fed. R. Civ. P. 8(c)(1).
+          47
+               In re 3 Star Props., L.L.C., 6 F.4th 595, 604 (5th Cir. 2021) (citation omitted).
+
+
+
+
+                                                  13
+Case: 23-50750             Document: 88-1            Page: 14      Date Filed: 08/21/2026
+
+
+
+
+                                          No. 23-50750
+
+
+    A. Copyright Infringement
+        The district court dismissed KFA’s copyright infringement claims,
+relying on § 120(a) of the AWCPA.48 Because this is our court’s first brush
+with the AWCPA,49 I begin with a brief account of its history.50
+        “Historically, copyright law provided limited protection to works of
+architecture.”51 Although “architectural plans, blueprints, and technical
+drawings, as well as original, creative sketches” could be protected as
+“pictorial, graphic, and sculptural” (PGS) works, the “architectural
+structures themselves” received no copyright protection.52 As a result,
+copyrights in the architectural plans did not “clothe their author with the
+exclusive right to reproduce the dwelling pictured.”53
+        Change came when the United States joined the Berne Convention
+for the Protection of Literary and Artistic Works, which “requires protection
+for ‘works of . . . architecture’ as distinct from ‘illustrations, maps, plans,
+sketches and three-dimensional works relative to . . . architecture.’”54 In
+        _____________________
+        48
+             See 17 U.S.C. § 120(a).
+        49
+            In a previous case involving KFA, an insurer argued that § 120(a) protected
+another homebuilder’s use of KFA’s designs. See Mid-Contintent Cas. Co. v. Kipp Flores
+Architects, L.L.C., 602 F. App’x 985, 998 (5th Cir. 2015). However, we did not address the
+merits of the argument. See id.
+        50
+           See United States v. Moore, 71 F.4th 392, 395 (5th Cir. 2023) (explaining that
+“[s]tatutory history, the record of enacted changes Congress made to the relevant statutory
+text over time,” is part of the “context” from which “text should never be divorced”
+(cleaned up)).
+        51
+             T-Peg, Inc. v. Vt. Timber Works, Inc., 459 F.3d 97, 109 (1st Cir. 2008).
+        52
+           Scholz Design, Inc. v. Sard Custom Homes, LLC, 691 F.3d 182, 188 (2d Cir. 2012);
+see also T-Peg, Inc., 459 F.3d at 109 (“[A]rchitectural structures themselves were afforded
+virtually no protection.”).
+        53
+             Imperial Homes Corp. v. Lamont, 458 F.2d 895, 899 (5th Cir. 1972).
+        54
+             T-Peg, Inc., 459 F.3d at 109 (citation omitted).
+
+
+
+
+                                                14
+Case: 23-50750            Document: 88-1              Page: 15   Date Filed: 08/21/2026
+
+
+
+
+                                            No. 23-50750
+
+
+1988, Congress passed the Berne Convention Implementation Act (BCIA),
+which redefined PGS works to expressly “includ[e] architectural plans.”55
+However, the BCIA “did not explicitly extend protection to ‘architectural
+works,’ as distinct from architectural plans.”56
+       That change came two years later, with the passage of the AWCPA.
+Rather than tinker with definitions, the AWCPA added “architectural
+works” as their own category of copyrightable works.57 It defined an
+“architectural work” as “the design of a building as embodied in any tangible
+medium of expression, including a building, architectural plans, or
+drawings,” including “the overall form as well as the arrangement and
+composition of spaces and elements in the design.”58
+       After the AWCPA, therefore, architecture enjoys “two forms of
+protection.”59 First, under the BCIA, “architectural plans” can qualify as
+PGS works and thus qualify for protection under § 102(a)(5)—provided
+they meet the other elements of a PGS work.60 Second, “architectural
+works” receive independent protection under § 102(a)(8).61 Because KFA
+alleges copyrights of both types, I consider each in turn.
+       But while the AWCPA gave “architectural works” a broad
+definition,62 it also imposed a limitation on the protection for such works:
+
+       _____________________
+       55
+            Pub. L. 100–568, 102 Stat. 2853, 2854, § 4(a)(1)(A) (codified at 17 U.S.C. § 101).
+       56
+            T-Peg, Inc., 459 F.3d at 109.
+       57
+            Pub. L. 101–650, 104 Stat. 5089, 5133, § 703 (codified at 17 U.S.C. § 102(a)(8)).
+       58
+            17 U.S.C. § 101.
+       59
+            T-Peg, Inc., 459 F.3d at 109.
+       60
+            17 U.S.C. § 101; see id. § 102(a)(5).
+       61
+            Id. § 102(a)(8).
+       62
+            See T-Peg, Inc., 459 F.3d at 110.
+
+
+
+
+                                                 15
+Case: 23-50750               Document: 88-1           Page: 16      Date Filed: 08/21/2026
+
+
+
+
+                                           No. 23-50750
+
+
+§ 120(a), which is at the heart of this appeal.63 Because this case requires me
+to parse § 120(a)’s text, I reproduce it in full:
+          The copyright in an architectural work that has been
+          constructed does not include the right to prevent the making,
+          distributing, or public display of pictures, paintings,
+          photographs, or other pictorial representations of the work, if
+          the building in which the work is embodied is located in or
+          ordinarily visible from a public place.64
+          1. PGS Works
+          First, KFA argues that the district court erred by applying § 120(a) to
+PGS works. I agree. Although § 120(a) limits a copyright holder’s exclusive
+rights under § 102(a)(8), it leaves § 102(a)(5) rights untouched.
+          Begin with the text—“the alpha and the omega of the interpretive
+process.”65 By its terms, § 120(a) limits only “[t]he copyright in an
+architectural work that has been constructed.”66 It says nothing about PGS
+works—a silence both deafening and dispositive. Because we cannot
+second-guess Congress’s choice not to legislate any more than we can
+second-guess its choice to legislate, we must think twice—maybe thrice—
+before construing a statute that speaks of only one thing to cover others as
+well.67
+
+          _____________________
+          63
+           See Leicester v. Warner Bros., 232 F.3d 1212, 1217 (9th Cir. 2000) (“Congress did
+not afford architectural works full copyright protection; rather, it exempted the making of
+pictorial representations of architectural works from copyright infringement.”).
+          64
+               17 U.S.C. § 120(a).
+          65
+               United States v. Maturino, 887 F.3d 716, 723 (5th Cir. 2018).
+          66
+               17 U.S.C. § 120(a) (emphasis added).
+          67
+         See Antonin Scalia & Bryan A. Garner, Reading Law 93 (2012)
+(“[A] matter not covered is to be treated as not covered.”).
+
+
+
+
+                                                 16
+Case: 23-50750             Document: 88-1           Page: 17     Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+        Section 120’s heading—“Scope of exclusive rights in architectural
+works”—further supports this conclusion.68 To be sure, statutory headings
+“cannot substitute for the operative text.”69 But they are undoubtedly part
+of the “context” from which that “text should never be divorced.”70
+Accordingly, they are a useful “tool[] . . . for the resolution of a doubt about
+the meaning of a statute.”71 If § 120(a)’s text left any doubt that it limits only
+the scope of a copyright holder’s exclusive right in an architectural work—
+but not a PGS work—the heading resolves it.
+        Because § 120(a) applies only to architectural works, the district court
+erred in using it to dismiss KFA’s claims based on its PGS works.
+        2. Architectural Works
+        That leaves KFA’s architectural works, which are undoubtedly
+limited by § 120(a). The remaining question, therefore, is whether the
+floorplans and digital renderings generated by AGS Graphics and BluEnt fall
+within § 120(a)’s safe harbor. They do.
+               a. Pictorial Representations
+        KFA argues first that the floorplans and digital renderings fall outside
+§ 120(a) because they are not “pictorial representations.” I disagree.
+        First, the ordinary meaning of “pictorial representations” clearly
+covers the floorplans and digital renderings. In the relevant sense, the noun
+
+
+        _____________________
+        68
+             See id. at 221 (“The title and headings are permissible indicators of meaning.”).
+        69
+          Fla. Dep’t of Revenue v. Piccadilly Cafeterias, Inc., 554 U.S. 33, 47 (2008); accord
+Scalia & Garner, supra, at 222 (“[A] title or heading should never be allowed to
+override the plain words of a text.”).
+        70
+             Moore, 71 F.4th at 395 (cleaned up).
+        71
+             Dubin v. United States, 599 U.S. 110, 121 (2023) (cleaned up).
+
+
+
+
+                                               17
+Case: 23-50750           Document: 88-1            Page: 18      Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+“representation”—a nominalization72 of the verb “represent,” which
+ordinarily means “to portray or depict; [or] present the likeness of, as a
+picture does”73—is defined as “[a]n image, likeness, or reproduction in some
+manner of a thing”74 or simply “[t]hat which represents.”75 And “pictorial”
+is defined as “[c]onsisting of, expressed in, or of the nature of, a picture or
+
+
+
+
+        _____________________
+        72
+           A nominalization—also known as a zombie noun—is “a verb that has been
+buried in a longer noun.” Bryan A. Garner, Garner’s Modern English
+Usage 983 (2016). Or, more technically, a nominalization is “[t]he conversion of a part
+of speech into a nominal”—that is, “[a] word, clause, or phrase that is functionally
+equivalent to a noun.” Id. at 1016. Because nominalizations can often be swapped out for
+the verbs they nominalize, see id. at 983, the meaning of the underlying verb can provide a
+useful clue to the meaning of the nominalization. Cf. Janus Cap. Grp., Inc. v. First Derivative
+Traders, 564 U.S. 135, 142 (2011).
+        73
+            Represent, The Random House Dictionary of the English
+Language 1634 (2d unabridged ed. 1987); see also Represent, The American
+Heritage Dictionary of the English Language 1104 (William Morris ed.,
+2d ed. 1980) [hereinafter American Heritage Dictionary, 2d]; Represent,
+13 The Oxford English Dictionary 658 (J.A. Simpson & E.S.C. Weiner eds.,
+2d ed. 1989) (“To exhibit by means of painting, sculpture, etc; to portray, depict,
+delineate.”); Represent, Webster’s New World College Dictionary 1139
+(Victioria Neufeldt & David B. Guralnik eds., 3d ed. 1996) (“to be a likeness or image of,
+as a picture or statue may be”).
+        74
+           Representation, 13 The Oxford English Dictionary, supra, at 658; see
+also Representation, Webster’s New World College Dictionary, supra, at 1139
+(“a likeness, image, or picture”); Representation, Webster’s New World College
+Dictionary, supra, at 1139 (“a likeness, image, picture, etc.”).
+        75
+          Representation, American Heritage Dictionary, 2d, supra, at 1104; see
+also Representation, The American Heritage Dictionary of the English
+Language 1532 (3d ed. 1996) [hereinafter American Heritage Dictionary,
+3d] (“Something that represents.”).
+
+
+
+
+                                              18
+Case: 23-50750             Document: 88-1             Page: 19   Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+pictures,”76 or simply “[i]llustrated by pictures.”77 “Picture,” in turn,
+ordinarily means “[a]ny visible image, especially one on a flat surface.”78 On
+first blush, therefore, the floorplans and digital renderings would seem to
+qualify. Each is an “image, likeness, or reproduction” that “represents” the
+buildings KFA designed, and they do so via visible images.
+        KFA, however, argues for a narrower definition of “pictorial
+representations,” pointing to the Eighth Circuit’s decision in Designworks
+Homes, Inc. v. Columbia House of Brokers Realty, Inc., which held that § 120(a)
+does not apply to floorplans.79 Though acknowledging that “floorplans might
+possibly qualify as ‘pictorial representations’ according to the contemporary
+definitions of those terms,” Designworks concluded that “the broader
+
+        _____________________
+        76
+           Representation, 11 Oxford English Dictionary, supra, at 783; see also
+Pictorial, American Heritage Dictionary, 2d, supra, at 991 (“Pertaining to,
+characterized by, or composed of pictures.”); Pictorial, American Heritage
+Dictionary, 3d, supra, at 1370 (“Relating to, characterized by, or composed of
+pictures.”); Pictorial, Merriam-Webster’s Collegiate Dictionary 879 (10th
+ed. 1993) (“of, relating to, or consisting of pictures”); Pictorial, The Random House
+Dictionary of the English Language, supra, at 1465 (“pertaining to, expressed
+in, or of the nature of a picture”); Webster’s New World College
+Dictionary, supra, at 1022 (“of, containing, or expressed in pictures”).
+        77
+             Pictorial, American Heritage Dictionary, 3d, supra, at 1370.
+        78
+           Picture, American Heritage Dictionary, 2d, supra, at 991; see also
+Picture, American Heritage Dictionary, 3d, supra, at 1370 (“A visual
+representation or image painted, drawn, photographed, or otherwise rendered on a flat
+surface.”); Picture, Merriam-Webster’s Collegiate Dictionary, supra,
+at 880 (“a design or representation made by various means (as painting, drawing, or
+photograph”); Picture, The Random House Dictionary of the English
+Language, supra, at 1465 (“a visual representation of a person, object, or scene, as a
+painting, drawing, photograph, etc.” or “any visible image, however produced”); Picture,
+Webster’s New World College Dictionary, supra, at 1022 (“an image or
+likeness of an object, person, or scene produced on a flat surface, esp. by painting, drawing,
+or photograph”).
+        79
+             9 F.4th 803, 811 (8th Cir. 2021).
+
+
+
+
+                                                 19
+Case: 23-50750             Document: 88-1          Page: 20      Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+statutory context” pointed in the other direction.80 Instead, it limited
+“pictorial representations” to those “created for [artistic] reasons” as
+opposed to those that merely “serve a functional purpose.”81
+        I agree with Designworks on one thing: “[i]n textual interpretation,
+context is everything.”82 I disagree, however, that § 120(a)’s context—
+whether “the specific context in which [the phrase] appears” or “the
+broader context of the statute as a whole”83—supports a crabbed
+interpretation of “pictorial representations.”
+        Start with the specific context. The twin principles of noscitur a sociis
+(“it is known by its associates”)84 and ejusdem generis (“of the same kind or
+class”)85 form the backbone of Designworks’ reasoning.86 Noscitur a sociis
+(also known as the associated-words canon)87 “teaches that a word is given
+
+
+        _____________________
+        80
+             Id. at 808.
+        81
+             Id.
+        82
+           Antonin Scalia, Common-Law Courts in a Civil-Law System: The Role of United
+States Federal Courts in Interpreting the Constitution and Laws, in A Matter of
+Interpretation: Federal Courts and the Law 37 (new ed. 1997); see also
+Scalia & Garner, supra, at 167 (“Context is a primary determinant of meaning.”);
+Biden v. Nebraska, 600 U.S. 477, 511 (2023) (Barrett, J., concurring) (“To strip a word
+from its context is to strip that word of its meaning.”); Alana Frederick & Kevin Newsom,
+Meaning, Understanding, and Contextual Textualism, 135 Yale L.J. 2614, 2626 (2026)
+(“[B]ecause ordinary people understand language in context, judges should likewise
+interpret language in context—in all of its convoluted, multifaceted glory.”).
+        83
+             Fischer v. United States, 603 U.S. 480, 486 (2024) (cleaned up).
+        84
+             Scalia & Garner, supra, at 195.
+        85
+             RSBCO v. United States, 104 F.4th 551, 557 n.3 (5th Cir. 2024) (citation
+omitted).
+        86
+             See Designworks, 9 F.4th at 808–10.
+        87
+             See Scalia & Garner, supra, at 195.
+
+
+
+
+                                              20
+Case: 23-50750             Document: 88-1            Page: 21   Date Filed: 08/21/2026
+
+
+
+
+                                            No. 23-50750
+
+
+more precise content by the neighboring words with which it is associated.”88
+Ejusdem generis is merely a specific application of noscitur a sociis.89 It “applies
+when [Congress] has tacked on a catchall phrase”—here “other pictorial
+representations”—“at the end of an enumeration of specifics.”90 And it
+suggests that we should read such formulations as though the word “similar”
+was     inserted        after     “other”         (here,   “other    similar     pictorial
+representations”).91
+        These canons are not magic. They simply reflect “common sense
+intuition[s]” about how Congress speaks (and how ordinary people
+understand).92 For example, most people would intuitively understand that a
+sign posted at a zoo “that reads, ‘do not pet, feed, yell or throw objects at the
+animals, or otherwise disturb them’” does not cover “a visitor [who] eats
+lunch in front of a hungry gorilla”—even though “the smell of human
+food . . . might well disturb gorillas.”93 Why? Because “the specific
+
+
+
+        _____________________
+        88
+             Fischer, 603 U.S. at 487 (cleaned up).
+        89
+                See 2A Norman Singer & Shambie Singer, Sutherland
+Statutes and Statutory Construction § 47.17 (7th ed. 2025) (“Ejusdem
+generis . . . is a variation of the maxim noscitur a sociis.”).
+        90
+             Scalia & Garner, supra, at 199.
+        91
+             Id.
+        92
+           Fischer, 603 U.S. at 487; see Scalia & Garner, supra, at 199 (“This canon
+parallels common usage.”); Abbe R. Gluck & Lisa Schultz Bressman, Statutory
+Interpretation from the Inside—An Empirical Study of Congressional Drafting, Delegation, and
+the Canons: Part I, 65 Stan. L. Rev. 901, 933 (2013) (finding that surveyed legislative
+drafters know and employ the concepts underlying noscitur a sociis and ejusdem generis);
+Kevin Tobia, Brian G. Slocum, & Victoria Nourse, Statutory Interpretation from the Outside,
+122 Colum. L. Rev. 213, 258–60 (2022) (finding empirical evidence that noscitur a sociis
+and ejusdem generis reflect ordinary understanding).
+        93
+             Fischer, 603 U.S. at 487–88.
+
+
+
+
+                                                21
+Case: 23-50750            Document: 88-1              Page: 22   Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+examples . . . all involve direct interaction with and harassment of the zoo
+animals.”94
+       However, noscitur a sociis and ejusdem generis must be wielded with
+care. Because “everything is similar in infinite ways to everything else,”95 it
+can be difficult to identify the relevant similarities between the surrounding
+words that might shed light on the term at issue.96 If a list includes “lions,
+tigers, and other animals,” is the relevant class “wildcats” or “all dangerous
+wild animals”?97 Our task is to “ask what category would come into the
+reasonable person’s mind.”98
+       Here, the full list includes “pictures, paintings, photographs, or other
+pictorial        representations            of        the   [architectural]        work.”99
+Designworks identified the relevant similarity—the “certain quality” that the
+items in the list have in common—as “artistic expression,” as juxtaposed
+against “functional purpose[s].”100 I disagree; while some pictures and
+photographs are produced for artistic purposes, others are (like the floorplans
+and renderings here) chiefly utilitarian. Consider a crime scene photograph,
+for example: it is produced not as a means of artistic expression but as a means
+of preserving evidence. Similarly, a picture might be artistic—or it might be
+functional. While every item on the list can include artistic expression, the
+       _____________________
+       94
+            Id. at 488.
+       95
+            N.Y. State Rifle & Pistol Ass’n v. Bruen, 597 U.S. 1, 29 (2022) (cleaned up).
+       96
+           See Scalia & Garner, supra, at 207 (“[T]he doctrine often gives rise to the
+question how broadly or narrowly to define the class delineated by the specific items
+listed.”).
+       97
+            See id. at 207–08.
+       98
+            Id. at 208.
+       99
+            17 U.S.C. § 120(a).
+       100
+             Designworks, 9 F.4th at 808.
+
+
+
+
+                                                 22
+Case: 23-50750            Document: 88-1             Page: 23   Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+only one that arguably connotes such expression is “paintings.” But even
+assuming that “paintings” carries that connotation, one item does not a
+pattern make. And a catchall like “other pictorial representations” takes its
+color from the enumeration as a whole, not from its least representative
+member. That a single listed term—“paintings”—may lean artistic no more
+shrinks the catchall to artistic works than it turns the neighboring
+“photographs” into an artistic-only term. Instead, the common thread is the
+one the text itself identifies: pictures, paintings, and photographs are all
+pictorial—they all illustrate the work via pictures.
+       Designworks also appealed to the broader context. It pointed to two
+“alternative terms” that appear elsewhere in the Copyright Act and would
+have more clearly included floorplans.101 But neither of the alternative terms
+Designworks proposed would have been a substitute for “other pictorial
+representations.” First, Designworks pointed to § 101’s use of “technical
+drawings, including architectural plans” as part of the definition of PGS
+works.102 Second, it pointed to the reappearance of the term “technical
+drawing” in the definition of a “work of visual art.”103 But there is an obvious
+reason that “technical drawing” could not have substituted for a broad
+reading of “other pictorial representations”: Congress meant to include both
+functional, technical representations and artistic expression, not just one or
+the other.
+       If Congress used the term “primary colors,” we would never assume
+it meant only blue and yellow simply because the word “red” appeared in a
+related statute. The better inference would be that Congress meant “red” to
+
+       _____________________
+       101
+             Id. at 807–08.
+       102
+             Id. at 807 (quoting 17 U.S.C. § 101).
+       103
+             Id. (quoting 17 U.S.C. § 101).
+
+
+
+
+                                              23
+Case: 23-50750              Document: 88-1          Page: 24   Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+refer only to red and “primary colors” to refer to a broader set of which red
+is merely one member. The same inference is appropriate here: by referring
+to “other pictorial representations,” Congress meant not to exclude
+technical, functional images but to include them alongside artistic
+expression.104 Congress’s use of a broader term cannot justify a narrower
+interpretation.
+        Far from justifying a narrower, artistic-only reading of “other pictorial
+representations,” the broader statutory context refutes that interpretation.
+The term “pictorial representation” appears four other times in the
+copyright statute.105 Under the Copyright Act, the author of an “original
+design” that makes a “useful article” “attractive or distinctive in appearance
+to the purchasing or using public” may obtain copyright protection for that
+design.106 Under § 1310(h), registering such a copyright requires the author
+to submit “a drawing or other pictorial representation of the useful article
+embodying the design.”107 This pictorial representation is then included in
+the certificate of registration and made available to the public by the
+Copyright Administrator.108
+        Why is this significant? Because the pictorial representations
+§ 1310(h) envisions are not created for an artistic purpose. Rather they are
+“part of the application” for registration—a solely utilitarian function.109
+        _____________________
+        104
+            Cf. Scalia & Garner, supra, at 170 (“If [a statute] says land in one place
+and real estate later, the second provision presumably includes improvements as well as raw
+land.”).
+        105
+              See 17 U.S.C. §§ 1310(h), 1314, 1315(a)–(b).
+        106
+              Id. § 1301(a)(1).
+        107
+              Id. § 1310(h).
+        108
+              Id. §§ 1314, 1315.
+        109
+              Id. § 1310(h).
+
+
+
+
+                                               24
+Case: 23-50750             Document: 88-1         Page: 25   Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+Interpreting “pictorial representations” in § 120(a) to refer solely to
+non-utilitarian images would therefore require us to assume that Congress
+used the term differently in § 120(a) than it did in § 1310(h)—an assumption
+courts should not make lightly.110
+        Designworks musters one final argument in favor of its artistic-only
+interpretation. Section 120(a) applies only “if the building in which the work
+is embodied is located in or ordinarily visible from a public place.”111 And, as
+Designworks observes, “[f]loorplans typically stem from someone’s access to
+the interior of the building” rather than from “features of a building [that]
+are discernible from the outside.”112 Thus, Designworks inferred, “Congress
+did not appear to be directing § 120(a) toward floorplans.”113 But this
+argument at most proves that Congress did not specifically contemplate
+applying § 120(a) to floorplans. It says nothing about whether floorplans fall
+within the category Congress selected—“pictorial representations.” “The
+judicial task is to read words, not minds.”114 The argument strays into
+telepathy, and it cannot overcome § 120(a)’s plain meaning.
+        In short, § 120(a) covers all pictorial representations—whether
+created for artistic, functional, or mixed purposes.
+
+
+
+
+        _____________________
+        110
+           See Taniguchi v. Kan Pac. Saipan, Ltd., 566 U.S. 560, 571 (2012) (“As we have
+said before, it is a normal rule of statutory construction that identical words used in
+different parts of the same act are intended to have the same meaning.” (cleaned up)).
+        111
+              17 U.S.C. § 120(a).
+        112
+              Designworks, 9 F.4th at 810.
+        113
+              Id.
+        114
+           FS Credit Opportunities Corp. v. Saba Cap. Master Fund, Ltd., 146 S. Ct. 1546,
+1557 n.5 (2026).
+
+
+
+
+                                             25
+Case: 23-50750            Document: 88-1        Page: 26   Date Filed: 08/21/2026
+
+
+
+
+                                    No. 23-50750
+
+
+              b. Pre-Construction Images
+       Next, KFA argues that § 120(a) does not apply to pictorial
+representations created before the building embodying the work was
+constructed. Once again, I disagree. True, § 120(a) applies only once the
+“architectural work . . . has been constructed.”115 But that temporal
+limitation does not invariably depend on when the pictorial representation
+was created (as KFA contends). Rather, it depends on when the act giving
+rise to potential liability—whether that act be “making, distributing, or
+public[ly] display[ing]” the pictorial representation116—occurred.
+       I start by addressing KFA’s broadest argument: that § 120(a) applies
+only to pictures created by viewing the constructed building. On this reading,
+§ 120(a)’s applicability turns not on the when but on the how: if a pictorial
+representation is made in some way other than by viewing the building in
+which the work is embodied, it is not protected. The problem with this
+reading is that nothing in the statutory text asks how the pictorial
+representation was made. Instead, it asks simply whether the “architectural
+work . . . has been constructed” and whether “the building in which the work
+is embodied is located in or ordinarily visible from a public place.”117 Those
+are questions about the work and the building embodying it, not about the
+pictorial representation. Section 120(a)’s applicability turns on the when, not
+the how.
+       The text reveals what must happen after construction for § 120(a) to
+apply: the “making, distributing, or public display” that the copyright holder
+
+
+       _____________________
+       115
+             17 U.S.C. § 120(a).
+       116
+             Id.
+       117
+             Id.
+
+
+
+
+                                           26
+Case: 23-50750                Document: 88-1        Page: 27   Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+seeks “to prevent”118 (or, in a damages suit, to impose liability for). That
+understanding comports with the general understanding of when copyright
+infringement occurs. For statute-of-limitations purposes, for example, a
+claim accrues “when an infringing act occurs.”119 And “when a defendant
+commits successive violations, the statute of limitations runs separately from
+each violation.”120 The text suggests that § 120(a) works the same way: we
+assess whether the work “has been constructed” at the time of the “making,
+distributing, or public display” at issue.
+          KFA’s counterargument—that this interpretation allows “pre-
+existing infringing images” to be “magically transmuted into legal
+non-infringing ones”—is unavailing. Section 120(a) does not operate on an
+image-by-image level. Instead, it operates on an action-by-action level. If the
+“making, distributing, or public display” is covered by § 120(a), the
+defendant is not liable for that “making, distributing, or public display.”
+Although § 120(a) does not retroactively immunize actions that were
+infringing when taken, it also does not allow a defendant to be held liable for
+later actions that would otherwise be covered simply because he had
+previously committed unprotected infringement. The question remains
+whether the specific actions of purported infringement occurred before or
+after § 120(a) kicked in.
+          Here, the district court took judicial notice that each of KFA’s works
+had been constructed at least once by 2018.121 But the complaint is silent as
+          _____________________
+          118
+                Id.
+          119
+                Petrella v. Metro-Goldwyn-Mayer, Inc., 572 U.S. 663, 670 (2014) (emphasis
+added).
+          120
+                Id. at 671.
+          121
+           Because KFA does not challenge the district court’s decision to take judicial
+notice, we take it as a given.
+
+
+
+
+                                               27
+Case: 23-50750              Document: 88-1           Page: 28      Date Filed: 08/21/2026
+
+
+
+
+                                           No. 23-50750
+
+
+to when the “making, distributing, or public display” occurred. For Rule
+12(b)(6) purposes, therefore, the key question is who bears the burden of
+pleading that § 120(a) is inapplicable. If § 120(a) is an element of KFA’s
+cause of action, then KFA had to plead that the “making, distributing, or
+public display” occurred before 2018. If, by contrast, § 120(a) is an
+affirmative defense, then it is “not something the plaintiff must anticipate
+and negate in her pleading.”122 Rather, it would be “incumbent on the
+defendant to plead” § 120(a)’s applicability.123 In that case, a Rule 12(b)(6)
+dismissal is appropriate only if “the affirmative defense appears on the face
+of the complaint.”124
+        Section 120(a) is best classified as an affirmative defense. “There is a
+well-settled general rule of statutory construction that the burden of proving
+justification or exemption under a special exception to the prohibitions of a
+statute generally rests on one who claims its benefits.”125 Accordingly, we
+have recognized that “[s]tatutory exemptions . . . must be pleaded as
+affirmative defenses.”126 “That longstanding convention is part of the
+backdrop against which the Congress writes laws, and we respect it unless we
+have compelling reasons to think that Congress meant to put the
+burden . . . on the other side.”127 I see no such compelling reasons here. The
+
+        _____________________
+        122
+              Perry v. Merit Sys. Prot. Bd., 582 U.S. 420, 435 n.9 (2017).
+        123
+              Taylor v. Sturgell, 553 U.S. 880, 907 (2008) (emphasis added).
+        124
+              3 Star Props., 6 F.4th at 604.
+        125
+              Cunningham v. Cornell Univ., 604 U.S. 693, 701 (2025) (cleaned up).
+        126
+           Crown Castle Fiber, L.L.C. v. City of Pasadena, 76 F.4th 425, 438–39 (5th Cir.
+2023); see Oden v. Oktibbeha County, 246 F.3d 458, 467 n.10 (5th Cir. 2001) (noting the
+many “cases concluding that statutory exemptions should be pleaded as affirmative
+defenses”).
+        127
+              Meacham v. Knolls Atomic Power Lab’y, 554 U.S. 84, 91–92 (2008).
+
+
+
+
+                                                28
+Case: 23-50750              Document: 88-1           Page: 29   Date Filed: 08/21/2026
+
+
+
+
+                                            No. 23-50750
+
+
+timing element confirms the point: whether the work “has been
+constructed” when the challenged act occurs is a component of the § 120(a)
+safe harbor a defendant invokes to escape liability , not an element of KFA’s
+infringement claim—so it is the defendant’s to establish , not KFA’s to
+negate. Indeed, treating § 120(a) as an affirmative defense simply comports
+with how the other exceptions spelled out in the Copyright Act are treated.128
+        Because § 120(a) is an affirmative defense, KFA had no obligation to
+“anticipate and negate” it in the complaint.129 Instead, dismissal was
+appropriate only if the elements of the § 120(a) defense—including that the
+“making, distributing, or public display” occurred after the work had “been
+constructed”130—“appear[] on the face of the complaint.”131 Here, the
+complaint was silent as to when the infringing actions occurred. If § 120(a)
+was an element of the cause of action, that silence might have required
+dismissal.132 But because § 120(a) is an affirmative defense, silence prevents
+dismissal.
+        Because it does not appear on the face of the complaint whether any
+of the allegedly infringing acts occurred before the works were constructed,
+
+        _____________________
+        128
+            See 3 William F. Patry, Patry on Copyright § 8:22 (“Entitlement
+to those limitations is an affirmative defense; thus, in order to make out a prima facie case
+of infringement, the plaintiff need only prove ownership of a valid copyright, ownership of
+the right that was infringed, and violation of the right by defendant. The defendant bears
+the burden of proving its acts were privileged, licensed, or exempt.”); Andy Warhol Found.
+for the Visual Arts, Inc. v. Goldsmith, 598 U.S. 508, 547 n.21 (2023) (“[F]air use is an
+affirmative defense . . . .”);
+        129
+              Perry, 582 U.S. at 435 n.9.
+        130
+              17 U.S.C. § 120(a).
+        131
+              3 Star Props., 6 F.4th at 604.
+        132
+             See Twombly, 550 U.S. at 557 (noting that allegations “merely consistent with”
+liability are not sufficient to withstand a motion to dismiss).
+
+
+
+
+                                                29
+Case: 23-50750       Document: 88-1         Page: 30    Date Filed: 08/21/2026
+
+
+
+
+                                  No. 23-50750
+
+
+the district court erred in dismissing KFA’s architectural-works copyright
+claims under § 120(a).
+       3. Contributory Infringement
+       AHV points to one potential alternative ground for affirming the
+dismissal of the claims against it: KFA’s failure to allege facts supporting
+contributory infringement. The district court, however, did not reach this
+argument—instead resting its dismissal of this claim on its conclusion that
+there was no direct infringement. It is not necessary to decide this issue in
+the first instance. That task is best left to the district court on remand.
+   B. Digital Millenium Copyright Act
+       I turn next to the DMCA claims. KFA argues that the defendants
+violated § 1202(b) by creating and distributing floorplans and digital
+renderings that did not contain KFA’s CMI. The district court dismissed
+the DMCA claims, reasoning that failure to include KFA’s CMI on
+newly-created floorplans and renderings does not qualify as “remov[ing]”
+the CMI. It also rejected KFA’s argument that the License Agreements
+prevented the defendants from arguing that their conduct did not violate the
+DMCA, reasoning that “private parties cannot rewrite the elements of a
+statute via contract.” I agree with both conclusions.
+           1. License Agreements
+       Start with KFA’s threshold objection: that the License Agreements
+prevent the defendants from arguing that their conduct did not violate
+§ 1202(b). This argument fails for a simple reason: “litigants cannot bind us
+
+
+
+
+                                       30
+Case: 23-50750             Document: 88-1            Page: 31   Date Filed: 08/21/2026
+
+
+
+
+                                         No. 23-50750
+
+
+to an erroneous interpretation of federal legislation.”133 We must determine
+for ourselves whether the conduct alleged violates § 1202(b).
+        KFA attempts to circumvent that principle by invoking the doctrine
+of estoppel by contract. Estoppel by contract is “a form of quasi-estoppel”
+that “preclude[s] a person from asserting, to another’s disadvantage, a right
+inconsistent with a position previously taken.”134 It comes in two forms.135
+The first—“estoppel arising from acts done under, or in performance of the
+contract”136—is inapplicable because KFA asserts estoppel based on the
+License Agreements themselves, not acts done under or in performance of it.
+The second—“estoppel to deny facts settled by contract”137—is likewise
+inapplicable because the correct interpretation of § 1202(b) is not a “fact”—
+it is a pure question of law.
+        KFA’s reliance on the Tenth Circuit’s decision in Cellport Systems,
+Inc. v. Peiker Acustic GMBH & Co. KG is misplaced.138 KFA cites Cellport
+Systems for its conclusion that “no [patent] infringement analysis [was]
+necessary” in light of the parties’ contractual acknowledgement that the
+defendant would owe royalties on the products at issue.139 But Cellport
+        _____________________
+        133
+           Nat’l Aeronautics & Space Admin. v. Fed. Lab. Rels. Auth., 527 U.S. 229, 245 n.9
+(1999); accord, e.g., United States v. Navarro, 54 F.4th 268, 274 n.3 (5th Cir. 2022) (“A
+court is not bound by the parties’ stipulations of law, particularly when those stipulations
+are erroneous.” (citation omitted)).
+        134
+              Salas v. LNV Corp., 409 S.W.3d 209, 217 n.2 (Tex. App. 2013).
+        135
+          31 C.J.S. Estoppel and Waiver § 70 (2026) (“There are two forms of what has
+been termed ‘estoppel by contract,’ . . . .”); accord O’Connor’s Texas Causes of
+Action, ch. 49-A, § 2.4 (“There are two kinds of estoppel by contract[.]”).
+        136
+              31 C.J.S. Estoppel and Waiver § 70.
+        137
+              Id.
+        138
+              762 F.3d 1016 (10th Cir. 2014).
+        139
+              See id. at 1022–23.
+
+
+
+
+                                                31
+Case: 23-50750               Document: 88-1           Page: 32      Date Filed: 08/21/2026
+
+
+
+
+                                           No. 23-50750
+
+
+Systems was not an infringement suit—it was a breach-of-contract case.140 An
+infringement analysis was unnecessary not because statutory liability could
+be    imposed           without      conducting       that    analysis     but   because   a
+breach-of-contract suit does not require infringement.141 Here, by contrast,
+KFA’s claim is not for breach of contract but for a violation of § 1202(b)
+itself.
+          KFA’s other examples all involve either (1) a factual question or (2) a
+defense or procedural right that can be waived. For example, KFA points to
+contractual stipulations that a given fact in a financial statement will be
+considered “material” in a subsequent securities fraud suit.142 Materiality,
+however, often involves determinations that “are peculiarly . . . for the trier
+of fact.”143 And “[p]arties can stipulate to issues of fact.”144 KFA’s analogy
+to forum-selection clauses is likewise inapposite because improper venue is a
+procedural defense that can be waived.145 The proper interpretation of
+§ 1202(b), by contrast, is a pure question of law. And parties “cannot by
+stipulation amend the law.”146
+
+
+
+          _____________________
+          140
+            Id. at 1023 (“The complaint states contract claims, and those claims do not
+necessarily rely on patent law.”).
+          141
+           Id. (noting that the License Agreement required the defendant to pay royalties
+“[b]y its own force”).
+          142
+            See generally 3 Alan R. Bromberg & Lewis D. Lowenfels,
+Bromberg & Lowenfeld on Securities Fraud § 8.8 et seq. (2d ed. 2026)
+(discussing the materiality requirement).
+          143
+                TSC Indus., Inc. v. Northway, Inc., 426 U.S. 438, 450 (1976).
+          144
+                Alexander v. S.C. State Conf. of the NAACP, 602 U.S. 1, 19 n.6 (2024).
+          145
+                See Fed. R. Civ. P. 12(h).
+          146
+                Alexander, 602 U.S. at 19 n.6.
+
+
+
+
+                                                 32
+Case: 23-50750              Document: 88-1            Page: 33   Date Filed: 08/21/2026
+
+
+
+
+                                           No. 23-50750
+
+
+        Nevertheless, KFA suggests that the License Agreement controls
+because courts have divided over the correct interpretation of § 1202(b).147
+However, it cites no authority for the proposition that a split of authority
+allows parties to stipulate to the meaning of federal statutes. KFA’s broader
+policy concern—that the rule forbidding parties from stipulating to an
+incorrect legal interpretation prevents the parties from obtaining certainty—
+is also misplaced. Parties remain free to use contracts to clarify (or, in some
+cases, modify) their obligations to one another. If one party wants to impose
+duties on the other that the law might not otherwise impose, she can insist on
+including that duty in the contract. But when that duty is breached, the
+resulting cause of action will be for breach of contract—not for a statutory
+violation. (This is precisely what occurred in Cellport Systems, on which KFA
+relies.)148 Similarly, if one party wants to avoid liability to the other, she can
+insist on a prospective liability waiver149—so long as the waiver does not
+violate public policy.150 But once again, the remedy will be contractual, not
+statutory.
+
+
+
+        _____________________
+        147
+            The parties dispute whether there is a true split of authority as to the correct
+interpretation of § 1202(b). Because any split is irrelevant to the question before us, it is
+not necessary to answer that question.
+        148
+              See Cellport Sys., Inc., 762 F.3d at 1023.
+        149
+           See Keck, Mahin & Cate v. Nat’l Union Fire Ins. Co. of Pittsburgh, 20 S.W.3d 692,
+698 (Tex. 2000) (“[A] valid release may encompass unknown claims and damages that
+develop in the future.”).
+        150
+           Examples of waivers that violate public policy include waivers of liability under
+Title VII, see Rogers v. Gen. Elec. Co.¸781 F.2d 452 (5th Cir. 1986), or the FLSA, see
+Barrentine v. Ark.-Best Freight Sys., Inc., 450 U.S. 728, 740 (1981), or for gross negligence,
+see Zachry Constr. Corp. v. Port of Hou. Auth. of Harris Cnty., 449 S.W.3d 98, 116 (Tex.
+2014). I express no view on whether prospective waivers of DMCA liability violate public
+policy. I note, however, that even if such waivers are invalid, a similar result could be
+achieved by the copyright holder granting the other party authorization. See 17 U.S.C.
+
+
+
+
+                                                 33
+Case: 23-50750            Document: 88-1          Page: 34      Date Filed: 08/21/2026
+
+
+
+
+                                        No. 23-50750
+
+
+       Parties retain broad freedom to structure their interactions using
+contracts. But that freedom does not include an unfettered right to turn
+contractual violations into statutory ones. Although KFA frames the district
+court’s choice to interpret § 1202(b) for itself as a judicial power grab, the
+district court did no more than “say what the law is”—which is
+“emphatically” its “province and duty.”151 That was not error.
+              2. DMCA Removal
+       Of course, that the district court did not err by interpreting § 1202(b)
+does not mean that it interpreted the statute correctly. Thus, we must
+exercise our province and duty to say whether the district court got it right.
+On that score, the key question is whether § 1202(b)’s prohibition on
+removal also creates an affirmative obligation to add CMI where it was not
+present to begin with. I agree with the district court that it does not.
+       Section 1202(b) provides:
+       No person shall, without the authority of the copyright owner
+       or the law—
+       (1) intentionally remove or alter any copyright management
+       information,
+       (2) distribute or import for distribution copyright management
+       information knowing that the copyright management
+       information has been removed or altered without authority of
+       the copyright owner or the law, or
+       (3) distribute, import for distribution, or publicly perform
+       works, copies of works, or phonorecords, knowing
+
+       _____________________
+§ 1202(b) (requiring that the violation occur “without the authority of the copyright
+owner”).
+       151
+             Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177 (1803).
+
+
+
+
+                                             34
+Case: 23-50750            Document: 88-1        Page: 35      Date Filed: 08/21/2026
+
+
+
+
+                                      No. 23-50750
+
+
+        that copyright management information has been removed or
+        altered without authority of the copyright owner or the law,
+        knowing, or, with respect to civil remedies under section 1203,
+        having reasonable grounds to know, that it will induce, enable,
+        facilitate, or conceal an infringement of any right under this
+        title.152
+        KFA’s theory is not entirely clear; its brief never says which
+paragraph of § 1202(b) the DMCA claim arises under. However, each
+paragraph requires that the CMI be “removed” or “altered.” Because the
+statute does not define either term, I look to the ordinary meaning.153
+        The word “remove” has several definitions, ranging from “[t]o move
+from a place or position occupied”154 to “[t]o transfer or convey from one
+place to another”155 to “to take away, withdraw, or eliminate.”156 One
+        _____________________
+        152
+              17 U.S.C. § 1202(b).
+        153
+            See HollyFrontier Cheyenne Refin., LLC v. Renewable Fuels Ass’n, 594 U.S. 382,
+388 (2021) (“Where Congress does not furnish a definition of its own, we generally seek to
+afford a statutory term its ordinary or natural meaning.” (cleaned up)).
+        154
+           Remove, American Heritage Dictionary, 3d, supra, at 1527; see also
+Remove, 13 The Oxford English Dictionary, supra, at 602 (“To move or shift
+from or out of the place occupied;”); Remove, The Random House Dictionary of
+the English Language, supra, at 1630 (“to move from a place or position”); Remove,
+Webster’s New World College Dictionary, supra, at 1136 (“to move
+(something) from where it is”).
+        155
+           Remove, American Heritage Dictionary, 3d, supra, at 1527; see also
+Remove, 13 The Oxford English Dictionary, supra, at 602 (“To move, shift,
+transfer, or convey from one place to another;”); Remove, The Random House
+Dictionary of the English Language, supra, at 1630 (“to move or shift to
+another place or position, transfer”); Remove, Webster’s New World College
+Dictionary, supra, at 1136 (“lift, push, transfer, or carry away, or from one place to
+another”); Remove, Merriam-Webster’s Collegiate Dictionary, supra,
+at 990 (“to change the location, position, station, or residence of”).
+        156
+       Remove, The Random House Dictionary of the English
+Language, supra, at 1630; see also Remove, American Heritage Dictionary,
+
+
+
+
+                                           35
+Case: 23-50750           Document: 88-1           Page: 36      Date Filed: 08/21/2026
+
+
+
+
+                                       No. 23-50750
+
+
+dictionary defines it as simply “to take off.”157 There is no need to settle on
+a particular definition, because each has a common thread: the object of the
+verb was there before it was removed, but once it is removed it is no longer
+there.
+           Similarly, dictionaries define “alter” as “[t]o change or make
+different; modify.”158 This, of course, presumes that the thing being altered
+was present in the first place. Indeed, some definitions specify that altering
+something must not “chang[e] [it] into something else.”159 “Alter,” then,
+does not refer to creation (or failure to create)—it refers to changes made to
+something already present.
+           In short, both “remove” and “alter” require something that was
+present but is now either not present at all or remains present but has been
+
+           _____________________
+3d, supra, at 1527 (“To do away with; eliminate”); Remove, 13 The Oxford English
+Dictionary, supra, at 602 (“To take away, withdraw, from a place, person, etc.”);
+Remove, Webster’s New World College Dictionary, supra, at 1136 (“to do
+away with, specif., . . . to get rid of; eliminate”).
+           157
+                 Remove, Webster’s New World College Dictionary, supra,
+at 1136.
+           158
+           Alter, American Heritage Dictionary, 3d, supra, at 55; see also Alter,
+1 The Oxford English Dictionary, supra, at 365 (“To make (a thing) otherwise
+or different in some respect; to make some change in character, shape, condition, position,
+quantity, value, etc. without changing the thing itself for another; to modify, to change the
+appearance of.”); Alter, The Random House Dictionary of the English
+Language, supra, at 60 (“to make different in some particular, as size, style, course, or
+the like; modify”), Alter, Merriam-Webster’s Collegiate Dictionary, supra,
+at 34 (“to make different without changing into something else”); Alter, Webster’s
+New World College Dictionary, supra, at 40 (“to make different in details but
+not in substance; modify”).
+           159
+           Alter, Merriam-Webster’s Collegiate Dictionary, supra, at 34;
+see also Alter, 1 The Oxford English Dictionary, supra, at 365 (“without
+changing the thing itself for another”); Alter, Webster’s New World College
+Dictionary, supra, at 40 (“to make different in details but not in substance”).
+
+
+
+
+                                             36
+Case: 23-50750          Document: 88-1           Page: 37      Date Filed: 08/21/2026
+
+
+
+
+                                       No. 23-50750
+
+
+changed in some way. That is not what happened here. KFA’s CMI was
+present on the copies of its works that it sent to AHV and, so far as the
+complaint says, remains there unaltered. And KFA’s CMI was never
+present on the floorplans and digital renderings, so it cannot have been
+removed or altered. That dooms KFA’s DMCA claims.
+        KFA makes several counterarguments, but none persuade.
+        First, KFA points to a single allegation stating that the floorplans and
+digital renderings were “copies of KFA’s architectural works that had
+KFA’s [CMI] removed or altered.” This allegation, KFA argues, must be
+taken as true, requiring us to conclude that the defendants removed KFA’s
+CMI. This argument misunderstands the pleading standard. True, we must
+take the complaint’s factual allegations as true.160 But the same is not true of
+the complaint’s legal conclusions, which we not only may but must
+disregard.161 Thus, “[t]hreadbare recitals of the elements of a cause of action,
+supported by mere conclusory statements, do not suffice.”162 KFA’s
+allegation—which merely parrots the statutory text without alleging
+underlying facts—is a textbook legal conclusion. It thus cannot help them
+clear the Rule 8(a)(2) bar.163
+
+
+
+        _____________________
+        160
+          See Iqbal, 556 U.S. at 679 (“When there are well-pleaded factual allegations, a
+court should assume their veracity . . . .”); Neitzke v. Williams, 490 U.S. 319, 327 (1989)
+(“What Rule 12(b)(6) does not countenance are dismissals based on a judge’s disbelief of
+a complaint’s factual allegations.”).
+        161
+            See Iqbal, 556 U.S. at 678 (“[T]he tenet that a court must accept as true all of
+the allegations contained in a complaint is inapplicable to legal conclusions.”).
+        162
+              Id.
+        163
+          See Spinelli v. Nat’l Football League, 903 F.3d 185, 205 (2d Cir. 2018) (“The
+conclusory allegation to the effect of ‘CMI was removed’ will not suffice.”).
+
+
+
+
+                                            37
+Case: 23-50750               Document: 88-1        Page: 38      Date Filed: 08/21/2026
+
+
+
+
+                                          No. 23-50750
+
+
+          Second, KFA argues at length that the floorplans and digital
+renderings are “copies” of its architectural works, as § 101 defines “copies.”
+But even granting that premise for sake of argument, it does not rescue
+KFA’s DMCA claims. Section 1202(b) uses “copies” only in paragraph
+(b)(3),         which     makes      it   unlawful       to   “distribute . . . copies   of
+works . . . knowing that [CMI] has been removed or altered without
+authority of the copyright owner or the law.”164 But as discussed above, even
+assuming the floorplans and digital renderings are copies, they never had
+KFA’s CMI to begin with and so no CMI was “removed” or “altered.”
+          Third, KFA argues that the district court’s interpretation improperly
+removes derivative works from § 1202(b)’s scope. This, KFA insists, reads
+an additional limitation into the DMCA, which “says nothing about limiting
+its scope to removal of copyright management from ‘original works.’” This
+argument misunderstands the district court’s holding. Section 1202(b)’s
+plain text does not focus on whether the accused copy is identical to the copy
+that contained CMI. Instead, it asks simply what has been done to the CMI:
+has it been removed or altered? If the answer is yes, DMCA liability will
+attach (assuming the other elements are satisfied)—whether or not the
+accused copy is identical to the copy in connection with which the CMI was
+conveyed. Requiring removal or alteration is not rewriting the statute;
+dispensing with that requirement is.
+          Finally, KFA charges that requiring literal removal or alteration
+would “reduce . . . § 1202(b) to meaningless ashes.” To illustrate the
+supposed absurdity, KFA posits a hypothetical. Suppose that a copy of a
+poem contains a copyright notice at the bottom of the page. However, instead
+of cutting out the copyright notice, the defendant instead retypes the poem,
+
+          _____________________
+          164
+                17 U.S.C. § 1202(b)(3).
+
+
+
+
+                                              38
+Case: 23-50750          Document: 88-1           Page: 39      Date Filed: 08/21/2026
+
+
+
+
+                                       No. 23-50750
+
+
+excluding the CMI. By requiring removal or alteration, KFA insists, the
+plagiarist escapes § 1202(b) liability merely by using a keyboard instead of
+scissors. But the keyboard-using plagiarist is just as liable under § 1202(b)’s
+plain meaning as the scissors-using plagiarist. Reproducing everything but
+the CMI removes CMI just as surely as erasing it does. But again, that is not
+what happened here: the floorplans and digital renderings do not reproduce
+any part of the copies of KFA’s works to which the CMI was affixed.165
+        This case provides no occasion to consider the outer limits of liability
+based on substantial or complete reproduction of the work to which the CMI
+was affixed but omitting the CMI. Wherever the line is, the floorplans and
+digital renderings here—which are in an entirely different medium than the
+architectural works and technical drawings that contained the CMI—fall
+well short of it.
+                                  V. Conclusion
+        We AFFIRM the dismissal of KFA’s DMCA claims. However, we
+VACATE the dismissal of KFA’s copyright infringement claims and
+REMAND for further proceedings.
+
+
+
+
+        _____________________
+        165
+           See Fischer v. Forrest, 286 F. Supp. 3d 590, 609 (S.D.N.Y. 2018) (“In those cases
+where claims of removal of CMI have been held viable, the underlying work has been
+substantially or entirely reproduced.”).
+
+
+
+
+                                            39
+Case: 23-50750        Document: 88-1         Page: 40    Date Filed: 08/21/2026
+
+
+
+
+                                   No. 23-50750
+
+
+Andrew S. Oldham, Circuit Judge, dissenting:
+       The plaintiff moved to dismiss some but not all of its claims under
+Federal Rule of Civil Procedure 41(a)(2). The district court granted that
+motion. The question presented is whether that gives us appellate
+jurisdiction. It does not. So I respectfully dissent.
+                                        I
+       Kipp Flores Architects, LLC (“Kipp Flores”) sued American
+Housing Ventures, LLC, AMH Creekside Development, LLC, and
+American Homes 4 Rent over their alleged use of Kipp Flores’s designs and
+plans for residential homes. Kipp Flores brought several claims against each
+defendant.
+       All three defendants moved to dismiss. The district court granted
+each defendant’s motion on some claims but left Kipp Flores with at least
+one claim against each defendant.
+       Kipp Flores wanted to appeal the district court’s partial-dismissal
+ruling. See Blue Br. at 3–4. But Kipp Flores faced a problem: Generally, a
+party may only appeal a “final decision[],” 28 U.S.C. § 1291, and that
+generally requires resolution of all claims against all parties, see Sears, Roebuck
+& Co. v. Mackey, 351 U.S. 427, 431–34 (1956). So what to do with the still-
+pending claims?
+       Kipp Flores tried to “dismiss” the rest of its claims under Federal
+Rule of Civil Procedure 41. ROA 1131. The problem is that Rule 41 only
+allows plaintiffs to dismiss “an action”—not claims that are part of an action.
+Fed. R. Civ. P. 41(a). Therefore, the district court should have denied
+Kipp Flores’s Rule 41 motion because it asked for something Rule 41 plainly
+does not allow. Under binding Fifth Circuit precedent, “an invalid Rule 41(a)
+dismissal is a nullity.” Williams v. Seidenbach, 958 F.3d 341, 345 (5th Cir.
+
+
+
+
+                                        40
+Case: 23-50750        Document: 88-1        Page: 41   Date Filed: 08/21/2026
+
+
+
+
+                                  No. 23-50750
+
+
+2020) (en banc). That means the claims purportedly dismissed under Rule
+41 are still “pending in district court.” Ibid. (quotation omitted). And it
+means there is no final decision in the district court, and hence no appellate
+jurisdiction in this one.
+                                       II
+       We lack jurisdiction as a matter of both (A) text and (B) precedent.
+And (C) Judge Willett’s arguments to the contrary are unavailing.
+                                       A
+       The text of Rule 41 shows that this court lacks jurisdiction. Rule 41
+provides that “an action may be dismissed at the plaintiff’s request only by
+court order.” Fed. R. Civ. P. 41(a)(2) (emphasis added). An action is a
+“civil . . . judicial proceeding.” Action, Black’s Law Dictionary
+(12th ed. 2024) (def. 4). It’s “the entire lawsuit, not just one part of it.”
+Williams, 958 F.3d at 360 (Oldham, J., dissenting). A claim, by contrast,
+is a “part of a complaint in a civil action.” Claim, Black’s Law
+Dictionary (12th ed. 2024) (def. 3). So Rule 41 allows a plaintiff to
+dismiss his entire lawsuit, not specific claims. No amount of interpretive
+sophistry can change this fact: “We give the Federal Rules of Civil Procedure
+their plain meaning.” Pavelic & LeFlore v. Marvel Ent. Grp., 493 U.S. 120, 123
+(1989). Thus, the district court could not have dismissed Kipp Flores’s
+remaining claims against each defendant under Rule 41.
+                                       B
+       Precedent confirms what the text of Rule 41 says. As this court has
+long understood, “[w]hen Rule 41(a) refers to dismissal of an ‘action’, there
+is no reason to suppose that the term is intended to include the separate
+claims which make up an action.” Exxon Corp. v. Md. Cas. Co., 599 F.2d 659,
+662 (5th Cir. 1979) (quotation omitted). Thus, a plaintiff cannot use Rule 41
+to “unilaterally . . . withdraw” a claim from court; rather, that claim “is still
+
+
+
+
+                                       41
+Case: 23-50750       Document: 88-1        Page: 42    Date Filed: 08/21/2026
+
+
+
+
+                                 No. 23-50750
+
+
+pending in district court.” Id. at 663. Thus, the district court should have
+denied Kipp Flores’s Rule 41 motion because it moved for dismissal of only
+some claims against each defendant.
+       The holding in Exxon is no outlier. In Williams v. Seidenbach, plaintiffs
+sued 24 defendants. 958 F.3d at 344. Some of the defendants won at summary
+judgment, and the plaintiffs wanted to appeal. Ibid. So they moved to
+voluntarily dismiss the remaining defendants under Rule 41(a). Ibid. The
+district court purported to grant that motion. Then, the plaintiffs moved for
+partial final judgment under Rule 54(b) on the claims against several
+defendants who had won at summary judgment. See ibid. The district court
+granted that motion, and the plaintiffs appealed. Ibid.
+       The dissenting opinion raised a potential jurisdictional problem: Rule
+41(a)’s plain text suggests a plaintiff may only dismiss “an action,” not
+individual defendants. Id. at 360–61 (Oldham, J., dissenting). The
+majority opinion did not dispute that reading of the Rule’s text. See Williams,
+958 F.3d at 344–45 (majority opinion). And the majority cited Exxon for the
+proposition that it would be “impermissible” to use Rule 41 to
+“dismiss[] . . . individual claims.” Id. at 345 (citing Exxon, 599 F.2d at 662–
+63). Then the majority explained that, if the district court granted such an
+impermissible or “invalid” Rule 41 motion, the resulting dismissal would be
+a “nullity.” Ibid. And as a result, “the claims against the purportedly
+dismissed defendants would still be ‘pending in district court.’” Ibid.
+(quoting Exxon, 599 F.2d at 663). That controls this case.
+       So too with National Horsemen’s Benevolent and Protective Ass’n v.
+Black, 53 F.4th 869 (5th Cir. 2022). After a group of plaintiffs brought a host
+of claims, the defendants moved to dismiss. See id. at 875. An intervener then
+brought some of the same claims as the other plaintiffs and an additional
+“anti-commandeering claim.” Ibid. The district court granted the motion to
+
+
+
+
+                                      42
+Case: 23-50750         Document: 88-1           Page: 43     Date Filed: 08/21/2026
+
+
+
+
+                                     No. 23-50750
+
+
+dismiss. Ibid. But it did not dismiss the intervenor’s anti-commandeering
+claim. Ibid. Then, the intervenor sought to voluntarily dismiss that remaining
+claim under Rule 41. Ibid. And the district court purported to enter final
+judgment. Ibid. The plaintiffs appealed. Id. at 875–76.
+        The Fifth Circuit held that the “notice of appeal was premature.” Id.
+at 878. Although the district court had purported to enter final judgment, that
+“final judgment was invalid.” Ibid. As the court explained, “Rule 41(a) does
+not allow dismissal of individual claims.” Id. at 878 n.15. So while the court
+“purported to dismiss . . . Texas’s anti-commandeering claim under Rule
+41(a),” the claim was still pending in district court. Ibid. (emphasis added).
+        So if Rule 41’s text weren’t enough, Fifth Circuit precedent controls
+this case.1 The district court purported to grant an order dismissing only
+certain claims against each defendant. That was “invalid” and a “nullity.”
+Williams, 958 F.3d at 345. So the claims were not dismissed but remain
+“pending in district court.” Ibid. (quotation omitted). Thus, there was no
+final decision for Kipp Flores to appeal. The text of Rule 41 and Exxon,
+Williams, and National Horsemen’s compel this result.
+                                           C
+        The majority says we have appellate jurisdiction—but there is no
+majority opinion to explain why. Judge Willett, speaking only for
+himself, says Exxon, Williams, and National Horsemen’s are all irrelevant
+because their holdings are mere dicta. Ante, at 9–12. If there were a majority
+opinion to that effect, I would have much to say about it. As it is, I’ll let our
+cases speak for themselves.
+
+        _____________________
+        1
+          This plain-text interpretation of Rule 41 is in good company. See Williams, 958
+F.3d at 361 (Oldham, J., dissenting) (collecting alike cases from the Eleventh, Seventh,
+and Second Circuits).
+
+
+
+
+                                           43
+Case: 23-50750        Document: 88-1        Page: 44    Date Filed: 08/21/2026
+
+
+
+
+                                  No. 23-50750
+
+
+       Judge Willett’s other contention is that “a district court’s
+misapplication of the Rules [cannot] strip us of jurisdiction to correct it.”
+Ante, at 8. But with greatest respect, that is not true. A district court can
+misapply Rule 12 or Rule 56 and refuse to dismiss a case, but we’d lack
+jurisdiction to review it. See 15A Charles Alan Wright, Arthur R.
+Miller, & Edward H. Cooper, Federal Practice and
+Procedure, § 3905 (3d ed. 2026 update) [hereinafter “Wright &
+Miller”]. A district court can improperly refuse to enter judgment under
+Rule 54(b), and that’s not reviewable. See id. § 3914.7. A district court can
+improperly refuse to certify a decision under 28 U.S.C. § 1292(b), and that’s
+not reviewable. See id. § 3929; In re Mesaros, No. 23-50593 (5th Cir. Aug. 28,
+2023); In re Park, No. 23-50585 (5th Cir. Sep. 13, 2023). In each of these
+examples, the district court did something that it should not have done. For
+example, the district court in Mesaros “unquestionably” erred in denying
+certification under § 1292(b). Mesaros, No. 23-50593, at 6 (emphasis in
+original); see also id. at 6–9 (collecting the district court’s errors). But those
+errors did not give appellate jurisdiction under § 1292(b). See Wright &
+Miller, § 3929. And we were compelled to allow the district court’s
+mistakes to stand. Mesaros, No. 23-50593, at 9–10.
+       I respectfully dissent.
+
+
+
+
+                                       44
+
